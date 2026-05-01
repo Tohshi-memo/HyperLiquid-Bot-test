@@ -13,6 +13,8 @@ exchange keys, position state, final trade signals, or execution logic.
 - Lightweight sentiment and risk scores
 - Aggregate large-flow alert data for unusual Polymarket-related attention
 - Lightweight all-symbol HyperLiquid price snapshots
+- HIP-3 builder-deployed perp snapshots, including `xyz` stock, index, metal,
+  commodity, and FX markets
 - Day/swing research snapshots for BTC, ETH, HYPE, and SOL
 
 Outputs are written to:
@@ -45,9 +47,11 @@ The full `day_swing_dataset.json` should be loaded only for deeper validation of
 a specific candidate rule.
 
 `asset_price_history.json` stores lightweight all-symbol HyperLiquid prices from
-`metaAndAssetCtxs`/`allMids`. It is the HyperLiquid equivalent of the MEXC
-scanner's compact market-context record: broad coverage first, deeper OHLCV
-features only for selected research symbols.
+`metaAndAssetCtxs`/`allMids`. By default it also includes HIP-3
+builder-deployed perps from `ASSET_UNIVERSE_HIP3_DEXS=xyz`, such as
+`xyz:AAPL`, `xyz:TSLA`, `xyz:NVDA`, `xyz:GOLD`, and `xyz:SP500`. It is the
+HyperLiquid equivalent of the MEXC scanner's compact market-context record:
+broad coverage first, deeper OHLCV features only for selected research symbols.
 
 ## Run Locally
 

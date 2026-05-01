@@ -533,9 +533,26 @@ def render_report(context: dict[str, Any]) -> str:
     asset_universe = context.get("asset_universe", {})
     asset_universe_lines = ""
     if isinstance(asset_universe, dict) and asset_universe.get("enabled"):
+        class_counts = asset_universe.get("asset_class_counts", {})
+        class_summary = ""
+        if isinstance(class_counts, dict) and class_counts:
+            class_summary = ", ".join(
+                f"{asset_class}:{count}"
+                for asset_class, count in sorted(class_counts.items())
+            )
+        hip3_dexes = asset_universe.get("hip3_dexes", [])
+        hip3_summary = ""
+        if isinstance(hip3_dexes, list) and hip3_dexes:
+            hip3_summary = ", ".join(
+                str(dex.get("name"))
+                for dex in hip3_dexes
+                if isinstance(dex, dict) and dex.get("enabled")
+            )
         asset_universe_lines = (
             f"- Asset universe count: `{asset_universe.get('asset_count')}`\n"
             f"- Asset price history records: `{asset_universe.get('history_records')}`\n\n"
+            f"- Asset classes: `{class_summary}`\n"
+            f"- HIP-3 dexes: `{hip3_summary}`\n\n"
         )
     return (
         "# Latest Crypto Context\n\n"
