@@ -75,7 +75,8 @@ signals, not direct trade instructions.
 The `docs/` directory contains a static, AI-free report dashboard for GitHub
 Pages. It reads copied compact JSON/Markdown from `docs/data/` and displays
 market status, canary signals, data readiness, BTC/ETH/HYPE/SOL stats,
-asset-class movement, and top movers.
+asset-class movement, top movers, top Polymarket markets, latest headlines,
+GDELT activity, and flow details.
 
 The site intentionally does not show private strategy, entries, SL/TP decisions,
 wallet data, positions, or execution status.

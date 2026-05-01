@@ -246,6 +246,9 @@ async function renderDashboard() {
 
     renderMetrics(index, context, flow, pack);
     renderCanary(canary);
+    renderIntelligence(context, flow);
+    renderGdelt(context);
+    renderFlowDetail(flow);
     renderSymbols(pack);
     renderAssetClasses(index, canary);
     renderMovers(assetReport);
@@ -257,3 +260,112 @@ async function renderDashboard() {
 
 renderDashboard();
 setInterval(renderDashboard, 5 * 60 * 1000);
+
+function renderIntelligence(context, flow) {
+  renderPolymarket(context, flow);
+  renderHeadlines(context);
+}
+
+function renderPolymarket(context, flow) {
+  const node = document.getElementById("polymarketList");
+  if (!node) return;
+  const flowMarkets = Array.isArray(flow?.polymarket?.top_markets) ? flow.polymarket.top_markets : [];
+  const contextMarkets = Array.isArray(context?.polymarket?.top_markets) ? context.polymarket.top_markets : [];
+  const markets = flowMarkets.length ? flowMarkets : contextMarkets;
+  node.innerHTML = markets.slice(0, 6).map((market) => {
+    const volume24h = market.volume_24h !== undefined ? market.volume_24h : market.volume;
+    const endDate = market.end_date || market.endDate;
+    return `
+      <article class="item-card">
+        <strong>${escapeHtml(market.question || market.title || "Untitled market")}</strong>
+        <div class="meta-line">
+          <span>24h vol ${fmtNumber(volume24h, 0)}</span>
+          <span>liquidity ${fmtNumber(market.liquidity, 0)}</span>
+        </div>
+        <div class="meta-line">
+          <span>end ${formatDate(endDate)}</span>
+          <span>${escapeHtml(market.slug || "")}</span>
+        </div>
+      </article>
+    `;
+  }).join("") || emptyCard("No active Polymarket markets.");
+}
+
+function renderHeadlines(context) {
+  const node = document.getElementById("headlinesList");
+  if (!node) return;
+  const headlines = Array.isArray(context?.news?.top_headlines) ? context.news.top_headlines : [];
+  node.innerHTML = headlines.slice(0, 8).map((item) => {
+    const title = escapeHtml(item.title || "Untitled headline");
+    const href = item.url ? escapeHtml(item.url) : "";
+    const titleHtml = href
+      ? `<a href="${href}" target="_blank" rel="noopener noreferrer">${title}</a>`
+      : title;
+    return `
+      <article class="item-card">
+        <strong>${titleHtml}</strong>
+        <div class="meta-line">
+          <span>${escapeHtml(item.source || "unknown source")}</span>
+          <span>${formatDate(item.published_at)}</span>
+        </div>
+      </article>
+    `;
+  }).join("") || emptyCard("No recent headlines.");
+}
+
+function renderGdelt(context) {
+  const node = document.getElementById("gdeltList");
+  if (!node) return;
+  const rows = Array.isArray(context?.gdelt?.queries) ? context.gdelt.queries : [];
+  const errors = Array.isArray(context?.errors) ? context.errors.filter((item) => String(item).startsWith("GDELT")) : [];
+  const activity = rows.map((row) => `
+    <div class="detail-row">
+      <span>${escapeHtml(row.query || "query")}</span>
+      <strong>${fmtNumber(row.latest_volume)} latest</strong>
+      <small>${fmtNumber(row.avg_volume)} avg / ${fmtNumber(row.points, 0)} points</small>
+    </div>
+  `).join("");
+  const errorRows = errors.map((error) => `
+    <div class="detail-row detail-row--warning">
+      <span>${escapeHtml(error)}</span>
+      <strong>warning</strong>
+      <small>GDELT can rate-limit or return no data.</small>
+    </div>
+  `).join("");
+  node.innerHTML = activity + errorRows || emptyCard("No GDELT activity.");
+}
+
+function renderFlowDetail(flow) {
+  const node = document.getElementById("flowDetailList");
+  if (!node) return;
+  const large = flow?.large_flows || {};
+  const poly = flow?.polymarket || {};
+  const rows = [
+    ["Dune status", large.enabled ? "enabled" : "not enabled", large.source_state || large.source_reason || "no source state"],
+    ["Large tx count", fmtNumber(large.large_usdc_tx_count, 0), "transactions"],
+    ["Large USDC inflow", fmtNumber(large.large_usdc_inflow, 0), "USDC"],
+    ["Max transfer", fmtNumber(large.max_large_usdc_transfer, 0), "USDC"],
+    ["Unique wallets", fmtNumber(large.unique_large_wallets, 0), "wallets"],
+    ["Inflow z-score", fmtNumber(large.inflow_zscore_7d), "7d baseline"],
+    ["Polymarket 24h volume", fmtNumber(poly.volume_24h, 0), "public markets"],
+    ["Polymarket z-score", fmtNumber(poly.volume_24h_zscore_7d), "7d baseline"],
+  ];
+  const errorRows = Array.isArray(flow?.errors) ? flow.errors : [];
+  node.innerHTML = rows.map(([label, value, note]) => `
+    <div class="detail-row">
+      <span>${escapeHtml(label)}</span>
+      <strong>${escapeHtml(value)}</strong>
+      <small>${escapeHtml(note)}</small>
+    </div>
+  `).join("") + errorRows.map((error) => `
+    <div class="detail-row detail-row--warning">
+      <span>${escapeHtml(error)}</span>
+      <strong>warning</strong>
+      <small>Flow source returned an issue.</small>
+    </div>
+  `).join("");
+}
+
+function emptyCard(message) {
+  return `<article class="item-card"><strong>${escapeHtml(message)}</strong></article>`;
+}

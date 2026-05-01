@@ -270,6 +270,87 @@ tbody tr:last-child td {
   gap: 16px;
 }
 
+.intel-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  gap: 16px;
+}
+
+.item-list,
+.detail-list {
+  display: grid;
+  gap: 8px;
+}
+
+.item-card,
+.detail-row {
+  min-width: 0;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--soft);
+}
+
+.item-card strong {
+  display: block;
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.item-card a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.item-card a:hover {
+  color: var(--blue);
+  text-decoration: underline;
+}
+
+.meta-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.meta-line span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.detail-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2px 12px;
+}
+
+.detail-row span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.detail-row strong {
+  font-size: 14px;
+  text-align: right;
+}
+
+.detail-row small {
+  grid-column: 1 / -1;
+  color: var(--muted);
+}
+
+.detail-row--warning {
+  border-color: rgba(154, 90, 0, 0.3);
+  background: var(--amber-bg);
+}
+
 .compact-list {
   display: grid;
   gap: 7px;
@@ -347,6 +428,7 @@ tbody tr:last-child td {
   .metric-grid,
   .readiness,
   .signal-list,
+  .intel-grid,
   .mover-columns,
   .report-links {
     grid-template-columns: 1fr;
