@@ -346,14 +346,38 @@ function renderGdelt(context) {
       <small>${fmtNumber(row.avg_volume)} avg / ${fmtNumber(row.points, 0)} points</small>
     </div>
   `).join("");
-  const errorRows = errors.map((error) => `
-    <div class="detail-row detail-row--warning">
-      <span>${escapeHtml(error)}</span>
-      <strong>warning</strong>
-      <small>GDELT can rate-limit or return no data.</small>
-    </div>
-  `).join("");
+  const errorRows = errors.map((error) => {
+    const summary = summarizeGdeltError(error);
+    return `
+      <div class="detail-row detail-row--warning">
+        <span>${escapeHtml(summary.query)}</span>
+        <strong>warning</strong>
+        <small>${escapeHtml(summary.message)}</small>
+      </div>
+    `;
+  }).join("");
   node.innerHTML = activity + errorRows || emptyCard("No GDELT activity.");
+}
+
+function summarizeGdeltError(error) {
+  const textValue = String(error || "");
+  const cleaned = textValue.replace(/^GDELT\s+/i, "");
+  const [queryPart, ...rest] = cleaned.split(":");
+  const detail = rest.join(":").trim();
+  let message = "GDELT temporarily returned an error. The dashboard keeps the latest available public data.";
+
+  if (detail.includes("429") || /too many requests/i.test(detail)) {
+    message = "GDELT rate-limited this request. This is temporary and does not stop the other collectors.";
+  } else if (/expecting value|json|empty/i.test(detail)) {
+    message = "GDELT returned an empty or non-JSON response. Other news and market data remain available.";
+  } else if (detail) {
+    message = "GDELT request failed temporarily. Other public data is still being collected.";
+  }
+
+  return {
+    query: queryPart ? `GDELT: ${queryPart.trim()}` : "GDELT",
+    message,
+  };
 }
 
 function renderFlowDetail(flow) {
