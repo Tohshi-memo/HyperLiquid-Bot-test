@@ -2,21 +2,21 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-01T23:30:23.121518+00:00`
-- Asset price active records: `21`
-- Day/swing records: `34`
-- Flow-alert history records: `179`
+- Updated: `2026-05-01T23:45:22.072220+00:00`
+- Asset price active records: `22`
+- Day/swing records: `35`
+- Flow-alert history records: `182`
 - Correlation status: `insufficient_samples`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1488 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (10018 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (1245 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (837 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (21679 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (4814 bytes): Asset-class overview.
+- `data/processed/ai_context_index.json` (10013 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (1242 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (838 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (21677 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (4815 bytes): Asset-class overview.
 
 ## Asset Classes
 
