@@ -57,6 +57,11 @@ function fmtPct(value) {
   return `${sign}${number.toFixed(2)}%`;
 }
 
+function fmtRate(value) {
+  if (value === null || value === undefined || Number.isNaN(Number(value))) return "--";
+  return `${(Number(value) * 100).toFixed(1)}%`;
+}
+
 function toneForScore(value, inverse = false) {
   const number = Number(value);
   if (Number.isNaN(number)) return "neutral";
@@ -93,6 +98,7 @@ function renderMetrics(index, context, flow, pack) {
   text("marketContextScore", fmtNumber(scores.market_context_score));
   document.getElementById("marketContextScore")?.classList.add(`score-${toneForScore(scores.market_context_score)}`);
   text("newsRiskScore", fmtNumber(scores.news_risk_score));
+  text("macroRiskScore", fmtNumber(scores.macro_risk_score));
   text("riskOnScore", fmtNumber(scores.risk_on_score));
   text("flowAlertScore", fmtNumber(flowScores.flow_alert_score));
   text("polyZScore", fmtNumber(poly.volume_24h_zscore_7d));
@@ -247,6 +253,7 @@ async function renderDashboard() {
     renderMetrics(index, context, flow, pack);
     renderCanary(canary);
     renderIntelligence(context, flow);
+    renderNewsCategories(context);
     renderGdelt(context);
     renderFlowDetail(flow);
     renderSymbols(pack);
@@ -305,12 +312,26 @@ function renderHeadlines(context) {
       <article class="item-card">
         <strong>${titleHtml}</strong>
         <div class="meta-line">
-          <span>${escapeHtml(item.source || "unknown source")}</span>
+          <span>${escapeHtml([item.category, item.source || "unknown source"].filter(Boolean).join(" / "))}</span>
           <span>${formatDate(item.published_at)}</span>
         </div>
       </article>
     `;
   }).join("") || emptyCard("No recent headlines.");
+}
+
+function renderNewsCategories(context) {
+  const node = document.getElementById("newsCategoryList");
+  if (!node) return;
+  const categories = context?.news?.categories || {};
+  const rows = Object.entries(categories);
+  node.innerHTML = rows.map(([category, summary]) => `
+    <div class="detail-row">
+      <span>${escapeHtml(category)}</span>
+      <strong>${fmtNumber(summary?.article_count, 0)} articles</strong>
+      <small>${fmtNumber(summary?.risk_keyword_hits, 0)} risk words / ${fmtRate(summary?.risk_headline_rate)} risk headlines</small>
+    </div>
+  `).join("") || emptyCard("No category summary.");
 }
 
 function renderGdelt(context) {

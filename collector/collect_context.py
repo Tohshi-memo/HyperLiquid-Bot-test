@@ -31,7 +31,22 @@ DEFAULT_RSS_FEEDS = (
     "https://cointelegraph.com/rss,"
     "https://www.coindesk.com/arc/outboundfeeds/rss/"
 )
-DEFAULT_GDELT_QUERIES = "bitcoin OR ethereum OR crypto OR stablecoin"
+DEFAULT_MACRO_RSS_FEEDS = (
+    "https://feeds.bbci.co.uk/news/business/rss.xml,"
+    "https://feeds.bbci.co.uk/news/world/rss.xml,"
+    "https://www.cnbc.com/id/20910258/device/rss/rss.html,"
+    "https://www.cnbc.com/id/20409666/device/rss/rss.html,"
+    "https://finance.yahoo.com/news/rssindex"
+)
+DEFAULT_POLICY_RSS_FEEDS = (
+    "https://www.federalreserve.gov/feeds/press_all.xml,"
+    "https://www.federalreserve.gov/feeds/speeches.xml"
+)
+DEFAULT_COMMODITY_RSS_FEEDS = "https://www.cnbc.com/id/19836768/device/rss/rss.html"
+DEFAULT_GDELT_QUERIES = (
+    "bitcoin OR ethereum OR crypto OR stablecoin,"
+    "federal reserve OR inflation OR treasury yields OR oil OR gold OR stocks"
+)
 CRYPTO_MARKET_WORDS = {
     "btc", "bitcoin", "eth", "ethereum", "crypto", "stablecoin", "usdt",
     "usdc", "solana", "sol", "xrp", "doge", "hyperliquid", "binance", "megaeth",
@@ -50,10 +65,20 @@ RISK_WORDS = {
     "hack", "exploit", "lawsuit", "sec", "cftc", "ban", "fraud",
     "liquidation", "depeg", "bankruptcy", "sanction", "attack",
 }
+MACRO_RISK_WORDS = {
+    "war", "tariff", "sanction", "inflation", "recession", "default",
+    "shutdown", "crisis", "banking", "stress", "unemployment", "layoff",
+    "oil", "yield", "treasury", "rate hike", "geopolitical", "conflict",
+}
+POLICY_WORDS = {
+    "federal reserve", "fed", "fomc", "powell", "rate", "rates",
+    "monetary policy", "treasury", "central bank", "cpi", "ppi",
+}
 
 
 @dataclass
 class Article:
+    category: str
     source: str
     title: str
     url: str
@@ -169,18 +194,38 @@ def setup_logging() -> None:
 
 
 def collect_rss(cutoff: datetime) -> list[Article]:
-    feeds = [x.strip() for x in os.getenv("RSS_FEEDS", DEFAULT_RSS_FEEDS).split(",") if x.strip()]
+    feed_groups = [
+        ("crypto", parse_csv_env("RSS_FEEDS", DEFAULT_RSS_FEEDS)),
+        ("macro", parse_csv_env("MACRO_RSS_FEEDS", DEFAULT_MACRO_RSS_FEEDS)),
+        ("policy", parse_csv_env("POLICY_RSS_FEEDS", DEFAULT_POLICY_RSS_FEEDS)),
+        ("commodity", parse_csv_env("COMMODITY_RSS_FEEDS", DEFAULT_COMMODITY_RSS_FEEDS)),
+    ]
+    item_limit = int(os.getenv("RSS_ITEMS_PER_FEED", "30"))
+    articles: list[Article] = []
+    for category, feeds in feed_groups:
+        articles.extend(collect_rss_group(category, feeds, cutoff, item_limit))
+    articles.sort(key=lambda item: item.published_at or "", reverse=True)
+    return articles
+
+
+def collect_rss_group(
+    category: str,
+    feeds: list[str],
+    cutoff: datetime,
+    item_limit: int,
+) -> list[Article]:
     articles: list[Article] = []
     for feed_url in feeds:
         try:
             parsed = feedparser.parse(feed_url)
             source = parsed.feed.get("title", feed_url)
-            for entry in parsed.entries:
+            for entry in parsed.entries[:item_limit]:
                 published = parse_entry_time(entry)
                 if published and published < cutoff:
                     continue
                 articles.append(
                     Article(
+                        category=category,
                         source=source,
                         title=entry.get("title", "").strip(),
                         url=entry.get("link", "").strip(),
@@ -282,11 +327,36 @@ def build_context(
     polymarket: list[dict[str, Any]],
 ) -> dict[str, Any]:
     titles = [a.title for a in articles]
+    category_summaries = summarize_news_categories(articles)
     sentiment = score_words(titles, POSITIVE_WORDS, NEGATIVE_WORDS)
-    risk_hits = count_words(titles, RISK_WORDS)
+    risk_hits = count_words(titles, RISK_WORDS | MACRO_RISK_WORDS)
+    crypto_summary = category_summaries.get("crypto", {})
+    crypto_article_count = int(crypto_summary.get("article_count", 0))
+    macro_article_count = sum(
+        int(summary.get("article_count", 0))
+        for category, summary in category_summaries.items()
+        if category != "crypto"
+    )
+    crypto_risk_headlines = crypto_summary.get("risk_headline_count", 0)
+    macro_risk_headlines = sum(
+        int(summary.get("risk_headline_count", 0))
+        for category, summary in category_summaries.items()
+        if category != "crypto"
+    )
+    policy_hits = count_words(titles, POLICY_WORDS)
+    policy_headlines = count_texts_with_words(titles, POLICY_WORDS)
     news_count = len(articles)
-    news_risk_score = clamp(20 + risk_hits * 8 + max(0, news_count - 20), 0, 100)
-    risk_on_score = clamp(50 + sentiment * 20 - risk_hits * 4, 0, 100)
+    crypto_risk_rate = safe_ratio(crypto_risk_headlines, crypto_article_count)
+    macro_risk_rate = safe_ratio(macro_risk_headlines, macro_article_count)
+    policy_rate = safe_ratio(policy_headlines, news_count)
+    news_volume_pressure = clamp(max(0, news_count - 40) * 0.25, 0, 8)
+    news_risk_score = clamp(
+        18 + crypto_risk_rate * 45 + macro_risk_rate * 30 + policy_rate * 15 + news_volume_pressure,
+        0,
+        100,
+    )
+    macro_risk_score = clamp(12 + macro_risk_rate * 60 + policy_rate * 25, 0, 100)
+    risk_on_score = clamp(50 + sentiment * 20 - crypto_risk_rate * 30 - macro_risk_rate * 20, 0, 100)
     gdelt_activity = summarize_gdelt(gdelt)
     polymarket_summary = summarize_polymarket(polymarket)
 
@@ -297,14 +367,27 @@ def build_context(
             "article_count": news_count,
             "sentiment_score": round(sentiment, 4),
             "risk_keyword_hits": risk_hits,
+            "risk_headline_count": count_texts_with_words(titles, RISK_WORDS | MACRO_RISK_WORDS),
+            "crypto_risk_headline_rate": round(crypto_risk_rate, 4),
+            "macro_risk_headline_rate": round(macro_risk_rate, 4),
+            "policy_keyword_hits": policy_hits,
+            "policy_headline_count": policy_headlines,
+            "policy_headline_rate": round(policy_rate, 4),
+            "categories": category_summaries,
             "top_headlines": [asdict(a) for a in articles[:20]],
         },
         "gdelt": gdelt_activity,
         "polymarket": polymarket_summary,
         "scores": {
             "news_risk_score": round(news_risk_score, 2),
+            "macro_risk_score": round(macro_risk_score, 2),
             "risk_on_score": round(risk_on_score, 2),
-            "market_context_score": round((100 - news_risk_score) * 0.45 + risk_on_score * 0.55, 2),
+            "market_context_score": round(
+                (100 - news_risk_score) * 0.38
+                + (100 - macro_risk_score) * 0.17
+                + risk_on_score * 0.45,
+                2,
+            ),
         },
         "errors": collect_errors(gdelt, polymarket),
     }
@@ -376,6 +459,15 @@ def count_words(texts: list[str], words: set[str]) -> int:
     return count
 
 
+def count_texts_with_words(texts: list[str], words: set[str]) -> int:
+    count = 0
+    for text in texts:
+        lower = text.lower()
+        if any(word in lower for word in words):
+            count += 1
+    return count
+
+
 def summarize_gdelt(rows: list[dict[str, Any]]) -> dict[str, Any]:
     summary = []
     for row in rows:
@@ -402,6 +494,32 @@ def summarize_polymarket(markets: list[dict[str, Any]]) -> dict[str, Any]:
             "end_date": market.get("endDate") or market.get("end_date_iso"),
         })
     return {"market_count": len(clean), "top_markets": rows}
+
+
+def summarize_news_categories(articles: list[Article]) -> dict[str, Any]:
+    grouped: dict[str, list[Article]] = {}
+    for article in articles:
+        grouped.setdefault(article.category, []).append(article)
+
+    output = {}
+    for category, rows in sorted(grouped.items()):
+        titles = [row.title for row in rows]
+        risk_keyword_hits = count_words(titles, RISK_WORDS | MACRO_RISK_WORDS)
+        policy_keyword_hits = count_words(titles, POLICY_WORDS)
+        risk_headline_count = count_texts_with_words(titles, RISK_WORDS | MACRO_RISK_WORDS)
+        policy_headline_count = count_texts_with_words(titles, POLICY_WORDS)
+        output[category] = {
+            "article_count": len(rows),
+            "sentiment_score": round(score_words(titles, POSITIVE_WORDS, NEGATIVE_WORDS), 4),
+            "risk_keyword_hits": risk_keyword_hits,
+            "risk_headline_count": risk_headline_count,
+            "risk_headline_rate": round(safe_ratio(risk_headline_count, len(rows)), 4),
+            "policy_keyword_hits": policy_keyword_hits,
+            "policy_headline_count": policy_headline_count,
+            "policy_headline_rate": round(safe_ratio(policy_headline_count, len(rows)), 4),
+            "top_headlines": [asdict(row) for row in rows[:8]],
+        }
+    return output
 
 
 def summarize_large_flows(dune_large_flows: dict[str, Any]) -> dict[str, Any]:
@@ -499,6 +617,22 @@ def append_history(context: dict[str, Any]) -> None:
             "article_count": context["news"]["article_count"],
             "sentiment_score": context["news"]["sentiment_score"],
             "risk_keyword_hits": context["news"]["risk_keyword_hits"],
+            "risk_headline_count": context["news"].get("risk_headline_count", 0),
+            "crypto_risk_headline_rate": context["news"].get("crypto_risk_headline_rate", 0),
+            "macro_risk_headline_rate": context["news"].get("macro_risk_headline_rate", 0),
+            "policy_keyword_hits": context["news"].get("policy_keyword_hits", 0),
+            "policy_headline_count": context["news"].get("policy_headline_count", 0),
+            "policy_headline_rate": context["news"].get("policy_headline_rate", 0),
+            "category_counts": {
+                category: summary.get("article_count", 0)
+                for category, summary in context["news"].get("categories", {}).items()
+                if isinstance(summary, dict)
+            },
+            "category_risk_keyword_hits": {
+                category: summary.get("risk_keyword_hits", 0)
+                for category, summary in context["news"].get("categories", {}).items()
+                if isinstance(summary, dict)
+            },
         },
         "polymarket_market_count": context["polymarket"]["market_count"],
     })
@@ -530,9 +664,10 @@ def append_flow_alert_history(alert: dict[str, Any]) -> None:
 
 def render_report(context: dict[str, Any]) -> str:
     headlines = "\n".join(
-        f"- {item['title']} ({item['source']})"
+        f"- [{item.get('category', 'news')}] {item['title']} ({item['source']})"
         for item in context["news"]["top_headlines"][:10]
     )
+    category_lines = render_news_categories(context.get("news", {}).get("categories", {}))
     day_swing = context.get("day_swing", {})
     day_swing_lines = ""
     if isinstance(day_swing, dict) and day_swing.get("enabled"):
@@ -569,11 +704,14 @@ def render_report(context: dict[str, Any]) -> str:
         f"- Generated: `{context['generated_at']}`\n"
         f"- Market context score: `{context['scores']['market_context_score']}`\n"
         f"- News risk score: `{context['scores']['news_risk_score']}`\n"
+        f"- Macro risk score: `{context['scores'].get('macro_risk_score')}`\n"
         f"- Risk-on score: `{context['scores']['risk_on_score']}`\n"
         f"- Articles: `{context['news']['article_count']}`\n"
         f"- Polymarket markets: `{context['polymarket']['market_count']}`\n\n"
         f"{asset_universe_lines}"
         f"{day_swing_lines}"
+        "## News Categories\n\n"
+        f"{category_lines}\n\n"
         "## Headlines\n\n"
         f"{headlines or '- No recent headlines collected.'}\n"
     )
@@ -609,6 +747,29 @@ def load_json(path: Path, default: Any) -> Any:
         return json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         return default
+
+
+def parse_csv_env(name: str, default: str) -> list[str]:
+    value = os.getenv(name)
+    if value is None:
+        value = default
+    return [item.strip() for item in value.split(",") if item.strip()]
+
+
+def render_news_categories(categories: dict[str, Any]) -> str:
+    if not isinstance(categories, dict) or not categories:
+        return "- No category summary."
+    rows = []
+    for category, summary in sorted(categories.items()):
+        if not isinstance(summary, dict):
+            continue
+        rows.append(
+            f"- {category}: articles `{summary.get('article_count')}`, "
+            f"risk hits `{summary.get('risk_keyword_hits')}`, "
+            f"risk headline rate `{summary.get('risk_headline_rate')}`, "
+            f"policy hits `{summary.get('policy_keyword_hits')}`"
+        )
+    return "\n".join(rows) if rows else "- No category summary."
 
 
 def extract_usdc_amount(row: dict[str, Any]) -> float:
@@ -654,6 +815,14 @@ def zscore(current: float, previous_values: list[float]) -> float:
     if stddev == 0:
         return 0.0
     return (current - avg) / stddev
+
+
+def safe_ratio(numerator: Any, denominator: Any) -> float:
+    top = to_float(numerator)
+    bottom = to_float(denominator)
+    if bottom <= 0:
+        return 0.0
+    return top / bottom
 
 
 def clamp(value: float, low: float, high: float) -> float:

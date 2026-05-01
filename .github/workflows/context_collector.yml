@@ -20,8 +20,12 @@ jobs:
     env:
       COLLECTOR_PROFILE: 'context'
       RSS_FEEDS: 'https://cointelegraph.com/rss,https://www.coindesk.com/arc/outboundfeeds/rss/'
+      MACRO_RSS_FEEDS: 'https://feeds.bbci.co.uk/news/business/rss.xml,https://feeds.bbci.co.uk/news/world/rss.xml,https://www.cnbc.com/id/20910258/device/rss/rss.html,https://www.cnbc.com/id/20409666/device/rss/rss.html,https://finance.yahoo.com/news/rssindex'
+      POLICY_RSS_FEEDS: 'https://www.federalreserve.gov/feeds/press_all.xml,https://www.federalreserve.gov/feeds/speeches.xml'
+      COMMODITY_RSS_FEEDS: 'https://www.cnbc.com/id/19836768/device/rss/rss.html'
+      RSS_ITEMS_PER_FEED: '30'
       CONTEXT_LOOKBACK_HOURS: '12'
-      GDELT_QUERIES: 'bitcoin OR ethereum OR crypto OR stablecoin'
+      GDELT_QUERIES: 'bitcoin OR ethereum OR crypto OR stablecoin,federal reserve OR inflation OR treasury yields OR oil OR gold OR stocks'
       POLYMARKET_QUERY: 'crypto'
       POLYMARKET_MARKET_LIMIT: '80'
       HISTORY_MAX_RECORDS: '8640'

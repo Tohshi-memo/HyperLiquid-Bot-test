@@ -7,8 +7,8 @@ exchange keys, position state, final trade signals, or execution logic.
 
 ## What It Collects
 
-- Crypto RSS headlines
-- GDELT news context counts
+- Crypto, macro, policy, and commodity RSS headlines
+- GDELT crypto and macro news context counts
 - Polymarket public market probabilities
 - Lightweight sentiment and risk scores
 - Aggregate large-flow alert data for unusual Polymarket-related attention
@@ -77,6 +77,11 @@ Pages. It reads copied compact JSON/Markdown from `docs/data/` and displays
 market status, canary signals, data readiness, BTC/ETH/HYPE/SOL stats,
 asset-class movement, top movers, top Polymarket markets, latest headlines,
 GDELT activity, and flow details.
+
+Headlines are saved with a `category` field (`crypto`, `macro`, `policy`,
+or `commodity`) so later analysis can compare token prices with general market
+news, central-bank policy, energy/commodity stress, and crypto-specific events
+without loading every raw RSS file.
 
 The site intentionally does not show private strategy, entries, SL/TP decisions,
 wallet data, positions, or execution status.
