@@ -13,6 +13,8 @@ import feedparser
 import requests
 from dateutil import parser as date_parser
 
+from collector.day_swing import update_day_swing_dataset
+
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = ROOT / "data" / "processed"
 RAW_DIR = ROOT / "data" / "raw"
@@ -84,6 +86,7 @@ def run_context(now: datetime) -> None:
     gdelt = collect_gdelt()
     polymarket = collect_polymarket()
     context = build_context(now, lookback_hours, articles, gdelt, polymarket)
+    context["day_swing"] = collect_day_swing_summary(now, context)
 
     (raw_dir / f"rss_{now.strftime('%H%M%S')}.json").write_text(
         json.dumps([asdict(a) for a in articles], indent=2, ensure_ascii=False),
@@ -102,6 +105,14 @@ def run_context(now: datetime) -> None:
     append_history(context)
     REPORT_FILE.write_text(render_report(context), encoding="utf-8")
     logging.info("Wrote %s", CONTEXT_FILE)
+
+
+def collect_day_swing_summary(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
+    try:
+        return update_day_swing_dataset(now, context)
+    except Exception as e:
+        logging.warning("Day/swing dataset update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
 
 
 def run_flow_alert(now: datetime) -> None:
@@ -502,6 +513,13 @@ def render_report(context: dict[str, Any]) -> str:
         f"- {item['title']} ({item['source']})"
         for item in context["news"]["top_headlines"][:10]
     )
+    day_swing = context.get("day_swing", {})
+    day_swing_lines = ""
+    if isinstance(day_swing, dict) and day_swing.get("enabled"):
+        day_swing_lines = (
+            f"- Day/swing records: `{day_swing.get('record_count')}`\n"
+            f"- Day/swing latest: `{day_swing.get('latest_observed_at')}`\n\n"
+        )
     return (
         "# Latest Crypto Context\n\n"
         f"- Generated: `{context['generated_at']}`\n"
@@ -510,6 +528,7 @@ def render_report(context: dict[str, Any]) -> str:
         f"- Risk-on score: `{context['scores']['risk_on_score']}`\n"
         f"- Articles: `{context['news']['article_count']}`\n"
         f"- Polymarket markets: `{context['polymarket']['market_count']}`\n\n"
+        f"{day_swing_lines}"
         "## Headlines\n\n"
         f"{headlines or '- No recent headlines collected.'}\n"
     )

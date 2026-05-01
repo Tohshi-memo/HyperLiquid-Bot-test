@@ -24,7 +24,12 @@ jobs:
       GDELT_QUERIES: 'bitcoin OR ethereum OR crypto OR stablecoin'
       POLYMARKET_QUERY: 'crypto'
       POLYMARKET_MARKET_LIMIT: '80'
-      HISTORY_MAX_RECORDS: '720'
+      HISTORY_MAX_RECORDS: '8640'
+      DAY_SWING_ENABLED: 'true'
+      DAY_SWING_SYMBOLS: 'BTC,ETH,HYPE,SOL'
+      DAY_SWING_INTERVALS: '15m,1h,4h'
+      DAY_SWING_LABEL_HORIZONS: '1h,4h,24h,72h'
+      DAY_SWING_MAX_RECORDS: '12000'
       LOG_LEVEL: 'INFO'
 
     steps:
