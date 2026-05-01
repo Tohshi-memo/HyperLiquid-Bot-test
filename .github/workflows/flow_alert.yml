@@ -1,30 +1,31 @@
-name: Public Crypto Context Collector
+name: Public Flow Alert Collector
 
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '2-59/5 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: public-crypto-context-${{ github.ref }}
-  cancel-in-progress: false
+  group: public-flow-alert-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 5
 
     env:
-      COLLECTOR_PROFILE: 'context'
-      RSS_FEEDS: 'https://cointelegraph.com/rss,https://www.coindesk.com/arc/outboundfeeds/rss/'
-      CONTEXT_LOOKBACK_HOURS: '12'
-      GDELT_QUERIES: 'bitcoin OR ethereum OR crypto OR stablecoin'
+      COLLECTOR_PROFILE: 'flow_alert'
       POLYMARKET_QUERY: 'crypto'
-      POLYMARKET_MARKET_LIMIT: '80'
-      HISTORY_MAX_RECORDS: '720'
+      POLYMARKET_MARKET_LIMIT: '60'
+      FLOW_ALERT_LOOKBACK_HOURS: '24'
+      FLOW_ALERT_HISTORY_MAX_RECORDS: '2016'
+      DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
+      DUNE_LARGE_FLOW_QUERY_ID: ${{ vars.DUNE_LARGE_FLOW_QUERY_ID }}
+      DUNE_RESULT_LIMIT: '100'
       LOG_LEVEL: 'INFO'
 
     steps:
@@ -42,10 +43,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Collect public context
+      - name: Collect public flow alert
         run: python -m collector.collect_context
 
-      - name: Commit context data
+      - name: Commit flow alert data
         if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -56,14 +57,14 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: update public context [skip ci]"
+          git commit -m "chore: update public flow alert [skip ci]"
           for attempt in 1 2 3; do
             if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
               exit 0
             fi
-            echo "Context push failed (attempt ${attempt}/3). Retrying..."
+            echo "Flow alert push failed (attempt ${attempt}/3). Retrying..."
             sleep 5
           done
 
-          echo "Failed to save context data after retries."
+          echo "Failed to save flow alert data after retries."
           exit 1
