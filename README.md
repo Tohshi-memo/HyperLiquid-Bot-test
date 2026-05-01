@@ -12,6 +12,7 @@ exchange keys, position state, final trade signals, or execution logic.
 - Polymarket public market probabilities
 - Lightweight sentiment and risk scores
 - Aggregate large-flow alert data for unusual Polymarket-related attention
+- Lightweight all-symbol HyperLiquid price snapshots
 - Day/swing research snapshots for BTC, ETH, HYPE, and SOL
 
 Outputs are written to:
@@ -21,10 +22,13 @@ data/processed/market_context.json
 data/processed/market_context_history.json
 data/processed/flow_alert.json
 data/processed/flow_alert_history.json
+data/processed/asset_universe_latest.json
+data/processed/asset_price_history.json
 data/processed/day_swing_dataset.json
 data/processed/ai_analysis_pack.json
 data/reports/latest_context.md
 data/reports/latest_flow_alert.md
+data/reports/latest_asset_universe.md
 data/reports/latest_day_swing.md
 data/reports/latest_ai_analysis_brief.md
 ```
@@ -39,6 +43,11 @@ It is for manual AI analysis and strategy research, not direct trade execution.
 AI should read `latest_ai_analysis_brief.md` and `ai_analysis_pack.json` first.
 The full `day_swing_dataset.json` should be loaded only for deeper validation of
 a specific candidate rule.
+
+`asset_price_history.json` stores lightweight all-symbol HyperLiquid prices from
+`metaAndAssetCtxs`/`allMids`. It is the HyperLiquid equivalent of the MEXC
+scanner's compact market-context record: broad coverage first, deeper OHLCV
+features only for selected research symbols.
 
 ## Run Locally
 

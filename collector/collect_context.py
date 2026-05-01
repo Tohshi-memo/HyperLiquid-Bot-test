@@ -13,6 +13,7 @@ import feedparser
 import requests
 from dateutil import parser as date_parser
 
+from collector.asset_universe import update_asset_universe_snapshot
 from collector.day_swing import update_day_swing_dataset
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -86,6 +87,7 @@ def run_context(now: datetime) -> None:
     gdelt = collect_gdelt()
     polymarket = collect_polymarket()
     context = build_context(now, lookback_hours, articles, gdelt, polymarket)
+    context["asset_universe"] = collect_asset_universe_summary(now)
     context["day_swing"] = collect_day_swing_summary(now, context)
 
     (raw_dir / f"rss_{now.strftime('%H%M%S')}.json").write_text(
@@ -112,6 +114,14 @@ def collect_day_swing_summary(now: datetime, context: dict[str, Any]) -> dict[st
         return update_day_swing_dataset(now, context)
     except Exception as e:
         logging.warning("Day/swing dataset update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
+
+
+def collect_asset_universe_summary(now: datetime) -> dict[str, Any]:
+    try:
+        return update_asset_universe_snapshot(now)
+    except Exception as e:
+        logging.warning("Asset universe update failed: %s", e)
         return {"enabled": True, "error": str(e)}
 
 
@@ -520,6 +530,13 @@ def render_report(context: dict[str, Any]) -> str:
             f"- Day/swing records: `{day_swing.get('record_count')}`\n"
             f"- Day/swing latest: `{day_swing.get('latest_observed_at')}`\n\n"
         )
+    asset_universe = context.get("asset_universe", {})
+    asset_universe_lines = ""
+    if isinstance(asset_universe, dict) and asset_universe.get("enabled"):
+        asset_universe_lines = (
+            f"- Asset universe count: `{asset_universe.get('asset_count')}`\n"
+            f"- Asset price history records: `{asset_universe.get('history_records')}`\n\n"
+        )
     return (
         "# Latest Crypto Context\n\n"
         f"- Generated: `{context['generated_at']}`\n"
@@ -528,6 +545,7 @@ def render_report(context: dict[str, Any]) -> str:
         f"- Risk-on score: `{context['scores']['risk_on_score']}`\n"
         f"- Articles: `{context['news']['article_count']}`\n"
         f"- Polymarket markets: `{context['polymarket']['market_count']}`\n\n"
+        f"{asset_universe_lines}"
         f"{day_swing_lines}"
         "## Headlines\n\n"
         f"{headlines or '- No recent headlines collected.'}\n"
