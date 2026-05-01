@@ -1,20 +1,19 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-01T13:05:23.820182+00:00`
-- Flow alert score: `17.0`
+- Generated: `2026-05-01T13:10:19.246642+00:00`
+- Flow alert score: `5.66`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `1296002.65`
-- Polymarket volume z-score: `-0.75`
+- Polymarket 24h volume: `33184.37`
+- Polymarket volume z-score: `-7.08`
 
 ## Top Polymarket Markets
 
-- MegaETH market cap (FDV) >$2B one day after launch? | 24h volume: `1262825.590109` | liquidity: `793862.93737`
-- Will MegaETH perform an airdrop by June 30?  | 24h volume: `31989.446270999993` | liquidity: `3765.84676`
-- Will bitcoin hit $1m before GTA VI? | 24h volume: `1187.611755` | liquidity: `116255.75111`
+- Will MegaETH perform an airdrop by June 30?  | 24h volume: `32005.716836999993` | liquidity: `3768.81693`
+- Will bitcoin hit $1m before GTA VI? | 24h volume: `1178.6517549999999` | liquidity: `115910.2811`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
