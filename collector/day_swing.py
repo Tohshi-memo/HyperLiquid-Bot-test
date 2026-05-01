@@ -16,6 +16,8 @@ REPORT_DIR = ROOT / "data" / "reports"
 DATASET_FILE = PROCESSED_DIR / "day_swing_dataset.json"
 REPORT_FILE = REPORT_DIR / "latest_day_swing.md"
 FLOW_ALERT_FILE = PROCESSED_DIR / "flow_alert.json"
+AI_ANALYSIS_PACK_FILE = PROCESSED_DIR / "ai_analysis_pack.json"
+AI_ANALYSIS_BRIEF_FILE = REPORT_DIR / "latest_ai_analysis_brief.md"
 
 DEFAULT_SYMBOLS = "BTC,ETH,HYPE,SOL"
 DEFAULT_INTERVALS = "15m,1h,4h"
@@ -62,6 +64,11 @@ def update_day_swing_dataset(now: datetime, context: dict[str, Any]) -> dict[str
     DATASET_FILE.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
 
     summary = summarize_dataset(output)
+    analysis_pack = build_ai_analysis_pack(output, summary)
+    AI_ANALYSIS_PACK_FILE.write_text(json.dumps(analysis_pack, indent=2, ensure_ascii=False), encoding="utf-8")
+    AI_ANALYSIS_BRIEF_FILE.write_text(render_ai_analysis_brief(analysis_pack), encoding="utf-8")
+    summary["ai_analysis_pack"] = "data/processed/ai_analysis_pack.json"
+    summary["ai_analysis_brief"] = "data/reports/latest_ai_analysis_brief.md"
     REPORT_FILE.write_text(render_report(summary, record), encoding="utf-8")
     logger.info("Wrote %s", DATASET_FILE)
     return summary
@@ -285,6 +292,230 @@ def summarize_dataset(dataset: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def build_ai_analysis_pack(dataset: dict[str, Any], summary: dict[str, Any]) -> dict[str, Any]:
+    records = dataset.get("records", [])
+    if not isinstance(records, list):
+        records = []
+    latest = records[-1] if records else {}
+    horizons = dataset.get("label_horizons", [])
+    if not isinstance(horizons, list):
+        horizons = []
+
+    return {
+        "schema_version": 1,
+        "updated_at": dataset.get("updated_at"),
+        "purpose": (
+            "AI should read this compact pack before loading the full day_swing_dataset.json "
+            "to reduce token and quota usage."
+        ),
+        "recommended_reading_order": [
+            "data/reports/latest_ai_analysis_brief.md",
+            "data/processed/ai_analysis_pack.json",
+            "data/reports/latest_day_swing.md",
+            "data/processed/day_swing_dataset.json only when deeper row-level analysis is needed",
+        ],
+        "source_files": {
+            "full_dataset": "data/processed/day_swing_dataset.json",
+            "context_history": "data/processed/market_context_history.json",
+            "flow_alert_history": "data/processed/flow_alert_history.json",
+            "latest_day_swing_report": "data/reports/latest_day_swing.md",
+        },
+        "dataset_summary": summary,
+        "latest_compact": compact_latest_record(latest),
+        "horizon_stats": build_horizon_stats(records, horizons),
+        "condition_stats": build_condition_stats(records, horizons),
+        "usage_note": (
+            "Use this pack for readiness checks and first-pass strategy screening. "
+            "Request the full dataset only for validating a specific candidate rule."
+        ),
+    }
+
+
+def compact_latest_record(record: dict[str, Any]) -> dict[str, Any]:
+    if not isinstance(record, dict):
+        return {}
+    symbols = {}
+    for symbol, row in record.get("symbols", {}).items():
+        if not isinstance(row, dict):
+            continue
+        features = row.get("features", {})
+        compact_features = {}
+        if isinstance(features, dict):
+            for interval, values in features.items():
+                if not isinstance(values, dict):
+                    continue
+                compact_features[interval] = {
+                    "return_3_pct": values.get("return_3_pct"),
+                    "return_12_pct": values.get("return_12_pct"),
+                    "rsi_14": values.get("rsi_14"),
+                    "close_vs_sma20_pct": values.get("close_vs_sma20_pct"),
+                    "close_vs_sma50_pct": values.get("close_vs_sma50_pct"),
+                    "volatility_20_pct": values.get("volatility_20_pct"),
+                    "volume_ratio_20": values.get("volume_ratio_20"),
+                }
+        labels = row.get("labels") if isinstance(row.get("labels"), dict) else {}
+        symbols[symbol] = {
+            "price": row.get("price"),
+            "features": compact_features,
+            "label_horizons_available": sorted(labels.keys()),
+        }
+
+    return {
+        "observed_at": record.get("observed_at"),
+        "collected_at": record.get("collected_at"),
+        "context_scores": record.get("context_scores", {}),
+        "flow_alert": record.get("flow_alert", {}),
+        "symbols": symbols,
+    }
+
+
+def build_horizon_stats(records: list[dict[str, Any]], horizons: list[str]) -> dict[str, Any]:
+    result: dict[str, Any] = {}
+    for horizon in horizons:
+        overall_returns: list[float] = []
+        by_symbol: dict[str, list[float]] = {}
+        for symbol, forward_return in iter_labeled_returns(records, horizon):
+            overall_returns.append(forward_return)
+            by_symbol.setdefault(symbol, []).append(forward_return)
+        result[horizon] = {
+            "overall": return_stats(overall_returns),
+            "by_symbol": {
+                symbol: return_stats(values)
+                for symbol, values in sorted(by_symbol.items())
+            },
+        }
+    return result
+
+
+def build_condition_stats(records: list[dict[str, Any]], horizons: list[str]) -> dict[str, Any]:
+    output: dict[str, Any] = {}
+    for horizon in horizons:
+        grouped: dict[str, dict[str, list[float]]] = {}
+        for record in records:
+            if not isinstance(record, dict):
+                continue
+            record_features = {
+                "news_risk_score": nested_float(record, ("context_scores", "news_risk_score")),
+                "risk_on_score": nested_float(record, ("context_scores", "risk_on_score")),
+                "market_context_score": nested_float(record, ("context_scores", "market_context_score")),
+                "flow_alert_score": nested_float(record, ("flow_alert", "flow_alert_score")),
+            }
+            symbols = record.get("symbols", {})
+            if not isinstance(symbols, dict):
+                continue
+            for symbol_row in symbols.values():
+                if not isinstance(symbol_row, dict):
+                    continue
+                label = (symbol_row.get("labels") or {}).get(horizon)
+                if not isinstance(label, dict):
+                    continue
+                forward_return = to_float(label.get("return_pct"))
+                features = symbol_row.get("features") or {}
+                features_1h = features.get("1h", {}) if isinstance(features, dict) else {}
+                features_4h = features.get("4h", {}) if isinstance(features, dict) else {}
+                feature_values = {
+                    **record_features,
+                    "rsi_1h": nested_float(features_1h, ("rsi_14",)),
+                    "volume_ratio_1h": nested_float(features_1h, ("volume_ratio_20",)),
+                    "return_12_1h": nested_float(features_1h, ("return_12_pct",)),
+                    "volatility_4h": nested_float(features_4h, ("volatility_20_pct",)),
+                }
+                for feature_name, value in feature_values.items():
+                    bucket = bucket_feature(feature_name, value)
+                    if not bucket:
+                        continue
+                    grouped.setdefault(feature_name, {}).setdefault(bucket, []).append(forward_return)
+
+        output[horizon] = {
+            feature_name: {
+                bucket: return_stats(values)
+                for bucket, values in sorted(buckets.items())
+            }
+            for feature_name, buckets in sorted(grouped.items())
+        }
+    return output
+
+
+def iter_labeled_returns(records: list[dict[str, Any]], horizon: str) -> list[tuple[str, float]]:
+    rows = []
+    for record in records:
+        if not isinstance(record, dict):
+            continue
+        symbols = record.get("symbols", {})
+        if not isinstance(symbols, dict):
+            continue
+        for symbol, row in symbols.items():
+            if not isinstance(row, dict):
+                continue
+            label = (row.get("labels") or {}).get(horizon)
+            if isinstance(label, dict) and label.get("return_pct") is not None:
+                rows.append((symbol, to_float(label.get("return_pct"))))
+    return rows
+
+
+def return_stats(values: list[float]) -> dict[str, Any]:
+    clean = [value for value in values if value is not None]
+    if not clean:
+        return {
+            "count": 0,
+            "avg_return_pct": None,
+            "median_return_pct": None,
+            "long_win_rate_pct": None,
+            "short_win_rate_pct": None,
+            "avg_long_pnl_pct": None,
+            "avg_short_pnl_pct": None,
+        }
+    return {
+        "count": len(clean),
+        "avg_return_pct": round(sum(clean) / len(clean), 4),
+        "median_return_pct": round(median(clean), 4),
+        "long_win_rate_pct": round(sum(1 for value in clean if value > 0) / len(clean) * 100, 2),
+        "short_win_rate_pct": round(sum(1 for value in clean if value < 0) / len(clean) * 100, 2),
+        "avg_long_pnl_pct": round(sum(clean) / len(clean), 4),
+        "avg_short_pnl_pct": round(sum(-value for value in clean) / len(clean), 4),
+    }
+
+
+def render_ai_analysis_brief(pack: dict[str, Any]) -> str:
+    summary = pack.get("dataset_summary", {})
+    labels = "\n".join(
+        f"- {horizon}: `{count}`"
+        for horizon, count in summary.get("label_counts", {}).items()
+    )
+    latest_prices = "\n".join(
+        f"- {symbol}: `{price}`"
+        for symbol, price in summary.get("latest_prices", {}).items()
+    )
+    horizon_rows = []
+    for horizon, values in pack.get("horizon_stats", {}).items():
+        overall = values.get("overall", {})
+        horizon_rows.append(
+            f"- {horizon}: count `{overall.get('count')}`, "
+            f"avg `{overall.get('avg_return_pct')}`, "
+            f"long win `{overall.get('long_win_rate_pct')}`, "
+            f"short win `{overall.get('short_win_rate_pct')}`"
+        )
+
+    return (
+        "# AI Analysis Brief\n\n"
+        "Read this file before loading the full dataset to save AI tokens/quota.\n\n"
+        f"- Updated: `{pack.get('updated_at')}`\n"
+        f"- Records: `{summary.get('record_count')}`\n"
+        f"- Symbols: `{', '.join(summary.get('symbols', []))}`\n"
+        f"- Intervals: `{', '.join(summary.get('intervals', []))}`\n\n"
+        "## Label Counts\n\n"
+        f"{labels or '- No labels yet.'}\n\n"
+        "## Latest Prices\n\n"
+        f"{latest_prices or '- No prices collected.'}\n\n"
+        "## Horizon Stats\n\n"
+        f"{chr(10).join(horizon_rows) or '- No labeled returns yet.'}\n\n"
+        "## Reading Order\n\n"
+        "1. `data/reports/latest_ai_analysis_brief.md`\n"
+        "2. `data/processed/ai_analysis_pack.json`\n"
+        "3. Full `day_swing_dataset.json` only for validating a specific candidate rule.\n"
+    )
+
+
 def render_report(summary: dict[str, Any], record: dict[str, Any]) -> str:
     prices = "\n".join(
         f"- {symbol}: `{price}`"
@@ -312,6 +543,9 @@ def render_report(summary: dict[str, Any], record: dict[str, Any]) -> str:
         f"- Symbols: `{', '.join(summary.get('symbols', []))}`\n"
         f"- Intervals: `{', '.join(summary.get('intervals', []))}`\n"
         f"- Label horizons: `{', '.join(summary.get('label_horizons', []))}`\n\n"
+        "## AI Reading\n\n"
+        f"- Compact pack: `{summary.get('ai_analysis_pack')}`\n"
+        f"- Compact brief: `{summary.get('ai_analysis_brief')}`\n\n"
         "## Latest Prices\n\n"
         f"{prices or '- No prices collected.'}\n\n"
         "## Label Progress\n\n"
@@ -382,6 +616,48 @@ def pct_change(new: float, old: float) -> float | None:
     if old == 0:
         return None
     return round((new / old - 1) * 100, 4)
+
+
+def nested_float(data: dict[str, Any], path: tuple[str, ...]) -> float | None:
+    current: Any = data
+    for key in path:
+        if not isinstance(current, dict):
+            return None
+        current = current.get(key)
+    if current is None:
+        return None
+    return to_float(current)
+
+
+def bucket_feature(feature_name: str, value: float | None) -> str | None:
+    if value is None:
+        return None
+    if feature_name in {"news_risk_score", "risk_on_score", "market_context_score", "flow_alert_score"}:
+        return bucket_ranges(value, [(20, "<20"), (40, "20-40"), (60, "40-60"), (80, "60-80")], ">=80")
+    if feature_name == "rsi_1h":
+        return bucket_ranges(value, [(30, "<30"), (45, "30-45"), (55, "45-55"), (70, "55-70")], ">=70")
+    if feature_name == "volume_ratio_1h":
+        return bucket_ranges(value, [(0.75, "<0.75"), (1.25, "0.75-1.25"), (2.0, "1.25-2")], ">=2")
+    if feature_name == "return_12_1h":
+        return bucket_ranges(value, [(-2, "<-2"), (-0.5, "-2--0.5"), (0.5, "-0.5-0.5"), (2, "0.5-2")], ">=2")
+    if feature_name == "volatility_4h":
+        return bucket_ranges(value, [(0.5, "<0.5"), (1.0, "0.5-1"), (2.0, "1-2")], ">=2")
+    return None
+
+
+def bucket_ranges(value: float, ranges: list[tuple[float, str]], final_label: str) -> str:
+    for upper, label in ranges:
+        if value < upper:
+            return label
+    return final_label
+
+
+def median(values: list[float]) -> float:
+    ordered = sorted(values)
+    mid = len(ordered) // 2
+    if len(ordered) % 2 == 1:
+        return ordered[mid]
+    return (ordered[mid - 1] + ordered[mid]) / 2
 
 
 def rsi(closes: list[float], period: int) -> float | None:

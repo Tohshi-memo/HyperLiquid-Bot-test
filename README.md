@@ -22,9 +22,11 @@ data/processed/market_context_history.json
 data/processed/flow_alert.json
 data/processed/flow_alert_history.json
 data/processed/day_swing_dataset.json
+data/processed/ai_analysis_pack.json
 data/reports/latest_context.md
 data/reports/latest_flow_alert.md
 data/reports/latest_day_swing.md
+data/reports/latest_ai_analysis_brief.md
 ```
 
 The private repository reads `market_context.json` and makes the final trading
@@ -33,6 +35,10 @@ decision privately.
 `day_swing_dataset.json` stores compact public research rows: context scores,
 15m/1h/4h technical features, and later 1h/4h/24h/72h forward-return labels.
 It is for manual AI analysis and strategy research, not direct trade execution.
+
+AI should read `latest_ai_analysis_brief.md` and `ai_analysis_pack.json` first.
+The full `day_swing_dataset.json` should be loaded only for deeper validation of
+a specific candidate rule.
 
 ## Run Locally
 
