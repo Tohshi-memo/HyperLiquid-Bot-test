@@ -1,0 +1,31 @@
+name: Show HyperLiquid Balance
+
+on:
+  workflow_dispatch:
+
+jobs:
+  show:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    env:
+      HYPERLIQUID_PRIVATE_KEY: ${{ secrets.HYPERLIQUID_PRIVATE_KEY }}
+      HYPERLIQUID_ACCOUNT_ADDRESS: ${{ secrets.HYPERLIQUID_ACCOUNT_ADDRESS }}
+      HYPERLIQUID_VAULT_ADDRESS: ${{ secrets.HYPERLIQUID_VAULT_ADDRESS }}
+      HYPERLIQUID_TESTNET: ${{ vars.HYPERLIQUID_TESTNET || 'false' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Show HyperLiquid balance
+        run: python tools/show_balance.py
