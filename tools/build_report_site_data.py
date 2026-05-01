@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import json
 import shutil
-from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -31,10 +30,9 @@ def main() -> None:
             continue
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(source, target)
-        copied.append({"source": source_name, "target": target_name, "bytes": target.stat().st_size})
+        copied.append({"source": source_name, "target": target_name})
 
     manifest = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
         "copied_files": copied,
     }
     manifest_path = DOCS_DIR / "data" / "manifest.json"
