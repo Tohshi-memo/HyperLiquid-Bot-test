@@ -81,6 +81,55 @@ h3 {
   text-align: right;
 }
 
+.site-guide {
+  width: min(1440px, calc(100% - 40px));
+  margin: 14px auto 0;
+}
+
+.site-guide details {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.site-guide summary {
+  cursor: pointer;
+  padding: 10px 12px;
+  color: var(--blue);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.site-guide details[open] summary {
+  border-bottom: 1px solid var(--line);
+}
+
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  padding: 12px;
+}
+
+.guide-grid h2 {
+  margin-bottom: 6px;
+  color: var(--text);
+  font-size: 14px;
+}
+
+.guide-grid p,
+.guide-grid li {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.guide-grid ul {
+  display: grid;
+  gap: 4px;
+  margin: 8px 0 0;
+  padding-left: 18px;
+}
+
 .layout {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
@@ -405,6 +454,10 @@ tbody tr:last-child td {
     text-align: left;
   }
 
+  .guide-grid {
+    grid-template-columns: 1fr;
+  }
+
   .panel {
     grid-column: span 12;
   }
@@ -419,6 +472,11 @@ tbody tr:last-child td {
 
   .topbar {
     padding: 18px 12px;
+  }
+
+  .site-guide {
+    width: min(100% - 24px, 1440px);
+    margin-top: 12px;
   }
 
   h1 {
