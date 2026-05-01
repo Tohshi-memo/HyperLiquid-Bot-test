@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import gzip
 import json
 import logging
 import os
@@ -12,6 +13,7 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = ROOT / "data" / "processed"
 REPORT_DIR = ROOT / "data" / "reports"
+ARCHIVE_DIR = ROOT / "data" / "archive"
 LATEST_FILE = PROCESSED_DIR / "asset_universe_latest.json"
 HISTORY_FILE = PROCESSED_DIR / "asset_price_history.json"
 REPORT_FILE = REPORT_DIR / "latest_asset_universe.md"
@@ -89,6 +91,7 @@ def update_asset_universe_snapshot(now: datetime) -> dict[str, Any]:
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
     bucket_minutes = int(os.getenv("ASSET_UNIVERSE_BUCKET_MINUTES", "15"))
     max_records = int(os.getenv("ASSET_UNIVERSE_MAX_RECORDS", "2880"))
@@ -107,6 +110,9 @@ def update_asset_universe_snapshot(now: datetime) -> dict[str, Any]:
         "asset_count": latest["asset_count"],
         "priced_asset_count": latest["priced_asset_count"],
         "history_records": history["record_count"],
+        "history_active_records": history["record_count"],
+        "history_archived_records_added": history.get("archived_records_added", 0),
+        "history_archive_files": history.get("archive_files", []),
         "latest_file": "data/processed/asset_universe_latest.json",
         "history_file": "data/processed/asset_price_history.json",
         "report_file": "data/reports/latest_asset_universe.md",
@@ -412,6 +418,8 @@ def update_price_history(
     rows: list[dict[str, Any]],
     max_records: int,
 ) -> dict[str, Any]:
+    active_records = int(os.getenv("ASSET_UNIVERSE_ACTIVE_RECORDS", "672"))
+    archive_enabled = os.getenv("ASSET_UNIVERSE_ARCHIVE_ENABLED", "true").lower() != "false"
     history = load_json(HISTORY_FILE, default={})
     records = history.get("records", []) if isinstance(history, dict) else []
     if not isinstance(records, list):
@@ -436,13 +444,62 @@ def update_price_history(
     if max_records > 0:
         records = records[-max_records:]
 
+    archive_files: list[str] = []
+    archived_count = 0
+    if archive_enabled and active_records > 0 and len(records) > active_records:
+        archive_records = records[:-active_records]
+        archive_files = archive_price_records(archive_records)
+        archived_count = len(archive_records)
+        records = records[-active_records:]
+    elif active_records > 0:
+        records = records[-active_records:]
+
     return {
         "schema_version": 1,
         "updated_at": now.isoformat(),
         "max_records": max_records,
+        "active_records": active_records,
+        "archive_enabled": archive_enabled,
+        "archive_files": archive_files,
+        "archived_records_added": archived_count,
         "record_count": len(records),
         "records": records,
     }
+
+
+def archive_price_records(records: list[dict[str, Any]]) -> list[str]:
+    by_month: dict[str, list[dict[str, Any]]] = {}
+    for record in records:
+        observed_at = parse_time(record.get("observed_at"))
+        if observed_at is None:
+            continue
+        by_month.setdefault(observed_at.strftime("%Y-%m"), []).append(record)
+
+    written = []
+    for month, month_records in sorted(by_month.items()):
+        path = ARCHIVE_DIR / f"asset_price_history_{month}.jsonl.gz"
+        merged: dict[str, dict[str, Any]] = {}
+        if path.exists():
+            try:
+                with gzip.open(path, "rt", encoding="utf-8") as fh:
+                    for line in fh:
+                        try:
+                            item = json.loads(line)
+                        except Exception:
+                            continue
+                        if isinstance(item, dict) and item.get("observed_at"):
+                            merged[str(item["observed_at"])] = item
+            except Exception:
+                logger.warning("Could not read archive %s; rewriting from current records", path)
+        for record in month_records:
+            if record.get("observed_at"):
+                merged[str(record["observed_at"])] = record
+        ordered = [merged[key] for key in sorted(merged)]
+        with gzip.open(path, "wt", encoding="utf-8") as fh:
+            for item in ordered:
+                fh.write(json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n")
+        written.append(f"data/archive/{path.name}")
+    return written
 
 
 def compact_rows(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -470,13 +527,17 @@ def render_report(summary: dict[str, Any]) -> str:
     class_counts = render_class_counts(summary.get("asset_class_counts", {}))
     hip3_dexes = render_hip3_dexes(summary.get("hip3_dexes", []))
     class_sections = render_class_sections(summary.get("top_by_asset_class", {}))
+    archive_files = summary.get("history_archive_files", [])
+    archive_line = ", ".join(f"`{path}`" for path in archive_files) if archive_files else "`none yet`"
     return (
         "# Latest Asset Universe\n\n"
         f"- Updated: `{summary.get('updated_at')}`\n"
         f"- Observed: `{summary.get('observed_at')}`\n"
         f"- Assets: `{summary.get('asset_count')}`\n"
         f"- Priced assets: `{summary.get('priced_asset_count')}`\n"
-        f"- History records: `{summary.get('history_records')}`\n"
+        f"- Active history records: `{summary.get('history_active_records')}`\n"
+        f"- Archived records added this run: `{summary.get('history_archived_records_added')}`\n"
+        f"- Archive files touched: {archive_line}\n"
         f"- Latest file: `{summary.get('latest_file')}`\n"
         f"- History file: `{summary.get('history_file')}`\n\n"
         "## HIP-3 Dexes\n\n"
@@ -673,6 +734,16 @@ def floor_time(dt: datetime, bucket_minutes: int) -> datetime:
     bucket = max(1, bucket_minutes)
     minute = (dt.minute // bucket) * bucket
     return dt.astimezone(timezone.utc).replace(minute=minute, second=0, microsecond=0)
+
+
+def parse_time(value: Any) -> datetime | None:
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        return parsed.astimezone(timezone.utc) if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+    except Exception:
+        return None
 
 
 def first_positive(*values: float) -> float:

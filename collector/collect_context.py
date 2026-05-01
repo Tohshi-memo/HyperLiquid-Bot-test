@@ -14,6 +14,7 @@ import requests
 from dateutil import parser as date_parser
 
 from collector.asset_universe import update_asset_universe_snapshot
+from collector.ai_index import update_ai_index
 from collector.day_swing import update_day_swing_dataset
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -89,6 +90,7 @@ def run_context(now: datetime) -> None:
     context = build_context(now, lookback_hours, articles, gdelt, polymarket)
     context["asset_universe"] = collect_asset_universe_summary(now)
     context["day_swing"] = collect_day_swing_summary(now, context)
+    context["ai_index"] = collect_ai_index_summary(now, context)
 
     (raw_dir / f"rss_{now.strftime('%H%M%S')}.json").write_text(
         json.dumps([asdict(a) for a in articles], indent=2, ensure_ascii=False),
@@ -114,6 +116,14 @@ def collect_day_swing_summary(now: datetime, context: dict[str, Any]) -> dict[st
         return update_day_swing_dataset(now, context)
     except Exception as e:
         logging.warning("Day/swing dataset update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
+
+
+def collect_ai_index_summary(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
+    try:
+        return update_ai_index(now, context)
+    except Exception as e:
+        logging.warning("AI index update failed: %s", e)
         return {"enabled": True, "error": str(e)}
 
 
