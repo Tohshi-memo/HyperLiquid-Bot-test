@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-01T15:00:28.988211+00:00`
-- Market context score: `43.63`
-- News risk score: `46`
+- Generated: `2026-05-01T15:12:43.392156+00:00`
+- Market context score: `43.18`
+- News risk score: `47`
 - Risk-on score: `35.14`
-- Articles: `22`
+- Articles: `23`
 - Polymarket markets: `2`
 
 - Asset universe count: `610`
