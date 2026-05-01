@@ -1,14 +1,18 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-01T08:57:24.001917+00:00`
+- Generated: `2026-05-01T09:45:17.101144+00:00`
 - Market context score: `44.88`
 - News risk score: `44`
 - Risk-on score: `35.78`
-- Articles: `14`
+- Articles: `15`
 - Polymarket markets: `4`
+
+- Day/swing records: `2`
+- Day/swing latest: `2026-05-01T09:45:00+00:00`
 
 ## Headlines
 
+- Bitcoin seals best monthly gain in a year as S&P 500 hits fresh all-time high (Cointelegraph.com News)
 - Bakkt completes acquisition of stablecoin payments firm Distributed Technologies Research (Cointelegraph.com News)
 - Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant (Cointelegraph.com News)
 - Bitcoiners launch 'The Bitcoin Evidence Base' to stamp out FUD (Cointelegraph.com News)
@@ -18,4 +22,3 @@
 - US Senate bans itself from betting on prediction markets (Cointelegraph.com News)
 - Spot Bitcoin ETF outflows top $490M: Is BTC’s rally losing momentum? (Cointelegraph.com News)
 - Tether-backed Oobit rolls out virtual Visa cards for AI agent USDT spending (Cointelegraph.com News)
-- Repeated Bitcoin profit taking near $77K suggests rally is losing steam (Cointelegraph.com News)
