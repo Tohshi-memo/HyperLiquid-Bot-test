@@ -1,0 +1,68 @@
+name: Public Crypto Context Collector
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-crypto-context-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    env:
+      RSS_FEEDS: 'https://cointelegraph.com/rss,https://www.coindesk.com/arc/outboundfeeds/rss/'
+      CONTEXT_LOOKBACK_HOURS: '12'
+      GDELT_QUERIES: 'bitcoin OR ethereum OR crypto OR stablecoin'
+      POLYMARKET_QUERY: 'crypto'
+      POLYMARKET_MARKET_LIMIT: '80'
+      HISTORY_MAX_RECORDS: '720'
+      LOG_LEVEL: 'INFO'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect public context
+        run: python -m collector.collect_context
+
+      - name: Commit context data
+        if: always()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add data/processed/ data/reports/ data/archive/.gitkeep --force 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update public context [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Context push failed (attempt ${attempt}/3). Retrying..."
+            sleep 5
+          done
+
+          echo "Failed to save context data after retries."
+          exit 1

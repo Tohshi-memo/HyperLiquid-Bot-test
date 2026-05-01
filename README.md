@@ -1,66 +1,37 @@
-# HyperLiquid Momentum Scanner
+# Public Crypto Context Feed
 
-HyperLiquid perpetual markets for short-side momentum exhaustion signals.
+Public data collector for the private HyperLiquid swing trader.
 
-This is a HyperLiquid rewrite of the original MEXC momentum scanner.  The core
-flow is unchanged:
+This repository gathers public market-context data only. It does not contain
+exchange keys, position state, final trade signals, or execution logic.
 
-1. Read BTC regime and scan active perp coins.
-2. Find coins with strong 1h moves and relative strength versus BTC.
-3. Run RSI, Bollinger Band, ATR, volume, funding, OI, and multi-timeframe checks.
-4. Track dry-run/shadow outcomes in `data/`.
-5. Optionally place live HyperLiquid short entries with reduce-only SL/TP trigger orders.
+## What It Collects
 
-## Quick Start
+- Crypto RSS headlines
+- GDELT news context counts
+- Polymarket public market probabilities
+- Lightweight sentiment and risk scores
+
+Outputs are written to:
+
+```text
+data/processed/market_context.json
+data/processed/market_context_history.json
+data/reports/latest_context.md
+```
+
+The private repository reads `market_context.json` and makes the final trading
+decision privately.
+
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
-copy .env.example .env
-python main.py
+python -m collector.collect_context
 ```
 
-`DRY_RUN=true` is the default and is strongly recommended until the account,
-API wallet, and GitHub secrets are tested.
+## Schedule
 
-## HyperLiquid Settings
-
-Public scanning works without keys.  Private reads and live orders use:
-
-```ini
-HYPERLIQUID_PRIVATE_KEY=
-HYPERLIQUID_ACCOUNT_ADDRESS=
-HYPERLIQUID_VAULT_ADDRESS=
-HYPERLIQUID_TESTNET=false
-DRY_RUN=true
-```
-
-For an API wallet, put the API wallet private key in
-`HYPERLIQUID_PRIVATE_KEY` and the main account address in
-`HYPERLIQUID_ACCOUNT_ADDRESS`.
-
-## Live Trading
-
-When `DRY_RUN=false`, the executor:
-
-- checks account balance and open positions
-- skips duplicate symbols and max-position overflow
-- sizes by risk percentage and SL distance
-- opens a market short through the official HyperLiquid SDK
-- places reduce-only trigger orders for stop loss and take profit
-
-Live mode can lose real funds.  Test on HyperLiquid testnet first by setting
-`HYPERLIQUID_TESTNET=true`.
-
-## GitHub Actions
-
-`.github/workflows/scanner.yml` runs one scan every five minutes and commits
-updated `data/` files back to the repository.  Add these secrets before using
-live or private account features:
-
-- `HYPERLIQUID_PRIVATE_KEY`
-- `HYPERLIQUID_ACCOUNT_ADDRESS`
-- `HYPERLIQUID_VAULT_ADDRESS` (optional)
-- `DISCORD_WEBHOOK_URL` (optional)
-
-`tools/show_balance.py` and the `Show HyperLiquid Balance` workflow print the
-HyperLiquid account summary and open perp positions.
+GitHub Actions runs every two hours. Public repository Actions on standard
+GitHub-hosted runners do not consume the private repository's monthly Actions
+minutes.
