@@ -90,6 +90,51 @@
             <strong id="largeUsdc">--</strong>
           </article>
         </div>
+        <details class="metric-guide">
+          <summary>Market Statusの計算と読み方 / How to read Market Status</summary>
+          <div class="metric-guide-grid">
+            <div lang="ja">
+              <h3>日本語</h3>
+              <p>
+                すべて0から100の目安です。公開ニュース、Polymarket、Duneの大口USDCフロー、
+                HyperLiquidの公開価格データから作った状況確認用の数字で、売買指示ではありません。
+              </p>
+              <ul>
+                <li>Market Contextは総合点です。<code>(100 - News Risk) * 38% + (100 - Macro Risk) * 17% + Risk-On * 45%</code>で計算します。</li>
+                <li>News Riskは暗号資産ニュース、マクロニュース、政策系見出し、ニュース量から警戒度を見ます。</li>
+                <li>Macro Riskは金利、インフレ、株式、原油、金、地政学などの見出し圧力を重めに見ます。</li>
+                <li>Risk-Onはニュースのポジティブ/ネガティブ差から、投機資金が入りやすい雰囲気かを見ます。</li>
+                <li>Flow Alertは大口USDC流入、件数、最大送金額、7日平均との差、Polymarket出来高の急増を見ます。</li>
+                <li>Polymarket ZはPolymarketの24時間出来高が7日平均からどれだけ離れているかです。</li>
+                <li>Large USDCは取得できた大口USDCフローの合計です。Dune設定がない場合は限定的になります。</li>
+              </ul>
+              <p>
+                目安は、Market Contextが70以上なら追い風寄り、40から70は中立、40未満は警戒寄りです。
+                Risk系スコアは逆で、高いほど慎重に読むべきです。
+              </p>
+            </div>
+            <div lang="en">
+              <h3>English</h3>
+              <p>
+                Scores are 0-100 context indicators built from public news, Polymarket,
+                Dune large-USDC flow data, and public HyperLiquid market data. They are not trade signals.
+              </p>
+              <ul>
+                <li>Market Context is the composite score: <code>(100 - News Risk) * 38% + (100 - Macro Risk) * 17% + Risk-On * 45%</code>.</li>
+                <li>News Risk measures pressure from crypto headlines, macro headlines, policy headlines, and news volume.</li>
+                <li>Macro Risk weights rates, inflation, equities, oil, gold, and geopolitical headline pressure.</li>
+                <li>Risk-On estimates speculative appetite from positive/negative headline balance minus risk pressure.</li>
+                <li>Flow Alert watches large USDC inflow, transfer count, max transfer, 7-day z-score, and Polymarket volume spikes.</li>
+                <li>Polymarket Z shows how far 24h Polymarket volume is from its 7-day baseline.</li>
+                <li>Large USDC is the collected large-flow total. It is limited when the Dune source is not configured.</li>
+              </ul>
+              <p>
+                As a rough guide, Market Context above 70 is more supportive, 40-70 is mixed,
+                and below 40 is cautious. Risk scores are inverted: higher means more caution.
+              </p>
+            </div>
+          </div>
+        </details>
       </section>
 
       <section class="panel" aria-labelledby="dataTitle">

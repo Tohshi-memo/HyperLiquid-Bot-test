@@ -194,6 +194,44 @@ h3 {
   line-height: 1.2;
 }
 
+.metric-guide {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.metric-guide summary {
+  cursor: pointer;
+  color: var(--blue);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.metric-guide-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 10px;
+}
+
+.metric-guide-grid p,
+.metric-guide-grid li {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.metric-guide-grid ul {
+  display: grid;
+  gap: 4px;
+  margin: 8px 0;
+  padding-left: 18px;
+}
+
+.metric-guide-grid code {
+  color: var(--text);
+  overflow-wrap: anywhere;
+}
+
 .readiness {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -458,6 +496,10 @@ tbody tr:last-child td {
   }
 
   .guide-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .metric-guide-grid {
     grid-template-columns: 1fr;
   }
 
