@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HyperLiquid Public Market Monitor</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Public Crypto Context</p>
+        <h1>HyperLiquid Market Monitor</h1>
+      </div>
+      <div class="topbar__meta">
+        <span id="readinessBadge" class="badge badge--neutral">loading</span>
+        <span id="updatedAt" class="muted">--</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel panel--status" aria-labelledby="statusTitle">
+        <div class="section-head">
+          <h2 id="statusTitle">Market Status</h2>
+          <span id="flowLevel" class="badge badge--neutral">--</span>
+        </div>
+        <div class="metric-grid">
+          <article class="metric">
+            <span>Market Context</span>
+            <strong id="marketContextScore">--</strong>
+          </article>
+          <article class="metric">
+            <span>News Risk</span>
+            <strong id="newsRiskScore">--</strong>
+          </article>
+          <article class="metric">
+            <span>Risk-On</span>
+            <strong id="riskOnScore">--</strong>
+          </article>
+          <article class="metric">
+            <span>Flow Alert</span>
+            <strong id="flowAlertScore">--</strong>
+          </article>
+          <article class="metric">
+            <span>Polymarket Z</span>
+            <strong id="polyZScore">--</strong>
+          </article>
+          <article class="metric">
+            <span>Large USDC</span>
+            <strong id="largeUsdc">--</strong>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel" aria-labelledby="dataTitle">
+        <div class="section-head">
+          <h2 id="dataTitle">Data Readiness</h2>
+          <span id="correlationStatus" class="badge badge--neutral">--</span>
+        </div>
+        <div class="readiness">
+          <div>
+            <span class="label">Asset price records</span>
+            <strong id="assetPriceRecords">--</strong>
+          </div>
+          <div>
+            <span class="label">Flow records</span>
+            <strong id="flowRecords">--</strong>
+          </div>
+          <div>
+            <span class="label">1h labels</span>
+            <strong id="label1h">--</strong>
+          </div>
+          <div>
+            <span class="label">4h labels</span>
+            <strong id="label4h">--</strong>
+          </div>
+          <div>
+            <span class="label">24h labels</span>
+            <strong id="label24h">--</strong>
+          </div>
+          <div>
+            <span class="label">72h labels</span>
+            <strong id="label72h">--</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel panel--wide" aria-labelledby="canaryTitle">
+        <div class="section-head">
+          <h2 id="canaryTitle">Canary Signals</h2>
+        </div>
+        <div id="canaryList" class="signal-list"></div>
+      </section>
+
+      <section class="panel panel--wide" aria-labelledby="symbolsTitle">
+        <div class="section-head">
+          <h2 id="symbolsTitle">BTC / ETH / HYPE / SOL</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Symbol</th>
+                <th>Price</th>
+                <th>1h Avg</th>
+                <th>1h Win</th>
+                <th>4h Avg</th>
+                <th>4h Win</th>
+                <th>1h RSI</th>
+                <th>1h Return 12</th>
+              </tr>
+            </thead>
+            <tbody id="symbolsTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel panel--wide" aria-labelledby="classesTitle">
+        <div class="section-head">
+          <h2 id="classesTitle">Asset Classes</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Class</th>
+                <th>Count</th>
+                <th>15m Avg</th>
+                <th>1h Avg</th>
+                <th>4h Avg</th>
+              </tr>
+            </thead>
+            <tbody id="assetClassTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel" aria-labelledby="moversTitle">
+        <div class="section-head">
+          <h2 id="moversTitle">Top Movers</h2>
+        </div>
+        <div class="mover-columns">
+          <div>
+            <h3>Volume</h3>
+            <ul id="topVolume" class="compact-list"></ul>
+          </div>
+          <div>
+            <h3>Gainers</h3>
+            <ul id="topGainers" class="compact-list"></ul>
+          </div>
+          <div>
+            <h3>Losers</h3>
+            <ul id="topLosers" class="compact-list"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" aria-labelledby="reportsTitle">
+        <div class="section-head">
+          <h2 id="reportsTitle">Latest Reports</h2>
+        </div>
+        <nav class="report-links" aria-label="Latest reports">
+          <a href="./data/reports/latest_ai_context_index.md">AI Index</a>
+          <a href="./data/reports/latest_canary_signals.md">Canary</a>
+          <a href="./data/reports/latest_ai_analysis_brief.md">Analysis Brief</a>
+          <a href="./data/reports/latest_asset_universe.md">Asset Universe</a>
+          <a href="./data/reports/latest_context.md">Context</a>
+          <a href="./data/reports/latest_flow_alert.md">Flow</a>
+        </nav>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>Public data only. No private strategy, wallet, position, or execution data.</span>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

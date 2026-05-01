@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-01T15:00:28.988211+00:00",
+  "purpose": "Small cross-market canary pack for detecting early links among news, Polymarket flow, large-flow alerts, and HyperLiquid asset-class prices.",
+  "sample_status": {
+    "asset_price_records": 10,
+    "market_context_records": 37,
+    "flow_alert_records": 71,
+    "minimum_for_correlation": 24,
+    "ready_for_correlation": false
+  },
+  "correlation_status": "insufficient_samples",
+  "signals": [
+    {
+      "name": "baseline",
+      "score": 0,
+      "message": "No elevated canary signal. Continue collecting samples."
+    }
+  ],
+  "class_returns": {
+    "15m": {
+      "commodity": {
+        "count": 7,
+        "avg_return_pct": 0.0769,
+        "median_return_pct": 0.0,
+        "up_pct": 28.57
+      },
+      "crypto_alt": {
+        "count": 223,
+        "avg_return_pct": 0.1119,
+        "median_return_pct": 0.0387,
+        "up_pct": 55.61
+      },
+      "crypto_major": {
+        "count": 7,
+        "avg_return_pct": 0.0805,
+        "median_return_pct": 0.0605,
+        "up_pct": 85.71
+      },
+      "equity": {
+        "count": 42,
+        "avg_return_pct": 0.1541,
+        "median_return_pct": 0.1464,
+        "up_pct": 64.29
+      },
+      "fx": {
+        "count": 4,
+        "avg_return_pct": 0.0043,
+        "median_return_pct": 0.0,
+        "up_pct": 25.0
+      },
+      "index": {
+        "count": 9,
+        "avg_return_pct": -0.0944,
+        "median_return_pct": -0.0048,
+        "up_pct": 22.22
+      },
+      "metal": {
+        "count": 7,
+        "avg_return_pct": -0.0218,
+        "median_return_pct": 0.0043,
+        "up_pct": 57.14
+      },
+      "unknown": {
+        "count": 311,
+        "avg_return_pct": -0.0141,
+        "median_return_pct": 0.0,
+        "up_pct": 16.08
+      }
+    },
+    "1h": {
+      "commodity": {
+        "count": 7,
+        "avg_return_pct": 0.2698,
+        "median_return_pct": 0.0,
+        "up_pct": 42.86
+      },
+      "crypto_alt": {
+        "count": 223,
+        "avg_return_pct": -0.2374,
+        "median_return_pct": -0.2282,
+        "up_pct": 17.04
+      },
+      "crypto_major": {
+        "count": 7,
+        "avg_return_pct": -0.4464,
+        "median_return_pct": -0.3519,
+        "up_pct": 0.0
+      },
+      "equity": {
+        "count": 42,
+        "avg_return_pct": 0.1082,
+        "median_return_pct": -0.0094,
+        "up_pct": 45.24
+      },
+      "fx": {
+        "count": 4,
+        "avg_return_pct": 0.033,
+        "median_return_pct": 0.0149,
+        "up_pct": 50.0
+      },
+      "index": {
+        "count": 9,
+        "avg_return_pct": -0.0793,
+        "median_return_pct": -0.165,
+        "up_pct": 22.22
+      },
+      "metal": {
+        "count": 7,
+        "avg_return_pct": -0.3673,
+        "median_return_pct": -0.0811,
+        "up_pct": 14.29
+      },
+      "unknown": {
+        "count": 311,
+        "avg_return_pct": 0.1697,
+        "median_return_pct": 0.0,
+        "up_pct": 9.65
+      }
+    },
+    "4h": {
+      "crypto_alt": {
+        "count": 223,
+        "avg_return_pct": 0.8164,
+        "median_return_pct": 0.8924,
+        "up_pct": 70.4
+      },
+      "crypto_major": {
+        "count": 7,
+        "avg_return_pct": 0.8303,
+        "median_return_pct": 0.9858,
+        "up_pct": 100.0
+      },
+      "metal": {
+        "count": 1,
+        "avg_return_pct": 1.21,
+        "median_return_pct": 1.21,
+        "up_pct": 100.0
+      },
+      "unknown": {
+        "count": 310,
+        "avg_return_pct": 0.6935,
+        "median_return_pct": 0.0,
+        "up_pct": 24.52
+      }
+    },
+    "24h": {}
+  },
+  "correlations": [],
+  "watch_rules": [
+    "High flow_alert_score followed by crypto_major or crypto_alt class move.",
+    "Polymarket 24h volume z-score spike before crypto or equity/index perp move.",
+    "News risk spike with metal outperformance or crypto underperformance.",
+    "Index/equity perp strength leading crypto_major strength or weakness.",
+    "FX/commodity stress moving before broad crypto volatility."
+  ],
+  "source_files": [
+    "data/processed/asset_price_history.json",
+    "data/processed/market_context_history.json",
+    "data/processed/flow_alert_history.json",
+    "data/processed/asset_universe_latest.json"
+  ]
+}

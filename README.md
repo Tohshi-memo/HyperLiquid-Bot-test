@@ -70,12 +70,23 @@ Polymarket volume, large-flow aggregates, and asset-class returns for crypto,
 equity, index, metal, commodity, and FX perps. These are early-warning research
 signals, not direct trade instructions.
 
+## Report Site
+
+The `docs/` directory contains a static, AI-free report dashboard for GitHub
+Pages. It reads copied compact JSON/Markdown from `docs/data/` and displays
+market status, canary signals, data readiness, BTC/ETH/HYPE/SOL stats,
+asset-class movement, and top movers.
+
+The site intentionally does not show private strategy, entries, SL/TP decisions,
+wallet data, positions, or execution status.
+
 ## Run Locally
 
 ```bash
 pip install -r requirements.txt
 python -m collector.collect_context
 COLLECTOR_PROFILE=flow_alert python -m collector.collect_context
+python tools/build_report_site_data.py
 ```
 
 ## Schedule

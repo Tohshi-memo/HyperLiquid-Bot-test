@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-01T15:00:28.988211+00:00",
+  "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
+  "recommended_reading_order": [
+    "data/reports/latest_ai_context_index.md",
+    "data/processed/ai_context_index.json",
+    "data/reports/latest_canary_signals.md",
+    "data/processed/canary_signals.json",
+    "data/reports/latest_ai_analysis_brief.md",
+    "data/processed/ai_analysis_pack.json",
+    "data/reports/latest_asset_universe.md",
+    "Load full JSON files only for validating a specific candidate rule."
+  ],
+  "source_repository": "https://github.com/Tohshi-memo/HyperLiquid-Bot-test.git",
+  "private_strategy_repository": "https://github.com/Tohshi-memo/hyperliquid-swing-trader.git",
+  "files": {
+    "first_read": [
+      {
+        "path": "data/reports/latest_ai_context_index.md",
+        "bytes": 1485,
+        "note": "Human-readable map."
+      },
+      {
+        "path": "data/processed/ai_context_index.json",
+        "bytes": 9373,
+        "note": "Machine-readable map."
+      },
+      {
+        "path": "data/reports/latest_canary_signals.md",
+        "bytes": 1132,
+        "note": "Current canary signals."
+      },
+      {
+        "path": "data/reports/latest_ai_analysis_brief.md",
+        "bytes": 835,
+        "note": "BTC/ETH/HYPE/SOL compact stats."
+      },
+      {
+        "path": "data/processed/ai_analysis_pack.json",
+        "bytes": 19893,
+        "note": "Compact strategy stats."
+      },
+      {
+        "path": "data/reports/latest_asset_universe.md",
+        "bytes": 4796,
+        "note": "Asset-class overview."
+      }
+    ],
+    "conditional": [
+      {
+        "path": "data/processed/asset_universe_latest.json",
+        "bytes": 677706,
+        "note": "Latest all-symbol rows."
+      },
+      {
+        "path": "data/processed/asset_price_history.json",
+        "bytes": 150752,
+        "note": "Active all-symbol 15m price window."
+      },
+      {
+        "path": "data/processed/day_swing_dataset.json",
+        "bytes": 180558,
+        "note": "Full BTC/ETH/HYPE/SOL feature and label rows."
+      },
+      {
+        "path": "data/processed/market_context_history.json",
+        "bytes": 11984,
+        "note": "News/context history."
+      },
+      {
+        "path": "data/processed/flow_alert_history.json",
+        "bytes": 30956,
+        "note": "Polymarket/flow history."
+      }
+    ],
+    "archives": []
+  },
+  "dataset_health": {
+    "market_context_history_records": 37,
+    "flow_alert_history_records": 71,
+    "asset_price_active_records": 10,
+    "asset_price_active_window": {
+      "first_observed_at": "2026-05-01T10:15:00+00:00",
+      "last_observed_at": "2026-05-01T15:00:00+00:00"
+    },
+    "asset_price_archive_files": [],
+    "asset_count": 610,
+    "priced_asset_count": 610,
+    "asset_class_counts": {
+      "commodity": 7,
+      "crypto_alt": 223,
+      "crypto_major": 7,
+      "equity": 42,
+      "fx": 4,
+      "index": 9,
+      "metal": 7,
+      "unknown": 311
+    },
+    "day_swing_records": 23,
+    "day_swing_label_counts": {
+      "1h": 76,
+      "4h": 28,
+      "24h": 0,
+      "72h": 0
+    }
+  },
+  "latest_market_snapshot": {
+    "generated_at": "2026-05-01T15:00:28.988211+00:00",
+    "scores": {
+      "news_risk_score": 46,
+      "risk_on_score": 35.14,
+      "market_context_score": 43.63
+    },
+    "news": {
+      "article_count": 22,
+      "risk_keyword_hits": 3,
+      "sentiment_score": -0.1429
+    },
+    "polymarket_market_count": 2,
+    "flow_alert": {
+      "generated_at": "2026-05-01T14:55:25.125608+00:00",
+      "scores": {
+        "flow_alert_score": 5.19,
+        "flow_alert_level": "baseline"
+      },
+      "large_flows": {
+        "enabled": false,
+        "query_id": null,
+        "large_usdc_tx_count": 0,
+        "large_usdc_inflow": 0,
+        "max_large_usdc_transfer": 0.0,
+        "unique_large_wallets": 0,
+        "latest_transfer_at": null,
+        "source_state": null,
+        "source_execution_ended_at": null,
+        "source_reason": "DUNE_LARGE_FLOW_QUERY_ID is not set",
+        "inflow_zscore_7d": 0.0
+      },
+      "polymarket": {
+        "market_count": 2,
+        "volume_24h": 9663.82,
+        "lifetime_volume": 5583306.41,
+        "liquidity": 119573.07,
+        "top_markets": [
+          {
+            "question": "Will MegaETH perform an airdrop by June 30? ",
+            "slug": "will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254",
+            "volume_24h": 8342.150618000001,
+            "volume": 1510937.8701839969,
+            "liquidity": 3656.52248,
+            "end_date": "2026-02-01T05:00:00Z"
+          },
+          {
+            "question": "Will bitcoin hit $1m before GTA VI?",
+            "slug": "will-bitcoin-hit-1m-before-gta-vi-872",
+            "volume_24h": 1321.671089,
+            "volume": 4072368.5419925363,
+            "liquidity": 115916.54362,
+            "end_date": "2026-07-31T12:00:00Z"
+          }
+        ],
+        "volume_24h_zscore_7d": -1.49
+      }
+    }
+  },
+  "canary_summary": {
+    "status": "insufficient_samples",
+    "sample_status": {
+      "asset_price_records": 10,
+      "market_context_records": 37,
+      "flow_alert_records": 71,
+      "minimum_for_correlation": 24,
+      "ready_for_correlation": false
+    },
+    "signals": [
+      {
+        "name": "baseline",
+        "score": 0,
+        "message": "No elevated canary signal. Continue collecting samples."
+      }
+    ],
+    "class_returns": {
+      "15m": {
+        "commodity": {
+          "count": 7,
+          "avg_return_pct": 0.0769,
+          "median_return_pct": 0.0,
+          "up_pct": 28.57
+        },
+        "crypto_alt": {
+          "count": 223,
+          "avg_return_pct": 0.1119,
+          "median_return_pct": 0.0387,
+          "up_pct": 55.61
+        },
+        "crypto_major": {
+          "count": 7,
+          "avg_return_pct": 0.0805,
+          "median_return_pct": 0.0605,
+          "up_pct": 85.71
+        },
+        "equity": {
+          "count": 42,
+          "avg_return_pct": 0.1541,
+          "median_return_pct": 0.1464,
+          "up_pct": 64.29
+        },
+        "fx": {
+          "count": 4,
+          "avg_return_pct": 0.0043,
+          "median_return_pct": 0.0,
+          "up_pct": 25.0
+        },
+        "index": {
+          "count": 9,
+          "avg_return_pct": -0.0944,
+          "median_return_pct": -0.0048,
+          "up_pct": 22.22
+        },
+        "metal": {
+          "count": 7,
+          "avg_return_pct": -0.0218,
+          "median_return_pct": 0.0043,
+          "up_pct": 57.14
+        },
+        "unknown": {
+          "count": 311,
+          "avg_return_pct": -0.0141,
+          "median_return_pct": 0.0,
+          "up_pct": 16.08
+        }
+      },
+      "1h": {
+        "commodity": {
+          "count": 7,
+          "avg_return_pct": 0.2698,
+          "median_return_pct": 0.0,
+          "up_pct": 42.86
+        },
+        "crypto_alt": {
+          "count": 223,
+          "avg_return_pct": -0.2374,
+          "median_return_pct": -0.2282,
+          "up_pct": 17.04
+        },
+        "crypto_major": {
+          "count": 7,
+          "avg_return_pct": -0.4464,
+          "median_return_pct": -0.3519,
+          "up_pct": 0.0
+        },
+        "equity": {
+          "count": 42,
+          "avg_return_pct": 0.1082,
+          "median_return_pct": -0.0094,
+          "up_pct": 45.24
+        },
+        "fx": {
+          "count": 4,
+          "avg_return_pct": 0.033,
+          "median_return_pct": 0.0149,
+          "up_pct": 50.0
+        },
+        "index": {
+          "count": 9,
+          "avg_return_pct": -0.0793,
+          "median_return_pct": -0.165,
+          "up_pct": 22.22
+        },
+        "metal": {
+          "count": 7,
+          "avg_return_pct": -0.3673,
+          "median_return_pct": -0.0811,
+          "up_pct": 14.29
+        },
+        "unknown": {
+          "count": 311,
+          "avg_return_pct": 0.1697,
+          "median_return_pct": 0.0,
+          "up_pct": 9.65
+        }
+      },
+      "4h": {
+        "crypto_alt": {
+          "count": 223,
+          "avg_return_pct": 0.8164,
+          "median_return_pct": 0.8924,
+          "up_pct": 70.4
+        },
+        "crypto_major": {
+          "count": 7,
+          "avg_return_pct": 0.8303,
+          "median_return_pct": 0.9858,
+          "up_pct": 100.0
+        },
+        "metal": {
+          "count": 1,
+          "avg_return_pct": 1.21,
+          "median_return_pct": 1.21,
+          "up_pct": 100.0
+        },
+        "unknown": {
+          "count": 310,
+          "avg_return_pct": 0.6935,
+          "median_return_pct": 0.0,
+          "up_pct": 24.52
+        }
+      },
+      "24h": {}
+    },
+    "correlations": []
+  },
+  "analysis_policy": {
+    "normal_first_pass": "Use index, canary report, AI analysis pack, and markdown reports only.",
+    "read_full_latest_assets_when": "Checking individual symbol asset_class, asset_id, funding, open interest, volume, HIP-3 dex, or order feasibility.",
+    "read_full_price_history_when": "Testing cross-asset lead/lag, Polymarket/news/flow correlation, or a specific class-level signal.",
+    "read_archives_when": "The active window is insufficient for a candidate rule and older samples are required. Archives are compressed to reduce repo bloat and AI reading."
+  }
+}
