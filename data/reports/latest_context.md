@@ -1,14 +1,14 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-01T09:56:40.991448+00:00`
+- Generated: `2026-05-01T10:00:25.952757+00:00`
 - Market context score: `44.88`
 - News risk score: `44`
 - Risk-on score: `35.78`
 - Articles: `15`
 - Polymarket markets: `4`
 
-- Day/swing records: `2`
-- Day/swing latest: `2026-05-01T09:45:00+00:00`
+- Day/swing records: `3`
+- Day/swing latest: `2026-05-01T10:00:00+00:00`
 
 ## Headlines
 
