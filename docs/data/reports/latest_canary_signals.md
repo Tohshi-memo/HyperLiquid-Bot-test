@@ -2,9 +2,9 @@
 
 These are early-warning indicators for cross-market relationships. They are hypotheses to test, not trade signals by themselves.
 
-- Updated: `2026-05-01T17:31:07.936989+00:00`
+- Updated: `2026-05-01T18:44:28.442948+00:00`
 - Correlation status: `insufficient_samples`
-- Asset price records: `12`
+- Asset price records: `13`
 - Minimum samples for correlation: `24`
 
 ## Current Signals
@@ -13,9 +13,9 @@ These are early-warning indicators for cross-market relationships. They are hypo
 
 ## Class Returns
 
-- 15m: commodity avg `0.2589` n `7`; crypto_alt avg `-0.2423` n `223`; crypto_major avg `-0.2644` n `7`; equity avg `-0.2502` n `42`; fx avg `-0.0072` n `4`; index avg `0.0561` n `9`; metal avg `-0.1996` n `7`; unknown avg `-0.2273` n `311`
-- 1h: commodity avg `0.2589` n `7`; crypto_alt avg `-0.2423` n `223`; crypto_major avg `-0.2644` n `7`; equity avg `-0.2502` n `42`; fx avg `-0.0072` n `4`; index avg `0.0561` n `9`; metal avg `-0.1996` n `7`; unknown avg `-0.2273` n `311`
-- 4h: crypto_alt avg `0.1693` n `223`; crypto_major avg `-0.2568` n `7`; metal avg `0.8098` n `1`; unknown avg `0.1893` n `310`
+- 15m: commodity avg `0.1836` n `7`; crypto_alt avg `0.2972` n `223`; crypto_major avg `0.21` n `7`; equity avg `0.0236` n `42`; fx avg `-0.0149` n `4`; index avg `0.0709` n `9`; metal avg `-0.2213` n `7`; unknown avg `0.532` n `311`
+- 1h: commodity avg `0.1836` n `7`; crypto_alt avg `0.2972` n `223`; crypto_major avg `0.21` n `7`; equity avg `0.0236` n `42`; fx avg `-0.0149` n `4`; index avg `0.0709` n `9`; metal avg `-0.2213` n `7`; unknown avg `0.532` n `311`
+- 4h: commodity avg `0.4126` n `7`; crypto_alt avg `0.2043` n `223`; crypto_major avg `0.059` n `7`; equity avg `0.2713` n `42`; fx avg `-0.0264` n `4`; index avg `-0.0288` n `9`; metal avg `-0.4879` n `7`; unknown avg `1.0262` n `311`
 
 ## Correlations
 
