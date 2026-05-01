@@ -2,15 +2,15 @@ name: Public Flow Alert Collector
 
 on:
   schedule:
-    - cron: '2-59/5 * * * *'
+    - cron: '0-59/5 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: public-flow-alert-${{ github.ref }}
-  cancel-in-progress: true
+  group: public-data-writer-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   collect:
