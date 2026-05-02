@@ -1,36 +1,36 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T13:30:21.697936+00:00`
-- Market context score: `58.66`
-- News risk score: `35.48`
-- Macro risk score: `24.29`
-- Risk-on score: `47.26`
-- Articles: `29`
+- Generated: `2026-05-02T13:45:18.631687+00:00`
+- Market context score: `57.77`
+- News risk score: `36.74`
+- Macro risk score: `26.66`
+- Risk-on score: `47.24`
+- Articles: `31`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `77`
+- Asset price history records: `78`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `90`
-- Day/swing latest: `2026-05-02T13:30:00+00:00`
+- Day/swing records: `91`
+- Day/swing latest: `2026-05-02T13:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.1905`, policy hits `2`
+- macro: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `3`
 
 ## Headlines
 
-- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
-- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
-- [macro] Dave Ramsey to Wife Who Caught Husband Lying About Debt 4 Times: ’41 Years Down the Toilet’ (Yahoo Finance)
-- [crypto] The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Prediction markets are ditching the 'casino' label to become a regular part of how people track the news (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Jerome Powell's Fed years were an everything rally: Chart of the Day (Yahoo Finance)
-- [macro] 22-year-old billionaires pay professionals $2M a day to train the AI that could replace them (Yahoo Finance)
+- [macro] Higher gas prices are eating into Americans' tax refunds (Yahoo Finance)
 - [macro] Dow Jones Futures: Stock Market Hits High After Bullish Pause; Apple, Broadcom In Buy Zones (Yahoo Finance)
-- [macro] Infleqtion Went Public in February -- Here's Why This Cold Atom Stock Could Be a Breakout Buy (Yahoo Finance)
-- [macro] Amazon Just Proved It's No Longer an AI Underdog (Yahoo Finance)
+- [macro] While Oil Prices Skyrocketed in the First Quarter, ExxonMobil's Profits Fell. Here's What Happened. (Yahoo Finance)
+- [macro] GameStop Gears Up For EBay Takeover Offer: WSJ (Yahoo Finance)
+- [macro] Berkshire Hathaway Earnings Beat, Cash Hoard Swells; Spotlight On Warren Buffett Successor (Yahoo Finance)
+- [macro] A 70-Year-Old With $1.4 Million Faces a $62,000 RMD That Pushes Him Into a Higher Tax Bracket (Yahoo Finance)
+- [macro] A Couple’s $1.2 Million Portfolio Faces a 3.9% Withdrawal Rate That Feels Safe but Is Not (Yahoo Finance)
+- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
+- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
+- [macro] NVIDIA’s New Quantum‑AI Models Are Impressive — and the Market Doesn’t Seem Ready to Price the Step‑Change (Yahoo Finance)
