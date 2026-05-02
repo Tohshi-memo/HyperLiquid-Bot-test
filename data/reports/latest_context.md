@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T19:40:14.510488+00:00`
+- Generated: `2026-05-02T19:45:20.436784+00:00`
 - Market context score: `47.19`
 - News risk score: `52.02`
 - Macro risk score: `26.23`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `101`
+- Asset price history records: `102`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `114`
-- Day/swing latest: `2026-05-02T19:30:00+00:00`
+- Day/swing records: `115`
+- Day/swing latest: `2026-05-02T19:45:00+00:00`
 
 ## News Categories
 
@@ -26,9 +26,9 @@
 ## Headlines
 
 - [macro] Is This Dividend King a Buy Near Its All-Time High? (Yahoo Finance)
-- [macro] ExxonMobil Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] XPO Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Zeta Global Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] WisdomTree Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Wabash National Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] W.P. Carey Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Recent inflation data was 'bad news,' Fed's Goolsbee says (Yahoo Finance)
 - [macro] The key to TikTok Shop’s blockbuster $4.9-billion quarter? The fastest-growing spenders aren't Gen Z — they're over 45 (Yahoo Finance)
 - [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
