@@ -1,31 +1,32 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T00:30:26.590375+00:00`
-- Market context score: `49.33`
-- News risk score: `42.27`
-- Macro risk score: `41.53`
-- Risk-on score: `38.79`
-- Articles: `49`
+- Generated: `2026-05-02T00:45:20.356311+00:00`
+- Market context score: `49.79`
+- News risk score: `41.66`
+- Macro risk score: `40.49`
+- Risk-on score: `38.89`
+- Articles: `47`
 - Polymarket markets: `2`
 
 - Asset universe count: `610`
-- Asset price history records: `25`
+- Asset price history records: `26`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:311`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `38`
-- Day/swing latest: `2026-05-02T00:30:00+00:00`
+- Day/swing records: `39`
+- Day/swing latest: `2026-05-02T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `19`, risk hits `5`, risk headline rate `0.1579`, policy hits `3`
-- macro: articles `24`, risk hits `11`, risk headline rate `0.4583`, policy hits `1`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.1667`, policy hits `3`
+- macro: articles `23`, risk hits `10`, risk headline rate `0.4348`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump tells Congress ceasefire means he does not need their approval for Iran war (BBC News)
 - [macro] US court limits mail-order access to abortion pill mifepristone (BBC News)
 - [macro] Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready? (BBC News)
 - [macro] Love, lies, angry ghosts: Indians are bingeing on two-minute dramas (BBC News)
@@ -35,4 +36,3 @@
 - [macro] Mortgages, jobs and energy bills - how the Iran war will affect your money (BBC News)
 - [crypto] Three Bitcoin data points suggest a rally to $80K is imminent (Cointelegraph.com News)
 - [macro] Pentagon says US military to be an 'AI-first' fighting force (BBC News)
-- [macro] Trump tells Congress ceasefire means he does not need their approval for Iran war (BBC News)
