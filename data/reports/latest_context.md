@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T23:00:28.210177+00:00`
+- Generated: `2026-05-02T23:08:52.419003+00:00`
 - Market context score: `38.27`
 - News risk score: `59.87`
 - Macro risk score: `28.02`
@@ -25,6 +25,7 @@
 
 ## Headlines
 
+- [macro] Trump tells Congress ceasefire means he does not need their approval for Iran war (BBC News)
 - [macro] Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results (Yahoo Finance)
 - [macro] Mizuho Says Micron (MU) Cheap as Memory Demand Grows (Yahoo Finance)
 - [macro] Uber Technologies (UBER) Launches In-App Hotel Booking Service (Yahoo Finance)
@@ -34,4 +35,3 @@
 - [macro] Stifel Cuts META Price Target, Keeps Buy Rating (Yahoo Finance)
 - [macro] NVIDIA (NVDA): Among the Best American Stocks to Buy in the Technology Sector (Yahoo Finance)
 - [macro] Pivotal Research Raises Alphabet (GOOGL) Price Target, Keeps Buy Rating (Yahoo Finance)
-- [macro] Stifel Raises Microsoft (MSFT) Price Target, Keeps Hold Rating (Yahoo Finance)
