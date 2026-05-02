@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T23:08:52.419003+00:00`
+- Generated: `2026-05-02T23:15:32.778731+00:00`
 - Market context score: `38.27`
 - News risk score: `59.87`
 - Macro risk score: `28.02`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `115`
+- Asset price history records: `116`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `128`
-- Day/swing latest: `2026-05-02T23:00:00+00:00`
+- Day/swing records: `129`
+- Day/swing latest: `2026-05-02T23:15:00+00:00`
 
 ## News Categories
 
@@ -25,7 +25,9 @@
 
 ## Headlines
 
+- [macro] Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification (BBC News)
 - [macro] Trump tells Congress ceasefire means he does not need their approval for Iran war (BBC News)
+- [macro] Prediction: This Will be Amazon's Next Big Move (Yahoo Finance)
 - [macro] Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results (Yahoo Finance)
 - [macro] Mizuho Says Micron (MU) Cheap as Memory Demand Grows (Yahoo Finance)
 - [macro] Uber Technologies (UBER) Launches In-App Hotel Booking Service (Yahoo Finance)
@@ -33,5 +35,3 @@
 - [macro] Morgan Stanley Raises Apple (AAPL) Price Target, Keeps Overweight Rating (Yahoo Finance)
 - [macro] Is Broadcom (AVGO) One of the Best American Tech Stocks to Buy? (Yahoo Finance)
 - [macro] Stifel Cuts META Price Target, Keeps Buy Rating (Yahoo Finance)
-- [macro] NVIDIA (NVDA): Among the Best American Stocks to Buy in the Technology Sector (Yahoo Finance)
-- [macro] Pivotal Research Raises Alphabet (GOOGL) Price Target, Keeps Buy Rating (Yahoo Finance)
