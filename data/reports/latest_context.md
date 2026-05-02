@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T07:45:37.032720+00:00`
+- Generated: `2026-05-02T07:58:06.871353+00:00`
 - Market context score: `53.73`
 - News risk score: `44.11`
 - Macro risk score: `30.46`
@@ -24,9 +24,9 @@
 
 ## Headlines
 
+- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
+- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
 - [crypto] Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
-- [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
 - [crypto] New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst (Cointelegraph.com News)
 - [macro] 'If we sleep they bite': Rats and weasels infest camps for displaced Gazans (BBC News)
