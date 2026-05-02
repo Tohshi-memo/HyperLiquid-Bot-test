@@ -2,21 +2,21 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-02T07:30:21.537844+00:00`
-- Asset price active records: `53`
-- Day/swing records: `66`
-- Flow-alert history records: `277`
+- Updated: `2026-05-02T07:45:37.032720+00:00`
+- Asset price active records: `54`
+- Day/swing records: `67`
+- Flow-alert history records: `280`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1473 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (12079 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2135 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (838 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (22551 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (4803 bytes): Asset-class overview.
+- `data/processed/ai_context_index.json` (12105 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2142 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (840 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (22564 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (4797 bytes): Asset-class overview.
 
 ## Asset Classes
 
@@ -27,7 +27,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 - fx: `4`
 - index: `9`
 - metal: `7`
-- unknown: `311`
+- unknown: `313`
 
 ## Canary Snapshot
 
