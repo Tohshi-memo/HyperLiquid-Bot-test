@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-02T18:40:20.026141+00:00`
+- Generated: `2026-05-02T18:45:57.908889+00:00`
 - Flow alert score: `5.13`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,7 +13,7 @@
 
 ## Top Polymarket Markets
 
-- Will MegaETH perform an airdrop by June 30?  | 24h volume: `4498.418587000001` | liquidity: `5289.33683`
-- Will bitcoin hit $1m before GTA VI? | 24h volume: `2125.333889` | liquidity: `129765.14737`
+- Will MegaETH perform an airdrop by June 30?  | 24h volume: `4498.418587000001` | liquidity: `5293.96093`
+- Will bitcoin hit $1m before GTA VI? | 24h volume: `2125.333889` | liquidity: `129662.39071`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
