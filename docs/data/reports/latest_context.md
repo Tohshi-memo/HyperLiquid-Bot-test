@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T15:30:22.769105+00:00`
-- Market context score: `55.72`
+- Generated: `2026-05-02T15:35:04.104428+00:00`
+- Market context score: `54.46`
 - News risk score: `38.55`
 - Macro risk score: `21.99`
-- Risk-on score: `42.46`
+- Risk-on score: `39.66`
 - Articles: `48`
 - Polymarket markets: `2`
 
@@ -25,13 +25,13 @@
 
 ## Headlines
 
+- [macro] Why American Superconductor Stock Jumped 58.2% in April (Yahoo Finance)
+- [macro] Middle Class vs. Rich: 3 Investing Moves Grant Cardone Says Set Them Apart in 2026 (Yahoo Finance)
+- [macro] She never merged finances with her husband and he's been accumulating debt. Why Ramsey says she has no right to complain (Yahoo Finance)
 - [commodity] Oil prices fall after Iran sends updated peace proposal to mediators in Pakistan (Energy)
+- [macro] Villere St Denis Dumps 134,000 Tidewater (TDW) Shares Worth $9.3 Million (Yahoo Finance)
+- [macro] Why Axsome Therapeutics Stock Jumped Over 20% in April (Yahoo Finance)
 - [macro] Network shakeups hit Medicare Advantage, forcing retirees to pay up or find new care (Yahoo Finance)
-- [macro] Concentration Risk High as Top Two Stocks Steer U.S. Communication Services ETF Performance (Yahoo Finance)
-- [macro] Amazon and Tesla Drive One-Third of FDIS as U.S. Spending Surges Despite Recession-Level Sentiment (Yahoo Finance)
 - [macro] Microsoft Corporation (MSFT): Billionaire Tom Steyer Is Buying This Stock (Yahoo Finance)
 - [macro] Boston Scientific Corporation (BSX): Billionaire Tom Steyer Is Loading Up on This Stock (Yahoo Finance)
-- [macro] Semiconductor ETF SOXX Delivers 50% YTD—Reddit Retail Cautious Despite Record-Breaking Run (Yahoo Finance)
 - [macro] Amazon.com, Inc. (AMZN): Billionaire Tom Steyer Is Bullish on This Stock (Yahoo Finance)
-- [macro] TransUnion (TRU): Billionaire Tom Steyer Trims Position (Yahoo Finance)
-- [macro] The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine (Yahoo Finance)
