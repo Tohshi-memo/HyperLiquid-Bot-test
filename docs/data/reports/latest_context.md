@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T04:30:26.132758+00:00`
+- Generated: `2026-05-02T04:45:20.105454+00:00`
 - Market context score: `52.2`
 - News risk score: `45.0`
 - Macro risk score: `38.5`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `610`
-- Asset price history records: `41`
+- Asset price history records: `42`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:311`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `54`
-- Day/swing latest: `2026-05-02T04:30:00+00:00`
+- Day/swing records: `55`
+- Day/swing latest: `2026-05-02T04:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 - [macro] 'This tree was planted by my ancestor hundreds of years ago and my family settled here' (BBC News)
 - [macro] Trump claims other presidents flouted war powers law. It's a mixed record (BBC News)
 - [macro] US court limits mail-order access to abortion pill mifepristone (BBC News)
-- [crypto] CLARITY Act stablecoin yield rules finalised: ‘Go time’ for crypto bill (Cointelegraph.com News)
+- [crypto] CLARITY Act stablecoin yield rules finalized: ‘Go time’ for crypto bill (Cointelegraph.com News)
 - [macro] Trump tells Congress ceasefire means he does not need their approval for Iran war (BBC News)
 - [macro] Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready? (BBC News)
 - [macro] Love, lies, angry ghosts: Indians are bingeing on two-minute dramas (BBC News)
