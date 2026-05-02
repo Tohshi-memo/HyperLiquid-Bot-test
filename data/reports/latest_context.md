@@ -1,21 +1,21 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T20:45:38.714669+00:00`
-- Market context score: `44.42`
+- Generated: `2026-05-02T21:00:25.989282+00:00`
+- Market context score: `44.01`
 - News risk score: `54.46`
 - Macro risk score: `25.23`
-- Risk-on score: `32.01`
+- Risk-on score: `31.1`
 - Articles: `46`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `106`
+- Asset price history records: `107`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `119`
-- Day/swing latest: `2026-05-02T20:45:00+00:00`
+- Day/swing records: `120`
+- Day/swing latest: `2026-05-02T21:00:00+00:00`
 
 ## News Categories
 
@@ -26,10 +26,10 @@
 ## Headlines
 
 - [macro] Visteon's Chief People Officer Sold Over 4,000 Company Shares. Here's What That Means for Investors. (Yahoo Finance)
-- [macro] Billionaire Charlie Munger Called Elon Musk Talented, Unusual, And Peculiar— 'I Don't Buy Him And I Don't Sell Him Short' (Yahoo Finance)
 - [macro] What Could Happen if You Put $10,000 Into Oklo Today? (Yahoo Finance)
 - [macro] Aecon Group Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] AltaGas Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Air Canada Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed (Yahoo Finance)
 - [macro] Recent inflation data was 'bad news,' Fed's Goolsbee says (Yahoo Finance)
 - [macro] The key to TikTok Shop’s blockbuster $4.9-billion quarter? The fastest-growing spenders aren't Gen Z — they're over 45 (Yahoo Finance)
