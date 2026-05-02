@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T21:00:25.989282+00:00`
+- Generated: `2026-05-02T21:15:32.073896+00:00`
 - Market context score: `44.01`
 - News risk score: `54.46`
 - Macro risk score: `25.23`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `107`
+- Asset price history records: `108`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `120`
-- Day/swing latest: `2026-05-02T21:00:00+00:00`
+- Day/swing records: `121`
+- Day/swing latest: `2026-05-02T21:15:00+00:00`
 
 ## News Categories
 
@@ -25,13 +25,13 @@
 
 ## Headlines
 
+- [macro] US court limits mail-order access to abortion pill mifepristone (BBC News)
+- [macro] Major Hyperscalers Just Reported Earnings. Nvidia Was The Winner (Yahoo Finance)
+- [macro] Is "The Great Rotation" Back to Crypto Going to Happen Soon? (Yahoo Finance)
+- [macro] Why Apple Stock Climbed This Week (Yahoo Finance)
 - [macro] Visteon's Chief People Officer Sold Over 4,000 Company Shares. Here's What That Means for Investors. (Yahoo Finance)
-- [macro] What Could Happen if You Put $10,000 Into Oklo Today? (Yahoo Finance)
-- [macro] Aecon Group Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] AltaGas Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Air Canada Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Elon Musk Says Most Cryptocurrencies Are 'Scams,' While Some Have 'Merit' During OpenAI Trial: Report (Yahoo Finance)
 - [macro] Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed (Yahoo Finance)
 - [macro] Recent inflation data was 'bad news,' Fed's Goolsbee says (Yahoo Finance)
 - [macro] The key to TikTok Shop’s blockbuster $4.9-billion quarter? The fastest-growing spenders aren't Gen Z — they're over 45 (Yahoo Finance)
 - [macro] Spirit Airlines shutting down after rescue talks collapse (BBC News)
-- [macro] PicoCELA Inc. (PCLA) Unveils Game-Changing Wireless Mesh Technology (Yahoo Finance)
