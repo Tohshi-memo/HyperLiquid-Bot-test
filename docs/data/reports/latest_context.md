@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T00:45:20.356311+00:00`
+- Generated: `2026-05-02T01:00:26.211676+00:00`
 - Market context score: `49.79`
 - News risk score: `41.66`
 - Macro risk score: `40.49`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `610`
-- Asset price history records: `26`
+- Asset price history records: `27`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:311`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `39`
-- Day/swing latest: `2026-05-02T00:45:00+00:00`
+- Day/swing records: `40`
+- Day/swing latest: `2026-05-02T01:00:00+00:00`
 
 ## News Categories
 
