@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T22:00:28.109284+00:00`
+- Generated: `2026-05-02T22:15:30.338893+00:00`
 - Market context score: `42.92`
 - News risk score: `56.07`
 - Macro risk score: `27.97`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `111`
+- Asset price history records: `112`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `124`
-- Day/swing latest: `2026-05-02T22:00:00+00:00`
+- Day/swing records: `125`
+- Day/swing latest: `2026-05-02T22:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 - [macro] Better Oil Stock: Diamondback Energy vs. Chevron (Yahoo Finance)
 - [macro] You're 50 with $30,000 in debt and nothing saved for retirement — here's how to hit $500K by 65 (Yahoo Finance)
 - [macro] GEO Group Annual Meeting Recap: Directors Elected, $520M Contract Wins and 2025 Results Highlighted (Yahoo Finance)
-- [macro] Capstone Copper Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Capital Power Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] US Supreme Court asked to restore abortion pill access (BBC News)
 - [macro] US jobs report to show resilience in the wake of Iran war (Yahoo Finance)
 - [macro] Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed (Yahoo Finance)
