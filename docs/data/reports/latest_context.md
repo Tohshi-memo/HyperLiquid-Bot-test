@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T22:15:30.338893+00:00`
-- Market context score: `42.92`
-- News risk score: `56.07`
-- Macro risk score: `27.97`
-- Risk-on score: `31.08`
-- Articles: `47`
+- Generated: `2026-05-02T22:21:18.670717+00:00`
+- Market context score: `40.27`
+- News risk score: `59.87`
+- Macro risk score: `28.02`
+- Risk-on score: `28.4`
+- Articles: `46`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
@@ -20,7 +20,7 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `8`, risk headline rate `0.625`, policy hits `1`
+- crypto: articles `7`, risk hits `8`, risk headline rate `0.7143`, policy hits `1`
 - macro: articles `38`, risk hits `9`, risk headline rate `0.2105`, policy hits `4`
 
 ## Headlines
@@ -29,7 +29,7 @@
 - [macro] Better Oil Stock: Diamondback Energy vs. Chevron (Yahoo Finance)
 - [macro] You're 50 with $30,000 in debt and nothing saved for retirement — here's how to hit $500K by 65 (Yahoo Finance)
 - [macro] GEO Group Annual Meeting Recap: Directors Elected, $520M Contract Wins and 2025 Results Highlighted (Yahoo Finance)
-- [macro] Capital Power Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] ARC Resources Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] US Supreme Court asked to restore abortion pill access (BBC News)
 - [macro] US jobs report to show resilience in the wake of Iran war (Yahoo Finance)
 - [macro] Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed (Yahoo Finance)
