@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T08:15:19.800984+00:00`
+- Generated: `2026-05-02T08:30:25.491349+00:00`
 - Market context score: `53.73`
 - News risk score: `44.11`
 - Macro risk score: `30.46`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `56`
+- Asset price history records: `57`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `69`
-- Day/swing latest: `2026-05-02T08:15:00+00:00`
+- Day/swing records: `70`
+- Day/swing latest: `2026-05-02T08:30:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 - [crypto] Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst (Cointelegraph.com News)
-- [macro] 'If we sleep they bite': Rats and weasels infest camps for displaced Gazans (BBC News)
+- [macro] 'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans (BBC News)
 - [crypto] Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May (Cointelegraph.com News)
 - [macro] 'This tree was planted by my ancestor hundreds of years ago and my family settled here' (BBC News)
 - [macro] Trump claims other presidents flouted war powers law. It's a mixed record (BBC News)
