@@ -1,36 +1,36 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T14:45:18.740045+00:00`
-- Market context score: `55.64`
-- News risk score: `38.04`
-- Macro risk score: `24.69`
-- Risk-on score: `42.88`
-- Articles: `38`
+- Generated: `2026-05-02T15:00:28.837131+00:00`
+- Market context score: `56.64`
+- News risk score: `37.82`
+- Macro risk score: `21.42`
+- Risk-on score: `43.68`
+- Articles: `46`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `82`
+- Asset price history records: `83`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `95`
-- Day/swing latest: `2026-05-02T14:45:00+00:00`
+- Day/swing records: `96`
+- Day/swing latest: `2026-05-02T15:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `28`, risk hits `6`, risk headline rate `0.1786`, policy hits `5`
+- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `3`
 
 ## Headlines
 
-- [macro] Thirteen killed in Israeli strikes on southern Lebanon, health ministry says (BBC News)
-- [macro] Jane Fraser Turned Citigroup Inside Out. Now Comes the Hard Part. (Yahoo Finance)
-- [macro] Robinhood Stock Is Down 53%. Is That a Once-in-a-Decade Opportunity, or a Value Trap? (Yahoo Finance)
-- [macro] Fed’s Rate Freeze Could Sting for Social Security Recipients (Yahoo Finance)
-- [macro] How to Build a Retirement Income Plan if You're 5 Years Away (Yahoo Finance)
-- [macro] US threatens shipping firms with sanctions if they pay Iran tolls (BBC News)
-- [macro] Why Rocket Lab Stock Zoomed 28.5% Higher In April (Yahoo Finance)
-- [macro] More Americans are asking AI for money advice – and revealing too much personal information. What you should not share (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] In a low-hire job market, new grads need more than a high GPA (Yahoo Finance)
+- [macro] 'They never expected to live this long' — and now a 30-year retirement threatens to drain their savings (Yahoo Finance)
+- [macro] Why Did AST SpaceMobile Stock Slip in April? (Yahoo Finance)
+- [macro] Is Woodward (WWD) the Best Stock that Billionaire Druckenmiller and Jim Cramer like? (Yahoo Finance)
+- [macro] Teva (TEVA) Enters a New $700 Million Acquisition Deal (Yahoo Finance)
+- [macro] Scotiabank Elevates Restaurant Brands (QSR) PT by $10 – Here’s Why (Yahoo Finance)
+- [macro] William Blair Initiates Natera (NTRA) With Outperform (Yahoo Finance)
+- [macro] Raymond James Starts Insmed (INSM) at Outperform, Citing Limited Competition (Yahoo Finance)
+- [macro] Jefferies Cuts United Airlines (UAL) PT by $6 – Here’s Why (Yahoo Finance)
+- [macro] Here’s Why Bloom Energy (BE) is Among the Stocks that Billionaire Druckenmiller and Jim Cramer Like (Yahoo Finance)
+- [macro] Barclays Raises Coupang (CPNG) Target Price Ahead of Earnings (Yahoo Finance)
