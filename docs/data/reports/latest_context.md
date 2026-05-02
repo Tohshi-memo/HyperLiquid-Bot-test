@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-02T22:45:37.282721+00:00`
-- Market context score: `40.64`
-- News risk score: `59.1`
-- Macro risk score: `26.48`
-- Risk-on score: `28.0`
+- Generated: `2026-05-02T23:00:28.210177+00:00`
+- Market context score: `38.27`
+- News risk score: `59.87`
+- Macro risk score: `28.02`
+- Risk-on score: `23.96`
 - Articles: `46`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `114`
+- Asset price history records: `115`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `127`
-- Day/swing latest: `2026-05-02T22:45:00+00:00`
+- Day/swing records: `128`
+- Day/swing latest: `2026-05-02T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `8`, risk headline rate `0.7143`, policy hits `1`
-- macro: articles `38`, risk hits `8`, risk headline rate `0.1842`, policy hits `4`
+- macro: articles `38`, risk hits `9`, risk headline rate `0.2105`, policy hits `4`
 
 ## Headlines
 
-- [macro] How To Earn $500 A Month From Tyson Foods Stock Ahead Of Q2 Earnings (Yahoo Finance)
-- [macro] Here's the Maximum Spousal Social Security Benefit in 2026 (Yahoo Finance)
-- [macro] Toromont Industries Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Gildan Activewear AGM: Shareholders Reelect 9 Directors, Renew Rights Plan, Approve Say-on-Pay (Yahoo Finance)
-- [macro] Real Matters Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Airlines can cancel flights in advance over fuel shortages, under new plans (BBC News)
-- [macro] You're 50 with $30,000 in debt and nothing saved for retirement — here's how to hit $500K by 65 (Yahoo Finance)
-- [macro] US Supreme Court asked to restore abortion pill access (BBC News)
-- [macro] Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed (Yahoo Finance)
-- [macro] Recent inflation data was 'bad news,' Fed's Goolsbee says (Yahoo Finance)
+- [macro] Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results (Yahoo Finance)
+- [macro] Mizuho Says Micron (MU) Cheap as Memory Demand Grows (Yahoo Finance)
+- [macro] Uber Technologies (UBER) Launches In-App Hotel Booking Service (Yahoo Finance)
+- [macro] Vanguard Growth ETF vs. Vanguard Mega Cap Growth ETF: How They Compare on Costs, Returns, and Risk (Yahoo Finance)
+- [macro] Morgan Stanley Raises Apple (AAPL) Price Target, Keeps Overweight Rating (Yahoo Finance)
+- [macro] Is Broadcom (AVGO) One of the Best American Tech Stocks to Buy? (Yahoo Finance)
+- [macro] Stifel Cuts META Price Target, Keeps Buy Rating (Yahoo Finance)
+- [macro] NVIDIA (NVDA): Among the Best American Stocks to Buy in the Technology Sector (Yahoo Finance)
+- [macro] Pivotal Research Raises Alphabet (GOOGL) Price Target, Keeps Buy Rating (Yahoo Finance)
+- [macro] Stifel Raises Microsoft (MSFT) Price Target, Keeps Hold Rating (Yahoo Finance)
