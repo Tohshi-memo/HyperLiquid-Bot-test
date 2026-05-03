@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T19:30:21.277728+00:00`
+- Generated: `2026-05-03T19:40:01.409151+00:00`
 - Market context score: `59.77`
 - News risk score: `42.2`
 - Macro risk score: `20.18`
@@ -25,8 +25,8 @@
 
 ## Headlines
 
-- [macro] Iran says US has responded to its latest peace proposal (BBC News)
 - [macro] Three dead in suspected virus outbreak on Atlantic cruise ship (BBC News)
+- [macro] Iran says US has responded to its latest peace proposal (BBC News)
 - [macro] Is the Vanguard High Dividend Yield ETF a Buy Now? (Yahoo Finance)
 - [macro] Is Reynolds Consumer Products Inc. (REYN) A Good Stock To Buy Now? (Yahoo Finance)
 - [macro] Is Signet Jewelers Limited (SIG) A Good Stock To Buy Now? (Yahoo Finance)
