@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T11:00:29.593974+00:00`
-- Market context score: `49.23`
-- News risk score: `37.82`
-- Macro risk score: `29.14`
-- Risk-on score: `30.12`
-- Articles: `18`
+- Generated: `2026-05-03T11:05:38.458926+00:00`
+- Market context score: `44.91`
+- News risk score: `36.17`
+- Macro risk score: `25.85`
+- Risk-on score: `17.88`
+- Articles: `17`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
@@ -19,11 +19,13 @@
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [commodity] OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE (Energy)
 - [macro] Nigeria summons South African envoy over attacks on its nationals (BBC News)
 - [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
 - [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
@@ -33,4 +35,3 @@
 - [macro] Huge crowd attends free Shakira Copacabana beach concert (BBC News)
 - [macro] Kenya battles to stop the 'goons and guns' as fears of political violence grow (BBC News)
 - [macro] Man charged with murder and sexual assault of 5-year-old Australian girl (BBC News)
-- [crypto] Crypto industry will be ‘just fine’ if CLARITY Act doesn’t pass: Chris Perkins (Cointelegraph.com News)
