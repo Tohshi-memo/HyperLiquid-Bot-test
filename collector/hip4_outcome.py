@@ -36,9 +36,15 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
     history_max = int(os.getenv("HIP4_HISTORY_MAX_RECORDS", "2880"))
 
     meta_payload, meta_error = post_info(info_url, {"type": "outcomeMeta"}, timeout)
+
+    # Try outcomeMetaAndAssetCtxs first; fall back to outcomeAssetCtxs if 422
     ctx_payload, ctx_error = post_info(
         info_url, {"type": "outcomeMetaAndAssetCtxs"}, timeout
     )
+    if ctx_error and "422" in str(ctx_error):
+        ctx_payload, ctx_error = post_info(
+            info_url, {"type": "outcomeAssetCtxs"}, timeout
+        )
 
     save_raw_payload(now, "outcome_meta", meta_payload, meta_error)
     save_raw_payload(now, "outcome_meta_and_ctxs", ctx_payload, ctx_error)
@@ -237,12 +243,26 @@ def build_rows(
     return rows
 
 
-def derive_underlying(name: Any, description: Any) -> str | None:
+def parse_description(description: Any) -> dict[str, str]:
+    """Parse description: pipe-delimited 'key:value|key:value' string or dict."""
     if isinstance(description, dict):
-        for key in ("underlying", "asset", "underlyingAsset", "symbol"):
-            value = description.get(key)
-            if value:
-                return str(value)
+        return {str(k): str(v) for k, v in description.items() if v is not None}
+    if isinstance(description, str) and description:
+        result = {}
+        for part in description.split("|"):
+            if ":" in part:
+                key, _, value = part.partition(":")
+                result[key.strip()] = value.strip()
+        return result
+    return {}
+
+
+def derive_underlying(name: Any, description: Any) -> str | None:
+    desc = parse_description(description)
+    for key in ("underlying", "asset", "underlyingAsset", "symbol"):
+        value = desc.get(key)
+        if value:
+            return str(value)
     if isinstance(name, str):
         for symbol in ("BTC", "ETH", "SOL", "HYPE", "BNB", "XRP", "DOGE"):
             if symbol in name.upper():
@@ -251,10 +271,10 @@ def derive_underlying(name: Any, description: Any) -> str | None:
 
 
 def derive_class(description: Any, name: Any) -> str | None:
-    if isinstance(description, dict):
-        value = description.get("class") or description.get("type") or description.get("category")
-        if value:
-            return str(value)
+    desc = parse_description(description)
+    value = desc.get("class") or desc.get("type") or desc.get("category")
+    if value:
+        return str(value)
     if isinstance(name, str) and "ABOVE" in name.upper():
         return "price_above"
     if isinstance(name, str) and "BELOW" in name.upper():
@@ -263,11 +283,11 @@ def derive_class(description: Any, name: Any) -> str | None:
 
 
 def derive_expiry(description: Any, outcome: dict[str, Any]) -> str | None:
-    if isinstance(description, dict):
-        for key in ("expiry", "expiresAt", "settlementTime", "endTime"):
-            value = description.get(key)
-            if value:
-                return str(value)
+    desc = parse_description(description)
+    for key in ("expiry", "expiresAt", "settlementTime", "endTime"):
+        value = desc.get(key)
+        if value:
+            return str(value)
     for key in ("expiry", "expiresAt", "endTime"):
         value = outcome.get(key)
         if value:
@@ -276,11 +296,11 @@ def derive_expiry(description: Any, outcome: dict[str, Any]) -> str | None:
 
 
 def derive_target_price(description: Any, outcome: dict[str, Any]) -> float | None:
-    if isinstance(description, dict):
-        for key in ("targetPrice", "strike", "threshold"):
-            value = description.get(key)
-            if value not in (None, ""):
-                return to_float(value) or None
+    desc = parse_description(description)
+    for key in ("targetPrice", "strike", "threshold"):
+        value = desc.get(key)
+        if value not in (None, ""):
+            return to_float(value) or None
     for key in ("targetPrice", "strike"):
         value = outcome.get(key)
         if value not in (None, ""):
@@ -289,11 +309,11 @@ def derive_target_price(description: Any, outcome: dict[str, Any]) -> float | No
 
 
 def derive_period(description: Any, outcome: dict[str, Any]) -> str | None:
-    if isinstance(description, dict):
-        for key in ("period", "interval", "frequency"):
-            value = description.get(key)
-            if value:
-                return str(value)
+    desc = parse_description(description)
+    for key in ("period", "interval", "frequency"):
+        value = desc.get(key)
+        if value:
+            return str(value)
     for key in ("period", "interval"):
         value = outcome.get(key)
         if value:
