@@ -236,6 +236,7 @@ def build_rows(
                     "implied_probability": implied_probability,
                     "volume_24h": to_float(ctx.get("dayNtlVlm") or ctx.get("dayVlm") or ctx.get("volume24h")),
                     "open_interest": to_float(ctx.get("openInterest") or ctx.get("oi")),
+                    "raw_outcome": {k: v for k, v in outcome.items() if k != "sideSpecs"},
                     "raw_side_spec": side,
                     "raw_ctx": ctx,
                 }
