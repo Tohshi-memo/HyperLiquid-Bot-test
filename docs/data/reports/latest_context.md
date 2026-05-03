@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T22:15:17.284660+00:00`
-- Market context score: `60.38`
-- News risk score: `39.13`
-- Macro risk score: `22.77`
-- Risk-on score: `53.6`
-- Articles: `49`
+- Generated: `2026-05-03T22:21:59.513121+00:00`
+- Market context score: `60.33`
+- News risk score: `39.03`
+- Macro risk score: `23.05`
+- Risk-on score: `53.51`
+- Articles: `48`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
@@ -21,17 +21,17 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `37`, risk hits `6`, risk headline rate `0.1622`, policy hits `0`
+- macro: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
 - [macro] Three dead in suspected virus outbreak on Atlantic cruise ship (BBC News)
+- [macro] Dow Jones Futures Rise, Oil Falls As Trump Says U.S. To Guide Ships Through Hormuz; Apple, Broadcom In Buy Zones (Yahoo Finance)
+- [macro] Stock Futures Are Rising Ahead of Jobs Week (Yahoo Finance)
+- [macro] PBF Energy Virtual Annual Meeting: Directors Elected, KPMG Ratified, Pay and Equity Plan Approved (Yahoo Finance)
 - [macro] Apple Is Changing The Rules Right Before Tim Cook Exits (Yahoo Finance)
+- [macro] This IMAX CEO Sale Closes Out a Decade-Old Options Grant (Yahoo Finance)
+- [macro] SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars — here's the plan (Yahoo Finance)
 - [macro] Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use? (Yahoo Finance)
 - [macro] Anthony Scaramucci Reveals His Biggest Investing Mistake, Saying He Won't Repeat It With SpaceX, Anthropic: 'Valuation Is Ridiculous' (Yahoo Finance)
 - [macro] Iran says US has responded to its latest peace proposal (BBC News)
-- [macro] The SpaceX IPO Will Create a $75 Billion Spending Spree -- These 2 AI Stocks Will Win (Yahoo Finance)
-- [macro] A Vita Coco Insider Just Sold After a Near-Double. The Footnote Explains Why (Yahoo Finance)
-- [macro] Occidental Petroleum AGM: CEO Vicki Hollub to Retire June 1, COO Richard Jackson to Take Over (Yahoo Finance)
-- [macro] Natera Inc. (NTRA): Billionaire Tom Steyer’s Stock Pick with Huge Upside Potential (Yahoo Finance)
-- [macro] Trump Approves "Keystone Light" Canada-U.S. Oil Pipeline (Yahoo Finance)
