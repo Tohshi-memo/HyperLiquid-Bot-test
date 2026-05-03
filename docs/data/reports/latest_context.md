@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T16:15:20.346791+00:00`
-- Market context score: `50.73`
-- News risk score: `46.34`
-- Macro risk score: `22.98`
-- Risk-on score: `38.33`
-- Articles: `51`
+- Generated: `2026-05-03T16:28:56.982859+00:00`
+- Market context score: `51.71`
+- News risk score: `46.17`
+- Macro risk score: `22.25`
+- Risk-on score: `40.08`
+- Articles: `52`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
@@ -21,17 +21,17 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
-- macro: articles `40`, risk hits `6`, risk headline rate `0.15`, policy hits `3`
+- macro: articles `41`, risk hits `6`, risk headline rate `0.1463`, policy hits `1`
 
 ## Headlines
 
+- [macro] Jim Cramer on Cardinal: “Gotta Put That One Behind” (Yahoo Finance)
+- [macro] Jim Cramer on AST SpaceMobile: “I Like Space, I Like This One” (Yahoo Finance)
+- [macro] Jim Cramer on Gladstone Land: “I Want Growth, I Don’t Think That They Have Growth” (Yahoo Finance)
+- [macro] Hyperliquid's Momentum Is Fading Fast -- Here's Why the Market Is Treating HYPE as a Trade, not a Long‑Term Buy (Yahoo Finance)
 - [macro] Jim Cramer Says Oklo Is “Just Too Wild a Trader” (Yahoo Finance)
 - [macro] Jim Cramer on Reddit: “I Think This Remains a Terrific Story” (Yahoo Finance)
 - [macro] Why Gold Won’t Save You in a Real Crisis (But Stocks Will) (Yahoo Finance)
 - [macro] Jim Cramer Says He Is “Looking at Palantir as a Longer-Term Investment” (Yahoo Finance)
 - [macro] Jim Cramer on Meta: “It’s Being Clubbed Like a Baby Seal” (Yahoo Finance)
 - [macro] Jim Cramer Points to Elevated Capital Spending as a Concern for Microsoft Investors (Yahoo Finance)
-- [macro] Jim Cramer on Amazon: “I Think This One’s Just Consolidating” (Yahoo Finance)
-- [macro] Jim Cramer Explains Why Wall Street Liked Alphabet Despite Massive Capital Spending (Yahoo Finance)
-- [macro] Jim Cramer on Mastercard: “Very Strong Quarter in the Face of a Very Tricky Economic Backdrop” (Yahoo Finance)
-- [macro] Jim Cramer Believes Competitors Might Hurt Intuitive Surgical (Yahoo Finance)

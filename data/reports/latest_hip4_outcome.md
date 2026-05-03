@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-05-03T16:15:20.346791+00:00`
+- Generated: `2026-05-03T16:28:56.982859+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `1`
 - Outcome sides (rows): `2`
@@ -25,6 +25,6 @@
 
 ## Request Errors
 
-- `outcomeAssetCtxs: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info`
+- `outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info`
 
 Public output stores aggregate HIP-4 outcome data only. It is not a trade signal.
