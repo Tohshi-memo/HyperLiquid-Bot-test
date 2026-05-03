@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T09:45:34.173628+00:00`
+- Generated: `2026-05-03T09:52:50.710982+00:00`
 - Market context score: `50.32`
 - News risk score: `36.75`
 - Macro risk score: `27.0`
@@ -24,6 +24,8 @@
 
 ## Headlines
 
+- [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
+- [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
 - [macro] Airlines can cancel flights in advance over fuel shortages under new plans (BBC News)
 - [crypto] New York forces Uphold to pay $5M over fraudulent crypto investment scheme (Cointelegraph.com News)
 - [macro] Germany troop cuts send wrong signal to Russia, say two top US Republicans (BBC News)
@@ -32,5 +34,3 @@
 - [macro] Man charged with murder and sexual assault of 5-year-old Australian girl (BBC News)
 - [crypto] Crypto industry will be ‘just fine’ if CLARITY Act doesn’t pass: Chris Perkins (Cointelegraph.com News)
 - [crypto] Bitcoin logs best monthly performance in 12 months during April (Cointelegraph.com News)
-- [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
-- [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
