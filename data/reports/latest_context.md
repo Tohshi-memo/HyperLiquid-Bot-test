@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T18:45:20.372655+00:00`
-- Market context score: `58.0`
-- News risk score: `43.57`
-- Macro risk score: `22.23`
-- Risk-on score: `51.84`
-- Articles: `56`
+- Generated: `2026-05-03T19:00:27.379845+00:00`
+- Market context score: `56.22`
+- News risk score: `43.84`
+- Macro risk score: `23.36`
+- Risk-on score: `48.56`
+- Articles: `55`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `194`
+- Asset price history records: `195`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `207`
-- Day/swing latest: `2026-05-03T18:45:00+00:00`
+- Day/swing records: `208`
+- Day/swing latest: `2026-05-03T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
-- macro: articles `43`, risk hits `6`, risk headline rate `0.1395`, policy hits `3`
+- macro: articles `42`, risk hits `7`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [macro] Iran says US has responded to its latest peace proposal (BBC News)
 - [macro] Three die after virus outbreak on Atlantic cruise ship (BBC News)
+- [macro] What Dividend Investors Need to Know About Costco (Yahoo Finance)
+- [macro] Dow Jones Futures Due Without Weekend Surprise; Apple, Broadcom In Buy Zones (Yahoo Finance)
+- [macro] XRP News: XRP Ledger Just Tokenized $3 Billion in Real-World Assets (Yahoo Finance)
+- [macro] Is Brinker International, Inc. (EAT) A Good Stock To Buy Now? (Yahoo Finance)
 - [crypto] Policy Summit and other things at Consensus 2026: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bizarre moment at Berkshire's annual meeting spotlights cyber risk (Yahoo Finance)
-- [macro] Wall Street Says These 2 AI Stocks Could Fall 20% or More. Time to Sell? (Yahoo Finance)
-- [macro] Is Deckers Outdoor Corporation (DECK) A Good Stock To Buy Now? (Yahoo Finance)
-- [macro] Is Global Payments Inc. (GPN) A Good Stock To Buy Now? (Yahoo Finance)
-- [macro] Is Kratos Defense & Security Solutions, Inc. (KTOS) A Good Stock To Buy Now? (Yahoo Finance)
-- [macro] Is lululemon athletica inc. (LULU) A Good Stock To Buy Now? (Yahoo Finance)
-- [macro] Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now? (Yahoo Finance)
-- [macro] Is Teva Pharmaceutical Industries Limited (TEVA) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is MillerKnoll, Inc. (MLKN) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is Enovix Corporation (ENVX) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is BlackBerry Limited (BB) A Good Stock To Buy Now? (Yahoo Finance)
