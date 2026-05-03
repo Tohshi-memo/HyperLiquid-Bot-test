@@ -37,17 +37,47 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
 
     meta_payload, meta_error = post_info(info_url, {"type": "outcomeMeta"}, timeout)
 
-    # Try outcomeMetaAndAssetCtxs first; fall back to outcomeAssetCtxs if 422
-    ctx_payload, ctx_error = post_info(
-        info_url, {"type": "outcomeMetaAndAssetCtxs"}, timeout
-    )
-    if ctx_error and "422" in str(ctx_error):
-        ctx_payload, ctx_error = post_info(
-            info_url, {"type": "outcomeAssetCtxs"}, timeout
+    # Try several known and candidate endpoint shapes for asset contexts.
+    # HIP-4 launched 2026-05-02 and the live shape differs from perps/spot.
+    ctx_candidates: list[tuple[str, dict[str, Any]]] = [
+        ("outcomeMetaAndAssetCtxs", {"type": "outcomeMetaAndAssetCtxs"}),
+        ("outcomeAssetCtxs", {"type": "outcomeAssetCtxs"}),
+    ]
+    # Add per-outcome candidates when we already know which outcomes exist.
+    known_outcomes = extract_outcomes(meta_payload, None)
+    for outcome in known_outcomes[:5]:
+        outcome_id = (
+            outcome.get("outcome") or outcome.get("outcomeId") or outcome.get("id")
+        )
+        if outcome_id is None:
+            continue
+        ctx_candidates.extend(
+            [
+                (f"outcomeAssetCtxs[{outcome_id}]", {"type": "outcomeAssetCtxs", "outcome": outcome_id}),
+                (f"outcomeAssetCtx[{outcome_id}]", {"type": "outcomeAssetCtx", "outcome": outcome_id}),
+                (f"outcomeState[{outcome_id}]", {"type": "outcomeState", "outcome": outcome_id}),
+            ]
         )
 
+    ctx_payload: Any = None
+    ctx_error: str | None = None
+    ctx_attempts: list[str] = []
+    for label, body in ctx_candidates:
+        payload, error = post_info(info_url, body, timeout)
+        ctx_attempts.append(f"{label}: {'ok' if error is None else error}")
+        if error is None and payload is not None:
+            ctx_payload = payload
+            ctx_error = None
+            save_raw_payload(now, f"ctx_ok_{label}", payload, None)
+            break
+        ctx_error = error
+
+    # Always fetch allMids; HIP-4 outcome tokens may appear here keyed by name.
+    mids_payload, mids_error = post_info(info_url, {"type": "allMids"}, timeout)
+
     save_raw_payload(now, "outcome_meta", meta_payload, meta_error)
-    save_raw_payload(now, "outcome_meta_and_ctxs", ctx_payload, ctx_error)
+    save_raw_payload(now, "ctx_attempts", {"attempts": ctx_attempts, "last_error": ctx_error}, None)
+    save_raw_payload(now, "all_mids", mids_payload, mids_error)
 
     outcomes = extract_outcomes(meta_payload, ctx_payload)
     asset_ctxs = extract_asset_ctxs(ctx_payload)
