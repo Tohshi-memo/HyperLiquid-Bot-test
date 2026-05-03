@@ -1,32 +1,32 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T11:15:26.523987+00:00`
-- Market context score: `49.68`
-- News risk score: `41.57`
-- Macro risk score: `29.14`
-- Risk-on score: `34.29`
-- Articles: `17`
+- Generated: `2026-05-03T11:30:23.869765+00:00`
+- Market context score: `50.07`
+- News risk score: `41.18`
+- Macro risk score: `28.36`
+- Risk-on score: `34.55`
+- Articles: `14`
 - Polymarket markets: `2`
 
 - Asset universe count: `612`
-- Asset price history records: `164`
+- Asset price history records: `165`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `177`
-- Day/swing latest: `2026-05-03T11:15:00+00:00`
+- Day/swing records: `178`
+- Day/swing latest: `2026-05-03T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
-- [commodity] U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war (Energy)
 - [commodity] OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE (Energy)
+- [commodity] U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war (Energy)
 - [macro] Nigeria summons South African envoy over attacks on its nationals (BBC News)
 - [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
 - [macro] Voters will judge Trump on the economy - how is it doing? (BBC News)
