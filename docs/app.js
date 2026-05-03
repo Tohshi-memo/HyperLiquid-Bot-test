@@ -5,6 +5,7 @@ const DATA = {
   context: "./data/processed/market_context.json",
   flow: "./data/processed/flow_alert.json",
   assetReport: "./data/reports/latest_asset_universe.md",
+  hip4: "./data/processed/hip4_outcome_latest.json",
 };
 
 const CLASS_ORDER = [
@@ -263,6 +264,12 @@ async function renderDashboard() {
     setBadge("readinessBadge", "data error", "risk");
     text("updatedAt", error.message);
   }
+
+  loadJson(DATA.hip4).then(renderHip4).catch(() => {
+    setBadge("hip4Badge", "no data", "neutral");
+    const node = document.getElementById("hip4List");
+    if (node) node.innerHTML = emptyCard("HIP-4 data not yet available.");
+  });
 }
 
 renderDashboard();
@@ -413,4 +420,80 @@ function renderFlowDetail(flow) {
 
 function emptyCard(message) {
   return `<article class="item-card"><strong>${escapeHtml(message)}</strong></article>`;
+}
+
+function formatExpiry(expiry) {
+  if (!expiry) return "--";
+  const match = String(expiry).match(/^(\d{4})(\d{2})(\d{2})-(\d{2})(\d{2})$/);
+  if (!match) return expiry;
+  const [, year, month, day, hour, minute] = match;
+  return `${year}-${month}-${day} ${hour}:${minute} UTC`;
+}
+
+function buildHip4Question(row) {
+  const cls = row.outcome_class || "";
+  const underlying = escapeHtml(row.underlying || "?");
+  const expiry = escapeHtml(formatExpiry(row.expiry));
+  if (cls === "priceBinary") {
+    const price = row.target_price != null ? `$${fmtNumber(row.target_price, 0)}` : "?";
+    return `Will ${underlying} be above ${price} by ${expiry}?`;
+  }
+  return `${underlying} (${escapeHtml(cls)}) — expires ${expiry}`;
+}
+
+function renderHip4(hip4) {
+  const node = document.getElementById("hip4List");
+  if (!node) return;
+
+  const rows = Array.isArray(hip4?.rows) ? hip4.rows : [];
+  const errors = Array.isArray(hip4?.request_errors) ? hip4.request_errors : [];
+
+  if (rows.length === 0) {
+    setBadge("hip4Badge", "0 markets", "neutral");
+    node.innerHTML = emptyCard("No HIP-4 prediction markets found.");
+    return;
+  }
+
+  const byOutcome = new Map();
+  for (const row of rows) {
+    const id = row.outcome_id ?? row.outcome_name ?? "unknown";
+    if (!byOutcome.has(id)) byOutcome.set(id, []);
+    byOutcome.get(id).push(row);
+  }
+
+  setBadge("hip4Badge", `${byOutcome.size} market${byOutcome.size !== 1 ? "s" : ""}`, "good");
+
+  const cards = [...byOutcome.values()].map((sides) => {
+    const first = sides[0];
+    const question = buildHip4Question(first);
+    const sideHtml = sides.map((side) => {
+      const prob = side.implied_probability != null
+        ? `${(Number(side.implied_probability) * 100).toFixed(1)}%`
+        : "n/a";
+      const probClass = side.implied_probability != null
+        ? (Number(side.implied_probability) >= 0.5 ? "positive" : "negative")
+        : "";
+      return `<span>${escapeHtml(side.side_name)}: <strong class="${probClass}">${prob}</strong></span>`;
+    }).join(" &nbsp;|&nbsp; ");
+    const vol = fmtNumber(first.volume_24h, 0);
+    const oi = fmtNumber(first.open_interest, 0);
+    const status = first.status ? escapeHtml(first.status) : "active";
+    return `
+      <article class="item-card">
+        <strong>${question}</strong>
+        <div class="meta-line">${sideHtml}</div>
+        <div class="meta-line">
+          <span>vol 24h ${vol}</span>
+          <span>OI ${oi}</span>
+          <span>${status}</span>
+        </div>
+      </article>
+    `;
+  });
+
+  const errorHtml = errors.length
+    ? `<article class="item-card item-card--warning"><strong>Price data unavailable</strong><div class="meta-line"><span>${escapeHtml(errors[0])}</span></div></article>`
+    : "";
+
+  node.innerHTML = cards.join("") + errorHtml;
 }
