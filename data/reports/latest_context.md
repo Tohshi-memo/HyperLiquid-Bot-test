@@ -1,21 +1,21 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-03T22:21:59.513121+00:00`
-- Market context score: `60.33`
+- Generated: `2026-05-03T22:30:27.719133+00:00`
+- Market context score: `60.24`
 - News risk score: `39.03`
 - Macro risk score: `23.05`
-- Risk-on score: `53.51`
+- Risk-on score: `53.32`
 - Articles: `48`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `208`
+- Asset price history records: `209`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `221`
-- Day/swing latest: `2026-05-03T22:15:00+00:00`
+- Day/swing records: `222`
+- Day/swing latest: `2026-05-03T22:30:00+00:00`
 
 ## News Categories
 
@@ -25,8 +25,8 @@
 
 ## Headlines
 
+- [macro] Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To Guide Ships Through Hormuz (Yahoo Finance)
 - [macro] Three dead in suspected virus outbreak on Atlantic cruise ship (BBC News)
-- [macro] Dow Jones Futures Rise, Oil Falls As Trump Says U.S. To Guide Ships Through Hormuz; Apple, Broadcom In Buy Zones (Yahoo Finance)
 - [macro] Stock Futures Are Rising Ahead of Jobs Week (Yahoo Finance)
 - [macro] PBF Energy Virtual Annual Meeting: Directors Elected, KPMG Ratified, Pay and Equity Plan Approved (Yahoo Finance)
 - [macro] Apple Is Changing The Rules Right Before Tim Cook Exits (Yahoo Finance)
