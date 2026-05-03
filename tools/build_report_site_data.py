@@ -12,6 +12,8 @@ SOURCE_FILES = [
     ("data/processed/ai_analysis_pack.json", "docs/data/processed/ai_analysis_pack.json"),
     ("data/processed/market_context.json", "docs/data/processed/market_context.json"),
     ("data/processed/flow_alert.json", "docs/data/processed/flow_alert.json"),
+    ("data/processed/hip4_outcome_latest.json", "docs/data/processed/hip4_outcome_latest.json"),
+    ("data/reports/latest_hip4_outcome.md", "docs/data/reports/latest_hip4_outcome.md"),
     ("data/reports/latest_ai_context_index.md", "docs/data/reports/latest_ai_context_index.md"),
     ("data/reports/latest_canary_signals.md", "docs/data/reports/latest_canary_signals.md"),
     ("data/reports/latest_ai_analysis_brief.md", "docs/data/reports/latest_ai_analysis_brief.md"),

@@ -15,6 +15,10 @@ exchange keys, position state, final trade signals, or execution logic.
 - Lightweight all-symbol HyperLiquid price snapshots
 - HIP-3 builder-deployed perp snapshots, including `xyz` stock, index, metal,
   commodity, and FX markets
+- HIP-4 outcome (prediction) market snapshots: per-outcome implied
+  probability, mark/mid prices, 24h volume, and open interest, with a 15m
+  history bucket aggregated from the HyperLiquid `outcomeMeta` /
+  `outcomeMetaAndAssetCtxs` info-endpoint requests
 - Day/swing research snapshots for BTC, ETH, HYPE, and SOL
 - Compact AI context index and canary signals for quota-saving analysis
 
@@ -31,6 +35,8 @@ data/processed/asset_universe_latest.json
 data/processed/asset_price_history.json
 data/processed/day_swing_dataset.json
 data/processed/ai_analysis_pack.json
+data/processed/hip4_outcome_latest.json
+data/processed/hip4_outcome_history.json
 data/reports/latest_context.md
 data/reports/latest_flow_alert.md
 data/reports/latest_ai_context_index.md
@@ -38,6 +44,7 @@ data/reports/latest_canary_signals.md
 data/reports/latest_asset_universe.md
 data/reports/latest_day_swing.md
 data/reports/latest_ai_analysis_brief.md
+data/reports/latest_hip4_outcome.md
 data/archive/asset_price_history_YYYY-MM.jsonl.gz
 ```
 
@@ -69,6 +76,16 @@ archives only when a longer backtest is needed.
 Polymarket volume, large-flow aggregates, and asset-class returns for crypto,
 equity, index, metal, commodity, and FX perps. These are early-warning research
 signals, not direct trade instructions.
+
+`hip4_outcome_latest.json` and `hip4_outcome_history.json` capture HIP-4
+outcome markets directly from HyperLiquid (`outcomeMeta` and
+`outcomeMetaAndAssetCtxs` info-endpoint requests). Each side of every binary
+outcome is recorded with its mark/mid price (interpreted as implied
+probability when between 0 and 1), 24h volume, and open interest, plus a
+rolling 15-minute bucket history for cross-market analysis alongside
+Polymarket and HIP-3 perp data. The endpoint shape is parsed defensively, so
+field-name changes between testnet and mainnet do not break the collector;
+raw payloads are preserved under `data/raw/YYYY-MM-DD/` for verification.
 
 ## Report Site
 
