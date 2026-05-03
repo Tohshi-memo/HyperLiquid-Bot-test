@@ -24,6 +24,9 @@ AI_ANALYSIS_PACK_FILE = PROCESSED_DIR / "ai_analysis_pack.json"
 MARKET_CONTEXT_HISTORY_FILE = PROCESSED_DIR / "market_context_history.json"
 FLOW_ALERT_FILE = PROCESSED_DIR / "flow_alert.json"
 FLOW_ALERT_HISTORY_FILE = PROCESSED_DIR / "flow_alert_history.json"
+HIP4_OUTCOME_FILE = PROCESSED_DIR / "hip4_outcome_latest.json"
+HIP4_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "hip4_outcome_history.json"
+HIP4_OUTCOME_REPORT_FILE = REPORT_DIR / "latest_hip4_outcome.md"
 
 RETURN_HORIZONS = {
     "15m": timedelta(minutes=15),
@@ -48,6 +51,8 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
     market_history = load_json(MARKET_CONTEXT_HISTORY_FILE, [])
     flow_history = load_json(FLOW_ALERT_HISTORY_FILE, [])
     flow_alert = load_json(FLOW_ALERT_FILE, {})
+    hip4_outcome = load_json(HIP4_OUTCOME_FILE, {})
+    hip4_outcome_history = load_json(HIP4_OUTCOME_HISTORY_FILE, [])
 
     canary = build_canary_signals(
         now=now,
@@ -72,20 +77,8 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         market_history=market_history,
         flow_history=flow_history,
         canary=canary,
-    )
-    AI_INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
-
-    index = build_ai_index(
-        now=now,
-        context=context,
-        flow_alert=flow_alert,
-        asset_universe=asset_universe,
-        price_history=price_history,
-        day_swing=day_swing,
-        ai_pack=ai_pack,
-        market_history=market_history,
-        flow_history=flow_history,
-        canary=canary,
+        hip4_outcome=hip4_outcome,
+        hip4_outcome_history=hip4_outcome_history,
     )
     AI_INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
     AI_INDEX_REPORT_FILE.write_text(render_index_report(index), encoding="utf-8")
@@ -113,7 +106,11 @@ def build_ai_index(
     market_history: list[Any],
     flow_history: list[Any],
     canary: dict[str, Any],
+    hip4_outcome: dict[str, Any] | None = None,
+    hip4_outcome_history: list[Any] | None = None,
 ) -> dict[str, Any]:
+    hip4_outcome = hip4_outcome if isinstance(hip4_outcome, dict) else {}
+    hip4_outcome_history = hip4_outcome_history if isinstance(hip4_outcome_history, list) else []
     records = price_history.get("records", []) if isinstance(price_history, dict) else []
     if not isinstance(records, list):
         records = []
@@ -168,6 +165,12 @@ def build_ai_index(
             ),
             "day_swing_records": len(day_records),
             "day_swing_label_counts": label_counts or {},
+            "hip4_outcome_count": hip4_outcome.get("outcome_count"),
+            "hip4_side_count": hip4_outcome.get("side_count"),
+            "hip4_outcome_history_records": len(hip4_outcome_history),
+            "hip4_outcome_by_underlying": hip4_outcome.get("by_underlying", {}),
+            "hip4_outcome_by_class": hip4_outcome.get("by_class", {}),
+            "hip4_outcome_request_errors": hip4_outcome.get("request_errors", []),
         },
         "latest_market_snapshot": {
             "generated_at": context.get("generated_at"),
@@ -183,6 +186,15 @@ def build_ai_index(
                 "scores": flow_alert.get("scores", {}),
                 "large_flows": flow_alert.get("large_flows", {}),
                 "polymarket": flow_alert.get("polymarket", {}),
+            },
+            "hip4_outcome": {
+                "generated_at": hip4_outcome.get("generated_at"),
+                "outcome_count": hip4_outcome.get("outcome_count"),
+                "side_count": hip4_outcome.get("side_count"),
+                "by_underlying": hip4_outcome.get("by_underlying", {}),
+                "by_class": hip4_outcome.get("by_class", {}),
+                "by_status": hip4_outcome.get("by_status", {}),
+                "request_errors": hip4_outcome.get("request_errors", []),
             },
         },
         "canary_summary": {
@@ -221,6 +233,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/reports/latest_ai_analysis_brief.md", REPORT_DIR / "latest_ai_analysis_brief.md", "BTC/ETH/HYPE/SOL compact stats."),
             file_entry("data/processed/ai_analysis_pack.json", AI_ANALYSIS_PACK_FILE, "Compact strategy stats."),
             file_entry("data/reports/latest_asset_universe.md", REPORT_DIR / "latest_asset_universe.md", "Asset-class overview."),
+            file_entry("data/reports/latest_hip4_outcome.md", HIP4_OUTCOME_REPORT_FILE, "HIP-4 outcome market overview."),
         ],
         "conditional": [
             file_entry("data/processed/asset_universe_latest.json", ASSET_UNIVERSE_FILE, "Latest all-symbol rows."),
@@ -228,6 +241,8 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/day_swing_dataset.json", DAY_SWING_FILE, "Full BTC/ETH/HYPE/SOL feature and label rows."),
             file_entry("data/processed/market_context_history.json", MARKET_CONTEXT_HISTORY_FILE, "News/context history."),
             file_entry("data/processed/flow_alert_history.json", FLOW_ALERT_HISTORY_FILE, "Polymarket/flow history."),
+            file_entry("data/processed/hip4_outcome_latest.json", HIP4_OUTCOME_FILE, "Latest HIP-4 outcome rows with implied probabilities."),
+            file_entry("data/processed/hip4_outcome_history.json", HIP4_OUTCOME_HISTORY_FILE, "HIP-4 outcome history with per-bucket implied probabilities."),
         ],
         "archives": [
             {"path": path, "when_to_read": "Only for longer backtests after a specific rule is selected."}

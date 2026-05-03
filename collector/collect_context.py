@@ -16,6 +16,7 @@ from dateutil import parser as date_parser
 from collector.asset_universe import update_asset_universe_snapshot
 from collector.ai_index import update_ai_index
 from collector.day_swing import update_day_swing_dataset
+from collector.hip4_outcome import update_hip4_outcome_snapshot
 
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = ROOT / "data" / "processed"
@@ -114,6 +115,7 @@ def run_context(now: datetime) -> None:
     polymarket = collect_polymarket()
     context = build_context(now, lookback_hours, articles, gdelt, polymarket)
     context["asset_universe"] = collect_asset_universe_summary(now)
+    context["hip4_outcome"] = collect_hip4_outcome_summary(now)
     context["day_swing"] = collect_day_swing_summary(now, context)
     context["ai_index"] = collect_ai_index_summary(now, context)
 
@@ -157,6 +159,14 @@ def collect_asset_universe_summary(now: datetime) -> dict[str, Any]:
         return update_asset_universe_snapshot(now)
     except Exception as e:
         logging.warning("Asset universe update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
+
+
+def collect_hip4_outcome_summary(now: datetime) -> dict[str, Any]:
+    try:
+        return update_hip4_outcome_snapshot(now)
+    except Exception as e:
+        logging.warning("HIP-4 outcome update failed: %s", e)
         return {"enabled": True, "error": str(e)}
 
 
