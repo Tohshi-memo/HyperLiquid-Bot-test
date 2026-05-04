@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T09:15:21.633596+00:00`
-- Market context score: `56.22`
-- News risk score: `36.68`
-- Macro risk score: `29.72`
-- Risk-on score: `44.9`
-- Articles: `29`
+- Generated: `2026-05-04T09:30:26.475170+00:00`
+- Market context score: `56.87`
+- News risk score: `37.3`
+- Macro risk score: `28.09`
+- Risk-on score: `46.26`
+- Articles: `46`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `252`
+- Asset price history records: `253`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `265`
-- Day/swing latest: `2026-05-04T09:15:00+00:00`
+- Day/swing records: `266`
+- Day/swing latest: `2026-05-04T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
 - crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `2`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
-- [macro] Nigeria plans to repatriate nationals willing to leave South Africa after attacks (BBC News)
-- [crypto] US law firm attempts to block transfer of frozen ETH from Kelp exploit (Cointelegraph.com News)
+- [macro] Three dead in suspected virus outbreak on Atlantic cruise ship (BBC News)
 - [commodity] Oil prices rise as Trump plans to 'free' ships stranded due to Mideast conflict (Energy)
-- [macro] Trump says US to 'guide' stranded ships through Strait of Hormuz (BBC News)
-- [crypto] Jobs data, earnings calls: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Recovery in bitcoin ETF inflows is real. It is just not complete yet. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin climbs past $80K for the first time since January (Cointelegraph.com News)
-- [commodity] India is burning more coal as extreme heat and the Iran war squeeze energy supplies (Energy)
-- [macro] 'I had to pay £14k after my cat was run over' (BBC News)
-- [crypto] CFTC sees mixed responses to prediction market rulemaking (Cointelegraph.com News)
+- [macro] UHY Hacker Young elevates Michelle Hughes to partner role (Yahoo Finance)
+- [macro] McDonald’s overhauls McCafé look to match expanded drink lineup (Yahoo Finance)
+- [macro] Culver’s picks Berry AI’s Vision tech for restaurant network in US (Yahoo Finance)
+- [macro] SunDance and Sun Centre expand POUCH³ packaging offering (Yahoo Finance)
+- [macro] Buy 2 Index Funds to Beat the S&P 500 in the Next 5 Years, According to Wall Street Analysts (Yahoo Finance)
+- [macro] Nigeria plans to repatriate nationals willing to leave South Africa after attacks (BBC News)
+- [macro] The Best Dividend Stocks to Buy and Hold Forever (Yahoo Finance)
+- [crypto] US law firm attempts to block transfer of frozen ETH from Kelp exploit (Cointelegraph.com News)
