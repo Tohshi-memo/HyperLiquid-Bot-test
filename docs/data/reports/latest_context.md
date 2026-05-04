@@ -1,32 +1,32 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T23:30:32.432086+00:00`
-- Market context score: `50.39`
-- News risk score: `42.98`
-- Macro risk score: `23.34`
-- Risk-on score: `34.88`
-- Articles: `55`
+- Generated: `2026-05-04T23:45:32.426188+00:00`
+- Market context score: `49.24`
+- News risk score: `43.24`
+- Macro risk score: `23.36`
+- Risk-on score: `32.54`
+- Articles: `54`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `308`
+- Asset price history records: `309`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:312`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `321`
-- Day/swing latest: `2026-05-04T23:30:00+00:00`
+- Day/swing records: `322`
+- Day/swing latest: `2026-05-04T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `32`, risk hits `17`, risk headline rate `0.3438`, policy hits `2`
+- crypto: articles `31`, risk hits `17`, risk headline rate `0.3548`, policy hits `2`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.0952`, policy hits `0`
 
 ## Headlines
 
-- [macro] The looks turning heads on the Met Gala carpet (BBC News)
 - [macro] US strikes Iranian fast boats as Iran attacks UAE oil facility (BBC News)
+- [macro] The looks turning heads on the Met Gala carpet (BBC News)
 - [crypto] World Liberty sues Justin Sun for defamation in WLFI dispute (Cointelegraph.com News)
 - [macro] Three dead in suspected hantavirus outbreak on Atlantic cruise ship (BBC News)
 - [crypto] DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants (Cointelegraph.com News)
