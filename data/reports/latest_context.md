@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T19:15:21.140586+00:00`
+- Generated: `2026-05-04T19:30:23.901728+00:00`
 - Market context score: `50.57`
 - News risk score: `42.69`
 - Macro risk score: `20.77`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `291`
+- Asset price history records: `292`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `304`
-- Day/swing latest: `2026-05-04T19:15:00+00:00`
+- Day/swing records: `305`
+- Day/swing latest: `2026-05-04T19:30:00+00:00`
 
 ## News Categories
 
@@ -25,9 +25,9 @@
 
 ## Headlines
 
+- [commodity] Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz (Energy)
 - [macro] Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations (BBC News)
 - [macro] Two killed and many injured after car driven into crowd in German city of Leipzig (BBC News)
-- [commodity] Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz (Energy)
 - [crypto] Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA (Cointelegraph.com News)
 - [crypto] Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mali junta leader names himself defence minister after predecessor killed (BBC News)
