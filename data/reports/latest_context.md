@@ -1,30 +1,31 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T20:15:25.787567+00:00`
-- Market context score: `50.91`
-- News risk score: `42.62`
+- Generated: `2026-05-04T20:30:28.389220+00:00`
+- Market context score: `52.26`
+- News risk score: `41.33`
 - Macro risk score: `21.12`
-- Risk-on score: `34.88`
+- Risk-on score: `36.79`
 - Articles: `58`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `295`
+- Asset price history records: `296`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:312`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `308`
-- Day/swing latest: `2026-05-04T20:15:00+00:00`
+- Day/swing records: `309`
+- Day/swing latest: `2026-05-04T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `18`, risk headline rate `0.3429`, policy hits `3`
+- crypto: articles `35`, risk hits `17`, risk headline rate `0.3143`, policy hits `3`
 - macro: articles `21`, risk hits `1`, risk headline rate `0.0476`, policy hits `0`
 
 ## Headlines
 
+- [crypto] GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Berkshire shares trade lower even after Abel scores good marks at meeting, earnings jump (Market Insider)
 - [crypto] Tether Gold tops $3.3B as demand for bullion-backed tokens rises (Cointelegraph.com News)
 - [commodity] Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz (Energy)
@@ -34,4 +35,3 @@
 - [crypto] Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mali junta leader names himself defence minister after predecessor killed (BBC News)
 - [macro] Spain seizes record amount of cocaine in Atlantic Ocean, authorities say (BBC News)
-- [macro] Analyst Report: Carrier Global Corp (Yahoo Finance)
