@@ -2,21 +2,21 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-04T05:45:26.224438+00:00`
-- Asset price active records: `238`
-- Day/swing records: `251`
-- Flow-alert history records: `859`
+- Updated: `2026-05-04T06:00:36.543934+00:00`
+- Asset price active records: `239`
+- Day/swing records: `252`
+- Flow-alert history records: `862`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (1731 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (14877 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2551 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (846 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (35786 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (4781 bytes): Asset-class overview.
+- `data/reports/latest_ai_context_index.md` (1732 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (14874 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2389 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (847 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (35814 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (4775 bytes): Asset-class overview.
 - `data/reports/latest_hip4_outcome.md` (783 bytes): HIP-4 outcome market overview.
 
 ## Asset Classes
@@ -32,8 +32,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- 4h_commodity_crypto_divergence: score `2.0297` - Commodity perps and crypto are moving differently; check macro-linked stress.
-- 4h_crypto_metal_divergence: score `1.7439` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
+- baseline: score `0` - No elevated canary signal. Continue collecting samples.
 
 ## Full JSON Rule
 
