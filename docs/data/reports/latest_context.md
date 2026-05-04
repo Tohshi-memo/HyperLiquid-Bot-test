@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T16:15:18.410500+00:00`
-- Market context score: `52.62`
-- News risk score: `46.1`
-- Macro risk score: `22.61`
-- Risk-on score: `42.18`
-- Articles: `86`
+- Generated: `2026-05-04T16:21:07.400472+00:00`
+- Market context score: `50.13`
+- News risk score: `47.01`
+- Macro risk score: `22.9`
+- Risk-on score: `37.53`
+- Articles: `90`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
@@ -20,18 +20,18 @@
 ## News Categories
 
 - commodity: articles `6`, risk hits `5`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `37`, risk hits `18`, risk headline rate `0.3243`, policy hits `4`
-- macro: articles `43`, risk hits `4`, risk headline rate `0.093`, policy hits `5`
+- crypto: articles `38`, risk hits `19`, risk headline rate `0.3421`, policy hits `4`
+- macro: articles `46`, risk hits `5`, risk headline rate `0.1087`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Shopify and National Bank of Canada are among backers of a new digital currency built to settle trades 24/7 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Two killed after car driven into crowd in German city Leipzig, mayor says (BBC News)
+- [macro] Genius Sports (GENI) Q3 2025 Earnings Transcript (Yahoo Finance)
 - [macro] Three dead in suspected virus outbreak on Atlantic cruise ship (BBC News)
+- [macro] Hess Midstream Partners Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Magnolia (MGY) Q4 2025 Earnings Call Transcript (Yahoo Finance)
 - [commodity] Oil prices jump after UAE says it intercepted cruise missiles launched from Iran (Energy)
-- [macro] Zevia (ZVIA) Q2 2025 Earnings Call Transcript (Yahoo Finance)
-- [macro] CubeSmart (CUBE) Q2 2025 Earnings Transcript (Yahoo Finance)
-- [macro] DTCC Reveals Launch Plans for Tokenization Service With Wall Street Giants Onboard (Yahoo Finance)
-- [macro] Nutex Health NUTX Q2 2025 Earnings Transcript (Yahoo Finance)
-- [macro] Is Microsoft a Buy as Cloud Revenue Continues to Soar? (Yahoo Finance)
+- [macro] $13 million in lawsuits and liens drive restaurant closures (Yahoo Finance)
+- [macro] Procore (PCOR) Q2 2025 Earnings Transcript (Yahoo Finance)
 - [macro] Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump (Market Insider)
-- [macro] Berkshire Hathaway Outlook Tepid. It Makes An AI Growth Pitch. (Yahoo Finance)
-- [macro] New alliances shakes up Nigerian political landscape (BBC News)
