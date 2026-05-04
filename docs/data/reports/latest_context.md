@@ -1,21 +1,21 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T14:30:30.750641+00:00`
-- Market context score: `53.25`
+- Generated: `2026-05-04T14:45:28.900936+00:00`
+- Market context score: `52.66`
 - News risk score: `45.78`
 - Macro risk score: `23.12`
-- Risk-on score: `43.51`
+- Risk-on score: `42.19`
 - Articles: `82`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `273`
+- Asset price history records: `274`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `286`
-- Day/swing latest: `2026-05-04T14:30:00+00:00`
+- Day/swing records: `287`
+- Day/swing latest: `2026-05-04T14:45:00+00:00`
 
 ## News Categories
 
@@ -25,13 +25,13 @@
 
 ## Headlines
 
+- [macro] GameStop makes $55.5bn takeover offer for eBay (BBC News)
+- [macro] Circle, Coinbase surge after lawmakers unveil revised stablecoin rule (Yahoo Finance)
+- [macro] Is Cloudflare Overvalued at 182x Earnings? Analysts Still See 12% Upside (Yahoo Finance)
+- [macro] Is PayPal a Buy Ahead of Business Restructuring After 45% Selloff? (Yahoo Finance)
+- [macro] While NVDA Dominates Headlines, Here’s Where the Real AI Economics Are Hiding (Yahoo Finance)
+- [macro] Stock Market Today: Dow Drops On U.S.-Iran News; Biotech, Software Stocks Shine (Live Coverage) (Yahoo Finance)
+- [macro] Skip the SoundHound Hype — These Three Titans Own the AI Infrastructure Layer That Actually Matters (Yahoo Finance)
+- [macro] Chip Stocks Soared 70%+ in April. Have They Gone Too Far? (Yahoo Finance)
+- [macro] What Makes Cognex Corporation (CGNX) a Compelling Stock? (Yahoo Finance)
 - [crypto] Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump (Market Insider)
-- [commodity] Oil prices rise as U.S. launches operation to restore freedom of navigation in Strait of Hormuz (Energy)
-- [macro] Loews Corporation reports year-over-year drop in profit (Yahoo Finance)
-- [macro] Dime (DCOM) Q1 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Huntington (HBAN) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Dime Community (DCOM) Q1 2025 Earnings Transcript (Yahoo Finance)
-- [crypto] Bitcoin in ‘disbelief rally’ as traders spot $84K BTC price target (Cointelegraph.com News)
-- [macro] Amazon Eyes $320 as AWS Growth Fuels Bullish Outlook (Yahoo Finance)
-- [macro] For $200 a month, a startup says you'll never have to think about home maintenance again. Is it worth it? (Yahoo Finance)
