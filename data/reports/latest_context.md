@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T14:15:58.704761+00:00`
-- Market context score: `53.51`
-- News risk score: `45.09`
-- Macro risk score: `23.81`
-- Risk-on score: `43.76`
+- Generated: `2026-05-04T14:28:37.289623+00:00`
+- Market context score: `53.25`
+- News risk score: `45.78`
+- Macro risk score: `23.12`
+- Risk-on score: `43.51`
 - Articles: `82`
 - Polymarket markets: `2`
 
@@ -20,18 +20,18 @@
 ## News Categories
 
 - commodity: articles `6`, risk hits `5`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `14`, risk headline rate `0.2903`, policy hits `2`
-- macro: articles `45`, risk hits `6`, risk headline rate `0.1333`, policy hits `4`
+- crypto: articles `32`, risk hits `15`, risk headline rate `0.3125`, policy hits `3`
+- macro: articles `44`, risk hits `5`, risk headline rate `0.1136`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump (Market Insider)
+- [commodity] Oil prices rise as U.S. launches operation to restore freedom of navigation in Strait of Hormuz (Energy)
+- [macro] Loews Corporation reports year-over-year drop in profit (Yahoo Finance)
+- [macro] Dime (DCOM) Q1 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Huntington (HBAN) Q1 2026 Earnings Transcript (Yahoo Finance)
+- [macro] Dime Community (DCOM) Q1 2025 Earnings Transcript (Yahoo Finance)
 - [crypto] Bitcoin in ‘disbelief rally’ as traders spot $84K BTC price target (Cointelegraph.com News)
-- [macro] Major automaker pulls the plug on ambitious U.S. EV plans (Yahoo Finance)
-- [macro] Retail Investors Are Still Pretty Cautious. That Could Be Good for Stocks. (Yahoo Finance)
-- [macro] Dollar Expected to Stay Within a Range Vs. Yen (Yahoo Finance)
+- [macro] Amazon Eyes $320 as AWS Growth Fuels Bullish Outlook (Yahoo Finance)
 - [macro] For $200 a month, a startup says you'll never have to think about home maintenance again. Is it worth it? (Yahoo Finance)
-- [macro] The Unusual BDC Thriving While Private Credit Fears Spread Across the Sector (Yahoo Finance)
-- [macro] Do You Believe in GeneDx Holdings Corp.’s (WGS) Durable Competitive Moat? (Yahoo Finance)
-- [macro] They're Getting A $150K Payout At 18, But Their Family Wants To Take It. 'I'm Not Sure Who To Talk To' (Yahoo Finance)
-- [crypto] Binance is launching a withdrawal lock to help deter crypto wrench attacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
