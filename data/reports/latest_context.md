@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T02:15:37.154079+00:00`
+- Generated: `2026-05-04T02:30:23.896968+00:00`
 - Market context score: `48.96`
 - News risk score: `38.43`
 - Macro risk score: `30.03`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `224`
+- Asset price history records: `225`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `237`
-- Day/swing latest: `2026-05-04T02:15:00+00:00`
+- Day/swing records: `238`
+- Day/swing latest: `2026-05-04T02:30:00+00:00`
 
 ## News Categories
 
@@ -25,8 +25,8 @@
 
 ## Headlines
 
-- [commodity] Oil prices fall in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict (Energy)
 - [macro] GameStop makes $55.5bn takeover offer for eBay (BBC News)
+- [commodity] Oil prices fall in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict (Energy)
 - [crypto] Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Amsterdam bans public adverts for meat and fossil fuels (BBC News)
 - [macro] The threat to summer holidays looming from jet fuel shortages (BBC News)
