@@ -2,21 +2,21 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-04T18:00:30.433317+00:00`
-- Asset price active records: `286`
-- Day/swing records: `299`
-- Flow-alert history records: `1010`
+- Updated: `2026-05-04T18:15:30.148403+00:00`
+- Asset price active records: `287`
+- Day/swing records: `300`
+- Flow-alert history records: `1013`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1723 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (14870 bytes): Machine-readable map.
+- `data/processed/ai_context_index.json` (14864 bytes): Machine-readable map.
 - `data/reports/latest_canary_signals.md` (2541 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (858 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (43099 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (4836 bytes): Asset-class overview.
+- `data/reports/latest_ai_analysis_brief.md` (859 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (43078 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (4852 bytes): Asset-class overview.
 - `data/reports/latest_hip4_outcome.md` (783 bytes): HIP-4 outcome market overview.
 
 ## Asset Classes
@@ -32,8 +32,8 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- 4h_crypto_metal_divergence: score `2.0148` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
-- 4h_crypto_equity_divergence: score `1.9121` - Crypto majors and equity perps are diverging; watch lead/lag rotation.
+- 4h_crypto_equity_divergence: score `1.5547` - Crypto majors and equity perps are diverging; watch lead/lag rotation.
+- 4h_crypto_metal_divergence: score `1.536` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
 
 ## Full JSON Rule
 
