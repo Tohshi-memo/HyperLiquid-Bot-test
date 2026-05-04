@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T17:15:20.307465+00:00`
-- Market context score: `47.09`
-- News risk score: `48.97`
-- Macro risk score: `23.18`
-- Risk-on score: `32.54`
-- Articles: `85`
+- Generated: `2026-05-04T17:30:24.108327+00:00`
+- Market context score: `46.84`
+- News risk score: `49.68`
+- Macro risk score: `24.59`
+- Risk-on score: `33.11`
+- Articles: `84`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `283`
+- Asset price history records: `284`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `296`
-- Day/swing latest: `2026-05-04T17:15:00+00:00`
+- Day/swing records: `297`
+- Day/swing latest: `2026-05-04T17:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
+- commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `34`, risk hits `19`, risk headline rate `0.3824`, policy hits `3`
-- macro: articles `47`, risk hits `5`, risk headline rate `0.1064`, policy hits `4`
+- macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `4`
 
 ## Headlines
 
 - [commodity] Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz (Energy)
+- [macro] RB Global (RBA) Q3 2025 Earnings Transcript (Yahoo Finance)
+- [macro] Space IPO Plays To Report, Rocket Lab Earnings Soon. All Three Are Near Buy Points. (Yahoo Finance)
 - [macro] Britney Spears pleads guilty to reckless driving after arrest (BBC News)
+- [macro] Fabrinet (FN) Q3 2025 Earnings Transcript (Yahoo Finance)
 - [macro] Tyson Foods hikes profit outlook as higher prices, protein demand offset beef decline (Yahoo Finance)
-- [macro] BKV Stock Powering Up Near A Buy Point As The AI Data Center Play's Earnings Approach (Yahoo Finance)
-- [macro] Apollo Global president says it'll take 'all the markets' to fund AI spending (Yahoo Finance)
-- [macro] Three Russian diplomats expelled from Austria over spying accusations (BBC News)
-- [macro] How AI Data Centers Are Reshaping the Power Market (And the 4 Plays Investors Are Making) (Yahoo Finance)
-- [macro] Amazon rebrands third-party logistics arms as unified supply chain service (Yahoo Finance)
-- [macro] Williams says Fed policy well positioned for economic risks, uncertainty (Yahoo Finance)
-- [macro] Why This Biotech ETF — The IBD Stock Of The Day — Just Reentered Its Buy Zone (Yahoo Finance)
+- [macro] AerCap (AER) Q1 2026 Earnings Transcript (Yahoo Finance)
+- [macro] The Utility Stock That's Actually Exciting (Yahoo Finance)
+- [macro] Oil’s wild $126 price spike sends investors a blunt message (Yahoo Finance)
+- [macro] 60% of Americans say trust matters most in a financial advisor — here are the red flags you're missing (Yahoo Finance)
