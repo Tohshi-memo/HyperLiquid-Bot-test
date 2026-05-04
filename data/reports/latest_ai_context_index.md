@@ -2,21 +2,21 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-04T05:30:24.222342+00:00`
-- Asset price active records: `237`
-- Day/swing records: `250`
-- Flow-alert history records: `856`
+- Updated: `2026-05-04T05:45:26.224438+00:00`
+- Asset price active records: `238`
+- Day/swing records: `251`
+- Flow-alert history records: `859`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (1851 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (15053 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2552 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (849 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (35793 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (4786 bytes): Asset-class overview.
+- `data/reports/latest_ai_context_index.md` (1731 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (14877 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2551 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (846 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (35786 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (4781 bytes): Asset-class overview.
 - `data/reports/latest_hip4_outcome.md` (783 bytes): HIP-4 outcome market overview.
 
 ## Asset Classes
@@ -32,8 +32,8 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- 4h_commodity_crypto_divergence: score `2.088` - Commodity perps and crypto are moving differently; check macro-linked stress.
-- 4h_crypto_metal_divergence: score `1.7789` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
+- 4h_commodity_crypto_divergence: score `2.0297` - Commodity perps and crypto are moving differently; check macro-linked stress.
+- 4h_crypto_metal_divergence: score `1.7439` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
 
 ## Full JSON Rule
 
