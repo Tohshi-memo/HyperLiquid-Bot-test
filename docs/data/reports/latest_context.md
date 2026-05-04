@@ -1,29 +1,31 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-04T00:45:21.979665+00:00`
-- Market context score: `45.76`
-- News risk score: `44.9`
-- Macro risk score: `29.55`
-- Risk-on score: `28.55`
-- Articles: `21`
+- Generated: `2026-05-04T01:00:32.958970+00:00`
+- Market context score: `44.65`
+- News risk score: `45.62`
+- Macro risk score: `33.25`
+- Risk-on score: `28.08`
+- Articles: `20`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `218`
+- Asset price history records: `219`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:42, fx:4, index:9, metal:7, unknown:314`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `231`
-- Day/swing latest: `2026-05-04T00:45:00+00:00`
+- Day/swing records: `232`
+- Day/swing latest: `2026-05-04T01:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `1`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `1`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices fall in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict (Energy)
 - [macro] GameStop offers to buy eBay for $56bn (BBC News)
 - [crypto] Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Amsterdam bans public adverts for meat and fossil fuels (BBC News)
@@ -33,4 +35,3 @@
 - [crypto] Strategy takes Bitcoin buying breather ahead of Q1 earnings report (Cointelegraph.com News)
 - [macro] Iran says US has responded to its latest peace proposal (BBC News)
 - [crypto] Policy Summit and other things at Consensus 2026: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Who shot a Secret Service officer at the Trump press dinner? (BBC News)
