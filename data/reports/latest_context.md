@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T12:00:30.544647+00:00`
-- Market context score: `58.09`
-- News risk score: `39.0`
-- Macro risk score: `22.76`
-- Risk-on score: `48.39`
-- Articles: `62`
+- Generated: `2026-05-05T12:11:38.500841+00:00`
+- Market context score: `58.74`
+- News risk score: `38.03`
+- Macro risk score: `21.74`
+- Risk-on score: `48.64`
+- Articles: `64`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
@@ -20,18 +20,18 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `3`
-- macro: articles `41`, risk hits `5`, risk headline rate `0.122`, policy hits `1`
+- crypto: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `3`
+- macro: articles `41`, risk hits `4`, risk headline rate `0.0976`, policy hits `3`
 
 ## Headlines
 
-- [macro] Pecoy Copper deploys third drill rig at Peru project (Yahoo Finance)
+- [macro] Tenneco taps banks for planned stock market return (Yahoo Finance)
+- [crypto] Standard Chartered expands further into crypto with stake in GSR at $1 billion valuation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Andreessen Horowitz raises $2.2 billion in a new fund, saying crypto fundamentals are at an 'all-time high' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Arax Lures $1.5B Upstate NY Firm from Wells Fargo (Yahoo Finance)
+- [macro] Iron North Private Wealth introduces new advisory business (Yahoo Finance)
+- [macro] Prediction: The Nasdaq's Artificial Intelligence (AI) Rally Has More Room to Run. Here Are the Best Growth Stocks to Own. (Yahoo Finance)
+- [macro] Crypto exchange Coinbase plans to cut 700 jobs, citing 'market conditions' amid restructuring for  'AI era' (Yahoo Finance)
+- [macro] The Stock Market Flashed This Warning Only Once Before. What Comes Next Isn’t Pretty (Yahoo Finance)
 - [macro] Alphabet taps euro bond market with six-tranche offering (Yahoo Finance)
-- [macro] Bitcoin and ethereum prices today, Tuesday, May 5, 2026: Bitcoin reaches over $81,000, hitting a high last seen in January (Yahoo Finance)
-- [crypto] Coinbase cuts 14% of staff as AI reshapes how crypto companies operate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] KIFM to buy Merlimau Cogen Plant stake for $100m (Yahoo Finance)
-- [macro] Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000 (Yahoo Finance)
-- [macro] Is the Cryptocurrency Sector Dead? (Yahoo Finance)
-- [macro] 1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Microsoft, and Apple in the $3 Trillion Club (Yahoo Finance)
-- [macro] Space IPOs Rise On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points. (Yahoo Finance)
-- [macro] Gap co-founder Doris Fisher dies aged 94 (BBC News)
+- [macro] Intuitive Surgical (ISRG): The Best Healthcare AI Stock to Buy According to Analysts (Yahoo Finance)
