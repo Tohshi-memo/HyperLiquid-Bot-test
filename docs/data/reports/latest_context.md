@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T19:50:12.343021+00:00`
+- Generated: `2026-05-05T20:00:33.974744+00:00`
 - Market context score: `54.0`
 - News risk score: `40.89`
 - Macro risk score: `23.1`
@@ -9,13 +9,13 @@
 - Polymarket markets: `2`
 
 - Asset universe count: `614`
-- Asset price history records: `387`
+- Asset price history records: `388`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `400`
-- Day/swing latest: `2026-05-05T19:45:00+00:00`
+- Day/swing records: `401`
+- Day/swing latest: `2026-05-05T20:00:00+00:00`
 
 ## News Categories
 
@@ -26,9 +26,9 @@
 
 ## Headlines
 
+- [commodity] Frontier Airlines forecasts revenue boost from Spirit collapse (Energy)
 - [commodity] Spirit starts monthslong process of dismantling airline after biggest collapse in a generation (Energy)
 - [macro] Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow (BBC News)
-- [commodity] Frontier Airlines forecasts revenue boost from Spirit collapse (Energy)
 - [crypto] Tennessee Bankers Association names Stablecore as preferred digital asset provider (Cointelegraph.com News)
 - [commodity] U.S. says 'Project Freedom' will reopen Hormuz Strait for commerce. Experts are skeptical (Energy)
 - [commodity] Oil prices fall after U.S. says Iran ceasefire remains in place despite UAE attacks (Energy)
