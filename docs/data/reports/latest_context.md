@@ -1,38 +1,38 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T18:00:39.509704+00:00`
-- Market context score: `54.73`
-- News risk score: `40.86`
-- Macro risk score: `25.12`
-- Risk-on score: `43.4`
-- Articles: `89`
+- Generated: `2026-05-05T18:15:31.855078+00:00`
+- Market context score: `55.46`
+- News risk score: `39.84`
+- Macro risk score: `24.05`
+- Risk-on score: `43.76`
+- Articles: `66`
 - Polymarket markets: `2`
 
 - Asset universe count: `614`
-- Asset price history records: `380`
+- Asset price history records: `381`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `393`
-- Day/swing latest: `2026-05-05T18:00:00+00:00`
+- Day/swing records: `394`
+- Day/swing latest: `2026-05-05T18:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `44`, risk hits `8`, risk headline rate `0.1818`, policy hits `4`
-- macro: articles `40`, risk hits `6`, risk headline rate `0.15`, policy hits `1`
+- commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `44`, risk hits `9`, risk headline rate `0.2045`, policy hits `4`
+- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Uber Q1 earnings preview: Profit, growth in focus as robotaxi ambitions expand (Yahoo Finance)
-- [macro] Bill Ackman Said High‑Quality Stocks Are Stupidly Cheap. He’s Right. (Yahoo Finance)
-- [macro] 27% of Americans Own ETFs but Allocate Just 6%, Here’s Why That Costs Them Retirement Income (Yahoo Finance)
-- [macro] Gasoline prices climb toward $5 as Strait of Hormuz remains closed (Yahoo Finance)
-- [macro] JPMorgan CEO Jamie Dimon isn't sure how consumer AI will play out (Yahoo Finance)
-- [macro] French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality (Yahoo Finance)
-- [macro] Lam Research, IBD Stock Of The Day, Clears Buy Point On Chip-Gear Investments (Yahoo Finance)
-- [macro] GoDaddy Gets Mixed Signals, AI Boost or Competitive Pressure? (Yahoo Finance)
-- [macro] Here’s Why Core Scientific, Inc. (CORZ) Is Among The Best Software Infrastructure Stocks (Yahoo Finance)
-- [macro] Wedbush Brushes Off AI Concerns, Sticks With Oracle Corporation (ORCL) (Yahoo Finance)
+- [commodity] We're raising our Eaton price target after sellers got the earnings all wrong (Energy)
+- [crypto] US prosecutors ask for leniency for ex-Celsius exec, citing cooperation (Cointelegraph.com News)
+- [crypto] Rep. Steven Horsford pitches PARITY Act as 'durable floor' for crypto tax at Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Solana’s 'Alpenglow' upgrade could arrive next quarter, co-founder Yakovenko says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Western Union’s Solana-based stablecoin could reshape its payment model, analyst says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Figure targets Fannie Mae and Freddie Mac in mortgage push, citing massive cost cuts for borrowers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bernstein cites $4T tokenized credit opportunity for Figure Technology stock (Cointelegraph.com News)
+- [crypto] XRP price copies 2025 chart fractal that last time sparked 66% gains (Cointelegraph.com News)
+- [macro] Russian attacks kill at least 20 ahead of rival ceasefires proposed by Kyiv and Moscow (BBC News)
+- [macro] Hantavirus may have spread between passengers on cruise ship, WHO says (BBC News)
