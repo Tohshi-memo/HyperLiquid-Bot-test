@@ -1,27 +1,27 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T06:15:44.202565+00:00`
-- Market context score: `57.76`
-- News risk score: `29.7`
-- Macro risk score: `29.95`
-- Risk-on score: `42.52`
-- Articles: `31`
+- Generated: `2026-05-05T06:30:31.173761+00:00`
+- Market context score: `58.35`
+- News risk score: `29.12`
+- Macro risk score: `28.78`
+- Risk-on score: `42.9`
+- Articles: `32`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `335`
+- Asset price history records: `336`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:312`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `348`
-- Day/swing latest: `2026-05-05T06:15:00+00:00`
+- Day/swing records: `349`
+- Day/swing latest: `2026-05-05T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `1`
 
 ## Headlines
 
@@ -30,8 +30,8 @@
 - [crypto] Polygon rolls out private stablecoin payments targeting institutions (Cointelegraph.com News)
 - [crypto] Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP slips below $1.40 on heavy volume, tightening range puts breakout in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] 'Vodafone sold us a dream - the reality was something different' (BBC News)
 - [macro] US strikes Iranian fast boats as Iran attacks UAE oil facility (BBC News)
 - [commodity] Oil slides as traders assess Middle East developments with Iran attacks keeping markets jittery (Energy)
 - [macro] Two killed and many injured after car driven into crowd in German city of Leipzig (BBC News)
 - [macro] Deadly China plane crash was caused by fuel cut-off, says report (BBC News)
-- [macro] The most talked-about looks at this year's Met Gala (BBC News)
