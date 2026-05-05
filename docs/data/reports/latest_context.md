@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T16:00:38.598646+00:00`
-- Market context score: `55.41`
-- News risk score: `40.37`
-- Macro risk score: `22.51`
-- Risk-on score: `43.5`
-- Articles: `85`
+- Generated: `2026-05-05T16:14:13.999763+00:00`
+- Market context score: `54.15`
+- News risk score: `42.22`
+- Macro risk score: `26.21`
+- Risk-on score: `43.65`
+- Articles: `86`
 - Polymarket markets: `2`
 
 - Asset universe count: `614`
@@ -21,18 +21,18 @@
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `40`, risk hits `8`, risk headline rate `0.2`, policy hits `4`
-- macro: articles `40`, risk hits `4`, risk headline rate `0.1`, policy hits `2`
+- macro: articles `41`, risk hits `7`, risk headline rate `0.1707`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Fortrea (FTRE) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Why EverQuote Stock Is Skyrocketing Today (Yahoo Finance)
-- [macro] Revvity (RVTY) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Raymond James’ New Capital Raising Option So Far 'Oversubscribed' (Yahoo Finance)
+- [macro] Former Trump economic adviser Gary Cohn says Kevin Warsh will be a 'fundamentalist' Fed chair (Yahoo Finance)
+- [macro] PepsiCo vs Coca-Cola: A Decade-Long Fight for Dominance (Yahoo Finance)
+- [macro] Micron Rockets 12%, SanDisk Leaps 10% as Tight Memory Supply Fuels Parabolic AI Trade (Yahoo Finance)
+- [macro] A $1.25 Million Dividend Portfolio That Pays More Than the Average Teacher Earns in a Year (Yahoo Finance)
+- [macro] Why Pfizer's 'Mild' First-Quarter Report Likely Won't Satisfy Skeptics (Yahoo Finance)
+- [macro] Earnings Season Hits Overdrive (Yahoo Finance)
+- [macro] Securitize, Jump and Jupiter Bring Regulated Tokenized Equity Trading Onchain (Yahoo Finance)
+- [macro] Portillo’s Q1 Revenue Increases 3.5% Amid Expansion (Yahoo Finance)
+- [macro] Stocks gain as investors take heart from upbeat earnings, dip in oil (Yahoo Finance)
 - [macro] Uber And DoorDash Earnings On Deck. Why Both Stocks Are Struggling This Year. (Yahoo Finance)
-- [macro] Nissan to close UK line and cut 900 European jobs (BBC News)
-- [macro] Stock Market Today: Nasdaq Jumps To Record High As Intel Rockets; Oil-Tracking ETF Tumbles (Live Coverage) (Yahoo Finance)
-- [macro] Big drop in benchmark diesel occurring as warnings grow of tougher conditions to come (Yahoo Finance)
-- [macro] HSBC Just Got Caught in a £1B Mess It Didn't See Coming (Yahoo Finance)
-- [macro] PayPal Earnings Beat But New CEO's Commentary Sends Down Shares (Yahoo Finance)
