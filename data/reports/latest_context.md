@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T10:00:31.411550+00:00`
-- Market context score: `61.08`
-- News risk score: `29.24`
-- Macro risk score: `19.4`
-- Risk-on score: `45.54`
-- Articles: `42`
+- Generated: `2026-05-05T10:15:52.550959+00:00`
+- Market context score: `57.15`
+- News risk score: `35.13`
+- Macro risk score: `28.08`
+- Risk-on score: `45.05`
+- Articles: `49`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `350`
+- Asset price history records: `351`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:312`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `363`
-- Day/swing latest: `2026-05-05T10:00:00+00:00`
+- Day/swing records: `364`
+- Day/swing latest: `2026-05-05T10:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
-- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `2`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `32`, risk hits `6`, risk headline rate `0.1562`, policy hits `13`
 
 ## Headlines
 
+- [macro] Second hantavirus case confirmed after deaths on cruise ship (BBC News)
 - [commodity] Oil prices slide as new attacks in Strait of Hormuz threaten fragile U.S.-Iran ceasefire (Energy)
-- [macro] 3 Monster Dividend Stocks That Could Pay You Through the Next Decade of Chaos (Yahoo Finance)
-- [macro] Pepco expands DHL partnership to five European sites (Yahoo Finance)
-- [commodity] Maersk says ship passed through Strait of Hormuz under U.S. military protection (Energy)
-- [macro] I Asked ChatGPT to Manage a Stock Portfolio. Here’s How It Did. (Yahoo Finance)
-- [macro] Meta’s Cheap Stock Is an Investor Trap (Yahoo Finance)
-- [macro] I Just Opened a Position in Wall Street's Greatest Dividend Stock -- a Company That's Been Paying Dividends Since the Early 1800s (Yahoo Finance)
-- [macro] Should You Sell Stocks in May? Here's What History Says. (Yahoo Finance)
-- [macro] Move Over Nvidia: Why Alphabet's Surprising Decision to Sell Custom AI Chips Changes Everything. (Yahoo Finance)
-- [macro] Understanding the New Intraday Margin Requirements (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, May 5, 2026 (Earn up to 4.1% APY) (Yahoo Finance)
+- [macro] Elon Musk says saving for retirement 'won't matter.' I'm not banking on it. (Yahoo Finance)
+- [macro] HELOC and home equity loan rates today, May 5, 2026: HELOC or HEL -- how to pick the right one (Yahoo Finance)
+- [macro] Dow transports are nearing a bear market after erasing their entire April breakout: Chart of the Day (Yahoo Finance)
+- [macro] RIA Channel Saw Greatest Advisor Gains in 2025 (Yahoo Finance)
+- [macro] Mortgage and refinance rates today, May 5, 2026: Fixed-rate loans up week-over-week (Yahoo Finance)
+- [macro] Best CD rates today, May 5, 2026: Lock in up to 4.05% APY today (Yahoo Finance)
+- [macro] The long bond is back in Wall Street's danger zone (Yahoo Finance)
