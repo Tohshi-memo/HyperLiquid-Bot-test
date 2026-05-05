@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T09:45:28.614467+00:00`
-- Market context score: `58.4`
-- News risk score: `33.14`
-- Macro risk score: `20.56`
-- Risk-on score: `43.32`
-- Articles: `47`
+- Generated: `2026-05-05T10:00:31.411550+00:00`
+- Market context score: `61.08`
+- News risk score: `29.24`
+- Macro risk score: `19.4`
+- Risk-on score: `45.54`
+- Articles: `42`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `349`
+- Asset price history records: `350`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:312`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `362`
-- Day/swing latest: `2026-05-05T09:45:00+00:00`
+- Day/swing records: `363`
+- Day/swing latest: `2026-05-05T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `30`, risk hits `4`, risk headline rate `0.1`, policy hits `2`
+- crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
+- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `2`
 
 ## Headlines
 
-- [commodity] Maersk says ship passed through Strait of Hormuz under U.S. military protection (Energy)
-- [macro] Canadian regulators and audit leaders review audit quality as risks evolve (Yahoo Finance)
-- [macro] AMZW’s Weekly Payouts Drop 79% as Volatility Collapses; Can Investors Count on Them? (Yahoo Finance)
-- [macro] Micron Stock vs. Sandisk Stock: One Is a Much Better Buy, According to a Wall Street Analyst (Yahoo Finance)
-- [macro] Amazon opens logistics network to external businesses (Yahoo Finance)
-- [macro] Frazier & Deeter acquires accounting and advisory practice Copeland Buhl (Yahoo Finance)
 - [commodity] Oil prices slide as new attacks in Strait of Hormuz threaten fragile U.S.-Iran ceasefire (Energy)
-- [crypto] DeFi lender Aave asks court to block $71 million crypto seizure tied to North Korea claims (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Williams Posts Record Q1 as Gas Strategy Fuels Growth (Yahoo Finance)
-- [macro] A 'fun' superstar stuns rivals and reshapes politics in an Indian state (BBC News)
+- [macro] 3 Monster Dividend Stocks That Could Pay You Through the Next Decade of Chaos (Yahoo Finance)
+- [macro] Pepco expands DHL partnership to five European sites (Yahoo Finance)
+- [commodity] Maersk says ship passed through Strait of Hormuz under U.S. military protection (Energy)
+- [macro] I Asked ChatGPT to Manage a Stock Portfolio. Here’s How It Did. (Yahoo Finance)
+- [macro] Meta’s Cheap Stock Is an Investor Trap (Yahoo Finance)
+- [macro] I Just Opened a Position in Wall Street's Greatest Dividend Stock -- a Company That's Been Paying Dividends Since the Early 1800s (Yahoo Finance)
+- [macro] Should You Sell Stocks in May? Here's What History Says. (Yahoo Finance)
+- [macro] Move Over Nvidia: Why Alphabet's Surprising Decision to Sell Custom AI Chips Changes Everything. (Yahoo Finance)
+- [macro] Understanding the New Intraday Margin Requirements (Yahoo Finance)
