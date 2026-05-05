@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T10:15:52.550959+00:00`
-- Market context score: `57.15`
-- News risk score: `35.13`
-- Macro risk score: `28.08`
-- Risk-on score: `45.05`
-- Articles: `49`
+- Generated: `2026-05-05T10:30:27.982760+00:00`
+- Market context score: `56.97`
+- News risk score: `37.11`
+- Macro risk score: `23.2`
+- Risk-on score: `44.48`
+- Articles: `57`
 - Polymarket markets: `2`
 
 - Asset universe count: `613`
-- Asset price history records: `351`
+- Asset price history records: `352`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:312`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `364`
-- Day/swing latest: `2026-05-05T10:15:00+00:00`
+- Day/swing records: `365`
+- Day/swing latest: `2026-05-05T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
-- macro: articles `32`, risk hits `6`, risk headline rate `0.1562`, policy hits `13`
+- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `39`, risk hits `5`, risk headline rate `0.1026`, policy hits `11`
 
 ## Headlines
 
+- [crypto] Crypto platform Bullish to buy Equiniti for $4.25 billion, building tokenized securities infrastructure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Here’s Why ​Quantum Computing (QUBT) is One of The Best Quantum Computing Stocks To Buy and Hold For 10 Years (Yahoo Finance)
+- [macro] Here’s What the Street Thinks About D-Wave Quantum (QBTS) Ahead of FQ1 2026 Earnings (Yahoo Finance)
+- [macro] Northland Believes Compute Demand For AI Leading Quantum Industry, Here’s What it Thinks About Rigetti Computing (RGTI) (Yahoo Finance)
+- [macro] IonQ, Inc. (IONQ) Signs a MSA With Florida LambdaRail (Yahoo Finance)
+- [macro] HSBC Upgrades International Business Machines Corporation (IBM) on Quantum Business Valuation (Yahoo Finance)
+- [macro] Here’s What BofA Thinks About ​NVIDIA Corporation (NVDA) (Yahoo Finance)
+- [macro] Alphabet Inc (GOOGL) Signs Classified AI Contract With US DoD (Yahoo Finance)
+- [macro] Here’s What RBC Capital Thinks About Microsoft (MSFT) After Amended Deal With OpenAI (Yahoo Finance)
 - [macro] Second hantavirus case confirmed after deaths on cruise ship (BBC News)
-- [commodity] Oil prices slide as new attacks in Strait of Hormuz threaten fragile U.S.-Iran ceasefire (Energy)
-- [macro] Best high-yield savings interest rates today, May 5, 2026 (Earn up to 4.1% APY) (Yahoo Finance)
-- [macro] Elon Musk says saving for retirement 'won't matter.' I'm not banking on it. (Yahoo Finance)
-- [macro] HELOC and home equity loan rates today, May 5, 2026: HELOC or HEL -- how to pick the right one (Yahoo Finance)
-- [macro] Dow transports are nearing a bear market after erasing their entire April breakout: Chart of the Day (Yahoo Finance)
-- [macro] RIA Channel Saw Greatest Advisor Gains in 2025 (Yahoo Finance)
-- [macro] Mortgage and refinance rates today, May 5, 2026: Fixed-rate loans up week-over-week (Yahoo Finance)
-- [macro] Best CD rates today, May 5, 2026: Lock in up to 4.05% APY today (Yahoo Finance)
-- [macro] The long bond is back in Wall Street's danger zone (Yahoo Finance)
