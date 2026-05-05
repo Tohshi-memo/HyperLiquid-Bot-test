@@ -1,31 +1,32 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-05T22:15:35.516821+00:00`
-- Market context score: `52.97`
-- News risk score: `40.09`
-- Macro risk score: `20.54`
-- Risk-on score: `37.09`
-- Articles: `69`
+- Generated: `2026-05-05T22:30:34.652413+00:00`
+- Market context score: `51.9`
+- News risk score: `41.52`
+- Macro risk score: `21.95`
+- Risk-on score: `36.47`
+- Articles: `71`
 - Polymarket markets: `2`
 
 - Asset universe count: `614`
-- Asset price history records: `397`
+- Asset price history records: `398`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `410`
-- Day/swing latest: `2026-05-05T22:15:00+00:00`
+- Day/swing records: `411`
+- Day/swing latest: `2026-05-05T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
-- crypto: articles `47`, risk hits `14`, risk headline rate `0.234`, policy hits `1`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
+- crypto: articles `46`, risk hits `14`, risk headline rate `0.2391`, policy hits `1`
+- macro: articles `17`, risk hits `3`, risk headline rate `0.1176`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Offensive stage of Iran war is over, US Secretary of State Rubio says (BBC News)
 - [crypto] Ripple CEO says market structure bill not a ‘done deal,’ despite stablecoin compromise (Cointelegraph.com News)
 - [crypto] The world's entire economy will be tokenized, says Consensys’ Joseph Lubin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] It's transparency, not tech alone, that drives crypto adoption, panelists tell Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,4 +36,3 @@
 - [crypto] Prophet launches AI-powered prediction market with live $10,000 trading tranche (Cointelegraph.com News)
 - [crypto] Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] State Street says institutions want improved blockchain security in wake of recent DeFi attacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto's 'barbell': speculation and stablecoin payments drive adoption, Tempo's Romero says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
