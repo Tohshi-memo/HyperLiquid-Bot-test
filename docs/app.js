@@ -4,6 +4,7 @@ const DATA = {
   pack: "./data/processed/ai_analysis_pack.json",
   context: "./data/processed/market_context.json",
   flow: "./data/processed/flow_alert.json",
+  assetFeatures: "./data/processed/asset_features_latest.json",
   assetReport: "./data/reports/latest_asset_universe.md",
   hip4: "./data/processed/hip4_outcome_latest.json",
   relationship: "./data/processed/relationship_scan_latest.json",
@@ -243,12 +244,13 @@ function escapeHtml(value) {
 
 async function renderDashboard() {
   try {
-    const [index, canary, pack, context, flow, assetReport, relationship] = await Promise.all([
+    const [index, canary, pack, context, flow, assetFeatures, assetReport, relationship] = await Promise.all([
       loadJson(DATA.index),
       loadJson(DATA.canary),
       loadJson(DATA.pack),
       loadJson(DATA.context),
       loadJson(DATA.flow),
+      loadJson(DATA.assetFeatures).catch(() => null),
       loadText(DATA.assetReport),
       loadJson(DATA.relationship).catch(() => null),
     ]);
@@ -260,6 +262,7 @@ async function renderDashboard() {
     renderGdelt(context);
     renderFlowDetail(flow);
     renderRelationshipScan(relationship);
+    renderIndividualSignals(assetFeatures);
     renderSymbols(pack);
     renderAssetClasses(index, canary);
     renderMovers(assetReport);
@@ -273,6 +276,59 @@ async function renderDashboard() {
     const node = document.getElementById("hip4List");
     if (node) node.innerHTML = emptyCard("HIP-4 data not yet available.");
   });
+}
+
+function renderIndividualSignals(assetFeatures) {
+  const node = document.getElementById("individualSignalsList");
+  if (!node) return;
+  const rows = collectAssetFeatureRows(assetFeatures);
+  const selected = rows
+    .filter((row) => row.best_relationship || ["equity", "commodity", "metal", "index", "fx", "crypto_major"].includes(row.asset_class))
+    .sort((a, b) => {
+      const relEdge = Number(b.best_relationship?.score || 0) - Number(a.best_relationship?.score || 0);
+      if (relEdge !== 0) return relEdge;
+      return Number(b.activity_score || 0) - Number(a.activity_score || 0);
+    })
+    .slice(0, 6);
+  node.innerHTML = selected.map((row) => {
+    const rel = row.best_relationship || {};
+    return `
+      <article class="item-card">
+        <strong>${escapeHtml(row.symbol)} <span class="muted">${escapeHtml(row.asset_class || "")}</span></strong>
+        <div class="meta-line">
+          <span>price ${fmtNumber(row.price, 4)}</span>
+          <span>4h ${fmtPct(row.returns?.["4h"])}</span>
+          <span>24h ${fmtPct(row.returns?.["24h"])}</span>
+        </div>
+        <div class="meta-line">
+          <span>vol ${fmtNumber(row.day_ntl_vlm, 0)}</span>
+          <span>${escapeHtml(rel.condition || "no pattern")}</span>
+          <span>score ${fmtNumber(rel.score, 2)}</span>
+        </div>
+      </article>
+    `;
+  }).join("") || emptyCard("Individual asset signals will appear after the next context run.");
+}
+
+function collectAssetFeatureRows(assetFeatures) {
+  const map = new Map();
+  const addRows = (rows) => {
+    if (!Array.isArray(rows)) return;
+    for (const row of rows) {
+      if (row && row.symbol && !map.has(row.symbol)) map.set(row.symbol, row);
+    }
+  };
+  addRows(assetFeatures?.top_assets);
+  const byClass = assetFeatures?.by_class || {};
+  for (const summary of Object.values(byClass)) {
+    addRows(summary?.top_activity);
+    addRows(summary?.top_volume);
+    addRows(summary?.top_4h_return);
+    addRows(summary?.bottom_4h_return);
+    addRows(summary?.top_24h_return);
+    addRows(summary?.bottom_24h_return);
+  }
+  return [...map.values()];
 }
 
 renderDashboard();

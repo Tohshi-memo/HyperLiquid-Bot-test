@@ -14,6 +14,7 @@ import requests
 from dateutil import parser as date_parser
 
 from collector.asset_universe import update_asset_universe_snapshot
+from collector.asset_features import update_asset_features
 from collector.ai_index import update_ai_index
 from collector.day_swing import update_day_swing_dataset
 from collector.hip4_outcome import update_hip4_outcome_snapshot
@@ -119,6 +120,7 @@ def run_context(now: datetime) -> None:
     context["hip4_outcome"] = collect_hip4_outcome_summary(now)
     context["day_swing"] = collect_day_swing_summary(now, context)
     context["relationship_scan"] = collect_relationship_scan_summary(now)
+    context["asset_features"] = collect_asset_features_summary(now)
     context["ai_index"] = collect_ai_index_summary(now, context)
 
     (raw_dir / f"rss_{now.strftime('%H%M%S')}.json").write_text(
@@ -161,6 +163,14 @@ def collect_relationship_scan_summary(now: datetime) -> dict[str, Any]:
         return update_relationship_scan(now)
     except Exception as e:
         logging.warning("Relationship scan update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
+
+
+def collect_asset_features_summary(now: datetime) -> dict[str, Any]:
+    try:
+        return update_asset_features(now)
+    except Exception as e:
+        logging.warning("Asset feature update failed: %s", e)
         return {"enabled": True, "error": str(e)}
 
 

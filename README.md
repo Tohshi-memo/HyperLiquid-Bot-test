@@ -22,6 +22,8 @@ exchange keys, position state, final trade signals, or execution logic.
 - Day/swing research snapshots for BTC, ETH, HYPE, and SOL
 - Compact AI context index and canary signals for quota-saving analysis
 - Mechanical relationship scans for A/B conditions versus future asset-class returns
+- Compact individual-asset feature screens for stock, index, metal, commodity,
+  FX, and crypto candidates
 
 Outputs are written to:
 
@@ -34,6 +36,7 @@ data/processed/flow_alert.json
 data/processed/flow_alert_history.json
 data/processed/asset_universe_latest.json
 data/processed/asset_price_history.json
+data/processed/asset_features_latest.json
 data/processed/day_swing_dataset.json
 data/processed/ai_analysis_pack.json
 data/processed/hip4_outcome_latest.json
@@ -44,6 +47,7 @@ data/reports/latest_flow_alert.md
 data/reports/latest_ai_context_index.md
 data/reports/latest_canary_signals.md
 data/reports/latest_asset_universe.md
+data/reports/latest_asset_features.md
 data/reports/latest_day_swing.md
 data/reports/latest_ai_analysis_brief.md
 data/reports/latest_hip4_outcome.md
@@ -80,6 +84,11 @@ Polymarket volume, large-flow aggregates, and asset-class returns for crypto,
 equity, index, metal, commodity, and FX perps. These are early-warning research
 signals, not direct trade instructions.
 
+`asset_features_latest.json` is the first stop for individual-symbol review. It
+keeps a compact screen of recent 15m/1h/4h/24h returns, volume, open interest,
+funding, class, and best mechanical relationship candidate. Use this before
+loading the heavier all-symbol price history.
+
 Polymarket collection discovers active markets, then keeps watchlist-relevant
 ones by text/tag classification: crypto, major macro, commodities, rates,
 geopolitical, military/conflict, election, and tariff-related markets. The
@@ -88,11 +97,11 @@ job keeps the broader research set.
 
 `relationship_scan_latest.json` mechanically compares public conditions such
 as news risk, macro risk, risk-on context, Polymarket volume spikes, and flow
-alerts against future 1h/4h/24h asset-class returns. It records sample count,
-baseline probability, conditional probability, expected return edge, drawdown,
-loss streak, and split-period stability. It is a hypothesis generator only;
-private AI review and private strategy code must validate any candidate before
-trade use.
+alerts against future 1h/4h/24h asset-class returns and selected individual
+symbols. It records sample count, baseline probability, conditional
+probability, expected return edge, drawdown, loss streak, and split-period
+stability. It is a hypothesis generator only; private AI review and private
+strategy code must validate any candidate before trade use.
 
 `hip4_outcome_latest.json` and `hip4_outcome_history.json` capture HIP-4
 outcome markets directly from HyperLiquid. The collector reads market
@@ -112,7 +121,9 @@ The `docs/` directory contains a static, AI-free report dashboard for GitHub
 Pages. It reads copied compact JSON/Markdown from `docs/data/` and displays
 market status, canary signals, data readiness, BTC/ETH/HYPE/SOL stats,
 asset-class movement, top movers, top Polymarket markets, latest headlines,
-GDELT activity, and flow details.
+GDELT activity, flow details, relationship candidates, HIP-4 markets, and an
+Asset Screener page for individual stock, commodity, metal, index, FX, and
+crypto assets.
 
 Headlines are saved with a `category` field (`crypto`, `macro`, `policy`,
 or `commodity`) so later analysis can compare token prices with general market

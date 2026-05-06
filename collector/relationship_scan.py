@@ -49,6 +49,7 @@ def update_relationship_scan(now: datetime) -> dict[str, Any]:
     event_points = build_event_points(records, market_points, flow_points)
     baselines = build_baselines(records, class_map)
     patterns = scan_patterns(records, class_map, event_points, baselines, min_samples)
+    symbol_patterns = scan_symbol_patterns(records, class_map, asset_universe, event_points, min_samples)
 
     latest = {
         "schema_version": 1,
@@ -66,7 +67,9 @@ def update_relationship_scan(now: datetime) -> dict[str, Any]:
         "conditions": condition_catalog(),
         "baselines": baselines,
         "top_patterns": patterns[:top_limit],
+        "top_symbol_patterns": symbol_patterns[:top_limit],
         "pattern_count": len(patterns),
+        "symbol_pattern_count": len(symbol_patterns),
     }
 
     LATEST_FILE.write_text(json.dumps(latest, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -78,7 +81,9 @@ def update_relationship_scan(now: datetime) -> dict[str, Any]:
         "latest_file": "data/processed/relationship_scan_latest.json",
         "report_file": "data/reports/latest_relationship_scan.md",
         "pattern_count": len(patterns),
+        "symbol_pattern_count": len(symbol_patterns),
         "top_patterns": patterns[:10],
+        "top_symbol_patterns": symbol_patterns[:10],
         "min_samples": min_samples,
     }
 
@@ -227,6 +232,83 @@ def scan_patterns(
     return candidates
 
 
+def scan_symbol_patterns(
+    records: list[dict[str, Any]],
+    class_map: dict[str, str],
+    asset_universe: dict[str, Any],
+    event_points: list[dict[str, Any]],
+    min_samples: int,
+) -> list[dict[str, Any]]:
+    event_by_time = {item["observed_at"]: item["events"] for item in event_points}
+    conditions = list(condition_catalog())
+    candidates = []
+    eligible = eligible_symbols(asset_universe)
+
+    for horizon_name, horizon_delta in DEFAULT_HORIZONS.items():
+        symbol_returns = build_forward_symbol_returns_by_time(records, eligible, horizon_delta)
+        for symbol, time_returns in symbol_returns.items():
+            baseline_values = [ret for _, ret in time_returns]
+            baseline = summarize_returns(baseline_values)
+            if baseline["sample_count"] < min_samples:
+                continue
+            baseline_up = to_float(baseline.get("up_rate_pct"))
+            baseline_avg = to_float(baseline.get("avg_return_pct"))
+            for condition in conditions:
+                values = [
+                    ret
+                    for point_time, ret in time_returns
+                    if event_by_time.get(point_time, {}).get(condition)
+                ]
+                if not values:
+                    continue
+                summary = summarize_returns(values)
+                summary["pattern_id"] = f"{condition}->{symbol}_{horizon_name}"
+                summary["conditions"] = [condition]
+                summary["symbol"] = symbol
+                summary["target"] = symbol
+                summary["asset_class"] = class_map.get(symbol, "unknown")
+                summary["horizon"] = horizon_name
+                summary["baseline_sample_count"] = baseline.get("sample_count")
+                summary["baseline_up_rate_pct"] = baseline_up
+                summary["baseline_avg_return_pct"] = baseline_avg
+                summary["delta_probability_pct"] = round(summary["up_rate_pct"] - baseline_up, 4)
+                summary["edge_return_pct"] = round(summary["avg_return_pct"] - baseline_avg, 4)
+                summary["max_drawdown_pct"] = max_drawdown(values)
+                summary["longest_loss_streak"] = longest_loss_streak(values)
+                summary["stability"] = split_stability(values)
+                summary["sample_status"] = "ready" if summary["sample_count"] >= min_samples else "thin_sample"
+                summary["score"] = pattern_score(summary, min_samples)
+                candidates.append(summary)
+
+    candidates.sort(
+        key=lambda item: (
+            item.get("sample_status") == "ready",
+            item.get("score", -999),
+            item.get("sample_count", 0),
+        ),
+        reverse=True,
+    )
+    return candidates
+
+
+def eligible_symbols(asset_universe: dict[str, Any]) -> set[str]:
+    rows = asset_universe.get("assets", []) if isinstance(asset_universe, dict) else []
+    if not isinstance(rows, list):
+        return set()
+    allowed_classes = {"equity", "commodity", "metal", "index", "fx", "crypto_major"}
+    liquid = [
+        row
+        for row in rows
+        if isinstance(row, dict)
+        and row.get("symbol")
+        and row.get("asset_class") in allowed_classes
+        and to_float(row.get("price")) > 0
+    ]
+    liquid.sort(key=lambda row: to_float(row.get("day_ntl_vlm")), reverse=True)
+    max_symbols = int(os.getenv("RELATIONSHIP_SYMBOL_LIMIT", "120"))
+    return {str(row["symbol"]) for row in liquid[:max_symbols]}
+
+
 def build_forward_class_returns(
     records: list[dict[str, Any]],
     class_map: dict[str, str],
@@ -265,6 +347,32 @@ def build_forward_class_returns_by_time(
         for asset_class, values in grouped.items():
             if values:
                 output.setdefault(asset_class, []).append((point_time, sum(values) / len(values)))
+    return output
+
+
+def build_forward_symbol_returns_by_time(
+    records: list[dict[str, Any]],
+    symbols: set[str],
+    horizon: timedelta,
+) -> dict[str, list[tuple[datetime, float]]]:
+    output: dict[str, list[tuple[datetime, float]]] = {}
+    if not symbols:
+        return output
+    for record in records:
+        point_time = parse_time(record.get("observed_at"))
+        if point_time is None:
+            continue
+        future = find_record_at_or_after(records, point_time + horizon)
+        if not future:
+            continue
+        current_prices = record.get("prices", {}) if isinstance(record.get("prices"), dict) else {}
+        future_prices = future.get("prices", {}) if isinstance(future.get("prices"), dict) else {}
+        for symbol in symbols:
+            start = to_float(current_prices.get(symbol))
+            end = to_float(future_prices.get(symbol))
+            if start <= 0 or end <= 0:
+                continue
+            output.setdefault(symbol, []).append((point_time, (end / start - 1) * 100))
     return output
 
 
@@ -368,6 +476,7 @@ def render_report(latest: dict[str, Any]) -> str:
         f"- Flow alert records: `{latest.get('flow_alert_records')}`\n"
         f"- Minimum samples: `{latest.get('min_samples')}`\n"
         f"- Pattern count: `{latest.get('pattern_count')}`\n\n"
+        f"- Symbol pattern count: `{latest.get('symbol_pattern_count')}`\n\n"
         "## Conditions\n\n"
         f"{conditions or '- No conditions.'}\n\n"
         "## Top Patterns\n\n"

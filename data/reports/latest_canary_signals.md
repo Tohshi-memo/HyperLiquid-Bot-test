@@ -2,7 +2,7 @@
 
 These are early-warning indicators for cross-market relationships. They are hypotheses to test, not trade signals by themselves.
 
-- Updated: `2026-05-06T14:22:19.004364+00:00`
+- Updated: `2026-05-06T14:23:32.233161+00:00`
 - Correlation status: `ready`
 - Asset price records: `461`
 - Minimum samples for correlation: `24`

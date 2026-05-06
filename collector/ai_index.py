@@ -19,6 +19,8 @@ CANARY_REPORT_FILE = REPORT_DIR / "latest_canary_signals.md"
 
 ASSET_UNIVERSE_FILE = PROCESSED_DIR / "asset_universe_latest.json"
 ASSET_PRICE_HISTORY_FILE = PROCESSED_DIR / "asset_price_history.json"
+ASSET_FEATURES_FILE = PROCESSED_DIR / "asset_features_latest.json"
+ASSET_FEATURES_REPORT_FILE = REPORT_DIR / "latest_asset_features.md"
 DAY_SWING_FILE = PROCESSED_DIR / "day_swing_dataset.json"
 AI_ANALYSIS_PACK_FILE = PROCESSED_DIR / "ai_analysis_pack.json"
 MARKET_CONTEXT_HISTORY_FILE = PROCESSED_DIR / "market_context_history.json"
@@ -47,6 +49,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
     asset_universe = load_json(ASSET_UNIVERSE_FILE, {})
+    asset_features = load_json(ASSET_FEATURES_FILE, {})
     price_history = load_json(ASSET_PRICE_HISTORY_FILE, {})
     day_swing = load_json(DAY_SWING_FILE, {})
     ai_pack = load_json(AI_ANALYSIS_PACK_FILE, {})
@@ -74,6 +77,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         context=context,
         flow_alert=flow_alert,
         asset_universe=asset_universe,
+        asset_features=asset_features,
         price_history=price_history,
         day_swing=day_swing,
         ai_pack=ai_pack,
@@ -104,6 +108,7 @@ def build_ai_index(
     context: dict[str, Any],
     flow_alert: dict[str, Any],
     asset_universe: dict[str, Any],
+    asset_features: dict[str, Any],
     price_history: dict[str, Any],
     day_swing: dict[str, Any],
     ai_pack: dict[str, Any],
@@ -166,6 +171,7 @@ def build_ai_index(
             },
             "asset_price_archive_files": archive_files,
             "asset_count": asset_universe.get("asset_count") if isinstance(asset_universe, dict) else None,
+            "asset_feature_count": asset_features.get("asset_count") if isinstance(asset_features, dict) else None,
             "priced_asset_count": latest_record.get("priced_asset_count"),
             "asset_class_counts": (
                 asset_universe.get("asset_class_counts") if isinstance(asset_universe, dict) else {}
@@ -212,6 +218,13 @@ def build_ai_index(
                 "pattern_count": relationship_scan.get("pattern_count"),
                 "min_samples": relationship_scan.get("min_samples"),
                 "top_patterns": relationship_scan.get("top_patterns", [])[:5],
+                "top_symbol_patterns": relationship_scan.get("top_symbol_patterns", [])[:5],
+            },
+            "asset_features": {
+                "generated_at": asset_features.get("generated_at"),
+                "observed_at": asset_features.get("observed_at"),
+                "asset_count": asset_features.get("asset_count"),
+                "top_assets": asset_features.get("top_assets", [])[:10],
             },
         },
         "canary_summary": {
@@ -228,6 +241,10 @@ def build_ai_index(
             "read_full_latest_assets_when": (
                 "Checking individual symbol asset_class, asset_id, funding, open interest, "
                 "volume, HIP-3 dex, or order feasibility."
+            ),
+            "read_asset_features_when": (
+                "Checking individual equity, commodity, metal, index, FX, or crypto candidates "
+                "without loading full all-symbol history."
             ),
             "read_full_price_history_when": (
                 "Testing cross-asset lead/lag, Polymarket/news/flow correlation, or a "
@@ -258,11 +275,13 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/reports/latest_ai_analysis_brief.md", REPORT_DIR / "latest_ai_analysis_brief.md", "BTC/ETH/HYPE/SOL compact stats."),
             file_entry("data/processed/ai_analysis_pack.json", AI_ANALYSIS_PACK_FILE, "Compact strategy stats."),
             file_entry("data/reports/latest_asset_universe.md", REPORT_DIR / "latest_asset_universe.md", "Asset-class overview."),
+            file_entry("data/reports/latest_asset_features.md", ASSET_FEATURES_REPORT_FILE, "Individual asset screen."),
             file_entry("data/reports/latest_hip4_outcome.md", HIP4_OUTCOME_REPORT_FILE, "HIP-4 outcome market overview."),
             file_entry("data/reports/latest_relationship_scan.md", RELATIONSHIP_SCAN_REPORT_FILE, "Mechanical relationship candidates."),
         ],
         "conditional": [
             file_entry("data/processed/asset_universe_latest.json", ASSET_UNIVERSE_FILE, "Latest all-symbol rows."),
+            file_entry("data/processed/asset_features_latest.json", ASSET_FEATURES_FILE, "Individual returns, volume, OI, funding, and best relationship candidates."),
             file_entry("data/processed/asset_price_history.json", ASSET_PRICE_HISTORY_FILE, "Active all-symbol 15m price window."),
             file_entry("data/processed/day_swing_dataset.json", DAY_SWING_FILE, "Full BTC/ETH/HYPE/SOL feature and label rows."),
             file_entry("data/processed/market_context_history.json", MARKET_CONTEXT_HISTORY_FILE, "News/context history."),
