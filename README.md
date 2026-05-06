@@ -21,6 +21,7 @@ exchange keys, position state, final trade signals, or execution logic.
   `allMids` info-endpoint requests, plus asset-context fields when available
 - Day/swing research snapshots for BTC, ETH, HYPE, and SOL
 - Compact AI context index and canary signals for quota-saving analysis
+- Mechanical relationship scans for A/B conditions versus future asset-class returns
 
 Outputs are written to:
 
@@ -37,6 +38,7 @@ data/processed/day_swing_dataset.json
 data/processed/ai_analysis_pack.json
 data/processed/hip4_outcome_latest.json
 data/processed/hip4_outcome_history.json
+data/processed/relationship_scan_latest.json
 data/reports/latest_context.md
 data/reports/latest_flow_alert.md
 data/reports/latest_ai_context_index.md
@@ -45,6 +47,7 @@ data/reports/latest_asset_universe.md
 data/reports/latest_day_swing.md
 data/reports/latest_ai_analysis_brief.md
 data/reports/latest_hip4_outcome.md
+data/reports/latest_relationship_scan.md
 data/archive/asset_price_history_YYYY-MM.jsonl.gz
 ```
 
@@ -76,6 +79,14 @@ archives only when a longer backtest is needed.
 Polymarket volume, large-flow aggregates, and asset-class returns for crypto,
 equity, index, metal, commodity, and FX perps. These are early-warning research
 signals, not direct trade instructions.
+
+`relationship_scan_latest.json` mechanically compares public conditions such
+as news risk, macro risk, risk-on context, Polymarket volume spikes, and flow
+alerts against future 1h/4h/24h asset-class returns. It records sample count,
+baseline probability, conditional probability, expected return edge, drawdown,
+loss streak, and split-period stability. It is a hypothesis generator only;
+private AI review and private strategy code must validate any candidate before
+trade use.
 
 `hip4_outcome_latest.json` and `hip4_outcome_history.json` capture HIP-4
 outcome markets directly from HyperLiquid. The collector reads market

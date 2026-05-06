@@ -17,6 +17,7 @@ from collector.asset_universe import update_asset_universe_snapshot
 from collector.ai_index import update_ai_index
 from collector.day_swing import update_day_swing_dataset
 from collector.hip4_outcome import update_hip4_outcome_snapshot
+from collector.relationship_scan import update_relationship_scan
 
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = ROOT / "data" / "processed"
@@ -117,6 +118,7 @@ def run_context(now: datetime) -> None:
     context["asset_universe"] = collect_asset_universe_summary(now)
     context["hip4_outcome"] = collect_hip4_outcome_summary(now)
     context["day_swing"] = collect_day_swing_summary(now, context)
+    context["relationship_scan"] = collect_relationship_scan_summary(now)
     context["ai_index"] = collect_ai_index_summary(now, context)
 
     (raw_dir / f"rss_{now.strftime('%H%M%S')}.json").write_text(
@@ -151,6 +153,14 @@ def collect_ai_index_summary(now: datetime, context: dict[str, Any]) -> dict[str
         return update_ai_index(now, context)
     except Exception as e:
         logging.warning("AI index update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
+
+
+def collect_relationship_scan_summary(now: datetime) -> dict[str, Any]:
+    try:
+        return update_relationship_scan(now)
+    except Exception as e:
+        logging.warning("Relationship scan update failed: %s", e)
         return {"enabled": True, "error": str(e)}
 
 

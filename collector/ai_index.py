@@ -27,6 +27,8 @@ FLOW_ALERT_HISTORY_FILE = PROCESSED_DIR / "flow_alert_history.json"
 HIP4_OUTCOME_FILE = PROCESSED_DIR / "hip4_outcome_latest.json"
 HIP4_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "hip4_outcome_history.json"
 HIP4_OUTCOME_REPORT_FILE = REPORT_DIR / "latest_hip4_outcome.md"
+RELATIONSHIP_SCAN_FILE = PROCESSED_DIR / "relationship_scan_latest.json"
+RELATIONSHIP_SCAN_REPORT_FILE = REPORT_DIR / "latest_relationship_scan.md"
 
 RETURN_HORIZONS = {
     "15m": timedelta(minutes=15),
@@ -53,6 +55,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
     flow_alert = load_json(FLOW_ALERT_FILE, {})
     hip4_outcome = load_json(HIP4_OUTCOME_FILE, {})
     hip4_outcome_history = load_json(HIP4_OUTCOME_HISTORY_FILE, [])
+    relationship_scan = load_json(RELATIONSHIP_SCAN_FILE, {})
 
     canary = build_canary_signals(
         now=now,
@@ -79,6 +82,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         canary=canary,
         hip4_outcome=hip4_outcome,
         hip4_outcome_history=hip4_outcome_history,
+        relationship_scan=relationship_scan,
     )
     AI_INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
     AI_INDEX_REPORT_FILE.write_text(render_index_report(index), encoding="utf-8")
@@ -108,9 +112,11 @@ def build_ai_index(
     canary: dict[str, Any],
     hip4_outcome: dict[str, Any] | None = None,
     hip4_outcome_history: list[Any] | None = None,
+    relationship_scan: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     hip4_outcome = hip4_outcome if isinstance(hip4_outcome, dict) else {}
     hip4_outcome_history = hip4_outcome_history if isinstance(hip4_outcome_history, list) else []
+    relationship_scan = relationship_scan if isinstance(relationship_scan, dict) else {}
     records = price_history.get("records", []) if isinstance(price_history, dict) else []
     if not isinstance(records, list):
         records = []
@@ -144,6 +150,7 @@ def build_ai_index(
             "data/reports/latest_ai_analysis_brief.md",
             "data/processed/ai_analysis_pack.json",
             "data/reports/latest_asset_universe.md",
+            "data/reports/latest_relationship_scan.md",
             "Load full JSON files only for validating a specific candidate rule.",
         ],
         "source_repository": "https://github.com/Tohshi-memo/HyperLiquid-Bot-test.git",
@@ -172,6 +179,8 @@ def build_ai_index(
             "hip4_outcome_by_class": hip4_outcome.get("by_class", {}),
             "hip4_outcome_request_errors": hip4_outcome.get("request_errors", []),
             "hip4_outcome_request_warnings": hip4_outcome.get("request_warnings", []),
+            "relationship_pattern_count": relationship_scan.get("pattern_count"),
+            "relationship_min_samples": relationship_scan.get("min_samples"),
         },
         "latest_market_snapshot": {
             "generated_at": context.get("generated_at"),
@@ -197,6 +206,12 @@ def build_ai_index(
                 "by_status": hip4_outcome.get("by_status", {}),
                 "request_errors": hip4_outcome.get("request_errors", []),
                 "request_warnings": hip4_outcome.get("request_warnings", []),
+            },
+            "relationship_scan": {
+                "generated_at": relationship_scan.get("generated_at"),
+                "pattern_count": relationship_scan.get("pattern_count"),
+                "min_samples": relationship_scan.get("min_samples"),
+                "top_patterns": relationship_scan.get("top_patterns", [])[:5],
             },
         },
         "canary_summary": {
@@ -226,6 +241,10 @@ def build_ai_index(
                 "Checking HyperLiquid prediction-market probabilities, outcome-side drift, "
                 "or lead/lag versus Polymarket, news, or asset-class price moves."
             ),
+            "read_relationship_scan_when": (
+                "Selecting public, mechanically discovered A/B -> future-return candidates "
+                "for private AI hypothesis review and strategy validation."
+            ),
         },
     }
 
@@ -240,6 +259,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/ai_analysis_pack.json", AI_ANALYSIS_PACK_FILE, "Compact strategy stats."),
             file_entry("data/reports/latest_asset_universe.md", REPORT_DIR / "latest_asset_universe.md", "Asset-class overview."),
             file_entry("data/reports/latest_hip4_outcome.md", HIP4_OUTCOME_REPORT_FILE, "HIP-4 outcome market overview."),
+            file_entry("data/reports/latest_relationship_scan.md", RELATIONSHIP_SCAN_REPORT_FILE, "Mechanical relationship candidates."),
         ],
         "conditional": [
             file_entry("data/processed/asset_universe_latest.json", ASSET_UNIVERSE_FILE, "Latest all-symbol rows."),
@@ -249,6 +269,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/flow_alert_history.json", FLOW_ALERT_HISTORY_FILE, "Polymarket/flow history."),
             file_entry("data/processed/hip4_outcome_latest.json", HIP4_OUTCOME_FILE, "Latest HIP-4 outcome rows with implied probabilities."),
             file_entry("data/processed/hip4_outcome_history.json", HIP4_OUTCOME_HISTORY_FILE, "HIP-4 outcome history with per-bucket implied probabilities."),
+            file_entry("data/processed/relationship_scan_latest.json", RELATIONSHIP_SCAN_FILE, "Mechanical A/B -> future-return candidate patterns."),
         ],
         "archives": [
             {"path": path, "when_to_read": "Only for longer backtests after a specific rule is selected."}

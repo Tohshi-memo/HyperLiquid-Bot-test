@@ -6,6 +6,7 @@ const DATA = {
   flow: "./data/processed/flow_alert.json",
   assetReport: "./data/reports/latest_asset_universe.md",
   hip4: "./data/processed/hip4_outcome_latest.json",
+  relationship: "./data/processed/relationship_scan_latest.json",
 };
 
 const CLASS_ORDER = [
@@ -242,13 +243,14 @@ function escapeHtml(value) {
 
 async function renderDashboard() {
   try {
-    const [index, canary, pack, context, flow, assetReport] = await Promise.all([
+    const [index, canary, pack, context, flow, assetReport, relationship] = await Promise.all([
       loadJson(DATA.index),
       loadJson(DATA.canary),
       loadJson(DATA.pack),
       loadJson(DATA.context),
       loadJson(DATA.flow),
       loadText(DATA.assetReport),
+      loadJson(DATA.relationship).catch(() => null),
     ]);
 
     renderMetrics(index, context, flow, pack);
@@ -257,6 +259,7 @@ async function renderDashboard() {
     renderNewsCategories(context);
     renderGdelt(context);
     renderFlowDetail(flow);
+    renderRelationshipScan(relationship);
     renderSymbols(pack);
     renderAssetClasses(index, canary);
     renderMovers(assetReport);
@@ -285,7 +288,7 @@ function renderPolymarket(context, flow) {
   if (!node) return;
   const flowMarkets = Array.isArray(flow?.polymarket?.top_markets) ? flow.polymarket.top_markets : [];
   const contextMarkets = Array.isArray(context?.polymarket?.top_markets) ? context.polymarket.top_markets : [];
-  const markets = flowMarkets.length ? flowMarkets : contextMarkets;
+  const markets = mergeMarkets(contextMarkets, flowMarkets);
   node.innerHTML = markets.slice(0, 6).map((market) => {
     const volume24h = market.volume_24h !== undefined ? market.volume_24h : market.volume;
     const endDate = market.end_date || market.endDate;
@@ -303,6 +306,16 @@ function renderPolymarket(context, flow) {
       </article>
     `;
   }).join("") || emptyCard("No active Polymarket markets.");
+}
+
+function mergeMarkets(primary, secondary) {
+  const map = new Map();
+  for (const market of [...primary, ...secondary]) {
+    const key = market.slug || market.question || market.title;
+    if (!key || map.has(key)) continue;
+    map.set(key, market);
+  }
+  return [...map.values()];
 }
 
 function renderHeadlines(context) {
@@ -416,6 +429,27 @@ function renderFlowDetail(flow) {
       <small>Flow source returned an issue.</small>
     </div>
   `).join("");
+}
+
+function renderRelationshipScan(scan) {
+  const node = document.getElementById("relationshipList");
+  if (!node) return;
+  const rows = Array.isArray(scan?.top_patterns) ? scan.top_patterns : [];
+  node.innerHTML = rows.slice(0, 6).map((row) => `
+    <article class="item-card">
+      <strong>${escapeHtml(row.pattern_id || "pattern")}</strong>
+      <div class="meta-line">
+        <span>score ${fmtNumber(row.score, 2)}</span>
+        <span>n ${fmtNumber(row.sample_count, 0)}</span>
+        <span>${escapeHtml(row.sample_status || "")}</span>
+      </div>
+      <div class="meta-line">
+        <span>deltaP ${fmtNumber(row.delta_probability_pct, 2)}%</span>
+        <span>edge ${fmtPct(row.edge_return_pct)}</span>
+        <span>DD ${fmtPct(row.max_drawdown_pct)}</span>
+      </div>
+    </article>
+  `).join("") || emptyCard("Relationship scan will appear after the next context run.");
 }
 
 function emptyCard(message) {
