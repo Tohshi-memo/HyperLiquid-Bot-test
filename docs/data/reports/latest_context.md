@@ -1,30 +1,31 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-06T21:22:16.847608+00:00`
-- Market context score: `46.73`
-- News risk score: `45.59`
-- Macro risk score: `30.37`
-- Risk-on score: `31.6`
-- Articles: `79`
+- Generated: `2026-05-06T21:37:23.187983+00:00`
+- Market context score: `44.26`
+- News risk score: `48.02`
+- Macro risk score: `35.22`
+- Risk-on score: `30.0`
+- Articles: `75`
 - Polymarket markets: `80`
 
 - Asset universe count: `714`
-- Asset price history records: `489`
+- Asset price history records: `490`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:4, index:23, metal:18, unknown:356`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `502`
-- Day/swing latest: `2026-05-06T21:15:00+00:00`
+- Day/swing records: `503`
+- Day/swing latest: `2026-05-06T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `48`, risk hits `12`, risk headline rate `0.2292`, policy hits `1`
-- macro: articles `26`, risk hits `8`, risk headline rate `0.2308`, policy hits `2`
+- macro: articles `22`, risk hits `9`, risk headline rate `0.3182`, policy hits `2`
 
 ## Headlines
 
+- [macro] 'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia (BBC News)
 - [crypto] White House targets July 4 for Clarity Act passage, says crypto adviser Patrick Witt (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Dominance of Tether and Circle is a net bad for stablecoins, says Bridge executive (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US Senator says crypto market structure vote could happen by August (Cointelegraph.com News)
@@ -34,4 +35,3 @@
 - [macro] Hantavirus-hit cruise ship leaves Cape Verde after three evacuated (BBC News)
 - [macro] Surging gas prices are hitting lower-income households harder, New York Fed study shows (Economy)
 - [commodity] Airlines spent 56.4% more on jet fuel in month after Iran war started, U.S. government says (Energy)
-- [crypto] Hut 8 investors shrug off Q1 loss, stoke 33% stock surge (Cointelegraph.com News)
