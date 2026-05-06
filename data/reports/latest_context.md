@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-06T11:31:40.600447+00:00`
-- Market context score: `46.61`
-- News risk score: `47.58`
-- Macro risk score: `38.65`
-- Risk-on score: `36.13`
-- Articles: `66`
+- Generated: `2026-05-06T11:37:25.536757+00:00`
+- Market context score: `46.77`
+- News risk score: `48.5`
+- Macro risk score: `37.16`
+- Risk-on score: `36.71`
+- Articles: `67`
 - Polymarket markets: `2`
 
 - Asset universe count: `614`
@@ -20,18 +20,18 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `4`
-- macro: articles `40`, risk hits `18`, risk headline rate `0.35`, policy hits `11`
+- crypto: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `4`
+- macro: articles `40`, risk hits `16`, risk headline rate `0.325`, policy hits `11`
 
 ## Headlines
 
+- [crypto] DeFi's stress test ends quietly. Nothing broke. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] From 'what' to 'how': Robinhood and Bitstamp say banks are ready to build on-chain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] BellRing Brands lowers sales, profit forecasts (Yahoo Finance)
 - [macro] Oil prices drop and stock markets rise after reports of deal to end Iran war (BBC News)
 - [macro] Oil prices drop and stock markets rise after reports of deal to end Iran war (BBC News)
-- [macro] Fazer eyes pick-and-mix with Aroma acquisition (Yahoo Finance)
-- [macro] This Flying-Taxi Stock Could Be Heading to $0 if the Air Mobility Dream Stalls Out (Yahoo Finance)
-- [crypto] Multicoin goes big on zcash as privacy trade returns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Vivek Ramaswamy wins Republican nomination for Ohio governor (BBC News)
-- [commodity] Oil prices plunge on report U.S. and Iran closing in on a deal to end war; Brent falls below $100 (Energy)
-- [macro] Trump Assumed 25% Market Crash Amid War, Says Slump Would've Been 'Worth It' To Stop Iran Nuclear Threat (Yahoo Finance)
-- [crypto] World’s first live map of token concentration: InsightX launches Atlas Live (Cointelegraph.com News)
+- [macro] Equinor ASA Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Emerson Electric Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Equitable Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Energizer Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Oil prices slump after Pakistani source says US and Iran are close to framework peace deal (Yahoo Finance)
