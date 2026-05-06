@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-06T20:50:05.781285+00:00`
+- Generated: `2026-05-06T20:52:25.901215+00:00`
 - Market context score: `45.05`
 - News risk score: `47.14`
 - Macro risk score: `31.59`
@@ -33,5 +33,5 @@
 - [crypto] Hut 8 investors shrug off Q1 loss, stoke 33% stock surge (Cointelegraph.com News)
 - [commodity] Oil prices fall more than 7% as U.S. and Iran appear close to deal to end war (Energy)
 - [crypto] Crypto-backed Republican candidate wins Indiana congressional primary (Cointelegraph.com News)
-- [macro] Analyst Report: Ford Motor Co (Yahoo Finance)
-- [macro] Analyst Report: PayPal Holdings Inc (Yahoo Finance)
+- [macro] Analyst Report: Equity Residential (Yahoo Finance)
+- [macro] Analyst Report: Bristol-Myers Squibb Co (Yahoo Finance)
