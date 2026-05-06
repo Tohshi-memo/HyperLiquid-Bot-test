@@ -298,7 +298,7 @@ function renderPolymarket(context, flow) {
         </div>
         <div class="meta-line">
           <span>end ${formatDate(endDate)}</span>
-          <span>${escapeHtml(market.slug || "")}</span>
+          <span>${escapeHtml(market.query || market.slug || "")}</span>
         </div>
       </article>
     `;

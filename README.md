@@ -62,7 +62,7 @@ validation of a specific candidate rule.
 
 `asset_price_history.json` stores lightweight all-symbol HyperLiquid prices from
 `metaAndAssetCtxs`/`allMids`. By default it also includes HIP-3
-builder-deployed perps from `ASSET_UNIVERSE_HIP3_DEXS=xyz`, such as
+builder-deployed perps from `ASSET_UNIVERSE_HIP3_DEXS=all`, such as
 `xyz:AAPL`, `xyz:TSLA`, `xyz:NVDA`, `xyz:GOLD`, and `xyz:SP500`. It is the
 HyperLiquid equivalent of the MEXC scanner's compact market-context record:
 broad coverage first, deeper OHLCV features only for selected research symbols.

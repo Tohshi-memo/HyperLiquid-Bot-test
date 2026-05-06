@@ -271,18 +271,37 @@ def collect_gdelt() -> list[dict[str, Any]]:
 
 
 def collect_polymarket() -> list[dict[str, Any]]:
-    query = os.getenv("POLYMARKET_QUERY", "crypto")
+    query_values = os.getenv("POLYMARKET_QUERIES", os.getenv("POLYMARKET_QUERY", "crypto"))
+    queries = [item.strip() for item in query_values.split(",") if item.strip()]
     limit = int(os.getenv("POLYMARKET_MARKET_LIMIT", "80"))
+    filter_mode = os.getenv("POLYMARKET_FILTER_MODE", "crypto").strip().lower()
+    markets_by_slug: dict[str, dict[str, Any]] = {}
     try:
-        response = requests.get(
-            "https://gamma-api.polymarket.com/markets",
-            params={"active": "true", "closed": "false", "limit": limit, "q": query},
-            timeout=15,
-        )
-        response.raise_for_status()
-        data = response.json()
-        markets = data if isinstance(data, list) else data.get("markets", [])
-        return [m for m in markets if is_crypto_market(m)]
+        for query in queries:
+            response = requests.get(
+                "https://gamma-api.polymarket.com/markets",
+                params={"active": "true", "closed": "false", "limit": limit, "q": query},
+                timeout=15,
+            )
+            response.raise_for_status()
+            data = response.json()
+            markets = data if isinstance(data, list) else data.get("markets", [])
+            for market in markets:
+                if not isinstance(market, dict):
+                    continue
+                if filter_mode == "crypto" and not is_crypto_market(market):
+                    continue
+                slug = str(market.get("slug") or market.get("conditionId") or market.get("id") or "")
+                if not slug:
+                    continue
+                enriched = dict(market)
+                enriched["query"] = query
+                existing = markets_by_slug.get(slug)
+                if existing is None or market_rank(enriched) > market_rank(existing):
+                    markets_by_slug[slug] = enriched
+        rows = list(markets_by_slug.values())
+        rows.sort(key=market_rank, reverse=True)
+        return rows
     except Exception as e:
         logging.warning("Polymarket failed: %s", e)
         return [{"error": str(e)}]
@@ -499,6 +518,7 @@ def summarize_polymarket(markets: list[dict[str, Any]]) -> dict[str, Any]:
         rows.append({
             "question": market.get("question") or market.get("title"),
             "slug": market.get("slug"),
+            "query": market.get("query"),
             "volume": to_float(market.get("volume")),
             "liquidity": to_float(market.get("liquidity")),
             "end_date": market.get("endDate") or market.get("end_date_iso"),
@@ -572,6 +592,7 @@ def summarize_polymarket_flow(markets: list[dict[str, Any]]) -> dict[str, Any]:
         rows.append({
             "question": market.get("question") or market.get("title"),
             "slug": market.get("slug"),
+            "query": market.get("query"),
             "volume_24h": volume_24h,
             "volume": lifetime_volume,
             "liquidity": to_float(market.get("liquidity") or market.get("liquidityNum")),
@@ -594,6 +615,14 @@ def is_crypto_market(market: dict[str, Any]) -> bool:
         for key in ("question", "title", "slug")
     ).lower()
     return any(re.search(rf"\b{re.escape(word)}\b", text) for word in CRYPTO_MARKET_WORDS)
+
+
+def market_rank(market: dict[str, Any]) -> float:
+    return (
+        to_float(market.get("volume24hr") or market.get("volume24hrClob")) * 10
+        + to_float(market.get("volume") or market.get("volumeNum"))
+        + to_float(market.get("liquidity") or market.get("liquidityNum")) * 2
+    )
 
 
 def collect_errors(gdelt: list[dict[str, Any]], polymarket: list[dict[str, Any]]) -> list[str]:
