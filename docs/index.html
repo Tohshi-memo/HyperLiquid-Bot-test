@@ -132,6 +132,55 @@
       <section class="panel panel--wide" aria-labelledby="canaryTitle">
         <div class="section-head"><h2 id="canaryTitle">Canary Signals</h2></div>
         <div id="canaryList" class="signal-list"></div>
+        <details class="metric-guide">
+          <summary>Canary Signals の数字の読み方 / How to read Canary numbers</summary>
+          <div class="metric-guide-grid">
+            <div lang="ja">
+              <h3>日本語</h3>
+              <p>
+                Canary Signals は売買シグナルではなく、今どこに違和感が出ているかを見る早期警戒サインです。
+                横の数字は、そのサインの強さやズレの大きさを表します。
+              </p>
+              <ul>
+                <li><code>0</code>付近は通常寄りです。大きな異常は出ていません。</li>
+                <li><code>+</code>が大きいほど、その方向の注意サインが強い状態です。</li>
+                <li><code>-</code>が大きいほど、逆方向のズレが強い状態です。</li>
+                <li>絶対値が大きいものほど、先に深掘りする候補です。</li>
+              </ul>
+              <p>
+                <code>news_risk_spike</code> や <code>risk_on_context</code> は0から100系のスコアです。
+                <code>polymarket_volume_spike</code> や <code>large_usdc_inflow_spike</code> は平常時からの離れ具合です。
+                <code>crypto_metal_divergence</code> などは資産クラス間のリターン差です。
+              </p>
+              <p>
+                見る順番は、Canaryで違和感を見つける、Market Statusで全体環境を見る、
+                Asset Screenerで個別銘柄を見る、Relationship Scanで過去の再現性を見る、です。
+              </p>
+            </div>
+            <div lang="en">
+              <h3>English</h3>
+              <p>
+                Canary Signals are early-warning clues, not trade signals. The number beside each signal
+                shows the strength of that warning or the size of the divergence.
+              </p>
+              <ul>
+                <li>Values near <code>0</code> are closer to normal.</li>
+                <li>A larger <code>+</code> means the signal is stronger in that direction.</li>
+                <li>A larger <code>-</code> means the opposite-side divergence is stronger.</li>
+                <li>Larger absolute values are usually the first places to investigate.</li>
+              </ul>
+              <p>
+                <code>news_risk_spike</code> and <code>risk_on_context</code> are 0-100 style scores.
+                <code>polymarket_volume_spike</code> and <code>large_usdc_inflow_spike</code> measure distance from baseline.
+                Divergence signals compare returns between asset classes.
+              </p>
+              <p>
+                A practical flow is: find the unusual Canary, check Market Status, inspect individual assets
+                in Asset Screener, then use Relationship Scan to see whether similar conditions had repeatable behavior.
+              </p>
+            </div>
+          </div>
+        </details>
       </section>
 
       <section class="panel panel--wide" aria-labelledby="hip4Title">
