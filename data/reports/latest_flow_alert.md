@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-06T14:55:30.875660+00:00`
+- Generated: `2026-05-06T15:00:45.770695+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `33732974.14`
-- Polymarket volume z-score: `10.85`
+- Polymarket 24h volume: `33955058.88`
+- Polymarket volume z-score: `10.53`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the U.S. invade Iran before 2027? | 24h volume: `3304889.655046007` | liquidity: `613837.3452`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2055373.6145379995` | liquidity: `217438.27748`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1932243.8339869988` | liquidity: `278955.1965`
-- Will Bernie Sanders win the 2028 Democratic presidential nomination? | 24h volume: `1650802.9615489999` | liquidity: `623028.93197`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1549746.6105709996` | liquidity: `174489.83814`
-- Iran closes its airspace by May 8? | 24h volume: `1402415.5407540004` | liquidity: `232683.93147`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1320621.346966001` | liquidity: `304803.41`
+- Will the U.S. invade Iran before 2027? | 24h volume: `3304720.664092007` | liquidity: `618976.1865`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2086260.1742480001` | liquidity: `251554.76224`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1939989.272921999` | liquidity: `289383.2928`
+- Will Bernie Sanders win the 2028 Democratic presidential nomination? | 24h volume: `1651130.6715489998` | liquidity: `623150.07899`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1551580.8782669995` | liquidity: `178920.12771`
+- Iran closes its airspace by May 8? | 24h volume: `1391823.0944160006` | liquidity: `215082.47054`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1322901.449822001` | liquidity: `301926.7572`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
