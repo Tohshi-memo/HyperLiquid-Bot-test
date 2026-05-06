@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-06T18:15:30.124163+00:00`
+- Generated: `2026-05-06T18:20:31.781126+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `34875497.25`
-- Polymarket volume z-score: `5.37`
+- Polymarket 24h volume: `34963598.26`
+- Polymarket volume z-score: `5.33`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the U.S. invade Iran before 2027? | 24h volume: `3388785.2627390088` | liquidity: `640669.9969`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2322998.532974998` | liquidity: `245954.19888`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2022949.337836998` | liquidity: `270992.8418`
-- Will Bernie Sanders win the 2028 Democratic presidential nomination? | 24h volume: `1651953.818574` | liquidity: `631436.7065`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1490304.1683109994` | liquidity: `275182.03785`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1226731.484444002` | liquidity: `254733.8471`
-- Will the Iranian regime fall by June 30? | 24h volume: `1165058.6646230004` | liquidity: `778259.6958`
+- Will the U.S. invade Iran before 2027? | 24h volume: `3390567.1387200085` | liquidity: `627084.1816`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2319976.6972269975` | liquidity: `245389.20093`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2071188.7868479984` | liquidity: `273373.8948`
+- Will Bernie Sanders win the 2028 Democratic presidential nomination? | 24h volume: `1651745.9149059998` | liquidity: `631468.3512`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1489260.6138839994` | liquidity: `273791.59565`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1228300.0580380019` | liquidity: `250230.0519`
+- Will the Iranian regime fall by June 30? | 24h volume: `1165470.4046230004` | liquidity: `775994.1323`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
