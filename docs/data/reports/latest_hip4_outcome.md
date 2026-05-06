@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-05-06T10:30:32.434571+00:00`
+- Generated: `2026-05-06T10:37:21.243664+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `1`
 - Outcome sides (rows): `2`
@@ -15,18 +15,18 @@
 
 ## Current Implied Probabilities
 
-- Recurring [Yes] symbol `#40` underlying `BTC` prob `0.6953` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#41` underlying `BTC` prob `0.3047` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#40` underlying `BTC` prob `0.7053` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#41` underlying `BTC` prob `0.2947` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
-- Recurring [Yes] symbol `#40` underlying `BTC` prob `0.6953` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#41` underlying `BTC` prob `0.3047` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#40` underlying `BTC` prob `0.7053` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#41` underlying `BTC` prob `0.2947` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
-- Recurring [Yes] symbol `#40` underlying `BTC` prob `0.6953` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#41` underlying `BTC` prob `0.3047` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#40` underlying `BTC` prob `0.7053` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#41` underlying `BTC` prob `0.2947` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 

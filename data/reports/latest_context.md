@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-06T10:30:32.434571+00:00`
-- Market context score: `50.56`
-- News risk score: `43.98`
-- Macro risk score: `38.15`
-- Risk-on score: `41.67`
-- Articles: `52`
+- Generated: `2026-05-06T10:37:21.243664+00:00`
+- Market context score: `49.23`
+- News risk score: `44.47`
+- Macro risk score: `39.11`
+- Risk-on score: `39.51`
+- Articles: `54`
 - Polymarket markets: `2`
 
 - Asset universe count: `614`
@@ -20,18 +20,18 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `4`
-- macro: articles `31`, risk hits `10`, risk headline rate `0.3226`, policy hits `10`
+- crypto: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `4`
+- macro: articles `32`, risk hits `13`, risk headline rate `0.3438`, policy hits `10`
 
 ## Headlines
 
+- [macro] Oil prices drop after reports of deal to end Iran war (BBC News)
+- [macro] Oil prices drop after reports of deal to end Iran war (BBC News)
+- [crypto] Bitcoin moves above $82,000 while ZEC and DASH post double-digit rallies (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] ArvatoConnect CEO Debra Maxwell on AI transformation in high-churn BPO operations (Yahoo Finance)
+- [macro] Best Dividend Stock to Buy Right Now: PepsiCo vs. Coca-Cola (Yahoo Finance)
+- [macro] Dow Jones Futures Rise, Oil Prices Dive Below $100 On Report That U.S.-Iran Deal Close; AMD Soars On Earnings (Yahoo Finance)
+- [macro] Joint Bank Accounts Are Dying: Why Just 77% of Married Couples Share Money Now (Yahoo Finance)
 - [commodity] Oil prices plunge on report U.S. and Iran closing in on a deal to end war; Brent crude down to $100 (Energy)
 - [macro] Mag 7 Pop as Tech Stocks Rally Drives Record Gains (Yahoo Finance)
-- [macro] Novo Stock Rises After Earnings. It’s Taking the Weight-Loss Drug Fight to Eli Lilly. (Yahoo Finance)
-- [macro] Airlines cut 13,000 flights in May as jet fuel prices soar (BBC News)
-- [macro] Global stocks surge and oil slides on Iran peace deal report (Yahoo Finance)
-- [macro] Schneider Electric to launch Southeast Asia training hub in Malaysia (Yahoo Finance)
-- [macro] Bitcoin Hits Fresh 3-Month High on U.S.-Iran Peace Deal Hopes (Yahoo Finance)
-- [macro] Tech Enthusiasm Catapults Korean Stocks to New Record (Yahoo Finance)
-- [macro] Dow Jones Futures Rise, Oil Prices Dive Below $100 On Report That U.S.-Iran Deal Close; AMD Soars On Earnings (Yahoo Finance)
-- [macro] Cava Stock Surges on Strong Outlook -- Can Its Momentum Continue? (Yahoo Finance)
+- [macro] DaVita Q1 Earnings Call Highlights (Yahoo Finance)
