@@ -1,30 +1,31 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-06T18:52:21.744224+00:00`
-- Market context score: `41.38`
-- News risk score: `49.81`
-- Macro risk score: `35.53`
-- Risk-on score: `25.21`
-- Articles: `73`
+- Generated: `2026-05-06T19:07:22.544591+00:00`
+- Market context score: `42.11`
+- News risk score: `49.12`
+- Macro risk score: `35.56`
+- Risk-on score: `26.27`
+- Articles: `71`
 - Polymarket markets: `80`
 
 - Asset universe count: `714`
-- Asset price history records: `479`
+- Asset price history records: `480`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:4, index:23, metal:18, unknown:356`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `492`
-- Day/swing latest: `2026-05-06T18:45:00+00:00`
+- Day/swing records: `493`
+- Day/swing latest: `2026-05-06T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `49`, risk hits `15`, risk headline rate `0.2653`, policy hits `1`
+- crypto: articles `47`, risk hits `13`, risk headline rate `0.2553`, policy hits `1`
 - macro: articles `20`, risk hits `9`, risk headline rate `0.35`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices fall more than 7% as U.S. and Iran appear close to deal to end war (Energy)
 - [commodity] Airlines spent 56.4% more on jet fuel in month after Iran war started, U.S. government says (Energy)
 - [crypto] Anthropic signs Elon Musk's SpaceX for Colossus 1 compute ahead of June IPO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Apple's R&D investments top 10% of sales as AI race creates 'sense of urgency' (Energy)
@@ -34,4 +35,3 @@
 - [crypto] Switzerland's Amina becomes first regulated bank to custody Canton Coin (Cointelegraph.com News)
 - [crypto] The time is now: the Senate must act on crypto market structure legislation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
