@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-06T09:30:26.037631+00:00`
+- Generated: `2026-05-06T09:39:02.679721+00:00`
 - Market context score: `48.29`
 - News risk score: `42.48`
 - Macro risk score: `40.99`
@@ -25,8 +25,8 @@
 
 ## Headlines
 
-- [crypto] Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall sharply on report U.S. and Iran closing in on a deal to end war (Energy)
+- [crypto] Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Airlines cut 13,000 flights in May as jet fuel prices soar (BBC News)
 - [crypto] OKX joins crypto’s pre-IPO frenzy with OpenAI, SpaceX perpetual futures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Next to hike prices by up to 8% outside Europe due to Iran war costs (BBC News)
