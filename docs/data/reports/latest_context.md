@@ -1,31 +1,31 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-06T09:45:24.673489+00:00`
-- Market context score: `48.93`
-- News risk score: `42.0`
-- Macro risk score: `39.54`
-- Risk-on score: `36.91`
-- Articles: `44`
+- Generated: `2026-05-06T10:00:39.414161+00:00`
+- Market context score: `47.9`
+- News risk score: `42.83`
+- Macro risk score: `41.11`
+- Risk-on score: `35.92`
+- Articles: `41`
 - Polymarket markets: `2`
 
 - Asset universe count: `614`
-- Asset price history records: `443`
+- Asset price history records: `444`
 
 - Asset classes: `commodity:7, crypto_alt:223, crypto_major:7, equity:47, fx:4, index:6, metal:7, unknown:313`
 - HIP-3 dexes: `xyz`
 
-- Day/swing records: `456`
-- Day/swing latest: `2026-05-06T09:45:00+00:00`
+- Day/swing records: `457`
+- Day/swing latest: `2026-05-06T10:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `25`, risk hits `6`, risk headline rate `0.2`, policy hits `4`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `4`
 - macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
-- [commodity] Oil prices fall sharply on report U.S. and Iran closing in on a deal to end war (Energy)
+- [commodity] Oil prices plunge on report U.S. and Iran closing in on a deal to end war; Brent crude down to $101 (Energy)
 - [macro] China calls for Strait to be reopened 'as soon as possible' in Iran talks (BBC News)
 - [crypto] Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Airlines cut 13,000 flights in May as jet fuel prices soar (BBC News)
