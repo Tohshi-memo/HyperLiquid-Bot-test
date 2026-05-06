@@ -301,7 +301,7 @@ function renderPolymarket(context, flow) {
         </div>
         <div class="meta-line">
           <span>end ${formatDate(endDate)}</span>
-          <span>${escapeHtml(market.query || market.slug || "")}</span>
+          <span>${escapeHtml(market.impact_category || market.query || market.slug || "")}</span>
         </div>
       </article>
     `;
@@ -435,7 +435,20 @@ function renderRelationshipScan(scan) {
   const node = document.getElementById("relationshipList");
   if (!node) return;
   const rows = Array.isArray(scan?.top_patterns) ? scan.top_patterns : [];
-  node.innerHTML = rows.slice(0, 6).map((row) => `
+  const ready = rows.filter((row) =>
+    row.sample_status === "ready" && Number(row.sample_count || 0) >= Number(scan?.min_samples || 0)
+  );
+  const positive = ready.filter((row) => Number(row.score || 0) > 0).slice(0, 8);
+  const watch = ready.slice(0, 6);
+
+  if (!ready.length) {
+    node.innerHTML = emptyCard("Relationship scan will appear after enough samples are ready.");
+    return;
+  }
+
+  const chart = positive.length >= 2 ? renderRelationshipBarChart(positive) : "";
+  const heatmap = positive.length >= 3 ? renderRelationshipHeatmap(ready) : "";
+  const cards = watch.map((row) => `
     <article class="item-card">
       <strong>${escapeHtml(row.pattern_id || "pattern")}</strong>
       <div class="meta-line">
@@ -449,7 +462,78 @@ function renderRelationshipScan(scan) {
         <span>DD ${fmtPct(row.max_drawdown_pct)}</span>
       </div>
     </article>
-  `).join("") || emptyCard("Relationship scan will appear after the next context run.");
+  `).join("");
+
+  node.innerHTML = chart + heatmap + `<div class="relationship-cards">${cards}</div>`;
+}
+
+function renderRelationshipBarChart(rows) {
+  const maxScore = Math.max(...rows.map((row) => Math.max(0, Number(row.score || 0))), 1);
+  return `
+    <article class="chart-card">
+      <div class="chart-head">
+        <strong>Top Ready Pattern Scores</strong>
+        <span>positive score only</span>
+      </div>
+      <div class="bar-chart">
+        ${rows.map((row) => {
+          const score = Math.max(0, Number(row.score || 0));
+          const width = Math.max(6, Math.round((score / maxScore) * 100));
+          return `
+            <div class="bar-row">
+              <span>${escapeHtml(shortPattern(row.pattern_id))}</span>
+              <div class="bar-track"><i style="width:${width}%"></i></div>
+              <strong>${fmtNumber(row.score, 2)}</strong>
+            </div>
+          `;
+        }).join("")}
+      </div>
+    </article>
+  `;
+}
+
+function renderRelationshipHeatmap(rows) {
+  const horizons = ["1h", "4h", "24h"];
+  const targets = [...new Set(rows.map((row) => row.target).filter(Boolean))].slice(0, 8);
+  if (!targets.length) return "";
+  const best = new Map();
+  for (const row of rows) {
+    const key = `${row.target}:${row.horizon}`;
+    const current = best.get(key);
+    if (!current || Number(row.score || -999) > Number(current.score || -999)) best.set(key, row);
+  }
+  return `
+    <article class="chart-card">
+      <div class="chart-head">
+        <strong>Best Score by Class / Horizon</strong>
+        <span>ready samples</span>
+      </div>
+      <div class="heatmap" style="grid-template-columns: 96px repeat(${horizons.length}, minmax(58px, 1fr));">
+        <b></b>
+        ${horizons.map((horizon) => `<b>${horizon}</b>`).join("")}
+        ${targets.map((target) => `
+          <b>${escapeHtml(target)}</b>
+          ${horizons.map((horizon) => {
+            const row = best.get(`${target}:${horizon}`);
+            const score = Number(row?.score || 0);
+            const tone = score > 2 ? "good" : score > 0 ? "watch" : "neutral";
+            return `<span class="heat heat--${tone}" title="${escapeHtml(row?.pattern_id || "")}">${row ? fmtNumber(score, 2) : "--"}</span>`;
+          }).join("")}
+        `).join("")}
+      </div>
+    </article>
+  `;
+}
+
+function shortPattern(value) {
+  return String(value || "pattern")
+    .replace("market_context_high", "context")
+    .replace("polymarket_volume_spike", "poly spike")
+    .replace("news_risk_high", "news risk")
+    .replace("macro_risk_high", "macro risk")
+    .replace("risk_on_high", "risk-on")
+    .replace("flow_alert_high", "flow")
+    .replace("->", " -> ");
 }
 
 function emptyCard(message) {

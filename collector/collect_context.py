@@ -284,37 +284,73 @@ def collect_polymarket() -> list[dict[str, Any]]:
     query_values = os.getenv("POLYMARKET_QUERIES", os.getenv("POLYMARKET_QUERY", "crypto"))
     queries = [item.strip() for item in query_values.split(",") if item.strip()]
     limit = int(os.getenv("POLYMARKET_MARKET_LIMIT", "80"))
-    filter_mode = os.getenv("POLYMARKET_FILTER_MODE", "crypto").strip().lower()
+    discovery_limit = int(os.getenv("POLYMARKET_DISCOVERY_LIMIT", str(limit)))
+    filter_mode = os.getenv("POLYMARKET_FILTER_MODE", "watch").strip().lower()
+    tag_ids = [item.strip() for item in os.getenv("POLYMARKET_TAG_IDS", "").split(",") if item.strip()]
     markets_by_slug: dict[str, dict[str, Any]] = {}
     try:
-        for query in queries:
-            response = requests.get(
-                "https://gamma-api.polymarket.com/markets",
-                params={"active": "true", "closed": "false", "limit": limit, "q": query},
-                timeout=15,
+        market_batches = [fetch_polymarket_markets({"limit": discovery_limit})]
+        for tag_id in tag_ids:
+            market_batches.append(
+                fetch_polymarket_markets(
+                    {
+                        "limit": min(discovery_limit, 100),
+                        "tag_id": tag_id,
+                        "related_tags": "true",
+                    }
+                )
             )
-            response.raise_for_status()
-            data = response.json()
-            markets = data if isinstance(data, list) else data.get("markets", [])
+        for markets in market_batches:
             for market in markets:
-                if not isinstance(market, dict):
-                    continue
-                if filter_mode == "crypto" and not is_crypto_market(market):
-                    continue
-                slug = str(market.get("slug") or market.get("conditionId") or market.get("id") or "")
-                if not slug:
-                    continue
-                enriched = dict(market)
-                enriched["query"] = query
-                existing = markets_by_slug.get(slug)
-                if existing is None or market_rank(enriched) > market_rank(existing):
-                    markets_by_slug[slug] = enriched
+                add_polymarket_candidate(markets_by_slug, market, queries, filter_mode)
         rows = list(markets_by_slug.values())
         rows.sort(key=market_rank, reverse=True)
-        return rows
+        return rows[:limit]
     except Exception as e:
         logging.warning("Polymarket failed: %s", e)
         return [{"error": str(e)}]
+
+
+def fetch_polymarket_markets(extra_params: dict[str, Any]) -> list[dict[str, Any]]:
+    params: dict[str, Any] = {
+        "active": "true",
+        "closed": "false",
+        "order": "volume24hr",
+        "ascending": "false",
+        "include_tag": "true",
+    }
+    params.update(extra_params)
+    response = requests.get(
+        "https://gamma-api.polymarket.com/markets",
+        params=params,
+        timeout=15,
+    )
+    response.raise_for_status()
+    data = response.json()
+    markets = data if isinstance(data, list) else data.get("markets", [])
+    return [market for market in markets if isinstance(market, dict)]
+
+
+def add_polymarket_candidate(
+    markets_by_slug: dict[str, dict[str, Any]],
+    market: dict[str, Any],
+    watch_terms: list[str],
+    filter_mode: str,
+) -> None:
+    impact_label = classify_polymarket_market(market, watch_terms)
+    if filter_mode == "crypto" and impact_label != "crypto":
+        return
+    if filter_mode in {"watch", "impact"} and impact_label == "other":
+        return
+    slug = str(market.get("slug") or market.get("conditionId") or market.get("id") or "")
+    if not slug:
+        return
+    enriched = dict(market)
+    enriched["query"] = impact_label
+    enriched["impact_category"] = impact_label
+    existing = markets_by_slug.get(slug)
+    if existing is None or market_rank(enriched) > market_rank(existing):
+        markets_by_slug[slug] = enriched
 
 
 def collect_dune_large_flows() -> dict[str, Any]:
@@ -529,6 +565,7 @@ def summarize_polymarket(markets: list[dict[str, Any]]) -> dict[str, Any]:
             "question": market.get("question") or market.get("title"),
             "slug": market.get("slug"),
             "query": market.get("query"),
+            "impact_category": market.get("impact_category"),
             "volume": to_float(market.get("volume")),
             "liquidity": to_float(market.get("liquidity")),
             "end_date": market.get("endDate") or market.get("end_date_iso"),
@@ -603,6 +640,7 @@ def summarize_polymarket_flow(markets: list[dict[str, Any]]) -> dict[str, Any]:
             "question": market.get("question") or market.get("title"),
             "slug": market.get("slug"),
             "query": market.get("query"),
+            "impact_category": market.get("impact_category"),
             "volume_24h": volume_24h,
             "volume": lifetime_volume,
             "liquidity": to_float(market.get("liquidity") or market.get("liquidityNum")),
@@ -625,6 +663,50 @@ def is_crypto_market(market: dict[str, Any]) -> bool:
         for key in ("question", "title", "slug")
     ).lower()
     return any(re.search(rf"\b{re.escape(word)}\b", text) for word in CRYPTO_MARKET_WORDS)
+
+
+def classify_polymarket_market(market: dict[str, Any], watch_terms: list[str]) -> str:
+    text = polymarket_search_text(market)
+    if any(re.search(rf"\b{re.escape(word.lower())}\b", text) for word in CRYPTO_MARKET_WORDS):
+        return "crypto"
+    categories = {
+        "geopolitics": {
+            "war", "military", "conflict", "ceasefire", "invasion", "missile",
+            "israel", "iran", "ukraine", "russia", "china", "taiwan", "nato",
+        },
+        "policy": {
+            "election", "president", "congress", "senate", "trump", "tariff",
+            "federal government", "supreme court", "law", "regulation",
+        },
+        "macro": {
+            "federal reserve", "fed", "interest", "rates", "inflation", "cpi",
+            "recession", "unemployment", "gdp", "ecb", "treasury",
+        },
+        "commodity": {"oil", "gold", "gas", "wheat", "corn", "copper"},
+        "equity": {"stock", "stocks", "nasdaq", "s&p", "sp500", "dow", "earnings"},
+    }
+    for label, words in categories.items():
+        if any(re.search(rf"\b{re.escape(word)}\b", text) for word in words):
+            return label
+    for term in watch_terms:
+        term = term.lower()
+        if term and re.search(rf"\b{re.escape(term)}\b", text):
+            return term
+    return "other"
+
+
+def polymarket_search_text(market: dict[str, Any]) -> str:
+    parts = [
+        str(market.get(key, ""))
+        for key in ("question", "title", "slug", "description", "category")
+    ]
+    for key in ("tags", "categories", "events"):
+        value = market.get(key)
+        if isinstance(value, list):
+            for item in value:
+                if isinstance(item, dict):
+                    parts.extend(str(item.get(field, "")) for field in ("label", "slug", "title"))
+    return " ".join(parts).lower()
 
 
 def market_rank(market: dict[str, Any]) -> float:

@@ -19,9 +19,10 @@ jobs:
 
     env:
       COLLECTOR_PROFILE: 'flow_alert'
-      POLYMARKET_QUERIES: 'crypto,bitcoin,ethereum,hyperliquid,oil,gold,federal reserve,interest rates,stock market'
-      POLYMARKET_FILTER_MODE: 'all'
+      POLYMARKET_QUERIES: 'crypto,bitcoin,ethereum,hyperliquid,oil,gold,war,military,conflict,israel,iran,ukraine,russia,china,taiwan'
+      POLYMARKET_FILTER_MODE: 'watch'
       POLYMARKET_MARKET_LIMIT: '60'
+      POLYMARKET_DISCOVERY_LIMIT: '250'
       FLOW_ALERT_LOOKBACK_HOURS: '24'
       FLOW_ALERT_HISTORY_MAX_RECORDS: '8640'
       DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}

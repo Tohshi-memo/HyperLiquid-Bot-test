@@ -80,6 +80,12 @@ Polymarket volume, large-flow aggregates, and asset-class returns for crypto,
 equity, index, metal, commodity, and FX perps. These are early-warning research
 signals, not direct trade instructions.
 
+Polymarket collection discovers active markets, then keeps watchlist-relevant
+ones by text/tag classification: crypto, major macro, commodities, rates,
+geopolitical, military/conflict, election, and tariff-related markets. The
+5-minute flow job uses a narrower high-impact subset; the 15-minute context
+job keeps the broader research set.
+
 `relationship_scan_latest.json` mechanically compares public conditions such
 as news risk, macro risk, risk-on context, Polymarket volume spikes, and flow
 alerts against future 1h/4h/24h asset-class returns. It records sample count,

@@ -369,6 +369,116 @@ tbody tr:last-child td {
   gap: 8px;
 }
 
+.relationship-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.chart-card {
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.chart-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.chart-head strong {
+  font-size: 13px;
+}
+
+.chart-head span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.bar-chart {
+  display: grid;
+  gap: 8px;
+}
+
+.bar-row {
+  display: grid;
+  grid-template-columns: minmax(160px, 0.9fr) minmax(120px, 1.5fr) 52px;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+}
+
+.bar-row span {
+  min-width: 0;
+  overflow: hidden;
+  color: var(--muted);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.bar-row strong {
+  text-align: right;
+}
+
+.bar-track {
+  height: 10px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: var(--soft);
+}
+
+.bar-track i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--blue), var(--green));
+}
+
+.heatmap {
+  display: grid;
+  gap: 6px;
+  align-items: stretch;
+  font-size: 12px;
+}
+
+.heatmap b,
+.heatmap span {
+  min-width: 0;
+  padding: 7px 8px;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.heatmap b {
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.heat {
+  border: 1px solid var(--line);
+  background: var(--soft);
+}
+
+.heat--good {
+  color: var(--green);
+  background: var(--green-bg);
+}
+
+.heat--watch {
+  color: var(--amber);
+  background: var(--amber-bg);
+}
+
+.heat--neutral {
+  color: var(--muted);
+  background: var(--soft);
+}
+
 .item-card,
 .detail-row {
   min-width: 0;
@@ -534,8 +644,18 @@ tbody tr:last-child td {
   .signal-list,
   .intel-grid,
   .mover-columns,
+  .relationship-cards,
   .report-links {
     grid-template-columns: 1fr;
+  }
+
+  .bar-row {
+    grid-template-columns: minmax(0, 1fr) 52px;
+  }
+
+  .bar-track {
+    grid-column: 1 / -1;
+    grid-row: 2;
   }
 
   .panel {
