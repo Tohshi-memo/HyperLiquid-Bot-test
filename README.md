@@ -18,7 +18,7 @@ exchange keys, position state, final trade signals, or execution logic.
 - HIP-4 outcome (prediction) market snapshots: per-outcome implied
   probability, mark/mid prices, 24h volume, and open interest, with a 15m
   history bucket aggregated from the HyperLiquid `outcomeMeta` /
-  `outcomeMetaAndAssetCtxs` info-endpoint requests
+  `allMids` info-endpoint requests, plus asset-context fields when available
 - Day/swing research snapshots for BTC, ETH, HYPE, and SOL
 - Compact AI context index and canary signals for quota-saving analysis
 
@@ -78,14 +78,16 @@ equity, index, metal, commodity, and FX perps. These are early-warning research
 signals, not direct trade instructions.
 
 `hip4_outcome_latest.json` and `hip4_outcome_history.json` capture HIP-4
-outcome markets directly from HyperLiquid (`outcomeMeta` and
-`outcomeMetaAndAssetCtxs` info-endpoint requests). Each side of every binary
-outcome is recorded with its mark/mid price (interpreted as implied
-probability when between 0 and 1), 24h volume, and open interest, plus a
-rolling 15-minute bucket history for cross-market analysis alongside
-Polymarket and HIP-3 perp data. The endpoint shape is parsed defensively, so
-field-name changes between testnet and mainnet do not break the collector;
-raw payloads are preserved under `data/raw/YYYY-MM-DD/` for verification.
+outcome markets directly from HyperLiquid. The collector reads market
+definitions from `outcomeMeta` and fills each outcome side from the `allMids`
+`#<encoding>` price keys, such as `#40` and `#41`. The computed fields include
+`symbol`, `encoding`, HyperLiquid `asset_id`, `mark_price`, `mid_price`,
+`implied_probability`, and `price_source`. Asset-context endpoints are tried
+defensively for 24h volume and open interest, but `allMids` is enough to keep
+HIP-4 probabilities usable when those context endpoints are unavailable. A
+rolling 15-minute bucket history is stored for cross-market analysis alongside
+Polymarket and HIP-3 perp data. Raw payloads are preserved under
+`data/raw/YYYY-MM-DD/` for verification.
 
 ## Report Site
 

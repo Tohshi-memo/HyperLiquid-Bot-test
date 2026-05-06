@@ -72,7 +72,7 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
             break
         ctx_error = error
 
-    # Always fetch allMids; HIP-4 outcome tokens may appear here keyed by name.
+    # Always fetch allMids; HIP-4 outcome tokens appear as "#<encoding>" keys.
     mids_payload, mids_error = post_info(info_url, {"type": "allMids"}, timeout)
 
     save_raw_payload(now, "outcome_meta", meta_payload, meta_error)
@@ -81,13 +81,22 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
 
     outcomes = extract_outcomes(meta_payload, ctx_payload)
     asset_ctxs = extract_asset_ctxs(ctx_payload)
-    rows = build_rows(outcomes, asset_ctxs)
+    all_mids = mids_payload if isinstance(mids_payload, dict) else {}
+    rows = build_rows(outcomes, asset_ctxs, all_mids)
     aggregates = aggregate_rows(rows)
+    request_errors = [err for err in (meta_error, mids_error) if err]
+    request_warnings = [ctx_error] if ctx_error else []
 
     latest = {
         "generated_at": now.isoformat(),
         "info_url": info_url,
-        "request_errors": [err for err in (meta_error, ctx_error) if err],
+        "source_status": {
+            "outcome_meta": "ok" if meta_error is None else "error",
+            "asset_context": "ok" if ctx_payload is not None else "unavailable",
+            "all_mids": "ok" if mids_error is None else "error",
+        },
+        "request_errors": request_errors,
+        "request_warnings": request_warnings,
         "outcome_count": aggregates["outcome_count"],
         "side_count": len(rows),
         "by_underlying": aggregates["by_underlying"],
@@ -113,11 +122,13 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
         "side_count": latest["side_count"],
         "history_records": history_records,
         "request_errors": latest["request_errors"],
+        "request_warnings": latest["request_warnings"],
         "latest_file": "data/processed/hip4_outcome_latest.json",
         "history_file": "data/processed/hip4_outcome_history.json",
         "report_file": "data/reports/latest_hip4_outcome.md",
         "by_underlying": latest["by_underlying"],
         "by_class": latest["by_class"],
+        "top_by_implied_probability": top_rows(rows, "implied_probability", top_limit, abs_value=False),
         "top_by_volume_24h": top_rows(rows, "volume_24h", top_limit, abs_value=False),
         "top_by_open_interest": top_rows(rows, "open_interest", top_limit, abs_value=False),
     }
@@ -207,14 +218,17 @@ def extract_asset_ctxs(ctx_payload: Any) -> list[Any]:
 def build_rows(
     outcomes: list[dict[str, Any]],
     asset_ctxs: list[Any],
+    all_mids: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
     asset_index = 0
+    all_mids = all_mids if isinstance(all_mids, dict) else {}
 
     for outcome in outcomes:
         outcome_id = outcome.get("outcome")
         if outcome_id is None:
             outcome_id = outcome.get("outcomeId") or outcome.get("id")
+        outcome_int = to_int(outcome_id)
         name = outcome.get("name") or outcome.get("question")
         description = outcome.get("description")
         underlying = derive_underlying(name, description)
@@ -239,11 +253,24 @@ def build_rows(
             )
             asset_index += 1
 
-            mark = to_float(ctx.get("markPx") or ctx.get("mark") or ctx.get("mid"))
-            mid = to_float(ctx.get("midPx") or ctx.get("mid"))
-            best_bid = to_float(ctx.get("bestBidPx") or ctx.get("bidPx"))
-            best_ask = to_float(ctx.get("bestAskPx") or ctx.get("askPx"))
-            implied_probability = mark if 0 < mark < 1 else (mid if 0 < mid < 1 else None)
+            encoding = derive_outcome_encoding(outcome_int, side_index, side, ctx)
+            symbol = derive_outcome_symbol(encoding, side, ctx)
+            all_mids_price = to_float_or_none(all_mids.get(symbol)) if symbol else None
+            mark_ctx = first_float(ctx.get("markPx"), ctx.get("mark"))
+            mid_ctx = first_float(ctx.get("midPx"), ctx.get("mid"))
+            mark = mark_ctx if mark_ctx is not None else all_mids_price
+            mid = mid_ctx if mid_ctx is not None else all_mids_price
+            best_bid = first_float(ctx.get("bestBidPx"), ctx.get("bidPx"))
+            best_ask = first_float(ctx.get("bestAskPx"), ctx.get("askPx"))
+            implied_probability = probability_from_prices(mark, mid)
+            price_source = "asset_ctx" if mark_ctx is not None or mid_ctx is not None else (
+                "allMids" if all_mids_price is not None else None
+            )
+            asset_id = (
+                side.get("assetId")
+                or ctx.get("assetId")
+                or (100_000_000 + encoding if encoding is not None else None)
+            )
 
             rows.append(
                 {
@@ -257,13 +284,16 @@ def build_rows(
                     "status": status,
                     "side_index": side_index,
                     "side_name": side_name,
-                    "asset_id": side.get("assetId") or ctx.get("assetId"),
-                    "token_index": side.get("tokenIndex") or side.get("index"),
-                    "mark_price": mark or None,
-                    "mid_price": mid or None,
-                    "best_bid": best_bid or None,
-                    "best_ask": best_ask or None,
+                    "symbol": symbol,
+                    "encoding": encoding,
+                    "asset_id": asset_id,
+                    "token_index": side.get("tokenIndex") or side.get("index") or encoding,
+                    "mark_price": mark,
+                    "mid_price": mid,
+                    "best_bid": best_bid,
+                    "best_ask": best_ask,
                     "implied_probability": implied_probability,
+                    "price_source": price_source,
                     "volume_24h": to_float(ctx.get("dayNtlVlm") or ctx.get("dayVlm") or ctx.get("volume24h")),
                     "open_interest": to_float(ctx.get("openInterest") or ctx.get("oi")),
                     "raw_outcome": {k: v for k, v in outcome.items() if k != "sideSpecs"},
@@ -272,6 +302,53 @@ def build_rows(
                 }
             )
     return rows
+
+
+def derive_outcome_encoding(
+    outcome_id: int | None,
+    side_index: int,
+    side: dict[str, Any],
+    ctx: dict[str, Any],
+) -> int | None:
+    for value in (
+        side.get("encoding"),
+        side.get("tokenIndex"),
+        side.get("index"),
+        ctx.get("encoding"),
+        ctx.get("tokenIndex"),
+        ctx.get("index"),
+    ):
+        parsed = to_int(value)
+        if parsed is not None:
+            return parsed
+    if outcome_id is None:
+        return None
+    return outcome_id * 10 + side_index
+
+
+def derive_outcome_symbol(
+    encoding: int | None,
+    side: dict[str, Any],
+    ctx: dict[str, Any],
+) -> str | None:
+    for value in (
+        side.get("symbol"),
+        side.get("coin"),
+        side.get("nameOnExchange"),
+        ctx.get("symbol"),
+        ctx.get("coin"),
+        ctx.get("name"),
+    ):
+        if isinstance(value, str) and value.startswith("#"):
+            return value
+    return f"#{encoding}" if encoding is not None else None
+
+
+def probability_from_prices(mark: float | None, mid: float | None) -> float | None:
+    for value in (mark, mid):
+        if value is not None and 0 <= value <= 1:
+            return value
+    return None
 
 
 def parse_description(description: Any) -> dict[str, str]:
@@ -388,11 +465,15 @@ def append_history(now: datetime, latest: dict[str, Any], max_records: int) -> i
             "outcome_name": row.get("outcome_name"),
             "side_index": row.get("side_index"),
             "side_name": row.get("side_name"),
+            "symbol": row.get("symbol"),
+            "encoding": row.get("encoding"),
+            "asset_id": row.get("asset_id"),
             "underlying": row.get("underlying"),
             "outcome_class": row.get("outcome_class"),
             "implied_probability": row.get("implied_probability"),
             "mark_price": row.get("mark_price"),
             "mid_price": row.get("mid_price"),
+            "price_source": row.get("price_source"),
             "volume_24h": row.get("volume_24h"),
             "open_interest": row.get("open_interest"),
         }
@@ -409,6 +490,7 @@ def append_history(now: datetime, latest: dict[str, Any], max_records: int) -> i
             "by_class": latest["by_class"],
             "by_status": latest["by_status"],
             "request_errors": latest["request_errors"],
+            "request_warnings": latest.get("request_warnings", []),
             "rows": snapshot_rows,
         }
     )
@@ -450,8 +532,12 @@ def top_rows(
             "outcome_id": row.get("outcome_id"),
             "outcome_name": row.get("outcome_name"),
             "side_name": row.get("side_name"),
+            "symbol": row.get("symbol"),
             "underlying": row.get("underlying"),
             "implied_probability": row.get("implied_probability"),
+            "mark_price": row.get("mark_price"),
+            "mid_price": row.get("mid_price"),
+            "price_source": row.get("price_source"),
             "volume_24h": row.get("volume_24h"),
             "open_interest": row.get("open_interest"),
         }
@@ -465,8 +551,10 @@ def render_report(latest: dict[str, Any], top_limit: int) -> str:
     underlying_lines = render_counts(by_underlying)
     class_lines = render_counts(by_class)
     error_lines = "\n".join(f"- `{err}`" for err in latest.get("request_errors", []))
+    warning_lines = "\n".join(f"- `{err}`" for err in latest.get("request_warnings", []))
 
     rows = latest.get("rows", [])
+    top_probability = top_rows(rows, "implied_probability", top_limit, abs_value=False)
     top_volume = top_rows(rows, "volume_24h", top_limit, abs_value=False)
     top_oi = top_rows(rows, "open_interest", top_limit, abs_value=False)
 
@@ -480,12 +568,16 @@ def render_report(latest: dict[str, Any], top_limit: int) -> str:
         f"{underlying_lines}\n\n"
         "## Markets by Class\n\n"
         f"{class_lines}\n\n"
+        "## Current Implied Probabilities\n\n"
+        f"{render_market_rows(top_probability) or '- No probability data available.'}\n\n"
         "## Top by 24h Volume\n\n"
         f"{render_market_rows(top_volume) or '- No volume data available.'}\n\n"
         "## Top by Open Interest\n\n"
         f"{render_market_rows(top_oi) or '- No open-interest data available.'}\n\n"
         "## Request Errors\n\n"
         f"{error_lines or '- None.'}\n\n"
+        "## Request Warnings\n\n"
+        f"{warning_lines or '- None.'}\n\n"
         "Public output stores aggregate HIP-4 outcome data only. It is not a trade signal.\n"
     )
 
@@ -507,8 +599,10 @@ def render_market_rows(rows: list[dict[str, Any]]) -> str:
         prob_text = f"{round(prob, 4)}" if isinstance(prob, (int, float)) else "n/a"
         lines.append(
             f"- {row.get('outcome_name') or row.get('outcome_id')} [{row.get('side_name')}] "
+            f"symbol `{row.get('symbol') or 'n/a'}` "
             f"underlying `{row.get('underlying') or 'n/a'}` "
             f"prob `{prob_text}` "
+            f"price_source `{row.get('price_source') or 'n/a'}` "
             f"vol24h `{row.get('volume_24h')}` oi `{row.get('open_interest')}`"
         )
     return "\n".join(lines)
@@ -519,3 +613,25 @@ def to_float(value: Any) -> float:
         return float(value) if value is not None else 0.0
     except (TypeError, ValueError):
         return 0.0
+
+
+def to_float_or_none(value: Any) -> float | None:
+    try:
+        return float(value) if value is not None else None
+    except (TypeError, ValueError):
+        return None
+
+
+def first_float(*values: Any) -> float | None:
+    for value in values:
+        parsed = to_float_or_none(value)
+        if parsed is not None:
+            return parsed
+    return None
+
+
+def to_int(value: Any) -> int | None:
+    try:
+        return int(value) if value is not None and value != "" else None
+    except (TypeError, ValueError):
+        return None

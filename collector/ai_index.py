@@ -171,6 +171,7 @@ def build_ai_index(
             "hip4_outcome_by_underlying": hip4_outcome.get("by_underlying", {}),
             "hip4_outcome_by_class": hip4_outcome.get("by_class", {}),
             "hip4_outcome_request_errors": hip4_outcome.get("request_errors", []),
+            "hip4_outcome_request_warnings": hip4_outcome.get("request_warnings", []),
         },
         "latest_market_snapshot": {
             "generated_at": context.get("generated_at"),
@@ -195,6 +196,7 @@ def build_ai_index(
                 "by_class": hip4_outcome.get("by_class", {}),
                 "by_status": hip4_outcome.get("by_status", {}),
                 "request_errors": hip4_outcome.get("request_errors", []),
+                "request_warnings": hip4_outcome.get("request_warnings", []),
             },
         },
         "canary_summary": {
@@ -219,6 +221,10 @@ def build_ai_index(
             "read_archives_when": (
                 "The active window is insufficient for a candidate rule and older samples "
                 "are required. Archives are compressed to reduce repo bloat and AI reading."
+            ),
+            "read_hip4_outcome_when": (
+                "Checking HyperLiquid prediction-market probabilities, outcome-side drift, "
+                "or lead/lag versus Polymarket, news, or asset-class price moves."
             ),
         },
     }

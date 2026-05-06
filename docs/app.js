@@ -438,7 +438,7 @@ function buildHip4Question(row) {
     const price = row.target_price != null ? `$${fmtNumber(row.target_price, 0)}` : "?";
     return `Will ${underlying} be above ${price} by ${expiry}?`;
   }
-  return `${underlying} (${escapeHtml(cls)}) — expires ${expiry}`;
+  return `${underlying} (${escapeHtml(cls)}) - expires ${expiry}`;
 }
 
 function renderHip4(hip4) {
@@ -447,6 +447,7 @@ function renderHip4(hip4) {
 
   const rows = Array.isArray(hip4?.rows) ? hip4.rows : [];
   const errors = Array.isArray(hip4?.request_errors) ? hip4.request_errors : [];
+  const warnings = Array.isArray(hip4?.request_warnings) ? hip4.request_warnings : [];
 
   if (rows.length === 0) {
     setBadge("hip4Badge", "0 markets", "neutral");
@@ -478,6 +479,8 @@ function renderHip4(hip4) {
     const vol = fmtNumber(first.volume_24h, 0);
     const oi = fmtNumber(first.open_interest, 0);
     const status = first.status ? escapeHtml(first.status) : "active";
+    const symbols = sides.map((side) => side.symbol).filter(Boolean).join(" / ");
+    const source = sides.map((side) => side.price_source).filter(Boolean)[0] || "metadata";
     return `
       <article class="item-card">
         <strong>${question}</strong>
@@ -487,6 +490,10 @@ function renderHip4(hip4) {
           <span>OI ${oi}</span>
           <span>${status}</span>
         </div>
+        <div class="meta-line">
+          <span>${escapeHtml(symbols || "symbols pending")}</span>
+          <span>price ${escapeHtml(source)}</span>
+        </div>
       </article>
     `;
   });
@@ -494,6 +501,9 @@ function renderHip4(hip4) {
   const errorHtml = errors.length
     ? `<article class="item-card item-card--warning"><strong>Price data unavailable</strong><div class="meta-line"><span>${escapeHtml(errors[0])}</span></div></article>`
     : "";
+  const warningHtml = warnings.length
+    ? `<article class="item-card item-card--warning"><strong>Context endpoint unavailable</strong><div class="meta-line"><span>Prices are still filled from allMids when available.</span></div></article>`
+    : "";
 
-  node.innerHTML = cards.join("") + errorHtml;
+  node.innerHTML = cards.join("") + errorHtml + warningHtml;
 }
