@@ -9,6 +9,7 @@ exchange keys, position state, final trade signals, or execution logic.
 
 - Crypto, macro, policy, and commodity RSS headlines
 - GDELT crypto and macro news context counts
+- Macro indicators from BLS and U.S. Treasury, with optional FRED support
 - Polymarket public market probabilities
 - Lightweight sentiment and risk scores
 - Aggregate large-flow alert data for unusual Polymarket-related attention
@@ -34,6 +35,8 @@ data/processed/market_context.json
 data/processed/market_context_history.json
 data/processed/flow_alert.json
 data/processed/flow_alert_history.json
+data/processed/macro_indicators_latest.json
+data/processed/macro_indicators_history.json
 data/processed/asset_universe_latest.json
 data/processed/asset_price_history.json
 data/processed/asset_features_latest.json
@@ -44,6 +47,7 @@ data/processed/hip4_outcome_history.json
 data/processed/relationship_scan_latest.json
 data/reports/latest_context.md
 data/reports/latest_flow_alert.md
+data/reports/latest_macro_indicators.md
 data/reports/latest_ai_context_index.md
 data/reports/latest_canary_signals.md
 data/reports/latest_asset_universe.md
@@ -66,6 +70,16 @@ AI should read `latest_ai_context_index.md`, `ai_context_index.json`,
 `latest_canary_signals.md`, `latest_ai_analysis_brief.md`, and
 `ai_analysis_pack.json` first. Full JSON files should be loaded only for deeper
 validation of a specific candidate rule.
+
+`macro_indicators_latest.json` stores public macro data that can affect
+day-to-swing trades: U.S. employment, CPI/core CPI, PPI, and U.S. Treasury
+average interest-rate data are collected without an API key. If `FRED_API_KEY`
+is configured, the same file also adds U.S. 2Y/10Y yields, 10Y-2Y spread,
+Fed Funds, SOFR, broad dollar index, VIX, PCE/core PCE, and selected non-U.S.
+10Y yield and unemployment series for Germany, Japan, the United Kingdom,
+Canada, and the euro area where available. History is kept in
+`macro_indicators_history.json` for lead/lag checks against token, stock-token,
+commodity-token, and metal-token moves.
 
 `asset_price_history.json` stores lightweight all-symbol HyperLiquid prices from
 `metaAndAssetCtxs`/`allMids`. By default it also includes HIP-3
@@ -121,9 +135,9 @@ The `docs/` directory contains a static, AI-free report dashboard for GitHub
 Pages. It reads copied compact JSON/Markdown from `docs/data/` and displays
 market status, canary signals, data readiness, BTC/ETH/HYPE/SOL stats,
 asset-class movement, top movers, top Polymarket markets, latest headlines,
-GDELT activity, flow details, relationship candidates, HIP-4 markets, and an
-Asset Screener page for individual stock, commodity, metal, index, FX, and
-crypto assets.
+GDELT activity, flow details, relationship candidates, HIP-4 markets, macro
+indicators, and an Asset Screener page for individual stock, commodity, metal,
+index, FX, and crypto assets.
 
 Headlines are saved with a `category` field (`crypto`, `macro`, `policy`,
 or `commodity`) so later analysis can compare token prices with general market
@@ -139,20 +153,24 @@ wallet data, positions, or execution status.
 pip install -r requirements.txt
 python -m collector.collect_context
 COLLECTOR_PROFILE=flow_alert python -m collector.collect_context
+python -m collector.macro_indicators
 python tools/build_report_site_data.py
 ```
 
 ## Schedule
 
 GitHub Actions runs the normal context collector every 15 minutes and the
-lightweight flow-alert collector every 5 minutes. Public repository Actions on
-standard GitHub-hosted runners do not consume the private repository's monthly
-Actions minutes.
+lightweight flow-alert collector every 5 minutes. Macro indicators are separated
+into `Public Macro Indicators Collector` and are intended for low-frequency
+external cron dispatch, such as once or twice per day. Public repository Actions
+on standard GitHub-hosted runners do not consume the private repository's
+monthly Actions minutes.
 
 Default retention is tuned for strategy research: normal context history keeps
-up to 8,640 rows, flow-alert history keeps up to 8,640 rows, the active
-all-symbol price window keeps 672 15-minute buckets, older all-symbol rows are
-archived, and the day/swing dataset keeps up to 12,000 15-minute buckets.
+up to 8,640 rows, flow-alert history keeps up to 8,640 rows, macro-indicator
+history keeps up to 8,640 rows, the active all-symbol price window keeps 672
+15-minute buckets, older all-symbol rows are archived, and the day/swing dataset
+keeps up to 12,000 15-minute buckets.
 
 The 5-minute flow alert writes aggregate data only. It can read the latest Dune
 query result when `DUNE_API_KEY` and `DUNE_LARGE_FLOW_QUERY_ID` are configured,
