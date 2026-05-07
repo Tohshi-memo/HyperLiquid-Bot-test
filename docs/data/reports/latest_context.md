@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T20:44:07.192069+00:00`
+- Generated: `2026-05-07T20:52:20.610013+00:00`
 - Market context score: `48.68`
 - News risk score: `48.31`
 - Macro risk score: `35.3`
@@ -9,13 +9,13 @@
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
-- Asset price history records: `582`
+- Asset price history records: `583`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:365`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `595`
-- Day/swing latest: `2026-05-07T20:30:00+00:00`
+- Day/swing records: `596`
+- Day/swing latest: `2026-05-07T20:45:00+00:00`
 
 ## News Categories
 
@@ -25,6 +25,7 @@
 
 ## Headlines
 
+- [crypto] Coinbase stock drops 4% after surprise 1Q miss as crypto trading slows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran still reviewing new U.S. peace proposal as Trump predicts war will 'be over quickly': Reports (Energy)
 - [macro] Valverde taken to hospital after alleged incident with Tchouameni (BBC News)
 - [crypto] Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling (Cointelegraph.com News)
@@ -34,4 +35,3 @@
 - [macro] Morrisons supermarket in Wales fined £750k for dirty bakery (BBC News)
 - [commodity] Oil prices edge lower as U.S. waits for Iran response to deal proposal (Energy)
 - [macro] 'I wouldn't pay it' - Trump on USA ticket price (BBC News)
-- [crypto] CZ floats Binance.US revival to give U.S. users access to global crypto liquidity (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
