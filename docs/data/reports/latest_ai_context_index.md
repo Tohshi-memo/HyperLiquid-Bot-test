@@ -2,24 +2,24 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-07T06:37:20.850422+00:00`
-- Asset price active records: `526`
-- Day/swing records: `539`
-- Flow-alert history records: `1758`
+- Updated: `2026-05-07T06:52:19.795149+00:00`
+- Asset price active records: `527`
+- Day/swing records: `540`
+- Flow-alert history records: `1762`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1746 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (35501 bytes): Machine-readable map.
+- `data/processed/ai_context_index.json` (35226 bytes): Machine-readable map.
 - `data/reports/latest_canary_signals.md` (2363 bytes): Current canary signals.
 - `data/reports/latest_ai_analysis_brief.md` (863 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (45684 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5628 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2064 bytes): Individual asset screen.
+- `data/processed/ai_analysis_pack.json` (45702 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5627 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2094 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (1217 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3647 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3653 bytes): Mechanical relationship candidates.
 
 ## Asset Classes
 
@@ -34,7 +34,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- polymarket_volume_spike: score `2.27` - Polymarket crypto volume is unusually high.
+- polymarket_volume_spike: score `2.28` - Polymarket crypto volume is unusually high.
 
 ## Full JSON Rule
 
