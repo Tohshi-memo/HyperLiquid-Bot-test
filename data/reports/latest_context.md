@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T18:22:24.608858+00:00`
+- Generated: `2026-05-07T18:37:15.366435+00:00`
 - Market context score: `48.09`
 - News risk score: `48.91`
 - Macro risk score: `36.38`
@@ -9,13 +9,13 @@
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
-- Asset price history records: `573`
+- Asset price history records: `574`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:365`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `586`
-- Day/swing latest: `2026-05-07T18:15:00+00:00`
+- Day/swing records: `587`
+- Day/swing latest: `2026-05-07T18:30:00+00:00`
 
 ## News Categories
 
@@ -25,6 +25,7 @@
 
 ## Headlines
 
+- [macro] Major rail disruption expected in southern England until end of day (BBC News)
 - [crypto] Bitmine to slow down ether purchases as it nears accumulation goal, Tom Lee says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump's 'irresponsible war' to blame for economic slowdown, German minister says (BBC News)
 - [crypto] 'DeFi is not dead,' it’s going mainstream with AI agents, crypto executives agree (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,4 +35,3 @@
 - [macro] Here's what to expect from Friday's release of the April jobs report (Economy)
 - [crypto] Kalshi see valuation double to $22B after $1B raise as prediction markets boom (Cointelegraph.com News)
 - [macro] Market Update: DIS, HIG, SWKS, TRI, KKR (Yahoo Finance)
-- [crypto] Samson Mow defends Strategy selling portions of its Bitcoin treasury (Cointelegraph.com News)
