@@ -1,31 +1,32 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T21:42:42.859500+00:00`
-- Market context score: `48.7`
-- News risk score: `47.66`
-- Macro risk score: `33.0`
-- Risk-on score: `38.72`
-- Articles: `76`
+- Generated: `2026-05-07T21:52:20.399698+00:00`
+- Market context score: `50.02`
+- News risk score: `46.37`
+- Macro risk score: `34.06`
+- Risk-on score: `40.97`
+- Articles: `73`
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
-- Asset price history records: `586`
+- Asset price history records: `587`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:365`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `599`
-- Day/swing latest: `2026-05-07T21:30:00+00:00`
+- Day/swing records: `600`
+- Day/swing latest: `2026-05-07T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `45`, risk hits `11`, risk headline rate `0.2444`, policy hits `7`
-- macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `3`
+- crypto: articles `44`, risk hits `9`, risk headline rate `0.2045`, policy hits `6`
+- macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `3`
 
 ## Headlines
 
 - [macro] Valverde cut head when he 'accidentally hit table' in Tchouameni row (BBC News)
+- [crypto] Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Shell CEO says oil market is short nearly 1 billion barrels due to Iran war, and the hole deepens every day (Energy)
 - [crypto] Privacy and accountability can coexist onchain, say panelists at Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] AI agents and large corporates will lead the next stablecoin boom, executives say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,4 +35,3 @@
 - [macro] Crowds cheer China's new snooker star on return from championship win (BBC News)
 - [macro] Trump gives 4 July ultimatum to EU to approve trade deal with US (BBC News)
 - [macro] Trump gives 4 July ultimatum to EU to approve trade deal with US (BBC News)
-- [crypto] Fund managers double down on Bitcoin as crypto sentiment rebounds — CoinShares (Cointelegraph.com News)
