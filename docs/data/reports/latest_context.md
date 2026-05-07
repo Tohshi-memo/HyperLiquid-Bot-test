@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T13:52:20.117320+00:00`
-- Market context score: `52.92`
-- News risk score: `45.76`
-- Macro risk score: `27.28`
-- Risk-on score: `44.33`
-- Articles: `84`
+- Generated: `2026-05-07T14:07:19.154106+00:00`
+- Market context score: `55.5`
+- News risk score: `43.83`
+- Macro risk score: `25.62`
+- Risk-on score: `47.81`
+- Articles: `86`
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
-- Asset price history records: `555`
+- Asset price history records: `556`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:365`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `568`
-- Day/swing latest: `2026-05-07T13:45:00+00:00`
+- Day/swing records: `569`
+- Day/swing latest: `2026-05-07T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `3`
-- macro: articles `45`, risk hits `9`, risk headline rate `0.1556`, policy hits `8`
+- crypto: articles `33`, risk hits `9`, risk headline rate `0.2424`, policy hits `2`
+- macro: articles `48`, risk hits `9`, risk headline rate `0.1458`, policy hits `5`
 
 ## Headlines
 
-- [macro] Western Midstream to acquire Brazos Delaware II in $1.6bn deal (Yahoo Finance)
-- [macro] Here's Why Vertiv Shares Popped Higher in April (Yahoo Finance)
 - [macro] Race to trace passengers who left hantavirus cruise ship at island (BBC News)
-- [macro] Buy, Sell or Hold GOOG Stock Below $400? Will It Reach $600? (Yahoo Finance)
-- [macro] State Street Flags Multi-Coin ETFs as Bitcoin’s Successor, But One Ticker Tells a Different Story (Yahoo Finance)
-- [macro] Dividends vs. the 4% Rule: What Happens to a $500,000 Portfolio Over 20 Years (Yahoo Finance)
-- [macro] There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says (Economy)
-- [crypto] Consensus Miami Day 3: Real-time coverage and highlights from on the ground (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stock Market Today: Dow Rises After Jobless Claims; AI Stock Dives On Earnings (Live Coverage) (Yahoo Finance)
-- [macro] Here is why Meta Platforms (META) is among the 10 Strong Buy S&P 500 Stocks to Invest In (Yahoo Finance)
+- [macro] Maple Leaf to revive Yves Veggie Cuisine (Yahoo Finance)
+- [macro] Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary (BBC News)
+- [macro] Stock Market Today: Dow Edges Higher After Jobless Claims; AI Stock Dives On Earnings (Live Coverage) (Yahoo Finance)
+- [macro] 'Plumbing' For AI Data Centers — And Visions Of 372% Growth — Have Funds Salivating For This IBD 50 Stock (Yahoo Finance)
+- [macro] Kraken Parent Acquires Asian Stablecoin Firm Reap for $600 Million: Bloomberg (Yahoo Finance)
+- [macro] Oracle upgraded, Planet Fitness downgraded: Wall Street's top analyst calls (Yahoo Finance)
+- [macro] Howmet Aerospace Scores Breakout After Demand-Fueled Beat, Lifted Guidance (Yahoo Finance)
+- [macro] These Are The 5 Best Stocks To Buy Or Watch Now (Yahoo Finance)
+- [macro] Tesla China Sales Spike 36%. The Stock Passes An Aggressive Buy Point. (Yahoo Finance)
