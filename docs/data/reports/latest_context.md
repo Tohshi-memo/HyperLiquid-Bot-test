@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T22:07:20.052128+00:00`
+- Generated: `2026-05-07T22:22:13.403009+00:00`
 - Market context score: `49.64`
 - News risk score: `46.75`
 - Macro risk score: `34.82`
@@ -9,13 +9,13 @@
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
-- Asset price history records: `588`
+- Asset price history records: `589`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:365`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `601`
-- Day/swing latest: `2026-05-07T22:00:00+00:00`
+- Day/swing records: `602`
+- Day/swing latest: `2026-05-07T22:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 - [macro] Valverde cut head when he 'accidentally hit table' in Tchouameni row (BBC News)
 - [crypto] Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Shell CEO says oil market is short nearly 1 billion barrels due to Iran war, and the hole deepens every day (Energy)
+- [crypto] Crypto PACs spend $7.2M to support candidates in 5 US states ahead of elections (Cointelegraph.com News)
 - [crypto] Privacy and accountability can coexist onchain, say panelists at Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] AI agents and large corporates will lead the next stablecoin boom, executives say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Five killed in huge fire at packed Mexico fairground (BBC News)
 - [commodity] Iran still reviewing new U.S. peace proposal as Trump predicts war will 'be over quickly': Reports (Energy)
 - [macro] Crowds cheer China's new snooker star on return from championship win (BBC News)
-- [macro] Trump gives 4 July ultimatum to EU to approve trade deal with US (BBC News)
 - [macro] Trump gives 4 July ultimatum to EU to approve trade deal with US (BBC News)
