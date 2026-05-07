@@ -2,24 +2,24 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-07T04:07:19.046719+00:00`
-- Asset price active records: `516`
-- Day/swing records: `529`
-- Flow-alert history records: `1728`
+- Updated: `2026-05-07T04:22:19.290123+00:00`
+- Asset price active records: `517`
+- Day/swing records: `530`
+- Flow-alert history records: `1731`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1858 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (35389 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2491 bytes): Current canary signals.
+- `data/processed/ai_context_index.json` (35398 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2363 bytes): Current canary signals.
 - `data/reports/latest_ai_analysis_brief.md` (861 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (45725 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5631 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2096 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (1211 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3655 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (45716 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5646 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2103 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (1217 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3650 bytes): Mechanical relationship candidates.
 
 ## Asset Classes
 
@@ -34,8 +34,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- polymarket_volume_spike: score `2.41` - Polymarket crypto volume is unusually high.
-- 4h_index_leads_crypto: score `1.2349` - Index perps are stronger than crypto majors; possible risk-on canary.
+- polymarket_volume_spike: score `2.42` - Polymarket crypto volume is unusually high.
 
 ## Full JSON Rule
 
