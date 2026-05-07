@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T00:07:26.124182+00:00`
+- Generated: `2026-05-07T00:22:23.934720+00:00`
 - Market context score: `43.92`
 - News risk score: `44.99`
 - Macro risk score: `32.27`
@@ -9,13 +9,13 @@
 - Polymarket markets: `80`
 
 - Asset universe count: `714`
-- Asset price history records: `500`
+- Asset price history records: `501`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:4, index:23, metal:18, unknown:356`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `513`
-- Day/swing latest: `2026-05-07T00:00:00+00:00`
+- Day/swing records: `514`
+- Day/swing latest: `2026-05-07T00:15:00+00:00`
 
 ## News Categories
 
@@ -25,6 +25,7 @@
 
 ## Headlines
 
+- [crypto] Three reasons why Ether price rallies fizzle near $2.4K (Cointelegraph.com News)
 - [macro] Gulf economies face long-term hit from Iran conflict (BBC News)
 - [macro] 'We had people come just to see it': Amazon delivers its first UK parcels by drone (BBC News)
 - [crypto] AI agents becoming more relevant than humans by 2035 has Big Tech 'terrified', says Hoskinson (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,4 +35,3 @@
 - [crypto] Crypto’s mainstream moment has arrived, say industry leaders speaking at Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin’s post-quantum migration will be harder than Taproot and needs to start now, Project Eleven CEO says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hantavirus-hit cruise ship leaves Cape Verde after three evacuated (BBC News)
-- [crypto] Reid Hoffman says NFTs may make a comeback as AI agents strain online identity (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
