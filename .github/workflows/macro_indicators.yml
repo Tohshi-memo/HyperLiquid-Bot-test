@@ -1,0 +1,66 @@
+name: Public Macro Indicators Collector
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-data-writer-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+
+    env:
+      MACRO_INDICATORS_ENABLED: 'true'
+      MACRO_INDICATORS_HISTORY_MAX_RECORDS: '8640'
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      LOG_LEVEL: 'INFO'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect public macro indicators
+        run: python -m collector.macro_indicators
+
+      - name: Build report site data
+        run: python tools/build_report_site_data.py
+
+      - name: Commit macro indicator data
+        if: always()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add data/processed/macro_indicators_latest.json data/processed/macro_indicators_history.json data/reports/latest_macro_indicators.md docs/data/processed/macro_indicators_latest.json docs/data/reports/latest_macro_indicators.md docs/data/manifest.json --force 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No macro indicator changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update public macro indicators [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Macro indicator push failed (attempt ${attempt}/3). Retrying..."
+            sleep 5
+          done
+
+          echo "Failed to save macro indicator data after retries."
+          exit 1
