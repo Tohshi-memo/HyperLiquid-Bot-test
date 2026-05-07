@@ -1,0 +1,39 @@
+<?php
+// Rename this file to hyperliquid_macro_indicators.php on the cron server.
+// Keep the real GitHub token only on the private cron server, not in this repo.
+
+$owner = 'Tohshi-memo';
+$repo = 'HyperLiquid-Bot-test';
+$workflow = 'macro_indicators.yml';
+$token = 'ghp_REPLACE_WITH_YOUR_GITHUB_TOKEN';
+$ref = 'main';
+
+$url = "https://api.github.com/repos/{$owner}/{$repo}/actions/workflows/{$workflow}/dispatches";
+$payload = json_encode(['ref' => $ref]);
+
+$ch = curl_init($url);
+curl_setopt_array($ch, [
+    CURLOPT_POST => true,
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_HTTPHEADER => [
+        'Accept: application/vnd.github+json',
+        'Authorization: Bearer ' . $token,
+        'Content-Type: application/json',
+        'User-Agent: hyperliquid-macro-indicators-cron',
+    ],
+    CURLOPT_POSTFIELDS => $payload,
+    CURLOPT_TIMEOUT => 30,
+]);
+
+$response = curl_exec($ch);
+$status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+$error = curl_error($ch);
+curl_close($ch);
+
+if ($status >= 200 && $status < 300) {
+    echo "Macro indicators workflow dispatched.\n";
+    exit(0);
+}
+
+fwrite(STDERR, "GitHub dispatch failed. HTTP {$status}. {$error} {$response}\n");
+exit(1);
