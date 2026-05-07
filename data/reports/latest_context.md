@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T14:52:17.320036+00:00`
-- Market context score: `49.43`
-- News risk score: `46.91`
-- Macro risk score: `30.58`
-- Risk-on score: `38.78`
-- Articles: `93`
+- Generated: `2026-05-07T15:07:31.410158+00:00`
+- Market context score: `49.14`
+- News risk score: `47.42`
+- Macro risk score: `32.68`
+- Risk-on score: `39.36`
+- Articles: `96`
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
-- Asset price history records: `559`
+- Asset price history records: `560`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:365`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `572`
-- Day/swing latest: `2026-05-07T14:45:00+00:00`
+- Day/swing records: `573`
+- Day/swing latest: `2026-05-07T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `39`, risk hits `11`, risk headline rate `0.2564`, policy hits `2`
-- macro: articles `49`, risk hits `14`, risk headline rate `0.2449`, policy hits `3`
+- crypto: articles `41`, risk hits `11`, risk headline rate `0.2439`, policy hits `2`
+- macro: articles `50`, risk hits `17`, risk headline rate `0.28`, policy hits `4`
 
 ## Headlines
 
-- [crypto] Kalshi confirms $1 billion raise at $22 billion valuation amid prediction market boom (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Superdry co-founder James Holder jailed for rape (BBC News)
-- [crypto] Aave to overhaul collateral and listing standards after KelpDAO exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Fears of renewed Gaza war as Hamas disarmament talks stall (BBC News)
-- [macro] Snowflake Is Up 9% Today: Is It Outperforming Other Cloud Stocks Like ServiceNow? (Yahoo Finance)
-- [macro] European high yield issuance sets April record, capped by late-month flurry (Yahoo Finance)
-- [macro] Scott Galloway warns US stock market crashes within the next two years, as 40% of the S&P is exposed. Protect your money (Yahoo Finance)
-- [macro] What's the Better Artificial Intelligence (AI) Stock: Palantir Technologies or Tesla? (Yahoo Finance)
-- [macro] 3 Market Trends That Could Shape the Rest of 2026 (Yahoo Finance)
-- [macro] ‘Secure Your Own Mask First’: The 529 Mistake Parents Are Making (Yahoo Finance)
+- [crypto] Crypto for Advisors: beneath the crypto surface (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] The $700 million migration: Why Solv Protocol is ditching LayerZero for Chainlink (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Major rail disruption expected in southern England until end of day (BBC News)
+- [commodity] Oil prices fall below $100 as U.S.-Iran tensions keep traders focused on Strait of Hormuz risks (Energy)
+- [macro] ACCA says sustainability reporting can boost growth in UK and China (Yahoo Finance)
+- [macro] Why Kratos Stock Just Dropped (Yahoo Finance)
+- [macro] Coty (COTY) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Elon Musk Is Dissolving xAI. What That Means. (Yahoo Finance)
+- [macro] Ispire (ISPR) Q3 2026 Earnings Transcript (Yahoo Finance)
+- [macro] Allegro MicroSystems Stock Falls Despite Beat-And-Raise Earnings Report (Yahoo Finance)
