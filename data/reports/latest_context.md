@@ -1,37 +1,37 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T16:07:20.053924+00:00`
-- Market context score: `52.8`
-- News risk score: `46.39`
-- Macro risk score: `28.52`
-- Risk-on score: `45.06`
-- Articles: `100`
+- Generated: `2026-05-07T16:22:19.186476+00:00`
+- Market context score: `50.19`
+- News risk score: `47.75`
+- Macro risk score: `30.75`
+- Risk-on score: `41.26`
+- Articles: `105`
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
-- Asset price history records: `564`
+- Asset price history records: `565`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:365`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `577`
-- Day/swing latest: `2026-05-07T16:00:00+00:00`
+- Day/swing records: `578`
+- Day/swing latest: `2026-05-07T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `45`, risk hits `13`, risk headline rate `0.2667`, policy hits `4`
-- macro: articles `50`, risk hits `12`, risk headline rate `0.2`, policy hits `6`
+- crypto: articles `48`, risk hits `14`, risk headline rate `0.2708`, policy hits `4`
+- macro: articles `52`, risk hits `14`, risk headline rate `0.2308`, policy hits `12`
 
 ## Headlines
 
-- [crypto] The great derivatives disconnect: Why 'negative' funding is actually a bullish signal for Bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Magnera (MAGN) Q2 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Snap (SNAP) Q1 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Inside the $17 income play paying 5.7% yield after its biggest earnings disappointment (Yahoo Finance)
-- [macro] Superdry co-founder James Holder jailed for rape (BBC News)
-- [macro] Codere Online Luxembourg Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Capital Clean Energy Carriers Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Portugal and Italy will not suspend digital border checks for Brits (BBC News)
-- [macro] Airbus Lands $19 Bil Order; Boeing Wins Air Force One Contract (Yahoo Finance)
-- [macro] Solar firms went bust, panels went dark: Connecticut homeowners are still paying for panels that never provided power (Yahoo Finance)
+- [macro] Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says (BBC News)
+- [macro] Rwandan singer dies as he was being released from prison (BBC News)
+- [macro] Fed's Hammack looks to hold rates for 'quite some time' amid Iran conflict and uncertainty (Yahoo Finance)
+- [macro] Why Zoetis' Slashed 2026 Guidance Still Appears To Be A 'Heavy Lift' (Yahoo Finance)
+- [macro] GameStop stock is plummeting after its CEO's bizarre interview left investors feeling uncertain about his eBay plans (Yahoo Finance)
+- [macro] Average US long-term mortgage rate ticks up to 6.37% (Yahoo Finance)
+- [macro] Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan (BBC News)
+- [macro] Chime (CHYM) Q1 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Paycom (PAYC) Q1 2026 Earnings Transcript (Yahoo Finance)
+- [macro] Symbotic (SYM) Q2 2026 Earnings Transcript (Yahoo Finance)
