@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T20:37:23.594821+00:00`
+- Generated: `2026-05-07T20:44:07.192069+00:00`
 - Market context score: `48.68`
 - News risk score: `48.31`
 - Macro risk score: `35.3`
@@ -25,10 +25,10 @@
 
 ## Headlines
 
+- [commodity] Iran still reviewing new U.S. peace proposal as Trump predicts war will 'be over quickly': Reports (Energy)
 - [macro] Valverde taken to hospital after alleged incident with Tchouameni (BBC News)
 - [crypto] Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling (Cointelegraph.com News)
 - [macro] How operation to disembark passengers on virus-hit cruise will work (BBC News)
-- [commodity] Iran still reviewing new U.S. peace proposal as Trump predicts war will 'be over quickly': Reports (Energy)
 - [commodity] Shell CEO says oil market is short nearly 1 billion barrels due to Iran war and the hole deepens every day (Energy)
 - [macro] Here's what to expect from Friday's release of the April jobs report (Economy)
 - [macro] Morrisons supermarket in Wales fined £750k for dirty bakery (BBC News)
