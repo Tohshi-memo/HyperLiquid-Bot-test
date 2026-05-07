@@ -2,24 +2,24 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-07T08:52:21.778954+00:00`
-- Asset price active records: `535`
-- Day/swing records: `548`
-- Flow-alert history records: `1786`
+- Updated: `2026-05-07T09:07:23.009706+00:00`
+- Asset price active records: `536`
+- Day/swing records: `549`
+- Flow-alert history records: `1789`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (1745 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (35234 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2361 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (864 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (45693 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5616 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2067 bytes): Individual asset screen.
+- `data/reports/latest_ai_context_index.md` (1746 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (35219 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2354 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (863 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (45715 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5609 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2090 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (1217 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3655 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3654 bytes): Mechanical relationship candidates.
 
 ## Asset Classes
 
@@ -34,7 +34,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- polymarket_volume_spike: score `2.32` - Polymarket crypto volume is unusually high.
+- polymarket_volume_spike: score `2.23` - Polymarket crypto volume is unusually high.
 
 ## Full JSON Rule
 
