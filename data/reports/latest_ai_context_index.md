@@ -2,24 +2,24 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-07T19:37:14.754389+00:00`
-- Asset price active records: `578`
-- Day/swing records: `591`
-- Flow-alert history records: `1919`
+- Updated: `2026-05-07T19:52:10.701679+00:00`
+- Asset price active records: `579`
+- Day/swing records: `592`
+- Flow-alert history records: `1922`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (1784 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (36320 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2365 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (863 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (45741 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5678 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2156 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (4092 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3650 bytes): Mechanical relationship candidates.
+- `data/reports/latest_ai_context_index.md` (1740 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (36256 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2362 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (862 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (45762 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5682 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2157 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (4086 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3644 bytes): Mechanical relationship candidates.
 
 ## Asset Classes
 
