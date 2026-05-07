@@ -2,24 +2,24 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-07T12:07:11.292285+00:00`
-- Asset price active records: `548`
-- Day/swing records: `561`
-- Flow-alert history records: `1826`
+- Updated: `2026-05-07T12:21:35.839750+00:00`
+- Asset price active records: `549`
+- Day/swing records: `562`
+- Flow-alert history records: `1829`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1740 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (35866 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2353 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (864 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (45704 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5613 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2097 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (4092 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3650 bytes): Mechanical relationship candidates.
+- `data/processed/ai_context_index.json` (35852 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2352 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (863 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (45707 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5676 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2129 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (4074 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3648 bytes): Mechanical relationship candidates.
 
 ## Asset Classes
 
@@ -27,10 +27,10 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 - crypto_alt: `228`
 - crypto_major: `8`
 - equity: `65`
-- fx: `4`
+- fx: `5`
 - index: `23`
 - metal: `18`
-- unknown: `366`
+- unknown: `365`
 
 ## Canary Snapshot
 
