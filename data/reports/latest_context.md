@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T05:47:40.735171+00:00`
-- Market context score: `49.0`
-- News risk score: `42.89`
-- Macro risk score: `35.06`
-- Risk-on score: `36.13`
-- Articles: `49`
+- Generated: `2026-05-07T05:52:11.497042+00:00`
+- Market context score: `46.83`
+- News risk score: `43.9`
+- Macro risk score: `36.6`
+- Risk-on score: `32.74`
+- Articles: `50`
 - Polymarket markets: `80`
 
 - Asset universe count: `716`
@@ -19,12 +19,13 @@
 
 ## News Categories
 
-- commodity: articles `6`, risk hits `7`, risk headline rate `0.8333`, policy hits `0`
+- commodity: articles `7`, risk hits `8`, risk headline rate `0.8571`, policy hits `0`
 - crypto: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `6`
 - macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Asian Development Bank's $70 billion energy and digital infra push puts Southeast Asia center stage (Energy)
 - [macro] Vigils to be held across Australia for murdered 5-year-old girl (BBC News)
 - [crypto] Three signals pointing to a possible bitcoin move to $85,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BNY, world's largest custody bank, expands crypto services in Abu Dhabi (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,4 +35,3 @@
 - [crypto] Ripple, JPMorgan settle first cross-border tokenized Treasury redemption on XRP Ledger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Looksmaxxing influencer Clavicular charged over alleged alligator shooting (BBC News)
 - [crypto] Dogecoin slides 4%, bitcoin rally pauses as Iran ceasefire optimism lifts equities (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil rises as U.S.-Iran tensions keep traders focused on Strait of Hormuz risks (Energy)
