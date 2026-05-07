@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T15:07:31.410158+00:00`
+- Generated: `2026-05-07T15:11:34.275732+00:00`
 - Market context score: `49.14`
 - News risk score: `47.42`
 - Macro risk score: `32.68`
@@ -25,6 +25,7 @@
 
 ## Headlines
 
+- [macro] Superdry co-founder James Holder jailed for rape (BBC News)
 - [crypto] Crypto for Advisors: beneath the crypto surface (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] The $700 million migration: Why Solv Protocol is ditching LayerZero for Chainlink (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Major rail disruption expected in southern England until end of day (BBC News)
@@ -34,4 +35,3 @@
 - [macro] Coty (COTY) Q2 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] Elon Musk Is Dissolving xAI. What That Means. (Yahoo Finance)
 - [macro] Ispire (ISPR) Q3 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Allegro MicroSystems Stock Falls Despite Beat-And-Raise Earnings Report (Yahoo Finance)
