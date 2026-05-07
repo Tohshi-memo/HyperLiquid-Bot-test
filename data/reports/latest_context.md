@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-07T21:37:15.472600+00:00`
-- Market context score: `48.52`
-- News risk score: `48.29`
-- Macro risk score: `34.25`
-- Risk-on score: `39.32`
-- Articles: `77`
+- Generated: `2026-05-07T21:42:42.859500+00:00`
+- Market context score: `48.7`
+- News risk score: `47.66`
+- Macro risk score: `33.0`
+- Risk-on score: `38.72`
+- Articles: `76`
 - Polymarket markets: `80`
 
 - Asset universe count: `724`
@@ -21,10 +21,11 @@
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `45`, risk hits `11`, risk headline rate `0.2444`, policy hits `7`
-- macro: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `3`
 
 ## Headlines
 
+- [macro] Valverde cut head when he 'accidentally hit table' in Tchouameni row (BBC News)
 - [commodity] Shell CEO says oil market is short nearly 1 billion barrels due to Iran war, and the hole deepens every day (Energy)
 - [crypto] Privacy and accountability can coexist onchain, say panelists at Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] AI agents and large corporates will lead the next stablecoin boom, executives say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,4 +35,3 @@
 - [macro] Trump gives 4 July ultimatum to EU to approve trade deal with US (BBC News)
 - [macro] Trump gives 4 July ultimatum to EU to approve trade deal with US (BBC News)
 - [crypto] Fund managers double down on Bitcoin as crypto sentiment rebounds — CoinShares (Cointelegraph.com News)
-- [crypto] Coinbase stock declines 5% after missing Q1 estimates on crypto slowdown (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
