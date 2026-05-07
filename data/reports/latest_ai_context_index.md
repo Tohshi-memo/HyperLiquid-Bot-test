@@ -2,24 +2,24 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-07T19:09:00.210953+00:00`
-- Asset price active records: `576`
-- Day/swing records: `589`
-- Flow-alert history records: `1913`
+- Updated: `2026-05-07T19:22:19.730800+00:00`
+- Asset price active records: `577`
+- Day/swing records: `590`
+- Flow-alert history records: `1916`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1740 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (36542 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2368 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (863 bytes): BTC/ETH/HYPE/SOL compact stats.
-- `data/processed/ai_analysis_pack.json` (45757 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5687 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2170 bytes): Individual asset screen.
+- `data/processed/ai_context_index.json` (36557 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2414 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (860 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_analysis_pack.json` (45722 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5680 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2195 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (4092 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3653 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3648 bytes): Mechanical relationship candidates.
 
 ## Asset Classes
 
@@ -34,7 +34,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- baseline: score `0` - No elevated canary signal. Continue collecting samples.
+- 4h_crypto_metal_divergence: score `1.5706` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
 
 ## Full JSON Rule
 
