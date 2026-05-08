@@ -1,38 +1,38 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-08T14:37:18.558128+00:00`
-- Market context score: `58.63`
-- News risk score: `40.18`
-- Macro risk score: `27.01`
-- Risk-on score: `52.2`
-- Articles: `88`
+- Generated: `2026-05-08T14:52:13.265539+00:00`
+- Market context score: `57.55`
+- News risk score: `40.62`
+- Macro risk score: `27.88`
+- Risk-on score: `50.49`
+- Articles: `85`
 - Polymarket markets: `402`
 
 - Asset universe count: `734`
-- Asset price history records: `654`
+- Asset price history records: `655`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:375`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `667`
-- Day/swing latest: `2026-05-08T14:30:00+00:00`
+- Day/swing records: `668`
+- Day/swing latest: `2026-05-08T14:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `34`, risk hits `6`, risk headline rate `0.1471`, policy hits `2`
-- macro: articles `50`, risk hits `11`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `46`, risk hits `10`, risk headline rate `0.1957`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook (Economy)
-- [macro] US jobs data beats expectations for second month in a row (BBC News)
-- [macro] Closing the gap between AI and ROI in the finance sector (Yahoo Finance)
-- [macro] Post Holdings promotes COO to US group’s CEO (Yahoo Finance)
-- [macro] Innospec (IOSP) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [macro] After a stock crash, Sweetgreen pins its future on under-$15 wraps (Yahoo Finance)
-- [macro] Could Apple Be the Biggest Pick-and-Shovel AI Stock? (Yahoo Finance)
-- [macro] Which Is the Better Tech ETF, Fidelity's FTEC or State Street's XLK? (Yahoo Finance)
-- [macro] Gilead Slips As Descovy Steals The 'Spotlight' From Big Yeztugo Expectations (Yahoo Finance)
-- [macro] U.S. payrolls jump more than expected, but the report had several red flags for the economy (Economy)
+- [commodity] U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade (Energy)
+- [macro] Worldwide race to trace passengers from hantavirus-hit cruise ship (BBC News)
+- [macro] US jet fuel could be used in Europe to ease possible shortages (BBC News)
+- [macro] US jet fuel could be used in Europe to ease possible shortages (BBC News)
+- [macro] RBC Raises Price Target on Target to $132 Ahead of Q1: Is the Turnaround Finally Resonating? (Yahoo Finance)
+- [macro] A diversified 11-asset portfolio outperformed both US stocks, the classic 60/40 mix in 2025. Is it time to diversify? (Yahoo Finance)
+- [macro] Wendy’s Turnaround on Track Despite Beef Costs, Consumer Uncertainty (Yahoo Finance)
+- [macro] Cytek (CTKB) Q1 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Hedge Fund WCM Dumped MercadoLibre Stock Worth $940 Million. Here's What That Means for Investors. (Yahoo Finance)
+- [macro] SoFi Just Reported 1 Number That Should Be on Every Investor's Radar (Yahoo Finance)
