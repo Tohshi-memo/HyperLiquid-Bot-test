@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-08T11:37:17.557022+00:00`
+- Generated: `2026-05-08T11:43:20.455439+00:00`
 - Market context score: `65.18`
 - News risk score: `33.44`
 - Macro risk score: `27.52`
@@ -26,6 +26,8 @@
 
 ## Headlines
 
+- [macro] Russia and Ukraine accuse each other of breaching Victory Day ceasefire (BBC News)
+- [macro] Three dead after volcano erupts on Indonesian island (BBC News)
 - [macro] South Africa president faces call to resign after court ruling (BBC News)
 - [crypto] U.S. hiring slowdown could be great for bitcoin — unless wages spoil the party (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Coinbase blames AWS for hours-long crypto trading outage (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,5 +36,3 @@
 - [crypto] Bitcoin eyes $80K reclaim as traders say these BTC price support levels must hold (Cointelegraph.com News)
 - [macro] US jet fuel could be used in Europe to ease possible shortages (BBC News)
 - [macro] US jet fuel could be used in Europe to ease possible shortages (BBC News)
-- [crypto] Tether freezes over $500M of USDT in 30 days, BlockSec data shows (Cointelegraph.com News)
-- [macro] Russia and Ukraine accuse each other of breaching Victory Day ceasefire (BBC News)
