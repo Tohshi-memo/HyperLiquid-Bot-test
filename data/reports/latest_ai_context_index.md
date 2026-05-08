@@ -2,11 +2,11 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-08T01:28:11.112604+00:00`
-- Asset price active records: `601`
-- Day/swing records: `614`
+- Updated: `2026-05-08T01:37:14.863665+00:00`
+- Asset price active records: `602`
+- Day/swing records: `615`
 - Macro indicators: `11`
-- Flow-alert history records: `1992`
+- Flow-alert history records: `1994`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
@@ -14,12 +14,12 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 - `data/reports/latest_ai_context_index.md` (1892 bytes): Human-readable map.
 - `data/processed/ai_context_index.json` (52849 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2372 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (863 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/reports/latest_canary_signals.md` (2369 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (865 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (1600 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (45753 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5701 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2178 bytes): Individual asset screen.
+- `data/processed/ai_analysis_pack.json` (45765 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5695 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2175 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (4107 bytes): HIP-4 outcome market overview.
 - `data/reports/latest_relationship_scan.md` (3647 bytes): Mechanical relationship candidates.
 
