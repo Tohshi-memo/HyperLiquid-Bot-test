@@ -2,10 +2,10 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-05-08T22:37:19.036780+00:00`
+- Generated: `2026-05-08T22:41:28.492946+00:00`
 - Price records: `672`
-- Market context records: `802`
-- Flow alert records: `2256`
+- Market context records: `803`
+- Flow alert records: `2257`
 - Minimum samples: `30`
 - Pattern count: `96`
 
@@ -25,16 +25,16 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `market_context_high->crypto_major_24h` score `12.6221` n `149` status `ready` deltaP `29.9905` edge `0.8853` maxDD `-1.3382`
-- `market_context_high->crypto_alt_24h` score `5.5825` n `149` status `ready` deltaP `7.1414` edge `0.4224` maxDD `-0.0508`
-- `risk_on_high->equity_4h` score `3.5906` n `33` status `ready` deltaP `10.1903` edge `0.2678` maxDD `-0.9217`
-- `risk_on_and_context->equity_4h` score `3.5906` n `33` status `ready` deltaP `10.1903` edge `0.2678` maxDD `-0.9217`
+- `market_context_high->crypto_major_24h` score `12.6233` n `149` status `ready` deltaP `29.9905` edge `0.8854` maxDD `-1.3382`
+- `market_context_high->crypto_alt_24h` score `5.5837` n `149` status `ready` deltaP `7.1414` edge `0.4225` maxDD `-0.0508`
+- `risk_on_high->equity_4h` score `3.5918` n `33` status `ready` deltaP `10.1903` edge `0.2679` maxDD `-0.9217`
+- `risk_on_and_context->equity_4h` score `3.5918` n `33` status `ready` deltaP `10.1903` edge `0.2679` maxDD `-0.9217`
 - `risk_on_high->index_4h` score `2.8909` n `33` status `ready` deltaP `17.9278` edge `0.1302` maxDD `-0.038`
 - `risk_on_and_context->index_4h` score `2.8909` n `33` status `ready` deltaP `17.9278` edge `0.1302` maxDD `-0.038`
-- `risk_on_high->crypto_major_4h` score `2.715` n `33` status `ready` deltaP `19.5076` edge `0.1334` maxDD `-0.9758`
-- `risk_on_and_context->crypto_major_4h` score `2.715` n `33` status `ready` deltaP `19.5076` edge `0.1334` maxDD `-0.9758`
-- `risk_on_high->crypto_alt_4h` score `2.7109` n `33` status `ready` deltaP `20.7871` edge `0.1078` maxDD `-0.6377`
-- `risk_on_and_context->crypto_alt_4h` score `2.7109` n `33` status `ready` deltaP `20.7871` edge `0.1078` maxDD `-0.6377`
+- `risk_on_high->crypto_major_4h` score `2.7162` n `33` status `ready` deltaP `19.5076` edge `0.1335` maxDD `-0.9758`
+- `risk_on_and_context->crypto_major_4h` score `2.7162` n `33` status `ready` deltaP `19.5076` edge `0.1335` maxDD `-0.9758`
+- `risk_on_high->crypto_alt_4h` score `2.7121` n `33` status `ready` deltaP `20.7871` edge `0.1079` maxDD `-0.6377`
+- `risk_on_and_context->crypto_alt_4h` score `2.7121` n `33` status `ready` deltaP `20.7871` edge `0.1079` maxDD `-0.6377`
 - `risk_on_high->metal_1h` score `1.1015` n `33` status `ready` deltaP `12.9605` edge `0.0284` maxDD `-0.5074`
 - `risk_on_and_context->metal_1h` score `1.1015` n `33` status `ready` deltaP `12.9605` edge `0.0284` maxDD `-0.5074`
 - `risk_on_high->commodity_4h` score `0.802` n `33` status `ready` deltaP `5.2106` edge `0.1512` maxDD `-1.3162`
@@ -44,7 +44,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `risk_on_high->fx_1h` score `0.2532` n `33` status `ready` deltaP `8.0975` edge `0.002` maxDD `-0.2147`
 - `risk_on_and_context->fx_1h` score `0.2532` n `33` status `ready` deltaP `8.0975` edge `0.002` maxDD `-0.2147`
 - `market_context_high->index_24h` score `-0.1119` n `149` status `ready` deltaP `1.3026` edge `0.1815` maxDD `-5.9609`
-- `risk_on_high->crypto_major_1h` score `-0.1448` n `33` status `ready` deltaP `4.2824` edge `-0.0167` maxDD `-1.0995`
+- `risk_on_high->crypto_major_1h` score `-0.144` n `33` status `ready` deltaP `4.2824` edge `-0.0166` maxDD `-1.0995`
 
 ## Guardrails
 
