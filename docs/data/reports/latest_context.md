@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-08T20:37:16.018952+00:00`
+- Generated: `2026-05-08T20:43:28.342109+00:00`
 - Market context score: `49.79`
 - News risk score: `47.91`
 - Macro risk score: `31.47`
@@ -29,12 +29,12 @@
 
 ## Headlines
 
+- [macro] US jobs data beats expectations for second month in a row (BBC News)
 - [commodity] Oil prices edge higher after U.S. fires on Iranian tankers, UAE attacked by missiles (Energy)
 - [macro] The Federal Reserve is quickly running out of reasons to cut interest rates (Economy)
 - [crypto] AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH (Cointelegraph.com News)
 - [macro] Trump says Russia and Ukraine to observe three-day ceasefire (BBC News)
-- [macro] Analyst Report: General Motors Co (Yahoo Finance)
 - [macro] Analyst Report: Stanley Black & Decker Inc (Yahoo Finance)
 - [macro] Market Update: EBAY, ITGR, MNST, SWK, SMCI, GM, XYZ, SOLV (Yahoo Finance)
 - [macro] Analyst Report: Monster Beverage Corp (Yahoo Finance)
