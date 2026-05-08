@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-08T05:22:21.549916+00:00`
-- Observed: `2026-05-08T05:15:00+00:00`
+- Generated: `2026-05-08T05:37:14.251795+00:00`
+- Observed: `2026-05-08T05:30:00+00:00`
 - Assets: `724`
 
 ## Top Activity
 
-- `xyz:SNDK` equity price `1348.25` 4h `-0.7289` vol `89185051.43` relationship `market_context_high->xyz:SNDK_24h`
-- `xyz:CRWV` equity price `116.625` 4h `0.1116` vol `17304496.73` relationship `market_context_high->xyz:CRWV_24h`
-- `xyz:MU` equity price `657.565` 4h `0.0616` vol `68512033.84` relationship `market_context_high->xyz:MU_24h`
-- `xyz:DRAM` equity price `47.839` 4h `0.4135` vol `2297827.56` relationship `market_context_high->xyz:DRAM_24h`
-- `xyz:SKHX` equity price `1142.25` 4h `0.6964` vol `8967329.03` relationship `market_context_high->xyz:SKHX_24h`
-- `DOGE` crypto_major price `0.106315` 4h `-0.244` vol `41375407.95` relationship `market_context_high->DOGE_24h`
-- `xyz:CRCL` equity price `113.81` 4h `-0.1404` vol `37309347.14` relationship `market_context_high->xyz:CRCL_24h`
-- `JTO` crypto_alt price `0.57362` 4h `-2.9202` vol `30031597.9` relationship `none`
-- `DYDX` crypto_alt price `0.17907` 4h `-8.8841` vol `12457509.19` relationship `none`
-- `CHIP` crypto_alt price `0.059858` 4h `3.931` vol `4454826.36` relationship `none`
-- `STRK` crypto_alt price `0.04838` 4h `4.4699` vol `3812356.69` relationship `none`
-- `NIL` crypto_alt price `0.071263` 4h `0.0211` vol `10263300.75` relationship `none`
-- `VVV` crypto_alt price `13.6425` 4h `7.9354` vol `16261440.46` relationship `none`
-- `TST` crypto_alt price `0.023325` 4h `-6.0574` vol `457640.16` relationship `none`
-- `BTC` crypto_major price `79581.5` 4h `-0.138` vol `2506222405.24` relationship `market_context_high->BTC_24h`
-- `ETH` crypto_major price `2278.45` 4h `-0.2583` vol `776892524.62` relationship `market_context_high->ETH_24h`
-- `CHILLGUY` crypto_alt price `0.015204` 4h `-1.8527` vol `383327.91` relationship `none`
-- `REZ` crypto_alt price `0.006198` 4h `-0.3216` vol `830902.66` relationship `none`
-- `ICP` crypto_alt price `3.19455` 4h `6.1894` vol `2064789.34` relationship `none`
-- `xyz:HOOD` equity price `76.134` 4h `-0.0118` vol `11286615.87` relationship `market_context_high->xyz:HOOD_24h`
+- `xyz:SNDK` equity price `1354.65` 4h `0.2887` vol `89301114.35` relationship `market_context_high->xyz:SNDK_24h`
+- `xyz:CRWV` equity price `116.78` 4h `-0.0342` vol `17278360.94` relationship `market_context_high->xyz:CRWV_24h`
+- `xyz:MU` equity price `660.17` 4h `0.6955` vol `68501068.5` relationship `market_context_high->xyz:MU_24h`
+- `xyz:DRAM` equity price `47.8585` 4h `0.5177` vol `2447613.86` relationship `market_context_high->xyz:DRAM_24h`
+- `xyz:SKHX` equity price `1147.2` 4h `2.7221` vol `9003696.52` relationship `market_context_high->xyz:SKHX_24h`
+- `DOGE` crypto_major price `0.106315` 4h `-0.1971` vol `41125906.62` relationship `market_context_high->DOGE_24h`
+- `xyz:CRCL` equity price `114.055` 4h `-0.0088` vol `37278159.83` relationship `market_context_high->xyz:CRCL_24h`
+- `JTO` crypto_alt price `0.57386` 4h `-6.087` vol `30000507.71` relationship `none`
+- `CHIP` crypto_alt price `0.060676` 4h `5.3714` vol `4520321.14` relationship `none`
+- `DYDX` crypto_alt price `0.17161` 4h `-12.9237` vol `13190506.35` relationship `none`
+- `STRK` crypto_alt price `0.04839` 4h `4.4238` vol `3933475.03` relationship `none`
+- `NIL` crypto_alt price `0.071289` 4h `-0.5649` vol `10274476.4` relationship `none`
+- `VVV` crypto_alt price `13.879` 4h `10.0853` vol `16461363.63` relationship `none`
+- `TST` crypto_alt price `0.023382` 4h `-4.4775` vol `454067.44` relationship `none`
+- `BTC` crypto_major price `79682.5` 4h `0.0176` vol `2504283130.02` relationship `market_context_high->BTC_24h`
+- `ETH` crypto_major price `2281.45` 4h `-0.1051` vol `775747873.97` relationship `market_context_high->ETH_24h`
+- `REZ` crypto_alt price `0.006191` 4h `-0.2578` vol `857028.84` relationship `none`
+- `xyz:HOOD` equity price `76.132` 4h `-0.0591` vol `11274282.14` relationship `market_context_high->xyz:HOOD_24h`
+- `ONDO` crypto_alt price `0.364465` 4h `4.5361` vol `14199024.2` relationship `none`
+- `CHILLGUY` crypto_alt price `0.015328` 4h `-0.5192` vol `383171.47` relationship `none`
