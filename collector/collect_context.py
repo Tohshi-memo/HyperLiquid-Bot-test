@@ -672,9 +672,18 @@ def polymarket_summary_row(market: dict[str, Any]) -> dict[str, Any]:
     outcomes = parse_polymarket_outcomes(market)
     yes_probability = find_outcome_probability(outcomes, "yes")
     no_probability = find_outcome_probability(outcomes, "no")
+    event_slug = polymarket_event_slug(market)
+    market_slug = market.get("slug")
+    url = (
+        f"https://polymarket.com/event/{event_slug}"
+        if event_slug
+        else f"https://polymarket.com/market/{market_slug}" if market_slug else None
+    )
     return {
         "question": market.get("question") or market.get("title"),
-        "slug": market.get("slug"),
+        "slug": market_slug,
+        "event_slug": event_slug,
+        "url": url,
         "query": market.get("query"),
         "impact_category": market.get("impact_category"),
         "volume_24h": to_float(market.get("volume24hr") or market.get("volume24hrClob")),
@@ -685,6 +694,19 @@ def polymarket_summary_row(market: dict[str, Any]) -> dict[str, Any]:
         "yes_probability": yes_probability,
         "no_probability": no_probability,
     }
+
+
+def polymarket_event_slug(market: dict[str, Any]) -> str | None:
+    events = market.get("events")
+    if isinstance(events, list):
+        for event in events:
+            if isinstance(event, dict) and event.get("slug"):
+                return str(event["slug"])
+    for key in ("eventSlug", "event_slug"):
+        value = market.get(key)
+        if value:
+            return str(value)
+    return None
 
 
 def parse_polymarket_outcomes(market: dict[str, Any]) -> list[dict[str, Any]]:

@@ -430,9 +430,11 @@ function renderPolymarketAction(market) {
 function polymarketUrl(market) {
   const rawUrl = market?.url || market?.market_url;
   if (typeof rawUrl === "string" && rawUrl.startsWith("https://polymarket.com/")) return rawUrl;
+  const eventSlug = market?.event_slug || market?.eventSlug;
+  if (eventSlug) return `https://polymarket.com/event/${encodeURIComponent(String(eventSlug))}`;
   const slug = market?.slug;
   if (!slug) return null;
-  return `https://polymarket.com/event/${encodeURIComponent(String(slug))}`;
+  return `https://polymarket.com/market/${encodeURIComponent(String(slug))}`;
 }
 
 function renderOutcomeOdds(market) {
