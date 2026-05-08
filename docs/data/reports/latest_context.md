@@ -1,31 +1,32 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-08T11:43:20.455439+00:00`
-- Market context score: `65.18`
-- News risk score: `33.44`
-- Macro risk score: `27.52`
-- Risk-on score: `61.25`
-- Articles: `48`
+- Generated: `2026-05-08T11:52:18.689876+00:00`
+- Market context score: `64.17`
+- News risk score: `34.58`
+- Macro risk score: `29.31`
+- Risk-on score: `60.65`
+- Articles: `49`
 - Polymarket markets: `80`
 
 - Asset universe count: `734`
-- Asset price history records: `642`
+- Asset price history records: `643`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:375`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `655`
-- Day/swing latest: `2026-05-08T11:30:00+00:00`
+- Day/swing records: `656`
+- Day/swing latest: `2026-05-08T11:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `24`, risk hits `4`, risk headline rate `0.125`, policy hits `2`
 - macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] It’s not just Big Oil. Wind giants welcome profit beats as Iran war spurs energy pivot (Energy)
 - [macro] Russia and Ukraine accuse each other of breaching Victory Day ceasefire (BBC News)
 - [macro] Three dead after volcano erupts on Indonesian island (BBC News)
 - [macro] South Africa president faces call to resign after court ruling (BBC News)
@@ -34,5 +35,4 @@
 - [macro] South East Water boss quits after supply failures (BBC News)
 - [macro] White House calls Mark Hamill 'sick' after actor's Trump grave post (BBC News)
 - [crypto] Bitcoin eyes $80K reclaim as traders say these BTC price support levels must hold (Cointelegraph.com News)
-- [macro] US jet fuel could be used in Europe to ease possible shortages (BBC News)
 - [macro] US jet fuel could be used in Europe to ease possible shortages (BBC News)
