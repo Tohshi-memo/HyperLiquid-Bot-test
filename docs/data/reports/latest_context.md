@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-08T13:52:21.505209+00:00`
+- Generated: `2026-05-08T14:07:12.696497+00:00`
 - Market context score: `58.2`
 - News risk score: `39.52`
 - Macro risk score: `33.85`
@@ -9,13 +9,13 @@
 - Polymarket markets: `402`
 
 - Asset universe count: `734`
-- Asset price history records: `651`
+- Asset price history records: `652`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:375`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `664`
-- Day/swing latest: `2026-05-08T13:45:00+00:00`
+- Day/swing records: `665`
+- Day/swing latest: `2026-05-08T14:00:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 ## Headlines
 
 - [macro] U.S. payrolls increased 115,000 in April, more than expected; unemployment at 4.3% (Economy)
+- [macro] US jobs data beats expectations for second month in a row (BBC News)
 - [macro] South Africa president faces call to resign after court ruling (BBC News)
-- [macro] US economy adds 115,000 jobs in April despite Iran war (BBC News)
 - [commodity] ‘Not a Chance Hormuz Opens’: How Wall Street’s new NACHO trade bets on a prolonged oil shock (Energy)
 - [crypto] CoinDesk 20 performance update: NEAR Protocol (NEAR) gains 6.3%, leading index higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Stablecoins have their 'permission slip.' Now comes the hard part. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)

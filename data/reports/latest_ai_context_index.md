@@ -2,26 +2,26 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-08T13:52:21.505209+00:00`
-- Asset price active records: `651`
-- Day/swing records: `664`
+- Updated: `2026-05-08T14:07:12.696497+00:00`
+- Asset price active records: `652`
+- Day/swing records: `665`
 - Macro indicators: `11`
-- Flow-alert history records: `2146`
+- Flow-alert history records: `2149`
 - Correlation status: `ready`
 - Asset price archives: `none yet`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (1886 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (57469 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2375 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (864 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_context_index.json` (57486 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2370 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (862 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (1600 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (45782 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5705 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2312 bytes): Individual asset screen.
+- `data/processed/ai_analysis_pack.json` (45773 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5708 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2311 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (4143 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3568 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3560 bytes): Mechanical relationship candidates.
 
 ## Asset Classes
 
