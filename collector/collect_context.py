@@ -18,6 +18,7 @@ from collector.asset_features import update_asset_features
 from collector.ai_index import update_ai_index
 from collector.day_swing import update_day_swing_dataset
 from collector.hip4_outcome import update_hip4_outcome_snapshot
+from collector.macro_indicators import update_macro_indicators
 from collector.relationship_scan import update_relationship_scan
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -116,6 +117,7 @@ def run_context(now: datetime) -> None:
     gdelt = collect_gdelt()
     polymarket = collect_polymarket()
     context = build_context(now, lookback_hours, articles, gdelt, polymarket)
+    context["macro_indicators"] = collect_macro_indicators_summary(now)
     context["asset_universe"] = collect_asset_universe_summary(now)
     context["hip4_outcome"] = collect_hip4_outcome_summary(now)
     context["day_swing"] = collect_day_swing_summary(now, context)
@@ -171,6 +173,14 @@ def collect_asset_features_summary(now: datetime) -> dict[str, Any]:
         return update_asset_features(now)
     except Exception as e:
         logging.warning("Asset feature update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
+
+
+def collect_macro_indicators_summary(now: datetime) -> dict[str, Any]:
+    try:
+        return update_macro_indicators(now)
+    except Exception as e:
+        logging.warning("Macro indicator update failed: %s", e)
         return {"enabled": True, "error": str(e)}
 
 
@@ -571,16 +581,12 @@ def summarize_polymarket(markets: list[dict[str, Any]]) -> dict[str, Any]:
     clean = [m for m in markets if "error" not in m]
     rows = []
     for market in clean[:30]:
-        rows.append({
-            "question": market.get("question") or market.get("title"),
-            "slug": market.get("slug"),
-            "query": market.get("query"),
-            "impact_category": market.get("impact_category"),
-            "volume": to_float(market.get("volume")),
-            "liquidity": to_float(market.get("liquidity")),
-            "end_date": market.get("endDate") or market.get("end_date_iso"),
-        })
-    return {"market_count": len(clean), "top_markets": rows}
+        rows.append(polymarket_summary_row(market))
+    return {
+        "market_count": len(clean),
+        "top_markets": rows,
+        "health_markets": [row for row in rows if row.get("impact_category") in {"health", "pandemic"}][:10],
+    }
 
 
 def summarize_news_categories(articles: list[Article]) -> dict[str, Any]:
@@ -646,16 +652,10 @@ def summarize_polymarket_flow(markets: list[dict[str, Any]]) -> dict[str, Any]:
     for market in clean:
         volume_24h = to_float(market.get("volume24hr") or market.get("volume24hrClob"))
         lifetime_volume = to_float(market.get("volume") or market.get("volumeNum"))
-        rows.append({
-            "question": market.get("question") or market.get("title"),
-            "slug": market.get("slug"),
-            "query": market.get("query"),
-            "impact_category": market.get("impact_category"),
-            "volume_24h": volume_24h,
-            "volume": lifetime_volume,
-            "liquidity": to_float(market.get("liquidity") or market.get("liquidityNum")),
-            "end_date": market.get("endDate") or market.get("end_date_iso"),
-        })
+        row = polymarket_summary_row(market)
+        row["volume_24h"] = volume_24h
+        row["volume"] = lifetime_volume
+        rows.append(row)
 
     rows.sort(key=lambda item: (item["volume_24h"], item["volume"], item["liquidity"]), reverse=True)
     return {
@@ -664,7 +664,65 @@ def summarize_polymarket_flow(markets: list[dict[str, Any]]) -> dict[str, Any]:
         "lifetime_volume": round(sum(item["volume"] for item in rows), 2),
         "liquidity": round(sum(item["liquidity"] for item in rows), 2),
         "top_markets": rows[:10],
+        "health_markets": [row for row in rows if row.get("impact_category") in {"health", "pandemic"}][:10],
     }
+
+
+def polymarket_summary_row(market: dict[str, Any]) -> dict[str, Any]:
+    outcomes = parse_polymarket_outcomes(market)
+    yes_probability = find_outcome_probability(outcomes, "yes")
+    no_probability = find_outcome_probability(outcomes, "no")
+    return {
+        "question": market.get("question") or market.get("title"),
+        "slug": market.get("slug"),
+        "query": market.get("query"),
+        "impact_category": market.get("impact_category"),
+        "volume_24h": to_float(market.get("volume24hr") or market.get("volume24hrClob")),
+        "volume": to_float(market.get("volume") or market.get("volumeNum")),
+        "liquidity": to_float(market.get("liquidity") or market.get("liquidityNum")),
+        "end_date": market.get("endDate") or market.get("end_date_iso"),
+        "outcomes": outcomes[:6],
+        "yes_probability": yes_probability,
+        "no_probability": no_probability,
+    }
+
+
+def parse_polymarket_outcomes(market: dict[str, Any]) -> list[dict[str, Any]]:
+    labels = parse_polymarket_list(market.get("outcomes") or market.get("shortOutcomes"))
+    prices = parse_polymarket_list(market.get("outcomePrices") or market.get("outcome_prices"))
+    token_ids = parse_polymarket_list(market.get("clobTokenIds") or market.get("clob_token_ids"))
+    count = max(len(labels), len(prices), len(token_ids))
+    outcomes = []
+    for index in range(count):
+        label = str(labels[index]) if index < len(labels) and labels[index] is not None else f"Outcome {index + 1}"
+        outcomes.append(
+            {
+                "name": label,
+                "probability": to_float_or_none(prices[index]) if index < len(prices) else None,
+                "token_id": str(token_ids[index]) if index < len(token_ids) and token_ids[index] is not None else None,
+            }
+        )
+    return outcomes
+
+
+def parse_polymarket_list(value: Any) -> list[Any]:
+    if isinstance(value, list):
+        return value
+    if isinstance(value, str) and value.strip():
+        try:
+            parsed = json.loads(value)
+            return parsed if isinstance(parsed, list) else []
+        except Exception:
+            return [part.strip() for part in value.split(",") if part.strip()]
+    return []
+
+
+def find_outcome_probability(outcomes: list[dict[str, Any]], label: str) -> float | None:
+    for outcome in outcomes:
+        name = str(outcome.get("name", "")).strip().lower()
+        if name == label:
+            return to_float_or_none(outcome.get("probability"))
+    return None
 
 
 def is_crypto_market(market: dict[str, Any]) -> bool:
@@ -691,6 +749,11 @@ def classify_polymarket_market(market: dict[str, Any], watch_terms: list[str]) -
         "macro": {
             "federal reserve", "fed", "interest", "rates", "inflation", "cpi",
             "recession", "unemployment", "gdp", "ecb", "treasury",
+        },
+        "health": {
+            "pandemic", "covid", "covid-19", "coronavirus", "virus", "disease",
+            "outbreak", "bird flu", "avian flu", "h5n1", "h5n5", "who",
+            "public health", "vaccine", "mpox", "ebola",
         },
         "commodity": {"oil", "gold", "gas", "wheat", "corn", "copper"},
         "equity": {"stock", "stocks", "nasdaq", "s&p", "sp500", "dow", "earnings"},
@@ -840,6 +903,13 @@ def render_report(context: dict[str, Any]) -> str:
             f"- Asset classes: `{class_summary}`\n"
             f"- HIP-3 dexes: `{hip3_summary}`\n\n"
         )
+    macro_indicators = context.get("macro_indicators", {})
+    macro_lines = ""
+    if isinstance(macro_indicators, dict) and macro_indicators.get("enabled"):
+        macro_lines = (
+            f"- Macro indicators: `{macro_indicators.get('indicator_count')}`\n"
+            f"- Macro indicators file: `{macro_indicators.get('latest_file')}`\n\n"
+        )
     return (
         "# Latest Crypto Context\n\n"
         f"- Generated: `{context['generated_at']}`\n"
@@ -849,6 +919,7 @@ def render_report(context: dict[str, Any]) -> str:
         f"- Risk-on score: `{context['scores']['risk_on_score']}`\n"
         f"- Articles: `{context['news']['article_count']}`\n"
         f"- Polymarket markets: `{context['polymarket']['market_count']}`\n\n"
+        f"{macro_lines}"
         f"{asset_universe_lines}"
         f"{day_swing_lines}"
         "## News Categories\n\n"
@@ -975,6 +1046,13 @@ def to_float(value: Any) -> float:
         return float(value) if value is not None else 0.0
     except (TypeError, ValueError):
         return 0.0
+
+
+def to_float_or_none(value: Any) -> float | None:
+    try:
+        return float(value) if value not in {None, ""} else None
+    except (TypeError, ValueError):
+        return None
 
 
 if __name__ == "__main__":

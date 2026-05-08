@@ -27,7 +27,9 @@ jobs:
       CONTEXT_LOOKBACK_HOURS: '12'
       GDELT_QUERIES: 'bitcoin OR ethereum OR crypto OR stablecoin,federal reserve OR inflation OR treasury yields OR oil OR gold OR stocks'
       MACRO_INDICATORS_ENABLED: 'false'
-      POLYMARKET_QUERIES: 'crypto,bitcoin,ethereum,hyperliquid,oil,gold,federal reserve,interest rates,stock market,war,military,conflict,israel,iran,ukraine,russia,china,taiwan,election,tariffs'
+      MACRO_INDICATORS_HISTORY_MAX_RECORDS: '8640'
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      POLYMARKET_QUERIES: 'crypto,bitcoin,ethereum,hyperliquid,oil,gold,federal reserve,interest rates,stock market,war,military,conflict,israel,iran,ukraine,russia,china,taiwan,election,tariffs,pandemic,covid,covid-19,virus,disease,outbreak,bird flu,h5n1,who,public health'
       POLYMARKET_FILTER_MODE: 'watch'
       POLYMARKET_MARKET_LIMIT: '80'
       POLYMARKET_DISCOVERY_LIMIT: '500'

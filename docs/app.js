@@ -4,6 +4,7 @@ const DATA = {
   pack: "./data/processed/ai_analysis_pack.json",
   context: "./data/processed/market_context.json",
   flow: "./data/processed/flow_alert.json",
+  macro: "./data/processed/macro_indicators_latest.json",
   assetFeatures: "./data/processed/asset_features_latest.json",
   assetReport: "./data/reports/latest_asset_universe.md",
   hip4: "./data/processed/hip4_outcome_latest.json",
@@ -244,12 +245,13 @@ function escapeHtml(value) {
 
 async function renderDashboard() {
   try {
-    const [index, canary, pack, context, flow, assetFeatures, assetReport, relationship] = await Promise.all([
+    const [index, canary, pack, context, flow, macro, assetFeatures, assetReport, relationship] = await Promise.all([
       loadJson(DATA.index),
       loadJson(DATA.canary),
       loadJson(DATA.pack),
       loadJson(DATA.context),
       loadJson(DATA.flow),
+      loadJson(DATA.macro).catch(() => null),
       loadJson(DATA.assetFeatures).catch(() => null),
       loadText(DATA.assetReport),
       loadJson(DATA.relationship).catch(() => null),
@@ -259,6 +261,7 @@ async function renderDashboard() {
     renderCanary(canary);
     renderIntelligence(context, flow);
     renderNewsCategories(context);
+    renderMacroIndicators(macro);
     renderGdelt(context);
     renderFlowDetail(flow);
     renderRelationshipScan(relationship);
@@ -336,6 +339,7 @@ setInterval(renderDashboard, 5 * 60 * 1000);
 
 function renderIntelligence(context, flow) {
   renderPolymarket(context, flow);
+  renderHealthPolymarket(context, flow);
   renderHeadlines(context);
 }
 
@@ -348,9 +352,11 @@ function renderPolymarket(context, flow) {
   node.innerHTML = markets.slice(0, 6).map((market) => {
     const volume24h = market.volume_24h !== undefined ? market.volume_24h : market.volume;
     const endDate = market.end_date || market.endDate;
+    const odds = renderOutcomeOdds(market);
     return `
       <article class="item-card">
         <strong>${escapeHtml(market.question || market.title || "Untitled market")}</strong>
+        ${odds}
         <div class="meta-line">
           <span>24h vol ${fmtNumber(volume24h, 0)}</span>
           <span>liquidity ${fmtNumber(market.liquidity, 0)}</span>
@@ -362,6 +368,73 @@ function renderPolymarket(context, flow) {
       </article>
     `;
   }).join("") || emptyCard("No active Polymarket markets.");
+}
+
+function renderHealthPolymarket(context, flow) {
+  const node = document.getElementById("healthPolymarketList");
+  if (!node) return;
+  const contextMarkets = Array.isArray(context?.polymarket?.health_markets) ? context.polymarket.health_markets : [];
+  const flowMarkets = Array.isArray(flow?.polymarket?.health_markets) ? flow.polymarket.health_markets : [];
+  const fallbackMarkets = mergeMarkets(
+    Array.isArray(context?.polymarket?.top_markets) ? context.polymarket.top_markets : [],
+    Array.isArray(flow?.polymarket?.top_markets) ? flow.polymarket.top_markets : [],
+  ).filter(isHealthMarket);
+  const markets = mergeMarkets([...contextMarkets, ...flowMarkets], fallbackMarkets);
+  node.innerHTML = markets.slice(0, 8).map((market) => {
+    const volume24h = market.volume_24h !== undefined ? market.volume_24h : market.volume;
+    const endDate = market.end_date || market.endDate;
+    return `
+      <article class="item-card">
+        <strong>${escapeHtml(market.question || market.title || "Untitled market")}</strong>
+        ${renderOutcomeOdds(market)}
+        <div class="meta-line">
+          <span>24h vol ${fmtNumber(volume24h, 0)}</span>
+          <span>liquidity ${fmtNumber(market.liquidity, 0)}</span>
+        </div>
+        <div class="meta-line">
+          <span>end ${formatDate(endDate)}</span>
+          <span>${escapeHtml(market.impact_category || market.query || market.slug || "")}</span>
+        </div>
+      </article>
+    `;
+  }).join("") || emptyCard("No pandemic or public-health Polymarket markets collected yet.");
+}
+
+function renderOutcomeOdds(market) {
+  const yes = market.yes_probability;
+  const no = market.no_probability;
+  if (yes !== null && yes !== undefined || no !== null && no !== undefined) {
+    return `
+      <div class="meta-line">
+        <span>Yes ${formatProbability(yes)}</span>
+        <span>No ${formatProbability(no)}</span>
+      </div>
+    `;
+  }
+  const outcomes = Array.isArray(market.outcomes) ? market.outcomes : [];
+  const priced = outcomes.filter((outcome) => outcome?.probability !== null && outcome?.probability !== undefined);
+  if (!priced.length) return "";
+  return `
+    <div class="meta-line">
+      ${priced.slice(0, 3).map((outcome) => `<span>${escapeHtml(outcome.name || "Outcome")} ${formatProbability(outcome.probability)}</span>`).join("")}
+    </div>
+  `;
+}
+
+function formatProbability(value) {
+  if (value === null || value === undefined || Number.isNaN(Number(value))) return "--";
+  return `${(Number(value) * 100).toFixed(1)}%`;
+}
+
+function isHealthMarket(market) {
+  const category = String(market?.impact_category || market?.query || "").toLowerCase();
+  if (category === "health" || category === "pandemic") return true;
+  const text = [
+    market?.question,
+    market?.title,
+    market?.slug,
+  ].join(" ").toLowerCase();
+  return /\b(pandemic|covid|covid-19|coronavirus|virus|disease|outbreak|bird flu|avian flu|h5n1|h5n5|public health|vaccine|mpox|ebola)\b/.test(text);
 }
 
 function mergeMarkets(primary, secondary) {
@@ -408,6 +481,36 @@ function renderNewsCategories(context) {
       <small>${fmtNumber(summary?.risk_keyword_hits, 0)} risk words / ${fmtRate(summary?.risk_headline_rate)} risk headlines</small>
     </div>
   `).join("") || emptyCard("No category summary.");
+}
+
+function renderMacroIndicators(macro) {
+  const node = document.getElementById("macroIndicatorList");
+  if (!node) return;
+  const rows = Array.isArray(macro?.indicators) ? macro.indicators : [];
+  const priority = [
+    "us_10y_yield",
+    "us_2y_yield",
+    "us_10y_2y_spread",
+    "fed_funds_effective",
+    "us_unemployment_rate",
+    "us_nonfarm_payrolls",
+    "us_cpi_u",
+    "us_core_cpi_u",
+    "vix",
+    "dollar_index_broad",
+  ];
+  const byKey = new Map(rows.map((row) => [row.key, row]));
+  const selected = [
+    ...priority.map((key) => byKey.get(key)).filter(Boolean),
+    ...rows.filter((row) => !priority.includes(row.key)).slice(0, 8),
+  ].slice(0, 10);
+  node.innerHTML = selected.map((row) => `
+    <div class="detail-row">
+      <span>${escapeHtml(row.name || row.key)}</span>
+      <strong>${fmtNumber(row.value, 4)} ${escapeHtml(row.unit || "")}</strong>
+      <small>${escapeHtml([row.source, row.observed_at, row.category].filter(Boolean).join(" / "))}</small>
+    </div>
+  `).join("") || emptyCard("Macro indicators will appear after the next context run.");
 }
 
 function renderGdelt(context) {
@@ -631,12 +734,13 @@ function renderHip4(hip4) {
 
   const byOutcome = new Map();
   for (const row of rows) {
-    const id = row.outcome_id ?? row.outcome_name ?? "unknown";
+    const id = hip4MarketKey(row);
     if (!byOutcome.has(id)) byOutcome.set(id, []);
     byOutcome.get(id).push(row);
   }
 
-  setBadge("hip4Badge", `${byOutcome.size} market${byOutcome.size !== 1 ? "s" : ""}`, "good");
+  const badgeCount = hip4?.outcome_count || byOutcome.size;
+  setBadge("hip4Badge", `${badgeCount} market${Number(badgeCount) !== 1 ? "s" : ""}`, "good");
 
   const cards = [...byOutcome.values()].map((sides) => {
     const first = sides[0];
@@ -648,17 +752,24 @@ function renderHip4(hip4) {
       const probClass = side.implied_probability != null
         ? (Number(side.implied_probability) >= 0.5 ? "positive" : "negative")
         : "";
-      return `<span>${escapeHtml(side.side_name)}: <strong class="${probClass}">${prob}</strong></span>`;
+      const symbol = side.symbol ? ` ${escapeHtml(side.symbol)}` : "";
+      return `<span>${escapeHtml(side.side_name)}${symbol}: <strong class="${probClass}">${prob}</strong></span>`;
     }).join(" &nbsp;|&nbsp; ");
     const vol = fmtNumber(first.volume_24h, 0);
     const oi = fmtNumber(first.open_interest, 0);
     const status = first.status ? escapeHtml(first.status) : "active";
     const symbols = sides.map((side) => side.symbol).filter(Boolean).join(" / ");
     const source = sides.map((side) => side.price_source).filter(Boolean)[0] || "metadata";
+    const target = first.target_price != null ? `$${fmtNumber(first.target_price, 0)}` : "n/a";
+    const expiry = formatExpiry(first.expiry);
     return `
       <article class="item-card">
         <strong>${question}</strong>
         <div class="meta-line">${sideHtml}</div>
+        <div class="meta-line">
+          <span>expiry ${escapeHtml(expiry)}</span>
+          <span>target ${escapeHtml(target)}</span>
+        </div>
         <div class="meta-line">
           <span>vol 24h ${vol}</span>
           <span>OI ${oi}</span>
@@ -680,4 +791,14 @@ function renderHip4(hip4) {
     : "";
 
   node.innerHTML = cards.join("") + errorHtml + warningHtml;
+}
+
+function hip4MarketKey(row) {
+  return [
+    row.outcome_id ?? row.outcome_name ?? "unknown",
+    row.underlying ?? "unknown",
+    row.expiry ?? "no-expiry",
+    row.target_price ?? "no-target",
+    row.outcome_class ?? "unknown",
+  ].join(":");
 }

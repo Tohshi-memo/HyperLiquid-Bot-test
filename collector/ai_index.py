@@ -26,6 +26,9 @@ AI_ANALYSIS_PACK_FILE = PROCESSED_DIR / "ai_analysis_pack.json"
 MARKET_CONTEXT_HISTORY_FILE = PROCESSED_DIR / "market_context_history.json"
 FLOW_ALERT_FILE = PROCESSED_DIR / "flow_alert.json"
 FLOW_ALERT_HISTORY_FILE = PROCESSED_DIR / "flow_alert_history.json"
+MACRO_INDICATORS_FILE = PROCESSED_DIR / "macro_indicators_latest.json"
+MACRO_INDICATORS_HISTORY_FILE = PROCESSED_DIR / "macro_indicators_history.json"
+MACRO_INDICATORS_REPORT_FILE = REPORT_DIR / "latest_macro_indicators.md"
 HIP4_OUTCOME_FILE = PROCESSED_DIR / "hip4_outcome_latest.json"
 HIP4_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "hip4_outcome_history.json"
 HIP4_OUTCOME_REPORT_FILE = REPORT_DIR / "latest_hip4_outcome.md"
@@ -55,6 +58,8 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
     ai_pack = load_json(AI_ANALYSIS_PACK_FILE, {})
     market_history = load_json(MARKET_CONTEXT_HISTORY_FILE, [])
     flow_history = load_json(FLOW_ALERT_HISTORY_FILE, [])
+    macro_indicators = load_json(MACRO_INDICATORS_FILE, {})
+    macro_history = load_json(MACRO_INDICATORS_HISTORY_FILE, [])
     flow_alert = load_json(FLOW_ALERT_FILE, {})
     hip4_outcome = load_json(HIP4_OUTCOME_FILE, {})
     hip4_outcome_history = load_json(HIP4_OUTCOME_HISTORY_FILE, [])
@@ -83,6 +88,8 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         ai_pack=ai_pack,
         market_history=market_history,
         flow_history=flow_history,
+        macro_indicators=macro_indicators,
+        macro_history=macro_history,
         canary=canary,
         hip4_outcome=hip4_outcome,
         hip4_outcome_history=hip4_outcome_history,
@@ -114,6 +121,8 @@ def build_ai_index(
     ai_pack: dict[str, Any],
     market_history: list[Any],
     flow_history: list[Any],
+    macro_indicators: dict[str, Any],
+    macro_history: list[Any],
     canary: dict[str, Any],
     hip4_outcome: dict[str, Any] | None = None,
     hip4_outcome_history: list[Any] | None = None,
@@ -122,6 +131,8 @@ def build_ai_index(
     hip4_outcome = hip4_outcome if isinstance(hip4_outcome, dict) else {}
     hip4_outcome_history = hip4_outcome_history if isinstance(hip4_outcome_history, list) else []
     relationship_scan = relationship_scan if isinstance(relationship_scan, dict) else {}
+    macro_indicators = macro_indicators if isinstance(macro_indicators, dict) else {}
+    macro_history = macro_history if isinstance(macro_history, list) else []
     records = price_history.get("records", []) if isinstance(price_history, dict) else []
     if not isinstance(records, list):
         records = []
@@ -153,6 +164,7 @@ def build_ai_index(
             "data/reports/latest_canary_signals.md",
             "data/processed/canary_signals.json",
             "data/reports/latest_ai_analysis_brief.md",
+            "data/reports/latest_macro_indicators.md",
             "data/processed/ai_analysis_pack.json",
             "data/reports/latest_asset_universe.md",
             "data/reports/latest_relationship_scan.md",
@@ -164,6 +176,8 @@ def build_ai_index(
         "dataset_health": {
             "market_context_history_records": len(market_history) if isinstance(market_history, list) else 0,
             "flow_alert_history_records": len(flow_history) if isinstance(flow_history, list) else 0,
+            "macro_indicator_count": macro_indicators.get("indicator_count"),
+            "macro_indicator_history_records": len(macro_history),
             "asset_price_active_records": len(records),
             "asset_price_active_window": {
                 "first_observed_at": records[0].get("observed_at") if records and isinstance(records[0], dict) else None,
@@ -197,6 +211,12 @@ def build_ai_index(
                 "sentiment_score": context.get("news", {}).get("sentiment_score"),
             },
             "polymarket_market_count": context.get("polymarket", {}).get("market_count"),
+            "macro_indicators": {
+                "generated_at": macro_indicators.get("generated_at"),
+                "indicator_count": macro_indicators.get("indicator_count"),
+                "summary": macro_indicators.get("summary", {}),
+                "providers": macro_indicators.get("providers", []),
+            },
             "flow_alert": {
                 "generated_at": flow_alert.get("generated_at"),
                 "scores": flow_alert.get("scores", {}),
@@ -246,6 +266,10 @@ def build_ai_index(
                 "Checking individual equity, commodity, metal, index, FX, or crypto candidates "
                 "without loading full all-symbol history."
             ),
+            "read_macro_indicators_when": (
+                "Checking rates, employment, inflation, dollar, VIX, or macro-release context "
+                "before validating price behavior."
+            ),
             "read_full_price_history_when": (
                 "Testing cross-asset lead/lag, Polymarket/news/flow correlation, or a "
                 "specific class-level signal."
@@ -273,6 +297,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/ai_context_index.json", AI_INDEX_FILE, "Machine-readable map."),
             file_entry("data/reports/latest_canary_signals.md", CANARY_REPORT_FILE, "Current canary signals."),
             file_entry("data/reports/latest_ai_analysis_brief.md", REPORT_DIR / "latest_ai_analysis_brief.md", "BTC/ETH/HYPE/SOL compact stats."),
+            file_entry("data/reports/latest_macro_indicators.md", MACRO_INDICATORS_REPORT_FILE, "Macro rates, employment, inflation, dollar, and risk overview."),
             file_entry("data/processed/ai_analysis_pack.json", AI_ANALYSIS_PACK_FILE, "Compact strategy stats."),
             file_entry("data/reports/latest_asset_universe.md", REPORT_DIR / "latest_asset_universe.md", "Asset-class overview."),
             file_entry("data/reports/latest_asset_features.md", ASSET_FEATURES_REPORT_FILE, "Individual asset screen."),
@@ -286,6 +311,8 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/day_swing_dataset.json", DAY_SWING_FILE, "Full BTC/ETH/HYPE/SOL feature and label rows."),
             file_entry("data/processed/market_context_history.json", MARKET_CONTEXT_HISTORY_FILE, "News/context history."),
             file_entry("data/processed/flow_alert_history.json", FLOW_ALERT_HISTORY_FILE, "Polymarket/flow history."),
+            file_entry("data/processed/macro_indicators_latest.json", MACRO_INDICATORS_FILE, "Latest macro indicators from BLS, Treasury, and optional FRED."),
+            file_entry("data/processed/macro_indicators_history.json", MACRO_INDICATORS_HISTORY_FILE, "Macro indicator history for lead/lag checks."),
             file_entry("data/processed/hip4_outcome_latest.json", HIP4_OUTCOME_FILE, "Latest HIP-4 outcome rows with implied probabilities."),
             file_entry("data/processed/hip4_outcome_history.json", HIP4_OUTCOME_HISTORY_FILE, "HIP-4 outcome history with per-bucket implied probabilities."),
             file_entry("data/processed/relationship_scan_latest.json", RELATIONSHIP_SCAN_FILE, "Mechanical A/B -> future-return candidate patterns."),
@@ -606,6 +633,7 @@ def render_index_report(index: dict[str, Any]) -> str:
         f"- Updated: `{index.get('updated_at')}`\n"
         f"- Asset price active records: `{health.get('asset_price_active_records')}`\n"
         f"- Day/swing records: `{health.get('day_swing_records')}`\n"
+        f"- Macro indicators: `{health.get('macro_indicator_count')}`\n"
         f"- Flow-alert history records: `{health.get('flow_alert_history_records')}`\n"
         f"- Correlation status: `{canary.get('status')}`\n"
         f"- Asset price archives: {archive_line}\n\n"

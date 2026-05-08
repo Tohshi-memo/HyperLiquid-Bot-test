@@ -29,7 +29,7 @@
               デイからスイングの判断材料を軽く確認するための画面です。
             </p>
             <ul>
-              <li>トップページは市場全体、ニュース、Polymarket、資金フロー、機械的な相関候補を要約します。</li>
+              <li>トップページは市場全体、マクロ指標、ニュース、Polymarket、資金フロー、機械的な相関候補を要約します。</li>
               <li>個別銘柄は Asset Screener で確認します。株式トークン、コモディティ、暗号資産をクラス別に絞れます。</li>
               <li>Canary Signals と Relationship Scan は早期警戒と仮説候補です。単独では売買判断に使いません。</li>
               <li>戦略、ポジション、注文、ウォレット情報はこの公開サイトには表示しません。</li>
@@ -42,7 +42,7 @@
               it is a lightweight context view for day-to-swing research.
             </p>
             <ul>
-              <li>The front page summarizes market context, news, Polymarket, flows, and mechanical relationship candidates.</li>
+              <li>The front page summarizes market context, macro indicators, news, Polymarket, flows, and mechanical relationship candidates.</li>
               <li>Use Asset Screener for individual assets, including equities, commodities, and crypto classes.</li>
               <li>Canary Signals and Relationship Scan are early-warning inputs and hypothesis candidates, not standalone entries.</li>
               <li>Private strategy, positions, orders, and wallet data are not shown here.</li>
@@ -183,12 +183,25 @@
         </details>
       </section>
 
+      <section class="panel panel--wide" aria-labelledby="macroIndicatorTitle">
+        <div class="section-head">
+          <h2 id="macroIndicatorTitle">Macro Indicators</h2>
+          <a class="text-link" href="./data/reports/latest_macro_indicators.md">Open Report</a>
+        </div>
+        <div id="macroIndicatorList" class="detail-list"></div>
+      </section>
+
       <section class="panel panel--wide" aria-labelledby="hip4Title">
         <div class="section-head">
           <h2 id="hip4Title">HIP-4 Prediction Markets</h2>
           <span id="hip4Badge" class="badge badge--neutral">--</span>
         </div>
         <div id="hip4List" class="item-list"></div>
+      </section>
+
+      <section class="panel panel--wide" aria-labelledby="healthPolymarketTitle">
+        <div class="section-head"><h2 id="healthPolymarketTitle">Pandemic / Health Markets</h2></div>
+        <div id="healthPolymarketList" class="item-list"></div>
       </section>
 
       <section class="panel panel--wide" aria-labelledby="relationshipTitle">
@@ -287,6 +300,7 @@
           <a href="./data/reports/latest_ai_context_index.md">AI Index</a>
           <a href="./data/reports/latest_canary_signals.md">Canary</a>
           <a href="./data/reports/latest_ai_analysis_brief.md">Analysis Brief</a>
+          <a href="./data/reports/latest_macro_indicators.md">Macro Indicators</a>
           <a href="./assets.html">Asset Screener</a>
           <a href="./data/reports/latest_asset_features.md">Asset Features</a>
           <a href="./data/reports/latest_asset_universe.md">Asset Universe</a>

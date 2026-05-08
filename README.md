@@ -134,9 +134,9 @@ Polymarket and HIP-3 perp data. Raw payloads are preserved under
 The `docs/` directory contains a static, AI-free report dashboard for GitHub
 Pages. It reads copied compact JSON/Markdown from `docs/data/` and displays
 market status, canary signals, data readiness, BTC/ETH/HYPE/SOL stats,
-asset-class movement, top movers, top Polymarket markets, latest headlines,
-GDELT activity, flow details, relationship candidates, HIP-4 markets, macro
-indicators, and an Asset Screener page for individual stock, commodity, metal,
+asset-class movement, macro indicators, top movers, top Polymarket markets,
+latest headlines, GDELT activity, flow details, relationship candidates, HIP-4
+markets, and an Asset Screener page for individual stock, commodity, metal,
 index, FX, and crypto assets.
 
 Headlines are saved with a `category` field (`crypto`, `macro`, `policy`,
@@ -153,24 +153,20 @@ wallet data, positions, or execution status.
 pip install -r requirements.txt
 python -m collector.collect_context
 COLLECTOR_PROFILE=flow_alert python -m collector.collect_context
-python -m collector.macro_indicators
 python tools/build_report_site_data.py
 ```
 
 ## Schedule
 
 GitHub Actions runs the normal context collector every 15 minutes and the
-lightweight flow-alert collector every 5 minutes. Macro indicators are separated
-into `Public Macro Indicators Collector` and are intended for low-frequency
-external cron dispatch, such as once or twice per day. Public repository Actions
-on standard GitHub-hosted runners do not consume the private repository's
-monthly Actions minutes.
+lightweight flow-alert collector every 5 minutes. Public repository Actions on
+standard GitHub-hosted runners do not consume the private repository's monthly
+Actions minutes.
 
 Default retention is tuned for strategy research: normal context history keeps
-up to 8,640 rows, flow-alert history keeps up to 8,640 rows, macro-indicator
-history keeps up to 8,640 rows, the active all-symbol price window keeps 672
-15-minute buckets, older all-symbol rows are archived, and the day/swing dataset
-keeps up to 12,000 15-minute buckets.
+up to 8,640 rows, flow-alert history keeps up to 8,640 rows, the active
+all-symbol price window keeps 672 15-minute buckets, older all-symbol rows are
+archived, and the day/swing dataset keeps up to 12,000 15-minute buckets.
 
 The 5-minute flow alert writes aggregate data only. It can read the latest Dune
 query result when `DUNE_API_KEY` and `DUNE_LARGE_FLOW_QUERY_ID` are configured,
