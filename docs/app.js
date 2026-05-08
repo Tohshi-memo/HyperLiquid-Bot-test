@@ -3,6 +3,7 @@ const DATA = {
   canary: "./data/processed/canary_signals.json",
   pack: "./data/processed/ai_analysis_pack.json",
   context: "./data/processed/market_context.json",
+  polymarketOutcomeHistory: "./data/processed/polymarket_outcome_history.json",
   flow: "./data/processed/flow_alert.json",
   macro: "./data/processed/macro_indicators_latest.json",
   assetFeatures: "./data/processed/asset_features_latest.json",
@@ -21,6 +22,9 @@ const CLASS_ORDER = [
   "fx",
   "unknown",
 ];
+
+let polymarketPeopleHistory = [];
+let polymarketPeopleControlsReady = false;
 
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-store" });
@@ -260,11 +264,12 @@ function escapeHtml(value) {
 
 async function renderDashboard() {
   try {
-    const [index, canary, pack, context, flow, macro, assetFeatures, assetReport, relationship] = await Promise.all([
+    const [index, canary, pack, context, polymarketOutcomeHistory, flow, macro, assetFeatures, assetReport, relationship] = await Promise.all([
       loadJson(DATA.index),
       loadJson(DATA.canary),
       loadJson(DATA.pack),
       loadJson(DATA.context),
+      loadJson(DATA.polymarketOutcomeHistory).catch(() => []),
       loadJson(DATA.flow),
       loadJson(DATA.macro).catch(() => null),
       loadJson(DATA.assetFeatures).catch(() => null),
@@ -275,6 +280,7 @@ async function renderDashboard() {
     renderMetrics(index, context, flow, pack);
     renderCanary(canary);
     renderIntelligence(context, flow);
+    renderPolymarketPeople(polymarketOutcomeHistory);
     renderNewsCategories(context);
     renderMacroIndicators(macro);
     renderGdelt(context);
@@ -415,6 +421,119 @@ function renderHealthPolymarket(context, flow) {
       </article>
     `;
   }).join("") || emptyCard("No pandemic or public-health Polymarket markets collected yet.");
+}
+
+function renderPolymarketPeople(history) {
+  polymarketPeopleHistory = Array.isArray(history) ? history : [];
+  setupPolymarketPeopleControls(polymarketPeopleHistory);
+  renderPolymarketPeopleList();
+}
+
+function setupPolymarketPeopleControls(rows) {
+  const eventSelect = document.getElementById("polymarketPeopleEvent");
+  const searchInput = document.getElementById("polymarketPeopleSearch");
+  const sortSelect = document.getElementById("polymarketPeopleSort");
+  const events = [...new Set(rows.map((row) => row?.event_slug).filter(Boolean))].sort();
+  if (eventSelect) {
+    const selected = eventSelect.value;
+    eventSelect.innerHTML = `<option value="">All events</option>` + events
+      .map((slug) => `<option value="${escapeHtml(slug)}">${escapeHtml(slug)}</option>`)
+      .join("");
+    eventSelect.value = events.includes(selected) ? selected : "";
+    if (!polymarketPeopleControlsReady) {
+      eventSelect.addEventListener("change", renderPolymarketPeopleList);
+    }
+  }
+  if (!polymarketPeopleControlsReady) {
+    searchInput?.addEventListener("input", renderPolymarketPeopleList);
+    sortSelect?.addEventListener("change", renderPolymarketPeopleList);
+  }
+  polymarketPeopleControlsReady = true;
+}
+
+function renderPolymarketPeopleList() {
+  const node = document.getElementById("polymarketPeopleList");
+  if (!node) return;
+  const query = String(document.getElementById("polymarketPeopleSearch")?.value || "").trim().toLowerCase();
+  const event = String(document.getElementById("polymarketPeopleEvent")?.value || "");
+  const sort = String(document.getElementById("polymarketPeopleSort")?.value || "volume");
+  const latest = latestPolymarketPeopleRows(polymarketPeopleHistory)
+    .filter((row) => !event || row.event_slug === event)
+    .filter((row) => {
+      if (!query) return true;
+      return [
+        row.person_name,
+        row.subject_name,
+        row.outcome_name,
+        row.event_slug,
+        row.question,
+      ].join(" ").toLowerCase().includes(query);
+    });
+  sortPolymarketPeopleRows(latest, sort);
+  setBadge("polymarketPeopleCount", `${fmtNumber(latest.length, 0)} people`, latest.length ? "good" : "neutral");
+  node.innerHTML = latest.slice(0, 30).map((row) => {
+    const name = row.person_name || row.subject_name || row.outcome_name || "Unknown";
+    const href = row.event_slug
+      ? `https://polymarket.com/event/${encodeURIComponent(String(row.event_slug))}`
+      : row.market_slug
+        ? `https://polymarket.com/market/${encodeURIComponent(String(row.market_slug))}`
+        : null;
+    const title = href
+      ? `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(name)}</a>`
+      : escapeHtml(name);
+    return `
+      <article class="item-card">
+        <strong>${title} <span class="badge badge--neutral">${formatProbability(row.probability)}</span></strong>
+        <div class="meta-line">
+          <span>${escapeHtml(row.outcome_name || "Outcome")}</span>
+          <span>${escapeHtml(row.impact_category || "")}</span>
+          <span>${formatDate(row.observed_at)}</span>
+        </div>
+        <div class="meta-line">
+          <span>24h vol ${fmtNumber(row.volume_24h, 0)}</span>
+          <span>liquidity ${fmtNumber(row.liquidity, 0)}</span>
+        </div>
+        <small>${escapeHtml(row.question || "")}</small>
+      </article>
+    `;
+  }).join("") || emptyCard("Person-level Polymarket history will appear after the next context run.");
+  if (latest.length > 30) {
+    node.insertAdjacentHTML("beforeend", emptyCard(`Showing 30 of ${fmtNumber(latest.length, 0)} matching rows. Use search or event filter to narrow it.`));
+  }
+}
+
+function latestPolymarketPeopleRows(rows) {
+  const map = new Map();
+  for (const row of rows) {
+    if (!row || !(row.person_name || row.subject_name || row.outcome_name)) continue;
+    if (String(row.outcome_name || "").trim().toLowerCase() === "no") continue;
+    if (row.probability === null || row.probability === undefined) continue;
+    const key = [
+      row.event_slug || "",
+      row.market_slug || "",
+      row.token_id || row.outcome_name || "",
+    ].join(":");
+    const current = map.get(key);
+    if (!current || String(row.observed_at || "") > String(current.observed_at || "")) {
+      map.set(key, row);
+    }
+  }
+  return [...map.values()];
+}
+
+function sortPolymarketPeopleRows(rows, sort) {
+  rows.sort((a, b) => {
+    if (sort === "name") {
+      return String(a.person_name || a.subject_name || a.outcome_name || "")
+        .localeCompare(String(b.person_name || b.subject_name || b.outcome_name || ""));
+    }
+    if (sort === "probability") {
+      return Number(b.probability || 0) - Number(a.probability || 0);
+    }
+    const volumeDelta = Number(b.volume_24h || 0) - Number(a.volume_24h || 0);
+    if (volumeDelta !== 0) return volumeDelta;
+    return Number(b.probability || 0) - Number(a.probability || 0);
+  });
 }
 
 function renderPolymarketAction(market) {

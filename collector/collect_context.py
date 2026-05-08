@@ -31,6 +31,7 @@ REPORT_FILE = REPORT_DIR / "latest_context.md"
 FLOW_ALERT_FILE = PROCESSED_DIR / "flow_alert.json"
 FLOW_ALERT_HISTORY_FILE = PROCESSED_DIR / "flow_alert_history.json"
 FLOW_ALERT_REPORT_FILE = REPORT_DIR / "latest_flow_alert.md"
+POLYMARKET_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "polymarket_outcome_history.json"
 DEFAULT_RSS_FEEDS = (
     "https://cointelegraph.com/rss,"
     "https://www.coindesk.com/arc/outboundfeeds/rss/"
@@ -51,6 +52,7 @@ DEFAULT_GDELT_QUERIES = (
     "bitcoin OR ethereum OR crypto OR stablecoin,"
     "federal reserve OR inflation OR treasury yields OR oil OR gold OR stocks"
 )
+DEFAULT_POLYMARKET_EVENT_SLUGS = ""
 CRYPTO_MARKET_WORDS = {
     "btc", "bitcoin", "eth", "ethereum", "crypto", "stablecoin", "usdt",
     "usdc", "solana", "sol", "xrp", "doge", "hyperliquid", "binance", "megaeth",
@@ -140,6 +142,7 @@ def run_context(now: datetime) -> None:
 
     CONTEXT_FILE.write_text(json.dumps(context, indent=2, ensure_ascii=False), encoding="utf-8")
     append_history(context)
+    append_polymarket_outcome_history(now, polymarket, profile="context")
     REPORT_FILE.write_text(render_report(context), encoding="utf-8")
     logging.info("Wrote %s", CONTEXT_FILE)
 
@@ -222,6 +225,8 @@ def run_flow_alert(now: datetime) -> None:
 
     FLOW_ALERT_FILE.write_text(json.dumps(alert, indent=2, ensure_ascii=False), encoding="utf-8")
     append_flow_alert_history(alert)
+    if os.getenv("POLYMARKET_OUTCOME_HISTORY_FROM_FLOW", "false").lower() == "true":
+        append_polymarket_outcome_history(now, polymarket, profile="flow_alert")
     FLOW_ALERT_REPORT_FILE.write_text(render_flow_alert_report(alert), encoding="utf-8")
     logging.info("Wrote %s", FLOW_ALERT_FILE)
 
@@ -307,7 +312,10 @@ def collect_polymarket() -> list[dict[str, Any]]:
     discovery_limit = int(os.getenv("POLYMARKET_DISCOVERY_LIMIT", str(limit)))
     filter_mode = os.getenv("POLYMARKET_FILTER_MODE", "watch").strip().lower()
     tag_ids = [item.strip() for item in os.getenv("POLYMARKET_TAG_IDS", "").split(",") if item.strip()]
+    event_slugs = parse_csv_env("POLYMARKET_EVENT_SLUGS", DEFAULT_POLYMARKET_EVENT_SLUGS)
+    keep_event_markets = os.getenv("POLYMARKET_KEEP_EVENT_MARKETS", "true").lower() == "true"
     markets_by_slug: dict[str, dict[str, Any]] = {}
+    event_market_slugs: set[str] = set()
     try:
         market_batches = [fetch_polymarket_markets({"limit": discovery_limit})]
         for tag_id in tag_ids:
@@ -320,11 +328,28 @@ def collect_polymarket() -> list[dict[str, Any]]:
                     }
                 )
             )
+        for event_slug in event_slugs:
+            event_markets = fetch_polymarket_event_markets(event_slug)
+            event_market_slugs.update(
+                str(market.get("slug") or market.get("conditionId") or market.get("id") or "")
+                for market in event_markets
+                if isinstance(market, dict)
+            )
+            market_batches.append(event_markets)
         for markets in market_batches:
             for market in markets:
                 add_polymarket_candidate(markets_by_slug, market, queries, filter_mode)
         rows = list(markets_by_slug.values())
         rows.sort(key=market_rank, reverse=True)
+        if keep_event_markets and event_market_slugs:
+            top = rows[:limit]
+            existing = {str(row.get("slug") or row.get("conditionId") or row.get("id") or "") for row in top}
+            event_tail = [
+                row for row in rows[limit:]
+                if str(row.get("slug") or row.get("conditionId") or row.get("id") or "") in event_market_slugs
+                and str(row.get("slug") or row.get("conditionId") or row.get("id") or "") not in existing
+            ]
+            return top + event_tail
         return rows[:limit]
     except Exception as e:
         logging.warning("Polymarket failed: %s", e)
@@ -349,6 +374,41 @@ def fetch_polymarket_markets(extra_params: dict[str, Any]) -> list[dict[str, Any
     data = response.json()
     markets = data if isinstance(data, list) else data.get("markets", [])
     return [market for market in markets if isinstance(market, dict)]
+
+
+def fetch_polymarket_event_markets(event_slug: str) -> list[dict[str, Any]]:
+    response = requests.get(
+        "https://gamma-api.polymarket.com/events",
+        params={"slug": event_slug},
+        timeout=15,
+    )
+    response.raise_for_status()
+    data = response.json()
+    events = data if isinstance(data, list) else data.get("events", [])
+    if not isinstance(events, list):
+        return []
+
+    rows: list[dict[str, Any]] = []
+    for event in events:
+        if not isinstance(event, dict):
+            continue
+        event_info = {
+            "id": event.get("id"),
+            "slug": event.get("slug") or event_slug,
+            "title": event.get("title"),
+            "ticker": event.get("ticker"),
+        }
+        markets = event.get("markets", [])
+        if not isinstance(markets, list):
+            continue
+        for market in markets:
+            if not isinstance(market, dict):
+                continue
+            enriched = dict(market)
+            enriched.setdefault("events", [event_info])
+            enriched.setdefault("eventSlug", event_info["slug"])
+            rows.append(enriched)
+    return rows
 
 
 def add_polymarket_candidate(
@@ -686,10 +746,10 @@ def polymarket_summary_row(market: dict[str, Any]) -> dict[str, Any]:
         "url": url,
         "query": market.get("query"),
         "impact_category": market.get("impact_category"),
-        "volume_24h": to_float(market.get("volume24hr") or market.get("volume24hrClob")),
+        "volume_24h": to_float(market.get("volume24hr") or market.get("volume24hrClob") or market.get("volume_24h")),
         "volume": to_float(market.get("volume") or market.get("volumeNum")),
         "liquidity": to_float(market.get("liquidity") or market.get("liquidityNum")),
-        "end_date": market.get("endDate") or market.get("end_date_iso"),
+        "end_date": market.get("endDate") or market.get("endDateIso") or market.get("end_date_iso") or market.get("end_date"),
         "outcomes": outcomes[:6],
         "yes_probability": yes_probability,
         "no_probability": no_probability,
@@ -745,6 +805,125 @@ def find_outcome_probability(outcomes: list[dict[str, Any]], label: str) -> floa
         if name == label:
             return to_float_or_none(outcome.get("probability"))
     return None
+
+
+def append_polymarket_outcome_history(
+    now: datetime,
+    markets: list[dict[str, Any]],
+    profile: str,
+) -> None:
+    max_records = int(os.getenv("POLYMARKET_OUTCOME_HISTORY_MAX_RECORDS", "100000"))
+    history = load_json(POLYMARKET_OUTCOME_HISTORY_FILE, default=[])
+    if not isinstance(history, list):
+        history = []
+
+    observed_at = floor_time(now, int(os.getenv("POLYMARKET_OUTCOME_HISTORY_BUCKET_MINUTES", "15"))).isoformat()
+    rows = build_polymarket_outcome_history_rows(observed_at, markets, profile)
+    if not rows:
+        return
+
+    existing_keys = {polymarket_outcome_history_key(row) for row in history}
+    for row in rows:
+        key = polymarket_outcome_history_key(row)
+        if key in existing_keys:
+            continue
+        history.append(row)
+        existing_keys.add(key)
+
+    POLYMARKET_OUTCOME_HISTORY_FILE.write_text(
+        json.dumps(history[-max_records:], indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+
+def build_polymarket_outcome_history_rows(
+    observed_at: str,
+    markets: list[dict[str, Any]],
+    profile: str,
+) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for market in markets:
+        if not isinstance(market, dict) or market.get("error"):
+            continue
+        summary = polymarket_summary_row(market)
+        outcomes = polymarket_outcomes_for_history(market)
+        if not isinstance(outcomes, list):
+            continue
+        subject_name = infer_polymarket_subject_name(summary)
+        for outcome in outcomes:
+            if not isinstance(outcome, dict):
+                continue
+            outcome_name = str(outcome.get("name") or "").strip() or None
+            probability = to_float_or_none(outcome.get("probability"))
+            token_id = str(outcome.get("token_id")) if outcome.get("token_id") else None
+            if probability is None and token_id is None:
+                continue
+            rows.append(
+                {
+                    "observed_at": observed_at,
+                    "profile": profile,
+                    "event_slug": summary.get("event_slug"),
+                    "market_slug": summary.get("slug"),
+                    "question": summary.get("question"),
+                    "impact_category": summary.get("impact_category"),
+                    "subject_name": subject_name,
+                    "person_name": subject_name or non_binary_outcome_name(outcome_name),
+                    "outcome_name": outcome_name,
+                    "probability": probability,
+                    "token_id": token_id,
+                    "volume_24h": summary.get("volume_24h"),
+                    "volume": summary.get("volume"),
+                    "liquidity": summary.get("liquidity"),
+                    "end_date": summary.get("end_date"),
+                }
+            )
+    return rows
+
+
+def polymarket_outcomes_for_history(market: dict[str, Any]) -> list[dict[str, Any]]:
+    outcomes = market.get("outcomes")
+    if isinstance(outcomes, list) and outcomes and all(isinstance(item, dict) for item in outcomes):
+        return outcomes
+    return parse_polymarket_outcomes(market)
+
+
+def polymarket_outcome_history_key(row: dict[str, Any]) -> tuple[Any, ...]:
+    return (
+        row.get("observed_at"),
+        row.get("profile"),
+        row.get("market_slug"),
+        row.get("token_id"),
+        row.get("outcome_name"),
+    )
+
+
+def infer_polymarket_subject_name(market: dict[str, Any]) -> str | None:
+    question = str(market.get("question") or "").strip()
+    patterns = [
+        r"^Will\s+(.+?)\s+win\b",
+        r"^Will\s+(.+?)\s+be(?:come)?\s+(?:the\s+)?(?:next\s+)?",
+        r"^Will\s+(.+?)\s+run\b",
+        r"^Will\s+(.+?)\s+announce\b",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, question, flags=re.IGNORECASE)
+        if match:
+            return clean_polymarket_subject_name(match.group(1))
+    return None
+
+
+def clean_polymarket_subject_name(value: str) -> str | None:
+    cleaned = value.strip(" ?'\"")
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    return cleaned or None
+
+
+def non_binary_outcome_name(outcome_name: str | None) -> str | None:
+    if not outcome_name:
+        return None
+    if outcome_name.strip().lower() in {"yes", "no"}:
+        return None
+    return outcome_name
 
 
 def is_crypto_market(market: dict[str, Any]) -> bool:
@@ -1057,6 +1236,12 @@ def safe_ratio(numerator: Any, denominator: Any) -> float:
     if bottom <= 0:
         return 0.0
     return top / bottom
+
+
+def floor_time(dt: datetime, bucket_minutes: int) -> datetime:
+    bucket = max(1, bucket_minutes)
+    minute = (dt.minute // bucket) * bucket
+    return dt.astimezone(timezone.utc).replace(minute=minute, second=0, microsecond=0)
 
 
 def clamp(value: float, low: float, high: float) -> float:

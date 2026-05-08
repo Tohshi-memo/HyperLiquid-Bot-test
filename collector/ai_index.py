@@ -26,6 +26,7 @@ AI_ANALYSIS_PACK_FILE = PROCESSED_DIR / "ai_analysis_pack.json"
 MARKET_CONTEXT_HISTORY_FILE = PROCESSED_DIR / "market_context_history.json"
 FLOW_ALERT_FILE = PROCESSED_DIR / "flow_alert.json"
 FLOW_ALERT_HISTORY_FILE = PROCESSED_DIR / "flow_alert_history.json"
+POLYMARKET_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "polymarket_outcome_history.json"
 MACRO_INDICATORS_FILE = PROCESSED_DIR / "macro_indicators_latest.json"
 MACRO_INDICATORS_HISTORY_FILE = PROCESSED_DIR / "macro_indicators_history.json"
 MACRO_INDICATORS_REPORT_FILE = REPORT_DIR / "latest_macro_indicators.md"
@@ -58,6 +59,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
     ai_pack = load_json(AI_ANALYSIS_PACK_FILE, {})
     market_history = load_json(MARKET_CONTEXT_HISTORY_FILE, [])
     flow_history = load_json(FLOW_ALERT_HISTORY_FILE, [])
+    polymarket_outcome_history = load_json(POLYMARKET_OUTCOME_HISTORY_FILE, [])
     macro_indicators = load_json(MACRO_INDICATORS_FILE, {})
     macro_history = load_json(MACRO_INDICATORS_HISTORY_FILE, [])
     flow_alert = load_json(FLOW_ALERT_FILE, {})
@@ -88,6 +90,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         ai_pack=ai_pack,
         market_history=market_history,
         flow_history=flow_history,
+        polymarket_outcome_history=polymarket_outcome_history,
         macro_indicators=macro_indicators,
         macro_history=macro_history,
         canary=canary,
@@ -121,6 +124,7 @@ def build_ai_index(
     ai_pack: dict[str, Any],
     market_history: list[Any],
     flow_history: list[Any],
+    polymarket_outcome_history: list[Any],
     macro_indicators: dict[str, Any],
     macro_history: list[Any],
     canary: dict[str, Any],
@@ -131,6 +135,9 @@ def build_ai_index(
     hip4_outcome = hip4_outcome if isinstance(hip4_outcome, dict) else {}
     hip4_outcome_history = hip4_outcome_history if isinstance(hip4_outcome_history, list) else []
     relationship_scan = relationship_scan if isinstance(relationship_scan, dict) else {}
+    polymarket_outcome_history = (
+        polymarket_outcome_history if isinstance(polymarket_outcome_history, list) else []
+    )
     macro_indicators = macro_indicators if isinstance(macro_indicators, dict) else {}
     macro_history = macro_history if isinstance(macro_history, list) else []
     records = price_history.get("records", []) if isinstance(price_history, dict) else []
@@ -176,6 +183,7 @@ def build_ai_index(
         "dataset_health": {
             "market_context_history_records": len(market_history) if isinstance(market_history, list) else 0,
             "flow_alert_history_records": len(flow_history) if isinstance(flow_history, list) else 0,
+            "polymarket_outcome_history_records": len(polymarket_outcome_history),
             "macro_indicator_count": macro_indicators.get("indicator_count"),
             "macro_indicator_history_records": len(macro_history),
             "asset_price_active_records": len(records),
@@ -282,6 +290,10 @@ def build_ai_index(
                 "Checking HyperLiquid prediction-market probabilities, outcome-side drift, "
                 "or lead/lag versus Polymarket, news, or asset-class price moves."
             ),
+            "read_polymarket_outcome_history_when": (
+                "Checking candidate/person probability drift inside Polymarket event groups, "
+                "especially Yes/No markets where the person name is stored as subject_name."
+            ),
             "read_relationship_scan_when": (
                 "Selecting public, mechanically discovered A/B -> future-return candidates "
                 "for private AI hypothesis review and strategy validation."
@@ -311,6 +323,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/day_swing_dataset.json", DAY_SWING_FILE, "Full BTC/ETH/HYPE/SOL feature and label rows."),
             file_entry("data/processed/market_context_history.json", MARKET_CONTEXT_HISTORY_FILE, "News/context history."),
             file_entry("data/processed/flow_alert_history.json", FLOW_ALERT_HISTORY_FILE, "Polymarket/flow history."),
+            file_entry("data/processed/polymarket_outcome_history.json", POLYMARKET_OUTCOME_HISTORY_FILE, "Per-outcome Polymarket probability history with subject/person names."),
             file_entry("data/processed/macro_indicators_latest.json", MACRO_INDICATORS_FILE, "Latest macro indicators from BLS, Treasury, and optional FRED."),
             file_entry("data/processed/macro_indicators_history.json", MACRO_INDICATORS_HISTORY_FILE, "Macro indicator history for lead/lag checks."),
             file_entry("data/processed/hip4_outcome_latest.json", HIP4_OUTCOME_FILE, "Latest HIP-4 outcome rows with implied probabilities."),
