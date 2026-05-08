@@ -95,7 +95,13 @@ function renderMetrics(index, context, flow, pack) {
   const [readinessLabel, readinessTone] = readiness(index, pack);
 
   setBadge("readinessBadge", readinessLabel, readinessTone);
-  text("updatedAt", formatDate(index?.updated_at || context?.generated_at));
+  text("updatedAt", formatDate(latestTimestamp([
+    context?.generated_at,
+    flow?.generated_at,
+    pack?.generated_at,
+    pack?.updated_at,
+    index?.updated_at,
+  ])));
   setBadge("flowLevel", flowScores.flow_alert_level || "baseline", flowTone(flowScores.flow_alert_score));
   setBadge("correlationStatus", index?.canary_summary?.status || "unknown", index?.canary_summary?.status === "ready" ? "good" : "watch");
 
@@ -116,6 +122,15 @@ function renderMetrics(index, context, flow, pack) {
   text("label4h", fmtNumber(labels["4h"], 0));
   text("label24h", fmtNumber(labels["24h"], 0));
   text("label72h", fmtNumber(labels["72h"], 0));
+}
+
+function latestTimestamp(values) {
+  const dates = values
+    .filter(Boolean)
+    .map((value) => ({ value, time: new Date(value).getTime() }))
+    .filter((item) => !Number.isNaN(item.time));
+  dates.sort((a, b) => b.time - a.time);
+  return dates[0]?.value || values.find(Boolean) || null;
 }
 
 function flowTone(score) {
@@ -715,7 +730,18 @@ function buildHip4Question(row) {
     const price = row.target_price != null ? `$${fmtNumber(row.target_price, 0)}` : "?";
     return `Will ${underlying} be above ${price} by ${expiry}?`;
   }
-  return `${underlying} (${escapeHtml(cls)}) - expires ${expiry}`;
+  const rawDescription = row.raw_outcome?.description;
+  const outcomeId = row.outcome_id !== null && row.outcome_id !== undefined ? `Outcome #${row.outcome_id}` : "Outcome";
+  const baseName = row.outcome_name && !/^Recurring(?: Named Outcome| Fallback)?$/.test(row.outcome_name)
+    ? row.outcome_name
+    : outcomeId;
+  const label = cls || (
+    typeof rawDescription === "string" && rawDescription.startsWith("index:") ? "named outcome" : "metadata incomplete"
+  );
+  if (!row.underlying && !row.expiry && row.target_price == null) {
+    return `${escapeHtml(baseName)} (${escapeHtml(label)})`;
+  }
+  return `${underlying} (${escapeHtml(label)}) - expires ${expiry}`;
 }
 
 function renderHip4(hip4) {
@@ -762,6 +788,10 @@ function renderHip4(hip4) {
     const source = sides.map((side) => side.price_source).filter(Boolean)[0] || "metadata";
     const target = first.target_price != null ? `$${fmtNumber(first.target_price, 0)}` : "n/a";
     const expiry = formatExpiry(first.expiry);
+    const rawDescription = first.raw_outcome?.description;
+    const detailNote = rawDescription && (!first.underlying || !first.expiry || first.target_price == null)
+      ? `<div class="meta-line"><span>source detail ${escapeHtml(rawDescription)}</span></div>`
+      : "";
     return `
       <article class="item-card">
         <strong>${question}</strong>
@@ -779,6 +809,7 @@ function renderHip4(hip4) {
           <span>${escapeHtml(symbols || "symbols pending")}</span>
           <span>price ${escapeHtml(source)}</span>
         </div>
+        ${detailNote}
       </article>
     `;
   });

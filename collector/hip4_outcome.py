@@ -383,6 +383,12 @@ def derive_class(description: Any, name: Any) -> str | None:
     value = desc.get("class") or desc.get("type") or desc.get("category")
     if value:
         return str(value)
+    if isinstance(description, str):
+        text = description.strip().lower()
+        if text == "other":
+            return "fallback"
+        if text.startswith("index:"):
+            return "namedOutcome"
     if isinstance(name, str) and "ABOVE" in name.upper():
         return "price_above"
     if isinstance(name, str) and "BELOW" in name.upper():
