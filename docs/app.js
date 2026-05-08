@@ -380,6 +380,7 @@ function renderPolymarket(context, flow) {
           <span>end ${formatDate(endDate)}</span>
           <span>${escapeHtml(market.impact_category || market.query || market.slug || "")}</span>
         </div>
+        ${renderPolymarketAction(market)}
       </article>
     `;
   }).join("") || emptyCard("No active Polymarket markets.");
@@ -410,9 +411,28 @@ function renderHealthPolymarket(context, flow) {
           <span>end ${formatDate(endDate)}</span>
           <span>${escapeHtml(market.impact_category || market.query || market.slug || "")}</span>
         </div>
+        ${renderPolymarketAction(market)}
       </article>
     `;
   }).join("") || emptyCard("No pandemic or public-health Polymarket markets collected yet.");
+}
+
+function renderPolymarketAction(market) {
+  const href = polymarketUrl(market);
+  if (!href) return "";
+  return `
+    <div class="market-action">
+      <a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">Open market</a>
+    </div>
+  `;
+}
+
+function polymarketUrl(market) {
+  const rawUrl = market?.url || market?.market_url;
+  if (typeof rawUrl === "string" && rawUrl.startsWith("https://polymarket.com/")) return rawUrl;
+  const slug = market?.slug;
+  if (!slug) return null;
+  return `https://polymarket.com/event/${encodeURIComponent(String(slug))}`;
 }
 
 function renderOutcomeOdds(market) {
