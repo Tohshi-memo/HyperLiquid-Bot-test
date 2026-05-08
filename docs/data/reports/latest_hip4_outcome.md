@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-05-08T07:07:11.682431+00:00`
+- Generated: `2026-05-08T07:22:21.238891+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `5`
 - Outcome sides (rows): `10`
@@ -18,42 +18,42 @@
 
 ## Current Implied Probabilities
 
-- Recurring Named Outcome [No] symbol `#121` underlying `n/a` prob `0.868` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#141` underlying `n/a` prob `0.864` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#130` underlying `n/a` prob `0.7615` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#101` underlying `BTC` prob `0.5518` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#141` underlying `n/a` prob `0.87` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#121` underlying `n/a` prob `0.819` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#130` underlying `n/a` prob `0.6788` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#101` underlying `BTC` prob `0.5417` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#110` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#111` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#100` underlying `BTC` prob `0.4482` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#131` underlying `n/a` prob `0.2385` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#140` underlying `n/a` prob `0.1359` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#120` underlying `n/a` prob `0.132` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#100` underlying `BTC` prob `0.4583` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#131` underlying `n/a` prob `0.3212` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#120` underlying `n/a` prob `0.181` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#140` underlying `n/a` prob `0.13` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
-- Recurring [Yes] symbol `#100` underlying `BTC` prob `0.4482` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#101` underlying `BTC` prob `0.5518` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#100` underlying `BTC` prob `0.4583` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#101` underlying `BTC` prob `0.5417` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#110` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#111` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#120` underlying `n/a` prob `0.132` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#121` underlying `n/a` prob `0.868` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#130` underlying `n/a` prob `0.7615` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#131` underlying `n/a` prob `0.2385` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#140` underlying `n/a` prob `0.1359` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#141` underlying `n/a` prob `0.864` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#120` underlying `n/a` prob `0.181` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#121` underlying `n/a` prob `0.819` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#130` underlying `n/a` prob `0.6788` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#131` underlying `n/a` prob `0.3212` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#140` underlying `n/a` prob `0.13` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#141` underlying `n/a` prob `0.87` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
-- Recurring [Yes] symbol `#100` underlying `BTC` prob `0.4482` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#101` underlying `BTC` prob `0.5518` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#100` underlying `BTC` prob `0.4583` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#101` underlying `BTC` prob `0.5417` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#110` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#111` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#120` underlying `n/a` prob `0.132` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#121` underlying `n/a` prob `0.868` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#130` underlying `n/a` prob `0.7615` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#131` underlying `n/a` prob `0.2385` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#140` underlying `n/a` prob `0.1359` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#141` underlying `n/a` prob `0.864` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#120` underlying `n/a` prob `0.181` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#121` underlying `n/a` prob `0.819` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#130` underlying `n/a` prob `0.6788` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#131` underlying `n/a` prob `0.3212` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#140` underlying `n/a` prob `0.13` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#141` underlying `n/a` prob `0.87` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
