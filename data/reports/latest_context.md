@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-08T06:52:20.083710+00:00`
+- Generated: `2026-05-08T07:07:11.682431+00:00`
 - Market context score: `54.9`
 - News risk score: `36.22`
 - Macro risk score: `34.36`
@@ -9,13 +9,13 @@
 - Polymarket markets: `80`
 
 - Asset universe count: `734`
-- Asset price history records: `623`
+- Asset price history records: `624`
 
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:375`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `636`
-- Day/swing latest: `2026-05-08T06:45:00+00:00`
+- Day/swing records: `637`
+- Day/swing latest: `2026-05-08T07:00:00+00:00`
 
 ## News Categories
 
@@ -25,6 +25,9 @@
 
 ## Headlines
 
+- [macro] Oil prices rise after US and Iran exchange fire in Hormuz strait (BBC News)
+- [macro] Oil prices rise after US and Iran exchange fire in Hormuz strait (BBC News)
+- [macro] Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby (BBC News)
 - [crypto] Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Rebel Wilson accused of 'complete revision of history' as defamation case closes (BBC News)
 - [macro] Third British national has suspected hantavirus infection, UK government says (BBC News)
@@ -32,6 +35,3 @@
 - [commodity] ‘Not a Chance Hormuz Opens’: How Wall Street’s new NACHO trade bets on a prolonged oil shock (Energy)
 - [crypto] AI agents could solve crypto’s user problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack (Cointelegraph.com News)
-- [macro] Two Islamic-State linked Australian women charged with crimes against humanity (BBC News)
-- [macro] From oil giants to banks - these companies are making billions from Iran war (BBC News)
-- [macro] From oil giants to banks - these companies are making billions from Iran war (BBC News)
