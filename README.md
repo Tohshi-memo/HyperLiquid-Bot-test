@@ -23,6 +23,7 @@ exchange keys, position state, final trade signals, or execution logic.
 - Day/swing research snapshots for BTC, ETH, HYPE, and SOL
 - Compact AI context index and canary signals for quota-saving analysis
 - Mechanical relationship scans for A/B conditions versus future asset-class returns
+- Sector reaction history for event conditions versus delayed sector ETF proxy returns
 - Compact individual-asset feature screens for stock, index, metal, commodity,
   FX, and crypto candidates
 
@@ -46,6 +47,8 @@ data/processed/ai_analysis_pack.json
 data/processed/hip4_outcome_latest.json
 data/processed/hip4_outcome_history.json
 data/processed/relationship_scan_latest.json
+data/processed/sector_price_history.json
+data/processed/sector_reactions_latest.json
 data/reports/latest_context.md
 data/reports/latest_flow_alert.md
 data/reports/latest_macro_indicators.md
@@ -57,6 +60,7 @@ data/reports/latest_day_swing.md
 data/reports/latest_ai_analysis_brief.md
 data/reports/latest_hip4_outcome.md
 data/reports/latest_relationship_scan.md
+data/reports/latest_sector_reactions.md
 data/archive/asset_price_history_YYYY-MM.jsonl.gz
 ```
 
@@ -128,6 +132,17 @@ symbols. It records sample count, baseline probability, conditional
 probability, expected return edge, drawdown, loss streak, and split-period
 stability. It is a hypothesis generator only; private AI review and private
 strategy code must validate any candidate before trade use.
+
+`sector_price_history.json` and `sector_reactions_latest.json` track delayed
+sector reactions using no-key daily ETF proxy data by default. The default
+provider is Yahoo's chart endpoint, and Stooq CSV can be used when
+`STOOQ_API_KEY` is configured. Sector proxies include XLK, SMH, XLF, XLE, XLV,
+XLI, XLY, XLP, XLU, XLB, XLRE, XLC,
+IWM, IYR, XHB, SPY, and QQQ. The reaction dataset stores event-condition rows
+such as news-risk spikes, Polymarket volume spikes, energy strength, defensive
+rotation, and broad risk-on moves, then labels each row with 1d, 5d, 20d, 60d,
+120d, and 252d forward returns. This is designed for long-horizon questions
+like whether a condition from months ago tends to lead a sector later.
 
 `hip4_outcome_latest.json` and `hip4_outcome_history.json` capture HIP-4
 outcome markets directly from HyperLiquid. The collector reads market

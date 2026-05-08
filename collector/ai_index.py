@@ -35,6 +35,9 @@ HIP4_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "hip4_outcome_history.json"
 HIP4_OUTCOME_REPORT_FILE = REPORT_DIR / "latest_hip4_outcome.md"
 RELATIONSHIP_SCAN_FILE = PROCESSED_DIR / "relationship_scan_latest.json"
 RELATIONSHIP_SCAN_REPORT_FILE = REPORT_DIR / "latest_relationship_scan.md"
+SECTOR_REACTIONS_FILE = PROCESSED_DIR / "sector_reactions_latest.json"
+SECTOR_PRICE_HISTORY_FILE = PROCESSED_DIR / "sector_price_history.json"
+SECTOR_REACTIONS_REPORT_FILE = REPORT_DIR / "latest_sector_reactions.md"
 
 RETURN_HORIZONS = {
     "15m": timedelta(minutes=15),
@@ -66,6 +69,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
     hip4_outcome = load_json(HIP4_OUTCOME_FILE, {})
     hip4_outcome_history = load_json(HIP4_OUTCOME_HISTORY_FILE, [])
     relationship_scan = load_json(RELATIONSHIP_SCAN_FILE, {})
+    sector_reactions = load_json(SECTOR_REACTIONS_FILE, {})
 
     canary = build_canary_signals(
         now=now,
@@ -97,6 +101,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         hip4_outcome=hip4_outcome,
         hip4_outcome_history=hip4_outcome_history,
         relationship_scan=relationship_scan,
+        sector_reactions=sector_reactions,
     )
     AI_INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
     AI_INDEX_REPORT_FILE.write_text(render_index_report(index), encoding="utf-8")
@@ -131,10 +136,12 @@ def build_ai_index(
     hip4_outcome: dict[str, Any] | None = None,
     hip4_outcome_history: list[Any] | None = None,
     relationship_scan: dict[str, Any] | None = None,
+    sector_reactions: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     hip4_outcome = hip4_outcome if isinstance(hip4_outcome, dict) else {}
     hip4_outcome_history = hip4_outcome_history if isinstance(hip4_outcome_history, list) else []
     relationship_scan = relationship_scan if isinstance(relationship_scan, dict) else {}
+    sector_reactions = sector_reactions if isinstance(sector_reactions, dict) else {}
     polymarket_outcome_history = (
         polymarket_outcome_history if isinstance(polymarket_outcome_history, list) else []
     )
@@ -175,6 +182,7 @@ def build_ai_index(
             "data/processed/ai_analysis_pack.json",
             "data/reports/latest_asset_universe.md",
             "data/reports/latest_relationship_scan.md",
+            "data/reports/latest_sector_reactions.md",
             "Load full JSON files only for validating a specific candidate rule.",
         ],
         "source_repository": "https://github.com/Tohshi-memo/HyperLiquid-Bot-test.git",
@@ -209,6 +217,9 @@ def build_ai_index(
             "hip4_outcome_request_warnings": hip4_outcome.get("request_warnings", []),
             "relationship_pattern_count": relationship_scan.get("pattern_count"),
             "relationship_min_samples": relationship_scan.get("min_samples"),
+            "sector_reaction_price_records": sector_reactions.get("price_record_count"),
+            "sector_reaction_rows": sector_reactions.get("reaction_row_count"),
+            "sector_reaction_proxy_count": sector_reactions.get("proxy_count"),
         },
         "latest_market_snapshot": {
             "generated_at": context.get("generated_at"),
@@ -247,6 +258,13 @@ def build_ai_index(
                 "min_samples": relationship_scan.get("min_samples"),
                 "top_patterns": relationship_scan.get("top_patterns", [])[:5],
                 "top_symbol_patterns": relationship_scan.get("top_symbol_patterns", [])[:5],
+            },
+            "sector_reactions": {
+                "generated_at": sector_reactions.get("generated_at"),
+                "price_record_count": sector_reactions.get("price_record_count"),
+                "reaction_row_count": sector_reactions.get("reaction_row_count"),
+                "top_patterns": sector_reactions.get("top_patterns", [])[:5],
+                "sector_snapshot": sector_reactions.get("sector_snapshot", [])[:8],
             },
             "asset_features": {
                 "generated_at": asset_features.get("generated_at"),
@@ -298,6 +316,10 @@ def build_ai_index(
                 "Selecting public, mechanically discovered A/B -> future-return candidates "
                 "for private AI hypothesis review and strategy validation."
             ),
+            "read_sector_reactions_when": (
+                "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, "
+                "or 252d after public event conditions."
+            ),
         },
     }
 
@@ -315,6 +337,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/reports/latest_asset_features.md", ASSET_FEATURES_REPORT_FILE, "Individual asset screen."),
             file_entry("data/reports/latest_hip4_outcome.md", HIP4_OUTCOME_REPORT_FILE, "HIP-4 outcome market overview."),
             file_entry("data/reports/latest_relationship_scan.md", RELATIONSHIP_SCAN_REPORT_FILE, "Mechanical relationship candidates."),
+            file_entry("data/reports/latest_sector_reactions.md", SECTOR_REACTIONS_REPORT_FILE, "Delayed sector reaction overview."),
         ],
         "conditional": [
             file_entry("data/processed/asset_universe_latest.json", ASSET_UNIVERSE_FILE, "Latest all-symbol rows."),
@@ -329,6 +352,8 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/hip4_outcome_latest.json", HIP4_OUTCOME_FILE, "Latest HIP-4 outcome rows with implied probabilities."),
             file_entry("data/processed/hip4_outcome_history.json", HIP4_OUTCOME_HISTORY_FILE, "HIP-4 outcome history with per-bucket implied probabilities."),
             file_entry("data/processed/relationship_scan_latest.json", RELATIONSHIP_SCAN_FILE, "Mechanical A/B -> future-return candidate patterns."),
+            file_entry("data/processed/sector_reactions_latest.json", SECTOR_REACTIONS_FILE, "Event-condition -> sector ETF delayed reaction patterns."),
+            file_entry("data/processed/sector_price_history.json", SECTOR_PRICE_HISTORY_FILE, "Daily sector ETF proxy price history."),
         ],
         "archives": [
             {"path": path, "when_to_read": "Only for longer backtests after a specific rule is selected."}

@@ -10,6 +10,7 @@ const DATA = {
   assetReport: "./data/reports/latest_asset_universe.md",
   hip4: "./data/processed/hip4_outcome_latest.json",
   relationship: "./data/processed/relationship_scan_latest.json",
+  sectorReactions: "./data/processed/sector_reactions_latest.json",
 };
 
 const CLASS_ORDER = [
@@ -264,7 +265,7 @@ function escapeHtml(value) {
 
 async function renderDashboard() {
   try {
-    const [index, canary, pack, context, polymarketOutcomeHistory, flow, macro, assetFeatures, assetReport, relationship] = await Promise.all([
+    const [index, canary, pack, context, polymarketOutcomeHistory, flow, macro, assetFeatures, assetReport, relationship, sectorReactions] = await Promise.all([
       loadJson(DATA.index),
       loadJson(DATA.canary),
       loadJson(DATA.pack),
@@ -275,6 +276,7 @@ async function renderDashboard() {
       loadJson(DATA.assetFeatures).catch(() => null),
       loadText(DATA.assetReport),
       loadJson(DATA.relationship).catch(() => null),
+      loadJson(DATA.sectorReactions).catch(() => null),
     ]);
 
     renderMetrics(index, context, flow, pack);
@@ -283,6 +285,7 @@ async function renderDashboard() {
     renderPolymarketPeople(polymarketOutcomeHistory);
     renderNewsCategories(context);
     renderMacroIndicators(macro);
+    renderSectorReactions(sectorReactions);
     renderGdelt(context);
     renderFlowDetail(flow);
     renderRelationshipScan(relationship);
@@ -667,6 +670,79 @@ function renderMacroIndicators(macro) {
       <small>${escapeHtml([row.source, row.observed_at, row.category].filter(Boolean).join(" / "))}</small>
     </div>
   `).join("") || emptyCard("Macro indicators will appear after the next context run.");
+}
+
+function renderSectorReactions(sectorReactions) {
+  const node = document.getElementById("sectorReactionList");
+  if (!node) return;
+  const snapshot = Array.isArray(sectorReactions?.sector_snapshot) ? sectorReactions.sector_snapshot : [];
+  const patterns = Array.isArray(sectorReactions?.top_patterns) ? sectorReactions.top_patterns : [];
+  if (!snapshot.length && !patterns.length) {
+    node.innerHTML = emptyCard("Sector reaction data will appear after the next context run.");
+    return;
+  }
+  const snapshotHtml = snapshot.slice(0, 6).map((row) => `
+    <article class="item-card">
+      <strong>${escapeHtml(row.proxy)} <span class="muted">${escapeHtml(row.sector || "")}</span></strong>
+      <div class="meta-line">
+        <span>5d ${fmtPct(row.return_5d_pct)}</span>
+        <span>20d ${fmtPct(row.return_20d_pct)}</span>
+        <span>60d ${fmtPct(row.return_60d_pct)}</span>
+      </div>
+      <div class="meta-line">
+        <span>price ${fmtNumber(row.price, 2)}</span>
+        <span>${formatDate(row.date)}</span>
+      </div>
+    </article>
+  `).join("");
+  const patternHtml = patterns.slice(0, 6).map((row) => `
+    <article class="item-card">
+      <strong>${escapeHtml(shortSectorPattern(row.pattern_id || ""))}</strong>
+      <div class="meta-line">
+        <span>${escapeHtml(row.proxy || "")}</span>
+        <span>${escapeHtml(row.horizon || "")}</span>
+        <span>n ${fmtNumber(row.sample_count, 0)}</span>
+      </div>
+      <div class="meta-line">
+        <span>avg ${fmtPct(row.avg_return_pct)}</span>
+        <span>up ${fmtNumber(row.up_rate_pct, 1)}%</span>
+        <span>score ${fmtNumber(row.score, 2)}</span>
+      </div>
+    </article>
+  `).join("");
+  node.innerHTML = `
+    <article class="chart-card">
+      <div class="chart-head">
+        <strong>Current Sector Moves</strong>
+        <span>${fmtNumber(sectorReactions?.price_record_count, 0)} daily records</span>
+      </div>
+      <div class="relationship-cards">${snapshotHtml || emptyCard("No sector snapshot.")}</div>
+    </article>
+    <article class="chart-card">
+      <div class="chart-head">
+        <strong>Delayed-Reaction Patterns</strong>
+        <span>1d to 252d horizons</span>
+      </div>
+      <div class="relationship-cards">${patternHtml || emptyCard("No sector patterns yet.")}</div>
+    </article>
+  `;
+}
+
+function shortSectorPattern(value) {
+  return String(value || "pattern")
+    .replace("news_risk_high", "news risk")
+    .replace("macro_risk_high", "macro risk")
+    .replace("risk_on_high", "risk-on")
+    .replace("market_context_high", "context")
+    .replace("polymarket_volume_spike", "poly spike")
+    .replace("flow_alert_high", "flow")
+    .replace("energy_5d_up", "energy +5d")
+    .replace("semis_5d_up", "semis +5d")
+    .replace("rates_sensitive_rebound", "rates-sensitive rebound")
+    .replace("defensive_rotation", "defensive rotation")
+    .replace("broad_risk_on_20d", "broad risk-on")
+    .replace("small_caps_5d_up", "small caps +5d")
+    .replace("->", " -> ");
 }
 
 function renderGdelt(context) {

@@ -20,6 +20,7 @@ from collector.day_swing import update_day_swing_dataset
 from collector.hip4_outcome import update_hip4_outcome_snapshot
 from collector.macro_indicators import update_macro_indicators
 from collector.relationship_scan import update_relationship_scan
+from collector.sector_reactions import update_sector_reactions
 
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = ROOT / "data" / "processed"
@@ -124,6 +125,7 @@ def run_context(now: datetime) -> None:
     context["hip4_outcome"] = collect_hip4_outcome_summary(now)
     context["day_swing"] = collect_day_swing_summary(now, context)
     context["relationship_scan"] = collect_relationship_scan_summary(now)
+    context["sector_reactions"] = collect_sector_reactions_summary(now, context)
     context["asset_features"] = collect_asset_features_summary(now)
     context["ai_index"] = collect_ai_index_summary(now, context)
 
@@ -168,6 +170,14 @@ def collect_relationship_scan_summary(now: datetime) -> dict[str, Any]:
         return update_relationship_scan(now)
     except Exception as e:
         logging.warning("Relationship scan update failed: %s", e)
+        return {"enabled": True, "error": str(e)}
+
+
+def collect_sector_reactions_summary(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
+    try:
+        return update_sector_reactions(now, context)
+    except Exception as e:
+        logging.warning("Sector reactions update failed: %s", e)
         return {"enabled": True, "error": str(e)}
 
 
@@ -1111,6 +1121,13 @@ def render_report(context: dict[str, Any]) -> str:
             f"- Macro indicators: `{macro_indicators.get('indicator_count')}`\n"
             f"- Macro indicators file: `{macro_indicators.get('latest_file')}`\n\n"
         )
+    sector_reactions = context.get("sector_reactions", {})
+    sector_lines = ""
+    if isinstance(sector_reactions, dict) and sector_reactions.get("enabled"):
+        sector_lines = (
+            f"- Sector reaction price records: `{sector_reactions.get('price_record_count')}`\n"
+            f"- Sector reaction patterns: `{sector_reactions.get('pattern_count')}`\n\n"
+        )
     return (
         "# Latest Crypto Context\n\n"
         f"- Generated: `{context['generated_at']}`\n"
@@ -1121,6 +1138,7 @@ def render_report(context: dict[str, Any]) -> str:
         f"- Articles: `{context['news']['article_count']}`\n"
         f"- Polymarket markets: `{context['polymarket']['market_count']}`\n\n"
         f"{macro_lines}"
+        f"{sector_lines}"
         f"{asset_universe_lines}"
         f"{day_swing_lines}"
         "## News Categories\n\n"
