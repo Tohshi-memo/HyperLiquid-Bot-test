@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T20:22:14.534643+00:00`
-- Market context score: `59.36`
-- News risk score: `36.47`
-- Macro risk score: `17.86`
-- Risk-on score: `47.23`
-- Articles: `62`
+- Generated: `2026-05-09T20:30:57.984314+00:00`
+- Market context score: `59.39`
+- News risk score: `36.29`
+- Macro risk score: `17.99`
+- Risk-on score: `47.19`
+- Articles: `61`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `786`
-- Day/swing latest: `2026-05-09T20:15:00+00:00`
+- Day/swing records: `787`
+- Day/swing latest: `2026-05-09T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `43`, risk hits `3`, risk headline rate `0.0698`, policy hits `0`
+- macro: articles `42`, risk hits `3`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
 - [macro] AMETEK Bets $5 Billion on Indicor Deal to Boost Industrial Tech Portfolio (Yahoo Finance)
 - [macro] Compass Diversified Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Canadian Natural Resources Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Compass Minerals International Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Clean Harbors Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Claros Mortgage Trust Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Canadian Natural Resources Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
 - [macro] Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop (Yahoo Finance)
