@@ -2,10 +2,10 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-05-09T10:15:38.241748+00:00`
+- Generated: `2026-05-09T10:22:16.531470+00:00`
 - Price records: `672`
-- Market context records: `855`
-- Flow alert records: `2400`
+- Market context records: `856`
+- Flow alert records: `2402`
 - Minimum samples: `30`
 - Pattern count: `96`
 
@@ -25,7 +25,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `market_context_high->crypto_major_24h` score `11.9217` n `164` status `ready` deltaP `27.2357` edge `0.8453` maxDD `-1.3382`
+- `market_context_high->crypto_major_24h` score `11.9229` n `164` status `ready` deltaP `27.2357` edge `0.8454` maxDD `-1.3382`
 - `market_context_high->crypto_alt_24h` score `5.4302` n `164` status `ready` deltaP `7.2027` edge `0.4093` maxDD `-0.0508`
 - `risk_on_high->equity_4h` score `3.42` n `33` status `ready` deltaP `9.1233` edge `0.2607` maxDD `-0.9217`
 - `risk_on_and_context->equity_4h` score `3.42` n `33` status `ready` deltaP `9.1233` edge `0.2607` maxDD `-0.9217`
