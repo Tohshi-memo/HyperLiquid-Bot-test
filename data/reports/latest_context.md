@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T22:23:55.367560+00:00`
-- Market context score: `59.48`
+- Generated: `2026-05-09T22:37:21.334693+00:00`
+- Market context score: `58.42`
 - News risk score: `37.48`
 - Macro risk score: `20.21`
-- Risk-on score: `49.24`
+- Risk-on score: `46.89`
 - Articles: `61`
 - Polymarket markets: `399`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `794`
-- Day/swing latest: `2026-05-09T22:15:00+00:00`
+- Day/swing records: `795`
+- Day/swing latest: `2026-05-09T22:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [macro] Amazon CEO Andy Jassy Has Good News and Bad News for Nvidia Investors (Yahoo Finance)
-- [macro] Is IonQ Stock a Buy as Revenue Skyrockets? (Yahoo Finance)
-- [macro] XRP Price Prediction: Can XRP Hit $20? (Yahoo Finance)
+- [macro] Warren Buffett's Successor Greg Abel Just Broke This 13-Quarter Streak at Berkshire Hathaway. Could This Be a Turning Point for the Stock Market? (Yahoo Finance)
+- [macro] Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks (Yahoo Finance)
+- [macro] AptarGroup Sets CEO Succession as 2025 Sales Rise and Shareholders Back Ballot (Yahoo Finance)
+- [macro] Carter's Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] California Resources Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Is Cathie Wood Still Hopeful About Tesla (TSLA)? (Yahoo Finance)
 - [macro] WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship (BBC News)
-- [macro] Forget Sandisk Stock at $1,500 Per Share. Buy This Sizzling Artificial Intelligence (AI) Memory ETF Instead. (Yahoo Finance)
 - [macro] Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth (Yahoo Finance)
 - [macro] Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy (Yahoo Finance)
 - [macro] Is DTE Energy Company (DTE) a High Growth Utility Stock to Buy on Data Center’s Opportunities? (Yahoo Finance)
-- [macro] Public Service Enterprise Group Incorporated (PEG) a High Growth Utility Stock  on Earnings Growth (Yahoo Finance)
-- [macro] This is Why Spire Inc. (SR) is a High Growth Utility Stock to Buy (Yahoo Finance)
