@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T09:07:18.374135+00:00`
-- Market context score: `41.41`
+- Generated: `2026-05-09T09:22:18.256396+00:00`
+- Market context score: `43.34`
 - News risk score: `46.75`
 - Macro risk score: `23.67`
-- Risk-on score: `18.21`
+- Risk-on score: `22.5`
 - Articles: `24`
 - Polymarket markets: `401`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `741`
-- Day/swing latest: `2026-05-09T09:00:00+00:00`
+- Day/swing records: `742`
+- Day/swing latest: `2026-05-09T09:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Hungary's new PM to be sworn in during 'regime change' party (BBC News)
+- [crypto] Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months (Cointelegraph.com News)
 - [macro] How sunburn inspired a new way to store energy (BBC News)
 - [macro] Putin denounces Nato at scaled back Victory Day parade (BBC News)
 - [crypto] Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] Judge clears path for Aave to move $71 million in ETH linked to North Korea hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US CLARITY Act sees ‘big step forward’ as markup set for May 14 (Cointelegraph.com News)
 - [macro] International cyber attack disrupts swathe of universities and schools (BBC News)
-- [macro] Hungary's new PM to be sworn in during 'regime change' party (BBC News)
-- [macro] Anger and resignation in Tenerife as hantavirus ship approaches (BBC News)
