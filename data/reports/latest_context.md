@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T09:22:18.256396+00:00`
-- Market context score: `43.34`
-- News risk score: `46.75`
-- Macro risk score: `23.67`
-- Risk-on score: `22.5`
-- Articles: `24`
+- Generated: `2026-05-09T09:37:12.289913+00:00`
+- Market context score: `45.45`
+- News risk score: `43.64`
+- Macro risk score: `23.85`
+- Risk-on score: `24.64`
+- Articles: `23`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `742`
-- Day/swing latest: `2026-05-09T09:15:00+00:00`
+- Day/swing records: `743`
+- Day/swing latest: `2026-05-09T09:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `8`, risk hits `5`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `1`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `4`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [macro] Australian by-election a litmus test for right-wing One Nation Party (BBC News)
+- [macro] Putin denounces Nato at scaled back Victory Day parade (BBC News)
 - [macro] Hungary's new PM to be sworn in during 'regime change' party (BBC News)
 - [crypto] Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months (Cointelegraph.com News)
 - [macro] How sunburn inspired a new way to store energy (BBC News)
-- [macro] Putin denounces Nato at scaled back Victory Day parade (BBC News)
 - [crypto] Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin (Cointelegraph.com News)
 - [macro] Iran accuses US of 'reckless military adventure' (BBC News)
 - [macro] How Sir David Attenborough built 'Green Hollywood' (BBC News)
 - [crypto] Judge clears path for Aave to move $71 million in ETH linked to North Korea hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US CLARITY Act sees ‘big step forward’ as markup set for May 14 (Cointelegraph.com News)
-- [macro] International cyber attack disrupts swathe of universities and schools (BBC News)
