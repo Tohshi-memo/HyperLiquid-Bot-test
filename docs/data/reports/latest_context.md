@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T20:30:57.984314+00:00`
-- Market context score: `59.39`
-- News risk score: `36.29`
-- Macro risk score: `17.99`
-- Risk-on score: `47.19`
-- Articles: `61`
+- Generated: `2026-05-09T20:37:21.150540+00:00`
+- Market context score: `58.58`
+- News risk score: `36.63`
+- Macro risk score: `18.0`
+- Risk-on score: `45.7`
+- Articles: `60`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -23,7 +23,7 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `1`
 - macro: articles `42`, risk hits `3`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
@@ -32,7 +32,7 @@
 - [macro] Compass Diversified Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Compass Minerals International Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Claros Mortgage Trust Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Canadian Natural Resources Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Clean Harbors Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
 - [macro] Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop (Yahoo Finance)
