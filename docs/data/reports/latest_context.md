@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T20:52:17.893927+00:00`
+- Generated: `2026-05-09T21:07:13.379135+00:00`
 - Market context score: `59.51`
 - News risk score: `36.63`
 - Macro risk score: `18.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `788`
-- Day/swing latest: `2026-05-09T20:45:00+00:00`
+- Day/swing records: `789`
+- Day/swing latest: `2026-05-09T21:00:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Maravai (MRVI) Q1 2026 Earnings Transcript (Yahoo Finance)
+- [macro] Robinhood Stock Has Dropped 32% This Year. Is the Bottom Finally In? (Yahoo Finance)
 - [macro] The Goldman Sachs Retirement Survey Reveals That Americans with a Personalized Retirement Plan Have 27% More Savings (Yahoo Finance)
 - [macro] SCHB vs. VTV: Is a Total Stock Market ETF or a Value ETF the Better Buy for Investors Right Now? (Yahoo Finance)
 - [macro] 7 Reasons to Buy Amazon Stock Right Now (Yahoo Finance)
-- [macro] AMETEK Bets $5 Billion on Indicor Deal to Boost Industrial Tech Portfolio (Yahoo Finance)
-- [macro] Compass Diversified Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
 - [macro] Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop (Yahoo Finance)
