@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T11:52:15.419026+00:00`
-- Market context score: `43.39`
-- News risk score: `49.17`
-- Macro risk score: `28.67`
-- Risk-on score: `26.56`
-- Articles: `15`
+- Generated: `2026-05-09T12:06:23.834742+00:00`
+- Market context score: `48.66`
+- News risk score: `48.33`
+- Macro risk score: `18.67`
+- Risk-on score: `33.78`
+- Articles: `14`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `752`
-- Day/swing latest: `2026-05-09T11:45:00+00:00`
+- Day/swing records: `753`
+- Day/swing latest: `2026-05-09T12:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `2`
+- crypto: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] Bullish on Robotaxis? This Is the Stock To Buy (Hint: It's Not Tesla or Alphabet) (Yahoo Finance)
 - [macro] Putin denounces Nato at scaled back Victory Day parade (BBC News)
 - [crypto] Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave (Cointelegraph.com News)
-- [macro] Best high-yield savings interest rates today, May 9, 2026 (Earn up to 4.1% APY) (Yahoo Finance)
 - [macro] Australian by-election a litmus test for right-wing One Nation Party (BBC News)
 - [macro] Hungary's new PM to be sworn in during 'regime change' party (BBC News)
 - [crypto] Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months (Cointelegraph.com News)
