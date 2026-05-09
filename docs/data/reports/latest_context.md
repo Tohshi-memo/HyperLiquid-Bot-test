@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T20:07:14.800549+00:00`
-- Market context score: `59.79`
+- Generated: `2026-05-09T20:22:14.534643+00:00`
+- Market context score: `59.36`
 - News risk score: `36.47`
 - Macro risk score: `17.86`
-- Risk-on score: `48.18`
+- Risk-on score: `47.23`
 - Articles: `62`
 - Polymarket markets: `399`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `785`
-- Day/swing latest: `2026-05-09T20:00:00+00:00`
+- Day/swing records: `786`
+- Day/swing latest: `2026-05-09T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] AMETEK Bets $5 Billion on Indicor Deal to Boost Industrial Tech Portfolio (Yahoo Finance)
+- [macro] Compass Diversified Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Canadian Natural Resources Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Compass Minerals International Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Clean Harbors Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Lebanon says Israeli strikes killed 39 (BBC News)
-- [macro] Schwab explains why a cheap-looking stock could be a trap (Yahoo Finance)
 - [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
-- [macro] Brookfield Corporation Looks More Like Berkshire Hathaway Every Year. Is It Time to Buy? (Yahoo Finance)
-- [macro] Is Intel Stock the Next Nvidia? (Yahoo Finance)
-- [macro] TOMI (TOMZ) Q1 2026 Earnings Transcript (Yahoo Finance)
+- [macro] Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop (Yahoo Finance)
 - [macro] I found a framed stock certificate in my late father’s things. How do I find out if it’s worth anything? (Yahoo Finance)
-- [macro] GM agrees to pay $12.75M in California driver privacy settlement (Yahoo Finance)
 - [crypto] The CLARITY Act will help reshore the crypto industry in the US — Attorney (Cointelegraph.com News)
-- [macro] Jim Cramer on Shopify: “You Want to Buy It When the Stock’s Ice Cold” (Yahoo Finance)
