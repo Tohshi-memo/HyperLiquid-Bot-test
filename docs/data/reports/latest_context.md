@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T22:22:16.225672+00:00`
+- Generated: `2026-05-09T22:23:55.367560+00:00`
 - Market context score: `59.48`
 - News risk score: `37.48`
 - Macro risk score: `20.21`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Amazon CEO Andy Jassy Has Good News and Bad News for Nvidia Investors (Yahoo Finance)
 - [macro] Is IonQ Stock a Buy as Revenue Skyrockets? (Yahoo Finance)
 - [macro] XRP Price Prediction: Can XRP Hit $20? (Yahoo Finance)
 - [macro] WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Is DTE Energy Company (DTE) a High Growth Utility Stock to Buy on Data Center’s Opportunities? (Yahoo Finance)
 - [macro] Public Service Enterprise Group Incorporated (PEG) a High Growth Utility Stock  on Earnings Growth (Yahoo Finance)
 - [macro] This is Why Spire Inc. (SR) is a High Growth Utility Stock to Buy (Yahoo Finance)
-- [macro] PPL Corporation (PPL) A High Growth Utility Stock to Buy on Nuclear Energy Push (Yahoo Finance)
