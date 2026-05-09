@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T18:39:08.096986+00:00`
-- Market context score: `50.65`
-- News risk score: `40.11`
-- Macro risk score: `30.32`
-- Risk-on score: `35.66`
-- Articles: `51`
+- Generated: `2026-05-09T18:52:20.883411+00:00`
+- Market context score: `59.36`
+- News risk score: `35.27`
+- Macro risk score: `18.94`
+- Risk-on score: `46.63`
+- Articles: `55`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `779`
-- Day/swing latest: `2026-05-09T18:30:00+00:00`
+- Day/swing records: `780`
+- Day/swing latest: `2026-05-09T18:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `32`, risk hits `8`, risk headline rate `0.25`, policy hits `6`
+- macro: articles `36`, risk hits `3`, risk headline rate `0.0833`, policy hits `0`
 
 ## Headlines
 
-- [macro] Shell CEO sends blunt message on oil and the economy (Yahoo Finance)
-- [macro] Some commuters now pay $1,600 a month just to get to work — how the cost of gas is changing the math on where you live (Yahoo Finance)
-- [macro] The Best AI Software Stock to Buy in 2026 (Yahoo Finance)
-- [macro] Outset Medical (OM) Q4 2025 Earnings Transcript (Yahoo Finance)
-- [macro] Why This Wealth Firm Added Nearly $3 Million to a 4.6% Yield Bond ETF (Yahoo Finance)
-- [macro] In 10 Years, Will You Wish You'd Bought NuScale Power Stock Right Now? (Yahoo Finance)
-- [macro] Greece conducts controlled blast of mystery naval drone explosives (BBC News)
-- [crypto] The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist (Cointelegraph.com News)
-- [macro] Apollo CEO warns there’s now a 35% chance of a major market shock amid AI-driven upheaval. How to stay afloat (Yahoo Finance)
-- [macro] Person killed after being hit by plane on runway at Denver airport (BBC News)
+- [macro] Iran demands guarantees for World Cup participation (BBC News)
+- [macro] Jim Cramer on Thermo Fisher: “I Think You Can Buy It at This Level” (Yahoo Finance)
+- [macro] Jim Cramer on Extreme Networks: “I Don’t Recommend Stocks Like This” (Yahoo Finance)
+- [macro] Jim Cramer on Taiwan Semi: “They Have More Business Than They Can Handle” (Yahoo Finance)
+- [macro] Jim Cramer on Goldman Sachs: “I Think That It’s Going Higher” (Yahoo Finance)
+- [macro] Jim Cramer Reviews the Earnings Report from Solstice Advanced Materials (Yahoo Finance)
+- [macro] Jim Cramer Discusses Kraft Heinz Rally After Better Than Expected Earnings (Yahoo Finance)
+- [macro] Jim Cramer on CVS: “I Would Argue That It’s Cheaper” (Yahoo Finance)
+- [macro] Jim Cramer on Salesforce: “It’s Tough Because the Market Hates Software” (Yahoo Finance)
+- [macro] Jim Cramer Slams AMD Downgrade (Yahoo Finance)
