@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T18:37:23.850597+00:00`
-- Market context score: `51.58`
-- News risk score: `39.2`
-- Macro risk score: `28.51`
-- Risk-on score: `36.26`
+- Generated: `2026-05-09T18:39:08.096986+00:00`
+- Market context score: `50.65`
+- News risk score: `40.11`
+- Macro risk score: `30.32`
+- Risk-on score: `35.66`
 - Articles: `51`
 - Polymarket markets: `401`
 
@@ -24,16 +24,16 @@
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `32`, risk hits `7`, risk headline rate `0.2188`, policy hits `6`
+- macro: articles `32`, risk hits `8`, risk headline rate `0.25`, policy hits `6`
 
 ## Headlines
 
+- [macro] Shell CEO sends blunt message on oil and the economy (Yahoo Finance)
 - [macro] Some commuters now pay $1,600 a month just to get to work — how the cost of gas is changing the math on where you live (Yahoo Finance)
 - [macro] The Best AI Software Stock to Buy in 2026 (Yahoo Finance)
 - [macro] Outset Medical (OM) Q4 2025 Earnings Transcript (Yahoo Finance)
 - [macro] Why This Wealth Firm Added Nearly $3 Million to a 4.6% Yield Bond ETF (Yahoo Finance)
 - [macro] In 10 Years, Will You Wish You'd Bought NuScale Power Stock Right Now? (Yahoo Finance)
-- [macro] Allison Transmission Shareholders Approve Board, Auditor and Executive Pay at Annual Meeting (Yahoo Finance)
 - [macro] Greece conducts controlled blast of mystery naval drone explosives (BBC News)
 - [crypto] The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist (Cointelegraph.com News)
 - [macro] Apollo CEO warns there’s now a 35% chance of a major market shock amid AI-driven upheaval. How to stay afloat (Yahoo Finance)
