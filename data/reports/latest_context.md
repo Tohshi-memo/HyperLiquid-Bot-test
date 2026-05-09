@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-08T23:52:14.153779+00:00`
+- Generated: `2026-05-09T00:07:15.946143+00:00`
 - Market context score: `43.21`
 - News risk score: `49.17`
 - Macro risk score: `32.8`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:375`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `704`
-- Day/swing latest: `2026-05-08T23:45:00+00:00`
+- Day/swing records: `705`
+- Day/swing latest: `2026-05-09T00:00:00+00:00`
 
 ## News Categories
 
@@ -32,10 +32,10 @@
 - [policy] Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending (FRB: Speeches)
 - [policy] Waller, Update On Federal Reserve Bank Operations (FRB: Speeches)
 - [crypto] Senate Banking Committee plans to hold key market structure hearing on Thursday (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs (BBC News)
 - [macro] Is hojicha the next matcha? The Japanese tea creeping onto menus (BBC News)
 - [crypto] Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report (Cointelegraph.com News)
 - [macro] Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon (BBC News)
 - [macro] The Federal Reserve is quickly running out of reasons to cut interest rates (Economy)
 - [crypto] Estonia's FSA issues investor warning about Zondacrypto (Cointelegraph.com News)
 - [crypto] Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures (Cointelegraph.com News)
-- [macro] Worldwide race to trace passengers from hantavirus-hit cruise ship (BBC News)
