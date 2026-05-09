@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-09T07:30:15.887540+00:00`
-- Flow alert score: `21.56`
+- Generated: `2026-05-09T07:35:16.887643+00:00`
+- Flow alert score: `21.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `29872679.4`
-- Polymarket volume z-score: `1.14`
+- Polymarket 24h volume: `29363214.49`
+- Polymarket volume z-score: `1.1`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Russia x Ukraine ceasefire by May 31, 2026? | 24h volume: `4689148.324204997` | liquidity: `1229587.812`
-- Russia x Ukraine ceasefire by June 30, 2026? | 24h volume: `1631857.1193000004` | liquidity: `278008.85818`
-- Hantavirus pandemic in 2026? | 24h volume: `1286088.472734006` | liquidity: `1208480.08363`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `1109292.7583810003` | liquidity: `468882.663`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `916510.2295620001` | liquidity: `1394493.9992`
-- Will the next Prime Minister of Hungary be István Kapitány? | 24h volume: `910673.21` | liquidity: `124852.78159`
-- Will the US confirm that aliens exist by May 31? | 24h volume: `884149.3956150004` | liquidity: `142532.18258`
+- Russia x Ukraine ceasefire by May 31, 2026? | 24h volume: `4944453.840006998` | liquidity: `1258723.31525`
+- Russia x Ukraine ceasefire by June 30, 2026? | 24h volume: `1635280.6393000004` | liquidity: `1224278.29293`
+- Hantavirus pandemic in 2026? | 24h volume: `1279181.9870950065` | liquidity: `1210949.87257`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `1109702.9724150002` | liquidity: `467614.7964`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `911159.3022980001` | liquidity: `1414887.7602`
+- Will the US confirm that aliens exist by May 31? | 24h volume: `884087.7352620004` | liquidity: `142160.72376`
+- Will Bernie Sanders win the 2028 Democratic presidential nomination? | 24h volume: `807564.9002040001` | liquidity: `820314.99127`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
