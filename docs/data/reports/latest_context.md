@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T23:22:15.654587+00:00`
-- Market context score: `62.05`
-- News risk score: `34.28`
-- Macro risk score: `18.81`
-- Risk-on score: `51.71`
+- Generated: `2026-05-09T23:28:37.366814+00:00`
+- Market context score: `62.76`
+- News risk score: `33.58`
+- Macro risk score: `17.42`
+- Risk-on score: `52.18`
 - Articles: `61`
 - Polymarket markets: `399`
 
@@ -24,16 +24,16 @@
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `4`, risk headline rate `0.1667`, policy hits `2`
-- macro: articles `42`, risk hits `3`, risk headline rate `0.0714`, policy hits `1`
+- macro: articles `42`, risk hits `2`, risk headline rate `0.0476`, policy hits `1`
 
 ## Headlines
 
+- [macro] Claritev Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] CareTrust REIT Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Carriage Services Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Charles River Laboratories International Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Why Warby Parker Stock Soared This Week (Yahoo Finance)
+- [macro] Comstock Resources Q1 Earnings Call Highlights (Yahoo Finance)
 - [crypto] 7 major Bitcoin mining pools join Stratum V2, working group (Cointelegraph.com News)
-- [macro] Five Questions to Help You Make Better Financial Decisions (Yahoo Finance)
 - [macro] Is Cathie Wood Still Hopeful About Tesla (TSLA)? (Yahoo Finance)
 - [macro] WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship (BBC News)
 - [macro] Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth (Yahoo Finance)
