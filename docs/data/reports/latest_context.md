@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T21:37:11.741546+00:00`
-- Market context score: `58.58`
-- News risk score: `36.63`
-- Macro risk score: `18.0`
-- Risk-on score: `45.7`
+- Generated: `2026-05-09T21:52:12.013990+00:00`
+- Market context score: `59.01`
+- News risk score: `37.58`
+- Macro risk score: `19.81`
+- Risk-on score: `48.12`
 - Articles: `60`
 - Polymarket markets: `399`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `791`
-- Day/swing latest: `2026-05-09T21:30:00+00:00`
+- Day/swing records: `792`
+- Day/swing latest: `2026-05-09T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `1`
-- macro: articles `42`, risk hits `3`, risk headline rate `0.0714`, policy hits `0`
+- macro: articles `42`, risk hits `4`, risk headline rate `0.0952`, policy hits `1`
 
 ## Headlines
 
-- [macro] Lebanon says Israeli strikes killed 39 (BBC News)
-- [macro] What Chevron’s CEO Just Said About Global ‘Supply Outages’ Could Derail Trump’s Economic Momentum (Yahoo Finance)
-- [macro] Cencora Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Coty Q3 Earnings Call Highlights (Yahoo Finance)
-- [macro] Concentra Group Holdings Parent Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Americold Realty Trust Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
-- [macro] Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop (Yahoo Finance)
-- [macro] I found a framed stock certificate in my late father’s things. How do I find out if it’s worth anything? (Yahoo Finance)
-- [crypto] The CLARITY Act will help reshore the crypto industry in the US — Attorney (Cointelegraph.com News)
+- [macro] WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship (BBC News)
+- [macro] Forget Sandisk Stock at $1,500 Per Share. Buy This Sizzling Artificial Intelligence (AI) Memory ETF Instead. (Yahoo Finance)
+- [macro] Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth (Yahoo Finance)
+- [macro] Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy (Yahoo Finance)
+- [macro] Is DTE Energy Company (DTE) a High Growth Utility Stock to Buy on Data Center’s Opportunities? (Yahoo Finance)
+- [macro] Public Service Enterprise Group Incorporated (PEG) a High Growth Utility Stock  on Earnings Growth (Yahoo Finance)
+- [macro] This is Why Spire Inc. (SR) is a High Growth Utility Stock to Buy (Yahoo Finance)
+- [macro] PPL Corporation (PPL) A High Growth Utility Stock to Buy on Nuclear Energy Push (Yahoo Finance)
+- [macro] Calpine Acquisition Strengthens Constellation Energy Corporation (CEG) as a High-Growth Utility Stock (Yahoo Finance)
+- [macro] Earnings Growth Positions FirstEnergy Corp. (FE) as a Top High-Growth Utility Stock (Yahoo Finance)
