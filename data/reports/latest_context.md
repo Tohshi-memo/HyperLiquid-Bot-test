@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T20:37:21.150540+00:00`
-- Market context score: `58.58`
+- Generated: `2026-05-09T20:52:17.893927+00:00`
+- Market context score: `59.51`
 - News risk score: `36.63`
 - Macro risk score: `18.0`
-- Risk-on score: `45.7`
+- Risk-on score: `47.75`
 - Articles: `60`
 - Polymarket markets: `399`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `787`
-- Day/swing latest: `2026-05-09T20:30:00+00:00`
+- Day/swing records: `788`
+- Day/swing latest: `2026-05-09T20:45:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] The Goldman Sachs Retirement Survey Reveals That Americans with a Personalized Retirement Plan Have 27% More Savings (Yahoo Finance)
+- [macro] SCHB vs. VTV: Is a Total Stock Market ETF or a Value ETF the Better Buy for Investors Right Now? (Yahoo Finance)
+- [macro] 7 Reasons to Buy Amazon Stock Right Now (Yahoo Finance)
 - [macro] AMETEK Bets $5 Billion on Indicor Deal to Boost Industrial Tech Portfolio (Yahoo Finance)
 - [macro] Compass Diversified Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Compass Minerals International Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Claros Mortgage Trust Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Clean Harbors Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
 - [macro] Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop (Yahoo Finance)
