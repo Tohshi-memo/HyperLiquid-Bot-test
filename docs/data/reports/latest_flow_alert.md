@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-09T19:25:14.091415+00:00`
+- Generated: `2026-05-09T19:30:17.941731+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `169261940.85`
-- Polymarket volume z-score: `8.27`
+- Polymarket 24h volume: `184217430.61`
+- Polymarket volume z-score: `8.92`
 
 ## Top Polymarket Markets
 
-- Russia x Ukraine ceasefire by May 31, 2026? | 24h volume: `119898640.293712` | liquidity: `15532566.23554`
-- Russia x Ukraine ceasefire by June 30, 2026? | 24h volume: `24509811.702162` | liquidity: `3219511.36324`
+- Russia x Ukraine ceasefire by May 31, 2026? | 24h volume: `131348942.55508201` | liquidity: `12496778.96038`
+- Russia x Ukraine ceasefire by June 30, 2026? | 24h volume: `27980735.843754` | liquidity: `2958019.5758`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Hantavirus pandemic in 2026? | 24h volume: `1091724.8547249967` | liquidity: `1420404.51712`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `986446.2697159997` | liquidity: `1729403.1325`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `907653.8748329998` | liquidity: `363534.20382`
-- Internazionali BNL d'Italia: Nikoloz Basilashvili vs Ben Shelton | 24h volume: `823746.816932997` | liquidity: `286269.20819`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `794525.6777380003` | liquidity: `305040.2987`
+- Hantavirus pandemic in 2026? | 24h volume: `1090883.4127589967` | liquidity: `1417173.18255`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `971020.9490589997` | liquidity: `1728487.3259`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `909450.2163189996` | liquidity: `366167.443`
+- Internazionali BNL d'Italia: Nikoloz Basilashvili vs Ben Shelton | 24h volume: `824864.505629997` | liquidity: `283856.4634`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `794349.4881850001` | liquidity: `308964.7999`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
