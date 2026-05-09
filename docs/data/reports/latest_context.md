@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T14:49:05.323087+00:00`
-- Market context score: `59.07`
-- News risk score: `37.12`
-- Macro risk score: `16.38`
-- Risk-on score: `46.59`
+- Generated: `2026-05-09T14:52:14.466596+00:00`
+- Market context score: `58.34`
+- News risk score: `37.5`
+- Macro risk score: `17.0`
+- Risk-on score: `45.5`
 - Articles: `40`
 - Polymarket markets: `403`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `31`, risk hits `1`, risk headline rate `0.0323`, policy hits `1`
+- macro: articles `31`, risk hits `1`, risk headline rate `0.0323`, policy hits `2`
 
 ## Headlines
 
 - [macro] Australia's right-wing One Nation party scores historic parliamentary win (BBC News)
+- [macro] Ben & Jerry's sold for $326 million with 1 condition. The new owner broke it — and now the co-founder wants it back (Yahoo Finance)
+- [macro] Visa Just Beat Earnings Expectations. Here's the Bigger Story Investors Should Watch (Yahoo Finance)
+- [macro] The real cost of chasing REIT dividend dogs in a 4.4% rate world (Yahoo Finance)
+- [macro] How to Build $5,000 a Month in Dividend Income (Yahoo Finance)
 - [crypto] How DeFi is changing the financial landscape for Latin Americans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Cathie Wood predicts 'voracious' appetite for 'volatile' SpaceX IPO (Yahoo Finance)
-- [macro] Micron Stock Is Up 700% Over the Past Year. Its Shares Still Look Relatively Cheap. (Yahoo Finance)
+- [macro] Why Tower Semiconductor Rallied in April (Yahoo Finance)
 - [macro] Fox News calls the economy 'possibly a disaster' as Trump's approval drops to 30% — here's what could save Republicans (Yahoo Finance)
-- [macro] Black Hills Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] AbbVie Touts Record Sales and Pipeline Momentum at Annual Meeting (Yahoo Finance)
-- [macro] BILL Q3 Earnings Call Highlights (Yahoo Finance)
 - [macro] For new grads and young adults just starting out, stick to the financial basics, this expert says (Yahoo Finance)
-- [crypto] Crypto wallets are being rebuilt for AI agents, Trust Wallet and Mesh executives say at Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
