@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T23:07:17.613307+00:00`
-- Market context score: `58.42`
-- News risk score: `37.48`
-- Macro risk score: `20.21`
-- Risk-on score: `46.89`
+- Generated: `2026-05-09T23:22:15.654587+00:00`
+- Market context score: `62.05`
+- News risk score: `34.28`
+- Macro risk score: `18.81`
+- Risk-on score: `51.71`
 - Articles: `61`
 - Polymarket markets: `399`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `797`
-- Day/swing latest: `2026-05-09T23:00:00+00:00`
+- Day/swing records: `798`
+- Day/swing latest: `2026-05-09T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `2`
-- macro: articles `42`, risk hits `4`, risk headline rate `0.0952`, policy hits `1`
+- crypto: articles `18`, risk hits `4`, risk headline rate `0.1667`, policy hits `2`
+- macro: articles `42`, risk hits `3`, risk headline rate `0.0714`, policy hits `1`
 
 ## Headlines
 
-- [macro] How Your 401(k) Is Quietly Adding $3,500 a Year to Your Medicare Premium (Yahoo Finance)
-- [macro] Chinese Automakers Take Aim at a Big Ford Money-Maker (Yahoo Finance)
-- [macro] BofA revisits Costco stock price target after= sales surprise (Yahoo Finance)
-- [macro] Warren Buffett's Successor Greg Abel Just Broke This 13-Quarter Streak at Berkshire Hathaway. Could This Be a Turning Point for the Stock Market? (Yahoo Finance)
-- [macro] Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks (Yahoo Finance)
+- [macro] CareTrust REIT Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Carriage Services Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Charles River Laboratories International Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Why Warby Parker Stock Soared This Week (Yahoo Finance)
+- [crypto] 7 major Bitcoin mining pools join Stratum V2, working group (Cointelegraph.com News)
+- [macro] Five Questions to Help You Make Better Financial Decisions (Yahoo Finance)
 - [macro] Is Cathie Wood Still Hopeful About Tesla (TSLA)? (Yahoo Finance)
 - [macro] WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship (BBC News)
 - [macro] Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth (Yahoo Finance)
 - [macro] Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy (Yahoo Finance)
-- [macro] Is DTE Energy Company (DTE) a High Growth Utility Stock to Buy on Data Center’s Opportunities? (Yahoo Finance)
