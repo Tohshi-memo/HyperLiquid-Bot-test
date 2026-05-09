@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T07:20:31.215467+00:00`
+- Generated: `2026-05-09T07:22:20.563634+00:00`
 - Market context score: `37.19`
 - News risk score: `54.11`
 - Macro risk score: `33.3`
@@ -30,6 +30,7 @@
 ## Headlines
 
 - [macro] Iran accuses US of 'reckless military adventure' (BBC News)
+- [macro] How Sir David Attenborough built 'Green Hollywood' (BBC News)
 - [crypto] Judge clears path for Aave to move $71 million in ETH linked to North Korea hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US CLARITY Act sees ‘big step forward’ as markup set for May 14 (Cointelegraph.com News)
 - [macro] International cyber attack disrupts swathe of universities and schools (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally? (Cointelegraph.com News)
 - [macro] From trusted aide to biggest rival: Suvendu Adhikari set to become West Bengal chief minister (BBC News)
 - [macro] The UK is set for a staycation summer - and there are plenty of hidden gems (BBC News)
-- [policy] Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending (FRB: Speeches)
