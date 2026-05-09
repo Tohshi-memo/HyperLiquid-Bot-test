@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T21:22:12.777931+00:00`
+- Generated: `2026-05-09T21:26:54.713422+00:00`
 - Market context score: `57.71`
 - News risk score: `37.58`
 - Macro risk score: `19.81`
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [macro] Micron stock sends a strong signal amid chip shortage (Yahoo Finance)
 - [macro] Is Wolfspeed Stock Headed Toward $0 Again? (Yahoo Finance)
 - [macro] 3 Retirement Income Strategies That Can Help Your Money Last Longer (Yahoo Finance)
 - [macro] Maravai (MRVI) Q1 2026 Earnings Transcript (Yahoo Finance)
 - [macro] Robinhood Stock Has Dropped 32% This Year. Is the Bottom Finally In? (Yahoo Finance)
-- [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
 - [macro] Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop (Yahoo Finance)
 - [macro] I found a framed stock certificate in my late father’s things. How do I find out if it’s worth anything? (Yahoo Finance)
