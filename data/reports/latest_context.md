@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T15:22:12.781474+00:00`
-- Market context score: `56.79`
-- News risk score: `36.14`
-- Macro risk score: `19.53`
-- Risk-on score: `41.88`
-- Articles: `48`
-- Polymarket markets: `403`
+- Generated: `2026-05-09T15:37:12.376391+00:00`
+- Market context score: `54.47`
+- News risk score: `38.6`
+- Macro risk score: `18.4`
+- Risk-on score: `38.38`
+- Articles: `49`
+- Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `766`
-- Day/swing latest: `2026-05-09T15:15:00+00:00`
+- Day/swing records: `767`
+- Day/swing latest: `2026-05-09T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
-- macro: articles `36`, risk hits `3`, risk headline rate `0.0833`, policy hits `4`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `36`, risk hits `2`, risk headline rate `0.0556`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Swiss central bank bitcoin reserve push fails over signature shortfall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CME is set to let traders bet on bitcoin volatility, not just price (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'I will serve not rule over Hungary,' says new PM (BBC News)
-- [macro] How Are the AI-Immune HALO Stocks Doing in 2026? (Yahoo Finance)
+- [macro] Dutch Bros Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Accel Entertainment Shareholders Back Board, Executive Pay at Annual Meeting (Yahoo Finance)
+- [macro] Bowlero Q3 Earnings Call Highlights (Yahoo Finance)
+- [macro] Blend Labs Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] BKV Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] KeyBanc Reiterates Service Now’s (NOW) Underweight Rating (Yahoo Finance)
 - [macro] Microsoft Corp. (MSFT) to Invest in European Data Center Regions (Yahoo Finance)
-- [macro] Want Safe Dividend Income in 2026 and Beyond? Invest in This Ultra-High-Yield Stock. (Yahoo Finance)
-- [macro] CrowdStrike Holdings (CRWD) Expands Cybersecurity Coalition with Additional Partners (Yahoo Finance)
-- [macro] Palantir Technologies (PLTR) Price Target Raised to $225 by Citi (Yahoo Finance)
-- [macro] Snowflake Inc. (SNOW) Collaborates with O9 Solutions for Application Integration (Yahoo Finance)
-- [macro] Piper Sandler Raises Arista Networks (ANET) Price Target to $181 on AI Exposure (Yahoo Finance)
