@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T22:52:13.192987+00:00`
+- Generated: `2026-05-09T23:07:17.613307+00:00`
 - Market context score: `58.42`
 - News risk score: `37.48`
 - Macro risk score: `20.21`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `796`
-- Day/swing latest: `2026-05-09T22:45:00+00:00`
+- Day/swing records: `797`
+- Day/swing latest: `2026-05-09T23:00:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] How Your 401(k) Is Quietly Adding $3,500 a Year to Your Medicare Premium (Yahoo Finance)
 - [macro] Chinese Automakers Take Aim at a Big Ford Money-Maker (Yahoo Finance)
 - [macro] BofA revisits Costco stock price target after= sales surprise (Yahoo Finance)
 - [macro] Warren Buffett's Successor Greg Abel Just Broke This 13-Quarter Streak at Berkshire Hathaway. Could This Be a Turning Point for the Stock Market? (Yahoo Finance)
 - [macro] Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks (Yahoo Finance)
-- [macro] AptarGroup Sets CEO Succession as 2025 Sales Rise and Shareholders Back Ballot (Yahoo Finance)
 - [macro] Is Cathie Wood Still Hopeful About Tesla (TSLA)? (Yahoo Finance)
 - [macro] WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship (BBC News)
 - [macro] Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth (Yahoo Finance)
