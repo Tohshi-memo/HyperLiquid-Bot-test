@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T17:52:20.639008+00:00`
-- Market context score: `51.55`
-- News risk score: `38.4`
-- Macro risk score: `25.53`
-- Risk-on score: `34.41`
-- Articles: `51`
+- Generated: `2026-05-09T18:07:15.486092+00:00`
+- Market context score: `52.02`
+- News risk score: `37.88`
+- Macro risk score: `24.21`
+- Risk-on score: `34.51`
+- Articles: `52`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `776`
-- Day/swing latest: `2026-05-09T17:45:00+00:00`
+- Day/swing records: `777`
+- Day/swing latest: `2026-05-09T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `1`
-- macro: articles `33`, risk hits `5`, risk headline rate `0.1515`, policy hits `10`
+- macro: articles `34`, risk hits `5`, risk headline rate `0.1471`, policy hits `6`
 
 ## Headlines
 
+- [macro] Greece conducts controlled blast of mystery naval drone explosives (BBC News)
+- [macro] This Fund Sold Out of Klaviyo Before a Brutal 32% Post-Earnings Drop (Yahoo Finance)
+- [macro] My Top 3 Energy Stocks for May 2026 (Yahoo Finance)
+- [macro] BofA revises Harley-Davidson stock price after latest announcement (Yahoo Finance)
 - [macro] Vanguard VOO vs. iShares IWO: How S&P 500 Stability Compares to Small-Cap Growth Potential (Yahoo Finance)
 - [macro] Apollo CEO warns there’s now a 35% chance of a major market shock amid AI-driven upheaval. How to stay afloat (Yahoo Finance)
 - [macro] Person killed after being hit by plane on runway at Denver airport (BBC News)
 - [crypto] Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Steve Rosenberg: This year's Victory Day parade in Moscow felt very different (BBC News)
 - [macro] Jensen Huang Just Made a Major Announcement. Here's What It Means for Nvidia Investors. (Yahoo Finance)
-- [macro] Willdan Stock Is Skyrocketing, but One Fund Still Cashed Out $7.7 Million (Yahoo Finance)
-- [macro] Fed official triggers new rate-cut warning (Yahoo Finance)
-- [macro] Surprising jobs report complicates Fed rate-cut bet (Yahoo Finance)
-- [macro] 'A good scapegoat': Wall Street assesses latest AI-linked job cuts (Yahoo Finance)
