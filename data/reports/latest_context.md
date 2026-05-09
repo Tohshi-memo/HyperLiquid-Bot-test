@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-09T07:52:14.601307+00:00`
+- Generated: `2026-05-09T08:07:19.198780+00:00`
 - Market context score: `38.42`
 - News risk score: `52.94`
 - Macro risk score: `30.93`
 - Risk-on score: `19.54`
 - Articles: `26`
-- Polymarket markets: `402`
+- Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `736`
-- Day/swing latest: `2026-05-09T07:45:00+00:00`
+- Day/swing records: `737`
+- Day/swing latest: `2026-05-09T08:00:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [macro] Hungary's new PM to be sworn in during 'regime change' party (BBC News)
 - [macro] Anger and resignation in Tenerife as hantavirus ship approaches (BBC News)
 - [crypto] Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally? (Cointelegraph.com News)
-- [macro] From trusted aide to biggest rival: Suvendu Adhikari set to become West Bengal chief minister (BBC News)
+- [macro] From trusted aide to biggest rival: Suvendu Adhikari becomes West Bengal chief minister (BBC News)
 - [macro] The UK is set for a staycation summer - and there are plenty of hidden gems (BBC News)
