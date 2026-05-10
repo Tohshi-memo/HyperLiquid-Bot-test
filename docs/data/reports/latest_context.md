@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-10T01:52:18.588514+00:00`
-- Market context score: `45.78`
-- News risk score: `34.29`
-- Macro risk score: `30.03`
-- Risk-on score: `19.81`
-- Articles: `30`
+- Generated: `2026-05-10T02:07:16.837614+00:00`
+- Market context score: `54.9`
+- News risk score: `29.27`
+- Macro risk score: `22.95`
+- Risk-on score: `33.17`
+- Articles: `29`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `808`
-- Day/swing latest: `2026-05-10T01:45:00+00:00`
+- Day/swing records: `809`
+- Day/swing latest: `2026-05-10T02:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `2`
-- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `2`
+- macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
 
 ## Headlines
 
 - [macro] Tenerife medics poised for arrival of virus-hit cruise ship (BBC News)
 - [macro] Putin says he thinks Ukraine conflict 'coming to an end' (BBC News)
 - [crypto] CZ says crypto exchange rivals opposed his pardon bid (Cointelegraph.com News)
+- [macro] Indian model's understated Met Gala debut revives debate on cultural representation (BBC News)
+- [macro] Another year, another controversy for Eurovision - but fans are sticking by it (BBC News)
+- [macro] Why Canada is seeing its biggest military recruitment surge in 30 years (BBC News)
 - [crypto] 7 major Bitcoin mining pools join Stratum V2, working group (Cointelegraph.com News)
 - [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [crypto] Strategy CEO Phong Le says company will sell BTC only in specific cases (Cointelegraph.com News)
 - [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
-- [crypto] The CLARITY Act will help reshore the crypto industry in the US — Attorney (Cointelegraph.com News)
-- [macro] Iran demands guarantees for World Cup participation (BBC News)
-- [macro] Greece conducts controlled blast of mystery naval drone explosives (BBC News)
