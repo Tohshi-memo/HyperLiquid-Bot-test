@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-10T03:07:18.859990+00:00`
-- Market context score: `53.52`
-- News risk score: `31.12`
-- Macro risk score: `24.0`
-- Risk-on score: `32.05`
-- Articles: `25`
+- Generated: `2026-05-10T03:22:12.407960+00:00`
+- Market context score: `53.09`
+- News risk score: `31.75`
+- Macro risk score: `24.08`
+- Risk-on score: `31.67`
+- Articles: `24`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `813`
-- Day/swing latest: `2026-05-10T03:00:00+00:00`
+- Day/swing records: `814`
+- Day/swing latest: `2026-05-10T03:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `2`
+- crypto: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
 - macro: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [macro] Buddhist monk arrested over alleged rape of teen in Sri Lanka (BBC News)
 - [macro] Tenerife medics poised for arrival of virus-hit cruise ship (BBC News)
 - [macro] Putin says he thinks Ukraine conflict 'coming to an end' (BBC News)
 - [crypto] CZ says crypto exchange rivals opposed his pardon bid (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] 7 major Bitcoin mining pools join Stratum V2, working group (Cointelegraph.com News)
 - [macro] Lebanon says Israeli strikes killed 39 (BBC News)
 - [crypto] Strategy CEO Phong Le says company will sell BTC only in specific cases (Cointelegraph.com News)
-- [macro] Mexican parents criticise ending school year a month early for World Cup (BBC News)
