@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-10T05:50:14.363090+00:00`
+- Generated: `2026-05-10T05:55:15.526562+00:00`
 - Flow alert score: `17.56`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `20419300.68`
+- Polymarket 24h volume: `20498198.93`
 - Polymarket volume z-score: `0.14`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1050679.5222350005` | liquidity: `523997.02888`
-- Hantavirus pandemic in 2026? | 24h volume: `1041804.5327409985` | liquidity: `1592246.69183`
-- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `760008.7994980006` | liquidity: `345944.33814`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `667383.2398780003` | liquidity: `383653.1652`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `602133.0658259998` | liquidity: `391576.37561`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `601751.1277740011` | liquidity: `881944.7464`
-- Epstein suicide note released by May 8? | 24h volume: `588922.8925159996` | liquidity: `86922.73685`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1049539.2749820007` | liquidity: `524890.66328`
+- Hantavirus pandemic in 2026? | 24h volume: `1044799.8184339986` | liquidity: `1544173.53812`
+- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `759121.0335230007` | liquidity: `346558.34767`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `667201.9070380002` | liquidity: `382458.6061`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `602922.275001001` | liquidity: `892947.3943`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `601891.2722259999` | liquidity: `391402.32987`
+- Epstein suicide note released by May 8? | 24h volume: `520557.6225159998` | liquidity: `86577.1784`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
