@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-10T12:07:17.506867+00:00`
-- Observed: `2026-05-10T12:00:00+00:00`
+- Generated: `2026-05-10T12:22:18.589711+00:00`
+- Observed: `2026-05-10T12:15:00+00:00`
 - Assets: `735`
 
 ## Top Activity
 
-- `km:MU` equity price `775.205` 4h `0.3807` vol `231867.34` relationship `market_context_high->km:MU_24h`
-- `flx:COIN` equity price `201.895` 4h `0.0421` vol `11640.58` relationship `market_context_high->flx:COIN_24h`
-- `xyz:SNDK` equity price `1572.0` 4h `0.3031` vol `3006850.7` relationship `market_context_high->xyz:SNDK_24h`
-- `xyz:DRAM` equity price `56.615` 4h `0.4747` vol `3035148.15` relationship `market_context_high->xyz:DRAM_24h`
-- `xyz:MU` equity price `776.215` 4h `0.2273` vol `6982247.91` relationship `market_context_high->xyz:MU_24h`
-- `vntl:ANTHROPIC` equity price `1078.35` 4h `1.6544` vol `5964094.06` relationship `market_context_high->vntl:ANTHROPIC_4h`
-- `flx:CRCL` equity price `116.93` 4h `0.3433` vol `3640.04` relationship `market_context_high->flx:CRCL_24h`
-- `DOGE` crypto_major price `0.107945` 4h `-0.5711` vol `16238005.28` relationship `market_context_high->DOGE_24h`
-- `xyz:SKHX` equity price `1260.95` 4h `0.0` vol `553818.12` relationship `market_context_high->xyz:SKHX_24h`
+- `km:MU` equity price `775.245` 4h `0.3917` vol `247712.11` relationship `market_context_high->km:MU_24h`
+- `flx:COIN` equity price `202.04` 4h `-0.1236` vol `11640.58` relationship `market_context_high->flx:COIN_24h`
+- `xyz:SNDK` equity price `1570.3` 4h `0.1914` vol `3038135.36` relationship `market_context_high->xyz:SNDK_24h`
+- `xyz:DRAM` equity price `56.6165` 4h `0.4346` vol `2922103.98` relationship `market_context_high->xyz:DRAM_24h`
+- `xyz:MU` equity price `775.46` 4h `0.3721` vol `6957664.52` relationship `market_context_high->xyz:MU_24h`
+- `vntl:ANTHROPIC` equity price `1078.7` 4h `1.8843` vol `5791120.52` relationship `market_context_high->vntl:ANTHROPIC_4h`
+- `flx:CRCL` equity price `116.93` 4h `0.3605` vol `3640.04` relationship `market_context_high->flx:CRCL_24h`
+- `xyz:SKHX` equity price `1260.95` 4h `0.0` vol `548130.19` relationship `market_context_high->xyz:SKHX_24h`
+- `DOGE` crypto_major price `0.108005` 4h `-0.6165` vol `15805794.81` relationship `market_context_high->DOGE_24h`
 - `vntl:SEMIS` index price `580.5` 4h `0.0` vol `9211.13` relationship `market_context_high->vntl:SEMIS_24h`
-- `km:SEMI` index price `525.32` 4h `0.1115` vol `1038.25` relationship `market_context_high->km:SEMI_24h`
-- `xyz:CRCL` equity price `116.855` 4h `0.5637` vol `2913374.16` relationship `market_context_high->xyz:CRCL_24h`
-- `km:BMNR` equity price `22.426` 4h `0.2145` vol `41879.53` relationship `market_context_high->km:BMNR_24h`
-- `HYPE` crypto_major price `42.6995` 4h `-0.8361` vol `133268932.95` relationship `market_context_high->HYPE_24h`
-- `LAYER` crypto_alt price `0.131535` 4h `-5.1692` vol `4618491.96` relationship `none`
-- `DYM` crypto_alt price `0.02395` 4h `2.1322` vol `1609471.91` relationship `none`
-- `SOL` crypto_major price `93.3935` 4h `-0.1251` vol `167754387.64` relationship `market_context_high->SOL_24h`
-- `xyz:SMSN` equity price `207.285` 4h `-0.0747` vol `72407.64` relationship `market_context_high->xyz:SMSN_24h`
-- `kLUNC` crypto_alt price `0.102535` 4h `7.4948` vol `591401.45` relationship `none`
-- `BTC` crypto_major price `80775.5` 4h `0.0967` vol `863774804.64` relationship `market_context_high->BTC_24h`
+- `km:SEMI` index price `525.165` 4h `0.0867` vol `1038.25` relationship `market_context_high->km:SEMI_24h`
+- `xyz:CRCL` equity price `117.0` 4h `0.6278` vol `2866813.99` relationship `market_context_high->xyz:CRCL_24h`
+- `km:BMNR` equity price `22.417` 4h `0.0893` vol `37876.92` relationship `market_context_high->km:BMNR_24h`
+- `HYPE` crypto_major price `42.6645` 4h `-0.6034` vol `132925700.03` relationship `market_context_high->HYPE_24h`
+- `LAYER` crypto_alt price `0.1312` 4h `-4.9413` vol `4686189.08` relationship `none`
+- `xyz:SMSN` equity price `207.35` 4h `-0.0434` vol `72396.03` relationship `market_context_high->xyz:SMSN_24h`
+- `SOL` crypto_major price `93.3475` 4h `-0.5317` vol `166243209.68` relationship `market_context_high->SOL_24h`
+- `kLUNC` crypto_alt price `0.10136` 4h `6.715` vol `594329.81` relationship `none`
+- `DYM` crypto_alt price `0.02403` 4h `2.0382` vol `1558909.35` relationship `none`
+- `BTC` crypto_major price `80841.5` 4h `0.0842` vol `860033703.6` relationship `market_context_high->BTC_24h`

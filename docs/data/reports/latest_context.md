@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-10T12:07:17.506867+00:00`
-- Market context score: `46.6`
-- News risk score: `40.0`
-- Macro risk score: `37.67`
-- Risk-on score: `29.33`
+- Generated: `2026-05-10T12:22:18.589711+00:00`
+- Market context score: `49.18`
+- News risk score: `41.16`
+- Macro risk score: `35.48`
+- Risk-on score: `35.23`
 - Articles: `15`
 - Polymarket markets: `400`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `849`
-- Day/swing latest: `2026-05-10T12:00:00+00:00`
+- Day/swing records: `850`
+- Day/swing latest: `2026-05-10T12:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.2`, policy hits `1`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 - macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI (Energy)
 - [macro] Israel deports two activists detained on board Gaza flotilla (BBC News)
 - [macro] Retailers are on a hiring spree. But consumers are sending warning signs (Economy)
 - [macro] Spain starts evacuating virus-hit cruise ship in Tenerife (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war (Energy)
 - [crypto] Trump Media posts $406M quarterly loss as crypto bets turn sour (Cointelegraph.com News)
 - [crypto] Santiment flags risk as crypto bullish talk spikes while BTC holds $80K (Cointelegraph.com News)
-- [macro] Campaigners call for ban on use of weedkiller glyphosate at harvest time (BBC News)
