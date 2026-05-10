@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-10T08:25:16.320229+00:00`
+- Generated: `2026-05-10T08:30:16.050372+00:00`
 - Flow alert score: `17.52`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `20627851.33`
+- Polymarket 24h volume: `20660949.22`
 - Polymarket volume z-score: `0.13`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Hantavirus pandemic in 2026? | 24h volume: `1084550.7459989984` | liquidity: `1565675.93923`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1078481.2201910003` | liquidity: `433697.2226`
-- Counter-Strike: MOUZ vs G2 (BO3) - PGL Astana Group Stage | 24h volume: `844441.1104220002` | liquidity: `53688.4903`
-- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `777512.4078620006` | liquidity: `522678.87333`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `716090.6879450001` | liquidity: `303117.1781`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `608627.57397` | liquidity: `419235.2939`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `582469.1215850009` | liquidity: `1663623.109`
+- Hantavirus pandemic in 2026? | 24h volume: `1083426.3449619983` | liquidity: `1569022.57257`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1079831.2634440002` | liquidity: `435894.53133`
+- Counter-Strike: MOUZ vs G2 (BO3) - PGL Astana Group Stage | 24h volume: `878707.3847140004` | liquidity: `741735.82898`
+- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `778141.3825760006` | liquidity: `538801.26066`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `716745.5989080003` | liquidity: `299356.2854`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `607957.468906` | liquidity: `440720.11227`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `582409.0349200009` | liquidity: `1864855.3207`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
