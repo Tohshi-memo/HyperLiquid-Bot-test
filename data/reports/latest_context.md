@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-10T13:52:16.644519+00:00`
-- Market context score: `50.01`
-- News risk score: `37.29`
-- Macro risk score: `35.29`
-- Risk-on score: `33.73`
-- Articles: `17`
+- Generated: `2026-05-10T14:07:18.607623+00:00`
+- Market context score: `49.17`
+- News risk score: `37.72`
+- Macro risk score: `38.32`
+- Risk-on score: `33.38`
+- Articles: `19`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `856`
-- Day/swing latest: `2026-05-10T13:45:00+00:00`
+- Day/swing records: `857`
+- Day/swing latest: `2026-05-10T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `6`, risk hits `2`, risk headline rate `0.1667`, policy hits `1`
-- macro: articles `9`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.1429`, policy hits `1`
+- macro: articles `10`, risk hits `6`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Agentic commerce will run on crypto rails, PayPal and Google reps tell Consensus Miami (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Putin says he thinks Ukraine conflict 'coming to an end' (BBC News)
 - [macro] First passengers fly home from virus-hit cruise ship (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bored Ape NFTs are finally making a comeback as crypto traders rediscover their appetite for risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [commodity] Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI (Energy)
 - [macro] Israel deports two activists detained on board Gaza flotilla (BBC News)
 - [macro] Retailers are on a hiring spree. But consumers are sending warning signs (Economy)
-- [crypto] South Korea crypto holdings halve in a year as investors turn to stock market (Cointelegraph.com News)
-- [crypto] Bitcoin price may dip toward $70K as Fed estimates hotter inflation print (Cointelegraph.com News)
