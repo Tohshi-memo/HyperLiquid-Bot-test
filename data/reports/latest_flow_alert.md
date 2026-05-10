@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-10T19:10:18.191097+00:00`
-- Flow alert score: `18.16`
+- Generated: `2026-05-10T19:15:20.292776+00:00`
+- Flow alert score: `18.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `25056632.62`
-- Polymarket volume z-score: `0.29`
+- Polymarket 24h volume: `25387204.71`
+- Polymarket volume z-score: `0.31`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1470208.9812200002` | liquidity: `205159.66345`
-- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `1409922.684928999` | liquidity: `205323.82916`
-- Hantavirus pandemic in 2026? | 24h volume: `1123028.0832259974` | liquidity: `1219544.26845`
-- LoL: Movistar KOI vs G2 Esports (BO3) - LEC Regular Season | 24h volume: `1025061.9040730004` | liquidity: `35139.3256`
-- Internazionali BNL d'Italia: Learner Tien vs Alexander Bublik | 24h volume: `960556.0583599994` | liquidity: `529700.90525`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `893270.6998859996` | liquidity: `845031.73`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `742414.929809` | liquidity: `485756.97909`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1477648.3152390001` | liquidity: `197723.38961`
+- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `1419036.646732999` | liquidity: `199408.05884`
+- Hantavirus pandemic in 2026? | 24h volume: `1122836.5613839973` | liquidity: `1271325.02006`
+- LoL: Movistar KOI vs G2 Esports (BO3) - LEC Regular Season | 24h volume: `1088569.396065` | liquidity: `25163.0105`
+- Internazionali BNL d'Italia: Learner Tien vs Alexander Bublik | 24h volume: `962556.0583599994` | liquidity: `521713.94435`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `925681.7466589997` | liquidity: `298858.9736`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `742544.773659` | liquidity: `482589.99623`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
