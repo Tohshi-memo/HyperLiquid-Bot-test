@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-10T08:22:18.748719+00:00`
-- Market context score: `56.93`
-- News risk score: `28.07`
-- Macro risk score: `31.79`
-- Risk-on score: `40.0`
-- Articles: `14`
+- Generated: `2026-05-10T08:37:13.344863+00:00`
+- Market context score: `55.03`
+- News risk score: `29.91`
+- Macro risk score: `35.48`
+- Risk-on score: `38.73`
+- Articles: `15`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `834`
-- Day/swing latest: `2026-05-10T08:15:00+00:00`
+- Day/swing records: `835`
+- Day/swing latest: `2026-05-10T08:30:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war (Energy)
 - [macro] Virus-hit cruise ship arrives in Tenerife as medics await passengers (BBC News)
 - [crypto] Santiment flags risk as crypto bullish talk spikes while BTC holds $80K (Cointelegraph.com News)
 - [macro] Campaigners call for ban on use of weedkiller glyphosate at harvest time (BBC News)
@@ -36,4 +38,3 @@
 - [macro] Putin says he thinks Ukraine conflict 'coming to an end' (BBC News)
 - [crypto] CZ says crypto exchange rivals opposed his pardon bid (Cointelegraph.com News)
 - [macro] Indian model's understated Met Gala debut revives debate on cultural representation (BBC News)
-- [macro] Another year, another controversy for Eurovision - but fans are sticking by it (BBC News)
