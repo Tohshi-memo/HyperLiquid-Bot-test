@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-10T05:37:14.644185+00:00`
-- Market context score: `58.01`
-- News risk score: `25.76`
-- Macro risk score: `27.24`
+- Generated: `2026-05-10T05:52:15.514366+00:00`
+- Market context score: `57.97`
+- News risk score: `25.81`
+- Macro risk score: `27.32`
 - Risk-on score: `38.72`
-- Articles: `18`
+- Articles: `17`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:376`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `823`
-- Day/swing latest: `2026-05-10T05:30:00+00:00`
+- Day/swing records: `824`
+- Day/swing latest: `2026-05-10T05:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
 
 ## Headlines
 
+- [macro] Virus-hit cruise ship arrives in Tenerife as medics await passengers (BBC News)
 - [macro] Campaigners call for ban on use of weedkiller glyphosate at harvest time (BBC News)
-- [macro] Tenerife medics poised to receive virus-hit cruise ship passengers (BBC News)
 - [macro] Suspected boat explosion injures 11 in Miami (BBC News)
 - [macro] Buddhist monk arrested over alleged rape of teen in Sri Lanka (BBC News)
 - [macro] How could extreme weather affect World Cup 2026? (BBC News)
