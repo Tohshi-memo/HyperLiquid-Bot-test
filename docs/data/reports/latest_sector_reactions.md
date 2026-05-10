@@ -2,7 +2,7 @@
 
 Sector reaction data tracks how ETF sector proxies moved after public conditions. It is a hypothesis dataset, not a trade signal.
 
-- Generated: `2026-05-10T04:37:17.775883+00:00`
+- Generated: `2026-05-10T04:52:13.181650+00:00`
 - Price records: `6500`
 - Reaction rows: `120580`
 - Stored reaction rows: `5000`
