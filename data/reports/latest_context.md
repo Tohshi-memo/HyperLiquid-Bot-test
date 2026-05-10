@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-10T09:16:55.826035+00:00`
-- Market context score: `55.03`
-- News risk score: `29.91`
-- Macro risk score: `35.48`
+- Generated: `2026-05-10T09:22:16.264084+00:00`
+- Market context score: `55.69`
+- News risk score: `28.91`
+- Macro risk score: `33.82`
 - Risk-on score: `38.73`
 - Articles: `15`
 - Polymarket markets: `400`
@@ -23,13 +23,14 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
 - [macro] Spain starts evacuating virus-hit cruise ship in Tenerife (BBC News)
 - [commodity] Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war (Energy)
+- [crypto] Trump Media posts $406M quarterly loss as crypto bets turn sour (Cointelegraph.com News)
 - [crypto] Santiment flags risk as crypto bullish talk spikes while BTC holds $80K (Cointelegraph.com News)
 - [macro] Campaigners call for ban on use of weedkiller glyphosate at harvest time (BBC News)
 - [macro] Suspected boat explosion injures 11 in Miami (BBC News)
@@ -37,4 +38,3 @@
 - [macro] How could extreme weather affect World Cup 2026? (BBC News)
 - [macro] Putin says he thinks Ukraine conflict 'coming to an end' (BBC News)
 - [crypto] CZ says crypto exchange rivals opposed his pardon bid (Cointelegraph.com News)
-- [macro] Indian model's understated Met Gala debut revives debate on cultural representation (BBC News)
