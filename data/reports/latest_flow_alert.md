@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-11T06:10:17.926694+00:00`
-- Flow alert score: `19.36`
+- Generated: `2026-05-11T06:15:15.836574+00:00`
+- Flow alert score: `19.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `32091445.92`
-- Polymarket volume z-score: `0.59`
+- Polymarket 24h volume: `32249140.64`
+- Polymarket volume z-score: `0.6`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `2593640.966252` | liquidity: `310343.64705`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2024773.3228520008` | liquidity: `410669.70352`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2001000.9876989997` | liquidity: `717074.27826`
-- Will Trump visit China by May 15? | 24h volume: `1556772.8229979991` | liquidity: `706099.18305`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1465102.4822540004` | liquidity: `1117896.9594`
-- Hantavirus pandemic in 2026? | 24h volume: `1201897.1254859972` | liquidity: `1213843.23307`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1060140.4642260002` | liquidity: `530941.53381`
+- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `2595754.221164` | liquidity: `311471.34817`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2025578.8982890008` | liquidity: `415596.00525`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2001117.103699` | liquidity: `716013.81882`
+- Will Trump visit China by May 15? | 24h volume: `1638389.799298999` | liquidity: `727279.31455`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1463965.3264800007` | liquidity: `1246441.9063`
+- Hantavirus pandemic in 2026? | 24h volume: `1173892.761328997` | liquidity: `1218431.45099`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1064302.3856560003` | liquidity: `540707.98071`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
