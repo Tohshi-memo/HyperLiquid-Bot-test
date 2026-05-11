@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-11T16:05:19.037284+00:00`
-- Flow alert score: `21.6`
+- Generated: `2026-05-11T16:10:33.413157+00:00`
+- Flow alert score: `21.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `43459228.64`
-- Polymarket volume z-score: `1.15`
+- Polymarket 24h volume: `43903649.58`
+- Polymarket volume z-score: `1.17`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `3006884.9606960006` | liquidity: `1702184.84723`
-- Will Trump visit China by May 15? | 24h volume: `2731279.9591059913` | liquidity: `950832.43917`
-- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `2474945.945427002` | liquidity: `221425.80718`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2441706.0592230004` | liquidity: `506484.36768`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1687353.949592001` | liquidity: `1192431.5515`
-- Internazionali BNL d'Italia: Coco Gauff vs Iva Jovic | 24h volume: `1617115.3573259981` | liquidity: `1132429.07364`
-- Hantavirus pandemic in 2026? | 24h volume: `1582393.6846559949` | liquidity: `1350087.33074`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `3007093.3446960007` | liquidity: `1698106.72218`
+- Will Trump visit China by May 15? | 24h volume: `2725832.045220991` | liquidity: `967681.58843`
+- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `2472897.9726950023` | liquidity: `220609.62865`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2400206.603836` | liquidity: `541062.88125`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1689135.204145001` | liquidity: `1208843.8203`
+- Internazionali BNL d'Italia: Coco Gauff vs Iva Jovic | 24h volume: `1617140.997325998` | liquidity: `1119036.12999`
+- Hantavirus pandemic in 2026? | 24h volume: `1588603.4092099941` | liquidity: `1373289.81227`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
