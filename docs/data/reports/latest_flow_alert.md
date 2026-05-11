@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-11T11:05:16.884699+00:00`
-- Flow alert score: `20.16`
+- Generated: `2026-05-11T11:10:25.803628+00:00`
+- Flow alert score: `20.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `36244772.87`
-- Polymarket volume z-score: `0.79`
+- Polymarket 24h volume: `36600370.7`
+- Polymarket volume z-score: `0.81`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `2606301.990912` | liquidity: `256891.11367`
-- Will Trump visit China by May 15? | 24h volume: `2323619.8550679954` | liquidity: `659043.6598`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2100046.012031` | liquidity: `680517.77336`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2099320.4222510015` | liquidity: `551093.15574`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1594862.7314760035` | liquidity: `908990.0876`
-- Hantavirus pandemic in 2026? | 24h volume: `1403397.3444039966` | liquidity: `1070817.58602`
-- Epstein suicide note released by May 8? | 24h volume: `1197983.5319299998` | liquidity: `402246.76457`
+- US x Iran permanent peace deal by May 11, 2026? | 24h volume: `2647423.897119` | liquidity: `237561.72343`
+- Will Trump visit China by May 15? | 24h volume: `2327121.1610569945` | liquidity: `658003.48154`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `2104279.0797770014` | liquidity: `549314.21456`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2100201.7830310003` | liquidity: `681735.02353`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1600705.1024250034` | liquidity: `905548.4009`
+- Hantavirus pandemic in 2026? | 24h volume: `1394942.6625239966` | liquidity: `1069020.78878`
+- Epstein suicide note released by May 8? | 24h volume: `1202291.0219249998` | liquidity: `398759.45055`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
