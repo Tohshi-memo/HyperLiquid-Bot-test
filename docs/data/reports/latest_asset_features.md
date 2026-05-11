@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-10T14:13:12.747201+00:00`
-- Observed: `2026-05-10T14:00:00+00:00`
-- Assets: `735`
+- Generated: `2026-05-11T23:15:53.356993+00:00`
+- Observed: `2026-05-11T23:15:00+00:00`
+- Assets: `736`
 
 ## Top Activity
 
-- `km:MU` equity price `773.66` 4h `0.1035` vol `259349.44` relationship `market_context_high->km:MU_24h`
-- `flx:COIN` equity price `202.18` 4h `0.1759` vol `11640.58` relationship `market_context_high->flx:COIN_24h`
-- `xyz:SNDK` equity price `1573.25` 4h `0.338` vol `3059069.76` relationship `market_context_high->xyz:SNDK_24h`
-- `xyz:DRAM` equity price `56.616` 4h `0.0751` vol `2411187.33` relationship `market_context_high->xyz:DRAM_24h`
-- `xyz:MU` equity price `776.92` 4h `0.1069` vol `6709154.21` relationship `market_context_high->xyz:MU_24h`
-- `vntl:ANTHROPIC` equity price `1061.65` 4h `-0.174` vol `5378554.62` relationship `market_context_high->vntl:ANTHROPIC_4h`
-- `flx:CRCL` equity price `117.225` 4h `0.4327` vol `3241.74` relationship `market_context_high->flx:CRCL_24h`
-- `xyz:SKHX` equity price `1260.95` 4h `0.0` vol `508326.04` relationship `market_context_high->xyz:SKHX_24h`
-- `vntl:SEMIS` index price `580.5` 4h `0.0` vol `9435.16` relationship `market_context_high->vntl:SEMIS_24h`
-- `DOGE` crypto_major price `0.108275` 4h `0.2593` vol `15351290.22` relationship `market_context_high->DOGE_24h`
-- `km:SEMI` index price `525.035` 4h `0.0171` vol `1038.25` relationship `market_context_high->km:SEMI_24h`
-- `xyz:CRCL` equity price `117.02` 4h `0.3387` vol `2942916.52` relationship `market_context_high->xyz:CRCL_24h`
-- `km:BMNR` equity price `22.457` 4h `0.2858` vol `42773.63` relationship `market_context_high->km:BMNR_24h`
-- `HYPE` crypto_major price `43.0785` 4h `0.746` vol `126188818.55` relationship `market_context_high->HYPE_24h`
-- `LAYER` crypto_alt price `0.12996` 4h `-8.1717` vol `4905589.56` relationship `none`
-- `UNI` crypto_alt price `4.13755` 4h `5.1461` vol `8090243.79` relationship `none`
-- `SOL` crypto_major price `93.9205` 4h `-0.117` vol `161877899.74` relationship `market_context_high->SOL_24h`
-- `xyz:SMSN` equity price `207.175` 4h `-0.0265` vol `163721.56` relationship `market_context_high->xyz:SMSN_24h`
-- `REZ` crypto_alt price `0.007126` 4h `8.6446` vol `743614.63` relationship `none`
-- `XRP` crypto_major price `1.43275` 4h `0.5192` vol `21319614.74` relationship `market_context_high->XRP_24h`
+- `flx:CRCL` equity price `131.355` 4h `12.0537` vol `691127.35` relationship `market_context_high->flx:CRCL_24h`
+- `flx:COIN` equity price `214.635` 4h `6.1604` vol `1093912.61` relationship `market_context_high->flx:COIN_24h`
+- `xyz:CRCL` equity price `131.6` 4h `12.4594` vol `99983095.68` relationship `market_context_high->xyz:CRCL_24h`
+- `km:MU` equity price `798.53` 4h `3.2146` vol `844772.97` relationship `market_context_high->km:MU_24h`
+- `xyz:SKHX` equity price `1346.8` 4h `6.8084` vol `16135246.15` relationship `market_context_high->xyz:SKHX_24h`
+- `xyz:MU` equity price `798.955` 4h `2.8362` vol `149645484.2` relationship `market_context_high->xyz:MU_24h`
+- `vntl:ANTHROPIC` equity price `1121.15` 4h `5.6045` vol `981929.64` relationship `market_context_high->vntl:ANTHROPIC_4h`
+- `cash:SILVER` metal price `86.6135` 4h `6.8676` vol `13160241.43` relationship `market_context_high->cash:SILVER_24h`
+- `flx:SILVER` metal price `86.6055` 4h `6.7978` vol `2993844.69` relationship `market_context_high->flx:SILVER_24h`
+- `km:SILVER` metal price `86.632` 4h `6.8146` vol `1497992.1` relationship `market_context_high->km:SILVER_24h`
+- `xyz:LITE` equity price `1055.85` 4h `8.1947` vol `8077917.75` relationship `market_context_high->xyz:LITE_24h`
+- `km:BMNR` equity price `22.997` 4h `2.4046` vol `441402.61` relationship `market_context_high->km:BMNR_24h`
+- `DOGE` crypto_major price `0.111115` 4h `2.623` vol `34728292.98` relationship `market_context_high->DOGE_24h`
+- `xyz:HOOD` equity price `80.72` 4h `4.038` vol `10960224.25` relationship `market_context_high->xyz:HOOD_24h`
+- `flx:PLATINUM` metal price `2147.0` 4h `4.2461` vol `183055.76` relationship `market_context_high->flx:PLATINUM_24h`
+- `SOL` crypto_major price `97.4305` 4h `3.7372` vol `430001220.55` relationship `market_context_high->SOL_24h`
+- `xyz:COIN` equity price `214.77` 4h `6.0095` vol `28143068.26` relationship `market_context_high->xyz:COIN_24h`
+- `flx:OIL` commodity price `94.923` 4h `4.6722` vol `3408438.33` relationship `market_context_high->flx:OIL_24h`
+- `XRP` crypto_major price `1.47355` 4h `2.8477` vol `69089404.28` relationship `market_context_high->XRP_24h`
+- `km:USOIL` commodity price `138.96` 4h `4.493` vol `4241591.93` relationship `market_context_high->km:USOIL_24h`

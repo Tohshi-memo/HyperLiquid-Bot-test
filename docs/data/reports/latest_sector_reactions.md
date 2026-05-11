@@ -2,55 +2,55 @@
 
 Sector reaction data tracks how ETF sector proxies moved after public conditions. It is a hypothesis dataset, not a trade signal.
 
-- Generated: `2026-05-10T14:13:12.747201+00:00`
+- Generated: `2026-05-11T23:15:53.356993+00:00`
 - Price records: `6500`
-- Reaction rows: `120580`
+- Reaction rows: `120572`
 - Stored reaction rows: `5000`
 - Minimum samples: `20`
 - Horizons: `1d, 5d, 20d, 60d, 120d, 252d`
 
 ## Sector Snapshot
 
-- `SMH` semiconductors: 5d `10.8195`, 20d `29.3215`, 60d `36.212`
-- `XLK` technology: 5d `8.1053`, 20d `22.6967`, 60d `22.5485`
-- `QQQ` nasdaq_100: 5d `5.2704`, 20d `16.1373`, 60d `15.8968`
-- `SPY` broad_market: 5d `2.2965`, 20d `8.4979`, 60d `6.8289`
-- `IWM` small_caps: 5d `1.5074`, 20d `8.4922`, 60d `7.1879`
-- `XLY` consumer_discretionary: 5d `1.5637`, 20d `6.7278`, 60d `2.5196`
-- `XLU` utilities: 5d `-3.5553`, 20d `-4.3974`, 60d `1.3879`
-- `XLRE` real_estate: 5d `0.5415`, 20d `4.0635`, 60d `4.8119`
-- `IYR` real_estate_broad: 5d `0.6594`, 20d `4.0547`, 60d `4.4417`
-- `XLV` healthcare: 5d `-1.2262`, 20d `-2.6678`, 60d `-7.8596`
-- `XLP` consumer_staples: 5d `0.4455`, 20d `2.6405`, 60d `-3.8225`
-- `XLC` communication_services: 5d `0.0427`, 20d `2.4747`, 60d `0.3448`
+- `SMH` semiconductors: 5d `13.7177`, 20d `29.9928`, 60d `41.9098`
+- `XLK` technology: 5d `9.7686`, 20d `22.1619`, 60d `27.937`
+- `QQQ` nasdaq_100: 5d `6.0055`, 20d `15.5331`, 60d `18.9047`
+- `SPY` broad_market: 5d `2.9651`, 20d `7.754`, 60d `8.8143`
+- `IWM` small_caps: 5d `2.681`, 20d `7.6433`, 60d `10.1324`
+- `XLY` consumer_discretionary: 5d `1.4016`, 20d `4.7841`, 60d `2.9965`
+- `XHB` homebuilders: 5d `0.1874`, 20d `-3.7335`, 60d `-14.4509`
+- `XLRE` real_estate: 5d `1.1116`, 20d `3.603`, 60d `4.6643`
+- `IYR` real_estate_broad: 5d `1.1906`, 20d `3.4087`, 60d `4.3073`
+- `XLV` healthcare: 5d `-1.1677`, 20d `-3.3318`, 60d `-7.9308`
+- `XLU` utilities: 5d `-2.6526`, 20d `-2.6945`, 60d `0.4543`
+- `XLP` consumer_staples: 5d `-0.2035`, 20d `2.2318`, 60d `-6.0203`
 
 ## Top Delayed-Reaction Patterns
 
 - `small_caps_5d_up->XLC_252d` score `377.8964`, n `275`, avg `23.4358`, up `86.5455`, status `ready`
-- `broad_risk_on_20d->XLC_252d` score `376.1455`, n `389`, avg `23.3375`, up `84.3188`, status `ready`
-- `semis_5d_up->XLC_252d` score `342.5965`, n `362`, avg `21.2493`, up `82.5967`, status `ready`
+- `broad_risk_on_20d->XLC_252d` score `376.1519`, n `389`, avg `23.3379`, up `84.3188`, status `ready`
+- `semis_5d_up->XLC_252d` score `342.5444`, n `363`, avg `21.2458`, up `82.6446`, status `ready`
 - `rates_sensitive_rebound->XLC_252d` score `339.0965`, n `431`, avg `21.0375`, up `81.2065`, status `ready`
-- `broad_risk_on_20d->SMH_252d` score `337.51`, n `1043`, avg `20.9786`, up `73.1544`, status `ready`
+- `broad_risk_on_20d->SMH_252d` score `337.5212`, n `1043`, avg `20.9793`, up `73.1544`, status `ready`
 - `rates_sensitive_rebound->SMH_252d` score `328.3892`, n `1281`, avg `20.4125`, up `72.3653`, status `ready`
-- `small_caps_5d_up->SMH_252d` score `326.5129`, n `904`, avg `20.2898`, up `73.4513`, status `ready`
-- `broad_risk_on_20d->XHB_252d` score `295.3852`, n `828`, avg `18.3565`, up `71.0145`, status `ready`
-- `defensive_rotation->SMH_252d` score `290.6996`, n `1953`, avg `18.0644`, up `70.8653`, status `ready`
-- `semis_5d_up->XHB_252d` score `280.3342`, n `689`, avg `17.4124`, up `71.6981`, status `ready`
+- `small_caps_5d_up->SMH_252d` score `327.7962`, n `903`, avg `20.3696`, up `73.5327`, status `ready`
+- `broad_risk_on_20d->XHB_252d` score `295.374`, n `828`, avg `18.3558`, up `71.0145`, status `ready`
+- `defensive_rotation->SMH_252d` score `291.8656`, n `1954`, avg `18.1372`, up `70.8802`, status `ready`
+- `semis_5d_up->SMH_252d` score `281.7034`, n `1007`, avg `17.5228`, up `66.7329`, status `ready`
 - `small_caps_5d_up->XHB_252d` score `280.0744`, n `694`, avg `17.3937`, up `72.1902`, status `ready`
-- `defensive_rotation->XLC_252d` score `279.4704`, n `555`, avg `17.3187`, up `79.6396`, status `ready`
-- `semis_5d_up->SMH_252d` score `278.3131`, n `1007`, avg `17.3114`, up `66.6336`, status `ready`
+- `semis_5d_up->XHB_252d` score `280.0559`, n `690`, avg `17.3948`, up `71.7391`, status `ready`
+- `defensive_rotation->XLC_252d` score `279.5453`, n `556`, avg `17.3232`, up `79.6763`, status `ready`
 - `rates_sensitive_rebound->QQQ_252d` score `277.3879`, n `1281`, avg `17.1652`, up `84.3091`, status `ready`
 - `rates_sensitive_rebound->XLK_252d` score `264.5611`, n `1281`, avg `16.3686`, up `83.2943`, status `ready`
-- `small_caps_5d_up->QQQ_252d` score `263.1808`, n `904`, avg `16.279`, up `83.9602`, status `ready`
-- `broad_risk_on_20d->QQQ_252d` score `262.1864`, n `1043`, avg `16.2239`, up `82.5503`, status `ready`
-- `small_caps_5d_up->XLE_252d` score `253.9298`, n `904`, avg `15.7611`, up `71.9027`, status `ready`
-- `small_caps_5d_up->XLY_252d` score `253.7769`, n `904`, avg `15.6813`, up `85.9513`, status `ready`
-- `small_caps_5d_up->XLK_252d` score `250.5003`, n `904`, avg `15.492`, up `82.854`, status `ready`
-- `broad_risk_on_20d->XLK_252d` score `244.0798`, n `1043`, avg `15.1023`, up `80.5369`, status `ready`
-- `broad_risk_on_20d->XLY_252d` score `242.5707`, n `1043`, avg `14.9936`, up `83.4132`, status `ready`
+- `small_caps_5d_up->QQQ_252d` score `264.4539`, n `903`, avg `16.3581`, up `84.0532`, status `ready`
+- `broad_risk_on_20d->QQQ_252d` score `262.1912`, n `1043`, avg `16.2242`, up `82.5503`, status `ready`
+- `small_caps_5d_up->XLE_252d` score `254.2434`, n `903`, avg `15.7803`, up `71.9823`, status `ready`
+- `small_caps_5d_up->XLY_252d` score `254.0493`, n `903`, avg `15.6984`, up `85.9358`, status `ready`
+- `small_caps_5d_up->XLK_252d` score `251.6741`, n `903`, avg `15.5649`, up `82.9457`, status `ready`
+- `broad_risk_on_20d->XLK_252d` score `244.0878`, n `1043`, avg `15.1028`, up `80.5369`, status `ready`
+- `broad_risk_on_20d->XLY_252d` score `242.5659`, n `1043`, avg `14.9933`, up `83.4132`, status `ready`
 - `energy_5d_up->XLC_252d` score `238.3088`, n `379`, avg `14.7881`, up `71.2401`, status `ready`
-- `small_caps_5d_up->XLI_252d` score `236.1655`, n `904`, avg `14.6005`, up `81.969`, status `ready`
-- `small_caps_5d_up->IYR_252d` score `234.4052`, n `904`, avg `14.5032`, up `79.4248`, status `ready`
+- `small_caps_5d_up->XLI_252d` score `236.4336`, n `903`, avg `14.6168`, up `82.0598`, status `ready`
+- `small_caps_5d_up->IYR_252d` score `234.3362`, n `903`, avg `14.499`, up `79.402`, status `ready`
 
 ## Conditions
 
