@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-12T14:50:18.308439+00:00`
-- Flow alert score: `21.12`
+- Generated: `2026-05-12T14:55:17.786126+00:00`
+- Flow alert score: `21.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `44899878.65`
-- Polymarket volume z-score: `1.03`
+- Polymarket 24h volume: `45322053.3`
+- Polymarket volume z-score: `1.06`
 
 ## Top Polymarket Markets
 
-- Epstein suicide note released by May 8? | 24h volume: `9811382.070193002` | liquidity: `10496274.2609`
+- Epstein suicide note released by May 8? | 24h volume: `9822911.586665003` | liquidity: `10583807.8109`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump visit China by May 15? | 24h volume: `4021640.8092800123` | liquidity: `2115923.60634`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `1533231.105` | liquidity: `976980.67165`
-- Hantavirus pandemic in 2026? | 24h volume: `1190824.4101230013` | liquidity: `1679159.04079`
-- Counter-Strike: PARIVISION vs G2 (BO3) - PGL Astana Group Stage | 24h volume: `1149979.6001330032` | liquidity: `250118.8276`
-- Internazionali BNL d'Italia: Luciano Darderi vs Alexander Zverev | 24h volume: `1082940.8218100013` | liquidity: `125115.31712`
-- LoL: Hanwha Life Esports vs Dplus KIA (BO3) - Esports World Cup Korea Qualifier Playoffs | 24h volume: `1027313.7944789985` | liquidity: `254318.75704`
+- Will Trump visit China by May 15? | 24h volume: `4038259.179806012` | liquidity: `2112114.1585`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `1533814.365` | liquidity: `973973.76873`
+- Internazionali BNL d'Italia: Luciano Darderi vs Alexander Zverev | 24h volume: `1321377.9257390012` | liquidity: `519388.16534`
+- Counter-Strike: PARIVISION vs G2 (BO3) - PGL Astana Group Stage | 24h volume: `1220443.900133003` | liquidity: `760042.25624`
+- Hantavirus pandemic in 2026? | 24h volume: `1170748.1634540025` | liquidity: `1686919.4967`
+- LoL: Hanwha Life Esports vs Dplus KIA (BO3) - Esports World Cup Korea Qualifier Playoffs | 24h volume: `1027184.8323789985` | liquidity: `277987.18492`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
