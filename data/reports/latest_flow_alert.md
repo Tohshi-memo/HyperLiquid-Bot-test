@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-12T22:20:12.733130+00:00`
-- Flow alert score: `21.76`
+- Generated: `2026-05-12T22:25:16.642911+00:00`
+- Flow alert score: `21.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `48316071.14`
-- Polymarket volume z-score: `1.19`
+- Polymarket 24h volume: `48147389.83`
+- Polymarket volume z-score: `1.18`
 
 ## Top Polymarket Markets
 
-- Epstein suicide note released by May 8? | 24h volume: `7346707.520398` | liquidity: `9220632.24728`
-- Will Trump visit China by May 15? | 24h volume: `7189375.446790003` | liquidity: `2026141.8238`
+- Epstein suicide note released by May 8? | 24h volume: `7344199.400398` | liquidity: `9200743.27893`
+- Will Trump visit China by May 15? | 24h volume: `7196292.154064003` | liquidity: `2049938.24268`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2513458.801` | liquidity: `3102114.4089`
-- Will Trump visit China by May 31? | 24h volume: `2180862.724791` | liquidity: `702965.31215`
-- Counter-Strike: paiN vs FUT Esports (BO3) - IEM Atlanta Group A | 24h volume: `1665332.2605929999` | liquidity: `702461.96333`
-- Counter-Strike: BetBoom Team vs Vitality (BO3) - IEM Atlanta Group A | 24h volume: `1463696.6349639986` | liquidity: `655022.26506`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1369656.2393060003` | liquidity: `1816365.72079`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2513387.37` | liquidity: `3102194.9484`
+- Will Trump visit China by May 31? | 24h volume: `2182954.954791` | liquidity: `741568.69371`
+- Counter-Strike: paiN vs FUT Esports (BO3) - IEM Atlanta Group A | 24h volume: `1665659.7305929998` | liquidity: `701271.07428`
+- Counter-Strike: BetBoom Team vs Vitality (BO3) - IEM Atlanta Group A | 24h volume: `1463707.0749639985` | liquidity: `655365.40746`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1370189.5726380004` | liquidity: `1816619.38641`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
