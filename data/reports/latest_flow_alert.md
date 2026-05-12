@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-12T18:25:19.524034+00:00`
-- Flow alert score: `21.64`
+- Generated: `2026-05-12T18:30:21.765774+00:00`
+- Flow alert score: `21.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `47390301.28`
-- Polymarket volume z-score: `1.16`
+- Polymarket 24h volume: `47459412.9`
+- Polymarket volume z-score: `1.17`
 
 ## Top Polymarket Markets
 
-- Epstein suicide note released by May 8? | 24h volume: `9939900.954331001` | liquidity: `9960745.88841`
+- Epstein suicide note released by May 8? | 24h volume: `9913504.347705005` | liquidity: `9957797.24841`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump visit China by May 15? | 24h volume: `4740357.720142008` | liquidity: `3797809.73685`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2525990.659` | liquidity: `2516902.69206`
-- Internazionali BNL d'Italia: Andrey Rublev vs Nikoloz Basilashvili | 24h volume: `1346393.4483150016` | liquidity: `666000.60418`
-- Hantavirus pandemic in 2026? | 24h volume: `1304758.6831239979` | liquidity: `1777443.58756`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1250808.7410130007` | liquidity: `1915325.65797`
-- Counter-Strike: B8 vs BC.Game Esports (BO3) - IEM Atlanta Group A | 24h volume: `1154682.1416860004` | liquidity: `465805.45146`
+- Will Trump visit China by May 15? | 24h volume: `4739175.901962007` | liquidity: `3688709.47919`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2525917.539` | liquidity: `2518647.95429`
+- Internazionali BNL d'Italia: Andrey Rublev vs Nikoloz Basilashvili | 24h volume: `1346804.5883150017` | liquidity: `613305.39214`
+- Hantavirus pandemic in 2026? | 24h volume: `1300566.2085449977` | liquidity: `1772863.65194`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1250767.6537290006` | liquidity: `1916734.35103`
+- Counter-Strike: B8 vs BC.Game Esports (BO3) - IEM Atlanta Group A | 24h volume: `1154794.6416860004` | liquidity: `457198.39713`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
