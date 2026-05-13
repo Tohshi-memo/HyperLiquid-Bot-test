@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-13T18:50:17.418926+00:00`
+- Generated: `2026-05-13T18:55:22.401868+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `30523970.14`
-- Polymarket volume z-score: `-0.36`
+- Polymarket 24h volume: `30398750.43`
+- Polymarket volume z-score: `-0.37`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Judy Shelton be confirmed as Fed Chair? | 24h volume: `2985114.7355299997` | liquidity: `1458552.77792`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `1831271.794` | liquidity: `2240417.74112`
-- Internazionali BNL d'Italia: Casper Ruud vs Karen Khachanov | 24h volume: `1285846.7257249989` | liquidity: `494440.88122`
-- Jeffrey Epstein foul play confirmed by December 31, 2026? | 24h volume: `1269971.739085` | liquidity: `10056.77174`
-- Hantavirus pandemic in 2026? | 24h volume: `882111.7930089995` | liquidity: `1940410.5419`
-- Will Trump and Xi kiss at their summit? | 24h volume: `857899.6665100002` | liquidity: `245948.99102`
-- Dota 2: PARIVISION vs Tundra Esports (BO3) - DreamLeague Group B | 24h volume: `840266.2464529988` | liquidity: `436104.88788`
+- Will Judy Shelton be confirmed as Fed Chair? | 24h volume: `2985121.10553` | liquidity: `1462044.29241`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `1831271.794` | liquidity: `2485396.38664`
+- Internazionali BNL d'Italia: Casper Ruud vs Karen Khachanov | 24h volume: `1286065.585724999` | liquidity: `490821.73858`
+- Jeffrey Epstein foul play confirmed by December 31, 2026? | 24h volume: `1273260.0390849998` | liquidity: `10644.66211`
+- Hantavirus pandemic in 2026? | 24h volume: `894760.1957399995` | liquidity: `1938752.19507`
+- Will Trump and Xi kiss at their summit? | 24h volume: `867621.6065100002` | liquidity: `238734.00523`
+- Dota 2: PARIVISION vs Tundra Esports (BO3) - DreamLeague Group B | 24h volume: `841913.8720699988` | liquidity: `432301.21536`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
