@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-13T01:20:13.075653+00:00`
+- Generated: `2026-05-13T01:25:16.632634+00:00`
 - Flow alert score: `19.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `41744009.79`
+- Polymarket 24h volume: `41687216.46`
 - Polymarket volume z-score: `0.68`
 
 ## Top Polymarket Markets
 
-- Will Trump visit China by May 15? | 24h volume: `7267091.331348996` | liquidity: `8691201.87084`
+- Will Trump visit China by May 15? | 24h volume: `7262632.321348995` | liquidity: `9072912.84488`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Epstein suicide note released by May 8? | 24h volume: `2822452.2099999995` | liquidity: `9106104.93126`
-- Will Trump visit China by May 31? | 24h volume: `2303572.439402` | liquidity: `3238225.86253`
-- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2191509.303` | liquidity: `3101899.49924`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1351822.3630380002` | liquidity: `1800345.55352`
-- Hantavirus pandemic in 2026? | 24h volume: `1230921.212089001` | liquidity: `1824621.08519`
-- Jeffrey Epstein foul play confirmed by December 31, 2026? | 24h volume: `1050479.023297` | liquidity: `10648.05261`
+- Epstein suicide note released by May 8? | 24h volume: `2822452.2099999995` | liquidity: `9104354.82526`
+- Will Trump visit China by May 31? | 24h volume: `2302697.439402` | liquidity: `3238225.86253`
+- Will Michelle Bowman be confirmed as Fed Chair? | 24h volume: `2191509.303` | liquidity: `3101887.49924`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `1351822.3630380002` | liquidity: `1800330.30945`
+- Hantavirus pandemic in 2026? | 24h volume: `1230880.025425001` | liquidity: `1824218.27844`
+- Jeffrey Epstein foul play confirmed by December 31, 2026? | 24h volume: `1050171.023297` | liquidity: `11070.51064`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
