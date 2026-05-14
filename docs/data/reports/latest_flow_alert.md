@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-14T16:00:25.569170+00:00`
+- Generated: `2026-05-14T16:05:37.789578+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `33565938.08`
-- Polymarket volume z-score: `-0.1`
+- Polymarket 24h volume: `33713927.69`
+- Polymarket volume z-score: `-0.09`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump and Xi kiss at their summit? | 24h volume: `1400804.3746369998` | liquidity: `260437.95596`
-- LoL: Weibo Gaming vs JD Gaming (BO3) - LPL Group Ascend | 24h volume: `1276779.9763990003` | liquidity: `1092756.73976`
-- Will Eduardo Leite win the 2026 Brazilian presidential election? | 24h volume: `1149955.406` | liquidity: `587452.42166`
-- Will Tarcisio de Freitas win the 2026 Brazilian presidential election? | 24h volume: `919110.0801940002` | liquidity: `101306.53967`
-- Jeffrey Epstein foul play confirmed by December 31, 2026? | 24h volume: `877700.2030660002` | liquidity: `12956.47715`
-- Hantavirus pandemic in 2026? | 24h volume: `865752.0202999987` | liquidity: `1958355.26813`
-- Will Hezbollah disarm by December 31? | 24h volume: `793152.489941` | liquidity: `14297.9175`
+- Will Trump and Xi kiss at their summit? | 24h volume: `1401262.320193` | liquidity: `259532.94708`
+- LoL: Weibo Gaming vs JD Gaming (BO3) - LPL Group Ascend | 24h volume: `1277431.1663990002` | liquidity: `1090449.30695`
+- Will Eduardo Leite win the 2026 Brazilian presidential election? | 24h volume: `1149955.406` | liquidity: `587464.81779`
+- Will Tarcisio de Freitas win the 2026 Brazilian presidential election? | 24h volume: `919045.9021940001` | liquidity: `99855.08219`
+- Jeffrey Epstein foul play confirmed by December 31, 2026? | 24h volume: `875671.2030660002` | liquidity: `12510.12836`
+- Hantavirus pandemic in 2026? | 24h volume: `873357.6275619986` | liquidity: `1952445.17686`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `802882.2799019997` | liquidity: `488030.33642`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
