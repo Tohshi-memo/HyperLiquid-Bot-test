@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-15T23:13:04.261084+00:00`
-- Flow alert score: `17.72`
+- Generated: `2026-05-15T23:15:15.861564+00:00`
+- Flow alert score: `17.6`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `36723817.9`
-- Polymarket volume z-score: `0.18`
+- Polymarket 24h volume: `36392147.2`
+- Polymarket volume z-score: `0.15`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Xi meets with Iranian officials by May 15? | 24h volume: `4446432.762641001` | liquidity: `9092.7572`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `3795631.910333997` | liquidity: `67890.0345`
-- Internazionali BNL d'Italia: Jannik Sinner vs Daniil Medvedev | 24h volume: `2901740.026183998` | liquidity: `244611.71185`
-- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1612388.3635719996` | liquidity: `73087.38443`
-- Israel x Syria security agreement by June 30? | 24h volume: `1470693.0042790002` | liquidity: `5713.4785`
-- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1458999.7354260024` | liquidity: `619743.9201`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `1051871.240070001` | liquidity: `27192.14073`
+- Xi meets with Iranian officials by May 15? | 24h volume: `4446432.762641001` | liquidity: `9206.00329`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `3807978.6320789983` | liquidity: `59690.34428`
+- Internazionali BNL d'Italia: Jannik Sinner vs Daniil Medvedev | 24h volume: `2901756.509692998` | liquidity: `342190.11445`
+- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1612369.6635719996` | liquidity: `72764.51173`
+- Israel x Syria security agreement by June 30? | 24h volume: `1470693.0042790002` | liquidity: `5416.858`
+- US x Iran permanent peace deal by May 15, 2026? | 24h volume: `1459106.3654260023` | liquidity: `611986.23169`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `1051890.234854001` | liquidity: `25783.93895`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
