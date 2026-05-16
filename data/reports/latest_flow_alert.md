@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-16T21:50:11.625195+00:00`
+- Generated: `2026-05-16T21:55:12.131868+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `32433972.67`
+- Polymarket 24h volume: `32506557.66`
 - Polymarket volume z-score: `-0.26`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Internazionali BNL d'Italia: Coco Gauff vs Elina Svitolina | 24h volume: `4485536.273732991` | liquidity: `539699.00458`
-- Will Trump and Putin meet next in Australia? | 24h volume: `1516355.2540000123` | liquidity: `22791.03375`
-- Israel x Syria security agreement by June 30? | 24h volume: `1348402.799997` | liquidity: `13146.9956`
-- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `1012455.3080410002` | liquidity: `1174116.52369`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1002496.8990169995` | liquidity: `169482.41493`
-- Trump declassifies new UFO files by May 15? | 24h volume: `943001.9719609993` | liquidity: `566487.97861`
-- Counter-Strike: Legacy vs GamerLegion (BO3) - IEM Atlanta Playoffs | 24h volume: `928236.2166459993` | liquidity: `428271.95789`
+- Internazionali BNL d'Italia: Coco Gauff vs Elina Svitolina | 24h volume: `4485565.969296991` | liquidity: `539606.92781`
+- Will Trump and Putin meet next in Australia? | 24h volume: `1516355.2540000123` | liquidity: `22201.17549`
+- Israel x Syria security agreement by June 30? | 24h volume: `1348402.799997` | liquidity: `13428.9038`
+- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `1022944.9580410001` | liquidity: `1163787.34834`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `994345.3904409995` | liquidity: `168249.1414`
+- Trump declassifies new UFO files by May 15? | 24h volume: `970111.4269609991` | liquidity: `637135.57001`
+- Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - IEM Atlanta Playoffs | 24h volume: `948931.1075240009` | liquidity: `266617.5439`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
