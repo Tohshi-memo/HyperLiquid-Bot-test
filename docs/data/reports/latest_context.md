@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T21:37:12.071876+00:00`
+- Generated: `2026-05-17T21:52:17.587808+00:00`
 - Market context score: `48.86`
 - News risk score: `46.83`
 - Macro risk score: `30.72`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `918`
-- Day/swing latest: `2026-05-17T21:30:00+00:00`
+- Day/swing records: `919`
+- Day/swing latest: `2026-05-17T21:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Goldman Sachs revamps Figma stock price target for rest of 2026 (Yahoo Finance)
 - [macro] President Trump Threw a Wrench in Kevin Warsh's Plans as Federal Reserve Chairman, and It Could Be the Undoing of the Current Bull Market (Yahoo Finance)
 - [macro] BlackRock’s CORO ETF Beat Its Benchmark by 6 Points. One Firm Just Bought $55 Million (Yahoo Finance)
 - [macro] WHO declares Ebola outbreak in DR Congo an international emergency (BBC News)
@@ -36,5 +37,4 @@
 - [macro] What Lone Peak’s $20 Million Thermon Exit Could Signal After Record Earnings (Yahoo Finance)
 - [macro] KBR Stock Has Fallen 45% This Past Year, but One Investor Just Disclosed a New $24 Million Bet (Yahoo Finance)
 - [macro] UAE reports strike near Abu Dhabi nuclear power plant (BBC News)
-- [macro] Is Micron the Next Nvidia? (Yahoo Finance)
 - [macro] TRX Gold Corporation (TRX): 10 Best Gold Mining Stocks to Buy as Central Banks Buy Bullion (Yahoo Finance)
