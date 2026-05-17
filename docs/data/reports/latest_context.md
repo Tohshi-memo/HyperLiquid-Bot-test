@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T22:07:16.556460+00:00`
-- Market context score: `48.86`
-- News risk score: `46.83`
-- Macro risk score: `30.72`
-- Risk-on score: `37.5`
-- Articles: `45`
+- Generated: `2026-05-17T22:22:19.271505+00:00`
+- Market context score: `50.95`
+- News risk score: `44.81`
+- Macro risk score: `31.69`
+- Risk-on score: `40.81`
+- Articles: `47`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `920`
-- Day/swing latest: `2026-05-17T22:00:00+00:00`
+- Day/swing records: `921`
+- Day/swing latest: `2026-05-17T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `38`, risk hits `10`, risk headline rate `0.2368`, policy hits `5`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `39`, risk hits `11`, risk headline rate `0.2564`, policy hits `5`
 
 ## Headlines
 
+- [macro] I'd Buy This Growth Stock After Its 35% Plunge (Yahoo Finance)
 - [macro] Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvidia Earnings Ahead (Yahoo Finance)
 - [macro] Goldman Sachs revamps Figma stock price target for rest of 2026 (Yahoo Finance)
 - [macro] President Trump Threw a Wrench in Kevin Warsh's Plans as Federal Reserve Chairman, and It Could Be the Undoing of the Current Bull Market (Yahoo Finance)
 - [macro] BlackRock’s CORO ETF Beat Its Benchmark by 6 Points. One Firm Just Bought $55 Million (Yahoo Finance)
 - [macro] WHO declares Ebola outbreak in DR Congo an international emergency (BBC News)
+- [crypto] Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces (Cointelegraph.com News)
 - [macro] Henry Schein Highlights Dental Momentum, $125M Savings Goal Despite Medical Softness (Yahoo Finance)
 - [macro] What Lone Peak’s $20 Million Thermon Exit Could Signal After Record Earnings (Yahoo Finance)
 - [macro] U.S. Upstream Mergers Hit $38B As M&A Rebounds (Yahoo Finance)
-- [macro] KBR Stock Has Fallen 45% This Past Year, but One Investor Just Disclosed a New $24 Million Bet (Yahoo Finance)
-- [macro] UAE reports strike near Abu Dhabi nuclear power plant (BBC News)
