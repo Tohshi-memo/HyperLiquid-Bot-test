@@ -663,13 +663,25 @@ function renderMacroIndicators(macro) {
     ...priority.map((key) => byKey.get(key)).filter(Boolean),
     ...rows.filter((row) => !priority.includes(row.key)).slice(0, 8),
   ].slice(0, 10);
-  node.innerHTML = selected.map((row) => `
+  const indicatorHtml = selected.map((row) => `
     <div class="detail-row">
       <span>${escapeHtml(row.name || row.key)}</span>
       <strong>${fmtNumber(row.value, 4)} ${escapeHtml(row.unit || "")}</strong>
       <small>${escapeHtml([row.source, row.observed_at, row.category].filter(Boolean).join(" / "))}</small>
     </div>
   `).join("") || emptyCard("Macro indicators will appear after the next context run.");
+  const releaseRows = Array.isArray(macro?.release_calendar) ? macro.release_calendar : [];
+  const releaseHtml = releaseRows.slice(0, 6).map((row) => `
+    <div class="detail-row">
+      <span>${escapeHtml(row.name || row.key)}</span>
+      <strong>${formatDate(row.scheduled_for || row.scheduled_utc)}</strong>
+      <small>${escapeHtml([row.reference_period, row.source, row.calendar_status].filter(Boolean).join(" / "))}</small>
+    </div>
+  `).join("");
+  node.innerHTML = indicatorHtml + (releaseHtml ? `
+    <div class="section-subtitle">Upcoming macro releases</div>
+    ${releaseHtml}
+  ` : "");
 }
 
 function renderSectorReactions(sectorReactions) {

@@ -2,9 +2,12 @@ from __future__ import annotations
 
 import json
 import os
-from datetime import datetime
+import re
+from datetime import datetime, timezone
+from html import unescape
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -18,10 +21,15 @@ REPORT_FILE = REPORT_DIR / "latest_macro_indicators.md"
 
 BLS_URL = "https://api.bls.gov/publicAPI/v2/timeseries/data/{series_id}"
 FRED_URL = "https://api.stlouisfed.org/fred/series/observations"
+BEA_RELEASE_DATES_URL = "https://apps.bea.gov/API/signup/release_dates.json"
 TREASURY_AVG_RATES_URL = (
     "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/"
     "v2/accounting/od/avg_interest_rates"
 )
+FED_FOMC_CALENDAR_URL = "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 public-market-context-collector/1.0 (+https://github.com/Tohshi-memo/HyperLiquid-Bot-test)"
+}
 
 BLS_SERIES = {
     "us_unemployment_rate": {
@@ -99,6 +107,85 @@ FRED_COUNTRY_BY_KEY = {
     "uk_unemployment_rate": "GB",
 }
 
+BLS_RELEASE_SOURCES = [
+    {
+        "key": "us_employment_situation",
+        "name": "US Employment Situation",
+        "category": "employment",
+        "source": "BLS",
+        "source_url": "https://www.bls.gov/ces/",
+        "headline": "Employment Situation",
+        "affects": ["us_unemployment_rate", "us_nonfarm_payrolls", "us_average_hourly_earnings"],
+        "fallback_reference_period": "May 2026",
+        "fallback_scheduled_for": "2026-06-05T08:30:00-04:00",
+    },
+    {
+        "key": "us_cpi",
+        "name": "US Consumer Price Index",
+        "category": "inflation",
+        "source": "BLS",
+        "source_url": "https://www.bls.gov/cpi/",
+        "headline": "Consumer Price Index",
+        "affects": ["us_cpi_u", "us_core_cpi_u"],
+        "fallback_reference_period": "May 2026",
+        "fallback_scheduled_for": "2026-06-10T08:30:00-04:00",
+    },
+    {
+        "key": "us_ppi",
+        "name": "US Producer Price Index",
+        "category": "inflation",
+        "source": "BLS",
+        "source_url": "https://www.bls.gov/ppi/",
+        "headline": "Producer Price Index",
+        "affects": ["us_ppi_final_demand"],
+        "fallback_reference_period": "May 2026",
+        "fallback_scheduled_for": "2026-06-11T08:30:00-04:00",
+    },
+]
+
+BEA_RELEASE_SOURCES = [
+    {
+        "key": "us_pce",
+        "name": "US Personal Income and Outlays / PCE",
+        "category": "inflation",
+        "source": "BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "release_name": "Personal Income and Outlays",
+        "affects": ["us_pce_price_index", "us_core_pce_price_index"],
+    },
+    {
+        "key": "us_gdp",
+        "name": "US Gross Domestic Product",
+        "category": "growth",
+        "source": "BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "release_name": "Gross Domestic Product",
+        "affects": [],
+    },
+]
+
+FOMC_MEETINGS = [
+    ("2026-01-28T14:00:00-05:00", "January 27-28, 2026", False),
+    ("2026-03-18T14:00:00-04:00", "March 17-18, 2026", True),
+    ("2026-04-29T14:00:00-04:00", "April 28-29, 2026", False),
+    ("2026-06-17T14:00:00-04:00", "June 16-17, 2026", True),
+    ("2026-07-29T14:00:00-04:00", "July 28-29, 2026", False),
+    ("2026-09-16T14:00:00-04:00", "September 15-16, 2026", True),
+    ("2026-10-28T14:00:00-04:00", "October 27-28, 2026", False),
+    ("2026-12-09T14:00:00-05:00", "December 8-9, 2026", True),
+]
+
+GDP_REFERENCE_BY_DATE = {
+    "2026-05-28": "Q1 2026 second estimate",
+    "2026-06-25": "Q1 2026 third estimate",
+    "2026-07-30": "Q2 2026 advance estimate",
+    "2026-08-26": "Q2 2026 second estimate",
+    "2026-09-30": "Q2 2026 third estimate",
+    "2026-10-29": "Q3 2026 advance estimate",
+    "2026-11-25": "Q3 2026 second estimate",
+    "2026-12-23": "Q3 2026 third estimate",
+}
+
 
 def update_macro_indicators(now: datetime) -> dict[str, Any]:
     if os.getenv("MACRO_INDICATORS_ENABLED", "true").lower() == "false":
@@ -122,6 +209,9 @@ def update_macro_indicators(now: datetime) -> dict[str, Any]:
     provider_results.append(fred["provider"])
     indicators.extend(fred["indicators"])
 
+    release_calendar = collect_release_calendar(now)
+    apply_next_releases(indicators, release_calendar)
+
     latest = {
         "schema_version": 1,
         "generated_at": now.isoformat(),
@@ -130,6 +220,7 @@ def update_macro_indicators(now: datetime) -> dict[str, Any]:
             "and broad risk context. These are public macro inputs, not trade signals."
         ),
         "providers": provider_results,
+        "release_calendar": release_calendar,
         "indicator_count": len(indicators),
         "indicators": sorted(indicators, key=lambda row: (row.get("country", ""), row.get("category", ""), row.get("key", ""))),
         "by_key": {row["key"]: row for row in indicators if row.get("key")},
@@ -149,6 +240,176 @@ def update_macro_indicators(now: datetime) -> dict[str, Any]:
         "indicator_count": latest["indicator_count"],
         "providers": provider_results,
     }
+
+
+def collect_release_calendar(now: datetime) -> list[dict[str, Any]]:
+    releases = []
+    for meta in BLS_RELEASE_SOURCES:
+        release = collect_bls_release(meta)
+        if release:
+            releases.append(release)
+        else:
+            release = fallback_release(meta)
+            release["source_fetch_status"] = "blocked_or_unavailable"
+            releases.append(release)
+
+    bea_releases, _ = collect_bea_releases(now)
+    releases.extend(bea_releases)
+
+    fomc = next_fomc_release(now)
+    if fomc:
+        releases.append(fomc)
+
+    releases = sorted(
+        releases,
+        key=lambda row: row.get("scheduled_utc") or row.get("scheduled_for") or "",
+    )
+    return releases
+
+
+def collect_bls_release(meta: dict[str, Any]) -> dict[str, Any] | None:
+    try:
+        response = requests.get(meta["source_url"], headers=REQUEST_HEADERS, timeout=20)
+        response.raise_for_status()
+    except Exception:
+        return None
+    text = html_to_text(response.text)
+    pattern = (
+        rf"The {re.escape(meta['headline'])} for (?P<period>.*?) is scheduled to be released on "
+        r"(?P<date>[A-Z][a-z]+ \d{1,2}, \d{4}), at "
+        r"(?P<time>\d{1,2}:\d{2}\s*(?:a\.m\.|p\.m\.|A\.M\.|P\.M\.)) Eastern Time"
+    )
+    match = re.search(pattern, text)
+    if not match:
+        return None
+    scheduled = parse_eastern_datetime(match.group("date"), match.group("time"))
+    return release_row(
+        meta=meta,
+        reference_period=match.group("period").strip(),
+        scheduled_for=scheduled,
+        calendar_status="official",
+    )
+
+
+def collect_bea_releases(now: datetime) -> tuple[list[dict[str, Any]], list[str]]:
+    try:
+        response = requests.get(BEA_RELEASE_DATES_URL, timeout=20)
+        response.raise_for_status()
+        payload = response.json()
+    except Exception:
+        return [fallback_bea_release(meta, now) for meta in BEA_RELEASE_SOURCES], [meta["key"] for meta in BEA_RELEASE_SOURCES]
+
+    now_utc = ensure_utc(now)
+    releases = []
+    errors = []
+    for meta in BEA_RELEASE_SOURCES:
+        release_dates = payload.get(meta["release_name"], {}).get("release_dates", [])
+        future_dates = []
+        for value in release_dates:
+            parsed = parse_iso_datetime(value)
+            if parsed and parsed > now_utc:
+                future_dates.append(parsed)
+        if not future_dates:
+            releases.append(fallback_bea_release(meta, now))
+            errors.append(meta["key"])
+            continue
+        scheduled = min(future_dates)
+        releases.append(
+            release_row(
+                meta=meta,
+                reference_period=infer_bea_reference_period(meta["key"], scheduled),
+                scheduled_for=scheduled.astimezone(ZoneInfo("America/New_York")),
+                calendar_status="official",
+            )
+        )
+    return releases, errors
+
+
+def next_fomc_release(now: datetime) -> dict[str, Any] | None:
+    now_utc = ensure_utc(now)
+    for scheduled_text, meeting_label, has_sep in FOMC_MEETINGS:
+        scheduled = parse_iso_datetime(scheduled_text)
+        if not scheduled or scheduled <= now_utc:
+            continue
+        return release_row(
+            meta={
+                "key": "fomc_policy_decision",
+                "name": "FOMC Policy Decision",
+                "category": "rates",
+                "source": "Federal Reserve",
+                "source_url": FED_FOMC_CALENDAR_URL,
+                "affects": ["fed_funds_effective", "fed_target_upper", "fed_target_lower"],
+            },
+            reference_period=meeting_label + (" / SEP" if has_sep else ""),
+            scheduled_for=scheduled.astimezone(ZoneInfo("America/New_York")),
+            calendar_status="official",
+        )
+    return None
+
+
+def fallback_release(meta: dict[str, Any]) -> dict[str, Any]:
+    return release_row(
+        meta=meta,
+        reference_period=meta.get("fallback_reference_period"),
+        scheduled_for=parse_iso_datetime(meta.get("fallback_scheduled_for")),
+        calendar_status="official_static",
+    )
+
+
+def fallback_bea_release(meta: dict[str, Any], now: datetime) -> dict[str, Any]:
+    scheduled = None
+    if meta["key"] == "us_pce":
+        scheduled = parse_iso_datetime("2026-05-28T08:30:00-04:00")
+        reference_period = "April 2026"
+    else:
+        scheduled = parse_iso_datetime("2026-05-28T08:30:00-04:00")
+        reference_period = "Q1 2026 second estimate"
+    if scheduled and scheduled <= ensure_utc(now):
+        scheduled = None
+        reference_period = None
+    return release_row(meta=meta, reference_period=reference_period, scheduled_for=scheduled, calendar_status="official_static")
+
+
+def release_row(
+    meta: dict[str, Any],
+    reference_period: str | None,
+    scheduled_for: datetime | None,
+    calendar_status: str,
+) -> dict[str, Any]:
+    scheduled_utc = ensure_utc(scheduled_for) if scheduled_for else None
+    return {
+        "key": meta.get("key"),
+        "name": meta.get("name"),
+        "category": meta.get("category"),
+        "source": meta.get("source"),
+        "source_url": meta.get("source_url"),
+        "reference_period": reference_period,
+        "scheduled_for": scheduled_for.isoformat() if scheduled_for else None,
+        "scheduled_utc": scheduled_utc.isoformat() if scheduled_utc else None,
+        "timezone": "America/New_York",
+        "affects": meta.get("affects", []),
+        "importance": "high",
+        "calendar_status": calendar_status,
+    }
+
+
+def apply_next_releases(indicators: list[dict[str, Any]], releases: list[dict[str, Any]]) -> None:
+    by_indicator: dict[str, dict[str, Any]] = {}
+    for release in releases:
+        for key in release.get("affects", []):
+            by_indicator.setdefault(key, release)
+    for row in indicators:
+        release = by_indicator.get(row.get("key"))
+        if not release:
+            continue
+        row["next_release"] = {
+            "key": release.get("key"),
+            "name": release.get("name"),
+            "reference_period": release.get("reference_period"),
+            "scheduled_for": release.get("scheduled_for"),
+            "scheduled_utc": release.get("scheduled_utc"),
+            "source_url": release.get("source_url"),
+        }
 
 
 def collect_bls_indicators() -> dict[str, Any]:
@@ -421,6 +682,7 @@ def append_history(latest: dict[str, Any]) -> None:
 
 def render_report(latest: dict[str, Any]) -> str:
     indicators = latest.get("indicators", [])
+    releases = latest.get("release_calendar", [])
     provider_lines = "\n".join(
         f"- `{provider.get('name')}`: enabled `{provider.get('enabled')}`, indicators `{provider.get('indicator_count')}`"
         + (f", reason `{provider.get('reason')}`" if provider.get("reason") else "")
@@ -431,6 +693,12 @@ def render_report(latest: dict[str, Any]) -> str:
         f"at `{row.get('observed_at')}` ({row.get('source')})"
         for row in indicators[:40]
     )
+    release_rows = "\n".join(
+        f"- `{row.get('key')}` {row.get('name')}: `{row.get('reference_period')}` "
+        f"scheduled `{row.get('scheduled_for')}` / UTC `{row.get('scheduled_utc')}` "
+        f"({row.get('source')}, {row.get('calendar_status')})"
+        for row in releases[:20]
+    )
     return (
         "# Latest Macro Indicators\n\n"
         "Public macro indicators for rates, employment, inflation, dollar, and risk context. "
@@ -439,6 +707,8 @@ def render_report(latest: dict[str, Any]) -> str:
         f"- Indicators: `{latest.get('indicator_count')}`\n\n"
         "## Providers\n\n"
         f"{provider_lines or '- No providers.'}\n\n"
+        "## Upcoming Releases\n\n"
+        f"{release_rows or '- No upcoming releases collected.'}\n\n"
         "## Indicators\n\n"
         f"{rows or '- No indicators collected.'}\n"
     )
@@ -465,3 +735,56 @@ def to_float_or_none(value: Any) -> float | None:
         return float(value) if value not in {None, ""} else None
     except (TypeError, ValueError):
         return None
+
+
+def html_to_text(value: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"\s+", " ", unescape(text)).strip()
+
+
+def parse_eastern_datetime(date_text: str, time_text: str) -> datetime:
+    date_part = datetime.strptime(date_text.replace(".", ""), "%B %d, %Y")
+    time_clean = time_text.lower().replace(".", "").strip()
+    time_part = datetime.strptime(time_clean, "%I:%M %p").time()
+    return datetime.combine(date_part.date(), time_part, tzinfo=ZoneInfo("America/New_York"))
+
+
+def parse_iso_datetime(value: Any) -> datetime | None:
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        return parsed.replace(tzinfo=timezone.utc)
+    return parsed
+
+
+def ensure_utc(value: datetime | None) -> datetime:
+    if value is None:
+        return datetime.min.replace(tzinfo=timezone.utc)
+    if value.tzinfo is None:
+        return value.replace(tzinfo=timezone.utc)
+    return value.astimezone(timezone.utc)
+
+
+def infer_bea_reference_period(key: str, scheduled: datetime) -> str | None:
+    if key == "us_pce":
+        month = scheduled.month - 1
+        year = scheduled.year
+        if month == 0:
+            month = 12
+            year -= 1
+        return datetime(year, month, 1).strftime("%B %Y")
+    if key == "us_gdp":
+        return GDP_REFERENCE_BY_DATE.get(scheduled.date().isoformat(), "next scheduled GDP release")
+    return None
+
+
+def main() -> None:
+    update_macro_indicators(datetime.now(timezone.utc))
+
+
+if __name__ == "__main__":
+    main()
