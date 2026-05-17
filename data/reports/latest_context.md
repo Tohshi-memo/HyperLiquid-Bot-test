@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T17:37:19.671814+00:00`
-- Market context score: `52.36`
-- News risk score: `44.71`
-- Macro risk score: `23.4`
-- Risk-on score: `40.73`
+- Generated: `2026-05-17T17:41:21.399117+00:00`
+- Market context score: `53.15`
+- News risk score: `43.94`
+- Macro risk score: `21.87`
+- Risk-on score: `41.25`
 - Articles: `46`
 - Polymarket markets: `398`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
-- macro: articles `38`, risk hits `7`, risk headline rate `0.1316`, policy hits `5`
+- macro: articles `38`, risk hits `6`, risk headline rate `0.1053`, policy hits `5`
 
 ## Headlines
 
 - [macro] Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead (Yahoo Finance)
+- [macro] BeInCrypto Institutional Research: 15 Firms Leading On-Chain Finance Infrastructure (Yahoo Finance)
 - [macro] Major bank drops bombshell on Fed interest-rate bets (Yahoo Finance)
 - [macro] BWXT Stock Is Up Nearly 100% in a Year and Just Announced a Major Acquisition. Is the Nuclear Rally Just Getting Started? (Yahoo Finance)
 - [macro] Thermo Fisher Scientific Inc. (TMO) Unveils Bioprocess Design Center to Develop Life-Changing Therapies (Yahoo Finance)
 - [macro] This is why Wall Street Firms are Optimistic about DoorDash Inc. (DASH)’s Long-Term Outlook (Yahoo Finance)
 - [macro] Capital One Financial Corporation (COF) Board Approves Quarterly Dividend amid Top Line Growth (Yahoo Finance)
 - [macro] This is why Autodesk, Inc. (ADSK) is one of Steve Cohen’s large-cap Stock Picks (Yahoo Finance)
+- [macro] BeInCrypto Institutional Research: 15 Stablecoin Infrastructures Powering Crypto Offerings (Yahoo Finance)
 - [macro] Is Atlassian Corporation (TEAM) One of Steve Cohen’s Stock Picks with High Upside Potential? (Yahoo Finance)
-- [macro] Barclays Bullish on Home Depot Inc. (HD) amid Improving Fundamentals and Comparisons (Yahoo Finance)
-- [macro] Solid Q1 and Guidance Underlines Why Danaher Corporation (DHR) is one of Steve Cohen’s Large-Cap Stock Picks (Yahoo Finance)
