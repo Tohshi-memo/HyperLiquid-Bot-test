@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T19:37:14.076686+00:00`
-- Market context score: `49.33`
-- News risk score: `46.25`
-- Macro risk score: `24.0`
-- Risk-on score: `35.52`
+- Generated: `2026-05-17T19:52:19.691390+00:00`
+- Market context score: `46.56`
+- News risk score: `46.56`
+- Macro risk score: `24.51`
+- Risk-on score: `29.81`
 - Articles: `49`
 - Polymarket markets: `397`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `910`
-- Day/swing latest: `2026-05-17T19:30:00+00:00`
+- Day/swing records: `911`
+- Day/swing latest: `2026-05-17T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
-- macro: articles `38`, risk hits `8`, risk headline rate `0.1579`, policy hits `0`
+- macro: articles `38`, risk hits `7`, risk headline rate `0.1579`, policy hits `1`
 
 ## Headlines
 
-- [macro] Newmont (NEM) Gets Another Target Hike As Production Growth Expectations Remain Intact (Yahoo Finance)
-- [macro] Why Alamos Gold’s (AGI) Second-Half Outlook Could Be Drawing Attention (Yahoo Finance)
-- [macro] Is Ascent Solar Technologies, Inc. (ASTI) Among the Most Promising Renewable Energy Stocks Right Now? (Yahoo Finance)
-- [macro] Here is Why NextNRG, Inc. (NXXT) is Among the Most Promising Renewable Energy Stocks Right Now (Yahoo Finance)
-- [macro] Fusion Fuel Green PLC (HTOO): 11 Most Promising Renewable Energy Stocks Right Now (Yahoo Finance)
-- [macro] FTC Solar (FTCI) Gets A Target Cut But Analysts Aren’t Fully Backing Away (Yahoo Finance)
-- [macro] XCF Global (SAFX) Highlights A Growing Aviation Fuel Shift But The Timing Question Remains (Yahoo Finance)
-- [macro] Why Analysts See Early-Stage Upside In Bimergen Energy (BESS) (Yahoo Finance)
-- [macro] M&G Shaved 2.4% of Methanex After a Near-Doubling (Yahoo Finance)
-- [macro] Tigo Energy (TYGO) Gets A Target Hike As Solar Optimization Momentum Builds (Yahoo Finance)
+- [macro] Billionaire Chase Coleman's Tiger Global bets $180M on surging semiconductor stock (Yahoo Finance)
+- [macro] GDS Was Already Up 47% — Pinpoint Tripled Its Stake Anyway (Yahoo Finance)
+- [macro] The AI Stock With a 10-Year Head Start That Wall Street Still Hasn't Fully Priced In (Yahoo Finance)
+- [macro] Why Plug Power Stock Skyrocketed This Week (Yahoo Finance)
+- [macro] Eric Trump says family assets invested in 'broad market indexes' — Trump's own disclosure lists 3,642 individual trades (Yahoo Finance)
+- [macro] Is Barrick Mining Corporation (B) Among the 10 Best Gold Mining Stocks to Buy as Central Banks Buy Bullion? (Yahoo Finance)
+- [macro] Wheaton Precious Metals (WPM) Raises Its Dividend Again As Cash Flow Strengthens (Yahoo Finance)
+- [macro] Why Agnico Eagle’s (AEM) Consistent Execution Continues To Impress Analysts (Yahoo Finance)
+- [macro] Kinross Gold (KGC) Keeps Returning Capital As Major Growth Projects Advance (Yahoo Finance)
+- [macro] Collective Mining (CNL) Gets A Major Target Hike As Exploration Optimism Grows (Yahoo Finance)
