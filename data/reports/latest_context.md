@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T23:14:40.794023+00:00`
+- Generated: `2026-05-17T23:22:15.665010+00:00`
 - Market context score: `52.79`
 - News risk score: `44.08`
 - Macro risk score: `30.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `924`
-- Day/swing latest: `2026-05-17T23:00:00+00:00`
+- Day/swing records: `925`
+- Day/swing latest: `2026-05-17T23:15:00+00:00`
 
 ## News Categories
 
@@ -37,4 +37,4 @@
 - [macro] Nvidia vs. Cerebras: Better AI Stock to Buy Now (Yahoo Finance)
 - [macro] I'd Buy This Growth Stock After Its 35% Plunge (Yahoo Finance)
 - [macro] Integra LifeSciences Says Transformation Is Working as SurgiMend Relaunch Nears (Yahoo Finance)
-- [macro] Goldman Sachs revamps Figma stock price target for rest of 2026 (Yahoo Finance)
+- [macro] Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report (Yahoo Finance)
