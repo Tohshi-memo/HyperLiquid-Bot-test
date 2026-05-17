@@ -156,10 +156,15 @@ def build_ai_index(
         day_records = []
 
     latest_record = records[-1] if records and isinstance(records[-1], dict) else {}
-    archive_files = sorted(
+    asset_price_archive_files = sorted(
         f"data/archive/{path.name}"
         for path in ARCHIVE_DIR.glob("asset_price_history_*.jsonl.gz")
     )
+    polymarket_outcome_archive_files = sorted(
+        f"data/archive/{path.name}"
+        for path in ARCHIVE_DIR.glob("polymarket_outcome_history_*.jsonl.gz")
+    )
+    archive_files = asset_price_archive_files + polymarket_outcome_archive_files
     label_counts = (
         ai_pack.get("dataset_summary", {}).get("label_counts")
         if isinstance(ai_pack.get("dataset_summary"), dict)
@@ -200,7 +205,9 @@ def build_ai_index(
                 "first_observed_at": records[0].get("observed_at") if records and isinstance(records[0], dict) else None,
                 "last_observed_at": records[-1].get("observed_at") if records and isinstance(records[-1], dict) else None,
             },
-            "asset_price_archive_files": archive_files,
+            "asset_price_archive_files": asset_price_archive_files,
+            "polymarket_outcome_archive_files": polymarket_outcome_archive_files,
+            "archive_files": archive_files,
             "asset_count": asset_universe.get("asset_count") if isinstance(asset_universe, dict) else None,
             "asset_feature_count": asset_features.get("asset_count") if isinstance(asset_features, dict) else None,
             "priced_asset_count": latest_record.get("priced_asset_count"),
@@ -663,8 +670,12 @@ def render_index_report(index: dict[str, Any]) -> str:
     )
     class_counts = render_mapping(health.get("asset_class_counts", {}))
     signals = render_signal_lines(canary.get("signals", []))
-    archives = health.get("asset_price_archive_files") or []
-    archive_line = ", ".join(f"`{path}`" for path in archives) if archives else "`none yet`"
+    asset_archives = health.get("asset_price_archive_files") or []
+    polymarket_archives = health.get("polymarket_outcome_archive_files") or []
+    asset_archive_line = ", ".join(f"`{path}`" for path in asset_archives) if asset_archives else "`none yet`"
+    polymarket_archive_line = (
+        ", ".join(f"`{path}`" for path in polymarket_archives) if polymarket_archives else "`none yet`"
+    )
 
     return (
         "# AI Context Index\n\n"
@@ -676,7 +687,8 @@ def render_index_report(index: dict[str, Any]) -> str:
         f"- Macro indicators: `{health.get('macro_indicator_count')}`\n"
         f"- Flow-alert history records: `{health.get('flow_alert_history_records')}`\n"
         f"- Correlation status: `{canary.get('status')}`\n"
-        f"- Asset price archives: {archive_line}\n\n"
+        f"- Asset price archives: {asset_archive_line}\n"
+        f"- Polymarket outcome archives: {polymarket_archive_line}\n\n"
         "## First Read Files\n\n"
         f"{file_rows or '- No files.'}\n\n"
         "## Asset Classes\n\n"

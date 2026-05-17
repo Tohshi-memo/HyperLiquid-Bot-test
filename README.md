@@ -63,6 +63,7 @@ data/reports/latest_hip4_outcome.md
 data/reports/latest_relationship_scan.md
 data/reports/latest_sector_reactions.md
 data/archive/asset_price_history_YYYY-MM.jsonl.gz
+data/archive/polymarket_outcome_history_YYYY-MM.jsonl.gz
 ```
 
 The private repository reads `market_context.json` and makes the final trading
@@ -126,8 +127,11 @@ nominee, and presidential winner events, are fetched by event so lower-volume
 candidates are retained in history even when they are outside the normal top
 market limit. The report site shows a searchable, filtered people view instead
 of rendering every candidate by default. The active history is capped so normal
-GitHub commits stay below the 100MB file limit; older full-depth analysis should
-use archived or private storage if needed.
+GitHub commits stay below the 100MB file limit. Older rows are preserved as
+compressed monthly JSONL archives under
+`data/archive/polymarket_outcome_history_YYYY-MM.jsonl.gz`; AI should open those
+archives only when a specific long-window Polymarket correlation or probability
+drift test requires them.
 
 `relationship_scan_latest.json` mechanically compares public conditions such
 as news risk, macro risk, risk-on context, Polymarket volume spikes, and flow

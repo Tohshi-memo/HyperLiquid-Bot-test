@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-17T07:37:15.545152+00:00",
+  "updated_at": "2026-05-17T07:41:58.045785+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -21,64 +21,64 @@
     "first_read": [
       {
         "path": "data/reports/latest_ai_context_index.md",
-        "bytes": 2447,
+        "bytes": 3879,
         "note": "Human-readable map."
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 67375,
+        "bytes": 75942,
         "note": "Machine-readable map."
       },
       {
         "path": "data/reports/latest_canary_signals.md",
-        "bytes": 2821,
+        "bytes": 2856,
         "note": "Current canary signals."
       },
       {
         "path": "data/reports/latest_ai_analysis_brief.md",
-        "bytes": 862,
+        "bytes": 897,
         "note": "BTC/ETH/HYPE/SOL compact stats."
       },
       {
         "path": "data/reports/latest_macro_indicators.md",
-        "bytes": 1600,
+        "bytes": 1626,
         "note": "Macro rates, employment, inflation, dollar, and risk overview."
       },
       {
         "path": "data/processed/ai_analysis_pack.json",
-        "bytes": 45763,
+        "bytes": 47280,
         "note": "Compact strategy stats."
       },
       {
         "path": "data/reports/latest_asset_universe.md",
-        "bytes": 5642,
+        "bytes": 5798,
         "note": "Asset-class overview."
       },
       {
         "path": "data/reports/latest_asset_features.md",
-        "bytes": 2487,
+        "bytes": 2517,
         "note": "Individual asset screen."
       },
       {
         "path": "data/reports/latest_hip4_outcome.md",
-        "bytes": 4143,
+        "bytes": 4209,
         "note": "HIP-4 outcome market overview."
       },
       {
         "path": "data/reports/latest_relationship_scan.md",
-        "bytes": 3653,
+        "bytes": 3706,
         "note": "Mechanical relationship candidates."
       },
       {
         "path": "data/reports/latest_sector_reactions.md",
-        "bytes": 4616,
+        "bytes": 4684,
         "note": "Delayed sector reaction overview."
       }
     ],
     "conditional": [
       {
         "path": "data/processed/asset_universe_latest.json",
-        "bytes": 828677,
+        "bytes": 858627,
         "note": "Latest all-symbol rows."
       },
       {
@@ -88,32 +88,32 @@
       },
       {
         "path": "data/processed/asset_price_history.json",
-        "bytes": 12070828,
+        "bytes": 12540396,
         "note": "Active all-symbol 15m price window."
       },
       {
         "path": "data/processed/day_swing_dataset.json",
-        "bytes": 8431671,
+        "bytes": 8695248,
         "note": "Full BTC/ETH/HYPE/SOL feature and label rows."
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 768105,
+        "bytes": 798936,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 2084230,
+        "bytes": 2170351,
         "note": "Polymarket/flow history."
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 544694,
+        "bytes": 557084,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 50045014,
+        "bytes": 51320329,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -123,32 +123,32 @@
       },
       {
         "path": "data/processed/macro_indicators_history.json",
-        "bytes": 5447,
+        "bytes": 5664,
         "note": "Macro indicator history for lead/lag checks."
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 8975,
+        "bytes": 9333,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 2383725,
+        "bytes": 2471814,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
         "path": "data/processed/relationship_scan_latest.json",
-        "bytes": 68667,
+        "bytes": 71015,
         "note": "Mechanical A/B -> future-return candidate patterns."
       },
       {
         "path": "data/processed/sector_reactions_latest.json",
-        "bytes": 3694292,
+        "bytes": 3843056,
         "note": "Event-condition -> sector ETF delayed reaction patterns."
       },
       {
         "path": "data/processed/sector_price_history.json",
-        "bytes": 3248543,
+        "bytes": 3381879,
         "note": "Daily sector ETF proxy price history."
       }
     ],
@@ -156,12 +156,16 @@
       {
         "path": "data/archive/asset_price_history_2026-05.jsonl.gz",
         "when_to_read": "Only for longer backtests after a specific rule is selected."
+      },
+      {
+        "path": "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
+        "when_to_read": "Only for longer backtests after a specific rule is selected."
       }
     ]
   },
   "dataset_health": {
-    "market_context_history_records": 990,
-    "flow_alert_history_records": 4759,
+    "market_context_history_records": 991,
+    "flow_alert_history_records": 4760,
     "polymarket_outcome_history_records": 75000,
     "macro_indicator_count": 11,
     "macro_indicator_history_records": 3,
@@ -172,6 +176,13 @@
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz"
+    ],
+    "polymarket_outcome_archive_files": [
+      "data/archive/polymarket_outcome_history_2026-05.jsonl.gz"
+    ],
+    "archive_files": [
+      "data/archive/asset_price_history_2026-05.jsonl.gz",
+      "data/archive/polymarket_outcome_history_2026-05.jsonl.gz"
     ],
     "asset_count": 742,
     "asset_feature_count": 742,
@@ -461,7 +472,7 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-05-17T07:35:15.168193+00:00",
+      "generated_at": "2026-05-17T07:40:18.589558+00:00",
       "scores": {
         "flow_alert_score": 17.0,
         "flow_alert_level": "baseline"
@@ -481,9 +492,9 @@
       },
       "polymarket": {
         "market_count": 60,
-        "volume_24h": 25248083.43,
-        "lifetime_volume": 434769673.42,
-        "liquidity": 34934775.6,
+        "volume_24h": 25213442.45,
+        "lifetime_volume": 434786855.78,
+        "liquidity": 34525286.08,
         "top_markets": [
           {
             "question": "Will Bitcoin hit $150k by June 30, 2026?",
@@ -518,9 +529,9 @@
             "url": "https://polymarket.com/event/trump-declassifies-new-ufo-files-by",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 1494200.8988899991,
-            "volume": 1537426.7838279963,
-            "liquidity": 3009361.4852,
+            "volume_24h": 1496905.739895999,
+            "volume": 1540426.7838279963,
+            "liquidity": 3006564.2852,
             "end_date": "2026-12-31T00:00:00Z",
             "outcomes": [
               {
@@ -544,9 +555,9 @@
             "url": "https://polymarket.com/event/israel-x-syria-security-agreement-by-september-30",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 1347737.814287,
+            "volume_24h": 1347613.014287,
             "volume": 3524615.9442070015,
-            "liquidity": 12205.0418,
+            "liquidity": 12213.9018,
             "end_date": "2026-01-31T00:00:00Z",
             "outcomes": [
               {
@@ -570,7 +581,7 @@
             "url": "https://polymarket.com/event/what-will-trump-say-during-bret-baier-interview",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 1277336.973091,
+            "volume_24h": 1277321.943091,
             "volume": 1277900.029814,
             "liquidity": 2214206.78534,
             "end_date": "2026-05-15T00:00:00Z",
@@ -596,24 +607,24 @@
             "url": "https://polymarket.com/event/what-will-trump-say-during-bilateral-events-with-xi-jinping",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 1018213.441596,
-            "volume": 5564960.037814,
-            "liquidity": 255403.33642,
+            "volume_24h": 1014398.6776910002,
+            "volume": 5565409.387813999,
+            "liquidity": 255459.58211,
             "end_date": "2026-05-15T00:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.017,
+                "probability": 0.018,
                 "token_id": "3186812161617275136941873065600103851370007880588093249814268822949706568368"
               },
               {
                 "name": "No",
-                "probability": 0.983,
+                "probability": 0.982,
                 "token_id": "88815071170531292306771197855496056590773004819748629645131852770667568975872"
               }
             ],
-            "yes_probability": 0.017,
-            "no_probability": 0.983
+            "yes_probability": 0.018,
+            "no_probability": 0.982
           },
           {
             "question": "Strait of Hormuz traffic returns to normal by May 15?",
@@ -622,9 +633,9 @@
             "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-may-15",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 665221.0519769997,
+            "volume_24h": 659746.0519769997,
             "volume": 17470872.552776933,
-            "liquidity": 2164862.86866,
+            "liquidity": 2164669.3821,
             "end_date": "2026-05-15T00:00:00Z",
             "outcomes": [
               {
@@ -642,41 +653,15 @@
             "no_probability": 0.9985
           },
           {
-            "question": "Strait of Hormuz traffic returns to normal by end of May?",
-            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
-            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
-            "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
-            "query": "geopolitics",
-            "impact_category": "geopolitics",
-            "volume_24h": 608573.0891090002,
-            "volume": 14605275.844748162,
-            "liquidity": 496306.90733,
-            "end_date": "2026-05-31T00:00:00Z",
-            "outcomes": [
-              {
-                "name": "Yes",
-                "probability": 0.056,
-                "token_id": "75845920741796858670183364159540464375486880005358999101126589340494255300090"
-              },
-              {
-                "name": "No",
-                "probability": 0.944,
-                "token_id": "100297578629699403208665948730031291871216767534595550828919035864255991611215"
-              }
-            ],
-            "yes_probability": 0.056,
-            "no_probability": 0.944
-          },
-          {
             "question": "Will the Iranian regime fall by May 31?",
             "slug": "will-the-iranian-regime-fall-by-may-31",
             "event_slug": "will-the-iranian-regime-fall-by-may-31",
             "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-may-31",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 607882.9234579998,
+            "volume_24h": 607877.8780509998,
             "volume": 20898912.530041248,
-            "liquidity": 947161.09382,
+            "liquidity": 947013.81116,
             "end_date": "2026-05-31T00:00:00Z",
             "outcomes": [
               {
@@ -694,15 +679,41 @@
             "no_probability": 0.9915
           },
           {
+            "question": "Strait of Hormuz traffic returns to normal by end of May?",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "query": "geopolitics",
+            "impact_category": "geopolitics",
+            "volume_24h": 607253.0717890002,
+            "volume": 14605502.234748162,
+            "liquidity": 498695.31723,
+            "end_date": "2026-05-31T00:00:00Z",
+            "outcomes": [
+              {
+                "name": "Yes",
+                "probability": 0.0545,
+                "token_id": "75845920741796858670183364159540464375486880005358999101126589340494255300090"
+              },
+              {
+                "name": "No",
+                "probability": 0.9455,
+                "token_id": "100297578629699403208665948730031291871216767534595550828919035864255991611215"
+              }
+            ],
+            "yes_probability": 0.0545,
+            "no_probability": 0.9455
+          },
+          {
             "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
             "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026",
             "event_slug": "microstrategy-sell-any-bitcoin-in-2025",
             "url": "https://polymarket.com/event/microstrategy-sell-any-bitcoin-in-2025",
             "query": "crypto",
             "impact_category": "crypto",
-            "volume_24h": 603448.4108410004,
-            "volume": 3257387.95518199,
-            "liquidity": 91324.0637,
+            "volume_24h": 603739.1108410003,
+            "volume": 3257702.51518199,
+            "liquidity": 92990.7403,
             "end_date": "2026-07-01T04:00:00Z",
             "outcomes": [
               {
@@ -726,24 +737,24 @@
             "url": "https://polymarket.com/event/what-will-trump-say-during-bilateral-events-with-xi-jinping",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 504017.4090180005,
-            "volume": 1740445.0237010017,
-            "liquidity": 207843.75411,
+            "volume_24h": 503995.14901800046,
+            "volume": 1740501.4737010016,
+            "liquidity": 207783.56311,
             "end_date": "2026-05-15T00:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.0185,
+                "probability": 0.019,
                 "token_id": "74396432617830205205692647182156674687262039702362245386430594405600411795991"
               },
               {
                 "name": "No",
-                "probability": 0.9815,
+                "probability": 0.981,
                 "token_id": "28967447164251246592350092407010122765991177116791855409126916393664711331990"
               }
             ],
-            "yes_probability": 0.0185,
-            "no_probability": 0.9815
+            "yes_probability": 0.019,
+            "no_probability": 0.981
           }
         ],
         "health_markets": [
@@ -754,9 +765,9 @@
             "url": "https://polymarket.com/event/cs2-ts7-fal2-2026-05-17",
             "query": "health",
             "impact_category": "health",
-            "volume_24h": 228956.59915099986,
-            "volume": 228956.5991509998,
-            "liquidity": 561022.8617,
+            "volume_24h": 229601.8116869999,
+            "volume": 229601.81168699983,
+            "liquidity": 424581.816,
             "end_date": "2026-05-17T18:00:00Z",
             "outcomes": [
               {
@@ -780,9 +791,9 @@
             "url": "https://polymarket.com/event/pga-championship-winner-2026",
             "query": "health",
             "impact_category": "health",
-            "volume_24h": 194721.75414599996,
+            "volume_24h": 194690.25414599996,
             "volume": 581779.3711780006,
-            "liquidity": 678546.5329,
+            "liquidity": 681801.3829,
             "end_date": "2026-05-18T00:00:00Z",
             "outcomes": [
               {
@@ -808,7 +819,7 @@
             "impact_category": "health",
             "volume_24h": 190575.03835799985,
             "volume": 392498.7010870004,
-            "liquidity": 101348.4322,
+            "liquidity": 99893.9082,
             "end_date": "2026-05-18T00:00:00Z",
             "outcomes": [
               {
@@ -832,9 +843,9 @@
             "url": "https://polymarket.com/event/lol-hle1-kt-2026-05-17",
             "query": "health",
             "impact_category": "health",
-            "volume_24h": 172102.55838399995,
-            "volume": 178066.71477899997,
-            "liquidity": 418793.8307,
+            "volume_24h": 177132.65048499993,
+            "volume": 183096.80687999996,
+            "liquidity": 282635.3239,
             "end_date": "2026-05-17T14:00:00Z",
             "outcomes": [
               {
@@ -858,9 +869,9 @@
             "url": "https://polymarket.com/event/hantavirus-pandemic-in-2026",
             "query": "health",
             "impact_category": "health",
-            "volume_24h": 168863.93866500005,
-            "volume": 10668785.025988972,
-            "liquidity": 2104324.5578,
+            "volume_24h": 169917.40361200005,
+            "volume": 10670000.920935972,
+            "liquidity": 2101005.48553,
             "end_date": "2026-12-31T00:00:00Z",
             "outcomes": [
               {
@@ -884,9 +895,9 @@
             "url": "https://polymarket.com/event/pga-championship-winner-2026",
             "query": "health",
             "impact_category": "health",
-            "volume_24h": 123615.90840399964,
-            "volume": 345548.28932601924,
-            "liquidity": 51852.12515,
+            "volume_24h": 122822.27840399974,
+            "volume": 345557.37932601926,
+            "liquidity": 53202.23721,
             "end_date": "2026-05-18T00:00:00Z",
             "outcomes": [
               {
@@ -910,9 +921,9 @@
             "url": "https://polymarket.com/event/cs2-mouz-mgc-2026-05-17",
             "query": "health",
             "impact_category": "health",
-            "volume_24h": 118357.47964099997,
-            "volume": 118357.47964099984,
-            "liquidity": 405488.8805,
+            "volume_24h": 120059.70384699995,
+            "volume": 120059.70384699982,
+            "liquidity": 250567.0179,
             "end_date": "2026-05-17T14:00:00Z",
             "outcomes": [
               {
@@ -930,7 +941,7 @@
             "no_probability": null
           }
         ],
-        "volume_24h_zscore_7d": -1.43
+        "volume_24h_zscore_7d": -1.44
       }
     },
     "hip4_outcome": {
@@ -1689,8 +1700,8 @@
     "status": "ready",
     "sample_status": {
       "asset_price_records": 672,
-      "market_context_records": 990,
-      "flow_alert_records": 4759,
+      "market_context_records": 991,
+      "flow_alert_records": 4760,
       "minimum_for_correlation": 24,
       "ready_for_correlation": true
     },

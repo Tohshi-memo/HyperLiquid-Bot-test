@@ -4,6 +4,7 @@ import json
 import logging
 import os
 import re
+import gzip
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -26,6 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = ROOT / "data" / "processed"
 RAW_DIR = ROOT / "data" / "raw"
 REPORT_DIR = ROOT / "data" / "reports"
+ARCHIVE_DIR = ROOT / "data" / "archive"
 CONTEXT_FILE = PROCESSED_DIR / "market_context.json"
 HISTORY_FILE = PROCESSED_DIR / "market_context_history.json"
 REPORT_FILE = REPORT_DIR / "latest_context.md"
@@ -110,6 +112,7 @@ def prepare_directories(now: datetime) -> None:
     (RAW_DIR / now.strftime("%Y-%m-%d")).mkdir(parents=True, exist_ok=True)
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def run_context(now: datetime) -> None:
@@ -841,12 +844,30 @@ def append_polymarket_outcome_history(
         history.append(row)
         existing_keys.add(key)
 
-    history = history[-max_records:]
+    if len(history) > max_records:
+        archive_polymarket_outcome_rows(history[:-max_records])
+        history = history[-max_records:]
     POLYMARKET_OUTCOME_HISTORY_FILE.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
     POLYMARKET_OUTCOME_LATEST_FILE.write_text(
         json.dumps(latest_polymarket_outcome_rows(history), indent=2, ensure_ascii=False),
         encoding="utf-8",
     )
+
+
+def archive_polymarket_outcome_rows(rows: list[dict[str, Any]]) -> None:
+    if not rows or os.getenv("POLYMARKET_OUTCOME_ARCHIVE_ENABLED", "true").lower() == "false":
+        return
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    grouped: dict[str, list[dict[str, Any]]] = {}
+    for row in rows:
+        observed_at = str(row.get("observed_at") or "")
+        month = observed_at[:7] if re.match(r"^\d{4}-\d{2}", observed_at) else "unknown"
+        grouped.setdefault(month, []).append(row)
+    for month, month_rows in grouped.items():
+        target = ARCHIVE_DIR / f"polymarket_outcome_history_{month}.jsonl.gz"
+        with gzip.open(target, "at", encoding="utf-8") as f:
+            for row in month_rows:
+                f.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
 
 
 def build_polymarket_outcome_history_rows(
