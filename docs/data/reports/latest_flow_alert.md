@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-17T00:35:12.751081+00:00`
+- Generated: `2026-05-17T00:40:15.047517+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `28029971.0`
-- Polymarket volume z-score: `-0.94`
+- Polymarket 24h volume: `27089632.41`
+- Polymarket volume z-score: `-1.07`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Israel win Eurovision 2026? | 24h volume: `1995675.7893639994` | liquidity: `234726.84629`
-- Israel x Syria security agreement by June 30? | 24h volume: `1348401.494249` | liquidity: `13509.7789`
-- Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - IEM Atlanta Playoffs | 24h volume: `1196949.799371003` | liquidity: `360111.12233`
-- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `1147721.353091` | liquidity: `1060642.79109`
-- Trump declassifies new UFO files by May 15? | 24h volume: `1085368.3768689989` | liquidity: `805849.85324`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1043786.6799499991` | liquidity: `212784.21327`
-- Counter-Strike: Legacy vs GamerLegion (BO3) - IEM Atlanta Playoffs | 24h volume: `946576.4158309991` | liquidity: `247651.11649`
+- Will Israel win Eurovision 2026? | 24h volume: `1995257.8993639995` | liquidity: `234832.63632`
+- Israel x Syria security agreement by June 30? | 24h volume: `1348401.494249` | liquidity: `13324.3078`
+- Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - IEM Atlanta Playoffs | 24h volume: `1197205.2293710029` | liquidity: `359830.66307`
+- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `1147721.353091` | liquidity: `1060392.79109`
+- Trump declassifies new UFO files by May 15? | 24h volume: `1085368.3768689989` | liquidity: `805891.81229`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1044362.7418399992` | liquidity: `221761.81692`
+- Will Ukraine win Eurovision 2026? | 24h volume: `781177.982196999` | liquidity: `257935.52134`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
