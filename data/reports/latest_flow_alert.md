@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-17T05:25:12.730599+00:00`
+- Generated: `2026-05-17T05:30:13.291326+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `26606420.43`
-- Polymarket volume z-score: `-1.21`
+- Polymarket 24h volume: `26386193.27`
+- Polymarket volume z-score: `-1.24`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Trump declassifies new UFO files by May 15? | 24h volume: `1449487.5668689988` | liquidity: `3060886.16145`
-- Israel x Syria security agreement by June 30? | 24h volume: `1348298.36691` | liquidity: `12254.3392`
+- Trump declassifies new UFO files by May 15? | 24h volume: `1455487.5668689988` | liquidity: `3059341.14651`
+- Israel x Syria security agreement by June 30? | 24h volume: `1348298.36691` | liquidity: `12240.0243`
 - Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `1230471.8630910001` | liquidity: `2229474.55334`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1147252.6009710003` | liquidity: `217987.94965`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `748087.4218029984` | liquidity: `667417.69742`
-- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `683329.1936719998` | liquidity: `2172493.59601`
-- Will the Iranian regime fall by May 31? | 24h volume: `589686.5105559999` | liquidity: `952611.13076`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1148087.0131480002` | liquidity: `219742.12625`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `746497.8705529984` | liquidity: `667491.9007`
+- Strait of Hormuz traffic returns to normal by May 15? | 24h volume: `684674.0119389999` | liquidity: `2172500.29178`
+- Will the Iranian regime fall by May 31? | 24h volume: `590922.536842` | liquidity: `955422.03825`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
