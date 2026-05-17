@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T20:07:16.140551+00:00`
+- Generated: `2026-05-17T20:22:26.502021+00:00`
 - Market context score: `48.78`
 - News risk score: `44.51`
 - Macro risk score: `27.44`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `912`
-- Day/swing latest: `2026-05-17T20:00:00+00:00`
+- Day/swing records: `913`
+- Day/swing latest: `2026-05-17T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Vir Biotechnology Stock Has Doubled This Past Year. One Fund Just Bought 1.2 Million Shares (Yahoo Finance)
+- [macro] AMD buys $6.5 million of surging tech stock (Yahoo Finance)
+- [macro] One Low-Cost ETF For Europe, Japan, And A Lot Of Stocks Americans Ignore (Yahoo Finance)
+- [macro] A China Tech Fund Opens a Biotech Position — Here's What That Actually Signals (Yahoo Finance)
+- [macro] Nvidia Stock Is Poised to Rocket From the Booming Space Economy (Yahoo Finance)
+- [macro] With YMM Down 29%, First Beijing Bought 13 Million More Shares (Yahoo Finance)
 - [macro] TRX Gold Corporation (TRX): 10 Best Gold Mining Stocks to Buy as Central Banks Buy Bullion (Yahoo Finance)
 - [macro] Here is Why AngloGold Ashanti plc (AU) is Among the 10 Best Gold Mining Stocks to Buy as Central Banks Buy Bullion (Yahoo Finance)
 - [macro] Mike Johnson says lawmakers' $174K+ salaries haven't kept up with inflation — they need stock trading for support (Yahoo Finance)
-- [macro] Billionaire Chase Coleman's Tiger Global bets $180M on surging semiconductor stock (Yahoo Finance)
-- [macro] GDS Was Already Up 47% — Pinpoint Tripled Its Stake Anyway (Yahoo Finance)
-- [macro] The AI Stock With a 10-Year Head Start That Wall Street Still Hasn't Fully Priced In (Yahoo Finance)
-- [macro] Why Plug Power Stock Skyrocketed This Week (Yahoo Finance)
 - [macro] Eric Trump says family assets invested in 'broad market indexes' — Trump's own disclosure lists 3,642 individual trades (Yahoo Finance)
-- [macro] Is Barrick Mining Corporation (B) Among the 10 Best Gold Mining Stocks to Buy as Central Banks Buy Bullion? (Yahoo Finance)
-- [macro] Wheaton Precious Metals (WPM) Raises Its Dividend Again As Cash Flow Strengthens (Yahoo Finance)
