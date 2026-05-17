@@ -20,6 +20,7 @@ CANARY_REPORT_FILE = REPORT_DIR / "latest_canary_signals.md"
 ASSET_UNIVERSE_FILE = PROCESSED_DIR / "asset_universe_latest.json"
 ASSET_PRICE_HISTORY_FILE = PROCESSED_DIR / "asset_price_history.json"
 ASSET_FEATURES_FILE = PROCESSED_DIR / "asset_features_latest.json"
+ASSET_FEATURES_ALL_FILE = PROCESSED_DIR / "asset_features_all.json"
 ASSET_FEATURES_REPORT_FILE = REPORT_DIR / "latest_asset_features.md"
 DAY_SWING_FILE = PROCESSED_DIR / "day_swing_dataset.json"
 AI_ANALYSIS_PACK_FILE = PROCESSED_DIR / "ai_analysis_pack.json"
@@ -300,6 +301,10 @@ def build_ai_index(
                 "Checking individual equity, commodity, metal, index, FX, or crypto candidates "
                 "without loading full all-symbol history."
             ),
+            "read_all_asset_features_when": (
+                "Screening every tradable HyperLiquid symbol in private strategy code. "
+                "This is compact and should be read before asset_price_history.json."
+            ),
             "read_macro_indicators_when": (
                 "Checking rates, employment, inflation, dollar, VIX, or macro-release context "
                 "before validating price behavior."
@@ -350,6 +355,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
         "conditional": [
             file_entry("data/processed/asset_universe_latest.json", ASSET_UNIVERSE_FILE, "Latest all-symbol rows."),
             file_entry("data/processed/asset_features_latest.json", ASSET_FEATURES_FILE, "Individual returns, volume, OI, funding, and best relationship candidates."),
+            file_entry("data/processed/asset_features_all.json", ASSET_FEATURES_ALL_FILE, "All tradable HyperLiquid assets with compact derived features for private screening."),
             file_entry("data/processed/asset_price_history.json", ASSET_PRICE_HISTORY_FILE, "Active all-symbol 15m price window."),
             file_entry("data/processed/day_swing_dataset.json", DAY_SWING_FILE, "Full BTC/ETH/HYPE/SOL feature and label rows."),
             file_entry("data/processed/market_context_history.json", MARKET_CONTEXT_HISTORY_FILE, "News/context history."),
@@ -697,6 +703,7 @@ def render_index_report(index: dict[str, Any]) -> str:
         f"{signals}\n\n"
         "## Full JSON Rule\n\n"
         "- Do not load `asset_universe_latest.json` until symbol-level fields are needed.\n"
+        "- Use `asset_features_all.json` for full-universe screening before loading raw price history.\n"
         "- Do not load `asset_price_history.json` until checking cross-asset lead/lag or correlation.\n"
         "- Do not load `day_swing_dataset.json` until validating one specific strategy rule.\n"
         "- Do not load compressed archives unless the active window is too short for that rule.\n"

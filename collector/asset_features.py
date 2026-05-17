@@ -14,6 +14,7 @@ ASSET_UNIVERSE_FILE = PROCESSED_DIR / "asset_universe_latest.json"
 ASSET_PRICE_HISTORY_FILE = PROCESSED_DIR / "asset_price_history.json"
 RELATIONSHIP_SCAN_FILE = PROCESSED_DIR / "relationship_scan_latest.json"
 LATEST_FILE = PROCESSED_DIR / "asset_features_latest.json"
+ALL_FILE = PROCESSED_DIR / "asset_features_all.json"
 REPORT_FILE = REPORT_DIR / "latest_asset_features.md"
 
 HORIZONS = {
@@ -64,13 +65,26 @@ def update_asset_features(now: datetime) -> dict[str, Any]:
         "top_assets": rows[:top_limit],
         "by_class": summarize_by_class(rows, top_limit),
     }
+    all_payload = {
+        "schema_version": 1,
+        "generated_at": now.isoformat(),
+        "observed_at": latest_record.get("observed_at"),
+        "purpose": (
+            "All tradable HyperLiquid assets with compact derived features. "
+            "Use this for private strategy screening before loading heavier history."
+        ),
+        "asset_count": len(rows),
+        "assets": rows,
+    }
     LATEST_FILE.write_text(json.dumps(latest, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    ALL_FILE.write_text(json.dumps(all_payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     REPORT_FILE.write_text(render_report(latest), encoding="utf-8")
 
     return {
         "enabled": True,
         "updated_at": now.isoformat(),
         "latest_file": "data/processed/asset_features_latest.json",
+        "all_file": "data/processed/asset_features_all.json",
         "report_file": "data/reports/latest_asset_features.md",
         "asset_count": len(rows),
         "top_assets": rows[:10],

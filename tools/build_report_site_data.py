@@ -15,6 +15,7 @@ SOURCE_FILES = [
     ("data/processed/flow_alert.json", "docs/data/processed/flow_alert.json"),
     ("data/processed/macro_indicators_latest.json", "docs/data/processed/macro_indicators_latest.json"),
     ("data/processed/asset_features_latest.json", "docs/data/processed/asset_features_latest.json"),
+    ("data/processed/asset_features_all.json", "docs/data/processed/asset_features_all.json"),
     ("data/processed/hip4_outcome_latest.json", "docs/data/processed/hip4_outcome_latest.json"),
     ("data/processed/relationship_scan_latest.json", "docs/data/processed/relationship_scan_latest.json"),
     ("data/processed/sector_reactions_latest.json", "docs/data/processed/sector_reactions_latest.json"),

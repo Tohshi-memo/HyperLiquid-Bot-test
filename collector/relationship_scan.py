@@ -295,7 +295,14 @@ def eligible_symbols(asset_universe: dict[str, Any]) -> set[str]:
     rows = asset_universe.get("assets", []) if isinstance(asset_universe, dict) else []
     if not isinstance(rows, list):
         return set()
-    allowed_classes = {"equity", "commodity", "metal", "index", "fx", "crypto_major"}
+    allowed_classes = {
+        item.strip()
+        for item in os.getenv(
+            "RELATIONSHIP_ALLOWED_CLASSES",
+            "equity,commodity,metal,index,fx,crypto_major,crypto_alt,unknown",
+        ).split(",")
+        if item.strip()
+    }
     liquid = [
         row
         for row in rows
@@ -305,7 +312,7 @@ def eligible_symbols(asset_universe: dict[str, Any]) -> set[str]:
         and to_float(row.get("price")) > 0
     ]
     liquid.sort(key=lambda row: to_float(row.get("day_ntl_vlm")), reverse=True)
-    max_symbols = int(os.getenv("RELATIONSHIP_SYMBOL_LIMIT", "120"))
+    max_symbols = int(os.getenv("RELATIONSHIP_SYMBOL_LIMIT", "1000"))
     return {str(row["symbol"]) for row in liquid[:max_symbols]}
 
 

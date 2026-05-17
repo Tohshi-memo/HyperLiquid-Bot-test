@@ -43,6 +43,7 @@ data/processed/macro_indicators_history.json
 data/processed/asset_universe_latest.json
 data/processed/asset_price_history.json
 data/processed/asset_features_latest.json
+data/processed/asset_features_all.json
 data/processed/day_swing_dataset.json
 data/processed/ai_analysis_pack.json
 data/processed/hip4_outcome_latest.json
@@ -109,6 +110,13 @@ signals, not direct trade instructions.
 keeps a compact screen of recent 15m/1h/4h/24h returns, volume, open interest,
 funding, class, and best mechanical relationship candidate. Use this before
 loading the heavier all-symbol price history.
+
+`asset_features_all.json` keeps the same compact feature row for every currently
+priced HyperLiquid tradable asset, including normal perps, HIP-3 builder
+markets, crypto alts, metals, commodities, indices, FX, and unknown-class
+symbols. Private strategy code should use this file when the goal is to screen
+the full HyperLiquid universe without loading the heavier row-level price
+history.
 
 Polymarket collection discovers active markets, then keeps watchlist-relevant
 ones by text/tag classification: crypto, major macro, commodities, rates,
