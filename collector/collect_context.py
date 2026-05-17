@@ -33,6 +33,7 @@ FLOW_ALERT_FILE = PROCESSED_DIR / "flow_alert.json"
 FLOW_ALERT_HISTORY_FILE = PROCESSED_DIR / "flow_alert_history.json"
 FLOW_ALERT_REPORT_FILE = REPORT_DIR / "latest_flow_alert.md"
 POLYMARKET_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "polymarket_outcome_history.json"
+POLYMARKET_OUTCOME_LATEST_FILE = PROCESSED_DIR / "polymarket_outcome_latest.json"
 DEFAULT_RSS_FEEDS = (
     "https://cointelegraph.com/rss,"
     "https://www.coindesk.com/arc/outboundfeeds/rss/"
@@ -822,7 +823,7 @@ def append_polymarket_outcome_history(
     markets: list[dict[str, Any]],
     profile: str,
 ) -> None:
-    max_records = int(os.getenv("POLYMARKET_OUTCOME_HISTORY_MAX_RECORDS", "100000"))
+    max_records = int(os.getenv("POLYMARKET_OUTCOME_HISTORY_MAX_RECORDS", "75000"))
     history = load_json(POLYMARKET_OUTCOME_HISTORY_FILE, default=[])
     if not isinstance(history, list):
         history = []
@@ -840,8 +841,10 @@ def append_polymarket_outcome_history(
         history.append(row)
         existing_keys.add(key)
 
-    POLYMARKET_OUTCOME_HISTORY_FILE.write_text(
-        json.dumps(history[-max_records:], indent=2, ensure_ascii=False),
+    history = history[-max_records:]
+    POLYMARKET_OUTCOME_HISTORY_FILE.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
+    POLYMARKET_OUTCOME_LATEST_FILE.write_text(
+        json.dumps(latest_polymarket_outcome_rows(history), indent=2, ensure_ascii=False),
         encoding="utf-8",
     )
 
@@ -904,6 +907,27 @@ def polymarket_outcome_history_key(row: dict[str, Any]) -> tuple[Any, ...]:
         row.get("market_slug"),
         row.get("token_id"),
         row.get("outcome_name"),
+    )
+
+
+def latest_polymarket_outcome_rows(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    latest: dict[tuple[Any, ...], dict[str, Any]] = {}
+    for row in rows:
+        key = (
+            row.get("event_slug"),
+            row.get("market_slug"),
+            row.get("token_id"),
+            row.get("outcome_name"),
+        )
+        current = latest.get(key)
+        if current is None or str(row.get("observed_at") or "") > str(current.get("observed_at") or ""):
+            latest[key] = row
+    return sorted(
+        latest.values(),
+        key=lambda item: (
+            str(item.get("event_slug") or ""),
+            str(item.get("person_name") or item.get("subject_name") or item.get("outcome_name") or ""),
+        ),
     )
 
 

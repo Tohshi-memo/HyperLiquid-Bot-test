@@ -34,6 +34,7 @@ data/processed/ai_context_index.json
 data/processed/canary_signals.json
 data/processed/market_context.json
 data/processed/market_context_history.json
+data/processed/polymarket_outcome_latest.json
 data/processed/polymarket_outcome_history.json
 data/processed/flow_alert.json
 data/processed/flow_alert_history.json
@@ -114,16 +115,19 @@ geopolitical, military/conflict, election, and tariff-related markets. The
 5-minute flow job uses a narrower high-impact subset; the 15-minute context
 job keeps the broader research set.
 
-`polymarket_outcome_history.json` stores per-outcome probability rows for the
-normal 15-minute context job. It keeps `event_slug`, market slug, token ID,
-outcome name, probability, liquidity, volume, and a best-effort `subject_name` /
+`polymarket_outcome_latest.json` stores the latest per-outcome probability rows
+for the report site. `polymarket_outcome_history.json` stores the rolling
+15-minute context history with `event_slug`, market slug, token ID, outcome
+name, probability, liquidity, volume, and a best-effort `subject_name` /
 `person_name` parsed from questions such as "Will X win..." so candidate and
 person probabilities can be tracked even when the market itself is Yes/No.
 Configured event slugs, such as the 2028 Democratic nominee, Republican
 nominee, and presidential winner events, are fetched by event so lower-volume
 candidates are retained in history even when they are outside the normal top
 market limit. The report site shows a searchable, filtered people view instead
-of rendering every candidate by default.
+of rendering every candidate by default. The active history is capped so normal
+GitHub commits stay below the 100MB file limit; older full-depth analysis should
+use archived or private storage if needed.
 
 `relationship_scan_latest.json` mechanically compares public conditions such
 as news risk, macro risk, risk-on context, Polymarket volume spikes, and flow

@@ -27,6 +27,7 @@ MARKET_CONTEXT_HISTORY_FILE = PROCESSED_DIR / "market_context_history.json"
 FLOW_ALERT_FILE = PROCESSED_DIR / "flow_alert.json"
 FLOW_ALERT_HISTORY_FILE = PROCESSED_DIR / "flow_alert_history.json"
 POLYMARKET_OUTCOME_HISTORY_FILE = PROCESSED_DIR / "polymarket_outcome_history.json"
+POLYMARKET_OUTCOME_LATEST_FILE = PROCESSED_DIR / "polymarket_outcome_latest.json"
 MACRO_INDICATORS_FILE = PROCESSED_DIR / "macro_indicators_latest.json"
 MACRO_INDICATORS_HISTORY_FILE = PROCESSED_DIR / "macro_indicators_history.json"
 MACRO_INDICATORS_REPORT_FILE = REPORT_DIR / "latest_macro_indicators.md"
@@ -346,6 +347,7 @@ def build_file_catalog(archive_files: list[str]) -> dict[str, Any]:
             file_entry("data/processed/day_swing_dataset.json", DAY_SWING_FILE, "Full BTC/ETH/HYPE/SOL feature and label rows."),
             file_entry("data/processed/market_context_history.json", MARKET_CONTEXT_HISTORY_FILE, "News/context history."),
             file_entry("data/processed/flow_alert_history.json", FLOW_ALERT_HISTORY_FILE, "Polymarket/flow history."),
+            file_entry("data/processed/polymarket_outcome_latest.json", POLYMARKET_OUTCOME_LATEST_FILE, "Latest per-outcome Polymarket probability rows for the report site."),
             file_entry("data/processed/polymarket_outcome_history.json", POLYMARKET_OUTCOME_HISTORY_FILE, "Per-outcome Polymarket probability history with subject/person names."),
             file_entry("data/processed/macro_indicators_latest.json", MACRO_INDICATORS_FILE, "Latest macro indicators from BLS, Treasury, and optional FRED."),
             file_entry("data/processed/macro_indicators_history.json", MACRO_INDICATORS_HISTORY_FILE, "Macro indicator history for lead/lag checks."),

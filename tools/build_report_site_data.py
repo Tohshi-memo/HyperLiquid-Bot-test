@@ -11,7 +11,7 @@ SOURCE_FILES = [
     ("data/processed/canary_signals.json", "docs/data/processed/canary_signals.json"),
     ("data/processed/ai_analysis_pack.json", "docs/data/processed/ai_analysis_pack.json"),
     ("data/processed/market_context.json", "docs/data/processed/market_context.json"),
-    ("data/processed/polymarket_outcome_history.json", "docs/data/processed/polymarket_outcome_history.json"),
+    ("data/processed/polymarket_outcome_latest.json", "docs/data/processed/polymarket_outcome_latest.json"),
     ("data/processed/flow_alert.json", "docs/data/processed/flow_alert.json"),
     ("data/processed/macro_indicators_latest.json", "docs/data/processed/macro_indicators_latest.json"),
     ("data/processed/asset_features_latest.json", "docs/data/processed/asset_features_latest.json"),

@@ -3,7 +3,7 @@ const DATA = {
   canary: "./data/processed/canary_signals.json",
   pack: "./data/processed/ai_analysis_pack.json",
   context: "./data/processed/market_context.json",
-  polymarketOutcomeHistory: "./data/processed/polymarket_outcome_history.json",
+  polymarketOutcomeHistory: "./data/processed/polymarket_outcome_latest.json",
   flow: "./data/processed/flow_alert.json",
   macro: "./data/processed/macro_indicators_latest.json",
   assetFeatures: "./data/processed/asset_features_latest.json",
