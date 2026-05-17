@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-17T22:50:14.401797+00:00`
+- Generated: `2026-05-17T22:55:13.984151+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `30686487.68`
-- Polymarket volume z-score: `-0.64`
+- Polymarket 24h volume: `30957986.6`
+- Polymarket volume z-score: `-0.6`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Israel x Syria security agreement by June 30? | 24h volume: `4351532.802718` | liquidity: `14999.443`
-- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `4205289.114` | liquidity: `1981872.92646`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `2310463.366504998` | liquidity: `128077.46193`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1917751.697158001` | liquidity: `242230.84448`
-- Counter-Strike: GamerLegion vs Natus Vincere (BO5) - IEM Atlanta Playoffs | 24h volume: `1234457.4251040008` | liquidity: `528950.36252`
-- Trump declassifies new UFO files by May 15? | 24h volume: `895837.308955` | liquidity: `2886272.75339`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `820117.0572250001` | liquidity: `188663.76954`
+- Israel x Syria security agreement by June 30? | 24h volume: `4351532.802718` | liquidity: `15089.4581`
+- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `4214284.124` | liquidity: `1972761.98646`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `2310463.366504998` | liquidity: `126231.72534`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1915001.089010001` | liquidity: `254567.6892`
+- Counter-Strike: GamerLegion vs Natus Vincere (BO5) - IEM Atlanta Playoffs | 24h volume: `1234458.6551040008` | liquidity: `522647.12991`
+- Trump declassifies new UFO files by May 15? | 24h volume: `903736.1689550001` | liquidity: `2878468.81648`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `817480.9643190001` | liquidity: `188347.44854`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
