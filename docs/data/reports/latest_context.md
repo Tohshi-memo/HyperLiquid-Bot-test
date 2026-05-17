@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T17:07:13.393494+00:00`
-- Market context score: `54.1`
-- News risk score: `42.06`
-- Macro risk score: `25.97`
-- Risk-on score: `43.32`
-- Articles: `38`
+- Generated: `2026-05-17T17:22:12.339507+00:00`
+- Market context score: `54.38`
+- News risk score: `41.43`
+- Macro risk score: `21.29`
+- Risk-on score: `41.64`
+- Articles: `47`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `900`
-- Day/swing latest: `2026-05-17T17:00:00+00:00`
+- Day/swing records: `901`
+- Day/swing latest: `2026-05-17T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `29`, risk hits `7`, risk headline rate `0.1724`, policy hits `3`
+- macro: articles `38`, risk hits `4`, risk headline rate `0.1053`, policy hits `4`
 
 ## Headlines
 
-- [macro] Historian: Dividends Were 90% of Returns Until Michael Jackson’s Thriller, Then Everything Changed (Yahoo Finance)
-- [macro] Robert W. Baird Maintains Hold Rating on Fortinet (FTNT) Stock (Yahoo Finance)
-- [macro] General Dynamics (GD) Releases Q1 2026 Financial Results (Yahoo Finance)
-- [macro] Truist Raises PT on Woodward (WWD) Stock (Yahoo Finance)
-- [macro] Interactive Brokers Group (IBKR) Announces Launch of Unified Interface for Trading Prediction Markets (Yahoo Finance)
-- [macro] Mizuho lifts PT on Advanced Micro Devices (AMD) Stock (Yahoo Finance)
-- [macro] Citi Maintains Buy Rating on Netflix (NFLX) Stock (Yahoo Finance)
-- [macro] Truist Raises PT on Visa (V) Stock (Yahoo Finance)
-- [macro] Taiwan Semiconductor Manufacturing (TSM): One of the Best Fundamentally Strong Stocks to Buy Now (Yahoo Finance)
-- [macro] Hers’s Why NVIDIA (NVDA) Is One of the Best Fundamentally Strong Stocks to Buy Now (Yahoo Finance)
+- [macro] Major bank drops bombshell on Fed interest-rate bets (Yahoo Finance)
+- [macro] Thermo Fisher Scientific Inc. (TMO) Unveils Bioprocess Design Center to Develop Life-Changing Therapies (Yahoo Finance)
+- [macro] This is why Wall Street Firms are Optimistic about DoorDash Inc. (DASH)’s Long-Term Outlook (Yahoo Finance)
+- [macro] Capital One Financial Corporation (COF) Board Approves Quarterly Dividend amid Top Line Growth (Yahoo Finance)
+- [macro] This is why Autodesk, Inc. (ADSK) is one of Steve Cohen’s large-cap Stock Picks (Yahoo Finance)
+- [macro] Is Atlassian Corporation (TEAM) One of Steve Cohen’s Stock Picks with High Upside Potential? (Yahoo Finance)
+- [macro] Barclays Bullish on Home Depot Inc. (HD) amid Improving Fundamentals and Comparisons (Yahoo Finance)
+- [macro] Solid Q1 and Guidance Underlines Why Danaher Corporation (DHR) is one of Steve Cohen’s Large-Cap Stock Picks (Yahoo Finance)
+- [macro] Benchmark’s Bullish View Supports Spotify Technology S.A. (SPOT) as a Steve Cohen Large-Cap Pick (Yahoo Finance)
+- [macro] Sea Limited (SE) Stands Out as a Top Steve Cohen Large-Cap Pick on Robust Revenue Growth (Yahoo Finance)
