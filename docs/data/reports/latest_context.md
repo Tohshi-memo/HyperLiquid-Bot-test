@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-17T12:52:12.913174+00:00`
+- Generated: `2026-05-17T13:07:12.936915+00:00`
 - Market context score: `37.95`
 - News risk score: `44.88`
 - Macro risk score: `32.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:65, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `884`
-- Day/swing latest: `2026-05-17T12:45:00+00:00`
+- Day/swing records: `885`
+- Day/swing latest: `2026-05-17T13:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] WHO declares Ebola outbreak in DR Congo a global health emergency (BBC News)
 - [commodity] G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure (Energy)
 - [macro] Canadian from hantavirus-hit cruise ship tests positive (BBC News)
 - [crypto] DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Large-scale Ukrainian drone attack kills three in Moscow region, says Russia (BBC News)
 - [crypto] SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report (Cointelegraph.com News)
-- [macro] WHO declares Ebola outbreak in DR Congo a global health emergency (BBC News)
 - [crypto] Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it? (Cointelegraph.com News)
 - [macro] Man drives car into pedestrians in Italy, injuring eight (BBC News)
 - [crypto] Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report (Cointelegraph.com News)
