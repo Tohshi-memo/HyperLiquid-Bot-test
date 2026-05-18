@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T12:37:21.105673+00:00`
-- Market context score: `44.6`
-- News risk score: `49.65`
-- Macro risk score: `28.92`
-- Risk-on score: `29.74`
+- Generated: `2026-05-18T12:52:19.508870+00:00`
+- Market context score: `44.65`
+- News risk score: `48.88`
+- Macro risk score: `28.29`
+- Risk-on score: `28.98`
 - Articles: `78`
 - Polymarket markets: `399`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `978`
-- Day/swing latest: `2026-05-18T12:30:00+00:00`
+- Day/swing records: `979`
+- Day/swing latest: `2026-05-18T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `30`, risk hits `15`, risk headline rate `0.3333`, policy hits `3`
-- macro: articles `44`, risk hits `14`, risk headline rate `0.2273`, policy hits `4`
+- crypto: articles `31`, risk hits `15`, risk headline rate `0.3226`, policy hits `4`
+- macro: articles `43`, risk hits `13`, risk headline rate `0.2093`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Strategy made mammoth $2 billion bitcoin purchase last week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
+- [macro] Danone to sell Lifeway Foods stake (Yahoo Finance)
+- [macro] Looking for a Single Tech ETF? Do Not Overlook This Option. (Yahoo Finance)
 - [crypto] Tokenization push could pull trillions of dollars into DeFi, StanChart says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli forces board Gaza-bound flotilla near Cyprus, activists say (BBC News)
-- [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
+- [macro] Some Retirement Experts Swear by the 4% Rule. Here's Why I'm Against It (Yahoo Finance)
+- [macro] Dollar Tree (DLTR) Recovers from Multi-Year Lows as Long-Term Value Thesis Strengthens (Yahoo Finance)
 - [macro] Lululemon pushes back in proxy battle, calls founder Chip Wilson's views 'outdated' (Yahoo Finance)
-- [macro] SpaceX reportedly issues 5-for-1 stock split as IPO timeline accelerates (Yahoo Finance)
-- [macro] Greg Abel Channeled His Inner Warren Buffett With Legacy and Dividend Stock Buys in Q1 (Yahoo Finance)
-- [macro] Prediction: Wall Street May Be Sleeping on Google’s Next Big Move (Yahoo Finance)
-- [commodity] ‘This is bad’: Strategists see European oil shortages within weeks as inventories are depleted (Energy)
-- [macro] J.B. Hunt Says Freight Rates Are Rising as Capacity Tightens, Not Demand (Yahoo Finance)
-- [macro] Kainos Group H2 Earnings Call Highlights (Yahoo Finance)
+- [macro] The Trump administration changed the rules on student loan forgiveness. Here’s what it means for your repayment strategy (Yahoo Finance)
