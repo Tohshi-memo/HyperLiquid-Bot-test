@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T05:37:12.811872+00:00`
-- Market context score: `46.93`
-- News risk score: `45.9`
-- Macro risk score: `40.45`
-- Risk-on score: `36.11`
-- Articles: `28`
+- Generated: `2026-05-18T05:52:13.801024+00:00`
+- Market context score: `46.19`
+- News risk score: `47.06`
+- Macro risk score: `37.06`
+- Risk-on score: `34.17`
+- Articles: `29`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `950`
-- Day/swing latest: `2026-05-18T05:30:00+00:00`
+- Day/swing records: `951`
+- Day/swing latest: `2026-05-18T05:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `2`
-- macro: articles `15`, risk hits `7`, risk headline rate `0.4`, policy hits `0`
+- commodity: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `11`, risk hits `6`, risk headline rate `0.3636`, policy hits `2`
+- macro: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
-- [macro] Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks (BBC News)
+- [crypto] Crypto traders betting on a rally lose $563 million in liquidations. Ether and bitcoin suffer the most (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Oil prices rise after Trump warns Iran over stalled peace talks (BBC News)
 - [macro] Instant AI answers can trivialise human intelligence, warns Royal Observatory (BBC News)
+- [macro] Rise in solar panel sales as people 'want to save money' (BBC News)
 - [crypto] Analysts debate whether Bitcoin is in a ‘sell in May’ bear market setup (Cointelegraph.com News)
 - [crypto] WETH markets return to normal operations on Aave amid rsETH recovery progress (Cointelegraph.com News)
 - [crypto] HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] High energy prices could derail Europe’s AI race with U.S. and China (Energy)
 - [crypto] Yet another crypto bridge falls victim to an $11 million hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump warns 'clock is ticking' for Iran as peace progress stalls (BBC News)
-- [crypto] Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak (BBC News)
