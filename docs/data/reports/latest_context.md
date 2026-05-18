@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T16:07:20.754760+00:00`
-- Market context score: `49.48`
-- News risk score: `45.92`
-- Macro risk score: `25.38`
-- Risk-on score: `36.09`
-- Articles: `99`
+- Generated: `2026-05-18T16:22:20.893849+00:00`
+- Market context score: `49.1`
+- News risk score: `46.23`
+- Macro risk score: `26.48`
+- Risk-on score: `35.93`
+- Articles: `102`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `992`
-- Day/swing latest: `2026-05-18T16:00:00+00:00`
+- Day/swing records: `993`
+- Day/swing latest: `2026-05-18T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `1`
-- crypto: articles `45`, risk hits `16`, risk headline rate `0.2889`, policy hits `5`
-- macro: articles `49`, risk hits `8`, risk headline rate `0.1429`, policy hits `5`
+- crypto: articles `46`, risk hits `16`, risk headline rate `0.2826`, policy hits `5`
+- macro: articles `51`, risk hits `11`, risk headline rate `0.1569`, policy hits `8`
 
 ## Headlines
 
-- [macro] Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial (BBC News)
-- [macro] Strike over high fuel prices paralyses transport in Kenya (BBC News)
+- [macro] At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed (BBC News)
+- [commodity] Brent oil tops $110 on report U.S. views latest Iranian proposal as insufficient (Energy)
+- [macro] Construction spending in US increased in March 2026 (Yahoo Finance)
+- [macro] Inflation rate projected to hit 6% in the second quarter, top economic forecasters say (Economy)
+- [macro] Stock Market Today: Dow Weakens As Oil Swings Higher; These Warren Buffett New Names Rise (Live Coverage) (Yahoo Finance)
 - [macro] The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says (Economy)
-- [macro] What is Ebola and why is stopping this outbreak so difficult? (BBC News)
-- [macro] NextEra eyes $400B buyout of major utility stock (Yahoo Finance)
-- [macro] What Retirement Really Looks Like at 71 With $1.1 Million After Three Years of Sequence-of-Returns Damage (Yahoo Finance)
-- [macro] Investment Advisor Closes Out Position in TREX Stock, According to Latest SEC Filing (Yahoo Finance)
-- [crypto] HIVE buys $58 million Toronto plot for AI facility; shares climb (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] BofA Slaps Salesforce With Underperform Rating, $160 Price Target: Is the AI Story Falling Flat? (Yahoo Finance)
-- [macro] Standard Chartered Forecasts $4 Trillion In Tokenized Assets By 2028 (Yahoo Finance)
+- [macro] AMD Just Delivered Fantastic News to Marvell Stock Investors (Yahoo Finance)
+- [macro] XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster (Yahoo Finance)
+- [macro] Starbucks delivers tough update on regional offices, cuts 100s of jobs (Yahoo Finance)
+- [macro] The Fed Has a New Boss, Inflation Is at a 3-Year High, and Rate Cuts Look Unlikely. These Stocks Win in That Environment. (Yahoo Finance)
