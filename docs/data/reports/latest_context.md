@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T00:22:14.329787+00:00`
-- Market context score: `57.73`
-- News risk score: `41.25`
-- Macro risk score: `36.0`
-- Risk-on score: `54.5`
-- Articles: `19`
+- Generated: `2026-05-18T00:37:16.971986+00:00`
+- Market context score: `58.5`
+- News risk score: `40.5`
+- Macro risk score: `34.5`
+- Risk-on score: `55.0`
+- Articles: `20`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `929`
-- Day/swing latest: `2026-05-18T00:15:00+00:00`
+- Day/swing records: `930`
+- Day/swing latest: `2026-05-18T00:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `0`
+- macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Fighter jet crews parachute safely after collision at US air show (BBC News)
 - [macro] Why does Amazon have no Western rivals? (BBC News)
 - [macro] HS2 failings blamed on high-speed focus and political pressure (BBC News)
 - [macro] 'This may be the last time you hear my voice': Political executions surge in Iran since start of war (BBC News)
@@ -37,4 +38,3 @@
 - [macro] WHO declares Ebola outbreak in DR Congo an international emergency (BBC News)
 - [crypto] Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces (Cointelegraph.com News)
 - [macro] UAE reports strike near Abu Dhabi nuclear power plant (BBC News)
-- [macro] Trump warns 'clock is ticking' for Iran as peace progress stalls (BBC News)
