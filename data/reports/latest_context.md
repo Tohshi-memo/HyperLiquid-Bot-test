@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T12:52:19.508870+00:00`
-- Market context score: `44.65`
-- News risk score: `48.88`
-- Macro risk score: `28.29`
-- Risk-on score: `28.98`
-- Articles: `78`
+- Generated: `2026-05-18T13:07:22.828130+00:00`
+- Market context score: `44.6`
+- News risk score: `50.13`
+- Macro risk score: `28.84`
+- Risk-on score: `30.13`
+- Articles: `82`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `979`
-- Day/swing latest: `2026-05-18T12:45:00+00:00`
+- Day/swing records: `980`
+- Day/swing latest: `2026-05-18T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `31`, risk hits `15`, risk headline rate `0.3226`, policy hits `4`
-- macro: articles `43`, risk hits `13`, risk headline rate `0.2093`, policy hits `3`
+- crypto: articles `32`, risk hits `16`, risk headline rate `0.3438`, policy hits `4`
+- macro: articles `46`, risk hits `13`, risk headline rate `0.2174`, policy hits `4`
 
 ## Headlines
 
-- [crypto] Strategy made mammoth $2 billion bitcoin purchase last week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] UK growth forecast upgraded by IMF but risks remain (BBC News)
 - [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
-- [macro] Danone to sell Lifeway Foods stake (Yahoo Finance)
-- [macro] Looking for a Single Tech ETF? Do Not Overlook This Option. (Yahoo Finance)
-- [crypto] Tokenization push could pull trillions of dollars into DeFi, StanChart says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Israeli forces board Gaza-bound flotilla near Cyprus, activists say (BBC News)
-- [macro] Some Retirement Experts Swear by the 4% Rule. Here's Why I'm Against It (Yahoo Finance)
-- [macro] Dollar Tree (DLTR) Recovers from Multi-Year Lows as Long-Term Value Thesis Strengthens (Yahoo Finance)
-- [macro] Lululemon pushes back in proxy battle, calls founder Chip Wilson's views 'outdated' (Yahoo Finance)
-- [macro] The Trump administration changed the rules on student loan forgiveness. Here’s what it means for your repayment strategy (Yahoo Finance)
+- [crypto] Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] When fraud stops looking like fraud, smarter detection is needed (Yahoo Finance)
+- [macro] NextEra Energy to acquire Dominion in $66.8 billion deal (Yahoo Finance)
+- [macro] Ford boss hints at return of Fiesta as an electric model (BBC News)
+- [macro] Adapt or fail: The growing cost of legacy payment systems (Yahoo Finance)
+- [macro] What Offers Immunome (IMNM) a Compelling Investment Opportunity? (Yahoo Finance)
+- [macro] Stock Market Today: Dow Futures Rise As Oil Falls In Latest Iran Twist; Nvidia, Walmart, Tesla On Watch (Live Coverage) (Yahoo Finance)
+- [macro] Is Legacy Education (LGCY) Emerging as a Winner in Healthcare Education? (Yahoo Finance)
