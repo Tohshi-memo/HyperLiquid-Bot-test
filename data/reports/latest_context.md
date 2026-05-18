@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T14:52:26.835422+00:00`
-- Market context score: `44.83`
-- News risk score: `49.78`
-- Macro risk score: `28.22`
-- Risk-on score: `30.09`
-- Articles: `91`
-- Polymarket markets: `399`
+- Generated: `2026-05-18T15:07:17.288819+00:00`
+- Market context score: `44.92`
+- News risk score: `49.35`
+- Macro risk score: `27.38`
+- Risk-on score: `29.61`
+- Articles: `94`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `987`
-- Day/swing latest: `2026-05-18T14:45:00+00:00`
+- Day/swing records: `988`
+- Day/swing latest: `2026-05-18T15:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
+- commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
 - crypto: articles `41`, risk hits `19`, risk headline rate `0.3415`, policy hits `6`
-- macro: articles `46`, risk hits `12`, risk headline rate `0.1957`, policy hits `4`
+- macro: articles `48`, risk hits `10`, risk headline rate `0.1667`, policy hits `6`
 
 ## Headlines
 
+- [macro] The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says (Economy)
+- [macro] At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed (BBC News)
+- [macro] IMF assessment points to slow UK recovery and structural constraints (Yahoo Finance)
+- [commodity] The EU will cut growth outlook, raise inflation forecast as Iran war drives 'stagflationary shock' (Energy)
 - [macro] Is the UK's once favourite car coming back as an EV? (BBC News)
-- [macro] At least 100 dead in Ebola outbreak in DR Congo as six Americans exposed (BBC News)
-- [macro] What is Ebola and why is stopping this outbreak so difficult? (BBC News)
-- [macro] Standard Chartered appoints new group CFO (Yahoo Finance)
-- [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
-- [macro] Is Appian Stock a Buy After the Chief Revenue Officer Acquired Over 5,000 Shares? (Yahoo Finance)
-- [crypto] Live markets: Bitcoin gives up all of May's gains, slipping below $77,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Hedge Your AI Holdings With This Safe Haven ETF if the Bubble Bursts (Yahoo Finance)
-- [macro] US Treasury, India's Adani Enterprises settle alleged Iran sanctions violations (Yahoo Finance)
-- [macro] Tube strikes called off by RMT union (BBC News)
+- [macro] Strategy Leverages Preferred Stock Issuance for $2 Billion Bitcoin Buy (Yahoo Finance)
+- [macro] Jim Cramer Shares Why Tesla (TSLA) Is Better Than Ford (Yahoo Finance)
+- [macro] Jim Cramer Reveals Why Broadcom (AVGO) Is Powerful (Yahoo Finance)
+- [macro] Jim Cramer Shares Why Palo Alto (PANW) Is Having The Last Laugh (Yahoo Finance)
+- [macro] Dollar retreats on report of US-Iran sanctions deal (Yahoo Finance)
