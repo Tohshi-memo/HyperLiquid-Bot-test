@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T14:22:23.864263+00:00`
-- Market context score: `43.64`
-- News risk score: `50.21`
-- Macro risk score: `29.19`
-- Risk-on score: `28.19`
-- Articles: `90`
-- Polymarket markets: `398`
+- Generated: `2026-05-18T14:37:18.020053+00:00`
+- Market context score: `43.23`
+- News risk score: `50.59`
+- Macro risk score: `30.59`
+- Risk-on score: `28.13`
+- Articles: `92`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `985`
-- Day/swing latest: `2026-05-18T14:15:00+00:00`
+- Day/swing records: `986`
+- Day/swing latest: `2026-05-18T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `41`, risk hits `19`, risk headline rate `0.3415`, policy hits `6`
-- macro: articles `45`, risk hits `12`, risk headline rate `0.2222`, policy hits `2`
+- crypto: articles `42`, risk hits `19`, risk headline rate `0.3333`, policy hits `7`
+- macro: articles `46`, risk hits `14`, risk headline rate `0.2391`, policy hits `3`
 
 ## Headlines
 
-- [crypto] Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
-- [macro] What is Ebola and why is stopping this outbreak so difficult? (BBC News)
-- [macro] ReNew Energy Global Q4 Earnings Call Highlights (Yahoo Finance)
-- [macro] Compugen Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Baidu Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Pizza Hut franchisee converts locations into retro classics (Yahoo Finance)
-- [macro] Investment Advisor Bets Big on Theme Park Stock, Latest SEC Filing Reveals (Yahoo Finance)
-- [macro] Bodies of missing Italian divers found in Maldives (BBC News)
-- [macro] IQVIA (IQV) Fell Despite Strong Fundamentals (Yahoo Finance)
+- [crypto] Live markets: Bitcoin gives up all of May's gains, slipping below $77,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Is the UK's once favourite car coming back as an EV? (BBC News)
+- [macro] US Treasury, India's Adani Enterprises settle alleged Iran sanctions violations (Yahoo Finance)
+- [macro] Tube strikes called off by RMT union (BBC News)
+- [macro] US home builder sentiment ticks up in May but broad pessimism remains prevalent (Yahoo Finance)
+- [macro] AICPA submits recommendations for 2026–27 Priority Guidance Plan (Yahoo Finance)
+- [macro] NVIDIA Corporation (NVDA) Fell on Concerns Over the Sustainability of AI Infrastructure Capital Expenditure (Yahoo Finance)
+- [macro] Prediction: Nvidia's Stock Will Hit $300 by the End of 2026 (Yahoo Finance)
+- [crypto] Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
