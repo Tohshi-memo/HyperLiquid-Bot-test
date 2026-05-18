@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T09:07:16.174429+00:00`
-- Market context score: `35.96`
-- News risk score: `52.97`
-- Macro risk score: `41.66`
-- Risk-on score: `18.16`
-- Articles: `35`
+- Generated: `2026-05-18T09:22:18.749199+00:00`
+- Market context score: `41.62`
+- News risk score: `55.01`
+- Macro risk score: `31.85`
+- Risk-on score: `28.74`
+- Articles: `63`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `964`
-- Day/swing latest: `2026-05-18T09:00:00+00:00`
+- Day/swing records: `965`
+- Day/swing latest: `2026-05-18T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `18`, risk hits `12`, risk headline rate `0.4444`, policy hits `2`
-- macro: articles `15`, risk hits `8`, risk headline rate `0.4667`, policy hits `0`
+- crypto: articles `17`, risk hits `12`, risk headline rate `0.4706`, policy hits `2`
+- macro: articles `44`, risk hits `15`, risk headline rate `0.2955`, policy hits `2`
 
 ## Headlines
 
-- [macro] HS2 failings blamed on high-speed focus and political pressure (BBC News)
+- [macro] Delta Galil reports Q1 sales growth, led by US market (Yahoo Finance)
+- [macro] ASML, Tata Electronics to advance semiconductor production in India (Yahoo Finance)
 - [commodity] Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict (Energy)
-- [macro] Escaped tiger shot by German police after attacking man (BBC News)
-- [macro] Why does Amazon have no Western rivals? (BBC News)
-- [macro] Oil prices rise after Trump warns Iran over stalled peace talks (BBC News)
-- [crypto] Kraken cuts 150 staff amid AI efficiencies, potentially delaying IPO: Report (Cointelegraph.com News)
-- [crypto] Crypto security is turning into an AI arms race as agents may overwhelm compliance teams (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Verus Ethereum bridge reportedly exploited for $11.6M in latest DeFi attack (Cointelegraph.com News)
-- [crypto] Aave restores ether borrowing limits after $230 million exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Driver of crashed train tested positive for drugs, Thai police say (BBC News)
+- [macro] Forvis Mazars hires new managing director for healthcare practice (Yahoo Finance)
+- [macro] Rocket Lab vs. SpaceX: Which Stock is the Better Aerospace Buy? (Yahoo Finance)
+- [macro] HS2 failings blamed on high-speed focus and political pressure (BBC News)
+- [macro] Car ownership costs are causing financial strain for Americans (Yahoo Finance)
+- [macro] Global stocks retreat and bonds wilt as oil climbs (Yahoo Finance)
+- [macro] Here's how Nvidia stock has historically performed after earnings: Chart of the Day (Yahoo Finance)
+- [macro] Down 30% This Year, Is It Finally Time to Buy Global-e Stock? (Yahoo Finance)
