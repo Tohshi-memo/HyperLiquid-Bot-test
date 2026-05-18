@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T03:52:14.510448+00:00`
-- Market context score: `58.76`
-- News risk score: `39.75`
-- Macro risk score: `37.25`
-- Risk-on score: `56.0`
-- Articles: `20`
+- Generated: `2026-05-18T04:07:15.897176+00:00`
+- Market context score: `49.45`
+- News risk score: `46.66`
+- Macro risk score: `38.88`
+- Risk-on score: `41.76`
+- Articles: `23`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `943`
-- Day/swing latest: `2026-05-18T03:45:00+00:00`
+- Day/swing records: `944`
+- Day/swing latest: `2026-05-18T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `0`
+- crypto: articles `6`, risk hits `4`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `15`, risk hits `6`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump warns 'clock is ticking' for Iran as peace progress stalls (BBC News)
+- [crypto] Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] 'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak (BBC News)
+- [macro] Taiwan will not provoke conflict nor give up sovereignty, says president (BBC News)
 - [crypto] Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch (Cointelegraph.com News)
 - [macro] Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks (BBC News)
 - [commodity] Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict (Energy)
 - [macro] WHO declares Ebola outbreak in DR Congo an international emergency (BBC News)
 - [macro] Moment two fighter jets collide mid-air at US air show (BBC News)
 - [macro] Why does Amazon have no Western rivals? (BBC News)
-- [macro] HS2 failings blamed on high-speed focus and political pressure (BBC News)
-- [macro] 'This may be the last time you hear my voice': Political executions surge in Iran since start of war (BBC News)
-- [macro] Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war (BBC News)
-- [macro] From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady (BBC News)
