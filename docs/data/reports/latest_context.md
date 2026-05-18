@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T02:22:12.588834+00:00`
+- Generated: `2026-05-18T02:37:12.311081+00:00`
 - Market context score: `57.73`
 - News risk score: `41.25`
 - Macro risk score: `36.0`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `937`
-- Day/swing latest: `2026-05-18T02:15:00+00:00`
+- Day/swing records: `938`
+- Day/swing latest: `2026-05-18T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
+- macro: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `0`
 
 ## Headlines
 
+- [macro] Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks (BBC News)
 - [commodity] Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict (Energy)
 - [macro] WHO declares Ebola outbreak in DR Congo an international emergency (BBC News)
 - [macro] Moment two fighter jets collide mid-air at US air show (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war (BBC News)
 - [macro] From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces (Cointelegraph.com News)
