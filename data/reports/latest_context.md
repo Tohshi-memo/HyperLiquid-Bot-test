@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T10:22:30.465844+00:00`
-- Market context score: `37.23`
-- News risk score: `55.99`
-- Macro risk score: `35.94`
-- Risk-on score: `21.36`
-- Articles: `58`
+- Generated: `2026-05-18T10:37:18.368076+00:00`
+- Market context score: `44.15`
+- News risk score: `52.94`
+- Macro risk score: `26.14`
+- Risk-on score: `30.47`
+- Articles: `66`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `969`
-- Day/swing latest: `2026-05-18T10:15:00+00:00`
+- Day/swing records: `970`
+- Day/swing latest: `2026-05-18T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `17`, risk hits `12`, risk headline rate `0.4706`, policy hits `2`
-- macro: articles `39`, risk hits `15`, risk headline rate `0.3333`, policy hits `11`
+- crypto: articles `17`, risk hits `12`, risk headline rate `0.4706`, policy hits `3`
+- macro: articles `47`, risk hits `10`, risk headline rate `0.1915`, policy hits `3`
 
 ## Headlines
 
-- [macro] At least six Americans exposed to Ebola in DR Congo, US media report (BBC News)
-- [macro] HS2 failings blamed on high-speed focus and political pressure (BBC News)
-- [macro] How India's cooking fuel shortage is driving up California's gas prices (Yahoo Finance)
-- [macro] Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say (BBC News)
-- [macro] Mortgage and refinance interest rates today, May 18, 2026: Will rates rise or fall this week? (Yahoo Finance)
-- [macro] Best money market account rates today, May 18, 2026: Earn up to 4.01% APY (Yahoo Finance)
-- [macro] Best CD rates today, May 18, 2026: Lock in up to 4% APY (Yahoo Finance)
-- [macro] HELOC and home equity loan rates, Monday, May 18, 2026: With rates this low, consider the best lenders (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Monday, May 18, 2026: Earn up to 4.1% APY (Yahoo Finance)
-- [macro] Did your HOA dues spike last year? You're not alone. (Yahoo Finance)
+- [crypto] Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Should Investors Buy Peloton Stock After Its 96% Decline? Here's the Good News and the Bad News. (Yahoo Finance)
+- [commodity] Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict (Energy)
+- [macro] Prediction: Procter & Gamble Will Trade At This Price in 2027 (Yahoo Finance)
+- [macro] Venture Global (VG) Delivers Strong Q1 Results, Raises 2026 Guidance (Yahoo Finance)
+- [macro] Viper Energy (VNOM) Beats Expectations in Q1, Raises 2026 Output Guidance (Yahoo Finance)
+- [macro] Liberty Energy (LBRT) – Among the 10 Energy Stocks that Crushed Earnings Estimates in the First Quarter (Yahoo Finance)
+- [macro] Is Phillips 66 (PSX) Among the Energy Stocks that Crushed Earnings Estimates in the First Quarter? (Yahoo Finance)
+- [macro] Is the SpaceX IPO Overpriced? Here's How Much It Could Be Worth, According to a Valuation Expert. (Yahoo Finance)
+- [macro] Marathon Petroleum (MPC) Exceeds Estimates in Q1, Boosts Stock Buyback Program (Yahoo Finance)
