@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T01:07:15.159251+00:00`
+- Generated: `2026-05-18T01:22:16.385390+00:00`
 - Market context score: `57.37`
 - News risk score: `41.6`
 - Macro risk score: `36.71`
 - Risk-on score: `54.26`
 - Articles: `21`
-- Polymarket markets: `396`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `932`
-- Day/swing latest: `2026-05-18T01:00:00+00:00`
+- Day/swing records: `933`
+- Day/swing latest: `2026-05-18T01:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] WHO declares Ebola outbreak in DR Congo an international emergency (BBC News)
 - [commodity] Oil rises as Iran-U.S. deadlocked peace talks fan fears of extended supply disruption (Energy)
 - [macro] Moment two fighter jets collide mid-air at US air show (BBC News)
 - [macro] Why does Amazon have no Western rivals? (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war (BBC News)
 - [macro] From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] WHO declares Ebola outbreak in DR Congo an international emergency (BBC News)
 - [crypto] Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces (Cointelegraph.com News)
