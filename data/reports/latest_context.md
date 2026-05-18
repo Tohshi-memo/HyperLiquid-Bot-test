@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T05:22:17.690255+00:00`
+- Generated: `2026-05-18T05:37:12.811872+00:00`
 - Market context score: `46.93`
 - News risk score: `45.9`
 - Macro risk score: `40.45`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `949`
-- Day/swing latest: `2026-05-18T05:15:00+00:00`
+- Day/swing records: `950`
+- Day/swing latest: `2026-05-18T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks (BBC News)
 - [macro] Instant AI answers can trivialise human intelligence, warns Royal Observatory (BBC News)
 - [crypto] Analysts debate whether Bitcoin is in a ‘sell in May’ bear market setup (Cointelegraph.com News)
 - [crypto] WETH markets return to normal operations on Aave amid rsETH recovery progress (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Trump warns 'clock is ticking' for Iran as peace progress stalls (BBC News)
 - [crypto] Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak (BBC News)
-- [macro] Taiwan will not provoke conflict nor give up sovereignty, says president (BBC News)
