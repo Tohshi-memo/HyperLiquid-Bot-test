@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T14:07:22.911128+00:00`
-- Market context score: `46.54`
-- News risk score: `48.7`
-- Macro risk score: `27.81`
-- Risk-on score: `32.83`
-- Articles: `85`
-- Polymarket markets: `399`
+- Generated: `2026-05-18T14:22:23.864263+00:00`
+- Market context score: `43.64`
+- News risk score: `50.21`
+- Macro risk score: `29.19`
+- Risk-on score: `28.19`
+- Articles: `90`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `984`
-- Day/swing latest: `2026-05-18T14:00:00+00:00`
+- Day/swing records: `985`
+- Day/swing latest: `2026-05-18T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `37`, risk hits `17`, risk headline rate `0.3243`, policy hits `5`
-- macro: articles `44`, risk hits `11`, risk headline rate `0.2045`, policy hits `1`
+- crypto: articles `41`, risk hits `19`, risk headline rate `0.3415`, policy hits `6`
+- macro: articles `45`, risk hits `12`, risk headline rate `0.2222`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
+- [macro] What is Ebola and why is stopping this outbreak so difficult? (BBC News)
+- [macro] ReNew Energy Global Q4 Earnings Call Highlights (Yahoo Finance)
+- [macro] Compugen Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Baidu Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Pizza Hut franchisee converts locations into retro classics (Yahoo Finance)
+- [macro] Investment Advisor Bets Big on Theme Park Stock, Latest SEC Filing Reveals (Yahoo Finance)
 - [macro] Bodies of missing Italian divers found in Maldives (BBC News)
-- [macro] Strike over high fuel prices paralyses transport in Kenya (BBC News)
-- [macro] Broyhill Asset Management’s Leading Contributor: Valvoline (VVV) (Yahoo Finance)
-- [macro] Investors Reward Honeywell’s (HON) Focus on Its Pure-Play Automation Business (Yahoo Finance)
-- [macro] Buy, Hold or Sell Intel at Over $100? (Yahoo Finance)
-- [macro] Lululemon rejects Chip Wilson board nominees ahead of annual meeting (Yahoo Finance)
-- [macro] Broyhill Asset Management Sold Ball Corporation (BALL) as the Thesis Validated (Yahoo Finance)
-- [macro] NextEra Will Buy Dominion Energy in Largest-Ever Electric Utility Deal (Yahoo Finance)
-- [macro] Best High-Yield Dividend Stocks to Buy in 2026 (Yahoo Finance)
-- [macro] Which Is the Better Bond ETF, Vanguard's VCIT or Fidelity's FIGB? (Yahoo Finance)
+- [macro] IQVIA (IQV) Fell Despite Strong Fundamentals (Yahoo Finance)
