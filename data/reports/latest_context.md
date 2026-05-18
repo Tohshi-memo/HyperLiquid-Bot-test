@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T00:52:16.247638+00:00`
+- Generated: `2026-05-18T01:07:15.159251+00:00`
 - Market context score: `57.37`
 - News risk score: `41.6`
 - Macro risk score: `36.71`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:5, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `931`
-- Day/swing latest: `2026-05-18T00:45:00+00:00`
+- Day/swing records: `932`
+- Day/swing latest: `2026-05-18T01:00:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [commodity] Oil rises as Iran-U.S. deadlocked peace talks fan fears of extended supply disruption (Energy)
-- [macro] Fighter jet crews parachute safely after collision at US air show (BBC News)
+- [macro] Moment two fighter jets collide mid-air at US air show (BBC News)
 - [macro] Why does Amazon have no Western rivals? (BBC News)
 - [macro] HS2 failings blamed on high-speed focus and political pressure (BBC News)
 - [macro] 'This may be the last time you hear my voice': Political executions surge in Iran since start of war (BBC News)
