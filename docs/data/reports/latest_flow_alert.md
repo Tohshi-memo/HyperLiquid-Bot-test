@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-18T09:35:15.824917+00:00`
+- Generated: `2026-05-18T09:40:27.026164+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `33944986.53`
-- Polymarket volume z-score: `-0.11`
+- Polymarket 24h volume: `34219269.32`
+- Polymarket volume z-score: `-0.07`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `4426228.563999999` | liquidity: `2120204.20134`
-- Israel x Syria security agreement by June 30? | 24h volume: `4056586.063205002` | liquidity: `13827.1057`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `2314685.582485998` | liquidity: `115640.66073`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `2140642.232649998` | liquidity: `477177.30064`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `1047392.390034` | liquidity: `256346.89694`
-- Trump declassifies new UFO files by May 15? | 24h volume: `942010.02` | liquidity: `2432866.97769`
-- Will the Iranian regime fall by May 31? | 24h volume: `728502.618877` | liquidity: `663035.45776`
+- Will Trump say "Dumbocrat" during Bret Baier interview? | 24h volume: `4436228.563999999` | liquidity: `2089235.20134`
+- Israel x Syria security agreement by June 30? | 24h volume: `4023187.729865002` | liquidity: `13108.1992`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `2315217.1207979983` | liquidity: `113873.88531`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `2165231.3965869974` | liquidity: `405031.03026`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `1081986.646286999` | liquidity: `208045.5279`
+- Trump declassifies new UFO files by May 15? | 24h volume: `942010.02` | liquidity: `2430723.93397`
+- Will the Iranian regime fall by May 31? | 24h volume: `770075.4032810001` | liquidity: `612462.64945`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
