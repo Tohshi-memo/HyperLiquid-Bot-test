@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T19:52:16.134823+00:00`
+- Generated: `2026-05-18T20:07:18.915597+00:00`
 - Market context score: `43.75`
 - News risk score: `46.97`
 - Macro risk score: `35.29`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1007`
-- Day/swing latest: `2026-05-18T19:45:00+00:00`
+- Day/swing records: `1008`
+- Day/swing latest: `2026-05-18T20:00:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 
 - [commodity] Oil prices stay in the green even after Trump calls off planned Tuesday attack on Iran (Energy)
 - [macro] Trump says he called off new Iran attack at request of Gulf states (BBC News)
-- [macro] At least 100 dead in Ebola outbreak as US doctor working in DR Congo tests positive, reports say (BBC News)
+- [macro] At least 100 dead in Ebola outbreak in DR Congo, official says (BBC News)
 - [macro] Elon Musk just lost another lawsuit. Will he keep fighting? (BBC News)
 - [macro] Musk loses OpenAI court battle after jury finds he waited too long to sue (BBC News)
 - [macro] Musk loses OpenAI court battle after jury finds he waited too long to sue (BBC News)
