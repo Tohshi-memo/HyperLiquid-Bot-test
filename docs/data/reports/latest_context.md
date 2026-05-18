@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T20:22:16.737514+00:00`
+- Generated: `2026-05-18T20:37:19.953769+00:00`
 - Market context score: `44.64`
 - News risk score: `45.95`
 - Macro risk score: `34.1`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1009`
-- Day/swing latest: `2026-05-18T20:15:00+00:00`
+- Day/swing records: `1010`
+- Day/swing latest: `2026-05-18T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Trump says he called off new Iran attack at request of Gulf states (BBC News)
 - [macro] Oil price slumps as Trump says he called off Iran attacks (BBC News)
 - [crypto] Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices stay in the green even after Trump calls off planned Tuesday attack on Iran (Energy)
 - [crypto] Bitcoin’s trend defining battle starts at the $74K support: Analyst (Cointelegraph.com News)
-- [macro] Trump says he called off new Iran attack at request of Gulf states (BBC News)
 - [macro] At least 100 dead in Ebola outbreak in DR Congo, official says (BBC News)
 - [macro] Elon Musk just lost another lawsuit. Will he keep fighting? (BBC News)
 - [macro] Musk loses OpenAI court battle after jury finds he waited too long to sue (BBC News)
