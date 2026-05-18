@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-18T16:00:08.439447+00:00`
+- Generated: `2026-05-18T16:07:20.754760+00:00`
 - Market context score: `49.48`
 - News risk score: `45.92`
 - Macro risk score: `25.38`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial (BBC News)
 - [macro] Strike over high fuel prices paralyses transport in Kenya (BBC News)
 - [macro] The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says (Economy)
 - [macro] What is Ebola and why is stopping this outbreak so difficult? (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] HIVE buys $58 million Toronto plot for AI facility; shares climb (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] BofA Slaps Salesforce With Underperform Rating, $160 Price Target: Is the AI Story Falling Flat? (Yahoo Finance)
 - [macro] Standard Chartered Forecasts $4 Trillion In Tokenized Assets By 2028 (Yahoo Finance)
-- [macro] 2 AI Stocks Under $10 That Could Lead to Long-Term Gains (Yahoo Finance)
