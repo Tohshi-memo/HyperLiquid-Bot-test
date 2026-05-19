@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T02:52:15.618202+00:00`
-- Market context score: `46.76`
-- News risk score: `42.21`
-- Macro risk score: `31.17`
-- Risk-on score: `29.1`
-- Articles: `60`
+- Generated: `2026-05-19T03:07:17.125097+00:00`
+- Market context score: `46.21`
+- News risk score: `42.44`
+- Macro risk score: `32.28`
+- Risk-on score: `28.5`
+- Articles: `57`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1035`
-- Day/swing latest: `2026-05-19T02:45:00+00:00`
+- Day/swing records: `1036`
+- Day/swing latest: `2026-05-19T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `2`
-- macro: articles `32`, risk hits `10`, risk headline rate `0.25`, policy hits `8`
+- crypto: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `2`
+- macro: articles `30`, risk hits `10`, risk headline rate `0.2667`, policy hits `8`
 
 ## Headlines
 
+- [macro] Standard Chartered to cut thousands of roles as AI use increases (BBC News)
 - [macro] Trump told Taiwan not to 'go independent' - but does it want to? (BBC News)
 - [macro] Israeli forces board Gaza-bound flotilla near Cyprus, activists say (BBC News)
 - [macro] Teen suspects fatally shoot three in suspected hate crime at San Diego mosque (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
 - [macro] Robo-top: The machines that could make your next t-shirt (BBC News)
 - [crypto] Odds against rate cuts high as new US Fed chair set for swearing in (Cointelegraph.com News)
-- [macro] Trump says he called off new Iran attack at request of Gulf states (BBC News)
