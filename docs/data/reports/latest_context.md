@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T13:52:16.787650+00:00`
+- Generated: `2026-05-19T14:07:22.615100+00:00`
 - Market context score: `48.26`
 - News risk score: `47.52`
 - Macro risk score: `23.02`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1079`
-- Day/swing latest: `2026-05-19T13:45:00+00:00`
+- Day/swing records: `1080`
+- Day/swing latest: `2026-05-19T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [commodity] Cuba condemns U.S. sanctions, accuses Washington of building ‘fraudulent case’ for military action (Energy)
 - [macro] HS2 costs could top £100bn and trains will be slower than first planned (BBC News)
-- [macro] French luxury retailer Dior to limit price rises amid brand reset – report (Yahoo Finance)
-- [macro] This Artificial Intelligence (AI) Semiconductor Company Has a $146 Billion Opportunity That No One Is Talking About. Here's Why the Stock Still Isn't a Buy. (Yahoo Finance)
-- [macro] StubHub, Jazz Pharmaceuticals upgraded: Wall Street's top analyst calls (Yahoo Finance)
+- [macro] Is KBR Stock a Buy After a Company Director Purchased 3,000 Shares? (Yahoo Finance)
+- [macro] Should You Buy the 27% Dip in AppLovin Stock? (Yahoo Finance)
+- [commodity] Cuba condemns U.S. sanctions, accuses Washington of building ‘fraudulent case’ for military action (Energy)
+- [macro] GII takes minority stake in food packaging company Hotpack (Yahoo Finance)
+- [macro] Meet the Small-Cap Chip Stock That Is a Tiny Fraction of Nvidia's Valuation and That Just Posted 59% Revenue Growth Due to AI-Driven Demand (Yahoo Finance)
+- [macro] 2 Stocks That Are Much Cheaper Than They Look (Yahoo Finance)
+- [macro] Cathie Wood Shifts ARK's Defense Stocks; Contracts, Foreign Sales In Focus (Yahoo Finance)
+- [macro] Polymarket debuts prediction markets tied to private companies (Yahoo Finance)
 - [macro] White-hot semiconductor stocks like Sandisk and Micron are now in meltdown mode (Yahoo Finance)
-- [macro] Fair Isaac (FICO) Fell in Q1 Due to Valuation Concerns (Yahoo Finance)
-- [macro] Stocks Open Lower, Taking a Cue From Bonds (Yahoo Finance)
-- [macro] Princes Group CEO to leave (Yahoo Finance)
-- [macro] The AI economy is rewriting the American Dream — and blue-collar workers are poised to win (Economy)
