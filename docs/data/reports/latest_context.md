@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T00:07:13.676352+00:00`
-- Market context score: `44.44`
-- News risk score: `47.34`
-- Macro risk score: `32.07`
-- Risk-on score: `28.63`
+- Generated: `2026-05-19T00:22:15.367424+00:00`
+- Market context score: `45.34`
+- News risk score: `46.3`
+- Macro risk score: `30.63`
+- Risk-on score: `29.2`
 - Articles: `77`
 - Polymarket markets: `398`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1024`
-- Day/swing latest: `2026-05-19T00:00:00+00:00`
+- Day/swing records: `1025`
+- Day/swing latest: `2026-05-19T00:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
-- crypto: articles `37`, risk hits `9`, risk headline rate `0.2432`, policy hits `6`
+- commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `38`, risk hits `9`, risk headline rate `0.2368`, policy hits `6`
 - macro: articles `35`, risk hits `10`, risk headline rate `0.2286`, policy hits `8`
 
 ## Headlines
 
+- [crypto] Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back? (Cointelegraph.com News)
 - [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
 - [macro] Robo-top: The machines that could make your next t-shirt (BBC News)
 - [crypto] Odds against rate cuts high as new US Fed chair set for swearing in (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [macro] Trump told Taiwan not to 'go independent' - but does it want to? (BBC News)
 - [crypto] Galaxy secures New York BitLicense to expand institutional crypto services (Cointelegraph.com News)
 - [crypto] SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Musk loses OpenAI court battle after jury finds he waited too long to sue (BBC News)
 - [macro] Musk loses OpenAI court battle after jury finds he waited too long to sue (BBC News)
