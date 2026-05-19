@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T21:22:18.007212+00:00`
+- Generated: `2026-05-19T21:37:17.328464+00:00`
 - Market context score: `57.61`
 - News risk score: `39.73`
 - Macro risk score: `22.61`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1109`
-- Day/swing latest: `2026-05-19T21:15:00+00:00`
+- Day/swing records: `1110`
+- Day/swing latest: `2026-05-19T21:30:00+00:00`
 
 ## News Categories
 
@@ -34,7 +34,7 @@
 - [macro] Father-of-eight killed in San Diego mosque shooting hailed as hero (BBC News)
 - [crypto] This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The AI economy is rewriting the American Dream — and blue-collar workers are poised to win (Economy)
+- [macro] Singer Patrick Bruel denies wave of sexual assault allegations in France (BBC News)
 - [macro] Ebola outbreak may be spreading faster than first thought, WHO doctor warns (BBC News)
 - [commodity] Oil ticks lower as investors weigh mixed signals from Trump on whether U.S. will resume Iran war (Energy)
 - [crypto] Polymarket partners with Nasdaq to list private company contracts (Cointelegraph.com News)
-- [macro] Estonia says Nato jet shot down drone over its territory (BBC News)
