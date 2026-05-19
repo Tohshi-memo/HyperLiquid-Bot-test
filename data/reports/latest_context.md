@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T00:37:17.067905+00:00`
-- Market context score: `45.12`
-- News risk score: `46.61`
-- Macro risk score: `30.67`
-- Risk-on score: `29.0`
-- Articles: `76`
+- Generated: `2026-05-19T00:52:16.407584+00:00`
+- Market context score: `44.25`
+- News risk score: `47.62`
+- Macro risk score: `31.5`
+- Risk-on score: `28.21`
+- Articles: `75`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1026`
-- Day/swing latest: `2026-05-19T00:30:00+00:00`
+- Day/swing records: `1027`
+- Day/swing latest: `2026-05-19T00:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `37`, risk hits `9`, risk headline rate `0.2432`, policy hits `6`
+- commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `0`
+- crypto: articles `35`, risk hits `9`, risk headline rate `0.2571`, policy hits `5`
 - macro: articles `35`, risk hits `10`, risk headline rate `0.2286`, policy hits `8`
 
 ## Headlines
 
+- [commodity] Oil prices fall as Trump postpones Iran strike, easing supply disruption fears (Energy)
 - [crypto] Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back? (Cointelegraph.com News)
 - [commodity] NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers (Energy)
 - [macro] Robo-top: The machines that could make your next t-shirt (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Trump told Taiwan not to 'go independent' - but does it want to? (BBC News)
 - [crypto] Galaxy secures New York BitLicense to expand institutional crypto services (Cointelegraph.com News)
 - [crypto] SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Musk loses OpenAI court battle after jury finds he waited too long to sue (BBC News)
