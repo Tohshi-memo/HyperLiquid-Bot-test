@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T13:22:18.578988+00:00`
-- Market context score: `47.46`
-- News risk score: `49.18`
-- Macro risk score: `26.05`
-- Risk-on score: `34.63`
-- Articles: `74`
+- Generated: `2026-05-19T13:37:18.260493+00:00`
+- Market context score: `47.67`
+- News risk score: `48.69`
+- Macro risk score: `25.35`
+- Risk-on score: `34.39`
+- Articles: `76`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1077`
-- Day/swing latest: `2026-05-19T13:15:00+00:00`
+- Day/swing records: `1078`
+- Day/swing latest: `2026-05-19T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `20`, risk hits `11`, risk headline rate `0.35`, policy hits `5`
-- macro: articles `50`, risk hits `6`, risk headline rate `0.12`, policy hits `10`
+- macro: articles `52`, risk hits `7`, risk headline rate `0.1346`, policy hits `4`
 
 ## Headlines
 
+- [macro] The AI economy is rewriting the American Dream — and blue-collar workers are poised to win (Economy)
+- [macro] AI Is Coming for Pharmacy Benefit Managers: Potential Winners and Losers (Yahoo Finance)
+- [macro] Cranswick readies more capex after FY profit jump (Yahoo Finance)
+- [macro] Taiwan Semiconductor Manufacturing Co (TSM) Soared Over 66% Over a Year (Yahoo Finance)
+- [macro] Lululemon Is A Dog, No Matter Who Runs It (Yahoo Finance)
 - [commodity] Oil prices edge lower as Trump postpones Iran strike, easing supply disruption fears (Energy)
+- [macro] Hold These 3 High-Yield Pipeline Stocks Forever and Let the Income Roll In (Yahoo Finance)
 - [crypto] CoinDesk 20 performance update: Bitcoin Cash (BCH) rises 2.1% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Here’s Optimist Fund’s Views on ThredUp (TDUP) (Yahoo Finance)
 - [macro] HS2 costs could top £100bn and trains will be slower than first planned (BBC News)
-- [macro] Swatch boss says crowds are 'good news' after watch launch sparks chaos (BBC News)
-- [macro] NanoViricides closes $2M direct offering (Yahoo Finance)
-- [macro] Want To Buy A House? Iran Is Making US Mortgage Rates Rise (Yahoo Finance)
-- [macro] Wealth Takeaways from Alts Earning Season (Yahoo Finance)
-- [macro] If You Invested $10,000 In Tesla 10 Years Ago, This Is How Rich You Would Be Today (Yahoo Finance)
-- [macro] ServiceNow jumps as software stocks rebound (Yahoo Finance)
-- [macro] Stock Market Today: Dow Futures Fall As Micron, Sandisk Extend Slide; Home Depot, Google I/O In Focus (Yahoo Finance)
