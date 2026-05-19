@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-19T21:10:18.903675+00:00`
+- Generated: `2026-05-19T21:15:24.974126+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `25599031.94`
-- Polymarket volume z-score: `-1.46`
+- Polymarket 24h volume: `26033915.67`
+- Polymarket volume z-score: `-1.37`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1994034.7939420005` | liquidity: `842739.01959`
-- Will the Iranian regime fall by May 31? | 24h volume: `1409687.7797669994` | liquidity: `1002881.14204`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1171660.8777759993` | liquidity: `447143.8903`
-- Iran closes its airspace by May 21? | 24h volume: `963119.2533610043` | liquidity: `68105.6741`
-- Hamburg European Open: Daniel Altmaier vs Ben Shelton | 24h volume: `854033.057762999` | liquidity: `373375.93785`
-- Will Roy Cooper win the 2028 Democratic presidential nomination? | 24h volume: `853657.401491` | liquidity: `1561428.88002`
-- Dota 2: Natus Vincere vs Aurora (BO3) - DreamLeague Playoffs | 24h volume: `694014.5419620007` | liquidity: `33559.2122`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1991573.1144720006` | liquidity: `841748.74787`
+- Will the Iranian regime fall by May 31? | 24h volume: `1399655.4627679996` | liquidity: `1006035.9933`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1188818.710987999` | liquidity: `440076.9122`
+- Iran closes its airspace by May 21? | 24h volume: `976193.3915760042` | liquidity: `69191.4188`
+- Hamburg European Open: Daniel Altmaier vs Ben Shelton | 24h volume: `854105.7877629991` | liquidity: `373303.28058`
+- Will Roy Cooper win the 2028 Democratic presidential nomination? | 24h volume: `853657.301491` | liquidity: `1561538.8533`
+- Dota 2: Natus Vincere vs Aurora (BO3) - DreamLeague Playoffs | 24h volume: `705087.5466250004` | liquidity: `155262.59786`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
