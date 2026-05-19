@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T03:52:16.004656+00:00`
-- Market context score: `39.99`
+- Generated: `2026-05-19T04:07:14.529838+00:00`
+- Market context score: `39.58`
 - News risk score: `45.54`
-- Macro risk score: `36.86`
-- Risk-on score: `19.01`
-- Articles: `49`
+- Macro risk score: `37.95`
+- Risk-on score: `18.52`
+- Articles: `47`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1039`
-- Day/swing latest: `2026-05-19T03:45:00+00:00`
+- Day/swing records: `1040`
+- Day/swing latest: `2026-05-19T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
 - crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `2`
-- macro: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `8`
+- macro: articles `24`, risk hits `10`, risk headline rate `0.3333`, policy hits `7`
 
 ## Headlines
 
+- [commodity] After U.S. SEC, Treasury and Justice Department offer billionaire Gautam Adani legal relief (Energy)
 - [macro] At least 118 dead in Ebola outbreak in DR Congo, official says (BBC News)
-- [commodity] After U.S. SEC, Treasury and Justice departments offer billionaire Gautam Adani legal relief (Energy)
 - [macro] Standard Chartered to cut thousands of roles as AI use increases (BBC News)
 - [macro] Trump told Taiwan not to 'go independent' - but does it want to? (BBC News)
 - [macro] Israeli forces board Gaza-bound flotilla near Cyprus, activists say (BBC News)
