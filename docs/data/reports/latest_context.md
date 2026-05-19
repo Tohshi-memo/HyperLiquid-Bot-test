@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T06:22:14.425613+00:00`
-- Market context score: `44.28`
-- News risk score: `44.45`
-- Macro risk score: `31.06`
-- Risk-on score: `25.46`
+- Generated: `2026-05-19T06:37:14.080273+00:00`
+- Market context score: `43.91`
+- News risk score: `45.15`
+- Macro risk score: `30.46`
+- Risk-on score: `24.99`
 - Articles: `43`
 - Polymarket markets: `396`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1049`
-- Day/swing latest: `2026-05-19T06:15:00+00:00`
+- Day/swing records: `1050`
+- Day/swing latest: `2026-05-19T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
-- crypto: articles `17`, risk hits `8`, risk headline rate `0.3529`, policy hits `4`
-- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `1`
+- crypto: articles `16`, risk hits `8`, risk headline rate `0.375`, policy hits `4`
+- macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `1`
 
 ## Headlines
 
+- [macro] Job vacancies fall to lowest level in five years (BBC News)
 - [crypto] Bitcoin has shed $5,000 within days. The data says this selloff could worsen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Starbucks Korea sacks CEO over controversial 'Tank Day' promotion (BBC News)
 - [macro] Starbucks Korea sacks CEO over controversial 'Tank Day' promotion (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Echo Protocol's eBTC exploited for $77M in admin key compromise (Cointelegraph.com News)
 - [crypto] Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee (Cointelegraph.com News)
 - [macro] Tasmanian government apologises over stolen body parts scandal (BBC News)
-- [commodity] After U.S. SEC, Treasury and Justice Department offer billionaire Gautam Adani legal relief (Energy)
