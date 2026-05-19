@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T07:37:15.725295+00:00`
+- Generated: `2026-05-19T07:52:21.514098+00:00`
 - Market context score: `41.35`
 - News risk score: `47.64`
 - Macro risk score: `33.11`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1054`
-- Day/swing latest: `2026-05-19T07:30:00+00:00`
+- Day/swing records: `1055`
+- Day/swing latest: `2026-05-19T07:45:00+00:00`
 
 ## News Categories
 
@@ -35,6 +35,6 @@
 - [crypto] Ethereum Foundation sees 2 more high-profile departures (Cointelegraph.com News)
 - [macro] Elon Musk just lost another lawsuit. Will he keep fighting? (BBC News)
 - [commodity] Oil prices fall as Trump postpones Iran strike, easing supply disruption fears (Energy)
-- [crypto] Bitcoin has shed $5,000 within days. ETF flows, and derivatives say this selloff could worsen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin has shed $5,000 within days. ETF flows, derivatives say the selloff could worsen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Starbucks Korea sacks CEO over controversial 'Tank Day' promotion (BBC News)
 - [macro] Starbucks Korea sacks CEO over controversial 'Tank Day' promotion (BBC News)
