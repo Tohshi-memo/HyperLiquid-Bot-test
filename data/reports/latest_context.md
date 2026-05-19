@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T06:52:19.524540+00:00`
-- Market context score: `43.91`
-- News risk score: `45.15`
-- Macro risk score: `30.46`
-- Risk-on score: `24.99`
-- Articles: `43`
+- Generated: `2026-05-19T07:07:16.885748+00:00`
+- Market context score: `42.26`
+- News risk score: `46.75`
+- Macro risk score: `34.03`
+- Risk-on score: `24.02`
+- Articles: `42`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1051`
-- Day/swing latest: `2026-05-19T06:45:00+00:00`
+- Day/swing records: `1052`
+- Day/swing latest: `2026-05-19T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
 - crypto: articles `16`, risk hits `8`, risk headline rate `0.375`, policy hits `4`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `1`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `2`
 
 ## Headlines
 
+- [macro] UK unemployment rate unexpectedly rises (BBC News)
 - [macro] Elon Musk just lost another lawsuit. Will he keep fighting? (BBC News)
 - [commodity] Oil prices fall as Trump postpones Iran strike, easing supply disruption fears (Energy)
-- [macro] Job vacancies fall to lowest level in five years (BBC News)
 - [crypto] Bitcoin has shed $5,000 within days. ETF flows, and derivatives say this selloff could worsen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Starbucks Korea sacks CEO over controversial 'Tank Day' promotion (BBC News)
 - [macro] Starbucks Korea sacks CEO over controversial 'Tank Day' promotion (BBC News)
