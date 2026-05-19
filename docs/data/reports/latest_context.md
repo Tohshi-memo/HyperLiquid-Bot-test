@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-19T19:07:17.012649+00:00`
-- Market context score: `53.32`
-- News risk score: `42.08`
-- Macro risk score: `24.73`
-- Risk-on score: `41.14`
-- Articles: `70`
-- Polymarket markets: `394`
+- Generated: `2026-05-19T19:22:15.902731+00:00`
+- Market context score: `54.68`
+- News risk score: `40.78`
+- Macro risk score: `25.11`
+- Risk-on score: `43.22`
+- Articles: `68`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:383`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1100`
-- Day/swing latest: `2026-05-19T19:00:00+00:00`
+- Day/swing records: `1101`
+- Day/swing latest: `2026-05-19T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `36`, risk hits `11`, risk headline rate `0.2222`, policy hits `5`
-- macro: articles `31`, risk hits `4`, risk headline rate `0.129`, policy hits `4`
+- crypto: articles `35`, risk hits `10`, risk headline rate `0.2`, policy hits `5`
+- macro: articles `30`, risk hits `4`, risk headline rate `0.1333`, policy hits `4`
 
 ## Headlines
 
-- [crypto] Zerohash pursues new funding at more than $1.5 billion valuation after Mastercard drops investment plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil ticks lower as investors weigh mixed signals from Trump on whether U.S. will resume Iran war (Energy)
+- [crypto] Zerohash pursues new funding at more than $1.5 billion valuation after Mastercard drops investment plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Father-of-eight killed in San Diego mosque shooting hailed as hero (BBC News)
 - [crypto] Hyperliquid’s HYPE one of crypto’s most undervalued assets, says Bitwise (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Faisal Islam: Why a full HS2 line could still be built despite the latest fiasco (BBC News)
