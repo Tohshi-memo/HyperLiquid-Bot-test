@@ -1,8 +1,8 @@
 # Latest Day Swing Dataset
 
-- Updated: `2026-05-20T14:22:29.132544+00:00`
-- Latest observed: `2026-05-20T14:15:00+00:00`
-- Records: `1176`
+- Updated: `2026-05-20T14:37:24.588798+00:00`
+- Latest observed: `2026-05-20T14:30:00+00:00`
+- Records: `1177`
 - Symbols: `BTC, ETH, HYPE, SOL`
 - Intervals: `15m, 1h, 4h`
 - Label horizons: `1h, 4h, 24h, 72h`
@@ -14,21 +14,21 @@
 
 ## Latest Prices
 
-- BTC: `77489.5`
-- ETH: `2133.95`
-- HYPE: `50.9245`
-- SOL: `85.1605`
+- BTC: `77287.5`
+- ETH: `2129.75`
+- HYPE: `51.0805`
+- SOL: `85.3035`
 
 ## Label Progress
 
-- 1h: `4660` labeled symbol observations
-- 4h: `4548` labeled symbol observations
-- 24h: `3924` labeled symbol observations
-- 72h: `2456` labeled symbol observations
+- 1h: `4664` labeled symbol observations
+- 4h: `4552` labeled symbol observations
+- 24h: `3928` labeled symbol observations
+- 72h: `2460` labeled symbol observations
 
 ## Quick Features
 
-- BTC: 1h rsi `65.6`, 1h return_12 `1.0867`
-- ETH: 1h rsi `64.47`, 1h return_12 `1.2239`
-- HYPE: 1h rsi `87.62`, 1h return_12 `6.7803`
-- SOL: 1h rsi `62.63`, 1h return_12 `1.4522`
+- BTC: 1h rsi `62.33`, 1h return_12 `0.8218`
+- ETH: 1h rsi `62.45`, 1h return_12 `1.0151`
+- HYPE: 1h rsi `89.94`, 1h return_12 `7.0194`
+- SOL: 1h rsi `63.86`, 1h return_12 `1.6059`
