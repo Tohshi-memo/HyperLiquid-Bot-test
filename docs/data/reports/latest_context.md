@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T16:23:42.074381+00:00`
-- Market context score: `51.52`
-- News risk score: `43.76`
-- Macro risk score: `31.68`
-- Risk-on score: `41.2`
-- Articles: `86`
+- Generated: `2026-05-20T16:39:32.695742+00:00`
+- Market context score: `49.21`
+- News risk score: `44.92`
+- Macro risk score: `35.15`
+- Risk-on score: `38.35`
+- Articles: `93`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1184`
-- Day/swing latest: `2026-05-20T16:15:00+00:00`
+- Day/swing records: `1185`
+- Day/swing latest: `2026-05-20T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `6`, risk headline rate `0.1714`, policy hits `1`
-- macro: articles `49`, risk hits `15`, risk headline rate `0.2857`, policy hits `10`
+- crypto: articles `38`, risk hits `6`, risk headline rate `0.1579`, policy hits `1`
+- macro: articles `53`, risk hits `21`, risk headline rate `0.3396`, policy hits `12`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] The Protocol: Ethereum Foundation's high-profile departures spark fresh debate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Why Trump's bitcoin ETF plans likely collapsed before getting off the ground (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto Long & Short: Bitcoin-backed loans belong in the cost-of-capital conversation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Stock Market Today: Dow Climbs As Oil Drops, Nvidia Picks Up Steam; TJX Spikes, Arm Rallies (Live Coverage) (Yahoo Finance)
+- [macro] Target Reports Strongest Sales Gain in Years, But Sounds Note of Caution (Yahoo Finance)
+- [macro] If You Invest $200 per Month in the S&P 500 Right Now, Here's What You Might Have After 30 Years (Yahoo Finance)
+- [macro] Bond yields, oil fall amid hopes for Iran deal; stocks gain with Nvidia results ahead (Yahoo Finance)
+- [macro] Bank of America tweaks Snowflake stock price target before earnings (Yahoo Finance)
 - [macro] Why Wall Street Is Thirsty For Coke Stock — Beyond Just A New CEO (Yahoo Finance)
-- [macro] Mercury hits $5.2 billion valuation as fintech firm banks on AI startups (Yahoo Finance)
-- [commodity] U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages (Energy)
-- [macro] Cava Stock Looks Spicier But Undercooked After Earnings Beat (Yahoo Finance)
-- [macro] Supermarkets hit back over pressure to cap price of milk, bread and eggs (BBC News)
-- [macro] Beyond Oil: US Foodservice Adoption Drives Shift to Revenue Execution – Quarterly Update Report (Yahoo Finance)
-- [macro] Final two bodies of missing Italians recovered from inside Maldives cave (BBC News)
-- [macro] AMD Is Up 8% Today: Is It Outperforming Other Chip Stocks Like Intel and NVIDIA? (Yahoo Finance)
-- [macro] SOL Strategies: Darklake & Houdini Add Middleware Monetization, Staking Scale Nears 768k SOL – Quarterly Update Report (Yahoo Finance)
-- [macro] The Bond Market Just Handed U.S. Taxpayers $2 Trillion in Bad News (Yahoo Finance)
+- [macro] xAI owes employees $420 each for providing their tax returns to train Grok — 2 months later, no one has been paid (Yahoo Finance)
