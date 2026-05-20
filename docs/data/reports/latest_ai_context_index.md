@@ -2,11 +2,11 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-05-20T17:22:32.046426+00:00`
+- Updated: `2026-05-20T17:37:26.691484+00:00`
 - Asset price active records: `672`
-- Day/swing records: `1188`
+- Day/swing records: `1189`
 - Macro indicators: `11`
-- Flow-alert history records: `5773`
+- Flow-alert history records: `5776`
 - Correlation status: `ready`
 - Asset price archives: `data/archive/asset_price_history_2026-05.jsonl.gz`
 - Polymarket outcome archives: `data/archive/polymarket_outcome_history_2026-05.jsonl.gz`
@@ -14,15 +14,15 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2253 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (73869 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2407 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (863 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_context_index.json` (73849 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2410 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (866 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2539 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (46889 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5781 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2314 bytes): Individual asset screen.
+- `data/processed/ai_analysis_pack.json` (46888 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5771 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2321 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (4143 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3636 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3635 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4616 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
@@ -38,7 +38,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- 4h_commodity_crypto_divergence: score `2.6991` - Commodity perps and crypto are moving differently; check macro-linked stress.
+- 4h_commodity_crypto_divergence: score `3.439` - Commodity perps and crypto are moving differently; check macro-linked stress.
 
 ## Full JSON Rule
 
