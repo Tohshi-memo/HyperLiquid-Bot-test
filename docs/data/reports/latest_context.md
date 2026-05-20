@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T19:22:18.289755+00:00`
-- Market context score: `55.35`
-- News risk score: `37.5`
-- Macro risk score: `25.12`
-- Risk-on score: `41.95`
-- Articles: `67`
+- Generated: `2026-05-20T19:37:18.474024+00:00`
+- Market context score: `55.46`
+- News risk score: `37.55`
+- Macro risk score: `24.72`
+- Risk-on score: `42.07`
+- Articles: `68`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1196`
-- Day/swing latest: `2026-05-20T19:15:00+00:00`
+- Day/swing records: `1197`
+- Day/swing latest: `2026-05-20T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `37`, risk hits `5`, risk headline rate `0.1351`, policy hits `0`
-- macro: articles `26`, risk hits `6`, risk headline rate `0.1923`, policy hits `2`
+- macro: articles `27`, risk hits `6`, risk headline rate `0.1852`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Austrian ex-intelligence officer found guilty of Russia spying charges (BBC News)
 - [macro] UK agrees £3.7bn trade deal with six Gulf states (BBC News)
 - [commodity] UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete (Energy)
 - [commodity] U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages (Energy)
@@ -38,4 +39,3 @@
 - [policy] Minutes of the Federal Open Market Committee, April 28-29, 2026 (FRB: Press Release - All Releases)
 - [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
 - [macro] Analyst Report: Corteva Inc (Yahoo Finance)
-- [macro] Market Update: D, HD, VSH, FOXA, CTVA, TDOC (Yahoo Finance)
