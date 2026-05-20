@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T18:22:20.100474+00:00`
+- Generated: `2026-05-20T18:37:20.348404+00:00`
 - Market context score: `55.24`
 - News risk score: `39.08`
 - Macro risk score: `27.41`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1192`
-- Day/swing latest: `2026-05-20T18:15:00+00:00`
+- Day/swing records: `1193`
+- Day/swing latest: `2026-05-20T18:30:00+00:00`
 
 ## News Categories
 
@@ -35,7 +35,7 @@
 - [commodity] UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete (Energy)
 - [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
 - [commodity] U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages (Energy)
+- [macro] Market Update: D, HD, VSH, FOXA, CTVA, TDOC (Yahoo Finance)
 - [crypto] Tether buys SoftBank’s stake in Bitcoin company Twenty One Capital (Cointelegraph.com News)
 - [macro] Final two bodies of missing Italians recovered from inside Maldives cave (BBC News)
 - [macro] Supermarkets hit back over pressure to cap price of milk, bread and eggs (BBC News)
-- [crypto] Prediction markets firms take heat in Senate Commerce hearing scrutinizing surge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
