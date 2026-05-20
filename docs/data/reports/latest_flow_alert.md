@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-20T03:40:14.729674+00:00`
+- Generated: `2026-05-20T03:45:15.770666+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `26252287.54`
-- Polymarket volume z-score: `-1.24`
+- Polymarket 24h volume: `26146509.14`
+- Polymarket volume z-score: `-1.26`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the Iranian regime fall by May 31? | 24h volume: `1494459.4251959997` | liquidity: `1219343.69637`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1174044.0046129986` | liquidity: `1038318.04271`
-- Iran closes its airspace by May 21? | 24h volume: `1115460.4599870043` | liquidity: `58061.6399`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1102427.7582199995` | liquidity: `512310.0347`
-- Will Thomas Massie win the 2028 US Presidential Election? | 24h volume: `655365.573034` | liquidity: `576472.2552`
-- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `646707.5750339999` | liquidity: `119103.78511`
-- US obtains Iranian enriched uranium by May 31? | 24h volume: `641755.4811499999` | liquidity: `254401.6422`
+- Will the Iranian regime fall by May 31? | 24h volume: `1490768.0273639995` | liquidity: `1220238.68822`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `1198701.7993199984` | liquidity: `1012205.03343`
+- Iran closes its airspace by May 21? | 24h volume: `1115780.0021990042` | liquidity: `60912.0981`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1097268.0421029995` | liquidity: `511361.8352`
+- Will Thomas Massie win the 2028 US Presidential Election? | 24h volume: `656091.513034` | liquidity: `577466.38316`
+- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `645205.4333099999` | liquidity: `119858.29382`
+- US obtains Iranian enriched uranium by May 31? | 24h volume: `642044.4811499999` | liquidity: `255672.38479`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
