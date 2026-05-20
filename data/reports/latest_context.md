@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T21:22:15.035344+00:00`
+- Generated: `2026-05-20T21:37:20.655479+00:00`
 - Market context score: `55.49`
 - News risk score: `38.07`
 - Macro risk score: `22.85`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1204`
-- Day/swing latest: `2026-05-20T21:15:00+00:00`
+- Day/swing records: `1205`
+- Day/swing latest: `2026-05-20T21:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Elon Musk's SpaceX holds 18,712 bitcoin at fair value of $1.29 billion, IPO filing shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SEC’s ‘Crypto Mom’ to join law school, signaling end of time at regulator (Cointelegraph.com News)
 - [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
 - [macro] US charges Cuba's Raúl Castro with murder over 1996 downing of two planes (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Austrian ex-intelligence officer found guilty of Russia spying charges (BBC News)
 - [commodity] UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete (Energy)
 - [commodity] U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages (Energy)
-- [crypto] Securitize remains in the red even as record quarter fuels public listing plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
