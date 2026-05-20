@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T07:22:15.572518+00:00`
+- Generated: `2026-05-20T07:37:15.413207+00:00`
 - Market context score: `45.34`
 - News risk score: `43.84`
 - Macro risk score: `29.61`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1149`
-- Day/swing latest: `2026-05-20T07:15:00+00:00`
+- Day/swing records: `1150`
+- Day/swing latest: `2026-05-20T07:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,8 @@
 
 ## Headlines
 
+- [macro] Lower gas and electricity bills behind UK inflation fall to 2.8% (BBC News)
+- [macro] Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets (Economy)
 - [macro] UK loosens Russian oil sanctions as fuel prices rise (BBC News)
 - [crypto] GitHub investigates unauthorized access to internal repositories (Cointelegraph.com News)
 - [crypto] Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,6 +36,4 @@
 - [crypto] Non-dollar stablecoins are struggling to crack 0.5% of market share (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin is falling, bond yields are rising. Yet BTC’s implied volatility, an uncertainty gauge, remains low. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Ghost brokers' targeting 16 to 25 year-olds with fake car insurance online (BBC News)
-- [macro] Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets (Economy)
 - [macro] China confirms it will buy 200 Boeing jets after Trump-Xi summit (BBC News)
-- [crypto] US Senate advances resolution to curb Trump’s Iran war powers (Cointelegraph.com News)
