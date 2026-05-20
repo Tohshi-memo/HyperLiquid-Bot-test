@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T12:52:20.677560+00:00`
-- Market context score: `50.58`
-- News risk score: `44.22`
-- Macro risk score: `25.95`
-- Risk-on score: `37.34`
+- Generated: `2026-05-20T13:07:21.477783+00:00`
+- Market context score: `52.68`
+- News risk score: `44.02`
+- Macro risk score: `25.82`
+- Risk-on score: `41.77`
 - Articles: `71`
 - Polymarket markets: `397`
 
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1171`
-- Day/swing latest: `2026-05-20T12:45:00+00:00`
+- Day/swing records: `1172`
+- Day/swing latest: `2026-05-20T13:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `47`, risk hits `12`, risk headline rate `0.1915`, policy hits `7`
+- macro: articles `47`, risk hits `11`, risk headline rate `0.2128`, policy hits `2`
 
 ## Headlines
 
-- [macro] Bond yields pause near recent highs, stocks steady ahead of Nvidia results (Yahoo Finance)
-- [macro] Samsung Electronics workers strike over wage talks breakdown (Yahoo Finance)
-- [macro] My private student loan disappeared, so I thought it was forgiven — now a debt collector is after me. Am I in trouble? (Yahoo Finance)
-- [macro] Dollar rises to six-week high on rate hike bets and war uncertainty (Yahoo Finance)
-- [macro] Investors might be penalizing Nvidia for not boosting cash returns like its Big Tech peers (Yahoo Finance)
-- [macro] Sterling Infrastructure (STRL): A Beneficiary of AI Expansion Strategy (Yahoo Finance)
-- [macro] Fuel duty freeze extended until the end of the year (BBC News)
-- [macro] What the Call Buying Frenzy Means for the S&P 500 (Yahoo Finance)
-- [macro] TJX Earnings Growth Accelerates, Shrugging Off High Gas Prices. The Stock Is Rising Near Key Levels. (Yahoo Finance)
-- [macro] Morning Minute: Markets Flip Green Overnight Ahead of NVDA Earnings (Yahoo Finance)
+- [macro] Here’s What Drives Southwest Airlines Co.’s (LUV) Increased Earnings and ROC (Yahoo Finance)
+- [macro] Which Dividend ETF Is Better: Vanguard's Larger Portfolio or Fidelity's Higher Growth? (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises Ahead Of Fed Minutes; Nvidia Shares Rally With Earnings Due (Live Coverage) (Yahoo Finance)
+- [macro] CVS Health Stock Is Soaring. Could the Rally Just Be Getting Started? (Yahoo Finance)
+- [macro] American Resources completes pivots to rare earth supply chain, reports strong balance sheet (Yahoo Finance)
+- [macro] Why Elevidys Matters For Sarepta Therapeutics Inc (SRPT) Stock (Yahoo Finance)
+- [macro] Considering Uniqure NV (QURE) Stock? Read the AMT-130 Message (Yahoo Finance)
+- [macro] Can MeiraGTx Holdings PLC (MGTX) Stock Double? Cash Runway Offers a Hint (Yahoo Finance)
+- [macro] Where Will Solid Biosciences Inc (SLDB) Stock Be in the Next 12 Months? (Yahoo Finance)
+- [macro] 4D Molecular Therapeutics Inc (FDMT): Gene Therapy Stock Made for You? (Yahoo Finance)
