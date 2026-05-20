@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T14:37:24.588798+00:00`
-- Market context score: `52.94`
-- News risk score: `40.22`
-- Macro risk score: `22.65`
-- Risk-on score: `37.94`
-- Articles: `79`
+- Generated: `2026-05-20T14:52:25.326605+00:00`
+- Market context score: `51.08`
+- News risk score: `40.97`
+- Macro risk score: `24.27`
+- Risk-on score: `35.07`
+- Articles: `80`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1177`
-- Day/swing latest: `2026-05-20T14:30:00+00:00`
+- Day/swing records: `1178`
+- Day/swing latest: `2026-05-20T14:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `31`, risk hits `7`, risk headline rate `0.1935`, policy hits `2`
-- macro: articles `47`, risk hits `8`, risk headline rate `0.1489`, policy hits `5`
+- macro: articles `48`, risk hits `10`, risk headline rate `0.1875`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Supermarkets hit back over pressure to cap price of milk, bread and eggs (BBC News)
-- [macro] FintechOS deepens ties with Google Cloud (Yahoo Finance)
-- [crypto] Live markets: Crypto prices remain flat ahead of FOMC minutes, Nvidia earnings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Raoul Pal says AI and crypto are reshaping the global economy faster than most think (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Rio Tinto dispatches eight-billionth tonne of Pilbara iron ore (Yahoo Finance)
-- [macro] Xcel Brands (XELB) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [crypto] Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 104-year-old national hair salon chain quietly closes 50 locations (Yahoo Finance)
-- [macro] Meta Begins Laying Off Thousands In AI Push. Stock Slips. (Yahoo Finance)
-- [macro] Better Buy: AMD Versus Nvidia Stock (Yahoo Finance)
+- [crypto] South Korean funeral company reveals $33 million loss on leveraged ether ETF bet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Azets appoints new private client tax partner in Kent (Yahoo Finance)
+- [macro] What is Ebola and why is stopping the latest outbreak so difficult? (BBC News)
+- [macro] Walmart's Q1 earnings expected to deliver yet again as Americans seek out value (Yahoo Finance)
+- [macro] Super Micro Computer Is Up 7% Today: Is It Outperforming Other AI Server Stocks Like Dell and Hewlett Packard Enterprise? (Yahoo Finance)
+- [macro] Social Security Trust Fund Countdown — Fixes, Fallout, and Your Future (Yahoo Finance)
+- [macro] Barney Frank: One of the first openly gay US congressmen dies aged 86 (BBC News)
+- [macro] Do you pay taxes on money market accounts? How to know what you might owe. (Yahoo Finance)
+- [macro] Target tops forecasts but shares fall as retailer flags cost headwinds (Yahoo Finance)
+- [macro] Intuit layoffs: 3,000 jobs cut in AI restructuring 2026 (Yahoo Finance)
