@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T21:37:20.655479+00:00`
-- Market context score: `55.49`
-- News risk score: `38.07`
-- Macro risk score: `22.85`
-- Risk-on score: `41.88`
-- Articles: `68`
+- Generated: `2026-05-20T21:52:18.607221+00:00`
+- Market context score: `55.37`
+- News risk score: `37.96`
+- Macro risk score: `23.19`
+- Risk-on score: `41.63`
+- Articles: `66`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1205`
-- Day/swing latest: `2026-05-20T21:30:00+00:00`
+- Day/swing records: `1206`
+- Day/swing latest: `2026-05-20T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `27`, risk hits `5`, risk headline rate `0.1481`, policy hits `2`
+- crypto: articles `35`, risk hits `6`, risk headline rate `0.1714`, policy hits `0`
+- macro: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `2`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
-- [crypto] Elon Musk's SpaceX holds 18,712 bitcoin at fair value of $1.29 billion, IPO filing shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Why Russian jets intercepting an RAF spy plane is 'serious incident' (BBC News)
+- [crypto] Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SEC’s ‘Crypto Mom’ to join law school, signaling end of time at regulator (Cointelegraph.com News)
 - [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
 - [macro] US charges Cuba's Raúl Castro with murder over 1996 downing of two planes (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Price predictions 5/20: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH (Cointelegraph.com News)
 - [macro] Austrian ex-intelligence officer found guilty of Russia spying charges (BBC News)
 - [commodity] UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete (Energy)
-- [commodity] U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages (Energy)
