@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T10:03:33.846218+00:00`
-- Market context score: `48.37`
-- News risk score: `37.67`
-- Macro risk score: `28.39`
-- Risk-on score: `27.79`
-- Articles: `33`
+- Generated: `2026-05-20T10:07:16.664019+00:00`
+- Market context score: `51.58`
+- News risk score: `41.68`
+- Macro risk score: `32.89`
+- Risk-on score: `40.02`
+- Articles: `46`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,17 +23,17 @@
 ## News Categories
 
 - crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `0`
+- macro: articles `30`, risk hits `9`, risk headline rate `0.2667`, policy hits `11`
 
 ## Headlines
 
-- [macro] TV presenter says abusive ex gave her no access to her own money (BBC News)
-- [crypto] Despite Trump’s pledge, a CBDC is being explored behind closed doors, says former CTFC chair (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What's happening to UK petrol and diesel prices? (BBC News)
-- [crypto] Pan-European stablecoin effort expands to 37 lenders in push back against U.S. dollar dominance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Supermarkets hit back over pressure to cap price of milk, bread and eggs (BBC News)
-- [macro] Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets (Economy)
-- [macro] UK loosens Russian oil sanctions as fuel prices rise (BBC News)
-- [macro] Nigeria arrests former minister in hiding after corruption conviction (BBC News)
-- [macro] Inflation falls to 2.8% but is expected to rise from here (BBC News)
+- [macro] Mesh joins Global Dollar Network to support USDG settlement (Yahoo Finance)
+- [macro] HELOC and home equity loan rates today, May 20, 2026: Rates low, plus year-over-year sales price growth (Yahoo Finance)
+- [macro] Best CD rates today, May 20, 2026: Earn up to 4% APY (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, May 20, 2026: Earn up to 4.1% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, May 20, 2026: 30-year fixed hits highest rate since August '25 (Yahoo Finance)
+- [macro] Best money market account rates today, May 20, 2026: Secure up to 4.01% APY (Yahoo Finance)
+- [macro] How Much Do You Really Need Invested to Replace a $75,000 Salary With Monthly Dividend ETFs? (Yahoo Finance)
+- [macro] The Best Space ETF to Buy Before a Summer Rally (Yahoo Finance)
+- [macro] Target names Jeff England as supply chain chief (Yahoo Finance)
+- [macro] UK Treasury urges supermarkets to freeze prices on food staples – report (Yahoo Finance)
