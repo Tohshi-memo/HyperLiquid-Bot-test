@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T15:22:18.496234+00:00`
-- Market context score: `51.78`
-- News risk score: `40.24`
-- Macro risk score: `23.94`
-- Risk-on score: `35.87`
+- Generated: `2026-05-20T15:37:22.528754+00:00`
+- Market context score: `53.55`
+- News risk score: `38.86`
+- Macro risk score: `21.66`
+- Risk-on score: `37.79`
 - Articles: `82`
 - Polymarket markets: `399`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1180`
-- Day/swing latest: `2026-05-20T15:15:00+00:00`
+- Day/swing records: `1181`
+- Day/swing latest: `2026-05-20T15:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `33`, risk hits `6`, risk headline rate `0.1818`, policy hits `2`
-- macro: articles `48`, risk hits `10`, risk headline rate `0.1875`, policy hits `1`
+- crypto: articles `34`, risk hits `6`, risk headline rate `0.1765`, policy hits `1`
+- macro: articles `47`, risk hits `8`, risk headline rate `0.1489`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Ebola vaccine could take nine months as death toll continues to rise, WHO warns (BBC News)
+- [macro] Barney Frank: One of the first openly gay US congressmen dies aged 86 (BBC News)
+- [crypto] EU opens MiCA consultation to review if crypto framework is still fit for purpose (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
+- [macro] Investment giants join forces to form largest healthcare firm on the globe (Yahoo Finance)
+- [macro] Ebola vaccine could take nine months as death toll rise further, WHO warns (BBC News)
+- [macro] Why ImmunityBio Stock is Soaring Higher Today (Yahoo Finance)
+- [macro] The Dividend ETF Bogleheads Won’t Stop Recommending, Yet Most Retirees Have Never Heard Their Advisor Say the Ticker (Yahoo Finance)
 - [macro] What we know about the San Diego mosque attack suspects (BBC News)
-- [crypto] Crypto campaign cash from Fairshake flooded Southern primaries, picked winners (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Home Depot Q1 profit falls as cost growth outpaces revenue (Yahoo Finance)
-- [macro] India’s 360 ONE Asset looking to raise $500m for new credit fund (Yahoo Finance)
-- [crypto] Ethereum traders warn of a ‘nasty’ ETH price drop if $2K support breaks (Cointelegraph.com News)
-- [macro] GM Is Cranking Up U.S. Investments Again. This Time, It's Great News. (Yahoo Finance)
-- [macro] Why XRP ETFs Are Pulling in More Money Than Solana ETFs Despite the Price Lag (Yahoo Finance)
-- [macro] Nvidia Stock Rises Ahead Of Fiscal Q1 Report (Live Coverage) (Yahoo Finance)
-- [crypto] South Korean funeral company reveals $33 million loss on leveraged ether ETF bet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Amazon Price Target Nudged to $312 at Wells Fargo: The AWS Cloud Monetization Story Just Got Bigger (Yahoo Finance)
+- [macro] PharmAla Biotech Signs Term Sheet for $100 Million U.S. Licensing Deal for ALA-002 MDMA Therapy (MDXXF) (Yahoo Finance)
