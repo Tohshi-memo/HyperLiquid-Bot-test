@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T13:07:21.477783+00:00`
-- Market context score: `52.68`
-- News risk score: `44.02`
-- Macro risk score: `25.82`
-- Risk-on score: `41.77`
-- Articles: `71`
+- Generated: `2026-05-20T13:22:21.239034+00:00`
+- Market context score: `53.63`
+- News risk score: `43.79`
+- Macro risk score: `27.38`
+- Risk-on score: `44.27`
+- Articles: `73`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1172`
-- Day/swing latest: `2026-05-20T13:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
-- crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `47`, risk hits `11`, risk headline rate `0.2128`, policy hits `2`
+- crypto: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `1`
+- macro: articles `45`, risk hits `12`, risk headline rate `0.2444`, policy hits `2`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Fuel duty freeze extended until the end of the year (BBC News)
+- [crypto] CoinDesk 20 performance update: Uniswap (UNI), up 3.7%, leads index higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [policy] Barr, Measuring Financial Health (FRB: Speeches)
+- [crypto] This Bitcoin price model targets ‘conservative’ $255K by year-end (Cointelegraph.com News)
+- [crypto] Singapore revokes crypto payment license of Bsquared over regulatory breaches (Cointelegraph.com News)
+- [macro] Hasbro Q1 2026 earnings beat on Magic: The Gathering strength (Yahoo Finance)
+- [macro] There’s a Bond ETF That Resets Its Income for Inflation Every Six Months. Almost None of Your Friends Own It. (Yahoo Finance)
 - [macro] Here’s What Drives Southwest Airlines Co.’s (LUV) Increased Earnings and ROC (Yahoo Finance)
 - [macro] Which Dividend ETF Is Better: Vanguard's Larger Portfolio or Fidelity's Higher Growth? (Yahoo Finance)
 - [macro] Stock Market Today: Dow Rises Ahead Of Fed Minutes; Nvidia Shares Rally With Earnings Due (Live Coverage) (Yahoo Finance)
-- [macro] CVS Health Stock Is Soaring. Could the Rally Just Be Getting Started? (Yahoo Finance)
-- [macro] American Resources completes pivots to rare earth supply chain, reports strong balance sheet (Yahoo Finance)
-- [macro] Why Elevidys Matters For Sarepta Therapeutics Inc (SRPT) Stock (Yahoo Finance)
-- [macro] Considering Uniqure NV (QURE) Stock? Read the AMT-130 Message (Yahoo Finance)
-- [macro] Can MeiraGTx Holdings PLC (MGTX) Stock Double? Cash Runway Offers a Hint (Yahoo Finance)
-- [macro] Where Will Solid Biosciences Inc (SLDB) Stock Be in the Next 12 Months? (Yahoo Finance)
-- [macro] 4D Molecular Therapeutics Inc (FDMT): Gene Therapy Stock Made for You? (Yahoo Finance)
