@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T10:22:21.272625+00:00`
-- Market context score: `47.26`
-- News risk score: `42.98`
-- Macro risk score: `30.83`
-- Risk-on score: `30.73`
-- Articles: `53`
+- Generated: `2026-05-20T10:37:16.830851+00:00`
+- Market context score: `45.17`
+- News risk score: `45.67`
+- Macro risk score: `34.19`
+- Risk-on score: `29.65`
+- Articles: `57`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1161`
-- Day/swing latest: `2026-05-20T10:15:00+00:00`
+- Day/swing records: `1162`
+- Day/swing latest: `2026-05-20T10:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `3`
-- macro: articles `34`, risk hits `9`, risk headline rate `0.2353`, policy hits `12`
+- macro: articles `38`, risk hits `12`, risk headline rate `0.2895`, policy hits `14`
 
 ## Headlines
 
+- [macro] Inflation falls to 2.8% but is expected to rise from here (BBC News)
+- [macro] The Memory Pricing Cycle That Could Crush This AI ETF Before Year-End (Yahoo Finance)
+- [macro] Competitive Pressures Prompt Truist to Cut Target on Insmed (INSM) (Yahoo Finance)
+- [macro] A retiree says he'd have millions if he invested his Social Security in the S&P 500 — here's what he's missing (Yahoo Finance)
+- [macro] BMO Capital Sees AI Ad Improvements Supporting Growth at Pinterest (PINS) (Yahoo Finance)
+- [macro] Oil prices decline as signs of progress in U.S.-Iran talks ease supply concerns (Yahoo Finance)
+- [macro] Bernstein Reiterates Outperform on Diamondback Energy (FANG) Amid Oil Supply Concerns (Yahoo Finance)
 - [macro] Divisions awaiting Warsh to be on display in Fed minutes release (Yahoo Finance)
+- [macro] Freedom Broker Turns Cautious on ONEOK (OKE) Despite Higher Price Target (Yahoo Finance)
 - [crypto] Bitfinex traders double down on bitcoin during five-day slide as longs hit 2.5-year high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Euro stablecoin project Qivalis adds 25 banks ahead of launch (Cointelegraph.com News)
-- [macro] Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly (Yahoo Finance)
-- [macro] RS Group H2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Ithaca Energy Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Experian H2 Earnings Call Highlights (Yahoo Finance)
-- [macro] British Land H2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Warren Buffett's Successor, Greg Abel, vs. Bill Ackman: 1 of these Billionaire Investors Just Piled Into Alphabet (Google), While the Other Nearly Dumped His Fund's Entire Stake (Yahoo Finance)
-- [macro] VF Corp.’s Returned to Annual Growth With Surprise Q4 Gain (Yahoo Finance)
