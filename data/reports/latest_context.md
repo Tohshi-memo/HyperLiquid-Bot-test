@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T22:07:17.071976+00:00`
-- Market context score: `57.48`
-- News risk score: `36.63`
-- Macro risk score: `23.22`
-- Risk-on score: `45.22`
-- Articles: `65`
+- Generated: `2026-05-20T22:22:15.737325+00:00`
+- Market context score: `56.36`
+- News risk score: `37.51`
+- Macro risk score: `22.7`
+- Risk-on score: `43.27`
+- Articles: `74`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1207`
-- Day/swing latest: `2026-05-20T22:00:00+00:00`
+- Day/swing records: `1208`
+- Day/swing latest: `2026-05-20T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `34`, risk hits `5`, risk headline rate `0.1471`, policy hits `0`
-- macro: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `2`
+- crypto: articles `38`, risk hits `5`, risk headline rate `0.1316`, policy hits `3`
+- macro: articles `31`, risk hits `5`, risk headline rate `0.129`, policy hits `4`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [macro] SpaceX files for IPO that could make Elon Musk a trillionaire (BBC News)
+- [crypto] Federal Reserve proposes limited master accounts long pursued by crypto firms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Missouri AG sues crypto ATM operator CoinFlip ‘for enabling scams’ (Cointelegraph.com News)
 - [macro] Why Russian jets intercepting an RAF spy plane is 'serious incident' (BBC News)
+- [crypto] Coinbase expands branded stablecoin infrastructure business with Flipcash USDF launch (Cointelegraph.com News)
 - [crypto] Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B (Cointelegraph.com News)
+- [macro] Woman's debts reach £26k as she battles poverty (BBC News)
 - [crypto] SEC’s ‘Crypto Mom’ to join law school, signaling end of time at regulator (Cointelegraph.com News)
 - [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
-- [macro] US charges Cuba's Raúl Castro with murder over 1996 downing of two planes (BBC News)
-- [policy] Federal Reserve Board requests public comment on a proposal to establish a "payment account," which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments (FRB: Press Release - All Releases)
-- [macro] UK agrees £3.7bn trade deal with six Gulf states (BBC News)
-- [crypto] Price predictions 5/20: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH (Cointelegraph.com News)
-- [macro] Austrian ex-intelligence officer found guilty of Russia spying charges (BBC News)
-- [commodity] UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete (Energy)
