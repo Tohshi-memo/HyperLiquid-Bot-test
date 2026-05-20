@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-20T23:07:18.163282+00:00`
-- Market context score: `56.43`
-- News risk score: `37.77`
-- Macro risk score: `21.22`
-- Risk-on score: `43.1`
-- Articles: `74`
+- Generated: `2026-05-20T23:22:17.620323+00:00`
+- Market context score: `58.39`
+- News risk score: `36.79`
+- Macro risk score: `21.25`
+- Risk-on score: `46.62`
+- Articles: `73`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1211`
-- Day/swing latest: `2026-05-20T23:00:00+00:00`
+- Day/swing records: `1212`
+- Day/swing latest: `2026-05-20T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `39`, risk hits `6`, risk headline rate `0.1538`, policy hits `3`
+- crypto: articles `38`, risk hits `5`, risk headline rate `0.1316`, policy hits `3`
 - macro: articles `30`, risk hits `4`, risk headline rate `0.1`, policy hits `4`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
-- [crypto] Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] SpaceX files for IPO that could make Elon Musk a trillionaire (BBC News)
+- [crypto] Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining (Cointelegraph.com News)
 - [macro] UK agrees £3.7bn trade deal with six Gulf states (BBC News)
 - [crypto] Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Federal Reserve proposes limited master accounts long pursued by crypto firms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Why Russian jets intercepting an RAF spy plane is 'serious incident' (BBC News)
 - [crypto] Coinbase expands branded stablecoin infrastructure business with Flipcash USDF launch (Cointelegraph.com News)
 - [crypto] Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B (Cointelegraph.com News)
