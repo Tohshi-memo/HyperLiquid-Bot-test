@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T18:52:20.301887+00:00`
-- Market context score: `47.98`
-- News risk score: `45.41`
-- Macro risk score: `27.47`
-- Risk-on score: `33.13`
-- Articles: `65`
+- Generated: `2026-05-21T19:07:17.197862+00:00`
+- Market context score: `47.79`
+- News risk score: `45.58`
+- Macro risk score: `27.5`
+- Risk-on score: `32.86`
+- Articles: `64`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1289`
-- Day/swing latest: `2026-05-21T18:45:00+00:00`
+- Day/swing records: `1290`
+- Day/swing latest: `2026-05-21T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `34`, risk hits `12`, risk headline rate `0.2941`, policy hits `3`
+- crypto: articles `33`, risk hits `12`, risk headline rate `0.303`, policy hits `3`
 - macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices fall as investors hope for U.S.-Iran deal (Energy)
 - [macro] Pair arrested after boys abandoned by road in Portugal (BBC News)
 - [macro] Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer (BBC News)
 - [macro] Walmart warns US shoppers are cutting spending as higher petrol prices bite (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Market Update: CSX, NEM, SCHW, UL, HUBS (Yahoo Finance)
 - [macro] Analyst Report: Newmont Corp (Yahoo Finance)
 - [macro] Analyst Report: Charles Schwab Corp/The (Yahoo Finance)
-- [macro] DR Congo cancels World Cup training camp over Ebola outbreak (BBC News)
