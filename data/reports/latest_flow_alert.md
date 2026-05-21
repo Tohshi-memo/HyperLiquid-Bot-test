@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-21T01:55:14.104300+00:00`
+- Generated: `2026-05-21T02:00:16.249475+00:00`
 - Flow alert score: `18.32`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `34333639.87`
+- Polymarket 24h volume: `34343810.52`
 - Polymarket volume z-score: `0.33`
 
 ## Top Polymarket Markets
@@ -20,6 +20,6 @@
 - US x Iran permanent peace deal by May 22, 2026? | 24h volume: `1198417.4907519997` | liquidity: `58569.16667`
 - Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1088702.0581089999` | liquidity: `985212.70842`
 - Iran closes its airspace by May 21? | 24h volume: `922328.7103029997` | liquidity: `102310.47362`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `813808.176841` | liquidity: `903202.80364`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `815259.281091` | liquidity: `902748.25606`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
