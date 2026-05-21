@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T18:37:16.308357+00:00`
-- Market context score: `48.57`
+- Generated: `2026-05-21T18:52:20.301887+00:00`
+- Market context score: `47.98`
 - News risk score: `45.41`
 - Macro risk score: `27.47`
-- Risk-on score: `34.44`
+- Risk-on score: `33.13`
 - Articles: `65`
 - Polymarket markets: `401`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1288`
-- Day/swing latest: `2026-05-21T18:30:00+00:00`
+- Day/swing records: `1289`
+- Day/swing latest: `2026-05-21T18:45:00+00:00`
 
 ## News Categories
 
@@ -34,8 +34,8 @@
 - [macro] Walmart warns US shoppers are cutting spending as higher petrol prices bite (BBC News)
 - [macro] Walmart warns US shoppers are cutting spending as higher petrol prices bite (BBC News)
 - [commodity] An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia (Energy)
+- [macro] Analyst Report: Unilever PLC (Yahoo Finance)
 - [macro] Market Update: CSX, NEM, SCHW, UL, HUBS (Yahoo Finance)
+- [macro] Analyst Report: Newmont Corp (Yahoo Finance)
+- [macro] Analyst Report: Charles Schwab Corp/The (Yahoo Finance)
 - [macro] DR Congo cancels World Cup training camp over Ebola outbreak (BBC News)
-- [macro] What is Ebola and why is stopping the latest outbreak so difficult? (BBC News)
-- [commodity] Oil prices pull back as investors hope for U.S.-Iran deal (Energy)
-- [crypto] Blockchain.com confidentially submits IPO filing with SEC (Cointelegraph.com News)
