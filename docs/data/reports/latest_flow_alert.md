@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-21T04:15:18.304604+00:00`
-- Flow alert score: `19.96`
+- Generated: `2026-05-21T04:20:13.974942+00:00`
+- Flow alert score: `20.56`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `36415926.84`
-- Polymarket volume z-score: `0.74`
+- Polymarket 24h volume: `37151886.47`
+- Polymarket volume z-score: `0.89`
 
 ## Top Polymarket Markets
 
-- Trump kiss by May 31? | 24h volume: `6567669.949344999` | liquidity: `8109843.68532`
+- Trump kiss by May 31? | 24h volume: `7226047.2851` | liquidity: `7435044.65532`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `3808438.728592993` | liquidity: `6553009.85615`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1627166.862514003` | liquidity: `277412.3338`
-- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1385663.5861070002` | liquidity: `2069657.69783`
-- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `1208055.1501079996` | liquidity: `96500.73826`
-- Iran closes its airspace by May 21? | 24h volume: `962009.1720929997` | liquidity: `88209.04538`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `924835.751916` | liquidity: `2640108.32657`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `3876173.3685929943` | liquidity: `7004806.062`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `1627588.7115390028` | liquidity: `295893.8168`
+- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1387663.5861070002` | liquidity: `2547691.52245`
+- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `1217419.8781659994` | liquidity: `99897.60561`
+- Iran closes its airspace by May 21? | 24h volume: `964829.7037219997` | liquidity: `86617.8613`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `935949.8572939999` | liquidity: `2635118.51328`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
