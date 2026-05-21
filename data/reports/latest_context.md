@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T17:37:17.760632+00:00`
-- Market context score: `51.37`
-- News risk score: `45.13`
-- Macro risk score: `23.4`
-- Risk-on score: `38.89`
+- Generated: `2026-05-21T17:52:17.221507+00:00`
+- Market context score: `52.56`
+- News risk score: `43.38`
+- Macro risk score: `21.71`
+- Risk-on score: `39.4`
 - Articles: `91`
 - Polymarket markets: `400`
 
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1284`
-- Day/swing latest: `2026-05-21T17:30:00+00:00`
+- Day/swing records: `1285`
+- Day/swing latest: `2026-05-21T17:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `34`, risk hits `12`, risk headline rate `0.2941`, policy hits `3`
-- macro: articles `54`, risk hits `7`, risk headline rate `0.1111`, policy hits `5`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
+- crypto: articles `33`, risk hits `11`, risk headline rate `0.2727`, policy hits `3`
+- macro: articles `54`, risk hits `4`, risk headline rate `0.0741`, policy hits `5`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia (Energy)
 - [commodity] Oil prices pull back as investors hope for U.S.-Iran deal (Energy)
+- [macro] SpaceX's biggest IPO risks are also its bull case (Yahoo Finance)
+- [macro] Gas prices in all 50 states are sitting above $4 ahead of Memorial Day weekend (Yahoo Finance)
+- [macro] Retirees Face 3 Big Money Challenges in 2026 -- Here's How to Cope (Yahoo Finance)
 - [crypto] Mark Cuban says he sold most of his Bitcoin after failed hedge narrative 'disappointed' the billionaire (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Stock Market Today: Dow Up, Nvidia Sinks 2% While Intuit Craters; These AI Companies Thrive (Live Coverage) (Yahoo Finance)
+- [macro] Why Kevin Warsh Will Have to Defy Trump on Interest Rate Cuts (Yahoo Finance)
+- [macro] Trump Gave Intel $8.9 Billion. Now Taxpayers Are Buying IBM (Yahoo Finance)
 - [macro] Workday execution risk flagged by Jefferies ahead of quarterly earnings (Yahoo Finance)
-- [macro] Jensen Huang Said Something Surprising About AI. Here's Why Nvidia Investors Should Pay Attention. (Yahoo Finance)
-- [macro] Russia and China condemn US over indictment of former Cuban leader (BBC News)
-- [macro] Forget Overpriced AI Software: 1 Unsung Energy Play Under $30 Powering the Tech Revolution (Yahoo Finance)
-- [macro] Torque Asset Management Buys $4 Million of Planet Fitness Amid Stock's 54% Decline in 2026 (Yahoo Finance)
-- [macro] Forget C3.ai. While It Burns Cash and Faces Lawsuits This 6.74% Yielding Pipeline Giant Is Quietly Powering AI Data Centers (Yahoo Finance)
-- [macro] Exclusive-Modal Labs valued at $4.65 billion as AI coding takes off (Yahoo Finance)
-- [macro] Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer (BBC News)
