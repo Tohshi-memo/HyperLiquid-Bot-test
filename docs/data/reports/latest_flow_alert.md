@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-21T13:00:19.713710+00:00`
+- Generated: `2026-05-21T13:05:20.950017+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `51580345.79`
-- Polymarket volume z-score: `3.42`
+- Polymarket 24h volume: `51571690.15`
+- Polymarket volume z-score: `3.4`
 
 ## Top Polymarket Markets
 
-- Trump kiss by May 31? | 24h volume: `9031173.558447002` | liquidity: `6485161.93021`
+- Trump kiss by May 31? | 24h volume: `9074985.988447` | liquidity: `6438788.03021`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `4661531.418255004` | liquidity: `10826791.8128`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3756971.154255001` | liquidity: `274894.1218`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `2018107.1140729997` | liquidity: `6227422.02182`
-- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `1799273.0318480013` | liquidity: `80193.2955`
-- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1256323.337795` | liquidity: `4497311.63698`
-- LoL: Dplus KIA vs HANJIN BRION (BO3) - LCK Rounds 1-2 | 24h volume: `1032503.0919479992` | liquidity: `81154.4386`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `4659755.9942590045` | liquidity: `9357995.34354`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4127992.792119` | liquidity: `404730.8191`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `2024506.9240729997` | liquidity: `6215114.29182`
+- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `1797115.5295170015` | liquidity: `127248.14342`
+- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1253901.907795` | liquidity: `4584459.06378`
+- LoL: Dplus KIA vs HANJIN BRION (BO3) - LCK Rounds 1-2 | 24h volume: `1204595.9761689997` | liquidity: `450921.69474`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
