@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T20:52:17.454726+00:00`
-- Market context score: `46.72`
-- News risk score: `46.94`
-- Macro risk score: `27.98`
-- Risk-on score: `31.8`
-- Articles: `63`
-- Polymarket markets: `399`
+- Generated: `2026-05-21T21:07:21.673231+00:00`
+- Market context score: `46.48`
+- News risk score: `47.18`
+- Macro risk score: `28.02`
+- Risk-on score: `31.49`
+- Articles: `62`
+- Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1297`
-- Day/swing latest: `2026-05-21T20:45:00+00:00`
+- Day/swing records: `1298`
+- Day/swing latest: `2026-05-21T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `33`, risk hits `13`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `32`, risk hits `13`, risk headline rate `0.3438`, policy hits `3`
 - macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
@@ -32,7 +32,7 @@
 - [macro] Danes try to tow dead whale from island beach after failed German rescue (BBC News)
 - [macro] Meta settles social media addiction case with US school district (BBC News)
 - [macro] Government pledges £120m to support ceramics firms (BBC News)
-- [crypto] Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Satoshi’s 1.1 million bitcoin and millions more can be saved from quantum attack, says expert (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall as investors hope for U.S.-Iran deal (Energy)
 - [crypto] Petition to scrap South Korea's crypto tax reaches 50K threshold (Cointelegraph.com News)
 - [macro] Pair arrested after boys abandoned by road in Portugal (BBC News)
