@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T01:22:16.846262+00:00`
-- Market context score: `60.43`
-- News risk score: `35.9`
-- Macro risk score: `22.78`
-- Risk-on score: `50.97`
-- Articles: `60`
+- Generated: `2026-05-21T01:37:14.418899+00:00`
+- Market context score: `60.49`
+- News risk score: `35.98`
+- Macro risk score: `22.46`
+- Risk-on score: `51.07`
+- Articles: `61`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1220`
-- Day/swing latest: `2026-05-21T01:15:00+00:00`
+- Day/swing records: `1221`
+- Day/swing latest: `2026-05-21T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `31`, risk hits `5`, risk headline rate `0.1613`, policy hits `3`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.125`, policy hits `2`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.12`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [macro] Samsung strike on hold - but the fight isn't over yet. Why? (BBC News)
 - [macro] UK agrees £3.7bn trade deal with six Gulf states (BBC News)
+- [macro] TikTok and YouTube 'not safe enough' for kids, says Ofcom (BBC News)
 - [commodity] Inside India newsletter: India’s investment appeal dims as firms and funds pivot to the U.S. (Energy)
 - [macro] Ebola vaccine could take nine months as death toll rises further, WHO warns (BBC News)
 - [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
@@ -37,5 +39,3 @@
 - [macro] The fight against foreign developers buying Caribbean beaches (BBC News)
 - [macro] SpaceX files for IPO that could make Elon Musk a trillionaire (BBC News)
 - [crypto] Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining (Cointelegraph.com News)
-- [crypto] Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
