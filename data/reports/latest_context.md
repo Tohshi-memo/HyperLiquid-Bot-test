@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T00:07:15.149861+00:00`
-- Market context score: `60.66`
-- News risk score: `36.57`
-- Macro risk score: `21.88`
+- Generated: `2026-05-21T00:22:13.322962+00:00`
+- Market context score: `60.81`
+- News risk score: `36.35`
+- Macro risk score: `21.51`
 - Risk-on score: `51.74`
 - Articles: `67`
 - Polymarket markets: `398`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1215`
-- Day/swing latest: `2026-05-21T00:00:00+00:00`
+- Day/swing records: `1216`
+- Day/swing latest: `2026-05-21T00:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `34`, risk hits `5`, risk headline rate `0.1471`, policy hits `3`
-- macro: articles `28`, risk hits `4`, risk headline rate `0.1071`, policy hits `4`
+- macro: articles `27`, risk hits `4`, risk headline rate `0.1111`, policy hits `2`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Inside India newsletter: India’s investment appeal dims as firms and funds pivot to the U.S. (Energy)
 - [macro] Ebola vaccine could take nine months as death toll rises further, WHO warns (BBC News)
 - [macro] Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (BBC News)
 - [macro] US charges Cuba's Raúl Castro with murder over 1996 downing of two planes (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining (Cointelegraph.com News)
 - [macro] UK agrees £3.7bn trade deal with six Gulf states (BBC News)
 - [crypto] Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Federal Reserve proposes limited master accounts long pursued by crypto firms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
