@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T14:57:01.171423+00:00`
-- Market context score: `58.64`
-- News risk score: `40.07`
-- Macro risk score: `15.83`
-- Risk-on score: `47.9`
-- Articles: `82`
+- Generated: `2026-05-21T15:07:19.797330+00:00`
+- Market context score: `57.35`
+- News risk score: `40.77`
+- Macro risk score: `18.02`
+- Risk-on score: `46.46`
+- Articles: `84`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:385`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1274`
-- Day/swing latest: `2026-05-21T14:45:00+00:00`
+- Day/swing records: `1275`
+- Day/swing latest: `2026-05-21T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `30`, risk hits `8`, risk headline rate `0.2667`, policy hits `3`
-- macro: articles `50`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
+- crypto: articles `31`, risk hits `8`, risk headline rate `0.2581`, policy hits `3`
+- macro: articles `50`, risk hits `1`, risk headline rate `0.02`, policy hits `1`
+- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Crypto for Advisors: Crypto Products (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [policy] Federal Reserve Board issues enforcement action with former employee of Commerce Bank (FRB: Press Release - All Releases)
+- [macro] All in Place bolsters team with senior appointments (Yahoo Finance)
 - [macro] D-Wave, Rigetti and other quantum stocks jump as Trump administration doles out $2 billion in exchange for equity stakes (Yahoo Finance)
+- [macro] Walmart Stock Falls As Dow Giant Guides Low Amid High Gas Prices (Yahoo Finance)
 - [macro] Does Haemonetics (HAE) Have Enduring Growth Potential? (Yahoo Finance)
 - [macro] Chartered Accountants Ireland calls for AI-ready infrastructure (Yahoo Finance)
+- [macro] Nasdaq Volatility: 1 Unstoppable Tech Monopoly Under $20 to Buy Hand Over Fist If This Happens (Yahoo Finance)
 - [macro] Aristotle Small Cap Equity Fund Picked Envista Holdings (NVST) Citing Varied Growth Signals (Yahoo Finance)
-- [macro] Jeep and Ram Parent Stellantis to Launch Nine New Vehicles Under $40,000 (Yahoo Finance)
-- [macro] Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer (BBC News)
-- [crypto] MoonPay expands into tokenized assets and DeFi markets with new platform for banks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What is Ebola and why is stopping the latest outbreak so difficult? (BBC News)
-- [macro] Lantern Pharma (LTRN) Q1 2025 Earnings Transcript (Yahoo Finance)
-- [macro] Bridgeline (BLIN) Q1 2026 Earnings Transcript (Yahoo Finance)
+- [macro] IBM, Quantum Stocks Jump After Trump Administration Awards $2 Billion In 'Powerful Endorsement' (Yahoo Finance)
