@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T13:22:21.750265+00:00`
-- Market context score: `58.59`
-- News risk score: `40.24`
-- Macro risk score: `20.59`
-- Risk-on score: `49.74`
-- Articles: `75`
+- Generated: `2026-05-21T13:37:21.314326+00:00`
+- Market context score: `61.46`
+- News risk score: `37.85`
+- Macro risk score: `16.69`
+- Risk-on score: `52.62`
+- Articles: `77`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1268`
-- Day/swing latest: `2026-05-21T13:15:00+00:00`
+- Day/swing records: `1269`
+- Day/swing latest: `2026-05-21T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `3`
-- macro: articles `50`, risk hits `4`, risk headline rate `0.08`, policy hits `4`
+- crypto: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `3`
+- macro: articles `51`, risk hits `1`, risk headline rate `0.0196`, policy hits `1`
 
 ## Headlines
 
+- [macro] South Mill Champs slams US duty decision (Yahoo Finance)
+- [macro] Dozens of vehicles burnt as Mali jihadists enforce blockade (BBC News)
+- [macro] Barilla adds capacity at US pasta factory (Yahoo Finance)
+- [crypto] Bitcoin's long-term holder supply approaches record high, breaking multi-year downtrend (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] AvalonBay Equity Residential merger deal 2026 (Yahoo Finance)
+- [macro] Berkshire Hathaway CEO Greg Abel Is in Clean-Up Mode: 2 Brilliant Stocks He Just Sold (Yahoo Finance)
 - [commodity] Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country (Energy)
 - [macro] DR Congo cancels World Cup training camp over Ebola outbreak (BBC News)
 - [crypto] CoinDesk 20 performance update: Internet Computer drops 1.6%, leading index lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Sweden’s Spendrups buys spirits brands from local peer Umida (Yahoo Finance)
-- [macro] Ralph Lauren Q4 fiscal 2026 earnings beat, stock surges (Yahoo Finance)
-- [macro] Gaza flotilla activists set for deportation from Israel as backlash grows (BBC News)
-- [macro] Reconnaissance Energy Africa advances Namibia testing program, files Q1 results (Yahoo Finance)
-- [macro] Air France and Airbus found guilty of manslaughter over 2009 plane crash (BBC News)
-- [macro] Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer (BBC News)
-- [macro] VivoPower shortlists AI operator tenants for Norwegian data center (Yahoo Finance)
+- [macro] What Makes Ambev (ABEV) a Uniquely Positioned Company? (Yahoo Finance)
