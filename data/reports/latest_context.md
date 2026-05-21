@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T12:07:23.319109+00:00`
-- Market context score: `63.6`
-- News risk score: `34.89`
-- Macro risk score: `16.37`
-- Risk-on score: `54.75`
-- Articles: `45`
+- Generated: `2026-05-21T12:22:20.369222+00:00`
+- Market context score: `61.56`
+- News risk score: `37.88`
+- Macro risk score: `20.18`
+- Risk-on score: `54.19`
+- Articles: `52`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1263`
-- Day/swing latest: `2026-05-21T12:00:00+00:00`
+- Day/swing records: `1264`
+- Day/swing latest: `2026-05-21T12:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `2`
-- macro: articles `26`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `3`
+- macro: articles `33`, risk hits `2`, risk headline rate `0.0606`, policy hits `3`
 
 ## Headlines
 
+- [macro] Gonorrhoea and syphilis hit record levels in Europe (BBC News)
+- [macro] Chris Mason: VAT cut on summer fun - the announcement that didn't leak (BBC News)
+- [macro] Dozens of vehicles burnt as Mali jihadists enforce blockade (BBC News)
 - [macro] Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer (BBC News)
 - [commodity] Oil market could enter ‘red zone’ by July as stocks dwindle ahead of summer travel season, IEA chief says (Energy)
+- [macro] Select Group expands UK hospitality platform with three golf resorts (Yahoo Finance)
+- [macro] Full Truck Alliance Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Legal & General Group Touts £5B Returns, Streamlined Strategy at AGM (Yahoo Finance)
+- [macro] Youdao Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] What is Ebola and why is stopping the latest outbreak so difficult? (BBC News)
-- [macro] Wes Streeting pledges 'wealth tax that works' (BBC News)
-- [macro] Gonorrhoea and syphilis hit record levels in Europe (BBC News)
-- [macro] China says US should stop 'threats' against Cuba after ex-leader charged (BBC News)
-- [crypto] It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin marks time (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Dozens of vehicles burnt as Mali jihadists enforce blockade (BBC News)
-- [macro] Technical Assessment: Bullish in the Intermediate-Term (Yahoo Finance)
-- [macro] Analyst Report: NVIDIA Corp (Yahoo Finance)
