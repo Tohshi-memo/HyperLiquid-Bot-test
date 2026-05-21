@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-21T19:10:19.673952+00:00`
+- Generated: `2026-05-21T19:15:21.056042+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `58450193.81`
-- Polymarket volume z-score: `3.51`
+- Polymarket 24h volume: `58827078.27`
+- Polymarket volume z-score: `3.56`
 
 ## Top Polymarket Markets
 
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `7228968.058155008` | liquidity: `10166840.84445`
-- Trump kiss by May 31? | 24h volume: `7226510.785999999` | liquidity: `16000033.41563`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `7291940.902559007` | liquidity: `10087168.0884`
+- Trump kiss by May 31? | 24h volume: `7223930.785999999` | liquidity: `15996979.15083`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4929699.13589999` | liquidity: `296213.898`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `4619914.713543` | liquidity: `5381139.78611`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `3547185.6973830005` | liquidity: `100769.17199`
-- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `2826163.6638770006` | liquidity: `4216707.19211`
-- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `2103215.3806500016` | liquidity: `88349.46505`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4885446.54814999` | liquidity: `297933.8247`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `4630575.313542999` | liquidity: `5368949.79782`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `3778354.337383` | liquidity: `102003.35315`
+- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `2900052.7938770005` | liquidity: `4139040.92629`
+- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `2098143.478334001` | liquidity: `95807.06858`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
