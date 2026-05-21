@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-21T11:00:17.807536+00:00`
+- Generated: `2026-05-21T11:05:21.564946+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `45585770.81`
-- Polymarket volume z-score: `2.44`
+- Polymarket 24h volume: `45831973.67`
+- Polymarket volume z-score: `2.48`
 
 ## Top Polymarket Markets
 
-- Trump kiss by May 31? | 24h volume: `8111813.824597999` | liquidity: `6840579.21109`
+- Trump kiss by May 31? | 24h volume: `8124695.284316` | liquidity: `6827801.34109`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `4599980.746032003` | liquidity: `11104178.81653`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3548621.473788004` | liquidity: `330787.7733`
-- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `1872971.544601` | liquidity: `6435233.14211`
-- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `1617581.4753800007` | liquidity: `125563.34797`
-- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1321784.1624579998` | liquidity: `4513145.32929`
-- Iran closes its airspace by May 21? | 24h volume: `827538.2125480003` | liquidity: `69339.65647`
+- Will Trump say "Iran" during events with Xi Jinping? | 24h volume: `4595329.015050003` | liquidity: `11104548.02627`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3610416.138744003` | liquidity: `546486.9985`
+- Will Trump say "Nuclear" during events with Xi Jinping? | 24h volume: `1879882.818796` | liquidity: `6425073.63211`
+- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `1621734.8610200004` | liquidity: `135056.03806`
+- Will Trump say "Strait" or "Hormuz" during events with Xi Jinping? | 24h volume: `1315920.3824579997` | liquidity: `4513564.55133`
+- Iran closes its airspace by May 21? | 24h volume: `831415.9650050002` | liquidity: `50965.00372`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
