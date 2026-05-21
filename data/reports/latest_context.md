@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T16:22:21.626766+00:00`
-- Market context score: `52.17`
-- News risk score: `45.21`
-- Macro risk score: `24.95`
-- Risk-on score: `41.32`
-- Articles: `93`
+- Generated: `2026-05-21T16:37:19.828127+00:00`
+- Market context score: `57.59`
+- News risk score: `41.07`
+- Macro risk score: `19.98`
+- Risk-on score: `47.99`
+- Articles: `90`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:385`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `1280`
+- Day/swing latest: `2026-05-21T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `36`, risk hits `12`, risk headline rate `0.2778`, policy hits `3`
-- macro: articles `54`, risk hits `7`, risk headline rate `0.1296`, policy hits `6`
+- crypto: articles `33`, risk hits `10`, risk headline rate `0.2424`, policy hits `2`
+- macro: articles `54`, risk hits `3`, risk headline rate `0.0556`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country (Energy)
+- [macro] Is Trane Technologies (TT) The Best Under-The-Radar AI Stock? (Yahoo Finance)
 - [macro] Charges dismissed against official at school where 6-year-old shot teacher (BBC News)
-- [macro] Gaza flotilla activists deported from Israel as backlash over treatment grows (BBC News)
-- [macro] Stock Market Today: Dow Down, Nvidia Erratic; These AI Stocks Boom As Ralph Lauren Rebounds (Live Coverage) (Yahoo Finance)
-- [macro] Air France and Airbus found guilty of manslaughter over 2009 plane crash (BBC News)
-- [macro] Why Arm Holdings Stock Popped Today (Yahoo Finance)
-- [macro] Kroger CEO Greg Foran plans major price cuts to rival Walmart (Yahoo Finance)
-- [macro] Market’s Tepid Reaction to Nvidia (NVDA) Earnings: Should You Buy The Stock Now? (Yahoo Finance)
-- [macro] Walmart Sees Signs at Gas Pump That Consumers Are Stressed (Yahoo Finance)
-- [macro] SpaceX Just Revealed the 100-Year Plan for Its Business (Yahoo Finance)
-- [macro] UP CEO confident rail merger application checks all the STB’s boxes (Yahoo Finance)
+- [macro] Is Eaton (ETN) The Best Pick-and-Shovel AI Stock? (Yahoo Finance)
+- [macro] Some Fed officials and staff are fretting about state of financial markets (Yahoo Finance)
+- [macro] Alphabet (GOOGL): Moving Beyond Search in the AI Revolution (Yahoo Finance)
+- [macro] Does Amazon.com (AMZN) Have More Upside? (Yahoo Finance)
+- [macro] One of the Hottest New VC Firms Has Donald Trump Jr. as a Partner (Yahoo Finance)
+- [macro] Should You Buy Taiwan Semiconductor (TSM) in 2026? (Yahoo Finance)
+- [macro] ASML (ASML): AI Stock With The Widest Moat? (Yahoo Finance)
