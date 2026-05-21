@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-21T01:37:14.418899+00:00`
-- Market context score: `60.49`
-- News risk score: `35.98`
-- Macro risk score: `22.46`
-- Risk-on score: `51.07`
+- Generated: `2026-05-21T01:52:15.611803+00:00`
+- Market context score: `61.51`
+- News risk score: `34.98`
+- Macro risk score: `20.46`
+- Risk-on score: `51.73`
 - Articles: `61`
 - Polymarket markets: `398`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:66, fx:6, index:23, metal:18, unknown:384`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1221`
-- Day/swing latest: `2026-05-21T01:30:00+00:00`
+- Day/swing records: `1222`
+- Day/swing latest: `2026-05-21T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `31`, risk hits `5`, risk headline rate `0.1613`, policy hits `3`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.12`, policy hits `2`
+- macro: articles `25`, risk hits `2`, risk headline rate `0.08`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [macro] Samsung strike on hold - but the fight isn't over yet. Why? (BBC News)
 - [macro] Samsung strike on hold - but the fight isn't over yet. Why? (BBC News)
 - [macro] UK agrees £3.7bn trade deal with six Gulf states (BBC News)
 - [macro] TikTok and YouTube 'not safe enough' for kids, says Ofcom (BBC News)
@@ -38,4 +39,3 @@
 - [macro] US charges Cuba's Raúl Castro with murder over 1996 downing of two planes (BBC News)
 - [macro] The fight against foreign developers buying Caribbean beaches (BBC News)
 - [macro] SpaceX files for IPO that could make Elon Musk a trillionaire (BBC News)
-- [crypto] Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
