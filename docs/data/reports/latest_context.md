@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T12:33:07.744621+00:00`
-- Market context score: `51.3`
-- News risk score: `43.79`
-- Macro risk score: `25.0`
-- Risk-on score: `38.19`
-- Articles: `54`
+- Generated: `2026-05-22T12:37:14.106310+00:00`
+- Market context score: `51.76`
+- News risk score: `42.22`
+- Macro risk score: `25.03`
+- Risk-on score: `37.92`
+- Articles: `53`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `2`
-- crypto: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `1`
+- crypto: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `1`
 - macro: articles `26`, risk hits `3`, risk headline rate `0.1154`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices rise as traders grow skeptical of a breakthrough in U.S.-Iran talks (Energy)
 - [macro] Morrisons planning to close 100 stores in next few months (BBC News)
 - [commodity] Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day (Energy)
 - [crypto] XRP adds 4,300 new wallets in 24 hours, but why is price stuck? (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] U.S., Iran signal peace progress — but remain at odds over enriched uranium, Strait of Hormuz tolls (Energy)
 - [macro] Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan (BBC News)
 - [macro] Daily Spotlight: Consumers Powering Through (Yahoo Finance)
-- [crypto] Bitcoin left behind in the geopolitical melee (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
