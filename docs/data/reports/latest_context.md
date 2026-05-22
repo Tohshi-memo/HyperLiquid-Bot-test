@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T15:37:16.165132+00:00`
-- Market context score: `49.39`
-- News risk score: `48.89`
-- Macro risk score: `24.17`
-- Risk-on score: `37.94`
+- Generated: `2026-05-22T15:39:24.352324+00:00`
+- Market context score: `47.66`
+- News risk score: `50.58`
+- Macro risk score: `27.57`
+- Risk-on score: `36.81`
 - Articles: `88`
 - Polymarket markets: `399`
 
@@ -24,18 +24,18 @@
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `35`, risk hits `15`, risk headline rate `0.3714`, policy hits `2`
-- macro: articles `48`, risk hits `8`, risk headline rate `0.1458`, policy hits `0`
+- macro: articles `48`, risk hits `11`, risk headline rate `0.2083`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [commodity] Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day (Energy)
-- [macro] Why Workday Stock Is Soaring Today (Yahoo Finance)
-- [macro] Vanguard S&P 500 ETF Offers Lower Fees Than SPDR Rival (Yahoo Finance)
-- [macro] What to Know About This Fund's $28 Million Exit From a Pet Food Stock Down 40% (Yahoo Finance)
-- [macro] Should You Forget PayPal and Buy Visa Instead? (Yahoo Finance)
 - [macro] Gold IRAs Could Cost You 33% in Taxes. Here’s What Aggressive Commercials Won’t Tell You (Yahoo Finance)
 - [macro] Rubio tries to reassure Nato allies over US troop deployments (BBC News)
 - [macro] Private Equity Prescribes a Delisting for Recordati (Yahoo Finance)
+- [macro] Forget JEPI: This Amplify Fund Yields 5 Percent With Less NAV Erosion And Owns Quality Dividend Aristocrats (Yahoo Finance)
+- [macro] NYSE Parent, OKX Counter Hyperliquid With Regulated Oil Perpetual Futures (Yahoo Finance)
+- [macro] Prediction: Analysts Say Qualcomm Stock Is Set For A Massive Breakout (Yahoo Finance)
+- [macro] There’s a Bond ETF That Resets Its Income for Inflation Every Six Months. Almost None of Your Friends Own It. (Yahoo Finance)
 - [macro] Ebola risk raised to 'very high' in DR Congo (BBC News)
 - [macro] Oil prices rise as investors doubt US-Iran peace talks breakthrough (Yahoo Finance)
