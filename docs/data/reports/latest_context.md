@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T15:22:17.287629+00:00`
-- Market context score: `48.59`
-- News risk score: `49.5`
-- Macro risk score: `25.35`
-- Risk-on score: `37.14`
-- Articles: `89`
+- Generated: `2026-05-22T15:37:16.165132+00:00`
+- Market context score: `49.39`
+- News risk score: `48.89`
+- Macro risk score: `24.17`
+- Risk-on score: `37.94`
+- Articles: `88`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1370`
-- Day/swing latest: `2026-05-22T15:15:00+00:00`
+- Day/swing records: `1371`
+- Day/swing latest: `2026-05-22T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `35`, risk hits `15`, risk headline rate `0.3714`, policy hits `2`
-- macro: articles `49`, risk hits `10`, risk headline rate `0.1633`, policy hits `1`
+- macro: articles `48`, risk hits `8`, risk headline rate `0.1458`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day (Energy)
+- [macro] Why Workday Stock Is Soaring Today (Yahoo Finance)
+- [macro] Vanguard S&P 500 ETF Offers Lower Fees Than SPDR Rival (Yahoo Finance)
+- [macro] What to Know About This Fund's $28 Million Exit From a Pet Food Stock Down 40% (Yahoo Finance)
+- [macro] Should You Forget PayPal and Buy Visa Instead? (Yahoo Finance)
+- [macro] Gold IRAs Could Cost You 33% in Taxes. Here’s What Aggressive Commercials Won’t Tell You (Yahoo Finance)
 - [macro] Rubio tries to reassure Nato allies over US troop deployments (BBC News)
+- [macro] Private Equity Prescribes a Delisting for Recordati (Yahoo Finance)
 - [macro] Ebola risk raised to 'very high' in DR Congo (BBC News)
 - [macro] Oil prices rise as investors doubt US-Iran peace talks breakthrough (Yahoo Finance)
-- [macro] UK scientists developing Ebola vaccine that could be ready for trials in months (BBC News)
-- [macro] Treasury Yields Rise on Hawkish Waller, Falling Consumer Sentiment (Yahoo Finance)
-- [macro] Jackrom selects ROTOCON to enhance packaging production (Yahoo Finance)
-- [macro] Saia opens terminals in Pacific Northwest, Midwest (Yahoo Finance)
-- [macro] Estée Lauder shares jump 10% after Puig merger talks end (Yahoo Finance)
-- [crypto] The agentic CFO in your pocket (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries (Economy)
