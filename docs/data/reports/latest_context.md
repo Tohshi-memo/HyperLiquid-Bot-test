@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T07:37:16.599757+00:00`
+- Generated: `2026-05-22T07:52:17.969846+00:00`
 - Market context score: `59.86`
 - News risk score: `34.15`
 - Macro risk score: `19.56`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1340`
-- Day/swing latest: `2026-05-22T07:30:00+00:00`
+- Day/swing records: `1341`
+- Day/swing latest: `2026-05-22T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [commodity] U.S., Iran signal peace progress — but remain at odds over enriched uranium, Strait of Hormuz tolls (Energy)
 - [macro] Government borrowing higher than expected in April (BBC News)
-- [commodity] U.S. and Iran signal peace progress — but remain at odds over uranium enrichment, Strait of Hormuz (Energy)
 - [macro] US pauses $14bn weapons sale to Taiwan due to Iran war (BBC News)
 - [crypto] Tokenized stocks risk liquidity and revenue fragmentation: Research (Cointelegraph.com News)
 - [crypto] Galaxy’s Novogratz speaks in court over failed $1.2B BitGo deal: Report (Cointelegraph.com News)
