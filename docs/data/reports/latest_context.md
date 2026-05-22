@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T20:51:49.125023+00:00`
-- Market context score: `41.03`
-- News risk score: `50.2`
-- Macro risk score: `30.8`
-- Risk-on score: `22.99`
+- Generated: `2026-05-22T21:07:17.623939+00:00`
+- Market context score: `42.09`
+- News risk score: `49.55`
+- Macro risk score: `28.47`
+- Risk-on score: `23.9`
 - Articles: `65`
 - Polymarket markets: `398`
 
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1392`
-- Day/swing latest: `2026-05-22T20:45:00+00:00`
+- Day/swing records: `1393`
+- Day/swing latest: `2026-05-22T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `33`, risk hits `14`, risk headline rate `0.3636`, policy hits `2`
-- macro: articles `25`, risk hits `5`, risk headline rate `0.16`, policy hits `1`
+- crypto: articles `32`, risk hits `14`, risk headline rate `0.375`, policy hits `2`
+- macro: articles `26`, risk hits `4`, risk headline rate `0.1154`, policy hits `1`
 - policy: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `2`
 
 ## Headlines
 
+- [macro] Gaza flotilla activists allege abuse by Israeli forces while detained (BBC News)
+- [macro] Judge dismisses criminal case against Kilmar Abrego Garcia (BBC News)
 - [macro] Tulsi Gabbard to resign as US director of national intelligence (BBC News)
 - [policy] Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman (FRB: Press Release - All Releases)
 - [policy] Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations (FRB: Press Release - All Releases)
@@ -37,5 +39,3 @@
 - [macro] Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
 - [crypto] Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH (Cointelegraph.com News)
 - [commodity] Oil prices post weekly loss as U.S. and Iran signal progress toward a deal (Energy)
-- [macro] Bank boss sorry after describing workers as 'lower value human capital' (BBC News)
-- [macro] Trump is putting pressure on Cuba - why and to what end? (BBC News)
