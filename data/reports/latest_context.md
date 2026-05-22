@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T02:07:19.253856+00:00`
+- Generated: `2026-05-22T02:22:18.758362+00:00`
 - Market context score: `42.55`
 - News risk score: `48.03`
 - Macro risk score: `28.62`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1318`
-- Day/swing latest: `2026-05-22T02:00:00+00:00`
+- Day/swing records: `1319`
+- Day/swing latest: `2026-05-22T02:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia (Energy)
 - [commodity] Oil resumes rally as Iran reportedly wants to keep enriched uranium within the country (Energy)
 - [crypto] Bitcoin liquidity balance hints at developing rally toward $80K (Cointelegraph.com News)
 - [macro] Gaza flotilla activists deported from Israel as backlash over treatment grows (BBC News)
@@ -38,4 +39,3 @@
 - [macro] UK police bosses urge unsafe platforms to be blocked for under-16s (BBC News)
 - [crypto] Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next? (Cointelegraph.com News)
 - [macro] Police to score train firms on tackling sexual harassment (BBC News)
-- [macro] Prepare for half term queues at Dover due to EU border process, port says (BBC News)
