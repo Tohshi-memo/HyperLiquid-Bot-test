@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T03:22:15.095815+00:00`
+- Generated: `2026-05-22T03:37:17.748144+00:00`
 - Market context score: `45.14`
 - News risk score: `47.39`
 - Macro risk score: `24.47`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1323`
-- Day/swing latest: `2026-05-22T03:15:00+00:00`
+- Day/swing records: `1324`
+- Day/swing latest: `2026-05-22T03:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] US to send 5,000 more troops to Poland, Trump says (BBC News)
 - [macro] Elon Musk's SpaceX postpones Starship launch (BBC News)
 - [macro] Elon Musk's SpaceX postpones Starship launch (BBC News)
 - [macro] Alberta to hold referendum on whether to remain in Canada (BBC News)
 - [commodity] An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia (Energy)
 - [commodity] Oil resumes rally as Iran reportedly wants to keep enriched uranium within the country (Energy)
 - [macro] 'No means no': Greenlanders protest against Trump outside new US consulate (BBC News)
-- [macro] US to send 5,000 more troops to Poland, Trump says (BBC News)
 - [macro] Fans react to Stephen Colbert’s final show (BBC News)
 - [crypto] Bitcoin liquidity balance hints at developing rally toward $80K (Cointelegraph.com News)
 - [macro] Gaza flotilla activists deported from Israel as backlash over treatment grows (BBC News)
