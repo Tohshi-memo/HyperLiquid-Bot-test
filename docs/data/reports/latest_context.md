@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T19:22:15.953365+00:00`
+- Generated: `2026-05-22T19:37:21.164063+00:00`
 - Market context score: `43.85`
 - News risk score: `48.81`
 - Macro risk score: `28.66`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1386`
-- Day/swing latest: `2026-05-22T19:15:00+00:00`
+- Day/swing records: `1387`
+- Day/swing latest: `2026-05-22T19:30:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Tulsi Gabbard to resign as US director of national intelligence (BBC News)
 - [commodity] Oil prices post weekly loss as U.S. and Iran signal progress toward a deal (Energy)
 - [macro] Bank boss sorry after describing workers as 'lower value human capital' (BBC News)
-- [macro] Tulsi Gabbard to resign as US director of national intelligence (BBC News)
 - [macro] Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
 - [macro] Trump is putting pressure on Cuba - why and to what end? (BBC News)
 - [crypto] SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
