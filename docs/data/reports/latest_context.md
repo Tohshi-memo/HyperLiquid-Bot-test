@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T14:52:21.554593+00:00`
-- Market context score: `47.74`
-- News risk score: `49.28`
-- Macro risk score: `27.31`
-- Risk-on score: `35.79`
-- Articles: `80`
+- Generated: `2026-05-22T15:07:22.993431+00:00`
+- Market context score: `49.41`
+- News risk score: `48.36`
+- Macro risk score: `26.48`
+- Risk-on score: `38.41`
+- Articles: `87`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1368`
-- Day/swing latest: `2026-05-22T14:45:00+00:00`
+- Day/swing records: `1369`
+- Day/swing latest: `2026-05-22T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `32`, risk hits `12`, risk headline rate `0.3438`, policy hits `2`
-- macro: articles `43`, risk hits `9`, risk headline rate `0.186`, policy hits `4`
+- crypto: articles `33`, risk hits `12`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `49`, risk hits `11`, risk headline rate `0.1837`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Bank boss sorry after describing workers as 'lower value human capital' (BBC News)
-- [macro] Rubio tries to reassure Nato allies over US troop deployments (BBC News)
-- [macro] Evercore Turns More Bullish on Caterpillar (CAT) with $1,103 Price Target (Yahoo Finance)
-- [macro] TJX raises full year guidance as Q1 beats expectations (Yahoo Finance)
-- [macro] Analog Devices Expands AI Power Strategy with $1.5B Empower Acquisition (Yahoo Finance)
-- [macro] Bloomberg Reports General Motors (GM) is Reducing IT Staff to Focus on New Tech Skills (Yahoo Finance)
-- [macro] Forget Plug Power: 1 High-Yield Industrial Giant to Buy Hand Over Fist (Yahoo Finance)
-- [macro] Apple Stock at 52-Week High: Buy, Sell or Hold? (Yahoo Finance)
-- [macro] Scotiabank and UBS Turn More Positive on Williams (WMB) After Q1 (Yahoo Finance)
-- [macro] Why Shares of Brady Corporation Are Soaring This Week (Yahoo Finance)
+- [macro] UK scientists developing Ebola vaccine that could be ready for trials in months (BBC News)
+- [macro] Ebola risk raised to 'very high' in DR Congo (BBC News)
+- [macro] Treasury Yields Rise on Hawkish Waller, Falling Consumer Sentiment (Yahoo Finance)
+- [macro] Jackrom selects ROTOCON to enhance packaging production (Yahoo Finance)
+- [crypto] The agentic CFO in your pocket (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries (Economy)
+- [macro] Healthcare Stocks on Pace for Best Week in 6 Months (Yahoo Finance)
+- [macro] UnitedHealth Group (UNH) – Among the 10 High Quality Stocks to Buy According to Hedge Funds (Yahoo Finance)
+- [macro] Dow Sets a New Intraday Record (Yahoo Finance)
+- [macro] Greg Abel, Warren Buffett's Successor, Opens a Position in Macy's. What Does He See That the Market Doesn't? (Yahoo Finance)
