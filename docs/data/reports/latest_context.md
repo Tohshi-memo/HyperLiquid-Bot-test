@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T18:37:18.362462+00:00`
-- Market context score: `43.08`
-- News risk score: `49.18`
-- Macro risk score: `31.14`
-- Risk-on score: `26.8`
-- Articles: `66`
+- Generated: `2026-05-22T18:52:17.121921+00:00`
+- Market context score: `42.39`
+- News risk score: `49.54`
+- Macro risk score: `32.48`
+- Risk-on score: `26.09`
+- Articles: `63`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1383`
-- Day/swing latest: `2026-05-22T18:30:00+00:00`
+- Day/swing records: `1384`
+- Day/swing latest: `2026-05-22T18:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `36`, risk hits `14`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `1`
+- crypto: articles `35`, risk hits `14`, risk headline rate `0.3429`, policy hits `1`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump is putting pressure on Cuba - why and to what end? (BBC News)
 - [crypto] SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump wants new Fed chair to be 'totally independent' (BBC News)
 - [crypto] Why Minnesota is empowering local banks to fight Wall Street for crypto revenue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Analyst Report: Pinterest Inc (Yahoo Finance)
 - [macro] Analyst Report: Walmart Inc (Yahoo Finance)
 - [macro] Bank boss sorry after describing workers as 'lower value human capital' (BBC News)
-- [macro] Market Update: ADTN, WMT, SNAP, PINS (Yahoo Finance)
