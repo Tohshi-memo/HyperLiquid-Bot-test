@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T21:37:13.397774+00:00`
-- Market context score: `43.28`
-- News risk score: `48.46`
-- Macro risk score: `27.61`
-- Risk-on score: `25.31`
-- Articles: `66`
+- Generated: `2026-05-22T21:52:20.341489+00:00`
+- Market context score: `44.29`
+- News risk score: `47.26`
+- Macro risk score: `27.64`
+- Risk-on score: `26.54`
+- Articles: `65`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1395`
-- Day/swing latest: `2026-05-22T21:30:00+00:00`
+- Day/swing records: `1396`
+- Day/swing latest: `2026-05-22T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `31`, risk hits `13`, risk headline rate `0.3548`, policy hits `2`
+- crypto: articles `30`, risk hits `12`, risk headline rate `0.3333`, policy hits `2`
 - macro: articles `28`, risk hits `4`, risk headline rate `0.1071`, policy hits `1`
 - policy: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `2`
 
 ## Headlines
 
+- [macro] Judge dismisses criminal case against Kilmar Abrego Garcia (BBC News)
 - [macro] UK sees hottest day of year as bank holiday travellers face queues (BBC News)
 - [macro] From decades to years - AI could speed search for brain drugs hiding in plain sight (BBC News)
 - [macro] Carney says Alberta is 'essential' to Canada as province plans vote on separation (BBC News)
 - [macro] Gaza flotilla activists allege abuse by Israeli forces while detained (BBC News)
-- [macro] Judge dismisses criminal case against Kilmar Abrego Garcia (BBC News)
 - [macro] Tulsi Gabbard to resign as US director of national intelligence (BBC News)
 - [policy] Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman (FRB: Press Release - All Releases)
 - [policy] Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations (FRB: Press Release - All Releases)
