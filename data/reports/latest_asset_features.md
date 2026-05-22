@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-22T21:52:20.341489+00:00`
-- Observed: `2026-05-22T21:45:00+00:00`
+- Generated: `2026-05-22T22:06:19.170181+00:00`
+- Observed: `2026-05-22T22:00:00+00:00`
 - Assets: `748`
 
 ## Top Activity
@@ -18,13 +18,13 @@ Individual asset screen for drilling down from class-level signals.
 - `@304` unknown price `0.00078` 4h `0.0` vol `0.0` relationship `market_context_high->@304_24h`
 - `@264` unknown price `206.0` 4h `0.0` vol `0.0` relationship `market_context_high->@264_24h`
 - `@176` unknown price `0.000927` 4h `4.5096` vol `0.0` relationship `market_context_high->@176_4h`
-- `SAGA` crypto_alt price `0.01974` 4h `-2.4221` vol `228880.28` relationship `market_context_high->SAGA_24h`
+- `SAGA` crypto_alt price `0.0197` 4h `-1.8924` vol `229023.93` relationship `market_context_high->SAGA_24h`
 - `@113` unknown price `0.0002072` 4h `0.0` vol `0.0` relationship `market_context_high->@113_24h`
 - `@78` unknown price `0.12886` 4h `-4.9074` vol `0.0` relationship `market_context_high->@78_24h`
-- `@173` unknown price `112498.5` 4h `-0.3402` vol `0.0` relationship `market_context_high->@173_24h`
-- `AZTEC` crypto_alt price `0.021327` 4h `-3.9973` vol `402471.09` relationship `market_context_high->AZTEC_24h`
+- `@173` unknown price `112498.5` 4h `-4.3514` vol `0.0` relationship `market_context_high->@173_24h`
+- `AZTEC` crypto_alt price `0.021297` 4h `-3.3009` vol `395087.86` relationship `market_context_high->AZTEC_24h`
 - `@49` unknown price `0.000629` 4h `0.0` vol `0.0` relationship `market_context_high->@49_24h`
 - `@155` unknown price `0.0006` 4h `-13.5447` vol `0.0` relationship `market_context_high->@155_24h`
 - `@121` unknown price `0.00504` 4h `0.0` vol `0.0` relationship `market_context_high->@121_24h`
 - `@87` unknown price `0.069493` 4h `0.6022` vol `0.0` relationship `market_context_high->@87_24h`
-- `SUI` crypto_alt price `1.06465` 4h `-2.4197` vol `50012212.89` relationship `market_context_high->SUI_24h`
+- `SUI` crypto_alt price `1.05995` 4h `-2.3223` vol `48366873.13` relationship `market_context_high->SUI_24h`
