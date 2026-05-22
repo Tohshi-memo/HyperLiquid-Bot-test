@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T02:22:18.758362+00:00`
-- Market context score: `42.55`
-- News risk score: `48.03`
-- Macro risk score: `28.62`
-- Risk-on score: `23.7`
-- Articles: `45`
+- Generated: `2026-05-22T02:37:19.089139+00:00`
+- Market context score: `42.75`
+- News risk score: `47.98`
+- Macro risk score: `28.02`
+- Risk-on score: `23.88`
+- Articles: `46`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1319`
-- Day/swing latest: `2026-05-22T02:15:00+00:00`
+- Day/swing records: `1320`
+- Day/swing latest: `2026-05-22T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `20`, risk hits `11`, risk headline rate `0.45`, policy hits `2`
-- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `1`
+- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Elon Musk's SpaceX postpones Starship launch (BBC News)
 - [commodity] An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia (Energy)
 - [commodity] Oil resumes rally as Iran reportedly wants to keep enriched uranium within the country (Energy)
 - [crypto] Bitcoin liquidity balance hints at developing rally toward $80K (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] 'Monitoring the situation': why young men are drawn to prediction markets (BBC News)
 - [macro] UK police bosses urge unsafe platforms to be blocked for under-16s (BBC News)
 - [crypto] Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next? (Cointelegraph.com News)
-- [macro] Police to score train firms on tackling sexual harassment (BBC News)
