@@ -2,12 +2,12 @@
 
 Public macro indicators for rates, employment, inflation, dollar, and risk context. These are inputs for analysis, not trade signals.
 
-- Generated: `2026-05-21T23:18:19.876190+00:00`
-- Indicators: `5`
+- Generated: `2026-05-22T14:18:15.254335+00:00`
+- Indicators: `11`
 
 ## Providers
 
-- `bls`: enabled `True`, indicators `0`
+- `bls`: enabled `True`, indicators `6`
 - `treasury_avg_interest_rates`: enabled `True`, indicators `5`
 - `fred`: enabled `False`, indicators `0`, reason `FRED_API_KEY is not set`
 
@@ -22,6 +22,12 @@ Public macro indicators for rates, employment, inflation, dollar, and risk conte
 
 ## Indicators
 
+- `us_average_hourly_earnings` US Average Hourly Earnings: `37.41` usd at `2026-04-01` (BLS)
+- `us_nonfarm_payrolls` US Nonfarm Payrolls: `158736.0` thousands at `2026-04-01` (BLS)
+- `us_unemployment_rate` US Unemployment Rate: `4.3` percent at `2026-04-01` (BLS)
+- `us_core_cpi_u` US Core CPI-U: `335.803` index at `2026-04-01` (BLS)
+- `us_cpi_u` US CPI-U: `333.02` index at `2026-04-01` (BLS)
+- `us_ppi_final_demand` US PPI Final Demand: `156.878` index at `2026-04-01` (BLS)
 - `us_treasury_avg_bill_rate` US Treasury Average Treasury Bills Rate: `3.696` percent at `2026-04-30` (US Treasury Fiscal Data)
 - `us_treasury_avg_bond_rate` US Treasury Average Treasury Bonds Rate: `3.403` percent at `2026-04-30` (US Treasury Fiscal Data)
 - `us_treasury_avg_interest_bearing_debt_rate` US Treasury Average Total Interest-bearing Debt Rate: `3.34` percent at `2026-04-30` (US Treasury Fiscal Data)
