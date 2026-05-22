@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-22T05:52:19.866051+00:00`
+- Generated: `2026-05-22T06:07:15.737586+00:00`
 - Market context score: `50.95`
 - News risk score: `41.85`
 - Macro risk score: `24.34`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1333`
-- Day/swing latest: `2026-05-22T05:45:00+00:00`
+- Day/swing records: `1334`
+- Day/swing latest: `2026-05-22T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Australian man dies after falling down ravine on hike to Machu Picchu (BBC News)
 - [crypto] Bitcoin trades near $77,700 as analysts eye $75,000 support after liquidation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Australian man dies after falling down ravine on hike to Machu Picchu (BBC News)
 - [crypto] Accused attackers of Sandbox exec’s wife tried to flee via Uber (Cointelegraph.com News)
 - [crypto] US lawmakers renew strategic Bitcoin reserve push with ARMA bill (Cointelegraph.com News)
 - [crypto] 5 crypto firms wind down this week amid ongoing market slump (Cointelegraph.com News)
