@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T16:29:26.873296+00:00`
-- Market context score: `58.69`
+- Generated: `2026-05-23T16:37:14.986171+00:00`
+- Market context score: `59.27`
 - News risk score: `33.58`
 - Macro risk score: `18.67`
-- Risk-on score: `43.61`
+- Risk-on score: `44.89`
 - Articles: `44`
 - Polymarket markets: `398`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1468`
-- Day/swing latest: `2026-05-23T16:15:00+00:00`
+- Day/swing records: `1469`
+- Day/swing latest: `2026-05-23T16:30:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 ## Headlines
 
 - [commodity] U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports (Energy)
-- [macro] The Three-Circle Test: Why You Don’t Need to Be the CEO to Pick Winning Stocks (Yahoo Finance)
-- [macro] Why bonds may not save investors from the next market shock: Chart of the Day (Yahoo Finance)
+- [macro] Is Unusual Machines Stock a Buy After Bouncing Back This Week? (Yahoo Finance)
 - [macro] Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points (Yahoo Finance)
+- [macro] Why bonds may not save investors from the next market shock: Chart of the Day (Yahoo Finance)
 - [macro] Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market (Yahoo Finance)
 - [macro] Toxic chemical leak forces thousands to evacuate near Los Angeles (BBC News)
 - [macro] At least 82 killed in Chinese coal mine explosion (BBC News)
