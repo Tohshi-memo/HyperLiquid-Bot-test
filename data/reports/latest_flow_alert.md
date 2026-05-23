@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-23T05:55:14.211146+00:00`
+- Generated: `2026-05-23T06:00:19.772062+00:00`
 - Flow alert score: `17.12`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `38371619.65`
+- Polymarket 24h volume: `38406118.46`
 - Polymarket volume z-score: `0.03`
 
 ## Top Polymarket Markets
@@ -17,8 +17,8 @@
 - US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4396535.164676003` | liquidity: `310797.7191`
 - US x Iran permanent peace deal by May 22, 2026? | 24h volume: `3616784.8575379965` | liquidity: `150747.18237`
 - Iran closes its airspace by May 24? | 24h volume: `2892315.7196450015` | liquidity: `303274.84585`
-- Will the Iran ceasefire continue through May 22? | 24h volume: `2059452.882231001` | liquidity: `782196.03223`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1475038.503` | liquidity: `6584063.15389`
+- Will the Iran ceasefire continue through May 22? | 24h volume: `2063448.709231001` | liquidity: `770764.44603`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1475127.384` | liquidity: `6583568.07715`
 - Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1355026.9507019995` | liquidity: `297228.39491`
 - US x Iran permanent peace deal by May 26, 2026? | 24h volume: `1167108.23439` | liquidity: `88530.1904`
 
