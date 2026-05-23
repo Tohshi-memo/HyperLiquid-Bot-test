@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T22:37:39.113747+00:00`
-- Market context score: `57.66`
+- Generated: `2026-05-23T22:52:14.122650+00:00`
+- Market context score: `58.92`
 - News risk score: `33.63`
 - Macro risk score: `21.14`
-- Risk-on score: `42.29`
+- Risk-on score: `45.09`
 - Articles: `44`
 - Polymarket markets: `400`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1492`
-- Day/swing latest: `2026-05-23T22:30:00+00:00`
+- Day/swing records: `1493`
+- Day/swing latest: `2026-05-23T22:45:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
-- [macro] This Chip Stock Soared 325%. Why One Investor Still Sold $89 Million Worth (Yahoo Finance)
+- [macro] Why a Biotech Fund Opened a New $6 Million Position in Vir Amid a 99% Stock Rally (Yahoo Finance)
+- [macro] 3 Top AI Stocks to Buy With $1,000 Right Now (Yahoo Finance)
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
 - [macro] Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz (BBC News)
-- [macro] A Modest Trim From Fairholme — Here's why JOE Is Still Worth a Look (Yahoo Finance)
 - [macro] Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points (Yahoo Finance)
 - [macro] Vertiv (VRT) Launches Vertiv PowerUPS 100 Standby Series in North America (Yahoo Finance)
 - [macro] Seagate (STX) Enters Exchange Agreements for $185.9M Senior Notes (Yahoo Finance)
