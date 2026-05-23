@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T08:22:16.174076+00:00`
+- Generated: `2026-05-23T08:37:19.669681+00:00`
 - Market context score: `56.53`
 - News risk score: `33.3`
 - Macro risk score: `24.17`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
 
-- Asset universe count: `748`
+- Asset universe count: `758`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
+- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1438`
-- Day/swing latest: `2026-05-23T08:15:00+00:00`
+- Day/swing records: `1439`
+- Day/swing latest: `2026-05-23T08:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Senegal's president sacks prime minister Sonko after months of tensions (BBC News)
 - [macro] Gaza flotilla activists allege abuse by Israeli forces while detained (BBC News)
 - [macro] Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
 - [crypto] $1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] SpaceX launches massive Starship V3 rocket on test flight (BBC News)
 - [macro] Moment SpaceX rocket explodes in the Indian Ocean after splashdown (BBC News)
 - [macro] More than 40,000 Californians evacuated due to chemical tank leak (BBC News)
-- [macro] One dead and dozens of firefighters injured in Staten Island shipyard explosion (BBC News)
