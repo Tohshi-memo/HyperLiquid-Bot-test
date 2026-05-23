@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-23T05:50:13.290428+00:00`
+- Generated: `2026-05-23T05:55:14.211146+00:00`
 - Flow alert score: `17.12`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `38374051.96`
+- Polymarket 24h volume: `38371619.65`
 - Polymarket volume z-score: `0.03`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4398157.838308003` | liquidity: `362240.9123`
-- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `3633075.889448996` | liquidity: `145817.69679`
-- Iran closes its airspace by May 24? | 24h volume: `2867503.117882001` | liquidity: `322134.57244`
-- Will the Iran ceasefire continue through May 22? | 24h volume: `2041779.201065001` | liquidity: `709776.72075`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4396535.164676003` | liquidity: `310797.7191`
+- US x Iran permanent peace deal by May 22, 2026? | 24h volume: `3616784.8575379965` | liquidity: `150747.18237`
+- Iran closes its airspace by May 24? | 24h volume: `2892315.7196450015` | liquidity: `303274.84585`
+- Will the Iran ceasefire continue through May 22? | 24h volume: `2059452.882231001` | liquidity: `782196.03223`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `1475038.503` | liquidity: `6584063.15389`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1334174.2437089994` | liquidity: `271394.84884`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `1166630.86844` | liquidity: `94192.8274`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1355026.9507019995` | liquidity: `297228.39491`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `1167108.23439` | liquidity: `88530.1904`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
