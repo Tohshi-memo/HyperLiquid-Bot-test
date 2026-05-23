@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T14:52:19.611228+00:00`
-- Market context score: `59.57`
-- News risk score: `33.11`
-- Macro risk score: `19.99`
-- Risk-on score: `45.66`
+- Generated: `2026-05-23T15:07:18.155021+00:00`
+- Market context score: `57.72`
+- News risk score: `32.77`
+- Macro risk score: `19.43`
+- Risk-on score: `41.05`
 - Articles: `44`
 - Polymarket markets: `398`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1463`
-- Day/swing latest: `2026-05-23T14:45:00+00:00`
+- Day/swing records: `1464`
+- Day/swing latest: `2026-05-23T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `34`, risk hits `4`, risk headline rate `0.1176`, policy hits `1`
+- macro: articles `34`, risk hits `4`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
-- [macro] Retailers look to bridge the K-shaped economy with dual playbooks of price cuts and premiumization (Yahoo Finance)
-- [macro] 2 Stocks I Plan to Hold for the Next 20 Years (Yahoo Finance)
-- [macro] French mum and partner held until trial after sons abandoned by road in Portugal (BBC News)
-- [crypto] Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
-- [crypto] Binance denies new WSJ report alleging $850M in Iran-linked transactions (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [commodity] Spirit's collapse, high fuel prices test limits of summer vacation spending (Energy)
-- [macro] Inheriting your late parent's 401(k) can trigger a 25% IRS penalty if you don't follow the withdrawal rules (Yahoo Finance)
-- [macro] A deleted disclosure in SpaceX's S-1 reveals the real economics of its AI infrastructure (Yahoo Finance)
+- [macro] Jim Cramer on Equinix: “It’s a Great Way to Play the Data Center” (Yahoo Finance)
+- [macro] Jim Cramer on Astera Labs: “I Say You Hold On” (Yahoo Finance)
+- [macro] Wall Street Stays Cautious on Snap Inc. (SNAP) After Earnings, Here’s Why (Yahoo Finance)
+- [macro] Apple Inc. (AAPL)’s Durable Growth Narrative Keeps Getting Stronger (Yahoo Finance)
+- [macro] SoFi Technologies, Inc. (SOFI): Solid Quarter, Softer Forecasts (Yahoo Finance)
+- [macro] Here’s Why Plug Power Inc. (PLUG) Is Among the Most Traded US Stocks (Yahoo Finance)
+- [macro] Why BofA Says to “Ignore the Noise” on NVIDIA Corporation (NVDA) (Yahoo Finance)
+- [macro] Is Intel Corporation (INTC) the Most Traded US Stocks So Far in 2026? (Yahoo Finance)
+- [macro] The Dividend ETF Bogleheads Won’t Stop Recommending — and Most Retirees Have Never Heard Their Advisor Say the Ticker (Yahoo Finance)
+- [macro] Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points (Yahoo Finance)
