@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T19:52:17.858934+00:00`
+- Generated: `2026-05-23T19:59:31.964204+00:00`
 - Market context score: `55.98`
 - News risk score: `39.16`
 - Macro risk score: `20.21`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Red Cross volunteers die from suspected Ebola in DR Congo (BBC News)
 - [macro] Iran 'getting a lot closer' to agreement with US, Trump says (BBC News)
 - [macro] 2 Hypergrowth AI Stocks to Buy and Hold for the Next Decade (Yahoo Finance)
 - [macro] Thousands evacuated in California over warning toxic chemical tank could explode or spill (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points (Yahoo Finance)
 - [crypto] Warsh will cut rates, despite consensus view of rate hikes: Analyst (Cointelegraph.com News)
 - [macro] Nascar champion Kyle Busch died of pneumonia and sepsis, family says (BBC News)
-- [macro] Red Cross volunteers die from suspected Ebola in DR Congo (BBC News)
