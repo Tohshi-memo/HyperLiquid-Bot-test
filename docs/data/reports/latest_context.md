@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T22:22:16.537723+00:00`
+- Generated: `2026-05-23T22:37:39.113747+00:00`
 - Market context score: `57.66`
 - News risk score: `33.63`
 - Macro risk score: `21.14`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1491`
-- Day/swing latest: `2026-05-23T22:15:00+00:00`
+- Day/swing records: `1492`
+- Day/swing latest: `2026-05-23T22:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] This Chip Stock Soared 325%. Why One Investor Still Sold $89 Million Worth (Yahoo Finance)
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
 - [macro] Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz (BBC News)
 - [macro] A Modest Trim From Fairholme — Here's why JOE Is Still Worth a Look (Yahoo Finance)
-- [macro] Is XLE the Right Fit for Your Portfolio Before Summer? (Yahoo Finance)
 - [macro] Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points (Yahoo Finance)
 - [macro] Vertiv (VRT) Launches Vertiv PowerUPS 100 Standby Series in North America (Yahoo Finance)
 - [macro] Seagate (STX) Enters Exchange Agreements for $185.9M Senior Notes (Yahoo Finance)
