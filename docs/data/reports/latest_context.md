@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T13:22:14.666217+00:00`
-- Market context score: `57.08`
-- News risk score: `38.51`
-- Macro risk score: `21.91`
-- Risk-on score: `45.41`
+- Generated: `2026-05-23T13:37:12.947869+00:00`
+- Market context score: `57.95`
+- News risk score: `37.65`
+- Macro risk score: `20.19`
+- Risk-on score: `45.98`
 - Articles: `41`
 - Polymarket markets: `397`
 
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1457`
-- Day/swing latest: `2026-05-23T13:15:00+00:00`
+- Day/swing records: `1458`
+- Day/swing latest: `2026-05-23T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `34`, risk hits `5`, risk headline rate `0.1176`, policy hits `6`
+- macro: articles `34`, risk hits `3`, risk headline rate `0.0882`, policy hits `5`
 
 ## Headlines
 
+- [macro] How $700,000 Spread Across Four Preferred Stock ETFs Generates $42,000 a Year Even When the Stock Market Stalls (Yahoo Finance)
 - [macro] Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
-- [macro] CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates (Yahoo Finance)
 - [crypto] Clarity Act could spark a boom in crypto ‘yield-as-a-service’ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Solar Stock Tops Buy Point (Yahoo Finance)
 - [macro] Why one woman bolted from ‘tax haven’ Florida, and others are leaving too (Yahoo Finance)
