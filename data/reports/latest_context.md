@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T16:22:19.801962+00:00`
-- Market context score: `59.22`
-- News risk score: `32.92`
-- Macro risk score: `19.22`
-- Risk-on score: `44.44`
-- Articles: `45`
+- Generated: `2026-05-23T16:29:26.873296+00:00`
+- Market context score: `58.69`
+- News risk score: `33.58`
+- Macro risk score: `18.67`
+- Risk-on score: `43.61`
+- Articles: `44`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,13 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `34`, risk hits `4`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
 - [commodity] U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports (Energy)
-- [macro] Every Analyst Is Watching the Wrong AI Stock. Here's the One That Actually Matters. (Yahoo Finance)
+- [macro] The Three-Circle Test: Why You Don’t Need to Be the CEO to Pick Winning Stocks (Yahoo Finance)
 - [macro] Why bonds may not save investors from the next market shock: Chart of the Day (Yahoo Finance)
 - [macro] Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points (Yahoo Finance)
 - [macro] Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market (Yahoo Finance)
