@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-23T13:25:16.099942+00:00`
-- Flow alert score: `18.88`
+- Generated: `2026-05-23T13:30:14.219295+00:00`
+- Flow alert score: `19.28`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `42845211.42`
-- Polymarket volume z-score: `0.47`
+- Polymarket 24h volume: `43834558.91`
+- Polymarket volume z-score: `0.57`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Iran closes its airspace by May 24? | 24h volume: `4853153.461818999` | liquidity: `129841.659`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4432188.0308759995` | liquidity: `594852.2698`
-- Will the Iran ceasefire continue through May 22? | 24h volume: `3887049.507402008` | liquidity: `1198952.82921`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1504703.5949999997` | liquidity: `6713268.0647`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `1356041.704539001` | liquidity: `260977.4878`
-- LoL: Team WE vs LNG Esports (BO5) - LPL Play-In | 24h volume: `1267496.6466150011` | liquidity: `364927.85086`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1198797.9537850018` | liquidity: `67049.9771`
+- Iran closes its airspace by May 24? | 24h volume: `4890841.412300998` | liquidity: `113912.36952`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4434292.710814` | liquidity: `594299.2513`
+- Will the Iran ceasefire continue through May 22? | 24h volume: `3892283.477671008` | liquidity: `1428714.11551`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1510446.5609999998` | liquidity: `6735137.28107`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `1352921.3341710009` | liquidity: `260762.7801`
+- LoL: Team WE vs LNG Esports (BO5) - LPL Play-In | 24h volume: `1267752.1701100012` | liquidity: `504243.57111`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1199267.7813700016` | liquidity: `65241.0742`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
