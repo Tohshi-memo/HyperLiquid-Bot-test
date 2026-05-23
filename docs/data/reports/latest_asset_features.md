@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-23T12:37:17.786332+00:00`
-- Observed: `2026-05-23T12:30:00+00:00`
+- Generated: `2026-05-23T12:52:18.004892+00:00`
+- Observed: `2026-05-23T12:45:00+00:00`
 - Assets: `758`
 
 ## Top Activity
@@ -20,11 +20,11 @@ Individual asset screen for drilling down from class-level signals.
 - `@113` unknown price `0.0002072` 4h `0.0` vol `0.0` relationship `market_context_high->@113_24h`
 - `@264` unknown price `206.0` 4h `0.0` vol `0.0` relationship `market_context_high->@264_24h`
 - `@78` unknown price `0.12886` 4h `0.0` vol `0.0` relationship `market_context_high->@78_24h`
-- `GMT` crypto_alt price `0.012455` 4h `-2.1679` vol `7161282.23` relationship `market_context_high->GMT_24h`
+- `GMT` crypto_alt price `0.012615` 4h `0.4139` vol `7487496.26` relationship `market_context_high->GMT_24h`
 - `@49` unknown price `0.000629` 4h `0.0` vol `0.0` relationship `market_context_high->@49_24h`
-- `@241` unknown price `0.000268` 4h `-26.9755` vol `0.0` relationship `market_context_high->@241_4h`
-- `@304` unknown price `0.00081` 4h `2.0151` vol `0.0` relationship `market_context_high->@304_24h`
+- `@304` unknown price `0.000809` 4h `1.8892` vol `0.0` relationship `market_context_high->@304_24h`
 - `@309` unknown price `1.0` 4h `0.0` vol `0.0` relationship `market_context_high->@309_24h`
-- `SAGA` crypto_alt price `0.01961` 4h `3.4828` vol `219866.79` relationship `market_context_high->SAGA_24h`
-- `GRASS` crypto_alt price `0.40908` 4h `4.6294` vol `4817205.94` relationship `market_context_high->GRASS_24h`
+- `@241` unknown price `0.000268` 4h `-26.9755` vol `0.0` relationship `market_context_high->@241_4h`
+- `SAGA` crypto_alt price `0.01966` 4h `2.7705` vol `219419.9` relationship `market_context_high->SAGA_24h`
+- `GRASS` crypto_alt price `0.41906` 4h `5.2941` vol `4780423.25` relationship `market_context_high->GRASS_24h`
 - `@121` unknown price `0.00504` 4h `0.0` vol `0.0` relationship `market_context_high->@121_24h`
