@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T04:37:12.594910+00:00`
-- Market context score: `46.89`
-- News risk score: `40.58`
-- Macro risk score: `29.63`
-- Risk-on score: `27.43`
-- Articles: `38`
+- Generated: `2026-05-23T04:52:17.390867+00:00`
+- Market context score: `46.24`
+- News risk score: `41.24`
+- Macro risk score: `30.93`
+- Risk-on score: `27.04`
+- Articles: `36`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1423`
-- Day/swing latest: `2026-05-23T04:30:00+00:00`
+- Day/swing records: `1424`
+- Day/swing latest: `2026-05-23T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `1`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `1`
 - policy: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
+- [macro] Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
 - [macro] Rubio visits India to sell energy as Iran oil shock persists (BBC News)
 - [macro] SpaceX launches massive Starship V3 rocket on test flight (BBC News)
 - [macro] Moment SpaceX rocket explodes in the Indian Ocean after splashdown (BBC News)
