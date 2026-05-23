@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T05:07:18.958033+00:00`
-- Market context score: `42.68`
-- News risk score: `43.16`
-- Macro risk score: `31.74`
-- Risk-on score: `21.07`
-- Articles: `34`
+- Generated: `2026-05-23T05:22:20.325999+00:00`
+- Market context score: `43.36`
+- News risk score: `43.22`
+- Macro risk score: `31.73`
+- Risk-on score: `22.62`
+- Articles: `35`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:386`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1425`
-- Day/swing latest: `2026-05-23T05:00:00+00:00`
+- Day/swing records: `1426`
+- Day/swing latest: `2026-05-23T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `3`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `1`
+- crypto: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `4`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `1`
 - policy: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] At least 82 dead in Chinese coal mine explosion, state media reports (BBC News)
+- [crypto] ‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor (Cointelegraph.com News)
 - [macro] Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
 - [macro] Rubio visits India to sell energy as Iran oil shock persists (BBC News)
 - [macro] SpaceX launches massive Starship V3 rocket on test flight (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Ethereum is still a good long-term buy, according data: Analyst (Cointelegraph.com News)
 - [macro] The space race to create gym equipment for future astronauts (BBC News)
 - [crypto] Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today (Cointelegraph.com News)
-- [macro] Race for French presidency sees ex-PM Philippe as early favourite to beat populists (BBC News)
-- [macro] 'Speed, money and compassion' - lessons from an Ebola survivor and other experts (BBC News)
