@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T17:52:32.106622+00:00`
-- Market context score: `57.05`
+- Generated: `2026-05-23T18:07:21.038963+00:00`
+- Market context score: `58.81`
 - News risk score: `34.55`
 - Macro risk score: `20.11`
-- Risk-on score: `41.34`
+- Risk-on score: `45.25`
 - Articles: `45`
 - Polymarket markets: `399`
 
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1474`
-- Day/swing latest: `2026-05-23T17:45:00+00:00`
+- Day/swing records: `1475`
+- Day/swing latest: `2026-05-23T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `35`, risk hits `7`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `35`, risk hits `5`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
-- [macro] 159-year-old whiskey brand fights for bankruptcy over liquidation (Yahoo Finance)
+- [macro] Working While Collecting Social Security? Here's What You Need to Know to Minimize Taxes. (Yahoo Finance)
 - [macro] Red Cross volunteers die from suspected Ebola in DR Congo (BBC News)
 - [commodity] U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports (Energy)
 - [macro] Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points (Yahoo Finance)
