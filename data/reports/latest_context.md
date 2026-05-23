@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T23:37:22.331826+00:00`
-- Market context score: `58.15`
+- Generated: `2026-05-23T23:52:15.698013+00:00`
+- Market context score: `56.95`
 - News risk score: `37.26`
 - Macro risk score: `17.41`
-- Risk-on score: `45.05`
+- Risk-on score: `42.38`
 - Articles: `46`
 - Polymarket markets: `400`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1496`
-- Day/swing latest: `2026-05-23T23:30:00+00:00`
+- Day/swing records: `1497`
+- Day/swing latest: `2026-05-23T23:45:00+00:00`
 
 ## News Categories
 
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
+- [macro] Wall Street Was Sleeping on the "Bits-to-Atoms" Trade. This Growth Stock Could Profit. (Yahoo Finance)
 - [macro] Here’s What Jim Cramer Had Said About NVIDIA (NVDA) Ahead Of Earnings (Yahoo Finance)
 - [macro] The TJX Companies (TJX) Is Great, Says Jim Cramer (Yahoo Finance)
 - [macro] Lowe’s (LOW) Isn’t as Bad as People Think, Says Jim Cramer (Yahoo Finance)
+- [macro] Here’s Why Jim Cramer Is Sad About Toll Brothers (TOL) (Yahoo Finance)
 - [macro] Jim Cramer Discusses Analog Devices’ (ADI) Market (Yahoo Finance)
 - [macro] Jim Cramer Discusses Texas Instruments’ (TXN) Market (Yahoo Finance)
 - [macro] Jim Cramer Continues Important Investigation For Adobe (ADBE) (Yahoo Finance)
 - [macro] Jim Cramer Discusses ServiceNow’s (NOW) Share Price Performance (Yahoo Finance)
-- [macro] Here’s What Jim Cramer Said About Intuit (INTU) Before The Stock’s Crash (Yahoo Finance)
-- [macro] Jim Cramer Shares Key Insight For Intel’s (INTC) Future (Yahoo Finance)
