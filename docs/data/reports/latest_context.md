@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T09:52:15.794302+00:00`
+- Generated: `2026-05-23T10:07:17.603168+00:00`
 - Market context score: `56.05`
 - News risk score: `38.79`
 - Macro risk score: `23.07`
 - Risk-on score: `43.81`
 - Articles: `20`
-- Polymarket markets: `397`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1444`
-- Day/swing latest: `2026-05-23T09:45:00+00:00`
+- Day/swing records: `1445`
+- Day/swing latest: `2026-05-23T10:00:00+00:00`
 
 ## News Categories
 
@@ -27,9 +27,9 @@
 
 ## Headlines
 
+- [macro] At least 90 killed in Chinese coal mine explosion, state media reports (BBC News)
 - [macro] Senegal's president sacks prime minister Sonko after months of tensions (BBC News)
 - [crypto] SEC approves Nasdaq to list Bitcoin index options on the exchange (Cointelegraph.com News)
-- [macro] At least 90 killed in Chinese coal mine explosion, state media reports (BBC News)
 - [macro] Gaza flotilla activists allege abuse by Israeli forces while detained (BBC News)
 - [macro] Putin vows retaliation after accusing Ukraine of hitting student dormitory (BBC News)
 - [crypto] $1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment (Cointelegraph.com News)
