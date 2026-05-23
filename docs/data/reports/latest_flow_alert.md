@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-23T10:50:15.399238+00:00`
+- Generated: `2026-05-23T10:55:17.617542+00:00`
 - Flow alert score: `18.36`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `41440743.7`
+- Polymarket 24h volume: `41402148.99`
 - Polymarket volume z-score: `0.34`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Iran closes its airspace by May 24? | 24h volume: `4510012.4453030005` | liquidity: `84367.30924`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4488389.434601003` | liquidity: `342506.8068`
-- Will the Iran ceasefire continue through May 22? | 24h volume: `3495854.0627150103` | liquidity: `971024.38819`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1466678.6549999996` | liquidity: `6718815.82635`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `1342650.7540130008` | liquidity: `123764.7161`
-- LoL: Team WE vs LNG Esports (BO5) - LPL Play-In | 24h volume: `1166633.7552020007` | liquidity: `732969.3889`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1155576.6716520013` | liquidity: `65093.0558`
+- Iran closes its airspace by May 24? | 24h volume: `4518818.012182999` | liquidity: `91975.60625`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4476130.927486002` | liquidity: `340142.8045`
+- Will the Iran ceasefire continue through May 22? | 24h volume: `3502675.676079011` | liquidity: `1009455.3642`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1465280.5729999996` | liquidity: `6718817.98965`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `1344459.173562001` | liquidity: `131780.319`
+- LoL: Team WE vs LNG Esports (BO5) - LPL Play-In | 24h volume: `1198001.4052020009` | liquidity: `653983.57972`
+- Will the Iranian regime fall by May 31? | 24h volume: `1182876.5382110009` | liquidity: `1478629.31584`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
