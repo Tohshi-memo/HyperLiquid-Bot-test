@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-23T12:52:18.004892+00:00`
-- Market context score: `51.89`
-- News risk score: `34.76`
-- Macro risk score: `27.24`
-- Risk-on score: `32.72`
-- Articles: `18`
+- Generated: `2026-05-23T13:07:16.714929+00:00`
+- Market context score: `58.19`
+- News risk score: `37.28`
+- Macro risk score: `19.58`
+- Risk-on score: `45.98`
+- Articles: `41`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1455`
-- Day/swing latest: `2026-05-23T12:45:00+00:00`
+- Day/swing records: `1456`
+- Day/swing latest: `2026-05-23T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `34`, risk hits `3`, risk headline rate `0.0882`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Clarity Act could spark a boom in crypto ‘yield-as-a-service’ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] The AI Stock That's Been Outperforming Nvidia Since January (Yahoo Finance)
+- [macro] These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Solar Stock Tops Buy Point (Yahoo Finance)
+- [macro] Why one woman bolted from ‘tax haven’ Florida, and others are leaving too (Yahoo Finance)
 - [macro] French pair held until trial after boys abandoned by road in Portugal (BBC News)
-- [macro] This AI Infrastructure Stock Is Up 570% in 1 Year. Is It Time to Take Profits or Buy More? (Yahoo Finance)
 - [macro] Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most (Economy)
-- [commodity] High fuel prices test limits of summer vacation spending (Energy)
-- [macro] Rubio meets Modi during India visit with energy high on agenda (BBC News)
-- [macro] Senegal's president sacks PM and former ally after months-long feud (BBC News)
-- [macro] At least 90 killed in Chinese coal mine explosion, state media reports (BBC News)
-- [macro] Jamie Dimon has bad news for JPMorgan bankers (Yahoo Finance)
-- [crypto] ECB pushes back on euro stablecoin proposals, citing financial stability risks (Cointelegraph.com News)
-- [crypto] Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Roth Capital Lifts PT on The Beachbody Company (BODI) Post Q1 (Yahoo Finance)
+- [macro] Lake Street Remains Bullish on Velo3D, Inc. (VELO) Post Q1 Results (Yahoo Finance)
+- [macro] Canaccord Lifts PT on Biodesix (BDSX) on Raised Revenue Assumptions (Yahoo Finance)
+- [macro] Baird Lifts PT on RideNow Group (RDNW), Cites Robust Same-Store Sales (Yahoo Finance)
