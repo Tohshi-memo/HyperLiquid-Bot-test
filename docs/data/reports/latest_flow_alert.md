@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-24T09:15:17.234517+00:00`
-- Flow alert score: `22.08`
+- Generated: `2026-05-24T09:20:17.674147+00:00`
+- Flow alert score: `22.16`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `54107290.69`
-- Polymarket volume z-score: `1.27`
+- Polymarket 24h volume: `54363059.76`
+- Polymarket volume z-score: `1.29`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `6619315.265543984` | liquidity: `139811.0261`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6367860.553208999` | liquidity: `291536.3746`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `6660443.351161985` | liquidity: `150868.2011`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6382379.299210001` | liquidity: `315012.3113`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `2938088.605642997` | liquidity: `240150.28264`
-- Will the Iran ceasefire continue through May 23? | 24h volume: `2379509.836443998` | liquidity: `397331.66463`
-- Will the Iranian regime fall by May 31? | 24h volume: `2358153.6532250005` | liquidity: `1311820.43815`
-- Iran closes its airspace by May 24? | 24h volume: `2022151.4612860007` | liquidity: `85566.51561`
-- Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs | 24h volume: `1822168.8761150006` | liquidity: `65581.2654`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `2950429.8530829973` | liquidity: `245535.3765`
+- Will the Iran ceasefire continue through May 23? | 24h volume: `2401614.1019469975` | liquidity: `375355.66823`
+- Will the Iranian regime fall by May 31? | 24h volume: `2347190.9412250007` | liquidity: `1297898.71057`
+- Iran closes its airspace by May 24? | 24h volume: `1909145.8593200005` | liquidity: `89945.76701`
+- Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs | 24h volume: `1885894.4972050008` | liquidity: `56799.2937`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
