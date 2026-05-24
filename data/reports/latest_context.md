@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T12:22:17.595372+00:00`
+- Generated: `2026-05-24T12:37:14.949936+00:00`
 - Market context score: `29.01`
 - News risk score: `59.85`
 - Macro risk score: `27.63`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1546`
-- Day/swing latest: `2026-05-24T12:15:00+00:00`
+- Day/swing records: `1547`
+- Day/swing latest: `2026-05-24T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Blast targeting train kills at least 20 in Pakistan (BBC News)
 - [macro] Large-scale Russian attack on Ukraine leaves four dead and dozens injured (BBC News)
 - [macro] People trapped under collapsed building in Philippines (BBC News)
 - [crypto] CFTC officials who questioned prediction markets were suspended: NYT (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [macro] BBC at the site of China's worst mining disaster in more than a decade (BBC News)
 - [macro] 'Shameful' more spent on benefits than jobs for young people, says Milburn (BBC News)
 - [crypto] Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job (Cointelegraph.com News)
-- [macro] Blast targeting train kills at least 20 in Pakistan (BBC News)
 - [crypto] Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair? (Cointelegraph.com News)
