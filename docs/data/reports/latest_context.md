@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T01:07:20.658377+00:00`
+- Generated: `2026-05-24T01:22:18.434961+00:00`
 - Market context score: `54.66`
 - News risk score: `32.77`
 - Macro risk score: `18.77`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1502`
-- Day/swing latest: `2026-05-24T01:00:00+00:00`
+- Day/swing records: `1503`
+- Day/swing latest: `2026-05-24T01:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz (BBC News)
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
 - [crypto] 70% of all crypto wrench attacks happen in France: Report (Cointelegraph.com News)
-- [macro] Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz (BBC News)
 - [crypto] Bitcoin heads higher as President Trump announces Iran peace agreement (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low (Cointelegraph.com News)
 - [macro] California declares state of emergency as fire crews race to contain toxic chemical leak (BBC News)
