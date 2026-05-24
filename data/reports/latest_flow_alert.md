@@ -1,15 +1,15 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-24T18:10:13.984217+00:00`
-- Flow alert score: `22.44`
+- Generated: `2026-05-24T18:15:15.447640+00:00`
+- Flow alert score: `22.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `56931941.67`
-- Polymarket volume z-score: `1.36`
+- Polymarket 24h volume: `55890761.26`
+- Polymarket volume z-score: `1.26`
 
 ## Top Polymarket Markets
 
@@ -20,6 +20,6 @@
 - Will the Iranian regime fall by May 31? | 24h volume: `2104381.7025830005` | liquidity: `1783222.68516`
 - Will Eric Trump win the 2028 US Presidential Election? | 24h volume: `1912683.6581089997` | liquidity: `1762675.17204`
 - Will the Iran ceasefire continue through May 23? | 24h volume: `1896194.9726050035` | liquidity: `129682.18845`
-- LoL: Weibo Gaming vs LGD Gaming (BO5) - LPL Play-In | 24h volume: `1324696.1387590014` | liquidity: `741016.82369`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1277792.8564660011` | liquidity: `121263.59716`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
