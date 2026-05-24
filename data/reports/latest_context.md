@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T21:52:15.952092+00:00`
-- Market context score: `53.97`
-- News risk score: `43.19`
-- Macro risk score: `29.09`
-- Risk-on score: `45.18`
-- Articles: `51`
+- Generated: `2026-05-24T22:07:16.929349+00:00`
+- Market context score: `58.89`
+- News risk score: `39.94`
+- Macro risk score: `22.49`
+- Risk-on score: `50.87`
+- Articles: `52`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1584`
-- Day/swing latest: `2026-05-24T21:45:00+00:00`
+- Day/swing records: `1585`
+- Day/swing latest: `2026-05-24T22:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `41`, risk hits `9`, risk headline rate `0.2195`, policy hits `11`
+- macro: articles `42`, risk hits `6`, risk headline rate `0.1429`, policy hits `3`
 
 ## Headlines
 
-- [macro] Accenture Partners with HUMAIN to Accelerate AI Adoption across Saudi Arabia (Yahoo Finance)
-- [macro] A Bitcoin Treasury Company Has a Doctor on Staff, But Why? (Yahoo Finance)
-- [macro] Barclays Raises Energy Transfer (ET) Price Target, Says Stock Remains Undervalued (Yahoo Finance)
-- [macro] Dow Jones Futures: Trump Says No 'Rush' For Iran Deal, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points (Yahoo Finance)
-- [macro] Google Just Shared Bad News for Nvidia, and Even Worse News For CoreWeave and Nebius (Yahoo Finance)
-- [macro] Could Upstart Stock Double in 5 Years? (Yahoo Finance)
-- [macro] Honeywell International Nears June 29 Split With 'All Green Lights,' Reaffirms Outlook (Yahoo Finance)
-- [macro] Morgan Stanley resets Walmart forecast on high inflation (Yahoo Finance)
-- [macro] She was told to marry in a country which bans girls' education. So she got in a taxi and fled (BBC News)
-- [macro] Ledn Sees $1 Trillion Market for Bitcoin-Backed Loans (Yahoo Finance)
+- [macro] Morgan Stanley Sees Utilities Lagging as it Lowers Southern Company (SO) Target (Yahoo Finance)
+- [macro] Dow Jones Futures: Trump Says No 'Rush' For Iran Deal; Tesla, AI Stocks Near Buy Points (Yahoo Finance)
+- [macro] The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom (Yahoo Finance)
+- [macro] Is The Cigna Group (CI) One of the Best Dividend Growth Stocks to Buy and Hold for 3 Years? (Yahoo Finance)
+- [macro] The TJX Companies (TJX) – Among the 10 Best Dividend Growth Stocks to Buy and Hold for 3 Years (Yahoo Finance)
+- [macro] Piper Sandler Sees Pressure on Tractor Supply (TSCO) from Weak Pet Spending Trends (Yahoo Finance)
+- [macro] Will Ethereum Ever Move Past $4,000 Again? (Yahoo Finance)
+- [macro] Argus Research Sees Long-Term Growth Ahead for Applied Materials (AMAT) (Yahoo Finance)
+- [macro] Telsey Advisory Group Says Lowe’s Continues to Execute Despite Housing Weakness (Yahoo Finance)
+- [macro] This Billionaire Dumped Cloud Stocks for These New AI Stocks. Should Investors Follow Suit? (Yahoo Finance)
