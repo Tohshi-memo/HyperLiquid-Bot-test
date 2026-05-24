@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T09:22:13.007097+00:00`
-- Market context score: `22.96`
-- News risk score: `71.5`
-- Macro risk score: `28.67`
+- Generated: `2026-05-24T09:37:18.541482+00:00`
+- Market context score: `23.41`
+- News risk score: `70.86`
+- Macro risk score: `27.41`
 - Risk-on score: `0`
-- Articles: `15`
+- Articles: `16`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1534`
-- Day/swing latest: `2026-05-24T09:15:00+00:00`
+- Day/swing records: `1535`
+- Day/swing latest: `2026-05-24T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `1`
-- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [macro] Suspect killed after opening fire on Secret Service near White House (BBC News)
 - [crypto] Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit (Cointelegraph.com News)
 - [macro] It's like the Olympics - except steroids are allowed (BBC News)
+- [macro] At least 82 killed in Chinese coal mine explosion (BBC News)
 - [macro] Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz (BBC News)
-- [macro] 'Six eggs used to be £1' - why everyday essentials cost so much more now (BBC News)
