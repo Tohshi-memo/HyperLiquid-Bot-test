@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T08:07:19.836489+00:00`
+- Generated: `2026-05-24T08:22:15.480072+00:00`
 - Market context score: `37.26`
 - News risk score: `47.42`
 - Macro risk score: `25.85`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1529`
-- Day/swing latest: `2026-05-24T08:00:00+00:00`
+- Day/swing records: `1530`
+- Day/swing latest: `2026-05-24T08:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
 - [macro] Four dead and dozens injured in wave of Russian strikes on Kyiv (BBC News)
 - [macro] Man killed in shark attack off Australia's north-east coast (BBC News)
-- [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
 - [macro] Suspect killed after opening fire on Secret Service near White House (BBC News)
 - [crypto] Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit (Cointelegraph.com News)
 - [macro] It's like the Olympics - except steroids are allowed (BBC News)
