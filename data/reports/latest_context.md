@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T10:22:19.065381+00:00`
-- Market context score: `29.02`
-- News risk score: `59.56`
-- Macro risk score: `27.32`
-- Risk-on score: `2.88`
-- Articles: `17`
+- Generated: `2026-05-24T10:37:17.285453+00:00`
+- Market context score: `29.56`
+- News risk score: `59.01`
+- Macro risk score: `26.25`
+- Risk-on score: `3.21`
+- Articles: `18`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1538`
-- Day/swing latest: `2026-05-24T10:15:00+00:00`
+- Day/swing records: `1539`
+- Day/swing latest: `2026-05-24T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
 
 ## Headlines
 
+- [macro] 'Shameful' more spent on benefits than jobs for young people, says Milburn (BBC News)
 - [macro] Large-scale Russian attack on Ukraine leaves four dead and dozens injured (BBC News)
 - [crypto] Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job (Cointelegraph.com News)
 - [macro] Blast targeting train kills at least 20 in Pakistan (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Suspect killed after opening fire on Secret Service near White House (BBC News)
 - [crypto] Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit (Cointelegraph.com News)
 - [macro] It's like the Olympics - except steroids are allowed (BBC News)
-- [macro] At least 82 killed in Chinese coal mine explosion (BBC News)
