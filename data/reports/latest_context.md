@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T22:15:16.403149+00:00`
-- Market context score: `58.89`
-- News risk score: `39.94`
-- Macro risk score: `22.49`
-- Risk-on score: `50.87`
-- Articles: `52`
+- Generated: `2026-05-24T22:22:16.127269+00:00`
+- Market context score: `57.79`
+- News risk score: `40.55`
+- Macro risk score: `24.2`
+- Risk-on score: `49.59`
+- Articles: `51`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,13 @@
 ## News Categories
 
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `42`, risk hits `6`, risk headline rate `0.1429`, policy hits `3`
+- macro: articles `41`, risk hits `7`, risk headline rate `0.1707`, policy hits `3`
 
 ## Headlines
 
 - [macro] Blast targeting train kills at least 20 in Pakistan (BBC News)
+- [macro] Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal (Yahoo Finance)
 - [macro] Morgan Stanley Sees Utilities Lagging as it Lowers Southern Company (SO) Target (Yahoo Finance)
-- [macro] Dow Jones Futures: Trump Says No 'Rush' For Iran Deal; Tesla, AI Stocks Near Buy Points (Yahoo Finance)
 - [macro] The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom (Yahoo Finance)
 - [macro] Is The Cigna Group (CI) One of the Best Dividend Growth Stocks to Buy and Hold for 3 Years? (Yahoo Finance)
 - [macro] The TJX Companies (TJX) – Among the 10 Best Dividend Growth Stocks to Buy and Hold for 3 Years (Yahoo Finance)
