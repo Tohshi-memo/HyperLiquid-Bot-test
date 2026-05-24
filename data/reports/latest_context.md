@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T09:37:18.541482+00:00`
+- Generated: `2026-05-24T09:45:32.781018+00:00`
 - Market context score: `23.41`
 - News risk score: `70.86`
 - Macro risk score: `27.41`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1535`
-- Day/swing latest: `2026-05-24T09:30:00+00:00`
+- Day/swing records: `1536`
+- Day/swing latest: `2026-05-24T09:45:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Large-scale Russian attack on Ukraine leaves four dead and dozens injured (BBC News)
 - [macro] Blast targeting train kills at least 20 in Pakistan (BBC News)
 - [crypto] Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair? (Cointelegraph.com News)
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
-- [macro] Large-scale Russian attack on Ukraine leaves four dead and dozens injured (BBC News)
 - [macro] Man killed in shark attack off Australia's north-east coast (BBC News)
 - [macro] Suspect killed after opening fire on Secret Service near White House (BBC News)
 - [crypto] Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit (Cointelegraph.com News)
