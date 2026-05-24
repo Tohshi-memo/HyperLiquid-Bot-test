@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-24T08:25:15.630485+00:00`
+- Generated: `2026-05-24T08:30:17.632401+00:00`
 - Flow alert score: `21.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `53015544.12`
+- Polymarket 24h volume: `53030303.66`
 - Polymarket volume z-score: `1.17`
 
 ## Top Polymarket Markets
@@ -19,7 +19,7 @@
 - Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `2885149.099862999` | liquidity: `226245.06058`
 - Iran closes its airspace by May 24? | 24h volume: `2453356.5575089976` | liquidity: `88269.9932`
 - Will the Iran ceasefire continue through May 23? | 24h volume: `2356160.969271997` | liquidity: `358098.94406`
-- Will the Iranian regime fall by May 31? | 24h volume: `2328059.423918001` | liquidity: `1280698.16912`
+- Will the Iranian regime fall by May 31? | 24h volume: `2324772.110586` | liquidity: `1301789.19641`
 - Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs | 24h volume: `1592042.2582519995` | liquidity: `84885.4632`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
