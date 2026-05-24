@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T23:30:37.433986+00:00`
-- Market context score: `52.23`
-- News risk score: `44.96`
-- Macro risk score: `34.89`
-- Risk-on score: `44.99`
-- Articles: `52`
+- Generated: `2026-05-24T23:37:16.854038+00:00`
+- Market context score: `52.9`
+- News risk score: `44.94`
+- Macro risk score: `34.36`
+- Risk-on score: `46.26`
+- Articles: `53`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -24,12 +24,13 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `1`
-- macro: articles `40`, risk hits `14`, risk headline rate `0.325`, policy hits `5`
+- macro: articles `41`, risk hits `14`, risk headline rate `0.3171`, policy hits `5`
 
 ## Headlines
 
 - [commodity] Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner' (Energy)
 - [macro] Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal (Yahoo Finance)
+- [macro] Indian billionaires buy foreign companies as growth slows at home (BBC News)
 - [macro] Better Health Care ETF: Fidelity's FHLC vs. State Street's XLV (Yahoo Finance)
 - [macro] Strategists Warn Yields to Stay High Even If Iran War Ends (Yahoo Finance)
 - [macro] 2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income? (Yahoo Finance)
 - [macro] T. Rowe Price Group (TROW) – Among the 10 High Yield Stocks for Lasting Retirement Income (Yahoo Finance)
 - [macro] Morgan Stanley Trims Edison International (EIX) Price Forecast After April Utility Review (Yahoo Finance)
-- [macro] Oil Tumbles, Stock Futures Rise Amid Hopes for Iran Deal (Yahoo Finance)
