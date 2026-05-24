@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T15:20:40.130528+00:00`
-- Market context score: `46.47`
-- News risk score: `50.92`
-- Macro risk score: `27.21`
-- Risk-on score: `34.33`
-- Articles: `39`
+- Generated: `2026-05-24T15:22:14.550901+00:00`
+- Market context score: `45.72`
+- News risk score: `51.65`
+- Macro risk score: `28.67`
+- Risk-on score: `33.82`
+- Articles: `40`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -24,16 +24,16 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `9`, risk hits `7`, risk headline rate `0.5556`, policy hits `1`
-- macro: articles `29`, risk hits `7`, risk headline rate `0.2069`, policy hits `6`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `6`
 
 ## Headlines
 
 - [crypto] Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens (Cointelegraph.com News)
 - [crypto] A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Did SpaceX’s $28.5 Trillion Bombshell Reveal Elon Musk’s Genius — or Peak Galaxy Brain? (Yahoo Finance)
 - [macro] Driven Brands Generated $1.9 Billion in Revenue. So Why Did an Investor Cut $4 Million? (Yahoo Finance)
 - [macro] Futu Stock Plunged 30% on Regulatory News. This Investor Was Already Out (Yahoo Finance)
 - [macro] Are the Bond Vigilantes Coming for the Stock Market? (Yahoo Finance)
+- [macro] Morgan Stanley Portfolio Manager: ‘I Don’t Think We’re Close’ to a Dot-Com Bubble (Yahoo Finance)
 - [macro] Michael Burry says the SEC's plan to trade stocks like crypto could create a nightmare for investors (Yahoo Finance)
 - [macro] One killed and many feared trapped under collapsed building in Philippines (BBC News)
 - [macro] Gavin Newsom's office urges drivers to avoid branded gas meant to 'rip you off' — but studies show it's worth the price (Yahoo Finance)
