@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T14:22:15.099746+00:00`
+- Generated: `2026-05-24T14:37:18.839968+00:00`
 - Market context score: `29.71`
 - News risk score: `58.57`
 - Macro risk score: `28.35`
 - Risk-on score: `3.96`
 - Articles: `20`
-- Polymarket markets: `399`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1554`
-- Day/swing latest: `2026-05-24T14:15:00+00:00`
+- Day/swing records: `1555`
+- Day/swing latest: `2026-05-24T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] One killed and many feared trapped under collapsed building in Philippines (BBC News)
 - [macro] Nascar champion Kyle Busch died of pneumonia and sepsis, family says (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] AI is speeding up the quantum threat to crypto, security experts warn (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Large-scale Russian attack on Ukraine leaves four dead and dozens injured (BBC News)
 - [crypto] Crypto rails are becoming the default payment layer for AI agents, report says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Blast targeting train kills at least 20 in Pakistan (BBC News)
-- [macro] People trapped under collapsed building in Philippines (BBC News)
 - [crypto] CFTC officials who questioned prediction markets were suspended: NYT (Cointelegraph.com News)
 - [macro] Bolivian minister's convoy ambushed while overseeing roadblock clearance (BBC News)
 - [macro] Red Cross volunteers die from suspected Ebola in DR Congo (BBC News)
