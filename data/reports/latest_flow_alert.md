@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-24T22:30:15.309260+00:00`
-- Flow alert score: `18.68`
+- Generated: `2026-05-24T22:35:16.813789+00:00`
+- Flow alert score: `18.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `47624533.15`
-- Polymarket volume z-score: `0.42`
+- Polymarket 24h volume: `46804733.16`
+- Polymarket volume z-score: `0.35`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `6999955.322313989` | liquidity: `217067.2261`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `6965626.050536989` | liquidity: `355356.9653`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `5267950.916662001` | liquidity: `220771.3387`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `2296215.6811099974` | liquidity: `515105.45287`
-- Will Eric Trump win the 2028 US Presidential Election? | 24h volume: `1912370.131107` | liquidity: `1762231.76573`
-- Roland Garros ATP: Giovanni Mpetshi Perricard vs Novak Djokovic | 24h volume: `1433435.858726001` | liquidity: `252012.8288`
-- US announces new Iran agreement/ceasefire extension by May 24? | 24h volume: `1370329.375541` | liquidity: `58417.64324`
-- Will the Iran ceasefire continue through May 23? | 24h volume: `1302884.650411002` | liquidity: `180093.20567`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `5249232.43763` | liquidity: `428752.9215`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `2297544.5766549977` | liquidity: `511059.13453`
+- Will Eric Trump win the 2028 US Presidential Election? | 24h volume: `1912041.1606069999` | liquidity: `1762246.04542`
+- Roland Garros ATP: Giovanni Mpetshi Perricard vs Novak Djokovic | 24h volume: `1435861.714019001` | liquidity: `241615.9613`
+- US announces new Iran agreement/ceasefire extension by May 24? | 24h volume: `1366667.2607299997` | liquidity: `58963.06985`
+- Dota 2: PARIVISION vs Aurora (BO5) - DreamLeague Playoffs | 24h volume: `1301908.5090940015` | liquidity: `855755.18048`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
