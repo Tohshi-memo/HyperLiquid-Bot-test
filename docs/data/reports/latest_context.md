@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T21:07:20.248596+00:00`
-- Market context score: `56.79`
-- News risk score: `42.0`
-- Macro risk score: `28.28`
-- Risk-on score: `50.12`
-- Articles: `48`
+- Generated: `2026-05-24T21:14:54.250220+00:00`
+- Market context score: `54.08`
+- News risk score: `41.88`
+- Macro risk score: `28.54`
+- Risk-on score: `44.09`
+- Articles: `52`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -22,18 +22,18 @@
 
 ## News Categories
 
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `38`, risk hits `8`, risk headline rate `0.2105`, policy hits `11`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `1`
+- macro: articles `41`, risk hits `9`, risk headline rate `0.2195`, policy hits `11`
 
 ## Headlines
 
+- [macro] Where Will Solana (SOL) Be in 5 Years? (Yahoo Finance)
+- [macro] She was told to marry in a country which bans girls' education. So she got in a taxi and fled (BBC News)
+- [macro] China Against Everybody: The New Geopolitics of Rare Earth Elements (Yahoo Finance)
+- [macro] Ledn Sees $1 Trillion Market for Bitcoin-Backed Loans (Yahoo Finance)
 - [macro] ‘He Knows the Flaws Because He Knows the Man’: Why Elon Musk’s OpenAI Attack Is Really About xAI (Yahoo Finance)
+- [crypto] Buterin fires back at Ethereum Foundation critics, recommits to neutrality (Cointelegraph.com News)
 - [macro] The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First (Yahoo Finance)
 - [macro] This Pet Stock Is Down 40% This Year Despite Growing Free Cash Flow by 24% in 2025 (Yahoo Finance)
 - [macro] Trump tells US negotiators 'not to rush' into deal with Iran (BBC News)
-- [macro] Walmart Stock Fell After Its Earnings Beat. Is the Post-Earnings Dip a Buying Opportunity? (Yahoo Finance)
-- [macro] Is XRP a Millionaire Maker? (Yahoo Finance)
 - [macro] Dow Jones Futures: Trump Says No 'Rush' For Iran Deal, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points (Yahoo Finance)
-- [crypto] Coinbase does not fear competition from Wall Street, says exchange executive (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Turkish riot police storm opposition offices after leaders ousted (BBC News)
-- [macro] California declares emergency as fire crews race to contain toxic leak (BBC News)
