@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T08:22:15.480072+00:00`
-- Market context score: `37.26`
-- News risk score: `47.42`
-- Macro risk score: `25.85`
-- Risk-on score: `10.38`
-- Articles: `17`
-- Polymarket markets: `399`
+- Generated: `2026-05-24T08:37:18.457009+00:00`
+- Market context score: `36.67`
+- News risk score: `48.0`
+- Macro risk score: `27.0`
+- Risk-on score: `10.0`
+- Articles: `16`
+- Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1530`
-- Day/swing latest: `2026-05-24T08:15:00+00:00`
+- Day/swing records: `1531`
+- Day/swing latest: `2026-05-24T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
-- [macro] Four dead and dozens injured in wave of Russian strikes on Kyiv (BBC News)
+- [macro] Large-scale Russian attack on Ukraine leaves four dead and dozens injured (BBC News)
 - [macro] Man killed in shark attack off Australia's north-east coast (BBC News)
 - [macro] Suspect killed after opening fire on Secret Service near White House (BBC News)
 - [crypto] Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit (Cointelegraph.com News)
