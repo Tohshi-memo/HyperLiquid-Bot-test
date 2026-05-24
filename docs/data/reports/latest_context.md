@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T03:37:20.979805+00:00`
+- Generated: `2026-05-24T03:52:16.513063+00:00`
 - Market context score: `42.12`
 - News risk score: `41.45`
 - Macro risk score: `22.62`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1512`
-- Day/swing latest: `2026-05-24T03:30:00+00:00`
+- Day/swing records: `1513`
+- Day/swing latest: `2026-05-24T03:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] At least 82 killed in Chinese coal mine explosion (BBC News)
 - [macro] Suspect killed after opening fire on Secret Service near White House (BBC News)
+- [macro] At least 82 killed in Chinese coal mine explosion (BBC News)
 - [macro] Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz (BBC News)
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
 - [macro] East Africa wants to curb imports of used clothes. But it's not easy (BBC News)
