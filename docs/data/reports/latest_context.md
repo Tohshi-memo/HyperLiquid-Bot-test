@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T04:45:03.691028+00:00`
+- Generated: `2026-05-24T04:52:19.556284+00:00`
 - Market context score: `42.12`
 - News risk score: `41.45`
 - Macro risk score: `22.62`
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] It's like the Olympics - except steroids are allowed (BBC News)
 - [macro] Suspect killed after opening fire on Secret Service near White House (BBC News)
 - [macro] At least 82 killed in Chinese coal mine explosion (BBC News)
 - [macro] Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz (BBC News)
 - [commodity] Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon (Energy)
 - [macro] East Africa wants to curb imports of used clothes. But it's not easy (BBC News)
-- [macro] It's like the Olympics - except steroids are allowed (BBC News)
 - [macro] In Japan, divorce splits parents from children. Could a law change end sole custody? (BBC News)
 - [macro] Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate (BBC News)
 - [macro] I survived a missile strike in the Strait of Hormuz, but my friend has not been found (BBC News)
