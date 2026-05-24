@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-24T14:19:04.314203+00:00`
+- Generated: `2026-05-24T14:20:18.942976+00:00`
 - Flow alert score: `22.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `55008922.92`
+- Polymarket 24h volume: `54920012.25`
 - Polymarket volume z-score: `1.25`
 
 ## Top Polymarket Markets
@@ -18,8 +18,8 @@
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
 - Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `3184526.3706009975` | liquidity: `306884.79405`
 - Will the Iran ceasefire continue through May 23? | 24h volume: `2361951.970963` | liquidity: `207715.02239`
-- Will the Iranian regime fall by May 31? | 24h volume: `2328818.3559379997` | liquidity: `1355366.50803`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1488191.8899290008` | liquidity: `114688.61613`
+- Will the Iranian regime fall by May 31? | 24h volume: `2329355.805938` | liquidity: `1355168.72294`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1450896.4191220002` | liquidity: `122223.86354`
 - US x Iran permanent peace deal by June 30, 2026? | 24h volume: `1223854.115327002` | liquidity: `179527.3143`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
