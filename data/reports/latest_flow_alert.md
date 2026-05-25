@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-25T09:10:17.122438+00:00`
+- Generated: `2026-05-25T09:15:16.106802+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `39940502.55`
-- Polymarket volume z-score: `-0.35`
+- Polymarket 24h volume: `39508765.04`
+- Polymarket volume z-score: `-0.39`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `5197747.652867006` | liquidity: `445994.5656`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3848835.6867979914` | liquidity: `474153.4047`
-- Will Eric Trump win the 2028 US Presidential Election? | 24h volume: `1943858.8018580014` | liquidity: `1752777.61222`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1817436.1616609984` | liquidity: `322674.99307`
-- Roland Garros ATP: Luca Van Assche vs Patrick Kypson | 24h volume: `1745360.1462710034` | liquidity: `991403.0161`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1582201.8872530004` | liquidity: `454708.27495`
-- Iran closes its airspace by May 24? | 24h volume: `1214273.5897759993` | liquidity: `145541.00726`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `4761973.930507997` | liquidity: `550052.4685`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3816309.100501991` | liquidity: `409456.6304`
+- Will Eric Trump win the 2028 US Presidential Election? | 24h volume: `1944772.2475250016` | liquidity: `1751744.48026`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1816674.8348269982` | liquidity: `278072.47681`
+- Roland Garros ATP: Luca Van Assche vs Patrick Kypson | 24h volume: `1754923.443310004` | liquidity: `987848.0631`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1525474.455603` | liquidity: `449291.01924`
+- Iran closes its airspace by May 24? | 24h volume: `1217857.0205369992` | liquidity: `164386.35897`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
