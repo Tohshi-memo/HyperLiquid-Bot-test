@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T19:07:19.861134+00:00`
-- Market context score: `45.74`
-- News risk score: `40.7`
-- Macro risk score: `35.66`
-- Risk-on score: `27.26`
-- Articles: `43`
+- Generated: `2026-05-25T19:22:16.052483+00:00`
+- Market context score: `46.74`
+- News risk score: `39.12`
+- Macro risk score: `35.69`
+- Risk-on score: `28.16`
+- Articles: `42`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:405`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1667`
-- Day/swing latest: `2026-05-25T19:00:00+00:00`
+- Day/swing records: `1668`
+- Day/swing latest: `2026-05-25T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `2`
+- crypto: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `2`
 - macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] UAE-linked ADI Chain gains Ledger support amid stablecoin growth (Cointelegraph.com News)
 - [macro] Watch: Only world record broken at Enhanced Games won't be recognised (BBC News)
 - [crypto] Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers (Cointelegraph.com News)
 - [macro] Russia threatens more Kyiv strikes and tells foreign nationals to leave (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] White House gunman had previous run-ins with Secret Service, court documents show (BBC News)
 - [crypto] CoinQuant introduces trading infrastructure for the agent economy (Cointelegraph.com News)
-- [crypto] Squid and Safe Labs say third-party module behind $3.2M exploit (Cointelegraph.com News)
