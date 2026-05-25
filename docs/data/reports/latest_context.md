@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T04:37:14.123120+00:00`
+- Generated: `2026-05-25T04:52:22.146420+00:00`
 - Market context score: `57.09`
 - News risk score: `34.98`
 - Macro risk score: `30.73`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:397`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1611`
-- Day/swing latest: `2026-05-25T04:30:00+00:00`
+- Day/swing records: `1612`
+- Day/swing latest: `2026-05-25T04:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Large-scale Russian attack on Ukraine leaves four dead and dozens injured (BBC News)
 - [macro] Trump tells US negotiators 'not to rush' into deal with Iran (BBC News)
 - [crypto] SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report (Cointelegraph.com News)
 - [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Beer boom goes flat as breweries call last orders (BBC News)
 - [commodity] Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner' (Energy)
 - [macro] Morocco wants tourists to visit Western Sahara. Some say it's tightening its control (BBC News)
-- [macro] Indian billionaires buy foreign companies as growth slows at home (BBC News)
