@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T07:52:19.243793+00:00`
-- Market context score: `47.54`
-- News risk score: `43.17`
+- Generated: `2026-05-25T08:07:21.236990+00:00`
+- Market context score: `46.52`
+- News risk score: `44.67`
 - Macro risk score: `35.33`
-- Risk-on score: `33.22`
-- Articles: `28`
+- Risk-on score: `32.22`
+- Articles: `27`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:397`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1623`
-- Day/swing latest: `2026-05-25T07:45:00+00:00`
+- Day/swing records: `1624`
+- Day/swing latest: `2026-05-25T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
+- crypto: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner' (Energy)
 - [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
 - [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
 - [crypto] Bitcoin trades above $77,000 as oil's 5% slide pushes Asian equities higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] ‘TrapDoor’ malware targets crypto dev tools in supply chain attack (Cointelegraph.com News)
 - [macro] 'I don't think I'll ever be able to retire' (BBC News)
 - [crypto] Bitcoin options are coming to Nasdaq. Here's what it means for you. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] ‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report (Cointelegraph.com News)
