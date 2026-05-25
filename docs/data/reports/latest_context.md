@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T15:37:20.036671+00:00`
-- Market context score: `51.17`
-- News risk score: `44.95`
-- Macro risk score: `26.73`
-- Risk-on score: `39.56`
+- Generated: `2026-05-25T15:52:17.023255+00:00`
+- Market context score: `52.0`
+- News risk score: `45.09`
+- Macro risk score: `30.56`
+- Risk-on score: `42.95`
 - Articles: `69`
 - Polymarket markets: `396`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:405`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1653`
-- Day/swing latest: `2026-05-25T15:30:00+00:00`
+- Day/swing records: `1654`
+- Day/swing latest: `2026-05-25T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `2`
-- macro: articles `41`, risk hits `7`, risk headline rate `0.1707`, policy hits `5`
+- crypto: articles `26`, risk hits `7`, risk headline rate `0.2308`, policy hits `2`
+- macro: articles `41`, risk hits `10`, risk headline rate `0.2439`, policy hits `4`
 
 ## Headlines
 
-- [macro] What a $1 Million Dividend Portfolio Actually Pays After Federal AND State Taxes in California (Yahoo Finance)
+- [crypto] Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What Is the Best Way to Own Gold in 2026? (Yahoo Finance)
+- [macro] The 5-Day Trap: How Missing Less Than a Week Wiped Out $154,000 (Yahoo Finance)
+- [macro] Hedge Fund Adds to RXO Position, According to Recent SEC Filing (Yahoo Finance)
+- [macro] Why AGNC Investment's Net Interest Spread Matters More Than Its 14% Dividend Yield (Yahoo Finance)
+- [macro] 3 High-Yield Pipeline Stocks to Buy Now and Hold Forever (Yahoo Finance)
 - [macro] Middle East Conflict Lifted Canadian Natural Resources Limited (CNQ) (Yahoo Finance)
-- [macro] This AI shift is starting to replace a key business function (Yahoo Finance)
-- [macro] S&P 500 Dividends Just Hit an All-Time Low Going Back to the 1800s — Here’s What Retirees Need to Know (Yahoo Finance)
-- [macro] BlackRock Sells $1B Bitcoin as BTC ETFs Hit 6 Day Losing Streak — What Is Happening? (Yahoo Finance)
 - [macro] Market Insights on Merlin Labs (MRLN) (Yahoo Finance)
 - [macro] AST SpaceMobile (ASTS) Gains on Market Approval (Yahoo Finance)
-- [macro] Gain Exposure to Innovative AI Chipmaker Cerebras With Less Risk Through These ETFs (Yahoo Finance)
 - [macro] Crossroads Capital Investment’s Thesis for Nebius Group (NBIS) is Paying Off (Yahoo Finance)
-- [macro] Crossroads Capital Investment Maintains a Constructive Outlook on FTAI Aviation (FTAI) (Yahoo Finance)
