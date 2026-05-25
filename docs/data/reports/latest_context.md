@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T09:37:17.696712+00:00`
-- Market context score: `52.92`
-- News risk score: `44.19`
-- Macro risk score: `37.38`
-- Risk-on score: `46.82`
+- Generated: `2026-05-25T09:52:24.143643+00:00`
+- Market context score: `53.85`
+- News risk score: `41.88`
+- Macro risk score: `32.77`
+- Risk-on score: `45.19`
 - Articles: `36`
 - Polymarket markets: `397`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:397`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1630`
-- Day/swing latest: `2026-05-25T09:30:00+00:00`
+- Day/swing records: `1631`
+- Day/swing latest: `2026-05-25T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `24`, risk hits `9`, risk headline rate `0.375`, policy hits `0`
+- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `0`
 
 ## Headlines
 
-- [macro] Timing is Key: The Best Month to Claim Social Security (Yahoo Finance)
-- [macro] Most of us retire earlier than planned. Here are the top reasons (Yahoo Finance)
-- [macro] Here Are My Top 3 High-Yield Dividend Stocks to Buy Now (Yahoo Finance)
+- [macro] Deal with US not imminent, Iran says (BBC News)
+- [macro] 80 Billion Reasons to Buy Nvidia After Its Monster Earnings Report (Yahoo Finance)
+- [macro] How Do I Buy an XRP (Ripple) ETF for Beginners? (Yahoo Finance)
+- [macro] Stablecoins Are Private Money. That’s Why They’re a Risk to the Economy. (Yahoo Finance)
+- [macro] The Apartment Megamerger That Shows Landlords Are in Trouble (Yahoo Finance)
+- [macro] Oil Slides as Ships Move Toward Hormuz (Yahoo Finance)
 - [macro] Stocks rally, while oil and dollar ease on Middle East peace hopes (Yahoo Finance)
-- [macro] Bond traders surrender to inflation fears, raising stakes for Washington (Yahoo Finance)
-- [macro] Internet Computer Beats Solana and BNB Chain in 30-Day Activity Race (Yahoo Finance)
 - [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
 - [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
-- [macro] Rubio says 'solid' Iran deal may come on Monday (BBC News)
 - [macro] India turns to Latin American, African oil after Hormuz disruption (Yahoo Finance)
