@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-25T21:15:16.512723+00:00`
+- Generated: `2026-05-25T21:19:38.405352+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `38811455.01`
-- Polymarket volume z-score: `-0.47`
+- Polymarket 24h volume: `38944384.08`
+- Polymarket volume z-score: `-0.46`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `5061285.212316998` | liquidity: `325326.6126`
-- LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | 24h volume: `3286775.724042997` | liquidity: `639574.51708`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3044576.384468997` | liquidity: `479928.4688`
-- Iran closes its airspace by May 24? | 24h volume: `1835704.5812939992` | liquidity: `309409.26843`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1737334.8049759972` | liquidity: `672923.77481`
-- Will the Iran ceasefire continue through May 25? | 24h volume: `1051544.6144899994` | liquidity: `51672.61981`
-- Roland Garros WTA: Elina Svitolina vs Anna Bondar | 24h volume: `973341.2890600028` | liquidity: `532971.45176`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `5091740.784901999` | liquidity: `303353.7867`
+- LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | 24h volume: `3287164.5640429975` | liquidity: `630544.04659`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2966539.749025996` | liquidity: `480905.954`
+- Iran closes its airspace by May 24? | 24h volume: `1840651.8215119995` | liquidity: `302844.70648`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1768539.4049759973` | liquidity: `637963.43214`
+- Will the Iran ceasefire continue through May 25? | 24h volume: `1112863.7158039992` | liquidity: `58049.10273`
+- Roland Garros ATP: Hugo Gaston vs Gael Monfils | 24h volume: `983366.1561950007` | liquidity: `62467.0108`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
