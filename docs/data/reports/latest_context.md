@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T08:07:21.236990+00:00`
-- Market context score: `46.52`
-- News risk score: `44.67`
+- Generated: `2026-05-25T08:22:16.848414+00:00`
+- Market context score: `48.37`
+- News risk score: `41.94`
 - Macro risk score: `35.33`
-- Risk-on score: `32.22`
-- Articles: `27`
+- Risk-on score: `34.04`
+- Articles: `29`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:397`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1624`
-- Day/swing latest: `2026-05-25T08:00:00+00:00`
+- Day/swing records: `1625`
+- Day/swing latest: `2026-05-25T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
 - macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner' (Energy)
 - [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
 - [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
+- [crypto] Crypto entrepreneur Chun Wang joins SpaceX mission to Mars (Cointelegraph.com News)
 - [crypto] Bitcoin trades above $77,000 as oil's 5% slide pushes Asian equities higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026 (Cointelegraph.com News)
 - [macro] Rubio says 'solid' Iran deal may come on Monday (BBC News)
 - [commodity] Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie (Energy)
 - [crypto] ‘TrapDoor’ malware targets crypto dev tools in supply chain attack (Cointelegraph.com News)
-- [macro] 'I don't think I'll ever be able to retire' (BBC News)
-- [crypto] Bitcoin options are coming to Nasdaq. Here's what it means for you. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
