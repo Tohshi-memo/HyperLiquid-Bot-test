@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T17:37:17.432105+00:00`
-- Market context score: `44.3`
+- Generated: `2026-05-25T17:52:14.795444+00:00`
+- Market context score: `47.73`
 - News risk score: `44.27`
 - Macro risk score: `27.33`
-- Risk-on score: `23.93`
+- Risk-on score: `31.55`
 - Articles: `76`
 - Polymarket markets: `396`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:405`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1661`
-- Day/swing latest: `2026-05-25T17:30:00+00:00`
+- Day/swing records: `1662`
+- Day/swing latest: `2026-05-25T17:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,9 @@
 
 ## Headlines
 
+- [macro] Russia threatens more Kyiv strikes and tells foreign nationals to leave (BBC News)
+- [crypto] NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Missed Out on the Initial AI Rally? These 3 AI Stocks Are Just Getting Started. (Yahoo Finance)
 - [macro] Casey’s (CASY) General Appears To Be A Hidden Jim Cramer Gem (Yahoo Finance)
 - [macro] Jim Cramer Shows How Dollar General (DG) & The Iran War Are Related (Yahoo Finance)
 - [macro] Jim Cramer Discusses Hasbro (HAS) Stock (Yahoo Finance)
@@ -35,6 +38,3 @@
 - [macro] Jim Cramer Shares Tip For Nike (NKE) To Turnaround (Yahoo Finance)
 - [macro] Jim Cramer Discusses V.F. Corp (VFC) (Yahoo Finance)
 - [macro] Jim Cramer Reveals Why International Business Machines (IBM) Should Be Doing Better (Yahoo Finance)
-- [macro] Jim Cramer Shares Why He’s Happy About Palo Alto (PANW) (Yahoo Finance)
-- [macro] Jim Cramer Makes Big Claim About CrowdStrike (CRWD) (Yahoo Finance)
-- [macro] Jim Cramer Discusses “Silly” Thing About Arm Holdings (ARM) (Yahoo Finance)
