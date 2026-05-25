@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-24T23:52:16.372614+00:00`
+- Generated: `2026-05-25T00:07:19.743779+00:00`
 - Market context score: `53.89`
 - News risk score: `41.46`
 - Macro risk score: `34.94`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:396`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1592`
-- Day/swing latest: `2026-05-24T23:45:00+00:00`
+- Day/swing records: `1593`
+- Day/swing latest: `2026-05-25T00:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Oil prices slide on hopes of US-Iran deal (BBC News)
 - [macro] Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal (Yahoo Finance)
+- [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
 - [commodity] Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner' (Energy)
 - [macro] Indian billionaires buy foreign companies as growth slows at home (BBC News)
 - [macro] Better Health Care ETF: Fidelity's FHLC vs. State Street's XLV (Yahoo Finance)
