@@ -1,15 +1,15 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-25T00:35:18.989137+00:00`
-- Flow alert score: `18.04`
+- Generated: `2026-05-25T00:40:25.424456+00:00`
+- Flow alert score: `18.08`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `46085435.82`
-- Polymarket volume z-score: `0.26`
+- Polymarket 24h volume: `46164682.82`
+- Polymarket volume z-score: `0.27`
 
 ## Top Polymarket Markets
 
@@ -20,6 +20,6 @@
 - Will Eric Trump win the 2028 US Presidential Election? | 24h volume: `1912264.473105` | liquidity: `1762007.39217`
 - Roland Garros ATP: Giovanni Mpetshi Perricard vs Novak Djokovic | 24h volume: `1463443.763573001` | liquidity: `587642.07396`
 - US announces new Iran agreement/ceasefire extension by May 24? | 24h volume: `1339707.7865970002` | liquidity: `89887.2229`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1315890.217502` | liquidity: `157009.5394`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1316722.5079830003` | liquidity: `165396.2757`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
