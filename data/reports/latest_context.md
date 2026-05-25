@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T12:52:19.292546+00:00`
-- Market context score: `37.94`
-- News risk score: `51.27`
-- Macro risk score: `35.97`
-- Risk-on score: `18.97`
-- Articles: `52`
+- Generated: `2026-05-25T13:07:17.293633+00:00`
+- Market context score: `38.28`
+- News risk score: `51.47`
+- Macro risk score: `36.0`
+- Risk-on score: `19.92`
+- Articles: `57`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:405`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1642`
-- Day/swing latest: `2026-05-25T12:45:00+00:00`
+- Day/swing records: `1643`
+- Day/swing latest: `2026-05-25T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `35`, risk hits `11`, risk headline rate `0.3143`, policy hits `11`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `1`
+- macro: articles `39`, risk hits `12`, risk headline rate `0.3077`, policy hits `12`
 
 ## Headlines
 
+- [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
+- [macro] Oil prices slide on hopes of US-Iran peace deal (BBC News)
+- [crypto] PCE, jobless claims and housing data test Fed cut hopes: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What Gives Curtiss-Wright Corp. (CW) a Strategic Position in Geopolitical Tension? (Yahoo Finance)
+- [macro] RXO Inc. (RXO) Prospects ‘Look Rosy,’ Shares Soar 30.4% (Yahoo Finance)
 - [macro] S&P 500 Other Than AI Infrastructure Is Growing at 0%. Lance Roberts Warns What Happens if the AI Boom Stumbles. (Yahoo Finance)
 - [macro] Trap!? PFFA’s 9.6 Percent Preferred Yield Hides Up to 33 Percent Borrowed Leverage Most Income Investors Never See (Yahoo Finance)
 - [macro] Pension Funds Pile Billions Into This Treasury ETF Every Quarter. Retail Retirees Barely Know It Exists. (Yahoo Finance)
-- [macro] The $10,000 Growth in Your 529 Plan Becomes $6,200 After Taxes and Penalties if You Withdraw Early (Yahoo Finance)
-- [macro] ‘It’s Redneck Envy’: Dave Ramsey Defends Billionaires’ Yachts With Ratio Logic (Yahoo Finance)
-- [macro] This former top Biden and Obama economic official is worried about the speed of AI (Yahoo Finance)
-- [macro] Bitcoin and ethereum prices today, Monday, May 25, 2026: Down from last week, but rising this morning (Yahoo Finance)
-- [macro] Dollar drifts lower as oil falls on Hormuz deal optimism (Yahoo Finance)
-- [macro] Stocks jump, while oil and dollar ease on Middle East peace hopes (Yahoo Finance)
-- [crypto] BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week (Cointelegraph.com News)
+- [macro] GlobalFoundries’ (GFS) Robust Results Validated the Inflection in Growth and Margins (Yahoo Finance)
+- [macro] Voyager (VOYG) Unit Earns Capital Backing for LEO Expansion, Soars 30% (Yahoo Finance)
