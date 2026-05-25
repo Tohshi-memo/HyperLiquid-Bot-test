@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-25T18:07:17.693600+00:00`
-- Market context score: `47.31`
-- News risk score: `44.8`
-- Macro risk score: `27.68`
-- Risk-on score: `31.2`
-- Articles: `74`
+- Generated: `2026-05-25T18:14:55.811229+00:00`
+- Market context score: `42.41`
+- News risk score: `42.03`
+- Macro risk score: `35.61`
+- Risk-on score: `20.97`
+- Articles: `45`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `8`, risk headline rate `0.2414`, policy hits `2`
-- macro: articles `43`, risk hits `9`, risk headline rate `0.2093`, policy hits `1`
+- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
-- [macro] JPMorgan resets HPQ stock price target ahead of earnings (Yahoo Finance)
+- [crypto] Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers (Cointelegraph.com News)
 - [macro] Russia threatens more Kyiv strikes and tells foreign nationals to leave (BBC News)
 - [crypto] NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Missed Out on the Initial AI Rally? These 3 AI Stocks Are Just Getting Started. (Yahoo Finance)
-- [macro] Casey’s (CASY) General Appears To Be A Hidden Jim Cramer Gem (Yahoo Finance)
-- [macro] Jim Cramer Shows How Dollar General (DG) & The Iran War Are Related (Yahoo Finance)
-- [macro] Jim Cramer Discusses Hasbro (HAS) Stock (Yahoo Finance)
-- [macro] Jim Cramer Shares Unsurprising Take On Costco (COST) (Yahoo Finance)
-- [macro] Jim Cramer Shares Tip For Nike (NKE) To Turnaround (Yahoo Finance)
-- [macro] Jim Cramer Discusses V.F. Corp (VFC) (Yahoo Finance)
+- [crypto] Indonesia blocks Polymarket, calling prediction market online gambling in disguise (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin, crypto prices tick up as US-Iran peace deal odds climb (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] White House gunman had previous run-ins with Secret Service, court documents show (BBC News)
+- [crypto] CoinQuant introduces trading infrastructure for the agent economy (Cointelegraph.com News)
+- [crypto] Squid and Safe Labs say third-party module behind $3.2M exploit (Cointelegraph.com News)
+- [macro] 'Blistering heat': Indians warned to stay indoors as temperatures soar (BBC News)
