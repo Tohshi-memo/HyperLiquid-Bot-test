@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T01:52:17.068731+00:00`
+- Generated: `2026-05-26T02:07:15.732352+00:00`
 - Market context score: `54.1`
 - News risk score: `36.0`
 - Macro risk score: `36.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:407`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1694`
-- Day/swing latest: `2026-05-26T01:45:00+00:00`
+- Day/swing records: `1695`
+- Day/swing latest: `2026-05-26T02:00:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects (Energy)
 - [macro] Netanyahu says Israel will intensify strikes against Hezbollah (BBC News)
 - [macro] Social media as bad for young people as smoking, top doctors say (BBC News)
-- [commodity] Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects (Energy)
 - [macro] US military says it has launched new strikes on southern Iran (BBC News)
 - [crypto] Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next? (Cointelegraph.com News)
 - [macro] Next boss warns of 'dramatic' fall in entry-level jobs (BBC News)
