@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-26T07:37:16.356099+00:00`
-- Observed: `2026-05-26T07:30:00+00:00`
+- Generated: `2026-05-26T07:52:16.967248+00:00`
+- Observed: `2026-05-26T07:45:00+00:00`
 - Assets: `779`
 
 ## Top Activity
@@ -19,12 +19,12 @@ Individual asset screen for drilling down from class-level signals.
 - `@176` unknown price `0.000977` 4h `0.0` vol `0.0` relationship `market_context_high->@176_4h`
 - `@160` unknown price `0.001611` 4h `0.0` vol `0.0` relationship `market_context_high->@160_24h`
 - `@138` unknown price `0.0005133` 4h `0.0` vol `0.0` relationship `market_context_high->@138_24h`
-- `PURR` crypto_alt price `0.101255` 4h `5.5839` vol `3981243.14` relationship `market_context_high->PURR_4h`
+- `PURR` crypto_alt price `0.10138` 4h `5.6955` vol `3992744.27` relationship `market_context_high->PURR_4h`
 - `@163` unknown price `0.011026` 4h `0.0` vol `0.0` relationship `market_context_high->@163_24h`
-- `PURR/USDC` crypto_alt price `0.10133` 4h `5.4401` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
-- `GRASS` crypto_alt price `0.56887` 4h `-2.1248` vol `5962274.14` relationship `market_context_high->GRASS_24h`
-- `@132` unknown price `0.001747` 4h `0.0` vol `0.0` relationship `market_context_high->@132_4h`
+- `PURR/USDC` crypto_alt price `0.10152` 4h `5.3757` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
+- `GRASS` crypto_alt price `0.56979` 4h `-1.1485` vol `5993811.95` relationship `market_context_high->GRASS_24h`
+- `WLD` crypto_alt price `0.36035` 4h `9.2963` vol `28351808.19` relationship `market_context_high->WLD_4h`
 - `@3` unknown price `0.005445` 4h `0.0` vol `0.0` relationship `market_context_high->@3_4h`
-- `WLD` crypto_alt price `0.35028` 4h `5.4362` vol `27840013.97` relationship `market_context_high->WLD_4h`
-- `DYM` crypto_alt price `0.02514` 4h `-0.5931` vol `190787.87` relationship `market_context_high->DYM_4h`
-- `EIGEN` crypto_alt price `0.249` 4h `-0.8758` vol `3075441.65` relationship `market_context_high->EIGEN_4h`
+- `DYM` crypto_alt price `0.02532` 4h `-0.0395` vol `176417.88` relationship `market_context_high->DYM_4h`
+- `AZTEC` crypto_alt price `0.02577` 4h `10.9676` vol `3093604.17` relationship `market_context_high->AZTEC_4h`
+- `EIGEN` crypto_alt price `0.2499` 4h `-1.1862` vol `3090427.74` relationship `market_context_high->EIGEN_4h`
