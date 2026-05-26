@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-26T04:00:17.240201+00:00`
+- Generated: `2026-05-26T04:05:21.069589+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `40536363.8`
-- Polymarket volume z-score: `-0.33`
+- Polymarket 24h volume: `40842115.96`
+- Polymarket volume z-score: `-0.3`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `5728465.316803995` | liquidity: `412400.515`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `5729669.945901995` | liquidity: `422810.7963`
 - Will the Iran ceasefire continue through May 24? | 24h volume: `4848692.487681005` | liquidity: `347392.377`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2994712.5970330043` | liquidity: `605598.1937`
-- Iran closes its airspace by May 24? | 24h volume: `2887159.252899996` | liquidity: `608694.00421`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1125865.1641570008` | liquidity: `395157.76144`
-- Roland Garros WTA: Elina Svitolina vs Anna Bondar | 24h volume: `972292.6341720028` | liquidity: `421526.2721`
-- US obtains Iranian enriched uranium by May 31? | 24h volume: `958905.6180540001` | liquidity: `300832.10479`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2996587.430281004` | liquidity: `631417.0531`
+- Iran closes its airspace by May 24? | 24h volume: `2911910.0003889967` | liquidity: `600553.9169`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1128831.699798001` | liquidity: `397378.26571`
+- Roland Garros WTA: Elina Svitolina vs Anna Bondar | 24h volume: `972292.6341720028` | liquidity: `403425.23126`
+- US obtains Iranian enriched uranium by May 31? | 24h volume: `959689.7669210001` | liquidity: `305597.92932`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
