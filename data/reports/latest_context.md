@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T10:07:18.324121+00:00`
-- Market context score: `59.33`
-- News risk score: `27.59`
-- Macro risk score: `21.68`
-- Risk-on score: `41.11`
-- Articles: `49`
+- Generated: `2026-05-26T10:16:18.411733+00:00`
+- Market context score: `57.0`
+- News risk score: `31.29`
+- Macro risk score: `25.62`
+- Risk-on score: `40.55`
+- Articles: `55`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `1726`
+- Day/swing latest: `2026-05-26T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
-- macro: articles `30`, risk hits `5`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `36`, risk hits `7`, risk headline rate `0.1944`, policy hits `10`
 
 ## Headlines
 
+- [macro] HELOC and home equity loan rates today, May 26, 2026: Lower than last month, sitting at or near 2026 lows (Yahoo Finance)
+- [macro] Mortgage and refinance rates today, May 26, 2026: Rates move back up (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, Tuesday, May 26, 2026: Earn up to 4.1% APY (Yahoo Finance)
+- [macro] Tech stocks today: AI stocks look to add to gains as IPO market heats up (Yahoo Finance)
+- [macro] Best money market account rates today, Tuesday, May 26, 2026: Earn up to 4.01% APY (Yahoo Finance)
+- [macro] Best CD rates today, Tuesday, May 26, 2026: Lock in up to 4% APY today (Yahoo Finance)
+- [macro] Warren Buffett Hasn't Changed His Mind About This Stock in Years. Should You? (Yahoo Finance)
 - [commodity] Brent crude climbs as Iran vows retaliation against ceasefire violations after U.S. military strikes (Energy)
+- [macro] Stocks to Watch: Ferrari, Dell, Marvell Technology (Yahoo Finance)
 - [macro] US launches new strikes on Iran, targeting missile sites and boats (BBC News)
-- [macro] Best 2 Blue Chip Stocks to Buy After Last Week's Market Pullback (Yahoo Finance)
-- [macro] Cyient Semiconductors secures $10m Edelweiss equity at $500m valuation (Yahoo Finance)
-- [macro] AI is forcing McKinsey, BCG, Bain to rethink consulting fees (Yahoo Finance)
-- [macro] Jardine Matheson to acquire I-MED Radiology Network for $2.4bn (Yahoo Finance)
-- [macro] Could Ethereum Lose Its Number 2 Crypto Position by 2030? (Yahoo Finance)
-- [macro] Police say a Texas accountant covertly stole $3 million from her bosses — then splurged on cars, trips and a Swiss watch (Yahoo Finance)
-- [macro] European stocks falter, oil rises, as US strikes Iran (Yahoo Finance)
-- [macro] 'Overwhelming consensus' that screen time harms children, top doctors say (BBC News)
