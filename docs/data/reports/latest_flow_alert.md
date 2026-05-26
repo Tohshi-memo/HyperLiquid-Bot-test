@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-26T00:15:16.735559+00:00`
+- Generated: `2026-05-26T00:20:18.740265+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `41100569.68`
-- Polymarket volume z-score: `-0.26`
+- Polymarket 24h volume: `41394735.75`
+- Polymarket volume z-score: `-0.23`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `5487252.419590991` | liquidity: `263109.1666`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3232126.15092` | liquidity: `377974.17933`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2999544.957431994` | liquidity: `434074.489`
-- Will the Iran ceasefire continue through May 25? | 24h volume: `2720624.5995100015` | liquidity: `157888.40362`
-- Iran closes its airspace by May 24? | 24h volume: `2110568.191635998` | liquidity: `207129.05499`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1168319.753915` | liquidity: `299042.07947`
-- Roland Garros WTA: Elina Svitolina vs Anna Bondar | 24h volume: `972935.3884160026` | liquidity: `489044.79248`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `5491298.658599991` | liquidity: `264310.6378`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3350492.375259` | liquidity: `479404.95975`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2992506.531409994` | liquidity: `455080.349`
+- Will the Iran ceasefire continue through May 25? | 24h volume: `2812961.901101002` | liquidity: `156386.19163`
+- Iran closes its airspace by May 24? | 24h volume: `2148034.700979998` | liquidity: `299075.98627`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1171713.099236` | liquidity: `358713.72324`
+- Will the Iranian regime fall by May 31? | 24h volume: `973139.2865599999` | liquidity: `1429757.29611`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
