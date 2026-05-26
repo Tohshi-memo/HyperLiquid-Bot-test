@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T00:07:16.098311+00:00`
-- Market context score: `49.82`
-- News risk score: `36.46`
-- Macro risk score: `39.64`
-- Risk-on score: `34.25`
-- Articles: `36`
+- Generated: `2026-05-26T00:22:18.913516+00:00`
+- Market context score: `50.62`
+- News risk score: `35.66`
+- Macro risk score: `38.06`
+- Risk-on score: `34.76`
+- Articles: `37`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:407`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1687`
-- Day/swing latest: `2026-05-26T00:00:00+00:00`
+- Day/swing records: `1688`
+- Day/swing latest: `2026-05-26T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `2`
-- macro: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `0`
+- macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
+- [macro] US military launches new strikes on targets in southern Iran, US Central Command says (BBC News)
 - [macro] Next boss warns of 'dramatic' fall in entry-level jobs (BBC News)
+- [crypto] Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC (Cointelegraph.com News)
 - [macro] Government vows to bring in under-16 social media restrictions by end of year (BBC News)
 - [macro] The rise of the fruit that tastes like custard (BBC News)
 - [macro] Trump to undergo annual medical exam ahead of 80th birthday (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Russia threatens more Kyiv strikes and tells foreign nationals to leave (BBC News)
 - [commodity] Oil prices fall 7% after Trump says Iran talks are 'proceeding nicely' (Energy)
 - [macro] Netanyahu says Israel will intensify strikes against Hezbollah (BBC News)
-- [crypto] XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges (Cointelegraph.com News)
-- [macro] More than 1.5m foreign pilgrims begin Hajj despite Iran war fears (BBC News)
