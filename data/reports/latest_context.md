@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T13:07:22.263350+00:00`
-- Market context score: `55.93`
-- News risk score: `38.72`
-- Macro risk score: `21.62`
-- Risk-on score: `42.94`
-- Articles: `81`
+- Generated: `2026-05-26T13:22:22.038589+00:00`
+- Market context score: `53.75`
+- News risk score: `41.62`
+- Macro risk score: `25.4`
+- Risk-on score: `41.96`
+- Articles: `84`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1729`
-- Day/swing latest: `2026-05-26T13:00:00+00:00`
+- Day/swing records: `1730`
+- Day/swing latest: `2026-05-26T13:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `4`
-- macro: articles `50`, risk hits `6`, risk headline rate `0.12`, policy hits `2`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `31`, risk hits `6`, risk headline rate `0.1935`, policy hits `6`
+- macro: articles `50`, risk hits `8`, risk headline rate `0.16`, policy hits `3`
 
 ## Headlines
 
+- [crypto] CoinDesk 20 performance update: SUI drops 1.1%, leading index lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Market Uncertainty? This High-Yield Energy Infrastructure Toll Booth Under $30 Is Best Buy Now (Yahoo Finance)
+- [macro] Krispy Kreme's $1.6 million data breach settlement deadline nears (Yahoo Finance)
+- [macro] Forget ServiceNow: 2 High-Growth Software Bargains to Buy on the Dip With Safer AI Exposure (Yahoo Finance)
+- [macro] Stock Market Today: Dow Up 250 Points On U.S.-Iran Deal Hopes; Oil Prices Tumble (Live Coverage) (Yahoo Finance)
+- [macro] Lighter rules help US, UK banks add $1.3tn to balance sheets (Yahoo Finance)
+- [macro] Humana (HUM) Slid as Medicare Advantage Rate Fell Short of Expectations (Yahoo Finance)
 - [macro] BP chairman removed over 'serious' conduct concerns (BBC News)
 - [commodity] BP shares fall after board removes chairman Albert Manifold over 'serious’ conduct concerns (Energy)
-- [macro] AI Stocks: SpaceX, OpenAI IPO Buzz Fuel Next Leg Of Rally. Salesforce, Snowflake Earnings Due. (Yahoo Finance)
-- [commodity] Brent oil price jumps 3% after Iran vows to retaliate for U.S. strikes (Energy)
-- [macro] Here’s Why Artisan Value Fund Sold Meta Platforms (META) (Yahoo Finance)
-- [macro] Morgan Stanley Turns Neutral on Aegon (AEG) Amid European Insurance Valuation Concerns (Yahoo Finance)
-- [macro] Artisan Value Fund Exited Its Stake in Diageo plc (DEO) in Q1 (Yahoo Finance)
-- [macro] I Squared bets on AI inference with $225 million data center buy from Cogent (Yahoo Finance)
-- [macro] NetApp Stock Surges Ahead Of Earnings As Data Storage Rival Everpure Chases Breakout (Yahoo Finance)
-- [macro] Worried About Inflation? This International ETF Could Help Protect Your Portfolio (Yahoo Finance)
+- [macro] Leadership Change Weighs on PayPal Holdings’ (PYPL) Q1 Performance (Yahoo Finance)
