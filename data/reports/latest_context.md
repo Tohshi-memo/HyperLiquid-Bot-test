@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T09:22:20.706707+00:00`
-- Market context score: `59.6`
-- News risk score: `25.75`
-- Macro risk score: `19.78`
-- Risk-on score: `39.44`
-- Articles: `45`
+- Generated: `2026-05-26T09:37:17.848675+00:00`
+- Market context score: `58.06`
+- News risk score: `27.5`
+- Macro risk score: `22.0`
+- Risk-on score: `38.33`
+- Articles: `48`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1723`
-- Day/swing latest: `2026-05-26T09:15:00+00:00`
+- Day/swing records: `1724`
+- Day/swing latest: `2026-05-26T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
-- macro: articles `26`, risk hits `3`, risk headline rate `0.1154`, policy hits `2`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `0`
 
 ## Headlines
 
+- [macro] European stocks falter, oil rises, as US strikes Iran (Yahoo Finance)
+- [macro] Extended-stay hotels attract global capital (Yahoo Finance)
+- [macro] ALEC awarded construction contract for $1.7bn Sphere Abu Dhabi (Yahoo Finance)
 - [macro] 'Overwhelming consensus' that screen time harms children, top doctors say (BBC News)
+- [macro] Dollar finds footing on wavering hopes for a peace deal (Yahoo Finance)
+- [macro] Watch: Bridge collapses and car swept away in China river (BBC News)
 - [crypto] Bitcoin caught between critical onchain support and an options showdown (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] XRP Ledger to delete NFT junk and patch key bugs takes in new upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Target reassesses AI strategy amid pricing shift – report (Yahoo Finance)
-- [macro] KLA Flags Stronger Chip Equipment Demand, Rare 2027 Visibility at JPMorgan Conference (Yahoo Finance)
-- [macro] 'You do not have to suffer': Money expert Tori Dunlap says you shouldn't try to 'white-knuckle' your way out of the red (Yahoo Finance)
-- [macro] JD.com considers £2bn bid for UK online retailer Very Group – report (Yahoo Finance)
-- [macro] 'I live in survival mode': The rise of the multi-job workforce (BBC News)
-- [macro] China executes man for murdering prominent gaming tycoon (BBC News)
-- [macro] Does Netflix Have the Widest Moat in Streaming? (Yahoo Finance)
+- [macro] Sancus Lending Group shares fall 12% as profitability misses expectations (Yahoo Finance)
+- [macro] The Bond Market Is Sounding an Alarm -- It Could Mean Big Trouble for the Stock Market (Yahoo Finance)
+- [macro] Should I stay or should I go? What data says job-switching can get you (Yahoo Finance)
