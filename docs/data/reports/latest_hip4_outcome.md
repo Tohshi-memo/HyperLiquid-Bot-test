@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-05-26T23:22:15.124454+00:00`
+- Generated: `2026-05-26T23:37:16.368433+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `11`
 - Outcome sides (rows): `22`
@@ -23,24 +23,24 @@
 
 - Recurring Named Outcome [No] symbol `#1091` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9715` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1051` underlying `BTC` prob `0.9517` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1080` underlying `n/a` prob `0.9038` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1071` underlying `n/a` prob `0.8844` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1051` underlying `BTC` prob `0.9618` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1071` underlying `n/a` prob `0.8802` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1080` underlying `n/a` prob `0.866` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.7715` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.6005` price_source `allMids` vol24h `0.0` oi `0.0`
-- Champions League Winner [PSG] symbol `#1100` underlying `n/a` prob `0.5766` price_source `allMids` vol24h `0.0` oi `0.0`
+- Champions League Winner [PSG] symbol `#1100` underlying `n/a` prob `0.5774` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.5634` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1000` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1001` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#1060` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#1061` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.4366` price_source `allMids` vol24h `0.0` oi `0.0`
-- Champions League Winner [Arsenal] symbol `#1101` underlying `n/a` prob `0.4234` price_source `allMids` vol24h `0.0` oi `0.0`
+- Champions League Winner [Arsenal] symbol `#1101` underlying `n/a` prob `0.4226` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.3995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.2285` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1070` underlying `n/a` prob `0.1156` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1081` underlying `n/a` prob `0.0962` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1050` underlying `BTC` prob `0.0483` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1081` underlying `n/a` prob `0.134` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1070` underlying `n/a` prob `0.1198` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1050` underlying `BTC` prob `0.0382` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0285` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#1090` underlying `n/a` prob `0.0024` price_source `allMids` vol24h `0.0` oi `0.0`
 
@@ -56,18 +56,18 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.7715` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0285` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9715` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1050` underlying `BTC` prob `0.0483` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1051` underlying `BTC` prob `0.9517` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1050` underlying `BTC` prob `0.0382` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1051` underlying `BTC` prob `0.9618` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#1060` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#1061` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1070` underlying `n/a` prob `0.1156` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1071` underlying `n/a` prob `0.8844` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1080` underlying `n/a` prob `0.9038` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1081` underlying `n/a` prob `0.0962` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1070` underlying `n/a` prob `0.1198` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1071` underlying `n/a` prob `0.8802` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1080` underlying `n/a` prob `0.866` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1081` underlying `n/a` prob `0.134` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#1090` underlying `n/a` prob `0.0024` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#1091` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
-- Champions League Winner [PSG] symbol `#1100` underlying `n/a` prob `0.5766` price_source `allMids` vol24h `0.0` oi `0.0`
-- Champions League Winner [Arsenal] symbol `#1101` underlying `n/a` prob `0.4234` price_source `allMids` vol24h `0.0` oi `0.0`
+- Champions League Winner [PSG] symbol `#1100` underlying `n/a` prob `0.5774` price_source `allMids` vol24h `0.0` oi `0.0`
+- Champions League Winner [Arsenal] symbol `#1101` underlying `n/a` prob `0.4226` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -81,18 +81,18 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.7715` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0285` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9715` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1050` underlying `BTC` prob `0.0483` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1051` underlying `BTC` prob `0.9517` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1050` underlying `BTC` prob `0.0382` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1051` underlying `BTC` prob `0.9618` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#1060` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#1061` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1070` underlying `n/a` prob `0.1156` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1071` underlying `n/a` prob `0.8844` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1080` underlying `n/a` prob `0.9038` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1081` underlying `n/a` prob `0.0962` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1070` underlying `n/a` prob `0.1198` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1071` underlying `n/a` prob `0.8802` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1080` underlying `n/a` prob `0.866` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1081` underlying `n/a` prob `0.134` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#1090` underlying `n/a` prob `0.0024` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#1091` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
-- Champions League Winner [PSG] symbol `#1100` underlying `n/a` prob `0.5766` price_source `allMids` vol24h `0.0` oi `0.0`
-- Champions League Winner [Arsenal] symbol `#1101` underlying `n/a` prob `0.4234` price_source `allMids` vol24h `0.0` oi `0.0`
+- Champions League Winner [PSG] symbol `#1100` underlying `n/a` prob `0.5774` price_source `allMids` vol24h `0.0` oi `0.0`
+- Champions League Winner [Arsenal] symbol `#1101` underlying `n/a` prob `0.4226` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
