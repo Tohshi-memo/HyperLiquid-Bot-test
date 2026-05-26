@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T04:07:19.664850+00:00`
-- Market context score: `68.2`
-- News risk score: `27.23`
+- Generated: `2026-05-26T04:22:17.239002+00:00`
+- Market context score: `62.65`
+- News risk score: `30.98`
 - Macro risk score: `30.46`
-- Risk-on score: `63.85`
-- Articles: `24`
+- Risk-on score: `54.68`
+- Articles: `25`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:407`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1703`
-- Day/swing latest: `2026-05-26T04:00:00+00:00`
+- Day/swing records: `1704`
+- Day/swing latest: `2026-05-26T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
 - macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
 - [crypto] Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects (Energy)
+- [crypto] Kelp DAO says rsETH restored 5 weeks after $293M protocol hack (Cointelegraph.com News)
 - [macro] Russia threatens more Kyiv strikes and tells foreign nationals to leave (BBC News)
 - [crypto] Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent? (Cointelegraph.com News)
 - [macro] US military says it has launched new strikes on southern Iran (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Netanyahu says Israel will intensify strikes against Hezbollah (BBC News)
 - [macro] Social media as bad for young people as smoking, top doctors say (BBC News)
 - [crypto] Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next? (Cointelegraph.com News)
-- [macro] Next boss warns of 'dramatic' fall in entry-level jobs (BBC News)
