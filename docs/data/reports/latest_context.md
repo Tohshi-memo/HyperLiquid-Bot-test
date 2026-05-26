@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T08:52:15.588456+00:00`
-- Market context score: `57.27`
-- News risk score: `27.13`
-- Macro risk score: `24.63`
-- Risk-on score: `37.25`
-- Articles: `35`
+- Generated: `2026-05-26T09:07:18.808518+00:00`
+- Market context score: `58.99`
+- News risk score: `25.38`
+- Macro risk score: `21.47`
+- Risk-on score: `38.41`
+- Articles: `36`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1721`
-- Day/swing latest: `2026-05-26T08:45:00+00:00`
+- Day/swing records: `1722`
+- Day/swing latest: `2026-05-26T09:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `0`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] XRP Ledger to delete NFT junk and patch key bugs takes in new upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] 'I live in survival mode': The rise of the multi-job workforce (BBC News)
+- [commodity] Brent crude rises 3% as Iran vows retaliation against ceasefire violations after U.S. military strikes (Energy)
 - [macro] Watch: Drones crash into water after Sydney light show malfunction (BBC News)
 - [crypto] AI agents must be treated as untrusted systems: Researchers (Cointelegraph.com News)
 - [macro] Australia confirms first diphtheria death amid worst outbreak in decades (BBC News)
@@ -35,6 +38,3 @@
 - [macro] Social media as bad for young people as smoking, top doctors say (BBC News)
 - [crypto] Hyperliquid takes a swing at Polymarket with macro outcome bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Scammers make $400K through fake Uniswap ads on Google (Cointelegraph.com News)
-- [crypto] At $322 billion, the stablecoin market value exceeds the FX reserves of 95 nations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ondo Finance founder Nathan Allman dies unexpectedly (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Brent crude rises 2% as U.S. military strikes against Iran cloud Middle East peace prospects (Energy)
