@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T20:22:20.915740+00:00`
+- Generated: `2026-05-26T20:37:16.441762+00:00`
 - Market context score: `47.67`
 - News risk score: `48.22`
 - Macro risk score: `29.84`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1758`
-- Day/swing latest: `2026-05-26T20:15:00+00:00`
+- Day/swing records: `1759`
+- Day/swing latest: `2026-05-26T20:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Nasa unveils next steps to build permanent Moon base (BBC News)
 - [macro] Eleven killed in Lebanon village as Israel intensifies strikes (BBC News)
 - [macro] Post Office investigation could be delayed by five years, police warn (BBC News)
 - [commodity] Brent oil jumps more than 3% after Iran vows to retaliate for U.S. strikes (Energy)
@@ -38,4 +39,3 @@
 - [crypto] TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity (Cointelegraph.com News)
 - [policy] Minutes of the Board's discount rate meeting on April 20 and 29, 2026 (FRB: Press Release - All Releases)
 - [macro] Why temperature records are being not only broken but smashed (BBC News)
-- [crypto] UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
