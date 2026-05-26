@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T07:22:21.268711+00:00`
-- Market context score: `56.92`
-- News risk score: `29.15`
-- Macro risk score: `28.67`
-- Risk-on score: `39.71`
-- Articles: `34`
+- Generated: `2026-05-26T07:37:16.356099+00:00`
+- Market context score: `56.4`
+- News risk score: `28.71`
+- Macro risk score: `27.79`
+- Risk-on score: `37.86`
+- Articles: `35`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1715`
-- Day/swing latest: `2026-05-26T07:15:00+00:00`
+- Day/swing records: `1716`
+- Day/swing latest: `2026-05-26T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `0`
-- macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
 
 ## Headlines
 
+- [macro] Australia confirms first diphtheria death amid worst outbreak in decades (BBC News)
 - [macro] Next boss warns of 'dramatic' fall in entry-level jobs (BBC News)
 - [macro] Social media as bad for young people as smoking, top doctors say (BBC News)
 - [crypto] Hyperliquid takes a swing at Polymarket with macro outcome bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Brent crude rises 2% as U.S. military strikes against Iran cloud Middle East peace prospects (Energy)
 - [crypto] Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000 (Cointelegraph.com News)
 - [macro] US launches new strikes on Iran, targeting missile sites and boats (BBC News)
-- [macro] 'An £8,000 debt pushed me to breaking point' (BBC News)
