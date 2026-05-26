@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T06:52:21.960341+00:00`
+- Generated: `2026-05-26T07:07:16.013213+00:00`
 - Market context score: `56.79`
 - News risk score: `29.33`
 - Macro risk score: `28.67`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `1714`
+- Day/swing latest: `2026-05-26T07:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Next boss warns of 'dramatic' fall in entry-level jobs (BBC News)
+- [macro] Social media as bad for young people as smoking, top doctors say (BBC News)
 - [crypto] Hyperliquid takes a swing at Polymarket with macro outcome bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] At $322 billion, the stablecoin market value exceeds the FX reserves of 95 nations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ondo Finance founder Nathan Allman passes away (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] US launches new strikes on Iran, targeting missile sites and boats (BBC News)
 - [macro] 'An £8,000 debt pushed me to breaking point' (BBC News)
 - [macro] Jazz legend Sonny Rollins dies aged 95 (BBC News)
-- [macro] Bank holiday sun boosts South West tourism (BBC News)
-- [crypto] Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock (Cointelegraph.com News)
