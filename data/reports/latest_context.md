@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-26T02:07:15.732352+00:00`
-- Market context score: `54.1`
+- Generated: `2026-05-26T02:22:16.496383+00:00`
+- Market context score: `55.3`
 - News risk score: `36.0`
 - Macro risk score: `36.0`
-- Risk-on score: `42.0`
+- Risk-on score: `44.67`
 - Articles: `30`
 - Polymarket markets: `397`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:407`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1695`
-- Day/swing latest: `2026-05-26T02:00:00+00:00`
+- Day/swing records: `1696`
+- Day/swing latest: `2026-05-26T02:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [commodity] Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects (Energy)
+- [crypto] Bitcoin holds $77K as stocks rally, global tensions cool: Are BTC bulls back? (Cointelegraph.com News)
 - [macro] Netanyahu says Israel will intensify strikes against Hezbollah (BBC News)
 - [macro] Social media as bad for young people as smoking, top doctors say (BBC News)
 - [macro] US military says it has launched new strikes on southern Iran (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC (Cointelegraph.com News)
 - [macro] The rise of the fruit that tastes like custard (BBC News)
 - [macro] Trump to undergo annual medical exam ahead of 80th birthday (BBC News)
-- [macro] Deal with US not imminent, Iran says (BBC News)
