@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-26T21:55:14.886871+00:00`
+- Generated: `2026-05-26T22:00:27.087435+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `44785683.3`
-- Polymarket volume z-score: `-0.08`
+- Polymarket 24h volume: `44361114.97`
+- Polymarket volume z-score: `-0.13`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `5752416.390533012` | liquidity: `587282.78234`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `4894560.357025003` | liquidity: `167947.96719`
-- Iran closes its airspace by May 24? | 24h volume: `3624400.851458004` | liquidity: `565457.11672`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2446380.4540029992` | liquidity: `428807.731`
-- Will the Iranian regime fall by May 31? | 24h volume: `2094250.5072799681` | liquidity: `1874580.34345`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `5640500.063095009` | liquidity: `553183.68847`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `4904182.379557005` | liquidity: `173729.30326`
+- Iran closes its airspace by May 24? | 24h volume: `3623642.493031004` | liquidity: `678603.06754`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2443977.1081379983` | liquidity: `469117.1241`
+- Will the Iranian regime fall by May 31? | 24h volume: `2097189.427279968` | liquidity: `1971135.97673`
 - Roland Garros ATP: Felix Auger-Aliassime vs Daniel Altmaier | 24h volume: `1913282.1231060005` | liquidity: `722511.87403`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1639575.9253279995` | liquidity: `326811.09273`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1606931.3612319997` | liquidity: `317049.41578`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
