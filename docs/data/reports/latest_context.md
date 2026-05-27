@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T15:22:23.017173+00:00`
-- Market context score: `44.56`
-- News risk score: `47.55`
-- Macro risk score: `30.73`
-- Risk-on score: `28.57`
-- Articles: `92`
-- Polymarket markets: `397`
+- Generated: `2026-05-27T15:37:23.554809+00:00`
+- Market context score: `45.23`
+- News risk score: `46.37`
+- Macro risk score: `28.42`
+- Risk-on score: `28.18`
+- Articles: `91`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1831`
-- Day/swing latest: `2026-05-27T15:15:00+00:00`
+- Day/swing records: `1832`
+- Day/swing latest: `2026-05-27T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `41`, risk hits `13`, risk headline rate `0.2683`, policy hits `0`
-- macro: articles `47`, risk hits `15`, risk headline rate `0.2766`, policy hits `4`
+- macro: articles `46`, risk hits `13`, risk headline rate `0.2391`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Crypto IPOs could create massive $1 trillion market amid tokenization wave, Jefferies says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] 3 Energy Stocks Built to Last a Lifetime and Pay You the Whole Way (Yahoo Finance)
+- [macro] Movado Group Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Dycom Industries Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Capri Q4 Earnings Call Highlights (Yahoo Finance)
 - [commodity] U.S. oil falls 3% amid hopes that a U.S.-Iran agreement will restore Hormuz traffic (Energy)
-- [macro] Kardigan targets IPO to support cardiology pipeline progression (Yahoo Finance)
-- [macro] 3 Reasons Why Nvidia Just Became More Boring, and Wall Street Doesn't Like It (Yahoo Finance)
-- [macro] Bond Yields Near 5% Change the Math for This Early Retiree’s Gap Period Strategy (Yahoo Finance)
-- [macro] This $7.2 Billion Startup CEO Gets Applications From Thousands of Job-Seekers a Day. Here’s What He’s Looking For. (Yahoo Finance)
-- [macro] Why Zscaler Stock Is Crashing Today (Yahoo Finance)
+- [macro] I’m an engineer with $140k in student debt and $70k in savings. Should I pay it off or keep investing? (Yahoo Finance)
+- [macro] Oil Prices Slide On U.S.-Iran Peace Signals; Airline Stocks Take Off (Yahoo Finance)
 - [macro] Micron replaces mighty Walmart in the $1 trillion club (Yahoo Finance)
-- [macro] Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits (Yahoo Finance)
 - [crypto] HTX denies UK sanctions allegations as new data flags $7.6B Russia-linked flows (Cointelegraph.com News)
-- [macro] Stock Market Today: Dow Rises As Oil Tumbles On U.S.-Iran News; This Data Center Player Slides (Live Coverage) (Yahoo Finance)

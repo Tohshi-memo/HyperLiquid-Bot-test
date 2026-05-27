@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-27T15:22:23.017173+00:00`
-- Observed: `2026-05-27T15:15:00+00:00`
+- Generated: `2026-05-27T15:37:23.554809+00:00`
+- Observed: `2026-05-27T15:30:00+00:00`
 - Assets: `780`
 
 ## Top Activity
@@ -18,13 +18,13 @@ Individual asset screen for drilling down from class-level signals.
 - `@103` unknown price `0.00021129` 4h `0.0` vol `0.0` relationship `market_context_high->@103_24h`
 - `@176` unknown price `0.000977` 4h `0.0` vol `0.0` relationship `market_context_high->@176_4h`
 - `@138` unknown price `0.0003157` 4h `0.0317` vol `0.0` relationship `market_context_high->@138_24h`
+- `PURR` crypto_alt price `0.095965` 4h `-4.8344` vol `1392298.67` relationship `market_context_high->PURR_4h`
 - `#1030` unknown price `0.216205` 4h `-2.2559` vol `0.0` relationship `market_context_high->#1030_24h`
-- `@132` unknown price `0.00142` 4h `-22.0637` vol `0.0` relationship `market_context_high->@132_4h`
-- `PURR` crypto_alt price `0.095923` 4h `-4.876` vol `1407808.14` relationship `market_context_high->PURR_4h`
-- `@160` unknown price `0.001457` 4h `0.7607` vol `0.0` relationship `market_context_high->@160_24h`
+- `@132` unknown price `0.001419` 4h `-22.1186` vol `0.0` relationship `market_context_high->@132_4h`
 - `@173` unknown price `177339.5` 4h `-2.0816` vol `0.0` relationship `market_context_high->@173_24h`
-- `PURR/USDC` crypto_alt price `0.095546` 4h `-5.3531` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
-- `GRASS` crypto_alt price `0.49507` 4h `-2.3839` vol `5632794.88` relationship `market_context_high->GRASS_4h`
+- `@160` unknown price `0.001459` 4h `0.899` vol `0.0` relationship `market_context_high->@160_24h`
+- `PURR/USDC` crypto_alt price `0.0960305` 4h `-4.8732` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
+- `GRASS` crypto_alt price `0.50006` 4h `-1.4` vol `5550930.36` relationship `market_context_high->GRASS_4h`
 - `@163` unknown price `0.013526` 4h `0.0` vol `0.0` relationship `market_context_high->@163_24h`
 - `@49` unknown price `0.00062` 4h `-0.161` vol `0.0` relationship `market_context_high->@49_24h`
 - `@3` unknown price `0.005445` 4h `0.0` vol `0.0` relationship `market_context_high->@3_24h`
