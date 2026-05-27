@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-27T21:22:20.096761+00:00`
-- Observed: `2026-05-27T21:15:00+00:00`
+- Generated: `2026-05-27T21:37:17.290187+00:00`
+- Observed: `2026-05-27T21:30:00+00:00`
 - Assets: `781`
 
 ## Top Activity
@@ -20,11 +20,11 @@ Individual asset screen for drilling down from class-level signals.
 - `@178` unknown price `1.67111` 4h `75.701` vol `0.0` relationship `market_context_high->@178_24h`
 - `@160` unknown price `0.00144` 4h `-1.7065` vol `0.0` relationship `market_context_high->@160_24h`
 - `@173` unknown price `153701.0` 4h `-11.4467` vol `0.0` relationship `market_context_high->@173_24h`
-- `@132` unknown price `0.001328` 4h `-2.0649` vol `0.0` relationship `market_context_high->@132_4h`
+- `@132` unknown price `0.001328` 4h `-1.8477` vol `0.0` relationship `market_context_high->@132_4h`
 - `@3` unknown price `0.005445` 4h `0.0` vol `0.0` relationship `market_context_high->@3_24h`
 - `@163` unknown price `0.013526` 4h `0.0` vol `0.0` relationship `market_context_high->@163_24h`
 - `#1030` unknown price `0.206195` 4h `-4.6277` vol `0.0` relationship `market_context_high->#1030_24h`
-- `PURR` crypto_alt price `0.093599` 4h `1.2341` vol `881978.99` relationship `market_context_high->PURR_4h`
+- `PURR` crypto_alt price `0.092669` 4h `0.7732` vol `880142.68` relationship `market_context_high->PURR_4h`
 - `@49` unknown price `0.00062` 4h `0.0` vol `0.0` relationship `market_context_high->@49_24h`
-- `PURR/USDC` crypto_alt price `0.0932445` 4h `0.9069` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
-- `GRASS` crypto_alt price `0.51616` 4h `3.9492` vol `4331507.1` relationship `market_context_high->GRASS_4h`
+- `PURR/USDC` crypto_alt price `0.0922295` 4h `0.7554` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
+- `GRASS` crypto_alt price `0.50994` 4h `3.2685` vol `4319582.28` relationship `market_context_high->GRASS_4h`
