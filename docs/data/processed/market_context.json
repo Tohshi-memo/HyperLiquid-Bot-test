@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-27T23:52:19.698345+00:00",
+  "generated_at": "2026-05-27T23:54:15.254690+00:00",
   "lookback_hours": 12,
   "news": {
-    "article_count": 73,
+    "article_count": 71,
     "sentiment_score": -0.4286,
     "risk_keyword_hits": 19,
     "risk_headline_count": 18,
     "crypto_risk_headline_rate": 0.3095,
-    "macro_risk_headline_rate": 0.1613,
+    "macro_risk_headline_rate": 0.1724,
     "policy_keyword_hits": 5,
     "policy_headline_count": 5,
-    "policy_headline_rate": 0.0685,
+    "policy_headline_rate": 0.0704,
     "categories": {
       "commodity": {
         "article_count": 3,
@@ -114,14 +114,14 @@
         ]
       },
       "macro": {
-        "article_count": 27,
+        "article_count": 25,
         "sentiment_score": -0.3333,
         "risk_keyword_hits": 5,
         "risk_headline_count": 4,
-        "risk_headline_rate": 0.1481,
+        "risk_headline_rate": 0.16,
         "policy_keyword_hits": 2,
         "policy_headline_count": 2,
-        "policy_headline_rate": 0.0741,
+        "policy_headline_rate": 0.08,
         "top_headlines": [
           {
             "category": "macro",
@@ -1147,14 +1147,14 @@
     "health_markets": []
   },
   "scores": {
-    "news_risk_score": 45.79,
-    "macro_risk_score": 23.39,
-    "risk_on_score": 28.92,
-    "market_context_score": 46.63
+    "news_risk_score": 45.91,
+    "macro_risk_score": 24.11,
+    "risk_on_score": 28.69,
+    "market_context_score": 46.37
   },
   "errors": [
-    "GDELT bitcoin OR ethereum OR crypto OR stablecoin: Expecting value: line 1 column 1 (char 0)",
-    "GDELT federal reserve OR inflation OR treasury yields OR oil OR gold OR stocks: Expecting value: line 1 column 1 (char 0)"
+    "GDELT bitcoin OR ethereum OR crypto OR stablecoin: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=bitcoin+OR+ethereum+OR+crypto+OR+stablecoin&mode=timelinevolraw&format=json&timespan=24h",
+    "GDELT federal reserve OR inflation OR treasury yields OR oil OR gold OR stocks: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=federal+reserve+OR+inflation+OR+treasury+yields+OR+oil+OR+gold+OR+stocks&mode=timelinevolraw&format=json&timespan=24h (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f62cd1cb5d0>, 'Connection to api.gdeltproject.org timed out. (connect timeout=15)'))"
   ],
   "macro_indicators": {
     "enabled": false,
@@ -1162,16 +1162,14 @@
   },
   "asset_universe": {
     "enabled": true,
-    "updated_at": "2026-05-27T23:52:19.698345+00:00",
+    "updated_at": "2026-05-27T23:54:15.254690+00:00",
     "observed_at": "2026-05-27T23:45:00+00:00",
     "asset_count": 781,
     "priced_asset_count": 781,
     "history_records": 672,
     "history_active_records": 672,
-    "history_archived_records_added": 1,
-    "history_archive_files": [
-      "data/archive/asset_price_history_2026-05.jsonl.gz"
-    ],
+    "history_archived_records_added": 0,
+    "history_archive_files": [],
     "latest_file": "data/processed/asset_universe_latest.json",
     "history_file": "data/processed/asset_price_history.json",
     "report_file": "data/reports/latest_asset_universe.md",
@@ -1258,11 +1256,11 @@
         "asset_class": "crypto_major",
         "market_type": "native_perp",
         "dex": "",
-        "price": 74314.5,
-        "change_24h_pct": -2.0825,
-        "day_ntl_vlm": 2277999899.8,
-        "open_interest": 30792.71894,
-        "funding": 1.2393e-05
+        "price": 74363.5,
+        "change_24h_pct": -2.0179,
+        "day_ntl_vlm": 2278692979.23,
+        "open_interest": 30794.55712,
+        "funding": 1.25e-05
       },
       {
         "symbol": "ETH",
@@ -1270,11 +1268,11 @@
         "asset_class": "crypto_major",
         "market_type": "native_perp",
         "dex": "",
-        "price": 2020.25,
-        "change_24h_pct": -2.5305,
-        "day_ntl_vlm": 790908484.98,
-        "open_interest": 600568.6092,
-        "funding": 2.879e-06
+        "price": 2021.85,
+        "change_24h_pct": -2.4533,
+        "day_ntl_vlm": 793008455.56,
+        "open_interest": 598782.6406,
+        "funding": 2.8208e-06
       },
       {
         "symbol": "HYPE",
@@ -1282,11 +1280,11 @@
         "asset_class": "crypto_major",
         "market_type": "native_perp",
         "dex": "",
-        "price": 57.6365,
-        "change_24h_pct": -3.145,
-        "day_ntl_vlm": 773093919.01,
-        "open_interest": 21731267.51999997,
-        "funding": -9.1123e-06
+        "price": 57.79,
+        "change_24h_pct": -2.887,
+        "day_ntl_vlm": 773332198.3,
+        "open_interest": 21730652.87999996,
+        "funding": -9.3091e-06
       },
       {
         "symbol": "xyz:CL",
@@ -1294,10 +1292,10 @@
         "asset_class": "commodity",
         "market_type": "hip3_perp",
         "dex": "xyz",
-        "price": 90.35,
-        "change_24h_pct": -3.0964,
-        "day_ntl_vlm": 554962662.95,
-        "open_interest": 1791593.586,
+        "price": 90.413,
+        "change_24h_pct": -3.0288,
+        "day_ntl_vlm": 555483509.68,
+        "open_interest": 1788919.622,
         "funding": 6.25e-06
       },
       {
@@ -1306,10 +1304,10 @@
         "asset_class": "equity",
         "market_type": "hip3_perp",
         "dex": "xyz",
-        "price": 904.88,
-        "change_24h_pct": -1.1028,
-        "day_ntl_vlm": 443986238.53,
-        "open_interest": 210817.514,
+        "price": 905.915,
+        "change_24h_pct": -0.9896,
+        "day_ntl_vlm": 444094942.78,
+        "open_interest": 210743.578,
         "funding": 6.25e-06
       }
     ],
@@ -1320,10 +1318,10 @@
         "asset_class": "crypto_alt",
         "market_type": "native_perp",
         "dex": "",
-        "price": 0.16363,
-        "change_24h_pct": 10.8004,
-        "day_ntl_vlm": 19139925.38,
-        "open_interest": 88336738.0,
+        "price": 0.164305,
+        "change_24h_pct": 11.2574,
+        "day_ntl_vlm": 19165686.2,
+        "open_interest": 88504834.0,
         "funding": 1.25e-05
       },
       {
@@ -1332,9 +1330,9 @@
         "asset_class": "crypto_alt",
         "market_type": "native_perp",
         "dex": "",
-        "price": 2.2996,
-        "change_24h_pct": 10.372,
-        "day_ntl_vlm": 1567419.57,
+        "price": 2.3007,
+        "change_24h_pct": 10.4248,
+        "day_ntl_vlm": 1567450.68,
         "open_interest": 319738.48,
         "funding": 1.25e-05
       },
@@ -1344,10 +1342,10 @@
         "asset_class": "equity",
         "market_type": "hip3_perp",
         "dex": "xyz",
-        "price": 264.845,
-        "change_24h_pct": 9.8532,
-        "day_ntl_vlm": 35278147.01,
-        "open_interest": 170197.88,
+        "price": 264.355,
+        "change_24h_pct": 9.6499,
+        "day_ntl_vlm": 35280422.43,
+        "open_interest": 170198.68,
         "funding": 6.25e-06
       },
       {
@@ -1368,11 +1366,11 @@
         "asset_class": "crypto_alt",
         "market_type": "native_perp",
         "dex": "",
-        "price": 0.007579,
-        "change_24h_pct": 8.5972,
+        "price": 0.007592,
+        "change_24h_pct": 8.7835,
         "day_ntl_vlm": 2974483.28,
         "open_interest": 141963126.0,
-        "funding": -0.0003555056
+        "funding": -0.0003588751
       }
     ],
     "top_losers_24h": [
@@ -1382,23 +1380,11 @@
         "asset_class": "crypto_alt",
         "market_type": "native_perp",
         "dex": "",
-        "price": 0.067136,
-        "change_24h_pct": -13.7347,
-        "day_ntl_vlm": 628397.52,
-        "open_interest": 4315304.0,
-        "funding": -2.22449e-05
-      },
-      {
-        "symbol": "PENDLE",
-        "display_name": "PENDLE",
-        "asset_class": "crypto_alt",
-        "market_type": "native_perp",
-        "dex": "",
-        "price": 1.57485,
-        "change_24h_pct": -12.1226,
-        "day_ntl_vlm": 6174084.03,
-        "open_interest": 5772580.0,
-        "funding": -8.4926e-05
+        "price": 0.067245,
+        "change_24h_pct": -13.5946,
+        "day_ntl_vlm": 628415.08,
+        "open_interest": 4315830.0,
+        "funding": -2.34672e-05
       },
       {
         "symbol": "AZTEC",
@@ -1406,11 +1392,23 @@
         "asset_class": "crypto_alt",
         "market_type": "native_perp",
         "dex": "",
-        "price": 0.023331,
-        "change_24h_pct": -11.9352,
-        "day_ntl_vlm": 2043276.91,
-        "open_interest": 117646776.0,
+        "price": 0.023286,
+        "change_24h_pct": -12.1051,
+        "day_ntl_vlm": 2043313.48,
+        "open_interest": 117644132.0,
         "funding": 1.25e-05
+      },
+      {
+        "symbol": "PENDLE",
+        "display_name": "PENDLE",
+        "asset_class": "crypto_alt",
+        "market_type": "native_perp",
+        "dex": "",
+        "price": 1.57675,
+        "change_24h_pct": -12.0166,
+        "day_ntl_vlm": 6174157.99,
+        "open_interest": 5772568.0,
+        "funding": -8.44151e-05
       },
       {
         "symbol": "SYRUP",
@@ -1418,9 +1416,9 @@
         "asset_class": "crypto_alt",
         "market_type": "native_perp",
         "dex": "",
-        "price": 0.176305,
-        "change_24h_pct": -9.7168,
-        "day_ntl_vlm": 633265.43,
+        "price": 0.17663,
+        "change_24h_pct": -9.5504,
+        "day_ntl_vlm": 633283.79,
         "open_interest": 20216038.0,
         "funding": 1.25e-05
       },
@@ -1432,8 +1430,8 @@
         "dex": "",
         "price": 0.02224,
         "change_24h_pct": -9.2615,
-        "day_ntl_vlm": 188957.18,
-        "open_interest": 18934587.59999999,
+        "day_ntl_vlm": 190340.28,
+        "open_interest": 18933075.39999999,
         "funding": 1.25e-05
       }
     ],
@@ -1447,10 +1445,10 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 90.35,
-            "change_24h_pct": -3.0964,
-            "day_ntl_vlm": 554962662.95,
-            "open_interest": 1791593.586,
+            "price": 90.413,
+            "change_24h_pct": -3.0288,
+            "day_ntl_vlm": 555483509.68,
+            "open_interest": 1788919.622,
             "funding": 6.25e-06
           },
           {
@@ -1459,11 +1457,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 94.0275,
-            "change_24h_pct": -2.5319,
-            "day_ntl_vlm": 253722655.64,
-            "open_interest": 3385693.64,
-            "funding": 5.99217e-05
+            "price": 94.0255,
+            "change_24h_pct": -2.5339,
+            "day_ntl_vlm": 253968296.33,
+            "open_interest": 3385750.9,
+            "funding": 5.99865e-05
           },
           {
             "symbol": "xyz:NATGAS",
@@ -1471,11 +1469,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 3.0796,
-            "change_24h_pct": 1.9769,
+            "price": 3.081,
+            "change_24h_pct": 2.0232,
             "day_ntl_vlm": 13432465.15,
             "open_interest": 2172209.0,
-            "funding": 2.8873e-06
+            "funding": 3.0339e-06
           },
           {
             "symbol": "vntl:WHEAT",
@@ -1495,11 +1493,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 90.282,
-            "change_24h_pct": -2.8442,
+            "price": 90.318,
+            "change_24h_pct": -2.8055,
             "day_ntl_vlm": 626365.09,
             "open_interest": 3495.05,
-            "funding": -2.69288e-05
+            "funding": -2.66153e-05
           },
           {
             "symbol": "vntl:SOY",
@@ -1519,9 +1517,9 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 132.375,
-            "change_24h_pct": -3.1639,
-            "day_ntl_vlm": 314792.42,
+            "price": 132.14,
+            "change_24h_pct": -3.3358,
+            "day_ntl_vlm": 314832.4,
             "open_interest": 14215.984,
             "funding": 5.7078e-06
           },
@@ -1531,8 +1529,8 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 3.0802,
-            "change_24h_pct": 2.7555,
+            "price": 3.0817,
+            "change_24h_pct": 2.8056,
             "day_ntl_vlm": 28057.42,
             "open_interest": 70855.06,
             "funding": 7.5e-06
@@ -1569,8 +1567,8 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 3.0802,
-            "change_24h_pct": 2.7555,
+            "price": 3.0817,
+            "change_24h_pct": 2.8056,
             "day_ntl_vlm": 28057.42,
             "open_interest": 70855.06,
             "funding": 7.5e-06
@@ -1581,11 +1579,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 3.0796,
-            "change_24h_pct": 1.9769,
+            "price": 3.081,
+            "change_24h_pct": 2.0232,
             "day_ntl_vlm": 13432465.15,
             "open_interest": 2172209.0,
-            "funding": 2.8873e-06
+            "funding": 3.0339e-06
           },
           {
             "symbol": "vntl:SOY",
@@ -1665,11 +1663,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 94.0275,
-            "change_24h_pct": -2.5319,
-            "day_ntl_vlm": 253722655.64,
-            "open_interest": 3385693.64,
-            "funding": 5.99217e-05
+            "price": 94.0255,
+            "change_24h_pct": -2.5339,
+            "day_ntl_vlm": 253968296.33,
+            "open_interest": 3385750.9,
+            "funding": 5.99865e-05
           },
           {
             "symbol": "flx:OIL",
@@ -1677,11 +1675,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 90.282,
-            "change_24h_pct": -2.8442,
+            "price": 90.318,
+            "change_24h_pct": -2.8055,
             "day_ntl_vlm": 626365.09,
             "open_interest": 3495.05,
-            "funding": -2.69288e-05
+            "funding": -2.66153e-05
           }
         ],
         "top_losers_24h": [
@@ -1691,9 +1689,9 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 132.375,
-            "change_24h_pct": -3.1639,
-            "day_ntl_vlm": 314792.42,
+            "price": 132.14,
+            "change_24h_pct": -3.3358,
+            "day_ntl_vlm": 314832.4,
             "open_interest": 14215.984,
             "funding": 5.7078e-06
           },
@@ -1703,10 +1701,10 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 90.35,
-            "change_24h_pct": -3.0964,
-            "day_ntl_vlm": 554962662.95,
-            "open_interest": 1791593.586,
+            "price": 90.413,
+            "change_24h_pct": -3.0288,
+            "day_ntl_vlm": 555483509.68,
+            "open_interest": 1788919.622,
             "funding": 6.25e-06
           },
           {
@@ -1715,11 +1713,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 90.282,
-            "change_24h_pct": -2.8442,
+            "price": 90.318,
+            "change_24h_pct": -2.8055,
             "day_ntl_vlm": 626365.09,
             "open_interest": 3495.05,
-            "funding": -2.69288e-05
+            "funding": -2.66153e-05
           },
           {
             "symbol": "xyz:BRENTOIL",
@@ -1727,11 +1725,11 @@
             "asset_class": "commodity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 94.0275,
-            "change_24h_pct": -2.5319,
-            "day_ntl_vlm": 253722655.64,
-            "open_interest": 3385693.64,
-            "funding": 5.99217e-05
+            "price": 94.0255,
+            "change_24h_pct": -2.5339,
+            "day_ntl_vlm": 253968296.33,
+            "open_interest": 3385750.9,
+            "funding": 5.99865e-05
           },
           {
             "symbol": "vntl:WHEAT",
@@ -1816,11 +1814,11 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 541.875,
-            "change_24h_pct": -4.5894,
-            "day_ntl_vlm": 257382468.62,
-            "open_interest": 474588.76,
-            "funding": -4.07215e-05
+            "price": 542.435,
+            "change_24h_pct": -4.4908,
+            "day_ntl_vlm": 257542770.6,
+            "open_interest": 474242.94,
+            "funding": -4.13942e-05
           },
           {
             "symbol": "NEAR",
@@ -1828,11 +1826,11 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 2.49735,
-            "change_24h_pct": -2.1989,
-            "day_ntl_vlm": 174556085.94,
-            "open_interest": 53408673.60000001,
-            "funding": -1.64046e-05
+            "price": 2.4981,
+            "change_24h_pct": -2.1696,
+            "day_ntl_vlm": 174655197.64,
+            "open_interest": 53397939.00000001,
+            "funding": -1.5884e-05
           },
           {
             "symbol": "WLD",
@@ -1840,10 +1838,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.34224,
-            "change_24h_pct": -8.8065,
-            "day_ntl_vlm": 31885596.73,
-            "open_interest": 82161365.99999999,
+            "price": 0.34158,
+            "change_24h_pct": -8.9824,
+            "day_ntl_vlm": 31887722.7,
+            "open_interest": 82151989.39999999,
             "funding": 1.25e-05
           },
           {
@@ -1852,11 +1850,11 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 1.83525,
-            "change_24h_pct": -5.3702,
-            "day_ntl_vlm": 26240038.13,
-            "open_interest": 35829329.60000001,
-            "funding": -9.21544e-05
+            "price": 1.83805,
+            "change_24h_pct": -5.2258,
+            "day_ntl_vlm": 26281889.83,
+            "open_interest": 35792790.40000001,
+            "funding": -8.9884e-05
           },
           {
             "symbol": "XLM",
@@ -1864,10 +1862,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.16363,
-            "change_24h_pct": 10.8004,
-            "day_ntl_vlm": 19139925.38,
-            "open_interest": 88336738.0,
+            "price": 0.164305,
+            "change_24h_pct": 11.2574,
+            "day_ntl_vlm": 19165686.2,
+            "open_interest": 88504834.0,
             "funding": 1.25e-05
           },
           {
@@ -1876,10 +1874,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.003467,
-            "change_24h_pct": -1.2813,
-            "day_ntl_vlm": 15671808.16,
-            "open_interest": 7679978300.0,
+            "price": 0.003472,
+            "change_24h_pct": -1.139,
+            "day_ntl_vlm": 15671899.58,
+            "open_interest": 7679998732.0,
             "funding": 1.25e-05
           },
           {
@@ -1888,11 +1886,11 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.95895,
-            "change_24h_pct": -4.1242,
-            "day_ntl_vlm": 14945942.64,
-            "open_interest": 35468704.0,
-            "funding": 7.5999e-06
+            "price": 0.96027,
+            "change_24h_pct": -3.9922,
+            "day_ntl_vlm": 14957259.89,
+            "open_interest": 35447824.8,
+            "funding": 7.3592e-06
           },
           {
             "symbol": "PUMP",
@@ -1900,10 +1898,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.001787,
-            "change_24h_pct": -0.7222,
-            "day_ntl_vlm": 14557013.15,
-            "open_interest": 22111582512.0,
+            "price": 0.001792,
+            "change_24h_pct": -0.4444,
+            "day_ntl_vlm": 14573269.02,
+            "open_interest": 22112573946.0,
             "funding": 1.25e-05
           },
           {
@@ -1912,10 +1910,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.084998,
-            "change_24h_pct": -3.5757,
-            "day_ntl_vlm": 14465462.05,
-            "open_interest": 224437166.0,
+            "price": 0.085106,
+            "change_24h_pct": -3.4532,
+            "day_ntl_vlm": 14470856.69,
+            "open_interest": 224469222.0,
             "funding": 1.25e-05
           },
           {
@@ -1924,10 +1922,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 266.905,
-            "change_24h_pct": -4.0773,
-            "day_ntl_vlm": 12696415.44,
-            "open_interest": 138843.072,
+            "price": 267.325,
+            "change_24h_pct": -3.9263,
+            "day_ntl_vlm": 12699985.33,
+            "open_interest": 138817.65,
             "funding": 1.25e-05
           }
         ],
@@ -1938,10 +1936,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.16363,
-            "change_24h_pct": 10.8004,
-            "day_ntl_vlm": 19139925.38,
-            "open_interest": 88336738.0,
+            "price": 0.164305,
+            "change_24h_pct": 11.2574,
+            "day_ntl_vlm": 19165686.2,
+            "open_interest": 88504834.0,
             "funding": 1.25e-05
           },
           {
@@ -1950,9 +1948,9 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 2.2996,
-            "change_24h_pct": 10.372,
-            "day_ntl_vlm": 1567419.57,
+            "price": 2.3007,
+            "change_24h_pct": 10.4248,
+            "day_ntl_vlm": 1567450.68,
             "open_interest": 319738.48,
             "funding": 1.25e-05
           },
@@ -1974,11 +1972,11 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.007579,
-            "change_24h_pct": 8.5972,
+            "price": 0.007592,
+            "change_24h_pct": 8.7835,
             "day_ntl_vlm": 2974483.28,
             "open_interest": 141963126.0,
-            "funding": -0.0003555056
+            "funding": -0.0003588751
           },
           {
             "symbol": "ICP",
@@ -1986,10 +1984,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 2.83095,
-            "change_24h_pct": 6.5388,
-            "day_ntl_vlm": 7655017.29,
-            "open_interest": 1542951.4,
+            "price": 2.83845,
+            "change_24h_pct": 6.8211,
+            "day_ntl_vlm": 7659376.93,
+            "open_interest": 1543775.6,
             "funding": 1.25e-05
           },
           {
@@ -1998,10 +1996,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.540585,
-            "change_24h_pct": 4.6874,
-            "day_ntl_vlm": 7928010.31,
-            "open_interest": 9048802.0,
+            "price": 0.543675,
+            "change_24h_pct": 5.2858,
+            "day_ntl_vlm": 7929459.31,
+            "open_interest": 9047106.0,
             "funding": 1.25e-05
           },
           {
@@ -2010,11 +2008,11 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.059119,
-            "change_24h_pct": 4.1488,
-            "day_ntl_vlm": 3020529.58,
-            "open_interest": 195208034.0,
-            "funding": -2.696e-06
+            "price": 0.05926,
+            "change_24h_pct": 4.3972,
+            "day_ntl_vlm": 3021215.89,
+            "open_interest": 195184782.0,
+            "funding": -1.4053e-06
           },
           {
             "symbol": "STABLE",
@@ -2022,10 +2020,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.038467,
-            "change_24h_pct": 4.1084,
-            "day_ntl_vlm": 462853.81,
-            "open_interest": 77209402.0,
+            "price": 0.038526,
+            "change_24h_pct": 4.268,
+            "day_ntl_vlm": 462905.72,
+            "open_interest": 77212108.0,
             "funding": 1.25e-05
           },
           {
@@ -2034,23 +2032,23 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 393.42,
-            "change_24h_pct": 3.3466,
-            "day_ntl_vlm": 9111710.39,
-            "open_interest": 106390.48,
+            "price": 393.885,
+            "change_24h_pct": 3.4688,
+            "day_ntl_vlm": 9113339.79,
+            "open_interest": 106388.208,
             "funding": 1.25e-05
           },
           {
-            "symbol": "SHIA",
-            "display_name": "SHIA",
+            "symbol": "LAYER",
+            "display_name": "LAYER",
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.000621,
-            "change_24h_pct": 2.8146,
-            "day_ntl_vlm": 0.0,
-            "open_interest": 0.0,
-            "funding": 0.0
+            "price": 0.087711,
+            "change_24h_pct": 2.9665,
+            "day_ntl_vlm": 435046.76,
+            "open_interest": 12003900.0,
+            "funding": -8.87139e-05
           }
         ],
         "top_losers_24h": [
@@ -2060,23 +2058,11 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.067136,
-            "change_24h_pct": -13.7347,
-            "day_ntl_vlm": 628397.52,
-            "open_interest": 4315304.0,
-            "funding": -2.22449e-05
-          },
-          {
-            "symbol": "PENDLE",
-            "display_name": "PENDLE",
-            "asset_class": "crypto_alt",
-            "market_type": "native_perp",
-            "dex": "",
-            "price": 1.57485,
-            "change_24h_pct": -12.1226,
-            "day_ntl_vlm": 6174084.03,
-            "open_interest": 5772580.0,
-            "funding": -8.4926e-05
+            "price": 0.067245,
+            "change_24h_pct": -13.5946,
+            "day_ntl_vlm": 628415.08,
+            "open_interest": 4315830.0,
+            "funding": -2.34672e-05
           },
           {
             "symbol": "AZTEC",
@@ -2084,11 +2070,23 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.023331,
-            "change_24h_pct": -11.9352,
-            "day_ntl_vlm": 2043276.91,
-            "open_interest": 117646776.0,
+            "price": 0.023286,
+            "change_24h_pct": -12.1051,
+            "day_ntl_vlm": 2043313.48,
+            "open_interest": 117644132.0,
             "funding": 1.25e-05
+          },
+          {
+            "symbol": "PENDLE",
+            "display_name": "PENDLE",
+            "asset_class": "crypto_alt",
+            "market_type": "native_perp",
+            "dex": "",
+            "price": 1.57675,
+            "change_24h_pct": -12.0166,
+            "day_ntl_vlm": 6174157.99,
+            "open_interest": 5772568.0,
+            "funding": -8.44151e-05
           },
           {
             "symbol": "SYRUP",
@@ -2096,9 +2094,9 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.176305,
-            "change_24h_pct": -9.7168,
-            "day_ntl_vlm": 633265.43,
+            "price": 0.17663,
+            "change_24h_pct": -9.5504,
+            "day_ntl_vlm": 633283.79,
             "open_interest": 20216038.0,
             "funding": 1.25e-05
           },
@@ -2110,8 +2108,8 @@
             "dex": "",
             "price": 0.02224,
             "change_24h_pct": -9.2615,
-            "day_ntl_vlm": 188957.18,
-            "open_interest": 18934587.59999999,
+            "day_ntl_vlm": 190340.28,
+            "open_interest": 18933075.39999999,
             "funding": 1.25e-05
           },
           {
@@ -2120,10 +2118,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.34224,
-            "change_24h_pct": -8.8065,
-            "day_ntl_vlm": 31885596.73,
-            "open_interest": 82161365.99999999,
+            "price": 0.34158,
+            "change_24h_pct": -8.9824,
+            "day_ntl_vlm": 31887722.7,
+            "open_interest": 82151989.39999999,
             "funding": 1.25e-05
           },
           {
@@ -2132,11 +2130,23 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.028444,
-            "change_24h_pct": -7.7033,
-            "day_ntl_vlm": 355342.36,
+            "price": 0.0285,
+            "change_24h_pct": -7.5216,
+            "day_ntl_vlm": 355392.2,
             "open_interest": 16682014.0,
-            "funding": -6.509e-06
+            "funding": -7.517e-06
+          },
+          {
+            "symbol": "NIL",
+            "display_name": "NIL",
+            "asset_class": "crypto_alt",
+            "market_type": "native_perp",
+            "dex": "",
+            "price": 0.07005,
+            "change_24h_pct": -7.1127,
+            "day_ntl_vlm": 2466068.38,
+            "open_interest": 48129160.0,
+            "funding": 1.25e-05
           },
           {
             "symbol": "EIGEN",
@@ -2144,22 +2154,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.2282,
-            "change_24h_pct": -7.3488,
-            "day_ntl_vlm": 1789142.48,
-            "open_interest": 18122531.36,
-            "funding": 1.25e-05
-          },
-          {
-            "symbol": "MON",
-            "display_name": "MON",
-            "asset_class": "crypto_alt",
-            "market_type": "native_perp",
-            "dex": "",
-            "price": 0.023266,
-            "change_24h_pct": -7.144,
-            "day_ntl_vlm": 2713449.23,
-            "open_interest": 1375875692.0,
+            "price": 0.2288,
+            "change_24h_pct": -7.1052,
+            "day_ntl_vlm": 1791755.37,
+            "open_interest": 18127770.73999999,
             "funding": 1.25e-05
           },
           {
@@ -2168,10 +2166,10 @@
             "asset_class": "crypto_alt",
             "market_type": "native_perp",
             "dex": "",
-            "price": 2.1309,
-            "change_24h_pct": -7.0774,
-            "day_ntl_vlm": 4733519.79,
-            "open_interest": 2440707.4,
+            "price": 2.1344,
+            "change_24h_pct": -6.9248,
+            "day_ntl_vlm": 4733537.02,
+            "open_interest": 2440691.2,
             "funding": 1.25e-05
           }
         ]
@@ -2185,11 +2183,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 74314.5,
-            "change_24h_pct": -2.0825,
-            "day_ntl_vlm": 2277999899.8,
-            "open_interest": 30792.71894,
-            "funding": 1.2393e-05
+            "price": 74363.5,
+            "change_24h_pct": -2.0179,
+            "day_ntl_vlm": 2278692979.23,
+            "open_interest": 30794.55712,
+            "funding": 1.25e-05
           },
           {
             "symbol": "ETH",
@@ -2197,11 +2195,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 2020.25,
-            "change_24h_pct": -2.5305,
-            "day_ntl_vlm": 790908484.98,
-            "open_interest": 600568.6092,
-            "funding": 2.879e-06
+            "price": 2021.85,
+            "change_24h_pct": -2.4533,
+            "day_ntl_vlm": 793008455.56,
+            "open_interest": 598782.6406,
+            "funding": 2.8208e-06
           },
           {
             "symbol": "HYPE",
@@ -2209,11 +2207,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 57.6365,
-            "change_24h_pct": -3.145,
-            "day_ntl_vlm": 773093919.01,
-            "open_interest": 21731267.51999997,
-            "funding": -9.1123e-06
+            "price": 57.79,
+            "change_24h_pct": -2.887,
+            "day_ntl_vlm": 773332198.3,
+            "open_interest": 21730652.87999996,
+            "funding": -9.3091e-06
           },
           {
             "symbol": "SOL",
@@ -2221,11 +2219,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 82.2905,
-            "change_24h_pct": -1.6135,
-            "day_ntl_vlm": 145766481.37,
-            "open_interest": 3846340.98,
-            "funding": -2.36807e-05
+            "price": 82.4205,
+            "change_24h_pct": -1.458,
+            "day_ntl_vlm": 145778582.9,
+            "open_interest": 3846372.1,
+            "funding": -2.31612e-05
           },
           {
             "symbol": "XRP",
@@ -2233,11 +2231,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 1.30545,
-            "change_24h_pct": -1.7128,
-            "day_ntl_vlm": 35198039.34,
-            "open_interest": 55331598.0,
-            "funding": -2.5582e-06
+            "price": 1.30645,
+            "change_24h_pct": -1.6376,
+            "day_ntl_vlm": 35259272.75,
+            "open_interest": 55353004.0,
+            "funding": -2.58e-06
           },
           {
             "symbol": "DOGE",
@@ -2245,10 +2243,10 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.100445,
-            "change_24h_pct": -0.5495,
-            "day_ntl_vlm": 10046272.89,
-            "open_interest": 445255840.0,
+            "price": 0.100545,
+            "change_24h_pct": -0.4505,
+            "day_ntl_vlm": 10049120.04,
+            "open_interest": 445268078.0,
             "funding": 1.25e-05
           },
           {
@@ -2257,10 +2255,10 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 648.585,
-            "change_24h_pct": -1.1891,
-            "day_ntl_vlm": 3273526.47,
-            "open_interest": 45083.002,
+            "price": 648.54,
+            "change_24h_pct": -1.1959,
+            "day_ntl_vlm": 3273924.6,
+            "open_interest": 45081.774,
             "funding": 1.25e-05
           },
           {
@@ -2295,10 +2293,10 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.100445,
-            "change_24h_pct": -0.5495,
-            "day_ntl_vlm": 10046272.89,
-            "open_interest": 445255840.0,
+            "price": 0.100545,
+            "change_24h_pct": -0.4505,
+            "day_ntl_vlm": 10049120.04,
+            "open_interest": 445268078.0,
             "funding": 1.25e-05
           },
           {
@@ -2307,10 +2305,10 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 648.585,
-            "change_24h_pct": -1.1891,
-            "day_ntl_vlm": 3273526.47,
-            "open_interest": 45083.002,
+            "price": 648.54,
+            "change_24h_pct": -1.1959,
+            "day_ntl_vlm": 3273924.6,
+            "open_interest": 45081.774,
             "funding": 1.25e-05
           },
           {
@@ -2319,11 +2317,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 82.2905,
-            "change_24h_pct": -1.6135,
-            "day_ntl_vlm": 145766481.37,
-            "open_interest": 3846340.98,
-            "funding": -2.36807e-05
+            "price": 82.4205,
+            "change_24h_pct": -1.458,
+            "day_ntl_vlm": 145778582.9,
+            "open_interest": 3846372.1,
+            "funding": -2.31612e-05
           },
           {
             "symbol": "XRP",
@@ -2331,11 +2329,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 1.30545,
-            "change_24h_pct": -1.7128,
-            "day_ntl_vlm": 35198039.34,
-            "open_interest": 55331598.0,
-            "funding": -2.5582e-06
+            "price": 1.30645,
+            "change_24h_pct": -1.6376,
+            "day_ntl_vlm": 35259272.75,
+            "open_interest": 55353004.0,
+            "funding": -2.58e-06
           },
           {
             "symbol": "BTC",
@@ -2343,11 +2341,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 74314.5,
-            "change_24h_pct": -2.0825,
-            "day_ntl_vlm": 2277999899.8,
-            "open_interest": 30792.71894,
-            "funding": 1.2393e-05
+            "price": 74363.5,
+            "change_24h_pct": -2.0179,
+            "day_ntl_vlm": 2278692979.23,
+            "open_interest": 30794.55712,
+            "funding": 1.25e-05
           },
           {
             "symbol": "ETH",
@@ -2355,11 +2353,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 2020.25,
-            "change_24h_pct": -2.5305,
-            "day_ntl_vlm": 790908484.98,
-            "open_interest": 600568.6092,
-            "funding": 2.879e-06
+            "price": 2021.85,
+            "change_24h_pct": -2.4533,
+            "day_ntl_vlm": 793008455.56,
+            "open_interest": 598782.6406,
+            "funding": 2.8208e-06
           },
           {
             "symbol": "HYPE",
@@ -2367,11 +2365,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 57.6365,
-            "change_24h_pct": -3.145,
-            "day_ntl_vlm": 773093919.01,
-            "open_interest": 21731267.51999997,
-            "funding": -9.1123e-06
+            "price": 57.79,
+            "change_24h_pct": -2.887,
+            "day_ntl_vlm": 773332198.3,
+            "open_interest": 21730652.87999996,
+            "funding": -9.3091e-06
           }
         ],
         "top_losers_24h": [
@@ -2381,11 +2379,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 57.6365,
-            "change_24h_pct": -3.145,
-            "day_ntl_vlm": 773093919.01,
-            "open_interest": 21731267.51999997,
-            "funding": -9.1123e-06
+            "price": 57.79,
+            "change_24h_pct": -2.887,
+            "day_ntl_vlm": 773332198.3,
+            "open_interest": 21730652.87999996,
+            "funding": -9.3091e-06
           },
           {
             "symbol": "ETH",
@@ -2393,11 +2391,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 2020.25,
-            "change_24h_pct": -2.5305,
-            "day_ntl_vlm": 790908484.98,
-            "open_interest": 600568.6092,
-            "funding": 2.879e-06
+            "price": 2021.85,
+            "change_24h_pct": -2.4533,
+            "day_ntl_vlm": 793008455.56,
+            "open_interest": 598782.6406,
+            "funding": 2.8208e-06
           },
           {
             "symbol": "BTC",
@@ -2405,11 +2403,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 74314.5,
-            "change_24h_pct": -2.0825,
-            "day_ntl_vlm": 2277999899.8,
-            "open_interest": 30792.71894,
-            "funding": 1.2393e-05
+            "price": 74363.5,
+            "change_24h_pct": -2.0179,
+            "day_ntl_vlm": 2278692979.23,
+            "open_interest": 30794.55712,
+            "funding": 1.25e-05
           },
           {
             "symbol": "XRP",
@@ -2417,11 +2415,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 1.30545,
-            "change_24h_pct": -1.7128,
-            "day_ntl_vlm": 35198039.34,
-            "open_interest": 55331598.0,
-            "funding": -2.5582e-06
+            "price": 1.30645,
+            "change_24h_pct": -1.6376,
+            "day_ntl_vlm": 35259272.75,
+            "open_interest": 55353004.0,
+            "funding": -2.58e-06
           },
           {
             "symbol": "SOL",
@@ -2429,11 +2427,11 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 82.2905,
-            "change_24h_pct": -1.6135,
-            "day_ntl_vlm": 145766481.37,
-            "open_interest": 3846340.98,
-            "funding": -2.36807e-05
+            "price": 82.4205,
+            "change_24h_pct": -1.458,
+            "day_ntl_vlm": 145778582.9,
+            "open_interest": 3846372.1,
+            "funding": -2.31612e-05
           },
           {
             "symbol": "BNB",
@@ -2441,10 +2439,10 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 648.585,
-            "change_24h_pct": -1.1891,
-            "day_ntl_vlm": 3273526.47,
-            "open_interest": 45083.002,
+            "price": 648.54,
+            "change_24h_pct": -1.1959,
+            "day_ntl_vlm": 3273924.6,
+            "open_interest": 45081.774,
             "funding": 1.25e-05
           },
           {
@@ -2453,10 +2451,10 @@
             "asset_class": "crypto_major",
             "market_type": "native_perp",
             "dex": "",
-            "price": 0.100445,
-            "change_24h_pct": -0.5495,
-            "day_ntl_vlm": 10046272.89,
-            "open_interest": 445255840.0,
+            "price": 0.100545,
+            "change_24h_pct": -0.4505,
+            "day_ntl_vlm": 10049120.04,
+            "open_interest": 445268078.0,
             "funding": 1.25e-05
           },
           {
@@ -2482,10 +2480,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 904.88,
-            "change_24h_pct": -1.1028,
-            "day_ntl_vlm": 443986238.53,
-            "open_interest": 210817.514,
+            "price": 905.915,
+            "change_24h_pct": -0.9896,
+            "day_ntl_vlm": 444094942.78,
+            "open_interest": 210743.578,
             "funding": 6.25e-06
           },
           {
@@ -2494,11 +2492,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1556.65,
-            "change_24h_pct": -3.8274,
-            "day_ntl_vlm": 112489442.95,
-            "open_interest": 30298.018,
-            "funding": -4.2558e-06
+            "price": 1558.75,
+            "change_24h_pct": -3.6976,
+            "day_ntl_vlm": 112507085.46,
+            "open_interest": 30278.424,
+            "funding": -3.979e-06
           },
           {
             "symbol": "xyz:NVDA",
@@ -2506,11 +2504,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 211.725,
-            "change_24h_pct": -1.1416,
-            "day_ntl_vlm": 81514344.54,
-            "open_interest": 734657.674,
-            "funding": 1.32025e-05
+            "price": 211.745,
+            "change_24h_pct": -1.1323,
+            "day_ntl_vlm": 81531802.51,
+            "open_interest": 734820.04,
+            "funding": 1.3516e-05
           },
           {
             "symbol": "xyz:INTC",
@@ -2518,10 +2516,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 119.6,
-            "change_24h_pct": -2.8905,
-            "day_ntl_vlm": 44428367.68,
-            "open_interest": 425889.3,
+            "price": 119.67,
+            "change_24h_pct": -2.8337,
+            "day_ntl_vlm": 44429261.77,
+            "open_interest": 425877.24,
             "funding": 6.25e-06
           },
           {
@@ -2530,10 +2528,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 59.4095,
-            "change_24h_pct": -4.3987,
-            "day_ntl_vlm": 41748310.0,
-            "open_interest": 525756.4,
+            "price": 59.715,
+            "change_24h_pct": -3.9071,
+            "day_ntl_vlm": 41761356.83,
+            "open_interest": 525472.0,
             "funding": 6.25e-06
           },
           {
@@ -2542,11 +2540,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1485.95,
-            "change_24h_pct": -1.8722,
-            "day_ntl_vlm": 40578457.15,
-            "open_interest": 40985.588,
-            "funding": 0.0002718364
+            "price": 1486.1,
+            "change_24h_pct": -1.8622,
+            "day_ntl_vlm": 40838367.42,
+            "open_interest": 40669.49,
+            "funding": 0.0002702898
           },
           {
             "symbol": "xyz:CBRS",
@@ -2554,10 +2552,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 264.845,
-            "change_24h_pct": 9.8532,
-            "day_ntl_vlm": 35278147.01,
-            "open_interest": 170197.88,
+            "price": 264.355,
+            "change_24h_pct": 9.6499,
+            "day_ntl_vlm": 35280422.43,
+            "open_interest": 170198.68,
             "funding": 6.25e-06
           },
           {
@@ -2566,10 +2564,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 437.97,
-            "change_24h_pct": 0.5579,
-            "day_ntl_vlm": 30194796.37,
-            "open_interest": 85645.072,
+            "price": 437.985,
+            "change_24h_pct": 0.5614,
+            "day_ntl_vlm": 30195944.71,
+            "open_interest": 85645.292,
             "funding": 6.25e-06
           },
           {
@@ -2578,11 +2576,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 630.485,
-            "change_24h_pct": 3.2566,
-            "day_ntl_vlm": 30094166.09,
+            "price": 630.31,
+            "change_24h_pct": 3.228,
+            "day_ntl_vlm": 30094266.34,
             "open_interest": 62980.996,
-            "funding": 3.42749e-05
+            "funding": 3.46528e-05
           },
           {
             "symbol": "xyz:MRVL",
@@ -2590,10 +2588,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 197.05,
-            "change_24h_pct": -7.9335,
-            "day_ntl_vlm": 28656835.4,
-            "open_interest": 74451.04,
+            "price": 196.815,
+            "change_24h_pct": -8.0433,
+            "day_ntl_vlm": 28657602.28,
+            "open_interest": 74455.76,
             "funding": 6.25e-06
           }
         ],
@@ -2604,10 +2602,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 264.845,
-            "change_24h_pct": 9.8532,
-            "day_ntl_vlm": 35278147.01,
-            "open_interest": 170197.88,
+            "price": 264.355,
+            "change_24h_pct": 9.6499,
+            "day_ntl_vlm": 35280422.43,
+            "open_interest": 170198.68,
             "funding": 6.25e-06
           },
           {
@@ -2620,7 +2618,7 @@
             "change_24h_pct": 4.7851,
             "day_ntl_vlm": 17656.84,
             "open_interest": 8638.8,
-            "funding": -6.734e-06
+            "funding": -6.7508e-06
           },
           {
             "symbol": "xyz:HIMS",
@@ -2628,11 +2626,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 25.21,
-            "change_24h_pct": 3.8218,
-            "day_ntl_vlm": 4080089.26,
-            "open_interest": 179396.38,
-            "funding": -1.50748e-05
+            "price": 25.215,
+            "change_24h_pct": 3.8424,
+            "day_ntl_vlm": 4082518.99,
+            "open_interest": 179589.04,
+            "funding": -1.44404e-05
           },
           {
             "symbol": "xyz:META",
@@ -2640,11 +2638,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 630.485,
-            "change_24h_pct": 3.2566,
-            "day_ntl_vlm": 30094166.09,
+            "price": 630.31,
+            "change_24h_pct": 3.228,
+            "day_ntl_vlm": 30094266.34,
             "open_interest": 62980.996,
-            "funding": 3.42749e-05
+            "funding": 3.46528e-05
           },
           {
             "symbol": "xyz:HOOD",
@@ -2652,11 +2650,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 76.184,
-            "change_24h_pct": 2.8888,
-            "day_ntl_vlm": 9311557.57,
-            "open_interest": 148881.516,
-            "funding": 2.7459e-06
+            "price": 76.194,
+            "change_24h_pct": 2.9023,
+            "day_ntl_vlm": 9312851.36,
+            "open_interest": 148908.614,
+            "funding": 4.2317e-06
           },
           {
             "symbol": "xyz:AMZN",
@@ -2664,11 +2662,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 272.53,
-            "change_24h_pct": 2.826,
-            "day_ntl_vlm": 9914515.06,
-            "open_interest": 83392.35,
-            "funding": 9.0937e-06
+            "price": 272.525,
+            "change_24h_pct": 2.8241,
+            "day_ntl_vlm": 9960513.67,
+            "open_interest": 83347.978,
+            "funding": 9.3157e-06
           },
           {
             "symbol": "xyz:RKLB",
@@ -2676,10 +2674,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 148.405,
-            "change_24h_pct": 2.7664,
-            "day_ntl_vlm": 13394045.03,
-            "open_interest": 58796.94,
+            "price": 148.33,
+            "change_24h_pct": 2.7145,
+            "day_ntl_vlm": 13394079.29,
+            "open_interest": 58796.48,
             "funding": 6.25e-06
           },
           {
@@ -2692,7 +2690,7 @@
             "change_24h_pct": 2.2123,
             "day_ntl_vlm": 1436865.58,
             "open_interest": 62207.32,
-            "funding": 6.48862e-05
+            "funding": 6.56429e-05
           },
           {
             "symbol": "xyz:BIRD",
@@ -2704,7 +2702,7 @@
             "change_24h_pct": 2.0406,
             "day_ntl_vlm": 900980.76,
             "open_interest": 88783.4,
-            "funding": -8.49169e-05
+            "funding": -8.38279e-05
           },
           {
             "symbol": "xyz:TSM",
@@ -2712,10 +2710,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 421.38,
-            "change_24h_pct": 1.854,
-            "day_ntl_vlm": 8730484.43,
-            "open_interest": 32811.922,
+            "price": 421.305,
+            "change_24h_pct": 1.8358,
+            "day_ntl_vlm": 8730507.6,
+            "open_interest": 32811.92,
             "funding": 6.25e-06
           }
         ],
@@ -2726,10 +2724,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 197.05,
-            "change_24h_pct": -7.9335,
-            "day_ntl_vlm": 28656835.4,
-            "open_interest": 74451.04,
+            "price": 196.815,
+            "change_24h_pct": -8.0433,
+            "day_ntl_vlm": 28657602.28,
+            "open_interest": 74455.76,
             "funding": 6.25e-06
           },
           {
@@ -2740,21 +2738,9 @@
             "dex": "xyz",
             "price": 152.035,
             "change_24h_pct": -4.9246,
-            "day_ntl_vlm": 9291061.79,
-            "open_interest": 98644.188,
-            "funding": 2.2161e-06
-          },
-          {
-            "symbol": "xyz:SMSN",
-            "display_name": "SAMSUNG",
-            "asset_class": "equity",
-            "market_type": "hip3_perp",
-            "dex": "xyz",
-            "price": 203.795,
-            "change_24h_pct": -4.7776,
-            "day_ntl_vlm": 5997662.76,
-            "open_interest": 47022.46,
-            "funding": 8.04747e-05
+            "day_ntl_vlm": 9320357.93,
+            "open_interest": 98834.82,
+            "funding": 3.605e-07
           },
           {
             "symbol": "xyz:USAR",
@@ -2762,11 +2748,23 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 26.5015,
-            "change_24h_pct": -4.712,
-            "day_ntl_vlm": 3628976.16,
-            "open_interest": 48597.04,
+            "price": 26.4705,
+            "change_24h_pct": -4.8235,
+            "day_ntl_vlm": 3635186.13,
+            "open_interest": 49065.54,
             "funding": 6.25e-06
+          },
+          {
+            "symbol": "xyz:SMSN",
+            "display_name": "SAMSUNG",
+            "asset_class": "equity",
+            "market_type": "hip3_perp",
+            "dex": "xyz",
+            "price": 203.785,
+            "change_24h_pct": -4.7823,
+            "day_ntl_vlm": 5997662.76,
+            "open_interest": 47022.46,
+            "funding": 7.50678e-05
           },
           {
             "symbol": "km:XIAOMI",
@@ -2778,7 +2776,7 @@
             "change_24h_pct": -4.6449,
             "day_ntl_vlm": 368754.69,
             "open_interest": 5097.598,
-            "funding": 0.0002683685
+            "funding": 0.0002720552
           },
           {
             "symbol": "xyz:DRAM",
@@ -2786,10 +2784,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 59.4095,
-            "change_24h_pct": -4.3987,
-            "day_ntl_vlm": 41748310.0,
-            "open_interest": 525756.4,
+            "price": 59.715,
+            "change_24h_pct": -3.9071,
+            "day_ntl_vlm": 41761356.83,
+            "open_interest": 525472.0,
             "funding": 6.25e-06
           },
           {
@@ -2798,23 +2796,11 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 173.51,
-            "change_24h_pct": -3.8939,
+            "price": 173.525,
+            "change_24h_pct": -3.8856,
             "day_ntl_vlm": 5448177.63,
             "open_interest": 24705.174,
             "funding": 6.25e-06
-          },
-          {
-            "symbol": "xyz:SNDK",
-            "display_name": "SNDK",
-            "asset_class": "equity",
-            "market_type": "hip3_perp",
-            "dex": "xyz",
-            "price": 1556.65,
-            "change_24h_pct": -3.8274,
-            "day_ntl_vlm": 112489442.95,
-            "open_interest": 30298.018,
-            "funding": -4.2558e-06
           },
           {
             "symbol": "flx:COIN",
@@ -2822,11 +2808,23 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 173.56,
-            "change_24h_pct": -3.7809,
+            "price": 173.605,
+            "change_24h_pct": -3.756,
             "day_ntl_vlm": 95663.26,
             "open_interest": 311.02,
             "funding": 0.0
+          },
+          {
+            "symbol": "xyz:SNDK",
+            "display_name": "SNDK",
+            "asset_class": "equity",
+            "market_type": "hip3_perp",
+            "dex": "xyz",
+            "price": 1558.75,
+            "change_24h_pct": -3.6976,
+            "day_ntl_vlm": 112507085.46,
+            "open_interest": 30278.424,
+            "funding": -3.979e-06
           },
           {
             "symbol": "xyz:AMD",
@@ -2834,10 +2832,10 @@
             "asset_class": "equity",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 490.19,
-            "change_24h_pct": -3.5875,
-            "day_ntl_vlm": 26085503.95,
-            "open_interest": 51054.624,
+            "price": 490.24,
+            "change_24h_pct": -3.5777,
+            "day_ntl_vlm": 26089606.66,
+            "open_interest": 51063.59,
             "funding": 6.25e-06
           }
         ]
@@ -2855,7 +2853,7 @@
             "change_24h_pct": 0.135,
             "day_ntl_vlm": 2090905.27,
             "open_interest": 54828.32,
-            "funding": -2.48952e-05
+            "funding": -2.52895e-05
           },
           {
             "symbol": "xyz:EUR",
@@ -2865,9 +2863,9 @@
             "dex": "xyz",
             "price": 1.16235,
             "change_24h_pct": -0.1503,
-            "day_ntl_vlm": 1608580.81,
+            "day_ntl_vlm": 1608666.5,
             "open_interest": 8322919.8,
-            "funding": 6.8091e-06
+            "funding": 7.0645e-06
           },
           {
             "symbol": "km:EUR",
@@ -2879,7 +2877,7 @@
             "change_24h_pct": -0.1675,
             "day_ntl_vlm": 1040188.55,
             "open_interest": 807541.4,
-            "funding": -1.4323e-06
+            "funding": -2.0312e-06
           },
           {
             "symbol": "xyz:GBP",
@@ -2911,8 +2909,8 @@
             "asset_class": "fx",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1502.3,
-            "change_24h_pct": 0.0133,
+            "price": 1502.6,
+            "change_24h_pct": 0.0333,
             "day_ntl_vlm": 0.0,
             "open_interest": 0.0,
             "funding": 0.0
@@ -2929,7 +2927,7 @@
             "change_24h_pct": 0.135,
             "day_ntl_vlm": 2090905.27,
             "open_interest": 54828.32,
-            "funding": -2.48952e-05
+            "funding": -2.52895e-05
           },
           {
             "symbol": "xyz:KRW",
@@ -2937,8 +2935,8 @@
             "asset_class": "fx",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1502.3,
-            "change_24h_pct": 0.0133,
+            "price": 1502.6,
+            "change_24h_pct": 0.0333,
             "day_ntl_vlm": 0.0,
             "open_interest": 0.0,
             "funding": 0.0
@@ -2963,9 +2961,9 @@
             "dex": "xyz",
             "price": 1.16235,
             "change_24h_pct": -0.1503,
-            "day_ntl_vlm": 1608580.81,
+            "day_ntl_vlm": 1608666.5,
             "open_interest": 8322919.8,
-            "funding": 6.8091e-06
+            "funding": 7.0645e-06
           },
           {
             "symbol": "km:EUR",
@@ -2977,7 +2975,7 @@
             "change_24h_pct": -0.1675,
             "day_ntl_vlm": 1040188.55,
             "open_interest": 807541.4,
-            "funding": -1.4323e-06
+            "funding": -2.0312e-06
           },
           {
             "symbol": "xyz:GBP",
@@ -3015,7 +3013,7 @@
             "change_24h_pct": -0.1675,
             "day_ntl_vlm": 1040188.55,
             "open_interest": 807541.4,
-            "funding": -1.4323e-06
+            "funding": -2.0312e-06
           },
           {
             "symbol": "xyz:EUR",
@@ -3025,9 +3023,9 @@
             "dex": "xyz",
             "price": 1.16235,
             "change_24h_pct": -0.1503,
-            "day_ntl_vlm": 1608580.81,
+            "day_ntl_vlm": 1608666.5,
             "open_interest": 8322919.8,
-            "funding": 6.8091e-06
+            "funding": 7.0645e-06
           },
           {
             "symbol": "xyz:DXY",
@@ -3047,8 +3045,8 @@
             "asset_class": "fx",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1502.3,
-            "change_24h_pct": 0.0133,
+            "price": 1502.6,
+            "change_24h_pct": 0.0333,
             "day_ntl_vlm": 0.0,
             "open_interest": 0.0,
             "funding": 0.0
@@ -3063,7 +3061,7 @@
             "change_24h_pct": 0.135,
             "day_ntl_vlm": 2090905.27,
             "open_interest": 54828.32,
-            "funding": -2.48952e-05
+            "funding": -2.52895e-05
           }
         ]
       },
@@ -3078,8 +3076,8 @@
             "dex": "xyz",
             "price": 29912.5,
             "change_24h_pct": -0.378,
-            "day_ntl_vlm": 303192782.88,
-            "open_interest": 13677.1698,
+            "day_ntl_vlm": 303803672.41,
+            "open_interest": 13661.74,
             "funding": 6.25e-06
           },
           {
@@ -3088,11 +3086,11 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 7516.15,
-            "change_24h_pct": -0.1468,
-            "day_ntl_vlm": 292214323.66,
-            "open_interest": 63673.55,
-            "funding": 7.115e-07
+            "price": 7516.35,
+            "change_24h_pct": -0.1441,
+            "day_ntl_vlm": 292289756.27,
+            "open_interest": 63670.198,
+            "funding": 8.42e-07
           },
           {
             "symbol": "km:US500",
@@ -3100,10 +3098,10 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 750.01,
-            "change_24h_pct": -0.1026,
-            "day_ntl_vlm": 9926149.24,
-            "open_interest": 3432.602,
+            "price": 750.025,
+            "change_24h_pct": -0.1006,
+            "day_ntl_vlm": 9936583.75,
+            "open_interest": 3413.036,
             "funding": 5.7078e-06
           },
           {
@@ -3112,10 +3110,10 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 727.785,
-            "change_24h_pct": -0.373,
-            "day_ntl_vlm": 1884389.78,
-            "open_interest": 580.63,
+            "price": 727.845,
+            "change_24h_pct": -0.3648,
+            "day_ntl_vlm": 1885419.86,
+            "open_interest": 580.498,
             "funding": 5.7078e-06
           },
           {
@@ -3124,11 +3122,11 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 64789.0,
-            "change_24h_pct": -1.6112,
-            "day_ntl_vlm": 922249.01,
-            "open_interest": 32.8842,
-            "funding": 6.25e-06
+            "price": 64788.5,
+            "change_24h_pct": -1.612,
+            "day_ntl_vlm": 922293.06,
+            "open_interest": 32.88488,
+            "funding": 6.2843e-06
           },
           {
             "symbol": "flx:USA500",
@@ -3136,8 +3134,8 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 7526.35,
-            "change_24h_pct": -0.1042,
+            "price": 7527.1,
+            "change_24h_pct": -0.0942,
             "day_ntl_vlm": 868791.67,
             "open_interest": 185.9346,
             "funding": 7.5e-06
@@ -3148,11 +3146,11 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1293.7,
-            "change_24h_pct": -2.0295,
+            "price": 1293.0,
+            "change_24h_pct": -2.0825,
             "day_ntl_vlm": 406137.62,
             "open_interest": 344.0984,
-            "funding": -7.84302e-05
+            "funding": -7.30981e-05
           },
           {
             "symbol": "km:USENERGY",
@@ -3160,8 +3158,8 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 57.121,
-            "change_24h_pct": -1.2345,
+            "price": 57.132,
+            "change_24h_pct": -1.2155,
             "day_ntl_vlm": 353972.57,
             "open_interest": 8747.56,
             "funding": 5.7078e-06
@@ -3184,26 +3182,14 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 289.985,
-            "change_24h_pct": -0.3454,
+            "price": 290.045,
+            "change_24h_pct": -0.3248,
             "day_ntl_vlm": 165704.23,
             "open_interest": 1172.274,
             "funding": 5.7078e-06
           }
         ],
         "top_gainers_24h": [
-          {
-            "symbol": "vntl:DEFENSE",
-            "display_name": "DEFENSE",
-            "asset_class": "index",
-            "market_type": "hip3_perp",
-            "dex": "vntl",
-            "price": 66.51,
-            "change_24h_pct": 1.2945,
-            "day_ntl_vlm": 104610.59,
-            "open_interest": 1977.86,
-            "funding": 0.0
-          },
           {
             "symbol": "vntl:BIOTECH",
             "display_name": "BIOTECH",
@@ -3226,6 +3212,18 @@
             "change_24h_pct": 0.9007,
             "day_ntl_vlm": 196673.47,
             "open_interest": 10287.244,
+            "funding": 0.0
+          },
+          {
+            "symbol": "vntl:DEFENSE",
+            "display_name": "DEFENSE",
+            "asset_class": "index",
+            "market_type": "hip3_perp",
+            "dex": "vntl",
+            "price": 65.7085,
+            "change_24h_pct": 0.0739,
+            "day_ntl_vlm": 104610.59,
+            "open_interest": 1977.86,
             "funding": 0.0
           },
           {
@@ -3277,28 +3275,28 @@
             "funding": 0.0
           },
           {
-            "symbol": "km:US500",
-            "display_name": "US500",
-            "asset_class": "index",
-            "market_type": "hip3_perp",
-            "dex": "km",
-            "price": 750.01,
-            "change_24h_pct": -0.1026,
-            "day_ntl_vlm": 9926149.24,
-            "open_interest": 3432.602,
-            "funding": 5.7078e-06
-          },
-          {
             "symbol": "flx:USA500",
             "display_name": "USA500",
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 7526.35,
-            "change_24h_pct": -0.1042,
+            "price": 7527.1,
+            "change_24h_pct": -0.0942,
             "day_ntl_vlm": 868791.67,
             "open_interest": 185.9346,
             "funding": 7.5e-06
+          },
+          {
+            "symbol": "km:US500",
+            "display_name": "US500",
+            "asset_class": "index",
+            "market_type": "hip3_perp",
+            "dex": "km",
+            "price": 750.025,
+            "change_24h_pct": -0.1006,
+            "day_ntl_vlm": 9936583.75,
+            "open_interest": 3413.036,
+            "funding": 5.7078e-06
           },
           {
             "symbol": "xyz:SP500",
@@ -3306,11 +3304,11 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 7516.15,
-            "change_24h_pct": -0.1468,
-            "day_ntl_vlm": 292214323.66,
-            "open_interest": 63673.55,
-            "funding": 7.115e-07
+            "price": 7516.35,
+            "change_24h_pct": -0.1441,
+            "day_ntl_vlm": 292289756.27,
+            "open_interest": 63670.198,
+            "funding": 8.42e-07
           }
         ],
         "top_losers_24h": [
@@ -3344,8 +3342,8 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 559.77,
-            "change_24h_pct": -2.9626,
+            "price": 559.675,
+            "change_24h_pct": -2.9791,
             "day_ntl_vlm": 45107.13,
             "open_interest": 45.272,
             "funding": 5.7078e-06
@@ -3356,11 +3354,11 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1293.7,
-            "change_24h_pct": -2.0295,
+            "price": 1293.0,
+            "change_24h_pct": -2.0825,
             "day_ntl_vlm": 406137.62,
             "open_interest": 344.0984,
-            "funding": -7.84302e-05
+            "funding": -7.30981e-05
           },
           {
             "symbol": "vntl:SEMIS",
@@ -3380,11 +3378,11 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 64789.0,
-            "change_24h_pct": -1.6112,
-            "day_ntl_vlm": 922249.01,
-            "open_interest": 32.8842,
-            "funding": 6.25e-06
+            "price": 64788.5,
+            "change_24h_pct": -1.612,
+            "day_ntl_vlm": 922293.06,
+            "open_interest": 32.88488,
+            "funding": 6.2843e-06
           },
           {
             "symbol": "vntl:NUCLEAR",
@@ -3404,8 +3402,8 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 57.121,
-            "change_24h_pct": -1.2345,
+            "price": 57.132,
+            "change_24h_pct": -1.2155,
             "day_ntl_vlm": 353972.57,
             "open_interest": 8747.56,
             "funding": 5.7078e-06
@@ -3416,8 +3414,8 @@
             "asset_class": "index",
             "market_type": "hip3_perp",
             "dex": "vntl",
-            "price": 57.303,
-            "change_24h_pct": -0.9969,
+            "price": 57.2645,
+            "change_24h_pct": -1.0634,
             "day_ntl_vlm": 113585.28,
             "open_interest": 8984.7,
             "funding": 0.0
@@ -3445,10 +3443,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 74.442,
-            "change_24h_pct": -3.818,
-            "day_ntl_vlm": 161821662.22,
-            "open_interest": 1334493.12,
+            "price": 74.4335,
+            "change_24h_pct": -3.829,
+            "day_ntl_vlm": 161875116.7,
+            "open_interest": 1334387.72,
             "funding": 6.25e-06
           },
           {
@@ -3457,10 +3455,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 4447.65,
-            "change_24h_pct": -1.6028,
-            "day_ntl_vlm": 45422949.18,
-            "open_interest": 21636.6282,
+            "price": 4446.75,
+            "change_24h_pct": -1.6228,
+            "day_ntl_vlm": 45423616.39,
+            "open_interest": 21636.3372,
             "funding": 6.25e-06
           },
           {
@@ -3469,11 +3467,11 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 74.5185,
-            "change_24h_pct": -3.8049,
-            "day_ntl_vlm": 8413708.42,
-            "open_interest": 33289.96,
-            "funding": 4.4063e-06
+            "price": 74.5155,
+            "change_24h_pct": -3.8088,
+            "day_ntl_vlm": 8414829.18,
+            "open_interest": 33289.9,
+            "funding": 4.4155e-06
           },
           {
             "symbol": "PAXG",
@@ -3481,11 +3479,11 @@
             "asset_class": "metal",
             "market_type": "native_perp",
             "dex": "",
-            "price": 4444.45,
-            "change_24h_pct": -1.6258,
-            "day_ntl_vlm": 7341261.08,
-            "open_interest": 6635.334,
-            "funding": -1.55644e-05
+            "price": 4444.05,
+            "change_24h_pct": -1.6346,
+            "day_ntl_vlm": 7343063.09,
+            "open_interest": 6635.05,
+            "funding": -1.53994e-05
           },
           {
             "symbol": "xyz:COPPER",
@@ -3493,9 +3491,9 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 6.3293,
-            "change_24h_pct": -1.7266,
-            "day_ntl_vlm": 4723360.6,
+            "price": 6.331,
+            "change_24h_pct": -1.7002,
+            "day_ntl_vlm": 4723856.47,
             "open_interest": 4147461.52,
             "funding": 6.25e-06
           },
@@ -3505,10 +3503,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1926.0,
-            "change_24h_pct": -2.3029,
-            "day_ntl_vlm": 1406770.08,
-            "open_interest": 2123.0136,
+            "price": 1926.6,
+            "change_24h_pct": -2.2725,
+            "day_ntl_vlm": 1406969.4,
+            "open_interest": 2123.2202,
             "funding": 6.25e-06
           },
           {
@@ -3517,10 +3515,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 4444.95,
-            "change_24h_pct": -1.7582,
-            "day_ntl_vlm": 928097.36,
-            "open_interest": 169.9666,
+            "price": 4444.75,
+            "change_24h_pct": -1.7626,
+            "day_ntl_vlm": 928128.47,
+            "open_interest": 169.9526,
             "funding": 5.7078e-06
           },
           {
@@ -3541,10 +3539,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 74.415,
-            "change_24h_pct": -3.7808,
-            "day_ntl_vlm": 672280.11,
-            "open_interest": 7924.628,
+            "price": 74.413,
+            "change_24h_pct": -3.7833,
+            "day_ntl_vlm": 672968.9,
+            "open_interest": 7908.294,
             "funding": 5.7078e-06
           },
           {
@@ -3553,9 +3551,9 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1388.1,
-            "change_24h_pct": -0.3374,
-            "day_ntl_vlm": 660651.19,
+            "price": 1386.8,
+            "change_24h_pct": -0.4308,
+            "day_ntl_vlm": 660731.11,
             "open_interest": 1351.3026,
             "funding": 6.25e-06
           }
@@ -3603,9 +3601,9 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1388.1,
-            "change_24h_pct": -0.3374,
-            "day_ntl_vlm": 660651.19,
+            "price": 1386.8,
+            "change_24h_pct": -0.4308,
+            "day_ntl_vlm": 660731.11,
             "open_interest": 1351.3026,
             "funding": 6.25e-06
           },
@@ -3619,7 +3617,7 @@
             "change_24h_pct": -0.5696,
             "day_ntl_vlm": 278880.23,
             "open_interest": 70.456,
-            "funding": -6.8996e-06
+            "funding": -7.504e-06
           },
           {
             "symbol": "flx:COPPER",
@@ -3627,8 +3625,8 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 6.3269,
-            "change_24h_pct": -1.1978,
+            "price": 6.3296,
+            "change_24h_pct": -1.1556,
             "day_ntl_vlm": 459.49,
             "open_interest": 32244.38,
             "funding": 7.5e-06
@@ -3663,10 +3661,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 4447.65,
-            "change_24h_pct": -1.6028,
-            "day_ntl_vlm": 45422949.18,
-            "open_interest": 21636.6282,
+            "price": 4446.75,
+            "change_24h_pct": -1.6228,
+            "day_ntl_vlm": 45423616.39,
+            "open_interest": 21636.3372,
             "funding": 6.25e-06
           },
           {
@@ -3675,11 +3673,11 @@
             "asset_class": "metal",
             "market_type": "native_perp",
             "dex": "",
-            "price": 4444.45,
-            "change_24h_pct": -1.6258,
-            "day_ntl_vlm": 7341261.08,
-            "open_interest": 6635.334,
-            "funding": -1.55644e-05
+            "price": 4444.05,
+            "change_24h_pct": -1.6346,
+            "day_ntl_vlm": 7343063.09,
+            "open_interest": 6635.05,
+            "funding": -1.53994e-05
           }
         ],
         "top_losers_24h": [
@@ -3689,8 +3687,8 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "flx",
-            "price": 74.455,
-            "change_24h_pct": -3.9464,
+            "price": 74.4455,
+            "change_24h_pct": -3.9586,
             "day_ntl_vlm": 550364.96,
             "open_interest": 5722.16,
             "funding": 7.5e-06
@@ -3701,10 +3699,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 74.442,
-            "change_24h_pct": -3.818,
-            "day_ntl_vlm": 161821662.22,
-            "open_interest": 1334493.12,
+            "price": 74.4335,
+            "change_24h_pct": -3.829,
+            "day_ntl_vlm": 161875116.7,
+            "open_interest": 1334387.72,
             "funding": 6.25e-06
           },
           {
@@ -3713,11 +3711,11 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 74.5185,
-            "change_24h_pct": -3.8049,
-            "day_ntl_vlm": 8413708.42,
-            "open_interest": 33289.96,
-            "funding": 4.4063e-06
+            "price": 74.5155,
+            "change_24h_pct": -3.8088,
+            "day_ntl_vlm": 8414829.18,
+            "open_interest": 33289.9,
+            "funding": 4.4155e-06
           },
           {
             "symbol": "km:SILVER",
@@ -3725,10 +3723,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 74.415,
-            "change_24h_pct": -3.7808,
-            "day_ntl_vlm": 672280.11,
-            "open_interest": 7924.628,
+            "price": 74.413,
+            "change_24h_pct": -3.7833,
+            "day_ntl_vlm": 672968.9,
+            "open_interest": 7908.294,
             "funding": 5.7078e-06
           },
           {
@@ -3737,10 +3735,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 1926.0,
-            "change_24h_pct": -2.3029,
-            "day_ntl_vlm": 1406770.08,
-            "open_interest": 2123.0136,
+            "price": 1926.6,
+            "change_24h_pct": -2.2725,
+            "day_ntl_vlm": 1406969.4,
+            "open_interest": 2123.2202,
             "funding": 6.25e-06
           },
           {
@@ -3749,10 +3747,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 4444.95,
-            "change_24h_pct": -1.7582,
-            "day_ntl_vlm": 928097.36,
-            "open_interest": 169.9666,
+            "price": 4444.75,
+            "change_24h_pct": -1.7626,
+            "day_ntl_vlm": 928128.47,
+            "open_interest": 169.9526,
             "funding": 5.7078e-06
           },
           {
@@ -3773,9 +3771,9 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 6.3293,
-            "change_24h_pct": -1.7266,
-            "day_ntl_vlm": 4723360.6,
+            "price": 6.331,
+            "change_24h_pct": -1.7002,
+            "day_ntl_vlm": 4723856.47,
             "open_interest": 4147461.52,
             "funding": 6.25e-06
           },
@@ -3785,11 +3783,11 @@
             "asset_class": "metal",
             "market_type": "native_perp",
             "dex": "",
-            "price": 4444.45,
-            "change_24h_pct": -1.6258,
-            "day_ntl_vlm": 7341261.08,
-            "open_interest": 6635.334,
-            "funding": -1.55644e-05
+            "price": 4444.05,
+            "change_24h_pct": -1.6346,
+            "day_ntl_vlm": 7343063.09,
+            "open_interest": 6635.05,
+            "funding": -1.53994e-05
           },
           {
             "symbol": "xyz:GOLD",
@@ -3797,10 +3795,10 @@
             "asset_class": "metal",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 4447.65,
-            "change_24h_pct": -1.6028,
-            "day_ntl_vlm": 45422949.18,
-            "open_interest": 21636.6282,
+            "price": 4446.75,
+            "change_24h_pct": -1.6228,
+            "day_ntl_vlm": 45423616.39,
+            "open_interest": 21636.3372,
             "funding": 6.25e-06
           }
         ]
@@ -3814,11 +3812,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 119.755,
-            "change_24h_pct": -2.8436,
-            "day_ntl_vlm": 13369010.59,
-            "open_interest": 13652.956,
-            "funding": 5.6801e-06
+            "price": 119.815,
+            "change_24h_pct": -2.7949,
+            "day_ntl_vlm": 13371353.82,
+            "open_interest": 13661.396,
+            "funding": 4.8891e-06
           },
           {
             "symbol": "cash:HOOD",
@@ -3826,11 +3824,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 76.314,
-            "change_24h_pct": 3.0407,
-            "day_ntl_vlm": 10776258.13,
-            "open_interest": 18833.492,
-            "funding": -4.9977e-06
+            "price": 76.332,
+            "change_24h_pct": 3.065,
+            "day_ntl_vlm": 10778458.68,
+            "open_interest": 18824.312,
+            "funding": -3.1518e-06
           },
           {
             "symbol": "xyz:BB",
@@ -3838,11 +3836,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 8.81135,
-            "change_24h_pct": 1.2799,
-            "day_ntl_vlm": 10502923.19,
-            "open_interest": 913821.8,
-            "funding": -6.18441e-05
+            "price": 8.81705,
+            "change_24h_pct": 1.3454,
+            "day_ntl_vlm": 10503574.57,
+            "open_interest": 913959.4,
+            "funding": -4.96431e-05
           },
           {
             "symbol": "hyna:BTC",
@@ -3850,11 +3848,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 74330.5,
-            "change_24h_pct": -2.113,
+            "price": 74381.5,
+            "change_24h_pct": -2.0458,
             "day_ntl_vlm": 5183344.46,
             "open_interest": 294.84418,
-            "funding": 4.077e-06
+            "funding": 4.5601e-06
           },
           {
             "symbol": "cash:NVDA",
@@ -3862,11 +3860,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 212.03,
-            "change_24h_pct": -1.1377,
-            "day_ntl_vlm": 5179811.97,
+            "price": 212.04,
+            "change_24h_pct": -1.133,
+            "day_ntl_vlm": 5179861.83,
             "open_interest": 14386.22,
-            "funding": 7.8459e-06
+            "funding": 8.2345e-06
           },
           {
             "symbol": "cash:GOOGL",
@@ -3874,10 +3872,10 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 389.09,
-            "change_24h_pct": 0.0257,
-            "day_ntl_vlm": 4654683.42,
-            "open_interest": 3119.336,
+            "price": 389.125,
+            "change_24h_pct": 0.0347,
+            "day_ntl_vlm": 4654885.54,
+            "open_interest": 3118.81,
             "funding": 6.25e-06
           },
           {
@@ -3886,11 +3884,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 631.235,
-            "change_24h_pct": 3.3253,
-            "day_ntl_vlm": 3963733.11,
-            "open_interest": 7590.984,
-            "funding": 2.95793e-05
+            "price": 631.175,
+            "change_24h_pct": 3.3155,
+            "day_ntl_vlm": 3963882.18,
+            "open_interest": 7590.828,
+            "funding": 3.03332e-05
           },
           {
             "symbol": "cash:USA500",
@@ -3898,11 +3896,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 7530.85,
-            "change_24h_pct": -0.0949,
-            "day_ntl_vlm": 3115997.51,
-            "open_interest": 2668.75,
-            "funding": -5.8579e-06
+            "price": 7530.95,
+            "change_24h_pct": -0.0935,
+            "day_ntl_vlm": 3116291.34,
+            "open_interest": 2668.678,
+            "funding": -5.7505e-06
           },
           {
             "symbol": "hyna:HYPE",
@@ -3910,11 +3908,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 57.713,
-            "change_24h_pct": -2.7811,
-            "day_ntl_vlm": 3086903.56,
-            "open_interest": 48913.12,
-            "funding": 4.03211e-05
+            "price": 57.8595,
+            "change_24h_pct": -2.5344,
+            "day_ntl_vlm": 3098347.36,
+            "open_interest": 48788.16,
+            "funding": 4.0414e-05
           },
           {
             "symbol": "cash:EWY",
@@ -3922,37 +3920,37 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 196.65,
-            "change_24h_pct": -3.3043,
-            "day_ntl_vlm": 2932632.47,
-            "open_interest": 7579.96,
-            "funding": -7.81288e-05
+            "price": 196.725,
+            "change_24h_pct": -3.2674,
+            "day_ntl_vlm": 2940024.52,
+            "open_interest": 7654.68,
+            "funding": -7.98867e-05
           }
         ],
         "top_gainers_24h": [
-          {
-            "symbol": "cash:META",
-            "display_name": "META",
-            "asset_class": "unknown",
-            "market_type": "hip3_perp",
-            "dex": "cash",
-            "price": 631.235,
-            "change_24h_pct": 3.3253,
-            "day_ntl_vlm": 3963733.11,
-            "open_interest": 7590.984,
-            "funding": 2.95793e-05
-          },
           {
             "symbol": "hyna:XMR",
             "display_name": "XMR",
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 393.395,
-            "change_24h_pct": 3.1693,
+            "price": 394.005,
+            "change_24h_pct": 3.3293,
             "day_ntl_vlm": 86719.03,
             "open_interest": 72.716,
-            "funding": 6.93529e-05
+            "funding": 7.00724e-05
+          },
+          {
+            "symbol": "cash:META",
+            "display_name": "META",
+            "asset_class": "unknown",
+            "market_type": "hip3_perp",
+            "dex": "cash",
+            "price": 631.175,
+            "change_24h_pct": 3.3155,
+            "day_ntl_vlm": 3963882.18,
+            "open_interest": 7590.828,
+            "funding": 3.03332e-05
           },
           {
             "symbol": "cash:HOOD",
@@ -3960,11 +3958,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 76.314,
-            "change_24h_pct": 3.0407,
-            "day_ntl_vlm": 10776258.13,
-            "open_interest": 18833.492,
-            "funding": -4.9977e-06
+            "price": 76.332,
+            "change_24h_pct": 3.065,
+            "day_ntl_vlm": 10778458.68,
+            "open_interest": 18824.312,
+            "funding": -3.1518e-06
           },
           {
             "symbol": "cash:AMZN",
@@ -3976,7 +3974,7 @@
             "change_24h_pct": 2.9433,
             "day_ntl_vlm": 2305482.6,
             "open_interest": 21811.718,
-            "funding": 4.25537e-05
+            "funding": 4.34194e-05
           },
           {
             "symbol": "xyz:EWT",
@@ -3988,7 +3986,7 @@
             "change_24h_pct": 1.3775,
             "day_ntl_vlm": 79811.39,
             "open_interest": 738.32,
-            "funding": 2.45606e-05
+            "funding": 2.43683e-05
           },
           {
             "symbol": "xyz:BB",
@@ -3996,11 +3994,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 8.81135,
-            "change_24h_pct": 1.2799,
-            "day_ntl_vlm": 10502923.19,
-            "open_interest": 913821.8,
-            "funding": -6.18441e-05
+            "price": 8.81705,
+            "change_24h_pct": 1.3454,
+            "day_ntl_vlm": 10503574.57,
+            "open_interest": 913959.4,
+            "funding": -4.96431e-05
           },
           {
             "symbol": "cash:TSLA",
@@ -4012,7 +4010,7 @@
             "change_24h_pct": 0.5976,
             "day_ntl_vlm": 1885830.85,
             "open_interest": 3863.68,
-            "funding": -7.48e-07
+            "funding": -9.811e-07
           },
           {
             "symbol": "hyna:BASED",
@@ -4020,11 +4018,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 0.062211,
-            "change_24h_pct": 0.2772,
+            "price": 0.062216,
+            "change_24h_pct": 0.2853,
             "day_ntl_vlm": 27486.78,
             "open_interest": 847224.0,
-            "funding": -1.48374e-05
+            "funding": -1.3733e-05
           },
           {
             "symbol": "km:USBOND",
@@ -4032,8 +4030,8 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "km",
-            "price": 85.242,
-            "change_24h_pct": 0.1739,
+            "price": 85.231,
+            "change_24h_pct": 0.161,
             "day_ntl_vlm": 606441.24,
             "open_interest": 7830.33,
             "funding": 5.7078e-06
@@ -4044,10 +4042,10 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "cash",
-            "price": 389.09,
-            "change_24h_pct": 0.0257,
-            "day_ntl_vlm": 4654683.42,
-            "open_interest": 3119.336,
+            "price": 389.125,
+            "change_24h_pct": 0.0347,
+            "day_ntl_vlm": 4654885.54,
+            "open_interest": 3118.81,
             "funding": 6.25e-06
           }
         ],
@@ -4058,11 +4056,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "xyz",
-            "price": 302.165,
-            "change_24h_pct": -6.1104,
-            "day_ntl_vlm": 1104103.89,
+            "price": 302.095,
+            "change_24h_pct": -6.1321,
+            "day_ntl_vlm": 1104218.67,
             "open_interest": 4908.94,
-            "funding": 5.39831e-05
+            "funding": 5.43818e-05
           },
           {
             "symbol": "hyna:ZEC",
@@ -4070,11 +4068,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 542.1,
-            "change_24h_pct": -5.1676,
+            "price": 542.765,
+            "change_24h_pct": -5.0513,
             "day_ntl_vlm": 317778.9,
             "open_interest": 218.88,
-            "funding": -3.57037e-05
+            "funding": -3.5869e-05
           },
           {
             "symbol": "hyna:LIGHTER",
@@ -4082,11 +4080,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 1.1235,
-            "change_24h_pct": -4.9251,
+            "price": 1.12385,
+            "change_24h_pct": -4.8955,
             "day_ntl_vlm": 15680.57,
             "open_interest": 63510.0,
-            "funding": -0.0001145557
+            "funding": -0.0001144021
           },
           {
             "symbol": "hyna:XPL",
@@ -4094,11 +4092,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 0.084913,
-            "change_24h_pct": -4.7922,
+            "price": 0.08502,
+            "change_24h_pct": -4.6722,
             "day_ntl_vlm": 362768.79,
             "open_interest": 599578.0,
-            "funding": -0.0001029685
+            "funding": -0.0001028546
           },
           {
             "symbol": "hyna:IP",
@@ -4106,23 +4104,11 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 0.46358,
-            "change_24h_pct": -4.5425,
+            "price": 0.46396,
+            "change_24h_pct": -4.4642,
             "day_ntl_vlm": 13430.27,
             "open_interest": 41929.2,
-            "funding": -6.395e-05
-          },
-          {
-            "symbol": "hyna:FARTCOIN",
-            "display_name": "FARTCOIN",
-            "asset_class": "unknown",
-            "market_type": "hip3_perp",
-            "dex": "hyna",
-            "price": 0.16743,
-            "change_24h_pct": -4.5112,
-            "day_ntl_vlm": 159548.96,
-            "open_interest": 415173.4,
-            "funding": -6.26925e-05
+            "funding": -6.47885e-05
           },
           {
             "symbol": "hyna:SUI",
@@ -4130,11 +4116,23 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 0.95895,
-            "change_24h_pct": -4.449,
+            "price": 0.96028,
+            "change_24h_pct": -4.3165,
             "day_ntl_vlm": 155408.73,
             "open_interest": 85627.2,
-            "funding": -4.58028e-05
+            "funding": -4.53979e-05
+          },
+          {
+            "symbol": "hyna:FARTCOIN",
+            "display_name": "FARTCOIN",
+            "asset_class": "unknown",
+            "market_type": "hip3_perp",
+            "dex": "hyna",
+            "price": 0.16781,
+            "change_24h_pct": -4.2945,
+            "day_ntl_vlm": 159548.96,
+            "open_interest": 415173.4,
+            "funding": -6.19843e-05
           },
           {
             "symbol": "xyz:EBAY",
@@ -4146,19 +4144,7 @@
             "change_24h_pct": -4.2019,
             "day_ntl_vlm": 173516.53,
             "open_interest": 2341.98,
-            "funding": -0.0001597458
-          },
-          {
-            "symbol": "hyna:ENA",
-            "display_name": "ENA",
-            "asset_class": "unknown",
-            "market_type": "hip3_perp",
-            "dex": "hyna",
-            "price": 0.093025,
-            "change_24h_pct": -3.5,
-            "day_ntl_vlm": 185326.14,
-            "open_interest": 1416910.0,
-            "funding": -4.38517e-05
+            "funding": -0.0001610616
           },
           {
             "symbol": "hyna:LINK",
@@ -4166,11 +4152,23 @@
             "asset_class": "unknown",
             "market_type": "hip3_perp",
             "dex": "hyna",
-            "price": 9.13545,
-            "change_24h_pct": -3.442,
+            "price": 9.14455,
+            "change_24h_pct": -3.3458,
             "day_ntl_vlm": 122970.82,
             "open_interest": 4632.6,
             "funding": 1.25e-05
+          },
+          {
+            "symbol": "hyna:ENA",
+            "display_name": "ENA",
+            "asset_class": "unknown",
+            "market_type": "hip3_perp",
+            "dex": "hyna",
+            "price": 0.093217,
+            "change_24h_pct": -3.3009,
+            "day_ntl_vlm": 187746.64,
+            "open_interest": 1373954.0,
+            "funding": -4.37035e-05
           }
         ]
       }
@@ -4178,10 +4176,10 @@
   },
   "hip4_outcome": {
     "enabled": true,
-    "updated_at": "2026-05-27T23:52:19.698345+00:00",
+    "updated_at": "2026-05-27T23:54:15.254690+00:00",
     "outcome_count": 11,
     "side_count": 22,
-    "history_records": 1852,
+    "history_records": 1853,
     "request_errors": [],
     "request_warnings": [
       "outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info"
@@ -4208,9 +4206,9 @@
         "side_name": "No",
         "symbol": "#1151",
         "underlying": null,
-        "implied_probability": 0.995705,
-        "mark_price": 0.995705,
-        "mid_price": 0.995705,
+        "implied_probability": 0.995715,
+        "mark_price": 0.995715,
+        "mid_price": 0.995715,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4221,9 +4219,9 @@
         "side_name": "No",
         "symbol": "#1111",
         "underlying": "BTC",
-        "implied_probability": 0.980505,
-        "mark_price": 0.980505,
-        "mid_price": 0.980505,
+        "implied_probability": 0.97976,
+        "mark_price": 0.97976,
+        "mid_price": 0.97976,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4260,9 +4258,9 @@
         "side_name": "No",
         "symbol": "#1131",
         "underlying": null,
-        "implied_probability": 0.631215,
-        "mark_price": 0.631215,
-        "mid_price": 0.631215,
+        "implied_probability": 0.63493,
+        "mark_price": 0.63493,
+        "mid_price": 0.63493,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4273,9 +4271,9 @@
         "side_name": "Yes",
         "symbol": "#1140",
         "underlying": null,
-        "implied_probability": 0.616775,
-        "mark_price": 0.616775,
-        "mid_price": 0.616775,
+        "implied_probability": 0.616805,
+        "mark_price": 0.616805,
+        "mid_price": 0.616805,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4299,9 +4297,9 @@
         "side_name": "PSG",
         "symbol": "#1100",
         "underlying": null,
-        "implied_probability": 0.582015,
-        "mark_price": 0.582015,
-        "mid_price": 0.582015,
+        "implied_probability": 0.58202,
+        "mark_price": 0.58202,
+        "mid_price": 0.58202,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4390,9 +4388,9 @@
         "side_name": "Arsenal",
         "symbol": "#1101",
         "underlying": null,
-        "implied_probability": 0.417985,
-        "mark_price": 0.417985,
-        "mid_price": 0.417985,
+        "implied_probability": 0.41798,
+        "mark_price": 0.41798,
+        "mid_price": 0.41798,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4416,9 +4414,9 @@
         "side_name": "No",
         "symbol": "#1141",
         "underlying": null,
-        "implied_probability": 0.383225,
-        "mark_price": 0.383225,
-        "mid_price": 0.383225,
+        "implied_probability": 0.383195,
+        "mark_price": 0.383195,
+        "mid_price": 0.383195,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4429,9 +4427,9 @@
         "side_name": "Yes",
         "symbol": "#1130",
         "underlying": null,
-        "implied_probability": 0.368785,
-        "mark_price": 0.368785,
-        "mid_price": 0.368785,
+        "implied_probability": 0.36507,
+        "mark_price": 0.36507,
+        "mid_price": 0.36507,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4468,9 +4466,9 @@
         "side_name": "Yes",
         "symbol": "#1110",
         "underlying": "BTC",
-        "implied_probability": 0.019495,
-        "mark_price": 0.019495,
-        "mid_price": 0.019495,
+        "implied_probability": 0.02024,
+        "mark_price": 0.02024,
+        "mid_price": 0.02024,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4481,9 +4479,9 @@
         "side_name": "Yes",
         "symbol": "#1150",
         "underlying": null,
-        "implied_probability": 0.004295,
-        "mark_price": 0.004295,
-        "mid_price": 0.004295,
+        "implied_probability": 0.004285,
+        "mark_price": 0.004285,
+        "mid_price": 0.004285,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4626,9 +4624,9 @@
         "side_name": "PSG",
         "symbol": "#1100",
         "underlying": null,
-        "implied_probability": 0.582015,
-        "mark_price": 0.582015,
-        "mid_price": 0.582015,
+        "implied_probability": 0.58202,
+        "mark_price": 0.58202,
+        "mid_price": 0.58202,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4639,9 +4637,9 @@
         "side_name": "Arsenal",
         "symbol": "#1101",
         "underlying": null,
-        "implied_probability": 0.417985,
-        "mark_price": 0.417985,
-        "mid_price": 0.417985,
+        "implied_probability": 0.41798,
+        "mark_price": 0.41798,
+        "mid_price": 0.41798,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4652,9 +4650,9 @@
         "side_name": "Yes",
         "symbol": "#1110",
         "underlying": "BTC",
-        "implied_probability": 0.019495,
-        "mark_price": 0.019495,
-        "mid_price": 0.019495,
+        "implied_probability": 0.02024,
+        "mark_price": 0.02024,
+        "mid_price": 0.02024,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4665,9 +4663,9 @@
         "side_name": "No",
         "symbol": "#1111",
         "underlying": "BTC",
-        "implied_probability": 0.980505,
-        "mark_price": 0.980505,
-        "mid_price": 0.980505,
+        "implied_probability": 0.97976,
+        "mark_price": 0.97976,
+        "mid_price": 0.97976,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4704,9 +4702,9 @@
         "side_name": "Yes",
         "symbol": "#1130",
         "underlying": null,
-        "implied_probability": 0.368785,
-        "mark_price": 0.368785,
-        "mid_price": 0.368785,
+        "implied_probability": 0.36507,
+        "mark_price": 0.36507,
+        "mid_price": 0.36507,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4717,9 +4715,9 @@
         "side_name": "No",
         "symbol": "#1131",
         "underlying": null,
-        "implied_probability": 0.631215,
-        "mark_price": 0.631215,
-        "mid_price": 0.631215,
+        "implied_probability": 0.63493,
+        "mark_price": 0.63493,
+        "mid_price": 0.63493,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4730,9 +4728,9 @@
         "side_name": "Yes",
         "symbol": "#1140",
         "underlying": null,
-        "implied_probability": 0.616775,
-        "mark_price": 0.616775,
-        "mid_price": 0.616775,
+        "implied_probability": 0.616805,
+        "mark_price": 0.616805,
+        "mid_price": 0.616805,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4743,9 +4741,9 @@
         "side_name": "No",
         "symbol": "#1141",
         "underlying": null,
-        "implied_probability": 0.383225,
-        "mark_price": 0.383225,
-        "mid_price": 0.383225,
+        "implied_probability": 0.383195,
+        "mark_price": 0.383195,
+        "mid_price": 0.383195,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4756,9 +4754,9 @@
         "side_name": "Yes",
         "symbol": "#1150",
         "underlying": null,
-        "implied_probability": 0.004295,
-        "mark_price": 0.004295,
-        "mid_price": 0.004295,
+        "implied_probability": 0.004285,
+        "mark_price": 0.004285,
+        "mid_price": 0.004285,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4769,9 +4767,9 @@
         "side_name": "No",
         "symbol": "#1151",
         "underlying": null,
-        "implied_probability": 0.995705,
-        "mark_price": 0.995705,
-        "mid_price": 0.995705,
+        "implied_probability": 0.995715,
+        "mark_price": 0.995715,
+        "mid_price": 0.995715,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4914,9 +4912,9 @@
         "side_name": "PSG",
         "symbol": "#1100",
         "underlying": null,
-        "implied_probability": 0.582015,
-        "mark_price": 0.582015,
-        "mid_price": 0.582015,
+        "implied_probability": 0.58202,
+        "mark_price": 0.58202,
+        "mid_price": 0.58202,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4927,9 +4925,9 @@
         "side_name": "Arsenal",
         "symbol": "#1101",
         "underlying": null,
-        "implied_probability": 0.417985,
-        "mark_price": 0.417985,
-        "mid_price": 0.417985,
+        "implied_probability": 0.41798,
+        "mark_price": 0.41798,
+        "mid_price": 0.41798,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4940,9 +4938,9 @@
         "side_name": "Yes",
         "symbol": "#1110",
         "underlying": "BTC",
-        "implied_probability": 0.019495,
-        "mark_price": 0.019495,
-        "mid_price": 0.019495,
+        "implied_probability": 0.02024,
+        "mark_price": 0.02024,
+        "mid_price": 0.02024,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4953,9 +4951,9 @@
         "side_name": "No",
         "symbol": "#1111",
         "underlying": "BTC",
-        "implied_probability": 0.980505,
-        "mark_price": 0.980505,
-        "mid_price": 0.980505,
+        "implied_probability": 0.97976,
+        "mark_price": 0.97976,
+        "mid_price": 0.97976,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -4992,9 +4990,9 @@
         "side_name": "Yes",
         "symbol": "#1130",
         "underlying": null,
-        "implied_probability": 0.368785,
-        "mark_price": 0.368785,
-        "mid_price": 0.368785,
+        "implied_probability": 0.36507,
+        "mark_price": 0.36507,
+        "mid_price": 0.36507,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -5005,9 +5003,9 @@
         "side_name": "No",
         "symbol": "#1131",
         "underlying": null,
-        "implied_probability": 0.631215,
-        "mark_price": 0.631215,
-        "mid_price": 0.631215,
+        "implied_probability": 0.63493,
+        "mark_price": 0.63493,
+        "mid_price": 0.63493,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -5018,9 +5016,9 @@
         "side_name": "Yes",
         "symbol": "#1140",
         "underlying": null,
-        "implied_probability": 0.616775,
-        "mark_price": 0.616775,
-        "mid_price": 0.616775,
+        "implied_probability": 0.616805,
+        "mark_price": 0.616805,
+        "mid_price": 0.616805,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -5031,9 +5029,9 @@
         "side_name": "No",
         "symbol": "#1141",
         "underlying": null,
-        "implied_probability": 0.383225,
-        "mark_price": 0.383225,
-        "mid_price": 0.383225,
+        "implied_probability": 0.383195,
+        "mark_price": 0.383195,
+        "mid_price": 0.383195,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -5044,9 +5042,9 @@
         "side_name": "Yes",
         "symbol": "#1150",
         "underlying": null,
-        "implied_probability": 0.004295,
-        "mark_price": 0.004295,
-        "mid_price": 0.004295,
+        "implied_probability": 0.004285,
+        "mark_price": 0.004285,
+        "mid_price": 0.004285,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -5057,9 +5055,9 @@
         "side_name": "No",
         "symbol": "#1151",
         "underlying": null,
-        "implied_probability": 0.995705,
-        "mark_price": 0.995705,
-        "mid_price": 0.995705,
+        "implied_probability": 0.995715,
+        "mark_price": 0.995715,
+        "mid_price": 0.995715,
         "price_source": "allMids",
         "volume_24h": 0.0,
         "open_interest": 0.0
@@ -5068,7 +5066,7 @@
   },
   "day_swing": {
     "enabled": true,
-    "updated_at": "2026-05-27T23:52:19.698345+00:00",
+    "updated_at": "2026-05-27T23:54:15.254690+00:00",
     "record_count": 1864,
     "symbols": [
       "BTC",
@@ -5095,17 +5093,17 @@
     },
     "latest_observed_at": "2026-05-27T23:45:00+00:00",
     "latest_prices": {
-      "BTC": 74308.5,
-      "ETH": 2020.25,
-      "HYPE": 57.6655,
-      "SOL": 82.2925
+      "BTC": 74376.5,
+      "ETH": 2022.35,
+      "HYPE": 57.788,
+      "SOL": 82.4295
     },
     "ai_analysis_pack": "data/processed/ai_analysis_pack.json",
     "ai_analysis_brief": "data/reports/latest_ai_analysis_brief.md"
   },
   "relationship_scan": {
     "enabled": true,
-    "updated_at": "2026-05-27T23:52:19.698345+00:00",
+    "updated_at": "2026-05-27T23:54:15.254690+00:00",
     "latest_file": "data/processed/relationship_scan_latest.json",
     "report_file": "data/reports/latest_relationship_scan.md",
     "pattern_count": 96,
@@ -5124,9 +5122,9 @@
         "horizon": "4h",
         "baseline_sample_count": 656,
         "baseline_up_rate_pct": 51.5244,
-        "baseline_avg_return_pct": -0.0182,
+        "baseline_avg_return_pct": -0.0181,
         "delta_probability_pct": 36.4964,
-        "edge_return_pct": 0.6732,
+        "edge_return_pct": 0.6731,
         "max_drawdown_pct": -1.9063,
         "longest_loss_streak": 7,
         "stability": {
@@ -5135,7 +5133,7 @@
           "direction_consistent": true
         },
         "sample_status": "ready",
-        "score": 10.3622
+        "score": 10.361
       },
       {
         "sample_count": 192,
@@ -5150,9 +5148,9 @@
         "horizon": "4h",
         "baseline_sample_count": 656,
         "baseline_up_rate_pct": 50.1524,
-        "baseline_avg_return_pct": -0.0487,
+        "baseline_avg_return_pct": -0.0486,
         "delta_probability_pct": 30.5768,
-        "edge_return_pct": 0.7678,
+        "edge_return_pct": 0.7677,
         "max_drawdown_pct": -5.1574,
         "longest_loss_streak": 12,
         "stability": {
@@ -5161,7 +5159,7 @@
           "direction_consistent": true
         },
         "sample_status": "ready",
-        "score": 10.2861
+        "score": 10.2849
       },
       {
         "sample_count": 192,
@@ -5254,9 +5252,9 @@
         "horizon": "4h",
         "baseline_sample_count": 656,
         "baseline_up_rate_pct": 62.9573,
-        "baseline_avg_return_pct": 0.0573,
+        "baseline_avg_return_pct": 0.0572,
         "delta_probability_pct": 18.2927,
-        "edge_return_pct": 0.1512,
+        "edge_return_pct": 0.1513,
         "max_drawdown_pct": -1.8022,
         "longest_loss_streak": 11,
         "stability": {
@@ -5265,7 +5263,7 @@
           "direction_consistent": true
         },
         "sample_status": "ready",
-        "score": 2.4575
+        "score": 2.4587
       },
       {
         "sample_count": 192,
@@ -5280,9 +5278,9 @@
         "horizon": "1h",
         "baseline_sample_count": 668,
         "baseline_up_rate_pct": 48.6527,
-        "baseline_avg_return_pct": -0.01,
+        "baseline_avg_return_pct": -0.0098,
         "delta_probability_pct": 15.9306,
-        "edge_return_pct": 0.1787,
+        "edge_return_pct": 0.1785,
         "max_drawdown_pct": -3.2225,
         "longest_loss_streak": 14,
         "stability": {
@@ -5291,7 +5289,7 @@
           "direction_consistent": true
         },
         "sample_status": "ready",
-        "score": 2.2355
+        "score": 2.2331
       },
       {
         "sample_count": 191,
@@ -5306,9 +5304,9 @@
         "horizon": "24h",
         "baseline_sample_count": 578,
         "baseline_up_rate_pct": 69.2042,
-        "baseline_avg_return_pct": 0.3809,
+        "baseline_avg_return_pct": 0.3808,
         "delta_probability_pct": 10.9005,
-        "edge_return_pct": 0.2133,
+        "edge_return_pct": 0.2134,
         "max_drawdown_pct": -4.1604,
         "longest_loss_streak": 17,
         "stability": {
@@ -5317,7 +5315,7 @@
           "direction_consistent": true
         },
         "sample_status": "ready",
-        "score": 1.9576
+        "score": 1.9588
       },
       {
         "sample_count": 192,
@@ -5332,9 +5330,9 @@
         "horizon": "1h",
         "baseline_sample_count": 668,
         "baseline_up_rate_pct": 51.497,
-        "baseline_avg_return_pct": -0.0221,
+        "baseline_avg_return_pct": -0.0219,
         "delta_probability_pct": 12.5655,
-        "edge_return_pct": 0.1847,
+        "edge_return_pct": 0.1845,
         "max_drawdown_pct": -4.9097,
         "longest_loss_streak": 12,
         "stability": {
@@ -5343,7 +5341,7 @@
           "direction_consistent": true
         },
         "sample_status": "ready",
-        "score": 1.8852
+        "score": 1.8828
       },
       {
         "sample_count": 191,
@@ -5658,7 +5656,7 @@
   },
   "sector_reactions": {
     "enabled": true,
-    "updated_at": "2026-05-27T23:52:19.698345+00:00",
+    "updated_at": "2026-05-27T23:54:15.254690+00:00",
     "latest_file": "data/processed/sector_reactions_latest.json",
     "history_file": "data/processed/sector_price_history.json",
     "report_file": "data/reports/latest_sector_reactions.md",
@@ -5842,7 +5840,7 @@
   },
   "asset_features": {
     "enabled": true,
-    "updated_at": "2026-05-27T23:52:19.698345+00:00",
+    "updated_at": "2026-05-27T23:54:15.254690+00:00",
     "latest_file": "data/processed/asset_features_latest.json",
     "all_file": "data/processed/asset_features_all.json",
     "report_file": "data/reports/latest_asset_features.md",
@@ -6122,7 +6120,7 @@
   },
   "ai_index": {
     "enabled": true,
-    "updated_at": "2026-05-27T23:52:19.698345+00:00",
+    "updated_at": "2026-05-27T23:54:15.254690+00:00",
     "index_file": "data/processed/ai_context_index.json",
     "index_report": "data/reports/latest_ai_context_index.md",
     "canary_file": "data/processed/canary_signals.json",
