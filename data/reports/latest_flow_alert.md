@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-27T01:25:15.962405+00:00`
+- Generated: `2026-05-27T01:30:15.930572+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `38664349.86`
-- Polymarket volume z-score: `-0.83`
+- Polymarket 24h volume: `38936030.04`
+- Polymarket volume z-score: `-0.8`
 
 ## Top Polymarket Markets
 
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `4632069.786439987` | liquidity: `148331.42752`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3619191.479022005` | liquidity: `566935.82141`
-- Iran closes its airspace by May 24? | 24h volume: `3118679.7801550007` | liquidity: `623428.07933`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2564868.3797620027` | liquidity: `771046.1456`
-- Will the Iranian regime fall by May 31? | 24h volume: `1951012.7542259754` | liquidity: `1980820.7146`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1499358.6484620003` | liquidity: `331830.81782`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1202900.9264949998` | liquidity: `1553498.82971`
+- US x Iran permanent peace deal by May 26, 2026? | 24h volume: `4627258.619007987` | liquidity: `161648.80925`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3584549.7759310054` | liquidity: `573550.90205`
+- Iran closes its airspace by May 24? | 24h volume: `3120715.080155001` | liquidity: `619064.28969`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2625497.7224480025` | liquidity: `739481.8456`
+- Will the Iranian regime fall by May 31? | 24h volume: `1951002.7142259753` | liquidity: `1978029.22601`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1500817.2154450004` | liquidity: `343851.72937`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1204971.302495` | liquidity: `1555524.32939`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
