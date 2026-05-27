@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T07:22:15.717944+00:00`
+- Generated: `2026-05-27T07:37:17.209725+00:00`
 - Market context score: `45.9`
 - News risk score: `45.43`
 - Macro risk score: `36.71`
 - Risk-on score: `32.0`
 - Articles: `35`
-- Polymarket markets: `396`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1801`
-- Day/swing latest: `2026-05-27T07:15:00+00:00`
+- Day/swing records: `1802`
+- Day/swing latest: `2026-05-27T07:30:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [crypto] Ethereum bull David Hoffman explains why he sold his ETH (Cointelegraph.com News)
 - [crypto] Sharplink, Forward Industries among crypto firms considered for Russell indexes (Cointelegraph.com News)
 - [macro] Israel says new head of Hamas' military wing killed in Gaza City strikes (BBC News)
-- [macro] Attorney General Ken Paxton routs  veteran incumbent Cornyn in Texas Senate primary (BBC News)
+- [macro] Texas Attorney General Paxton routs veteran incumbent Cornyn in US Senate primary (BBC News)
 - [crypto] Crypto PACs spend $9 million in Texas and score wins in both parties (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal (BBC News)
 - [crypto] Bitcoin’s recent drop coincides with $1.3B ‘dark pool’ ETF sale: Analyst (Cointelegraph.com News)
