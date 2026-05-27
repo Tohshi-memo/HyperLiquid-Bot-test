@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-27T00:22:17.488566+00:00`
-- Observed: `2026-05-27T00:15:00+00:00`
+- Generated: `2026-05-27T00:37:17.177473+00:00`
+- Observed: `2026-05-27T00:30:00+00:00`
 - Assets: `780`
 
 ## Top Activity
@@ -20,11 +20,11 @@ Individual asset screen for drilling down from class-level signals.
 - `@17` unknown price `1.526e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@17_24h`
 - `@138` unknown price `0.0005133` 4h `0.0` vol `0.0` relationship `market_context_high->@138_24h`
 - `@49` unknown price `0.000621` 4h `0.0` vol `0.0` relationship `market_context_high->@49_24h`
-- `PURR` crypto_alt price `0.096727` 4h `-2.0049` vol `2692278.07` relationship `market_context_high->PURR_24h`
-- `GRASS` crypto_alt price `0.52327` 4h `-0.9858` vol `6220354.26` relationship `market_context_high->GRASS_24h`
-- `PURR/USDC` crypto_alt price `0.0969495` 4h `-1.418` vol `0.0` relationship `market_context_high->PURR/USDC_24h`
+- `GRASS` crypto_alt price `0.52568` 4h `0.3877` vol `6233508.99` relationship `market_context_high->GRASS_24h`
+- `PURR` crypto_alt price `0.096974` 4h `0.6842` vol `2692007.93` relationship `market_context_high->PURR_24h`
 - `@88` unknown price `8.504e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@88_24h`
-- `VVV` crypto_alt price `16.84` 4h `-2.4079` vol `21100150.98` relationship `market_context_high->VVV_24h`
-- `WLD` crypto_alt price `0.37081` 4h `-3.2358` vol `65989747.49` relationship `market_context_high->WLD_4h`
+- `PURR/USDC` crypto_alt price `0.0975065` 4h `1.2597` vol `0.0` relationship `market_context_high->PURR/USDC_24h`
+- `WLD` crypto_alt price `0.37668` 4h `-1.3694` vol `66001219.39` relationship `market_context_high->WLD_4h`
+- `VVV` crypto_alt price `16.9625` 4h `-1.7663` vol `20796501.43` relationship `market_context_high->VVV_24h`
 - `@176` unknown price `0.000977` 4h `0.0` vol `0.0` relationship `market_context_high->@176_4h`
-- `xyz:LITE` equity price `913.735` 4h `-0.1606` vol `6449960.22` relationship `market_context_high->xyz:LITE_24h`
+- `AZTEC` crypto_alt price `0.027019` 4h `2.0779` vol `4665501.08` relationship `market_context_high->AZTEC_4h`
