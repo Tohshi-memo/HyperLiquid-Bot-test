@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T16:22:23.598102+00:00`
-- Market context score: `44.74`
-- News risk score: `47.59`
-- Macro risk score: `29.8`
-- Risk-on score: `28.64`
+- Generated: `2026-05-27T16:37:21.010455+00:00`
+- Market context score: `48.43`
+- News risk score: `47.11`
+- Macro risk score: `29.0`
+- Risk-on score: `36.14`
 - Articles: `94`
-- Polymarket markets: `398`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1835`
-- Day/swing latest: `2026-05-27T16:15:00+00:00`
+- Day/swing records: `1836`
+- Day/swing latest: `2026-05-27T16:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `43`, risk hits `14`, risk headline rate `0.2791`, policy hits `0`
-- macro: articles `47`, risk hits `15`, risk headline rate `0.2766`, policy hits `8`
+- macro: articles `47`, risk hits `15`, risk headline rate `0.2553`, policy hits `2`
 
 ## Headlines
 
-- [commodity] U.S. crude trims losses after White House denies Iran state media report about Hormuz opening (Energy)
-- [macro] First Ghanaians evacuated from South Africa over immigration protests land in Accra (BBC News)
-- [macro] How you can save money on your energy bill (BBC News)
-- [macro] An Upcoming IPO Could Soon Surpass NVIDIA As The World’s Most Valuable Company (It’s Not SpaceX) (Yahoo Finance)
-- [macro] The Number 1 Guaranteed Reason Financial Advisors Say Delaying Social Security to 67 Beats Taking It at 62 (Yahoo Finance)
-- [crypto] Crypto Long & Short: How the GENIUS Act repriced bitcoin's monetary premium (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says (BBC News)
-- [macro] AppLovin Stock Surges Past Key Level As Analyst Offers Bullish View (Yahoo Finance)
-- [macro] Oil Prices Fall, Despite Iran's 14-Point 'Fabrication'; Airline Stocks Fly (Yahoo Finance)
-- [macro] This "Lazy" ETF Could Be the Single Easiest Way to Invest Your Money (Yahoo Finance)
+- [commodity] Oil prices fall 4% after Rubio says U.S. will give Iran diplomacy 'every chance to succeed' (Energy)
+- [macro] Tony Robbins on the AI stock bubble and why he cut a big check to address grocery store inflation (Yahoo Finance)
+- [macro] Jamie Dimon warns the people managing your money will soon be 'AI people' — not the bankers they replaced (Yahoo Finance)
+- [macro] Data Center Play Modine Manufacturing Reverses After Soaring On Earnings (Yahoo Finance)
+- [macro] Dig For A Shiny Return From Metals Miner Freeport-McMoRan With This Strategy (Yahoo Finance)
+- [macro] These 3 Stocks Recently Hit New 52-Week Lows. Could They Be Bargain Buys? (Yahoo Finance)
+- [macro] Could This Fintech Stock Help Make You a Millionaire? (Yahoo Finance)
+- [macro] Oklo Just Partnered With a National Lab to Build AI-Enabled Reactors. Is This the Nuclear Stock to Own Right Now? (Yahoo Finance)
+- [macro] Stock Market Today: Dow Higher As Oil Falls To $90; Tesla Nears Buy Point (Live Coverage) (Yahoo Finance)
+- [macro] Leaked T-Mobile memo reveals controversial change for customers (Yahoo Finance)
