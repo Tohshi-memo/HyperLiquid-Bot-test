@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T16:37:21.010455+00:00`
-- Market context score: `48.43`
-- News risk score: `47.11`
-- Macro risk score: `29.0`
-- Risk-on score: `36.14`
-- Articles: `94`
+- Generated: `2026-05-27T16:52:16.667959+00:00`
+- Market context score: `46.94`
+- News risk score: `48.33`
+- Macro risk score: `30.72`
+- Risk-on score: `34.49`
+- Articles: `93`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1836`
-- Day/swing latest: `2026-05-27T16:30:00+00:00`
+- Day/swing records: `1837`
+- Day/swing latest: `2026-05-27T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `43`, risk hits `14`, risk headline rate `0.2791`, policy hits `0`
-- macro: articles `47`, risk hits `15`, risk headline rate `0.2553`, policy hits `2`
+- crypto: articles `42`, risk hits `14`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `47`, risk hits `16`, risk headline rate `0.2766`, policy hits `6`
 
 ## Headlines
 
 - [commodity] Oil prices fall 4% after Rubio says U.S. will give Iran diplomacy 'every chance to succeed' (Energy)
+- [macro] 1 Brilliant Energy Stock to Buy Now and Hold for the Long Term (Yahoo Finance)
+- [macro] Most Retirees Are Making This 401(k) Mistake: Draining Taxable Accounts First (Yahoo Finance)
 - [macro] Tony Robbins on the AI stock bubble and why he cut a big check to address grocery store inflation (Yahoo Finance)
+- [macro] PDD Holdings shares slide after revenue and profit miss (Yahoo Finance)
+- [macro] Short-Term Stock Trading Could Cost You Up to 39% in Taxes: Here’s Why the One-Year Rule Matters (Yahoo Finance)
 - [macro] Jamie Dimon warns the people managing your money will soon be 'AI people' — not the bankers they replaced (Yahoo Finance)
 - [macro] Data Center Play Modine Manufacturing Reverses After Soaring On Earnings (Yahoo Finance)
 - [macro] Dig For A Shiny Return From Metals Miner Freeport-McMoRan With This Strategy (Yahoo Finance)
-- [macro] These 3 Stocks Recently Hit New 52-Week Lows. Could They Be Bargain Buys? (Yahoo Finance)
-- [macro] Could This Fintech Stock Help Make You a Millionaire? (Yahoo Finance)
-- [macro] Oklo Just Partnered With a National Lab to Build AI-Enabled Reactors. Is This the Nuclear Stock to Own Right Now? (Yahoo Finance)
 - [macro] Stock Market Today: Dow Higher As Oil Falls To $90; Tesla Nears Buy Point (Live Coverage) (Yahoo Finance)
-- [macro] Leaked T-Mobile memo reveals controversial change for customers (Yahoo Finance)
