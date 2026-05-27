@@ -2,7 +2,7 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-27T04:45:36.995171+00:00`
+- Generated: `2026-05-27T04:52:17.661439+00:00`
 - Observed: `2026-05-27T04:45:00+00:00`
 - Assets: `780`
 
@@ -20,11 +20,11 @@ Individual asset screen for drilling down from class-level signals.
 - `@138` unknown price `0.0005133` 4h `0.0` vol `0.0` relationship `market_context_high->@138_24h`
 - `@176` unknown price `0.000977` 4h `0.0` vol `0.0` relationship `market_context_high->@176_4h`
 - `@49` unknown price `0.000621` 4h `0.0` vol `0.0` relationship `market_context_high->@49_24h`
-- `GRASS` crypto_alt price `0.49995` 4h `-4.7315` vol `6761250.02` relationship `market_context_high->GRASS_24h`
+- `GRASS` crypto_alt price `0.50422` 4h `-3.9178` vol `6768386.16` relationship `market_context_high->GRASS_24h`
 - `@163` unknown price `0.013526` 4h `-12.9097` vol `0.0` relationship `market_context_high->@163_24h`
-- `PURR` crypto_alt price `0.097002` 4h `-0.6687` vol `2497438.64` relationship `market_context_high->PURR_4h`
-- `VVV` crypto_alt price `17.205` 4h `1.0959` vol `17619103.08` relationship `market_context_high->VVV_24h`
-- `WLD` crypto_alt price `0.35637` 4h `-4.0184` vol `66078986.37` relationship `market_context_high->WLD_4h`
-- `PURR/USDC` crypto_alt price `0.0975275` 4h `-0.0523` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
+- `PURR` crypto_alt price `0.097713` 4h `0.0594` vol `2446982.98` relationship `market_context_high->PURR_4h`
+- `VVV` crypto_alt price `17.2505` 4h `1.3632` vol `17760619.89` relationship `market_context_high->VVV_24h`
+- `WLD` crypto_alt price `0.35973` 4h `-3.1135` vol `66021421.55` relationship `market_context_high->WLD_4h`
+- `PURR/USDC` crypto_alt price `0.0978285` 4h `0.2562` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
+- `AZTEC` crypto_alt price `0.025882` 4h `-2.849` vol `4985126.15` relationship `market_context_high->AZTEC_4h`
 - `#1030` unknown price `0.222025` 4h `-2.8358` vol `0.0` relationship `market_context_high->#1030_4h`
-- `@132` unknown price `0.001746` 4h `-0.7955` vol `0.0` relationship `market_context_high->@132_4h`
