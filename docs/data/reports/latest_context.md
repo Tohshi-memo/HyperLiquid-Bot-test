@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T10:37:19.926037+00:00`
-- Market context score: `46.85`
-- News risk score: `44.96`
-- Macro risk score: `36.22`
-- Risk-on score: `33.54`
-- Articles: `56`
+- Generated: `2026-05-27T10:52:20.915430+00:00`
+- Market context score: `48.91`
+- News risk score: `44.87`
+- Macro risk score: `32.32`
+- Risk-on score: `36.56`
+- Articles: `64`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1814`
-- Day/swing latest: `2026-05-27T10:30:00+00:00`
+- Day/swing records: `1815`
+- Day/swing latest: `2026-05-27T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `17`, risk hits `6`, risk headline rate `0.2353`, policy hits `1`
-- macro: articles `37`, risk hits `14`, risk headline rate `0.3514`, policy hits `10`
+- macro: articles `45`, risk hits `15`, risk headline rate `0.3111`, policy hits `3`
 
 ## Headlines
 
+- [macro] The Lycra Company completes financial restructuring, names interim CEO (Yahoo Finance)
+- [macro] Out of the blue chips (Yahoo Finance)
+- [macro] Wall Street Expected a Slowdown in Q2. Corporate America Had Other Plans. (Yahoo Finance)
+- [macro] This Recession Indicator Just Triggered. Here's What Investors Should Do Now. (Yahoo Finance)
+- [macro] Investors hunt for AI winners in small-cap US tech stocks (Yahoo Finance)
+- [macro] Freedom Broker Raises Target on Bank of America (BAC) After Strong Q1 Results (Yahoo Finance)
+- [macro] TD Cowen Boosts Target on Walmart (WMT) Amid Strong Grocery Traffic (Yahoo Finance)
+- [macro] Bernstein Maintains Outperform Rating on UnitedHealth (UNH) Following PBM Transparency Push (Yahoo Finance)
 - [macro] Woman caught after 30 years on the run is jailed for armed robberies (BBC News)
-- [macro] Afraid of an AI Bubble? Soaring Bond Yields Can Protect You (Yahoo Finance)
-- [macro] Want to Build Life-Changing Wealth in the Stock Market? Here's Warren Buffett's Best Advice. (Yahoo Finance)
-- [macro] EXCLUSIVE: Immunic Appoints Former Genentech Exec Erik Lundgren As CEO (Yahoo Finance)
-- [macro] Qualitas Energy funds 211MW battery projects in Italy (Yahoo Finance)
-- [macro] A Stock Market Correction Could Be Coming. Here's What 55 Years of Data Says to Do. (Yahoo Finance)
-- [commodity] BP's ousted chairman Albert Manifold disputes accusations over his conduct (Energy)
-- [macro] Gold Prices Ease as Inflation Concerns Persist During U.S.-Iran Negotiations (Yahoo Finance)
-- [macro] Analysis-Wall Street awaits GameStop CEO Cohen's next move after eBay rejected takeover bid (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Wednesday, May 27, 2026: Earn up to 4.10% APY (Yahoo Finance)
+- [macro] Cantor Fitzgerald Reaffirms Overweight Rating on Visa (V) After Earnings Beat (Yahoo Finance)
