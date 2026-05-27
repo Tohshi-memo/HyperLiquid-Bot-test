@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-05-27T00:07:20.501711+00:00`
-- Observed: `2026-05-27T00:00:00+00:00`
+- Generated: `2026-05-27T00:22:17.488566+00:00`
+- Observed: `2026-05-27T00:15:00+00:00`
 - Assets: `780`
 
 ## Top Activity
@@ -20,11 +20,11 @@ Individual asset screen for drilling down from class-level signals.
 - `@17` unknown price `1.526e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@17_24h`
 - `@138` unknown price `0.0005133` 4h `0.0` vol `0.0` relationship `market_context_high->@138_24h`
 - `@49` unknown price `0.000621` 4h `0.0` vol `0.0` relationship `market_context_high->@49_24h`
-- `PURR` crypto_alt price `0.096321` 4h `-2.3173` vol `2727047.12` relationship `market_context_high->PURR_24h`
-- `PURR/USDC` crypto_alt price `0.0969405` 4h `-1.5763` vol `0.0` relationship `market_context_high->PURR/USDC_24h`
-- `GRASS` crypto_alt price `0.52323` 4h `-1.1953` vol `6233196.55` relationship `market_context_high->GRASS_24h`
+- `PURR` crypto_alt price `0.096727` 4h `-2.0049` vol `2692278.07` relationship `market_context_high->PURR_24h`
+- `GRASS` crypto_alt price `0.52327` 4h `-0.9858` vol `6220354.26` relationship `market_context_high->GRASS_24h`
+- `PURR/USDC` crypto_alt price `0.0969495` 4h `-1.418` vol `0.0` relationship `market_context_high->PURR/USDC_24h`
 - `@88` unknown price `8.504e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@88_24h`
-- `VVV` crypto_alt price `16.8935` 4h `-2.69` vol `21194413.28` relationship `market_context_high->VVV_24h`
-- `WLD` crypto_alt price `0.3757` 4h `-1.5152` vol `65334008.38` relationship `market_context_high->WLD_4h`
+- `VVV` crypto_alt price `16.84` 4h `-2.4079` vol `21100150.98` relationship `market_context_high->VVV_24h`
+- `WLD` crypto_alt price `0.37081` 4h `-3.2358` vol `65989747.49` relationship `market_context_high->WLD_4h`
 - `@176` unknown price `0.000977` 4h `0.0` vol `0.0` relationship `market_context_high->@176_4h`
-- `xyz:LITE` equity price `920.18` 4h `0.9517` vol `7193944.31` relationship `market_context_high->xyz:LITE_24h`
+- `xyz:LITE` equity price `913.735` 4h `-0.1606` vol `6449960.22` relationship `market_context_high->xyz:LITE_24h`
