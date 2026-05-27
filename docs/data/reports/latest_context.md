@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T12:08:23.812706+00:00`
-- Market context score: `45.94`
-- News risk score: `48.72`
-- Macro risk score: `31.46`
-- Risk-on score: `32.89`
-- Articles: `74`
+- Generated: `2026-05-27T12:22:32.839303+00:00`
+- Market context score: `49.33`
+- News risk score: `45.95`
+- Macro risk score: `29.15`
+- Risk-on score: `37.22`
+- Articles: `77`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1818`
-- Day/swing latest: `2026-05-27T12:00:00+00:00`
+- Day/swing records: `1819`
+- Day/swing latest: `2026-05-27T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `21`, risk hits `8`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `51`, risk hits `17`, risk headline rate `0.2941`, policy hits `5`
+- crypto: articles `24`, risk hits `8`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `51`, risk hits `15`, risk headline rate `0.2549`, policy hits `5`
 
 ## Headlines
 
+- [macro] Here's what could pop the stock market bubble (Yahoo Finance)
+- [macro] Dow Jones Futures Rise After S&P 500, Nasdaq Hit Highs; 5 AI Stocks In Buy Areas (Yahoo Finance)
+- [macro] Silver prices today, Wednesday, May 27, 2026: Silver prices are sliding this morning (Yahoo Finance)
+- [macro] Westpac fined A$26m over hardship delays (Yahoo Finance)
+- [macro] Forget Cerebras at $256. Buy This AI ETF Instead for Just $62. (Yahoo Finance)
+- [macro] This Space Stocks Boom Has Echoes of the EV Bubble. Red Flags as Rocket Labs, AST Soar. (Yahoo Finance)
+- [macro] Goldman Sachs Moves Away From Apple Card And Into Buy Range (Yahoo Finance)
 - [macro] Fidelity hires Prezzavento for ETF strategy role (Yahoo Finance)
 - [crypto] Kraken unveils Bitcoin Vault, expanding yield push for BTC holders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI-driven wealth firm TIFIN.AI forms Australia venture (Yahoo Finance)
-- [macro] Trump-backed challenger beats veteran US senator in Texas primary (BBC News)
-- [macro] Five people found alive after week trapped in flooded Laos cave (BBC News)
-- [macro] Zscaler Plunges On Weak Guidance Amid Sales Shake-Up (Yahoo Finance)
-- [macro] Earnings live updates: Zscaler stock plunges 24% premarket on cautious guidance (Yahoo Finance)
-- [crypto] Singapore charges former Hodlnaut CEO Zhu Juntao over Terra collapse claims (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Interactive Brokers Has Quietly Become One of the Best-Run Brokerages on Wall Street (Yahoo Finance)
-- [macro] MUFG reviews Bank Danamon stake – report (Yahoo Finance)
