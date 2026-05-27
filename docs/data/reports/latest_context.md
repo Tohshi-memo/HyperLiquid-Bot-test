@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T21:52:21.785840+00:00`
-- Market context score: `45.46`
-- News risk score: `45.58`
-- Macro risk score: `24.22`
-- Risk-on score: `26.45`
-- Articles: `73`
+- Generated: `2026-05-27T22:07:17.302768+00:00`
+- Market context score: `46.2`
+- News risk score: `44.61`
+- Macro risk score: `24.12`
+- Risk-on score: `27.23`
+- Articles: `74`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1856`
-- Day/swing latest: `2026-05-27T21:45:00+00:00`
+- Day/swing records: `1857`
+- Day/swing latest: `2026-05-27T22:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `47`, risk hits `14`, risk headline rate `0.2979`, policy hits `2`
-- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `0`
+- crypto: articles `47`, risk hits `13`, risk headline rate `0.2766`, policy hits `3`
+- macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] The world's carmakers are struggling to compete with China (BBC News)
+- [crypto] Google engineer insider-traded search results on Polymarket, Feds allege (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] One in six young people will not be in work or training in five years without action, report warns (BBC News)
 - [crypto] Crypto cash backs potential new allies in Congress as industry's PAC presence widens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Orca, Streamex roll out secondary trading infrastructure for tokenized securities (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [policy] Cook, The Opportunities and Risks AI Presents for the Economy and Financial System (FRB: Speeches)
 - [commodity] Oil prices fall more than 5% after Rubio says U.S. will give Iran talks 'every chance to succeed' (Energy)
 - [crypto] Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split (Cointelegraph.com News)
-- [crypto] Ether bears at risk of $2B squeeze as short positions build around $2K (Cointelegraph.com News)
-- [crypto] Wall Street gets new crypto rival after Texas bank completes regulatory pivot (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
