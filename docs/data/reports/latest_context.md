@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T02:07:17.615149+00:00`
+- Generated: `2026-05-27T02:22:16.699493+00:00`
 - Market context score: `45.56`
 - News risk score: `48.31`
 - Macro risk score: `32.5`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1780`
-- Day/swing latest: `2026-05-27T02:00:00+00:00`
+- Day/swing records: `1781`
+- Day/swing latest: `2026-05-27T02:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
+- [macro] Booming AI chip demand helps create two new $1tn club members (BBC News)
 - [macro] Hundreds of children die within months as measles cases soar in Bangladesh (BBC News)
-- [macro] Chipmakers SK Hynix and Micron join $1tn club on surging AI demand (BBC News)
 - [macro] Champion ethical hacker warns AI tools like Mythos could put her out of business (BBC News)
 - [macro] White House erects UFC cage ahead of US 250th anniversary celebrations (BBC News)
 - [macro] Dozens killed in Lebanon as Israel intensifies strikes (BBC News)
