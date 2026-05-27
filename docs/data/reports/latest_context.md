@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T20:22:24.818221+00:00`
+- Generated: `2026-05-27T20:37:18.273161+00:00`
 - Market context score: `46.15`
 - News risk score: `44.68`
 - Macro risk score: `23.8`
 - Risk-on score: `27.05`
 - Articles: `73`
-- Polymarket markets: `397`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1851`
-- Day/swing latest: `2026-05-27T20:15:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Israel issues evacuation order for swathes of southern Lebanon (BBC News)
 - [policy] Cook, The Opportunities and Risks AI Presents for the Economy and Financial System (FRB: Speeches)
 - [commodity] Oil prices fall more than 5% after Rubio says U.S. will give Iran talks 'every chance to succeed' (Energy)
 - [crypto] Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR (Cointelegraph.com News)
 - [crypto] Mastercard secures New York BitLicense for crypto operations (Cointelegraph.com News)
 - [crypto] Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Trump opposes Russia or China taking Iran's highly enriched uranium (Energy)
