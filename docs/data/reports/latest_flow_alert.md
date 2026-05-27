@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-27T17:25:15.886843+00:00`
-- Flow alert score: `17.0`
+- Generated: `2026-05-27T17:30:22.888788+00:00`
+- Flow alert score: `17.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `46020766.74`
-- Polymarket volume z-score: `-0.04`
+- Polymarket 24h volume: `46792435.53`
+- Polymarket volume z-score: `0.06`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `5988879.831824011` | liquidity: `548718.6585`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6148806.056555012` | liquidity: `772195.7272`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3933019.830418002` | liquidity: `1725640.54389`
-- Will the Iranian regime fall by May 31? | 24h volume: `2852197.9830530384` | liquidity: `2212036.03037`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1959014.5371489995` | liquidity: `179050.81217`
-- Roland Garros ATP: Mariano Navone vs Jakub Mensik | 24h volume: `1927249.0022649968` | liquidity: `1201900.63293`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1674443.3490270006` | liquidity: `890342.48399`
-- US announces new Iran agreement/ceasefire extension by May 27? | 24h volume: `1567289.5621469985` | liquidity: `101888.77398`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3932829.263517002` | liquidity: `1767861.15213`
+- Will the Iranian regime fall by May 31? | 24h volume: `2905261.0576340337` | liquidity: `2190669.48676`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1959094.4896969995` | liquidity: `179017.14941`
+- Roland Garros ATP: Mariano Navone vs Jakub Mensik | 24h volume: `1930974.3222649968` | liquidity: `1102135.13325`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1675220.1805680005` | liquidity: `615891.39198`
+- US announces new Iran agreement/ceasefire extension by May 27? | 24h volume: `1617240.6935929987` | liquidity: `124244.55546`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
