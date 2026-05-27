@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-27T17:52:27.829120+00:00`
-- Market context score: `48.03`
-- News risk score: `45.95`
-- Macro risk score: `26.36`
-- Risk-on score: `33.27`
-- Articles: `98`
+- Generated: `2026-05-27T18:07:22.236055+00:00`
+- Market context score: `43.26`
+- News risk score: `48.27`
+- Macro risk score: `30.1`
+- Risk-on score: `26.04`
+- Articles: `79`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1841`
-- Day/swing latest: `2026-05-27T17:45:00+00:00`
+- Day/swing records: `1842`
+- Day/swing latest: `2026-05-27T18:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `46`, risk hits `16`, risk headline rate `0.2826`, policy hits `0`
-- macro: articles `48`, risk hits `12`, risk headline rate `0.2083`, policy hits `2`
+- commodity: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `45`, risk hits `16`, risk headline rate `0.2889`, policy hits `1`
+- macro: articles `29`, risk hits `8`, risk headline rate `0.2414`, policy hits `11`
 
 ## Headlines
 
+- [commodity] Oil prices fall more than 4% after Rubio says U.S. will give Iran talks 'every chance to succeed' (Energy)
+- [crypto] Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Trump opposes Russia or China taking Iran's highly enriched uranium (Energy)
 - [macro] Trump says US 'not satisfied' with Iran deal yet (BBC News)
-- [macro] CONL’s 2x Coinbase Bet Has Lost Most of Its Value as COIN Volatility Whipsaws Holders Daily (Yahoo Finance)
-- [macro] Market Crash: This Dividend Stock Becomes a No-Brainer Buy at a Discount (Yahoo Finance)
-- [macro] Why Walmart’s Post-Earnings Dip Is A Diversification Play (Yahoo Finance)
-- [macro] DigitalBridge acquires ArcLight Capital Partners for $1.05 billion (Yahoo Finance)
-- [macro] AI Jobs Fallout May Trigger Token Taxes, Big Safety Net Changes As Political Risks Mount (Yahoo Finance)
-- [macro] Gas prices could hit $5 a gallon this summer unless Hormuz flows resume, analyst says (Yahoo Finance)
 - [macro] Israel strikes Tyre after ordering evacuation of south Lebanon city (BBC News)
-- [commodity] Oil prices fall 4% after Rubio says U.S. will give Iran talks 'every chance to succeed' (Energy)
-- [macro] Block Starts Phased Rollout Of Stablecoin Payment Feature (Yahoo Finance)
+- [macro] Watch: Moment rescuers find five people trapped in Laos cave (BBC News)
+- [crypto] Prediction markets enter the derivatives era: XBIT DEX opens whitelist for prediction leverage, launching a 35,000 USDC campaign (Cointelegraph.com News)
+- [macro] Analyst Report: Viatris Inc (Yahoo Finance)
+- [crypto] Bitcoin price threatens $75K loss as US-Iran peace progress sparks new stocks records (Cointelegraph.com News)
+- [macro] Market Update: ZBH, BUD, VTRS (Yahoo Finance)
