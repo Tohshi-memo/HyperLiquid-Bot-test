@@ -2,7 +2,7 @@
 
 These are early-warning indicators for cross-market relationships. They are hypotheses to test, not trade signals by themselves.
 
-- Updated: `2026-05-27T20:52:24.977480+00:00`
+- Updated: `2026-05-27T20:54:43.426777+00:00`
 - Correlation status: `ready`
 - Asset price records: `672`
 - Minimum samples for correlation: `24`
@@ -13,20 +13,20 @@ These are early-warning indicators for cross-market relationships. They are hypo
 
 ## Class Returns
 
-- 15m: commodity avg `0.0185` n `12`; crypto_alt avg `0.2337` n `228`; crypto_major avg `0.1184` n `8`; equity avg `0.0391` n `67`; fx avg `-0.0003` n `6`; index avg `0.0126` n `23`; metal avg `0.0009` n `18`; unknown avg `0.0388` n `419`
-- 1h: commodity avg `-0.0189` n `12`; crypto_alt avg `0.0927` n `228`; crypto_major avg `0.173` n `8`; equity avg `0.1846` n `67`; fx avg `0.0024` n `6`; index avg `0.1064` n `23`; metal avg `0.0125` n `18`; unknown avg `0.4252` n `419`
-- 4h: commodity avg `-0.3147` n `12`; crypto_alt avg `-0.2804` n `228`; crypto_major avg `-0.1356` n `8`; equity avg `0.3469` n `67`; fx avg `0.0241` n `6`; index avg `0.1304` n `23`; metal avg `-0.0587` n `18`; unknown avg `0.0094` n `418`
-- 24h: commodity avg `-1.1306` n `12`; crypto_alt avg `-0.2771` n `228`; crypto_major avg `0.0358` n `8`; equity avg `0.1036` n `67`; fx avg `-0.0769` n `6`; index avg `-0.3662` n `23`; metal avg `-1.2965` n `18`; unknown avg `-0.1007` n `400`
+- 15m: commodity avg `-0.0232` n `12`; crypto_alt avg `0.1562` n `228`; crypto_major avg `0.0977` n `8`; equity avg `-0.0101` n `67`; fx avg `-0.0008` n `6`; index avg `0.0171` n `23`; metal avg `0.0026` n `18`; unknown avg `0.0488` n `419`
+- 1h: commodity avg `-0.0606` n `12`; crypto_alt avg `0.0154` n `228`; crypto_major avg `0.1523` n `8`; equity avg `0.1338` n `67`; fx avg `0.0019` n `6`; index avg `0.1109` n `23`; metal avg `0.0142` n `18`; unknown avg `0.4316` n `419`
+- 4h: commodity avg `-0.3562` n `12`; crypto_alt avg `-0.3578` n `228`; crypto_major avg `-0.1563` n `8`; equity avg `0.2962` n `67`; fx avg `0.0235` n `6`; index avg `0.1348` n `23`; metal avg `-0.057` n `18`; unknown avg `0.0175` n `418`
+- 24h: commodity avg `-1.1712` n `12`; crypto_alt avg `-0.3542` n `228`; crypto_major avg `0.0153` n `8`; equity avg `0.0544` n `67`; fx avg `-0.0775` n `6`; index avg `-0.3617` n `23`; metal avg `-1.2949` n `18`; unknown avg `-0.0886` n `400`
 
 ## Correlations
 
-- market_context_score -> crypto_alt_forward_1h_return_pct: corr `0.1724`, n `668`, weak_sample_signal
-- market_context_score -> crypto_major_forward_1h_return_pct: corr `0.1703`, n `668`, weak_sample_signal
-- risk_on_score -> crypto_alt_forward_1h_return_pct: corr `0.1606`, n `668`, weak_sample_signal
-- market_context_score -> index_forward_1h_return_pct: corr `0.1549`, n `668`, weak_sample_signal
-- news_risk_score -> crypto_major_forward_1h_return_pct: corr `-0.1544`, n `668`, weak_sample_signal
+- market_context_score -> crypto_alt_forward_1h_return_pct: corr `0.1726`, n `668`, weak_sample_signal
+- market_context_score -> crypto_major_forward_1h_return_pct: corr `0.1704`, n `668`, weak_sample_signal
+- risk_on_score -> crypto_alt_forward_1h_return_pct: corr `0.1608`, n `668`, weak_sample_signal
+- market_context_score -> index_forward_1h_return_pct: corr `0.1548`, n `668`, weak_sample_signal
+- news_risk_score -> crypto_major_forward_1h_return_pct: corr `-0.1545`, n `668`, weak_sample_signal
 - polymarket_volume_24h -> metal_forward_1h_return_pct: corr `0.145`, n `668`, weak_sample_signal
 - flow_alert_score -> fx_forward_1h_return_pct: corr `0.1414`, n `668`, weak_sample_signal
-- risk_on_score -> index_forward_1h_return_pct: corr `0.1399`, n `668`, weak_sample_signal
-- risk_on_score -> crypto_major_forward_1h_return_pct: corr `0.133`, n `668`, weak_sample_signal
+- risk_on_score -> index_forward_1h_return_pct: corr `0.1398`, n `668`, weak_sample_signal
+- risk_on_score -> crypto_major_forward_1h_return_pct: corr `0.1331`, n `668`, weak_sample_signal
 - polymarket_volume_24h -> fx_forward_1h_return_pct: corr `0.129`, n `668`, weak_sample_signal
