@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T05:22:17.652712+00:00`
+- Generated: `2026-05-28T05:37:19.653802+00:00`
 - Market context score: `37.51`
 - News risk score: `55.1`
 - Macro risk score: `38.83`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1886`
-- Day/swing latest: `2026-05-28T05:15:00+00:00`
+- Day/swing records: `1887`
+- Day/swing latest: `2026-05-28T05:30:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Oil prices jump after US launches new attacks on Iran (BBC News)
+- [macro] Oil prices jump after US launches new attacks on Iran (BBC News)
 - [macro] US strikes Iran targets for second time in three days (BBC News)
 - [crypto] Bitcoin could be heading much lower, fund manager warns as $150 billion Treasury operation nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Jill Biden says she thought husband was having a stroke during 2024 debate (BBC News)
 - [macro] Israel issues evacuation order for swathes of southern Lebanon (BBC News)
 - [crypto] XRP drops 4% below $1.30 as heavy selling breaks key support zone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Oil prices jump after US launches new attacks on Iran (BBC News)
-- [macro] Oil prices jump after US launches new attacks on Iran (BBC News)
 - [crypto] Bitcoin drops below $73,000 as US strikes on Iran spark $1 billion liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US charges Google employee with insider trading bets on Polymarket (Cointelegraph.com News)
 - [commodity] LG Energy Solution's shares surge as much as 16% after landing major U.S. battery storage deal (Energy)
