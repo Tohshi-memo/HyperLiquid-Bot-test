@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T07:22:26.223114+00:00`
-- Market context score: `40.16`
+- Generated: `2026-05-28T07:37:15.741880+00:00`
+- Market context score: `40.84`
 - News risk score: `53.87`
 - Macro risk score: `36.47`
-- Risk-on score: `26.29`
+- Risk-on score: `27.81`
 - Articles: `52`
 - Polymarket markets: `396`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1894`
-- Day/swing latest: `2026-05-28T07:15:00+00:00`
+- Day/swing records: `1895`
+- Day/swing latest: `2026-05-28T07:30:00+00:00`
 
 ## News Categories
 
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [macro] Sixteen pupils killed in Kenya school fire, local police say (BBC News)
+- [commodity] Ousted BP chair Albert Manifold rejects ‘lies’ over his conduct (Energy)
+- [macro] One in six young people will not be in work or training in five years without action, report warns (BBC News)
 - [crypto] Diverging trends: Ether slides below $2,000 while futures open interest hits record high of 16 million ETH (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US strikes Iran military site as Tehran says it has targeted American base (BBC News)
-- [commodity] Ousted BP chair Albert Manifold rejects ‘lies’ over his conduct (Energy)
-- [macro] UK at risk of 'lost generation' of young people without work, report warns (BBC News)
-- [macro] Sixteen pupils killed in Kenya school fire, local police say (BBC News)
 - [crypto] Crypto markets shed $80B after fresh US strikes on Iran (Cointelegraph.com News)
 - [macro] The £5 coffee that tells a story of global economic turmoil (BBC News)
 - [crypto] CFTC seeks to reverse settlement deal with Gemini (Cointelegraph.com News)
