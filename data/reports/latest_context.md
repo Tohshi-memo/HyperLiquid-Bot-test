@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T13:22:22.277777+00:00`
-- Market context score: `45.29`
-- News risk score: `52.82`
-- Macro risk score: `36.23`
-- Risk-on score: `36.72`
-- Articles: `83`
+- Generated: `2026-05-28T13:37:20.751099+00:00`
+- Market context score: `47.76`
+- News risk score: `49.46`
+- Macro risk score: `31.51`
+- Risk-on score: `37.58`
+- Articles: `85`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1918`
-- Day/swing latest: `2026-05-28T13:15:00+00:00`
+- Day/swing records: `1919`
+- Day/swing latest: `2026-05-28T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `2`
-- macro: articles `51`, risk hits `22`, risk headline rate `0.3529`, policy hits `8`
+- crypto: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `51`, risk hits `18`, risk headline rate `0.2745`, policy hits `5`
 
 ## Headlines
 
+- [crypto] Asset manager Grayscale delays IPO plans as crypto listing boom loses steam (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] VanEck launches first U.S. spot BNB ETF on Nasdaq (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bit Digital bought $20 million ETH for first time since October before 15% plunge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Caesars Entertainment to be bought by Fertitta Entertainment in $17.6 billion deal (Yahoo Finance)
+- [macro] Dollar Tree Q1 2026 earnings beat, raises full-year EPS guidance (Yahoo Finance)
+- [macro] Israel hits Lebanese capital in 'targeted strike' (BBC News)
 - [crypto] What's next as hot money cycle has gone from crypto to gold to AI to memory (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say (BBC News)
-- [crypto] CoinDesk 20 performance update: Stellar (XLM) jumps 10.5% as nearly all assets fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows (Economy)
-- [macro] PCE Inflation Better Than Feared As Rate Hike Looms; S&P 500 Futures Erase Losses (Live Coverage) (Yahoo Finance)
-- [macro] Why Canada’s Warren Buffett Has Doubled and Tripled Down on This Struggling Apparel and Footwear Giant (Yahoo Finance)
-- [macro] Mark Cuban dumped most of his Bitcoin, saying it 'lost the plot.' Experts say he panic-sold at the worst possible time (Yahoo Finance)
-- [macro] Retiring to Mexico on Social Security Only: Where the Math Works and Where It Breaks (Yahoo Finance)
-- [macro] Missed the Boat on Amazon In 1999? 1 Unstoppable Growth Stock Under $30 to Buy Hand Over Fist (Yahoo Finance)
-- [macro] 2 Stocks With Monster Potential to Hold Through the Next Decade (Yahoo Finance)
+- [macro] U.S. GDP Q1 2026 revised down to 1.6% as profits slow (Yahoo Finance)
+- [macro] Big Bank CEOs still see a resilient US economy — with some caveats (Yahoo Finance)
