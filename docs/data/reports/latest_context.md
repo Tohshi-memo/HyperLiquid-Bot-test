@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T16:52:22.338247+00:00`
-- Market context score: `44.97`
-- News risk score: `49.7`
-- Macro risk score: `37.35`
-- Risk-on score: `33.78`
-- Articles: `96`
+- Generated: `2026-05-28T17:07:25.488257+00:00`
+- Market context score: `47.13`
+- News risk score: `48.42`
+- Macro risk score: `36.44`
+- Risk-on score: `37.16`
+- Articles: `92`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1932`
-- Day/swing latest: `2026-05-28T16:45:00+00:00`
+- Day/swing records: `1933`
+- Day/swing latest: `2026-05-28T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `1`
-- crypto: articles `42`, risk hits `13`, risk headline rate `0.2381`, policy hits `3`
-- macro: articles `48`, risk hits `19`, risk headline rate `0.3542`, policy hits `9`
+- crypto: articles `41`, risk hits `11`, risk headline rate `0.2195`, policy hits `2`
+- macro: articles `45`, risk hits `16`, risk headline rate `0.3333`, policy hits `11`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Israel hits Lebanese capital in 'targeted strike' (BBC News)
+- [commodity] Unusual Machines and other drone stocks surge on report Pentagon considering stakes in the industry (Energy)
+- [macro] Are US and Iran close to peace or sliding back to war? (BBC News)
 - [macro] US justice department launches criminal investigation into Trump accuser E Jean Carroll (BBC News)
 - [crypto] UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] I’m 40, just divorced with $85,000 income and nothing saved. Can I really become a multimillionaire by 65? (Yahoo Finance)
-- [macro] Questions over safety as 16 pupils die in another Kenya school fire (BBC News)
-- [macro] Google Engineer Charged Over $2.75 Million in Alleged Polymarket Insider Trading Bets (Yahoo Finance)
-- [macro] Man arrested after three injured in stabbing at Swiss train station (BBC News)
-- [macro] The Roundhill Memory ETF (DRAM) Packages Micron, Sandisk, Samsung, and SK Hynix in 1 Ticker for Just $60. But There's a Catch. (Yahoo Finance)
-- [macro] Drag queen Pattie Gonia fights trademark lawsuit by Patagonia (BBC News)
-- [macro] Dollar falls on report of US-Iran agreement to extend ceasefire (Yahoo Finance)
+- [macro] USPS signs $10 billion exclusive last-mile deal with DHL eCommerce (Yahoo Finance)
+- [macro] Meta commits additional funding to Oversight Board through 2028 (Yahoo Finance)
+- [macro] Solar Stocks To Watch As AI Drives Energy Demand (Yahoo Finance)
+- [macro] Procter & Gamble vs. Clorox: Which Consumer Goods Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Vanguard’s Value ETF May Soon Outperform Your Tech Holdings as “The Great Migration” Accelerates (Yahoo Finance)
