@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T19:37:21.480842+00:00`
+- Generated: `2026-05-28T19:52:25.259653+00:00`
 - Market context score: `47.4`
 - News risk score: `46.05`
 - Macro risk score: `32.3`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1943`
-- Day/swing latest: `2026-05-28T19:30:00+00:00`
+- Day/swing records: `1944`
+- Day/swing latest: `2026-05-28T19:45:00+00:00`
 
 ## News Categories
 
@@ -37,5 +37,5 @@
 - [crypto] Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trezor adds native USDt, USDC yield via Morpho integration (Cointelegraph.com News)
 - [crypto] French company abandons crypto treasury strategy, will liquidate Bitcoin holdings (Cointelegraph.com News)
-- [macro] Analyst Report: HP Inc (Yahoo Finance)
 - [macro] Analyst Report: Harley-Davidson Inc (Yahoo Finance)
+- [macro] Analyst Report: HP Inc (Yahoo Finance)
