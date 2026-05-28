@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-28T22:40:19.724748+00:00`
+- Generated: `2026-05-28T22:45:20.987762+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,14 +8,14 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `38989611.64`
-- Polymarket volume z-score: `-1.02`
+- Polymarket 24h volume: `39206724.85`
+- Polymarket volume z-score: `-0.99`
 
 ## Top Polymarket Markets
 
 - US x Iran permanent peace deal by May 31, 2026? | 24h volume: `7270222.840056002` | liquidity: `899217.3991`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3043227.321249996` | liquidity: `1333509.56804`
-- Will the US officially declare war on Venezuela by June 30, 2026? | 24h volume: `2127421.16186` | liquidity: `31841.67619`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3042625.631249996` | liquidity: `1333565.91848`
+- Will the US officially declare war on Venezuela by June 30, 2026? | 24h volume: `2127421.16186` | liquidity: `31745.00491`
 - US-Iran nuclear deal by May 31? | 24h volume: `1666829.10718499` | liquidity: `75517.20672`
 - Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas | 24h volume: `1654022.8211390004` | liquidity: `409744.4258`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1461072.9167130045` | liquidity: `166760.4382`
