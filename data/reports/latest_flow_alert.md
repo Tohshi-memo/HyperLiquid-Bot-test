@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-28T09:25:18.368559+00:00`
+- Generated: `2026-05-28T09:30:19.249116+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `43948309.45`
-- Polymarket volume z-score: `-0.38`
+- Polymarket 24h volume: `43890134.18`
+- Polymarket volume z-score: `-0.39`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `7734457.979935993` | liquidity: `1527784.9053`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `7715546.9390229955` | liquidity: `1519699.6219`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3769488.4380179956` | liquidity: `1870616.68868`
-- Will the Iranian regime fall by May 31? | 24h volume: `2336514.8302440103` | liquidity: `2696901.40843`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1958930.548749` | liquidity: `170451.08708`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1662574.7430180006` | liquidity: `739231.25788`
-- Will Tom Brady win the 2028 Republican presidential nomination? | 24h volume: `1192204.27825` | liquidity: `1935920.83071`
-- US-Iran nuclear deal by May 31? | 24h volume: `1051969.8047769999` | liquidity: `54704.13065`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3766024.693517996` | liquidity: `1875106.68321`
+- Will the Iranian regime fall by May 31? | 24h volume: `2306030.835244009` | liquidity: `2696556.37801`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1958975.9124699999` | liquidity: `170534.60352`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1663377.7370180006` | liquidity: `738662.99063`
+- Will Tom Brady win the 2028 Republican presidential nomination? | 24h volume: `1193468.850875` | liquidity: `1933266.63209`
+- US-Iran nuclear deal by May 31? | 24h volume: `1110685.306461` | liquidity: `56062.74215`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
