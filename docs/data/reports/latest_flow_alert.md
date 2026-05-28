@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-28T20:55:19.167574+00:00`
+- Generated: `2026-05-28T21:00:31.913202+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `41124119.45`
-- Polymarket volume z-score: `-0.73`
+- Polymarket 24h volume: `40965094.61`
+- Polymarket volume z-score: `-0.75`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `7220836.061191987` | liquidity: `915704.2111`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `2911490.8581829974` | liquidity: `1432060.77139`
-- Will the US officially declare war on Venezuela by June 30, 2026? | 24h volume: `2126980.202575` | liquidity: `39972.52537`
-- US-Iran nuclear deal by May 31? | 24h volume: `1617740.5001289903` | liquidity: `64552.34022`
-- Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas | 24h volume: `1495569.3451130018` | liquidity: `64777.8531`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1483490.777475004` | liquidity: `188415.4523`
-- US announces new Iran agreement/ceasefire extension by May 28? | 24h volume: `1360731.0635660014` | liquidity: `74304.78917`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1242354.2633089998` | liquidity: `364136.34524`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `7240197.135445987` | liquidity: `805915.451`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `2951743.1081829974` | liquidity: `1431942.69155`
+- Will the US officially declare war on Venezuela by June 30, 2026? | 24h volume: `2127245.202575` | liquidity: `40555.84784`
+- US-Iran nuclear deal by May 31? | 24h volume: `1622246.2002259903` | liquidity: `77456.73512`
+- Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas | 24h volume: `1542268.3041040024` | liquidity: `44344.4754`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1487523.044594004` | liquidity: `166005.1972`
+- US announces new Iran agreement/ceasefire extension by May 28? | 24h volume: `1366945.7879140014` | liquidity: `75885.33695`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1243914.8533089997` | liquidity: `391608.8745`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
