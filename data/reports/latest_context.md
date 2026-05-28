@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T14:07:25.620824+00:00`
-- Market context score: `47.98`
-- News risk score: `48.36`
-- Macro risk score: `28.19`
-- Risk-on score: `35.9`
-- Articles: `87`
+- Generated: `2026-05-28T14:22:22.980857+00:00`
+- Market context score: `49.14`
+- News risk score: `46.87`
+- Macro risk score: `27.58`
+- Risk-on score: `36.98`
+- Articles: `89`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1921`
-- Day/swing latest: `2026-05-28T14:00:00+00:00`
+- Day/swing records: `1922`
+- Day/swing latest: `2026-05-28T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `32`, risk hits `11`, risk headline rate `0.3125`, policy hits `2`
-- macro: articles `51`, risk hits `13`, risk headline rate `0.2157`, policy hits `5`
+- crypto: articles `35`, risk hits `11`, risk headline rate `0.2857`, policy hits `2`
+- macro: articles `50`, risk hits `12`, risk headline rate `0.2`, policy hits `8`
 
 ## Headlines
 
+- [macro] Opportunities shrinking for too many young people, says major report on 'lost generation' (BBC News)
+- [macro] 'I've applied for more than 400 roles' - how young people are facing the job shortage (BBC News)
+- [macro] Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows (Economy)
+- [macro] nCino (NCNO) Q1 2027 Earnings Call Transcript (Yahoo Finance)
+- [macro] The Smartest Bank ETF to Own if the Fed Hikes Rates This Year (Yahoo Finance)
+- [macro] VanEck Launches First BNB Exchange-Traded Fund (Yahoo Finance)
+- [macro] JD.com’s $2.6 Billion Ceconomy Takeover Move Faces In-Depth EU Probe (Yahoo Finance)
 - [crypto] Gemini taps SpaceXAI to build a personalized prediction markets feed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stock Market Today: Dow Falls On Surprise Inflation Data; Snowflake Rockets On Earnings (Live Coverage) (Yahoo Finance)
-- [macro] Montero Mining kicks off drilling at Elvira gold project (Yahoo Finance)
-- [macro] Jim Cramer Says Alphabet (GOOGL) Is A “Crucial Position” (Yahoo Finance)
-- [macro] Jim Cramer Can’t Believe Goldman Sachs’ (GS) Current Valuation (Yahoo Finance)
-- [macro] Jim Cramer Discusses Home Depot (HD) Stock (Yahoo Finance)
-- [macro] Jim Cramer Wants NVIDIA (NVDA) to be More Like Apple (Yahoo Finance)
-- [macro] Jim Cramer Disagrees With Intuit’s (INTU) Share Price Movement (Yahoo Finance)
-- [macro] Jim Cramer Reveals Why He’d Buy Walmart (WMT) (Yahoo Finance)
-- [macro] Jim Cramer Discusses Target’s (TGT) Strategy (Yahoo Finance)
+- [macro] He’s Berkshire Hathaway’s Other Charlie, the Heir to Its Insurance Juggernaut (Yahoo Finance)
+- [macro] Uncle Nearest to remain under court control (Yahoo Finance)
