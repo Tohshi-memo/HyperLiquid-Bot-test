@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-28T11:45:21.722148+00:00`
-- Flow alert score: `19.0`
+- Generated: `2026-05-28T11:50:18.643306+00:00`
+- Flow alert score: `19.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `50384620.01`
-- Polymarket volume z-score: `0.5`
+- Polymarket 24h volume: `50865737.56`
+- Polymarket volume z-score: `0.56`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `7587513.65697799` | liquidity: `1528910.3042`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `7533336.953723991` | liquidity: `1420833.9689`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3893048.932569995` | liquidity: `1745299.47399`
-- Will the Iranian regime fall by May 31? | 24h volume: `1866303.4676420004` | liquidity: `3245753.86902`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1690118.961667001` | liquidity: `673187.60507`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1687061.051181` | liquidity: `161788.76387`
-- LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Rounds 1-2 | 24h volume: `1525323.8172259987` | liquidity: `331999.72481`
-- Will the US officially declare war on Venezuela by June 30, 2026? | 24h volume: `1520023.0` | liquidity: `28144.58938`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3606550.1893059947` | liquidity: `1751469.28521`
+- Will the Iranian regime fall by May 31? | 24h volume: `1840101.5196420006` | liquidity: `3252272.65214`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1696161.838167001` | liquidity: `700406.18596`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1654607.362268` | liquidity: `172996.85569`
+- Will the US officially declare war on Venezuela by June 30, 2026? | 24h volume: `1641075.0` | liquidity: `29108.98108`
+- LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Rounds 1-2 | 24h volume: `1534858.7272259989` | liquidity: `273155.09692`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
