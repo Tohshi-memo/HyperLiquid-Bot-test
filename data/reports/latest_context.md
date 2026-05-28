@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T20:07:21.477623+00:00`
+- Generated: `2026-05-28T20:22:24.470553+00:00`
 - Market context score: `46.49`
 - News risk score: `46.71`
 - Macro risk score: `32.71`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1945`
-- Day/swing latest: `2026-05-28T20:00:00+00:00`
+- Day/swing records: `1946`
+- Day/swing latest: `2026-05-28T20:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [crypto] Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna (BBC News)
+- [crypto] Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
