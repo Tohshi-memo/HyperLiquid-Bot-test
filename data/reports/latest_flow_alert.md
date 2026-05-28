@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-28T02:00:17.073535+00:00`
+- Generated: `2026-05-28T02:05:17.074656+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `41562213.51`
-- Polymarket volume z-score: `-0.69`
+- Polymarket 24h volume: `41734149.9`
+- Polymarket volume z-score: `-0.67`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6509860.095082004` | liquidity: `770290.835`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6502496.088975004` | liquidity: `703440.5009`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3984782.930260003` | liquidity: `1668321.24283`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3970246.6701600044` | liquidity: `1757536.54743`
 - Will the Iranian regime fall by May 31? | 24h volume: `2836314.3537560166` | liquidity: `2505305.32367`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1962220.4607009995` | liquidity: `176149.46824`
-- US announces new Iran agreement/ceasefire extension by May 27? | 24h volume: `1889914.1909519995` | liquidity: `167047.09141`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1847162.3256320008` | liquidity: `611066.44133`
-- Will Tom Brady win the 2028 Republican presidential nomination? | 24h volume: `1186441.29325` | liquidity: `1943990.24214`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1962247.4512319993` | liquidity: `176071.00497`
+- US announces new Iran agreement/ceasefire extension by May 27? | 24h volume: `1889442.4199419988` | liquidity: `167074.74771`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1813284.0182069996` | liquidity: `610967.80561`
+- Will Tom Brady win the 2028 Republican presidential nomination? | 24h volume: `1186639.093375` | liquidity: `1943551.56342`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
