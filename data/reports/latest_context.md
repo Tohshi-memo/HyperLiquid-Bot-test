@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T17:37:27.180163+00:00`
-- Market context score: `49.37`
-- News risk score: `46.27`
-- Macro risk score: `33.22`
-- Risk-on score: `39.11`
-- Articles: `94`
-- Polymarket markets: `398`
+- Generated: `2026-05-28T17:52:22.161537+00:00`
+- Market context score: `48.21`
+- News risk score: `46.79`
+- Macro risk score: `34.16`
+- Risk-on score: `37.32`
+- Articles: `93`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1935`
-- Day/swing latest: `2026-05-28T17:30:00+00:00`
+- Day/swing records: `1936`
+- Day/swing latest: `2026-05-28T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `1`
 - crypto: articles `43`, risk hits `11`, risk headline rate `0.2093`, policy hits `2`
-- macro: articles `45`, risk hits `13`, risk headline rate `0.2889`, policy hits `6`
+- macro: articles `44`, risk hits `13`, risk headline rate `0.2955`, policy hits `8`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Goldman Sachs COO calls inflation 'the single biggest risk element' to the economy (Yahoo Finance)
+- [macro] Israel hits Lebanese capital in 'targeted strike' (BBC News)
+- [macro] The Vanguard ETF That Could Set You Up for Life if You Buy It Now (Yahoo Finance)
+- [macro] AI CEO just made a wild prediction about AI agents (Yahoo Finance)
+- [macro] Why Intuitive Machines Stock Keeps Going Up (Yahoo Finance)
+- [macro] Gold, silver, and oil are now trading 24/7 on-chain. The numbers are massive. (Yahoo Finance)
 - [crypto] Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Peter Schiff: MicroStrategy’s ‘Smart’ Debt Buyback Just Torched 60% of Its Safety Net (Yahoo Finance)
+- [macro] Bitcoin Proxy Strategy Sinks Below A Key Line. How To Profit From The Stock's Bearish Action. (Yahoo Finance)
 - [macro] Solar Stocks To Watch As AI Drives Energy Demand (Yahoo Finance)
-- [macro] Salesforce CEO Marc Benioff is hiring for just one role in the age of AI. Here's the gig he is offering and why. (Yahoo Finance)
-- [macro] The Best Nuclear Energy Stocks to Buy and Hold for Decades (Yahoo Finance)
-- [macro] JPMorgan Says Bitcoin ETF Outflows A Sign Of ‘Cooling’ Trade (Yahoo Finance)
-- [macro] Snowflake Soars. 2 Software Stocks That Could Be Next (Yahoo Finance)
-- [macro] Corgi announces $106M raise at $2.6B valuation — triple what it was worth three weeks ago (Yahoo Finance)
-- [macro] US Treasury rolls out Trump Accounts app nationwide (Yahoo Finance)
-- [macro] $750,000 Annuity Locks In $4,200 a Month for Life, but Gives Up $610,000 Inheritance (Yahoo Finance)
-- [macro] Royal Bank Of Canada Q2 Earnings Call Highlights (Yahoo Finance)
