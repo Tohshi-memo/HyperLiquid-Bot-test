@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T12:52:24.969306+00:00`
-- Market context score: `40.16`
-- News risk score: `58.32`
-- Macro risk score: `35.18`
-- Risk-on score: `29.56`
-- Articles: `72`
+- Generated: `2026-05-28T13:07:25.860012+00:00`
+- Market context score: `42.36`
+- News risk score: `55.09`
+- Macro risk score: `35.03`
+- Risk-on score: `31.66`
+- Articles: `76`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1916`
-- Day/swing latest: `2026-05-28T12:45:00+00:00`
+- Day/swing records: `1917`
+- Day/swing latest: `2026-05-28T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `22`, risk hits `11`, risk headline rate `0.4545`, policy hits `2`
+- crypto: articles `26`, risk hits `11`, risk headline rate `0.3846`, policy hits `2`
 - macro: articles `46`, risk hits `19`, risk headline rate `0.3261`, policy hits `8`
 
 ## Headlines
 
 - [macro] Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows (Economy)
-- [macro] UnitedHealth (UNH) Gets Higher Price Target from Bernstein Amid EPS Recovery Outlook (Yahoo Finance)
-- [macro] Cisco (CSCO) Gets Higher Price Target From BofA Following Q3 Results (Yahoo Finance)
+- [macro] Young people out of work or training costing UK £125bn as report warns of 'perfect storm' (BBC News)
+- [crypto] Samsung units take $408M stake in Upbit operator Dunamu: Report (Cointelegraph.com News)
+- [crypto] Ethereum under $2K: ETH whales sell as retail remains bullish (Cointelegraph.com News)
 - [macro] US PCE inflation firmer in April (Yahoo Finance)
+- [macro] Nebius shares jump more than 10% as former OpenAI employee's fund buys stake (Yahoo Finance)
+- [macro] UnitedHealth (UNH) Gets Higher Price Target from Bernstein Amid EPS Recovery Outlook (Yahoo Finance)
+- [macro] Bit Digital originates $100M loan facility for WhiteFiber, adds $20M in Ethereum (Yahoo Finance)
+- [macro] Cisco (CSCO) Gets Higher Price Target From BofA Following Q3 Results (Yahoo Finance)
 - [macro] CNN files suit against Perplexity alleging unlawful content distribution (Yahoo Finance)
-- [macro] Mizuho Increases 2026 and 2027 Oil Price Outlooks, Lifts Exxon Mobil (XOM) Target (Yahoo Finance)
-- [macro] PCE Inflation Better Than Feared As Rate Hike Looms; S&P 500 Futures Dip (Live Coverage) (Yahoo Finance)
-- [macro] Fed's inflation gauge heated up in April, cementing that interest rates will remain steady for now (Yahoo Finance)
-- [macro] Ecolab (ECL) Gets Upgrade from UBS on Accelerating Pricing Outlook (Yahoo Finance)
-- [macro] Couple who sold to Pepsi for $2 billion says going into business with your romantic partner is ‘not for the weak’ (Yahoo Finance)
