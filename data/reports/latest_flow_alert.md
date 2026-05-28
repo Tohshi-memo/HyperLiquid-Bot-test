@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-28T06:50:21.278108+00:00`
+- Generated: `2026-05-28T06:55:17.418913+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `44031020.46`
-- Polymarket volume z-score: `-0.38`
+- Polymarket 24h volume: `44308863.68`
+- Polymarket volume z-score: `-0.34`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8225944.512792996` | liquidity: `1800479.5299`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8222334.037499996` | liquidity: `1668846.3315`
 - Will Bitcoin hit $150k by June 30, 2026? | 24h volume: `5821652.894196` | liquidity: `19822.55555`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3785689.7705899994` | liquidity: `2002513.55864`
-- Will the Iranian regime fall by May 31? | 24h volume: `2574887.775435015` | liquidity: `2804054.57916`
-- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1959987.3380559995` | liquidity: `172430.80137`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1670771.030179` | liquidity: `567120.24086`
-- Will Tom Brady win the 2028 Republican presidential nomination? | 24h volume: `1190173.604625` | liquidity: `1936997.96107`
-- Will Nikki Haley win the 2028 US Presidential Election? | 24h volume: `975109.683535` | liquidity: `1050144.10422`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3790744.682171999` | liquidity: `2029188.16668`
+- Will the Iranian regime fall by May 31? | 24h volume: `2638278.163435015` | liquidity: `2739019.68878`
+- Will Reza Pahlavi lead Iran in 2026? | 24h volume: `1960535.3386359995` | liquidity: `172633.48623`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1677899.6821549998` | liquidity: `659776.27468`
+- Will Tom Brady win the 2028 Republican presidential nomination? | 24h volume: `1189979.59325` | liquidity: `1935558.77171`
+- Will Nikki Haley win the 2028 US Presidential Election? | 24h volume: `976704.74082` | liquidity: `1048446.41051`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
