@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T05:07:19.046329+00:00`
-- Market context score: `37.14`
-- News risk score: `55.82`
-- Macro risk score: `38.15`
-- Risk-on score: `21.85`
+- Generated: `2026-05-28T05:22:17.652712+00:00`
+- Market context score: `37.51`
+- News risk score: `55.1`
+- Macro risk score: `38.83`
+- Risk-on score: `22.33`
 - Articles: `52`
 - Polymarket markets: `397`
 
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1885`
-- Day/swing latest: `2026-05-28T05:00:00+00:00`
+- Day/swing records: `1886`
+- Day/swing latest: `2026-05-28T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `1`
-- crypto: articles `19`, risk hits `10`, risk headline rate `0.4737`, policy hits `4`
-- macro: articles `26`, risk hits `12`, risk headline rate `0.3462`, policy hits `4`
+- crypto: articles `20`, risk hits `10`, risk headline rate `0.45`, policy hits `4`
+- macro: articles `25`, risk hits `12`, risk headline rate `0.36`, policy hits `4`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
@@ -37,5 +37,5 @@
 - [macro] Oil prices jump after US launches new attacks on Iran (BBC News)
 - [macro] Oil prices jump after US launches new attacks on Iran (BBC News)
 - [crypto] Bitcoin drops below $73,000 as US strikes on Iran spark $1 billion liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] US charges Google employee with insider trading bets on Polymarket (Cointelegraph.com News)
 - [commodity] LG Energy Solution's shares surge as much as 16% after landing major U.S. battery storage deal (Energy)
-- [macro] In court as Matthew Perry's assistant sentenced (BBC News)
