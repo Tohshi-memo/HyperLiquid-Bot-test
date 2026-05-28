@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T12:02:01.893452+00:00`
-- Market context score: `39.58`
-- News risk score: `54.05`
-- Macro risk score: `37.21`
-- Risk-on score: `25.44`
-- Articles: `51`
+- Generated: `2026-05-28T12:07:19.150175+00:00`
+- Market context score: `40.34`
+- News risk score: `53.17`
+- Macro risk score: `35.93`
+- Risk-on score: `25.89`
+- Articles: `50`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -22,7 +22,7 @@
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
+- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `22`, risk hits `11`, risk headline rate `0.4545`, policy hits `2`
 - macro: articles `24`, risk hits `10`, risk headline rate `0.3333`, policy hits `2`
 
