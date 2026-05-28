@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T18:07:25.277493+00:00`
-- Market context score: `47.4`
-- News risk score: `46.97`
-- Macro risk score: `36.87`
-- Risk-on score: `36.7`
+- Generated: `2026-05-28T18:22:18.099560+00:00`
+- Market context score: `47.29`
+- News risk score: `47.03`
+- Macro risk score: `33.76`
+- Risk-on score: `35.34`
 - Articles: `71`
 - Polymarket markets: `397`
 
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1937`
-- Day/swing latest: `2026-05-28T18:00:00+00:00`
+- Day/swing records: `1938`
+- Day/swing latest: `2026-05-28T18:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `1`
-- crypto: articles `42`, risk hits `10`, risk headline rate `0.1905`, policy hits `2`
-- macro: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `3`
+- commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `44`, risk hits `13`, risk headline rate `0.2273`, policy hits `4`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
 - [macro] Israel hits Lebanese capital in 'targeted strike' (BBC News)
 - [crypto] Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Trezor adds native USDt, USDC yield via Morpho integration (Cointelegraph.com News)
+- [crypto] French company abandons crypto treasury strategy, will liquidate Bitcoin holdings (Cointelegraph.com News)
 - [macro] Portugal breaks hottest May day record as Europe swelters in heatwave (BBC News)
 - [commodity] Unusual Machines and other drone stocks surge on report Pentagon considering stakes in the industry (Energy)
 - [crypto] P2P.org launches real-time data stream for Sui and Hyperliquid (Cointelegraph.com News)
 - [macro] Are US and Iran close to peace or sliding back to war? (BBC News)
 - [macro] US justice department launches criminal investigation into Trump accuser E Jean Carroll (BBC News)
 - [crypto] UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Questions over safety as 16 pupils die in another Kenya school fire (BBC News)
