@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T23:00:00.269917+00:00`
-- Market context score: `45.94`
-- News risk score: `46.31`
-- Macro risk score: `35.47`
-- Risk-on score: `32.37`
-- Articles: `67`
+- Generated: `2026-05-28T23:07:18.165493+00:00`
+- Market context score: `46.28`
+- News risk score: `46.13`
+- Macro risk score: `34.61`
+- Risk-on score: `32.65`
+- Articles: `68`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -24,11 +24,12 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `42`, risk hits `13`, risk headline rate `0.2143`, policy hits `4`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `2`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] How did this novel about food win a Booker Prize this year? (BBC News)
 - [commodity] Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher (Energy)
 - [macro] US and Iran reach tentative deal to extend ceasefire, US officials say (BBC News)
 - [crypto] Prediction markets legal battles heat up in Minnesota, Rhode Island (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] SEC Commissioner Peirce defends crypto privacy tools against surveillance push (Cointelegraph.com News)
 - [crypto] Bitcoin enters cooldown phase under $75K as ‘active distribution’ rises (Cointelegraph.com News)
 - [crypto] Trump claims he can ‘future proof’ crypto regulation with CLARITY Act (Cointelegraph.com News)
-- [crypto] France's AMF regulator sets June 30 deadline for MiCA licensing (Cointelegraph.com News)
