@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T23:07:18.165493+00:00`
-- Market context score: `46.28`
-- News risk score: `46.13`
-- Macro risk score: `34.61`
-- Risk-on score: `32.65`
-- Articles: `68`
-- Polymarket markets: `398`
+- Generated: `2026-05-28T23:22:16.617683+00:00`
+- Market context score: `46.07`
+- News risk score: `46.34`
+- Macro risk score: `35.41`
+- Risk-on score: `32.66`
+- Articles: `69`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1957`
-- Day/swing latest: `2026-05-28T23:00:00+00:00`
+- Day/swing records: `1958`
+- Day/swing latest: `2026-05-28T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `42`, risk hits `13`, risk headline rate `0.2143`, policy hits `4`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `2`
+- crypto: articles `44`, risk hits `13`, risk headline rate `0.2045`, policy hits `4`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] US and Iran 'very close' to deal but 'not there yet', Vance says (BBC News)
 - [macro] How did this novel about food win a Booker Prize this year? (BBC News)
+- [crypto] Solana open interest drops 30% as altcoins slump: Is $68 SOL next? (Cointelegraph.com News)
+- [crypto] Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems (Cointelegraph.com News)
 - [commodity] Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher (Energy)
-- [macro] US and Iran reach tentative deal to extend ceasefire, US officials say (BBC News)
 - [crypto] Prediction markets legal battles heat up in Minnesota, Rhode Island (Cointelegraph.com News)
 - [crypto] Calamos bets protected Bitcoin ETFs can outlast crypto market swings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH (Cointelegraph.com News)
 - [macro] Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna (BBC News)
 - [crypto] SEC Commissioner Peirce defends crypto privacy tools against surveillance push (Cointelegraph.com News)
-- [crypto] Bitcoin enters cooldown phase under $75K as ‘active distribution’ rises (Cointelegraph.com News)
-- [crypto] Trump claims he can ‘future proof’ crypto regulation with CLARITY Act (Cointelegraph.com News)
