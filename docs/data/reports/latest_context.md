@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T21:22:21.714984+00:00`
+- Generated: `2026-05-28T21:27:27.780846+00:00`
 - Market context score: `44.8`
 - News risk score: `48.29`
 - Macro risk score: `34.78`
@@ -34,8 +34,8 @@
 - [crypto] SEC Commissioner Peirce defends crypto privacy tools against surveillance push (Cointelegraph.com News)
 - [crypto] Bitcoin enters cooldown phase under $75K as ‘active distribution’ rises (Cointelegraph.com News)
 - [crypto] Trump claims he can ‘future proof’ crypto regulation with CLARITY Act (Cointelegraph.com News)
+- [macro] US and Iran reach tentative deal to extend ceasefire, US officials say (BBC News)
 - [crypto] France's AMF regulator sets June 30 deadline for MiCA licensing (Cointelegraph.com News)
 - [crypto] Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
