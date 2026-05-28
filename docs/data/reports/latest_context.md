@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-28T01:22:19.389670+00:00`
+- Generated: `2026-05-28T01:37:17.147246+00:00`
 - Market context score: `41.34`
 - News risk score: `48.84`
 - Macro risk score: `32.89`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:67, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1870`
-- Day/swing latest: `2026-05-28T01:15:00+00:00`
+- Day/swing records: `1871`
+- Day/swing latest: `2026-05-28T01:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] US carries out new strikes on Iran military site (BBC News)
 - [crypto] U.S. CFTC files request to erase Gemini settlement that it no longer considers fair (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fed’s Kashkari says inflation fight takes priority as labor market is 'in decent shape' (Economy)
 - [macro] Jill Biden says she thought husband was 'having a stroke' during 2024 debate (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Is 'out of control' US tipping culture spreading overseas? (BBC News)
 - [macro] Is 'out of control' US tipping culture spreading overseas? (BBC News)
 - [macro] How my brother went from liberal Hollywood actor to manosphere 'messiah' (BBC News)
-- [macro] Paul McCartney on playing guitar with Paul Mescal: 'He knew it better than I did!' (BBC News)
