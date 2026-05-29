@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T15:22:19.398536+00:00`
-- Market context score: `55.39`
-- News risk score: `41.58`
-- Macro risk score: `21.85`
-- Risk-on score: `44.22`
-- Articles: `66`
+- Generated: `2026-05-29T15:37:21.959578+00:00`
+- Market context score: `55.7`
+- News risk score: `41.1`
+- Macro risk score: `22.65`
+- Risk-on score: `44.83`
+- Articles: `64`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:418`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2022`
-- Day/swing latest: `2026-05-29T15:15:00+00:00`
+- Day/swing records: `2023`
+- Day/swing latest: `2026-05-29T15:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `30`, risk hits `9`, risk headline rate `0.2667`, policy hits `2`
-- macro: articles `34`, risk hits `6`, risk headline rate `0.1176`, policy hits `1`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `2`
+- macro: articles `30`, risk hits `5`, risk headline rate `0.1`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Buckle Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Universal Q4 Earnings Call Highlights (Yahoo Finance)
-- [macro] Elmet Group Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Down 30% From Its Highs, SoFi Is Speeding Toward Aggressive Long-Term Profits (Yahoo Finance)
-- [macro] Carrier Nussbaum sets driver pay increase; others popping up more quietly (Yahoo Finance)
-- [crypto] Live markets: Bitcoin slides further, putting two-month winning streak in jeopardy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Dell Stock Jumps 30% On Heady AI Data Center Sales (Yahoo Finance)
-- [macro] Open Transaction Layer Launches With Fireblocks, Robinhood and MetaMask Backing (Yahoo Finance)
+- [commodity] Oil prices fall after Trump says he will make final determination on Iran deal (Energy)
+- [crypto] Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Canadian 'poison seller' pleads guilty to aiding suicides by selling toxic chemical online (BBC News)
+- [macro] Ex-head monk of China's 'kung fu temple' jailed for embezzlement (BBC News)
+- [macro] SentinelOne shares slide despite earnings beat as weak outlook weighs (Yahoo Finance)
+- [macro] Robinhood stock is surging — and bitcoin isn't the reason this time (Yahoo Finance)
+- [macro] Prediction: Royal Caribbean Still Has Room to Run Despite Rally (Yahoo Finance)
+- [macro] Retiring with $2 Million? Here’s What You Can Actually Spend After Taxes and Healthcare (Yahoo Finance)
+- [crypto] Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Top Funds Forgo FanDuel And DraftKings To Place Their Bets Here (Yahoo Finance)
