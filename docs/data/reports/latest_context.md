@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T23:22:21.230825+00:00`
-- Market context score: `52.68`
-- News risk score: `37.26`
-- Macro risk score: `27.08`
-- Risk-on score: `36.54`
+- Generated: `2026-05-29T23:37:19.058581+00:00`
+- Market context score: `50.98`
+- News risk score: `38.93`
+- Macro risk score: `30.41`
+- Risk-on score: `35.43`
 - Articles: `43`
 - Polymarket markets: `398`
 
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2053`
-- Day/swing latest: `2026-05-29T23:15:00+00:00`
+- Day/swing records: `2054`
+- Day/swing latest: `2026-05-29T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `1`
-- macro: articles `15`, risk hits `4`, risk headline rate `0.1333`, policy hits `1`
+- macro: articles `15`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
 - [macro] Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing (BBC News)
 - [crypto] Bitcoin dip buyers place $500M in bids as $70K retest looms (Cointelegraph.com News)
 - [crypto] ‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair (Cointelegraph.com News)
 - [macro] After decades risking arrest, South Korea's tattoo artists step into the limelight (BBC News)
 - [macro] 'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides (BBC News)
+- [macro] Here’s the real story behind the record drop in America’s oil reserves (Yahoo Finance)
 - [crypto] CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading (Cointelegraph.com News)
 - [commodity] Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal (Energy)
 - [crypto] ‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Iran war cost: Average U.S. household paying $450 more on gas and energy (Economy)
-- [commodity] Iran war cost: Average U.S. household paying $450 more on gas and energy (Energy)
