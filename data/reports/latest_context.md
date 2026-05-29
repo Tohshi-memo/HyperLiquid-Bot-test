@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T06:07:20.454043+00:00`
-- Market context score: `59.87`
-- News risk score: `33.42`
-- Macro risk score: `20.19`
-- Risk-on score: `46.67`
-- Articles: `36`
+- Generated: `2026-05-29T06:22:21.241757+00:00`
+- Market context score: `58.93`
+- News risk score: `34.68`
+- Macro risk score: `20.68`
+- Risk-on score: `45.82`
+- Articles: `37`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1985`
-- Day/swing latest: `2026-05-29T06:00:00+00:00`
+- Day/swing records: `1986`
+- Day/swing latest: `2026-05-29T06:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `22`, risk hits `8`, risk headline rate `0.2727`, policy hits `1`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
+- [crypto] OKX Ventures buys $53 million stake in Korea's Coinone exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian drone crashes into apartment building in Romania (BBC News)
+- [crypto] SEC approves Paxos as ‘blockchain-native’ clearing agency (Cointelegraph.com News)
 - [crypto] XRP rebounds above $1.30 after volume surge, but bears still control the bigger picture (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin’s major holders halt buys as demand slows: CryptoQuant (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] Sui Network back online after ‘crash bug’ causes 6 hour outage (Cointelegraph.com News)
 - [crypto] Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control? (Cointelegraph.com News)
 - [macro] Moment Blue Origin rocket explodes during test in Florida (BBC News)
-- [macro] Blue Origin rocket explodes into huge ball of flame on Florida launch pad (BBC News)
-- [macro] Netanyahu says he has directed IDF to increase control of Gaza to 70% (BBC News)
