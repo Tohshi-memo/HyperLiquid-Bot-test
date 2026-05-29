@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T23:52:17.235186+00:00`
-- Market context score: `50.75`
-- News risk score: `39.15`
-- Macro risk score: `30.45`
-- Risk-on score: `35.13`
-- Articles: `42`
+- Generated: `2026-05-29T23:58:45.177312+00:00`
+- Market context score: `51.15`
+- News risk score: `37.66`
+- Macro risk score: `27.95`
+- Risk-on score: `33.79`
+- Articles: `41`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -24,7 +24,7 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `15`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `14`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
@@ -35,7 +35,7 @@
 - [crypto] ‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair (Cointelegraph.com News)
 - [macro] After decades risking arrest, South Korea's tattoo artists step into the limelight (BBC News)
 - [macro] 'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides (BBC News)
-- [macro] Here’s the real story behind the record drop in America’s oil reserves (Yahoo Finance)
 - [crypto] CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading (Cointelegraph.com News)
 - [commodity] Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal (Energy)
 - [crypto] ‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Iran war cost: Average U.S. household paying $450 more on gas and energy (Economy)
