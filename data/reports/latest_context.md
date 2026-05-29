@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T12:37:20.460916+00:00`
-- Market context score: `56.97`
-- News risk score: `38.38`
-- Macro risk score: `23.87`
-- Risk-on score: `45.81`
-- Articles: `39`
+- Generated: `2026-05-29T12:52:21.007434+00:00`
+- Market context score: `57.29`
+- News risk score: `38.07`
+- Macro risk score: `23.25`
+- Risk-on score: `46.01`
+- Articles: `40`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2011`
-- Day/swing latest: `2026-05-29T12:30:00+00:00`
+- Day/swing records: `2012`
+- Day/swing latest: `2026-05-29T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `2`
-- macro: articles `16`, risk hits `4`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `17`, risk hits `4`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [macro] What does Blue Origin rocket mishap mean for Nasa's Moon mission? (BBC News)
 - [crypto] Paxos wins SEC approval to clear U.S. stocks on blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers (Economy)
 - [crypto] Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Eight students arrested in Kenya after suspected deadly school arson attack (BBC News)
 - [macro] Analyst Report: Williams Cos Inc/The (Yahoo Finance)
 - [macro] Analyst Report: Williams-Sonoma Inc (Yahoo Finance)
-- [macro] Analyst Report: Intercontinental Exchange Inc (Yahoo Finance)
