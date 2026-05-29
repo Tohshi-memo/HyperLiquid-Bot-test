@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-29T15:00:20.309492+00:00`
+- Generated: `2026-05-29T15:05:20.336892+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `36098262.1`
-- Polymarket volume z-score: `-1.25`
+- Polymarket 24h volume: `37439499.95`
+- Polymarket volume z-score: `-1.05`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `5058925.333265` | liquidity: `1480714.5093`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `5007684.443467006` | liquidity: `5832955.10896`
-- Roland Garros ATP: Joao Fonseca vs Novak Djokovic | 24h volume: `1780333.149039018` | liquidity: `50877.9582`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1162792.4854479977` | liquidity: `222342.8233`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `993713.235368` | liquidity: `228367.51561`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `902963.4304980035` | liquidity: `644303.86809`
-- Will the US confirm that aliens exist by May 31? | 24h volume: `900218.744412` | liquidity: `709857.67057`
-- Will the Iranian regime fall by May 31? | 24h volume: `871540.6235720001` | liquidity: `3580645.52698`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `5376704.328144999` | liquidity: `636164.2577`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `4857996.791466996` | liquidity: `5822438.20504`
+- Roland Garros ATP: Joao Fonseca vs Novak Djokovic | 24h volume: `1967430.5641700178` | liquidity: `116870.1511`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1154503.2108979977` | liquidity: `146015.6736`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `984277.828345` | liquidity: `210827.15437`
+- Will the US confirm that aliens exist by May 31? | 24h volume: `904949.3544119999` | liquidity: `699869.18014`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `903393.0516310035` | liquidity: `642626.25162`
+- Roland Garros ATP: Alex Michelsen vs Rafael Jodar | 24h volume: `893519.7829870018` | liquidity: `70183.5876`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
