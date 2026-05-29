@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T07:07:16.745347+00:00`
-- Market context score: `58.08`
-- News risk score: `35.93`
-- Macro risk score: `20.71`
-- Risk-on score: `45.0`
-- Articles: `35`
+- Generated: `2026-05-29T07:22:19.366716+00:00`
+- Market context score: `60.29`
+- News risk score: `34.28`
+- Macro risk score: `20.74`
+- Risk-on score: `48.53`
+- Articles: `34`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1989`
-- Day/swing latest: `2026-05-29T07:00:00+00:00`
+- Day/swing records: `1990`
+- Day/swing latest: `2026-05-29T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `8`, risk headline rate `0.3`, policy hits `1`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `1`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
+- [macro] Nato condemns Russian 'recklessness' after drone hits Romanian apartment block (BBC News)
 - [macro] Watch: Moment 14-year-old wins US national spelling bee (BBC News)
 - [crypto] OKX Ventures buys $53 million stake in Korea's Coinone exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russian drone crashes into apartment building in Romania (BBC News)
 - [crypto] SEC approves Paxos as ‘blockchain-native’ clearing agency (Cointelegraph.com News)
 - [crypto] XRP rebounds above $1.30 after volume surge, but bears still control the bigger picture (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
