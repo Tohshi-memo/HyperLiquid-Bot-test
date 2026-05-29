@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T01:07:20.359178+00:00`
-- Market context score: `44.51`
-- News risk score: `46.87`
-- Macro risk score: `34.56`
-- Risk-on score: `29.33`
-- Articles: `67`
+- Generated: `2026-05-29T01:22:19.400297+00:00`
+- Market context score: `44.4`
+- News risk score: `46.93`
+- Macro risk score: `34.58`
+- Risk-on score: `29.14`
+- Articles: `66`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1965`
-- Day/swing latest: `2026-05-29T01:00:00+00:00`
+- Day/swing records: `1966`
+- Day/swing latest: `2026-05-29T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `38`, risk hits `13`, risk headline rate `0.2368`, policy hits `4`
+- crypto: articles `37`, risk hits `13`, risk headline rate `0.2432`, policy hits `4`
 - macro: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Gemini taps Grok for personalized AI-powered prediction market feeds (Cointelegraph.com News)
 - [macro] Humanoid robots 'the future' of car making, says BMW (BBC News)
 - [macro] Portugal breaks hottest May day record as Europe swelters in heatwave (BBC News)
 - [macro] US and Iran 'very close' to deal but 'not there yet', Vance says (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems (Cointelegraph.com News)
 - [commodity] Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher (Energy)
 - [crypto] Prediction markets legal battles heat up in Minnesota, Rhode Island (Cointelegraph.com News)
-- [crypto] Calamos bets protected Bitcoin ETFs can outlast crypto market swings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
