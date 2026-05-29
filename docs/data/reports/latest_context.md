@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T05:52:19.210321+00:00`
-- Market context score: `59.31`
-- News risk score: `33.98`
-- Macro risk score: `21.31`
-- Risk-on score: `46.31`
-- Articles: `34`
-- Polymarket markets: `400`
+- Generated: `2026-05-29T06:07:20.454043+00:00`
+- Market context score: `59.87`
+- News risk score: `33.42`
+- Macro risk score: `20.19`
+- Risk-on score: `46.67`
+- Articles: `36`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1984`
-- Day/swing latest: `2026-05-29T05:45:00+00:00`
+- Day/swing records: `1985`
+- Day/swing latest: `2026-05-29T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `20`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
+- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
@@ -37,4 +37,4 @@
 - [crypto] Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control? (Cointelegraph.com News)
 - [macro] Moment Blue Origin rocket explodes during test in Florida (BBC News)
 - [macro] Blue Origin rocket explodes into huge ball of flame on Florida launch pad (BBC News)
-- [macro] Italy restores lucky testicles on bull mosaic worn down by tourists (BBC News)
+- [macro] Netanyahu says he has directed IDF to increase control of Gaza to 70% (BBC News)
