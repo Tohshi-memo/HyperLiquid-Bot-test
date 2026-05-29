@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T07:52:18.054367+00:00`
-- Market context score: `60.29`
-- News risk score: `34.28`
+- Generated: `2026-05-29T08:07:21.636926+00:00`
+- Market context score: `63.53`
+- News risk score: `31.91`
 - Macro risk score: `20.74`
-- Risk-on score: `48.53`
+- Risk-on score: `53.74`
 - Articles: `34`
 - Polymarket markets: `399`
 
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1992`
-- Day/swing latest: `2026-05-29T07:45:00+00:00`
+- Day/swing records: `1993`
+- Day/swing latest: `2026-05-29T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `1`
+- crypto: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `1`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
@@ -36,5 +36,5 @@
 - [crypto] Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin’s major holders halt buys as demand slows: CryptoQuant (Cointelegraph.com News)
 - [crypto] Bitcoin's record holder supply hides a buyer drought, CryptoQuant says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Sui Network back online after ‘crash bug’ causes 6 hour outage (Cointelegraph.com News)
+- [crypto] Sui Network back online after ‘crash bug’ causes 6-hour outage (Cointelegraph.com News)
 - [crypto] Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control? (Cointelegraph.com News)
