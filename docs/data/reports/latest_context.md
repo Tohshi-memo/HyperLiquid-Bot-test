@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T18:37:31.696399+00:00`
+- Generated: `2026-05-29T18:42:29.451135+00:00`
 - Market context score: `51.36`
 - News risk score: `40.71`
 - Macro risk score: `29.12`
@@ -29,10 +29,10 @@
 
 ## Headlines
 
+- [macro] Iran war cost: Average U.S. household paying $450 more on gas and energy (Economy)
+- [commodity] Iran war cost: Average U.S. household paying $450 more on gas and energy (Energy)
 - [crypto] Coinbase brings global crypto derivatives markets to US institutional clients (Cointelegraph.com News)
 - [macro] Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe (BBC News)
-- [macro] American households pay nearly $450 more on average for energy amid Iran War, data shows (Economy)
-- [commodity] American households pay nearly $450 more on average for energy amid Iran War, data shows (Energy)
 - [macro] Nato and EU condemn Russia after drone hits Romanian residential block (BBC News)
 - [macro] 'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides (BBC News)
 - [crypto] Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K (Cointelegraph.com News)
