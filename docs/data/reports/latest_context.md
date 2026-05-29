@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T19:22:20.952362+00:00`
-- Market context score: `51.26`
-- News risk score: `40.68`
-- Macro risk score: `29.83`
-- Risk-on score: `37.3`
-- Articles: `51`
+- Generated: `2026-05-29T19:37:19.070531+00:00`
+- Market context score: `51.54`
+- News risk score: `40.55`
+- Macro risk score: `29.09`
+- Risk-on score: `37.54`
+- Articles: `52`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2038`
-- Day/swing latest: `2026-05-29T19:15:00+00:00`
+- Day/swing records: `2039`
+- Day/swing latest: `2026-05-29T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `7`, risk headline rate `0.2414`, policy hits `2`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `19`, risk hits `5`, risk headline rate `0.1579`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Universal rejects billionaire Bill Ackman's takeover bid (BBC News)
 - [commodity] Oil prices fall after Trump says he will make final determination on Iran deal (Energy)
 - [crypto] Sui network temporarily stalls again after Thursday's outage (Cointelegraph.com News)
 - [macro] Iran war cost: Average U.S. household paying $450 more on gas and energy (Economy)
@@ -38,4 +39,3 @@
 - [macro] Nato and EU condemn Russia after drone hits Romanian residential block (BBC News)
 - [macro] 'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides (BBC News)
 - [crypto] Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K (Cointelegraph.com News)
-- [crypto] Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw (Cointelegraph.com News)
