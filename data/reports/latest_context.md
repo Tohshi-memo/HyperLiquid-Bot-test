@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-29T08:07:21.636926+00:00`
-- Market context score: `63.53`
-- News risk score: `31.91`
-- Macro risk score: `20.74`
-- Risk-on score: `53.74`
-- Articles: `34`
+- Generated: `2026-05-29T08:22:21.679977+00:00`
+- Market context score: `63.17`
+- News risk score: `32.45`
+- Macro risk score: `20.76`
+- Risk-on score: `53.39`
+- Articles: `33`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:417`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `1993`
-- Day/swing latest: `2026-05-29T08:00:00+00:00`
+- Day/swing records: `1994`
+- Day/swing latest: `2026-05-29T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `1`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
-- [macro] Nato condemns Russian 'recklessness' after drone hits Romanian apartment block (BBC News)
+- [macro] Mother-in-law of Indian bride whose death set off media frenzy arrested (BBC News)
 - [macro] Watch: Moment 14-year-old wins US national spelling bee (BBC News)
 - [crypto] OKX Ventures buys $53 million stake in Korea's Coinone exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SEC approves Paxos as ‘blockchain-native’ clearing agency (Cointelegraph.com News)
