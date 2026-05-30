@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T15:42:45.149542+00:00`
-- Market context score: `53.9`
-- News risk score: `40.53`
-- Macro risk score: `22.15`
-- Risk-on score: `40.15`
-- Articles: `49`
+- Generated: `2026-05-30T15:52:22.333526+00:00`
+- Market context score: `54.61`
+- News risk score: `39.6`
+- Macro risk score: `22.11`
+- Risk-on score: `40.92`
+- Articles: `50`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2118`
-- Day/swing latest: `2026-05-30T15:30:00+00:00`
+- Day/swing records: `2119`
+- Day/swing latest: `2026-05-30T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
+- crypto: articles `13`, risk hits `7`, risk headline rate `0.3077`, policy hits `2`
 - macro: articles `35`, risk hits `4`, risk headline rate `0.0857`, policy hits `2`
 
 ## Headlines
 
+- [crypto] U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Italy bans Kanye West and Travis Scott concerts over security concerns (BBC News)
 - [macro] Could the Next Great Space Stock Come From Japan? (Yahoo Finance)
 - [macro] Where Will Dogecoin Be When Crypto Goes Mainstream? (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] NuScale Power Is Still Under $13. Here's Whether Long-Term Investors Should Pounce. (Yahoo Finance)
 - [macro] Claude AI Says You Shoud Buy Inter (INTR) On The Dip (Yahoo Finance)
 - [macro] Should You Buy Ardelyx (ARDX)? (Yahoo Finance)
-- [macro] Claude AI Top Stock Picks in 2026: Magnite (MGNI) (Yahoo Finance)
