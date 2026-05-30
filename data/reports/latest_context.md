@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T03:07:17.849322+00:00`
-- Market context score: `45.29`
-- News risk score: `40.17`
-- Macro risk score: `26.17`
-- Risk-on score: `22.22`
+- Generated: `2026-05-30T03:22:21.016545+00:00`
+- Market context score: `46.22`
+- News risk score: `41.18`
+- Macro risk score: `25.46`
+- Risk-on score: `24.88`
 - Articles: `30`
 - Polymarket markets: `399`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2068`
-- Day/swing latest: `2026-05-30T03:00:00+00:00`
+- Day/swing records: `2069`
+- Day/swing latest: `2026-05-30T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
+- crypto: articles `11`, risk hits `5`, risk headline rate `0.3636`, policy hits `0`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `1`
 
 ## Headlines
 
+- [macro] Move over, Heated Rivalry - there's a new ice hockey romance obsession (BBC News)
 - [macro] 'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa (BBC News)
 - [macro] Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival (BBC News)
 - [macro] Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing (BBC News)
 - [crypto] Bitcoin dip buyers place $500M in bids as $70K retest looms (Cointelegraph.com News)
 - [crypto] ‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair (Cointelegraph.com News)
-- [macro] After decades risking arrest, South Korea's tattoo artists step into the limelight (BBC News)
