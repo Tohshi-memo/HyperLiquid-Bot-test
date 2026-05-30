@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T10:22:18.158289+00:00`
-- Market context score: `53.64`
-- News risk score: `40.1`
+- Generated: `2026-05-30T10:37:19.706828+00:00`
+- Market context score: `56.55`
+- News risk score: `35.81`
 - Macro risk score: `16.69`
-- Risk-on score: `37.14`
+- Risk-on score: `40.0`
 - Articles: `16`
 - Polymarket markets: `397`
 
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2097`
-- Day/swing latest: `2026-05-30T10:15:00+00:00`
+- Day/swing records: `2098`
+- Day/swing latest: `2026-05-30T10:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `2`
-- macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `6`, risk hits `3`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Four more men freed from flooded Laos cave after 10 days (BBC News)
 - [crypto] Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder (Cointelegraph.com News)
 - [crypto] US has seized nearly $1 billion in Iranian crypto, Treasury secretary says (Cointelegraph.com News)
 - [macro] US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth (BBC News)
@@ -36,4 +37,3 @@
 - [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
 - [macro] Move over, Heated Rivalry - there's a new ice hockey romance obsession (BBC News)
 - [macro] 'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa (BBC News)
-- [macro] Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival (BBC News)
