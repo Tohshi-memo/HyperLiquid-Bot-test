@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-30T10:30:20.890969+00:00`
+- Generated: `2026-05-30T10:35:19.574269+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `41617771.34`
-- Polymarket volume z-score: `-0.46`
+- Polymarket 24h volume: `41792016.15`
+- Polymarket volume z-score: `-0.43`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8445782.531643989` | liquidity: `1290523.2872`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `5011267.90212` | liquidity: `6475158.11589`
-- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3299165.2127690013` | liquidity: `832705.2476`
-- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2397355.204471003` | liquidity: `55785.0501`
-- Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda | 24h volume: `1970531.397547997` | liquidity: `55870.1427`
-- US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `1225000.1857900012` | liquidity: `89075.556`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `912092.8080620003` | liquidity: `308618.2797`
-- Will Satoshi's identity be revealed by June 30? | 24h volume: `898629.1030199999` | liquidity: `14211.41258`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8450341.687158989` | liquidity: `1300355.38029`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `5010701.04312` | liquidity: `6475173.85014`
+- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3299084.7145650014` | liquidity: `832683.24061`
+- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2394109.193024003` | liquidity: `55934.7546`
+- Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda | 24h volume: `2054650.0705839966` | liquidity: `97363.6405`
+- US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `1226216.2125290013` | liquidity: `96844.766`
+- Roland Garros WTA: Iva Jovic vs Naomi Osaka | 24h volume: `925684.2700969992` | liquidity: `81902.8815`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `912431.2998790003` | liquidity: `283615.0608`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
