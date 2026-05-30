@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T00:52:23.693016+00:00`
-- Market context score: `51.28`
-- News risk score: `36.11`
-- Macro risk score: `25.43`
-- Risk-on score: `31.83`
-- Articles: `35`
+- Generated: `2026-05-30T01:07:19.958872+00:00`
+- Market context score: `51.68`
+- News risk score: `35.71`
+- Macro risk score: `24.64`
+- Risk-on score: `32.08`
+- Articles: `36`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2059`
-- Day/swing latest: `2026-05-30T00:45:00+00:00`
+- Day/swing records: `2060`
+- Day/swing latest: `2026-05-30T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `1`
+- macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Ghana parliament passes anti-LGBTQ+ bill (BBC News)
 - [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
 - [macro] Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing (BBC News)
 - [crypto] Bitcoin dip buyers place $500M in bids as $70K retest looms (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading (Cointelegraph.com News)
 - [commodity] Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal (Energy)
 - [crypto] ‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Iran war cost: Average U.S. household paying $450 more on gas and energy (Economy)
