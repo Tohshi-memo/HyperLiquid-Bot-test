@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T22:37:15.837829+00:00`
-- Market context score: `51.09`
+- Generated: `2026-05-30T22:43:22.731784+00:00`
+- Market context score: `50.57`
 - News risk score: `40.95`
 - Macro risk score: `26.76`
-- Risk-on score: `36.0`
+- Risk-on score: `34.83`
 - Articles: `53`
 - Polymarket markets: `394`
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Jensen Huang Used 1 Word to Describe AI Demand. It Could Be the Most Important of 2026. (Yahoo Finance)
 - [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
 - [macro] SK Hynix Just Hit a $1 Trillion Market Cap. Here's How You Can Buy the Stock for Around $60. (Yahoo Finance)
 - [macro] Time to Diversify Internationally? (Yahoo Finance)
 - [macro] Warren Buffett Successor Greg Abel Made 3 Big Purchases Last Quarter, and They're All Exceptional Performers (Yahoo Finance)
 - [macro] Datadog Share Value Has More Than Doubled As Investors Recognize a Growing Market Opportunity (Yahoo Finance)
 - [macro] The 1 Metric That Tells Me This Tech Stock Is About to Rip Higher -- and It Just Flashed (Yahoo Finance)
-- [macro] 3 Stocks to Buy With Less Than $20 (Yahoo Finance)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
 - [macro] 'It's like a decaying body': Australian farmers battle mouse plague (BBC News)
 - [crypto] Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails (Cointelegraph.com News)
