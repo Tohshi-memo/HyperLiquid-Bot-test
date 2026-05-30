@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T12:07:18.625578+00:00`
-- Market context score: `51.84`
-- News risk score: `40.1`
-- Macro risk score: `16.69`
-- Risk-on score: `33.14`
-- Articles: `16`
-- Polymarket markets: `397`
+- Generated: `2026-05-30T12:14:56.988251+00:00`
+- Market context score: `53.85`
+- News risk score: `35.62`
+- Macro risk score: `20.94`
+- Risk-on score: `35.43`
+- Articles: `17`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -22,13 +22,15 @@
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `3`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `7`, risk hits `3`, risk headline rate `0.2857`, policy hits `2`
 - macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality (Energy)
 - [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
-- [crypto] Ripple said to lead $1 billion XRP treasury raise: Report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’ (Cointelegraph.com News)
 - [macro] Four more men freed from flooded Laos cave after 10 days (BBC News)
 - [crypto] Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder (Cointelegraph.com News)
@@ -36,4 +38,3 @@
 - [macro] US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth (BBC News)
 - [crypto] Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin retail sentiment still matters, says Swan Bitcoin CEO (Cointelegraph.com News)
