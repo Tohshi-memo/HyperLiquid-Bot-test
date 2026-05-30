@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T14:07:22.863352+00:00`
-- Market context score: `58.34`
-- News risk score: `33.47`
-- Macro risk score: `22.66`
-- Risk-on score: `44.26`
-- Articles: `35`
+- Generated: `2026-05-30T14:11:14.900645+00:00`
+- Market context score: `55.64`
+- News risk score: `35.91`
+- Macro risk score: `22.99`
+- Risk-on score: `40.44`
+- Articles: `36`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -23,8 +23,8 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `3`, risk headline rate `0.2222`, policy hits `2`
-- macro: articles `24`, risk hits `2`, risk headline rate `0.0833`, policy hits `0`
+- crypto: articles `11`, risk hits `5`, risk headline rate `0.2727`, policy hits `2`
+- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `0`
 
 ## Headlines
 
@@ -34,7 +34,7 @@
 - [macro] How to Recession-Proof Your Retirement Income Before Summer 2026 (Yahoo Finance)
 - [macro] US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth (BBC News)
 - [macro] The $450,000 Debt Trap That Costs Dentists $1 Million in Forgone Income (Yahoo Finance)
+- [crypto] SEC charges Texas man with $12.3M crypto fraud using fake AI trading bots (Cointelegraph.com News)
 - [macro] Everyone told this Atlanta couple to sell their inherited cemetery business — it now makes $6 million a year (Yahoo Finance)
 - [macro] Irrational Exuberance 2.0 Has Arrived on Wall Street (Yahoo Finance)
-- [macro] Stock Market Week Ahead: Chipmaker Aims For 9th Straight Triple-Digit Gain (Yahoo Finance)
-- [macro] Is Vistra (VST) The Best AI Energy Stock to Buy Now? (Yahoo Finance)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
