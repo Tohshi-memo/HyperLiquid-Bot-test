@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T12:37:17.749300+00:00`
+- Generated: `2026-05-30T12:52:22.248562+00:00`
 - Market context score: `53.85`
 - News risk score: `35.62`
 - Macro risk score: `20.94`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2106`
-- Day/swing latest: `2026-05-30T12:30:00+00:00`
+- Day/swing records: `2107`
+- Day/swing latest: `2026-05-30T12:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] C.H. Robinson Is Removing Carriers Based on Safety Scores. A Supreme Court Decision Two Weeks Ago May Explain Why. (Yahoo Finance)
 - [macro] US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth (BBC News)
 - [commodity] Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality (Energy)
 - [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder (Cointelegraph.com News)
 - [crypto] US has seized nearly $1 billion in Iranian crypto, Treasury secretary says (Cointelegraph.com News)
 - [crypto] Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
