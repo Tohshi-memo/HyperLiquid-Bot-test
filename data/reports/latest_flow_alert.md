@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-30T12:50:19.939131+00:00`
-- Flow alert score: `17.6`
+- Generated: `2026-05-30T12:55:21.385212+00:00`
+- Flow alert score: `17.92`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `45371787.09`
-- Polymarket volume z-score: `0.15`
+- Polymarket 24h volume: `45888098.15`
+- Polymarket volume z-score: `0.23`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8570149.44360399` | liquidity: `1169199.57406`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `4995973.38712` | liquidity: `6690347.43747`
-- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3329950.0893640006` | liquidity: `1269909.946`
-- Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda | 24h volume: `2881381.646003996` | liquidity: `876096.64749`
-- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2426237.8970790035` | liquidity: `56648.1985`
-- Roland Garros ATP: Matteo Berrettini vs Francisco Comesana | 24h volume: `1512031.5524160017` | liquidity: `89787.148`
-- Roland Garros ATP: Juan Manuel Cerundolo vs Martin Landaluce | 24h volume: `1506972.911665` | liquidity: `38763.0938`
-- US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `1253675.2414840013` | liquidity: `84429.2092`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8588740.454400992` | liquidity: `1275716.37935`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `4996973.38712` | liquidity: `6692686.4841`
+- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3330642.469364001` | liquidity: `1269119.55877`
+- Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda | 24h volume: `2885187.986003996` | liquidity: `871224.41083`
+- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2437194.0198640036` | liquidity: `57560.3629`
+- Roland Garros ATP: Matteo Berrettini vs Francisco Comesana | 24h volume: `1544945.4937410024` | liquidity: `102558.5441`
+- Roland Garros ATP: Juan Manuel Cerundolo vs Martin Landaluce | 24h volume: `1531754.9210570005` | liquidity: `83932.7903`
+- US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `1278014.8165450015` | liquidity: `93599.7703`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
