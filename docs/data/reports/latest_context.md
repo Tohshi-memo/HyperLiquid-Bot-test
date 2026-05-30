@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T15:37:18.186659+00:00`
-- Market context score: `54.49`
-- News risk score: `38.44`
-- Macro risk score: `18.56`
-- Risk-on score: `38.33`
-- Articles: `48`
+- Generated: `2026-05-30T15:42:45.149542+00:00`
+- Market context score: `53.9`
+- News risk score: `40.53`
+- Macro risk score: `22.15`
+- Risk-on score: `40.15`
+- Articles: `49`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `12`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `34`, risk hits `1`, risk headline rate `0.0294`, policy hits `1`
+- macro: articles `35`, risk hits `4`, risk headline rate `0.0857`, policy hits `2`
 
 ## Headlines
 
-- [macro] Jim Cramer Says Pool Corporation “Needs More Housing Turnover” (Yahoo Finance)
-- [macro] Jim Cramer Says “Ixnay” on Bentley Systems (Yahoo Finance)
-- [macro] Jim Cramer on Mattel: “I Think It’s Bottoming Here” (Yahoo Finance)
-- [macro] Jim Cramer on Lowe’s: “The Company’s Doing So Much Better Than Anybody Expected” (Yahoo Finance)
-- [macro] Jim Cramer on Home Depot: “I Was Honestly Bracing for the Worst Here” (Yahoo Finance)
-- [macro] Jim Cramer on Target: “I Don’t Think It’s So Bad” (Yahoo Finance)
-- [macro] Jim Cramer Sees Pullback in Walmart As a “Rare Buying Opportunity” (Yahoo Finance)
-- [macro] Jim Cramer on Ralph Lauren: “The Company’s Merchandising Has Been Excellent” (Yahoo Finance)
-- [macro] Jim Cramer Believes “Nobody Does Off-Price Better Than TJX” (Yahoo Finance)
-- [macro] Jim Cramer on Snowflake: “The Stock Is Flying as It Should Be” (Yahoo Finance)
+- [macro] Italy bans Kanye West and Travis Scott concerts over security concerns (BBC News)
+- [macro] Could the Next Great Space Stock Come From Japan? (Yahoo Finance)
+- [macro] Where Will Dogecoin Be When Crypto Goes Mainstream? (Yahoo Finance)
+- [macro] Dow Jones Futures: Market Hits Highs On Iran Hopes, These AI Stocks Struggle; Nvidia, Tesla Lead 5 Titans Near Buy Points (Yahoo Finance)
+- [macro] What Happens to a $4.2 Million Estate When the Older Spouse Dies First vs. Second, and Why the Order Determines a $700,000 Tax Gap (Yahoo Finance)
+- [macro] Tax Aware Dividend Stacking: How a $750,000 Roth Portfolio Pays $42,000 Federally Tax Free (Yahoo Finance)
+- [macro] NuScale Power Is Still Under $13. Here's Whether Long-Term Investors Should Pounce. (Yahoo Finance)
+- [macro] Claude AI Says You Shoud Buy Inter (INTR) On The Dip (Yahoo Finance)
+- [macro] Should You Buy Ardelyx (ARDX)? (Yahoo Finance)
+- [macro] Claude AI Top Stock Picks in 2026: Magnite (MGNI) (Yahoo Finance)
