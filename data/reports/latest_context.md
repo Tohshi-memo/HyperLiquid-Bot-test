@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T21:45:45.613085+00:00`
-- Market context score: `50.99`
-- News risk score: `40.43`
-- Macro risk score: `24.73`
-- Risk-on score: `34.57`
-- Articles: `55`
+- Generated: `2026-05-30T21:52:18.385315+00:00`
+- Market context score: `50.74`
+- News risk score: `41.03`
+- Macro risk score: `26.42`
+- Risk-on score: `35.17`
+- Articles: `54`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `5`, risk headline rate `0.2727`, policy hits `0`
-- macro: articles `42`, risk hits `8`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `41`, risk hits `9`, risk headline rate `0.1951`, policy hits `1`
 
 ## Headlines
 
+- [macro] 3 Stocks to Buy With Less Than $20 (Yahoo Finance)
+- [macro] Why This Fund Dumped $35 Million of UiPath Even as Revenue Grew 17% (Yahoo Finance)
+- [macro] 2 High-Yield Vanguard ETFs That Have Taken in More Than $2 Billion in 2026 (Yahoo Finance)
 - [macro] QQQ’s Hidden Risk: Why the Fund’s Top 5 Holdings Move Together (Yahoo Finance)
 - [macro] What to Know About This New $83 Million Virtu Financial Position (Yahoo Finance)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
 - [macro] Cathie Wood buys $6.5 million of megacap tech stock (Yahoo Finance)
-- [macro] Nio's Battery Swap Network Just Delivered 16% of All EV Energy in China in 5 Days. Is the Market Sleeping on This? (Yahoo Finance)
-- [macro] Wall Street Analysts Think This AI Stock Could Soar Nearly 57% in a Year (Yahoo Finance)
-- [macro] Pitney Bowes CEO Sells Company Shares Worth $3.8 Million. What Does That Mean for Investors? (Yahoo Finance)
 - [macro] 'It's like a decaying body': Australian farmers battle mouse plague (BBC News)
 - [crypto] Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails (Cointelegraph.com News)
 - [macro] Ecuador accused of meddling in Colombian election with tariff vow (BBC News)
