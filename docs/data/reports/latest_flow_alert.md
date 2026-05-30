@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-30T00:05:17.882478+00:00`
+- Generated: `2026-05-30T00:10:21.812208+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `42104299.5`
-- Polymarket volume z-score: `-0.35`
+- Polymarket 24h volume: `42009132.31`
+- Polymarket volume z-score: `-0.37`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `9234615.312916992` | liquidity: `975985.166`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `4899789.030074997` | liquidity: `5690344.03413`
-- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2248595.678760999` | liquidity: `56975.266`
-- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `1575676.7610390014` | liquidity: `257881.38951`
-- US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `1325300.651705998` | liquidity: `76262.931`
-- US announces new Iran agreement/ceasefire extension by May 29? | 24h volume: `1310172.0749259996` | liquidity: `47387.9164`
-- Roland Garros ATP: Quentin Halys vs Alexander Zverev | 24h volume: `1076311.3308870005` | liquidity: `692869.56586`
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `977020.6098709992` | liquidity: `155928.56864`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `9198288.32289299` | liquidity: `977451.7744`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `4805576.813730996` | liquidity: `5700990.80608`
+- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2250320.672647999` | liquidity: `55198.1752`
+- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `1589008.8896110016` | liquidity: `484144.34175`
+- US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `1333172.3096929977` | liquidity: `64099.9644`
+- US announces new Iran agreement/ceasefire extension by May 29? | 24h volume: `1332795.1753789997` | liquidity: `53010.64378`
+- Roland Garros ATP: Quentin Halys vs Alexander Zverev | 24h volume: `1076767.5408870005` | liquidity: `692410.81207`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `999445.5788779993` | liquidity: `168416.97434`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
