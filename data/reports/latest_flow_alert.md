@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-30T19:45:18.496225+00:00`
+- Generated: `2026-05-30T19:50:20.136504+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `33149919.15`
-- Polymarket volume z-score: `-1.72`
+- Polymarket 24h volume: `33619917.29`
+- Polymarket volume z-score: `-1.65`
 
 ## Top Polymarket Markets
 
-- Will the Iran ceasefire continue through May 24? | 24h volume: `5003482.449120001` | liquidity: `5276482.87158`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4023531.3407830033` | liquidity: `674678.13061`
-- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3324870.459530001` | liquidity: `1067029.49967`
-- Roland Garros ATP: Juan Manuel Cerundolo vs Martin Landaluce | 24h volume: `2614540.276866995` | liquidity: `171018.98288`
-- Roland Garros ATP: Moise Kouame vs Alejandro Tabilo | 24h volume: `1089195.5447679933` | liquidity: `96897.16909`
-- Roland Garros WTA: Victoria Mboko vs Madison Keys | 24h volume: `984596.5028759993` | liquidity: `80619.2948`
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `917892.9809530003` | liquidity: `82967.24391`
-- Will Satoshi's identity be revealed by December 31? | 24h volume: `903542.007584` | liquidity: `23919.6111`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `5002109.363120001` | liquidity: `5278482.61158`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `4012599.443408004` | liquidity: `773167.07615`
+- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3318523.6402310007` | liquidity: `1067328.11061`
+- Roland Garros ATP: Juan Manuel Cerundolo vs Martin Landaluce | 24h volume: `2617973.9427319947` | liquidity: `162892.78853`
+- Roland Garros ATP: Moise Kouame vs Alejandro Tabilo | 24h volume: `1089215.698453993` | liquidity: `292975.63567`
+- Roland Garros WTA: Victoria Mboko vs Madison Keys | 24h volume: `1058554.3910869993` | liquidity: `87398.9748`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `919454.5852150002` | liquidity: `88908.28972`
+- Roland Garros ATP: Matteo Arnaldi vs Raphael Collignon | 24h volume: `915642.6078450007` | liquidity: `106843.7762`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
