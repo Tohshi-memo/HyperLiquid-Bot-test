@@ -1,19 +1,19 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-30T13:15:16.539327+00:00`
-- Flow alert score: `18.52`
+- Generated: `2026-05-30T13:20:18.359740+00:00`
+- Flow alert score: `18.56`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `46782108.85`
-- Polymarket volume z-score: `0.38`
+- Polymarket 24h volume: `46830991.8`
+- Polymarket volume z-score: `0.39`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8698155.84768499` | liquidity: `1153609.61801`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8729416.818374993` | liquidity: `1121218.71691`
 - Will the Iran ceasefire continue through May 24? | 24h volume: `5005473.38712` | liquidity: `6691724.51593`
 - Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3332493.8089430006` | liquidity: `1267268.76613`
 - Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda | 24h volume: `2905270.3060039957` | liquidity: `846362.3109`
