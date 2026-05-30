@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T13:07:17.452996+00:00`
-- Market context score: `55.91`
-- News risk score: `32.58`
-- Macro risk score: `20.63`
-- Risk-on score: `37.33`
-- Articles: `19`
-- Polymarket markets: `398`
+- Generated: `2026-05-30T13:22:16.092056+00:00`
+- Market context score: `55.37`
+- News risk score: `34.63`
+- Macro risk score: `24.97`
+- Risk-on score: `39.49`
+- Articles: `35`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2108`
-- Day/swing latest: `2026-05-30T13:00:00+00:00`
+- Day/swing records: `2109`
+- Day/swing latest: `2026-05-30T13:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.2222`, policy hits `2`
-- macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [macro] Meet This Pick-and-Shovel AI Stock That Just Joined Meta, Tesla, and Broadcom as the Newest Member of the $1 Trillion Club (Yahoo Finance)
+- [macro] Innoviz Technologies Sees Lidar Momentum Rebounding as Defense, Physical AI Demand Grows (Yahoo Finance)
+- [macro] Widows Lose $200,000 Over 20 Years When Husbands Claim Social Security at 62 (Yahoo Finance)
 - [crypto] When the market is bad, we build: Inside Binance’s bold 2030 master plan (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hyperliquid could become a ‘financial services juggernaut’ as DeFi expands, says Grayscale (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Here's Why Amazon Stock Can Top $300 This Year (Yahoo Finance)
-- [macro] US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth (BBC News)
-- [commodity] Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality (Energy)
-- [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
-- [crypto] XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’ (Cointelegraph.com News)
-- [macro] Four more men freed from flooded Laos cave after 10 days (BBC News)
-- [crypto] Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder (Cointelegraph.com News)
+- [macro] Arrow Exploration reports best quarter ever - ICYMI (Yahoo Finance)
+- [commodity] Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war (Energy)
+- [macro] 3 Top ETFs You Won't Regret Buying This June (Yahoo Finance)
+- [macro] These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Broadcom Nears Earnings Report (Yahoo Finance)
+- [macro] Dave Ramsey reveals 3 serious retirement mistakes Americans make after 55 (and regret later) (Yahoo Finance)
