@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T12:22:23.021122+00:00`
-- Market context score: `54.19`
-- News risk score: `35.25`
-- Macro risk score: `20.23`
-- Risk-on score: `35.61`
-- Articles: `18`
+- Generated: `2026-05-30T12:37:17.749300+00:00`
+- Market context score: `53.85`
+- News risk score: `35.62`
+- Macro risk score: `20.94`
+- Risk-on score: `35.43`
+- Articles: `17`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2105`
-- Day/swing latest: `2026-05-30T12:15:00+00:00`
+- Day/swing records: `2106`
+- Day/swing latest: `2026-05-30T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `3`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth (BBC News)
 - [commodity] Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality (Energy)
-- [macro] My 401(k) has mysteriously disappeared. I’m trying to recover it, but the bills are piling up fast. What else can I do? (Yahoo Finance)
 - [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
 - [crypto] XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’ (Cointelegraph.com News)
@@ -38,3 +37,4 @@
 - [crypto] Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder (Cointelegraph.com News)
 - [crypto] US has seized nearly $1 billion in Iranian crypto, Treasury secretary says (Cointelegraph.com News)
 - [crypto] Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
