@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T04:14:26.393606+00:00`
+- Generated: `2026-05-30T04:22:19.534671+00:00`
 - Market context score: `46.05`
 - News risk score: `45.22`
 - Macro risk score: `26.26`
 - Risk-on score: `28.22`
 - Articles: `27`
-- Polymarket markets: `400`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2072`
-- Day/swing latest: `2026-05-30T04:00:00+00:00`
+- Day/swing records: `2073`
+- Day/swing latest: `2026-05-30T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
 - [macro] Move over, Heated Rivalry - there's a new ice hockey romance obsession (BBC News)
 - [macro] 'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa (BBC News)
 - [macro] Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival (BBC News)
 - [macro] Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe (BBC News)
 - [macro] Ukraine using AI drones to strike vital convoys supplying Russian troops (BBC News)
 - [macro] Ghana parliament passes anti-LGBTQ+ bill (BBC News)
-- [macro] No deal announced after Trump meeting to make 'final determination' on Iran (BBC News)
 - [macro] Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing (BBC News)
 - [crypto] Bitcoin dip buyers place $500M in bids as $70K retest looms (Cointelegraph.com News)
 - [crypto] ‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair (Cointelegraph.com News)
