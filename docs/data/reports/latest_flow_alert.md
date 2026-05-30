@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-30T22:45:18.988681+00:00`
+- Generated: `2026-05-30T22:50:18.997338+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `25180429.24`
-- Polymarket volume z-score: `-2.84`
+- Polymarket 24h volume: `25398734.84`
+- Polymarket volume z-score: `-2.8`
 
 ## Top Polymarket Markets
 
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3941213.259120001` | liquidity: `6189811.36825`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2909756.392050009` | liquidity: `759876.18233`
-- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `2638275.9681900004` | liquidity: `1022703.30586`
-- Roland Garros ATP: Jaime Faria vs Frances Tiafoe | 24h volume: `2019861.3499790016` | liquidity: `187835.3389`
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `908826.379799` | liquidity: `106317.61174`
-- Will Satoshi's identity be revealed by December 31? | 24h volume: `904470.431847` | liquidity: `25426.5056`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `896451.4818469991` | liquidity: `928251.1874`
-- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `825710.214665` | liquidity: `2158093.12955`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `4028073.259120001` | liquidity: `6103026.35014`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2903792.294404009` | liquidity: `765520.09359`
+- Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `2557119.084863` | liquidity: `1022597.8338`
+- Roland Garros ATP: Jaime Faria vs Frances Tiafoe | 24h volume: `2158870.599663002` | liquidity: `646469.27756`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `917065.4588949999` | liquidity: `109303.64928`
+- Will Satoshi's identity be revealed by December 31? | 24h volume: `904470.431847` | liquidity: `24978.7397`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `900558.9088469992` | liquidity: `927393.6758`
+- Roland Garros ATP: Felix Auger-Aliassime vs Brandon Nakashima | 24h volume: `843613.3832819998` | liquidity: `181006.4136`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
