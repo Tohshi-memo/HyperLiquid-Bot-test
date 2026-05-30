@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-30T10:53:33.595878+00:00`
+- Generated: `2026-05-30T10:55:19.623488+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,15 +8,15 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `42064177.08`
-- Polymarket volume z-score: `-0.39`
+- Polymarket 24h volume: `42317583.34`
+- Polymarket volume z-score: `-0.35`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8453719.198440988` | liquidity: `1281292.30463`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `8447369.891736988` | liquidity: `1287658.8777`
 - Will the Iran ceasefire continue through May 24? | 24h volume: `5003348.77812` | liquidity: `6713491.572`
 - Will WTI Crude Oil (WTI) hit (LOW) $85 in May? | 24h volume: `3292701.8625180013` | liquidity: `832474.5892`
-- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2393412.6751200026` | liquidity: `55165.4032`
+- Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026? | 24h volume: `2393437.5398130026` | liquidity: `55045.5732`
 - Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda | 24h volume: `2135483.638959995` | liquidity: `162019.3302`
 - US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `1205790.1874280015` | liquidity: `84946.6146`
 - Roland Garros WTA: Iva Jovic vs Naomi Osaka | 24h volume: `1050341.2955869988` | liquidity: `82917.1657`
