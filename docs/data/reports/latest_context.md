@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T22:07:19.638752+00:00`
-- Market context score: `55.31`
-- News risk score: `33.73`
-- Macro risk score: `21.69`
-- Risk-on score: `37.37`
+- Generated: `2026-05-31T22:22:17.902945+00:00`
+- Market context score: `56.3`
+- News risk score: `33.43`
+- Macro risk score: `21.19`
+- Risk-on score: `39.12`
 - Articles: `50`
 - Polymarket markets: `395`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2239`
-- Day/swing latest: `2026-05-31T22:00:00+00:00`
+- Day/swing records: `2240`
+- Day/swing latest: `2026-05-31T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `2`
-- macro: articles `38`, risk hits `4`, risk headline rate `0.1053`, policy hits `2`
+- macro: articles `38`, risk hits `4`, risk headline rate `0.1053`, policy hits `1`
 
 ## Headlines
 
+- [macro] Berkshire Hathaway to Buy Homebuilder Taylor Morrison for $6.8 Billion (Yahoo Finance)
 - [macro] Nicaraguan indigenous leader dies after three years in prison (BBC News)
+- [macro] Why a Wealth Manager Made This $155 Million Asset Manager Stake Its Largest Holding (Yahoo Finance)
 - [macro] Keel Infrastructure Corp. (KEEL): Leopold Aschenbrenner Is Buying This Stock (Yahoo Finance)
 - [macro] T1 Energy Inc. (TE): Leopold Aschenbrenner Reveals New Bet (Yahoo Finance)
-- [macro] Why Redwire Stock Skyrocketed This Week (Yahoo Finance)
 - [macro] Solaris Energy Infrastructure, Inc. (SEI): Leopold Aschenbrenner Trims Position (Yahoo Finance)
 - [macro] CleanSpark Inc. (CLSK): Leopold Aschenbrenner Is Loading Up on This AI Stock (Yahoo Finance)
 - [macro] Riot Platforms Inc. (RIOT): Leopold Aschenbrenner Reaffirms Bullish Stance (Yahoo Finance)
-- [macro] Why Annaly Capital's Hedging Strategy Could Be the Key to the Next 12 Months (Yahoo Finance)
 - [macro] Intel Corporation (INTC): Leopold Aschenbrenner Is Not a Big Fan (Yahoo Finance)
 - [macro] Applied Digital Corporation (APLD): Leopold Aschenbrenner Likes This AI Play (Yahoo Finance)
