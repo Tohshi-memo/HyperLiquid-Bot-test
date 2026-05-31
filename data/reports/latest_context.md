@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T06:07:22.496047+00:00`
-- Market context score: `44.32`
-- News risk score: `36.75`
+- Generated: `2026-05-31T06:22:17.467694+00:00`
+- Market context score: `55.87`
+- News risk score: `33.0`
 - Macro risk score: `27.0`
-- Risk-on score: `17.5`
-- Articles: `12`
+- Risk-on score: `40.0`
+- Articles: `14`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2176`
-- Day/swing latest: `2026-05-31T06:00:00+00:00`
+- Day/swing records: `2177`
+- Day/swing latest: `2026-05-31T06:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment (Cointelegraph.com News)
+- [crypto] Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness (Cointelegraph.com News)
 - [crypto] XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hundreds arrested in France after wild Champions League celebrations (BBC News)
 - [crypto] Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst (Cointelegraph.com News)
@@ -35,5 +37,3 @@
 - [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
 - [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
-- [macro] 'It's like a decaying body': Australian farmers battle mouse plague (BBC News)
-- [crypto] Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails (Cointelegraph.com News)
