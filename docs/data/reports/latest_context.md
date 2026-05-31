@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T00:07:20.779273+00:00`
+- Generated: `2026-05-31T00:22:25.601925+00:00`
 - Market context score: `36.77`
 - News risk score: `45.62`
 - Macro risk score: `37.04`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2152`
-- Day/swing latest: `2026-05-31T00:00:00+00:00`
+- Day/swing records: `2153`
+- Day/swing latest: `2026-05-31T00:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Cuba’s blackouts leave high-rise residents with constant uncertainty (BBC News)
 - [macro] How Putin became master of the image (BBC News)
 - [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
 - [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Ecuador accused of meddling in Colombian election with tariff vow (BBC News)
 - [crypto] Circle freezes $12.6M of USDC linked to privacy protocol Zama (Cointelegraph.com News)
 - [macro] Oscar-winning Star Wars editor Marcia Lucas dies aged 80 (BBC News)
-- [macro] Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself (BBC News)
