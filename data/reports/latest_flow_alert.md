@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-31T02:05:19.859235+00:00`
+- Generated: `2026-05-31T02:10:21.973152+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18656857.52`
-- Polymarket volume z-score: `-3.51`
+- Polymarket 24h volume: `18702348.98`
+- Polymarket volume z-score: `-3.5`
 
 ## Top Polymarket Markets
 
-- Will the Iran ceasefire continue through May 24? | 24h volume: `3529930.560120001` | liquidity: `6142157.81954`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2612021.4424580107` | liquidity: `794045.46472`
-- Will Satoshi's identity be revealed by December 31? | 24h volume: `904666.9249150001` | liquidity: `25490.7026`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `881351.022532999` | liquidity: `910329.48684`
-- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `829572.108192` | liquidity: `2153234.81616`
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `710112.4405499999` | liquidity: `100268.99933`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `517101.06715799996` | liquidity: `590562.25085`
-- US announces new Iran agreement/ceasefire extension by May 31? | 24h volume: `492492.19771500607` | liquidity: `76292.4821`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `3540420.900120001` | liquidity: `6131144.79368`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2631969.55262401` | liquidity: `746338.33855`
+- Will Satoshi's identity be revealed by December 31? | 24h volume: `904663.7334270001` | liquidity: `26032.0142`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `882902.094771999` | liquidity: `906925.12201`
+- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `829286.958192` | liquidity: `2153014.55042`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `654707.8547420001` | liquidity: `101242.83231`
+- US-Iran nuclear deal by May 31? | 24h volume: `532174.2799850001` | liquidity: `120584.75268`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `517106.61715799995` | liquidity: `590702.36993`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
