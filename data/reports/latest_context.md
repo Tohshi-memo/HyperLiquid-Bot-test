@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T22:22:17.902945+00:00`
-- Market context score: `56.3`
-- News risk score: `33.43`
-- Macro risk score: `21.19`
-- Risk-on score: `39.12`
-- Articles: `50`
+- Generated: `2026-05-31T22:30:44.037242+00:00`
+- Market context score: `57.25`
+- News risk score: `31.77`
+- Macro risk score: `17.48`
+- Risk-on score: `38.43`
+- Articles: `51`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2240`
-- Day/swing latest: `2026-05-31T22:15:00+00:00`
+- Day/swing records: `2241`
+- Day/swing latest: `2026-05-31T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `2`
-- macro: articles `38`, risk hits `4`, risk headline rate `0.1053`, policy hits `1`
+- macro: articles `39`, risk hits `2`, risk headline rate `0.0513`, policy hits `0`
 
 ## Headlines
 
-- [macro] Berkshire Hathaway to Buy Homebuilder Taylor Morrison for $6.8 Billion (Yahoo Finance)
+- [macro] BOJ may heed calls to pause bond taper next year (Yahoo Finance)
+- [macro] Dow Jones Futures Fall As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points (Yahoo Finance)
+- [macro] Seagate Technology Holdings plc (STX): Leopold Aschenbrenner Sells Stake (Yahoo Finance)
+- [macro] Western Digital Corporation (WDC): Leopold Aschenbrenner Is Selling This Stock (Yahoo Finance)
+- [macro] Tower Semiconductor Ltd. (TSEM): Leopold Aschenbrenner Is Bearish on This Company (Yahoo Finance)
+- [macro] Why the Vanguard Consumer Staples Index Fund ETF (VDC) Could Be the Smartest Pre-Summer Addition to Your Portfolio (Yahoo Finance)
+- [macro] Berkshire Hathaway Has First Takeover by CEO Abel, Paying $8.5 Billion for a Homebuilder (Yahoo Finance)
+- [macro] Why This Fund Cashed Out of a Stock That Soared 250% in Just One Year (Yahoo Finance)
 - [macro] Nicaraguan indigenous leader dies after three years in prison (BBC News)
-- [macro] Why a Wealth Manager Made This $155 Million Asset Manager Stake Its Largest Holding (Yahoo Finance)
 - [macro] Keel Infrastructure Corp. (KEEL): Leopold Aschenbrenner Is Buying This Stock (Yahoo Finance)
-- [macro] T1 Energy Inc. (TE): Leopold Aschenbrenner Reveals New Bet (Yahoo Finance)
-- [macro] Solaris Energy Infrastructure, Inc. (SEI): Leopold Aschenbrenner Trims Position (Yahoo Finance)
-- [macro] CleanSpark Inc. (CLSK): Leopold Aschenbrenner Is Loading Up on This AI Stock (Yahoo Finance)
-- [macro] Riot Platforms Inc. (RIOT): Leopold Aschenbrenner Reaffirms Bullish Stance (Yahoo Finance)
-- [macro] Intel Corporation (INTC): Leopold Aschenbrenner Is Not a Big Fan (Yahoo Finance)
-- [macro] Applied Digital Corporation (APLD): Leopold Aschenbrenner Likes This AI Play (Yahoo Finance)
