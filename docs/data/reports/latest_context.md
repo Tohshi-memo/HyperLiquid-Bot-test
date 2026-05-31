@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T22:30:44.037242+00:00`
+- Generated: `2026-05-31T22:37:18.767633+00:00`
 - Market context score: `57.25`
 - News risk score: `31.77`
 - Macro risk score: `17.48`
 - Risk-on score: `38.43`
 - Articles: `51`
-- Polymarket markets: `395`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] BOJ may heed calls to pause bond taper next year (Yahoo Finance)
 - [macro] Dow Jones Futures Fall As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points (Yahoo Finance)
+- [macro] BOJ may heed calls to pause bond taper next year (Yahoo Finance)
 - [macro] Seagate Technology Holdings plc (STX): Leopold Aschenbrenner Sells Stake (Yahoo Finance)
 - [macro] Western Digital Corporation (WDC): Leopold Aschenbrenner Is Selling This Stock (Yahoo Finance)
 - [macro] Tower Semiconductor Ltd. (TSEM): Leopold Aschenbrenner Is Bearish on This Company (Yahoo Finance)
