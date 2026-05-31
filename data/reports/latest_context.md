@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T20:22:18.040005+00:00`
+- Generated: `2026-05-31T20:37:22.089945+00:00`
 - Market context score: `52.85`
 - News risk score: `32.86`
 - Macro risk score: `24.76`
 - Risk-on score: `32.33`
 - Articles: `42`
-- Polymarket markets: `395`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2232`
-- Day/swing latest: `2026-05-31T20:15:00+00:00`
+- Day/swing records: `2233`
+- Day/swing latest: `2026-05-31T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Israel seizes castle in Lebanon as it expands ground offensive (BBC News)
+- [macro] This $5.5 Million Exit Raises Questions After Wave Life Sciences' Rough First Quarter (Yahoo Finance)
 - [macro] Is Archer Stock a Millionaire Maker? (Yahoo Finance)
 - [crypto] Strategy's Michael Saylor teases BTC buy with 'working better' tweet (Cointelegraph.com News)
 - [macro] Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [crypto] A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why Zscaler Stock Plummeted This Week (Yahoo Finance)
 - [macro] Why a Fintech-Focused Fund Just Added $44 Million of MercadoLibre Stock (Yahoo Finance)
-- [macro] United Rentals: The Industrial Stock Workhorse I'd Happily Hold Through Any Market Crash (Yahoo Finance)
-- [macro] Trump praised IBM's 'legend' CEO, government floated a $1B quantum award — is the stock still a 'very nice price'? (Yahoo Finance)
