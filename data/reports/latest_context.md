@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T21:07:24.144581+00:00`
-- Market context score: `63.55`
+- Generated: `2026-05-31T21:13:44.640154+00:00`
+- Market context score: `62.05`
 - News risk score: `29.93`
 - Macro risk score: `25.84`
-- Risk-on score: `54.05`
+- Risk-on score: `50.71`
 - Articles: `42`
 - Polymarket markets: `396`
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [macro] What to Know About This $18 Million Bet on a Rental Business With 35 Years of Dividend Growth (Yahoo Finance)
+- [macro] Polls close in Colombia presidential election that may reshape relations with US (BBC News)
 - [macro] Is Solana or XRP the Real Ethereum Killer? (Yahoo Finance)
-- [macro] This New $125 Million Position Signals Confidence in One Cash-Rich Mining Stock Up 150% in a Year (Yahoo Finance)
-- [macro] Should You Buy Micron Stock Before June 24? (Yahoo Finance)
 - [macro] Dow Jones Futures Loom As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points (Yahoo Finance)
 - [macro] Between celebration and confrontation: Paris after PSG victory (BBC News)
 - [macro] A New $21 Million Position Signals Confidence in This Post-IPO Drug Developer (Yahoo Finance)
 - [macro] Nvidia’s $150 billion bet trumps AMD (Yahoo Finance)
 - [macro] Software Was the Market's Big Laggard This Year. Snowflake's Blowout Might Be the Spark That Changes That. (Yahoo Finance)
 - [macro] I'm Thinking About Pulling the Trigger on This Producer of a Mineral Deemed "Critical" to the U.S. (Yahoo Finance)
+- [macro] Israel seizes castle in Lebanon as it expands ground offensive (BBC News)
+- [macro] This $5.5 Million Exit Raises Questions After Wave Life Sciences' Rough First Quarter (Yahoo Finance)
