@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T06:52:17.956340+00:00`
+- Generated: `2026-05-31T07:07:21.116704+00:00`
 - Market context score: `57.4`
 - News risk score: `31.5`
 - Macro risk score: `24.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2179`
-- Day/swing latest: `2026-05-31T06:45:00+00:00`
+- Day/swing records: `2180`
+- Day/swing latest: `2026-05-31T07:00:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
 - [macro] Hundreds arrested in France after wild Champions League celebrations (BBC News)
-- [macro] Japan defence minister denies militarism, criticises China's 'huge arsenal' (BBC News)
+- [macro] Japan defence minister denies militarism and criticises China's 'huge arsenal' (BBC News)
 - [crypto] Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment (Cointelegraph.com News)
 - [crypto] Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness (Cointelegraph.com News)
 - [crypto] XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
