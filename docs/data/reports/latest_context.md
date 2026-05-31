@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T19:07:23.180017+00:00`
-- Market context score: `57.21`
-- News risk score: `31.52`
-- Macro risk score: `20.92`
-- Risk-on score: `39.42`
-- Articles: `39`
+- Generated: `2026-05-31T19:22:23.246258+00:00`
+- Market context score: `48.89`
+- News risk score: `35.25`
+- Macro risk score: `27.75`
+- Risk-on score: `26.67`
+- Articles: `40`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2227`
-- Day/swing latest: `2026-05-31T19:00:00+00:00`
+- Day/swing records: `2228`
+- Day/swing latest: `2026-05-31T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `28`, risk hits `3`, risk headline rate `0.1071`, policy hits `2`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `12`
 
 ## Headlines
 
-- [macro] Solana ETFs See Zero Outflows in May: Is a SOL Price Surge Coming? (Yahoo Finance)
+- [macro] Olive Garden rival down to 38 restaurants after two bankruptcies (Yahoo Finance)
+- [macro] Why a Fund Dumped a $24 Million China Education Stock While Keeping a Big Position in TAL (Yahoo Finance)
+- [macro] Brazil monitors two patients for possible Ebola infection (BBC News)
+- [macro] Dead whale towed ashore in Denmark ahead of autopsy (BBC News)
+- [macro] Berkshire Hathaway Has 28% of Its Portfolio in These 3 Warren Buffett-Approved AI Stocks (Yahoo Finance)
+- [macro] OceanFirst Financial Shareholders Approve All Proposals as Flushing Deal Shapes Growth (Yahoo Finance)
 - [macro] 360 Energy Pulse: What mattered this month in energy (Yahoo Finance)
 - [crypto] How the House Financial Services Committee is taking on tokenization: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Brazil monitors two patients for possible Ebola infection (BBC News)
 - [macro] Hundreds arrested and dozens of police injured after Champions League riots in France (BBC News)
 - [macro] Israel seizes castle in Lebanon as it expands ground offensive (BBC News)
-- [macro] Why rising interest rates haven't crushed stock valuations (Yahoo Finance)
-- [macro] 'Cancel it', Trump says after artists drop out of US Freedom 250 festival (BBC News)
-- [crypto] Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks (Cointelegraph.com News)
-- [macro] South Africa made to look like fools over World Cup visa issues, says minister (BBC News)
