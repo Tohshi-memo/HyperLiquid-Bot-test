@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T17:07:19.348962+00:00`
-- Market context score: `60.0`
+- Generated: `2026-05-31T17:22:18.908929+00:00`
+- Market context score: `59.51`
 - News risk score: `32.87`
 - Macro risk score: `21.13`
-- Risk-on score: `46.86`
+- Risk-on score: `45.76`
 - Articles: `45`
 - Polymarket markets: `396`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2219`
-- Day/swing latest: `2026-05-31T17:00:00+00:00`
+- Day/swing records: `2220`
+- Day/swing latest: `2026-05-31T17:15:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 
 - [crypto] How Stellar became part of DTCC's tokenization push for Wall Street securities onchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Huge blast kills dozens in rebel-held village in Myanmar (BBC News)
-- [macro] Missed Out on Nvidia? Here's 1 AI Stock You Can Buy Right Now. (Yahoo Finance)
+- [macro] The Real Reason XRP Keeps Bouncing Back -- and What Comes Next (Yahoo Finance)
 - [crypto] Bitcoin preps 3% May downside, but US PMI data may boost BTC price (Cointelegraph.com News)
 - [macro] May rewired global energy markets (Yahoo Finance)
 - [macro] Hundreds arrested and dozens of police injured after Champions League riots in France (BBC News)
