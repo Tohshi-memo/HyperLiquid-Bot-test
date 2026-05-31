@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T10:37:18.442307+00:00`
+- Generated: `2026-05-31T10:52:20.265868+00:00`
 - Market context score: `51.59`
 - News risk score: `36.75`
 - Macro risk score: `19.5`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2193`
-- Day/swing latest: `2026-05-31T10:30:00+00:00`
+- Day/swing records: `2194`
+- Day/swing latest: `2026-05-31T10:45:00+00:00`
 
 ## News Categories
 
@@ -27,12 +27,12 @@
 
 ## Headlines
 
+- [macro] Hundreds arrested and dozens of police injured after Champions League riots in France (BBC News)
 - [macro] South Africa made to look like fools after World Cup visa issues, says minister (BBC News)
 - [crypto] Vietnam proposes allowing SMEs to use digital assets as loan collateral (Cointelegraph.com News)
 - [crypto] Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit (Cointelegraph.com News)
 - [macro] Colombia votes in presidential election that could redefine relations with US (BBC News)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
-- [macro] Hundreds arrested in France after wild Champions League celebrations (BBC News)
 - [macro] Japan defence minister denies militarism and criticises China's 'huge arsenal' (BBC News)
 - [crypto] Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment (Cointelegraph.com News)
 - [crypto] Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness (Cointelegraph.com News)
