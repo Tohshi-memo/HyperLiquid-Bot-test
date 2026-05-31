@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T08:37:23.129826+00:00`
-- Market context score: `56.38`
-- News risk score: `33.0`
-- Macro risk score: `24.0`
-- Risk-on score: `40.0`
-- Articles: `15`
+- Generated: `2026-05-31T08:52:21.529752+00:00`
+- Market context score: `57.91`
+- News risk score: `32.25`
+- Macro risk score: `18.0`
+- Risk-on score: `40.5`
+- Articles: `14`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2186`
-- Day/swing latest: `2026-05-31T08:30:00+00:00`
+- Day/swing records: `2187`
+- Day/swing latest: `2026-05-31T08:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [macro] Colombia votes in presidential election that could redefine relations with US (BBC News)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
 - [macro] Hundreds arrested in France after wild Champions League celebrations (BBC News)
 - [macro] Japan defence minister denies militarism and criticises China's 'huge arsenal' (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst (Cointelegraph.com News)
 - [macro] Cuba’s blackouts leave high-rise residents with constant uncertainty (BBC News)
 - [macro] How Putin became master of the image (BBC News)
-- [macro] Hotspotting, cards and crochet - how Britain copes with bad onboard train wi-fi (BBC News)
