@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T12:55:44.526422+00:00`
-- Market context score: `46.27`
+- Generated: `2026-05-31T13:07:20.565519+00:00`
+- Market context score: `47.77`
 - News risk score: `40.5`
 - Macro risk score: `27.0`
-- Risk-on score: `25.0`
+- Risk-on score: `28.33`
 - Articles: `14`
 - Polymarket markets: `394`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2202`
-- Day/swing latest: `2026-05-31T12:45:00+00:00`
+- Day/swing records: `2203`
+- Day/swing latest: `2026-05-31T13:00:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [crypto] Bitcoin's wild days are over — and Trace Mayer says that's a good thing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israel seizes castle in Lebanon as it expands ground offensive (BBC News)
 - [macro] Nigerian retired general abducted with his wife in the north-west (BBC News)
 - [macro] Laos cave survivors help with plan to find last two missing men (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit (Cointelegraph.com News)
 - [macro] Colombia votes in presidential election that could redefine relations with US (BBC News)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
-- [macro] Japan defence minister denies militarism and criticises China's 'huge arsenal' (BBC News)
