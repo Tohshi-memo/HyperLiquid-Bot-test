@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-30T23:52:16.694044+00:00`
-- Market context score: `50.09`
-- News risk score: `42.47`
-- Macro risk score: `25.35`
-- Risk-on score: `34.54`
-- Articles: `51`
-- Polymarket markets: `396`
+- Generated: `2026-05-31T00:07:20.779273+00:00`
+- Market context score: `36.77`
+- News risk score: `45.62`
+- Macro risk score: `37.04`
+- Risk-on score: `12.0`
+- Articles: `24`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `2152`
+- Day/swing latest: `2026-05-31T00:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `40`, risk hits `8`, risk headline rate `0.175`, policy hits `1`
+- macro: articles `14`, risk hits `6`, risk headline rate `0.3571`, policy hits `1`
 
 ## Headlines
 
-- [macro] Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently. (Yahoo Finance)
 - [macro] How Putin became master of the image (BBC News)
-- [macro] Cathie Wood sells $12 million in surging stock (Yahoo Finance)
-- [macro] Marathon Digital Bets Its Bitcoin Mining Power Assets Can Fuel AI Data Center Growth (Yahoo Finance)
-- [macro] The Dividend ETF Built for Whatever the Market Does Next (Yahoo Finance)
-- [macro] Skip XRP and Buy This Top Cryptocurrency Instead (Yahoo Finance)
-- [macro] Palantir soars as Dell earnings validate their Al partnership (Yahoo Finance)
+- [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
 - [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
 - [macro] 'It's like a decaying body': Australian farmers battle mouse plague (BBC News)
+- [crypto] Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails (Cointelegraph.com News)
+- [macro] Ecuador accused of meddling in Colombian election with tariff vow (BBC News)
+- [crypto] Circle freezes $12.6M of USDC linked to privacy protocol Zama (Cointelegraph.com News)
+- [macro] Oscar-winning Star Wars editor Marcia Lucas dies aged 80 (BBC News)
+- [macro] Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself (BBC News)
