@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T01:07:18.181392+00:00`
+- Generated: `2026-05-31T01:22:20.242248+00:00`
 - Market context score: `35.1`
 - News risk score: `48.71`
 - Macro risk score: `34.62`
 - Risk-on score: `10.0`
 - Articles: `21`
-- Polymarket markets: `395`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2156`
-- Day/swing latest: `2026-05-31T01:00:00+00:00`
+- Day/swing records: `2157`
+- Day/swing latest: `2026-05-31T01:15:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [crypto] Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst (Cointelegraph.com News)
 - [macro] Cuba’s blackouts leave high-rise residents with constant uncertainty (BBC News)
 - [macro] How Putin became master of the image (BBC News)
 - [macro] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails (Cointelegraph.com News)
 - [macro] Ecuador accused of meddling in Colombian election with tariff vow (BBC News)
 - [crypto] Circle freezes $12.6M of USDC linked to privacy protocol Zama (Cointelegraph.com News)
-- [macro] Oscar-winning Star Wars editor Marcia Lucas dies aged 80 (BBC News)
