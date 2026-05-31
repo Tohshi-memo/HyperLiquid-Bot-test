@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-31T12:40:17.711798+00:00`
+- Generated: `2026-05-31T12:45:22.867414+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `23431598.39`
-- Polymarket volume z-score: `-2.11`
+- Polymarket 24h volume: `24222647.59`
+- Polymarket volume z-score: `-2.01`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2543152.2750899997` | liquidity: `1202007.73529`
-- Roland Garros WTA: Marta Kostyuk vs Iga Swiatek | 24h volume: `2377888.677017996` | liquidity: `151449.83166`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1379386.39` | liquidity: `5321492.27949`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1149162.2226620002` | liquidity: `885721.24891`
-- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `851593.695453` | liquidity: `2139100.14825`
-- Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta | 24h volume: `782789.4170260003` | liquidity: `62571.4953`
-- LoL: Nongshim Red Force vs Dplus KIA (BO3) - LCK Rounds 1-2 | 24h volume: `760075.5171619997` | liquidity: `518150.18429`
-- Roland Garros WTA: Elina Svitolina vs Belinda Bencic | 24h volume: `735247.5092359999` | liquidity: `34218.1827`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2518382.6697109984` | liquidity: `1175223.06155`
+- Roland Garros WTA: Marta Kostyuk vs Iga Swiatek | 24h volume: `2378024.8370179962` | liquidity: `189428.01546`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1383326.39` | liquidity: `5317541.23449`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1154319.4606410002` | liquidity: `886104.36399`
+- Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta | 24h volume: `885541.9238680007` | liquidity: `96084.2013`
+- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `851570.945453` | liquidity: `2138697.78736`
+- Roland Garros WTA: Elina Svitolina vs Belinda Bencic | 24h volume: `795649.8952089999` | liquidity: `68817.7792`
+- LoL: Nongshim Red Force vs Dplus KIA (BO3) - LCK Rounds 1-2 | 24h volume: `766843.8571619997` | liquidity: `498112.89164`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
