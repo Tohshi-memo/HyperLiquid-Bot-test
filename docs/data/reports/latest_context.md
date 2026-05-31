@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T18:52:18.092643+00:00`
-- Market context score: `56.05`
-- News risk score: `32.9`
-- Macro risk score: `22.57`
-- Risk-on score: `38.65`
-- Articles: `42`
+- Generated: `2026-05-31T19:07:23.180017+00:00`
+- Market context score: `57.21`
+- News risk score: `31.52`
+- Macro risk score: `20.92`
+- Risk-on score: `39.42`
+- Articles: `39`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2226`
-- Day/swing latest: `2026-05-31T18:45:00+00:00`
+- Day/swing records: `2227`
+- Day/swing latest: `2026-05-31T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `31`, risk hits `4`, risk headline rate `0.129`, policy hits `3`
+- macro: articles `28`, risk hits `3`, risk headline rate `0.1071`, policy hits `2`
 
 ## Headlines
 
-- [macro] Is This Ultimate High‑Yield Stock Actually Going to $0? (Yahoo Finance)
+- [macro] Solana ETFs See Zero Outflows in May: Is a SOL Price Surge Coming? (Yahoo Finance)
 - [macro] 360 Energy Pulse: What mattered this month in energy (Yahoo Finance)
 - [crypto] How the House Financial Services Committee is taking on tokenization: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Brazil monitors two patients for possible Ebola infection (BBC News)
