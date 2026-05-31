@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-31T06:50:20.910168+00:00`
+- Generated: `2026-05-31T06:55:20.677808+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18500036.83`
-- Polymarket volume z-score: `-3.02`
+- Polymarket 24h volume: `18430105.52`
+- Polymarket volume z-score: `-3.03`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2617882.8592909994` | liquidity: `1162741.36224`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1418766.08` | liquidity: `5435124.0906`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1188537.9394839986` | liquidity: `714667.19666`
-- Will Satoshi's identity be revealed by December 31? | 24h volume: `906818.7816899999` | liquidity: `23862.3311`
-- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `841837.504908` | liquidity: `2145675.58965`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `681712.0005589998` | liquidity: `320389.9892`
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `613284.1305240002` | liquidity: `78999.42408`
-- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `608307.6428609999` | liquidity: `1108634.91866`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `2629349.395938001` | liquidity: `1177395.94454`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1412312.0` | liquidity: `5434394.2506`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1197646.5706909988` | liquidity: `706559.71257`
+- Will Satoshi's identity be revealed by December 31? | 24h volume: `906819.8455179998` | liquidity: `23060.2048`
+- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `842172.974765` | liquidity: `2144964.58734`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `675794.7589469997` | liquidity: `340058.1178`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `613372.5709150003` | liquidity: `79447.92157`
+- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `608307.3328609999` | liquidity: `1117020.09815`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
