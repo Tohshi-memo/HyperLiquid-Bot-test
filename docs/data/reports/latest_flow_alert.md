@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-31T16:45:18.975526+00:00`
+- Generated: `2026-05-31T16:50:18.370156+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `29104579.36`
-- Polymarket volume z-score: `-1.35`
+- Polymarket 24h volume: `28984151.78`
+- Polymarket volume z-score: `-1.36`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3212683.3620950044` | liquidity: `859800.22042`
-- Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta | 24h volume: `2819597.4241379993` | liquidity: `310918.73293`
-- Roland Garros WTA: Mirra Andreeva vs Jil Teichmann | 24h volume: `1708328.8697390014` | liquidity: `79348.6597`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1668423.8881980008` | liquidity: `399554.94743`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1312756.41` | liquidity: `5336794.56646`
-- Roland Garros ATP: Jesper de Jong vs Alexander Zverev | 24h volume: `1062695.5319989996` | liquidity: `739897.83615`
-- LoL: JD Gaming vs Top Esports (BO5) - LPL Playoffs | 24h volume: `1002793.4110959994` | liquidity: `562602.21213`
-- Will Barack Obama win the 2028 Democratic presidential nomination? | 24h volume: `853202.052382` | liquidity: `2136602.5588`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3211049.710659004` | liquidity: `597848.80216`
+- Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta | 24h volume: `2820969.934137999` | liquidity: `309552.54544`
+- Roland Garros WTA: Mirra Andreeva vs Jil Teichmann | 24h volume: `1788920.9841410012` | liquidity: `88587.183`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1667654.4081980009` | liquidity: `401053.2496`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1310826.41` | liquidity: `5336345.55646`
+- Roland Garros ATP: Jesper de Jong vs Alexander Zverev | 24h volume: `1063167.9119989998` | liquidity: `734578.57083`
+- LoL: JD Gaming vs Top Esports (BO5) - LPL Playoffs | 24h volume: `1004170.3610959993` | liquidity: `561241.704`
+- LoL: Team Vitality vs GIANTX (BO5) - LEC Playoffs | 24h volume: `858031.8590759999` | liquidity: `48122.3395`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
