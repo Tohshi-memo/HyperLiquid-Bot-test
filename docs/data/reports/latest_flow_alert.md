@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-05-31T22:00:18.338855+00:00`
+- Generated: `2026-05-31T22:05:21.329655+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `29126655.9`
-- Polymarket volume z-score: `-1.26`
+- Polymarket 24h volume: `29379841.45`
+- Polymarket volume z-score: `-1.23`
 
 ## Top Polymarket Markets
 
-- Roland Garros ATP: Jakub Mensik vs Andrey Rublev | 24h volume: `4964582.710488992` | liquidity: `725621.07979`
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3641074.5418060026` | liquidity: `637774.75913`
-- Roland Garros ATP: Casper Ruud vs Joao Fonseca | 24h volume: `1868619.616186999` | liquidity: `98502.9779`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1727437.9767620005` | liquidity: `686650.95781`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1431245.7` | liquidity: `4335498.91004`
-- US x Cuba diplomatic meeting by May 31? | 24h volume: `1209979.4805199986` | liquidity: `195035.85694`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1130607.6385600003` | liquidity: `355841.2815`
-- Will the Iranian regime fall by May 31? | 24h volume: `1090555.39` | liquidity: `2490436.499`
+- Roland Garros ATP: Jakub Mensik vs Andrey Rublev | 24h volume: `4972892.488492993` | liquidity: `697919.0048`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `3646159.5080500026` | liquidity: `651250.72242`
+- Roland Garros ATP: Casper Ruud vs Joao Fonseca | 24h volume: `2024642.3776299986` | liquidity: `120375.1566`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1727928.3167620003` | liquidity: `686704.17373`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1438125.7` | liquidity: `4329643.76105`
+- US x Cuba diplomatic meeting by May 31? | 24h volume: `1209983.5668329988` | liquidity: `199306.51637`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1129917.1027300002` | liquidity: `364754.5921`
+- Will the Iranian regime fall by May 31? | 24h volume: `1090556.39` | liquidity: `2490435.5`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
