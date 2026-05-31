@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T10:22:17.572527+00:00`
-- Market context score: `52.36`
-- News risk score: `36.0`
-- Macro risk score: `18.0`
-- Risk-on score: `31.33`
-- Articles: `16`
-- Polymarket markets: `395`
+- Generated: `2026-05-31T10:37:18.442307+00:00`
+- Market context score: `51.59`
+- News risk score: `36.75`
+- Macro risk score: `19.5`
+- Risk-on score: `30.83`
+- Articles: `14`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `2193`
+- Day/swing latest: `2026-05-31T10:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Vietnam proposes allowing SMEs to use digital assets as loan collateral (Cointelegraph.com News)
 - [macro] South Africa made to look like fools after World Cup visa issues, says minister (BBC News)
+- [crypto] Vietnam proposes allowing SMEs to use digital assets as loan collateral (Cointelegraph.com News)
 - [crypto] Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit (Cointelegraph.com News)
 - [macro] Colombia votes in presidential election that could redefine relations with US (BBC News)
 - [macro] Ebola spread in DR Congo 'deeply alarming', MSF warns (BBC News)
