@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-05-31T16:37:23.402568+00:00`
+- Generated: `2026-05-31T16:52:17.595811+00:00`
 - Market context score: `62.48`
 - News risk score: `29.01`
 - Macro risk score: `21.15`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:421`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2217`
-- Day/swing latest: `2026-05-31T16:30:00+00:00`
+- Day/swing records: `2218`
+- Day/swing latest: `2026-05-31T16:45:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Capital One's Auto Loan Trends Are Quietly Improving. Why It Matters for the Stock. (Yahoo Finance)
+- [macro] CRISPR Therapeutics vs. Editas Medicine: Which Gene Editing Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] 7 Billionaires Just Sold Shares of This AI Giant That's Climbed 105,000% Since Its IPO. And 1 Bought the Stock. Which Should You Follow? (Yahoo Finance)
 - [macro] Hundreds arrested and dozens of police injured after Champions League riots in France (BBC News)
 - [commodity] U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry' (Energy)
-- [macro] Buckle Up, S&P 500 and Nasdaq Index Fund Investors. SpaceX Could Soon Become 1 of Your Largest Positions. (Yahoo Finance)
 - [macro] Blast kills dozens in rebel-held village in Myanmar (BBC News)
-- [macro] BofA resets MongoDB stock price target after earnings (Yahoo Finance)
-- [macro] Is Marvell Technology Stock a Buy After Providing a Strong Outlook? (Yahoo Finance)
 - [macro] Israel seizes castle in Lebanon as it expands ground offensive (BBC News)
 - [macro] Laos cave survivors help with plan to find last two missing men (BBC News)
 - [macro] Stablecoin demand may soon fade, BoE's Greene says (Yahoo Finance)
