@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T05:07:20.707970+00:00`
-- Market context score: `37.57`
-- News risk score: `49.0`
-- Macro risk score: `33.51`
-- Risk-on score: `15.3`
-- Articles: `31`
+- Generated: `2026-06-01T05:22:21.796664+00:00`
+- Market context score: `40.76`
+- News risk score: `46.49`
+- Macro risk score: `32.53`
+- Risk-on score: `19.91`
+- Articles: `33`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2267`
-- Day/swing latest: `2026-06-01T05:00:00+00:00`
+- Day/swing records: `2268`
+- Day/swing latest: `2026-06-01T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `2`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `0`
+- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `2`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Iran and US report new wave of air strikes in Gulf (BBC News)
+- [crypto] Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Wintermute to bring liquidity to booming prediction markets sector (Cointelegraph.com News)
 - [commodity] Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes (Energy)
@@ -37,5 +39,3 @@
 - [macro] Colombia presidential runoff pits leftist senator against pro-Trump rival (BBC News)
 - [macro] Grammy-winning director explores his Nigerian grandfather's role in the Biafran war (BBC News)
 - [macro] Put a £5 deposit on vapes to stop littering, say waste companies (BBC News)
-- [policy] Powell, Acceptance Remarks (FRB: Speeches)
-- [macro] A year of grief and waiting: What remains when a plane falls from the sky (BBC News)
