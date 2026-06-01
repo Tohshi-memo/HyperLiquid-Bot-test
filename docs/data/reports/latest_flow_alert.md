@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T11:35:23.126400+00:00`
+- Generated: `2026-06-01T11:40:21.537749+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `32008282.92`
-- Polymarket volume z-score: `-0.77`
+- Polymarket 24h volume: `32328026.72`
+- Polymarket volume z-score: `-0.73`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6435506.064527002` | liquidity: `1579818.90329`
-- Roland Garros ATP: Flavio Cobolli vs Zachary Svajda | 24h volume: `1626195.524820004` | liquidity: `90417.91867`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1581944.57` | liquidity: `3487768.80111`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1425113.8457769982` | liquidity: `638846.9385`
-- US x Cuba diplomatic meeting by May 31? | 24h volume: `1403828.42999` | liquidity: `2099270.61669`
-- LoL: Anyone's Legend vs Team WE (BO5) - LPL Playoffs | 24h volume: `1179878.3790220006` | liquidity: `65503.0986`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1088040.1736000022` | liquidity: `852864.46294`
-- MicroStrategy sells any Bitcoin by June 30, 2026? | 24h volume: `1078395.3989159998` | liquidity: `218906.02864`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6421165.286982001` | liquidity: `1578116.51456`
+- Roland Garros ATP: Flavio Cobolli vs Zachary Svajda | 24h volume: `1680330.0626410043` | liquidity: `131152.79373`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1581945.71` | liquidity: `3488122.45725`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1426126.2490399983` | liquidity: `637753.6841`
+- US x Cuba diplomatic meeting by May 31? | 24h volume: `1407094.048953` | liquidity: `2094228.59376`
+- LoL: Anyone's Legend vs Team WE (BO5) - LPL Playoffs | 24h volume: `1302117.3405720012` | liquidity: `63710.1852`
+- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1088683.5956320025` | liquidity: `852555.65191`
+- MicroStrategy sells any Bitcoin by June 30, 2026? | 24h volume: `1079269.8546179996` | liquidity: `212539.57463`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
