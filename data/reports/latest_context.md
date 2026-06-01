@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T20:07:25.387458+00:00`
+- Generated: `2026-06-01T20:22:23.663938+00:00`
 - Market context score: `42.33`
 - News risk score: `46.73`
 - Macro risk score: `40.39`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2326`
-- Day/swing latest: `2026-06-01T20:00:00+00:00`
+- Day/swing records: `2327`
+- Day/swing latest: `2026-06-01T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Iran warns Israeli attacks in Lebanon threaten ceasefire with US (BBC News)
 - [commodity] Trump tells CNBC: 'I don't care' if Iran negotiations are over (Energy)
+- [macro] Iran warns Israeli attacks in Lebanon threaten ceasefire with US (BBC News)
 - [macro] OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims (BBC News)
 - [macro] OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims (BBC News)
 - [macro] AI giant Anthropic says it plans to list on US stock market (BBC News)
