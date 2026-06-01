@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T18:55:22.059634+00:00`
+- Generated: `2026-06-01T19:00:31.895970+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,12 +8,12 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `57003400.34`
-- Polymarket volume z-score: `2.3`
+- Polymarket 24h volume: `65931803.02`
+- Polymarket volume z-score: `3.38`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `26325771.35373808` | liquidity: `15361632.12273`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `35227717.564482085` | liquidity: `14534237.49833`
 - Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi | 24h volume: `3392605.4753499986` | liquidity: `34955.1674`
 - Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini | 24h volume: `2991100.9249690003` | liquidity: `580053.5135`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2624117.150022999` | liquidity: `420031.0391`
