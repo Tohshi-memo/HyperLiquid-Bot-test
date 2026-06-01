@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T05:22:21.796664+00:00`
+- Generated: `2026-06-01T05:37:18.213405+00:00`
 - Market context score: `40.76`
 - News risk score: `46.49`
 - Macro risk score: `32.53`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2268`
-- Day/swing latest: `2026-06-01T05:15:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Huge blast kills dozens in rebel-held village in Myanmar (BBC News)
 - [macro] Iran and US report new wave of air strikes in Gulf (BBC News)
 - [crypto] Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] White hat hacker recovers $2M from faulty 2016 ICO smart contract (Cointelegraph.com News)
 - [macro] Colombia presidential runoff pits leftist senator against pro-Trump rival (BBC News)
 - [macro] Grammy-winning director explores his Nigerian grandfather's role in the Biafran war (BBC News)
-- [macro] Put a £5 deposit on vapes to stop littering, say waste companies (BBC News)
