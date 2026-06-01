@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T06:52:19.662206+00:00`
-- Market context score: `40.56`
-- News risk score: `46.51`
-- Macro risk score: `32.44`
-- Risk-on score: `19.44`
-- Articles: `34`
+- Generated: `2026-06-01T07:07:20.863855+00:00`
+- Market context score: `38.69`
+- News risk score: `48.01`
+- Macro risk score: `35.5`
+- Risk-on score: `17.71`
+- Articles: `38`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2273`
-- Day/swing latest: `2026-06-01T06:45:00+00:00`
+- Day/swing records: `2274`
+- Day/swing latest: `2026-06-01T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `2`
-- macro: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `1`
+- crypto: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `2`
+- macro: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [macro] Iran and US report new wave of strikes in Gulf (BBC News)
+- [crypto] Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Sui Foundation says ‘major upgrade’ fixed bugs behind three outages (Cointelegraph.com News)
+- [macro] US says it struck Iranian radar sites as Kuwait reports missile and drone attacks (BBC News)
+- [crypto] Crypto exploit losses in May fall 90% over month to $68M: CertiK (Cointelegraph.com News)
 - [macro] Marilyn Monroe lookalikes gather to celebrate her 100th birthday (BBC News)
+- [crypto] Cardano Foundation cancels annual conference after failed funding vote (Cointelegraph.com News)
 - [macro] Huge blast kills dozens in rebel-held village in Myanmar (BBC News)
 - [macro] Nvidia announces new AI chip for personal computers (BBC News)
 - [crypto] XRP drops to $1.32 as sellers overpower exchange outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Wintermute to bring liquidity to booming prediction markets sector (Cointelegraph.com News)
-- [commodity] Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes (Energy)
