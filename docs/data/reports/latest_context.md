@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T16:07:24.007644+00:00`
-- Market context score: `47.1`
-- News risk score: `46.91`
-- Macro risk score: `30.7`
-- Risk-on score: `33.65`
+- Generated: `2026-06-01T16:22:29.474245+00:00`
+- Market context score: `47.54`
+- News risk score: `45.74`
+- Macro risk score: `29.11`
+- Risk-on score: `33.05`
 - Articles: `82`
 - Polymarket markets: `399`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2310`
-- Day/swing latest: `2026-06-01T16:00:00+00:00`
+- Day/swing records: `2311`
+- Day/swing latest: `2026-06-01T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `36`, risk hits `9`, risk headline rate `0.25`, policy hits `7`
-- macro: articles `43`, risk hits `14`, risk headline rate `0.2326`, policy hits `3`
+- crypto: articles `37`, risk hits `9`, risk headline rate `0.2432`, policy hits `7`
+- macro: articles `42`, risk hits `12`, risk headline rate `0.2143`, policy hits `1`
 
 ## Headlines
 
+- [macro] Chime CEO says hundreds of thousands of its members are setting up Trump accounts as it pushes into investing (Yahoo Finance)
+- [macro] Anthropic files confidential paperwork to go public ahead of OpenAI (Yahoo Finance)
+- [macro] “Demand for Data Center Power Continues to Outpace Expectations” — Josh Brown’s Case for Heavy Assets Over AI Hype (Yahoo Finance)
 - [crypto] Michael Saylor breaks silence after Strategy sells $2.5 million in bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Alexander McQueen Names New CEO (Yahoo Finance)
-- [macro] Carvana Is Out: This High-Yield Cash Cow Is the Ultimate Inflation-Beating Buy Right Now (Yahoo Finance)
+- [macro] 2 ETFs Paying Reliable Dividends in an Uncertain Market (Yahoo Finance)
+- [macro] Science Applications International Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] T1 Energy (TE) Q4 2025 Earnings Transcript (Yahoo Finance)
+- [macro] I’ve socked away $1 million for retirement – this might be an odd question, but is there such a thing as too much money in a 401k? (Yahoo Finance)
+- [macro] Is Pepsico (PEP) The Best Stock in Billionaire Paul Singer’s Portfolio? (Yahoo Finance)
 - [crypto] Analysts divided on message of Strategy's small bitcoin sale (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Michael Burry Just Called Nvidia’s SpaceX Chip Deal ‘Fugazi.’ Here’s Why It All Seems Wrong (Yahoo Finance)
-- [macro] Dave Ramsey to 27-Year-Old: ‘You’re Way Too Broke to Support Others’ (Yahoo Finance)
-- [macro] “A Lost Decade Is a Very Real Possibility,” Says Ultra-High Net Worth Financial Advisor (Yahoo Finance)
-- [macro] Strategy Shares Slide Following Bitcoin Sale—Will It Dump More BTC Ahead? (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls On New Iran Threat; Warren Buffett's Berkshire Boosts Stock (Live Coverage) (Yahoo Finance)
-- [macro] DMG Blockchain Signs 50 MW AI Data Center LOI at Christina Lake (Yahoo Finance)
