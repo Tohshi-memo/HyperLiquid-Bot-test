@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-01T17:37:22.700911+00:00`
+- Generated: `2026-06-01T17:52:26.978671+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `13`
 - Outcome sides (rows): `26`
@@ -21,15 +21,15 @@
 
 ## Current Implied Probabilities
 
-- Recurring Named Outcome [No] symbol `#1401` underlying `n/a` prob `0.9919` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1401` underlying `n/a` prob `0.9908` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.977` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1361` underlying `BTC` prob `0.9428` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1361` underlying `BTC` prob `0.9391` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.8538` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1391` underlying `n/a` prob `0.7` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1380` underlying `n/a` prob `0.6955` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.6452` price_source `allMids` vol24h `0.0` oi `0.0`
-- NBA Finals Game 1 [San Antonio] symbol `#1430` underlying `n/a` prob `0.6392` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1380` underlying `n/a` prob `0.6437` price_source `allMids` vol24h `0.0` oi `0.0`
+- NBA Finals Game 1 [San Antonio] symbol `#1430` underlying `n/a` prob `0.6401` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 2 [San Antonio] symbol `#1410` underlying `n/a` prob `0.6108` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1391` underlying `n/a` prob `0.607` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.591` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.535` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1000` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -38,13 +38,13 @@
 - Recurring Fallback [No] symbol `#1371` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.465` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.409` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1390` underlying `n/a` prob `0.393` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 2 [New York] symbol `#1411` underlying `n/a` prob `0.3892` price_source `allMids` vol24h `0.0` oi `0.0`
-- NBA Finals Game 1 [New York] symbol `#1431` underlying `n/a` prob `0.3608` price_source `allMids` vol24h `0.0` oi `0.0`
+- NBA Finals Game 1 [New York] symbol `#1431` underlying `n/a` prob `0.3599` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1381` underlying `n/a` prob `0.3563` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.3548` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1381` underlying `n/a` prob `0.3045` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1390` underlying `n/a` prob `0.3` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.1462` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1360` underlying `BTC` prob `0.0572` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1360` underlying `BTC` prob `0.0609` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.023` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
@@ -59,21 +59,21 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.8538` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.023` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.977` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1360` underlying `BTC` prob `0.0572` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1361` underlying `BTC` prob `0.9428` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1360` underlying `BTC` prob `0.0609` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1361` underlying `BTC` prob `0.9391` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#1370` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#1371` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1380` underlying `n/a` prob `0.6955` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1381` underlying `n/a` prob `0.3045` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1390` underlying `n/a` prob `0.3` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1391` underlying `n/a` prob `0.7` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1400` underlying `n/a` prob `0.0081` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1401` underlying `n/a` prob `0.9919` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1380` underlying `n/a` prob `0.6437` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1381` underlying `n/a` prob `0.3563` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1390` underlying `n/a` prob `0.393` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1391` underlying `n/a` prob `0.607` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1400` underlying `n/a` prob `0.0092` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1401` underlying `n/a` prob `0.9908` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 2 [San Antonio] symbol `#1410` underlying `n/a` prob `0.6108` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 2 [New York] symbol `#1411` underlying `n/a` prob `0.3892` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.6452` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.3548` price_source `allMids` vol24h `0.0` oi `0.0`
-- NBA Finals Game 1 [San Antonio] symbol `#1430` underlying `n/a` prob `0.6392` price_source `allMids` vol24h `0.0` oi `0.0`
+- NBA Finals Game 1 [San Antonio] symbol `#1430` underlying `n/a` prob `0.6401` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -87,21 +87,21 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.8538` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.023` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.977` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1360` underlying `BTC` prob `0.0572` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1361` underlying `BTC` prob `0.9428` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1360` underlying `BTC` prob `0.0609` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1361` underlying `BTC` prob `0.9391` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#1370` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#1371` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1380` underlying `n/a` prob `0.6955` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1381` underlying `n/a` prob `0.3045` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1390` underlying `n/a` prob `0.3` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1391` underlying `n/a` prob `0.7` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1400` underlying `n/a` prob `0.0081` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1401` underlying `n/a` prob `0.9919` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1380` underlying `n/a` prob `0.6437` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1381` underlying `n/a` prob `0.3563` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1390` underlying `n/a` prob `0.393` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1391` underlying `n/a` prob `0.607` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1400` underlying `n/a` prob `0.0092` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1401` underlying `n/a` prob `0.9908` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 2 [San Antonio] symbol `#1410` underlying `n/a` prob `0.6108` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 2 [New York] symbol `#1411` underlying `n/a` prob `0.3892` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.6452` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.3548` price_source `allMids` vol24h `0.0` oi `0.0`
-- NBA Finals Game 1 [San Antonio] symbol `#1430` underlying `n/a` prob `0.6392` price_source `allMids` vol24h `0.0` oi `0.0`
+- NBA Finals Game 1 [San Antonio] symbol `#1430` underlying `n/a` prob `0.6401` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
