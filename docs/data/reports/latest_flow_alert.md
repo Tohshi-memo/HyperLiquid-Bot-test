@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T20:25:21.009138+00:00`
+- Generated: `2026-06-01T20:30:23.012471+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `74001127.45`
-- Polymarket volume z-score: `4.08`
+- Polymarket 24h volume: `73977181.86`
+- Polymarket volume z-score: `4.05`
 
 ## Top Polymarket Markets
 
@@ -19,7 +19,7 @@
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2335702.178413002` | liquidity: `387080.3244`
 - Will the Iran ceasefire continue through May 24? | 24h volume: `2102403.83` | liquidity: `5365806.60092`
 - Roland Garros WTA: Aryna Sabalenka vs Naomi Osaka | 24h volume: `1887183.7797930008` | liquidity: `763123.16864`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1051546.8492260005` | liquidity: `283268.5433`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1056900.9976350004` | liquidity: `309996.2138`
 - US x Cuba diplomatic meeting by May 31? | 24h volume: `1028876.217481` | liquidity: `1101695.52449`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
