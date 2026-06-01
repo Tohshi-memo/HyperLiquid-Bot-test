@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T17:07:25.333741+00:00`
-- Market context score: `49.79`
-- News risk score: `42.58`
-- Macro risk score: `27.18`
-- Risk-on score: `34.65`
-- Articles: `83`
+- Generated: `2026-06-01T17:22:25.149162+00:00`
+- Market context score: `53.28`
+- News risk score: `43.68`
+- Macro risk score: `29.38`
+- Risk-on score: `44.17`
+- Articles: `84`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2314`
-- Day/swing latest: `2026-06-01T17:00:00+00:00`
+- Day/swing records: `2315`
+- Day/swing latest: `2026-06-01T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `36`, risk hits `7`, risk headline rate `0.1944`, policy hits `7`
-- macro: articles `44`, risk hits `11`, risk headline rate `0.1818`, policy hits `1`
+- crypto: articles `36`, risk hits `7`, risk headline rate `0.1944`, policy hits `8`
+- macro: articles `45`, risk hits `13`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
-- [macro] Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates (BBC News)
-- [crypto] Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] AI giant Anthropic says it plans to list on US stock market (BBC News)
-- [macro] I’m 24 making $2,000 monthly as a youth pastor. Can I save for retirement on this income? (Yahoo Finance)
-- [macro] Retiree with $150,000 mortgage at 6.58%: should I pay it down fast or keep cash in savings? (Yahoo Finance)
-- [macro] What is flood insurance? Your guide to coverage, costs, and how to buy. (Yahoo Finance)
-- [macro] Factories face soaring costs as Iran war causes supply shocks (Yahoo Finance)
-- [macro] i3 Verticals (IIIV) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Ultralife (ULBI) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Think you've made it with a million? You're dead wrong. Here's the real number that puts you in the top 10% of Americans (Yahoo Finance)
+- [commodity] U.S. oil jumps more than 6% as Trump tells CNBC he doesn't care if Iran negotiations are over (Energy)
+- [macro] Lensar (LNSR) Q1 2026 Earnings Transcript (Yahoo Finance)
+- [macro] Nextdoor Holdings Inc. (NXDR): One of the Leading Stock Picks of Jeff Bezos (Yahoo Finance)
+- [macro] Rivian Automotive (RIVN): One of the Best Jeff Bezos Stocks to Buy (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls, IBM Tests Entry; Warren Buffett's Berkshire Boosts This Stock (Live Coverage) (Yahoo Finance)
+- [macro] Wise stock falls as Belgian prosecutors probe money laundering (Yahoo Finance)
+- [macro] UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI (BBC News)
+- [macro] Workday, Inc. (WDAY): One of the Top Jeff Bezos Stocks to Buy (Yahoo Finance)
+- [crypto] It's not 2022 anymore: What Strategy's first bitcoin sale can (and can't) tell us about this one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Uber Technologies (UBER): One of the Elite Jeff Bezos Stocks to Buy (Yahoo Finance)
