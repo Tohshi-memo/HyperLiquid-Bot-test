@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T13:37:28.061455+00:00`
-- Market context score: `49.13`
-- News risk score: `43.89`
-- Macro risk score: `21.66`
-- Risk-on score: `32.21`
-- Articles: `75`
+- Generated: `2026-06-01T13:52:27.691769+00:00`
+- Market context score: `48.66`
+- News risk score: `44.26`
+- Macro risk score: `23.24`
+- Risk-on score: `32.08`
+- Articles: `76`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2300`
-- Day/swing latest: `2026-06-01T13:30:00+00:00`
+- Day/swing records: `2301`
+- Day/swing latest: `2026-06-01T13:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `3`
-- macro: articles `45`, risk hits `7`, risk headline rate `0.1111`, policy hits `4`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `29`, risk hits `8`, risk headline rate `0.2759`, policy hits `3`
+- macro: articles `45`, risk hits `8`, risk headline rate `0.1333`, policy hits `6`
 
 ## Headlines
 
-- [macro] A $720,000 Income Portfolio That Quietly Pays Like a Cash-Flowing Indianapolis Duplex Without the Tenant Calls (Yahoo Finance)
-- [macro] Will Bitcoin Make You a Millionaire? (Yahoo Finance)
-- [macro] Clark Howard’s 1% Rule: How to Build $569,000 in Retirement Savings Without Feeling the Pinch (Yahoo Finance)
-- [macro] Bitmine Slows Ethereum Purchases As Price Falls (Yahoo Finance)
-- [macro] Micron stock hasn't been this overbought in nearly 30 years (Yahoo Finance)
-- [macro] Is Southwest Airlines (LUV) The Best Airline Stock in Billionaire Paul Singer’s Portfolio? (Yahoo Finance)
-- [macro] Wise under investigation over money laundering control concerns (BBC News)
-- [macro] US says it struck Iranian radar sites as Iran targets American forces in Kuwait (BBC News)
-- [macro] Nvidia Stock: A Path To $10 Trillion? (Yahoo Finance)
-- [macro] Wall Street Just Cut This Tech Stock's Rating. History Says That's When You Buy. (Yahoo Finance)
+- [commodity] U.S. oil jumps more than 6% on report Iran will halt talks with U.S. and completely block Hormuz (Energy)
+- [macro] Anthropic killing all software companies? This chart says nope. (Yahoo Finance)
+- [macro] Abusive passengers could be blacklisted from all airlines under new proposal (BBC News)
+- [crypto] Japan's ruling party supports crypto ETF trading, yen-based stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] SoftBank to invest up to €75 billion in French AI data centers (Yahoo Finance)
+- [macro] Applied Nutrition strikes deal for assets of US peer Nutrablend (Yahoo Finance)
+- [macro] ChatGPT Stock Portfolio Includes This Little-Known AI and Data Center Stock (Yahoo Finance)
+- [macro] ChatGPT Says You Should Buy This Under-The-Radar AI Stock (Yahoo Finance)
+- [macro] Rand Paul's waste quiz is wild — but the $1.22 trillion Americans lose to interest payments is no joke (Yahoo Finance)
+- [macro] Citigroup Forecasts Tokenized Securities Market Will Hit $5.5 Trillion (Yahoo Finance)
