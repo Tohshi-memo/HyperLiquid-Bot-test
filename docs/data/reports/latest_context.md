@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T02:52:23.590823+00:00`
-- Market context score: `45.32`
-- News risk score: `39.36`
+- Generated: `2026-06-01T03:07:18.093142+00:00`
+- Market context score: `41.32`
+- News risk score: `44.36`
 - Macro risk score: `34.27`
-- Risk-on score: `24.67`
+- Risk-on score: `20.0`
 - Articles: `33`
 - Polymarket markets: `395`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2258`
-- Day/swing latest: `2026-06-01T02:45:00+00:00`
+- Day/swing records: `2259`
+- Day/swing latest: `2026-06-01T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `2`
+- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `2`
 - macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] White hat hacker recovers $2M from faulty 2016 ICO smart contract (Cointelegraph.com News)
 - [macro] Colombia presidential runoff pits leftist senator against pro-Trump rival (BBC News)
 - [macro] Grammy-winning director explores his Nigerian grandfather's role in the Biafran war (BBC News)
 - [commodity] Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes (Energy)
@@ -37,5 +38,4 @@
 - [macro] A year of grief and waiting: What remains when a plane falls from the sky (BBC News)
 - [macro] A year of grief and waiting: What remains when a plane falls from the sky (BBC News)
 - [macro] The drivers risking death on Ukraine's most dangerous bus routes (BBC News)
-- [macro] Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days (BBC News)
 - [macro] Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days (BBC News)

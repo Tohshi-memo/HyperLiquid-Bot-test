@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-01T02:52:23.590823+00:00`
+- Generated: `2026-06-01T03:07:18.093142+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `10`
 - Outcome sides (rows): `20`
@@ -21,12 +21,12 @@
 
 ## Current Implied Probabilities
 
-- Recurring Named Outcome [No] symbol `#1351` underlying `n/a` prob `0.9947` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1331` underlying `n/a` prob `0.9791` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1351` underlying `n/a` prob `0.9948` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1340` underlying `n/a` prob `0.9884` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1331` underlying `n/a` prob `0.9841` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9758` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1340` underlying `n/a` prob `0.97` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.875` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1311` underlying `BTC` prob `0.7178` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1311` underlying `BTC` prob `0.6392` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.6102` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.5099` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1000` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -35,12 +35,12 @@
 - Recurring Fallback [No] symbol `#1321` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.4901` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.3898` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1310` underlying `BTC` prob `0.2822` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1310` underlying `BTC` prob `0.3608` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.125` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1341` underlying `n/a` prob `0.03` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0242` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1330` underlying `n/a` prob `0.0209` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1350` underlying `n/a` prob `0.0053` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1330` underlying `n/a` prob `0.0159` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1341` underlying `n/a` prob `0.0116` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1350` underlying `n/a` prob `0.0052` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
@@ -54,16 +54,16 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.875` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0242` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9758` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1310` underlying `BTC` prob `0.2822` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1311` underlying `BTC` prob `0.7178` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1310` underlying `BTC` prob `0.3608` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1311` underlying `BTC` prob `0.6392` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#1320` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#1321` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1330` underlying `n/a` prob `0.0209` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1331` underlying `n/a` prob `0.9791` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1340` underlying `n/a` prob `0.97` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1341` underlying `n/a` prob `0.03` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1350` underlying `n/a` prob `0.0053` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1351` underlying `n/a` prob `0.9947` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1330` underlying `n/a` prob `0.0159` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1331` underlying `n/a` prob `0.9841` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1340` underlying `n/a` prob `0.9884` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1341` underlying `n/a` prob `0.0116` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1350` underlying `n/a` prob `0.0052` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1351` underlying `n/a` prob `0.9948` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -77,16 +77,16 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.875` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0242` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9758` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#1310` underlying `BTC` prob `0.2822` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#1311` underlying `BTC` prob `0.7178` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#1310` underlying `BTC` prob `0.3608` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#1311` underlying `BTC` prob `0.6392` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#1320` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#1321` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1330` underlying `n/a` prob `0.0209` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1331` underlying `n/a` prob `0.9791` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1340` underlying `n/a` prob `0.97` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1341` underlying `n/a` prob `0.03` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#1350` underlying `n/a` prob `0.0053` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#1351` underlying `n/a` prob `0.9947` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1330` underlying `n/a` prob `0.0159` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1331` underlying `n/a` prob `0.9841` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1340` underlying `n/a` prob `0.9884` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1341` underlying `n/a` prob `0.0116` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#1350` underlying `n/a` prob `0.0052` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#1351` underlying `n/a` prob `0.9948` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
