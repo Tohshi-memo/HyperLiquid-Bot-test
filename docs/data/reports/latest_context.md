@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T13:07:19.404692+00:00`
-- Market context score: `51.46`
-- News risk score: `44.48`
-- Macro risk score: `24.52`
-- Risk-on score: `38.96`
+- Generated: `2026-06-01T13:10:51.315650+00:00`
+- Market context score: `51.92`
+- News risk score: `43.5`
+- Macro risk score: `23.46`
+- Risk-on score: `38.74`
 - Articles: `73`
 - Polymarket markets: `399`
 
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `3`
-- macro: articles `45`, risk hits `10`, risk headline rate `0.1778`, policy hits `0`
+- crypto: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `3`
+- macro: articles `44`, risk hits `9`, risk headline rate `0.1591`, policy hits `0`
 
 ## Headlines
 
+- [crypto] CoinDesk 20 performance update: Stellar (XLM) surges 14.1% over weekend (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitmine slows ether purchase pace, buying $53 million worth last week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Honeywell's Quantinuum eyes $14.3 billion valuation in upsized US IPO (Yahoo Finance)
+- [macro] After Caesars Deal, These 4 Struggling Companies Look Ripe for Acquisition (Yahoo Finance)
+- [macro] Beyond Hyperscalers: Why Leopold Aschenbrenner Just Bought 5.6% of Nebius (Yahoo Finance)
+- [macro] Investors Need to Realize Silver Supply Bailouts Are No Longer Available (Yahoo Finance)
+- [macro] This Niche 3X Korea Fund Rode the Memory Chip Boom to a 2,108% One-Year Gain, but Don’t Expect a Repeat (Yahoo Finance)
 - [crypto] Crypto meets Wall Street: MEXC unveils 'RealStocks' with 0-fee U.S. equity trading and real dividends (Cointelegraph.com News)
 - [macro] China EV Makers Report Monthly Sales. BYD Barely Grows, XPeng Slumps. (Yahoo Finance)
-- [macro] ECARX and TPK sign LiDAR co-operation memorandum (Yahoo Finance)
-- [macro] MP Materials vs. USA Rare Earth: Which Rare-Earth Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] How an Inherited Roth Can Double in the 10-Year Window the SECURE Act Allows (Yahoo Finance)
-- [macro] Top 5 Stocks That Will Profit From Nvidia’s PC Market Invasion of Intel Territory (Yahoo Finance)
 - [macro] Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates (BBC News)
-- [macro] ChatGPT Stock Portfolio: Is Progressive (PGR) The Best Stock to Buy in 2026? (Yahoo Finance)
-- [crypto] Live markets: bitcoin retreats under $72,000 as Strategy unloads BTC for first time in four years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
