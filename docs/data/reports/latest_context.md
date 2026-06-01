@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T22:52:20.536892+00:00`
-- Market context score: `44.45`
-- News risk score: `44.65`
-- Macro risk score: `39.81`
-- Risk-on score: `29.3`
-- Articles: `52`
+- Generated: `2026-06-01T23:07:19.100070+00:00`
+- Market context score: `44.89`
+- News risk score: `44.36`
+- Macro risk score: `38.75`
+- Risk-on score: `29.63`
+- Articles: `53`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2336`
-- Day/swing latest: `2026-06-01T22:45:00+00:00`
+- Day/swing records: `2337`
+- Day/swing latest: `2026-06-01T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `29`, risk hits `7`, risk headline rate `0.2069`, policy hits `10`
-- macro: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
+- macro: articles `20`, risk hits `9`, risk headline rate `0.35`, policy hits `0`
 
 ## Headlines
 
+- [macro] How 'confused' AI rollout hurts firms and baffles staff (BBC News)
 - [crypto] Dogecoin gains Paxos support in push for broader institutional adoption (Cointelegraph.com News)
 - [macro] Bowen: Trump needs this war to end but Iran is not backing down (BBC News)
 - [macro] Two possible Ebola cases in Brazil ruled out as patients test negative (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Crypto investment firm Keyrock is acquiring bankrupt lender Blockfills (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin volatility is down 56% but analysts still expect up to 20% BTC price move (Cointelegraph.com News)
 - [commodity] Trump tells CNBC: 'I don't care' if Iran negotiations are over (Energy)
-- [macro] OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims (BBC News)
 - [macro] OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims (BBC News)
