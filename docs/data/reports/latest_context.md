@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T14:22:28.183038+00:00`
-- Market context score: `50.1`
+- Generated: `2026-06-01T14:37:29.517712+00:00`
+- Market context score: `47.6`
 - News risk score: `44.78`
 - Macro risk score: `25.17`
-- Risk-on score: `36.43`
+- Risk-on score: `30.88`
 - Articles: `78`
 - Polymarket markets: `399`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2303`
-- Day/swing latest: `2026-06-01T14:15:00+00:00`
+- Day/swing records: `2304`
+- Day/swing latest: `2026-06-01T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [commodity] U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry' (Energy)
-- [macro] Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates (BBC News)
+- [macro] Voting suspended in parts of Ethiopia over security concerns (BBC News)
 - [commodity] U.S. oil jumps more than 7% on report Iran will halt talks with U.S. and completely block Hormuz (Energy)
-- [macro] Ballard Power (BLDP) Posts Revenue Growth and Third Straight Positive Gross Margin Quarter (Yahoo Finance)
-- [macro] Argus Raises Price Target on New Jersey Resources (NJR) After Strong Q2 Earnings Beat (Yahoo Finance)
-- [macro] Westport Fuel (WPRT) Advances Heavy-Duty Decarbonization Strategy With Volvo Partnership (Yahoo Finance)
-- [macro] Craig-Hallum Boosts Price Target on Plug Power (PLUG) Following Strong Q1 Results and Improving Fundamentals (Yahoo Finance)
-- [macro] Barclays and BTIG Raise Price Targets on Bloom Energy (BE) Following Strong Quarter and Oracle Partnership (Yahoo Finance)
-- [macro] BofA Lifts Price Target on Air Products (APD) After Earnings Beat (Yahoo Finance)
-- [macro] Bernstein Maintains Market Perform Rating on Cummins (CMI) Following Updated 2030 Guidance (Yahoo Finance)
+- [commodity] U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry' (Energy)
+- [macro] ETFs Aren’t Always Cheaper Than Mutual Funds. Here’s What to Compare Instead (Yahoo Finance)
+- [macro] Better Memory Chip Stock: Sandisk vs. Micron (Yahoo Finance)
+- [macro] High-Wage W-2 Earners: The Tax Advantages (and Hidden Work Costs) of Franchise Ownership (Yahoo Finance)
+- [macro] SPAR sees first-half earnings fall as UK divestment moves ahead (Yahoo Finance)
+- [macro] These 8 'financial fixes' can save you money in an hour or less (Yahoo Finance)
+- [macro] Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning (Yahoo Finance)
+- [macro] BofA Trims Conagra Brands, Inc. (CAG)’s Price Target To $13, Keeps Underperform Rating (Yahoo Finance)
