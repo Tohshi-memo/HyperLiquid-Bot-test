@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T11:45:20.510228+00:00`
+- Generated: `2026-06-01T11:50:21.936276+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `32328026.72`
-- Polymarket volume z-score: `-0.73`
+- Polymarket 24h volume: `32685660.26`
+- Polymarket volume z-score: `-0.69`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6421165.286982001` | liquidity: `1578116.51456`
-- Roland Garros ATP: Flavio Cobolli vs Zachary Svajda | 24h volume: `1680330.0626410043` | liquidity: `131152.79373`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1581945.71` | liquidity: `3488122.45725`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1426126.2490399983` | liquidity: `637753.6841`
-- US x Cuba diplomatic meeting by May 31? | 24h volume: `1407094.048953` | liquidity: `2094228.59376`
-- LoL: Anyone's Legend vs Team WE (BO5) - LPL Playoffs | 24h volume: `1302117.3405720012` | liquidity: `63710.1852`
-- Strait of Hormuz traffic returns to normal by end of May? | 24h volume: `1088683.5956320025` | liquidity: `852555.65191`
-- MicroStrategy sells any Bitcoin by June 30, 2026? | 24h volume: `1079269.8546179996` | liquidity: `212539.57463`
+- US x Iran permanent peace deal by May 31, 2026? | 24h volume: `6420476.470873001` | liquidity: `1566881.5697`
+- Roland Garros ATP: Flavio Cobolli vs Zachary Svajda | 24h volume: `1729840.9541890046` | liquidity: `142159.86178`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1628932.38` | liquidity: `3387233.66703`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1426685.7794559982` | liquidity: `647259.6197`
+- US x Cuba diplomatic meeting by May 31? | 24h volume: `1406609.4237699998` | liquidity: `2094226.56382`
+- LoL: Anyone's Legend vs Team WE (BO5) - LPL Playoffs | 24h volume: `1390895.5011870007` | liquidity: `335912.3307`
+- Roland Garros WTA: Anastasia Potapova vs Anna Kalinskaya | 24h volume: `1140559.2767829983` | liquidity: `70259.4002`
+- MicroStrategy sells any Bitcoin by June 30, 2026? | 24h volume: `1086723.2502369997` | liquidity: `210240.38955`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
