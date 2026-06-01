@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T23:46:53.991750+00:00`
-- Market context score: `45.99`
-- News risk score: `43.27`
-- Macro risk score: `39.98`
-- Risk-on score: `31.62`
-- Articles: `50`
+- Generated: `2026-06-01T23:52:20.233992+00:00`
+- Market context score: `46.28`
+- News risk score: `43.4`
+- Macro risk score: `40.07`
+- Risk-on score: `32.4`
+- Articles: `49`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `27`, risk hits `6`, risk headline rate `0.1852`, policy hits `10`
+- crypto: articles `26`, risk hits `6`, risk headline rate `0.1923`, policy hits `10`
 - macro: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
 
 ## Headlines
 
+- [macro] Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel (BBC News)
 - [macro] How 'confused' AI rollout hurts firms and baffles staff (BBC News)
 - [crypto] Bitcoin bulls eye fresh positions after BTC price drops under $71K (Cointelegraph.com News)
 - [crypto] Dogecoin gains Paxos support in push for broader institutional adoption (Cointelegraph.com News)
 - [macro] Bowen: Trump needs this war to end but Iran is not backing down (BBC News)
 - [macro] Two possible Ebola cases in Brazil ruled out as patients test negative (BBC News)
 - [crypto] Debate on CLARITY Act continues this week as US Senate returns (Cointelegraph.com News)
-- [macro] Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel (BBC News)
 - [crypto] Crypto investment firm Keyrock is acquiring bankrupt lender Blockfills (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin volatility is down 56% but analysts still expect up to 20% BTC price move (Cointelegraph.com News)
 - [commodity] Trump tells CNBC: 'I don't care' if Iran negotiations are over (Energy)
