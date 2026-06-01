@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T10:37:26.962318+00:00`
-- Market context score: `41.26`
-- News risk score: `51.33`
-- Macro risk score: `28.65`
-- Risk-on score: `23.63`
-- Articles: `69`
+- Generated: `2026-06-01T10:52:19.533016+00:00`
+- Market context score: `41.56`
+- News risk score: `51.44`
+- Macro risk score: `30.15`
+- Risk-on score: `24.96`
+- Articles: `70`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2288`
-- Day/swing latest: `2026-06-01T10:30:00+00:00`
+- Day/swing records: `2289`
+- Day/swing latest: `2026-06-01T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `0`
-- macro: articles `49`, risk hits `13`, risk headline rate `0.2245`, policy hits `11`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `1`
+- macro: articles `49`, risk hits `15`, risk headline rate `0.2449`, policy hits `11`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Strategy holds STRC dividend at 11.5% for fourth straight month (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices climb over 3% as U.S.-Iran talks at impasse, Israel expands Lebanon offensive (Energy)
 - [macro] China’s SAIC to sell 10% more equity in JSW MG Motor – report (Yahoo Finance)
+- [macro] Want Passive Income You Can Bank On? Buy This Elite 5.1%-Yielding Dividend Stock And Never Look Back. (Yahoo Finance)
 - [macro] SpaceX IPO could hit popular index funds — and your 401(k) — in as little as 5 trading days as indexes relax their rules (Yahoo Finance)
 - [macro] SpaceX vs. Rocket Lab: Which Space Stock Has More Room to Run? (Yahoo Finance)
 - [macro] Berkshire Hathaway Has First Takeover by CEO Abel, Paying $8.5 Billion for a Homebuilder (Yahoo Finance)
 - [macro] Is XRP a Buy if It Drops Below $1? (Yahoo Finance)
-- [macro] You Can Now Trade 8,000 US Stocks on Binance Using Your Stablecoins (Yahoo Finance)
 - [crypto] Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin and software stocks are breaking up — and history says a major crypto move is coming (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] France seized sanctioned Russian oil tanker with UK help, Macron says (BBC News)
