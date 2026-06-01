@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T08:07:22.472014+00:00`
-- Market context score: `36.19`
-- News risk score: `49.44`
-- Macro risk score: `35.9`
-- Risk-on score: `13.51`
-- Articles: `36`
+- Generated: `2026-06-01T08:22:19.149397+00:00`
+- Market context score: `35.36`
+- News risk score: `50.24`
+- Macro risk score: `37.51`
+- Risk-on score: `12.95`
+- Articles: `37`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2278`
-- Day/swing latest: `2026-06-01T08:00:00+00:00`
+- Day/swing records: `2279`
+- Day/swing latest: `2026-06-01T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `1`
-- macro: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `1`
+- macro: articles `21`, risk hits `9`, risk headline rate `0.381`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Oil climbs over 3% as U.S. and Iran exchange strikes, Israel expands Lebanon offensive (Energy)
 - [crypto] NYDIG suggests $1.3B IBIT sale was whale exiting directional trade (Cointelegraph.com News)
 - [crypto] Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Marilyn Monroe lookalikes gather to celebrate her 100th birthday (BBC News)
 - [crypto] Cardano Foundation cancels annual conference after failed funding vote (Cointelegraph.com News)
 - [macro] Huge blast kills dozens in rebel-held village in Myanmar (BBC News)
-- [macro] Nvidia announces new AI chip for personal computers (BBC News)
