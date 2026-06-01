@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-01T07:52:23.993037+00:00`
-- Market context score: `37.27`
-- News risk score: `49.86`
-- Macro risk score: `36.6`
-- Risk-on score: `16.54`
+- Generated: `2026-06-01T08:07:22.472014+00:00`
+- Market context score: `36.19`
+- News risk score: `49.44`
+- Macro risk score: `35.9`
+- Risk-on score: `13.51`
 - Articles: `36`
 - Polymarket markets: `398`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2277`
-- Day/swing latest: `2026-06-01T07:45:00+00:00`
+- Day/swing records: `2278`
+- Day/swing latest: `2026-06-01T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `2`
+- crypto: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `1`
 - macro: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] NYDIG suggests $1.3B IBIT sale was whale exiting directional trade (Cointelegraph.com News)
 - [crypto] Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Sui Foundation says ‘major upgrade’ fixed bugs behind three outages (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Cardano Foundation cancels annual conference after failed funding vote (Cointelegraph.com News)
 - [macro] Huge blast kills dozens in rebel-held village in Myanmar (BBC News)
 - [macro] Nvidia announces new AI chip for personal computers (BBC News)
-- [crypto] XRP drops to $1.32 as sellers overpower exchange outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
