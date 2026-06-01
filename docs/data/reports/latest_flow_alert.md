@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T16:15:29.922997+00:00`
-- Flow alert score: `19.36`
+- Generated: `2026-06-01T16:20:37.565784+00:00`
+- Flow alert score: `19.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `42823488.61`
-- Polymarket volume z-score: `0.59`
+- Polymarket 24h volume: `43538027.18`
+- Polymarket volume z-score: `0.68`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `12896323.736845054` | liquidity: `384108.53415`
-- Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini | 24h volume: `2130881.986783002` | liquidity: `134595.7385`
-- Roland Garros ATP: Flavio Cobolli vs Zachary Svajda | 24h volume: `2025343.480138006` | liquidity: `860043.36107`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1968134.9917259994` | liquidity: `591272.3557`
-- Roland Garros WTA: Anastasia Potapova vs Anna Kalinskaya | 24h volume: `1911254.058365` | liquidity: `750437.66265`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1883039.42` | liquidity: `3355448.0573`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `12975912.71332205` | liquidity: `388259.64933`
+- Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini | 24h volume: `2157110.613814003` | liquidity: `96002.9083`
+- Roland Garros ATP: Flavio Cobolli vs Zachary Svajda | 24h volume: `2025391.430138006` | liquidity: `835923.93464`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1995345.0179309999` | liquidity: `574939.3041`
+- Roland Garros WTA: Anastasia Potapova vs Anna Kalinskaya | 24h volume: `1911381.4583649999` | liquidity: `749875.82505`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1907539.42` | liquidity: `3332556.0523`
 - US x Cuba diplomatic meeting by May 31? | 24h volume: `1456743.7005949996` | liquidity: `2081342.50369`
-- Roland Garros WTA: Maja Chwalinska vs Diane Parry | 24h volume: `1334286.2237710017` | liquidity: `327139.8029`
+- Roland Garros WTA: Maja Chwalinska vs Diane Parry | 24h volume: `1341454.3837710016` | liquidity: `320520.84368`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
