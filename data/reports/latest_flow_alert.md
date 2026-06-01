@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T23:10:22.387158+00:00`
+- Generated: `2026-06-01T23:15:22.169341+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `93512011.02`
-- Polymarket volume z-score: `5.2`
+- Polymarket 24h volume: `94149871.49`
+- Polymarket volume z-score: `5.22`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `64804987.247060426` | liquidity: `3747260.44988`
-- Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi | 24h volume: `7169309.739679978` | liquidity: `324699.1517`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2627946.0134889996` | liquidity: `435932.702`
-- Roland Garros WTA: Aryna Sabalenka vs Naomi Osaka | 24h volume: `1955238.7973010011` | liquidity: `952307.13381`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1932797.89` | liquidity: `3703251.54392`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1077822.8884770004` | liquidity: `362025.4737`
-- Will the Iranian regime fall by June 30? | 24h volume: `813967.315237` | liquidity: `393250.49221`
-- US x Cuba diplomatic meeting by May 31? | 24h volume: `806390.873991` | liquidity: `954627.28143`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `65025743.06958942` | liquidity: `3728009.84504`
+- Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi | 24h volume: `7378747.71438898` | liquidity: `1169788.6021`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2616798.200188999` | liquidity: `443808.556`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `2082792.89` | liquidity: `3533441.48398`
+- Roland Garros WTA: Aryna Sabalenka vs Naomi Osaka | 24h volume: `1955191.9773010013` | liquidity: `952288.92014`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1077646.0072990004` | liquidity: `394848.3347`
+- Will the Iranian regime fall by June 30? | 24h volume: `805486.200164` | liquidity: `395765.52278`
+- US x Cuba diplomatic meeting by May 31? | 24h volume: `799489.733991` | liquidity: `954627.28143`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
