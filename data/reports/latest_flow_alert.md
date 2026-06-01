@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T19:25:24.134284+00:00`
+- Generated: `2026-06-01T19:30:24.840412+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `68901734.74`
-- Polymarket volume z-score: `3.67`
+- Polymarket 24h volume: `69341664.11`
+- Polymarket volume z-score: `3.71`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `37830920.89488909` | liquidity: `12936376.45555`
-- Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi | 24h volume: `3996548.857523005` | liquidity: `93238.646`
-- Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini | 24h volume: `2991525.0549690006` | liquidity: `579542.28128`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2475953.690842` | liquidity: `418022.2985`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `2133403.83` | liquidity: `5373042.11304`
-- Roland Garros WTA: Aryna Sabalenka vs Naomi Osaka | 24h volume: `1450003.1664080003` | liquidity: `112438.1682`
-- Roland Garros ATP: Felix Auger-Aliassime vs Alejandro Tabilo | 24h volume: `1202247.8323869996` | liquidity: `671085.71061`
-- US x Cuba diplomatic meeting by May 31? | 24h volume: `1088509.1269760001` | liquidity: `1360012.62983`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `38158396.32109008` | liquidity: `14782769.2586`
+- Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi | 24h volume: `4033422.297173007` | liquidity: `86179.4019`
+- Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini | 24h volume: `2991736.754969001` | liquidity: `894508.5347`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2473902.206919` | liquidity: `335640.316`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `2133403.83` | liquidity: `5372865.95937`
+- Roland Garros WTA: Aryna Sabalenka vs Naomi Osaka | 24h volume: `1534924.1362519998` | liquidity: `120937.6701`
+- Roland Garros ATP: Felix Auger-Aliassime vs Alejandro Tabilo | 24h volume: `1202534.7523869995` | liquidity: `670769.10753`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1048498.3946170006` | liquidity: `291605.9033`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
