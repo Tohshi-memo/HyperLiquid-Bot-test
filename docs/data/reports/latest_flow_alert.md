@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-01T16:45:27.213764+00:00`
-- Flow alert score: `19.04`
+- Generated: `2026-06-01T16:50:24.758589+00:00`
+- Flow alert score: `18.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `42199054.64`
-- Polymarket volume z-score: `0.51`
+- Polymarket 24h volume: `40627429.19`
+- Polymarket volume z-score: `0.31`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `13007015.501868047` | liquidity: `378958.55827`
-- Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini | 24h volume: `2377329.371284003` | liquidity: `97731.8042`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2033208.137131` | liquidity: `606760.0037`
-- Roland Garros ATP: Flavio Cobolli vs Zachary Svajda | 24h volume: `2025386.569524006` | liquidity: `823594.19672`
-- Will the Iran ceasefire continue through May 24? | 24h volume: `1897539.42` | liquidity: `3332759.30089`
-- US x Cuba diplomatic meeting by May 31? | 24h volume: `1455603.9487719997` | liquidity: `2050949.69869`
-- Roland Garros WTA: Maja Chwalinska vs Diane Parry | 24h volume: `1341527.9232600017` | liquidity: `728838.78521`
-- Will Abelardo de la Espriella win the 1st round of the 2026 Colombian presidential election? | 24h volume: `1033996.1525729998` | liquidity: `84007.12633`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `13232105.090202061` | liquidity: `318703.37016`
+- Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini | 24h volume: `2405783.2697830037` | liquidity: `106354.9419`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2040176.3102559994` | liquidity: `542215.1406`
+- Will the Iran ceasefire continue through May 24? | 24h volume: `1913539.42` | liquidity: `3316736.37066`
+- US x Cuba diplomatic meeting by May 31? | 24h volume: `1453089.051113` | liquidity: `2051749.69869`
+- Roland Garros WTA: Maja Chwalinska vs Diane Parry | 24h volume: `1341607.0632600016` | liquidity: `627886.95435`
+- Will Abelardo de la Espriella win the 1st round of the 2026 Colombian presidential election? | 24h volume: `1032168.7026969997` | liquidity: `85676.02781`
+- Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi | 24h volume: `1031254.7489980008` | liquidity: `379809.2248`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
