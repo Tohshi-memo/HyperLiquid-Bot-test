@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T15:39:03.367146+00:00`
+- Generated: `2026-06-02T15:40:41.591504+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `170126332.77`
-- Polymarket volume z-score: `4.22`
+- Polymarket 24h volume: `170034769.34`
+- Polymarket volume z-score: `4.2`
 
 ## Top Polymarket Markets
 
@@ -17,9 +17,9 @@
 - Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `7758239.908436984` | liquidity: `919954.22232`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3541680.2509189975` | liquidity: `510786.5466`
 - LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `2164793.592562997` | liquidity: `729684.08295`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1691813.8458439999` | liquidity: `400687.5276`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1663199.9824079997` | liquidity: `394501.4783`
 - Counter-Strike: BIG vs Liquid (BO1) - IEM Cologne Major Stage 1 | 24h volume: `937789.1300280014` | liquidity: `844229.94544`
-- Counter-Strike: GamerLegion vs NRG (BO1) - IEM Cologne Major Stage 1 | 24h volume: `918453.8154599989` | liquidity: `391965.34409`
-- Will the Iranian regime fall by June 30? | 24h volume: `869030.0409299996` | liquidity: `468359.89008`
+- Counter-Strike: GamerLegion vs NRG (BO1) - IEM Cologne Major Stage 1 | 24h volume: `919410.212478999` | liquidity: `223870.90691`
+- Will the Iranian regime fall by June 30? | 24h volume: `859041.6711599997` | liquidity: `468559.9871`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
