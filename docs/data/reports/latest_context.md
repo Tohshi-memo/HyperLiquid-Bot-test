@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T15:48:27.207825+00:00`
-- Market context score: `57.43`
-- News risk score: `38.5`
-- Macro risk score: `23.11`
-- Risk-on score: `46.64`
-- Articles: `97`
+- Generated: `2026-06-02T15:52:22.831347+00:00`
+- Market context score: `54.08`
+- News risk score: `39.14`
+- Macro risk score: `24.37`
+- Risk-on score: `40.2`
+- Articles: `96`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - crypto: articles `41`, risk hits `6`, risk headline rate `0.1463`, policy hits `7`
-- macro: articles `55`, risk hits `9`, risk headline rate `0.1273`, policy hits `13`
+- macro: articles `54`, risk hits `10`, risk headline rate `0.1481`, policy hits `12`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Polestar expands into Baltic region with launch in Estonia, Latvia and Lithuania (Yahoo Finance)
+- [macro] Only One Man Can Kill the AI Boom: Fed Chair Kevin Warsh (Yahoo Finance)
 - [macro] Job openings in April surged to 7.6 million, the highest in nearly two years (Economy)
+- [macro] Oppenheimer sends clear message on Broadcom ahead of earnings (Yahoo Finance)
 - [crypto] Here's how one decentralized cloud provider says private citizens can make money from AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bitcoin Traders Flip Bearish as BTC Falls to Lowest Price in Months (Yahoo Finance)
+- [macro] $2.1 trillion sits in 31.9 million forgotten 401(k) accounts — yours could be one of them (Yahoo Finance)
 - [macro] Donaldson (DCI) Q3 2026 Earnings Transcript (Yahoo Finance)
 - [macro] Tariff-Driven Inflation Is Trapping Mortgage Rates, and the Fed Can’t Fix It with Rate Cuts (Yahoo Finance)
-- [crypto] Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Buy, Hold, or Sell: Apple Over $300? (Yahoo Finance)
-- [macro] The Pension Maximization Strategy a 64-Year-Old Federal Employee Used Instead of Taking the Joint-and-Survivor Option (Yahoo Finance)
-- [macro] The Coca-Cola Company readies listing of India bottler (Yahoo Finance)
-- [macro] Canada formally requests renewal of North American free trade pact (BBC News)
-- [macro] He dropped out of high school to work construction for $8/hour — now 22, he's making $200,000 a year (Yahoo Finance)
+- [macro] Wise Shares Sink as Europe Probes €500 Million in Suspicious Transfers (Yahoo Finance)
