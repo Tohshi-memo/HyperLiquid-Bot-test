@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T11:52:23.133619+00:00`
-- Market context score: `53.92`
-- News risk score: `40.22`
-- Macro risk score: `26.21`
-- Risk-on score: `41.47`
-- Articles: `69`
+- Generated: `2026-06-02T12:07:22.047209+00:00`
+- Market context score: `55.44`
+- News risk score: `38.33`
+- Macro risk score: `24.43`
+- Risk-on score: `42.58`
+- Articles: `68`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2387`
-- Day/swing latest: `2026-06-02T11:45:00+00:00`
+- Day/swing records: `2388`
+- Day/swing latest: `2026-06-02T12:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `4`
-- macro: articles `51`, risk hits `11`, risk headline rate `0.1765`, policy hits `12`
+- crypto: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `5`
+- macro: articles `48`, risk hits `9`, risk headline rate `0.1458`, policy hits `10`
 
 ## Headlines
 
-- [crypto] Ripple’s dollar stablecoin expands to Turkey through three local platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Instagram AI chatbot tricked by hackers to give access to others' accounts (BBC News)
-- [macro] My mom is on Social Security and needs assisted living, but can’t afford any non-Medicaid options. What else can we do? (Yahoo Finance)
-- [macro] Dollar in tight range as traders eye Middle East, US data (Yahoo Finance)
-- [macro] State Street's Health Care ETF Tops Invesco's on Yield and Returns (Yahoo Finance)
+- [crypto] Tom Lee calls Strategy's bitcoin sale classic bottom behavior (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people (BBC News)
-- [macro] Mondi upgrades corrugated solutions plants in Germany (Yahoo Finance)
-- [macro] Cara Delevingne says new music was inspired by getting sober (BBC News)
-- [macro] How Starship Flight 12 Will Help Make the SpaceX IPO a Smashing Success (Yahoo Finance)
-- [macro] Jensen Huang calls Marvell next trillion-dollar company (Yahoo Finance)
+- [crypto] Symbiotic aims to make tokenized assets easier to cash out with new liquidity network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] When AI shapes the advice, who answers for it? (Yahoo Finance)
+- [crypto] Ripple’s dollar stablecoin expands to Turkey through three local platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Scripbox buys Bluechip Capital mutual fund arm in India (Yahoo Finance)
+- [macro] Alphabet raises $80 billion in stock to fund AI infrastructure (Yahoo Finance)
+- [macro] Developers win deals for $3.5bn of Mecca projects (Yahoo Finance)
+- [macro] DBS to open 18 new wealth centres across Asia by end-2027 (Yahoo Finance)
+- [macro] Stocks rally on AI optimism; jitters over Iran simmer (Yahoo Finance)
