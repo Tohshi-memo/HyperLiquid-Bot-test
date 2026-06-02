@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T15:22:32.597176+00:00`
-- Market context score: `55.79`
-- News risk score: `39.13`
-- Macro risk score: `24.03`
-- Risk-on score: `43.87`
-- Articles: `97`
+- Generated: `2026-06-02T15:37:30.501138+00:00`
+- Market context score: `57.53`
+- News risk score: `38.39`
+- Macro risk score: `23.16`
+- Risk-on score: `46.79`
+- Articles: `99`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2401`
-- Day/swing latest: `2026-06-02T15:15:00+00:00`
+- Day/swing records: `2402`
+- Day/swing latest: `2026-06-02T15:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `40`, risk hits `6`, risk headline rate `0.15`, policy hits `8`
-- macro: articles `56`, risk hits `10`, risk headline rate `0.1429`, policy hits `8`
+- crypto: articles `42`, risk hits `6`, risk headline rate `0.1429`, policy hits `8`
+- macro: articles `56`, risk hits `8`, risk headline rate `0.125`, policy hits `9`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people (BBC News)
-- [macro] BYD posts first monthly sales growth in nine months (Yahoo Finance)
-- [macro] British couple lose Iran jail sentence appeal, family says (BBC News)
-- [macro] HCSG Q1 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Rambus Faces Downside Risk as Memory Chip Momentum Weakens (Yahoo Finance)
-- [macro] Brown Advisory Global Leaders Strategy Sold Intuit (INTU) on AI Substitution Concerns (Yahoo Finance)
-- [macro] Micron Just Surpassed $1.16 Trillion Valuation How Long Before It Tops Meta? (Yahoo Finance)
-- [macro] From Crisis to 459% Gain: Intel’s Epic Turnaround and What a $1k Investment Would Be Today (Yahoo Finance)
-- [macro] Nvidia Rises As Cathie Wood Favors AI Chip Stock; Is It A Buy Now? (Yahoo Finance)
+- [crypto] Here's how one decentralized cloud provider says private citizens can make money from AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Job openings in April surged to 7.6 million, the highest in nearly two years (Economy)
+- [crypto] Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] The Coca-Cola Company readies listing of India bottler (Yahoo Finance)
+- [macro] Canada formally requests renewal of North American free trade pact (BBC News)
+- [macro] He dropped out of high school to work construction for $8/hour — now 22, he's making $200,000 a year (Yahoo Finance)
+- [macro] AMD vs. Nvidia Stock: One Metric Tells Me Which Is Clearly the Better Buy (Yahoo Finance)
+- [macro] Three Free Cash Flow and Quality ETFs Quietly Beating Every Other Smart Beta Strategy in 2026 (Yahoo Finance)
+- [macro] I’m 31 with $58K debt and eyeing an $80K degree for a $20K raise. Should I go back to school? (Yahoo Finance)
+- [macro] Abivax Grounded as Cancer Cases Cast a Shadow Over Best-in-Class Trial Data (Yahoo Finance)
