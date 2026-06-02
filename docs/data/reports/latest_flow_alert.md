@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T22:50:19.791069+00:00`
+- Generated: `2026-06-02T22:55:21.156438+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `147194060.93`
-- Polymarket volume z-score: `2.54`
+- Polymarket 24h volume: `146967448.07`
+- Polymarket volume z-score: `2.53`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `127264570.53402117` | liquidity: `9381112.791`
-- Roland Garros ATP: Jakub Mensik vs Joao Fonseca | 24h volume: `3682723.647727002` | liquidity: `2514541.03572`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2640279.0396310007` | liquidity: `755462.7646`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `127041407.9746001` | liquidity: `9500334.60094`
+- Roland Garros ATP: Jakub Mensik vs Joao Fonseca | 24h volume: `3684913.6192450016` | liquidity: `2511332.90328`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2621520.0587700005` | liquidity: `754407.1949`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2500510.9465979994` | liquidity: `498485.8492`
-- Counter-Strike: BetBoom Team vs Liquid (BO1) - IEM Cologne Major Stage 1 | 24h volume: `832876.3233539998` | liquidity: `923247.1099`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `757482.9369999999` | liquidity: `2792299.57253`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `644088.933` | liquidity: `8126597.69197`
-- Will the Iranian regime fall by June 30? | 24h volume: `570371.4377029985` | liquidity: `488276.78123`
+- Counter-Strike: BetBoom Team vs Liquid (BO1) - IEM Cologne Major Stage 1 | 24h volume: `833004.3833539998` | liquidity: `923201.22371`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `757283.4679999999` | liquidity: `2792180.96451`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `644077.247` | liquidity: `8127397.84197`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `625043.0622749999` | liquidity: `793123.6214`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
