@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T15:52:22.831347+00:00`
-- Market context score: `54.08`
-- News risk score: `39.14`
-- Macro risk score: `24.37`
-- Risk-on score: `40.2`
-- Articles: `96`
+- Generated: `2026-06-02T16:07:33.702986+00:00`
+- Market context score: `54.23`
+- News risk score: `39.68`
+- Macro risk score: `24.04`
+- Risk-on score: `40.87`
+- Articles: `98`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2403`
-- Day/swing latest: `2026-06-02T15:45:00+00:00`
+- Day/swing records: `2404`
+- Day/swing latest: `2026-06-02T16:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `41`, risk hits `6`, risk headline rate `0.1463`, policy hits `7`
-- macro: articles `54`, risk hits `10`, risk headline rate `0.1481`, policy hits `12`
+- crypto: articles `43`, risk hits `7`, risk headline rate `0.1628`, policy hits `9`
+- macro: articles `54`, risk hits `9`, risk headline rate `0.1481`, policy hits `7`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] British couple lose Iran jail sentence appeal, family says (BBC News)
+- [crypto] Hyperliquid predicted 80% of oil move before traditional exchanges opened, says expert report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Two people shot dead amid Kenya protests against US Ebola quarantine centre plan (BBC News)
+- [macro] Virgin Galactic Stock Plummets 34%. Here’s Why. (Yahoo Finance)
+- [macro] Inside the Reasons Victoria’s Secret Stock Is Soaring Over 40% (Yahoo Finance)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Nvidia CEO Endorses Marvell As Next Trillion-Dollar Giant. Stock Jumps 29%. (Yahoo Finance)
 - [macro] Polestar expands into Baltic region with launch in Estonia, Latvia and Lithuania (Yahoo Finance)
-- [macro] Only One Man Can Kill the AI Boom: Fed Chair Kevin Warsh (Yahoo Finance)
-- [macro] Job openings in April surged to 7.6 million, the highest in nearly two years (Economy)
-- [macro] Oppenheimer sends clear message on Broadcom ahead of earnings (Yahoo Finance)
-- [crypto] Here's how one decentralized cloud provider says private citizens can make money from AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bitcoin Traders Flip Bearish as BTC Falls to Lowest Price in Months (Yahoo Finance)
-- [macro] $2.1 trillion sits in 31.9 million forgotten 401(k) accounts — yours could be one of them (Yahoo Finance)
-- [macro] Donaldson (DCI) Q3 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Tariff-Driven Inflation Is Trapping Mortgage Rates, and the Fed Can’t Fix It with Rate Cuts (Yahoo Finance)
-- [macro] Wise Shares Sink as Europe Probes €500 Million in Suspicious Transfers (Yahoo Finance)
+- [macro] Why Hewlett Packard Enterprise Stock Just Popped (Yahoo Finance)
+- [macro] Verra Mobility Stock Tumbles. It’s Searching for a New CEO After Contract Turmoil. (Yahoo Finance)
