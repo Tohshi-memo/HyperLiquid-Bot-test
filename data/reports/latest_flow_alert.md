@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T16:10:33.566313+00:00`
+- Generated: `2026-06-02T16:15:35.579297+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `177599400.54`
-- Polymarket volume z-score: `4.33`
+- Polymarket 24h volume: `177732061.73`
+- Polymarket volume z-score: `4.31`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `144012309.95959008` | liquidity: `14016649.62784`
-- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `7797659.060330983` | liquidity: `735265.80208`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3594712.0895799985` | liquidity: `569944.317`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `144684844.0725881` | liquidity: `13513555.23341`
+- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `7809111.146628984` | liquidity: `674291.12945`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3593400.999321998` | liquidity: `599422.0816`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2244715.015598` | liquidity: `342957.0597`
-- LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `2183140.2255889974` | liquidity: `682410.12945`
-- Counter-Strike: BIG vs Liquid (BO1) - IEM Cologne Major Stage 1 | 24h volume: `1091874.1783600016` | liquidity: `553103.61039`
-- Counter-Strike: GamerLegion vs NRG (BO1) - IEM Cologne Major Stage 1 | 24h volume: `974009.9278589989` | liquidity: `159828.37843`
-- Will the Iranian regime fall by June 30? | 24h volume: `836617.4063639992` | liquidity: `454824.99848`
+- LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `2185808.1917439974` | liquidity: `758687.46927`
+- Counter-Strike: BIG vs Liquid (BO1) - IEM Cologne Major Stage 1 | 24h volume: `1095297.9883600017` | liquidity: `572581.95793`
+- Will the Iranian regime fall by June 30? | 24h volume: `816524.0701069994` | liquidity: `455257.12401`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `772899.5459999999` | liquidity: `2837263.29239`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
