@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T00:35:20.367199+00:00`
+- Generated: `2026-06-02T00:40:28.652830+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `94300151.13`
-- Polymarket volume z-score: `4.69`
+- Polymarket 24h volume: `94144686.25`
+- Polymarket volume z-score: `4.65`
 
 ## Top Polymarket Markets
 
@@ -17,8 +17,8 @@
 - Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi | 24h volume: `7551505.887155983` | liquidity: `2055509.986`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2698005.367648999` | liquidity: `611829.8429`
 - Will the Iran ceasefire continue through May 24? | 24h volume: `2104461.5700000003` | liquidity: `3296692.51794`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1078630.8959120002` | liquidity: `331426.8596`
-- Will the Iranian regime fall by June 30? | 24h volume: `809097.427096` | liquidity: `405799.83869`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1088789.934732` | liquidity: `331886.3032`
+- Will the Iranian regime fall by June 30? | 24h volume: `809032.59084` | liquidity: `405974.5425`
 - Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `769724.8252560006` | liquidity: `247263.9595`
 - US x Iran permanent peace deal by June 30, 2026? | 24h volume: `587206.7832730002` | liquidity: `391389.6901`
 
