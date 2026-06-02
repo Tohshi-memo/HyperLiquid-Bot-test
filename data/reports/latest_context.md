@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T16:52:27.942367+00:00`
-- Market context score: `55.21`
-- News risk score: `38.23`
-- Macro risk score: `19.36`
-- Risk-on score: `40.07`
-- Articles: `97`
+- Generated: `2026-06-02T17:07:26.959959+00:00`
+- Market context score: `53.84`
+- News risk score: `38.72`
+- Macro risk score: `20.33`
+- Risk-on score: `37.79`
+- Articles: `98`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2407`
-- Day/swing latest: `2026-06-02T16:45:00+00:00`
+- Day/swing records: `2408`
+- Day/swing latest: `2026-06-02T17:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `43`, risk hits `8`, risk headline rate `0.186`, policy hits `8`
-- macro: articles `53`, risk hits `6`, risk headline rate `0.0943`, policy hits `0`
+- macro: articles `54`, risk hits `7`, risk headline rate `0.1111`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Xcel Energy (XEL) Benefits From Stable Growth and Favorable Regulation (Yahoo Finance)
-- [macro] Dyadic (DYAI) Q1 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] GCT (GCTS) Q1 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Kingsoft Cloud (KC) Q4 2025 Earnings Transcript (Yahoo Finance)
-- [macro] Why WEC Energy Group (WEC) Remains a Defensive Utility Play? (Yahoo Finance)
-- [macro] General Mills offloads Häagen-Dazs shops in China (Yahoo Finance)
-- [macro] Danish Crown to cut hundreds of jobs (Yahoo Finance)
-- [macro] Cognyte (CGNT) Q4 2026 Earnings Transcript (Yahoo Finance)
-- [macro] Why Investors Are Cautious on Abbott Laboratories (ABT) (Yahoo Finance)
-- [macro] Exclusive-SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say (Yahoo Finance)
+- [macro] Analyst Brings SpaceX Valuation Down To Earth (Yahoo Finance)
+- [macro] Neiman Marcus Downtown Dallas Flagship Closing (Yahoo Finance)
+- [macro] Resilience Foundation Announces Governance Token Plans (Yahoo Finance)
+- [macro] Why Intuitive Machines Stock Soared by Nearly 73% in May (Yahoo Finance)
+- [macro] Why Shake Shack Stock Is Sinking Today (Yahoo Finance)
+- [macro] Celcuity Crashes On Breast Cancer Disappointment. What Happened? (Yahoo Finance)
+- [macro] Need More MLP Income? This ETF Has You Covered. (Yahoo Finance)
+- [macro] Can Automatic Data Processing (ADP) Defy Wall Street’s AI Disruption Narrative? (Yahoo Finance)
+- [macro] Crypto Liquidations Top $1 Billion as Bitcoin’s Slide Deepens (Yahoo Finance)
+- [macro] Citi Trends, Inc. Q1 2026 Earnings Call Summary (Yahoo Finance)
