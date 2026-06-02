@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T22:52:21.649411+00:00`
-- Market context score: `51.92`
-- News risk score: `40.93`
-- Macro risk score: `25.61`
-- Risk-on score: `37.38`
-- Articles: `70`
+- Generated: `2026-06-02T23:07:20.845781+00:00`
+- Market context score: `48.59`
+- News risk score: `42.83`
+- Macro risk score: `27.12`
+- Risk-on score: `32.17`
+- Articles: `74`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2431`
-- Day/swing latest: `2026-06-02T22:45:00+00:00`
+- Day/swing records: `2432`
+- Day/swing latest: `2026-06-02T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `43`, risk hits `9`, risk headline rate `0.186`, policy hits `8`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `0`
+- crypto: articles `45`, risk hits `10`, risk headline rate `0.2`, policy hits `8`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Three quarters of workers not on track for 'moderate' pension income, report suggests (BBC News)
+- [macro] Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes (BBC News)
+- [crypto] UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] US lawmakers push back on Labor Department plans to include crypto in 401(k)s (Cointelegraph.com News)
+- [crypto] SEC makes digital assets strategic priority through 2030 (Cointelegraph.com News)
 - [commodity] Iran has mined 'large segments' of Hormuz Strait, Secretary of State Rubio says (Energy)
 - [macro] Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold (BBC News)
 - [crypto] U.S. sanctions Iranian crypto exchanges in ongoing war against the country (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US says it fired missile at Iran-bound oil tanker (BBC News)
 - [macro] Microsoft testing wearable AI gadget aimed at office workers (BBC News)
-- [crypto] Crypto correction vaporized $176B in investor funds: Are bears back in control? (Cointelegraph.com News)
-- [crypto] Crypto PACs pour $3M into Maryland races as California voters head to polls (Cointelegraph.com News)
-- [macro] Trump taps housing official Bill Pulte to be US spymaster (BBC News)
-- [crypto] Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Coinbase invests in ProShares ETF tailored for stablecoin reserve assets (Cointelegraph.com News)
