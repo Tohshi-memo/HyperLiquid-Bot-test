@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T11:40:48.807951+00:00`
-- Market context score: `58.5`
-- News risk score: `38.68`
-- Macro risk score: `22.74`
-- Risk-on score: `49.02`
-- Articles: `68`
+- Generated: `2026-06-02T11:52:23.133619+00:00`
+- Market context score: `53.92`
+- News risk score: `40.22`
+- Macro risk score: `26.21`
+- Risk-on score: `41.47`
+- Articles: `69`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2386`
-- Day/swing latest: `2026-06-02T11:30:00+00:00`
+- Day/swing records: `2387`
+- Day/swing latest: `2026-06-02T11:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `4`
-- macro: articles `51`, risk hits `8`, risk headline rate `0.1176`, policy hits `12`
+- crypto: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `4`
+- macro: articles `51`, risk hits `11`, risk headline rate `0.1765`, policy hits `12`
 
 ## Headlines
 
+- [crypto] Ripple’s dollar stablecoin expands to Turkey through three local platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Instagram AI chatbot tricked by hackers to give access to others' accounts (BBC News)
+- [macro] My mom is on Social Security and needs assisted living, but can’t afford any non-Medicaid options. What else can we do? (Yahoo Finance)
+- [macro] Dollar in tight range as traders eye Middle East, US data (Yahoo Finance)
+- [macro] State Street's Health Care ETF Tops Invesco's on Yield and Returns (Yahoo Finance)
 - [macro] Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people (BBC News)
 - [macro] Mondi upgrades corrugated solutions plants in Germany (Yahoo Finance)
 - [macro] Cara Delevingne says new music was inspired by getting sober (BBC News)
+- [macro] How Starship Flight 12 Will Help Make the SpaceX IPO a Smashing Success (Yahoo Finance)
 - [macro] Jensen Huang calls Marvell next trillion-dollar company (Yahoo Finance)
-- [macro] Top 5 Stocks That Will Profit From the Silicon Valley Defense Tech Surge (Yahoo Finance)
-- [macro] An Overlooked Income ETF Minted a Double While Selling Covered Calls on AMD’s Historic Run (Yahoo Finance)
-- [macro] HPE Q2 2026 earnings beat on AI server demand surge (Yahoo Finance)
-- [macro] SEC appoints four new members to investor advisory committee (Yahoo Finance)
-- [crypto] Bitcoin's slide may have more to do with AI than Strategy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Morning Bid: Equity supply shock? (Yahoo Finance)
