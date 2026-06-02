@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T12:37:22.800062+00:00`
-- Market context score: `55.83`
-- News risk score: `40.52`
-- Macro risk score: `22.95`
-- Risk-on score: `44.73`
-- Articles: `77`
+- Generated: `2026-06-02T12:52:28.351676+00:00`
+- Market context score: `52.55`
+- News risk score: `40.95`
+- Macro risk score: `24.4`
+- Risk-on score: `38.37`
+- Articles: `78`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2390`
-- Day/swing latest: `2026-06-02T12:30:00+00:00`
+- Day/swing records: `2391`
+- Day/swing latest: `2026-06-02T12:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `7`
-- macro: articles `51`, risk hits `7`, risk headline rate `0.1176`, policy hits `10`
+- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `7`
+- macro: articles `51`, risk hits `9`, risk headline rate `0.1373`, policy hits `11`
 
 ## Headlines
 
+- [macro] Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people (BBC News)
+- [macro] Rethinking communications surveillance in banking for 2026 (Yahoo Finance)
+- [macro] Safeguarding through insurance – how it works and what’s changing under the FCA’s 2026 Regime (Yahoo Finance)
+- [macro] Third of people say uni degree not worth it, as student loan inquiry begins (BBC News)
+- [macro] How Far Does $12,000 a Month in Retirement at Age 65 Go? (Yahoo Finance)
+- [crypto] Live markets: bitcoin's plunge continues, putting February $60,000 low back in play (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Fed's Hammack eyes tighter policy if inflation doesn't abate (Yahoo Finance)
+- [macro] This $8 Stock Could Be Your Ticket to Becoming a Millionaire (Yahoo Finance)
 - [crypto] Stellar CEO says Clarity Act would help, but tokenization isn't dependent on it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Strive adds 2,500 bitcoin to hit 19,000 BTC just a day after Strategy turns seller (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Gold prices today, Tuesday, June 2: Prices continue to hover in the $4,500 range (Yahoo Finance)
-- [macro] Buy Nvidia Stock, Sell Its Rival. How Cathie Wood’s ARK Is Playing the Chips Rally. (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls With U.S.-Iran Talks 'Continuing'; AI Name Marvell Tech Soars By 19% (Live Coverage) (Yahoo Finance)
-- [macro] Chinese-Saudi joint venture to build 18GWh battery storage plant (Yahoo Finance)
-- [macro] Broadcom Stock Gets a Double Boost From Google and Marvell (Yahoo Finance)
-- [macro] Dollar General Q1 2026 earnings beat, raises full-year EPS forecast (Yahoo Finance)
-- [crypto] Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Morning Minute: Saylor Sells Bitcoin for First Time Since 2022 (Yahoo Finance)
+- [macro] PJT Partners Insider Sale Is Noise — Deal Flow Is What to Watch (Yahoo Finance)
