@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T08:50:24.693758+00:00`
+- Generated: `2026-06-02T08:55:34.124934+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `130071405.66`
-- Polymarket volume z-score: `4.63`
+- Polymarket 24h volume: `132408901.88`
+- Polymarket volume z-score: `4.72`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `109543016.4240199` | liquidity: `12745587.27063`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2385345.4874950005` | liquidity: `766298.5399`
-- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `1963289.6425900012` | liquidity: `1084350.4687`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1127447.8281389996` | liquidity: `553960.0473`
-- Will the Iranian regime fall by June 30? | 24h volume: `827142.388253999` | liquidity: `383588.31095`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `804439.776` | liquidity: `2804560.22436`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `774336.120629` | liquidity: `292420.1301`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `663636.1079999999` | liquidity: `7839653.78623`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `111126430.81129396` | liquidity: `11373297.94749`
+- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `2515680.2222760017` | liquidity: `1030958.9817`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2500307.039814001` | liquidity: `602245.5229`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1127338.0023939996` | liquidity: `562935.9876`
+- Will the Iranian regime fall by June 30? | 24h volume: `829592.351423999` | liquidity: `412857.3225`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `806840.0539999999` | liquidity: `2802362.31696`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `774152.513965` | liquidity: `289540.863`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `640987.645` | liquidity: `7839362.66787`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
