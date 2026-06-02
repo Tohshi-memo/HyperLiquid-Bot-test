@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T19:37:27.728184+00:00`
+- Generated: `2026-06-02T19:52:31.931953+00:00`
 - Market context score: `51.17`
 - News risk score: `42.01`
 - Macro risk score: `25.25`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2418`
-- Day/swing latest: `2026-06-02T19:30:00+00:00`
+- Day/swing records: `2419`
+- Day/swing latest: `2026-06-02T19:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Canada formally requests 16-year renewal of North American free trade pact (BBC News)
+- [macro] White House Correspondents' Dinner rescheduled after shooting incident (BBC News)
 - [crypto] Galaxy enters institutional prediction markets with $10 million Arca trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Whole of Ukraine is in grief' after attacks, but life in Kyiv goes on (BBC News)
 - [macro] Two arrested after four migrant farm workers killed in Italy minivan fire (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Bitcoin set for 'choppy summer' as capital chases high-flying AI stocks, K33 says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin gets new $50K target after BTC price crashes 6% in a day (Cointelegraph.com News)
 - [macro] Analyst Report: Vertex Pharmaceuticals Inc (Yahoo Finance)
-- [macro] Analyst Report: Cboe Global Markets Inc (Yahoo Finance)
 - [macro] Analyst Report: Ashland Inc (Yahoo Finance)
