@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T11:30:22.622439+00:00`
+- Generated: `2026-06-02T11:35:24.066474+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `152074220.15`
-- Polymarket volume z-score: `4.76`
+- Polymarket 24h volume: `153719564.57`
+- Polymarket volume z-score: `4.8`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `126461482.42748752` | liquidity: `7478150.79494`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3306051.1605040007` | liquidity: `834907.0892`
-- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `3019470.9551599952` | liquidity: `878202.2588`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `127541081.41533649` | liquidity: `11184654.35984`
+- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `3417676.593694994` | liquidity: `633479.2134`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3308555.569308` | liquidity: `836774.2392`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1717961.848847` | liquidity: `472678.266`
-- Roland Garros WTA: Elina Svitolina vs Marta Kostyuk | 24h volume: `1022373.6954750014` | liquidity: `70295.0732`
+- Roland Garros WTA: Elina Svitolina vs Marta Kostyuk | 24h volume: `1070299.4760930014` | liquidity: `79866.4773`
 - Will the Iranian regime fall by June 30? | 24h volume: `896528.639922999` | liquidity: `406481.47648`
-- LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `864861.8868350005` | liquidity: `87180.9216`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `824991.2319999998` | liquidity: `2792679.27331`
+- LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `894166.6809360003` | liquidity: `92319.3121`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `824726.2759999998` | liquidity: `2806749.41857`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
