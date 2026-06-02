@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T19:22:28.137293+00:00`
+- Generated: `2026-06-02T19:34:45.224492+00:00`
 - Market context score: `51.17`
 - News risk score: `42.01`
 - Macro risk score: `25.25`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2417`
-- Day/swing latest: `2026-06-02T19:15:00+00:00`
+- Day/swing records: `2418`
+- Day/swing latest: `2026-06-02T19:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Canada formally requests 16-year renewal of North American free trade pact (BBC News)
 - [crypto] Galaxy enters institutional prediction markets with $10 million Arca trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Whole of Ukraine is in grief' after attacks, but life in Kyiv goes on (BBC News)
 - [macro] Two arrested after four migrant farm workers killed in Italy minivan fire (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Analyst Report: Vertex Pharmaceuticals Inc (Yahoo Finance)
 - [macro] Analyst Report: Cboe Global Markets Inc (Yahoo Finance)
 - [macro] Analyst Report: Ashland Inc (Yahoo Finance)
-- [macro] Mysteriously missing New Jersey congressman receives Trump endorsement (BBC News)
