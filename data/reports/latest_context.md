@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T14:52:30.971782+00:00`
-- Market context score: `52.4`
-- News risk score: `42.39`
-- Macro risk score: `29.22`
-- Risk-on score: `41.05`
-- Articles: `90`
-- Polymarket markets: `398`
+- Generated: `2026-06-02T15:07:28.005146+00:00`
+- Market context score: `55.52`
+- News risk score: `39.64`
+- Macro risk score: `24.8`
+- Risk-on score: `43.99`
+- Articles: `95`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,23 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2399`
-- Day/swing latest: `2026-06-02T14:45:00+00:00`
+- Day/swing records: `2400`
+- Day/swing latest: `2026-06-02T15:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `8`
-- macro: articles `54`, risk hits `14`, risk headline rate `0.2407`, policy hits `3`
+- crypto: articles `39`, risk hits `6`, risk headline rate `0.1538`, policy hits `8`
+- macro: articles `55`, risk hits `11`, risk headline rate `0.1636`, policy hits `4`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Georgia targets illegal crypto mining in Mestia crackdown: Report (Cointelegraph.com News)
+- [policy] Agencies remove additional references to reputation risk (FRB: Press Release - All Releases)
+- [macro] Hewlett Packard Enterprise shares surge on earnings beat, raised guidance (Yahoo Finance)
 - [macro] South Africa police investigate killing of two Mozambican men (BBC News)
-- [macro] Ryan to acquire Svalner Atlas Advisors to expand European reach (Yahoo Finance)
-- [macro] Impulse Space raises $500M Series D, valued at $4.26B (Yahoo Finance)
-- [macro] AbbVie Inc. (ABBV) Announces EC Authorization of Expanded Label for VENCLYXTO® (Yahoo Finance)
-- [macro] Is ZoomInfo Technologies Inc. (GTM) One of the Best Tech Stocks Under $5 to Buy? (Yahoo Finance)
-- [macro] Is Grab Holdings Limited (GRAB) One of the Best Tech Stocks Under $5 to Buy? (Yahoo Finance)
-- [macro] Toyota Motor Corporation’s (TM) Global Vehicle Sales Dropped for a Third Consecutive ‌Month in April, Reuters Reports (Yahoo Finance)
-- [macro] Barclays Lifts PT on Royal Bank of Canada (RY) Following Q1 Results (Yahoo Finance)
-- [macro] Barclays Lifts PT on The Toronto-Dominion Bank (TD) Following Q2 (Yahoo Finance)
-- [macro] T-Mobile US (TMUS) Announces Multi-Year Partnership With the United States Golf Association (USGA) (Yahoo Finance)
+- [macro] Brown Advisory Global Leaders Strategy Bets on Mercado Libre (MELI) (Yahoo Finance)
+- [macro] Wedbush Cuts PT on CI&T Inc. (CINT), Cites Slights Misses in Q1 (Yahoo Finance)
+- [macro] Marqeta, Inc. (MQ) Expands Portfolio of Account and Money Movement Tools into 30 Additional European Countries (Yahoo Finance)
+- [macro] SEALSQ Corp (LAES) Announces Further Strategic Investment in EeroQ (Yahoo Finance)
+- [macro] Here’s What Analysts Think About N-able, Inc. (NABL) (Yahoo Finance)
+- [macro] Here is What the Street is Saying About Blend Labs (BLND) Following Q1 (Yahoo Finance)
