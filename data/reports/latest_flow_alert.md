@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T11:25:20.352070+00:00`
+- Generated: `2026-06-02T11:30:22.622439+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `151205968.79`
-- Polymarket volume z-score: `4.75`
+- Polymarket 24h volume: `152074220.15`
+- Polymarket volume z-score: `4.76`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `125849368.50950254` | liquidity: `7636526.2808`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3310334.4597280007` | liquidity: `810451.4275`
-- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `2994372.731803996` | liquidity: `909381.7342`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1718861.448868` | liquidity: `477306.2159`
-- Roland Garros WTA: Elina Svitolina vs Marta Kostyuk | 24h volume: `998011.8592660011` | liquidity: `54261.9531`
-- Will the Iranian regime fall by June 30? | 24h volume: `894243.7282179991` | liquidity: `415773.79116`
-- LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `832488.8593390004` | liquidity: `86336.5299`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `807955.0719999999` | liquidity: `2800489.71025`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `126461482.42748752` | liquidity: `7478150.79494`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3306051.1605040007` | liquidity: `834907.0892`
+- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `3019470.9551599952` | liquidity: `878202.2588`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1717961.848847` | liquidity: `472678.266`
+- Roland Garros WTA: Elina Svitolina vs Marta Kostyuk | 24h volume: `1022373.6954750014` | liquidity: `70295.0732`
+- Will the Iranian regime fall by June 30? | 24h volume: `896528.639922999` | liquidity: `406481.47648`
+- LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `864861.8868350005` | liquidity: `87180.9216`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `824991.2319999998` | liquidity: `2792679.27331`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
