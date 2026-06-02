@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T03:22:19.875956+00:00`
+- Generated: `2026-06-02T03:37:21.825717+00:00`
 - Market context score: `46.68`
 - News risk score: `40.21`
 - Macro risk score: `31.74`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2353`
-- Day/swing latest: `2026-06-02T03:15:00+00:00`
+- Day/swing records: `2354`
+- Day/swing latest: `2026-06-02T03:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Massive overnight Russian strikes hit Ukraine killing at least five (BBC News)
+- [macro] Massive overnight Russian strikes hit Ukraine killing at least eight (BBC News)
 - [crypto] DeFi protocol Radiant to wind down after failing to recover from 2024 hack (Cointelegraph.com News)
 - [macro] Denmark's Mette Frederiksen to form government after months of negotiations (BBC News)
 - [macro] Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel (BBC News)
