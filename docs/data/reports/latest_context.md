@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T12:52:28.351676+00:00`
-- Market context score: `52.55`
-- News risk score: `40.95`
-- Macro risk score: `24.4`
-- Risk-on score: `38.37`
-- Articles: `78`
+- Generated: `2026-06-02T13:07:23.855171+00:00`
+- Market context score: `56.06`
+- News risk score: `39.91`
+- Macro risk score: `24.16`
+- Risk-on score: `45.19`
+- Articles: `84`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2391`
-- Day/swing latest: `2026-06-02T12:45:00+00:00`
+- Day/swing records: `2392`
+- Day/swing latest: `2026-06-02T13:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `7`
-- macro: articles `51`, risk hits `9`, risk headline rate `0.1373`, policy hits `11`
+- crypto: articles `30`, risk hits `5`, risk headline rate `0.1667`, policy hits `7`
+- macro: articles `54`, risk hits `10`, risk headline rate `0.1481`, policy hits `7`
 
 ## Headlines
 
+- [crypto] Movement pivots to stablecoin payments as the layer-2 boom loses momentum (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] EdgeX blames ‘external party’ for token crash as ZachXBT alleges insider manipulation (Cointelegraph.com News)
+- [macro] Silver prices today, Tuesday, June 2: Silver prices steady, but edging higher this morning (Yahoo Finance)
+- [macro] Should You Buy Nike Stock Before June 30? (Yahoo Finance)
+- [macro] Great News for Amazon Stock Investors! (Yahoo Finance)
 - [macro] Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people (BBC News)
+- [macro] HPE Stock Surges On Fiscal Q2 Earnings Beat, Raised Guidance, Fiscal 2027 Outlook (Yahoo Finance)
+- [macro] Smart Money Owns 87% of Starbucks. Should Retail Investors Follow? (Yahoo Finance)
+- [macro] Waiting for the SpaceX IPO? These 3 stocks under $50 could skyrocket much, much higher (and you can buy them now) (Yahoo Finance)
 - [macro] Rethinking communications surveillance in banking for 2026 (Yahoo Finance)
-- [macro] Safeguarding through insurance – how it works and what’s changing under the FCA’s 2026 Regime (Yahoo Finance)
-- [macro] Third of people say uni degree not worth it, as student loan inquiry begins (BBC News)
-- [macro] How Far Does $12,000 a Month in Retirement at Age 65 Go? (Yahoo Finance)
-- [crypto] Live markets: bitcoin's plunge continues, putting February $60,000 low back in play (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Fed's Hammack eyes tighter policy if inflation doesn't abate (Yahoo Finance)
-- [macro] This $8 Stock Could Be Your Ticket to Becoming a Millionaire (Yahoo Finance)
-- [crypto] Stellar CEO says Clarity Act would help, but tokenization isn't dependent on it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] PJT Partners Insider Sale Is Noise — Deal Flow Is What to Watch (Yahoo Finance)
