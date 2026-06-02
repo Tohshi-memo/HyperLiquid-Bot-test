@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-02T16:30:27.353000+00:00`
+- Generated: `2026-06-02T16:35:25.872197+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `179032852.29`
-- Polymarket volume z-score: `4.29`
+- Polymarket 24h volume: `178750704.81`
+- Polymarket volume z-score: `4.26`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `145982789.89771912` | liquidity: `13130329.19749`
-- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `7813620.865278984` | liquidity: `663788.73302`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3563293.2849809984` | liquidity: `632953.2256`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2685529.260581` | liquidity: `362932.1279`
-- LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs | 24h volume: `2184139.7639639974` | liquidity: `778241.64696`
-- Counter-Strike: BIG vs Liquid (BO1) - IEM Cologne Major Stage 1 | 24h volume: `1097817.659066002` | liquidity: `552239.5462`
-- Will the Iranian regime fall by June 30? | 24h volume: `816414.2151489994` | liquidity: `454003.76206`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `772407.0429999998` | liquidity: `2838160.07655`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `147499328.02696016` | liquidity: `13678235.40386`
+- Roland Garros ATP: Rafael Jodar vs Alexander Zverev | 24h volume: `7814525.6152789835` | liquidity: `693412.68687`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `3568635.059675998` | liquidity: `629929.2874`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2693912.002351` | liquidity: `371108.7234`
+- Counter-Strike: BIG vs Liquid (BO1) - IEM Cologne Major Stage 1 | 24h volume: `1101643.5190660018` | liquidity: `478885.38301`
+- Will the Iranian regime fall by June 30? | 24h volume: `801283.5695699998` | liquidity: `453357.79363`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `772476.9049999998` | liquidity: `2838054.28956`
+- Will the price of Bitcoin be above $68,000 on June 2? | 24h volume: `673100.3909989997` | liquidity: `201365.65575`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
