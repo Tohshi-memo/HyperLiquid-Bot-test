@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T08:52:25.355258+00:00`
-- Market context score: `60.19`
-- News risk score: `25.9`
-- Macro risk score: `21.42`
-- Risk-on score: `41.5`
-- Articles: `39`
+- Generated: `2026-06-02T09:07:27.172183+00:00`
+- Market context score: `61.08`
+- News risk score: `30.46`
+- Macro risk score: `20.53`
+- Risk-on score: `46.97`
+- Articles: `51`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2375`
-- Day/swing latest: `2026-06-02T08:45:00+00:00`
+- Day/swing records: `2376`
+- Day/swing latest: `2026-06-02T09:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `3`
-- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `3`
+- macro: articles `34`, risk hits `4`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
-- [macro] Border, peace, democracy: Myanmar president's India visit is closely watched (BBC News)
-- [macro] Watch: Explosion at fireworks factory in Malta (BBC News)
-- [macro] China goes after 'ghost kitchens' to rein in cut-throat food delivery apps (BBC News)
-- [macro] China goes after 'ghost kitchens' to rein in cut-throat food delivery apps (BBC News)
-- [macro] Massive Russian attack on cities across Ukraine kills at least 13 people (BBC News)
-- [macro] Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan (BBC News)
-- [macro] AI giant Anthropic plans to sell shares in US as valuation nears $1tn (BBC News)
-- [macro] AI giant Anthropic plans to sell shares in US as valuation nears $1tn (BBC News)
-- [crypto] Robinhood enters Canada after $180 million WonderFi acquisition (Cointelegraph.com News)
-- [crypto] Bitcoin's biggest ETF selloff yet hits $3.4 billion as AI stocks keep climbing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Massive Russian attack on cities across Ukraine kills at least 14 people (BBC News)
+- [macro] Collins Foods concludes acquisition of eight KFC stores in Germany (Yahoo Finance)
+- [macro] Deloitte UK picks Hayley McKelvey as first chief AI officer (Yahoo Finance)
+- [crypto] MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Jobs data live updates: Labor market appears to thaw as economists await new data (Yahoo Finance)
+- [crypto] Bitcoin price falls under $70K as crypto markets liquidate $800M (Cointelegraph.com News)
+- [macro] The Stock Market Will Drop Sharply If History Repeats. Warren Buffett Explains Why. (Yahoo Finance)
+- [macro] Markets Fall From Record Highs as Alphabet Reignites AI Spending Fears (Yahoo Finance)
+- [macro] Stellantis invests more than €1 billion in France (Yahoo Finance)
+- [macro] Marvell Stock Soars 24%. Why Nvidia CEO Says It Will Hit $1 Trillion. (Yahoo Finance)
