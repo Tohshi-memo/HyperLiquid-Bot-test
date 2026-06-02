@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T05:37:19.290317+00:00`
-- Market context score: `47.82`
-- News risk score: `40.3`
-- Macro risk score: `30.35`
-- Risk-on score: `29.54`
-- Articles: `37`
-- Polymarket markets: `396`
+- Generated: `2026-06-02T05:52:19.733357+00:00`
+- Market context score: `48.51`
+- News risk score: `39.6`
+- Macro risk score: `28.96`
+- Risk-on score: `29.96`
+- Articles: `39`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2362`
-- Day/swing latest: `2026-06-02T05:30:00+00:00`
+- Day/swing records: `2363`
+- Day/swing latest: `2026-06-02T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `5`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `0`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [crypto] Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum’s strength (Cointelegraph.com News)
 - [macro] Six people killed in Iowa domestic dispute, police say (BBC News)
 - [crypto] Strategy’s Bitcoin sale causes clash for $80M in Polymarket bets (Cointelegraph.com News)
+- [macro] London Tube strikes go ahead after talks fail (BBC News)
 - [macro] Missing lab worker found dead in New Mexico nearly a year after disappearing (BBC News)
-- [macro] Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal (BBC News)
