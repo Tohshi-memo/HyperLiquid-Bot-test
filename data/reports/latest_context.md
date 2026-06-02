@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T23:22:20.919709+00:00`
-- Market context score: `48.42`
-- News risk score: `43.08`
-- Macro risk score: `26.84`
-- Risk-on score: `31.89`
-- Articles: `72`
+- Generated: `2026-06-02T23:37:19.798539+00:00`
+- Market context score: `47.88`
+- News risk score: `43.87`
+- Macro risk score: `26.81`
+- Risk-on score: `31.35`
+- Articles: `73`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2433`
-- Day/swing latest: `2026-06-02T23:15:00+00:00`
+- Day/swing records: `2434`
+- Day/swing latest: `2026-06-02T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `43`, risk hits `10`, risk headline rate `0.2093`, policy hits `7`
+- crypto: articles `44`, risk hits `11`, risk headline rate `0.2273`, policy hits `7`
 - macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran has mined 'large segments' of Hormuz Strait, Secretary of State Rubio says (Energy)
 - [macro] Three quarters of workers not on track for 'moderate' pension income, report suggests (BBC News)
 - [macro] Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold (BBC News)
 - [crypto] U.S. sanctions Iranian crypto exchanges in ongoing war against the country (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US says it fired missile at Iran-bound oil tanker (BBC News)
-- [macro] Microsoft testing wearable AI gadget aimed at office workers (BBC News)
