@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T15:07:28.005146+00:00`
-- Market context score: `55.52`
-- News risk score: `39.64`
-- Macro risk score: `24.8`
-- Risk-on score: `43.99`
-- Articles: `95`
+- Generated: `2026-06-02T15:22:32.597176+00:00`
+- Market context score: `55.79`
+- News risk score: `39.13`
+- Macro risk score: `24.03`
+- Risk-on score: `43.87`
+- Articles: `97`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2400`
-- Day/swing latest: `2026-06-02T15:00:00+00:00`
+- Day/swing records: `2401`
+- Day/swing latest: `2026-06-02T15:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `39`, risk hits `6`, risk headline rate `0.1538`, policy hits `8`
-- macro: articles `55`, risk hits `11`, risk headline rate `0.1636`, policy hits `4`
+- crypto: articles `40`, risk hits `6`, risk headline rate `0.15`, policy hits `8`
+- macro: articles `56`, risk hits `10`, risk headline rate `0.1429`, policy hits `8`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Georgia targets illegal crypto mining in Mestia crackdown: Report (Cointelegraph.com News)
-- [policy] Agencies remove additional references to reputation risk (FRB: Press Release - All Releases)
-- [macro] Hewlett Packard Enterprise shares surge on earnings beat, raised guidance (Yahoo Finance)
-- [macro] South Africa police investigate killing of two Mozambican men (BBC News)
-- [macro] Brown Advisory Global Leaders Strategy Bets on Mercado Libre (MELI) (Yahoo Finance)
-- [macro] Wedbush Cuts PT on CI&T Inc. (CINT), Cites Slights Misses in Q1 (Yahoo Finance)
-- [macro] Marqeta, Inc. (MQ) Expands Portfolio of Account and Money Movement Tools into 30 Additional European Countries (Yahoo Finance)
-- [macro] SEALSQ Corp (LAES) Announces Further Strategic Investment in EeroQ (Yahoo Finance)
-- [macro] Here’s What Analysts Think About N-able, Inc. (NABL) (Yahoo Finance)
-- [macro] Here is What the Street is Saying About Blend Labs (BLND) Following Q1 (Yahoo Finance)
+- [crypto] Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people (BBC News)
+- [macro] BYD posts first monthly sales growth in nine months (Yahoo Finance)
+- [macro] British couple lose Iran jail sentence appeal, family says (BBC News)
+- [macro] HCSG Q1 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Rambus Faces Downside Risk as Memory Chip Momentum Weakens (Yahoo Finance)
+- [macro] Brown Advisory Global Leaders Strategy Sold Intuit (INTU) on AI Substitution Concerns (Yahoo Finance)
+- [macro] Micron Just Surpassed $1.16 Trillion Valuation How Long Before It Tops Meta? (Yahoo Finance)
+- [macro] From Crisis to 459% Gain: Intel’s Epic Turnaround and What a $1k Investment Would Be Today (Yahoo Finance)
+- [macro] Nvidia Rises As Cathie Wood Favors AI Chip Stock; Is It A Buy Now? (Yahoo Finance)
