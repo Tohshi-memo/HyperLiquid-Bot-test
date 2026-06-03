@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-03T11:05:23.659003+00:00`
+- Generated: `2026-06-03T11:10:25.310844+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `153090564.33`
-- Polymarket volume z-score: `2.04`
+- Polymarket 24h volume: `152727397.5`
+- Polymarket volume z-score: `2.03`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `129561146.00248873` | liquidity: `16390758.65362`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2405131.576554` | liquidity: `627318.4829`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2072118.9242160008` | liquidity: `612909.77291`
-- Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska | 24h volume: `2042891.597910998` | liquidity: `84014.8241`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `890993.6558440009` | liquidity: `1074342.901`
-- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `725939.4197679997` | liquidity: `123795.92514`
-- Will the Iranian regime fall by June 30? | 24h volume: `642213.2208149979` | liquidity: `448166.27395`
-- Roland Garros WTA: Aryna Sabalenka vs Diana Shnaider | 24h volume: `561322.7902919989` | liquidity: `77322.7163`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `129270490.15809168` | liquidity: `16844541.85973`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2404822.4373999997` | liquidity: `629441.6729`
+- Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska | 24h volume: `2115167.4419019977` | liquidity: `254440.0024`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2072323.8363230003` | liquidity: `610580.9778`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `890422.3666310009` | liquidity: `1101758.5593`
+- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `747737.5780929999` | liquidity: `114715.57167`
+- Will the Iranian regime fall by June 30? | 24h volume: `638518.145579997` | liquidity: `447110.75717`
+- Roland Garros WTA: Aryna Sabalenka vs Diana Shnaider | 24h volume: `563617.3398389987` | liquidity: `121176.1512`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
