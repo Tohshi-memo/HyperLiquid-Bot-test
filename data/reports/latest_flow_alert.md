@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-03T08:50:26.574253+00:00`
+- Generated: `2026-06-03T08:55:23.239702+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `151689792.85`
-- Polymarket volume z-score: `2.1`
+- Polymarket 24h volume: `151411099.21`
+- Polymarket volume z-score: `2.09`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `130701881.71781604` | liquidity: `20848433.02287`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2635209.9261659994` | liquidity: `718811.7403`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2491163.749004` | liquidity: `649473.028`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `845180.7304160006` | liquidity: `1122292.5078`
-- Will the Iranian regime fall by June 30? | 24h volume: `678078.4071189981` | liquidity: `466796.79368`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `552799.5169999998` | liquidity: `8379610.13919`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `540431.0600370001` | liquidity: `389840.86344`
-- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `509086.28453999996` | liquidity: `1762307.74312`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `130364703.08571398` | liquidity: `20982483.7884`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2538468.028001999` | liquidity: `715363.007`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2491213.2957329997` | liquidity: `650856.4967`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `834132.5913700003` | liquidity: `1124723.7301`
+- Will the Iranian regime fall by June 30? | 24h volume: `678418.670734998` | liquidity: `466231.28272`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `549991.3799999999` | liquidity: `8379885.83919`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `538897.2425370001` | liquidity: `391721.05354`
+- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `512613.33268299996` | liquidity: `1761490.88435`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
