@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T18:52:24.614247+00:00`
-- Market context score: `37.86`
-- News risk score: `49.97`
-- Macro risk score: `39.77`
-- Risk-on score: `19.13`
-- Articles: `68`
+- Generated: `2026-06-03T19:02:20.218735+00:00`
+- Market context score: `37.76`
+- News risk score: `50.0`
+- Macro risk score: `39.79`
+- Risk-on score: `18.94`
+- Articles: `67`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2510`
-- Day/swing latest: `2026-06-03T18:45:00+00:00`
+- Day/swing records: `2511`
+- Day/swing latest: `2026-06-03T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `41`, risk hits `12`, risk headline rate `0.2439`, policy hits `2`
+- crypto: articles `40`, risk hits `12`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `24`, risk hits `11`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
-- [macro] From butterflies to breast milk - Uber lists wild backseat discoveries (BBC News)
+- [macro] From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries (BBC News)
 - [crypto] New DeFi entrant widens field of crypto political campaign funds as elections loom (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin isn't crashing because of Saylor, it's losing the momentum trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border (BBC News)
