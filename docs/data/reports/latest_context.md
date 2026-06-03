@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T15:37:25.028136+00:00`
-- Market context score: `47.8`
-- News risk score: `46.0`
-- Macro risk score: `26.33`
-- Risk-on score: `32.78`
-- Articles: `90`
-- Polymarket markets: `396`
+- Generated: `2026-06-03T15:52:31.230372+00:00`
+- Market context score: `45.82`
+- News risk score: `47.94`
+- Macro risk score: `30.2`
+- Risk-on score: `31.49`
+- Articles: `89`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2497`
-- Day/swing latest: `2026-06-03T15:30:00+00:00`
+- Day/swing records: `2498`
+- Day/swing latest: `2026-06-03T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `39`, risk hits `14`, risk headline rate `0.2821`, policy hits `2`
-- macro: articles `47`, risk hits `9`, risk headline rate `0.1702`, policy hits `4`
+- macro: articles `46`, risk hits `13`, risk headline rate `0.2391`, policy hits `5`
 
 ## Headlines
 
+- [macro] Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions (Yahoo Finance)
+- [macro] Is UiPath Stock a Buy as Revenue Accelerates? (Yahoo Finance)
+- [macro] Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count (BBC News)
+- [macro] Stocks fall, oil prices nears $100 as Iran war escalates (Yahoo Finance)
 - [commodity] Oil prices rise after Netanyahu tells CNBC Israel and U.S. prepared to attack Iran again if necessary (Energy)
-- [macro] Should You Invest in This Popular ETF Before SpaceX's IPO on June 12? (Yahoo Finance)
-- [macro] Eight killed after drone hits bus in Russian-occupied part of Ukraine (BBC News)
-- [macro] Nvidia CEO Jensen Huang: AI Job Losses Are ‘Complete Nonsense,’ AI Driving Hiring Surge Instead (Yahoo Finance)
-- [macro] US announces new tariffs over forced labour concerns (BBC News)
-- [macro] US announces new tariffs over forced labour concerns (BBC News)
-- [macro] This Magnificent 7 Stock Is the Ultimate “Set-It-and-Forget-It” Buy (Yahoo Finance)
-- [macro] ServiceNow vs Palantir: Which Enterprise AI Stock Belongs in a Retirement Portfolio? (Yahoo Finance)
-- [macro] JP Morgan raises ASML estimates as chipmaker signals it can supply far more EUV tools than previously guided (Yahoo Finance)
-- [crypto] Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Palantir: How To Make Money When The Stock Is Choppy (Yahoo Finance)
+- [macro] Director Sells 20,000 Shares of Financial Services Provider, According to Latest SEC Filing (Yahoo Finance)
+- [macro] Stock Market Today: Dow Slumps Amid U.S.-Iran Strikes; IBM Dives (Live Coverage) (Yahoo Finance)
+- [macro] Energy ETFs: MLPX Delivers More Income, Lower Fees (Yahoo Finance)
+- [macro] GitLab shares fall on workforce reduction plan as Q1 results top estimates (Yahoo Finance)
