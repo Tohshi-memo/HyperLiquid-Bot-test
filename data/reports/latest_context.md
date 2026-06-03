@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T01:07:23.408971+00:00`
-- Market context score: `46.99`
-- News risk score: `43.26`
-- Macro risk score: `26.12`
-- Risk-on score: `28.61`
-- Articles: `59`
+- Generated: `2026-06-03T01:22:23.749081+00:00`
+- Market context score: `45.54`
+- News risk score: `44.57`
+- Macro risk score: `28.15`
+- Risk-on score: `27.25`
+- Articles: `57`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2440`
-- Day/swing latest: `2026-06-03T01:00:00+00:00`
+- Day/swing records: `2441`
+- Day/swing latest: `2026-06-03T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `34`, risk hits `11`, risk headline rate `0.2941`, policy hits `5`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `1`
+- crypto: articles `32`, risk hits `11`, risk headline rate `0.3125`, policy hits `4`
+- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] US says it launched 'self-defense' strikes on Iranian island (BBC News)
+- [macro] US launches 'self-defense' strikes on Iranian island and targets commercial oil tanker (BBC News)
 - [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
 - [commodity] Oil climbs as U.S.-Iran trade strikes while Trump says negotiations with Tehran underway (Energy)
 - [macro] Trump administration drops $1.8bn 'anti-weaponisation' fund (BBC News)
