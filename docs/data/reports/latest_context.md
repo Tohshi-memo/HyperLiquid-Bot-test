@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T21:07:32.761245+00:00`
-- Market context score: `41.03`
-- News risk score: `47.54`
-- Macro risk score: `37.76`
-- Risk-on score: `23.36`
-- Articles: `66`
+- Generated: `2026-06-03T21:22:25.789006+00:00`
+- Market context score: `42.37`
+- News risk score: `46.4`
+- Macro risk score: `37.77`
+- Risk-on score: `25.38`
+- Articles: `65`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2519`
-- Day/swing latest: `2026-06-03T21:00:00+00:00`
+- Day/swing records: `2520`
+- Day/swing latest: `2026-06-03T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `40`, risk hits `10`, risk headline rate `0.225`, policy hits `1`
+- crypto: articles `39`, risk hits `8`, risk headline rate `0.2051`, policy hits `1`
 - macro: articles `24`, risk hits `11`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
-- [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
 - [macro] Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border (BBC News)
+- [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
 - [crypto] Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Crazy' phone call between Trump and Netanyahu complicates Iran talks (BBC News)
 - [macro] One killed and dozens injured in Iranian drone strikes on Kuwait airport (BBC News)
