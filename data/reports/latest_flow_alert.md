@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-03T11:25:22.525487+00:00`
-- Flow alert score: `24.96`
+- Generated: `2026-06-03T11:30:27.752622+00:00`
+- Flow alert score: `24.92`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `151267804.99`
-- Polymarket volume z-score: `1.99`
+- Polymarket 24h volume: `150779878.91`
+- Polymarket volume z-score: `1.98`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `127796012.09655367` | liquidity: `16441203.28523`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2405060.290987` | liquidity: `661477.2694`
-- Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska | 24h volume: `2137800.0719019976` | liquidity: `977518.26686`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2086937.0806620005` | liquidity: `599721.5266`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `890775.628445001` | liquidity: `1100029.446`
-- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `758229.3230079998` | liquidity: `109636.82324`
-- Will the Iranian regime fall by June 30? | 24h volume: `638519.497524997` | liquidity: `447889.88577`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `591821.0879999999` | liquidity: `8383994.66776`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `126960490.66483766` | liquidity: `16164768.06758`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2405534.7367990003` | liquidity: `592193.1243`
+- Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska | 24h volume: `2252708.191901998` | liquidity: `858559.6231`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2085035.4481930006` | liquidity: `626539.23192`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `890631.3109850009` | liquidity: `1099709.6294`
+- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `772651.5852339998` | liquidity: `95323.93588`
+- Roland Garros ATP: Felix Auger-Aliassime vs Flavio Cobolli | 24h volume: `643397.8915509993` | liquidity: `516850.3007`
+- Will the Iranian regime fall by June 30? | 24h volume: `636436.5662169971` | liquidity: `438059.88435`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
