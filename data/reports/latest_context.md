@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T22:04:06.727454+00:00`
-- Market context score: `41.94`
-- News risk score: `46.67`
-- Macro risk score: `38.79`
-- Risk-on score: `25.05`
-- Articles: `64`
+- Generated: `2026-06-03T22:07:27.230113+00:00`
+- Market context score: `41.7`
+- News risk score: `47.1`
+- Macro risk score: `37.76`
+- Risk-on score: `24.47`
+- Articles: `66`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `39`, risk hits `8`, risk headline rate `0.2051`, policy hits `1`
-- macro: articles `23`, risk hits `11`, risk headline rate `0.3913`, policy hits `0`
+- crypto: articles `42`, risk hits `10`, risk headline rate `0.2143`, policy hits `2`
+- macro: articles `22`, risk hits `10`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Wyoming executive order to guide AI data center development (Cointelegraph.com News)
+- [crypto] US Treasury Secretary signals progress on Bitcoin reserve, CLARITY Act (Cointelegraph.com News)
+- [crypto] Revolut US bank plans stablecoins alongside FDIC-insured accounts: Report (Cointelegraph.com News)
 - [macro] Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border (BBC News)
+- [crypto] Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM (Cointelegraph.com News)
 - [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
 - [crypto] Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Crazy' phone call between Trump and Netanyahu complicates Iran talks (BBC News)
 - [macro] One killed and dozens injured in Iranian drone strikes on Kuwait airport (BBC News)
 - [crypto] Crypto PAC-supported candidates sweep US state primaries after media buys (Cointelegraph.com News)
-- [macro] From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries (BBC News)
-- [macro] The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back (BBC News)
-- [commodity] Oil prices rise after Netanyahu tells CNBC Israel and U.S. prepared to attack Iran again if necessary (Energy)
-- [crypto] New DeFi entrant widens field of crypto political campaign funds as elections loom (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
