@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-03T14:00:26.710516+00:00`
+- Generated: `2026-06-03T14:05:25.136592+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `159545788.04`
-- Polymarket volume z-score: `2.08`
+- Polymarket 24h volume: `160379239.21`
+- Polymarket volume z-score: `2.1`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `132222721.84714185` | liquidity: `13563858.45238`
-- Roland Garros ATP: Felix Auger-Aliassime vs Flavio Cobolli | 24h volume: `2333754.052807` | liquidity: `989662.2829`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2329716.3848739993` | liquidity: `540020.659`
-- Roland Garros WTA: Aryna Sabalenka vs Diana Shnaider | 24h volume: `1875710.877515` | liquidity: `1497686.40773`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1747832.0996910043` | liquidity: `588079.77401`
-- LoL: EDward Gaming vs Bilibili Gaming (BO5) - LPL Playoffs | 24h volume: `881413.9429790003` | liquidity: `589816.99733`
-- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `872742.8059749998` | liquidity: `83719.73835`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `837146.2624049998` | liquidity: `784196.6412`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `132689648.47589587` | liquidity: `13676045.8875`
+- Roland Garros ATP: Felix Auger-Aliassime vs Flavio Cobolli | 24h volume: `2367552.744956` | liquidity: `932198.2946`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2329372.1436049994` | liquidity: `533573.0128`
+- Roland Garros WTA: Aryna Sabalenka vs Diana Shnaider | 24h volume: `1893013.627515` | liquidity: `1491862.10716`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1773672.7276370046` | liquidity: `604321.11653`
+- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `884972.2648789994` | liquidity: `96239.72344`
+- LoL: EDward Gaming vs Bilibili Gaming (BO5) - LPL Playoffs | 24h volume: `879557.4946230002` | liquidity: `590698.00544`
+- Counter-Strike: THUNDER dOWNUNDER vs BIG (BO1) - IEM Cologne Major Stage 1 | 24h volume: `877073.647738998` | liquidity: `38058.8833`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
