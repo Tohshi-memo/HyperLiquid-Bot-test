@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T19:02:20.218735+00:00`
-- Market context score: `37.76`
-- News risk score: `50.0`
-- Macro risk score: `39.79`
-- Risk-on score: `18.94`
-- Articles: `67`
+- Generated: `2026-06-03T19:07:31.490825+00:00`
+- Market context score: `37.65`
+- News risk score: `50.05`
+- Macro risk score: `39.8`
+- Risk-on score: `18.75`
+- Articles: `66`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,13 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `40`, risk hits `12`, risk headline rate `0.25`, policy hits `2`
+- crypto: articles `39`, risk hits `12`, risk headline rate `0.2564`, policy hits `2`
 - macro: articles `24`, risk hits `11`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
+- [macro] The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back (BBC News)
+- [commodity] Oil prices rise after Netanyahu tells CNBC Israel and U.S. prepared to attack Iran again if necessary (Energy)
 - [macro] From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries (BBC News)
 - [crypto] New DeFi entrant widens field of crypto political campaign funds as elections loom (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin isn't crashing because of Saylor, it's losing the momentum trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] 69-year-old furniture store chain files for Chapter 11 bankruptcy (Yahoo Finance)
 - [crypto] Crypto Long & Short: What about the American consumer? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Four sentenced to death for killing worshippers at Catholic church in Nigeria (BBC News)
-- [crypto] Bitcoin copying 2022 'almost perfectly' as trader sees key support failing (Cointelegraph.com News)
-- [macro] Man shot dead by FBI after taking hostages at California bank (BBC News)
