@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T05:37:20.029758+00:00`
-- Market context score: `44.38`
-- News risk score: `45.0`
-- Macro risk score: `39.08`
-- Risk-on score: `29.17`
-- Articles: `48`
+- Generated: `2026-06-03T05:52:25.777538+00:00`
+- Market context score: `45.31`
+- News risk score: `44.05`
+- Macro risk score: `40.44`
+- Risk-on score: `30.95`
+- Articles: `49`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:72, fx:6, index:23, metal:18, unknown:420`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2458`
-- Day/swing latest: `2026-06-03T05:30:00+00:00`
+- Day/swing records: `2459`
+- Day/swing latest: `2026-06-03T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `3`
-- crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `1`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `2`
+- macro: articles `21`, risk hits `8`, risk headline rate `0.381`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin's 'fear gauge' surges nearly 20%, its biggest jump since Feb. 5 crash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Seven killed in drone attack on bus in Russia-controlled part of Ukraine (BBC News)
 - [commodity] Oil climbs as U.S., Iran trade strikes while Trump says negotiations with Tehran underway (Energy)
 - [commodity] Like Indonesia, India's central bank may hike rates to defend its currency (Energy)
 - [crypto] Bullish XRP signals are piling up. The price keeps falling. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Bullish crypto bets lose $1.6 billion as ETH, SOL, DOGE drop 9% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto turns ‘contrarian bet’ as AI stocks draw investor attention: Bitwise (Cointelegraph.com News)
 - [crypto] Bitcoin plunges below $66,000 as global stocks, AI trades hit fresh records (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] U.S. proposes fresh tariffs on 60 economies over forced labor trade practices (Economy)
-- [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
