@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T11:22:21.567690+00:00`
-- Market context score: `41.6`
-- News risk score: `50.75`
-- Macro risk score: `38.53`
-- Risk-on score: `27.64`
-- Articles: `68`
-- Polymarket markets: `396`
+- Generated: `2026-06-03T11:37:22.682612+00:00`
+- Market context score: `43.94`
+- News risk score: `48.02`
+- Macro risk score: `35.35`
+- Risk-on score: `29.32`
+- Articles: `69`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:72, fx:6, index:23, metal:18, unknown:420`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2481`
-- Day/swing latest: `2026-06-03T11:15:00+00:00`
+- Day/swing records: `2482`
+- Day/swing latest: `2026-06-03T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `26`, risk hits `10`, risk headline rate `0.2692`, policy hits `1`
-- macro: articles `39`, risk hits `17`, risk headline rate `0.359`, policy hits `14`
+- crypto: articles `25`, risk hits `9`, risk headline rate `0.24`, policy hits `1`
+- macro: articles `41`, risk hits `16`, risk headline rate `0.3171`, policy hits `11`
 
 ## Headlines
 
-- [crypto] Bitcoin momentum gauge hints at recovery. Experts remain cautious. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones (BBC News)
-- [macro] Seven killed after drone hits bus in Russia-controlled part of Ukraine (BBC News)
-- [macro] Legacy Minerals signs agreement with Aurelia Metals for Cobar Project (Yahoo Finance)
-- [macro] Gold prices today, Wednesday, June 3: Prices falling as Middle East tensions flare (Yahoo Finance)
-- [macro] Mohnish Pabrai Turned $1 Million Into $30 Million in Turkey While the Lira Collapsed 90%. His Strategy Could Work Again. (Yahoo Finance)
+- [macro] Americans' financial literacy sags to a new low (Yahoo Finance)
+- [macro] CIMA welcomes Skills England report, seeks rethink on Level 7 cuts (Yahoo Finance)
+- [macro] Nvidia Has Racked Up a Nearly $20 Billion Profit Over the Last 5 Months From an Unlikely Source (Yahoo Finance)
+- [macro] Macy's Q1 2026 earnings beat, raises full-year outlook (Yahoo Finance)
+- [macro] Silver prices today, Wednesday, June 3, 2026: Moving lower this morning as clashes continue (Yahoo Finance)
+- [macro] Lloyds, Halifax and Bank of Scotland app users report outage (BBC News)
 - [macro] Dow Jones Futures: Oil Prices Rise, Palo Alto Falls On Earnings; New Trump Tariffs Coming (Yahoo Finance)
-- [macro] Walmart launches new programme to boost supply chain efficiency (Yahoo Finance)
-- [macro] Black Rock Coffee Bar Touts 20% Growth Goals, 1,000-Store Ambition at Conference (Yahoo Finance)
-- [macro] Generac Joins Data Center Fracas; Soars On Generator Deal With AI Hyperscaler (Yahoo Finance)
+- [macro] The SpaceX IPO: 3 of the Biggest Risks to Consider (Yahoo Finance)
+- [crypto] Bitcoin momentum gauge hints at recovery. Experts remain cautious. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Willis Towers Watson buys digital asset insurance platform Redefind (Yahoo Finance)
