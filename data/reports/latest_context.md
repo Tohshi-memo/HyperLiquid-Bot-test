@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T12:22:21.772238+00:00`
-- Market context score: `46.7`
-- News risk score: `44.5`
-- Macro risk score: `33.59`
-- Risk-on score: `31.82`
-- Articles: `73`
+- Generated: `2026-06-03T12:37:25.502040+00:00`
+- Market context score: `49.96`
+- News risk score: `43.14`
+- Macro risk score: `31.49`
+- Risk-on score: `37.11`
+- Articles: `74`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:72, fx:6, index:23, metal:18, unknown:420`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2485`
-- Day/swing latest: `2026-06-03T12:15:00+00:00`
+- Day/swing records: `2486`
+- Day/swing latest: `2026-06-03T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `30`, risk hits `8`, risk headline rate `0.1667`, policy hits `1`
-- macro: articles `39`, risk hits `13`, risk headline rate `0.2821`, policy hits `8`
+- crypto: articles `31`, risk hits `8`, risk headline rate `0.1613`, policy hits `1`
+- macro: articles `39`, risk hits `11`, risk headline rate `0.2564`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Live markets: What's next as bitcoin re-tests February low for third time (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil climbs as U.S., Iran trade strikes while Trump says negotiations with Tehran underway (Energy)
+- [macro] The Tax Math That Makes These Dividend Stocks Worth $19,200 More Inside a Roth (Yahoo Finance)
+- [macro] A $1.1 Million Dividend Portfolio That Pays Like a Seasoned Realtor’s Annual Commissions Without the Showings (Yahoo Finance)
+- [macro] Holding This Vanguard Bond ETF Is a Bad Idea in 2026. Buy This Instead. (Yahoo Finance)
+- [macro] Why Apple’s Next iPhone Upgrade Could Be the End of Venmo (Yahoo Finance)
+- [macro] Bank of America Strategist Sees Dot-Com Comparisons: 5 Safe Buy-Rated Dividend Stocks They Love Now (Yahoo Finance)
 - [macro] Private payrolls grew by 122,000 in May, stronger than expected, ADP reports (Economy)
 - [macro] Eight killed after drone hits bus in Russia-controlled part of Ukraine (BBC News)
-- [macro] Lloyds, Halifax and Bank of Scotland app users hit by outage (BBC News)
-- [crypto] Bitcoin hits Power Law level low that historically precedes a rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] J.C. Flowers buys French banking arm of Monte Paschi (Yahoo Finance)
-- [crypto] Grayscale launches lowest-fee U.S. Hyperliquid ETF as competition heats up around HYPE (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] The three reasons why oil is staying below $100 a barrel (Energy)
-- [macro] Dow Jones Futures Fall, Oil Prices Rise As Trump Sets New Hormuz Target Date; Palo Alto, Marvell Are Early Movers (Yahoo Finance)
-- [macro] Foreign nationals among at least 21 killed in Delhi fire (BBC News)
-- [macro] Meta, Microsoft, Amazon, and Alphabet are about to spend a shocking amount of money to dominate the AI era (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls Amid Latest Trump Comments On Iran; Palo Alto Slides On Earnings (Live Coverage) (Yahoo Finance)
