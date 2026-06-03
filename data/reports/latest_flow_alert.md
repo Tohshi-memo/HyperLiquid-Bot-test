@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-03T21:55:21.299710+00:00`
+- Generated: `2026-06-03T22:00:26.048191+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `169961500.27`
-- Polymarket volume z-score: `2.04`
+- Polymarket 24h volume: `171869047.25`
+- Polymarket volume z-score: `2.07`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `145481885.14744776` | liquidity: `3221056.36865`
-- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `2422106.2049270035` | liquidity: `50744.741`
-- Roland Garros ATP: Matteo Berrettini vs Matteo Arnaldi | 24h volume: `2118522.6743479995` | liquidity: `768659.68728`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1763017.6011730018` | liquidity: `299956.00465`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1577365.6646109994` | liquidity: `382524.9028`
-- Counter-Strike: M80 vs B8 (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1337746.5388439992` | liquidity: `478633.04843`
-- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `1213133.1600879994` | liquidity: `35093.02318`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `977079.8677780007` | liquidity: `733801.6483`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `148874944.5889408` | liquidity: `3034196.98565`
+- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `2438040.4839390037` | liquidity: `53909.59365`
+- Roland Garros ATP: Matteo Berrettini vs Matteo Arnaldi | 24h volume: `2118747.3490859997` | liquidity: `768152.84463`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1766340.8337510019` | liquidity: `364017.07378`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1615340.8278889996` | liquidity: `406827.719`
+- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `1251734.8371409993` | liquidity: `37697.58979`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `916688.5413190004` | liquidity: `739036.1163`
+- Will Kim Boo-kyum win the 2026 Daegu mayoral election? | 24h volume: `800657.2620629998` | liquidity: `132862.81909`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
