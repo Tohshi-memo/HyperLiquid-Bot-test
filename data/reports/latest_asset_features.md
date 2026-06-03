@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-03T21:52:32.282908+00:00`
-- Observed: `2026-06-03T21:45:00+00:00`
+- Generated: `2026-06-03T22:04:06.727454+00:00`
+- Observed: `2026-06-03T22:00:00+00:00`
 - Assets: `787`
 
 ## Top Activity
@@ -12,19 +12,19 @@ Individual asset screen for drilling down from class-level signals.
 - `@302` unknown price `0.0046171` 4h `0.0` vol `0.0` relationship `market_context_high->@302_24h`
 - `@190` unknown price `0.010813` 4h `0.0` vol `0.0` relationship `market_context_high->@190_24h`
 - `@121` unknown price `0.013147` 4h `0.0` vol `0.0` relationship `market_context_high->@121_24h`
-- `@295` unknown price `0.010665` 4h `0.1408` vol `0.0` relationship `market_context_high->@295_1h`
-- `WLD` crypto_alt price `0.55651` 4h `6.4297` vol `94266318.01` relationship `market_context_high->WLD_24h`
-- `@132` unknown price `0.00261` 4h `-1.3233` vol `0.0` relationship `market_context_high->@132_24h`
-- `@44` unknown price `0.0009125` 4h `-9.8765` vol `0.0` relationship `market_context_high->@44_4h`
-- `ENA` crypto_alt price `0.114515` 4h `0.8943` vol `42722156.5` relationship `market_context_high->ENA_24h`
-- `@18` unknown price `0.00595` 4h `-1.6529` vol `0.0` relationship `market_context_high->@18_4h`
-- `PURR` crypto_alt price `0.13912` 4h `1.3772` vol `3411443.78` relationship `market_context_high->PURR_4h`
-- `SUSHI` crypto_alt price `0.23593` 4h `3.0577` vol `1143320.94` relationship `market_context_high->SUSHI_24h`
-- `xyz:IBM` equity price `298.225` 4h `-3.7068` vol `5190048.59` relationship `market_context_high->xyz:IBM_4h`
-- `INIT` crypto_alt price `0.066093` 4h `-0.6135` vol `583226.76` relationship `market_context_high->INIT_24h`
-- `xyz:PURRDAT` equity price `10.7395` 4h `1.474` vol `20484124.56` relationship `market_context_high->xyz:PURRDAT_24h`
-- `VVV` crypto_alt price `20.844` 4h `2.6444` vol `38337163.01` relationship `market_context_high->VVV_24h`
-- `@196` unknown price `3.5e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@196_4h`
-- `hyna:ENA` unknown price `0.11454` 4h `0.9296` vol `122768.14` relationship `market_context_high->hyna:ENA_24h`
-- `PURR/USDC` crypto_alt price `0.138855` 4h `1.5393` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
+- `@295` unknown price `0.010705` 4h `0.4221` vol `0.0` relationship `market_context_high->@295_1h`
+- `WLD` crypto_alt price `0.54932` 4h `4.9542` vol `96035715.66` relationship `market_context_high->WLD_24h`
+- `PURR` crypto_alt price `0.13726` 4h `0.5384` vol `3424059.43` relationship `market_context_high->PURR_4h`
+- `@44` unknown price `0.0009125` 4h `0.0` vol `0.0` relationship `market_context_high->@44_4h`
+- `ENA` crypto_alt price `0.11499` 4h `2.766` vol `43251978.63` relationship `market_context_high->ENA_24h`
+- `@18` unknown price `0.00595` 4h `0.0` vol `0.0` relationship `market_context_high->@18_4h`
+- `SUSHI` crypto_alt price `0.23297` 4h `1.3839` vol `1147527.74` relationship `market_context_high->SUSHI_24h`
+- `@132` unknown price `0.002615` 4h `-0.8343` vol `0.0` relationship `market_context_high->@132_24h`
+- `xyz:IBM` equity price `298.335` 4h `-3.4061` vol `5213611.78` relationship `market_context_high->xyz:IBM_4h`
+- `INIT` crypto_alt price `0.066183` 4h `-0.4078` vol `585161.1` relationship `market_context_high->INIT_24h`
+- `xyz:PURRDAT` equity price `10.7635` 4h `0.6358` vol `20571647.96` relationship `market_context_high->xyz:PURRDAT_24h`
+- `VVV` crypto_alt price `20.8975` 4h `2.8901` vol `38860921.12` relationship `market_context_high->VVV_24h`
+- `hyna:ENA` unknown price `0.114865` 4h `2.6405` vol `122768.14` relationship `market_context_high->hyna:ENA_24h`
+- `PURR/USDC` crypto_alt price `0.13704` 4h `0.3111` vol `0.0` relationship `market_context_high->PURR/USDC_4h`
 - `@128` unknown price `2.2e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@128_24h`
+- `@253` unknown price `0.90995` 4h `0.0` vol `0.0` relationship `market_context_high->@253_24h`
