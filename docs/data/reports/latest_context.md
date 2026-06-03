@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T10:07:25.983648+00:00`
-- Market context score: `38.2`
-- News risk score: `53.45`
-- Macro risk score: `44.25`
-- Risk-on score: `24.52`
-- Articles: `53`
+- Generated: `2026-06-03T10:14:09.073561+00:00`
+- Market context score: `37.65`
+- News risk score: `53.77`
+- Macro risk score: `42.86`
+- Risk-on score: `23.05`
+- Articles: `57`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `23`, risk hits `11`, risk headline rate `0.3478`, policy hits `2`
-- macro: articles `26`, risk hits `11`, risk headline rate `0.4231`, policy hits `12`
+- macro: articles `30`, risk hits `13`, risk headline rate `0.4`, policy hits `13`
 
 ## Headlines
 
+- [macro] US announces new tariffs over forced labour concerns (BBC News)
+- [macro] Red Sea crisis exposes need for greater supply chain resilience (Yahoo Finance)
+- [macro] Top 20 global payment companies’ revenue rises 8% in 2025 as scale still wins: GlobalData (Yahoo Finance)
 - [macro] U.S. proposes fresh tariffs on 60 economies over forced labor trade practices (Economy)
 - [crypto] Trezor says your crypto is safe after Ledger audit exposes a hardware flaw (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US announces new tariffs over forced labour concerns (BBC News)
-- [macro] Mortgage and refinance interest rates today, Wednesday, June 3, 2026: Rates reverse course and rise (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Wednesday, June 3, 2026: Earn up to 4.10% APY (Yahoo Finance)
-- [macro] Best CD rates today, Wednesday, June 3, 2026: Earn up to 4% APY (Yahoo Finance)
-- [macro] HELOC and home equity loan rates today, Wednesday, June 3, 2026: Rate shopping matters, even when rates are low (Yahoo Finance)
-- [macro] Best money market account rates today, June 3, 2026: Secure up to 4.01% APY (Yahoo Finance)
-- [macro] King Risk Partners boosts construction expertise with new acquisition (Yahoo Finance)
-- [macro] USDA’s Cotton Plan Is Really About the Fibre Wars (Yahoo Finance)
+- [macro] When IPOs go wrong: SpaceX, AI firms face a delicate process (Yahoo Finance)
+- [macro] Analysis-US tech stocks' market dominance reaches new heights and presents new risks (Yahoo Finance)
+- [macro] Gold overtakes US Treasuries as top global reserve asset (Yahoo Finance)
+- [macro] Analysis-AI building boom ripples through inflation-hit Treasury market (Yahoo Finance)
+- [macro] OpenAI is going public as the worst value among its AI peers (Yahoo Finance)
