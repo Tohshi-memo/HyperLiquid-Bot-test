@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-03T12:15:22.728320+00:00`
-- Flow alert score: `24.84`
+- Generated: `2026-06-03T12:20:30.262940+00:00`
+- Flow alert score: `24.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `151325694.82`
-- Polymarket volume z-score: `1.96`
+- Polymarket 24h volume: `150038783.89`
+- Polymarket volume z-score: `1.93`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `126422520.01781654` | liquidity: `14595473.29425`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2417090.121957` | liquidity: `558592.9953`
-- Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska | 24h volume: `2268635.4719019984` | liquidity: `510852.18229`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2074441.9040789998` | liquidity: `604426.8949`
-- LoL: EDward Gaming vs Bilibili Gaming (BO5) - LPL Playoffs | 24h volume: `916029.161486` | liquidity: `653668.732`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `833993.464045` | liquidity: `1059270.4002`
-- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `822318.0337559996` | liquidity: `106909.34365`
-- Roland Garros WTA: Aryna Sabalenka vs Diana Shnaider | 24h volume: `796707.684129999` | liquidity: `102092.5944`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `125155062.15498808` | liquidity: `13593455.10928`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2413538.727586` | liquidity: `552595.8581`
+- Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska | 24h volume: `2269374.981901998` | liquidity: `496023.6318`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2079073.726227` | liquidity: `604361.4697`
+- LoL: EDward Gaming vs Bilibili Gaming (BO5) - LPL Playoffs | 24h volume: `916088.401486` | liquidity: `649213.87924`
+- Roland Garros WTA: Aryna Sabalenka vs Diana Shnaider | 24h volume: `865085.3929809993` | liquidity: `85442.8158`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `845936.0406789999` | liquidity: `1051882.7443`
+- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `835627.2237559995` | liquidity: `103493.7715`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
