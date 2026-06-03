@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-02T23:52:19.851554+00:00`
-- Market context score: `50.67`
-- News risk score: `41.91`
-- Macro risk score: `23.39`
-- Risk-on score: `34.61`
-- Articles: `70`
-- Polymarket markets: `395`
+- Generated: `2026-06-03T00:06:32.811224+00:00`
+- Market context score: `48.76`
+- News risk score: `42.72`
+- Macro risk score: `23.44`
+- Risk-on score: `31.07`
+- Articles: `68`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2435`
-- Day/swing latest: `2026-06-02T23:45:00+00:00`
+- Day/swing records: `2436`
+- Day/swing latest: `2026-06-03T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `43`, risk hits `11`, risk headline rate `0.2326`, policy hits `7`
-- macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `1`
+- crypto: articles `42`, risk hits `12`, risk headline rate `0.2619`, policy hits `6`
+- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] UK Lords warn BoE could regulate pound stablecoins into irrelevance (Cointelegraph.com News)
 - [crypto] Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran has mined 'large segments' of Hormuz Strait, Secretary of State Rubio says (Energy)
 - [macro] Three quarters of workers not on track for 'moderate' pension income, report suggests (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] SEC makes digital assets strategic priority through 2030 (Cointelegraph.com News)
 - [macro] Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold (BBC News)
 - [crypto] U.S. sanctions Iranian crypto exchanges in ongoing war against the country (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US says it fired missile at Iran-bound oil tanker (BBC News)
