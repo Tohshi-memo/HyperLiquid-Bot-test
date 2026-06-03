@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-03T17:10:27.049927+00:00`
-- Flow alert score: `24.12`
+- Generated: `2026-06-03T17:15:29.024797+00:00`
+- Flow alert score: `24.16`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `150345370.96`
-- Polymarket volume z-score: `1.78`
+- Polymarket 24h volume: `150992276.73`
+- Polymarket volume z-score: `1.79`
 
 ## Top Polymarket Markets
 
-- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `124337891.1666559` | liquidity: `18882817.29418`
-- Roland Garros ATP: Felix Auger-Aliassime vs Flavio Cobolli | 24h volume: `3906452.1694089985` | liquidity: `148059.0107`
+- MicroStrategy sells any Bitcoin by May 31, 2026? | 24h volume: `124903940.68697697` | liquidity: `18097367.67233`
+- Roland Garros ATP: Felix Auger-Aliassime vs Flavio Cobolli | 24h volume: `3943981.0689910017` | liquidity: `128674.7261`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1280404.8010489985` | liquidity: `485807.3089`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1214710.7056710015` | liquidity: `518363.70073`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1223378.0151020016` | liquidity: `513940.28364`
 - Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `1091066.1400399997` | liquidity: `80034.07388`
-- Will the price of Bitcoin be above $66,000 on June 3? | 24h volume: `1063789.768234` | liquidity: `283483.11077`
-- Counter-Strike: TYLOO vs Sinners (BO3) - IEM Cologne Major Stage 1 | 24h volume: `956464.3802090012` | liquidity: `1029286.23776`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `889146.5692909996` | liquidity: `671532.367`
+- Will the price of Bitcoin be above $66,000 on June 3? | 24h volume: `1063323.542048` | liquidity: `283365.07213`
+- Counter-Strike: TYLOO vs Sinners (BO3) - IEM Cologne Major Stage 1 | 24h volume: `961751.6902090013` | liquidity: `1010139.4733`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `888410.5363829995` | liquidity: `668598.9447`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
