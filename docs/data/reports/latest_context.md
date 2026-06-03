@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T00:52:21.998185+00:00`
-- Market context score: `47.65`
-- News risk score: `41.74`
-- Macro risk score: `24.55`
-- Risk-on score: `28.19`
+- Generated: `2026-06-03T01:07:23.408971+00:00`
+- Market context score: `46.99`
+- News risk score: `43.26`
+- Macro risk score: `26.12`
+- Risk-on score: `28.61`
 - Articles: `59`
 - Polymarket markets: `394`
 
@@ -17,18 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:69, fx:6, index:23, metal:18, unknown:422`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2439`
-- Day/swing latest: `2026-06-03T00:45:00+00:00`
+- Day/swing records: `2440`
+- Day/swing latest: `2026-06-03T01:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `36`, risk hits `11`, risk headline rate `0.2778`, policy hits `5`
-- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `1`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `34`, risk hits `11`, risk headline rate `0.2941`, policy hits `5`
+- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US says it launched 'self-defense' strikes on Iranian island (BBC News)
+- [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
+- [commodity] Oil climbs as U.S.-Iran trade strikes while Trump says negotiations with Tehran underway (Energy)
 - [macro] Trump administration drops $1.8bn 'anti-weaponisation' fund (BBC News)
 - [crypto] UK Lords warn BoE could regulate pound stablecoins into irrelevance (Cointelegraph.com News)
 - [crypto] Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,6 +39,3 @@
 - [macro] Three quarters of workers not on track for 'moderate' pension income, report suggests (BBC News)
 - [macro] Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes (BBC News)
 - [crypto] UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] US lawmakers push back on Labor Department plans to include crypto in 401(k)s (Cointelegraph.com News)
-- [crypto] SEC makes digital assets strategic priority through 2030 (Cointelegraph.com News)
-- [macro] Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold (BBC News)
