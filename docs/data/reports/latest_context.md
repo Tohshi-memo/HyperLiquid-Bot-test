@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T04:22:20.184944+00:00`
-- Market context score: `37.91`
-- News risk score: `44.77`
-- Macro risk score: `36.2`
-- Risk-on score: `13.5`
-- Articles: `44`
+- Generated: `2026-06-03T04:37:21.088895+00:00`
+- Market context score: `41.86`
+- News risk score: `44.36`
+- Macro risk score: `36.17`
+- Risk-on score: `21.93`
+- Articles: `45`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:72, fx:6, index:23, metal:18, unknown:420`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2453`
-- Day/swing latest: `2026-06-03T04:15:00+00:00`
+- Day/swing records: `2454`
+- Day/swing latest: `2026-06-03T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `2`
+- crypto: articles `21`, risk hits `7`, risk headline rate `0.2857`, policy hits `2`
 - macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin plunges below $66,000 as global stocks, AI trades hit fresh records (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] U.S. proposes fresh tariffs on 60 economies over forced labor trade practices (Economy)
 - [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
 - [crypto] Mastercard expands on-chain settlement in bet on stablecoins and always-on finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US and Iran launch new strikes as ceasefire negotiations stalled (BBC News)
-- [macro] U.S. proposes fresh tariffs on 60 economies over forced labor trade practices (Economy)
 - [crypto] Cardano’s TapTools to wind down after 5 execs exit (Cointelegraph.com News)
 - [crypto] Bitcoin's slide to $66,000 is accelerating a shift into digital dollars (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mysteriously missing congressman wins primary after Trump endorsement (BBC News)
 - [macro] Canada formally requests 16-year renewal of North American free trade pact (BBC News)
 - [macro] Watch: Man attacked by bear at steel works in Japan (BBC News)
-- [commodity] Oil climbs as U.S.-Iran trade strikes while Trump says negotiations with Tehran underway (Energy)
