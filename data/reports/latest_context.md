@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-03T14:07:26.497389+00:00`
-- Market context score: `50.86`
-- News risk score: `43.24`
-- Macro risk score: `26.14`
-- Risk-on score: `37.18`
-- Articles: `89`
+- Generated: `2026-06-03T14:22:25.046366+00:00`
+- Market context score: `51.43`
+- News risk score: `42.62`
+- Macro risk score: `24.96`
+- Risk-on score: `37.49`
+- Articles: `88`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:72, fx:6, index:23, metal:18, unknown:420`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2492`
-- Day/swing latest: `2026-06-03T14:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `36`, risk hits `11`, risk headline rate `0.2222`, policy hits `2`
-- macro: articles `49`, risk hits `8`, risk headline rate `0.1633`, policy hits `3`
+- macro: articles `48`, risk hits `8`, risk headline rate `0.1458`, policy hits `2`
 
 ## Headlines
 
-- [commodity] Oil prices rise as U.S. and Iran trade strikes (Energy)
-- [macro] One killed and dozens injured in Iranian drone strikes on Kuwait airport (BBC News)
-- [crypto] Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK (Cointelegraph.com News)
-- [macro] Here's Why the VanEck Semiconductor ETF Soared in May And Is a Great Way to Play AI Spending (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls Amid Latest Trump Comments On Iran Nukes; AI Stock Marvell Soars (Live Coverage) (Yahoo Finance)
-- [macro] Why IonQ Stock Skyrocketed 59.7% in May (Yahoo Finance)
+- [macro] Lloyds, Halifax and Bank of Scotland back after online banking outage (BBC News)
+- [macro] U.S., Iran intensify attacks as ceasefire frays, peace talks stall (Economy)
+- [macro] AMD CEO Lisa Su drops rare message on AI careers (Yahoo Finance)
 - [macro] Henkell Freixenet in talks to buy majority of Maison Pommery (Yahoo Finance)
-- [macro] Microsoft (MSFT) Slid Despite Top and Bottom-Line Beats (Yahoo Finance)
-- [macro] There Are 4 Companies Valued at Over $3 Trillion. These Are the 2 That I Would Load Up on Right Now. (Yahoo Finance)
-- [macro] ADP May 2026 jobs report: Private sector adds 122,000 (Yahoo Finance)
+- [macro] The Best Dividend ETF to Invest $1,000 in Right Now (Yahoo Finance)
+- [commodity] Oil prices rise as U.S. and Iran trade strikes (Energy)
+- [macro] Trevi Therapeutics Is Up 100%, Pivotal bioVenture Adds Anyway. Here's Why That Matters. (Yahoo Finance)
+- [macro] ARKX vs. XAR: Two ETFs Worthy of Consideration (Yahoo Finance)
+- [macro] One killed and dozens injured in Iranian drone strikes on Kuwait airport (BBC News)
+- [macro] Alphabet's $80 billion stock sale shows how expensive AI is getting: Chart of the Day (Yahoo Finance)
