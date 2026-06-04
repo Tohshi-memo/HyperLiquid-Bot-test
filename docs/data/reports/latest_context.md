@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T16:52:34.310006+00:00`
-- Market context score: `48.52`
-- News risk score: `45.3`
-- Macro risk score: `26.99`
+- Generated: `2026-06-04T17:07:25.384345+00:00`
+- Market context score: `48.0`
+- News risk score: `46.03`
+- Macro risk score: `28.44`
 - Risk-on score: `34.05`
-- Articles: `87`
+- Articles: `86`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2598`
-- Day/swing latest: `2026-06-04T16:45:00+00:00`
+- Day/swing records: `2599`
+- Day/swing latest: `2026-06-04T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `35`, risk hits `11`, risk headline rate `0.2571`, policy hits `5`
-- macro: articles `50`, risk hits `10`, risk headline rate `0.18`, policy hits `2`
+- macro: articles `49`, risk hits `10`, risk headline rate `0.2041`, policy hits `3`
 
 ## Headlines
 
-- [macro] Quantum Computing Stocks: Quantinuum To Start Trading Thursday (Yahoo Finance)
-- [macro] Amazon-Backed X-Energy Dives To Low After Biggest Nuclear IPO. Here's Why. (Yahoo Finance)
-- [macro] Ciena Stock Falls On Fiscal Q2 Earnings As Guidance Underwhelms (Yahoo Finance)
-- [macro] Coinbase and Better Close First Bitcoin-Backed Fannie Mae Mortgage (Yahoo Finance)
-- [macro] Why Redwire Stock Is Skyrocketing Higher Today (Yahoo Finance)
-- [macro] Banking On Breakouts: UBS, Citi Charts Shape Up (Yahoo Finance)
-- [macro] Musk's SpaceX share sale: Four things you need to know (BBC News)
-- [macro] Itron Inc. (ITRI) Expands Strategic Collaboration to Accelerate Digital Water Transformation Utility (Yahoo Finance)
-- [macro] Agilysys (AGYS) is Amongst the Most Promising Technology Stocks, Here is Why (Yahoo Finance)
-- [macro] Here is What Makes Q2 Holdings (QTWO) so Attractive (Yahoo Finance)
+- [macro] Jefferies Reiterates Buy Rating on Global-E Online (GLBE) (Yahoo Finance)
+- [macro] NVIDIA (NVDA): The Most Promising Stock to Buy Right Now (Yahoo Finance)
+- [macro] Deutsche Bank Raises its Price Target on Star Bulk Carriers (SBLK) (Yahoo Finance)
+- [macro] Upstart (UPST) Partners with Community Choice Credit Union (Yahoo Finance)
+- [macro] Here’s Why Boeing (BA) is Among the 15 Most Promising Stocks to Buy Right Now (Yahoo Finance)
+- [macro] Is ASE Technology (ASX) the Most Promising Stock to Buy Right Now? (Yahoo Finance)
+- [macro] JPMorgan Maintains Overweight Rating on Array Digital Infrastructure (AD) (Yahoo Finance)
+- [macro] Ondas (ONDS) Secures More Than $30M in New Orders During May (Yahoo Finance)
+- [macro] KeyBanc Raises its Price Target on American Healthcare REIT (AHR) (Yahoo Finance)
+- [macro] RBC Capital Raises its Price Target on Neurocrine Biosciences (NBIX) (Yahoo Finance)
