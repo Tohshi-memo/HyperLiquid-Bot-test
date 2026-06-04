@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T12:37:24.063253+00:00`
-- Market context score: `44.02`
-- News risk score: `47.74`
-- Macro risk score: `28.52`
-- Risk-on score: `26.69`
-- Articles: `65`
+- Generated: `2026-06-04T12:52:29.116999+00:00`
+- Market context score: `41.24`
+- News risk score: `47.13`
+- Macro risk score: `27.71`
+- Risk-on score: `19.68`
+- Articles: `64`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2581`
-- Day/swing latest: `2026-06-04T12:30:00+00:00`
+- Day/swing records: `2582`
+- Day/swing latest: `2026-06-04T12:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `27`, risk hits `12`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `37`, risk hits `11`, risk headline rate `0.2162`, policy hits `0`
+- macro: articles `35`, risk hits `7`, risk headline rate `0.1714`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Strategy's Saylor's explanation for bitcoin's slide isn't what bears think (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil prices fall 3% on report Trump reluctant to restart Iran war (Energy)
 - [macro] Heavy gunfire in Somali capital as row over election delay escalates (BBC News)
-- [macro] Broadcom could be headed for one of the worst 1-day destructions in shareholder value ever (Yahoo Finance)
-- [crypto] Live markets: Saylor speaks as bitcoin plunges to $62,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stock Market Today: Dow Rises, Nasdaq Falls With Jobless Data Due; Broadcom, CrowdStrike Plunge (Live Coverage) (Yahoo Finance)
-- [macro] Dow Jones Futures Rise, But Broadcom, CrowdStrike, Ciena Hit Techs; SpaceX IPO Price Target Set (Yahoo Finance)
-- [macro] Ardelyx Eyes $500M+ Revenue as IBSRELA Growth Puts Profitability Within Reach (Yahoo Finance)
-- [macro] Deutsche Bank shuns “aggressive” promotions to beat rivals (Yahoo Finance)
-- [macro] AI Power Plant Builder In Buy Area Ahead Of Earnings Report (Yahoo Finance)
-- [macro] Dollar slips from two-month high amid Iran talks, yen trades near 160 (Yahoo Finance)
+- [macro] CrowdStrike Falls On Earnings As Guidance Underwhelms Amid Big 2026 Gain (Yahoo Finance)
+- [macro] Pay by Bank is fragmenting: That’s a sign it’s working — but there’s a catch (Yahoo Finance)
+- [macro] Apple's App Store generated $1.4 trillion in sales last year (Yahoo Finance)
+- [macro] The $10 Trillion Bet: Why Insiders Think SpaceX Could Rival Apple by Decade’s End (Yahoo Finance)
+- [crypto] Strategy's Saylor's explanation for bitcoin's slide isn't what bears think (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] International Business Machines Corporation (IBM) Sets for Next Era of Computing (Yahoo Finance)
+- [macro] Market Expansion Opportunities Drive HA Sustainable Infrastructure Capital’s (HASI) Growth Potential (Yahoo Finance)
+- [macro] Lam Research Corp (LRCX): Increasing Dependence on Essential Chip Manufacturing (Yahoo Finance)
