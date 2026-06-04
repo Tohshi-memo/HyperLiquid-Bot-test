@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T20:25:20.916840+00:00`
+- Generated: `2026-06-04T20:30:25.949675+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19542120.22`
+- Polymarket 24h volume: `19804548.45`
 - Polymarket volume z-score: `-0.89`
 
 ## Top Polymarket Markets
 
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2539160.7171020084` | liquidity: `1036146.06548`
-- Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1386719.7928190005` | liquidity: `465388.82157`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1244343.9033589992` | liquidity: `515827.29381`
-- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `1159291.351257` | liquidity: `1550603.46995`
-- Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1085201.8572930028` | liquidity: `791307.9021`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `934758.37` | liquidity: `90657.51116`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `826895.5532970002` | liquidity: `560934.4117`
-- Dota 2: LGD Gaming vs Team Yandex (BO3) - BLAST Slam Playoffs | 24h volume: `814521.0846720004` | liquidity: `331317.71171`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2539076.7171020084` | liquidity: `1019158.78619`
+- Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1386962.8728190004` | liquidity: `465122.38465`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1273690.7890769993` | liquidity: `457342.02766`
+- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `1159602.351257` | liquidity: `1550432.54316`
+- Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1086219.3072930025` | liquidity: `790995.70461`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `846898.37` | liquidity: `203373.97581`
+- Dota 2: LGD Gaming vs Team Yandex (BO3) - BLAST Slam Playoffs | 24h volume: `814546.0846720004` | liquidity: `330560.52171`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `794880.7416500001` | liquidity: `538582.7606`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
