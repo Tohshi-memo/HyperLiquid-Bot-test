@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T21:10:22.780897+00:00`
+- Generated: `2026-06-04T21:15:31.567065+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `15916687.77`
-- Polymarket volume z-score: `-0.96`
+- Polymarket 24h volume: `16022049.13`
+- Polymarket volume z-score: `-0.95`
 
 ## Top Polymarket Markets
 
@@ -18,7 +18,7 @@
 - Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `1158854.999757` | liquidity: `1550144.54175`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `818178.37` | liquidity: `203009.86012`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `794243.8351230001` | liquidity: `537840.8576`
-- Will the Iranian regime fall by June 30? | 24h volume: `650078.9875370003` | liquidity: `742400.97659`
+- Will the Iranian regime fall by June 30? | 24h volume: `651091.8549330003` | liquidity: `743318.10037`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `547804.2280000001` | liquidity: `8974655.35628`
 - Will Lindsey Horvath win the 2026 Los Angeles mayoral election? | 24h volume: `499798.95` | liquidity: `54942.25175`
 
