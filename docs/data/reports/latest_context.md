@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T02:52:21.668030+00:00`
-- Market context score: `45.98`
-- News risk score: `42.41`
-- Macro risk score: `37.04`
-- Risk-on score: `29.76`
+- Generated: `2026-06-04T03:07:22.268496+00:00`
+- Market context score: `44.54`
+- News risk score: `43.54`
+- Macro risk score: `38.43`
+- Risk-on score: `28.05`
 - Articles: `48`
 - Polymarket markets: `396`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:420`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2542`
-- Day/swing latest: `2026-06-04T02:45:00+00:00`
+- Day/swing records: `2543`
+- Day/swing latest: `2026-06-04T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `2`
-- macro: articles `23`, risk hits `11`, risk headline rate `0.3913`, policy hits `0`
+- crypto: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `2`
+- macro: articles `24`, risk hits `12`, risk headline rate `0.4167`, policy hits `0`
 
 ## Headlines
 
+- [macro] China bans four New Zealand MPs over Taiwan visit (BBC News)
 - [macro] US House votes to halt Iran war, in rebuke to Trump (BBC News)
 - [crypto] Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Germany blames Russia for 'bitter defeat' in UN Security Council bid (BBC News)
 - [commodity] Inside India newsletter: Why Taiwan and South Korea's stock markets have surged past India within a week (Energy)
 - [macro] Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks (BBC News)
-- [macro] Why Canada has generic Ozempic, and the US doesn't (BBC News)
