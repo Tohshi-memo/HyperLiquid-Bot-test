@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T03:10:22.785264+00:00`
+- Generated: `2026-06-04T03:15:21.419567+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22457151.99`
-- Polymarket volume z-score: `-0.91`
+- Polymarket 24h volume: `22659661.2`
+- Polymarket volume z-score: `-0.9`
 
 ## Top Polymarket Markets
 
-- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `3681959.7474869997` | liquidity: `193275.41121`
-- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `2339616.9340720004` | liquidity: `125035.11401`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1853546.783560001` | liquidity: `444232.28647`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1684007.873111002` | liquidity: `566399.0492`
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `866567.07428` | liquidity: `809752.07581`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `722040.0` | liquidity: `226299.40648`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `657749.4879999999` | liquidity: `8783404.33182`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `614932.5529090003` | liquidity: `497326.1303`
+- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `3711309.3637769995` | liquidity: `210550.59391`
+- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `2338994.6880720006` | liquidity: `134847.08564`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1877857.0505900013` | liquidity: `417870.87424`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1704733.8900980018` | liquidity: `584542.9684`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `921386.7284779999` | liquidity: `729675.24878`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `722040.0` | liquidity: `225993.86087`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `652156.048` | liquidity: `8790442.6529`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `626798.8616620003` | liquidity: `487120.6295`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
