@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T16:55:26.369334+00:00`
+- Generated: `2026-06-04T17:00:30.707570+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,12 +8,12 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22630856.41`
+- Polymarket 24h volume: `22770641.88`
 - Polymarket volume z-score: `-0.84`
 
 ## Top Polymarket Markets
 
-- Roland Garros WTA: Diana Shnaider vs Maja Chwalinska | 24h volume: `2692785.498765001` | liquidity: `133595.8946`
+- Roland Garros WTA: Diana Shnaider vs Maja Chwalinska | 24h volume: `2772448.597062` | liquidity: `123526.1866`
 - Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2207190.5649190038` | liquidity: `936067.11769`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1559677.0020099992` | liquidity: `545494.60679`
 - Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `1205732.0428419989` | liquidity: `257461.2241`
