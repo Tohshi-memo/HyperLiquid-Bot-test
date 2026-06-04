@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T20:22:23.737145+00:00`
+- Generated: `2026-06-04T20:28:10.305580+00:00`
 - Market context score: `51.22`
 - News risk score: `37.25`
 - Macro risk score: `25.23`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] 'Apocalyptic' Tata Steel fire sees 'substantial' damage to production line (BBC News)
 - [crypto] Professional investors dumped 52K BTC worth of ETFs in Q1, filings show (Cointelegraph.com News)
 - [commodity] Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz (Energy)
 - [crypto] Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy (Economy)
 - [crypto] Coinbase to launch token-backed mortgage down payments this summer (Cointelegraph.com News)
 - [macro] Why is this teen fashion brand closing its fitting rooms? (BBC News)
-- [crypto] OCC chief says Democrats applying sole political pressure in World Liberty charter choice (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
