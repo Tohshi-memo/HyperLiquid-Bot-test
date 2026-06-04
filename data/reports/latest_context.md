@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T13:37:37.459687+00:00`
-- Market context score: `41.17`
-- News risk score: `47.91`
-- Macro risk score: `28.31`
-- Risk-on score: `20.42`
-- Articles: `78`
+- Generated: `2026-06-04T13:52:25.966636+00:00`
+- Market context score: `48.94`
+- News risk score: `46.55`
+- Macro risk score: `25.71`
+- Risk-on score: `35.55`
+- Articles: `76`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2585`
-- Day/swing latest: `2026-06-04T13:30:00+00:00`
+- Day/swing records: `2586`
+- Day/swing latest: `2026-06-04T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `30`, risk hits `12`, risk headline rate `0.3`, policy hits `5`
-- macro: articles `46`, risk hits `11`, risk headline rate `0.1957`, policy hits `2`
+- macro: articles `44`, risk hits `8`, risk headline rate `0.1591`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Tom Lee’s $250,000 ether target: Here’s what math says about this crazy prediction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Taiwan Semiconductor Delivers 2,095% Gain Over 10 Years. Will It Continue To Outperform? (Yahoo Finance)
-- [macro] AMD’s $130,000 Decade: U.S. Chipmaker Rises from Near-Bankruptcy to AI Leader (Yahoo Finance)
-- [commodity] Oil prices fall 3% on report Trump reluctant to restart Iran war (Energy)
-- [macro] Do You Believe in Phreesia’s (PHR) Strong Upside Potential? (Yahoo Finance)
-- [crypto] Ripple-linked XRP sinks 7% to four-month lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Solventum Corporation (SOLV) Fell as Its HCIT Unit Hurt by AI Disruption Fears (Yahoo Finance)
-- [macro] Standard Chartered's crypto bull sticks to $100,000 bitcoin call despite 'painful' week (Yahoo Finance)
-- [macro] Cathie Wood Discusses SpaceX IPO As Coinbase Launches Pre-IPO Perps (Yahoo Finance)
-- [macro] CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure (Yahoo Finance)
+- [macro] Anthropic Turns Its Scariest AI Into A Money Printer (Yahoo Finance)
+- [macro] Industry-Wide AI fears Dampen ServiceTitan (TTAN) in Q1 (Yahoo Finance)
+- [macro] Five Below's Beat-And-Raise Quarter May End Its Growth Trajectory (Yahoo Finance)
+- [macro] Defense Budget Proposal Fuels Kratos Defense & Security Solutions (KTOS) Stock Surge (Yahoo Finance)
+- [macro] Victoria's Secret Crushed the Quarter, But These Wall Street Analysts Think the Excitement May Be Overdone (Yahoo Finance)
+- [macro] Vale (VALE) Gets A Higher Target As Operational Expectations Improve (Yahoo Finance)
+- [macro] Why Analysts Remain Cautious On Southern Copper (SCCO) Despite A Higher Valuation (Yahoo Finance)
+- [macro] Avino Silver & Gold Mines (ASM) Gets A Higher Target Following Its Latest Results (Yahoo Finance)
+- [macro] Baron SMID Cap ETF Sold Flutter Entertainment plc (FLUT) in Q1 (Yahoo Finance)
+- [macro] Freeport-McMoRan (FCX) Earns Another Higher Target As Copper Optimism Builds (Yahoo Finance)
