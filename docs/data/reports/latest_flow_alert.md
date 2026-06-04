@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T01:55:21.219997+00:00`
+- Generated: `2026-06-04T02:00:21.471439+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22413663.63`
-- Polymarket volume z-score: `-0.92`
+- Polymarket 24h volume: `22594011.16`
+- Polymarket volume z-score: `-0.91`
 
 ## Top Polymarket Markets
 
@@ -20,6 +20,6 @@
 - Will Kim Boo-kyum win the 2026 Daegu mayoral election? | 24h volume: `855493.1641299997` | liquidity: `106835.29558`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `722040.0` | liquidity: `229024.85198`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `643534.354` | liquidity: `8527658.36888`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `635211.4196780003` | liquidity: `451429.956`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `635457.4336100003` | liquidity: `463300.8898`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
