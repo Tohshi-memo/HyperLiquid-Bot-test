@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T10:07:23.162070+00:00`
-- Market context score: `42.73`
-- News risk score: `47.91`
-- Macro risk score: `30.7`
-- Risk-on score: `24.78`
-- Articles: `41`
+- Generated: `2026-06-04T10:22:22.900771+00:00`
+- Market context score: `44.7`
+- News risk score: `45.29`
+- Macro risk score: `29.98`
+- Risk-on score: `26.67`
+- Articles: `42`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2571`
-- Day/swing latest: `2026-06-04T10:00:00+00:00`
+- Day/swing records: `2572`
+- Day/swing latest: `2026-06-04T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `18`, risk hits `10`, risk headline rate `0.4444`, policy hits `4`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `0`
+- crypto: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `4`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `0`
 
 ## Headlines
 
+- [crypto] This bitcoin metric has marked every bear market bottom, and it's just flashed again (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue (BBC News)
 - [macro] Ukraine accused of killing four in occupied Crimea (BBC News)
 - [macro] Uneasy neighbours: Can three World Cup hosts put differences aside for a month? (BBC News)
-- [macro] Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue (BBC News)
 - [macro] Who is Elon Musk and what is his net worth? (BBC News)
 - [macro] U.S. proposes fresh tariffs on 60 economies over forced labor trade practices (Economy)
 - [crypto] Over $600M in Bitcoin longs liquidated as BTC dips toward $60K (Cointelegraph.com News)
 - [commodity] India’s plunging rupee puts surprise rate hike bets on the table (Energy)
 - [macro] Trump to nominate Blanche for attorney general on permanent basis (BBC News)
 - [macro] Heavy gunfire in Somali capital as row over election delay escalates (BBC News)
-- [crypto] Cardano slumps under 20 cents as Hoskinson says he is 'taking a break' after warning of ecosystem failures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
