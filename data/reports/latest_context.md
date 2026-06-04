@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T03:22:25.534677+00:00`
-- Market context score: `46.75`
-- News risk score: `40.49`
-- Macro risk score: `37.74`
-- Risk-on score: `30.1`
-- Articles: `42`
+- Generated: `2026-06-04T03:37:22.945268+00:00`
+- Market context score: `46.86`
+- News risk score: `40.24`
+- Macro risk score: `37.28`
+- Risk-on score: `29.97`
+- Articles: `39`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:420`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2544`
-- Day/swing latest: `2026-06-04T03:15:00+00:00`
+- Day/swing records: `2545`
+- Day/swing latest: `2026-06-04T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `20`, risk hits `10`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `2`
+- macro: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `0`
 
 ## Headlines
 
+- [macro] US House votes to rein in Trump's war powers in rebuke over Iran (BBC News)
 - [macro] China bans four New Zealand MPs over Taiwan visit (BBC News)
-- [macro] US House votes to halt Iran war, in rebuke to Trump (BBC News)
 - [crypto] Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] SpaceX says it’s worth $1.75tn as it nears stock market debut (BBC News)
