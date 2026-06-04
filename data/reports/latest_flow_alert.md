@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T23:05:23.297782+00:00`
+- Generated: `2026-06-04T23:10:23.800898+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `16556153.34`
+- Polymarket 24h volume: `16555328.45`
 - Polymarket volume z-score: `-0.94`
 
 ## Top Polymarket Markets
 
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2745850.1405940074` | liquidity: `892121.10037`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2721439.8493560073` | liquidity: `887758.3893`
 - Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `1203510.3944230003` | liquidity: `1483872.10971`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1144737.2732539985` | liquidity: `410927.14164`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `720288.37` | liquidity: `210915.05232`
-- Will the Iranian regime fall by June 30? | 24h volume: `649337.9303599999` | liquidity: `744721.84668`
+- Will the Iranian regime fall by June 30? | 24h volume: `649052.103818` | liquidity: `739398.22243`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `648221.3670000003` | liquidity: `8969650.65796`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `541365.2158739995` | liquidity: `532625.264`
-- Will Lindsey Horvath win the 2026 Los Angeles mayoral election? | 24h volume: `499798.95` | liquidity: `55046.06201`
+- Will Lindsey Horvath win the 2026 Los Angeles mayoral election? | 24h volume: `499798.95` | liquidity: `55496.69401`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
