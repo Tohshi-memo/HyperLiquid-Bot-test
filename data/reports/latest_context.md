@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T20:37:21.481459+00:00`
-- Market context score: `52.15`
-- News risk score: `36.18`
-- Macro risk score: `23.59`
-- Risk-on score: `33.14`
-- Articles: `60`
+- Generated: `2026-06-04T20:52:21.509996+00:00`
+- Market context score: `52.05`
+- News risk score: `36.13`
+- Macro risk score: `23.99`
+- Risk-on score: `33.02`
+- Articles: `59`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2613`
-- Day/swing latest: `2026-06-04T20:30:00+00:00`
+- Day/swing records: `2614`
+- Day/swing latest: `2026-06-04T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `31`, risk hits `6`, risk headline rate `0.1613`, policy hits `3`
-- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `0`
+- macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `0`
 
 ## Headlines
 
+- [macro] Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon (BBC News)
 - [macro] 'Apocalyptic' Tata Steel fire sees 'substantial' damage to production line (BBC News)
 - [crypto] Professional investors dumped 52K BTC worth of ETFs in Q1, filings show (Cointelegraph.com News)
 - [commodity] Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz (Energy)
@@ -37,4 +38,3 @@
 - [commodity] Oil prices fall 3% on report Trump reluctant to restart Iran war (Energy)
 - [macro] Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy (Economy)
 - [crypto] Coinbase to launch token-backed mortgage down payments this summer (Cointelegraph.com News)
-- [macro] Why is this teen fashion brand closing its fitting rooms? (BBC News)
