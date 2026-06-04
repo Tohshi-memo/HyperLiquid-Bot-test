@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T10:25:25.389339+00:00`
+- Generated: `2026-06-04T10:30:23.426411+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18375740.7`
-- Polymarket volume z-score: `-0.95`
+- Polymarket 24h volume: `18110760.73`
+- Polymarket volume z-score: `-0.96`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1652730.9955250015` | liquidity: `795830.4698`
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `1414236.631706999` | liquidity: `1685205.90838`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1388004.3244710022` | liquidity: `423134.80545`
-- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `1034254.448217999` | liquidity: `22431.20738`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `729548.42` | liquidity: `8864870.41959`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `723040.0` | liquidity: `225851.70386`
-- Will the Iranian regime fall by June 30? | 24h volume: `476989.5865379985` | liquidity: `588247.61385`
-- Israel x Iran permanent peace deal by June 30, 2026? | 24h volume: `457001.93327100034` | liquidity: `129947.91663`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `1421778.110655999` | liquidity: `1677235.13188`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1376767.9316490025` | liquidity: `418225.50617`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1361994.1630650018` | liquidity: `793123.4321`
+- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `1034732.6112169989` | liquidity: `13977.15845`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `730714.68` | liquidity: `8864869.40333`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `723040.0` | liquidity: `225379.04866`
+- Will the Iranian regime fall by June 30? | 24h volume: `473930.0492459985` | liquidity: `592422.84405`
+- Israel x Iran permanent peace deal by June 30, 2026? | 24h volume: `457413.88327100035` | liquidity: `126647.80694`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
