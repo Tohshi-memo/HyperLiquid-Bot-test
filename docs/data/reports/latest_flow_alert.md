@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T05:50:20.303066+00:00`
+- Generated: `2026-06-04T05:55:23.137876+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `24058402.4`
+- Polymarket 24h volume: `23740660.93`
 - Polymarket volume z-score: `-0.87`
 
 ## Top Polymarket Markets
 
-- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `3991274.5828720005` | liquidity: `132868.76436`
-- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `2315640.5490510003` | liquidity: `111650.02605`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1901681.3135150014` | liquidity: `467135.59621`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1632868.6266950015` | liquidity: `868930.3844`
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `1283319.491971999` | liquidity: `724054.70143`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `722040.0` | liquidity: `226210.12494`
-- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `706173.9378169995` | liquidity: `19005.93482`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `653904.652` | liquidity: `8829218.01937`
+- Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `3995674.823120001` | liquidity: `140014.68113`
+- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `2333271.1476940005` | liquidity: `93859.9677`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1885448.9839140025` | liquidity: `463388.48385`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1626690.9324490016` | liquidity: `822481.996`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `1284601.2297869988` | liquidity: `694715.82665`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `722040.0` | liquidity: `226568.71753`
+- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `707360.9189169996` | liquidity: `27246.15274`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `637412.0319999999` | liquidity: `8828998.59796`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
