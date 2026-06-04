@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T22:00:26.331249+00:00`
+- Generated: `2026-06-04T22:05:23.130682+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `16742995.29`
-- Polymarket volume z-score: `-0.94`
+- Polymarket 24h volume: `17011093.23`
+- Polymarket volume z-score: `-0.93`
 
 ## Top Polymarket Markets
 
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2740414.4893820076` | liquidity: `920204.28552`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1243791.622072999` | liquidity: `438225.77845`
-- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `1135517.4338759999` | liquidity: `1547755.35979`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `720582.7032470002` | liquidity: `539408.2236`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `720288.37` | liquidity: `203632.45763`
-- Will the Iranian regime fall by June 30? | 24h volume: `651373.9490090003` | liquidity: `732863.94014`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `616825.56` | liquidity: `8968428.35604`
-- Will Lindsey Horvath win the 2026 Los Angeles mayoral election? | 24h volume: `499798.95` | liquidity: `54742.00916`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2737511.2765400074` | liquidity: `905207.46845`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1223825.939542999` | liquidity: `434598.3549`
+- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `1203608.5438760002` | liquidity: `1483676.4158`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `720288.37` | liquidity: `201752.89392`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `694157.7928119999` | liquidity: `542005.26`
+- Will the Iranian regime fall by June 30? | 24h volume: `652427.5975880004` | liquidity: `741985.03461`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `624296.497` | liquidity: `8971739.46596`
+- Will Lindsey Horvath win the 2026 Los Angeles mayoral election? | 24h volume: `499798.95` | liquidity: `55666.64293`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
