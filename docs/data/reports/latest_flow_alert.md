@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T17:45:26.488607+00:00`
+- Generated: `2026-06-04T17:50:29.778895+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `23991874.36`
-- Polymarket volume z-score: `-0.82`
+- Polymarket 24h volume: `24096352.97`
+- Polymarket volume z-score: `-0.81`
 
 ## Top Polymarket Markets
 
-- Roland Garros WTA: Diana Shnaider vs Maja Chwalinska | 24h volume: `3130549.9315630007` | liquidity: `1335425.61232`
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2241432.947538006` | liquidity: `988590.81843`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1595075.6735219997` | liquidity: `531567.42778`
-- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `1198177.004678999` | liquidity: `232389.10419`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1117754.5047940004` | liquidity: `511158.6429`
-- Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1035636.0605320004` | liquidity: `85722.3885`
-- Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1 | 24h volume: `856514.2816320016` | liquidity: `54275.8117`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `851554.0` | liquidity: `162689.17987`
+- Roland Garros WTA: Diana Shnaider vs Maja Chwalinska | 24h volume: `3202183.019063001` | liquidity: `925099.47152`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2257016.120553007` | liquidity: `969433.24008`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1618687.4628449997` | liquidity: `519921.05513`
+- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `1197571.983534999` | liquidity: `211326.98688`
+- Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1160186.5682690004` | liquidity: `41411.9965`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1100370.7860620003` | liquidity: `508846.7037`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `896514.0` | liquidity: `91349.72926`
+- Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1 | 24h volume: `879905.4181620016` | liquidity: `36456.0836`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
