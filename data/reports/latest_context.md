@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T20:07:26.131785+00:00`
-- Market context score: `49.2`
-- News risk score: `39.95`
-- Macro risk score: `27.16`
-- Risk-on score: `31.11`
-- Articles: `62`
+- Generated: `2026-06-04T20:22:23.737145+00:00`
+- Market context score: `51.22`
+- News risk score: `37.25`
+- Macro risk score: `25.23`
+- Risk-on score: `32.59`
+- Articles: `61`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2611`
-- Day/swing latest: `2026-06-04T20:00:00+00:00`
+- Day/swing records: `2612`
+- Day/swing latest: `2026-06-04T20:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `31`, risk hits `7`, risk headline rate `0.1935`, policy hits `3`
+- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `31`, risk hits `6`, risk headline rate `0.1613`, policy hits `3`
 - macro: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Professional investors dumped 52K BTC worth of ETFs in Q1, filings show (Cointelegraph.com News)
 - [commodity] Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz (Energy)
 - [crypto] Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] John Bolton expected to plead guilty in classified documents case, sources confirm (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Coinbase to launch token-backed mortgage down payments this summer (Cointelegraph.com News)
 - [macro] Why is this teen fashion brand closing its fitting rooms? (BBC News)
 - [crypto] OCC chief says Democrats applying sole political pressure in World Liberty charter choice (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] 'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
