@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T06:15:22.434509+00:00`
+- Generated: `2026-06-04T06:20:26.132873+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,13 +8,13 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `23846863.62`
+- Polymarket 24h volume: `23829873.77`
 - Polymarket volume z-score: `-0.87`
 
 ## Top Polymarket Markets
 
 - Will Oh Se-hoon win the 2026 Seoul Mayoral Election | 24h volume: `3983869.4976670006` | liquidity: `436956.56729`
-- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `2326216.009688` | liquidity: `416433.61939`
+- Will Chong Won-oh win the 2026 Seoul Mayoral Election | 24h volume: `2324900.242188` | liquidity: `417521.33439`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1884491.9559900023` | liquidity: `434490.42817`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1627387.2310490014` | liquidity: `829826.3185`
 - Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `1293792.5207869988` | liquidity: `1213550.87539`
