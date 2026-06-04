@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T21:37:20.718588+00:00`
-- Market context score: `52.69`
+- Generated: `2026-06-04T21:52:22.474461+00:00`
+- Market context score: `53.66`
 - News risk score: `37.77`
 - Macro risk score: `24.35`
-- Risk-on score: `35.97`
+- Risk-on score: `38.12`
 - Articles: `61`
 - Polymarket markets: `395`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2617`
-- Day/swing latest: `2026-06-04T21:30:00+00:00`
+- Day/swing records: `2618`
+- Day/swing latest: `2026-06-04T21:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Ex-wife of Dubai ruler's nephew in custody, prosecutors say (BBC News)
+- [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
 - [macro] The May jobs report will be released Friday. Here's what to expect (Economy)
 - [commodity] Trump says he could meet Iran's supreme leader 'if it was to make a deal' (Energy)
 - [commodity] Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz (Energy)
@@ -36,5 +38,3 @@
 - [macro] 'Apocalyptic' Tata Steel fire sees 'substantial' damage to production line (BBC News)
 - [crypto] Russia targets British 17-year-old for alleging digital assets were skirting sanctions (Cointelegraph.com News)
 - [crypto] Professional investors dumped 52K BTC worth of ETFs in Q1, filings show (Cointelegraph.com News)
-- [crypto] Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] John Bolton expected to plead guilty in classified documents case, sources confirm (BBC News)
