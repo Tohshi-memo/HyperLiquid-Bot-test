@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T16:10:25.028157+00:00`
+- Generated: `2026-06-04T16:15:25.447562+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `26797791.78`
-- Polymarket volume z-score: `-0.77`
+- Polymarket 24h volume: `27074265.46`
+- Polymarket volume z-score: `-0.76`
 
 ## Top Polymarket Markets
 
-- Roland Garros WTA: Marta Kostyuk vs Mirra Andreeva | 24h volume: `3006831.131158001` | liquidity: `587112.77097`
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2040350.858920002` | liquidity: `1157497.76653`
-- Counter-Strike: TYLOO vs Sharks (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1856411.6201430007` | liquidity: `602801.5332`
-- Roland Garros WTA: Diana Shnaider vs Maja Chwalinska | 24h volume: `1837971.416714` | liquidity: `149965.489`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1532584.9452790006` | liquidity: `539674.9932`
-- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `1201209.441273999` | liquidity: `178781.23166`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1140285.1705820004` | liquidity: `522044.1454`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `799490.0` | liquidity: `122033.87338`
+- Roland Garros WTA: Marta Kostyuk vs Mirra Andreeva | 24h volume: `3008709.9802500005` | liquidity: `585193.11255`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2043104.7669200022` | liquidity: `1140889.45932`
+- Roland Garros WTA: Diana Shnaider vs Maja Chwalinska | 24h volume: `1951427.5240709987` | liquidity: `146330.0164`
+- Counter-Strike: TYLOO vs Sharks (BO3) - IEM Cologne Major Stage 1 | 24h volume: `1857058.830143001` | liquidity: `601921.64872`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1580553.8184940005` | liquidity: `543432.02576`
+- Will the price of Bitcoin be above $62,000 on June 4? | 24h volume: `1198759.5600419987` | liquidity: `274401.75514`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1137065.7250370004` | liquidity: `514367.9764`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `821970.0` | liquidity: `99790.04782`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
