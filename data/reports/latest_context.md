@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T15:37:31.828487+00:00`
-- Market context score: `46.34`
-- News risk score: `46.38`
-- Macro risk score: `28.47`
-- Risk-on score: `30.69`
-- Articles: `85`
+- Generated: `2026-06-04T15:51:34.985811+00:00`
+- Market context score: `50.07`
+- News risk score: `45.08`
+- Macro risk score: `25.86`
+- Risk-on score: `36.88`
+- Articles: `86`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2593`
-- Day/swing latest: `2026-06-04T15:30:00+00:00`
+- Day/swing records: `2594`
+- Day/swing latest: `2026-06-04T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `34`, risk hits `11`, risk headline rate `0.2647`, policy hits `5`
-- macro: articles `49`, risk hits `10`, risk headline rate `0.2041`, policy hits `2`
+- macro: articles `50`, risk hits `8`, risk headline rate `0.16`, policy hits `2`
 
 ## Headlines
 
-- [macro] Broadcom: AI guidance gap reveals the cost of sky-high expectations (Yahoo Finance)
-- [macro] Consolidation Wave Reshapes Energy Sector: 3 Stocks Vulnerable to Acquisition, Ranked (Yahoo Finance)
+- [macro] Blue Origin's explosion just made SpaceX even harder to catch (Yahoo Finance)
+- [macro] Broadcom Stock Dives As AI Chip Sales Outlook Disappoints (Yahoo Finance)
+- [macro] Amazon’s $50 Billion Chip Secret: Why It Could Become Nvidia’s Biggest AI Rival (Yahoo Finance)
+- [macro] JPMorgan's Jamie Dimon to flex massive branch network in SpaceX IPO pitch (Yahoo Finance)
+- [macro] PSCT Has Doubled in a Year While the S&P 500 Returned 28.7% – Here’s Why (Yahoo Finance)
+- [macro] Economy will be fine ‘if the world continues to remain as optimistic,’ Goldman Sachs CEO says as AI giants plan IPOs (Yahoo Finance)
+- [macro] Oracle (ORCL) – Among the 10 No-Brainer Dividend Stocks to Buy (Yahoo Finance)
+- [macro] Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports (Yahoo Finance)
+- [macro] Is Costco (COST) One of the 10 No-Brainer Dividend Stocks to Buy? (Yahoo Finance)
 - [macro] McDonald’s Unveils New Growth Strategy to Stay Ahead of Rising Competition, CNBC Reports (Yahoo Finance)
-- [macro] Can I buy shares in Elon Musk's SpaceX? (BBC News)
-- [macro] Morgan Stanley Raises Philip Morris (PM) Target on Confidence in Zyn and IQOS Growth (Yahoo Finance)
-- [macro] Goldman Sachs Remains Bullish on Honeywell (HON) Ahead of Aerospace Spin-Off (Yahoo Finance)
-- [macro] UBS Lowers Sherwin-Williams (SHW) Target as Housing Headwinds Persist (Yahoo Finance)
-- [macro] High-yield savings account vs. cash management account: Which one is right for you? (Yahoo Finance)
-- [crypto] Crypto for Advisors: The crypto due diligence questions you forgot to ask (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
