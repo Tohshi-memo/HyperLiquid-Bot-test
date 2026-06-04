@@ -2,7 +2,7 @@
 
 Public macro indicators for rates, employment, inflation, dollar, and risk context. These are inputs for analysis, not trade signals.
 
-- Generated: `2026-06-03T23:18:23.877517+00:00`
+- Generated: `2026-06-04T14:18:26.455713+00:00`
 - Indicators: `11`
 
 ## Providers
@@ -13,12 +13,12 @@ Public macro indicators for rates, employment, inflation, dollar, and risk conte
 
 ## Upcoming Releases
 
+- `us_pce` US Personal Income and Outlays / PCE: `None` scheduled `None` / UTC `None` (BEA, official_static)
+- `us_gdp` US Gross Domestic Product: `None` scheduled `None` / UTC `None` (BEA, official_static)
 - `us_employment_situation` US Employment Situation: `May 2026` scheduled `2026-06-05T08:30:00-04:00` / UTC `2026-06-05T12:30:00+00:00` (BLS, official_static)
 - `us_cpi` US Consumer Price Index: `May 2026` scheduled `2026-06-10T08:30:00-04:00` / UTC `2026-06-10T12:30:00+00:00` (BLS, official_static)
 - `us_ppi` US Producer Price Index: `May 2026` scheduled `2026-06-11T08:30:00-04:00` / UTC `2026-06-11T12:30:00+00:00` (BLS, official_static)
 - `fomc_policy_decision` FOMC Policy Decision: `June 16-17, 2026 / SEP` scheduled `2026-06-17T14:00:00-04:00` / UTC `2026-06-17T18:00:00+00:00` (Federal Reserve, official)
-- `us_pce` US Personal Income and Outlays / PCE: `May 2026` scheduled `2026-06-25T08:30:00-04:00` / UTC `2026-06-25T12:30:00+00:00` (BEA, official)
-- `us_gdp` US Gross Domestic Product: `Q1 2026 third estimate` scheduled `2026-06-25T08:30:00-04:00` / UTC `2026-06-25T12:30:00+00:00` (BEA, official)
 
 ## Indicators
 
