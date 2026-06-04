@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T16:37:26.680144+00:00`
-- Market context score: `46.19`
-- News risk score: `47.2`
-- Macro risk score: `30.74`
-- Risk-on score: `31.9`
+- Generated: `2026-06-04T16:52:34.310006+00:00`
+- Market context score: `48.52`
+- News risk score: `45.3`
+- Macro risk score: `26.99`
+- Risk-on score: `34.05`
 - Articles: `87`
-- Polymarket markets: `396`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2597`
-- Day/swing latest: `2026-06-04T16:30:00+00:00`
+- Day/swing records: `2598`
+- Day/swing latest: `2026-06-04T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `35`, risk hits `11`, risk headline rate `0.2571`, policy hits `5`
-- macro: articles `50`, risk hits `13`, risk headline rate `0.24`, policy hits `6`
+- macro: articles `50`, risk hits `10`, risk headline rate `0.18`, policy hits `2`
 
 ## Headlines
 
+- [macro] Quantum Computing Stocks: Quantinuum To Start Trading Thursday (Yahoo Finance)
+- [macro] Amazon-Backed X-Energy Dives To Low After Biggest Nuclear IPO. Here's Why. (Yahoo Finance)
+- [macro] Ciena Stock Falls On Fiscal Q2 Earnings As Guidance Underwhelms (Yahoo Finance)
+- [macro] Coinbase and Better Close First Bitcoin-Backed Fannie Mae Mortgage (Yahoo Finance)
+- [macro] Why Redwire Stock Is Skyrocketing Higher Today (Yahoo Finance)
+- [macro] Banking On Breakouts: UBS, Citi Charts Shape Up (Yahoo Finance)
 - [macro] Musk's SpaceX share sale: Four things you need to know (BBC News)
-- [macro] Michael Burry drops rare technical warning on Palantir stock (Yahoo Finance)
-- [macro] Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy (Economy)
-- [macro] 1 Big Reason to Sell Meta Platforms Stock Above $650 (Yahoo Finance)
-- [macro] What Do Analysts Say About Lam Research (LRCX)’s Earnings Outlook? (Yahoo Finance)
-- [macro] CPU Demand Rapidly Rising Amid Expanding Agentic AI, Says Barclays, Raises PT On Advanced Micro (AMD) To $665 (Yahoo Finance)
-- [macro] Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction (Yahoo Finance)
-- [macro] Micron Technology (MU) Is One Of The Best AI Infrastructure Stocks, According To Hedge Funds (Yahoo Finance)
-- [macro] Morgan Staneley Expects Strong Ramp In Broadcom (AVGO)’s Networking And ASICs Segments; Raises PT To $485 (Yahoo Finance)
-- [macro] Alphabet (GOOGL) Enters Private Equity Partnership With Swedish Private Equity Firm EQT (Yahoo Finance)
+- [macro] Itron Inc. (ITRI) Expands Strategic Collaboration to Accelerate Digital Water Transformation Utility (Yahoo Finance)
+- [macro] Agilysys (AGYS) is Amongst the Most Promising Technology Stocks, Here is Why (Yahoo Finance)
+- [macro] Here is What Makes Q2 Holdings (QTWO) so Attractive (Yahoo Finance)
