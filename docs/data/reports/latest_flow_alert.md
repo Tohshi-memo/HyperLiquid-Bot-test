@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-04T03:15:21.419567+00:00`
+- Generated: `2026-06-04T03:20:24.268463+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22659661.2`
+- Polymarket 24h volume: `22881349.77`
 - Polymarket volume z-score: `-0.9`
 
 ## Top Polymarket Markets
@@ -20,6 +20,6 @@
 - Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `921386.7284779999` | liquidity: `729675.24878`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `722040.0` | liquidity: `225993.86087`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `652156.048` | liquidity: `8790442.6529`
-- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `626798.8616620003` | liquidity: `487120.6295`
+- Will Spencer Pratt win the 2026 Los Angeles mayoral election? | 24h volume: `625753.7816620002` | liquidity: `490461.1708`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
