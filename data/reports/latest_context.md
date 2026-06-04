@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T16:07:31.005346+00:00`
-- Market context score: `47.4`
-- News risk score: `46.61`
-- Macro risk score: `29.62`
-- Risk-on score: `33.66`
-- Articles: `86`
+- Generated: `2026-06-04T16:22:26.945351+00:00`
+- Market context score: `46.78`
+- News risk score: `46.62`
+- Macro risk score: `29.59`
+- Risk-on score: `32.29`
+- Articles: `87`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2595`
-- Day/swing latest: `2026-06-04T16:00:00+00:00`
+- Day/swing records: `2596`
+- Day/swing latest: `2026-06-04T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `35`, risk hits `11`, risk headline rate `0.2571`, policy hits `5`
-- macro: articles `49`, risk hits `11`, risk headline rate `0.2245`, policy hits `3`
+- macro: articles `50`, risk hits `11`, risk headline rate `0.22`, policy hits `4`
 
 ## Headlines
 
+- [macro] Musk's SpaceX share sale: Four things you need to know (BBC News)
+- [macro] Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy (Economy)
+- [macro] Average US long-term mortgage rate falls to 6.48%, retreating from its highest level in 9 months (Yahoo Finance)
+- [macro] Ciena reports fiscal Q2 earnings beat, shares slide on guidance (Yahoo Finance)
+- [macro] Ferraris, Kobe Bryant sneakers and rookie cards fill a government warehouse — all bought with stolen taxpayer money (Yahoo Finance)
+- [macro] A 60-Year-Old Couple With $2.8 Million Can Retire by Year-End 2027 If This One Withdrawal Number Holds (Yahoo Finance)
 - [macro] 'Apocalyptic' Tata Steel fire sees 'substantial' damage to production line (BBC News)
-- [macro] Why Nano Nuclear Energy Powered 23.5% Higher in May (Yahoo Finance)
+- [macro] Eli Lilly, IBD Stock Of The Day, Flashes Two Buy Signals (Yahoo Finance)
 - [crypto] Hyperliquid pulls back from record highs as Arthur Hayes exits position shy of $150 price target (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Cathie Wood Is Loading Up on This Air Taxi Stock -- Should You Follow Her Lead? (Yahoo Finance)
-- [macro] US bank regulators to tout deregulatory agenda to lawmakers (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rises 700 Points; Broadcom Plunges 15%, Ciena Undercuts Key Level (Live Coverage) (Yahoo Finance)
-- [macro] A 4.8 Percent Yield Portfolio That Lets a 72-Year-Old Sleep Through Every Quarterly Earnings Surprise (Yahoo Finance)
-- [macro] SpaceX IPO is coming to your 401(k). Should you be concerned? (Yahoo Finance)
-- [macro] Mark Cuban dumped most of his Bitcoin, saying it 'lost the plot.' Experts say he panic-sold at the worst possible time (Yahoo Finance)
-- [macro] A sheep-herding gig in China got 1,000 applications in 2 days — and 10% of applicants had degrees (Yahoo Finance)
+- [macro] Off-The-Radar Stock Rallies 400% On Space Battery Announcement (Yahoo Finance)
