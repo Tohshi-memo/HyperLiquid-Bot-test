@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T00:37:25.457842+00:00`
+- Generated: `2026-06-04T00:52:20.757300+00:00`
 - Market context score: `43.2`
 - News risk score: `48.58`
 - Macro risk score: `35.07`
 - Risk-on score: `28.05`
 - Articles: `61`
-- Polymarket markets: `397`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:419`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2533`
-- Day/swing latest: `2026-06-04T00:30:00+00:00`
+- Day/swing records: `2534`
+- Day/swing latest: `2026-06-04T00:45:00+00:00`
 
 ## News Categories
 
@@ -33,7 +33,7 @@
 - [macro] Israel and Lebanon agree to implement ceasefire contingent on Hezbollah stopping attacks (BBC News)
 - [macro] Why Canada has generic Ozempic, and the US doesn't (BBC News)
 - [macro] Costly fuel pushes more Indians to buy electric cars but challenges remain (BBC News)
-- [macro] SpaceX says its worth $1.75tn as it nears stock market debut (BBC News)
+- [macro] SpaceX says it’s worth $1.75tn as it nears stock market debut (BBC News)
 - [macro] 'It is by the grace of God that you find a diamond' (BBC News)
 - [crypto] Israel’s tax authority ‘disappointed’ in voluntary crypto disclosures: Report (Cointelegraph.com News)
 - [crypto] SpaceX targets record $75 billion IPO as bitcoin treasury and liquidity risks draw focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
