@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T07:22:25.241109+00:00`
+- Generated: `2026-06-04T07:37:22.476880+00:00`
 - Market context score: `41.59`
 - News risk score: `49.76`
 - Macro risk score: `32.59`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:73, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2560`
-- Day/swing latest: `2026-06-04T07:15:00+00:00`
+- Day/swing records: `2561`
+- Day/swing latest: `2026-06-04T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] US House votes to rein in Trump's war powers in rebuke over Iran (BBC News)
 - [macro] SpaceX says it's worth $1.75tn as it targets largest stock market debut (BBC News)
 - [crypto] About 67% of banned Anthropic accounts used AI to prep for cyberattacks (Cointelegraph.com News)
 - [crypto] Apyx's STRC collateralized stablecoin suffers a brief depeg. Protocol says its a feature, not bug (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Bitmine eyes dividend-paying preferred shares, echoing Strategy’s playbook (Cointelegraph.com News)
 - [macro] Watch: New footage shows moment Iranian drone struck Kuwait airport (BBC News)
 - [crypto] Coinbase freezes $3M tied to Southeast Asia crypto fraud networks (Cointelegraph.com News)
-- [macro] US House votes to rein in Trump's war powers in rebuke over Iran (BBC News)
