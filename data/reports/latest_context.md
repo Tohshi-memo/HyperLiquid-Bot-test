@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T21:07:26.536590+00:00`
-- Market context score: `55.5`
-- News risk score: `34.92`
-- Macro risk score: `19.79`
-- Risk-on score: `38.07`
+- Generated: `2026-06-05T21:22:31.216409+00:00`
+- Market context score: `56.97`
+- News risk score: `33.44`
+- Macro risk score: `20.06`
+- Risk-on score: `40.2`
 - Articles: `58`
 - Polymarket markets: `398`
 
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2709`
-- Day/swing latest: `2026-06-05T21:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `32`, risk hits `8`, risk headline rate `0.1875`, policy hits `3`
-- macro: articles `23`, risk hits `1`, risk headline rate `0.0435`, policy hits `0`
+- crypto: articles `33`, risk hits `7`, risk headline rate `0.1515`, policy hits `3`
+- macro: articles `22`, risk hits `1`, risk headline rate `0.0455`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Travala lets AI agents book hotels with USDC on Base (Cointelegraph.com News)
+- [crypto] Crypto tax proposals weighed ahead of Tuesday House hearing (Cointelegraph.com News)
 - [commodity] Iran's threats against this Red Sea chokepoint are a big vulnerability for the oil market (Energy)
 - [macro] Everest guide survived six-day ordeal by eating chocolate and 'chewing ice' (BBC News)
 - [macro] Trump to meet AI leaders to discuss US investment in their companies (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Kraken offers SpaceX IPO access through xStocks (Cointelegraph.com News)
 - [macro] Putin says there is 'no point' meeting Zelensky over ending Ukraine war (BBC News)
 - [macro] Singer Fally Ipupa's pride at being given major DR Congo honour (BBC News)
-- [crypto] Crypto tax in Illinois FY2027 budget is one step away from becoming law (Cointelegraph.com News)
-- [crypto] AI exposed a massive flaw in top crypto network and experts warn banks could be next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
