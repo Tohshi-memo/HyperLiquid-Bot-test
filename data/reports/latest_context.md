@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T14:52:26.381579+00:00`
-- Market context score: `56.79`
-- News risk score: `37.88`
-- Macro risk score: `17.24`
-- Risk-on score: `42.47`
-- Articles: `71`
+- Generated: `2026-06-05T15:07:34.816667+00:00`
+- Market context score: `52.67`
+- News risk score: `39.99`
+- Macro risk score: `20.43`
+- Risk-on score: `36.31`
+- Articles: `69`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2685`
-- Day/swing latest: `2026-06-05T14:45:00+00:00`
+- Day/swing records: `2686`
+- Day/swing latest: `2026-06-05T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `2`
-- crypto: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `4`
-- macro: articles `45`, risk hits `1`, risk headline rate `0.0222`, policy hits `0`
+- crypto: articles `26`, risk hits `7`, risk headline rate `0.2308`, policy hits `4`
+- macro: articles `41`, risk hits `3`, risk headline rate `0.0732`, policy hits `0`
 
 ## Headlines
 
-- [macro] Chipotle vs Starbucks: One Turnaround Is Real, One Is Just Smoke (Yahoo Finance)
+- [crypto] Alsobrooks says Clarity Act needs ethics deal before Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] XRP falls toward $1.10 as liquidation-driven selloff pushes token to multi-month lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] FAO-tracked world cereal prices hit 19-month high on fuel, fertiliser costs (Yahoo Finance)
+- [macro] Up, then down: drop in trucking jobs in May mostly wipes out gain from April (Yahoo Finance)
+- [macro] Rubrik beats Q1 estimates, raises full-year guidance as cyber resilience demand rises (Yahoo Finance)
+- [macro] Alphabet Is Raising $80 Billion From Stock Sales -- Here's the Most Important Question Investors Should Ask (Yahoo Finance)
+- [macro] Bank of America has a bold new message for AI skeptics (Yahoo Finance)
+- [macro] ArcBest raises Q2 outlook for LTL, asset-light units (Yahoo Finance)
 - [macro] Elon Musk poised to be world's first trillionaire (Yahoo Finance)
-- [macro] Why Tortoise AI Infrastructure ETF (TCAI) Is One the Best AI ETFs (Yahoo Finance)
 - [macro] Hospitality jobs boom as US prepares for World Cup (BBC News)
-- [macro] Hospitality jobs boom as US prepares for World Cup (BBC News)
-- [macro] Canada Post parcel volumes decline 17.2% in Q1 (Yahoo Finance)
-- [macro] Most Twentysomethings Are Already Saving for Retirement, But 47% Just Guessed How Much They Need (Yahoo Finance)
-- [macro] Why Planet Labs Stock Is Plummeting Today (Yahoo Finance)
-- [macro] Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech (BBC News)
-- [macro] SpaceX IPO: How can I buy the stock? (Yahoo Finance)
