@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T06:07:25.331268+00:00`
-- Market context score: `44.92`
-- News risk score: `40.86`
-- Macro risk score: `34.95`
-- Risk-on score: `25.3`
+- Generated: `2026-06-05T06:22:22.726987+00:00`
+- Market context score: `46.15`
+- News risk score: `41.27`
+- Macro risk score: `35.63`
+- Risk-on score: `28.63`
 - Articles: `37`
 - Polymarket markets: `393`
 
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2651`
-- Day/swing latest: `2026-06-05T06:00:00+00:00`
+- Day/swing records: `2652`
+- Day/swing latest: `2026-06-05T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `2`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic's warning: AI is on the cusp of getting smarter on its own (Cointelegraph.com News)
 - [macro] Ex-wife of Dubai ruler's nephew in custody, prosecutors say (BBC News)
 - [crypto] Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] China's Xi Jinping to make rare visit to North Korea (BBC News)
 - [macro] China cracks down on soft porn, violence and materialism in viral micro dramas (BBC News)
 - [crypto] ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability (Cointelegraph.com News)
-- [crypto] Senate Republicans push finance watchdogs to clarify crypto capital rules (Cointelegraph.com News)
-- [macro] British Heart Foundation plans to close 150 charity shops (BBC News)
