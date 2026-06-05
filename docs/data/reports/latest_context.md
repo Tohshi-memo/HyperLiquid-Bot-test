@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T14:37:31.823945+00:00`
-- Market context score: `57.32`
+- Generated: `2026-06-05T14:52:26.381579+00:00`
+- Market context score: `56.79`
 - News risk score: `37.88`
 - Macro risk score: `17.24`
-- Risk-on score: `43.65`
+- Risk-on score: `42.47`
 - Articles: `71`
 - Polymarket markets: `397`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2684`
-- Day/swing latest: `2026-06-05T14:30:00+00:00`
+- Day/swing records: `2685`
+- Day/swing latest: `2026-06-05T14:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Chipotle vs Starbucks: One Turnaround Is Real, One Is Just Smoke (Yahoo Finance)
 - [macro] Elon Musk poised to be world's first trillionaire (Yahoo Finance)
+- [macro] Why Tortoise AI Infrastructure ETF (TCAI) Is One the Best AI ETFs (Yahoo Finance)
 - [macro] Hospitality jobs boom as US prepares for World Cup (BBC News)
 - [macro] Hospitality jobs boom as US prepares for World Cup (BBC News)
-- [macro] Aren Graphic Solutions deploys Cartes label printing equipment (Yahoo Finance)
-- [macro] JP Morgan upgrades Tesla to neutral, raises price target to $475 (Yahoo Finance)
+- [macro] Canada Post parcel volumes decline 17.2% in Q1 (Yahoo Finance)
+- [macro] Most Twentysomethings Are Already Saving for Retirement, But 47% Just Guessed How Much They Need (Yahoo Finance)
+- [macro] Why Planet Labs Stock Is Plummeting Today (Yahoo Finance)
 - [macro] Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech (BBC News)
-- [macro] Doeren Mayhew buys Griffin Global Technologies to boost tech capabilities (Yahoo Finance)
 - [macro] SpaceX IPO: How can I buy the stock? (Yahoo Finance)
-- [macro] PepsiCo launches Adrenaline Rush energy drinks in India (Yahoo Finance)
-- [macro] Jim Cramer Details a Dramatic Trading Session for Salesforce (Yahoo Finance)
