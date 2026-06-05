@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T06:37:24.593765+00:00`
+- Generated: `2026-06-05T06:41:50.743338+00:00`
 - Market context score: `46.15`
 - News risk score: `41.27`
 - Macro risk score: `35.63`
@@ -35,6 +35,6 @@
 - [macro] Ex-wife of Dubai ruler's nephew in custody, prosecutors say (BBC News)
 - [crypto] Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
-- [macro] China's Xi Jinping to make rare visit to North Korea (BBC News)
+- [macro] Xi Jinping to meet Kim Jong Un in rare visit to North Korea (BBC News)
 - [macro] China cracks down on soft porn, violence and materialism in viral micro dramas (BBC News)
 - [crypto] ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability (Cointelegraph.com News)
