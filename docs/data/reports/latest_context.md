@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T06:22:22.726987+00:00`
+- Generated: `2026-06-05T06:37:24.593765+00:00`
 - Market context score: `46.15`
 - News risk score: `41.27`
 - Macro risk score: `35.63`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2652`
-- Day/swing latest: `2026-06-05T06:15:00+00:00`
+- Day/swing records: `2653`
+- Day/swing latest: `2026-06-05T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [commodity] India's cenbank cuts growth outlook, raises inflation forecast as it keeps rates steady at 5.25% (Energy)
 - [crypto] Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic's warning: AI is on the cusp of getting smarter on its own (Cointelegraph.com News)
 - [macro] Ex-wife of Dubai ruler's nephew in custody, prosecutors say (BBC News)
 - [crypto] Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] India's cenbank cuts growth outlook, raises inflation forecast as it keeps rates steady at 5.25% (Energy)
 - [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
 - [macro] China's Xi Jinping to make rare visit to North Korea (BBC News)
 - [macro] China cracks down on soft porn, violence and materialism in viral micro dramas (BBC News)
