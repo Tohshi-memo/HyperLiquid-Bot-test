@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T00:52:21.604964+00:00`
-- Market context score: `51.35`
-- News risk score: `36.93`
-- Macro risk score: `32.31`
-- Risk-on score: `35.29`
+- Generated: `2026-06-05T01:07:23.629457+00:00`
+- Market context score: `53.0`
+- News risk score: `34.67`
+- Macro risk score: `31.64`
+- Risk-on score: `36.79`
 - Articles: `49`
-- Polymarket markets: `393`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2630`
-- Day/swing latest: `2026-06-05T00:45:00+00:00`
+- Day/swing records: `2631`
+- Day/swing latest: `2026-06-05T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `2`
-- macro: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `0`
+- crypto: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `2`
+- macro: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `0`
 
 ## Headlines
 
+- [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
 - [macro] Trump announces $700m coal investment using wartime powers (BBC News)
 - [macro] How Trump's White House ballroom plan has doubled in size and cost over a year (BBC News)
 - [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss (BBC News)
 - [macro] Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls (BBC News)
 - [macro] Here's why election results in the second largest US city are so slow (BBC News)
-- [macro] The May jobs report will be released Friday. Here's what to expect (Economy)
