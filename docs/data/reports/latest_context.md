@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-04T23:52:23.122994+00:00`
-- Market context score: `55.0`
-- News risk score: `35.95`
-- Macro risk score: `28.82`
-- Risk-on score: `41.24`
-- Articles: `56`
-- Polymarket markets: `394`
+- Generated: `2026-06-05T00:07:24.541019+00:00`
+- Market context score: `52.95`
+- News risk score: `35.96`
+- Macro risk score: `29.39`
+- Risk-on score: `36.92`
+- Articles: `54`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2626`
-- Day/swing latest: `2026-06-04T23:45:00+00:00`
+- Day/swing records: `2627`
+- Day/swing latest: `2026-06-05T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `3`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `0`
 
 ## Headlines
 
+- [macro] How Trump's White House ballroom plan has doubled in size and cost over a year (BBC News)
 - [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
 - [macro] Mangrove forests are healing after decades of human destruction (BBC News)
 - [macro] The ancient trick making food waste useful and tasty (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Here's why election results in the second largest US city are so slow (BBC News)
 - [macro] The May jobs report will be released Friday. Here's what to expect (Economy)
 - [crypto] Comptroller says only Democrats pressuring over crypto trust charter (Cointelegraph.com News)
-- [macro] AI needs a 'brake pedal', warns Anthropic co-founder (BBC News)
