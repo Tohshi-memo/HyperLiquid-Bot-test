@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T13:22:28.511747+00:00`
+- Generated: `2026-06-05T13:37:24.147042+00:00`
 - Market context score: `53.63`
 - News risk score: `36.03`
 - Macro risk score: `24.17`
 - Risk-on score: `36.52`
 - Articles: `46`
-- Polymarket markets: `396`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2679`
-- Day/swing latest: `2026-06-05T13:15:00+00:00`
+- Day/swing records: `2680`
+- Day/swing latest: `2026-06-05T13:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Nearly 50 people die of thirst in Sahara desert after lorry breaks down (BBC News)
 - [macro] Hospitality jobs boom as US prepares for World Cup (BBC News)
 - [crypto] CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] U.S. job growth blows past forecasts, setting stage for Fed rate hikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ (Cointelegraph.com News)
 - [crypto] How low can Bitcoin price go if $60K support fails? (Cointelegraph.com News)
 - [crypto] Live updates: bitcoin below $62,000 as blowout jobs data, Zcash bug keeps pressure on crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
