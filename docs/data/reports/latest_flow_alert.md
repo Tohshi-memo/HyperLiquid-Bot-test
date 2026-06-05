@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-05T14:25:27.982221+00:00`
+- Generated: `2026-06-05T14:30:28.320748+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,13 +8,13 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `28665678.43`
+- Polymarket 24h volume: `28753447.55`
 - Polymarket volume z-score: `-0.66`
 
 ## Top Polymarket Markets
 
-- Roland Garros ATP: Jakub Mensik vs Alexander Zverev | 24h volume: `4515410.551648008` | liquidity: `138959.4049`
-- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `2603123.9127460015` | liquidity: `645429.22394`
+- Roland Garros ATP: Jakub Mensik vs Alexander Zverev | 24h volume: `4586378.296773007` | liquidity: `176244.53507`
+- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `2603407.5827460014` | liquidity: `651881.30757`
 - Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2302850.0971129946` | liquidity: `463900.70945`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1345527.8178260014` | liquidity: `353787.19155`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1222665.8642889988` | liquidity: `527498.9233`
