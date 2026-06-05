@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T03:52:26.965804+00:00`
+- Generated: `2026-06-05T04:07:20.637865+00:00`
 - Market context score: `50.16`
 - News risk score: `36.29`
 - Macro risk score: `30.45`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2642`
-- Day/swing latest: `2026-06-05T03:45:00+00:00`
+- Day/swing records: `2643`
+- Day/swing latest: `2026-06-05T04:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] China cracks down on violence and misogyny in viral micro dramas (BBC News)
+- [macro] China cracks down on soft porn, violence and materialism in viral micro dramas (BBC News)
 - [macro] British Heart Foundation plans to close 150 charity shops (BBC News)
 - [macro] Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon (BBC News)
 - [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
