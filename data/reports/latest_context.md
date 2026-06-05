@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T19:37:27.209833+00:00`
+- Generated: `2026-06-05T19:52:23.630846+00:00`
 - Market context score: `57.14`
 - News risk score: `33.34`
 - Macro risk score: `17.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2703`
-- Day/swing latest: `2026-06-05T19:30:00+00:00`
+- Day/swing records: `2704`
+- Day/swing latest: `2026-06-05T19:45:00+00:00`
 
 ## News Categories
 
@@ -35,6 +35,6 @@
 - [macro] Singer Fally Ipupa's pride at being given major DR Congo honour (BBC News)
 - [crypto] Crypto tax in Illinois FY2027 budget is one step away from becoming law (Cointelegraph.com News)
 - [crypto] AI exposed a massive flaw in top crypto network and experts warn banks could be next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Analyst Report: Crowdstrike Holdings Inc (Yahoo Finance)
 - [macro] Analyst Report: Lyft Inc (Yahoo Finance)
+- [macro] Analyst Report: Crowdstrike Holdings Inc (Yahoo Finance)
 - [macro] Analyst Report: Palo Alto Networks Inc (Yahoo Finance)
