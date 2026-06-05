@@ -2,7 +2,7 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-05T22:04:43.912449+00:00`
+- Generated: `2026-06-05T22:07:22.490831+00:00`
 - Observed: `2026-06-05T22:00:00+00:00`
 - Assets: `794`
 
@@ -17,14 +17,14 @@ Individual asset screen for drilling down from class-level signals.
 - `@103` unknown price `5.742e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@103_24h`
 - `@121` unknown price `0.012087` 4h `-0.1074` vol `0.0` relationship `market_context_high->@121_24h`
 - `@251` unknown price `0.063` 4h `0.0` vol `0.0` relationship `market_context_high->@251_24h`
-- `@295` unknown price `0.009041` 4h `-0.0442` vol `0.0` relationship `market_context_high->@295_1h`
+- `@295` unknown price `0.00903` 4h `-0.1658` vol `0.0` relationship `market_context_high->@295_1h`
 - `@44` unknown price `0.0009125` 4h `0.0` vol `0.0` relationship `market_context_high->@44_24h`
-- `ZEC` crypto_alt price `370.69` 4h `9.4562` vol `1798026103.04` relationship `market_context_high->ZEC_24h`
-- `TON` crypto_alt price `1.51675` 4h `-0.7914` vol `34359292.2` relationship `market_context_high->TON_24h`
-- `VVV` crypto_alt price `17.3645` 4h `10.4261` vol `30180326.07` relationship `market_context_high->VVV_24h`
+- `TON` crypto_alt price `1.50545` 4h `-1.5306` vol `34450633.91` relationship `market_context_high->TON_24h`
+- `ZEC` crypto_alt price `366.685` 4h `8.2737` vol `1800200177.44` relationship `market_context_high->ZEC_24h`
+- `VVV` crypto_alt price `17.195` 4h `9.3482` vol `30240270.25` relationship `market_context_high->VVV_24h`
 - `@18` unknown price `0.006` 4h `0.0` vol `0.0` relationship `market_context_high->@18_24h`
-- `hyna:ZEC` unknown price `371.435` 4h `9.6892` vol `2853540.49` relationship `market_context_high->hyna:ZEC_24h`
-- `W` crypto_alt price `0.00967` 4h `-1.3265` vol `1012197.67` relationship `market_context_high->W_24h`
-- `@272` unknown price `371.07` 4h `9.6186` vol `0.0` relationship `market_context_high->@272_24h`
-- `@173` unknown price `59500.0` 4h `-10.2083` vol `0.0` relationship `market_context_high->@173_24h`
-- `NEAR` crypto_alt price `1.97495` 4h `0.0507` vol `178654465.13` relationship `market_context_high->NEAR_24h`
+- `hyna:ZEC` unknown price `367.14` 4h `8.4208` vol `2853653.66` relationship `market_context_high->hyna:ZEC_24h`
+- `W` crypto_alt price `0.00963` 4h `-1.7347` vol `1012962.1` relationship `market_context_high->W_24h`
+- `@272` unknown price `366.855` 4h `8.3735` vol `0.0` relationship `market_context_high->@272_24h`
+- `NEAR` crypto_alt price `1.9671` 4h `-0.347` vol `178889569.97` relationship `market_context_high->NEAR_24h`
+- `@173` unknown price `67250.0` 4h `1.4872` vol `0.0` relationship `market_context_high->@173_24h`

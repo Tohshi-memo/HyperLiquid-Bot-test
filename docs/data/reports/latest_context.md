@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T22:04:43.912449+00:00`
+- Generated: `2026-06-05T22:07:22.490831+00:00`
 - Market context score: `55.02`
 - News risk score: `33.2`
 - Macro risk score: `21.09`
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [commodity] Iran's threats against this Red Sea choke point are a big vulnerability for the oil market (Energy)
 - [macro] US stocks slump as fears over Big Tech shake Wall Street (BBC News)
 - [macro] Astronauts return to ISS after sheltering during air leak repair attempt (BBC News)
 - [crypto] Travala lets AI agents book hotels with USDC on Base (Cointelegraph.com News)
 - [crypto] Crypto tax proposals weighed ahead of Tuesday House hearing (Cointelegraph.com News)
-- [commodity] Iran's threats against this Red Sea chokepoint are a big vulnerability for the oil market (Energy)
 - [macro] Everest guide survived six-day ordeal by eating chocolate and 'chewing ice' (BBC News)
 - [macro] Trump to meet AI leaders to discuss US investment in their companies (BBC News)
 - [crypto] Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? (Cointelegraph.com News)
