@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T12:22:23.362548+00:00`
+- Generated: `2026-06-05T12:37:23.500707+00:00`
 - Market context score: `53.59`
 - News risk score: `35.2`
 - Macro risk score: `24.83`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2676`
-- Day/swing latest: `2026-06-05T12:15:00+00:00`
+- Day/swing records: `2677`
+- Day/swing latest: `2026-06-05T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [crypto] Live updates: bitcoin falls below $62,000 ahead of jobs data as Zcash bug rocks crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live updates: bitcoin falls below $62,000 as Zcash bug rocks crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fury in France after child murder suspect's criminal record released (BBC News)
 - [crypto] Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
