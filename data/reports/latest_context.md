@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T00:07:24.541019+00:00`
-- Market context score: `52.95`
-- News risk score: `35.96`
-- Macro risk score: `29.39`
-- Risk-on score: `36.92`
+- Generated: `2026-06-05T00:22:20.964269+00:00`
+- Market context score: `52.06`
+- News risk score: `36.91`
+- Macro risk score: `30.81`
+- Risk-on score: `36.28`
 - Articles: `54`
 - Polymarket markets: `393`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2627`
-- Day/swing latest: `2026-06-05T00:00:00+00:00`
+- Day/swing records: `2628`
+- Day/swing latest: `2026-06-05T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
-- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `0`
+- crypto: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `3`
+- macro: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump announces $700m coal investment using wartime powers (BBC News)
 - [macro] How Trump's White House ballroom plan has doubled in size and cost over a year (BBC News)
 - [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
 - [macro] Mangrove forests are healing after decades of human destruction (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls (BBC News)
 - [macro] Here's why election results in the second largest US city are so slow (BBC News)
 - [macro] The May jobs report will be released Friday. Here's what to expect (Economy)
-- [crypto] Comptroller says only Democrats pressuring over crypto trust charter (Cointelegraph.com News)
