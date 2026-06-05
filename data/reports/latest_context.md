@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T20:31:23.949088+00:00`
+- Generated: `2026-06-05T20:37:24.466231+00:00`
 - Market context score: `55.8`
 - News risk score: `34.9`
 - Macro risk score: `19.77`
