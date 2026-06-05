@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T02:22:23.401343+00:00`
-- Market context score: `51.88`
-- News risk score: `35.21`
-- Macro risk score: `33.19`
-- Risk-on score: `35.33`
+- Generated: `2026-06-05T02:37:25.291253+00:00`
+- Market context score: `54.81`
+- News risk score: `34.1`
+- Macro risk score: `30.97`
+- Risk-on score: `40.07`
 - Articles: `42`
-- Polymarket markets: `392`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2636`
-- Day/swing latest: `2026-06-05T02:15:00+00:00`
+- Day/swing records: `2637`
+- Day/swing latest: `2026-06-05T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `2`
-- macro: articles `24`, risk hits `8`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `0`
 
 ## Headlines
 
+- [macro] British Heart Foundation plans to close 150 charity shops (BBC News)
 - [macro] Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon (BBC News)
 - [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
 - [macro] Trump announces $700m coal investment using wartime powers (BBC News)
@@ -37,4 +38,3 @@
 - [macro] The ancient trick making food waste useful and tasty (BBC News)
 - [macro] Single 20-somethings need AI to make first move on dating apps - Hinge boss (BBC News)
 - [macro] Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss (BBC News)
-- [macro] Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls (BBC News)
