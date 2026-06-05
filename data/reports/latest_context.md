@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-05T07:52:21.200898+00:00`
+- Generated: `2026-06-05T08:07:25.653842+00:00`
 - Market context score: `47.98`
 - News risk score: `38.21`
 - Macro risk score: `29.32`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:424`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2658`
-- Day/swing latest: `2026-06-05T07:45:00+00:00`
+- Day/swing records: `2659`
+- Day/swing latest: `2026-06-05T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
+- [crypto] Here's what could happen if bitcoin breaks below $60,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] We need to have ability to slow AI down, says Anthropic co-founder (BBC News)
 - [crypto] Crypto billionaires bankroll Nigel Farage's pro-crypto party (Cointelegraph.com News)
 - [crypto] Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic says self-improving AI may be closer than expected (Cointelegraph.com News)
 - [macro] Ex-wife of Dubai ruler's nephew in custody, prosecutors say (BBC News)
-- [crypto] Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Zelensky proposes face-to-face talks in open letter to Putin (BBC News)
