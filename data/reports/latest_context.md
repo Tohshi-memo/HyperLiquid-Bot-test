@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T09:37:24.497999+00:00`
-- Market context score: `46.83`
-- News risk score: `37.82`
-- Macro risk score: `29.14`
-- Risk-on score: `24.79`
-- Articles: `18`
+- Generated: `2026-06-06T09:52:21.284325+00:00`
+- Market context score: `46.9`
+- News risk score: `37.0`
+- Macro risk score: `32.0`
+- Risk-on score: `25.33`
+- Articles: `17`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2757`
-- Day/swing latest: `2026-06-06T09:30:00+00:00`
+- Day/swing records: `2758`
+- Day/swing latest: `2026-06-06T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Researcher who found Zcash's bug with AI adds Monero to his audit queue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72 (BBC News)
 - [macro] Armenia braces for election as Russia piles pressure on pro-West government (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Cardano social activity surges as ADA falls under 20 cents to four-year lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran's football team granted visas to enter US for World Cup, officials say (BBC News)
 - [macro] Rumours and speculation as fans forecast date of Taylor Swift's wedding (BBC News)
-- [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
