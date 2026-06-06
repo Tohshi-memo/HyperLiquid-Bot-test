@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-06T02:25:22.469333+00:00`
+- Generated: `2026-06-06T02:30:25.576479+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,15 +8,15 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18225663.82`
+- Polymarket 24h volume: `18218931.68`
 - Polymarket volume z-score: `-0.82`
 
 ## Top Polymarket Markets
 
 - Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2602529.872512996` | liquidity: `570571.84918`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1527686.3856010004` | liquidity: `722210.1302`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1207512.58` | liquidity: `2162450.17763`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1065282.9351980002` | liquidity: `860288.67331`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1526144.2979970009` | liquidity: `719096.9575`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1207512.58` | liquidity: `2162799.73915`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1063104.0191980002` | liquidity: `860510.27108`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `912619.246801` | liquidity: `549732.8273`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `679502.35` | liquidity: `233575.25971`
 - Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? | 24h volume: `655345.638898` | liquidity: `623436.64901`
