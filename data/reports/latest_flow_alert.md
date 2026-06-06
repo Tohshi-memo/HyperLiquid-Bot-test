@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-06T18:45:26.879648+00:00`
+- Generated: `2026-06-06T18:50:38.126492+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,15 +8,15 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `20312811.66`
+- Polymarket 24h volume: `20444933.07`
 - Polymarket volume z-score: `-0.75`
 
 ## Top Polymarket Markets
 
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `4376216.442228` | liquidity: `3830855.45988`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `4376883.108896` | liquidity: `3829176.85648`
 - Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `2247500.5900000003` | liquidity: `1437725.10329`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1429124.555` | liquidity: `122744.03746`
-- Will China invade Taiwan by end of 2026? | 24h volume: `1281538.4069069999` | liquidity: `764345.17848`
+- Will China invade Taiwan by end of 2026? | 24h volume: `1281724.0666340003` | liquidity: `764886.30489`
 - US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1022041.1077950005` | liquidity: `337220.80376`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `949414.3209819995` | liquidity: `647088.9481`
 - Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `812353.4996439997` | liquidity: `889023.66625`
