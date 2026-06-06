@@ -2,7 +2,7 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-06T21:00:10.429587+00:00`
+- Generated: `2026-06-06T21:07:25.417644+00:00`
 - Observed: `2026-06-06T21:00:00+00:00`
 - Assets: `884`
 
@@ -19,12 +19,12 @@ Individual asset screen for drilling down from class-level signals.
 - `@170` unknown price `0.0019` 4h `0.0` vol `0.0` relationship `market_context_high->@170_24h`
 - `@132` unknown price `0.00163` 4h `-0.5491` vol `0.0` relationship `market_context_high->@132_24h`
 - `@18` unknown price `0.00605` 4h `0.0` vol `0.0` relationship `market_context_high->@18_24h`
-- `TON` crypto_alt price `1.60495` 4h `-0.2052` vol `21355654.9` relationship `market_context_high->TON_24h`
-- `NEAR` crypto_alt price `1.8744` 4h `-0.3694` vol `43516821.5` relationship `market_context_high->NEAR_24h`
-- `W` crypto_alt price `0.00935` 4h `-0.3198` vol `573699.81` relationship `market_context_high->W_24h`
-- `@295` unknown price `0.008645` 4h `-2.2059` vol `0.0` relationship `market_context_high->@295_1h`
-- `VVV` crypto_alt price `15.373` 4h `-4.5718` vol `29665646.29` relationship `market_context_high->VVV_24h`
-- `ICP` crypto_alt price `2.28765` 4h `-0.0895` vol `1349276.29` relationship `market_context_high->ICP_24h`
-- `ENA` crypto_alt price `0.090253` 4h `-0.1792` vol `16841358.69` relationship `market_context_high->ENA_24h`
+- `TON` crypto_alt price `1.6032` 4h `-0.314` vol `21272983.9` relationship `market_context_high->TON_24h`
+- `NEAR` crypto_alt price `1.8745` 4h `-0.3641` vol `42960862.15` relationship `market_context_high->NEAR_24h`
+- `@295` unknown price `0.008634` 4h `-2.3303` vol `0.0` relationship `market_context_high->@295_1h`
+- `W` crypto_alt price `0.00937` 4h `-0.1066` vol `565884.56` relationship `market_context_high->W_24h`
+- `VVV` crypto_alt price `15.479` 4h `-3.9138` vol `29266925.16` relationship `market_context_high->VVV_24h`
+- `ICP` crypto_alt price `2.29125` 4h `0.0677` vol `1330850.47` relationship `market_context_high->ICP_24h`
+- `ENA` crypto_alt price `0.090398` 4h `-0.0188` vol `16753285.53` relationship `market_context_high->ENA_24h`
 - `NOT` crypto_alt price `0.000366` 4h `-1.3477` vol `80865.39` relationship `market_context_high->NOT_24h`
-- `@173` unknown price `54168.0` 4h `0.0009` vol `0.0` relationship `market_context_high->@173_24h`
+- `hyna:ENA` unknown price `0.090475` 4h `0.0929` vol `23051.17` relationship `market_context_high->hyna:ENA_24h`

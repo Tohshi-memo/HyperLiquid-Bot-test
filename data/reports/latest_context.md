@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T21:00:10.429587+00:00`
-- Market context score: `58.36`
+- Generated: `2026-06-06T21:07:25.417644+00:00`
+- Market context score: `57.85`
 - News risk score: `34.6`
 - Macro risk score: `22.0`
-- Risk-on score: `45.0`
+- Risk-on score: `43.86`
 - Articles: `50`
 - Polymarket markets: `399`
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Nvidia CEO Jensen Huang Says This Is the Next Trillion-Dollar AI Chip Stock. Is He Right? (Yahoo Finance)
 - [macro] Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (BBC News)
 - [macro] What Will SpaceX’s IPO Mean for Your Index Funds? (Yahoo Finance)
 - [macro] Healthcare Stocks Can Benefit From AI, Too. But That Isn’t the Reason to Buy Them. (Yahoo Finance)
@@ -35,6 +36,5 @@
 - [macro] Is Your Plan for Retirement Too Safe? (Yahoo Finance)
 - [macro] How a 73-Year-Old’s First RMD Suddenly Pushed Her Effective Tax Rate to 40 Percent (Yahoo Finance)
 - [macro] Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech (BBC News)
-- [macro] Bitcoin's Biggest Buyer Just Sold Some. Should Other Investors Follow Suit? (Yahoo Finance)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
 - [crypto] Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
