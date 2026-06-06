@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T17:22:18.818849+00:00`
-- Market context score: `53.59`
-- News risk score: `38.76`
-- Macro risk score: `24.97`
-- Risk-on score: `39.03`
-- Articles: `48`
+- Generated: `2026-06-06T17:37:27.565287+00:00`
+- Market context score: `53.83`
+- News risk score: `38.16`
+- Macro risk score: `22.77`
+- Risk-on score: `38.23`
+- Articles: `50`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:515`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2788`
-- Day/swing latest: `2026-06-06T17:15:00+00:00`
+- Day/swing records: `2789`
+- Day/swing latest: `2026-06-06T17:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
-- macro: articles `36`, risk hits `9`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `38`, risk hits `8`, risk headline rate `0.1842`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] 72-year-old Mexican chain has closed over 150 restaurants (Yahoo Finance)
+- [macro] Here’s Why Flex Ltd (FLEX) is Among the Best Performing Stocks in May (Yahoo Finance)
+- [macro] Goldman Sachs Raises PT on ​Hewlett Packard Enterprise (HPE) (Yahoo Finance)
+- [macro] Wedbush Raises PT on Palo Alto Networks (PANW) (Yahoo Finance)
+- [macro] Fortinet (FTNT) Gains More than 70% in May, Here’s What Took the Stock Higher (Yahoo Finance)
+- [macro] CrowdStrike Holdings (CRWD) Reports FQ1 2027 Earnings, Here’s What’s Important to Note (Yahoo Finance)
 - [macro] Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (BBC News)
 - [macro] Lebanese general among three soldiers killed in Israeli attack on car (BBC News)
-- [macro] 57% Say They Haven’t Saved Enough, and the Data Confirms It (Yahoo Finance)
-- [macro] Pfizer's 6.7% Yield Looks Scary -- but the Dividend Story Is Stronger Than It Seems (Yahoo Finance)
-- [crypto] Meta is paying creators in Stablecoins. Spending them is someone else's problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] They have $3M invested and 2 kids headed to college — retiring at 60 could still be within reach (Yahoo Finance)
-- [macro] The Biggest IPOs in History -- and How They Performed (Yahoo Finance)
-- [macro] Buy This AI Stock to Own SpaceX Pre-IPO and Hold It Through the Robotaxi Boom (Yahoo Finance)
-- [macro] Is Pepe the Next Dogecoin -- or Just Another Meme Coin That Will Fade? (Yahoo Finance)
-- [macro] Warren Buffett: “People Still Don’t Want to Think It Will Work” (Yahoo Finance)
+- [macro] Billionaire Ray Dalio issues stunning verdict on U.S. national debt (Yahoo Finance)
+- [macro] Why Astera Labs Rocketed Higher in May (Yahoo Finance)
