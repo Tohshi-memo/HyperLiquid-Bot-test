@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T12:22:21.174748+00:00`
-- Market context score: `50.5`
-- News risk score: `37.0`
-- Macro risk score: `32.0`
-- Risk-on score: `33.33`
+- Generated: `2026-06-06T12:37:30.567351+00:00`
+- Market context score: `56.14`
+- News risk score: `34.5`
+- Macro risk score: `27.0`
+- Risk-on score: `41.86`
 - Articles: `17`
 - Polymarket markets: `399`
 
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2768`
-- Day/swing latest: `2026-06-06T12:15:00+00:00`
+- Day/swing records: `2769`
+- Day/swing latest: `2026-06-06T12:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
-- [macro] The next NVIDIA? These 3 stocks below $50 are poised to win the next AI boom (and they’re still flying under the radar) (Yahoo Finance)
-- [macro] The Social Security Switch Most Widows Never Make: How to Gain $5,856 Yearly Income (Yahoo Finance)
-- [macro] Nvidia Wants to Sell AI Factories, Not Chips (Yahoo Finance)
+- [macro] 3 Cathie Wood ETFs to Buy Before They (Likely) Invest in SpaceX (Yahoo Finance)
+- [macro] ‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums? (Yahoo Finance)
+- [macro] XRP Price Analysis: Will XRP ETF Inflows Stall as Price Approaches $1? (Yahoo Finance)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
 - [macro] Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (BBC News)
 - [macro] Lebanon says three soldiers killed in Israeli attack on car (BBC News)
