@@ -2,7 +2,7 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-06T22:07:22.521102+00:00`
+- Generated: `2026-06-06T22:14:32.370038+00:00`
 - Observed: `2026-06-06T22:00:00+00:00`
 - Assets: `884`
 
@@ -18,13 +18,13 @@ Individual asset screen for drilling down from class-level signals.
 - `@178` unknown price `0.7735` 4h `0.0` vol `0.0` relationship `market_context_high->@178_4h`
 - `@132` unknown price `0.00163` 4h `-0.5491` vol `0.0` relationship `market_context_high->@132_24h`
 - `@170` unknown price `0.0019` 4h `0.0` vol `0.0` relationship `market_context_high->@170_24h`
-- `TON` crypto_alt price `1.6478` 4h `3.9195` vol `21050673.9` relationship `market_context_high->TON_24h`
+- `TON` crypto_alt price `1.65825` 4h `4.5786` vol `21363916.28` relationship `market_context_high->TON_24h`
 - `@18` unknown price `0.00605` 4h `0.0` vol `0.0` relationship `market_context_high->@18_24h`
-- `W` crypto_alt price `0.00947` 4h `2.1575` vol `568925.29` relationship `market_context_high->W_24h`
-- `NEAR` crypto_alt price `1.86185` 4h `0.5617` vol `40523927.89` relationship `market_context_high->NEAR_24h`
-- `ZEC` crypto_alt price `350.28` 4h `-3.1078` vol `411280406.11` relationship `market_context_high->ZEC_24h`
+- `W` crypto_alt price `0.00949` 4h `2.3732` vol `569621.14` relationship `market_context_high->W_24h`
+- `NEAR` crypto_alt price `1.85275` 4h `0.0702` vol `40553636.11` relationship `market_context_high->NEAR_24h`
 - `@295` unknown price `0.008664` 4h `0.4871` vol `0.0` relationship `market_context_high->@295_1h`
-- `hyna:ZEC` unknown price `350.265` 4h `-3.2885` vol `845377.72` relationship `market_context_high->hyna:ZEC_24h`
-- `@272` unknown price `350.305` 4h `-3.125` vol `0.0` relationship `market_context_high->@272_24h`
-- `ICP` crypto_alt price `2.2894` 4h `0.5667` vol `1294558.12` relationship `market_context_high->ICP_24h`
-- `ENA` crypto_alt price `0.089603` 4h `-0.1304` vol `15066646.01` relationship `market_context_high->ENA_24h`
+- `ZEC` crypto_alt price `352.815` 4h `-2.4065` vol `411560889.57` relationship `market_context_high->ZEC_24h`
+- `hyna:ZEC` unknown price `352.985` 4h `-2.5374` vol `845646.96` relationship `market_context_high->hyna:ZEC_24h`
+- `ICP` crypto_alt price `2.28365` 4h `0.3141` vol `1305579.61` relationship `market_context_high->ICP_24h`
+- `ENA` crypto_alt price `0.089281` 4h `-0.4893` vol `15086732.62` relationship `market_context_high->ENA_24h`
+- `@272` unknown price `352.915` 4h `-2.4032` vol `0.0` relationship `market_context_high->@272_24h`

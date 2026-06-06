@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T22:07:22.521102+00:00`
+- Generated: `2026-06-06T22:14:32.370038+00:00`
 - Market context score: `56.7`
 - News risk score: `36.06`
 - Macro risk score: `21.52`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] UWM Holdings (UWMC) Criticized Two Harbors’ Board, Here’s What You Need to Know (Yahoo Finance)
 - [macro] Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States? (Yahoo Finance)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
 - [macro] Dell's AI Factory Is Booming With a Backlog of $51 Billion, But Will It Lift Margins? (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech (BBC News)
 - [macro] Is Salesforce or ServiceNow a Better Stock to Buy Right Now? (Yahoo Finance)
 - [macro] Nvidia CEO Jensen Huang Says This Is the Next Trillion-Dollar AI Chip Stock. Is He Right? (Yahoo Finance)
-- [macro] Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (BBC News)
