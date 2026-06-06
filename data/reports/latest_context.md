@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T15:37:21.357707+00:00`
-- Market context score: `53.84`
-- News risk score: `37.86`
-- Macro risk score: `26.21`
-- Risk-on score: `39.3`
-- Articles: `46`
+- Generated: `2026-06-06T15:39:18.062177+00:00`
+- Market context score: `53.88`
+- News risk score: `36.99`
+- Macro risk score: `24.97`
+- Risk-on score: `38.18`
+- Articles: `45`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -23,17 +23,17 @@
 ## News Categories
 
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `38`, risk hits `11`, risk headline rate `0.2368`, policy hits `0`
+- macro: articles `37`, risk hits `10`, risk headline rate `0.2162`, policy hits `0`
 
 ## Headlines
 
-- [macro] Warren Buffett's Berkshire Hathaway Has 67% of Its Portfolio in 5 Stocks. Should You Copy Him? (Yahoo Finance)
 - [macro] My parents didn’t plan for retirement, but I’ve got millions – what’s the best way to help them? (Yahoo Finance)
-- [macro] Jim Cramer on Banco Santander: “I Think It’s Paused Here as It Catches Its Breath” (Yahoo Finance)
-- [macro] Jim Cramer on Becton, Dickinson: “I Think You Buy Some and Then You Wait” (Yahoo Finance)
 - [macro] Jim Cramer on JFrog: “I Want You to Take a Little off the Table” (Yahoo Finance)
-- [macro] Jim Cramer on Prologis: “I’ve Always Liked It so Much” (Yahoo Finance)
 - [macro] Jim Cramer Says “Right Now, Boeing Trades With the War” (Yahoo Finance)
 - [macro] Jim Cramer on Axon: “It Sells at a Very High Price to Earnings Multiple” (Yahoo Finance)
-- [macro] Jim Cramer on Applied Aerospace & Defense: “A Stock I Want to Own at Some Price” (Yahoo Finance)
 - [macro] Jim Cramer Says Eli Lilly CEO Is a “Terrific Steward of His Shareholders’ Capital” (Yahoo Finance)
+- [macro] Jim Cramer on DoorDash: “I Like the Company and Management Very Much” (Yahoo Finance)
+- [macro] Jim Cramer on Six Flags: “I Think It’s Too Dicey” (Yahoo Finance)
+- [macro] Jim Cramer Calls NVIDIA the “Heart” of Data Center Story (Yahoo Finance)
+- [macro] Jim Cramer Believes “Alphabet Could Raise Serious Money” (Yahoo Finance)
+- [macro] SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here’s Why Early Investors Are Banking On It (Yahoo Finance)
