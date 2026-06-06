@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T05:52:24.159301+00:00`
-- Market context score: `53.98`
-- News risk score: `31.38`
-- Macro risk score: `28.47`
-- Risk-on score: `35.0`
+- Generated: `2026-06-06T06:07:25.011767+00:00`
+- Market context score: `61.23`
+- News risk score: `25.55`
+- Macro risk score: `26.8`
+- Risk-on score: `45.56`
 - Articles: `17`
 - Polymarket markets: `398`
 
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2742`
-- Day/swing latest: `2026-06-06T05:45:00+00:00`
+- Day/swing records: `2743`
+- Day/swing latest: `2026-06-06T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.1111`, policy hits `1`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
@@ -32,9 +32,9 @@
 - [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
 - [crypto] ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next? (Cointelegraph.com News)
 - [commodity] Iran's threats against this Red Sea choke point are a big vulnerability for the oil market (Energy)
+- [macro] Why are devastating mice plagues happening in Australia? (BBC News)
 - [macro] US stocks slump as fears over Big Tech shake Wall Street (BBC News)
 - [macro] Astronauts return to ISS after sheltering during air leak repair attempt (BBC News)
 - [crypto] Travala lets AI agents book hotels with USDC on Base (Cointelegraph.com News)
 - [crypto] Crypto tax proposals weighed ahead of Tuesday House hearing (Cointelegraph.com News)
 - [macro] Everest guide survived six-day ordeal by eating chocolate and 'chewing ice' (BBC News)
-- [macro] Trump to meet AI leaders to discuss US investment in their companies (BBC News)
