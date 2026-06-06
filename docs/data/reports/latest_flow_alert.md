@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-06T22:50:21.566699+00:00`
+- Generated: `2026-06-06T22:55:23.378389+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `24575299.47`
+- Polymarket 24h volume: `24378734.43`
 - Polymarket volume z-score: `-0.68`
 
 ## Top Polymarket Markets
 
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `4672941.358441998` | liquidity: `4200159.49357`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `2237722.49` | liquidity: `1650251.28687`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2101720.835` | liquidity: `7768747.43674`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1349881.8401439998` | liquidity: `1381736.74484`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1297306.205` | liquidity: `246196.08607`
-- Will China invade Taiwan by end of 2026? | 24h volume: `1281230.348366005` | liquidity: `616887.29119`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1062759.4245470022` | liquidity: `452104.45005`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `844330.0920539993` | liquidity: `795483.2134`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `4653361.358441998` | liquidity: `4272607.79027`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `2237722.49` | liquidity: `1650248.59485`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2106139.795` | liquidity: `7770785.13874`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1349541.9101439998` | liquidity: `1384463.63522`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1297306.205` | liquidity: `245895.84617`
+- Will China invade Taiwan by end of 2026? | 24h volume: `1282830.5561330065` | liquidity: `615872.82243`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1061986.188046002` | liquidity: `432024.26206`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `845928.0263539994` | liquidity: `827728.9805`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
