@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-06T19:22:20.412562+00:00`
-- Observed: `2026-06-06T19:15:00+00:00`
+- Generated: `2026-06-06T19:37:27.447541+00:00`
+- Observed: `2026-06-06T19:30:00+00:00`
 - Assets: `884`
 
 ## Top Activity
@@ -19,12 +19,12 @@ Individual asset screen for drilling down from class-level signals.
 - `@170` unknown price `0.0019` 4h `0.0` vol `0.0` relationship `market_context_high->@170_24h`
 - `@132` unknown price `0.00163` 4h `-0.5491` vol `0.0` relationship `market_context_high->@132_24h`
 - `@18` unknown price `0.00605` 4h `0.0` vol `0.0` relationship `market_context_high->@18_24h`
-- `TON` crypto_alt price `1.6099` 4h `2.2289` vol `22393189.2` relationship `market_context_high->TON_24h`
-- `NEAR` crypto_alt price `1.86735` 4h `1.6162` vol `49575914.34` relationship `market_context_high->NEAR_24h`
-- `@295` unknown price `0.008685` 4h `-0.8675` vol `0.0` relationship `market_context_high->@295_4h`
-- `WLD` crypto_alt price `0.41829` 4h `1.2588` vol `125417823.47` relationship `market_context_high->WLD_24h`
-- `W` crypto_alt price `0.00937` 4h `0.4287` vol `619216.0` relationship `market_context_high->W_24h`
+- `TON` crypto_alt price `1.60875` 4h `0.7641` vol `22080423.07` relationship `market_context_high->TON_24h`
+- `NEAR` crypto_alt price `1.8666` 4h `-1.0785` vol `48530420.32` relationship `market_context_high->NEAR_24h`
+- `W` crypto_alt price `0.00932` 4h `-0.8511` vol `605395.84` relationship `market_context_high->W_24h`
+- `@295` unknown price `0.008644` 4h `-1.9844` vol `0.0` relationship `market_context_high->@295_1h`
+- `WLD` crypto_alt price `0.41535` 4h `-1.1613` vol `125030188.62` relationship `market_context_high->WLD_24h`
 - `@173` unknown price `54167.5` 4h `0.0` vol `0.0` relationship `market_context_high->@173_24h`
-- `ICP` crypto_alt price `2.27615` 4h `-0.5375` vol `1530456.43` relationship `market_context_high->ICP_24h`
-- `VVV` crypto_alt price `15.841` 4h `-0.9442` vol `30415938.96` relationship `market_context_high->VVV_24h`
-- `NOT` crypto_alt price `0.000368` 4h `-0.271` vol `87501.7` relationship `market_context_high->NOT_24h`
+- `ICP` crypto_alt price `2.27505` 4h `-1.325` vol `1509885.89` relationship `market_context_high->ICP_24h`
+- `VVV` crypto_alt price `15.8505` 4h `-1.8666` vol `30093077.95` relationship `market_context_high->VVV_24h`
+- `NOT` crypto_alt price `0.000367` 4h `-1.6086` vol `86665.88` relationship `market_context_high->NOT_24h`
