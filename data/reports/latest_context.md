@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T03:22:20.628542+00:00`
-- Market context score: `51.66`
-- News risk score: `27.84`
-- Macro risk score: `20.28`
-- Risk-on score: `23.75`
+- Generated: `2026-06-06T03:37:22.234661+00:00`
+- Market context score: `57.63`
+- News risk score: `27.76`
+- Macro risk score: `20.78`
+- Risk-on score: `37.14`
 - Articles: `32`
 - Polymarket markets: `397`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2733`
-- Day/swing latest: `2026-06-06T03:15:00+00:00`
+- Day/swing records: `2734`
+- Day/swing latest: `2026-06-06T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `1`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
+- crypto: articles `17`, risk hits `3`, risk headline rate `0.1176`, policy hits `1`
+- macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Cardano social activity surges as ADA falls under 20 cents to four-year lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
 - [crypto] ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next? (Cointelegraph.com News)
 - [commodity] Iran's threats against this Red Sea choke point are a big vulnerability for the oil market (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Crypto tax proposals weighed ahead of Tuesday House hearing (Cointelegraph.com News)
 - [macro] Everest guide survived six-day ordeal by eating chocolate and 'chewing ice' (BBC News)
 - [macro] Trump to meet AI leaders to discuss US investment in their companies (BBC News)
-- [crypto] Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? (Cointelegraph.com News)
