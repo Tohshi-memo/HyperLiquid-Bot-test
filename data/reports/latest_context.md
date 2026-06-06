@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T11:37:23.440140+00:00`
+- Generated: `2026-06-06T11:52:23.997273+00:00`
 - Market context score: `53.76`
 - News risk score: `35.57`
 - Macro risk score: `29.14`
 - Risk-on score: `38.29`
 - Articles: `12`
-- Polymarket markets: `400`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2765`
-- Day/swing latest: `2026-06-06T11:30:00+00:00`
+- Day/swing records: `2766`
+- Day/swing latest: `2026-06-06T11:45:00+00:00`
 
 ## News Categories
 
@@ -27,7 +27,7 @@
 
 ## Headlines
 
-- [macro] Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (BBC News)
+- [macro] Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (BBC News)
 - [crypto] Are retail traders selling their bitcoin to buy the SpaceX IPO? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Researcher who found Zcash's bug with AI adds Monero to his audit queue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
