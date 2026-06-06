@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T06:22:26.136133+00:00`
-- Market context score: `63.48`
-- News risk score: `23.44`
-- Macro risk score: `22.49`
-- Risk-on score: `47.14`
-- Articles: `13`
+- Generated: `2026-06-06T06:37:24.085981+00:00`
+- Market context score: `56.01`
+- News risk score: `25.29`
+- Macro risk score: `26.38`
+- Risk-on score: `33.56`
+- Articles: `24`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2744`
-- Day/swing latest: `2026-06-06T06:15:00+00:00`
+- Day/swing records: `2745`
+- Day/swing latest: `2026-06-06T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
 
 ## Headlines
 
+- [macro] US and Iran exchange strikes in Gulf in latest test of ceasefire (BBC News)
+- [macro] Canada bans Texas cattle over flesh-eating screwworm outbreak in US (BBC News)
 - [crypto] Cardano social activity surges as ADA falls under 20 cents to four-year lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Iran's football team granted visas to enter US for World Cup, officials say (BBC News)
+- [macro] Rumours and speculation as fans forecast date of Taylor Swift's wedding (BBC News)
 - [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
-- [crypto] ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next? (Cointelegraph.com News)
-- [commodity] Iran's threats against this Red Sea choke point are a big vulnerability for the oil market (Energy)
-- [macro] Why are devastating mice plagues happening in Australia? (BBC News)
-- [macro] US stocks slump as fears over Big Tech shake Wall Street (BBC News)
-- [macro] Astronauts return to ISS after sheltering during air leak repair attempt (BBC News)
-- [crypto] Travala lets AI agents book hotels with USDC on Base (Cointelegraph.com News)
-- [crypto] Crypto tax proposals weighed ahead of Tuesday House hearing (Cointelegraph.com News)
-- [macro] Everest guide survived six-day ordeal by eating chocolate and 'chewing ice' (BBC News)
+- [macro] I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara (BBC News)
+- [macro] The cash-in-the-sofa saga that just won't go away for South Africa's president (BBC News)
+- [macro] Armenia braces for election as Russia piles pressure on pro-West government (BBC News)
+- [macro] Palestinian baby killed by Israeli gunfire in West Bank, health ministry says (BBC News)
