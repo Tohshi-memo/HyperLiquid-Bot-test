@@ -2,14 +2,14 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-06T16:22:21.648762+00:00`
-- Observed: `2026-06-06T16:15:00+00:00`
+- Generated: `2026-06-06T16:37:26.170746+00:00`
+- Observed: `2026-06-06T16:30:00+00:00`
 - Assets: `884`
 
 ## Top Activity
 
 - `@190` unknown price `0.010813` 4h `0.0` vol `0.0` relationship `market_context_high->@190_24h`
-- `@48` unknown price `0.00038377` 4h `0.0574` vol `0.0` relationship `market_context_high->@48_24h`
+- `@48` unknown price `0.00038382` 4h `0.0704` vol `0.0` relationship `market_context_high->@48_24h`
 - `@302` unknown price `0.0038414` 4h `0.0` vol `0.0` relationship `market_context_high->@302_24h`
 - `@248` unknown price `183.5` 4h `1.9444` vol `0.0` relationship `market_context_high->@248_24h`
 - `@170` unknown price `0.0019` 4h `0.0` vol `0.0` relationship `market_context_high->@170_24h`
@@ -18,13 +18,13 @@ Individual asset screen for drilling down from class-level signals.
 - `@251` unknown price `0.06295` 4h `0.0` vol `0.0` relationship `market_context_high->@251_24h`
 - `@132` unknown price `0.001639` 4h `-0.9069` vol `0.0` relationship `market_context_high->@132_24h`
 - `@18` unknown price `0.00605` 4h `0.0` vol `0.0` relationship `market_context_high->@18_24h`
-- `WLD` crypto_alt price `0.40833` 4h `-1.2575` vol `135081397.84` relationship `market_context_high->WLD_24h`
+- `WLD` crypto_alt price `0.40327` 4h `-1.1036` vol `133021701.6` relationship `market_context_high->WLD_24h`
 - `@178` unknown price `0.7735` 4h `0.0` vol `0.0` relationship `market_context_high->@178_4h`
-- `NEAR` crypto_alt price `1.8635` 4h `-2.0113` vol `67734970.36` relationship `market_context_high->NEAR_24h`
-- `TON` crypto_alt price `1.5907` 4h `3.195` vol `19053850.56` relationship `market_context_high->TON_24h`
-- `W` crypto_alt price `0.0094` 4h `-0.3181` vol `668133.01` relationship `market_context_high->W_24h`
-- `@295` unknown price `0.008925` 4h `0.0561` vol `0.0` relationship `market_context_high->@295_1h`
+- `TON` crypto_alt price `1.6033` 4h `4.151` vol `19129294.93` relationship `market_context_high->TON_24h`
+- `NEAR` crypto_alt price `1.868` 4h `-1.3988` vol `65352997.82` relationship `market_context_high->NEAR_24h`
+- `W` crypto_alt price `0.00936` 4h `-0.2132` vol `662688.03` relationship `market_context_high->W_24h`
 - `@44` unknown price `0.00061882` 4h `0.0` vol `0.0` relationship `market_context_high->@44_24h`
-- `ZEC` crypto_alt price `352.04` 4h `-2.1595` vol `639969848.88` relationship `market_context_high->ZEC_24h`
+- `@295` unknown price `0.008794` 4h `1.1502` vol `0.0` relationship `market_context_high->@295_1h`
 - `@173` unknown price `54167.5` 4h `0.0` vol `0.0` relationship `market_context_high->@173_24h`
-- `SUSHI` crypto_alt price `0.1677` 4h `-1.3587` vol `330292.92` relationship `market_context_high->SUSHI_24h`
+- `SUSHI` crypto_alt price `0.16823` 4h `-0.5733` vol `331107.17` relationship `market_context_high->SUSHI_24h`
+- `@86` unknown price `0.086551` 4h `0.0` vol `0.0` relationship `market_context_high->@86_24h`
