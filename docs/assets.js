@@ -112,8 +112,10 @@ function renderRows() {
   const query = document.getElementById("assetSearch")?.value.trim().toLowerCase() || "";
   const assetClass = document.getElementById("assetClassFilter")?.value || "all";
   const sortKey = document.getElementById("assetSort")?.value || "activity";
+  const hideUnknownAux = document.getElementById("hideUnknownAux")?.checked ?? true;
 
   const rows = assetRows
+    .filter((row) => !hideUnknownAux || !isMetadataOnlySymbol(row))
     .filter((row) => assetClass === "all" || row.asset_class === assetClass)
     .filter((row) => {
       const text = `${row.symbol} ${row.display_name || ""} ${row.asset_class || ""}`.toLowerCase();
@@ -149,6 +151,14 @@ function renderRows() {
   }).join("") || `<tr><td colspan="11">No matching assets.</td></tr>`;
 }
 
+function isMetadataOnlySymbol(row) {
+  const symbol = String(row?.symbol || "");
+  const assetClass = String(row?.asset_class || "unknown");
+  const volume = Number(row?.day_ntl_vlm || 0);
+  const openInterest = Number(row?.open_interest || 0);
+  return assetClass === "unknown" && /^[@#]/.test(symbol) && volume <= 0 && openInterest <= 0;
+}
+
 async function init() {
   try {
     const data = await loadJson(DATA.assetFeatures);
@@ -167,7 +177,7 @@ async function init() {
   }
 }
 
-for (const id of ["assetSearch", "assetClassFilter", "assetSort"]) {
+for (const id of ["assetSearch", "assetClassFilter", "assetSort", "hideUnknownAux"]) {
   document.getElementById(id)?.addEventListener("input", renderRows);
   document.getElementById(id)?.addEventListener("change", renderRows);
 }

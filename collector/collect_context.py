@@ -61,6 +61,12 @@ CRYPTO_MARKET_WORDS = {
     "btc", "bitcoin", "eth", "ethereum", "crypto", "stablecoin", "usdt",
     "usdc", "solana", "sol", "xrp", "doge", "hyperliquid", "binance", "megaeth",
 }
+PUBLIC_HEALTH_MARKET_WORDS = {
+    "pandemic", "covid", "covid-19", "coronavirus", "virus", "disease",
+    "outbreak", "bird flu", "avian flu", "h5n1", "h5n5", "hantavirus",
+    "public health", "world health organization", "who declare", "who declares",
+    "who emergency", "who pandemic", "who outbreak", "vaccine", "mpox", "ebola",
+}
 FLOW_ALERT_PROFILES = {"flow_alert", "flow-alert", "alert", "alerts"}
 
 POSITIVE_WORDS = {
@@ -659,7 +665,7 @@ def summarize_polymarket(markets: list[dict[str, Any]]) -> dict[str, Any]:
     return {
         "market_count": len(clean),
         "top_markets": rows,
-        "health_markets": [row for row in rows if row.get("impact_category") in {"health", "pandemic"}][:10],
+        "health_markets": [row for row in rows if is_public_health_polymarket(row)][:10],
     }
 
 
@@ -738,7 +744,7 @@ def summarize_polymarket_flow(markets: list[dict[str, Any]]) -> dict[str, Any]:
         "lifetime_volume": round(sum(item["volume"] for item in rows), 2),
         "liquidity": round(sum(item["liquidity"] for item in rows), 2),
         "top_markets": rows[:10],
-        "health_markets": [row for row in rows if row.get("impact_category") in {"health", "pandemic"}][:10],
+        "health_markets": [row for row in rows if is_public_health_polymarket(row)][:10],
     }
 
 
@@ -1006,11 +1012,7 @@ def classify_polymarket_market(market: dict[str, Any], watch_terms: list[str]) -
             "federal reserve", "fed", "interest", "rates", "inflation", "cpi",
             "recession", "unemployment", "gdp", "ecb", "treasury",
         },
-        "health": {
-            "pandemic", "covid", "covid-19", "coronavirus", "virus", "disease",
-            "outbreak", "bird flu", "avian flu", "h5n1", "h5n5", "who",
-            "public health", "vaccine", "mpox", "ebola",
-        },
+        "health": PUBLIC_HEALTH_MARKET_WORDS,
         "commodity": {"oil", "gold", "gas", "wheat", "corn", "copper"},
         "equity": {"stock", "stocks", "nasdaq", "s&p", "sp500", "dow", "earnings"},
     }
@@ -1036,6 +1038,11 @@ def polymarket_search_text(market: dict[str, Any]) -> str:
                 if isinstance(item, dict):
                     parts.extend(str(item.get(field, "")) for field in ("label", "slug", "title"))
     return " ".join(parts).lower()
+
+
+def is_public_health_polymarket(market: dict[str, Any]) -> bool:
+    text = polymarket_search_text(market)
+    return any(re.search(rf"\b{re.escape(word)}\b", text) for word in PUBLIC_HEALTH_MARKET_WORDS)
 
 
 def market_rank(market: dict[str, Any]) -> float:

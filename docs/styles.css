@@ -160,6 +160,14 @@ h3 {
   margin-bottom: 14px;
 }
 
+.section-note {
+  margin: -4px 0 12px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+
 .metric-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -519,6 +527,7 @@ tbody tr:last-child td {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
   gap: 10px;
   margin-top: 6px;
   color: var(--muted);
@@ -526,10 +535,12 @@ tbody tr:last-child td {
 }
 
 .meta-line span {
+  flex: 1 1 118px;
   min-width: 0;
   overflow: hidden;
+  overflow-wrap: anywhere;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .market-action {
@@ -555,6 +566,15 @@ tbody tr:last-child td {
 .market-action a:hover {
   border-color: var(--blue);
   text-decoration: none;
+}
+
+.item-card small {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
 }
 
 .detail-row {
@@ -634,7 +654,7 @@ tbody tr:last-child td {
 
 .asset-controls {
   display: grid;
-  grid-template-columns: minmax(220px, 1.4fr) repeat(2, minmax(160px, 0.8fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 12px;
 }
 
@@ -644,6 +664,21 @@ tbody tr:last-child td {
   color: var(--muted);
   font-size: 12px;
   font-weight: 800;
+}
+
+.asset-controls .checkbox-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 38px;
+  padding-top: 18px;
+}
+
+.asset-controls .checkbox-control input {
+  width: 16px;
+  min-height: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 .asset-controls input,
@@ -656,6 +691,12 @@ tbody tr:last-child td {
   color: var(--text);
   background: #fff;
   font: inherit;
+}
+
+.asset-controls .checkbox-control input {
+  flex: 0 0 auto;
+  width: 16px;
+  min-height: 16px;
 }
 
 .asset-summary {
@@ -780,5 +821,20 @@ tbody tr:last-child td {
 
   .panel {
     padding: 14px;
+  }
+
+  .meta-line {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .market-action {
+    justify-content: stretch;
+  }
+
+  .market-action a {
+    justify-content: center;
+    width: 100%;
   }
 }

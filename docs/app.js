@@ -310,6 +310,7 @@ function renderIndividualSignals(assetFeatures) {
   if (!node) return;
   const rows = collectAssetFeatureRows(assetFeatures);
   const selected = rows
+    .filter(isReadableDashboardAsset)
     .filter((row) => row.best_relationship || ["equity", "commodity", "metal", "index", "fx", "crypto_major"].includes(row.asset_class))
     .sort((a, b) => {
       const relEdge = Number(b.best_relationship?.score || 0) - Number(a.best_relationship?.score || 0);
@@ -358,6 +359,15 @@ function collectAssetFeatureRows(assetFeatures) {
   return [...map.values()];
 }
 
+function isReadableDashboardAsset(row) {
+  const symbol = String(row?.symbol || "");
+  const assetClass = String(row?.asset_class || "unknown");
+  const volume = Number(row?.day_ntl_vlm || 0);
+  const openInterest = Number(row?.open_interest || 0);
+  if (assetClass !== "unknown") return true;
+  return !/^[@#]/.test(symbol) || volume > 0 || openInterest > 0;
+}
+
 renderDashboard();
 setInterval(renderDashboard, 5 * 60 * 1000);
 
@@ -404,7 +414,7 @@ function renderHealthPolymarket(context, flow) {
     Array.isArray(context?.polymarket?.top_markets) ? context.polymarket.top_markets : [],
     Array.isArray(flow?.polymarket?.top_markets) ? flow.polymarket.top_markets : [],
   ).filter(isHealthMarket);
-  const markets = mergeMarkets([...contextMarkets, ...flowMarkets], fallbackMarkets);
+  const markets = mergeMarkets([...contextMarkets, ...flowMarkets], fallbackMarkets).filter(isHealthMarket);
   node.innerHTML = markets.slice(0, 8).map((market) => {
     const volume24h = market.volume_24h !== undefined ? market.volume_24h : market.volume;
     const endDate = market.end_date || market.endDate;
@@ -556,7 +566,7 @@ function polymarketUrl(market) {
   if (eventSlug) return `https://polymarket.com/event/${encodeURIComponent(String(eventSlug))}`;
   const slug = market?.slug;
   if (!slug) return null;
-  return `https://polymarket.com/market/${encodeURIComponent(String(slug))}`;
+  return `https://polymarket.com/event/${encodeURIComponent(String(slug))}`;
 }
 
 function renderOutcomeOdds(market) {
@@ -586,14 +596,14 @@ function formatProbability(value) {
 }
 
 function isHealthMarket(market) {
-  const category = String(market?.impact_category || market?.query || "").toLowerCase();
-  if (category === "health" || category === "pandemic") return true;
   const text = [
     market?.question,
     market?.title,
     market?.slug,
+    market?.impact_category,
+    market?.query,
   ].join(" ").toLowerCase();
-  return /\b(pandemic|covid|covid-19|coronavirus|virus|disease|outbreak|bird flu|avian flu|h5n1|h5n5|public health|vaccine|mpox|ebola)\b/.test(text);
+  return /\b(pandemic|covid|covid-19|coronavirus|virus|disease|outbreak|bird flu|avian flu|h5n1|h5n5|hantavirus|public health|world health organization|who declare|who declares|who emergency|who pandemic|who outbreak|vaccine|mpox|ebola)\b/.test(text);
 }
 
 function mergeMarkets(primary, secondary) {
@@ -997,7 +1007,16 @@ function renderHip4(hip4) {
   const badgeCount = hip4?.outcome_count || byOutcome.size;
   setBadge("hip4Badge", `${badgeCount} market${Number(badgeCount) !== 1 ? "s" : ""}`, "good");
 
-  const cards = [...byOutcome.values()].map((sides) => {
+  const groups = [...byOutcome.values()].sort((a, b) => hip4GroupScore(b) - hip4GroupScore(a));
+  const visibleLimit = 16;
+  const visibleGroups = groups.slice(0, visibleLimit);
+  const unknownCount = groups.filter((sides) => !sides[0]?.underlying && !sides[0]?.expiry && sides[0]?.target_price == null).length;
+
+  const statusHtml = unknownCount
+    ? `<article class="item-card item-card--warning"><strong>${fmtNumber(unknownCount, 0)} HIP-4 markets have incomplete metadata</strong><div class="meta-line"><span>Prices are shown from allMids when available. Names fill in automatically when HyperLiquid exposes more outcome metadata.</span></div></article>`
+    : "";
+
+  const cards = visibleGroups.map((sides) => {
     const first = sides[0];
     const question = buildHip4Question(first);
     const sideHtml = sides.map((side) => {
@@ -1043,6 +1062,10 @@ function renderHip4(hip4) {
     `;
   });
 
+  const hiddenHtml = groups.length > visibleGroups.length
+    ? emptyCard(`Showing ${visibleGroups.length} of ${groups.length} HIP-4 markets. Open the HIP-4 report for the full raw list.`)
+    : "";
+
   const errorHtml = errors.length
     ? `<article class="item-card item-card--warning"><strong>Price data unavailable</strong><div class="meta-line"><span>${escapeHtml(errors[0])}</span></div></article>`
     : "";
@@ -1050,7 +1073,22 @@ function renderHip4(hip4) {
     ? `<article class="item-card item-card--warning"><strong>Context endpoint unavailable</strong><div class="meta-line"><span>Prices are still filled from allMids when available.</span></div></article>`
     : "";
 
-  node.innerHTML = cards.join("") + errorHtml + warningHtml;
+  node.innerHTML = statusHtml + cards.join("") + hiddenHtml + errorHtml + warningHtml;
+}
+
+function hip4GroupScore(sides) {
+  const first = sides[0] || {};
+  let score = 0;
+  if (first.underlying) score += 5;
+  if (first.expiry) score += 3;
+  if (first.target_price != null) score += 3;
+  if (first.outcome_class && first.outcome_class !== "unknown" && first.outcome_class !== "fallback") score += 2;
+  score += Math.min(Number(first.volume_24h || 0) / 1000, 3);
+  const probabilities = sides
+    .map((side) => Number(side.implied_probability))
+    .filter((value) => !Number.isNaN(value));
+  if (probabilities.some((value) => Math.abs(value - 0.5) > 0.01)) score += 1;
+  return score;
 }
 
 function hip4MarketKey(row) {
