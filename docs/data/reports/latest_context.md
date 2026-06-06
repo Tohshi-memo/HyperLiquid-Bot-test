@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T18:22:24.245123+00:00`
-- Market context score: `58.85`
+- Generated: `2026-06-06T18:37:24.842248+00:00`
+- Market context score: `58.27`
 - News risk score: `35.38`
 - Macro risk score: `17.12`
-- Risk-on score: `44.9`
+- Risk-on score: `43.61`
 - Articles: `50`
 - Polymarket markets: `398`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:515`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2792`
-- Day/swing latest: `2026-06-06T18:15:00+00:00`
+- Day/swing records: `2793`
+- Day/swing latest: `2026-06-06T18:30:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] The Bond ETF That Belongs in Almost Every Long-Term Portfolio (Yahoo Finance)
+- [macro] Forget GLD: GLDM Tracks the Exact Same Bullion at One Quarter the Annual Cost (Yahoo Finance)
+- [macro] Dollar Tree expands service many customers can’t afford (Yahoo Finance)
+- [macro] Here's How SpaceX's IPO Will Affect S&P 500 and Nasdaq-100 Investors (Yahoo Finance)
+- [macro] CONL Lost 67% Year to Date While Coinbase Fell 33%, Exposing the Volatility Tax in Daily-Reset Leverage (Yahoo Finance)
 - [macro] This Hidden AI Stock Up 5,100% While Bitcoin and Ethereum Lost Nearly 40% (Yahoo Finance)
-- [macro] Starbucks rival targets comeback after dozens of store closures (Yahoo Finance)
-- [macro] Motorola's $1.5 Billion D-Fend Acquisition Reignites Its Direct Competition with Axon Enterprises (Yahoo Finance)
-- [macro] Can Pfizer's Dividend Survive the Patent Cliff? This $10.5 Billion Cancer Bet Could Hold the Answer. (Yahoo Finance)
-- [macro] Cathie Wood's favorite crypto stock is still down 66% from record highs (Yahoo Finance)
-- [macro] Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot at Catching It. (Yahoo Finance)
 - [macro] The Coca-Cola (KO) Explores Potential Listing in India of Hindustan Coca-Cola Holdings Pvt. Ltd. (Yahoo Finance)
 - [macro] UBS Lifts PT on Caterpillar (CAT) Stock (Yahoo Finance)
 - [macro] Morgan Stanley Reiterates Buy Rating on Costco Wholesale (COST) Stock (Yahoo Finance)
