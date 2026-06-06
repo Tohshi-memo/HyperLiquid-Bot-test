@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T08:07:25.401050+00:00`
+- Generated: `2026-06-06T08:17:51.498320+00:00`
 - Market context score: `48.94`
 - News risk score: `35.0`
 - Macro risk score: `28.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2751`
-- Day/swing latest: `2026-06-06T08:00:00+00:00`
+- Day/swing records: `2752`
+- Day/swing latest: `2026-06-06T08:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Tributes to Buffy and Ted Lasso star Anthony Head who dies aged 72 (BBC News)
+- [macro] Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72 (BBC News)
 - [macro] Armenia braces for election as Russia piles pressure on pro-West government (BBC News)
 - [crypto] Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US and Iran exchange strikes in Gulf in latest test of ceasefire (BBC News)
