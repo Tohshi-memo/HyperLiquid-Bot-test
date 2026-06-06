@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T01:52:24.380819+00:00`
-- Market context score: `50.67`
-- News risk score: `29.18`
-- Macro risk score: `20.71`
-- Risk-on score: `22.83`
-- Articles: `35`
+- Generated: `2026-06-06T02:07:24.295234+00:00`
+- Market context score: `50.93`
+- News risk score: `28.92`
+- Macro risk score: `20.19`
+- Risk-on score: `23.0`
+- Articles: `36`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:425`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2727`
-- Day/swing latest: `2026-06-06T01:45:00+00:00`
+- Day/swing records: `2728`
+- Day/swing latest: `2026-06-06T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `20`, risk hits `5`, risk headline rate `0.15`, policy hits `1`
-- macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `0`
+- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
+- [macro] US plans to fight flesh-eating screwworm outbreak with flies and dogs (BBC News)
 - [crypto] ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next? (Cointelegraph.com News)
 - [commodity] Iran's threats against this Red Sea choke point are a big vulnerability for the oil market (Energy)
 - [macro] US stocks slump as fears over Big Tech shake Wall Street (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Everest guide survived six-day ordeal by eating chocolate and 'chewing ice' (BBC News)
 - [macro] Trump to meet AI leaders to discuss US investment in their companies (BBC News)
 - [crypto] Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? (Cointelegraph.com News)
-- [crypto] Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
