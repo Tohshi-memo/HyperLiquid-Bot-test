@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-06T15:22:25.280096+00:00`
-- Market context score: `55.72`
-- News risk score: `34.81`
-- Macro risk score: `25.12`
-- Risk-on score: `40.5`
-- Articles: `41`
+- Generated: `2026-06-06T15:37:21.357707+00:00`
+- Market context score: `53.84`
+- News risk score: `37.86`
+- Macro risk score: `26.21`
+- Risk-on score: `39.3`
+- Articles: `46`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:515`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2780`
-- Day/swing latest: `2026-06-06T15:15:00+00:00`
+- Day/swing records: `2781`
+- Day/swing latest: `2026-06-06T15:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `0`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `38`, risk hits `11`, risk headline rate `0.2368`, policy hits `0`
 
 ## Headlines
 
-- [macro] Jim Cramer Calls NVIDIA the “Heart” of Data Center Story (Yahoo Finance)
-- [macro] Jim Cramer Believes “Alphabet Could Raise Serious Money” (Yahoo Finance)
-- [macro] SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here’s Why Early Investors Are Banking On It (Yahoo Finance)
-- [crypto] A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] These Are Two of the Hottest Japanese Stocks. Should You Consider a $1,000 Investment? (Yahoo Finance)
-- [macro] US and Iran exchange strikes in Gulf in latest test of ceasefire (BBC News)
-- [macro] The No. 1 Reason to Buy and Hold Walmart Forever Has Virtually Nothing to Do With Its Brick-and-Mortar Stores (Yahoo Finance)
-- [macro] The "Magnificent Seven's" Capex Spending Spree Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch (Yahoo Finance)
-- [macro] Redwire is a Contract Success Story You’ll Regret Not Buying on the Next Dip (Yahoo Finance)
-- [macro] Which Is the Better Artificial Intelligence (AI) ETF, Roundhill's CHAT or State Street's XLK? (Yahoo Finance)
+- [macro] Warren Buffett's Berkshire Hathaway Has 67% of Its Portfolio in 5 Stocks. Should You Copy Him? (Yahoo Finance)
+- [macro] My parents didn’t plan for retirement, but I’ve got millions – what’s the best way to help them? (Yahoo Finance)
+- [macro] Jim Cramer on Banco Santander: “I Think It’s Paused Here as It Catches Its Breath” (Yahoo Finance)
+- [macro] Jim Cramer on Becton, Dickinson: “I Think You Buy Some and Then You Wait” (Yahoo Finance)
+- [macro] Jim Cramer on JFrog: “I Want You to Take a Little off the Table” (Yahoo Finance)
+- [macro] Jim Cramer on Prologis: “I’ve Always Liked It so Much” (Yahoo Finance)
+- [macro] Jim Cramer Says “Right Now, Boeing Trades With the War” (Yahoo Finance)
+- [macro] Jim Cramer on Axon: “It Sells at a Very High Price to Earnings Multiple” (Yahoo Finance)
+- [macro] Jim Cramer on Applied Aerospace & Defense: “A Stock I Want to Own at Some Price” (Yahoo Finance)
+- [macro] Jim Cramer Says Eli Lilly CEO Is a “Terrific Steward of His Shareholders’ Capital” (Yahoo Finance)
