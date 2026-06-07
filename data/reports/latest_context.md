@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T20:52:25.129877+00:00`
+- Generated: `2026-06-07T21:07:22.895433+00:00`
 - Market context score: `67.5`
 - News risk score: `30.78`
 - Macro risk score: `20.71`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2897`
-- Day/swing latest: `2026-06-07T20:45:00+00:00`
+- Day/swing records: `2898`
+- Day/swing latest: `2026-06-07T21:00:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Israel strikes Beirut suburb days after US-brokered truce (BBC News)
 - [macro] Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test (Yahoo Finance)
 - [macro] Micron's Stock Is Up Over 270% This Year. Here's How It Can Still Double in 2026. (Yahoo Finance)
 - [macro] Which Big 3 Cloud Computing Stock Is the Best Buy Now? (Yahoo Finance)
@@ -36,4 +37,3 @@
 - [macro] Is UnitedHealth Group Incorporated (UNH) A Good Stock To Buy Now? (Yahoo Finance)
 - [macro] Is Vir Biotechnology, Inc. (VIR) A Good Stock To Buy Now? (Yahoo Finance)
 - [macro] Is Bristow Group Inc. (VTOL) A Good Stock To Buy Now? (Yahoo Finance)
-- [macro] Is Arista Networks, Inc. (ANET) A Good Stock To Buy Now? (Yahoo Finance)
