@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T10:07:22.809773+00:00`
+- Generated: `2026-06-07T10:22:19.019795+00:00`
 - Market context score: `56.57`
 - News risk score: `31.12`
 - Macro risk score: `37.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2855`
-- Day/swing latest: `2026-06-07T10:00:00+00:00`
+- Day/swing records: `2856`
+- Day/swing latest: `2026-06-07T10:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 ## Headlines
 
 - [macro] Best money market account rates today, Sunday, June 7, 2026: Best account provides 4.01% APY (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Sunday, June 7, 2026: Earn up to 4.1% APY (Yahoo Finance)
 - [macro] HELOC and home equity loan rates Sunday, June 7, 2026: Truist stays Yahoo's top HELOC lender in June (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, Sunday, June 7, 2026: Earn up to 4.1% APY (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Sunday, June 7, 2026: Fixed rates rising, adjustable rates falling (Yahoo Finance)
 - [macro] Huge crowds throng Madrid streets for Pope's open-air mass (BBC News)
 - [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
