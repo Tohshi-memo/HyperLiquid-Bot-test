@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T05:07:21.643801+00:00`
-- Market context score: `36.67`
-- News risk score: `40.5`
-- Macro risk score: `57.0`
-- Risk-on score: `15.0`
-- Articles: `9`
+- Generated: `2026-06-07T05:22:22.075513+00:00`
+- Market context score: `35.82`
+- News risk score: `41.33`
+- Macro risk score: `58.67`
+- Risk-on score: `14.44`
+- Articles: `10`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2835`
-- Day/swing latest: `2026-06-07T05:00:00+00:00`
+- Day/swing records: `2836`
+- Day/swing latest: `2026-06-07T05:15:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `8`, risk hits `7`, risk headline rate `0.75`, policy hits `0`
 
 ## Headlines
 
+- [commodity] 100 days of the Iran war: How global markets and the economy have been affected, in charts (Energy)
 - [macro] Armenia votes as Russia piles pressure on pro-West government (BBC News)
 - [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
