@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T04:37:24.253509+00:00`
-- Market context score: `33.39`
-- News risk score: `43.71`
-- Macro risk score: `63.43`
-- Risk-on score: `12.86`
-- Articles: `8`
+- Generated: `2026-06-07T04:52:26.931553+00:00`
+- Market context score: `36.67`
+- News risk score: `40.5`
+- Macro risk score: `57.0`
+- Risk-on score: `15.0`
+- Articles: `9`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2833`
-- Day/swing latest: `2026-06-07T04:30:00+00:00`
+- Day/swing records: `2834`
+- Day/swing latest: `2026-06-07T04:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `7`, risk headline rate `0.8571`, policy hits `0`
+- macro: articles `8`, risk hits `7`, risk headline rate `0.75`, policy hits `0`
 
 ## Headlines
 
+- [macro] Armenia votes as Russia piles pressure on pro-West government (BBC News)
 - [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
 - [macro] Lebanese general among three soldiers killed in Israeli attack on car (BBC News)
