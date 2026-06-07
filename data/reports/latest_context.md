@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T14:22:21.689268+00:00`
-- Market context score: `29.67`
+- Generated: `2026-06-07T14:37:23.362861+00:00`
+- Market context score: `38.67`
 - News risk score: `71.18`
 - Macro risk score: `28.36`
-- Risk-on score: `14.55`
+- Risk-on score: `34.55`
 - Articles: `12`
-- Polymarket markets: `400`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2871`
-- Day/swing latest: `2026-06-07T14:15:00+00:00`
+- Day/swing records: `2872`
+- Day/swing latest: `2026-06-07T14:30:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Hundreds of captives freed from Boko Haram mountain hideout (BBC News)
-- [macro] A couple owes $220K at 2.75% — and a TikToker wants them to swap it for an 8% variable HELOC (Yahoo Finance)
+- [macro] Dow Jones Futures Due Amid Market Rally's First Real Test; SpaceX IPO, Apple, Oracle Ahead (Yahoo Finance)
 - [macro] Iran's World Cup team lands in Mexico amid US visa row (BBC News)
 - [crypto] Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tata Steel says new £1.25bn furnace may be delayed due to electrical issue (BBC News)
