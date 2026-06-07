@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T03:52:25.566270+00:00`
-- Market context score: `29.02`
-- News risk score: `51.75`
-- Macro risk score: `57.0`
-- Risk-on score: `7.5`
-- Articles: `12`
+- Generated: `2026-06-07T04:07:27.560596+00:00`
+- Market context score: `33.39`
+- News risk score: `43.71`
+- Macro risk score: `63.43`
+- Risk-on score: `12.86`
+- Articles: `9`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2830`
-- Day/swing latest: `2026-06-07T03:45:00+00:00`
+- Day/swing records: `2831`
+- Day/swing latest: `2026-06-07T04:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `7`, risk hits `7`, risk headline rate `0.8571`, policy hits `0`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
@@ -37,4 +36,3 @@
 - [macro] Pope begins Spain visit with praise for country's opposition to war and support for migrants (BBC News)
 - [macro] Giant banquets rile radical left in France (BBC News)
 - [crypto] Meta is paying creators in Stablecoins. Spending them is someone else's problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next? (Cointelegraph.com News)
