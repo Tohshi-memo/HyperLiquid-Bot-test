@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T08:37:24.315710+00:00`
+- Generated: `2026-06-07T08:52:19.423876+00:00`
 - Market context score: `46.87`
 - News risk score: `30.5`
 - Macro risk score: `37.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2849`
-- Day/swing latest: `2026-06-07T08:30:00+00:00`
+- Day/swing records: `2850`
+- Day/swing latest: `2026-06-07T08:45:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [macro] Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg (BBC News)
 - [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
+- [macro] Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg (BBC News)
 - [commodity] 100 days of the Iran war: How global markets and the economy have been affected, in charts (Energy)
 - [macro] Armenia votes as Russia piles pressure on pro-West government (BBC News)
 - [macro] Cake sheds are making bakers £1,000 a week - but the dream might be over (BBC News)
