@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T07:07:29.248952+00:00`
-- Market context score: `45.5`
-- News risk score: `31.85`
-- Macro risk score: `39.69`
-- Risk-on score: `20.77`
+- Generated: `2026-06-07T07:22:23.148214+00:00`
+- Market context score: `47.85`
+- News risk score: `29.54`
+- Macro risk score: `35.08`
+- Risk-on score: `22.31`
 - Articles: `14`
 - Polymarket markets: `399`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2843`
-- Day/swing latest: `2026-06-07T07:00:00+00:00`
+- Day/swing records: `2844`
+- Day/swing latest: `2026-06-07T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `0`
+- macro: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Steve Rosenberg: Lasting image of Russia's economic forum is plume of smoke over St Petersburg (BBC News)
 - [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
 - [commodity] 100 days of the Iran war: How global markets and the economy have been affected, in charts (Energy)
 - [macro] Armenia votes as Russia piles pressure on pro-West government (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia (BBC News)
 - [macro] Insecurity and instability drive voters in Peru's tight presidential race (BBC News)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
-- [macro] Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on (BBC News)
