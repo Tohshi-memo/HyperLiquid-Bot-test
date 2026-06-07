@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-07T19:07:19.894188+00:00`
+- Generated: `2026-06-07T19:22:25.603131+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `62`
 - Outcome sides (rows): `124`
@@ -41,9 +41,9 @@
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9937` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9937` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9935` price_source `allMids` vol24h `0.0` oi `0.0`
-- Canada [No] symbol `#1791` underlying `n/a` prob `0.9933` price_source `allMids` vol24h `0.0` oi `0.0`
-- South Korea [No] symbol `#2111` underlying `n/a` prob `0.9932` price_source `allMids` vol24h `0.0` oi `0.0`
+- Canada [No] symbol `#1791` underlying `n/a` prob `0.9932` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9932` price_source `allMids` vol24h `0.0` oi `0.0`
+- South Korea [No] symbol `#2111` underlying `n/a` prob `0.9932` price_source `allMids` vol24h `0.0` oi `0.0`
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9926` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ivory Coast [No] symbol `#1951` underlying `n/a` prob `0.9924` price_source `allMids` vol24h `0.0` oi `0.0`
