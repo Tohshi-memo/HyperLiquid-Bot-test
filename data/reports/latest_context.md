@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T23:37:23.081812+00:00`
+- Generated: `2026-06-07T23:42:01.769179+00:00`
 - Market context score: `64.65`
 - News risk score: `31.1`
 - Macro risk score: `20.34`
@@ -27,13 +27,13 @@
 
 ## Headlines
 
+- [macro] 3 High-Growth Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now (Yahoo Finance)
 - [macro] Dow Jones Futures Fall As Trump Says This After Iran Attacks Israel; Market Rally Faces First Real Test (Yahoo Finance)
+- [macro] Want Nothing to Do With SpaceX? Buy This Ultra-Low-Cost Dividend Growth ETF in June. (Yahoo Finance)
+- [macro] Lululemon eyes key growth market and it's not the U.S. (Yahoo Finance)
 - [macro] Marvell leads chip wreck unseen since the pandemic (Yahoo Finance)
 - [macro] Got $1,000? Here's the Tech Stock I Think Has the Best Risk-Reward Setup in the Entire Market Right Now. (Yahoo Finance)
 - [macro] 'No dead ends': What the Dutch can teach us about tackling youth unemployment (BBC News)
 - [macro] Spain's visitor numbers hit new highs as tourists avoid Middle East (BBC News)
 - [macro] 'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions (BBC News)
 - [macro] Why Wall Street Sees Danaher (DHR) Benefiting From Improving Industry Conditions (Yahoo Finance)
-- [macro] Centene (CNC) Earns A Spot On Bank Of America’s Highest-Conviction List (Yahoo Finance)
-- [macro] NextEra Energy (NEE) Gets A Higher Target As A Key Deal Moves Closer (Yahoo Finance)
-- [macro] Lockheed Martin (LMT) Lands A Long-Term Defense Contract Worth Up To $180 Million (Yahoo Finance)
