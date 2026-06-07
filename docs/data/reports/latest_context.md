@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T00:07:21.955799+00:00`
-- Market context score: `56.19`
-- News risk score: `36.7`
-- Macro risk score: `23.3`
-- Risk-on score: `42.44`
-- Articles: `47`
+- Generated: `2026-06-07T00:22:28.445978+00:00`
+- Market context score: `36.18`
+- News risk score: `47.25`
+- Macro risk score: `48.0`
+- Risk-on score: `16.21`
+- Articles: `18`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2815`
-- Day/swing latest: `2026-06-07T00:00:00+00:00`
+- Day/swing records: `2816`
+- Day/swing latest: `2026-06-07T00:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `38`, risk hits `8`, risk headline rate `0.1842`, policy hits `2`
+- macro: articles `9`, risk hits `7`, risk headline rate `0.6667`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
-- [macro] 3 Cryptocurrencies to Buy Before They Explode (Yahoo Finance)
-- [macro] Is Ripple (XRP) Still A Good Crypto to Buy In 2026? (Yahoo Finance)
-- [macro] $10,000 Invested in XLK on New Year’s Eve Is Worth $13,434 Today (Yahoo Finance)
-- [macro] Does Palantir's Valuation Make It Too Dangerous to Buy? (Yahoo Finance)
-- [macro] Could Nvidia Reach a $10 Trillion Market Cap? I Think So. And It Will Happen Faster Than You Think. (Yahoo Finance)
-- [macro] Bank of America resets Nvidia stock forecast after meeting with CFO (Yahoo Finance)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
-- [macro] 5 Best Debt-Free IT Stocks to Buy Now (Yahoo Finance)
-- [macro] UWM Holdings (UWMC) Criticized Two Harbors’ Board, Here’s What You Need to Know (Yahoo Finance)
+- [macro] Lebanese general among three soldiers killed in Israeli attack on car (BBC News)
+- [macro] Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (BBC News)
+- [crypto] Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Funeral held for baby shot dead by Israeli troops in occupied West Bank (BBC News)
+- [macro] Pope begins Spain visit with praise for country's opposition to war and support for migrants (BBC News)
+- [macro] Giant banquets rile radical left in France (BBC News)
+- [crypto] Meta is paying creators in Stablecoins. Spending them is someone else's problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next? (Cointelegraph.com News)
