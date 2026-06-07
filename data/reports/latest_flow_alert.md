@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-07T16:05:22.272015+00:00`
+- Generated: `2026-06-07T16:10:25.229349+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `21455031.68`
-- Polymarket volume z-score: `-0.73`
+- Polymarket 24h volume: `22793293.48`
+- Polymarket volume z-score: `-0.71`
 
 ## Top Polymarket Markets
 
-- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `2619981.17` | liquidity: `2729336.68362`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2125722.198` | liquidity: `8795106.48536`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1383023.7645569998` | liquidity: `1056723.64669`
-- Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? | 24h volume: `1124628.9740099995` | liquidity: `462481.14156`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1010888.9278109999` | liquidity: `920471.9693`
-- Will the Fed increase interest rates by 25 bps after the June 2026 meeting? | 24h volume: `988841.6824819999` | liquidity: `1150124.25018`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `988257.6901980002` | liquidity: `413184.70244`
-- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `875747.0080680001` | liquidity: `1267697.39257`
+- Israel announces Lebanon ceasefire extension by June 7? | 24h volume: `3619706.17` | liquidity: `1714352.41854`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2185519.248` | liquidity: `8742598.44641`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1381545.2407369998` | liquidity: `1055145.38397`
+- Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? | 24h volume: `1117984.7106749997` | liquidity: `460612.31972`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `1093820.2264580003` | liquidity: `470552.65379`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1016210.0304309998` | liquidity: `919021.7735`
+- Will the Fed increase interest rates by 25 bps after the June 2026 meeting? | 24h volume: `982130.162482` | liquidity: `1125014.56809`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `872570.0` | liquidity: `46958.54799`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
