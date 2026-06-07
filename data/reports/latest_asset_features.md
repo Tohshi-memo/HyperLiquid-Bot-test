@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-07T01:37:20.380018+00:00`
-- Observed: `2026-06-07T01:30:00+00:00`
+- Generated: `2026-06-07T01:52:22.671290+00:00`
+- Observed: `2026-06-07T01:45:00+00:00`
 - Assets: `885`
 
 ## Top Activity
@@ -16,15 +16,15 @@ Individual asset screen for drilling down from class-level signals.
 - `@103` unknown price `5.742e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@103_24h`
 - `@178` unknown price `0.7735` 4h `0.0` vol `0.0` relationship `market_context_high->@178_4h`
 - `@132` unknown price `0.001829` 4h `12.2086` vol `0.0` relationship `market_context_high->@132_24h`
-- `TON` crypto_alt price `1.7292` 4h `6.8397` vol `24568425.34` relationship `market_context_high->TON_24h`
-- `@248` unknown price `178.5` 4h `0.0` vol `0.0` relationship `market_context_high->@248_24h`
+- `TON` crypto_alt price `1.74795` 4h `6.6148` vol `25985046.19` relationship `market_context_high->TON_24h`
 - `@18` unknown price `0.00605` 4h `0.0` vol `0.0` relationship `market_context_high->@18_24h`
+- `@248` unknown price `178.5` 4h `0.0` vol `0.0` relationship `market_context_high->@248_24h`
 - `@170` unknown price `0.0019` 4h `0.0` vol `0.0` relationship `market_context_high->@170_24h`
-- `W` crypto_alt price `0.00978` 4h `3.1646` vol `470823.47` relationship `market_context_high->W_24h`
-- `@295` unknown price `0.008985` 4h `0.7852` vol `0.0` relationship `market_context_high->@295_4h`
+- `@295` unknown price `0.00898` 4h `3.2896` vol `0.0` relationship `market_context_high->@295_4h`
+- `W` crypto_alt price `0.00973` 4h `2.7455` vol `472839.14` relationship `market_context_high->W_24h`
 - `@138` unknown price `0.000451` 4h `0.0222` vol `0.0` relationship `market_context_high->@138_24h`
-- `ZEC` crypto_alt price `384.87` 4h `8.639` vol `328364013.49` relationship `market_context_high->ZEC_24h`
-- `STABLE` crypto_alt price `0.034125` 4h `4.1857` vol `1329094.73` relationship `market_context_high->STABLE_24h`
-- `RESOLV` crypto_alt price `0.01825` 4h `6.5382` vol `385783.09` relationship `market_context_high->RESOLV_24h`
-- `ICP` crypto_alt price `2.34955` 4h `2.1854` vol `1300509.19` relationship `market_context_high->ICP_24h`
-- `NOT` crypto_alt price `0.000384` 4h `4.6322` vol `76875.25` relationship `market_context_high->NOT_24h`
+- `STABLE` crypto_alt price `0.034232` 4h `4.7266` vol `1328707.29` relationship `market_context_high->STABLE_24h`
+- `ZEC` crypto_alt price `379.49` 4h `6.6373` vol `322831824.11` relationship `market_context_high->ZEC_24h`
+- `RESOLV` crypto_alt price `0.018454` 4h `8.9374` vol `387560.68` relationship `market_context_high->RESOLV_24h`
+- `ICP` crypto_alt price `2.3547` 4h `2.4674` vol `1303027.1` relationship `market_context_high->ICP_24h`
+- `@258` unknown price `0.034389` 4h `4.4433` vol `0.0` relationship `market_context_high->@258_24h`
