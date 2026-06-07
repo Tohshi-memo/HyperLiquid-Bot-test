@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T07:37:27.499435+00:00`
-- Market context score: `47.85`
-- News risk score: `29.54`
-- Macro risk score: `35.08`
-- Risk-on score: `22.31`
+- Generated: `2026-06-07T07:52:20.440962+00:00`
+- Market context score: `45.5`
+- News risk score: `31.85`
+- Macro risk score: `39.69`
+- Risk-on score: `20.77`
 - Articles: `14`
 - Polymarket markets: `399`
 
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2845`
-- Day/swing latest: `2026-06-07T07:30:00+00:00`
+- Day/swing records: `2846`
+- Day/swing latest: `2026-06-07T07:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `0`
 
 ## Headlines
 
-- [macro] Steve Rosenberg: Lasting image of Russia's economic forum is plume of smoke over St Petersburg (BBC News)
+- [macro] Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg (BBC News)
 - [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
 - [commodity] 100 days of the Iran war: How global markets and the economy have been affected, in charts (Energy)
 - [macro] Armenia votes as Russia piles pressure on pro-West government (BBC News)
