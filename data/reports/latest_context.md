@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T05:37:22.775008+00:00`
+- Generated: `2026-06-07T05:52:25.354731+00:00`
 - Market context score: `38.2`
 - News risk score: `39.0`
 - Macro risk score: `54.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2837`
-- Day/swing latest: `2026-06-07T05:30:00+00:00`
+- Day/swing records: `2838`
+- Day/swing latest: `2026-06-07T05:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
 - [commodity] 100 days of the Iran war: How global markets and the economy have been affected, in charts (Energy)
 - [macro] Armenia votes as Russia piles pressure on pro-West government (BBC News)
-- [macro] Hegseth attacks Europe over migration with beach 'invasion' D-Day speech (BBC News)
 - [macro] Iran says staff blocked from entering US after players given World Cup visas (BBC News)
 - [macro] Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on (BBC News)
 - [macro] Lebanese general among three soldiers killed in Israeli attack on car (BBC News)
