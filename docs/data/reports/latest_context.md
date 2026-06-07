@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-07T16:52:23.456245+00:00`
-- Market context score: `66.85`
-- News risk score: `32.08`
-- Macro risk score: `18.94`
-- Risk-on score: `60.57`
-- Articles: `46`
+- Generated: `2026-06-07T17:01:06.824016+00:00`
+- Market context score: `68.03`
+- News risk score: `30.08`
+- Macro risk score: `15.56`
+- Risk-on score: `60.24`
+- Articles: `45`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:516`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2881`
-- Day/swing latest: `2026-06-07T16:45:00+00:00`
+- Day/swing records: `2882`
+- Day/swing latest: `2026-06-07T17:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `40`, risk hits `3`, risk headline rate `0.075`, policy hits `1`
+- macro: articles `40`, risk hits `2`, risk headline rate `0.05`, policy hits `0`
 
 ## Headlines
 
-- [macro] Israel strikes Beirut suburb days after US-brokered truce (BBC News)
-- [macro] If You'd Invested $10,000 in Nvidia Stock 10 Years Ago, Here's How Much You'd Have Today (Yahoo Finance)
-- [macro] Will SpaceX’s $1.75 Trillion IPO Valuation Survive Friday’s Market Rout? (Yahoo Finance)
-- [macro] OMAH Now Holds $1.7 Billion in Berkshire Style Stocks and It Just Hit 15 Percent Returns Without Buffett Buying a Thing (Yahoo Finance)
-- [macro] This “Hidden” Tech Leader Is the Smarter Play as Employment Trends Shift (Yahoo Finance)
-- [macro] Lithium ETF LIT Returned 125% to Investors Who Bought at Last Year’s Low (Yahoo Finance)
-- [crypto] Bitcoin near $60,000 today vs February: Institutional sentiment has flipped (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Smartphone Industry Braces for Record Annual Decline as Memory Chip Shortages Deepen (Yahoo Finance)
-- [macro] Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks (BBC News)
-- [crypto] Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Is J.B. Hunt Transport Services, Inc. (JBHT) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is Lemonade, Inc. (LMND) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is NIO Inc. (NIO) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is PureCycle Technologies, Inc. (PCT) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is Ross Stores, Inc. (ROST) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is Walmart Inc. (WMT) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is Akamai Technologies, Inc. (AKAM) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] Is Builders FirstSource, Inc. (BLDR) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] The December 2026 Opportunity Zone Deadline That Lets a Tech Founder Defer $2.4 Million of Capital Gain Tax for Eight More Years (Yahoo Finance)
+- [macro] Is Bruker Corporation (BRKR) A Good Stock To Buy Now? (Yahoo Finance)
