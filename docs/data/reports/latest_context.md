@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T13:22:28.021070+00:00`
-- Market context score: `57.99`
+- Generated: `2026-06-08T13:37:26.971753+00:00`
+- Market context score: `55.79`
 - News risk score: `40.33`
 - Macro risk score: `25.72`
-- Risk-on score: `50.42`
+- Risk-on score: `45.53`
 - Articles: `74`
 - Polymarket markets: `401`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2962`
-- Day/swing latest: `2026-06-08T13:15:00+00:00`
+- Day/swing records: `2963`
+- Day/swing latest: `2026-06-08T13:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Big US banks target tokenised deposit network launch in 2027 (Yahoo Finance)
+- [macro] Meta Just Crushed Earnings. So Why Does Wall Street Keep Selling the Stock? (Yahoo Finance)
+- [macro] Argosy Investors Sold GoDaddy (GDDY) as It Disrupted By AI Momentum (Yahoo Finance)
+- [macro] SMB vs. SCHO: The Short-Term Bond Decision That Starts With Your Tax Return (Yahoo Finance)
+- [macro] Bitcoin and ethereum prices today, Monday, June 8, 2026: Moving up after bitcoin prices fell below $60,000 (Yahoo Finance)
+- [macro] These 3 ‘Old Economy’ Dow Stocks Are Quietly Crushing the Market, and Here’s What They All Share (Yahoo Finance)
+- [macro] Guidance Miss Becomes a Bloodbath: DRAM’s 15% Implosion is At The Center (Yahoo Finance)
+- [macro] Argosy Investors Exited Endava plc (DAVA) Due to AI Disruption Fears (Yahoo Finance)
+- [macro] Oil Prices Ease As Iran Holds Fire, Trump Pursues Deal; S&P 500 Futures Bounce (Yahoo Finance)
 - [crypto] CoinDesk 20 performance update: NEAR gains 12.3% as almost all assets trade higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Market Correction: Why This S&P 500 ETF Becomes a No-Brainer Buy at a Discount (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rises On Trump, Iran Comments; Marvell Surges On S&P 500 Addition (Live Coverage) (Yahoo Finance)
-- [crypto] MetaMask launches AI agent wallet with built-in security for crypto trades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] From Powering Machines to Powering Intelligence—The New Age of Electricity (Yahoo Finance)
-- [macro] 3 Stocks I'm Not Selling No Matter What the Market Does for the Next 20 Years (Yahoo Finance)
-- [macro] Clean Energy or Pipeline Infrastructure? ICLN and AMLP Are Betting on Different Energy Futures. (Yahoo Finance)
-- [crypto] Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Cerebras shares climb as Wall Street brokerages back AI chip strategy (Yahoo Finance)
-- [macro] Neocloud Nebius commits £1.7 billion to UK AI infrastructure buildout across four sites (Yahoo Finance)
