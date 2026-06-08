@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-08T01:20:22.586385+00:00`
+- Generated: `2026-06-08T01:25:22.780428+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `32217418.32`
+- Polymarket 24h volume: `32682049.11`
 - Polymarket volume z-score: `-0.53`
 
 ## Top Polymarket Markets
 
-- Iran closes its airspace by June 8? | 24h volume: `5918457.06033802` | liquidity: `2448488.05997`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2113828.470061999` | liquidity: `582164.5194`
-- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2112201.3112389976` | liquidity: `230617.77838`
-- Israel closes its airspace by June 15? | 24h volume: `1578805.5271009994` | liquidity: `43910.0536`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1277326.44` | liquidity: `299182.03323`
-- Iran closes its airspace by June 15? | 24h volume: `1249458.2247610006` | liquidity: `1100618.8826`
-- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `1060510.2966769997` | liquidity: `48321.9765`
-- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `1042310.4257540018` | liquidity: `65649.09378`
+- Iran closes its airspace by June 8? | 24h volume: `6008496.881374023` | liquidity: `2382466.13638`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2269123.598785999` | liquidity: `552186.0222`
+- US x Iran permanent peace deal by June 7, 2026? | 24h volume: `2111897.754842998` | liquidity: `223165.01492`
+- Israel closes its airspace by June 15? | 24h volume: `1628043.0395939995` | liquidity: `37659.3335`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1277326.44` | liquidity: `298423.74337`
+- Iran closes its airspace by June 15? | 24h volume: `1251841.831679001` | liquidity: `1108122.33481`
+- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `1068462.480325` | liquidity: `82435.2823`
+- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `1059550.1744820017` | liquidity: `78181.59409`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
