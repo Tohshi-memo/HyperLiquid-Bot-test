@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T19:22:22.106752+00:00`
-- Market context score: `47.98`
+- Generated: `2026-06-08T19:37:28.788127+00:00`
+- Market context score: `47.15`
 - News risk score: `43.29`
 - Macro risk score: `29.48`
-- Risk-on score: `32.08`
+- Risk-on score: `30.25`
 - Articles: `67`
 - Polymarket markets: `401`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2986`
-- Day/swing latest: `2026-06-08T19:15:00+00:00`
+- Day/swing records: `2987`
+- Day/swing latest: `2026-06-08T19:30:00+00:00`
 
 ## News Categories
 
@@ -33,8 +33,8 @@
 - [macro] Watch: Southern Lights timelapse filmed from space (BBC News)
 - [macro] Watch: Southern Lights timelapse filmed from space (BBC News)
 - [crypto] Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] 'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst (Cointelegraph.com News)
-- [macro] Somali referee Artan barred from entering USA (BBC News)
-- [macro] At least 35 dead after major earthquake strikes southern Philippines (BBC News)
-- [macro] Jailed crypto founder Sam Bankman-Fried seeks Trump pardon (BBC News)
-- [macro] Jailed crypto founder Sam Bankman-Fried seeks Trump pardon (BBC News)
+- [macro] Analyst Report: Metlife Inc (Yahoo Finance)
+- [macro] Analyst Report: Hershey Co/The (Yahoo Finance)
+- [macro] Analyst Report: Shell Plc (Yahoo Finance)
+- [macro] Analyst Report: PPG Industries Inc (Yahoo Finance)
+- [macro] Market Update: HSY, MET, PPG, SHEL, URI (Yahoo Finance)
