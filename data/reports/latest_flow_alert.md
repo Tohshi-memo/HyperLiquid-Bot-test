@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-08T19:20:21.318372+00:00`
+- Generated: `2026-06-08T19:25:23.358892+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `44546498.6`
-- Polymarket volume z-score: `-0.3`
+- Polymarket 24h volume: `44305092.23`
+- Polymarket volume z-score: `-0.31`
 
 ## Top Polymarket Markets
 
@@ -17,9 +17,9 @@
 - Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `4285370.441877976` | liquidity: `142440.55447`
 - Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `4035353.1241750056` | liquidity: `91442.8503`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2939536.058951997` | liquidity: `622066.9034`
-- Israel closes its airspace by June 15? | 24h volume: `2479359.5459200023` | liquidity: `70494.7113`
-- Iran closes its airspace by June 15? | 24h volume: `2200696.892363001` | liquidity: `1453328.34787`
+- Israel closes its airspace by June 15? | 24h volume: `2311937.6623750045` | liquidity: `47516.6002`
+- Iran closes its airspace by June 15? | 24h volume: `2173216.888832001` | liquidity: `1452237.02356`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `1505217.175999999` | liquidity: `9383737.10521`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1289866.44` | liquidity: `163716.82837`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1289866.44` | liquidity: `259236.1498`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
