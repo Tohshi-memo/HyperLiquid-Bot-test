@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T20:37:38.980411+00:00`
-- Market context score: `46.45`
-- News risk score: `43.5`
-- Macro risk score: `30.96`
-- Risk-on score: `29.43`
-- Articles: `62`
+- Generated: `2026-06-08T20:52:23.303581+00:00`
+- Market context score: `45.57`
+- News risk score: `44.14`
+- Macro risk score: `32.8`
+- Risk-on score: `28.71`
+- Articles: `61`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2991`
-- Day/swing latest: `2026-06-08T20:30:00+00:00`
+- Day/swing records: `2992`
+- Day/swing latest: `2026-06-08T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `6`
-- macro: articles `33`, risk hits `6`, risk headline rate `0.1818`, policy hits `13`
+- macro: articles `32`, risk hits `7`, risk headline rate `0.2188`, policy hits `12`
 
 ## Headlines
 
 - [macro] 'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena (BBC News)
+- [macro] Has Trump lost control of the Iran war? (BBC News)
 - [commodity] Oil prices ease after Iran says military operations against Israel are over (Energy)
 - [macro] Watch: Southern Lights timelapse filmed from space (BBC News)
 - [macro] Watch: Southern Lights timelapse filmed from space (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Analyst Report: Hershey Co/The (Yahoo Finance)
 - [macro] Analyst Report: Shell Plc (Yahoo Finance)
 - [macro] Analyst Report: PPG Industries Inc (Yahoo Finance)
-- [macro] Market Update: HSY, MET, PPG, SHEL, URI (Yahoo Finance)
