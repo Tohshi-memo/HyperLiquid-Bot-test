@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-08T13:45:28.926903+00:00`
+- Generated: `2026-06-08T13:50:32.945404+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `42725327.11`
-- Polymarket volume z-score: `-0.36`
+- Polymarket 24h volume: `42759163.8`
+- Polymarket volume z-score: `-0.35`
 
 ## Top Polymarket Markets
 
@@ -17,8 +17,8 @@
 - Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `3364192.483474001` | liquidity: `101317.9229`
 - Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `3162723.4036149895` | liquidity: `83703.79619`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2979641.6517180004` | liquidity: `816775.6818`
-- Israel closes its airspace by June 15? | 24h volume: `2655526.076850998` | liquidity: `46743.6777`
-- Iran closes its airspace by June 15? | 24h volume: `1769475.6273330003` | liquidity: `1766755.67569`
+- Israel closes its airspace by June 15? | 24h volume: `2664327.523799998` | liquidity: `38792.2947`
+- Iran closes its airspace by June 15? | 24h volume: `1780300.9403690004` | liquidity: `1754137.93374`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `1388805.3909999996` | liquidity: `8965721.24867`
 - US x Iran permanent peace deal by June 30, 2026? | 24h volume: `1292854.923257001` | liquidity: `448684.0114`
 
