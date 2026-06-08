@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-08T05:07:23.205150+00:00`
+- Generated: `2026-06-08T05:22:24.503802+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `62`
 - Outcome sides (rows): `124`
@@ -23,6 +23,7 @@
 ## Current Implied Probabilities
 
 - Recurring Named Outcome [No] symbol `#2221` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#2200` underlying `BTC` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9952` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iraq [No] symbol `#1941` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -46,7 +47,6 @@
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9933` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Korea [No] symbol `#2111` underlying `n/a` prob `0.9932` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9932` price_source `allMids` vol24h `0.0` oi `0.0`
-- Scotland [No] symbol `#2081` underlying `n/a` prob `0.993` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
