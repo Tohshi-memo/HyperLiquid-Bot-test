@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-08T06:52:23.942509+00:00`
-- Observed: `2026-06-08T06:45:00+00:00`
+- Generated: `2026-06-08T07:02:36.134992+00:00`
+- Observed: `2026-06-08T07:00:00+00:00`
 - Assets: `886`
 
 ## Top Activity
@@ -22,8 +22,8 @@ Individual asset screen for drilling down from class-level signals.
 - `#1750` unknown price `0.007055` 4h `0.0` vol `0.0` relationship `risk_on_high->#1750_4h`
 - `#2070` unknown price `0.00557` 4h `0.0` vol `0.0` relationship `risk_on_high->#2070_4h`
 - `#1940` unknown price `0.005065` 4h `0.0` vol `0.0` relationship `risk_on_high->#1940_4h`
-- `#1920` unknown price `0.005555` 4h `0.0` vol `0.0` relationship `risk_on_high->#1920_4h`
 - `@121` unknown price `0.011232` 4h `-0.2044` vol `0.0` relationship `market_context_high->@121_24h`
+- `#1920` unknown price `0.005555` 4h `0.0` vol `0.0` relationship `risk_on_high->#1920_4h`
 - `#1820` unknown price `0.005905` 4h `0.0` vol `0.0` relationship `risk_on_high->#1820_4h`
 - `#1870` unknown price `0.00615` 4h `-1.6787` vol `0.0` relationship `risk_on_high->#1870_4h`
 - `#1970` unknown price `0.00555` 4h `-0.09` vol `0.0` relationship `risk_on_high->#1970_4h`
