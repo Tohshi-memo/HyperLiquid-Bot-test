@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T14:52:33.320208+00:00`
-- Market context score: `54.48`
-- News risk score: `40.61`
-- Macro risk score: `25.26`
-- Risk-on score: `42.69`
-- Articles: `78`
+- Generated: `2026-06-08T15:07:28.311520+00:00`
+- Market context score: `53.54`
+- News risk score: `40.74`
+- Macro risk score: `26.47`
+- Risk-on score: `41.16`
+- Articles: `81`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2968`
-- Day/swing latest: `2026-06-08T14:45:00+00:00`
+- Day/swing records: `2969`
+- Day/swing latest: `2026-06-08T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `6`, risk headline rate `0.1724`, policy hits `7`
-- macro: articles `46`, risk hits `6`, risk headline rate `0.1304`, policy hits `1`
+- crypto: articles `31`, risk hits `6`, risk headline rate `0.1613`, policy hits `7`
+- macro: articles `47`, risk hits `7`, risk headline rate `0.1489`, policy hits `2`
 
 ## Headlines
 
-- [macro] United Spirits sells site to fledgling India firm Cupid Breweries & Distilleries (Yahoo Finance)
+- [macro] Household worries over finances hit highest level since July 2022, New York Fed survey shows (Economy)
+- [macro] Iraq tenders three cement plant projects (Yahoo Finance)
+- [macro] Lavazza Tablì espresso tablets launching in U.S. in 2026 (Yahoo Finance)
+- [macro] PennyMac Financial Services Chairman and CEO Sells 10,000 Shares for $880,000 (Yahoo Finance)
+- [macro] Why Did Micron Stock Bounce Back Today? (Yahoo Finance)
+- [macro] Insider Sells $71,000 Worth of Telehealth Stock, According to Latest SEC Filing (Yahoo Finance)
+- [macro] Bell Global Equities Fund Sold Nike (NKE) Amid Recovery Challenges and Inflation Pressure (Yahoo Finance)
+- [crypto] Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks (Cointelegraph.com News)
 - [crypto] Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Exxon CEO delivers blunt message on oil prices, economy (Yahoo Finance)
-- [macro] Why Did Sandisk Stock Bounce Back Today? (Yahoo Finance)
-- [macro] Ranking the Market’s Bets on 3 Blockbuster IPOs: OpenAI, Stripe, and Consensys (Yahoo Finance)
-- [macro] Duolingo Stock Is Due For a Recovery (Yahoo Finance)
-- [macro] Bell Global Equities Fund Increased Holdings in TE Connectivity plc (TEL) Backed by Layered Growth Signals (Yahoo Finance)
-- [macro] Boot Barn Holdings (BOOT) Slipped as Consumer Discretionary Faces Geopolitical Tensions (Yahoo Finance)
-- [macro] Billionaire Stanley Druckenmiller Likes This Small-Cap Pharma Stock in 2026 (Yahoo Finance)
-- [macro] Billionaire Stanley Druckenmiller’s Long-Term Healthcare Stock Pick: Option Care Health (OPCH) (Yahoo Finance)
+- [macro] Bell Global Equities Fund Bets on MercadoLibre (MELI) Amid Weakness (Yahoo Finance)
