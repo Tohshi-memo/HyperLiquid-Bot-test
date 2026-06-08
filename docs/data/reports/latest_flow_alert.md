@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-08T08:40:23.762603+00:00`
+- Generated: `2026-06-08T08:45:27.788861+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,15 +8,15 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `38393230.81`
+- Polymarket 24h volume: `38444304.4`
 - Polymarket volume z-score: `-0.43`
 
 ## Top Polymarket Markets
 
-- Iran closes its airspace by June 8? | 24h volume: `7534194.471866004` | liquidity: `3178828.62756`
-- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `2903709.9780999958` | liquidity: `70033.3577`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2659019.870480999` | liquidity: `1326989.413`
-- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `2512493.104542997` | liquidity: `66689.26118`
+- Iran closes its airspace by June 8? | 24h volume: `7577940.932866004` | liquidity: `3202934.01698`
+- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `2905157.761121996` | liquidity: `70008.4889`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2659781.3796309987` | liquidity: `1377118.0366`
+- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `2513915.7366739972` | liquidity: `65874.35657`
 - Israel closes its airspace by June 15? | 24h volume: `2290885.921441995` | liquidity: `117006.9506`
 - Iran closes its airspace by June 15? | 24h volume: `1611045.4446590007` | liquidity: `1499454.43963`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1277326.44` | liquidity: `339238.65075`
