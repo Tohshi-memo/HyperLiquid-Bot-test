@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T00:37:25.355184+00:00`
-- Market context score: `61.49`
-- News risk score: `28.55`
-- Macro risk score: `22.5`
-- Risk-on score: `47.02`
-- Articles: `25`
-- Polymarket markets: `402`
+- Generated: `2026-06-08T00:52:19.985562+00:00`
+- Market context score: `59.96`
+- News risk score: `30.02`
+- Macro risk score: `25.47`
+- Risk-on score: `45.99`
+- Articles: `26`
+- Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2912`
-- Day/swing latest: `2026-06-08T00:30:00+00:00`
+- Day/swing records: `2913`
+- Day/swing latest: `2026-06-08T00:45:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `3`
 - macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices rise after Iran fires missiles at Israel, escalating regional tensions (Energy)
 - [macro] 'No dead ends': What the Dutch can teach us about tackling youth unemployment (BBC News)
 - [macro] Spain's visitor numbers hit new highs as tourists avoid Middle East (BBC News)
 - [macro] 'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions (BBC News)
@@ -36,4 +38,3 @@
 - [macro] Zelensky's close European allies set out five conditions for peace talks (BBC News)
 - [macro] Israel strikes Beirut suburb days after US-brokered truce (BBC News)
 - [crypto] What happens to Bitcoin if the Nasdaq falls further? (Cointelegraph.com News)
-- [crypto] A quick review of the Ways and Means tax bills: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
