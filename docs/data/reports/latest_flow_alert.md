@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-08T19:25:23.358892+00:00`
+- Generated: `2026-06-08T19:30:31.988589+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `44305092.23`
-- Polymarket volume z-score: `-0.31`
+- Polymarket 24h volume: `43844111.47`
+- Polymarket volume z-score: `-0.32`
 
 ## Top Polymarket Markets
 
-- Iran closes its airspace by June 8? | 24h volume: `9295668.727946002` | liquidity: `3846928.32489`
-- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `4285370.441877976` | liquidity: `142440.55447`
-- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `4035353.1241750056` | liquidity: `91442.8503`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2939536.058951997` | liquidity: `622066.9034`
-- Israel closes its airspace by June 15? | 24h volume: `2311937.6623750045` | liquidity: `47516.6002`
-- Iran closes its airspace by June 15? | 24h volume: `2173216.888832001` | liquidity: `1452237.02356`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1505217.175999999` | liquidity: `9383737.10521`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1289866.44` | liquidity: `259236.1498`
+- Iran closes its airspace by June 8? | 24h volume: `9214729.113289999` | liquidity: `3872169.70111`
+- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `4310745.875853975` | liquidity: `154280.21141`
+- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `4051572.8101500063` | liquidity: `129945.7163`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2917014.0761229964` | liquidity: `635524.3209`
+- Iran closes its airspace by June 15? | 24h volume: `2158756.2666280014` | liquidity: `1449150.57267`
+- Israel closes its airspace by June 15? | 24h volume: `2141557.6953810044` | liquidity: `55778.3607`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1504565.175999999` | liquidity: `9383703.03075`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1289866.44` | liquidity: `353198.7112`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
