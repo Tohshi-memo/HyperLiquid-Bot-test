@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-08T07:52:28.848550+00:00`
+- Generated: `2026-06-08T08:07:21.004233+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `62`
 - Outcome sides (rows): `124`
@@ -38,7 +38,7 @@
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9941` price_source `allMids` vol24h `0.0` oi `0.0`
 - Sweden [No] symbol `#2131` underlying `n/a` prob `0.9941` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.994` price_source `allMids` vol24h `0.0` oi `0.0`
-- Egypt [No] symbol `#1871` underlying `n/a` prob `0.9939` price_source `allMids` vol24h `0.0` oi `0.0`
+- Egypt [No] symbol `#1871` underlying `n/a` prob `0.9938` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9938` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9938` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9937` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -60,8 +60,8 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.91` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0077` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9923` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2219` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7781` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2213` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7787` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [San Antonio] symbol `#1690` underlying `n/a` prob `0.4484` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [New York] symbol `#1691` underlying `n/a` prob `0.5516` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 3 [San Antonio] symbol `#1700` underlying `n/a` prob `0.4593` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -88,8 +88,8 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.91` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0077` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9923` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2219` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7781` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2213` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7787` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [San Antonio] symbol `#1690` underlying `n/a` prob `0.4484` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [New York] symbol `#1691` underlying `n/a` prob `0.5516` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 3 [San Antonio] symbol `#1700` underlying `n/a` prob `0.4593` price_source `allMids` vol24h `0.0` oi `0.0`
