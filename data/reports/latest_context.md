@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T10:52:20.243132+00:00`
-- Market context score: `55.71`
-- News risk score: `38.88`
-- Macro risk score: `28.6`
-- Risk-on score: `45.22`
-- Articles: `61`
+- Generated: `2026-06-08T11:07:28.072429+00:00`
+- Market context score: `60.45`
+- News risk score: `36.29`
+- Macro risk score: `25.86`
+- Risk-on score: `52.53`
+- Articles: `58`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2952`
-- Day/swing latest: `2026-06-08T10:45:00+00:00`
+- Day/swing records: `2953`
+- Day/swing latest: `2026-06-08T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `3`
-- macro: articles `46`, risk hits `8`, risk headline rate `0.1739`, policy hits `14`
+- crypto: articles `14`, risk hits `3`, risk headline rate `0.1429`, policy hits `3`
+- macro: articles `42`, risk hits `5`, risk headline rate `0.119`, policy hits `14`
 
 ## Headlines
 
-- [macro] The 2x Micron ETF (MUU) Shed 26.65% in One Day When Broadcom Missed and Rates Spiked (Yahoo Finance)
-- [macro] Armenia's pro-West government wins election despite Russian pressure (BBC News)
-- [macro] 64-Year-Old Retired Teacher With $1.1M 403(b) and State Pension Triggers Higher IRMAA Tier (Yahoo Finance)
-- [macro] Five ways Elon Musk's SpaceX upended Wall Street's IPO playbook (Yahoo Finance)
-- [macro] Worried About a Crash in Artificial Intelligence (AI) Stocks? Instantly Diversify Your Portfolio With This Spectacular Vanguard ETF. (Yahoo Finance)
-- [macro] What Is the Best Altcoin to Buy Under $1? (Yahoo Finance)
-- [macro] Gold Extends Loss as Israel-Iran Clashes Endanger Mideast Truce (Yahoo Finance)
-- [crypto] Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw (Cointelegraph.com News)
-- [macro] Mortgage and refinance interest rates today, Monday, June 8, 2026: Purchase and refi rates very similar (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Monday, June 8, 2026: Earn up to 4.1% APY (Yahoo Finance)
+- [crypto] Bitcoin holds steady after Sunday's rally, though full-fledged reversal may take longer (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Apple (AAPL) Is A Top Stock In Billionaire Ken Fisher’s Portfolio (Yahoo Finance)
+- [macro] NVIDIA (NVDA) Is A Top AI Stock In Billionaire Ken Fisher’s Portfolio (Yahoo Finance)
+- [macro] Biomarin Pharmaceutical (BMRN): Most Undervalued Stocks to Buy and Hold for 2 Years (Yahoo Finance)
+- [macro] LyondellBasell (LYB) Finalizes Divestiture of Select European Assets to AEQUITA as Part of Strategic Portfolio 6. Refinement (Yahoo Finance)
+- [macro] Citigroup (C) Announces Full Redemption of $3.15B in Notes Due 2027 (Yahoo Finance)
+- [macro] Nu Holdings (NU) Authorizes $1B Share Repurchase Program Over Next 12 Months (Yahoo Finance)
+- [macro] Pan American Silver (PAAS) Announces $146M Investment to Expand Timmins Camp Operations (Yahoo Finance)
+- [macro] Alvotech shares jump after FDA accepts Entyvio biosimilar application for review (ALVO) (Yahoo Finance)
+- [macro] Five key market events investors will be watching this week (Yahoo Finance)
