@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-08T11:22:21.911196+00:00`
+- Generated: `2026-06-08T11:37:29.260712+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `62`
 - Outcome sides (rows): `124`
@@ -60,8 +60,8 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.91` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0113` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9887` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2245` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7755` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2238` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7762` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [San Antonio] symbol `#1690` underlying `n/a` prob `0.4508` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [New York] symbol `#1691` underlying `n/a` prob `0.5492` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 3 [San Antonio] symbol `#1700` underlying `n/a` prob `0.456` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -88,8 +88,8 @@
 - Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.91` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0113` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9887` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2245` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7755` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.2238` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.7762` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [San Antonio] symbol `#1690` underlying `n/a` prob `0.4508` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 4 [New York] symbol `#1691` underlying `n/a` prob `0.5492` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 3 [San Antonio] symbol `#1700` underlying `n/a` prob `0.456` price_source `allMids` vol24h `0.0` oi `0.0`
