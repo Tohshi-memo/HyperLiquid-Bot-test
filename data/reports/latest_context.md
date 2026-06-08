@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T04:22:22.197157+00:00`
+- Generated: `2026-06-08T04:37:25.088631+00:00`
 - Market context score: `60.55`
 - News risk score: `29.89`
 - Macro risk score: `35.35`
 - Risk-on score: `50.94`
 - Articles: `23`
-- Polymarket markets: `402`
+- Polymarket markets: `403`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2927`
-- Day/swing latest: `2026-06-08T04:15:00+00:00`
+- Day/swing records: `2928`
+- Day/swing latest: `2026-06-08T04:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [crypto] Bitcoin recedes to $63,000 as Iran-Israel trade strikes and Korean stocks crash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tech stocks plunge in Asia after record rally and renewed Middle East attacks (BBC News)
 - [macro] Tech stocks plunge in Asia after record rally and renewed Middle East attacks (BBC News)
 - [crypto] Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight (Cointelegraph.com News)
