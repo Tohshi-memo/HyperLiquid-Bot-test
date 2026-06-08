@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T01:52:25.554590+00:00`
-- Market context score: `59.66`
-- News risk score: `28.61`
-- Macro risk score: `32.68`
-- Risk-on score: `46.86`
-- Articles: `28`
+- Generated: `2026-06-08T02:06:32.762265+00:00`
+- Market context score: `59.14`
+- News risk score: `29.14`
+- Macro risk score: `33.73`
+- Risk-on score: `46.54`
+- Articles: `27`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2917`
-- Day/swing latest: `2026-06-08T01:45:00+00:00`
+- Day/swing records: `2918`
+- Day/swing latest: `2026-06-08T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
-- macro: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `0`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices spike over 3% as Iran and Israel trade strikes, escalating regional tensions (Energy)
 - [macro] Oil prices edge higher after strikes on Israel test ceasefire (BBC News)
 - [macro] Oil prices edge higher after strikes on Israel test ceasefire (BBC News)
-- [commodity] Oil prices rise after Iran fires missiles at Israel, escalating regional tensions (Energy)
 - [macro] 'No dead ends': What the Dutch can teach us about tackling youth unemployment (BBC News)
 - [macro] 'No dead ends': What the Dutch can teach us about tackling youth unemployment (BBC News)
 - [macro] Spain's visitor numbers hit new highs as tourists avoid Middle East (BBC News)
