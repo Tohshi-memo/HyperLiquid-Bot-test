@@ -2,9 +2,9 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-06-08T13:52:35.164804+00:00`
+- Updated: `2026-06-08T14:07:25.537405+00:00`
 - Asset price active records: `672`
-- Day/swing records: `2964`
+- Day/swing records: `2965`
 - Macro indicators: `11`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
@@ -15,14 +15,14 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 - `data/reports/latest_ai_context_index.md` (2366 bytes): Human-readable map.
 - `data/processed/ai_context_index.json` (63375 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2410 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (873 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/reports/latest_canary_signals.md` (2372 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2537 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (47115 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5727 bytes): Asset-class overview.
+- `data/processed/ai_analysis_pack.json` (47110 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5750 bytes): Asset-class overview.
 - `data/reports/latest_asset_features.md` (2146 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (9031 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3594 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3599 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4616 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
@@ -38,7 +38,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- 4h_commodity_crypto_divergence: score `2.1839` - Commodity perps and crypto are moving differently; check macro-linked stress.
+- baseline: score `0` - No elevated canary signal. Continue collecting samples.
 
 ## Full JSON Rule
 
