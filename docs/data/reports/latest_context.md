@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T14:07:25.537405+00:00`
-- Market context score: `58.93`
-- News risk score: `38.08`
-- Macro risk score: `22.84`
-- Risk-on score: `49.52`
+- Generated: `2026-06-08T14:22:31.619910+00:00`
+- Market context score: `58.06`
+- News risk score: `37.88`
+- Macro risk score: `22.52`
+- Risk-on score: `47.3`
 - Articles: `77`
 - Polymarket markets: `401`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2965`
-- Day/swing latest: `2026-06-08T14:00:00+00:00`
+- Day/swing records: `2966`
+- Day/swing latest: `2026-06-08T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `5`, risk headline rate `0.1429`, policy hits `6`
-- macro: articles `46`, risk hits `4`, risk headline rate `0.087`, policy hits `2`
+- macro: articles `46`, risk hits `5`, risk headline rate `0.087`, policy hits `1`
 
 ## Headlines
 
+- [macro] Stock market jitters remain amid tech fears and renewed Middle East attacks (BBC News)
+- [macro] Stock market jitters remain amid tech fears and renewed Middle East attacks (BBC News)
+- [macro] Casino and Zouari sign France convenience retail partnership (Yahoo Finance)
 - [crypto] South Korea police raid Bithumb over lawmaker hiring favoritism probe: report (Cointelegraph.com News)
+- [macro] Them Andelsmejeri sold to PE firm (Yahoo Finance)
 - [macro] CCU buys out Nestlé from Chile joint venture (Yahoo Finance)
+- [macro] Eventbrite and Vimeo owner Bending Spoons files to go public (Yahoo Finance)
+- [macro] Broad Banking Exposure or Megabank Conviction: What KBE and FTXO Say About the Industry (Yahoo Finance)
 - [macro] Starmer tells Apple and Google to ban nude images on children's phones (BBC News)
-- [macro] CIP to sell minority stake in 500MW Devilla battery project (Yahoo Finance)
-- [macro] Factbox-Airlines resume some Middle East flights but disruption continues (Yahoo Finance)
-- [macro] Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US (Yahoo Finance)
-- [macro] OPEC+ approves fourth straight monthly oil output quota hike (Yahoo Finance)
-- [macro] “Taking back control” – will Rémy Cointreau’s plans pay off? (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Should You Consider Dream Finders Homes (DFH) for a Re-Entry? (Yahoo Finance)
+- [macro] Bernstein Says Bitcoin’s ‘Store Of Value’ Thesis Remains Intact (Yahoo Finance)
