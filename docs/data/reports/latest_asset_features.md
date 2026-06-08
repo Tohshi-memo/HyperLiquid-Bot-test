@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-08T21:52:20.896936+00:00`
-- Observed: `2026-06-08T21:45:00+00:00`
+- Generated: `2026-06-08T22:07:38.999736+00:00`
+- Observed: `2026-06-08T22:00:00+00:00`
 - Assets: `886`
 
 ## Top Activity
@@ -16,9 +16,9 @@ Individual asset screen for drilling down from class-level signals.
 - `#1800` unknown price `0.00259` 4h `0.0` vol `0.0` relationship `risk_on_high->#1800_4h`
 - `#1750` unknown price `0.00287` 4h `0.0` vol `0.0` relationship `risk_on_high->#1750_4h`
 - `#2070` unknown price `0.00261` 4h `0.0` vol `0.0` relationship `risk_on_high->#2070_4h`
-- `@48` unknown price `0.00038382` 4h `0.0` vol `0.0` relationship `market_context_high->@48_24h`
 - `#1940` unknown price `0.00191` 4h `0.0` vol `0.0` relationship `risk_on_high->#1940_4h`
 - `#1950` unknown price `0.004045` 4h `0.1238` vol `0.0` relationship `risk_on_high->#1950_4h`
+- `@48` unknown price `0.00038382` 4h `0.0` vol `0.0` relationship `market_context_high->@48_24h`
 - `#1820` unknown price `0.00219` 4h `0.0` vol `0.0` relationship `risk_on_high->#1820_4h`
 - `#1910` unknown price `0.00193` 4h `0.0` vol `0.0` relationship `risk_on_high->#1910_4h`
 - `#2190` unknown price `0.002605` 4h `0.0` vol `0.0` relationship `risk_on_high->#2190_4h`
@@ -27,4 +27,4 @@ Individual asset screen for drilling down from class-level signals.
 - `#1970` unknown price `0.00258` 4h `0.0` vol `0.0` relationship `risk_on_high->#1970_4h`
 - `#2030` unknown price `0.002585` 4h `0.0` vol `0.0` relationship `risk_on_high->#2030_4h`
 - `#1840` unknown price `0.001985` 4h `0.0` vol `0.0` relationship `risk_on_high->#1840_4h`
-- `ZEC` crypto_alt price `468.895` 4h `5.7225` vol `340522540.92` relationship `market_context_high->ZEC_24h`
+- `#1870` unknown price `0.00315` 4h `0.159` vol `0.0` relationship `risk_on_high->#1870_4h`
