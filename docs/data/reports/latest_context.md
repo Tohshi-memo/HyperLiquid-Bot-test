@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T22:52:27.465771+00:00`
-- Market context score: `47.01`
+- Generated: `2026-06-08T23:07:20.343385+00:00`
+- Market context score: `46.15`
 - News risk score: `41.73`
 - Macro risk score: `34.88`
-- Risk-on score: `30.67`
+- Risk-on score: `28.76`
 - Articles: `52`
 - Polymarket markets: `402`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3000`
-- Day/swing latest: `2026-06-08T22:45:00+00:00`
+- Day/swing records: `3001`
+- Day/swing latest: `2026-06-08T23:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] OpenAI plans to go public, intensifying investment race with Anthropic (BBC News)
 - [macro] Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again (BBC News)
 - [macro] Somali referee Artan barred from entering USA (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena (BBC News)
 - [macro] Has Trump lost control of the Iran war? (BBC News)
 - [commodity] Oil prices ease after Iran says military operations against Israel are over (Energy)
-- [macro] Watch: Southern Lights timelapse filmed from space (BBC News)
