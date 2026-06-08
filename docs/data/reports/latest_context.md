@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T09:07:25.527055+00:00`
-- Market context score: `49.53`
-- News risk score: `39.91`
-- Macro risk score: `37.63`
-- Risk-on score: `35.76`
-- Articles: `27`
+- Generated: `2026-06-08T09:22:27.015997+00:00`
+- Market context score: `57.63`
+- News risk score: `38.89`
+- Macro risk score: `25.94`
+- Risk-on score: `48.49`
+- Articles: `59`
 - Polymarket markets: `403`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2945`
-- Day/swing latest: `2026-06-08T09:00:00+00:00`
+- Day/swing records: `2946`
+- Day/swing latest: `2026-06-08T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `47`, risk hits `8`, risk headline rate `0.1702`, policy hits `4`
 
 ## Headlines
 
 - [commodity] Oil prices spike over 4% as Iran and Israel trade strikes (Energy)
+- [macro] SMCX Sank 67% in a Year While the Underlying Stock Rose 2% (Yahoo Finance)
+- [macro] USHY Investors: Watch This 350 Basis Point Trigger Over the Next 12 Months (Yahoo Finance)
+- [macro] Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes (Yahoo Finance)
+- [macro] 1 Glorious Growth Stock Down 84% to Buy on the Dip in June (Yahoo Finance)
+- [macro] Peru election result close as vote counting continues (BBC News)
+- [macro] Printemps Group Names Former Zadig & Voltaire Chief Rémy Baume as New CEO (Yahoo Finance)
 - [macro] Tech stocks plunge in Asia after record rally and renewed Middle East attacks (BBC News)
 - [macro] Tech stocks plunge in Asia after record rally and renewed Middle East attacks (BBC News)
-- [crypto] CME is letting traders bet on bitcoin volatility, not price, and two firms have already placed bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Zcash bounces 45% as developers propose new Ironwood upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Friendship or leverage: Why is Xi Jinping in North Korea? (BBC News)
-- [crypto] Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch (Cointelegraph.com News)
-- [crypto] Galaxy drops CLARITY Act odds to 60% as time is running out (Cointelegraph.com News)
-- [commodity] 100 days of the Iran war: How global markets and the economy have been affected, in charts (Energy)
-- [macro] Rare footage captured of Great White shark in Mediterranean Sea (BBC News)
+- [macro] Orla Mining restarts operations at Camino Rojo Mine in Mexico (Yahoo Finance)
