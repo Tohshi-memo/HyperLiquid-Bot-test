@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-08T10:07:26.767339+00:00`
-- Market context score: `55.91`
-- News risk score: `37.07`
-- Macro risk score: `26.19`
-- Risk-on score: `43.22`
-- Articles: `57`
+- Generated: `2026-06-08T10:22:25.504745+00:00`
+- Market context score: `55.24`
+- News risk score: `39.26`
+- Macro risk score: `29.44`
+- Risk-on score: `44.8`
+- Articles: `61`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `2949`
-- Day/swing latest: `2026-06-08T10:00:00+00:00`
+- Day/swing records: `2950`
+- Day/swing latest: `2026-06-08T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `3`
-- macro: articles `43`, risk hits `7`, risk headline rate `0.1628`, policy hits `4`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `3`
+- macro: articles `46`, risk hits `9`, risk headline rate `0.1957`, policy hits `12`
 
 ## Headlines
 
-- [macro] Malawians repatriated from South Africa amid xenophobia concerns (BBC News)
-- [crypto] Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Canon USA appoints new senior marketing director for production print (Yahoo Finance)
-- [macro] Ferrari Stock Is Down 33% Since July 2025: 1 Reason the Market Is Wrong. (Yahoo Finance)
-- [macro] You may be saving to give up work without realising it. Here's how to check (BBC News)
-- [crypto] U.S. inflation, European Central Bank rate decision: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Why Grail Could Be the Sleeper Stock Everyone's About to Notice (Yahoo Finance)
-- [macro] These 2 Bearish Signs Could Spell Trouble for XRP (Yahoo Finance)
-- [macro] Tokio Marine eyes overseas growth with Berkshire pact – report (Yahoo Finance)
-- [macro] How $450,000 in MLP ETFs Can Pump $34,000 a Year Into Your Wallet Without K-1 Forms (Yahoo Finance)
+- [macro] Armenia's pro-West government wins election despite Russian pressure (BBC News)
+- [macro] CME Group CEO Blasts Bitcoin Perpetual Futures, Warns of ‘2007’ Risk (Yahoo Finance)
+- [macro] Five ways Elon Musk's SpaceX upended Wall Street's IPO playbook (Yahoo Finance)
+- [macro] Why Palo Alto Networks Stock Skyrocketed 57.1% Last Month But Is Sinking in June (Yahoo Finance)
+- [macro] Nvidia Started the AI Boom. These 2 Stocks Could Fuel Its Next Chapter. (Yahoo Finance)
+- [crypto] Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw (Cointelegraph.com News)
+- [macro] SOXX Surged 190% in a Year but XSD Only Returned 180% — Here’s Why the Difference Matters (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Monday, June 8, 2026: Purchase and refi rates very similar (Yahoo Finance)
+- [macro] HELOC and home equity loan rates, Monday, June 8, 2026: Looking back at May rates (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, Monday, June 8, 2026: Earn up to 4.1% APY (Yahoo Finance)
