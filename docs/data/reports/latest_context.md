@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T07:37:25.138020+00:00`
+- Generated: `2026-06-09T07:52:27.078384+00:00`
 - Market context score: `47.01`
 - News risk score: `37.22`
 - Macro risk score: `27.78`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3035`
-- Day/swing latest: `2026-06-09T07:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] ICC suspends top prosecutor after investigating misconduct allegations (BBC News)
 - [macro] US adds BYD to list of firms with alleged Chinese military ties (BBC News)
 - [macro] Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up (BBC News)
 - [crypto] Over 200 crypto firms push Senate to pass CLARITY Act (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk (Cointelegraph.com News)
 - [crypto] Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live markets: Bitcoin above $63,000 as some traders peg SpaceX's IPO as 'next catalyst' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Israel and Iran flare-up could strengthen Tehran's negotiating hand (BBC News)
