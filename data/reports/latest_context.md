@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T20:22:30.681823+00:00`
-- Market context score: `43.33`
+- Generated: `2026-06-09T20:37:41.472063+00:00`
+- Market context score: `43.73`
 - News risk score: `45.3`
 - Macro risk score: `29.23`
-- Risk-on score: `23.36`
+- Risk-on score: `24.25`
 - Articles: `56`
 - Polymarket markets: `400`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3084`
-- Day/swing latest: `2026-06-09T20:15:00+00:00`
+- Day/swing records: `3085`
+- Day/swing latest: `2026-06-09T20:30:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Trump says Iran shot down US helicopter and vows to respond (BBC News)
 - [macro] Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis (BBC News)
 - [macro] Williams rolls back the years on return at Queen's (BBC News)
-- [macro] Trump says Iran shot down US helicopter and vows to respond (BBC News)
 - [policy] Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT. (FRB: Press Release - All Releases)
 - [macro] The May inflation numbers are due out Wednesday morning. Here's what to expect (Economy)
 - [crypto] Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
