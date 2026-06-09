@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T19:22:28.457476+00:00`
+- Generated: `2026-06-09T19:29:29.751676+00:00`
 - Market context score: `46.56`
 - News risk score: `42.63`
 - Macro risk score: `26.61`
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Trump says Iran shot down US helicopter and vows to respond (BBC News)
 - [macro] The May inflation numbers are due out Wednesday morning. Here's what to expect (Economy)
 - [commodity] Oil prices fall after U.S. Energy secretary says Hormuz ship traffic is increasing (Energy)
 - [macro] Williams rolls back the years on return at Queen's (BBC News)
 - [macro] Version of AI tool 'too powerful for public' released to public (BBC News)
 - [macro] Version of AI tool 'too powerful for public' released to public (BBC News)
-- [macro] Trump says Iran shot down US helicopter and vows to respond (BBC News)
 - [macro] Does referee case show Fifa has lost control of its own World Cup? (BBC News)
 - [macro] Fifa working to resolve revoked Iran tickets (BBC News)
 - [crypto] Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise (Cointelegraph.com News)
