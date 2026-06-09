@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T10:52:29.434103+00:00`
-- Market context score: `50.2`
-- News risk score: `39.92`
-- Macro risk score: `30.01`
-- Risk-on score: `34.38`
-- Articles: `54`
+- Generated: `2026-06-09T11:07:24.806678+00:00`
+- Market context score: `49.14`
+- News risk score: `41.2`
+- Macro risk score: `28.5`
+- Risk-on score: `32.55`
+- Articles: `50`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3047`
-- Day/swing latest: `2026-06-09T10:45:00+00:00`
+- Day/swing records: `3048`
+- Day/swing latest: `2026-06-09T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `37`, risk hits `9`, risk headline rate `0.2162`, policy hits `12`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `2`
+- macro: articles `33`, risk hits `7`, risk headline rate `0.1818`, policy hits `12`
 
 ## Headlines
 
-- [macro] BP awards SLB OneSubsea boosting contract for Thunder Horse (Yahoo Finance)
+- [macro] Factorial Energy goes public at $1.3bn valuation after SPAC merger (Yahoo Finance)
+- [macro] YKK plans new $150m manufacturing factory in southern India (Yahoo Finance)
+- [macro] TOYO to invest $357m in HJT solar cell manufacturing plant in Texas (Yahoo Finance)
+- [macro] JPMorgan Chase Trades at a Big Premium to Bank of America. Is It Worth the Difference? (Yahoo Finance)
+- [macro] Is Innodata's 162% Rally Over the Past Month Hype or the Real Deal? (Yahoo Finance)
+- [macro] Better ETF Buy Right Now: QQQ vs. SCHG (Yahoo Finance)
 - [crypto] Strategy's bitcoin purchase fails to stir BTC price (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Eni, Petronas launch Searah JV for Indonesian and Malaysian assets (Yahoo Finance)
 - [macro] Morning Bid: Buy the chip (Yahoo Finance)
-- [macro] CyberCube lands first Austrian client (Yahoo Finance)
+- [crypto] SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei (Cointelegraph.com News)
 - [macro] Oil falls as investors await clarity after Iran-Israel halt attacks (Yahoo Finance)
-- [macro] Analysis-Alberta pitches cheap natural gas for data center boom, at odds with Canada's clean power aims (Yahoo Finance)
-- [macro] Are You a New Stock Market Investor in June 2026? Here's Warren Buffett's Advice. (Yahoo Finance)
-- [macro] IGI secures approval to open insurance office in India’s GIFT City (Yahoo Finance)
-- [macro] Why Nio Stock Skid 12% in May Despite 129% Growth in EV Sales (Yahoo Finance)
