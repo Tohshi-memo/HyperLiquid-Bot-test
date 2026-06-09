@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T01:52:23.722928+00:00`
-- Market context score: `46.58`
+- Generated: `2026-06-09T02:07:29.061615+00:00`
+- Market context score: `46.98`
 - News risk score: `38.59`
 - Macro risk score: `30.93`
-- Risk-on score: `25.56`
+- Risk-on score: `26.45`
 - Articles: `42`
 - Polymarket markets: `400`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3012`
-- Day/swing latest: `2026-06-09T01:45:00+00:00`
+- Day/swing records: `3013`
+- Day/swing latest: `2026-06-09T02:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] OpenAI confidentially files to go public in the US (Cointelegraph.com News)
 - [macro] Peru election result close as vote counting continues (BBC News)
 - [macro] Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand (BBC News)
 - [macro] OpenAI plans to go public, intensifying investment race with Anthropic (BBC News)
@@ -37,4 +38,3 @@
 - [macro] How driving test booking is changing for learner drivers (BBC News)
 - [macro] Driving test booking rules tightened after thousands of no shows (BBC News)
 - [crypto] Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again (BBC News)
