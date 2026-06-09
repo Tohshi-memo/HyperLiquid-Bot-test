@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T02:52:24.155351+00:00`
+- Generated: `2026-06-09T03:07:24.682629+00:00`
 - Market context score: `46.86`
 - News risk score: `36.43`
 - Macro risk score: `30.47`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3016`
-- Day/swing latest: `2026-06-09T02:45:00+00:00`
+- Day/swing records: `3017`
+- Day/swing latest: `2026-06-09T03:00:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [macro] US adds BYD to list of firms with alleged Chinese military ties (BBC News)
 - [crypto] OpenAI confidentially files to go public in the US (Cointelegraph.com News)
 - [macro] Peru election result close as vote counting continues (BBC News)
-- [macro] Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand (BBC News)
+- [macro] Israel and Iran flare-up could strengthen Tehran's negotiating hand (BBC News)
 - [macro] OpenAI plans to go public, intensifying investment race with Anthropic (BBC News)
 - [macro] SpaceX's stock market blast-off could be Musk's biggest gamble yet (BBC News)
 - [macro] SpaceX's stock market blast-off could be Musk's biggest gamble yet (BBC News)
