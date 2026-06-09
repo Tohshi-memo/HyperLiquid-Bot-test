@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T21:37:23.960057+00:00`
+- Generated: `2026-06-09T21:52:22.262373+00:00`
 - Market context score: `41.98`
 - News risk score: `46.31`
 - Macro risk score: `32.73`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3089`
-- Day/swing latest: `2026-06-09T21:30:00+00:00`
+- Day/swing records: `3090`
+- Day/swing latest: `2026-06-09T21:45:00+00:00`
 
 ## News Categories
 
@@ -29,10 +29,10 @@
 
 ## Headlines
 
+- [macro] US striking Iran in response to downing of helicopter, military says (BBC News)
 - [macro] Inside Myanmar, rebels are losing ground as military forces men into army (BBC News)
 - [crypto] Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK and allies sanction 'networks' enabling settler violence in West Bank (BBC News)
-- [macro] Trump says Iran shot down US helicopter and vows to respond (BBC News)
 - [macro] Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis (BBC News)
 - [macro] Williams rolls back the years on return at Queen's (BBC News)
 - [crypto] Solana Institute CEO says CLARITY Act must shield open-source developers (Cointelegraph.com News)
