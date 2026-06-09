@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T21:07:28.236507+00:00`
-- Market context score: `42.25`
-- News risk score: `46.19`
-- Macro risk score: `32.01`
-- Risk-on score: `22.76`
-- Articles: `56`
+- Generated: `2026-06-09T21:22:25.739324+00:00`
+- Market context score: `42.73`
+- News risk score: `45.86`
+- Macro risk score: `31.3`
+- Risk-on score: `23.29`
+- Articles: `58`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3087`
-- Day/swing latest: `2026-06-09T21:00:00+00:00`
+- Day/swing records: `3088`
+- Day/swing latest: `2026-06-09T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `12`, risk headline rate `0.3103`, policy hits `3`
-- macro: articles `24`, risk hits `8`, risk headline rate `0.2083`, policy hits `1`
+- crypto: articles `30`, risk hits `12`, risk headline rate `0.3`, policy hits `3`
+- macro: articles `25`, risk hits `8`, risk headline rate `0.2`, policy hits `1`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Inside Myanmar, rebels are losing ground as military forces men into army (BBC News)
 - [crypto] Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK and allies sanction 'networks' enabling settler violence in West Bank (BBC News)
 - [macro] Trump says Iran shot down US helicopter and vows to respond (BBC News)
 - [macro] Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis (BBC News)
 - [macro] Williams rolls back the years on return at Queen's (BBC News)
+- [crypto] Solana Institute CEO says CLARITY Act must shield open-source developers (Cointelegraph.com News)
 - [policy] Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT. (FRB: Press Release - All Releases)
 - [macro] The May inflation numbers are due out Wednesday morning. Here's what to expect (Economy)
 - [crypto] Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices fall after U.S. Energy secretary says Hormuz ship traffic is increasing (Energy)
-- [macro] Version of AI tool 'too powerful for public' released to public (BBC News)
