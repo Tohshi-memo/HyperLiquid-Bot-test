@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T13:37:26.559780+00:00`
-- Market context score: `45.05`
-- News risk score: `49.36`
-- Macro risk score: `30.4`
-- Risk-on score: `31.05`
+- Generated: `2026-06-09T13:52:26.967112+00:00`
+- Market context score: `46.76`
+- News risk score: `47.46`
+- Macro risk score: `26.82`
+- Risk-on score: `31.9`
 - Articles: `73`
 - Polymarket markets: `399`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3057`
-- Day/swing latest: `2026-06-09T13:30:00+00:00`
+- Day/swing records: `3058`
+- Day/swing latest: `2026-06-09T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `3`
-- macro: articles `44`, risk hits `12`, risk headline rate `0.2273`, policy hits `10`
+- macro: articles `44`, risk hits `10`, risk headline rate `0.1818`, policy hits `3`
 
 ## Headlines
 
-- [macro] Perrigo CEO Patrick Lockwood-Taylor resigns over “personal misconduct” (Yahoo Finance)
-- [macro] BP restructures into upstream and downstream units under new CEO (Yahoo Finance)
-- [macro] Spike In Oil Prices Boosted Crescent Energy Company (CRGY) in Q1 (Yahoo Finance)
-- [crypto] CoinDesk 20 performance update: AAVE Drops 2.6% as all constituents trade lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Sea drone rescued US army helicopter crew near Strait of Hormuz (BBC News)
-- [macro] Permian Resources Corporation (PR) Benefited from Supply Disruptions (Yahoo Finance)
-- [macro] Micron, Marvell stocks lead semiconductor bounce for second day in a row (Yahoo Finance)
-- [macro] Oil falls as investors await clarity after Iran-Israel halt attacks (Yahoo Finance)
-- [macro] Magnolia Oil & Gas (MGY) Gained From Energy Sector Rally (Yahoo Finance)
 - [commodity] Oil prices fall as Trump tries to convince market an Iran deal is close despite recent violence (Energy)
+- [macro] 'Please send help': Ship's distress call after being hit by US missile (BBC News)
+- [macro] Psyched about the SpaceX IPO? Don't forget the brutal lesson from Facebook's IPO. (Yahoo Finance)
+- [macro] Oracle faces vital AI reality check in upcoming earnings (Yahoo Finance)
+- [macro] Toll Brothers upgraded, Lennar downgraded: Wall Street's top analyst calls (Yahoo Finance)
+- [macro] Hive Digital’s Chief Operating Officer Sells Company Stock (Yahoo Finance)
+- [macro] Graphic Packaging Holding (GPK) Hurt by Weaker Low-End Consumer (Yahoo Finance)
+- [macro] Apple Just Delivered Its $75 Per Share AI Moment at WWDC. Wall Street Says the Stock Could Hit $440 by Year-End. (Yahoo Finance)
+- [macro] Is Enovis Corporation (ENOV) a High-Growth, Under-Valued Stock? (Yahoo Finance)
+- [macro] Perrigo CEO Patrick Lockwood-Taylor resigns over “personal misconduct” (Yahoo Finance)
