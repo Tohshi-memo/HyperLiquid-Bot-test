@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-09T07:22:29.489909+00:00`
+- Generated: `2026-06-09T07:37:25.138020+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `77`
 - Outcome sides (rows): `154`
@@ -46,7 +46,7 @@
 - South Korea [No] symbol `#2111` underlying `n/a` prob `0.9965` price_source `allMids` vol24h `0.0` oi `0.0`
 - Sweden [No] symbol `#2131` underlying `n/a` prob `0.9962` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.996` price_source `allMids` vol24h `0.0` oi `0.0`
-- Ivory Coast [No] symbol `#1951` underlying `n/a` prob `0.996` price_source `allMids` vol24h `0.0` oi `0.0`
+- Ivory Coast [No] symbol `#1951` underlying `n/a` prob `0.9959` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
