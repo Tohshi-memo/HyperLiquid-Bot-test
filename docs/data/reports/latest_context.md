@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T18:22:30.346441+00:00`
+- Generated: `2026-06-09T18:37:32.466636+00:00`
 - Market context score: `49.23`
 - News risk score: `42.43`
 - Macro risk score: `26.77`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3076`
-- Day/swing latest: `2026-06-09T18:15:00+00:00`
+- Day/swing records: `3077`
+- Day/swing latest: `2026-06-09T18:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [macro] Version of AI tool 'too powerful for public' released to public (BBC News)
 - [macro] Trump says Iran shot down US helicopter and vows to respond (BBC News)
-- [macro] Version of AI tool too powerful for public released to public (BBC News)
 - [macro] Fifa working to resolve revoked Iran tickets (BBC News)
 - [crypto] Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise (Cointelegraph.com News)
 - [macro] Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks (BBC News)
