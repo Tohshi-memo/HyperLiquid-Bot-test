@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-09T11:15:27.265877+00:00`
+- Generated: `2026-06-09T11:20:33.116117+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `29550213.63`
+- Polymarket 24h volume: `29487075.82`
 - Polymarket volume z-score: `-0.45`
 
 ## Top Polymarket Markets
@@ -17,9 +17,9 @@
 - Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `4758913.538287999` | liquidity: `390351.3579`
 - US x Iran permanent peace deal by December 31, 2026? | 24h volume: `2075437.7565549968` | liquidity: `566070.4837`
 - Iran closes its airspace by June 8? | 24h volume: `1974415.8502350003` | liquidity: `4527411.59012`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1781075.0` | liquidity: `421474.93913`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1781075.0` | liquidity: `422168.33632`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1498751.355599004` | liquidity: `886978.3325`
-- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1194880.769523003` | liquidity: `1039193.99532`
+- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1155930.6514830028` | liquidity: `1036883.80801`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `1054765.8559999992` | liquidity: `9814946.32776`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
