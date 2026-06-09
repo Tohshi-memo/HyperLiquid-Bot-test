@@ -2,9 +2,9 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-06-09T23:03:53.272831+00:00`
+- Generated: `2026-06-09T23:07:26.769861+00:00`
 - Price records: `672`
-- Market context records: `3427`
+- Market context records: `3428`
 - Flow alert records: `8640`
 - Minimum samples: `30`
 - Pattern count: `120`
@@ -44,7 +44,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `risk_on_high->crypto_alt_4h` score `6.3488` n `32` status `ready` deltaP `6.4787` edge `0.6703` maxDD `-11.7537`
 - `risk_on_and_context->crypto_alt_4h` score `6.3488` n `32` status `ready` deltaP `6.4787` edge `0.6703` maxDD `-11.7537`
 - `market_context_high->metal_24h` score `4.3874` n `154` status `ready` deltaP `23.8795` edge `0.8573` maxDD `-25.9879`
-- `risk_on_high->equity_4h` score `4.2626` n `32` status `ready` deltaP `16.2348` edge `0.5517` maxDD `-5.7426`
+- `risk_on_high->equity_4h` score `4.2618` n `32` status `ready` deltaP `16.2348` edge `0.5516` maxDD `-5.7426`
 
 ## Guardrails
 
