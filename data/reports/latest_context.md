@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T05:37:26.215569+00:00`
+- Generated: `2026-06-09T05:52:31.543251+00:00`
 - Market context score: `48.41`
 - News risk score: `34.82`
 - Macro risk score: `29.12`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:517`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3027`
-- Day/swing latest: `2026-06-09T05:30:00+00:00`
+- Day/swing records: `3028`
+- Day/swing latest: `2026-06-09T05:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again (BBC News)
+- [crypto] Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live markets: Bitcoin steady above $63,000, BNB, SOL edge higher as AI stocks rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israel and Iran flare-up could strengthen Tehran's negotiating hand (BBC News)
 - [commodity] Iraq and UAE race to establish alternative oil pipelines as exports through Hormuz dry up (Energy)
