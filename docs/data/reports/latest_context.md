@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-09T08:24:46.421451+00:00`
-- Market context score: `47.61`
-- News risk score: `36.34`
-- Macro risk score: `27.76`
-- Risk-on score: `24.74`
-- Articles: `33`
+- Generated: `2026-06-09T08:37:25.592543+00:00`
+- Market context score: `47.98`
+- News risk score: `35.97`
+- Macro risk score: `27.02`
+- Risk-on score: `24.98`
+- Articles: `34`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3037`
-- Day/swing latest: `2026-06-09T08:15:00+00:00`
+- Day/swing records: `3038`
+- Day/swing latest: `2026-06-09T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `0`
+- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Black bear caught in Japan after days of sightings (BBC News)
 - [crypto] Coinbase and Cardless unveil credit card backed by stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut (BBC News)
 - [macro] ICC suspends top prosecutor after investigating misconduct allegations (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] AI agents with crypto could escape and become ‘unstoppable,’ experts warn (Cointelegraph.com News)
 - [macro] Trump booed in New York as he becomes first US president to attend NBA Finals (BBC News)
 - [macro] All 24 Indian crew rescued from tanker set ablaze off Oman after US strike (BBC News)
-- [crypto] Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk (Cointelegraph.com News)
