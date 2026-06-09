@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-09T05:55:22.434359+00:00`
+- Generated: `2026-06-09T06:00:26.137087+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `35785414.52`
+- Polymarket 24h volume: `35568462.66`
 - Polymarket volume z-score: `-0.39`
 
 ## Top Polymarket Markets
 
-- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `5710653.748311994` | liquidity: `286837.75499`
-- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `5196254.941495003` | liquidity: `256521.4588`
-- Iran closes its airspace by June 8? | 24h volume: `3202592.2237919997` | liquidity: `4906719.61146`
-- US x Iran permanent peace deal by December 31, 2026? | 24h volume: `2019558.948450997` | liquidity: `512313.9839`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1860757.3191670007` | liquidity: `848279.9213`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1779075.0` | liquidity: `420213.50482`
+- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `5700670.17575899` | liquidity: `279150.95917`
+- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `5177770.2016210025` | liquidity: `260354.8256`
+- Iran closes its airspace by June 8? | 24h volume: `3194606.4737919997` | liquidity: `4909088.97197`
+- US x Iran permanent peace deal by December 31, 2026? | 24h volume: `2094738.398148997` | liquidity: `483767.5144`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `1847985.6933460005` | liquidity: `853426.1921`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1779075.0` | liquidity: `421960.05577`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `1450381.0790000008` | liquidity: `9817856.35747`
-- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1259769.9835100002` | liquidity: `1063346.73509`
+- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1259658.8724000002` | liquidity: `1063125.87739`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
