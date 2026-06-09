@@ -1,15 +1,15 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-09T14:11:07.623353+00:00`
+- Generated: `2026-06-09T14:22:26.435897+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
-- Outcome markets: `77`
-- Outcome sides (rows): `154`
+- Outcome markets: `78`
+- Outcome sides (rows): `156`
 
 ## Markets by Underlying
 
 - BTC: `1`
 - ETH: `1`
-- unknown: `75`
+- unknown: `76`
 
 ## Markets by Class
 
@@ -18,7 +18,7 @@
 - priceBinary: `1`
 - price_above: `1`
 - price_below: `1`
-- unknown: `70`
+- unknown: `71`
 
 ## Current Implied Probabilities
 
