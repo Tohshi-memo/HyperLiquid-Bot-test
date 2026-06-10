@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-10T12:07:31.634861+00:00`
+- Generated: `2026-06-10T12:22:32.033828+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `78`
 - Outcome sides (rows): `156`
@@ -34,8 +34,8 @@
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Panama [No] symbol `#2031` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
-- New Zealand [No] symbol `#2011` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
+- New Zealand [No] symbol `#2011` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Tunisia [No] symbol `#2151` underlying `n/a` prob `0.9973` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -52,12 +52,12 @@
 
 - Fallback [Yes] symbol `#1000` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1001` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.7053` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.2947` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.3744` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.6257` price_source `allMids` vol24h `0.0` oi `0.0`
-- Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.087` price_source `allMids` vol24h `0.0` oi `0.0`
-- Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.913` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.65` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.35` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.4151` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.5849` price_source `allMids` vol24h `0.0` oi `0.0`
+- Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.1038` price_source `allMids` vol24h `0.0` oi `0.0`
+- Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.8962` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.01` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.99` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.3659` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -80,12 +80,12 @@
 
 - Fallback [Yes] symbol `#1000` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1001` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.7053` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.2947` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.3744` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.6257` price_source `allMids` vol24h `0.0` oi `0.0`
-- Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.087` price_source `allMids` vol24h `0.0` oi `0.0`
-- Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.913` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.65` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.35` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.4151` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.5849` price_source `allMids` vol24h `0.0` oi `0.0`
+- Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.1038` price_source `allMids` vol24h `0.0` oi `0.0`
+- Above 4.3% [No] symbol `#1031` underlying `n/a` prob `0.8962` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.01` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.99` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.3659` price_source `allMids` vol24h `0.0` oi `0.0`
