@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T13:52:33.257065+00:00`
+- Generated: `2026-06-10T13:54:42.217546+00:00`
 - Market context score: `49.47`
 - News risk score: `43.99`
 - Macro risk score: `26.21`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Consumer prices rose 4.2% annually in May, highest in three years (Economy)
 - [macro] Growing backlash in Japan over Trump's use of anime characters (BBC News)
 - [macro] Nike downgraded, Oscar Health upgraded: Wall Street's top analyst calls (Yahoo Finance)
 - [macro] Warren Buffett's favorite stock market indicator is screaming sell (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] What Makes Roper (ROP) an Attractive Bet? (Yahoo Finance)
 - [macro] The Chinese EV brand feared by American automakers is losing ground at home. Here’s how the US could compete (Yahoo Finance)
 - [macro] Microsoft Corporation (MSFT): Valuation Gap Signals Opportunity? (Yahoo Finance)
-- [macro] Core CPI Inflation Eases Fed Fears As Warsh Takes Helm (Live Coverage) (Yahoo Finance)
