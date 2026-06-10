@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T15:22:34.160945+00:00`
-- Market context score: `50.26`
-- News risk score: `46.92`
-- Macro risk score: `25.37`
-- Risk-on score: `38.67`
+- Generated: `2026-06-10T15:37:32.199503+00:00`
+- Market context score: `51.46`
+- News risk score: `47.59`
+- Macro risk score: `26.7`
+- Risk-on score: `42.4`
 - Articles: `74`
 - Polymarket markets: `401`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:548`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3160`
-- Day/swing latest: `2026-06-10T15:15:00+00:00`
+- Day/swing records: `3161`
+- Day/swing latest: `2026-06-10T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `3`
-- macro: articles `43`, risk hits `9`, risk headline rate `0.1628`, policy hits `8`
+- macro: articles `43`, risk hits `10`, risk headline rate `0.186`, policy hits `8`
 
 ## Headlines
 
-- [crypto] Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs (Cointelegraph.com News)
-- [crypto] AI deepfake election ad in Minnesota raises transparency concerns (Cointelegraph.com News)
-- [commodity] Oil prices jump after Trump says Iran will 'pay the price' for failing at peace deal (Energy)
-- [macro] Starbucks weighs Japan stake sale or IPO (Yahoo Finance)
-- [macro] General Mills and Campbell's Both Pay Around 7% in Dividends. Which Stock Is the Safer Option for Income Investors? (Yahoo Finance)
-- [macro] Risk-Averse Investors: Don't Overlook This Simple Wealth-Building Tool (Yahoo Finance)
-- [macro] SONAR Launches Accepted Truckload Volume Index to Close the Gap Between Tendered and Moving Freight (Yahoo Finance)
-- [macro] World markets walk a tightrope between AI stocks and oil shocks (Yahoo Finance)
-- [macro] OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows (Yahoo Finance)
-- [macro] Supermicro Stock Tumbles On Financing Deals To Fund AI Orders (Yahoo Finance)
+- [macro] Pakistan launches deadly air strikes in Afghanistan, reigniting tensions (BBC News)
+- [commodity] Oil prices rises after Trump says Iran will 'pay the price' for failing at peace deal (Energy)
+- [macro] Global stock index down after data, oil rises after Iran-US strikes (Yahoo Finance)
+- [macro] Enghouse Systems Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] North West Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] OpenAI IPO: 6 things to know before you buy the stock (Yahoo Finance)
+- [macro] The “Warsh Trade” Is Coming. Here’s How to Win the Fed’s Next Pivot (Yahoo Finance)
+- [macro] Seth Klarman Is Ignoring AI Hype and Buying This Industrial Stock (Yahoo Finance)
+- [macro] Is Molina Healthcare (MOH) The Best Healthcare Stock to Buy Now? (Yahoo Finance)
+- [macro] Legendary Value Investor Seth Klarman is Buying Norwegian Cruise Line (NCLH) (Yahoo Finance)
