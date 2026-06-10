@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T09:52:36.086008+00:00`
-- Market context score: `45.54`
-- News risk score: `36.1`
-- Macro risk score: `25.17`
-- Risk-on score: `18.97`
-- Articles: `29`
+- Generated: `2026-06-10T10:07:33.376825+00:00`
+- Market context score: `51.34`
+- News risk score: `39.92`
+- Macro risk score: `26.29`
+- Risk-on score: `35.5`
+- Articles: `52`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3138`
-- Day/swing latest: `2026-06-10T09:45:00+00:00`
+- Day/swing records: `3139`
+- Day/swing latest: `2026-06-10T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `2`
+- macro: articles `37`, risk hits `4`, risk headline rate `0.1081`, policy hits `17`
 
 ## Headlines
 
-- [macro] US strikes Iran in response to downing of military helicopter (BBC News)
+- [macro] SpaceX fever is testing the chip trade: Chart of the Day (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, Wednesday, June 10, 2026: Earn up to 4.10% APY (Yahoo Finance)
+- [macro] Best money market account rates today, Wednesday, June 10, 2026: Secure up to 4.01% APY (Yahoo Finance)
+- [macro] Best CD rates today, Wednesday, June 10, 2026: Earn up to 4% APY (Yahoo Finance)
+- [macro] HELOC and home equity loan interest rates today, Wednesday, June 10, 2026: Rate shopping matters whether rates are rising or falling (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Wednesday, June 10, 2026: Rates mostly lower (Yahoo Finance)
 - [macro] Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg (BBC News)
-- [crypto] Japan's three largest banks aim for joint stablecoin issue by March (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil choppy after U.S. completes Iran strikes following Apache helicopter attack (Energy)
-- [macro] Energy prices take center stage as the ECB prepares to decide on rates (Economy)
-- [crypto] XRP market shows signs of capitulation as holders sell at loss (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Firms charged with manslaughter over deadly Hong Kong fire (BBC News)
-- [crypto] SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech (Cointelegraph.com News)
-- [crypto] Elon Musk's SpaceX IPO is four times oversubscribed. A crypto bet tells a more cautious story (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Chainalysis, South Korean police link up to fight crypto crime (Cointelegraph.com News)
+- [macro] Amazon's Prime Day Is Coming. Here's What It Means for the Stock Market. (Yahoo Finance)
+- [macro] ACCA rolls out talent toolkit for smaller accounting firms (Yahoo Finance)
+- [macro] Could This Texas Town Be America’s Most Underrated Golf Retirement Destination? (Yahoo Finance)
