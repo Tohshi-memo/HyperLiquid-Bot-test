@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T18:37:30.189765+00:00`
-- Market context score: `45.62`
-- News risk score: `44.63`
-- Macro risk score: `30.7`
-- Risk-on score: `28.43`
-- Articles: `59`
+- Generated: `2026-06-10T18:52:31.004749+00:00`
+- Market context score: `45.44`
+- News risk score: `44.78`
+- Macro risk score: `30.74`
+- Risk-on score: `28.18`
+- Articles: `58`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:550`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3172`
-- Day/swing latest: `2026-06-10T18:30:00+00:00`
+- Day/swing records: `3173`
+- Day/swing latest: `2026-06-10T18:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `33`, risk hits `12`, risk headline rate `0.2727`, policy hits `3`
+- crypto: articles `32`, risk hits `12`, risk headline rate `0.2812`, policy hits `3`
 - macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard' (Energy)
 - [commodity] Trump says U.S. secretly moved more than 100 million barrels of oil through Strait of Hormuz (Energy)
+- [macro] World Cup expected to be the biggest betting event in history (BBC News)
 - [macro] Whale graveyard dating back five million years discovered (BBC News)
 - [crypto] Privacy returns to focus as Ethereum developers explore new token standards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Trump says he 'loves the inflation' as US prices rise at fastest rate in three years (BBC News)
 - [macro] Three Indian sailors missing after US says it hit tanker in Gulf of Oman (BBC News)
 - [macro] Trump says US will hit Iran 'hard' again today (BBC News)
-- [commodity] Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard' (Energy)
-- [crypto] Anchorage backs Treasury’s GENIUS AML rules, seeks secondary-market sanctions clarity (Cointelegraph.com News)
