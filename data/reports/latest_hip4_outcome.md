@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-10T11:07:29.236998+00:00`
+- Generated: `2026-06-10T11:22:27.466185+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `78`
 - Outcome sides (rows): `156`
@@ -44,16 +44,16 @@
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Korea [No] symbol `#2111` underlying `n/a` prob `0.9965` price_source `allMids` vol24h `0.0` oi `0.0`
 - Sweden [No] symbol `#2131` underlying `n/a` prob `0.9959` price_source `allMids` vol24h `0.0` oi `0.0`
-- Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9959` price_source `allMids` vol24h `0.0` oi `0.0`
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9955` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
+- Algeria [No] symbol `#1721` underlying `n/a` prob `0.9944` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
 - Fallback [Yes] symbol `#1000` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1001` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.6081` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.3919` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.6107` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.3893` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.3743` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.6257` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.087` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -80,8 +80,8 @@
 
 - Fallback [Yes] symbol `#1000` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1001` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.6081` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.3919` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [Yes] symbol `#1010` underlying `n/a` prob `0.6107` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 4.3% [No] symbol `#1011` underlying `n/a` prob `0.3893` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [Yes] symbol `#1020` underlying `n/a` prob `0.3743` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 4.3% [No] symbol `#1021` underlying `n/a` prob `0.6257` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 4.3% [Yes] symbol `#1030` underlying `n/a` prob `0.087` price_source `allMids` vol24h `0.0` oi `0.0`

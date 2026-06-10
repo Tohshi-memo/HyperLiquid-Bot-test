@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T11:07:29.236998+00:00`
-- Market context score: `45.32`
-- News risk score: `37.03`
-- Macro risk score: `23.65`
-- Risk-on score: `18.7`
-- Articles: `36`
+- Generated: `2026-06-10T11:22:27.466185+00:00`
+- Market context score: `46.18`
+- News risk score: `46.52`
+- Macro risk score: `31.7`
+- Risk-on score: `31.68`
+- Articles: `52`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3143`
-- Day/swing latest: `2026-06-10T11:00:00+00:00`
+- Day/swing records: `3144`
+- Day/swing latest: `2026-06-10T11:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `4`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `15`, risk hits `6`, risk headline rate `0.3333`, policy hits `4`
+- macro: articles `35`, risk hits `7`, risk headline rate `0.2`, policy hits `19`
 
 ## Headlines
 
-- [crypto] Zcash, Hyperliquid tokens lead losses as traders bet against a bitcoin bounce (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] BP announces two-segment overhaul to simplify operations (Yahoo Finance)
-- [macro] Taiwan Semiconductor Sales Rise 30% In May, Remain On Target (Yahoo Finance)
-- [macro] Morning Bid: The chips are blue (Yahoo Finance)
+- [crypto] The inflation scenario that could send bitcoin tumbling below $60,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil prices jump after Trump says Iran will 'pay the price' for failing at peace deal (Energy)
+- [macro] TPG to invest in US tax and accounting practice Smith + Howard (Yahoo Finance)
+- [macro] Silver prices today, Wednesday, June 10, 2026: Down significantly following airstrikes, ahead of CPI report (Yahoo Finance)
+- [macro] Aditxt and Ignite announce merger plans with strategic partner (Yahoo Finance)
+- [macro] Ongwe identifies 5km gold anomaly at Namibia’s Omatjete project (Yahoo Finance)
+- [macro] Terra Firma establishes Averro packaging venture (Yahoo Finance)
 - [macro] Dow Jones Futures Fall, Tech Woes Continue After Whipsaw Losses; CPI Inflation On Tap (Yahoo Finance)
-- [macro] Is Walmart a Millionaire-Maker Stock? (Yahoo Finance)
-- [macro] Financial Decisions People Regret Most After Age 50 (Yahoo Finance)
-- [macro] NFP acquires Signature Personal Insurance assets (Yahoo Finance)
-- [commodity] Oil choppy after U.S. completes Iran strikes following Apache helicopter attack (Energy)
-- [macro] Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg (BBC News)
+- [macro] LinkedIn launches new effort in push to capture business advertisers (Yahoo Finance)
+- [macro] 'Dead money': 3 financial advisors reveal where they're parking cash as inflation hits a 3-year high (Yahoo Finance)
