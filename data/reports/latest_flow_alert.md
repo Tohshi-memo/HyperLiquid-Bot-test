@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-10T18:05:30.329145+00:00`
+- Generated: `2026-06-10T18:10:34.981253+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `28575866.34`
-- Polymarket volume z-score: `-0.07`
+- Polymarket 24h volume: `27652343.2`
+- Polymarket volume z-score: `-0.11`
 
 ## Top Polymarket Markets
 
-- Will Russia test a nuclear weapon by June 30 2026? | 24h volume: `4575056.90149` | liquidity: `18587.98272`
-- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `3783650.528888003` | liquidity: `372021.54805`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2359853.555000001` | liquidity: `9395197.31135`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2195061.900387` | liquidity: `849319.00616`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1654427.4420000007` | liquidity: `1005033.90328`
-- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `1499635.025651998` | liquidity: `347338.9593`
-- Strait of Hormuz traffic returns to normal by June 15? | 24h volume: `1010158.2250849997` | liquidity: `541347.36014`
-- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `809281.7440179996` | liquidity: `1411161.92423`
+- Will Russia test a nuclear weapon by June 30 2026? | 24h volume: `4575181.90149` | liquidity: `20274.39605`
+- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `3803164.815434005` | liquidity: `370316.01672`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2354954.625000001` | liquidity: `9377981.44974`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `2152207.4252199996` | liquidity: `862817.98764`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1625912.3420000006` | liquidity: `1059381.36457`
+- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `1503704.554816998` | liquidity: `336052.65068`
+- Strait of Hormuz traffic returns to normal by June 15? | 24h volume: `1121019.8932849998` | liquidity: `558155.86212`
+- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `809352.0352019995` | liquidity: `1302026.75048`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
