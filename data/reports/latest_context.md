@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T14:52:35.053831+00:00`
+- Generated: `2026-06-10T15:07:44.230450+00:00`
 - Market context score: `50.22`
 - News risk score: `46.95`
 - Macro risk score: `25.52`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:548`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3158`
-- Day/swing latest: `2026-06-10T14:45:00+00:00`
+- Day/swing records: `3159`
+- Day/swing latest: `2026-06-10T15:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [macro] Stock Market Today: Dow Falls After Trump Warning, CPI Inflation; Super Micro Tumbles (Live Coverage) (Yahoo Finance)
+- [commodity] Oil prices jump after Trump says Iran will 'pay the price' for failing at peace deal (Energy)
+- [macro] Starbucks weighs Japan stake sale or IPO (Yahoo Finance)
+- [macro] General Mills and Campbell's Both Pay Around 7% in Dividends. Which Stock Is the Safer Option for Income Investors? (Yahoo Finance)
+- [macro] Risk-Averse Investors: Don't Overlook This Simple Wealth-Building Tool (Yahoo Finance)
+- [macro] SONAR Launches Accepted Truckload Volume Index to Close the Gap Between Tendered and Moving Freight (Yahoo Finance)
+- [macro] World markets walk a tightrope between AI stocks and oil shocks (Yahoo Finance)
+- [macro] OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows (Yahoo Finance)
+- [macro] Supermicro Stock Tumbles On Financing Deals To Fund AI Orders (Yahoo Finance)
 - [macro] Cracker Barrel Jumps Into A Short Squeeze On Upgrade, Target Hikes (Yahoo Finance)
-- [macro] SpaceX IPO To Boost U.S. Dollar, University Endowments. Valuation Takes A Hit. (Yahoo Finance)
-- [macro] Consumer prices rose 4.2% annually in May, highest in three years (Economy)
-- [macro] Bank of America offers blunt advice to U.S. stock traders (Yahoo Finance)
-- [macro] Fidelity’s 2026 Retirement Study Says 7-in-10 Americans Would Skip Traditional Retirement for Gig Work, a Business, or a New Career (Yahoo Finance)
-- [macro] Super Micro Sinks 13% on a $7 Billion Raise, but Dell Climbs 4% as the AI-Server Trade Splits (Yahoo Finance)
-- [macro] Figure to Acquire Kiavi in $717 Million Blockchain Lending Push (Yahoo Finance)
-- [macro] Dollar eases as US inflation data keeps rate hike at bay (Yahoo Finance)
-- [macro] Trump and Iran trade new threats after strikes exchanged (BBC News)
+- [macro] Stock Market Today: Dow Falls After Trump Warning, CPI Inflation; Super Micro Tumbles (Live Coverage) (Yahoo Finance)
