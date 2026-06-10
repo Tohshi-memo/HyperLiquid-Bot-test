@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T19:07:33.483512+00:00`
-- Market context score: `42.7`
-- News risk score: `47.61`
-- Macro risk score: `31.12`
-- Risk-on score: `24.62`
-- Articles: `59`
+- Generated: `2026-06-10T19:22:39.019684+00:00`
+- Market context score: `42.45`
+- News risk score: `47.86`
+- Macro risk score: `31.17`
+- Risk-on score: `24.3`
+- Articles: `58`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:550`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3174`
-- Day/swing latest: `2026-06-10T19:00:00+00:00`
+- Day/swing records: `3175`
+- Day/swing latest: `2026-06-10T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `33`, risk hits `14`, risk headline rate `0.3333`, policy hits `4`
+- crypto: articles `32`, risk hits `14`, risk headline rate `0.3438`, policy hits `4`
 - macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `3`
 
 ## Headlines
 
-- [commodity] Trump says U.S. secretly moved more than 100 million barrels of oil through Strait of Hormuz (Energy)
-- [commodity] Oil prices rise after Trump says U.S. will attack Iran 'very hard' (Energy)
-- [crypto] UK crypto advocates launch campaign against banks blocking exchange transfers (Cointelegraph.com News)
 - [commodity] Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard' (Energy)
+- [commodity] Oil prices rise after Trump says U.S. will attack Iran 'very hard' (Energy)
+- [commodity] Trump says U.S. secretly moved more than 100 million barrels of oil through Strait of Hormuz (Energy)
+- [crypto] UK crypto advocates launch campaign against banks blocking exchange transfers (Cointelegraph.com News)
 - [crypto] Pending Bank of Japan rate decision may impact Bitcoin price: Should traders prepare? (Cointelegraph.com News)
 - [macro] World Cup expected to be the biggest betting event in history (BBC News)
 - [macro] Whale graveyard dating back five million years discovered (BBC News)
