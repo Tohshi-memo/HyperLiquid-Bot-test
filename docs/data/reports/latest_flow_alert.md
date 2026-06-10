@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-10T12:00:32.089816+00:00`
+- Generated: `2026-06-10T12:05:33.088982+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `30422048.51`
+- Polymarket 24h volume: `30395526.54`
 - Polymarket volume z-score: `-0.12`
 
 ## Top Polymarket Markets
@@ -16,7 +16,7 @@
 - Will Russia test a nuclear weapon by June 30 2026? | 24h volume: `4564209.7155` | liquidity: `12944.01675`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `3275939.2953749937` | liquidity: `1091911.90817`
 - Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `3069689.14398199` | liquidity: `620084.28754`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2399258.668999999` | liquidity: `9335925.35657`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2390565.6359999985` | liquidity: `9334677.84239`
 - Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1592520.8399999999` | liquidity: `634701.33136`
 - Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `1338977.6217929996` | liquidity: `535931.6855`
 - Strait of Hormuz traffic returns to normal by June 15? | 24h volume: `996729.3650369996` | liquidity: `571824.55654`
