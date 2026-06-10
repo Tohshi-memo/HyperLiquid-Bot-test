@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T19:37:29.674993+00:00`
+- Generated: `2026-06-10T19:52:52.221618+00:00`
 - Market context score: `42.19`
 - News risk score: `48.14`
 - Macro risk score: `31.22`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:550`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3176`
-- Day/swing latest: `2026-06-10T19:30:00+00:00`
+- Day/swing records: `3177`
+- Day/swing latest: `2026-06-10T19:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated' (BBC News)
 - [commodity] Trump says U.S. secretly moved more than 100 million barrels of oil through Strait of Hormuz (Energy)
 - [commodity] Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard' (Energy)
 - [commodity] Oil prices rise after Trump says U.S. will attack Iran 'very hard' (Energy)
@@ -37,4 +38,3 @@
 - [macro] Whale graveyard dating back five million years discovered (BBC News)
 - [crypto] Privacy returns to focus as Ethereum developers explore new token standards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Coinbase-backed Stand With Crypto calls on members to campaign against banks blocking digital asset transactions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
