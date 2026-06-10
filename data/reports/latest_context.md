@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T06:06:00.382434+00:00`
-- Market context score: `41.62`
-- News risk score: `39.5`
-- Macro risk score: `34.5`
-- Risk-on score: `16.67`
-- Articles: `30`
+- Generated: `2026-06-10T06:22:25.792149+00:00`
+- Market context score: `39.77`
+- News risk score: `42.45`
+- Macro risk score: `33.43`
+- Risk-on score: `14.64`
+- Articles: `32`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:547`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3123`
-- Day/swing latest: `2026-06-10T06:00:00+00:00`
+- Day/swing records: `3124`
+- Day/swing latest: `2026-06-10T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `4`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
+- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `4`
+- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Twelve killed in mass shooting in Johannesburg, police say (BBC News)
+- [crypto] 'Maximal' ban on insider trading would hurt prediction markets, says researcher (Cointelegraph.com News)
 - [crypto] Live updates: What next for bitcoin as it faces headwinds from Fed rates to Claude's Mythos (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] What next for BP? Leadership exits test investor confidence in board oversight (Energy)
 - [macro] US strikes Iran in response to downing of military helicopter (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Bitcoin and gold fall together as a rate-hike bet hits every hedge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin ETFs are no bigger today than when Trump won the election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared' (BBC News)
-- [crypto] Crypto users wary as Anthropic releases Claude Mythos with safeguards (Cointelegraph.com News)
-- [commodity] Oil choppy after U.S. completes Iran strikes following Apache helicopter attack (Energy)
