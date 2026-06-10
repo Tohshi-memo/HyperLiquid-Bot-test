@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T16:37:32.216356+00:00`
-- Market context score: `55.18`
-- News risk score: `42.84`
-- Macro risk score: `20.81`
-- Risk-on score: `44.44`
+- Generated: `2026-06-10T16:52:31.331676+00:00`
+- Market context score: `54.0`
+- News risk score: `43.56`
+- Macro risk score: `22.24`
+- Risk-on score: `42.96`
 - Articles: `75`
-- Polymarket markets: `401`
+- Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:548`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3164`
-- Day/swing latest: `2026-06-10T16:30:00+00:00`
+- Day/swing records: `3165`
+- Day/swing latest: `2026-06-10T16:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `33`, risk hits `10`, risk headline rate `0.2727`, policy hits `3`
-- macro: articles `39`, risk hits `3`, risk headline rate `0.0769`, policy hits `3`
+- macro: articles `38`, risk hits `3`, risk headline rate `0.0789`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Trump says U.S. secretly moved millions of barrels of oil through Strait of Hormuz (Energy)
+- [macro] Where Will Amazon Stock Be in 3 Years? (Yahoo Finance)
+- [macro] What the $38 billion Visa, Mastercard swipe fee settlement means for credit card users (Yahoo Finance)
+- [macro] 1 Plain-As-Day Dividend King to Buy and Never Sell That Has Paid a Continuous Dividend Since 1891 (Yahoo Finance)
+- [macro] Why Uranium Energy Stock Is Plummeting Again Today (Yahoo Finance)
+- [macro] I Would Rebuild My Portfolio With Just These 3 Stocks If I Lost Everything Tomorrow (Yahoo Finance)
+- [macro] Google and Meta denied new trial in youth social media addiction case (Yahoo Finance)
 - [macro] US inflation surges to three-year high of 4.2% (BBC News)
 - [macro] Trump says US will hit Iran 'hard' again on Wednesday (BBC News)
 - [macro] Robinhood Enters This Hot, Lucrative Market. The Stock Is Jumping. (Yahoo Finance)
-- [macro] Novelis restarts Oswego NY plant after nine months of fire outages (Yahoo Finance)
-- [macro] Parabilis Medicines raises record $670 million in biotech IPO (Yahoo Finance)
-- [macro] What $6,500 a Month Really Looks Like in Retirement With a $1.7 Million Portfolio (Yahoo Finance)
-- [crypto] Crypto Long & Short: Who answers the 3am call when DeFi breaks? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Resurgence of flesh-eating New World screwworm in Texas could take a bite out of consumer stocks (Yahoo Finance)
-- [macro] The Smartest Vanguard ETF to Buy With $1,000 Right Now (Yahoo Finance)
-- [commodity] Trump pledges more Iran attacks, saying U.S. will be 'attacking them very hard' (Energy)
