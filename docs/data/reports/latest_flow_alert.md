@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-10T01:20:29.648930+00:00`
+- Generated: `2026-06-10T01:25:25.612704+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `24276527.72`
+- Polymarket 24h volume: `24248119.62`
 - Polymarket volume z-score: `-0.43`
 
 ## Top Polymarket Markets
 
-- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `3900079.2203300074` | liquidity: `351097.69243`
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `3070732.7110519977` | liquidity: `976537.4701`
-- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `1800230.6522630078` | liquidity: `404107.6931`
-- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1653430.8399999999` | liquidity: `547410.7461`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1635973.8349999993` | liquidity: `10108904.68568`
-- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `845251.0336930007` | liquidity: `405467.4786`
-- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `779844.14` | liquidity: `862329.79649`
-- Israel closes its airspace by June 9? | 24h volume: `712430.0424029998` | liquidity: `76723.3171`
+- Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election? | 24h volume: `3836783.146396007` | liquidity: `339349.62923`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `3078889.9069369975` | liquidity: `970146.292`
+- Will Keiko Fujimori win the 2026 Peruvian presidential election? | 24h volume: `1738350.9376080078` | liquidity: `418654.8467`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1705761.8349999993` | liquidity: `10110902.15502`
+- Will Carlos Álvarez win the 2026 Peruvian presidential election? | 24h volume: `1653430.8399999999` | liquidity: `548359.54636`
+- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `845068.9493080005` | liquidity: `410032.1618`
+- Will the Fed increase interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `780844.14` | liquidity: `861868.09235`
+- Israel closes its airspace by June 9? | 24h volume: `709785.4864179998` | liquidity: `79749.83346`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
