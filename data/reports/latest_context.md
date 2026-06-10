@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-10T17:33:39.336454+00:00`
-- Market context score: `55.42`
-- News risk score: `44.75`
-- Macro risk score: `22.23`
-- Risk-on score: `47.11`
-- Articles: `77`
+- Generated: `2026-06-10T17:37:43.875918+00:00`
+- Market context score: `53.85`
+- News risk score: `45.13`
+- Macro risk score: `23.82`
+- Risk-on score: `44.55`
+- Articles: `78`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `1`
-- crypto: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `2`
-- macro: articles `42`, risk hits `4`, risk headline rate `0.0714`, policy hits `2`
+- crypto: articles `31`, risk hits `10`, risk headline rate `0.2903`, policy hits `2`
+- macro: articles `42`, risk hits `5`, risk headline rate `0.0952`, policy hits `3`
 
 ## Headlines
 
+- [macro] Trump says US will hit Iran 'hard' again on Wednesday (BBC News)
 - [commodity] Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard' (Energy)
 - [commodity] Trump says U.S. secretly moved millions of barrels of oil through Strait of Hormuz (Energy)
+- [macro] MicroStrategy CFO sells company shares amid stock plunge (Yahoo Finance)
+- [macro] Which Roundhill Crypto Covered Call ETF Pays the Higher Thursday Yield, YBTC or YETH? (Yahoo Finance)
+- [macro] Teen hiring hit an 80-year low in 2025 — and it's expected to fall more this year. Is AI both the problem and solution? (Yahoo Finance)
+- [macro] Rivian’s Most Important Product Launches And The Stock Falls Apart (Yahoo Finance)
+- [macro] Caterpillar Holds Key Level After Plowing Into Data Center Market (Yahoo Finance)
+- [macro] JPMorgan says tax refunds no match for American gas spending (Yahoo Finance)
 - [macro] NVIDIA’s (NVDA) CEO and South Korea’s SK Group Expected to Announce Collaboration Plans (Yahoo Finance)
-- [macro] Wall Street Expects Broadcom Inc (AVGO) to Grow EPS By More Than 50% Over the Next 5 Years, Should You Invest? (Yahoo Finance)
-- [macro] Micron Technology (MU) Among the Top Unstoppable Growth Stocks (Yahoo Finance)
-- [macro] Advanced Micro Devices (AMD) Up More Than 100% Over the Past 6 Months, Here’s What You Need to Know (Yahoo Finance)
-- [macro] Lam Research Corporation (LRCX) Among the Top Unstoppable Growth Stocks (Yahoo Finance)
-- [macro] Intel Corporation (INTC) Up More than 140% Over the Past 6 Months, Is It An Unstoppable Growth Stock? (Yahoo Finance)
-- [macro] Rosenblatt Remains a Buy On Palantir Technologies (PLTR) (Yahoo Finance)
-- [macro] Seagate Technology (STX) Gaining on Unprecedented AI-Driven Demand (Yahoo Finance)
