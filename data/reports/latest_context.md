@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T04:22:25.643156+00:00`
-- Market context score: `34.03`
-- News risk score: `55.94`
-- Macro risk score: `38.07`
-- Risk-on score: `15.03`
-- Articles: `35`
+- Generated: `2026-06-11T04:37:25.531227+00:00`
+- Market context score: `35.46`
+- News risk score: `53.83`
+- Macro risk score: `37.97`
+- Risk-on score: `16.39`
+- Articles: `36`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:550`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3210`
-- Day/swing latest: `2026-06-11T04:15:00+00:00`
+- Day/swing records: `3211`
+- Day/swing latest: `2026-06-11T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `8`, risk headline rate `0.8333`, policy hits `1`
-- crypto: articles `11`, risk hits `9`, risk headline rate `0.5455`, policy hits `2`
+- crypto: articles `12`, risk hits `9`, risk headline rate `0.5`, policy hits `2`
 - macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin has reached a deep bear-market valuation zone. The hard part may come next. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US and Iran exchange strikes across Middle East for second day in a row (BBC News)
 - [commodity] Oil jumps as U.S. strikes in Iran raise worries of extended disruption to energy flows (Energy)
 - [commodity] Kuwait closes airspace, Israel warns of launches from Lebanon after U.S strikes in Iran (Energy)
@@ -37,4 +38,3 @@
 - [macro] Trump says he 'loves the inflation' as US prices rise at fastest rate in three years (BBC News)
 - [macro] Trump says he 'loves the inflation' as US prices rise at fastest rate in three years (BBC News)
 - [macro] Watch: Historic US-Canada border library gets new Quebec-only entrance (BBC News)
-- [macro] The furious dispute over what caused Air India flight 171 to crash (BBC News)
