@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T22:52:28.150087+00:00`
-- Market context score: `57.02`
-- News risk score: `32.92`
-- Macro risk score: `26.54`
-- Risk-on score: `42.32`
-- Articles: `50`
-- Polymarket markets: `400`
+- Generated: `2026-06-11T23:07:28.982575+00:00`
+- Market context score: `57.39`
+- News risk score: `32.87`
+- Macro risk score: `25.44`
+- Risk-on score: `42.67`
+- Articles: `52`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:556`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3283`
-- Day/swing latest: `2026-06-11T22:45:00+00:00`
+- Day/swing records: `3284`
+- Day/swing latest: `2026-06-11T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `4`, risk headline rate `0.1111`, policy hits `1`
-- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `2`
+- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] India's 'blue gold' starts a new drinks industry (BBC News)
+- [macro] My friends always want to split the bill equally, how do I say no? (BBC News)
 - [commodity] What energy insiders in DC are saying about oil prices and a possible Iran deal (Energy)
 - [crypto] Citi launches blockchain marketplace for private companies shares: Report (Cointelegraph.com News)
 - [macro] Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale (BBC News)
@@ -37,5 +39,3 @@
 - [commodity] Crude oil prices fall 4% after Trump says U.S. will sign deal with Iran soon (Energy)
 - [crypto] ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery? (Cointelegraph.com News)
 - [commodity] Oil tanker CEO sees Hormuz ship traffic quickly increasing if U.S. and Iran reach a deal (Energy)
-- [crypto] Three signs that XRP price risks falling below $1 in June (Cointelegraph.com News)
-- [macro] Villagers take fight against Lidl store plans to Welsh government (BBC News)
