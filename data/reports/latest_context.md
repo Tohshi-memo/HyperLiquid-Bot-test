@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T08:22:32.556049+00:00`
+- Generated: `2026-06-11T08:37:30.535111+00:00`
 - Market context score: `46.34`
 - News risk score: `44.84`
 - Macro risk score: `32.94`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:556`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3226`
-- Day/swing latest: `2026-06-11T08:15:00+00:00`
+- Day/swing records: `3227`
+- Day/swing latest: `2026-06-11T08:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] French singer Patrick Bruel under formal investigation for rape (BBC News)
 - [macro] US and Iran exchange strikes across Middle East for second day in a row (BBC News)
 - [crypto] Singapore bank DBS to offer tokenized gold to retail customers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] French singer Patrick Bruel under formal investigation for rape (BBC News)
 - [commodity] Kuwait closes airspace, Israel warns of launches from Lebanon after U.S strikes in Iran (Energy)
 - [commodity] Oil prices recede after earlier gains as traders weigh U.S.-Iran latest (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
