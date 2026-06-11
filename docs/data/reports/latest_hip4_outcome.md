@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-11T09:52:29.565685+00:00`
+- Generated: `2026-06-11T10:07:28.720356+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `76`
 - Outcome sides (rows): `152`
@@ -31,7 +31,6 @@
 - Ivory Coast [No] symbol `#1951` underlying `n/a` prob `0.9958` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9954` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
-- Iran [No] symbol `#1931` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -41,6 +40,7 @@
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 - Tunisia [No] symbol `#2151` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9944` price_source `allMids` vol24h `0.0` oi `0.0`
+- Iran [No] symbol `#1931` underlying `n/a` prob `0.9943` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.9942` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9941` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9939` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -58,8 +58,8 @@
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0056` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9944` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.0931` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.9069` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.0909` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.9091` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0046` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9954` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0071` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -86,8 +86,8 @@
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0056` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9944` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.0931` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.9069` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.0909` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.9091` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0046` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9954` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0071` price_source `allMids` vol24h `0.0` oi `0.0`
