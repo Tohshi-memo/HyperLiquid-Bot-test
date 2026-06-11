@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T04:56:44.425686+00:00`
+- Generated: `2026-06-11T05:07:30.021902+00:00`
 - Market context score: `38.08`
 - News risk score: `52.05`
 - Macro risk score: `37.88`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:550`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3212`
-- Day/swing latest: `2026-06-11T04:45:00+00:00`
+- Day/swing records: `3213`
+- Day/swing latest: `2026-06-11T05:00:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [commodity] Kuwait closes airspace, Israel warns of launches from Lebanon after U.S strikes in Iran (Energy)
 - [crypto] XRP holds above $1.10 as ETF inflows rise, but traders remain cautious (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin has reached a deep bear-market valuation zone. The hard part may come next. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US and Iran exchange strikes across Middle East for second day in a row (BBC News)
 - [commodity] Oil jumps as U.S. strikes in Iran raise worries of extended disruption to energy flows (Energy)
-- [commodity] Kuwait closes airspace, Israel warns of launches from Lebanon after U.S strikes in Iran (Energy)
 - [crypto] Delaware, New Jersey advance bills banning crypto ATMs (Cointelegraph.com News)
 - [commodity] Inside India newsletter: Hollywood is debating AI. India's filmmakers are embracing it (Energy)
 - [crypto] XRP transaction demand falls 91.5% as traders focus on $0.65 support (Cointelegraph.com News)
