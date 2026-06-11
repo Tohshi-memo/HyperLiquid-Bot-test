@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T23:37:31.370121+00:00`
-- Market context score: `55.25`
-- News risk score: `34.53`
-- Macro risk score: `25.44`
-- Risk-on score: `39.33`
-- Articles: `52`
+- Generated: `2026-06-11T23:52:33.405671+00:00`
+- Market context score: `57.36`
+- News risk score: `33.3`
+- Macro risk score: `23.47`
+- Risk-on score: `42.22`
+- Articles: `51`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:556`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3286`
-- Day/swing latest: `2026-06-11T23:30:00+00:00`
+- Day/swing records: `3287`
+- Day/swing latest: `2026-06-11T23:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `5`, risk headline rate `0.1481`, policy hits `1`
 - macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] World Cup kicks off in Mexico with Shakira, dancing, and protests (BBC News)
 - [macro] Elon Musk's SpaceX raises $75bn ahead of record stock market debut (BBC News)
-- [macro] World Cup kicks off in Mexico with Shakira, vibrant fans, and protests (BBC News)
 - [macro] Why the economics makes this the craziest world cup ever (BBC News)
 - [macro] India's 'blue gold' starts a new drinks industry (BBC News)
 - [macro] My friends always want to split the bill equally, how do I say no? (BBC News)
