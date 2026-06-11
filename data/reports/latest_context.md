@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T02:37:23.015239+00:00`
-- Market context score: `43.27`
-- News risk score: `44.81`
-- Macro risk score: `32.56`
-- Risk-on score: `24.07`
-- Articles: `45`
+- Generated: `2026-06-11T02:52:27.371921+00:00`
+- Market context score: `44.28`
+- News risk score: `44.45`
+- Macro risk score: `31.06`
+- Risk-on score: `25.46`
+- Articles: `43`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:550`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3203`
-- Day/swing latest: `2026-06-11T02:30:00+00:00`
+- Day/swing records: `3204`
+- Day/swing latest: `2026-06-11T02:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `6`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
+- crypto: articles `17`, risk hits `8`, risk headline rate `0.3529`, policy hits `2`
+- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `2`
 
 ## Headlines
 
-- [commodity] Kuwait says intercepting 'aerial targets' after U.S. military strikes multiple targets in Iran (Energy)
+- [commodity] Kuwait says it is intercepting 'aerial targets' after U.S. military strikes Iran (Energy)
 - [macro] Tehran targets US Gulf bases after American forces launch new strikes on Iran (BBC News)
 - [commodity] Inside India newsletter: Hollywood is debating AI. India's filmmakers are embracing it (Energy)
 - [commodity] Oil jumps as U.S. fresh strikes on Iran raise worries of extended disruption to energy flows (Energy)
