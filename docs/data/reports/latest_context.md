@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T12:52:32.133091+00:00`
-- Market context score: `44.25`
-- News risk score: `44.94`
-- Macro risk score: `33.97`
-- Risk-on score: `26.9`
-- Articles: `55`
+- Generated: `2026-06-11T12:59:08.353815+00:00`
+- Market context score: `47.86`
+- News risk score: `42.45`
+- Macro risk score: `30.92`
+- Risk-on score: `31.65`
+- Articles: `51`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `5`
-- macro: articles `33`, risk hits `10`, risk headline rate `0.2424`, policy hits `10`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `7`
 
 ## Headlines
 
-- [macro] Wholesale prices rose 1.1% in May, more than expected (Economy)
+- [macro] Wholesale prices rose 1.1% in May, more than expected, on surge in energy (Economy)
+- [commodity] Crude oil jumps back above $90 as Trump says U.S. will take Iran's Kharg Island (Energy)
 - [macro] ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs (Economy)
 - [crypto] It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] ‘Don’t Blame Your Stupidity on Christianity’: Dave Ramsey’s Blunt Advice to a Bride Whose Fiancé Refuses to Save (Yahoo Finance)
+- [macro] U.S. PPI rose 6.5% in May 2026, highest since late 2022 (Yahoo Finance)
+- [macro] Bitcoin ETFs Shed $2.1b in June So Far as Market Selloff Deepens (Yahoo Finance)
 - [macro] Australia’s TasFoods acquired from administration (Yahoo Finance)
-- [commodity] Crude oil jumps back above $90 as Trump says U.S. will take Iran's Kharg Island (Energy)
+- [macro] Neura Robotics raises $1.4B Series C from Amazon, Nvidia, Tether (Yahoo Finance)
 - [macro] Stock Market Today: Dow Cuts Gains On New Trump Threats; Oracle Plunges On Earnings (Live Coverage) (Yahoo Finance)
-- [macro] The $109,000 Income Threshold That Triggers a $1,148 Medicare Surcharge Most Retirees Miss (Yahoo Finance)
-- [macro] Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen (Yahoo Finance)
-- [macro] A 56-Year-Old Couple With $3.6M in 401(k)s Discovers $24,000 Annual Tax Leak They Can Plug (Yahoo Finance)
-- [macro] SpaceX Just Got Its First Analyst Ratings (Yahoo Finance)
