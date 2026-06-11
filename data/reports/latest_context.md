@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T19:37:30.002767+00:00`
+- Generated: `2026-06-11T19:43:14.481377+00:00`
 - Market context score: `50.75`
 - News risk score: `37.85`
 - Macro risk score: `28.71`
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [commodity] Crude oil prices fall nearly 3% after Trump calls off strikes against Iran (Energy)
+- [commodity] Crude oil prices fall more than 4% after Trump says U.S. will sign deal with Iran soon (Energy)
 - [macro] World Cup kicks off in Mexico with Shakira, local performers and vibrant fans (BBC News)
 - [commodity] Oil tanker CEO sees Hormuz ship traffic quickly increasing if U.S. and Iran reach a deal (Energy)
 - [crypto] Three signs that XRP price risks falling below $1 in June (Cointelegraph.com News)
