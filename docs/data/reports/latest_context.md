@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T17:52:38.272610+00:00`
-- Market context score: `57.03`
-- News risk score: `41.56`
-- Macro risk score: `25.23`
-- Risk-on score: `49.13`
-- Articles: `86`
+- Generated: `2026-06-11T18:07:32.727024+00:00`
+- Market context score: `55.4`
+- News risk score: `42.36`
+- Macro risk score: `26.31`
+- Risk-on score: `46.59`
+- Articles: `84`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:556`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3263`
-- Day/swing latest: `2026-06-11T17:45:00+00:00`
+- Day/swing records: `3264`
+- Day/swing latest: `2026-06-11T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `31`, risk hits `8`, risk headline rate `0.1935`, policy hits `4`
-- macro: articles `50`, risk hits `6`, risk headline rate `0.12`, policy hits `8`
+- crypto: articles `30`, risk hits `8`, risk headline rate `0.2`, policy hits `4`
+- macro: articles `49`, risk hits `7`, risk headline rate `0.1429`, policy hits `7`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil tanker CEO sees Hormuz ship traffic quickly increasing if U.S. and Iran reach a deal (Energy)
 - [commodity] Crude oil prices fall 3% after Trump calls off strikes against Iran (Energy)
-- [macro] Prediction: NextEra Energy's $67 Billion Dominion Acquisition Could Spur More Utility Deals. This Tie-Up Could be Next. (Yahoo Finance)
-- [macro] Alphabet Inc. (GOOGL) Is A Top AI Stock In Ken Griffin’s Portfolio (Yahoo Finance)
-- [macro] Should You Buy Norfolk Southern Corporation (NSC)? (Yahoo Finance)
-- [macro] Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio (Yahoo Finance)
-- [macro] Should You Buy Warner Bros. Discovery (WBD)? (Yahoo Finance)
-- [macro] Microsoft Corporation (MSFT) Is A Top AI Stock In Ken Griffin’s Portfolio (Yahoo Finance)
-- [macro] Broadcom Inc. (AVGO) Is A Top AI Stock In Ken Griffin’s Portfolio (Yahoo Finance)
-- [macro] Meta Platforms, Inc. (META) Is A Top AI Stock In Ken Griffin’s Portfolio (Yahoo Finance)
-- [macro] Apple Inc. (AAPL) Is A Top Stock In Ken Griffin’s Portfolio (Yahoo Finance)
+- [macro] VONG vs. IWO: Large-Cap Stability or Small-Cap Growth Upside? (Yahoo Finance)
+- [macro] Incyte Nears Buy Point As $1.25 Billion Acquisition Expands Offerings (Yahoo Finance)
+- [macro] Duke CEO offers sobering prediction on data center electricity demand (Yahoo Finance)
+- [macro] What Sunrun Co-Founder's Sale of 50,000 Shares Means for Investors (Yahoo Finance)
+- [macro] Gold Mining Stock Poised for a Short-Term Bounce (Yahoo Finance)
+- [macro] Micron Is Already Up 223% This Year. Wolfe Research Sees More Upside. Brilliant Setup, or Recipe for Disaster (Yahoo Finance)
+- [macro] Algonquin Power & Utilities vs. CenterPoint Energy: Which Utilities Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] MoonPay Adds PayPal, NYSE and National Security Veterans to Board (Yahoo Finance)
