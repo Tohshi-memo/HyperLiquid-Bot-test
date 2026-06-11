@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T11:22:32.078880+00:00`
-- Market context score: `45.57`
-- News risk score: `41.28`
-- Macro risk score: `35.38`
-- Risk-on score: `27.26`
-- Articles: `37`
+- Generated: `2026-06-11T11:37:27.336906+00:00`
+- Market context score: `46.05`
+- News risk score: `40.56`
+- Macro risk score: `35.29`
+- Risk-on score: `27.7`
+- Articles: `38`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:556`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3238`
-- Day/swing latest: `2026-06-11T11:15:00+00:00`
+- Day/swing records: `3239`
+- Day/swing latest: `2026-06-11T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `4`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `4`
 - macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `4`
 
 ## Headlines
 
+- [crypto] As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation onchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin advances, holds above key technical level that ether, solana can't break through (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Japan’s parliament poised to pass sweeping bill to regulate crypto like stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Vance says Israeli PM Netanyahu 'has got some things wrong' (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] U.S. becomes India’s top gas supplier, as Iran war cuts it off from the Gulf (Energy)
 - [macro] Trump says 'I love the inflation' as US prices rise at fastest rate in three years (BBC News)
 - [macro] Trump says 'I love the inflation' as US prices rise at fastest rate in three years (BBC News)
-- [macro] Ryanair investigated over charging parents to sit with children (BBC News)
