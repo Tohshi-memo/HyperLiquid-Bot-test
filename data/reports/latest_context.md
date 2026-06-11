@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-11T00:22:26.717922+00:00`
-- Market context score: `44.24`
-- News risk score: `46.49`
-- Macro risk score: `31.74`
-- Risk-on score: `27.35`
+- Generated: `2026-06-11T00:37:26.150064+00:00`
+- Market context score: `43.57`
+- News risk score: `47.69`
+- Macro risk score: `34.14`
+- Risk-on score: `27.76`
 - Articles: `51`
 - Polymarket markets: `401`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:550`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3195`
-- Day/swing latest: `2026-06-11T00:15:00+00:00`
+- Day/swing records: `3196`
+- Day/swing latest: `2026-06-11T00:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
+- commodity: articles `6`, risk hits `6`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `26`, risk hits `11`, risk headline rate `0.3462`, policy hits `4`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Oil jumps as U.S. fresh strikes on Iran raise worries of extended disruption to energy flows (Energy)
 - [commodity] Inside India newsletter: Hollywood is debating AI. India's filmmakers are embracing it (Energy)
 - [macro] Trump says he 'loves the inflation' as US prices rise at fastest rate in three years (BBC News)
 - [commodity] U.S. military begins strikes on 'multiple targets' in Iran at Trump's direction (Energy)
@@ -37,4 +38,3 @@
 - [macro] I'd have vetoed foreign sale of UK tech giant, says Business Secretary (BBC News)
 - [crypto] CFTC proposes framework favoring sports event contracts over gambling (Cointelegraph.com News)
 - [macro] Fireworks illuminate Barcelona's Sagrada Família during Pope visit (BBC News)
-- [macro] Trump says US will hit Iran 'hard' again today (BBC News)
