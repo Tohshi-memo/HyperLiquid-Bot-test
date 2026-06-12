@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-12T03:52:25.697280+00:00`
+- Generated: `2026-06-12T04:07:31.421167+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `76`
 - Outcome sides (rows): `152`
@@ -44,9 +44,9 @@
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
-- South Korea [No] symbol `#2111` underlying `n/a` prob `0.9965` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9964` price_source `allMids` vol24h `0.0` oi `0.0`
 - Sweden [No] symbol `#2131` underlying `n/a` prob `0.995` price_source `allMids` vol24h `0.0` oi `0.0`
+- Korea Republic [Yes] symbol `#2440` underlying `n/a` prob `0.995` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
