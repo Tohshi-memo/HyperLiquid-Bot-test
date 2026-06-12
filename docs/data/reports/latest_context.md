@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T21:18:52.888828+00:00`
+- Generated: `2026-06-12T21:22:32.145390+00:00`
 - Market context score: `49.63`
 - News risk score: `36.99`
 - Macro risk score: `21.13`
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
+- [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
 - [macro] Deal to end fighting would lead to Hormuz reopening, Iran says (BBC News)
-- [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
-- [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
 - [macro] UK vows to phase out Russian diesel and jet fuel imports by new year (BBC News)
 - [macro] Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena (Yahoo Finance)
 - [commodity] U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz (Energy)
