@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T12:07:28.077376+00:00`
-- Market context score: `47.57`
-- News risk score: `45.86`
-- Macro risk score: `37.28`
-- Risk-on score: `36.31`
-- Articles: `34`
+- Generated: `2026-06-12T12:22:27.492319+00:00`
+- Market context score: `48.06`
+- News risk score: `45.14`
+- Macro risk score: `37.22`
+- Risk-on score: `36.76`
+- Articles: `35`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3336`
-- Day/swing latest: `2026-06-12T12:00:00+00:00`
+- Day/swing records: `3337`
+- Day/swing latest: `2026-06-12T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `9`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `22`, risk hits `9`, risk headline rate `0.3182`, policy hits `3`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [crypto] SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut (Cointelegraph.com News)
 - [crypto] For crypto, SpaceX's stock market debut could go either way (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Monero prices rocket to $438 amid $120 million onchain laundering maze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Oil prices fall on proposed U.S.-Iran peace deal to reopen Strait of Hormuz (Energy)
 - [crypto] SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium (Cointelegraph.com News)
 - [macro] UK economy contracts as Iran war impact felt (BBC News)
-- [crypto] Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
