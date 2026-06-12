@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T05:22:28.710914+00:00`
-- Market context score: `47.8`
-- News risk score: `41.5`
-- Macro risk score: `31.67`
-- Risk-on score: `31.0`
-- Articles: `30`
+- Generated: `2026-06-12T05:37:26.432973+00:00`
+- Market context score: `48.65`
+- News risk score: `40.24`
+- Macro risk score: `31.61`
+- Risk-on score: `31.82`
+- Articles: `31`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:557`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3309`
-- Day/swing latest: `2026-06-12T05:15:00+00:00`
+- Day/swing records: `3310`
+- Day/swing latest: `2026-06-12T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `1`
+- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `1`
 - macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
 
 ## Headlines
 
+- [crypto] The company that makes your TV is taking ads onchain. Arbitrum helped (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin climbs back into the green as Trump signals an end to the Iran war (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ex-UK political aide Steve Hilton pledges 'common sense' overhaul if elected California governor (BBC News)
 - [macro] 'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem (BBC News)
@@ -37,4 +38,3 @@
 - [macro] The World Cup of adverts: How brands are competing to entertain, not simply sell (BBC News)
 - [crypto] Avalanche Treasury Co. falls 16% as it debuts on Nasdaq (Cointelegraph.com News)
 - [macro] Trump claims deal to end Iran war near as Tehran says 'nothing' finalised (BBC News)
-- [macro] A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine (Economy)
