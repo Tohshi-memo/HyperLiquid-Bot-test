@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T15:22:30.576777+00:00`
-- Market context score: `47.72`
-- News risk score: `48.86`
-- Macro risk score: `26.29`
-- Risk-on score: `35.0`
+- Generated: `2026-06-12T15:37:37.366882+00:00`
+- Market context score: `49.17`
+- News risk score: `46.93`
+- Macro risk score: `24.71`
+- Risk-on score: `36.0`
 - Articles: `70`
 - Polymarket markets: `399`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3349`
-- Day/swing latest: `2026-06-12T15:15:00+00:00`
+- Day/swing records: `3350`
+- Day/swing latest: `2026-06-12T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `13`, risk headline rate `0.3571`, policy hits `2`
-- macro: articles `40`, risk hits `7`, risk headline rate `0.175`, policy hits `2`
+- crypto: articles `30`, risk hits `13`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `38`, risk hits `6`, risk headline rate `0.1579`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Kalshi’s crypto perpetuals spark debate over whether they’re futures or swaps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Madison Small Cap Fund Bets on Matador Resources Company (MTDR) For Its Compelling Valuation (Yahoo Finance)
 - [commodity] Oil prices fall even as U.S. and Iran give conflicting accounts of draft deal (Energy)
-- [macro] More time needed for deadly Air India crash inquiry, officials say (BBC News)
-- [macro] How much money should you put in a CD? (Yahoo Finance)
-- [macro] Stock Market Whipsaws; SpaceX IPO Rockets, Oracle Dives: Weekly Review (Yahoo Finance)
-- [macro] ChatGPT Has One Billion Users (Yahoo Finance)
-- [macro] Cathie Wood Liquidates $279 Million Worth Of Stock This Week (Yahoo Finance)
-- [macro] Madison Small Cap Fund Picked SiteOne Landscape Supply (SITE) Amid Various Growth Drivers (Yahoo Finance)
-- [macro] Americans Taxpayers Could Face a New $3 Billion Cost Thanks to Kevin Warsh and the Fed (Yahoo Finance)
-- [macro] Exodus Launches Ondo-Powered Markets for Tokenized Stocks and ETFs (Yahoo Finance)
-- [macro] Tech Sell-Off: 2 Stocks to Buy Right Now (Yahoo Finance)
+- [macro] Charles River Labs (CRL) Pulled Back Due to AI Disruption Fears (Yahoo Finance)
+- [macro] SpaceX Stock Is Now Trading. Should You Buy SPCX Today? (Yahoo Finance)
+- [macro] Madison Small Cap Fund Increased Medpace Holdings (MEDP), Downplaying AI Fears (Yahoo Finance)
+- [macro] Viavi Solutions (VIAV) Gained from the Acquisition and Improved Demand (Yahoo Finance)
+- [macro] Stocks rise as oil slides on Gulf peace hopes, SpaceX market debut in focus (Yahoo Finance)
+- [macro] 2 Best AI Stocks to Buy Now as the Market Looks for Real Growth (Yahoo Finance)
