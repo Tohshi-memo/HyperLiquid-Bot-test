@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T19:37:29.048879+00:00`
+- Generated: `2026-06-12T19:52:34.605507+00:00`
 - Market context score: `49.77`
 - News risk score: `36.68`
 - Macro risk score: `21.56`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3366`
-- Day/swing latest: `2026-06-12T19:30:00+00:00`
+- Day/swing records: `3367`
+- Day/swing latest: `2026-06-12T19:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] King leads tributes to 'giant of the art world' David Hockney (BBC News)
 - [commodity] U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz (Energy)
+- [macro] King leads tributes to 'giant of the art world' David Hockney (BBC News)
 - [macro] Iran says deal to end fighting with US has 'never been closer' (BBC News)
 - [crypto] Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Market Update: MKTX, VMC (Yahoo Finance)
