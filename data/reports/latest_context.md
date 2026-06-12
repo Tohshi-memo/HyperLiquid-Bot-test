@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T11:22:27.754689+00:00`
-- Market context score: `45.61`
-- News risk score: `46.25`
-- Macro risk score: `36.58`
-- Risk-on score: `32.0`
-- Articles: `36`
+- Generated: `2026-06-12T11:37:25.184604+00:00`
+- Market context score: `48.44`
+- News risk score: `45.0`
+- Macro risk score: `35.57`
+- Risk-on score: `36.86`
+- Articles: `35`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3333`
-- Day/swing latest: `2026-06-12T11:15:00+00:00`
+- Day/swing records: `3334`
+- Day/swing latest: `2026-06-12T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `9`, risk headline rate `0.35`, policy hits `3`
-- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `21`, risk hits `9`, risk headline rate `0.3333`, policy hits `3`
+- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [crypto] For crypto, SpaceX's stock market debut could go either way (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Monero prices rocket to $438 amid $120 million onchain laundering maze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch (BBC News)
 - [macro] UK signals it may block payout to British Steel owner (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium (Cointelegraph.com News)
 - [macro] UK economy contracts as Iran war impact felt (BBC News)
 - [crypto] Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto scammers exploit World Cup ticket demand, TRM warns (Cointelegraph.com News)
