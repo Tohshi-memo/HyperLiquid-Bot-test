@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T14:52:34.939505+00:00`
-- Market context score: `49.31`
-- News risk score: `45.49`
-- Macro risk score: `24.47`
-- Risk-on score: `35.02`
-- Articles: `58`
+- Generated: `2026-06-12T15:07:34.843569+00:00`
+- Market context score: `48.61`
+- News risk score: `49.65`
+- Macro risk score: `27.03`
+- Risk-on score: `37.94`
+- Articles: `69`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3347`
-- Day/swing latest: `2026-06-12T14:45:00+00:00`
+- Day/swing records: `3348`
+- Day/swing latest: `2026-06-12T15:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `13`, risk headline rate `0.3704`, policy hits `2`
-- macro: articles `29`, risk hits `4`, risk headline rate `0.1379`, policy hits `0`
+- macro: articles `40`, risk hits `7`, risk headline rate `0.175`, policy hits `4`
 
 ## Headlines
 
-- [commodity] Oil prices fall on proposed U.S.-Iran peace deal to reopen Strait of Hormuz (Energy)
-- [macro] Valmet introduces 3D fibre packaging technology (Yahoo Finance)
-- [macro] Miss This Medicare Deadline and You’ll Pay a Penalty for Life (Yahoo Finance)
-- [macro] Demand-Driven Rally Lifted Element Solutions Inc (ESI) in Q1 (Yahoo Finance)
-- [macro] South Korea issues Won624.68bn fine on Coupang over data breach (Yahoo Finance)
-- [macro] Older, Wiser, Working: Navigating the Aging Shift (Yahoo Finance)
-- [macro] Ripple Just Plugged the XRP Ledger Into AI Payments and America’s Biggest Remittance Corridor: What It Means for XRP (Yahoo Finance)
-- [macro] Johnson & Johnson (JNJ) Jumped on Market Optimism (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX May Surge 27% In Debut (Live Coverage) (Yahoo Finance)
-- [macro] Stock Market Whipsaws; SpaceX IPO Rockets, Oracle Dives: Weekly Review (Yahoo Finance)
+- [commodity] Oil prices fall even as U.S. and Iran give conflicting accounts of draft deal (Energy)
+- [macro] Americans Taxpayers Could Face a New $3 Billion Cost Thanks to Kevin Warsh and the Fed (Yahoo Finance)
+- [macro] Tech Sell-Off: 2 Stocks to Buy Right Now (Yahoo Finance)
+- [macro] Realty Income’s 5.3% Yield Is a Steal: Why a Shifting Interest Rate Environment Makes This Monthly Dividend Machine a Top Buy for Retirees (Yahoo Finance)
+- [macro] Wbg eyes 30% tax fee rise from VAT drive and regional expansion (Yahoo Finance)
+- [macro] Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get (Yahoo Finance)
+- [macro] Roku Stock Called 'Top Pick' After Home Screen Makeover (Yahoo Finance)
+- [macro] Armstrong World Industries’ (AWI) Growth Initiatives Regaining Traction (Yahoo Finance)
+- [macro] Jim Cramer Says He Likes Carnival But Leans More Toward Viking Holdings (Yahoo Finance)
+- [macro] Jim Cramer Shows Skepticism Around Wix (Yahoo Finance)
