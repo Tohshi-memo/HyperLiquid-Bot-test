@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-12T07:00:31.776083+00:00`
+- Generated: `2026-06-12T07:05:34.541316+00:00`
 - Flow alert score: `20.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `36434246.28`
+- Polymarket 24h volume: `36437843.74`
 - Polymarket volume z-score: `0.92`
 
 ## Top Polymarket Markets
@@ -18,8 +18,8 @@
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `2975958.060999997` | liquidity: `12137101.22817`
 - US x Iran permanent peace deal by June 30, 2026? | 24h volume: `2576268.3692849996` | liquidity: `265148.5635`
 - US announces new Iran agreement/ceasefire extension by June 12? | 24h volume: `2051994.9508600065` | liquidity: `60580.28436`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1698052.650769` | liquidity: `674029.54292`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1697769.296769` | liquidity: `680200.34432`
 - Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1643627.738762991` | liquidity: `456809.3844`
-- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1379353.3451409987` | liquidity: `1306511.32502`
+- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1379032.159140999` | liquidity: `1311547.51562`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
