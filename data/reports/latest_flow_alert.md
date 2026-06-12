@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-12T22:25:28.519886+00:00`
+- Generated: `2026-06-12T22:30:32.187204+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,8 +8,8 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `27344351.9`
-- Polymarket volume z-score: `-0.58`
+- Polymarket 24h volume: `27593033.86`
+- Polymarket volume z-score: `-0.54`
 
 ## Top Polymarket Markets
 
@@ -20,6 +20,6 @@
 - Will the Iranian regime fall by June 30? | 24h volume: `1597129.0092220006` | liquidity: `990695.18309`
 - Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1149586.7561710011` | liquidity: `400236.1594`
 - Israel x Iran permanent peace deal by June 30, 2026? | 24h volume: `1072048.804040002` | liquidity: `223186.98855`
-- Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? | 24h volume: `1012653.7156519992` | liquidity: `325594.03895`
+- Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? | 24h volume: `1018611.3433189993` | liquidity: `442562.41135`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
