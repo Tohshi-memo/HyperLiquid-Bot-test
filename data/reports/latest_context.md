@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T04:07:31.421167+00:00`
+- Generated: `2026-06-12T04:22:41.313481+00:00`
 - Market context score: `52.81`
 - News risk score: `37.25`
 - Macro risk score: `28.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:557`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3304`
-- Day/swing latest: `2026-06-12T04:00:00+00:00`
+- Day/swing records: `3305`
+- Day/swing latest: `2026-06-12T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine (Economy)
 - [commodity] Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback (Energy)
+- [macro] A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine (Economy)
 - [macro] World Cup kicks off in Mexico with Shakira, dancing, and protests (BBC News)
 - [macro] Elon Musk's SpaceX raises $75bn ahead of record stock market debut (BBC News)
 - [macro] Why the economics make this the craziest World Cup ever (BBC News)
