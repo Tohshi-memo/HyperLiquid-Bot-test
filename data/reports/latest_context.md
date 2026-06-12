@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T01:07:30.695103+00:00`
-- Market context score: `56.25`
-- News risk score: `32.91`
-- Macro risk score: `26.86`
-- Risk-on score: `40.72`
-- Articles: `41`
+- Generated: `2026-06-12T01:22:25.653388+00:00`
+- Market context score: `56.47`
+- News risk score: `32.84`
+- Macro risk score: `26.23`
+- Risk-on score: `40.92`
+- Articles: `42`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:556`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3292`
-- Day/swing latest: `2026-06-12T01:00:00+00:00`
+- Day/swing records: `3293`
+- Day/swing latest: `2026-06-12T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `0`
-- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `2`
+- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine (Economy)
 - [commodity] Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback (Energy)
 - [macro] World Cup kicks off in Mexico with Shakira, dancing, and protests (BBC News)
 - [macro] Elon Musk's SpaceX raises $75bn ahead of record stock market debut (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K? (Cointelegraph.com News)
 - [commodity] What energy insiders in DC are saying about oil prices and a possible Iran deal (Energy)
 - [crypto] Citi launches blockchain marketplace for private companies shares: Report (Cointelegraph.com News)
-- [crypto] Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
