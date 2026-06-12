@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T13:22:31.466720+00:00`
+- Generated: `2026-06-12T13:37:34.927729+00:00`
 - Market context score: `48.31`
 - News risk score: `46.8`
 - Macro risk score: `36.33`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3341`
-- Day/swing latest: `2026-06-12T13:15:00+00:00`
+- Day/swing records: `3342`
+- Day/swing latest: `2026-06-12T13:30:00+00:00`
 
 ## News Categories
 
@@ -34,7 +34,7 @@
 - [macro] Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch (BBC News)
 - [crypto] Metaplanet to form securities arm through Siiibo acquisition (Cointelegraph.com News)
 - [crypto] SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut (Cointelegraph.com News)
-- [macro] Analyst Report: BJ's Wholesale Club Hldg Inc (Yahoo Finance)
 - [macro] Analyst Report: Thor Industries Inc (Yahoo Finance)
+- [macro] Analyst Report: BJ's Wholesale Club Hldg Inc (Yahoo Finance)
 - [macro] Analyst Report: Oracle Corp (Yahoo Finance)
 - [crypto] For crypto, SpaceX's stock market debut could go either way (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
