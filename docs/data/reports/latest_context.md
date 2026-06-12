@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T14:07:36.162706+00:00`
-- Market context score: `46.66`
-- News risk score: `45.65`
-- Macro risk score: `33.16`
-- Risk-on score: `32.53`
-- Articles: `43`
-- Polymarket markets: `399`
+- Generated: `2026-06-12T14:22:29.487609+00:00`
+- Market context score: `52.91`
+- News risk score: `48.07`
+- Macro risk score: `24.15`
+- Risk-on score: `45.08`
+- Articles: `69`
+- Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3344`
-- Day/swing latest: `2026-06-12T14:00:00+00:00`
+- Day/swing records: `3345`
+- Day/swing latest: `2026-06-12T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `11`, risk headline rate `0.36`, policy hits `2`
-- macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `27`, risk hits `13`, risk headline rate `0.3704`, policy hits `2`
+- macro: articles `40`, risk hits `6`, risk headline rate `0.15`, policy hits `0`
 
 ## Headlines
 
+- [crypto] FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall on proposed U.S.-Iran peace deal to reopen Strait of Hormuz (Energy)
-- [macro] Air India crash investigation update reveals few details (BBC News)
-- [crypto] Polish president vetoes crypto bill for third time ahead of MiCA deadline (Cointelegraph.com News)
-- [crypto] CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] KuCoin has not paid $2M award tied to delisted token dispute, investor says (Cointelegraph.com News)
-- [macro] Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch (BBC News)
-- [crypto] Metaplanet to form securities arm through Siiibo acquisition (Cointelegraph.com News)
-- [crypto] SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut (Cointelegraph.com News)
-- [macro] Analyst Report: BJ's Wholesale Club Hldg Inc (Yahoo Finance)
-- [macro] Analyst Report: Thor Industries Inc (Yahoo Finance)
+- [crypto] XRP sentiment falls to 8-month low, and that has been a buy signal before (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Is Broadcom (AVGO) Still Undervalued? (Yahoo Finance)
+- [macro] Maggi back in spotlight as India food regulator issues new notice (Yahoo Finance)
+- [macro] More time needed for deadly Air India crash inquiry, officials say (BBC News)
+- [macro] Can Microsoft (MSFT) Stock Rebound in 2026? (Yahoo Finance)
+- [macro] Harvard University AI Stock Portfolio: Alphabet (GOOGL) (Yahoo Finance)
+- [macro] 7 Reasons I'm Avoiding the SpaceX IPO Like the Plague -- and You Should, Too! (Yahoo Finance)
+- [macro] Harvard University’s Favorite AI Stock Pick: Taiwan Semiconductor (TSM) (Yahoo Finance)
