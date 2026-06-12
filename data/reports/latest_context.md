@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T10:37:25.582339+00:00`
-- Market context score: `42.44`
-- News risk score: `49.9`
-- Macro risk score: `33.03`
-- Risk-on score: `26.71`
-- Articles: `36`
+- Generated: `2026-06-12T10:47:56.306198+00:00`
+- Market context score: `43.26`
+- News risk score: `48.69`
+- Macro risk score: `32.97`
+- Risk-on score: `27.49`
+- Articles: `37`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3330`
-- Day/swing latest: `2026-06-12T10:30:00+00:00`
+- Day/swing records: `3331`
+- Day/swing latest: `2026-06-12T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `10`, risk headline rate `0.4706`, policy hits `3`
+- crypto: articles `18`, risk hits `10`, risk headline rate `0.4444`, policy hits `3`
 - macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
 
 ## Headlines
 
+- [crypto] While bitcoin holds near $63,000, some data points to pain ahead for bulls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall on proposed U.S.-Iran peace deal to reopen Strait of Hormuz (Energy)
 - [macro] UK economy contracts as Iran war impact felt (BBC News)
 - [crypto] Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Watch: Three things to know about SpaceX's stock market debut (BBC News)
 - [macro] Tehran says 'nothing' finalised after Trump claims deal to end Iran war near (BBC News)
 - [crypto] There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] International sting shuts down $390M crypto money-laundering ring (Cointelegraph.com News)
