@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T21:22:32.145390+00:00`
+- Generated: `2026-06-12T21:37:28.314569+00:00`
 - Market context score: `49.63`
 - News risk score: `36.99`
 - Macro risk score: `21.13`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3373`
-- Day/swing latest: `2026-06-12T21:15:00+00:00`
+- Day/swing records: `3374`
+- Day/swing latest: `2026-06-12T21:30:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [commodity] U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz (Energy)
 - [macro] King leads tributes to 'giant of the art world' David Hockney (BBC News)
 - [crypto] Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Analyst Report: Vulcan Materials Co (Yahoo Finance)
 - [macro] Analyst Report: MarketAxess Holdings Inc (Yahoo Finance)
+- [macro] Analyst Report: Vulcan Materials Co (Yahoo Finance)
