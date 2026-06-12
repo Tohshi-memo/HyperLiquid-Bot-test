@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T08:37:29.055569+00:00`
+- Generated: `2026-06-12T08:52:31.820677+00:00`
 - Market context score: `43.78`
 - News risk score: `46.91`
 - Macro risk score: `33.52`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3322`
-- Day/swing latest: `2026-06-12T08:30:00+00:00`
+- Day/swing records: `3323`
+- Day/swing latest: `2026-06-12T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.4`, policy hits `3`
+- crypto: articles `15`, risk hits `7`, risk headline rate `0.4`, policy hits `2`
 - macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch (BBC News)
 - [macro] Tehran says 'nothing' finalised after Trump claims deal to end Iran war near (BBC News)
 - [crypto] There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK economy contracts as Iran war impact felt (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy (Cointelegraph.com News)
 - [crypto] XRP jumps 3% above $1.14 as institutional buying meets key resistance test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live updates: Bitcoin traders eye rally to $75,000, Japan set to hike rates to 31-year high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live updates: Bitcoin traders eye rally to $75,000, Japan set to hike rate to 31-year high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
