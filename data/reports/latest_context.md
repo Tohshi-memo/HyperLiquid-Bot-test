@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-12T22:52:34.277147+00:00`
-- Market context score: `50.74`
-- News risk score: `33.18`
-- Macro risk score: `18.67`
-- Risk-on score: `25.6`
-- Articles: `37`
+- Generated: `2026-06-12T23:07:28.546511+00:00`
+- Market context score: `50.31`
+- News risk score: `33.59`
+- Macro risk score: `19.5`
+- Risk-on score: `25.32`
+- Articles: `35`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3379`
-- Day/swing latest: `2026-06-12T22:45:00+00:00`
+- Day/swing records: `3380`
+- Day/swing latest: `2026-06-12T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `0`
-- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
+- macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
 
 ## Headlines
 
@@ -37,4 +37,4 @@
 - [commodity] U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz (Energy)
 - [macro] King leads tributes to 'giant of the art world' David Hockney (BBC News)
 - [crypto] Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Analyst Report: Vulcan Materials Co (Yahoo Finance)
+- [macro] Analyst Report: MarketAxess Holdings Inc (Yahoo Finance)
