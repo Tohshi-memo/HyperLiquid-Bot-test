@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T06:01:34.995712+00:00`
+- Generated: `2026-06-13T06:07:31.991508+00:00`
 - Market context score: `62.5`
 - News risk score: `24.0`
 - Macro risk score: `24.0`
 - Risk-on score: `46.0`
-- Articles: `18`
-- Polymarket markets: `398`
+- Articles: `20`
+- Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -23,11 +23,13 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Top cryptographers can't agree on Bitcoin's biggest quantum question (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SpaceX IPO scramble reveals difference between tokenizing a stock and getting one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] ETH futures flash bearish signal, but stakers’ resilience points to underlying strength (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Niagara Falls: Is there a better spot to watch a World Cup game? (BBC News)
 - [macro] Watch: Why is Trump not at the World Cup? (BBC News)
 - [crypto] Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research (Cointelegraph.com News)
-- [macro] Deal to end fighting would lead to Hormuz reopening, Iran says (BBC News)
-- [crypto] Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence (Cointelegraph.com News)
