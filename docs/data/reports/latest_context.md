@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T05:37:28.510084+00:00`
-- Market context score: `60.97`
-- News risk score: `25.5`
-- Macro risk score: `27.0`
-- Risk-on score: `45.0`
-- Articles: `15`
+- Generated: `2026-06-13T05:52:34.273506+00:00`
+- Market context score: `62.5`
+- News risk score: `24.0`
+- Macro risk score: `24.0`
+- Risk-on score: `46.0`
+- Articles: `18`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3405`
-- Day/swing latest: `2026-06-13T05:30:00+00:00`
+- Day/swing records: `3406`
+- Day/swing latest: `2026-06-13T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin steady above $63,000 as its worst week in months got a late macro rescue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SpaceX IPO scramble reveals difference between tokenizing a stock and getting one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] ETH futures flash bearish signal, but stakers’ resilience points to underlying strength (Cointelegraph.com News)
 - [crypto] Anthropic suspends access to Fable 5, Mythos 5, citing US directive (Cointelegraph.com News)
 - [crypto] Major crypto exchanges cancel SpaceX IPO allocations, promising refunds (Cointelegraph.com News)
+- [macro] Niagara Falls: Is there a better spot to watch a World Cup game? (BBC News)
+- [macro] Watch: Why is Trump not at the World Cup? (BBC News)
 - [crypto] Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research (Cointelegraph.com News)
 - [macro] Deal to end fighting would lead to Hormuz reopening, Iran says (BBC News)
 - [crypto] Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence (Cointelegraph.com News)
-- [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
-- [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
-- [macro] Fans on concourses instead of in seats, claims Fifa (BBC News)
