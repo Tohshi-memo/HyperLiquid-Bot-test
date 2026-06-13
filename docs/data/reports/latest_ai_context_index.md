@@ -2,9 +2,9 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-06-13T01:22:31.939899+00:00`
+- Updated: `2026-06-13T01:33:35.023380+00:00`
 - Asset price active records: `672`
-- Day/swing records: `3388`
+- Day/swing records: `3389`
 - Macro indicators: `11`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
@@ -14,14 +14,14 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2317 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (63470 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2359 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (877 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_context_index.json` (63487 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2358 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2538 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (47155 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5764 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2143 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (8939 bytes): HIP-4 outcome market overview.
+- `data/processed/ai_analysis_pack.json` (47116 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5771 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2142 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (8935 bytes): HIP-4 outcome market overview.
 - `data/reports/latest_relationship_scan.md` (3581 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4616 bytes): Delayed sector reaction overview.
 
