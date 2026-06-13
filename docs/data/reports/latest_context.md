@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T13:07:32.724370+00:00`
-- Market context score: `59.49`
-- News risk score: `28.71`
-- Macro risk score: `33.43`
-- Risk-on score: `46.86`
-- Articles: `26`
+- Generated: `2026-06-13T13:11:50.723394+00:00`
+- Market context score: `64.49`
+- News risk score: `25.83`
+- Macro risk score: `27.65`
+- Risk-on score: `53.35`
+- Articles: `35`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,7 +23,7 @@
 ## News Categories
 
 - crypto: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `0`
+- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `0`
 
 ## Headlines
 
@@ -32,8 +32,8 @@
 - [macro] My Plan Has Always Been to Wait Until Age 70 to Claim Social Security. Here's What Changed. (Yahoo Finance)
 - [macro] Dow Jones Futures: Market Has Wild Week, 5 Stocks In Buy Areas; SpaceX's Next Test (Yahoo Finance)
 - [macro] SpaceX President Has Warning for Investors: Maybe You Shouldn’t Buy the Stock (Yahoo Finance)
+- [macro] My dad lost $250K of my parents' retirement savings to a WhatsApp scam he never questioned or verified (Yahoo Finance)
 - [macro] Joe Rogan floored after Caleb Hammer says US boomers should have $2M-$5M saved — no sympathy if they don't. Is he right? (Yahoo Finance)
 - [macro] Is Vistra (VST) Still The Best Data Center Energy Stock? (Yahoo Finance)
-- [crypto] Morpho's $175M raise shows where crypto VC money is flowing (Cointelegraph.com News)
-- [macro] Switzerland to vote on plan to cap population at 10 million (BBC News)
-- [crypto] Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Did Berkshire Hathaway Just Make a $6.8 Billion Bet on a Housing Rebound? (Yahoo Finance)
+- [macro] Reddit, Roku, and SoundHound AI: Which Cult Stock Is Takeover-Ready? (Yahoo Finance)
