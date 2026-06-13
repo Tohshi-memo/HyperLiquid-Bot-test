@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T04:07:31.417574+00:00`
-- Market context score: `53.76`
-- News risk score: `36.86`
-- Macro risk score: `24.0`
-- Risk-on score: `37.43`
-- Articles: `17`
+- Generated: `2026-06-13T04:22:28.480319+00:00`
+- Market context score: `54.45`
+- News risk score: `31.1`
+- Macro risk score: `25.33`
+- Risk-on score: `34.6`
+- Articles: `16`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3399`
-- Day/swing latest: `2026-06-13T04:00:00+00:00`
+- Day/swing records: `3400`
+- Day/swing latest: `2026-06-13T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] ETH futures flash bearish signal, but stakers’ resilience points to underlying strength (Cointelegraph.com News)
 - [crypto] Anthropic suspends access to Fable 5, Mythos 5, citing US directive (Cointelegraph.com News)
 - [crypto] Major crypto exchanges cancel SpaceX IPO allocations, promising refunds (Cointelegraph.com News)
 - [crypto] Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
 - [macro] Fans on concourses instead of in seats, claims Fifa (BBC News)
 - [macro] UK vows to phase out Russian diesel and jet fuel imports by new year (BBC News)
-- [macro] Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena (Yahoo Finance)
