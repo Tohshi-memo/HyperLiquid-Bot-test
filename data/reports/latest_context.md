@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T05:52:34.273506+00:00`
+- Generated: `2026-06-13T06:01:34.995712+00:00`
 - Market context score: `62.5`
 - News risk score: `24.0`
 - Macro risk score: `24.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3406`
-- Day/swing latest: `2026-06-13T05:45:00+00:00`
+- Day/swing records: `3407`
+- Day/swing latest: `2026-06-13T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [crypto] Bitcoin steady above $63,000 as its worst week in months got a late macro rescue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SpaceX IPO scramble reveals difference between tokenizing a stock and getting one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] ETH futures flash bearish signal, but stakers’ resilience points to underlying strength (Cointelegraph.com News)
 - [crypto] Anthropic suspends access to Fable 5, Mythos 5, citing US directive (Cointelegraph.com News)
