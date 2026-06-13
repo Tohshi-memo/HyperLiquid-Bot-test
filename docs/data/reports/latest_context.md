@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T09:32:16.647154+00:00`
-- Market context score: `68.62`
-- News risk score: `18.0`
-- Macro risk score: `12.0`
-- Risk-on score: `50.0`
-- Articles: `16`
+- Generated: `2026-06-13T09:37:28.466367+00:00`
+- Market context score: `64.56`
+- News risk score: `24.92`
+- Macro risk score: `25.85`
+- Risk-on score: `52.05`
+- Articles: `23`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,7 +23,7 @@
 ## News Categories
 
 - crypto: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
 
 ## Headlines
 
@@ -33,7 +33,7 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SpaceX IPO scramble reveals difference between tokenizing a stock and getting one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] ETH futures flash bearish signal, but stakers’ resilience points to underlying strength (Cointelegraph.com News)
-- [crypto] Anthropic suspends access to Fable 5, Mythos 5, citing US directive (Cointelegraph.com News)
-- [crypto] Major crypto exchanges cancel SpaceX IPO allocations, promising refunds (Cointelegraph.com News)
-- [macro] Niagara Falls: Is there a better spot to watch a World Cup game? (BBC News)
+- [macro] Married at First Sight Australia stars not told partners had drug and violence convictions (BBC News)
+- [macro] US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says (BBC News)
+- [macro] Anthropic suspends new AI tools over US government security concerns (BBC News)
+- [macro] Warner Bros $111bn sale to Paramount approved by US justice department (BBC News)

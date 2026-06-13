@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-13T09:32:16.647154+00:00`
+- Generated: `2026-06-13T09:37:28.466367+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `108`
 - Outcome sides (rows): `216`
@@ -63,7 +63,7 @@
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0024` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0072` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [No] symbol `#1751` underlying `n/a` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
+- Austria [No] symbol `#1751` underlying `n/a` prob `0.9928` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0225` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9775` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [Yes] symbol `#1770` underlying `n/a` prob `0.0017` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -91,7 +91,7 @@
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0024` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0072` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [No] symbol `#1751` underlying `n/a` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
+- Austria [No] symbol `#1751` underlying `n/a` prob `0.9928` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0225` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9775` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [Yes] symbol `#1770` underlying `n/a` prob `0.0017` price_source `allMids` vol24h `0.0` oi `0.0`
