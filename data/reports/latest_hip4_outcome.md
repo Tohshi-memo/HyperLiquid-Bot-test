@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-13T11:07:31.066019+00:00`
+- Generated: `2026-06-13T11:22:31.120849+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `108`
 - Outcome sides (rows): `216`
@@ -52,8 +52,8 @@
 
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0071` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.1854` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.8146` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.1848` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.8152` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0056` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -62,8 +62,8 @@
 - Argentina [No] symbol `#1731` underlying `n/a` prob `0.9177` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0024` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0072` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [No] symbol `#1751` underlying `n/a` prob `0.9928` price_source `allMids` vol24h `0.0` oi `0.0`
+- Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0075` price_source `allMids` vol24h `0.0` oi `0.0`
+- Austria [No] symbol `#1751` underlying `n/a` prob `0.9925` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0225` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9775` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [Yes] symbol `#1770` underlying `n/a` prob `0.0017` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -80,8 +80,8 @@
 
 - June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0071` price_source `allMids` vol24h `0.0` oi `0.0`
 - June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.1854` price_source `allMids` vol24h `0.0` oi `0.0`
-- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.8146` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [San Antonio] symbol `#1420` underlying `n/a` prob `0.1848` price_source `allMids` vol24h `0.0` oi `0.0`
+- 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.8152` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0056` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -90,8 +90,8 @@
 - Argentina [No] symbol `#1731` underlying `n/a` prob `0.9177` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0024` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0072` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [No] symbol `#1751` underlying `n/a` prob `0.9928` price_source `allMids` vol24h `0.0` oi `0.0`
+- Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0075` price_source `allMids` vol24h `0.0` oi `0.0`
+- Austria [No] symbol `#1751` underlying `n/a` prob `0.9925` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0225` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9775` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [Yes] symbol `#1770` underlying `n/a` prob `0.0017` price_source `allMids` vol24h `0.0` oi `0.0`
