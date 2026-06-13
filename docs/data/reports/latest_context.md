@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T19:07:31.123265+00:00`
+- Generated: `2026-06-13T19:22:28.847475+00:00`
 - Market context score: `67.06`
 - News risk score: `29.0`
 - Macro risk score: `22.65`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:644`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3456`
-- Day/swing latest: `2026-06-13T19:00:00+00:00`
+- Day/swing records: `3457`
+- Day/swing latest: `2026-06-13T19:15:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Dow Jones Futures: The Next Test For Market — And SpaceX; Five Stocks In Buy Areas (Yahoo Finance)
 - [macro] The Danger of Diversifying Without Really Diversifying (Yahoo Finance)
 - [macro] Is X-Energy (XE) One of the Best Young Stocks with the Highest Upside Potential? (Yahoo Finance)
 - [macro] US-Iran deal scheduled to be signed on Sunday, says Trump (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Wise Group (WSE): 10 Best Young Stocks with the Highest Upside Potential (Yahoo Finance)
 - [macro] SOLV Energy (MWH) Expands US Utility-Scale Solar and Storage Portfolio Beyond 4GW (Yahoo Finance)
 - [macro] Constellation Energy (CEG) Completes $90M Limerick Clean Energy Center Outage Upgrade (Yahoo Finance)
-- [macro] Oklo (OKLO) Acquires ARMEC to Strengthen Vertically Integrated Nuclear Manufacturing (Yahoo Finance)
