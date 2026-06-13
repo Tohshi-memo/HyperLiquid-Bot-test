@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T15:07:29.996865+00:00`
-- Market context score: `69.3`
-- News risk score: `25.31`
-- Macro risk score: `22.52`
+- Generated: `2026-06-13T15:15:12.224571+00:00`
+- Market context score: `69.21`
+- News risk score: `25.56`
+- Macro risk score: `22.51`
 - Risk-on score: `61.67`
-- Articles: `48`
+- Articles: `49`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:644`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3441`
-- Day/swing latest: `2026-06-13T15:00:00+00:00`
+- Day/swing records: `3442`
+- Day/swing latest: `2026-06-13T15:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `13`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - macro: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
 - [macro] If You Have $10,000 And Want To Bet on AI and Robotics, These Are The Investments I’d Pick (Yahoo Finance)
+- [crypto] Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox (Cointelegraph.com News)
 - [macro] Is Alphabet (GOOGL) Still Undervalued? (Yahoo Finance)
 - [macro] Zscaler CEO delivers a sharp take on AI agents (Yahoo Finance)
 - [macro] Anthropic suspends new AI tools over US government security concerns (BBC News)
@@ -36,4 +37,3 @@
 - [macro] 51% of Americans are 'financially conflicted,' Gallup finds — how to tell which of the 3 money personalities fits you (Yahoo Finance)
 - [macro] Claiming Social Security in 2027? One Key Move Could Boost Your Benefits Before You File (Yahoo Finance)
 - [macro] Jim Cramer Is Surprised Starbucks (SBUX) Has Fallen Even Though Coffee Prices Have Eased (Yahoo Finance)
-- [macro] Jim Cramer Thinks Cisco (CSCO) Can “Run Further” (Yahoo Finance)
