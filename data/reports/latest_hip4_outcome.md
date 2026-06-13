@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-13T03:37:34.959957+00:00`
+- Generated: `2026-06-13T03:52:27.447814+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `116`
 - Outcome sides (rows): `232`
@@ -26,7 +26,6 @@
 - Qatar [No] symbol `#2061` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [No] symbol `#2401` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#2421` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
-- USA [Yes] symbol `#2310` underlying `n/a` prob `0.9987` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Draw [Yes] symbol `#2410` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -47,6 +46,7 @@
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.9966` price_source `allMids` vol24h `0.0` oi `0.0`
 - Sweden [No] symbol `#2131` underlying `n/a` prob `0.995` price_source `allMids` vol24h `0.0` oi `0.0`
+- Draw [No] symbol `#2321` underlying `n/a` prob `0.995` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
