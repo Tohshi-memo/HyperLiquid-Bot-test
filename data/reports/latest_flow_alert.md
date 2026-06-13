@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-13T17:00:25.246372+00:00`
+- Generated: `2026-06-13T17:05:29.730053+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,16 +8,16 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `26491021.44`
-- Polymarket volume z-score: `-0.76`
+- Polymarket 24h volume: `26718998.07`
+- Polymarket volume z-score: `-0.72`
 
 ## Top Polymarket Markets
 
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `5405679.866955013` | liquidity: `355931.5011`
 - US announces new Iran agreement/ceasefire extension by June 12? | 24h volume: `2751503.1033179993` | liquidity: `593687.68791`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1876922.042` | liquidity: `7042.96449`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2060522.042` | liquidity: `6380.79385`
 - Will the Iranian regime fall by June 30? | 24h volume: `1598838.347467` | liquidity: `550206.98219`
-- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `1550707.7639119993` | liquidity: `260943.3944`
+- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `1540628.6912099996` | liquidity: `273811.0433`
 - Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1536074.9523520023` | liquidity: `3194794.51381`
 - Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1351923.0588889983` | liquidity: `840288.61529`
 - Will Iran win the 2026 FIFA World Cup? | 24h volume: `1082097.992999999` | liquidity: `10169383.61247`
