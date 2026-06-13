@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T01:07:25.430701+00:00`
+- Generated: `2026-06-13T01:22:31.939899+00:00`
 - Market context score: `53.29`
 - News risk score: `31.62`
 - Macro risk score: `21.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3387`
-- Day/swing latest: `2026-06-13T01:00:00+00:00`
+- Day/swing records: `3388`
+- Day/swing latest: `2026-06-13T01:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research (Cointelegraph.com News)
 - [macro] Deal to end fighting would lead to Hormuz reopening, Iran says (BBC News)
 - [crypto] Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence (Cointelegraph.com News)
 - [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena (Yahoo Finance)
 - [commodity] U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz (Energy)
 - [macro] King leads tributes to 'giant of the art world' David Hockney (BBC News)
-- [crypto] Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
