@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T14:22:33.667901+00:00`
-- Market context score: `71.27`
+- Generated: `2026-06-13T14:37:31.783348+00:00`
+- Market context score: `71.16`
 - News risk score: `23.89`
 - Macro risk score: `19.18`
-- Risk-on score: `63.57`
+- Risk-on score: `63.33`
 - Articles: `49`
 - Polymarket markets: `397`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:644`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3439`
-- Day/swing latest: `2026-06-13T14:15:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -27,6 +27,9 @@
 
 ## Headlines
 
+- [macro] Anthropic suspends new AI tools over US government security concerns (BBC News)
+- [macro] Lemonade Is Betting Everything on AI Insurance. Should Investors Follow? (Yahoo Finance)
+- [macro] A $650,000 Portfolio That Could Send You to the Super Bowl Every Year (Yahoo Finance)
 - [macro] Jim Cramer Is Surprised Starbucks (SBUX) Has Fallen Even Though Coffee Prices Have Eased (Yahoo Finance)
 - [macro] Jim Cramer Thinks Cisco (CSCO) Can “Run Further” (Yahoo Finance)
 - [macro] Jim Cramer Reveals Big Trend For Palo Alto’s (PANW) Shares (Yahoo Finance)
@@ -34,6 +37,3 @@
 - [macro] BofA reveals $3 billion reason to watch DraftKings now (Yahoo Finance)
 - [macro] CrowdStrike Holdings, Inc. (CRWD) Dropped Because Of Panic & Fear, Says Jim Cramer (Yahoo Finance)
 - [macro] Jim Cramer Wasn’t Selling Eli Lilly (LLY) (Yahoo Finance)
-- [crypto] Perpetual futures could become crypto's next ETF moment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin sales are necessary for Strategy's digital credit business, Saylor says (Cointelegraph.com News)
-- [macro] Is Symbotic Inc. (SYM) A Good Stock To Buy Now? (Yahoo Finance)
