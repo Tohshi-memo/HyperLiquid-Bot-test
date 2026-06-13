@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T23:07:29.090895+00:00`
+- Generated: `2026-06-13T23:22:29.921471+00:00`
 - Market context score: `67.19`
 - News risk score: `29.73`
 - Macro risk score: `23.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3472`
-- Day/swing latest: `2026-06-13T23:00:00+00:00`
+- Day/swing records: `3473`
+- Day/swing latest: `2026-06-13T23:15:00+00:00`
 
 ## News Categories
 
@@ -27,12 +27,12 @@
 
 ## Headlines
 
+- [macro] Cathie Wood sells $16.2 million of tumbling megacap stock (Yahoo Finance)
 - [macro] How Safe is Bristol Myers Squibb's Dividend? Here's My Honest Take. (Yahoo Finance)
 - [macro] Is Palantir Stock Ripe for a Rebound? (Yahoo Finance)
 - [macro] Major designer home décor supplier files Chapter 11 bankruptcy (Yahoo Finance)
 - [macro] Ticketmaster says Knicks fans won't be locked out of game after last-minute panic (BBC News)
 - [macro] Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum? (Yahoo Finance)
-- [macro] Broad Bond Exposure or Tax-Exempt Muni Income? BND vs. MUB (Yahoo Finance)
 - [macro] Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online (BBC News)
 - [macro] Fuel Tax Changes Hit Six States As Energy Inflation Accelerates (Yahoo Finance)
 - [macro] Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now? (Yahoo Finance)
