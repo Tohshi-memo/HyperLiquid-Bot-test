@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T00:37:30.764646+00:00`
-- Market context score: `52.39`
-- News risk score: `33.25`
-- Macro risk score: `20.0`
-- Risk-on score: `29.83`
-- Articles: `31`
+- Generated: `2026-06-13T00:52:27.930176+00:00`
+- Market context score: `51.76`
+- News risk score: `33.87`
+- Macro risk score: `21.23`
+- Risk-on score: `29.42`
+- Articles: `29`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:643`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3385`
-- Day/swing latest: `2026-06-13T00:30:00+00:00`
+- Day/swing records: `3386`
+- Day/swing latest: `2026-06-13T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
 
 ## Headlines
 
+- [macro] Deal to end fighting would lead to Hormuz reopening, Iran says (BBC News)
 - [crypto] Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence (Cointelegraph.com News)
 - [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
 - [macro] Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut (BBC News)
-- [macro] Deal to end fighting would lead to Hormuz reopening, Iran says (BBC News)
 - [macro] Fans on concourses instead of in seats, claims Fifa (BBC News)
 - [macro] UK vows to phase out Russian diesel and jet fuel imports by new year (BBC News)
 - [macro] Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena (Yahoo Finance)
