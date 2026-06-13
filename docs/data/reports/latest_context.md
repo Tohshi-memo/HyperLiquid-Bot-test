@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T10:52:36.672117+00:00`
-- Market context score: `58.47`
-- News risk score: `29.0`
-- Macro risk score: `33.0`
-- Risk-on score: `44.67`
-- Articles: `25`
+- Generated: `2026-06-13T11:07:31.066019+00:00`
+- Market context score: `57.47`
+- News risk score: `29.84`
+- Macro risk score: `34.81`
+- Risk-on score: `43.85`
+- Articles: `23`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:644`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3426`
-- Day/swing latest: `2026-06-13T10:45:00+00:00`
+- Day/swing records: `3427`
+- Day/swing latest: `2026-06-13T11:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `11`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `9`
 
 ## Headlines
 
 - [macro] Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near (BBC News)
 - [macro] Mortgage and refinance interest rates today, Saturday, June 13, 2026: All rates moving lower (Yahoo Finance)
 - [macro] Best CD rates today, Saturday, June 13, 2026: Best account provides 4% APY (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Saturday, June 13, 2026: Earn up to 4.1% APY (Yahoo Finance)
 - [macro] HELOC and home equity loan rates Saturday, June 13, 2026: Fed meets next week - don't wait for HELOC rates to rise (Yahoo Finance)
-- [macro] Best money market account rates today, Saturday, June 13, 2026: Best account provides 4.01% APY (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, Saturday, June 13, 2026: Earn up to 4.1% APY (Yahoo Finance)
 - [macro] The costs and challenges facing the 2026 World Cup (BBC News)
 - [crypto] Top cryptographers can't agree on Bitcoin's biggest quantum question (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
