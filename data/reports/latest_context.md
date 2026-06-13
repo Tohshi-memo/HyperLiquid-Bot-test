@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-13T20:00:20.484380+00:00`
+- Generated: `2026-06-13T20:07:36.912608+00:00`
 - Market context score: `67.97`
 - News risk score: `29.31`
 - Macro risk score: `23.18`
@@ -27,7 +27,9 @@
 
 ## Headlines
 
+- [macro] 64-Year-Old Tech Exec Holds $1.6 Million in One Stock. The Wrong Move Could Cost $400,000. (Yahoo Finance)
 - [macro] Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound? (Yahoo Finance)
+- [macro] If You Have $1.1 Million Saved at 60, Here Is the Monthly Income You Can Actually Count On (Yahoo Finance)
 - [macro] Citi resets AMD stock price target on key move (Yahoo Finance)
 - [macro] Stantec (STN), Jacobs (J) Win Melbourne Water Infrastructure Program Contract (Yahoo Finance)
 - [macro] AECOM (ACM) Secures US DHS Nationwide Infrastructure Modernization Contract (Yahoo Finance)
@@ -35,5 +37,3 @@
 - [macro] MP Materials (MP): 10 Most Promising Mid-Cap Stocks to Buy According to Analysts (Yahoo Finance)
 - [macro] Jack Henry & Associates (JKHY) Expands Stock Buyback Authorization by 5M Shares (Yahoo Finance)
 - [macro] Here is Why Viasat (VSAT) is One of the Most Promising Mid-Cap Stocks to Buy According to Analysts (Yahoo Finance)
-- [macro] Cytokinetics (CYTK) Launches MYQORZO in Germany for Obstructive HCM Treatment (Yahoo Finance)
-- [macro] AeroVironment (AVAV) Invests $15M to Expand Advanced Production in Ohio (Yahoo Finance)
