@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-14T03:52:32.706594+00:00`
-- Market context score: `48.4`
-- News risk score: `32.0`
+- Generated: `2026-06-14T04:07:28.330157+00:00`
+- Market context score: `42.28`
+- News risk score: `41.0`
 - Macro risk score: `22.0`
-- Risk-on score: `20.67`
+- Risk-on score: `14.67`
 - Articles: `11`
 - Polymarket markets: `398`
 
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3491`
-- Day/swing latest: `2026-06-14T03:45:00+00:00`
+- Day/swing records: `3492`
+- Day/swing latest: `2026-06-14T04:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Amazon warning triggered US crackdown on Anthropic AI models: Reports (Cointelegraph.com News)
 - [macro] Nigerian author accuses hospital of stalling review into her son's death (BBC News)
 - [macro] Ticketmaster says Knicks fans won't be locked out of game after last-minute panic (BBC News)
 - [macro] Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Anthropic suspends new AI tools over US government security concerns (BBC News)
-- [crypto] Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
