@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-14T06:37:29.001052+00:00`
+- Generated: `2026-06-14T06:52:33.658935+00:00`
 - Market context score: `58.42`
 - News risk score: `33.0`
 - Macro risk score: `12.0`
 - Risk-on score: `40.0`
-- Articles: `11`
+- Articles: `12`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3502`
-- Day/swing latest: `2026-06-14T06:30:00+00:00`
+- Day/swing records: `3503`
+- Day/swing latest: `2026-06-14T06:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] New York Knicks win NBA championship for first time in over 50 years (BBC News)
+- [macro] US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says (BBC News)
 - [macro] Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing (BBC News)
 - [macro] Switzerland votes on plan to cap population at 10 million (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Why the US economy keeps defying the odds (BBC News)
 - [crypto] Trump says Iran peace deal to be signed Sunday, contradicting Tehran (Cointelegraph.com News)
-- [macro] New York Knicks win NBA championship for first time in over 50 years (BBC News)
 - [crypto] Amazon warning triggered US crackdown on Anthropic AI models: Reports (Cointelegraph.com News)
 - [macro] Nigerian author accuses hospital of stalling review into her son's death (BBC News)
 - [macro] Russian families use AI to 'resurrect' loved ones killed in Ukraine (BBC News)
-- [macro] Norway braces for verdict in rape trial of crown princess's son Høiby (BBC News)
