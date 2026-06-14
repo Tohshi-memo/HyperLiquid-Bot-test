@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-14T06:07:26.464201+00:00`
+- Generated: `2026-06-14T06:22:38.718722+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `100`
 - Outcome sides (rows): `200`
@@ -23,11 +23,11 @@
 ## Current Implied Probabilities
 
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
-- Draw [No] symbol `#2871` underlying `n/a` prob `0.9998` price_source `allMids` vol24h `0.0` oi `0.0`
+- Draw [No] symbol `#2871` underlying `n/a` prob `0.9997` price_source `allMids` vol24h `0.0` oi `0.0`
 - 2026 NBA Finals champion [New York] symbol `#1421` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - NBA Finals Game 5 [New York] symbol `#2511` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Turkey [No] symbol `#2881` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
-- Australia [Yes] symbol `#2860` underlying `n/a` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
+- Australia [Yes] symbol `#2860` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Panama [No] symbol `#2031` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
