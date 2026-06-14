@@ -1,24 +1,24 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-14T13:50:33.525097+00:00`
-- Flow alert score: `19.2`
+- Generated: `2026-06-14T13:55:34.912714+00:00`
+- Flow alert score: `18.64`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `35163580.67`
-- Polymarket volume z-score: `0.55`
+- Polymarket 24h volume: `34383990.17`
+- Polymarket volume z-score: `0.41`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `6125875.803507005` | liquidity: `433317.29427`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `5304097.377` | liquidity: `6900.38869`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `6119811.018118007` | liquidity: `419058.83892`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `5242885.355` | liquidity: `9444.40733`
 - US announces new Iran agreement/ceasefire extension by June 13? | 24h volume: `2983898.2600070084` | liquidity: `78457.96586`
-- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `1812897.3916420026` | liquidity: `273461.1509`
+- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `1816617.6663270027` | liquidity: `268187.4566`
 - Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `1484666.4971269993` | liquidity: `2442859.97312`
-- Strait of Hormuz traffic returns to normal by June 15? | 24h volume: `1258456.7808209995` | liquidity: `487977.94334`
+- Strait of Hormuz traffic returns to normal by June 15? | 24h volume: `1259645.5512199996` | liquidity: `491739.21573`
 - Will the Fed increase interest rates by 25 bps after the June 2026 meeting? | 24h volume: `1205039.4634869993` | liquidity: `2082885.63127`
 - Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `1197934.309482` | liquidity: `1018755.12379`
 
