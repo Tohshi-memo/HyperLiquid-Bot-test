@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-14T22:37:27.727970+00:00`
+- Generated: `2026-06-14T22:52:36.278458+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `90`
 - Outcome sides (rows): `180`
@@ -22,10 +22,9 @@
 
 ## Current Implied Probabilities
 
-- Netherlands [No] symbol `#3061` underlying `ETH` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Germany [Yes] symbol `#3180` underlying `n/a` prob `0.9998` price_source `allMids` vol24h `0.0` oi `0.0`
-- Draw [No] symbol `#3191` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
+- Draw [No] symbol `#3191` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -47,6 +46,7 @@
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9982` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
+- Austria [No] symbol `#1751` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
