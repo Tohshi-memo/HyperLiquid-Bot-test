@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-14T08:48:04.988932+00:00`
-- Market context score: `54.93`
-- News risk score: `36.8`
-- Macro risk score: `19.24`
-- Risk-on score: `38.18`
-- Articles: `14`
+- Generated: `2026-06-14T08:52:32.182305+00:00`
+- Market context score: `53.09`
+- News risk score: `38.55`
+- Macro risk score: `22.79`
+- Risk-on score: `36.92`
+- Articles: `16`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -22,11 +22,13 @@
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `1`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `1`
 
 ## Headlines
 
+- [commodity] UK forces board sanctioned Russian shadow fleet oil tanker (Energy)
 - [macro] Armed men kidnap high-ranking security official in Haiti (BBC News)
 - [macro] Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing (BBC News)
 - [macro] New York Knicks win NBA championship for first time in over 50 years (BBC News)
@@ -36,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Why the US economy keeps defying the odds (BBC News)
 - [crypto] Trump says Iran peace deal to be signed Sunday, contradicting Tehran (Cointelegraph.com News)
-- [crypto] Amazon warning triggered US crackdown on Anthropic AI models: Reports (Cointelegraph.com News)

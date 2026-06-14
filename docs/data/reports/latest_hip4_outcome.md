@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-14T08:48:04.988932+00:00`
+- Generated: `2026-06-14T08:52:32.182305+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `98`
 - Outcome sides (rows): `196`
@@ -36,13 +36,13 @@
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9988` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9987` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
+- Australia [Yes] symbol `#2860` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9982` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
-- Australia [Yes] symbol `#2860` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#2821` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 - Draw [No] symbol `#2871` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -50,8 +50,8 @@
 
 ## Top by 24h Volume
 
-- June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0091` price_source `allMids` vol24h `0.0` oi `0.0`
-- June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9909` price_source `allMids` vol24h `0.0` oi `0.0`
+- June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.009` price_source `allMids` vol24h `0.0` oi `0.0`
+- June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.991` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0033` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -78,8 +78,8 @@
 
 ## Top by Open Interest
 
-- June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.0091` price_source `allMids` vol24h `0.0` oi `0.0`
-- June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.9909` price_source `allMids` vol24h `0.0` oi `0.0`
+- June Fed rate change [Change] symbol `#1040` underlying `n/a` prob `0.009` price_source `allMids` vol24h `0.0` oi `0.0`
+- June Fed rate change [No Change] symbol `#1041` underlying `n/a` prob `0.991` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0033` price_source `allMids` vol24h `0.0` oi `0.0`
