@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-14T20:06:05.239004+00:00`
-- Market context score: `43.08`
-- News risk score: `44.2`
-- Macro risk score: `25.75`
-- Risk-on score: `20.56`
+- Generated: `2026-06-14T20:22:34.053563+00:00`
+- Market context score: `49.4`
+- News risk score: `39.17`
+- Macro risk score: `19.53`
+- Risk-on score: `28.0`
 - Articles: `49`
 - Polymarket markets: `398`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3555`
-- Day/swing latest: `2026-06-14T20:00:00+00:00`
+- Day/swing records: `3556`
+- Day/swing latest: `2026-06-14T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `40`, risk hits `8`, risk headline rate `0.175`, policy hits `3`
+- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `39`, risk hits `3`, risk headline rate `0.0769`, policy hits `1`
 
 ## Headlines
 
-- [macro] Oppenheimer issues bold price target on SpaceX stock (Yahoo Finance)
-- [macro] Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test (Yahoo Finance)
-- [macro] The Better AI Cloud Stock: Microsoft or Amazon? (Yahoo Finance)
-- [macro] Lumentum (LITE): JPMorgan Pushback Helps Keep the AI Optical Networking Case Intact (Yahoo Finance)
-- [macro] Semtech (SMTC): 224G Optical Chips Strengthen Its Role in AI Data Center Interconnects (Yahoo Finance)
-- [macro] Aviat Networks (AVNW): Long-Haul Expansion Adds Backbone Capacity Angle to the AI Networking Story (Yahoo Finance)
-- [macro] Ciena (CIEN): AI-Driven Connectivity Demand Is Turning Into Stronger Revenue Visibility (Yahoo Finance)
-- [macro] Vertiv (VRT): Digital Twin Work Shows How AI Factories Are Becoming an Infrastructure Story (Yahoo Finance)
-- [macro] ADTRAN (ADTN): Quantum-Safe Optical Transport Adds a Security Layer to AI Data Center Connectivity (Yahoo Finance)
-- [macro] Calix (CALX): FCC Gateway Clearance Supports a More Durable Broadband AI Platform Case (Yahoo Finance)
+- [macro] Millions of Americans Are Retiring Earlier Than They'd Planned To -- Here's Why (Yahoo Finance)
+- [macro] DoorDash Inc. (DASH) Shows How Local Commerce Can Expand Beyond Restaurant Delivery (Yahoo Finance)
+- [macro] Sea Limited (SE) Shows How Shopee’s Order Growth Is Keeping Its E-Commerce Engine Strong (Yahoo Finance)
+- [macro] Target Corporation (TGT) Shows Why Store-Based Fulfillment Still Matters in Digital Retail (Yahoo Finance)
+- [macro] Global-e Online Ltd. (GLBE) Shows How Cross-Border Logistics Can Extend E-Commerce Growth (Yahoo Finance)
+- [macro] One big 401(k) withdrawal could push your Medicare premiums from $202.90 to $689.90 a month (Yahoo Finance)
+- [macro] MercadoLibre Inc. (MELI) Shows Why Mexico Remains Central to Latin America’s E-Commerce Expansion (Yahoo Finance)
+- [macro] Walmart Inc. (WMT) Shows How Faster Delivery and Cross-Border Access Can Lift Online Retail (Yahoo Finance)
+- [macro] Shopify Inc. (SHOP) Shows Why AI Search Could Become a Bigger E-Commerce Growth Channel (Yahoo Finance)
+- [macro] Costco Wholesale Corporation (COST) Shows How Digitally Enabled Sales Are Outrunning Its Core Business (Yahoo Finance)
