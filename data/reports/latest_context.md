@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T05:35:57.790781+00:00`
+- Generated: `2026-06-15T05:52:30.189366+00:00`
 - Market context score: `46.64`
 - News risk score: `40.3`
 - Macro risk score: `26.44`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
 
-- Asset universe count: `1014`
+- Asset universe count: `1050`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
+- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:681`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3593`
-- Day/swing latest: `2026-06-15T05:30:00+00:00`
+- Day/swing records: `3594`
+- Day/swing latest: `2026-06-15T05:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Trump hosts UFC cage fight on the White House lawn (BBC News)
 - [commodity] U.S. crude drops nearly 5% as Washington-Tehran peace deal is set to open Hormuz Strait (Energy)
 - [crypto] Live markets:  Bitcoin not fully out of danger as Trump warns of further Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP climbs 4% above $1.18 as traders test next resistance zone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Man apologises for making racist gesture at Korean in World Cup match (BBC News)
 - [macro] Oil prices slide after US-Iran deal announced (BBC News)
 - [macro] Oil prices slide after US-Iran deal announced (BBC News)
-- [macro] Trump heralds Iran deal but questions - and risks - remain (BBC News)
