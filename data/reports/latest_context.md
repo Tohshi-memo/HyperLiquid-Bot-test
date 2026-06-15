@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T22:52:32.112944+00:00`
-- Market context score: `56.8`
-- News risk score: `36.9`
-- Macro risk score: `29.12`
-- Risk-on score: `46.15`
-- Articles: `46`
+- Generated: `2026-06-15T23:07:30.355029+00:00`
+- Market context score: `57.16`
+- News risk score: `36.59`
+- Macro risk score: `29.0`
+- Risk-on score: `46.65`
+- Articles: `48`
 - Polymarket markets: `403`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3660`
-- Day/swing latest: `2026-06-15T22:45:00+00:00`
+- Day/swing records: `3661`
+- Day/swing latest: `2026-06-15T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
-- crypto: articles `21`, risk hits `6`, risk headline rate `0.1905`, policy hits `3`
+- crypto: articles `23`, risk hits `6`, risk headline rate `0.1739`, policy hits `3`
 - macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `1`
 
 ## Headlines
 
+- [macro] Thames Water moves step closer to nationalisation after government objects to rescue deal (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] Trump crypto company's USD1 stablecoins backing UFC event bonuses (Cointelegraph.com News)
 - [macro] SpaceX IPO raised $10bn more than thought (BBC News)
 - [commodity] The Iran deal came just in time as Strategic Petroleum Reserve hits lowest level since 1983 (Energy)
 - [macro] Trump says deal to end war with Iran already signed and details to be released 'pretty soon' (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot (Cointelegraph.com News)
 - [crypto] CFTC hires SEC crypto task force adviser with blockchain forensics chops (Cointelegraph.com News)
 - [commodity] Oil prices fall about 5% as Iran deal is set to open Hormuz Strait (Energy)
-- [crypto] BitMine boosts ETH holdings closer to $10B as bear market accumulation continues (Cointelegraph.com News)
-- [crypto] Kraken rolls out perpetual futures for US traders through CFTC-regulated venue (Cointelegraph.com News)
-- [macro] Anthropic to meet White House over AI tool suspension (BBC News)
