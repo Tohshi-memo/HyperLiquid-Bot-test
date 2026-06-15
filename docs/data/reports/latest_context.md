@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T00:21:42.719508+00:00`
-- Market context score: `47.28`
+- Generated: `2026-06-15T00:37:35.431495+00:00`
+- Market context score: `49.98`
 - News risk score: `38.53`
 - Macro risk score: `32.4`
-- Risk-on score: `27.62`
+- Risk-on score: `33.62`
 - Articles: `23`
 - Polymarket markets: `402`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3572`
-- Day/swing latest: `2026-06-15T00:15:00+00:00`
+- Day/swing records: `3573`
+- Day/swing latest: `2026-06-15T00:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Oil drops 4% and Asia markets surge as Iran, U.S. are set to sign peace deal (Energy)
 - [crypto] Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Oil prices slide after Pakistan announces deal between US and Iran (BBC News)
 - [macro] As more US business owners retire many are selling up to their staff (BBC News)
 - [macro] Millions of people can get discounts on their bills - here's how (BBC News)
 - [macro] Surge in scams as fraudsters use AI to target people (BBC News)
 - [macro] Is the convertible heading into the sunset? (BBC News)
-- [commodity] U.S. crude oil falls nearly 5% after Trump says U.S. and Iran complete deal to open Strait of Hormuz (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] UK and Japan agree £18bn investment deal (BBC News)
 - [macro] UK and Japan agree £18bn investment deal (BBC News)
