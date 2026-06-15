@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T15:22:43.139244+00:00`
-- Market context score: `57.25`
+- Generated: `2026-06-15T15:37:38.902008+00:00`
+- Market context score: `57.02`
 - News risk score: `43.03`
 - Macro risk score: `20.23`
-- Risk-on score: `48.99`
+- Risk-on score: `48.47`
 - Articles: `72`
 - Polymarket markets: `401`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:690`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3631`
-- Day/swing latest: `2026-06-15T15:15:00+00:00`
+- Day/swing records: `3632`
+- Day/swing latest: `2026-06-15T15:30:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 ## Headlines
 
 - [macro] How could the US-Iran deal affect oil prices and the cost of food? (BBC News)
+- [macro] EY GDS opens client experience centre in India in $1.4bn AI push (Yahoo Finance)
 - [macro] Buy, Hold, or Sell: Dropping 39% From Its All-Time High Under a Hawkish New Fed, Is Netflix an Absolute Buy at $81? (Yahoo Finance)
 - [macro] Human Made Set to Acquire Undercover (Yahoo Finance)
-- [macro] Artificial Intelligence (AI) Is Moving Beyond Data Centers. 1 Semiconductor Stock to Buy Hand Over Fist Before It Skyrockets Thanks to a Massive Opportunity (Hint: It's Not Nvidia) (Yahoo Finance)
 - [macro] Legendary trader says investors are watching the wrong Fed lever: Chart of the Day (Yahoo Finance)
 - [macro] Robinhood's stock pops as analyst predicts World Cup will boost prediction markets revenue (Yahoo Finance)
 - [macro] SpaceX IPO just sent a powerful signal to stock market investors (Yahoo Finance)
