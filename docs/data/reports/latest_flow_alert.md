@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-15T21:10:33.953937+00:00`
+- Generated: `2026-06-15T21:15:46.235571+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,13 +8,13 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `76350251.87`
-- Polymarket volume z-score: `3.35`
+- Polymarket 24h volume: `76029719.72`
+- Polymarket volume z-score: `3.31`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `23083883.237022996` | liquidity: `791606.07437`
-- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `5564142.172963032` | liquidity: `281008.92643`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `23067169.241750002` | liquidity: `828273.15853`
+- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `5559280.734109031` | liquidity: `265340.66046`
 - Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `5351221.541198999` | liquidity: `2094748.73348`
 - Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3870111.504333` | liquidity: `12532.82774`
 - US announces new Iran agreement/ceasefire extension by June 12? | 24h volume: `3064260.4` | liquidity: `3266016.38215`
