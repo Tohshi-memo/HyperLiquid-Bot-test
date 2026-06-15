@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-15T01:22:29.437089+00:00`
+- Generated: `2026-06-15T01:37:30.535620+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `86`
 - Outcome sides (rows): `172`
@@ -43,10 +43,10 @@
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9982` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
-- Japan [No] symbol `#3081` underlying `n/a` prob `0.9969` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
-- Ivory Coast [Yes] symbol `#3020` underlying `n/a` prob `0.996` price_source `allMids` vol24h `0.0` oi `0.0`
+- Ivory Coast [Yes] symbol `#3020` underlying `n/a` prob `0.9958` price_source `allMids` vol24h `0.0` oi `0.0`
+- Senegal [No] symbol `#2091` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
