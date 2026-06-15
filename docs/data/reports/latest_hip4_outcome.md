@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-15T00:07:36.946225+00:00`
+- Generated: `2026-06-15T00:21:42.719508+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `86`
 - Outcome sides (rows): `172`
@@ -45,8 +45,8 @@
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#3341` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 - Senegal [No] symbol `#2091` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#3341` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
