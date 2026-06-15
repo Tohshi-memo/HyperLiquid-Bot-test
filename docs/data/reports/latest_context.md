@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T10:07:38.445017+00:00`
-- Market context score: `44.33`
-- News risk score: `48.0`
-- Macro risk score: `23.84`
-- Risk-on score: `25.83`
-- Articles: `61`
+- Generated: `2026-06-15T10:22:32.710256+00:00`
+- Market context score: `43.58`
+- News risk score: `47.25`
+- Macro risk score: `22.42`
+- Risk-on score: `23.0`
+- Articles: `60`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:689`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3610`
-- Day/swing latest: `2026-06-15T10:00:00+00:00`
+- Day/swing records: `3611`
+- Day/swing latest: `2026-06-15T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `1`
-- macro: articles `48`, risk hits `10`, risk headline rate `0.1875`, policy hits `1`
+- crypto: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `3`
+- macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `10`
 
 ## Headlines
 
-- [macro] Allianz leads race for HSBC’s Singapore insurance arm – report (Yahoo Finance)
-- [macro] Jeff Bezos Used a ‘Billionaire Bunker’ as a Tax Shelter — 5 Ways You Can Create Your Own (Yahoo Finance)
-- [macro] Norwegian crown princess's son found guilty of two counts of rape (BBC News)
-- [commodity] U.S. crude drops below $80 for the first time since March as Iran deal is set to open Hormuz Strait (Energy)
-- [macro] On The Border shuts company-owned restaurants in US (Yahoo Finance)
-- [macro] Russian strikes kill nine and set historic cathedral in Kyiv ablaze (BBC News)
-- [macro] 5 Potential Buyers of Roku That Actually Make Sense (Yahoo Finance)
-- [macro] Chipflation Is the Inflation Driver Markets Are Missing, Binance Research Warns (Yahoo Finance)
-- [macro] The US and Iran have agreed a deal. How soon could things go back to normal? (BBC News)
-- [macro] Trump and thousands of others watch UFC fight on White House lawn (BBC News)
+- [crypto] Middle East ceasfire, Fed interest-rate decision: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Geely to streamline structure, prioritise Hong Kong-listed unit (Yahoo Finance)
+- [macro] What's next for SpaceX stock after IPO blastoff (Yahoo Finance)
+- [macro] Tech stocks today: SpaceX becomes more valuable than Tesla (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Monday, June 15, 2026: Purchase and refinance rates stay close (Yahoo Finance)
+- [macro] HELOC and home equity loan rates, Monday, June 15, 2026: A 61-basis-point spread between HELOC and HEL rates - but why? (Yahoo Finance)
+- [macro] Best money market account rates today, Monday, June 15, 2026: Earn up to 4.01% APY (Yahoo Finance)
+- [macro] Best high-yield savings interest rates today, Monday, June 15, 2026: Earn up to 4.1% APY (Yahoo Finance)
+- [macro] Best CD rates today, Monday, June 15, 2026: Lock in up to 4% APY (Yahoo Finance)
+- [macro] MS Amlin names Kirsten Mitchell-Wallace as CRO and Phil Young as CIO (Yahoo Finance)
