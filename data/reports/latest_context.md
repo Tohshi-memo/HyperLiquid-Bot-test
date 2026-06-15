@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T07:22:32.285756+00:00`
+- Generated: `2026-06-15T07:37:31.831573+00:00`
 - Market context score: `40.05`
 - News risk score: `47.79`
 - Macro risk score: `26.42`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:689`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3599`
-- Day/swing latest: `2026-06-15T07:15:00+00:00`
+- Day/swing records: `3600`
+- Day/swing latest: `2026-06-15T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
-- [macro] Russian strikes kill nine in Ukraine and damage historic cathedral, officials say (BBC News)
-- [commodity] U.S. crude drops 5% as Washington-Tehran deal is set to open Hormuz Strait (Energy)
 - [macro] Norwegian crown princess's son found guilty of two counts of rape (BBC News)
+- [macro] Russian strikes kill nine and set historic cathedral in Kyiv ablaze (BBC News)
+- [commodity] U.S. crude drops 5% as Washington-Tehran deal is set to open Hormuz Strait (Energy)
 - [macro] Trump and thousands of others watch UFC fight on White House lawn (BBC News)
 - [crypto] Bitcoin nears $66K as Trump says US has peace deal with Iran (Cointelegraph.com News)
 - [macro] US musician Oliver Tree dies in helicopter collision in Brazil (BBC News)
