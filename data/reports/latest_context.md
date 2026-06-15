@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T13:07:35.900116+00:00`
-- Market context score: `47.78`
-- News risk score: `48.93`
-- Macro risk score: `23.92`
-- Risk-on score: `34.31`
-- Articles: `65`
+- Generated: `2026-06-15T13:22:34.960548+00:00`
+- Market context score: `50.87`
+- News risk score: `48.09`
+- Macro risk score: `22.51`
+- Risk-on score: `39.93`
+- Articles: `68`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:689`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3622`
-- Day/swing latest: `2026-06-15T13:00:00+00:00`
+- Day/swing records: `3623`
+- Day/swing latest: `2026-06-15T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `17`, risk hits `9`, risk headline rate `0.4118`, policy hits `5`
-- macro: articles `46`, risk hits `8`, risk headline rate `0.1739`, policy hits `1`
+- crypto: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `5`
+- macro: articles `48`, risk hits `6`, risk headline rate `0.125`, policy hits `5`
 
 ## Headlines
 
+- [crypto] CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bitcoin recovers to $66,000, but one analyst warns of a 'dead-cat bounce' (Yahoo Finance)
+- [macro] Sequoia’s Sean Maguire Compares SpaceX to ‘Nvidia Three Years Ago’ and Plans to Hold Forever (Yahoo Finance)
+- [macro] Mirae Asset apologizes to investors over failed SpaceX IPO allocation (Yahoo Finance)
+- [macro] 'Spider-Man of Yemen' dies falling into volcanic crater (BBC News)
 - [commodity] VP Vance says U.S. expects Strait of Hormuz to be open 'toll free' long term (Energy)
 - [crypto] Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Truist Financial Names Fiserv’s Michael Lyons President, CEO (Yahoo Finance)
-- [macro] Tech Stocks Set to Start the Week Higher (Yahoo Finance)
-- [macro] After Warren Buffett’s Successor’s Q1 Purge, Just 4 Stocks Make Up Over 50% of Berkshire Hathaway (Yahoo Finance)
-- [macro] Fox to buy Roku streaming firm in $22bn deal (BBC News)
-- [macro] Roku Stock Jumped 20% on Friday. The Index Move Coming June 22 Could Matter More Than the Buyout Buzz. (Yahoo Finance)
-- [macro] Factbox-Global drugmakers invest billions to boost US presence (Yahoo Finance)
-- [macro] Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal (Yahoo Finance)
-- [macro] South Korea's Starbucks to shut for staff history lesson after backlash (BBC News)
+- [macro] Morning Minute: Standard Chartered Says the Crypto Winter Is Over (Yahoo Finance)
+- [macro] NVIDIA Targets $20 Billion in Its First Corporate Bond Sale Since 2021 (Yahoo Finance)
+- [macro] Chips Up 8.8% in One Week: 5 Semiconductor Names Breaking Into New Highs (Yahoo Finance)
