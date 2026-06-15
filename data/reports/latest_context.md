@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T04:37:31.086977+00:00`
+- Generated: `2026-06-15T04:52:37.193572+00:00`
 - Market context score: `51.73`
 - News risk score: `32.48`
 - Macro risk score: `27.93`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3589`
-- Day/swing latest: `2026-06-15T04:30:00+00:00`
+- Day/swing records: `3590`
+- Day/swing latest: `2026-06-15T04:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [commodity] U.S. crude drops over 5% as Washington-Tehran peace deal is set to open Hormuz Strait (Energy)
 - [crypto] XRP climbs 4% above $1.18 as traders test next resistance zone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] U.S. crude drops over 5% as Washington and Tehran move to lock peace deal (Energy)
 - [crypto] Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Oil prices slide after Pakistan announces deal between US and Iran (BBC News)
 - [macro] Oil prices slide after Pakistan announces deal between US and Iran (BBC News)
