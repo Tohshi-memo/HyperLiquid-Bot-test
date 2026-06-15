@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T08:07:28.035522+00:00`
-- Market context score: `41.17`
-- News risk score: `46.7`
-- Macro risk score: `24.24`
-- Risk-on score: `17.86`
-- Articles: `31`
+- Generated: `2026-06-15T08:22:39.368211+00:00`
+- Market context score: `39.57`
+- News risk score: `44.64`
+- Macro risk score: `24.21`
+- Risk-on score: `12.55`
+- Articles: `32`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:689`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3602`
-- Day/swing latest: `2026-06-15T08:00:00+00:00`
+- Day/swing records: `3603`
+- Day/swing latest: `2026-06-15T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `11`, risk hits `6`, risk headline rate `0.4545`, policy hits `1`
 - macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
 - [macro] China detains two leaders of influential underground church (BBC News)
+- [crypto] Ark Invest bought more than $500 million worth of SpaceX shares on IPO day (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Norwegian crown princess's son found guilty of two counts of rape (BBC News)
 - [macro] Oil prices fall and shares jump after US-Iran deal announced (BBC News)
 - [macro] Oil prices fall and shares jump after US-Iran deal announced (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Trump and thousands of others watch UFC fight on White House lawn (BBC News)
 - [crypto] Bitcoin nears $66K as Trump says US has peace deal with Iran (Cointelegraph.com News)
 - [macro] US musician Oliver Tree dies in helicopter collision in Brazil (BBC News)
-- [crypto] Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
