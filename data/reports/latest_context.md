@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T11:52:34.610263+00:00`
-- Market context score: `36.71`
-- News risk score: `52.98`
-- Macro risk score: `31.55`
-- Risk-on score: `16.0`
-- Articles: `55`
+- Generated: `2026-06-15T12:07:34.432175+00:00`
+- Market context score: `39.14`
+- News risk score: `50.56`
+- Macro risk score: `29.14`
+- Risk-on score: `18.46`
+- Articles: `60`
 - Polymarket markets: `403`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:689`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3617`
-- Day/swing latest: `2026-06-15T11:45:00+00:00`
+- Day/swing records: `3618`
+- Day/swing latest: `2026-06-15T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `15`, risk hits `9`, risk headline rate `0.4667`, policy hits `3`
-- macro: articles `39`, risk hits `10`, risk headline rate `0.2564`, policy hits `13`
+- crypto: articles `17`, risk hits `9`, risk headline rate `0.4118`, policy hits `5`
+- macro: articles `42`, risk hits `9`, risk headline rate `0.2143`, policy hits `12`
 
 ## Headlines
 
+- [crypto] Strategy deploys $100 million from USD reserves to acquire 1,587 BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Trump and thousands of others watch UFC fight on White House lawn (BBC News)
 - [commodity] U.S. crude drops below $80 for the first time since March as Iran deal is set to open Hormuz Strait (Energy)
+- [crypto] Markets cheer U.S.-Iran Breakthrough though Middle East risks, Fed remain in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Oil prices fall and shares jump after US-Iran deal announced (BBC News)
+- [macro] Oil prices fall and shares jump after US-Iran deal announced (BBC News)
+- [macro] MCM Partners establishes new family office platform (Yahoo Finance)
+- [macro] How SpaceX's float could lift the tide for European space tech (Yahoo Finance)
 - [macro] Russian strikes kill 11 and set historic cathedral in Kyiv ablaze (BBC News)
-- [macro] Former Western Asset bond manager pleads guilty to obstructing SEC probe (Yahoo Finance)
-- [macro] Scotia Group Jamaica set to go private (Yahoo Finance)
-- [macro] Adyen agrees $335m acquisition of enterprise billing platform Orb (Yahoo Finance)
-- [macro] 'The conflicted middle': Half of America belongs to a new financial class where you still feel broke despite good income (Yahoo Finance)
-- [macro] FRC seeks new members for UK GAAP advisory group (Yahoo Finance)
-- [macro] Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins (Yahoo Finance)
-- [macro] Silver prices today, Monday, June 15, 2026: Silver prices moving up following U.S., Iran ceasefire deal (Yahoo Finance)
-- [crypto] U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bitcoin and ethereum prices today, Monday, June 15, 2026: Prices rising after U.S., Iran agree to ceasefire deal (Yahoo Finance)
