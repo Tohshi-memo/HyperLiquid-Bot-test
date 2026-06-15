@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T10:52:32.208892+00:00`
-- Market context score: `45.82`
-- News risk score: `47.64`
-- Macro risk score: `22.63`
-- Risk-on score: `28.38`
-- Articles: `61`
+- Generated: `2026-06-15T11:07:30.875438+00:00`
+- Market context score: `39.34`
+- News risk score: `52.68`
+- Macro risk score: `24.14`
+- Risk-on score: `18.81`
+- Articles: `63`
 - Polymarket markets: `403`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:689`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3613`
-- Day/swing latest: `2026-06-15T10:45:00+00:00`
+- Day/swing records: `3614`
+- Day/swing latest: `2026-06-15T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `3`
-- macro: articles `48`, risk hits `6`, risk headline rate `0.125`, policy hits `11`
+- crypto: articles `14`, risk hits `8`, risk headline rate `0.5`, policy hits `3`
+- macro: articles `48`, risk hits `8`, risk headline rate `0.1458`, policy hits `12`
 
 ## Headlines
 
+- [macro] The US and Iran have agreed a deal. How soon could things go back to normal? (BBC News)
+- [macro] Norwegian crown princess's son found guilty of two counts of rape (BBC News)
+- [macro] Olé, olé, olé, olé - What makes a memorable World Cup song? (BBC News)
+- [macro] Frasers Group launches $222m takeover offer for Accent Group (Yahoo Finance)
+- [macro] JBS to close two US plants amid production review (Yahoo Finance)
+- [macro] US distributor RNDC to sell Arkansas operations (Yahoo Finance)
+- [macro] Morning Bid: 'Let the oil flow' (Yahoo Finance)
+- [macro] PayPal Trades at Less Than 8X Earnings. Is This a Bargain or a Value Trap? (Yahoo Finance)
 - [macro] AT&S invests up to €2 billion in Malaysia plan to capitalise on AI boom (Yahoo Finance)
 - [macro] 1 in 3 retirees hit their 80s without touching their savings — and the 4% rule is partly to blame (Yahoo Finance)
-- [macro] Norwegian crown princess's son found guilty of two counts of rape (BBC News)
-- [macro] 70-Year-Old Retiree Gifts $190,000 for Grandchild’s Down Payment. A Medicare Trap Follows. (Yahoo Finance)
-- [macro] Brazil woman dies after rope-jumping instructors fail to attach cord (BBC News)
-- [macro] India’s Meesho to acquire B2B commerce platform Kirana Club (Yahoo Finance)
-- [macro] South African TV star arrested after allegedly kidnapping man in girlfriend dispute (BBC News)
-- [macro] Starmer expected to dilute UK electric vehicle sales targets – report (Yahoo Finance)
-- [macro] Orkla buys stake in Asian sauces firm Go-Tan (Yahoo Finance)
-- [crypto] Middle East ceasfire, Fed interest-rate decision: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
