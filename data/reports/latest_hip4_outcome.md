@@ -1,9 +1,9 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-15T03:22:29.515290+00:00`
+- Generated: `2026-06-15T03:37:32.237258+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
-- Outcome markets: `82`
-- Outcome sides (rows): `164`
+- Outcome markets: `78`
+- Outcome sides (rows): `156`
 
 ## Markets by Underlying
 
@@ -11,18 +11,19 @@
 - ETH: `2`
 - HYPE: `1`
 - SOL: `1`
-- unknown: `77`
+- unknown: `73`
 
 ## Markets by Class
 
 - fallback: `1`
 - namedOutcome: `3`
 - priceBinary: `4`
-- unknown: `74`
+- unknown: `70`
 
 ## Current Implied Probabilities
 
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#3290` underlying `BTC` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Panama [No] symbol `#2031` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -41,12 +42,11 @@
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9982` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
-- Ivory Coast [Yes] symbol `#3020` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#3300` underlying `ETH` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#3290` underlying `BTC` prob `0.9957` price_source `allMids` vol24h `0.0` oi `0.0`
-- Senegal [No] symbol `#2091` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
+- Tunisia [No] symbol `#3161` underlying `n/a` prob `0.9952` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
