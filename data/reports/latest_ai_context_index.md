@@ -2,9 +2,9 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-06-15T05:22:31.436085+00:00`
+- Updated: `2026-06-15T05:35:57.790781+00:00`
 - Asset price active records: `672`
-- Day/swing records: `3592`
+- Day/swing records: `3593`
 - Macro indicators: `11`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
@@ -14,12 +14,12 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2323 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (63534 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2368 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (872 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_context_index.json` (63542 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2370 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2538 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (47938 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5757 bytes): Asset-class overview.
+- `data/processed/ai_analysis_pack.json` (47963 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5751 bytes): Asset-class overview.
 - `data/reports/latest_asset_features.md` (2100 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (8825 bytes): HIP-4 outcome market overview.
 - `data/reports/latest_relationship_scan.md` (3580 bytes): Mechanical relationship candidates.
@@ -38,7 +38,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- polymarket_volume_spike: score `3.76` - Polymarket crypto volume is unusually high.
+- polymarket_volume_spike: score `3.69` - Polymarket crypto volume is unusually high.
 
 ## Full JSON Rule
 

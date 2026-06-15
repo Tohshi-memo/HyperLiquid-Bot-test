@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T05:22:31.436085+00:00`
+- Generated: `2026-06-15T05:35:57.790781+00:00`
 - Market context score: `46.64`
 - News risk score: `40.3`
 - Macro risk score: `26.44`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3592`
-- Day/swing latest: `2026-06-15T05:15:00+00:00`
+- Day/swing records: `3593`
+- Day/swing latest: `2026-06-15T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [commodity] U.S. crude drops nearly 5% as Washington-Tehran peace deal is set to open Hormuz Strait (Energy)
 - [crypto] Live markets:  Bitcoin not fully out of danger as Trump warns of further Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] U.S. crude drops over 5% as Washington-Tehran peace deal is set to open Hormuz Strait (Energy)
 - [crypto] XRP climbs 4% above $1.18 as traders test next resistance zone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin mining difficulty drops 10% in 11th largest downward adjustment (Cointelegraph.com News)
 - [macro] Russian strikes kill nine in Ukraine and damage historic cathedral, officials say (BBC News)
