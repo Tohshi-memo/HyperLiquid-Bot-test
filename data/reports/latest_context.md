@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T10:22:32.710256+00:00`
-- Market context score: `43.58`
-- News risk score: `47.25`
-- Macro risk score: `22.42`
-- Risk-on score: `23.0`
-- Articles: `60`
+- Generated: `2026-06-15T10:37:34.917983+00:00`
+- Market context score: `45.82`
+- News risk score: `47.79`
+- Macro risk score: `22.43`
+- Risk-on score: `28.43`
+- Articles: `62`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:689`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3611`
-- Day/swing latest: `2026-06-15T10:15:00+00:00`
+- Day/swing records: `3612`
+- Day/swing latest: `2026-06-15T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `3`
-- macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `10`
+- macro: articles `49`, risk hits `6`, risk headline rate `0.1224`, policy hits `11`
 
 ## Headlines
 
+- [macro] Norwegian crown princess's son found guilty of two counts of rape (BBC News)
+- [macro] Brazil woman dies after rope-jumping instructors failed to attach cord (BBC News)
+- [macro] India’s Meesho to acquire B2B commerce platform Kirana Club (Yahoo Finance)
+- [macro] South African TV star arrested after allegedly kidnapping man in girlfriend dispute (BBC News)
+- [macro] Starmer expected to dilute UK electric vehicle sales targets – report (Yahoo Finance)
+- [macro] Orkla buys stake in Asian sauces firm Go-Tan (Yahoo Finance)
 - [crypto] Middle East ceasfire, Fed interest-rate decision: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Geely to streamline structure, prioritise Hong Kong-listed unit (Yahoo Finance)
 - [macro] What's next for SpaceX stock after IPO blastoff (Yahoo Finance)
 - [macro] Tech stocks today: SpaceX becomes more valuable than Tesla (Yahoo Finance)
-- [macro] Mortgage and refinance interest rates today, Monday, June 15, 2026: Purchase and refinance rates stay close (Yahoo Finance)
-- [macro] HELOC and home equity loan rates, Monday, June 15, 2026: A 61-basis-point spread between HELOC and HEL rates - but why? (Yahoo Finance)
-- [macro] Best money market account rates today, Monday, June 15, 2026: Earn up to 4.01% APY (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Monday, June 15, 2026: Earn up to 4.1% APY (Yahoo Finance)
-- [macro] Best CD rates today, Monday, June 15, 2026: Lock in up to 4% APY (Yahoo Finance)
-- [macro] MS Amlin names Kirsten Mitchell-Wallace as CRO and Phil Young as CIO (Yahoo Finance)
