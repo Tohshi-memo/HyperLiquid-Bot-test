@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-15T03:07:29.424784+00:00`
+- Generated: `2026-06-15T03:22:29.515290+00:00`
 - Market context score: `56.07`
 - News risk score: `26.1`
 - Macro risk score: `28.0`
 - Risk-on score: `35.0`
 - Articles: `25`
-- Polymarket markets: `401`
+- Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:74, fx:6, index:23, metal:18, unknown:645`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3583`
-- Day/swing latest: `2026-06-15T03:00:00+00:00`
+- Day/swing records: `3584`
+- Day/swing latest: `2026-06-15T03:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Oil prices slide after Pakistan announces deal between US and Iran (BBC News)
+- [macro] Oil prices slide after Pakistan announces deal between US and Iran (BBC News)
 - [commodity] U.S. crude drops over 5% as Washington and Tehran lock peace deal (Energy)
 - [macro] Trump heralds Iran deal but questions - and risks - remain (BBC News)
 - [macro] Why Delhi feels hotter than what temperatures show (BBC News)
 - [macro] Trump hosts UFC cage fight on the White House lawn (BBC News)
 - [macro] US-Iran deal eases uncertainty over the war - but there is much still to play out (BBC News)
-- [macro] Oil prices slide after Pakistan announces deal between US and Iran (BBC News)
-- [macro] Oil prices slide after Pakistan announces deal between US and Iran (BBC News)
 - [crypto] Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] As more US business owners retire many are selling up to their staff (BBC News)
 - [macro] As more US business owners retire many are selling up to their staff (BBC News)
