@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T07:22:37.750319+00:00`
+- Generated: `2026-06-16T07:37:29.126121+00:00`
 - Market context score: `52.08`
 - News risk score: `33.78`
 - Macro risk score: `18.29`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3693`
-- Day/swing latest: `2026-06-16T07:15:00+00:00`
+- Day/swing records: `3694`
+- Day/swing latest: `2026-06-16T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
-- [macro] Trump may release US-Iran deal before Friday, Vance says (BBC News)
-- [macro] 'Dancing girl' with bare torso restored in Indian textbook after backlash (BBC News)
 - [commodity] Oil prices fall, tanker bosses remain cautious on resumption of Hormuz transit (Energy)
+- [macro] Trump may release US-Iran deal before Friday, Vance says (BBC News)
+- [macro] 'Dancing girl's' bare torso restored in Indian textbook after backlash (BBC News)
 - [crypto] Bitcoin recovery rests on US-Iran deal as momentum remains weak (Cointelegraph.com News)
 - [macro] Thames Water moves step closer to nationalisation after government objects to rescue deal (BBC News)
 - [crypto] Tether Gold now has a dedicated options market on Bybit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
