@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T08:07:39.016625+00:00`
-- Market context score: `54.86`
-- News risk score: `29.69`
-- Macro risk score: `18.29`
-- Risk-on score: `31.68`
-- Articles: `34`
+- Generated: `2026-06-16T08:22:47.142925+00:00`
+- Market context score: `54.15`
+- News risk score: `30.71`
+- Macro risk score: `18.63`
+- Risk-on score: `31.09`
+- Articles: `32`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3696`
-- Day/swing latest: `2026-06-16T08:00:00+00:00`
+- Day/swing records: `3697`
+- Day/swing latest: `2026-06-16T08:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
-- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `2`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `2`
 - macro: articles `20`, risk hits `0`, risk headline rate `0.0`, policy hits `4`
 
 ## Headlines
 
-- [commodity] Oil prices hit three-month low  — but tanker bosses remain cautious on Hormuz transit (Energy)
 - [macro] Trump may release US-Iran deal before Friday, Vance says (BBC News)
+- [commodity] Oil prices hit three-month low  — but tanker bosses remain cautious on Hormuz transit (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] 'Dancing girl's' bare torso restored in Indian textbook after backlash (BBC News)
 - [crypto] Bitcoin recovery rests on US-Iran deal as momentum remains weak (Cointelegraph.com News)
