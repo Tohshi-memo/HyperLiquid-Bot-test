@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T03:37:43.019264+00:00`
+- Generated: `2026-06-16T03:52:38.224780+00:00`
 - Market context score: `47.42`
 - News risk score: `34.31`
 - Macro risk score: `21.55`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3678`
-- Day/swing latest: `2026-06-16T03:30:00+00:00`
+- Day/swing records: `3679`
+- Day/swing latest: `2026-06-16T03:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Iran deal presents political nightmare for Netanyahu (BBC News)
 - [macro] Japan raises interest rate to highest since 1995 (BBC News)
 - [macro] What is Helium-3 and could we get it from the moon? (BBC News)
 - [macro] Thames Water moves step closer to nationalisation after government objects to rescue deal (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak (BBC News)
 - [macro] A year on, six questions still haunt the Air India crash investigation (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Trump crypto company's USD1 stablecoins backing UFC event bonuses (Cointelegraph.com News)
