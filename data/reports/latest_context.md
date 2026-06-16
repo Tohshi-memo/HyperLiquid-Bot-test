@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T12:37:35.142158+00:00`
-- Market context score: `57.46`
-- News risk score: `40.26`
-- Macro risk score: `23.73`
-- Risk-on score: `48.42`
-- Articles: `64`
+- Generated: `2026-06-16T12:52:42.757517+00:00`
+- Market context score: `54.36`
+- News risk score: `43.43`
+- Macro risk score: `24.85`
+- Risk-on score: `44.64`
+- Articles: `67`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3713`
-- Day/swing latest: `2026-06-16T12:30:00+00:00`
+- Day/swing records: `3714`
+- Day/swing latest: `2026-06-16T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `7`
-- macro: articles `45`, risk hits `5`, risk headline rate `0.1111`, policy hits `7`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `9`
+- macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `7`
 
 ## Headlines
 
+- [macro] Swedish man jailed for four years for coercing wife into sex with 120 men (BBC News)
+- [macro] Hungary's MPs block return of Orbán, limiting rule of PM to eight years (BBC News)
 - [commodity] Brent oil price dips below $80 per barrel for first time since March (Energy)
+- [crypto] Bitcoin sell-off toward $60K may resume as Japan hikes interest rates (Cointelegraph.com News)
+- [macro] Prediction: This Artificial Intelligence (AI) Infrastructure Stock Will Skyrocket in June (Hint: It's Not Micron Technology) (Yahoo Finance)
+- [macro] SpaceX formalizes $60 billion all-stock merger to acquire Cursor: Bloomberg (Yahoo Finance)
+- [macro] Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High (Yahoo Finance)
+- [macro] OpenAI spending hits $34 billion in 2025: Ed Zitron (Yahoo Finance)
 - [macro] Thames Water moves step closer to nationalisation after government objects to rescue deal (BBC News)
-- [macro] De Cecco snaps up Italian peer RossoGargano (Yahoo Finance)
-- [macro] OpenAI 2025 financials leaked: $38.5B loss ahead of IPO (Yahoo Finance)
-- [macro] The Sandisk Rally Isn't Over Yet (Yahoo Finance)
-- [crypto] Robinhood cuts 10% of workforce as Tenev touts business strength (Cointelegraph.com News)
-- [macro] Musk's SpaceX buys AI coding start-up for $60bn days after IPO (BBC News)
-- [macro] Vince Holding Shares Ease Despite Strong First-Quarter Results and Raised Outlook (VNCE) (Yahoo Finance)
-- [macro] AI optical parts maker Zhongji Innolight eyes up to $7 billion Hong Kong listing, source says (Yahoo Finance)
-- [macro] Dollar steady, no respite for yen after BOJ hikes rates as expected (Yahoo Finance)
+- [macro] Oil drops nearly 3% to 3-month low as markets weigh US-Iran peace deal (Yahoo Finance)
