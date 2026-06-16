@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T16:52:37.208424+00:00`
-- Market context score: `57.95`
-- News risk score: `41.53`
-- Macro risk score: `29.62`
-- Risk-on score: `52.82`
-- Articles: `77`
+- Generated: `2026-06-16T17:07:39.559605+00:00`
+- Market context score: `56.66`
+- News risk score: `42.32`
+- Macro risk score: `31.65`
+- Risk-on score: `51.37`
+- Articles: `79`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3730`
-- Day/swing latest: `2026-06-16T16:45:00+00:00`
+- Day/swing records: `3731`
+- Day/swing latest: `2026-06-16T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `5`, risk headline rate `0.1429`, policy hits `7`
-- macro: articles `48`, risk hits `12`, risk headline rate `0.2292`, policy hits `4`
+- crypto: articles `29`, risk hits `5`, risk headline rate `0.1379`, policy hits `7`
+- macro: articles `49`, risk hits `14`, risk headline rate `0.2653`, policy hits `4`
 
 ## Headlines
 
-- [macro] Health Care Roundup: Market Talk (Yahoo Finance)
-- [macro] UK investigating reports Russian warship fired warning shots near yacht in English Channel (BBC News)
-- [macro] Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm (BBC News)
-- [macro] 2026 Layoffs Tracker: Robinhood, Walmart and Meta Among Companies Cutting Jobs (Yahoo Finance)
-- [macro] From TASER to the Skies. Buy Axon Stock While It's Still Down 49% (Yahoo Finance)
-- [macro] EV Startup Rivian Lays Off Hundreds of Workers (Yahoo Finance)
-- [macro] Regret taking Social Security at 70? Here’s what to do if it haunts you (and why younger Boomers must take notice) (Yahoo Finance)
-- [macro] Fortinet Stock: Aim For A 28% Return With This Strategy On The Cybersecurity Firm (Yahoo Finance)
-- [macro] Gold IRA vs. Gold ETF in 2026: A 28% tax difference most investors miss (Yahoo Finance)
-- [crypto] Binance says it considers EU license compliant amid reports of potential rejection (Cointelegraph.com News)
+- [commodity] Brent falls below $80 per barrel on report U.S. will allow Iran to sell oil immediately (Energy)
+- [crypto] Why US-regulated Bitcoin perpetuals could change crypto trading (Cointelegraph.com News)
+- [macro] Snap CEO Spiegel defends Specs as long-term bet, pushes back against activist pressure (Yahoo Finance)
+- [macro] Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open (Yahoo Finance)
+- [macro] SpaceX rockets past Amazon, eyes Microsoft in sprint toward $3 trillion (Yahoo Finance)
+- [macro] Global stock index near flat; SpaceX shares jump (Yahoo Finance)
+- [macro] J&J CEO says curing certain cancers within a decade is realistic (Yahoo Finance)
+- [macro] Musk’s SpaceX surpasses Amazon by value in blow for Bezos (Yahoo Finance)
+- [macro] US single-family housing starts slide to eight-month low; imported inflation increases sharply (Yahoo Finance)
+- [macro] 91% of Retirees Make a Social Security Mistake Costing up to $22,433 per year (Yahoo Finance)
