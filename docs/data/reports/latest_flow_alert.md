@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-16T02:25:29.036015+00:00`
+- Generated: `2026-06-16T02:30:36.884932+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `81487284.11`
-- Polymarket volume z-score: `3.33`
+- Polymarket 24h volume: `81545548.28`
+- Polymarket volume z-score: `3.32`
 
 ## Top Polymarket Markets
 
 - Will IR Iran win on 2026-06-15? | 24h volume: `24260702.650457196` | liquidity: `209922.5403`
 - US x Iran permanent peace deal by June 15, 2026? | 24h volume: `8891417.422241012` | liquidity: `991069.4001`
-- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `5374410.923483999` | liquidity: `2948831.51067`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3869989.004333` | liquidity: `11498.82441`
+- Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `5464275.130483999` | liquidity: `2860742.19747`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3869989.004333` | liquidity: `13327.29416`
 - Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? | 24h volume: `3225963.9467449994` | liquidity: `568473.65981`
-- US and Iran sign an agreement by June 15, 2026? | 24h volume: `3142689.291982002` | liquidity: `2290589.80533`
-- Will the Fed increase interest rates by 25 bps after the June 2026 meeting? | 24h volume: `2871207.433689` | liquidity: `1389033.10683`
-- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `2710694.4354089987` | liquidity: `2749242.03925`
+- US and Iran sign an agreement by June 15, 2026? | 24h volume: `3169536.2429820024` | liquidity: `2247270.57571`
+- Will the Fed increase interest rates by 25 bps after the June 2026 meeting? | 24h volume: `2873097.3526890003` | liquidity: `1388128.50376`
+- Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `2708605.0552089987` | liquidity: `2750113.92479`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
