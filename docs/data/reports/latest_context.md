@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T00:16:11.178821+00:00`
-- Market context score: `59.82`
-- News risk score: `34.27`
-- Macro risk score: `28.7`
-- Risk-on score: `50.5`
-- Articles: `44`
+- Generated: `2026-06-16T00:22:30.978463+00:00`
+- Market context score: `60.03`
+- News risk score: `34.48`
+- Macro risk score: `28.02`
+- Risk-on score: `50.88`
+- Articles: `46`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
 - crypto: articles `20`, risk hits `4`, risk headline rate `0.15`, policy hits `1`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `3`
 
 ## Headlines
 
 - [macro] What is Helium-3 and could we get it from the moon? (BBC News)
 - [macro] Thames Water moves step closer to nationalisation after government objects to rescue deal (BBC News)
 - [macro] Trump says deal to end war with Iran already signed and details to be released 'pretty soon' (BBC News)
+- [macro] What one country's experiment says about attempts to boost birth rates (BBC News)
+- [macro] Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Trump crypto company's USD1 stablecoins backing UFC event bonuses (Cointelegraph.com News)
 - [macro] SpaceX IPO raised $10bn more than thought (BBC News)
 - [commodity] The Iran deal came just in time as Strategic Petroleum Reserve hits lowest level since 1983 (Energy)
 - [commodity] How the Strait of Hormuz reopening could unfold if the U.S.-Iran deal is implemented (Energy)
-- [crypto] Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot (Cointelegraph.com News)
-- [crypto] CFTC hires SEC crypto task force adviser with blockchain forensics chops (Cointelegraph.com News)
