@@ -1,9 +1,9 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-16T02:37:36.968207+00:00`
+- Generated: `2026-06-16T02:52:40.586422+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
-- Outcome markets: `130`
-- Outcome sides (rows): `260`
+- Outcome markets: `126`
+- Outcome sides (rows): `252`
 
 ## Markets by Underlying
 
@@ -11,18 +11,17 @@
 - ETH: `2`
 - HYPE: `1`
 - SOL: `1`
-- unknown: `125`
+- unknown: `121`
 
 ## Markets by Class
 
 - fallback: `1`
 - namedOutcome: `3`
 - priceBinary: `4`
-- unknown: `122`
+- unknown: `118`
 
 ## Current Implied Probabilities
 
-- Draw [Yes] symbol `#3110` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -39,7 +38,6 @@
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9982` price_source `allMids` vol24h `0.0` oi `0.0`
-- Uruguay [No] symbol `#3121` underlying `n/a` prob `0.998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Tunisia [No] symbol `#2151` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -47,6 +45,8 @@
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Korea [No] symbol `#2111` underlying `n/a` prob `0.9952` price_source `allMids` vol24h `0.0` oi `0.0`
+- Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9951` price_source `allMids` vol24h `0.0` oi `0.0`
+- Sweden [No] symbol `#2131` underlying `n/a` prob `0.995` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
