@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T06:22:32.566952+00:00`
+- Generated: `2026-06-16T06:37:37.626713+00:00`
 - Market context score: `51.09`
 - News risk score: `35.23`
 - Macro risk score: `18.08`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3689`
-- Day/swing latest: `2026-06-16T06:15:00+00:00`
+- Day/swing records: `3690`
+- Day/swing latest: `2026-06-16T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Trump may release US-Iran deal before Friday, Vance says (BBC News)
 - [macro] Thames Water moves step closer to nationalisation after government objects to rescue deal (BBC News)
+- [macro] Trump may release US-Iran deal before Friday, Vance says (BBC News)
 - [crypto] Tether Gold now has a dedicated options market on Bybit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US government watchdog urges FDIC coordinate on crypto oversight (Cointelegraph.com News)
 - [crypto] Live markets: Bitcoin ETFs bled cash Monday while every other crypto ETF gained (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
