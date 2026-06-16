@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-16T12:45:43.037558+00:00`
+- Generated: `2026-06-16T12:50:44.000870+00:00`
 - Flow alert score: `20.36`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,7 +8,7 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `50000205.6`
+- Polymarket 24h volume: `49985019.54`
 - Polymarket volume z-score: `0.84`
 
 ## Top Polymarket Markets
@@ -20,6 +20,6 @@
 - Will there be no change in Fed interest rates after the June 2026 meeting? | 24h volume: `3296140.4593869974` | liquidity: `3273070.52015`
 - Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? | 24h volume: `2893388.753648001` | liquidity: `761024.03496`
 - Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting? | 24h volume: `2588321.291579` | liquidity: `2799999.50236`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2231822.572` | liquidity: `12911726.59766`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `2231822.572` | liquidity: `12959171.59766`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
