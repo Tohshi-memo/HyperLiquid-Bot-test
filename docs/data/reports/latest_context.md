@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T14:37:40.742358+00:00`
-- Market context score: `54.68`
-- News risk score: `44.33`
-- Macro risk score: `27.62`
-- Risk-on score: `47.16`
-- Articles: `69`
+- Generated: `2026-06-16T14:52:38.551922+00:00`
+- Market context score: `57.03`
+- News risk score: `43.11`
+- Macro risk score: `25.81`
+- Risk-on score: `50.66`
+- Articles: `68`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3721`
-- Day/swing latest: `2026-06-16T14:30:00+00:00`
+- Day/swing records: `3722`
+- Day/swing latest: `2026-06-16T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `9`
-- macro: articles `43`, risk hits `8`, risk headline rate `0.1628`, policy hits `8`
+- macro: articles `42`, risk hits `7`, risk headline rate `0.1429`, policy hits `5`
 
 ## Headlines
 
-- [macro] KFC unveils brand revamp with new menu, drinks and store formats (Yahoo Finance)
-- [macro] Lam Research (LRCX) Stands Out on Strong Demand (Yahoo Finance)
-- [crypto] State Street targets stablecoin reserve boom with new money market fund (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK watchdog clears ABF’s deal to buy bread rival Hovis (Yahoo Finance)
-- [macro] Ripple Takes Stake in Flutterwave as Stablecoin Payments Push Expands Across Africa (Yahoo Finance)
-- [macro] Canada wine firm Andrew Peller sold to property and insurance group (Yahoo Finance)
-- [macro] 1 AI Stock to Buy Before Its Revenue Accelerates in the Back Half of 2026 (Yahoo Finance)
-- [macro] FBI thwarted plot targeting White House UFC event, Patel says (BBC News)
-- [crypto] Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78 (Cointelegraph.com News)
-- [macro] Increased Demand for AI Applications Boosted Texas Instruments (TXN) in Q1 (Yahoo Finance)
+- [commodity] Brent oil dips below $80 per barrel for first time since March (Energy)
+- [macro] Musk's SpaceX buys AI coding start-up for $60bn days after IPO (BBC News)
+- [macro] ASML Holding N.V. (ASML) Rallied on Market Dominance (Yahoo Finance)
+- [macro] What Makes Taiwan Semiconductor Manufacturing (TSM) a Strong Bet? (Yahoo Finance)
+- [macro] Want Guaranteed Income in Retirement? Here's How to Get It. (Yahoo Finance)
+- [macro] Somaliland opens Jerusalem embassy after Israel's recognition of its independence (BBC News)
+- [macro] Taiwan Semiconductor Manufacturing Co.’s (TSM) 25% Capex Budget Hike Surged Market Confidence (Yahoo Finance)
+- [macro] SpaceX Bolsters AI Business With $60 Bil Deal. Musk Targets $1 Tril In Revenue. (Yahoo Finance)
+- [macro] Vince Holding shares surge on Q1 earnings beat, raised guidance (Yahoo Finance)
+- [macro] Can an Ordinary Retired Couple Afford to Live in Boca Raton? (Yahoo Finance)
