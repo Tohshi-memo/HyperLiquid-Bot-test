@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-17T23:40:31.468065+00:00`
+- Generated: `2026-06-17T23:45:37.199183+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `143357496.64`
-- Polymarket volume z-score: `3.34`
+- Polymarket 24h volume: `144732522.0`
+- Polymarket volume z-score: `3.38`
 
 ## Top Polymarket Markets
 
-- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `91968163.63624305` | liquidity: `5989639.93503`
-- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `10676033.75075201` | liquidity: `1715376.41176`
-- US and Iran sign an agreement by June 15, 2026? | 24h volume: `9442428.20329797` | liquidity: `452672.36898`
-- US x Iran permanent peace deal by July 31, 2026? | 24h volume: `3233991.608758` | liquidity: `876237.10791`
-- Will the Iranian regime fall by June 30? | 24h volume: `3041964.5580430003` | liquidity: `1269506.01782`
-- US announces new Iran agreement/ceasefire extension by June 13? | 24h volume: `2090215.0202040013` | liquidity: `1507042.04676`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2011906.2930000003` | liquidity: `13281.35927`
-- US x Iran permanent peace deal by December 31, 2026? | 24h volume: `1790104.5100399996` | liquidity: `754357.81924`
+- US x Iran permanent peace deal by June 15, 2026? | 24h volume: `92279321.05249605` | liquidity: `6004628.82432`
+- US x Iran permanent peace deal by June 30, 2026? | 24h volume: `10674151.75075201` | liquidity: `1783824.61113`
+- US and Iran sign an agreement by June 15, 2026? | 24h volume: `10545853.066076972` | liquidity: `389342.91759`
+- US x Iran permanent peace deal by July 31, 2026? | 24h volume: `3233843.468758` | liquidity: `863632.42921`
+- Will the Iranian regime fall by June 30? | 24h volume: `3070931.8080430003` | liquidity: `1244495.85342`
+- US announces new Iran agreement/ceasefire extension by June 13? | 24h volume: `2089871.3535360016` | liquidity: `1505375.9721`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2011051.6220000002` | liquidity: `16150.27386`
+- US x Iran permanent peace deal by December 31, 2026? | 24h volume: `1789692.0300399994` | liquidity: `752334.16924`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
