@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-18T16:05:38.014171+00:00`
+- Generated: `2026-06-18T16:10:48.636787+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `23800034.79`
+- Polymarket 24h volume: `23795779.19`
 - Polymarket volume z-score: `-0.89`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3600861.121` | liquidity: `10927.96729`
-- Will the Iranian regime fall by June 30? | 24h volume: `3220191.890716002` | liquidity: `1109071.35026`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2011434.3582219998` | liquidity: `7961.21133`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1274328.534903001` | liquidity: `553348.6637`
--  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `883417.8268270002` | liquidity: `165698.3094`
-- Will Rebecca Shepherd win the 2026 Makerfield by-election? | 24h volume: `793127.7522529989` | liquidity: `455041.59065`
-- Will Iran close its airspace by June 30? | 24h volume: `759016.669996` | liquidity: `2274541.11148`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `709469.4462800001` | liquidity: `162428.8883`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3565161.121` | liquidity: `10918.44012`
+- Will the Iranian regime fall by June 30? | 24h volume: `3220091.890716002` | liquidity: `1108619.74778`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2042034.3582219998` | liquidity: `7945.84092`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1276483.7113690013` | liquidity: `536976.8271`
+-  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `884370.5043610003` | liquidity: `165540.3024`
+- Will Rebecca Shepherd win the 2026 Makerfield by-election? | 24h volume: `772558.917004999` | liquidity: `463316.54156`
+- Will Iran close its airspace by June 30? | 24h volume: `755844.6380960002` | liquidity: `2274541.11148`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `709134.9862800002` | liquidity: `167633.19`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
