@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-18T16:15:37.114187+00:00`
+- Generated: `2026-06-18T16:26:20.205149+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `23795779.19`
-- Polymarket volume z-score: `-0.89`
+- Polymarket 24h volume: `22112539.89`
+- Polymarket volume z-score: `-0.94`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3565161.121` | liquidity: `10918.44012`
-- Will the Iranian regime fall by June 30? | 24h volume: `3220091.890716002` | liquidity: `1108619.74778`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2042034.3582219998` | liquidity: `7945.84092`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1276483.7113690013` | liquidity: `536976.8271`
--  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `884370.5043610003` | liquidity: `165540.3024`
-- Will Rebecca Shepherd win the 2026 Makerfield by-election? | 24h volume: `772558.917004999` | liquidity: `463316.54156`
-- Will Iran close its airspace by June 30? | 24h volume: `755844.6380960002` | liquidity: `2274541.11148`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `709134.9862800002` | liquidity: `167633.19`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3447861.121` | liquidity: `10664.61443`
+- Will the Iranian regime fall by June 30? | 24h volume: `3221370.9037540015` | liquidity: `1107547.74363`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2077734.3582219998` | liquidity: `8100.5482`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1277246.4193160015` | liquidity: `558136.7372`
+-  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `884275.5695190001` | liquidity: `162064.3758`
+- Will Rebecca Shepherd win the 2026 Makerfield by-election? | 24h volume: `795162.610469999` | liquidity: `518465.29007`
+- Will Trump agree to withdraw troops from the Iranian region by June 30? | 24h volume: `767424.7385179991` | liquidity: `70022.0805`
+- Will Iran close its airspace by June 30? | 24h volume: `746694.2901410002` | liquidity: `2273116.89712`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
