@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-18T03:10:38.013239+00:00`
+- Generated: `2026-06-18T03:15:38.207664+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `24963933.87`
+- Polymarket 24h volume: `24740857.41`
 - Polymarket volume z-score: `-0.88`
 
 ## Top Polymarket Markets
 
-- Will the Iranian regime fall by June 30? | 24h volume: `3130212.0457270006` | liquidity: `1243273.88763`
-- US announces new Iran agreement/ceasefire extension by June 13? | 24h volume: `2234192.6895730016` | liquidity: `1839113.58665`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2010950.6220000002` | liquidity: `11762.30988`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `1632309.387` | liquidity: `11429.18456`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1224533.601` | liquidity: `11159.23748`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1135655.95` | liquidity: `14080428.22744`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1089384.9464460001` | liquidity: `316291.2568`
-- Israel x Iran permanent peace deal by June 30, 2026? | 24h volume: `1007769.633441` | liquidity: `303015.06128`
+- Will the Iranian regime fall by June 30? | 24h volume: `3127945.4567270004` | liquidity: `1239702.88715`
+- US announces new Iran agreement/ceasefire extension by June 13? | 24h volume: `2234852.649573001` | liquidity: `1835795.93189`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2010950.6220000002` | liquidity: `12940.87404`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `1634147.787` | liquidity: `10563.88534`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1224533.601` | liquidity: `12726.29752`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1135671.96` | liquidity: `14129766.09253`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1092295.168838` | liquidity: `345915.8854`
+- Israel x Iran permanent peace deal by June 30, 2026? | 24h volume: `1008566.9333810001` | liquidity: `309980.89985`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
