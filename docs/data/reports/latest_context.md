@@ -1,40 +1,40 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-16T18:37:49.252219+00:00`
-- Market context score: `55.09`
-- News risk score: `36.59`
-- Macro risk score: `26.73`
-- Risk-on score: `41.2`
-- Articles: `55`
-- Polymarket markets: `398`
+- Generated: `2026-06-19T16:22:31.022660+00:00`
+- Market context score: `55.49`
+- News risk score: `44.29`
+- Macro risk score: `24.76`
+- Risk-on score: `47.83`
+- Articles: `72`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
-- Sector reaction patterns: `629`
+- Sector reaction patterns: `663`
 
-- Asset universe count: `1059`
+- Asset universe count: `1060`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:77, fx:6, index:23, metal:18, unknown:687`
+- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3736`
-- Day/swing latest: `2026-06-16T18:30:00+00:00`
+- Day/swing records: `3737`
+- Day/swing latest: `2026-06-19T16:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `5`, risk headline rate `0.16`, policy hits `7`
-- macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `1`
+- commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `5`
+- macro: articles `45`, risk hits `6`, risk headline rate `0.1333`, policy hits `1`
 
 ## Headlines
 
-- [macro] UK investigating reports Russian warship fired warning shots near yacht in English Channel (BBC News)
-- [macro] Struggling Pizza Hut chain to be sold for $2.7bn (BBC News)
-- [macro] German broadcaster removes TV intro after Elon Musk takes legal action (BBC News)
-- [macro] Russian artist and Putin critic shot dead in Poland (BBC News)
-- [crypto] State Street launches GENIUS Act-aligned money market fund for stablecoin reserves (Cointelegraph.com News)
-- [crypto] Ripple targets Africa’s booming remittance market with Flutterwave investment (Cointelegraph.com News)
-- [macro] Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says (BBC News)
-- [commodity] Brent falls below $80 per barrel on report U.S. will allow Iran to sell oil immediately (Energy)
-- [macro] Market Update: TEVA, APD, DG (Yahoo Finance)
-- [crypto] Why US-regulated Bitcoin perpetuals could change crypto trading (Cointelegraph.com News)
+- [macro] Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This (Yahoo Finance)
+- [macro] Veteran analyst sends blunt message on Saylor's Bitcoin strategy (Yahoo Finance)
+- [commodity] Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane (Energy)
+- [macro] IYF vs. KRE: Which Financial Sector ETF Is the Better Buy? (Yahoo Finance)
+- [macro] Lockheed Martin vs. RTX: Which Defense Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Got $1,500? 1 Core Portfolio Cornerstone With an Unshakable Economic Moat to Buy on the Dip (Yahoo Finance)
+- [macro] Forget SpaceX Hype: Donald Trump Bought This Top Space Stock in 2026 (Yahoo Finance)
+- [commodity] Oil prices rise after U.S.-Iran peace talks in Geneva are abruptly postponed (Energy)
+- [macro] Is Bloom Energy (BE) The Best Energy Stock in Trump’s Latest Portfolio? (Yahoo Finance)
+- [macro] Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts? (Yahoo Finance)

@@ -2,55 +2,55 @@
 
 Sector reaction data tracks how ETF sector proxies moved after public conditions. It is a hypothesis dataset, not a trade signal.
 
-- Generated: `2026-06-16T18:37:49.252219+00:00`
+- Generated: `2026-06-19T16:22:31.022660+00:00`
 - Price records: `6500`
-- Reaction rows: `120672`
+- Reaction rows: `121162`
 - Stored reaction rows: `5000`
 - Minimum samples: `20`
 - Horizons: `1d, 5d, 20d, 60d, 120d, 252d`
 
 ## Sector Snapshot
 
-- `SMH` semiconductors: 5d `-1.8004`, 20d `19.8595`, 60d `35.6265`
-- `XLK` technology: 5d `0.4216`, 20d `14.195`, 60d `25.8677`
-- `XHB` homebuilders: 5d `-6.0384`, 20d `-10.1911`, 60d `-18.0215`
-- `QQQ` nasdaq_100: 5d `-0.3234`, 20d `9.2595`, 60d `17.6237`
-- `XLE` energy: 5d `6.7145`, 20d `8.0334`, 60d `8.424`
-- `XLU` utilities: 5d `-1.9007`, 20d `-4.961`, 60d `-4.1928`
-- `SPY` broad_market: 5d `0.2101`, 20d `4.0879`, 60d `8.2849`
-- `XLY` consumer_discretionary: 5d `-3.0532`, 20d `-3.2223`, 60d `0.4509`
-- `IYR` real_estate_broad: 5d `-2.8899`, 20d `-3.088`, 60d `0.2505`
-- `XLB` materials: 5d `-2.5005`, 20d `-3.0455`, 60d `-4.3655`
-- `XLRE` real_estate: 5d `-2.6571`, 20d `-2.8103`, 60d `0.742`
-- `XLP` consumer_staples: 5d `0.5464`, 20d `2.6437`, 60d `-2.9127`
+- `SMH` semiconductors: 5d `8.2747`, 20d `16.8633`, 60d `67.2318`
+- `XHB` homebuilders: 5d `2.9769`, 20d `12.2523`, 60d `11.4695`
+- `XLE` energy: 5d `-5.8648`, 20d `-10.0836`, 60d `-11.6206`
+- `XLK` technology: 5d `4.4921`, 20d `8.0727`, 60d `40.6096`
+- `XLI` industrials: 5d `3.2886`, 20d `5.9626`, 60d `10.311`
+- `IWM` small_caps: 5d `2.0257`, 20d `5.8681`, 60d `19.0984`
+- `XLC` communication_services: 5d `-2.3814`, 20d `-5.7278`, 60d `-1.5117`
+- `XLB` materials: 5d `1.1519`, 20d `4.2035`, 60d `6.935`
+- `QQQ` nasdaq_100: 5d `3.277`, 20d `3.8519`, 60d `26.8228`
+- `XLF` financials: 5d `1.8054`, 20d `3.6973`, 60d `8.7054`
+- `XLP` consumer_staples: 5d `-2.3103`, 20d `-2.5959`, 60d `2.7`
+- `XLV` healthcare: 5d `-3.0437`, 20d `1.5428`, 60d `3.1839`
 
 ## Top Delayed-Reaction Patterns
 
-- `small_caps_5d_up->XLC_252d` score `376.9832`, n `278`, avg `23.378`, up `86.6906`, status `ready`
-- `broad_risk_on_20d->XLC_252d` score `375.4159`, n `393`, avg `23.2911`, up `84.4784`, status `ready`
-- `broad_risk_on_20d->SMH_252d` score `344.731`, n `1047`, avg `21.4294`, up `73.2569`, status `ready`
-- `semis_5d_up->XLC_252d` score `342.1398`, n `366`, avg `21.2198`, up `82.7869`, status `ready`
-- `rates_sensitive_rebound->XLC_252d` score `338.7805`, n `434`, avg `21.0171`, up `81.3364`, status `ready`
-- `small_caps_5d_up->SMH_252d` score `335.1649`, n `905`, avg `20.8293`, up `73.7017`, status `ready`
-- `rates_sensitive_rebound->SMH_252d` score `332.6552`, n `1284`, avg `20.6788`, up `72.4299`, status `ready`
-- `broad_risk_on_20d->XHB_252d` score `293.9723`, n `832`, avg `18.2693`, up `70.7933`, status `ready`
-- `semis_5d_up->SMH_252d` score `291.9806`, n `1006`, avg `18.1633`, up `67.0974`, status `ready`
-- `defensive_rotation->SMH_252d` score `291.8656`, n `1954`, avg `18.1372`, up `70.8802`, status `ready`
+- `broad_risk_on_20d->SMH_252d` score `382.3794`, n `1058`, avg `23.7782`, up `74.1021`, status `ready`
+- `small_caps_5d_up->XLC_252d` score `374.5232`, n `282`, avg `23.2233`, up `86.8794`, status `ready`
+- `broad_risk_on_20d->XLC_252d` score `369.1986`, n `410`, avg `22.8993`, up `85.122`, status `ready`
+- `small_caps_5d_up->SMH_252d` score `342.5182`, n `909`, avg `21.2883`, up `73.8174`, status `ready`
+- `rates_sensitive_rebound->SMH_252d` score `339.8368`, n `1283`, avg `21.1262`, up `72.7202`, status `ready`
+- `semis_5d_up->XLC_252d` score `339.0584`, n `373`, avg `21.0256`, up `83.1099`, status `ready`
+- `rates_sensitive_rebound->XLC_252d` score `337.6644`, n `437`, avg `20.9467`, up `81.4645`, status `ready`
+- `semis_5d_up->SMH_252d` score `311.1013`, n `1007`, avg `19.3552`, up `67.7259`, status `ready`
+- `defensive_rotation->SMH_252d` score `295.9356`, n `1947`, avg `18.3903`, up `71.1351`, status `ready`
+- `broad_risk_on_20d->XHB_252d` score `290.378`, n `849`, avg `18.0435`, up `71.0247`, status `ready`
+- `rates_sensitive_rebound->QQQ_252d` score `282.4116`, n `1283`, avg `17.4775`, up `84.6454`, status `ready`
 - `defensive_rotation->XLC_252d` score `279.5453`, n `556`, avg `17.3232`, up `79.6763`, status `ready`
-- `small_caps_5d_up->XHB_252d` score `278.7824`, n `697`, avg `17.3145`, up `71.8795`, status `ready`
-- `semis_5d_up->XHB_252d` score `278.7559`, n `693`, avg `17.3151`, up `71.4286`, status `ready`
-- `rates_sensitive_rebound->QQQ_252d` score `278.2325`, n `1284`, avg `17.2178`, up `84.3458`, status `ready`
-- `small_caps_5d_up->QQQ_252d` score `266.9855`, n `905`, avg `16.5156`, up `84.1989`, status `ready`
-- `rates_sensitive_rebound->XLK_252d` score `265.9819`, n `1284`, avg `16.4572`, up `83.3333`, status `ready`
-- `broad_risk_on_20d->QQQ_252d` score `263.7214`, n `1047`, avg `16.3195`, up `82.617`, status `ready`
-- `small_caps_5d_up->XLE_252d` score `255.8835`, n `905`, avg `15.8825`, up `72.0442`, status `ready`
-- `small_caps_5d_up->XLK_252d` score `254.9179`, n `905`, avg `15.7669`, up `83.0939`, status `ready`
-- `small_caps_5d_up->XLY_252d` score `254.0038`, n `905`, avg `15.6954`, up `85.9669`, status `ready`
-- `broad_risk_on_20d->XLK_252d` score `246.6057`, n `1047`, avg `15.2598`, up `80.6113`, status `ready`
-- `broad_risk_on_20d->XLY_252d` score `242.4221`, n `1047`, avg `14.984`, up `83.4766`, status `ready`
-- `energy_5d_up->XLC_252d` score `238.7413`, n `382`, avg `14.814`, up `71.466`, status `ready`
-- `small_caps_5d_up->XLI_252d` score `237.2424`, n `905`, avg `14.6666`, up `82.2099`, status `ready`
-- `small_caps_5d_up->IYR_252d` score `234.0486`, n `905`, avg `14.4808`, up `79.4475`, status `ready`
+- `small_caps_5d_up->XHB_252d` score `277.5212`, n `701`, avg `17.2363`, up `71.7546`, status `ready`
+- `semis_5d_up->XHB_252d` score `277.1383`, n `700`, avg `17.214`, up `71.4286`, status `ready`
+- `broad_risk_on_20d->QQQ_252d` score `276.802`, n `1058`, avg `17.1333`, up `83.3648`, status `ready`
+- `rates_sensitive_rebound->XLK_252d` score `270.5146`, n `1283`, avg `16.739`, up `83.6321`, status `ready`
+- `small_caps_5d_up->QQQ_252d` score `268.2455`, n `909`, avg `16.594`, up `84.2684`, status `ready`
+- `broad_risk_on_20d->XLK_252d` score `264.4928`, n `1058`, avg `16.3739`, up `81.38`, status `ready`
+- `small_caps_5d_up->XLE_252d` score `257.943`, n `909`, avg `16.0106`, up `72.1672`, status `ready`
+- `small_caps_5d_up->XLK_252d` score `257.3127`, n `909`, avg `15.9162`, up `83.1683`, status `ready`
+- `small_caps_5d_up->XLY_252d` score `253.4727`, n `909`, avg `15.6619`, up `86.0286`, status `ready`
+- `energy_5d_up->SMH_252d` score `245.822`, n `1193`, avg `15.2987`, up `63.0344`, status `ready`
+- `broad_risk_on_20d->XLY_252d` score `242.1815`, n `1058`, avg `14.9681`, up `83.6484`, status `ready`
+- `small_caps_5d_up->XLI_252d` score `237.6631`, n `909`, avg `14.6925`, up `82.2882`, status `ready`
+- `energy_5d_up->XLC_252d` score `237.5648`, n `389`, avg `14.7379`, up `71.9794`, status `ready`
 
 ## Conditions
 
