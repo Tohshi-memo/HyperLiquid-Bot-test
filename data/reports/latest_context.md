@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-19T20:52:28.972081+00:00`
-- Market context score: `42.28`
-- News risk score: `43.83`
-- Macro risk score: `34.7`
-- Risk-on score: `21.86`
-- Articles: `37`
+- Generated: `2026-06-19T21:07:27.695605+00:00`
+- Market context score: `42.79`
+- News risk score: `43.08`
+- Macro risk score: `34.63`
+- Risk-on score: `22.33`
+- Articles: `38`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3754`
-- Day/swing latest: `2026-06-19T20:45:00+00:00`
+- Day/swing records: `3755`
+- Day/swing latest: `2026-06-19T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `5`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `5`
 - macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] $13B Bitcoin options expiry looms: Will bulls endure more pain in June? (Cointelegraph.com News)
 - [crypto] WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline (Cointelegraph.com News)
 - [commodity] Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed (Energy)
 - [macro] Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7 (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Schwab to join prediction markets race with S&P 500 event-based options: WSJ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin traders expect new lows but data cautions against overly bearish bias (Cointelegraph.com News)
 - [macro] Pétanque player, 68, dies after being 'hit in head with metal boule' (BBC News)
-- [crypto] Crypto Biz: Is AI the exit strategy for miners? (Cointelegraph.com News)
