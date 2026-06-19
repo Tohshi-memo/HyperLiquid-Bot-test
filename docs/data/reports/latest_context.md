@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-19T22:52:26.106919+00:00`
+- Generated: `2026-06-19T23:07:28.114036+00:00`
 - Market context score: `41.6`
 - News risk score: `40.8`
 - Macro risk score: `30.45`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3762`
-- Day/swing latest: `2026-06-19T22:45:00+00:00`
+- Day/swing records: `3763`
+- Day/swing latest: `2026-06-19T23:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane (Energy)
 - [macro] Zelensky stripped of highest Polish honour over WW2 name of army unit (BBC News)
 - [crypto] Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7 (BBC News)
 - [macro] Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported (BBC News)
 - [crypto] Republican lawmaker proposes prediction markets insider trading ban, not including White House officials (Cointelegraph.com News)
-- [macro] Struggling to find a job? Try looking in Nevada (Economy)
