@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-19T21:52:25.671315+00:00`
+- Generated: `2026-06-19T21:59:13.290389+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `105`
 - Outcome sides (rows): `210`
@@ -42,11 +42,11 @@
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
-- Australia [No] symbol `#3881` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Qatar [No] symbol `#2061` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
+- Ecuador [No] symbol `#1861` underlying `n/a` prob `0.996` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
