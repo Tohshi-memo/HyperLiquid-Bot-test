@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-19T21:37:26.116847+00:00`
+- Generated: `2026-06-19T21:52:25.671315+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `105`
 - Outcome sides (rows): `210`
@@ -28,7 +28,6 @@
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Panama [No] symbol `#2031` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
-- USA [Yes] symbol `#3860` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
 - New Zealand [No] symbol `#2011` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
 - Draw [No] symbol `#3871` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -47,6 +46,7 @@
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Qatar [No] symbol `#2061` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
+- Canada [No] symbol `#1791` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
