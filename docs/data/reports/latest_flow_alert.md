@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-19T22:55:29.533882+00:00`
+- Generated: `2026-06-19T23:00:30.194334+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22916099.36`
+- Polymarket 24h volume: `23141207.35`
 - Polymarket volume z-score: `-0.8`
 
 ## Top Polymarket Markets
 
--  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `3994197.725722011` | liquidity: `652214.0118`
-- Will the text of the US-Iran agreement be released by June 16?  | 24h volume: `3025836.145001` | liquidity: `1881085.30478`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2856048.167` | liquidity: `9717.56976`
-- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `1940510.751359` | liquidity: `630908.8866`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1581791.1546479964` | liquidity: `585842.3678`
-- Will Trump agree to withdraw troops from the Iranian region by June 30? | 24h volume: `1442792.87` | liquidity: `4263434.82831`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1015404.01` | liquidity: `16407268.31237`
-- Will Jon Stewart win the 2028 Democratic presidential nomination? | 24h volume: `673778.0098759999` | liquidity: `617083.76942`
+-  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `4002146.8267970113` | liquidity: `551074.6475`
+- Will the text of the US-Iran agreement be released by June 16?  | 24h volume: `3025419.644001` | liquidity: `1880697.32798`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2856048.167` | liquidity: `9241.15364`
+- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `1940498.6790260002` | liquidity: `629122.09485`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1582216.9268009963` | liquidity: `586184.2271`
+- Will Trump agree to withdraw troops from the Iranian region by June 30? | 24h volume: `1442792.87` | liquidity: `4262680.20131`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1015404.01` | liquidity: `16407269.17091`
+- Will Jon Stewart win the 2028 Democratic presidential nomination? | 24h volume: `673778.0098759999` | liquidity: `614074.62718`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
