@@ -833,6 +833,7 @@ def append_polymarket_outcome_history(
     profile: str,
 ) -> None:
     max_records = int(os.getenv("POLYMARKET_OUTCOME_HISTORY_MAX_RECORDS", "75000"))
+    max_bytes = int(os.getenv("POLYMARKET_OUTCOME_HISTORY_MAX_BYTES", "85000000"))
     history = load_json(POLYMARKET_OUTCOME_HISTORY_FILE, default=[])
     if not isinstance(history, list):
         history = []
@@ -853,7 +854,16 @@ def append_polymarket_outcome_history(
     if len(history) > max_records:
         archive_polymarket_outcome_rows(history[:-max_records])
         history = history[-max_records:]
-    POLYMARKET_OUTCOME_HISTORY_FILE.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    payload = json.dumps(history, ensure_ascii=False, separators=(",", ":"))
+    if max_bytes > 0:
+        while history and len(payload.encode("utf-8")) > max_bytes:
+            drop_count = max(1, min(len(history) - 1, max(len(history) // 10, 1)))
+            archive_polymarket_outcome_rows(history[:drop_count])
+            history = history[drop_count:]
+            payload = json.dumps(history, ensure_ascii=False, separators=(",", ":"))
+
+    POLYMARKET_OUTCOME_HISTORY_FILE.write_text(payload, encoding="utf-8")
     POLYMARKET_OUTCOME_LATEST_FILE.write_text(
         json.dumps(latest_polymarket_outcome_rows(history), indent=2, ensure_ascii=False),
         encoding="utf-8",

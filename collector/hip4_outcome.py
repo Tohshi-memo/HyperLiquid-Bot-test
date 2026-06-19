@@ -19,6 +19,8 @@ REPORT_FILE = REPORT_DIR / "latest_hip4_outcome.md"
 
 DEFAULT_INFO_URL = "https://api.hyperliquid.xyz/info"
 DEFAULT_TIMEOUT = 15
+DEFAULT_HISTORY_MAX_RECORDS = 720
+DEFAULT_HISTORY_MAX_BYTES = 80_000_000
 
 logger = logging.getLogger(__name__)
 
@@ -33,7 +35,8 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
     info_url = os.getenv("HIP4_INFO_URL", DEFAULT_INFO_URL).strip() or DEFAULT_INFO_URL
     timeout = int(os.getenv("HIP4_REQUEST_TIMEOUT", str(DEFAULT_TIMEOUT)))
     top_limit = int(os.getenv("HIP4_TOP_LIMIT", "25"))
-    history_max = int(os.getenv("HIP4_HISTORY_MAX_RECORDS", "2880"))
+    history_max = int(os.getenv("HIP4_HISTORY_MAX_RECORDS", str(DEFAULT_HISTORY_MAX_RECORDS)))
+    history_max_bytes = int(os.getenv("HIP4_HISTORY_MAX_BYTES", str(DEFAULT_HISTORY_MAX_BYTES)))
 
     meta_payload, meta_error = post_info(info_url, {"type": "outcomeMeta"}, timeout)
 
@@ -106,7 +109,7 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
     }
 
     LATEST_FILE.write_text(json.dumps(latest, indent=2, ensure_ascii=False), encoding="utf-8")
-    history_records = append_history(now, latest, history_max)
+    history_records = append_history(now, latest, history_max, history_max_bytes)
     REPORT_FILE.write_text(render_report(latest, top_limit), encoding="utf-8")
     logger.info(
         "Wrote %s (outcomes=%s, sides=%s)",
@@ -460,7 +463,7 @@ def aggregate_rows(rows: list[dict[str, Any]]) -> dict[str, Any]:
     }
 
 
-def append_history(now: datetime, latest: dict[str, Any], max_records: int) -> int:
+def append_history(now: datetime, latest: dict[str, Any], max_records: int, max_bytes: int) -> int:
     history = load_history()
     bucket_minutes = int(os.getenv("HIP4_BUCKET_MINUTES", "15"))
     bucket = floor_time(now, bucket_minutes).isoformat()
@@ -500,8 +503,15 @@ def append_history(now: datetime, latest: dict[str, Any], max_records: int) -> i
             "rows": snapshot_rows,
         }
     )
+    max_records = max(1, max_records)
     history = history[-max_records:]
-    HISTORY_FILE.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
+    payload = json.dumps(history, ensure_ascii=False, separators=(",", ":"))
+    if max_bytes > 0:
+        while history and len(payload.encode("utf-8")) > max_bytes:
+            drop_count = max(1, min(len(history) - 1, max(len(history) // 10, 1)))
+            history = history[drop_count:]
+            payload = json.dumps(history, ensure_ascii=False, separators=(",", ":"))
+    HISTORY_FILE.write_text(payload, encoding="utf-8")
     return len(history)
 
 
