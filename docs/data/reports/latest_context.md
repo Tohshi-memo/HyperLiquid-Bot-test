@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-19T20:07:27.144231+00:00`
-- Market context score: `40.3`
-- News risk score: `45.75`
-- Macro risk score: `38.56`
-- Risk-on score: `20.53`
+- Generated: `2026-06-19T20:22:26.014689+00:00`
+- Market context score: `40.22`
+- News risk score: `46.34`
+- Macro risk score: `36.67`
+- Risk-on score: `20.13`
 - Articles: `39`
 - Polymarket markets: `393`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3752`
-- Day/swing latest: `2026-06-19T20:00:00+00:00`
+- Day/swing records: `3753`
+- Day/swing latest: `2026-06-19T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `5`
-- macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `0`
+- crypto: articles `20`, risk hits `8`, risk headline rate `0.35`, policy hits `5`
+- macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline (Cointelegraph.com News)
 - [commodity] Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed (Energy)
 - [macro] Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7 (BBC News)
 - [macro] Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin traders expect new lows but data cautions against overly bearish bias (Cointelegraph.com News)
 - [macro] Pétanque player, 68, dies after being 'hit in head with metal boule' (BBC News)
 - [crypto] Crypto Biz: Is AI the exit strategy for miners? (Cointelegraph.com News)
-- [macro] US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution (BBC News)
