@@ -147,6 +147,7 @@ jobs:
             docs/data/reports/latest_canary_signals.md \
             docs/data/reports/latest_ai_analysis_brief.md \
             2>/dev/null || true
+          git restore --worktree data/archive/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No data changes to commit."
             exit 0
