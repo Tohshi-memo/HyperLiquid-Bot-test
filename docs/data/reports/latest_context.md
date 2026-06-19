@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-19T23:22:28.266245+00:00`
-- Market context score: `41.6`
-- News risk score: `40.8`
-- Macro risk score: `30.45`
-- Risk-on score: `16.18`
-- Articles: `29`
+- Generated: `2026-06-19T23:37:25.115617+00:00`
+- Market context score: `43.89`
+- News risk score: `38.67`
+- Macro risk score: `24.68`
+- Risk-on score: `17.29`
+- Articles: `28`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3764`
-- Day/swing latest: `2026-06-19T23:15:00+00:00`
+- Day/swing records: `3765`
+- Day/swing latest: `2026-06-19T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `5`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `4`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] US to stop funding HIV programmes in South Africa (BBC News)
 - [commodity] Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane (Energy)
 - [macro] Zelensky stripped of highest Polish honour over WW2 name of army unit (BBC News)
 - [crypto] Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed (Energy)
 - [macro] Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7 (BBC News)
 - [macro] Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported (BBC News)
-- [crypto] Republican lawmaker proposes prediction markets insider trading ban, not including White House officials (Cointelegraph.com News)
