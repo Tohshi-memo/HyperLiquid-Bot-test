@@ -95,19 +95,69 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name  "github-actions[bot]"
-          git add data/processed/ data/reports/ data/archive/ docs/ --force 2>/dev/null || true
+          git add --force \
+            data/processed/market_context.json \
+            data/processed/market_context_history.json \
+            data/processed/polymarket_outcome_history.json \
+            data/processed/polymarket_outcome_latest.json \
+            data/processed/asset_universe_latest.json \
+            data/processed/asset_price_history.json \
+            data/processed/asset_features_latest.json \
+            data/processed/asset_features_all.json \
+            data/processed/hip4_outcome_latest.json \
+            data/processed/hip4_outcome_history.json \
+            data/processed/day_swing_dataset.json \
+            data/processed/relationship_scan_latest.json \
+            data/processed/sector_reactions_latest.json \
+            data/processed/sector_price_history.json \
+            data/processed/ai_context_index.json \
+            data/processed/canary_signals.json \
+            data/processed/ai_analysis_pack.json \
+            data/reports/latest_context.md \
+            data/reports/latest_asset_universe.md \
+            data/reports/latest_asset_features.md \
+            data/reports/latest_hip4_outcome.md \
+            data/reports/latest_day_swing.md \
+            data/reports/latest_relationship_scan.md \
+            data/reports/latest_sector_reactions.md \
+            data/reports/latest_ai_context_index.md \
+            data/reports/latest_canary_signals.md \
+            data/reports/latest_ai_analysis_brief.md \
+            data/archive/ \
+            docs/data/processed/market_context.json \
+            docs/data/processed/polymarket_outcome_latest.json \
+            docs/data/processed/asset_features_latest.json \
+            docs/data/processed/asset_features_all.json \
+            docs/data/processed/hip4_outcome_latest.json \
+            docs/data/processed/relationship_scan_latest.json \
+            docs/data/processed/sector_reactions_latest.json \
+            docs/data/processed/sector_price_history.json \
+            docs/data/processed/ai_context_index.json \
+            docs/data/processed/canary_signals.json \
+            docs/data/processed/ai_analysis_pack.json \
+            docs/data/reports/latest_context.md \
+            docs/data/reports/latest_asset_universe.md \
+            docs/data/reports/latest_asset_features.md \
+            docs/data/reports/latest_hip4_outcome.md \
+            docs/data/reports/latest_day_swing.md \
+            docs/data/reports/latest_relationship_scan.md \
+            docs/data/reports/latest_sector_reactions.md \
+            docs/data/reports/latest_ai_context_index.md \
+            docs/data/reports/latest_canary_signals.md \
+            docs/data/reports/latest_ai_analysis_brief.md \
+            2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No data changes to commit."
             exit 0
           fi
 
           git commit -m "chore: update public context [skip ci]"
-          for attempt in 1 2 3; do
-            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
               exit 0
             fi
-            echo "Context push failed (attempt ${attempt}/3). Retrying..."
-            sleep 5
+            echo "Context push failed (attempt ${attempt}/5). Retrying..."
+            sleep $((attempt * 5))
           done
 
           echo "Failed to save context data after retries."

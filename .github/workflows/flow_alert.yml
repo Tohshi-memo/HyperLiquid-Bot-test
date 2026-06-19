@@ -56,19 +56,25 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name  "github-actions[bot]"
-          git add data/processed/ data/reports/ data/archive/ docs/ --force 2>/dev/null || true
+          git add --force \
+            data/processed/flow_alert.json \
+            data/processed/flow_alert_history.json \
+            data/reports/latest_flow_alert.md \
+            docs/data/processed/flow_alert.json \
+            docs/data/reports/latest_flow_alert.md \
+            2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No data changes to commit."
             exit 0
           fi
 
           git commit -m "chore: update public flow alert [skip ci]"
-          for attempt in 1 2 3; do
-            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
               exit 0
             fi
-            echo "Flow alert push failed (attempt ${attempt}/3). Retrying..."
-            sleep 5
+            echo "Flow alert push failed (attempt ${attempt}/5). Retrying..."
+            sleep $((attempt * 5))
           done
 
           echo "Failed to save flow alert data after retries."
