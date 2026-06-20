@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-20T09:35:07.311974+00:00`
+- Generated: `2026-06-20T09:37:26.399754+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `89`
 - Outcome sides (rows): `178`
