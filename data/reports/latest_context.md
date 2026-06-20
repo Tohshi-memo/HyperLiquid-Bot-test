@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T23:22:25.382194+00:00`
+- Generated: `2026-06-20T23:37:28.838253+00:00`
 - Market context score: `59.64`
 - News risk score: `33.44`
 - Macro risk score: `23.52`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3859`
-- Day/swing latest: `2026-06-20T23:15:00+00:00`
+- Day/swing records: `3860`
+- Day/swing latest: `2026-06-20T23:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Why Did Ambarella's CFO Sell Over 5,000 Company Shares? (Yahoo Finance)
 - [commodity] Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks (Energy)
 - [macro] Long Corporate Bond ETFs: IGLB Offers Broad Exposure While VCLT Is Slightly Cheaper (Yahoo Finance)
 - [macro] A Five9 Insider Sold Nearly 30,000 Company Shares. Here's a Closer Look at the Transaction. (Yahoo Finance)
 - [macro] Should You Buy Hyperliquid (HYPE) After Its Recent Surge? (Yahoo Finance)
 - [macro] Yum! Brands Sells Pizza Hut For $2.7 Billion. Here's Why Investors Should Be Concerned (Yahoo Finance)
 - [macro] Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move (Yahoo Finance)
-- [macro] Fried chicken chain closes another location (Yahoo Finance)
 - [macro] Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say (BBC News)
 - [macro] Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon (BBC News)
 - [macro] Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth (Yahoo Finance)
