@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T17:22:29.162191+00:00`
-- Market context score: `47.7`
-- News risk score: `41.98`
-- Macro risk score: `23.22`
-- Risk-on score: `28.0`
-- Articles: `41`
+- Generated: `2026-06-20T17:37:29.670163+00:00`
+- Market context score: `45.27`
+- News risk score: `44.51`
+- Macro risk score: `27.79`
+- Risk-on score: `26.47`
+- Articles: `42`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3835`
-- Day/swing latest: `2026-06-20T17:15:00+00:00`
+- Day/swing records: `3836`
+- Day/swing latest: `2026-06-20T17:30:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `2`
-- macro: articles `36`, risk hits `10`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `36`, risk hits `13`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
-- [macro] TJX Is a Reliable Off-Price Retailer, But for Investors, Is the Premium Too High? (Yahoo Finance)
-- [macro] Wells Fargo new S&P 500 target sends investors clear signal (Yahoo Finance)
-- [macro] When You Play Defense With Consumer Staples, Which ETF Should You Own? Funds From State Street and First Trust Offer a Stark Choice. (Yahoo Finance)
-- [macro] Target makes its smartest $1 billion investment yet (Yahoo Finance)
-- [macro] Novo Nordisk's Wegovy Pill Just Hit 3 Million Prescriptions. Is Wall Street Missing Something With This Beaten-Down Stock? (Yahoo Finance)
-- [macro] Zelensky returns highest Polish honour after award stripped (BBC News)
-- [macro] I spent $200K upgrading my elderly parents' home — here's what the IRS actually lets me deduct (Yahoo Finance)
-- [macro] Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon (BBC News)
-- [macro] Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move (Yahoo Finance)
-- [macro] Forget SpaceX: See This Overlooked AI Stock in Donald Trump’s Portfolio (Yahoo Finance)
+- [macro] Tourist dies in Dominican Republic luxury resort fire (BBC News)
+- [commodity] Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks (Energy)
+- [macro] Is Cosan (CSAN) One of the Penny Stocks With Explosive Growth Potential? (Yahoo Finance)
+- [macro] Alvotech (ALVO): 10 Penny Stocks With Explosive Growth Potential (Yahoo Finance)
+- [macro] Vizsla Silver (VZLA) Secures $10M Working Capital Facility from FIFOMI for Panuco Project (Yahoo Finance)
+- [macro] Mitsubishi Fuso Truck and Bus Corporation Selects Clarivate (CLVT) IPfolio for IP Management (Yahoo Finance)
+- [macro] What a $2 Million Dividend Portfolio Actually Pays After Taxes in California (Yahoo Finance)
+- [macro] The Median American Paycheck: $1,235 a Week Becomes $850 After Taxes and Deductions (Yahoo Finance)
+- [macro] Billionaire Warren Buffett Disciple Warns: Don’t Quit Your Job To Start A New Business, Do This Instead (Yahoo Finance)
+- [macro] 20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom (Yahoo Finance)
