@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-20T22:52:28.327948+00:00`
+- Generated: `2026-06-20T22:54:46.664390+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `153`
 - Outcome sides (rows): `306`
@@ -47,8 +47,8 @@
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
-- Draw [No] symbol `#4391` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ivory Coast [No] symbol `#4401` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
+- Sweden [No] symbol `#4361` underlying `n/a` prob `0.9978` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
