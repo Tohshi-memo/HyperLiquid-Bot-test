@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T11:07:33.930712+00:00`
+- Generated: `2026-06-20T11:22:26.325516+00:00`
 - Market context score: `41.79`
 - News risk score: `40.92`
 - Macro risk score: `27.42`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3810`
-- Day/swing latest: `2026-06-20T11:00:00+00:00`
+- Day/swing records: `3811`
+- Day/swing latest: `2026-06-20T11:15:00+00:00`
 
 ## News Categories
 
@@ -27,7 +27,7 @@
 
 ## Headlines
 
-- [macro] Moscow oil refinery attack brings Russia's war with Ukraine closer to home (BBC News)
+- [macro] Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home (BBC News)
 - [macro] Several reported killed in Israeli strikes on Lebanon despite ceasefire (BBC News)
 - [macro] Tourist dies in Dominican Republic luxury resort fire (BBC News)
 - [crypto] Philippine SEC signals readiness for RWA tokenization (Cointelegraph.com News)
