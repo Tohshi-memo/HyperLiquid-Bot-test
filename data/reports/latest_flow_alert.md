@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-20T13:35:25.216752+00:00`
+- Generated: `2026-06-20T13:40:25.390172+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14648811.04`
+- Polymarket 24h volume: `14710035.92`
 - Polymarket volume z-score: `-1.02`
 
 ## Top Polymarket Markets
 
--  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `3438782.415291025` | liquidity: `335495.0959`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1844039.2` | liquidity: `13508.92003`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1184356.72` | liquidity: `16466730.24727`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1015746.2713509992` | liquidity: `625305.7702`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `846712.572111` | liquidity: `9412.95513`
-- Will Trump agree to withdraw troops from the Iranian region by June 30? | 24h volume: `831914.73` | liquidity: `4791359.16251`
-- US x Iran diplomatic meeting by June 21, 2026? | 24h volume: `633031.589922` | liquidity: `49618.27174`
-- Kharg Island no longer under Iranian control by June 30? | 24h volume: `493876.66115700005` | liquidity: `456097.43281`
+-  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `3437154.0268770247` | liquidity: `336160.1843`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1879739.2` | liquidity: `13714.52019`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1184356.72` | liquidity: `16471725.19227`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1059338.3056929994` | liquidity: `872319.2242`
+- Will Trump agree to withdraw troops from the Iranian region by June 30? | 24h volume: `820914.73` | liquidity: `4791359.16251`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `795712.572111` | liquidity: `9415.72933`
+- US x Iran diplomatic meeting by June 21, 2026? | 24h volume: `647250.189856` | liquidity: `54340.04938`
+- Kharg Island no longer under Iranian control by June 30? | 24h volume: `495391.29115700006` | liquidity: `456622.23828`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
