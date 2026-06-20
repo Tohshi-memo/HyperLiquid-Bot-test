@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T04:07:26.586853+00:00`
-- Market context score: `45.47`
-- News risk score: `35.5`
-- Macro risk score: `26.72`
-- Risk-on score: `18.89`
-- Articles: `18`
+- Generated: `2026-06-20T04:22:26.613609+00:00`
+- Market context score: `47.66`
+- News risk score: `33.3`
+- Macro risk score: `22.37`
+- Risk-on score: `20.26`
+- Articles: `22`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3782`
-- Day/swing latest: `2026-06-20T04:00:00+00:00`
+- Day/swing records: `3783`
+- Day/swing latest: `2026-06-20T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: World Cup fans react to US defeating Australia to reach knockout round (BBC News)
+- [macro] Australia confirms first case of H5N1 bird flu as virus reaches every continent (BBC News)
+- [macro] African and Caribbean nations call for formal apology for transatlantic slavery (BBC News)
 - [crypto] S token drops 5% as 3 former execs resign from Sonic Labs board (Cointelegraph.com News)
+- [macro] James Burrows, legendary director of Cheers and Friends, dies aged 85 (BBC News)
 - [macro] US to stop funding HIV programmes in South Africa (BBC News)
 - [commodity] Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane (Energy)
 - [macro] Cathie Wood dumps nearly $60 million in popular growth stocks (Yahoo Finance)
 - [macro] Zelensky stripped of highest Polish honour over WW2 name of army unit (BBC News)
 - [crypto] Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] $13B Bitcoin options expiry looms: Will bulls endure more pain in June? (Cointelegraph.com News)
-- [crypto] WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline (Cointelegraph.com News)
-- [commodity] Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed (Energy)
