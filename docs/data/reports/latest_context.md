@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T20:22:30.661825+00:00`
+- Generated: `2026-06-20T20:37:26.778425+00:00`
 - Market context score: `58.81`
 - News risk score: `34.25`
 - Macro risk score: `25.14`
 - Risk-on score: `46.88`
 - Articles: `42`
-- Polymarket markets: `393`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3847`
-- Day/swing latest: `2026-06-20T20:15:00+00:00`
+- Day/swing records: `3848`
+- Day/swing latest: `2026-06-20T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] FedEx Reports Earnings Tuesday. Is the Delivery Giant a Buy? (Yahoo Finance)
+- [macro] 1 Interesting Reason Why SpaceX Bought Cursor, and How It'll Impact Investors (Yahoo Finance)
 - [commodity] Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks (Energy)
 - [macro] Here's How Many Shares of Home Depot You'd Need to Generate $10,000 in Yearly Dividends (Yahoo Finance)
 - [macro] Why Cheap International Stocks Are Sending Bigger Checks in June (Yahoo Finance)
 - [macro] The Vanguard S&P 500 ETF (VOO) Is the Most Popular ETF in the World. Here's One I Like Even Better. (Yahoo Finance)
-- [macro] Goldman Sachs revisits its gold price target after Fed meeting (Yahoo Finance)
-- [macro] Should You Buy Abbott Labs Stock Hand Over Fist Before July 16? (Yahoo Finance)
 - [crypto] Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'? (Cointelegraph.com News)
 - [macro] Is MongoDB (MDB) One Of The Tech Stocks To Sell According To Billionaires? (Yahoo Finance)
 - [macro] Insight Enterprises (NSIT) Launches Managed Exposure Defense to Combat AI-Driven Cyber Threats (Yahoo Finance)
