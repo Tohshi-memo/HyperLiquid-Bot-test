@@ -2,24 +2,24 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-20T05:07:30.505640+00:00`
-- Observed: `2026-06-20T05:00:00+00:00`
+- Generated: `2026-06-20T05:22:28.476019+00:00`
+- Observed: `2026-06-20T05:15:00+00:00`
 - Assets: `1060`
 
 ## Top Activity
 
-- `@465` unknown price `180.055` 4h `0.4463` vol `0.0` relationship `market_context_high->@465_24h`
+- `@465` unknown price `180.04` 4h `0.4575` vol `0.0` relationship `market_context_high->@465_24h`
 - `#1970` unknown price `0.002585` 4h `0.0` vol `0.0` relationship `risk_on_high->#1970_24h`
 - `#2150` unknown price `0.00146` 4h `0.0` vol `0.0` relationship `risk_on_high->#2150_24h`
 - `@171` unknown price `1.70001` 4h `0.0` vol `0.0` relationship `risk_on_high->@171_24h`
 - `#2040` unknown price `0.001375` 4h `0.0` vol `0.0` relationship `risk_on_high->#2040_4h`
-- `#1990` unknown price `0.02678` 4h `-3.8938` vol `0.0` relationship `risk_on_high->#1990_4h`
+- `#1990` unknown price `0.02678` 4h `-0.5939` vol `0.0` relationship `risk_on_high->#1990_4h`
 - `#2060` unknown price `0.00286` 4h `0.0` vol `0.0` relationship `risk_on_high->#2060_24h`
-- `@198` unknown price `0.081335` 4h `1.3836` vol `0.0` relationship `risk_on_high->@198_24h`
+- `@198` unknown price `0.083331` 4h `3.8457` vol `0.0` relationship `risk_on_high->@198_24h`
 - `#1950` unknown price `0.005375` 4h `0.0` vol `0.0` relationship `risk_on_high->#1950_24h`
 - `@590` unknown price `181.145` 4h `0.0` vol `0.0` relationship `market_context_high->@590_4h`
 - `#1830` unknown price `0.007405` 4h `0.0` vol `0.0` relationship `risk_on_high->#1830_24h`
-- `#2170` unknown price `0.041525` 4h `9.9563` vol `0.0` relationship `risk_on_high->#2170_24h`
+- `#2170` unknown price `0.041135` 4h `8.9236` vol `0.0` relationship `risk_on_high->#2170_24h`
 - `@309` unknown price `1.0` 4h `0.0` vol `0.0` relationship `risk_on_high->@309_24h`
 - `@47` unknown price `0.014516` 4h `-14.0455` vol `0.0` relationship `market_context_high->@47_24h`
 - `#2130` unknown price `0.00625` 4h `0.0` vol `0.0` relationship `risk_on_high->#2130_4h`
