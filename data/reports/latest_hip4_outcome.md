@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-20T10:07:30.678687+00:00`
+- Generated: `2026-06-20T10:22:26.298311+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `89`
 - Outcome sides (rows): `178`
@@ -38,7 +38,7 @@
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iraq [No] symbol `#1941` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
-- Tunisia [No] symbol `#2151` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
+- Tunisia [No] symbol `#2151` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
