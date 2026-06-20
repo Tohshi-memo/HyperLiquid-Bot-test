@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T14:22:28.881229+00:00`
+- Generated: `2026-06-20T14:37:32.454317+00:00`
 - Market context score: `54.78`
 - News risk score: `33.96`
 - Macro risk score: `21.03`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3823`
-- Day/swing latest: `2026-06-20T14:15:00+00:00`
+- Day/swing records: `3824`
+- Day/swing latest: `2026-06-20T14:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Trump hits out at Italy's Meloni after pushback on G7 photo claim (BBC News)
 - [macro] Why Jim Cramer says Ford's real story isn't trucks or EVs (Yahoo Finance)
 - [macro] Wall Street Technician Declares Financials, Industrials, and Biotech Poised for Breakouts. 3 ETFs Could Soar. (Yahoo Finance)
 - [macro] The Department of Education just quadrupled a key discount for student loan borrowers — but the clock is ticking (Yahoo Finance)
@@ -36,4 +37,3 @@
 - [macro] Jim Cramer Says Banks Like JPMorgan “Are Still Inexpensive” (Yahoo Finance)
 - [macro] Jim Cramer Calls for Bank Mergers and Praises Banco Santander (Yahoo Finance)
 - [macro] Jim Cramer Highlights Goldman Sachs as Investment Banking Activity Explodes (Yahoo Finance)
-- [macro] Jim Cramer Says Stryker and Its Orthopedic Peers Are Facing a Real Tough Run (Yahoo Finance)
