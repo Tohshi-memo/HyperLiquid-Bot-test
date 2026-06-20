@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-20T23:00:25.502726+00:00`
+- Generated: `2026-06-20T23:05:31.470595+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18173874.05`
-- Polymarket volume z-score: `-0.87`
+- Polymarket 24h volume: `18053145.13`
+- Polymarket volume z-score: `-0.88`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4052539.4` | liquidity: `13950.50622`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1797019.493400001` | liquidity: `899013.227`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4052539.4` | liquidity: `13914.89464`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1801632.757938001` | liquidity: `915504.8641`
 - Will Iran close its airspace by June 30? | 24h volume: `1221716.16` | liquidity: `1805030.71813`
-- Will Trump agree to withdraw troops from the Iranian region by June 30? | 24h volume: `1177724.47` | liquidity: `3104391.36699`
-- US x Iran diplomatic meeting by June 21, 2026? | 24h volume: `1101473.1414779997` | liquidity: `55714.10626`
--  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `1018286.9004190014` | liquidity: `551535.36126`
-- US x Iran diplomatic meeting by June 30, 2026? | 24h volume: `773989.1231970002` | liquidity: `102467.42335`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `686816.63` | liquidity: `16474667.3101`
+- Will Trump agree to withdraw troops from the Iranian region by June 30? | 24h volume: `1179724.47` | liquidity: `3103114.86699`
+- US x Iran diplomatic meeting by June 21, 2026? | 24h volume: `1103713.5222519995` | liquidity: `46956.333`
+-  Iran agrees to end enrichment of uranium by June 30? | 24h volume: `1001514.3220940012` | liquidity: `542034.58879`
+- US x Iran diplomatic meeting by June 30, 2026? | 24h volume: `738129.0214490001` | liquidity: `94106.10408`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `686816.63` | liquidity: `16474679.20997`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
