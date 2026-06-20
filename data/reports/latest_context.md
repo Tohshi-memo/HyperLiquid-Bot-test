@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T11:22:26.325516+00:00`
-- Market context score: `41.79`
-- News risk score: `40.92`
-- Macro risk score: `27.42`
-- Risk-on score: `15.56`
+- Generated: `2026-06-20T11:33:10.188302+00:00`
+- Market context score: `54.19`
+- News risk score: `37.58`
+- Macro risk score: `20.75`
+- Risk-on score: `37.78`
 - Articles: `12`
 - Polymarket markets: `392`
 
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3811`
-- Day/swing latest: `2026-06-20T11:15:00+00:00`
+- Day/swing records: `3812`
+- Day/swing latest: `2026-06-20T11:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `9`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `9`, risk hits `3`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
 - [macro] Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home (BBC News)
-- [macro] Several reported killed in Israeli strikes on Lebanon despite ceasefire (BBC News)
+- [macro] Israel and Hezbollah continue strikes despite ceasefire agreement (BBC News)
 - [macro] Tourist dies in Dominican Republic luxury resort fire (BBC News)
 - [crypto] Philippine SEC signals readiness for RWA tokenization (Cointelegraph.com News)
 - [crypto] Crypto kidnappers who robbed a Minnesota family of $8M plead guilty (Cointelegraph.com News)
