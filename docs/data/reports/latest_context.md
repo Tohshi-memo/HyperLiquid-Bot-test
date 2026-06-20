@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T15:19:19.984392+00:00`
-- Market context score: `53.95`
-- News risk score: `37.79`
-- Macro risk score: `21.2`
-- Risk-on score: `37.58`
+- Generated: `2026-06-20T15:22:26.284019+00:00`
+- Market context score: `55.49`
+- News risk score: `37.41`
+- Macro risk score: `20.55`
+- Risk-on score: `40.43`
 - Articles: `39`
 - Polymarket markets: `393`
 
@@ -23,10 +23,11 @@
 ## News Categories
 
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `33`, risk hits `7`, risk headline rate `0.1212`, policy hits `1`
+- macro: articles `33`, risk hits `7`, risk headline rate `0.1212`, policy hits `0`
 
 ## Headlines
 
+- [macro] Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move (Yahoo Finance)
 - [crypto] AI is making crypto security cheaper, faster and harder to ignore (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hyperliquid loses Anthropic, OpenAI markets (Yahoo Finance)
 - [crypto] Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0 (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] This Space Stock Will Beat SpaceX to the Nasdaq-100 — And It’s the One to Buy (Yahoo Finance)
 - [macro] Trump hits out at Italy's Meloni after pushback on G7 photo claim (BBC News)
 - [macro] The Department of Education just quadrupled a key discount for student loan borrowers — but the clock is ticking (Yahoo Finance)
-- [macro] Robinhood backs push to scrap a market rule most traders don't know exists (Yahoo Finance)
