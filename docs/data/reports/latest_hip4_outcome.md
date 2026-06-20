@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-20T15:52:28.447043+00:00`
+- Generated: `2026-06-20T16:07:26.413077+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `153`
 - Outcome sides (rows): `306`
@@ -76,7 +76,7 @@
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9643` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0012` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9988` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0069` price_source `allMids` vol24h `0.0` oi `0.0`
+- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0074` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -104,7 +104,7 @@
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9643` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0012` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9988` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0069` price_source `allMids` vol24h `0.0` oi `0.0`
+- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0074` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 

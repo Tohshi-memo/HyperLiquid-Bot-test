@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T15:52:28.447043+00:00`
-- Market context score: `54.07`
+- Generated: `2026-06-20T16:07:26.413077+00:00`
+- Market context score: `56.32`
 - News risk score: `37.65`
 - Macro risk score: `20.93`
-- Risk-on score: `37.65`
+- Risk-on score: `42.65`
 - Articles: `40`
 - Polymarket markets: `393`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3829`
-- Day/swing latest: `2026-06-20T15:45:00+00:00`
+- Day/swing records: `3830`
+- Day/swing latest: `2026-06-20T16:00:00+00:00`
 
 ## News Categories
 
@@ -27,13 +27,13 @@
 
 ## Headlines
 
-- [macro] Meloni tells Trump to 'focus on your own popularity' as row escalates (BBC News)
-- [macro] Bolivian president declares state of emergency (BBC News)
-- [macro] Super Micro Jumped More Than 10%. Is the AI Server Maker Finally Turning a Corner? (Yahoo Finance)
-- [macro] New research finds a 'collateral gap' in Bitcoin lending (Yahoo Finance)
-- [macro] Intellia Therapeutics vs. Omeros: Which Emerging Biotech Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] Is AI a Threat to S&P Global? The Answer May Surprise Investors. (Yahoo Finance)
-- [macro] Google Losing Top AI Executive Is ‘The Most Significant AI Talent Move of the Year.’ Is It Time to Sell Alphabet Stock? (Yahoo Finance)
 - [macro] Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move (Yahoo Finance)
+- [macro] Mission Produce Director Acquires $2.1 Million of Shares in Open Market. Does This Make AVO a Buy? (Yahoo Finance)
+- [macro] Baby Boomers Have $525,000 Saved for Retirement. They Need $1.6 Million. (Yahoo Finance)
+- [macro] My Favorite Rare Earth Stock To Buy For The Next 10 Years (Yahoo Finance)
+- [macro] I'm Calling It: GE Vernova (GEV) Is a Buy Before This Catalyst Drops (Yahoo Finance)
+- [macro] Forget SpaceX: See This Overlooked AI Stock in Donald Trump’s Portfolio (Yahoo Finance)
+- [macro] Meloni tells Trump to 'focus on your own popularity' as row escalates (BBC News)
+- [macro] Prediction: Will Dell Hit $500 This Year? (Yahoo Finance)
+- [macro] Bolivian president declares state of emergency (BBC News)
 - [crypto] AI is making crypto security cheaper, faster and harder to ignore (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0 (Cointelegraph.com News)
