@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-20T11:37:25.885621+00:00`
-- Market context score: `53.69`
-- News risk score: `38.11`
-- Macro risk score: `21.77`
-- Risk-on score: `37.5`
+- Generated: `2026-06-20T11:53:01.331342+00:00`
+- Market context score: `55.69`
+- News risk score: `34.9`
+- Macro risk score: `22.84`
+- Risk-on score: `39.64`
 - Articles: `11`
 - Polymarket markets: `392`
 
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:687`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3812`
-- Day/swing latest: `2026-06-20T11:30:00+00:00`
+- Day/swing records: `3813`
+- Day/swing latest: `2026-06-20T11:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `8`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `7`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Pudgy Penguins expands retail footprint with Target trading card rollout (Cointelegraph.com News)
 - [macro] Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home (BBC News)
 - [macro] Israel and Hezbollah continue strikes despite ceasefire agreement (BBC News)
 - [macro] Tourist dies in Dominican Republic luxury resort fire (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Australia confirms first case of H5N1 bird flu as virus reaches every continent (BBC News)
 - [macro] African and Caribbean nations call for formal apology for transatlantic slavery (BBC News)
 - [crypto] S token drops 5% as 3 former execs resign from Sonic Labs board (Cointelegraph.com News)
-- [macro] James Burrows, legendary director of Cheers and Friends, dies aged 85 (BBC News)
