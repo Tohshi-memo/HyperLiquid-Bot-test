@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-20T18:07:29.740153+00:00`
+- Generated: `2026-06-20T18:22:36.329206+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `153`
 - Outcome sides (rows): `306`
@@ -27,6 +27,7 @@
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Turkey [No] symbol `#2161` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
+- Netherlands [Yes] symbol `#4340` underlying `ETH` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
 - New Zealand [No] symbol `#2011` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -48,7 +49,6 @@
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Korea [No] symbol `#2111` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [No] symbol `#1751` underlying `n/a` prob `0.9965` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
