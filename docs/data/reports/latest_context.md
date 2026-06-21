@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T13:22:29.049066+00:00`
-- Market context score: `52.0`
-- News risk score: `40.5`
-- Macro risk score: `43.07`
-- Risk-on score: `43.81`
-- Articles: `14`
+- Generated: `2026-06-21T13:37:29.289625+00:00`
+- Market context score: `53.78`
+- News risk score: `38.68`
+- Macro risk score: `39.5`
+- Risk-on score: `44.88`
+- Articles: `15`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3914`
-- Day/swing latest: `2026-06-21T13:15:00+00:00`
+- Day/swing records: `3915`
+- Day/swing latest: `2026-06-21T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `3`
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [macro] Low-key funeral held for giant of the art world David Hockney (BBC News)
 - [crypto] Dash eyes Philippines as market for crypto payments (Cointelegraph.com News)
 - [commodity] U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz (Energy)
 - [macro] Indian cricketer, 15, hits record-breaking 50 in just 11 balls (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Dutch royals enjoy two big results in one World Cup day (BBC News)
 - [crypto] Japanese corporate pension fund plans 1% crypto allocation: Nikkei (Cointelegraph.com News)
 - [macro] Former Olympian denies vandalising Washington Reflecting Pool after arrest (BBC News)
-- [crypto] Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
