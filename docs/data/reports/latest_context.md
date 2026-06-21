@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T18:00:17.956076+00:00`
-- Market context score: `45.07`
-- News risk score: `44.1`
-- Macro risk score: `37.41`
-- Risk-on score: `29.31`
-- Articles: `37`
+- Generated: `2026-06-21T18:07:26.465558+00:00`
+- Market context score: `48.97`
+- News risk score: `41.34`
+- Macro risk score: `30.01`
+- Risk-on score: `32.83`
+- Articles: `45`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `3`
-- macro: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `8`
+- macro: articles `37`, risk hits `10`, risk headline rate `0.2432`, policy hits `1`
 
 ## Headlines
 
-- [macro] Jim Cramer Highlights Goldman Sachs (GS) as Investment Banking Activity Explodes (Yahoo Finance)
-- [macro] Jim Cramer Calls for Bank Mergers and Praises Banco Santander (Yahoo Finance)
-- [macro] Morgan Stanley gives Google stock investors reason to rethink AI spending (Yahoo Finance)
-- [macro] Is Alphabet the Best "Magnificent Seven" AI Stock? (Yahoo Finance)
-- [macro] Jim Cramer Says Banks Like JPMorgan “Are Still Inexpensive” (Yahoo Finance)
-- [macro] Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins? (Yahoo Finance)
-- [macro] Trump bought these health care stocks in 2026; should you? (Yahoo Finance)
-- [macro] The Retirement Strategy That Says Spend More and Worry Less (Yahoo Finance)
-- [macro] Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares? (Yahoo Finance)
-- [macro] She saved $200K, quit her $250K tech job, and now pays herself $33K to run a matcha cafe in Manhattan (Yahoo Finance)
+- [macro] Jim Cramer on CrowdStrike (CRWD): “I Think the Second Half of the Year is Going to Be Really Good” (Yahoo Finance)
+- [macro] Jim Cramer Says Ingredion (INGR) Will Become an Ingredient Powerhouse After Tate & Lyle Deal (Yahoo Finance)
+- [macro] Jim Cramer Explains the Reason Capital One (COF) Became a “Virtual Trampoline” (Yahoo Finance)
+- [macro] Jim Cramer Says He Likes Archer-Daniels-Midland (ADM) and Tyson Foods Now (Yahoo Finance)
+- [macro] Jim Cramer Highlights How CEO Lip-Bu Tan Solved Intel (INTC) Foundry Issues (Yahoo Finance)
+- [macro] Jim Cramer on SLB: “It Is By Far the Best There Is” (Yahoo Finance)
+- [macro] Jim Cramer Calls Marriott (MAR) “The Best” Among Hotel Companies (Yahoo Finance)
+- [macro] Jim Cramer Notes That He Loves “What Ford (F) Is Doing With the Battery Business” (Yahoo Finance)
+- [macro] Jim Cramer on Fair Isaac (FICO): “I Like the Company, But I’m Not Going to Go There” (Yahoo Finance)
+- [macro] Jim Cramer Highlights Oracle (ORCL)’s Heavy Debt Load (Yahoo Finance)
