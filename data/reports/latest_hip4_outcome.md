@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-21T20:52:26.669050+00:00`
+- Generated: `2026-06-21T21:07:34.260556+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `133`
 - Outcome sides (rows): `266`
@@ -25,9 +25,12 @@
 ## Current Implied Probabilities
 
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
+- Draw [Yes] symbol `#4550` underlying `n/a` prob `0.9998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
+- Iran [No] symbol `#4561` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
+- Belgium [No] symbol `#4541` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
 - New Zealand [No] symbol `#2011` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -46,9 +49,6 @@
 - Iraq [No] symbol `#1941` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ecuador [No] symbol `#1861` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
-- Ghana [No] symbol `#1911` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
-- South Korea [No] symbol `#2111` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
-- Austria [No] symbol `#1751` underlying `n/a` prob `0.9965` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
