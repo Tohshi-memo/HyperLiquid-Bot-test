@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T21:39:49.751803+00:00`
-- Market context score: `50.76`
-- News risk score: `38.94`
-- Macro risk score: `33.3`
-- Risk-on score: `36.03`
-- Articles: `44`
+- Generated: `2026-06-21T21:52:31.711664+00:00`
+- Market context score: `58.17`
+- News risk score: `28.52`
+- Macro risk score: `32.78`
+- Risk-on score: `43.51`
+- Articles: `38`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3947`
-- Day/swing latest: `2026-06-21T21:30:00+00:00`
+- Day/swing records: `3948`
+- Day/swing latest: `2026-06-21T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `38`, risk hits `12`, risk headline rate `0.2895`, policy hits `7`
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `36`, risk hits `12`, risk headline rate `0.3056`, policy hits `5`
 
 ## Headlines
 
+- [macro] Is Now a Good Time to Buy Tilray Brands Stock? (Yahoo Finance)
 - [macro] A Lindblad Expeditions Director Sold Nearly 53,000 Shares Worth $1.2 Million. Here's a Deeper Look at the Transaction. (Yahoo Finance)
+- [macro] The CLARITY Act's Biggest Obstacle Isn't Crypto Regulation — It's Trump's Crypto Ties (Yahoo Finance)
 - [macro] With the Fed Holding Interest Rates Steady, Here's the Smartest Dividend Stock to Buy With $1,000 Right Now (Yahoo Finance)
 - [macro] 1 Relatively Unknown Energy Stock You Won't Want to Miss (Yahoo Finance)
 - [macro] The Entire Micron Investment Thesis Comes Down to This One Number (Yahoo Finance)
-- [macro] The 2 Factors That Will Decide Whether XLV Finally Catches the S&P 500 in 2026 (Yahoo Finance)
-- [macro] Top Value Investor Says Adobe Stock Is ‘Very Compelling’ Despite AI Threat (Yahoo Finance)
 - [macro] Trump and Iran's negotiator trade warnings as talks held in Switzerland (BBC News)
 - [crypto] Are perps swaps? A quick look at that CME suit: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] She tried to cancel her gym membership but no one was there — now a billing company won't stop charging her (Yahoo Finance)
