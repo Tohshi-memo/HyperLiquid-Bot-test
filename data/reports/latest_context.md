@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T01:52:25.285889+00:00`
+- Generated: `2026-06-21T02:07:25.882653+00:00`
 - Market context score: `36.67`
 - News risk score: `48.0`
 - Macro risk score: `27.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3869`
-- Day/swing latest: `2026-06-21T01:45:00+00:00`
+- Day/swing records: `3870`
+- Day/swing latest: `2026-06-21T02:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] US-Iran talks to begin in Switzerland as Tehran says it has closed Hormuz Strait (BBC News)
+- [macro] US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz (BBC News)
 - [crypto] Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M (Cointelegraph.com News)
 - [commodity] Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks (Energy)
 - [macro] Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say (BBC News)
