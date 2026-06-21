@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T11:37:25.553307+00:00`
+- Generated: `2026-06-21T11:52:25.666130+00:00`
 - Market context score: `47.6`
 - News risk score: `39.36`
 - Macro risk score: `28.17`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3907`
-- Day/swing latest: `2026-06-21T11:30:00+00:00`
+- Day/swing records: `3908`
+- Day/swing latest: `2026-06-21T11:45:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [commodity] Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions (Energy)
+- [commodity] U.S. and Iran negotiators begin talks in Switzerland amid rising Strait of Hormuz tensions (Energy)
 - [crypto] Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'? (Cointelegraph.com News)
 - [crypto] Japanese corporate pension fund plans 1% crypto allocation: Nikkei (Cointelegraph.com News)
 - [macro] Former Olympian denies vandalising Washington Reflecting Pool after arrest (BBC News)
