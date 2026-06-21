@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-21T17:22:26.692948+00:00`
+- Generated: `2026-06-21T17:37:30.889714+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `137`
 - Outcome sides (rows): `274`
@@ -43,12 +43,12 @@
 - Iraq [No] symbol `#1941` underlying `n/a` prob `0.9987` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
-- Spain [Yes] symbol `#4500` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
-- Draw [No] symbol `#4511` underlying `n/a` prob `0.9978` price_source `allMids` vol24h `0.0` oi `0.0`
+- Spain [Yes] symbol `#4500` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
 - Qatar [No] symbol `#2061` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ecuador [No] symbol `#1861` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
+- Ghana [No] symbol `#1911` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
