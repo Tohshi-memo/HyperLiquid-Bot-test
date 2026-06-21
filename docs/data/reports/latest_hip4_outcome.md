@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-21T11:52:25.666130+00:00`
+- Generated: `2026-06-21T12:00:28.808942+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `137`
 - Outcome sides (rows): `274`
@@ -47,7 +47,7 @@
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ecuador [No] symbol `#1861` underlying `n/a` prob `0.9971` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
-- South Korea [No] symbol `#2111` underlying `n/a` prob `0.9967` price_source `allMids` vol24h `0.0` oi `0.0`
+- South Korea [No] symbol `#2111` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9965` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
