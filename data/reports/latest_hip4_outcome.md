@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-21T03:22:28.194527+00:00`
+- Generated: `2026-06-21T03:37:28.096080+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `153`
 - Outcome sides (rows): `306`
@@ -24,7 +24,7 @@
 
 ## Current Implied Probabilities
 
-- Germany [Yes] symbol `#4380` underlying `n/a` prob `0.9997` price_source `allMids` vol24h `0.0` oi `0.0`
+- Germany [Yes] symbol `#4380` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
 - Netherlands [Yes] symbol `#4340` underlying `ETH` prob `0.9995` price_source `allMids` vol24h `0.0` oi `0.0`
