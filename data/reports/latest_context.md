@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T23:37:27.135369+00:00`
-- Market context score: `45.79`
+- Generated: `2026-06-21T23:52:30.675358+00:00`
+- Market context score: `47.72`
 - News risk score: `37.96`
 - Macro risk score: `29.29`
-- Risk-on score: `22.66`
+- Risk-on score: `26.94`
 - Articles: `40`
 - Polymarket markets: `392`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3955`
-- Day/swing latest: `2026-06-21T23:30:00+00:00`
+- Day/swing records: `3956`
+- Day/swing latest: `2026-06-21T23:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Is Germany looking again at coal-powered electricity? (BBC News)
+- [macro] You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead (Yahoo Finance)
 - [macro] Fake romance to missed deliveries: How to protect yourself from three common scams (BBC News)
 - [macro] Stock market today: S&P 500, Nasdaq, Dow futures slide with US-Iran peace and inflation in focus (Yahoo Finance)
 - [macro] Dave Ramsey Tells Couple Supporting 84-Year-Old Father-in-Law With $33,000 of Debt: ‘It Won’t End Until You End It’ (Yahoo Finance)
@@ -36,5 +37,4 @@
 - [macro] CoreWeave is Joining the Nasdaq-100. Is the Stock a Buy? (Yahoo Finance)
 - [macro] A Blood Test That Screens for 50+ Cancers Just Moved Closer to Real-World Use. Here's What It Means for Grail Investors. (Yahoo Finance)
 - [macro] Morningstar Says SpaceX Could Be Worth Less Than Half Its $1.75 Trillion IPO Price (Yahoo Finance)
-- [macro] Could Bitcoin Become the World's Reserve Digital Currency? (Yahoo Finance)
 - [macro] Hormuz Crisis Sparks a Middle East Pipeline Boom (Yahoo Finance)
