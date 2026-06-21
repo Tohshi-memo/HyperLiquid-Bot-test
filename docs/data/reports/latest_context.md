@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T14:52:25.851401+00:00`
-- Market context score: `47.63`
-- News risk score: `43.31`
-- Macro risk score: `39.19`
-- Risk-on score: `35.0`
-- Articles: `16`
+- Generated: `2026-06-21T15:07:26.415621+00:00`
+- Market context score: `48.59`
+- News risk score: `41.9`
+- Macro risk score: `38.91`
+- Risk-on score: `35.83`
+- Articles: `17`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3920`
-- Day/swing latest: `2026-06-21T14:45:00+00:00`
+- Day/swing records: `3921`
+- Day/swing latest: `2026-06-21T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `3`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `3`
 - macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains (Cointelegraph.com News)
+- [macro] US and Iran begin talks on initial peace deal in Switzerland (BBC News)
 - [crypto] Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns (Cointelegraph.com News)
 - [macro] Low-key funeral held for giant of the art world David Hockney (BBC News)
 - [crypto] Dash eyes Philippines as market for crypto payments (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Tight security as Indian students resit medical exam after alleged paper leak (BBC News)
 - [macro] Fuel sales halted in occupied Crimea as Ukraine targets oil facilities (BBC News)
 - [crypto] Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'? (Cointelegraph.com News)
-- [macro] Dutch royals enjoy two big results in one World Cup day (BBC News)
-- [crypto] Japanese corporate pension fund plans 1% crypto allocation: Nikkei (Cointelegraph.com News)
