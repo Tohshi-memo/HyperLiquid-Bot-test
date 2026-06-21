@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T04:22:25.168591+00:00`
-- Market context score: `30.41`
-- News risk score: `54.14`
-- Macro risk score: `39.27`
-- Risk-on score: `5.91`
-- Articles: `13`
+- Generated: `2026-06-21T04:37:27.439397+00:00`
+- Market context score: `43.72`
+- News risk score: `43.0`
+- Macro risk score: `32.0`
+- Risk-on score: `23.33`
+- Articles: `12`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3878`
-- Day/swing latest: `2026-06-21T04:15:00+00:00`
+- Day/swing records: `3879`
+- Day/swing latest: `2026-06-21T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `10`, risk hits `5`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
 - [macro] US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz (BBC News)
+- [crypto] Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill (Cointelegraph.com News)
 - [macro] Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous' (BBC News)
 - [macro] France bans alcohol consumption at music festival events under red heatwave alert (BBC News)
 - [crypto] Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks (Energy)
 - [macro] Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say (BBC News)
 - [crypto] Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'? (Cointelegraph.com News)
-- [macro] Lebanese turtle conservationist Mona Khalil killed by Israeli strike (BBC News)
