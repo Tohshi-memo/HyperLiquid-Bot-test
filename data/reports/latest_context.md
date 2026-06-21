@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-21T18:07:26.465558+00:00`
-- Market context score: `48.97`
-- News risk score: `41.34`
-- Macro risk score: `30.01`
-- Risk-on score: `32.83`
-- Articles: `45`
+- Generated: `2026-06-21T18:22:26.283899+00:00`
+- Market context score: `51.48`
+- News risk score: `40.63`
+- Macro risk score: `27.63`
+- Risk-on score: `36.93`
+- Articles: `47`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3933`
-- Day/swing latest: `2026-06-21T18:00:00+00:00`
+- Day/swing records: `3934`
+- Day/swing latest: `2026-06-21T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `3`
-- macro: articles `37`, risk hits `10`, risk headline rate `0.2432`, policy hits `1`
+- macro: articles `39`, risk hits `9`, risk headline rate `0.2051`, policy hits `1`
 
 ## Headlines
 
+- [macro] Claim at 62 and Invest It Sounds Smart. A 63-Year-Old Tried It and Spent the Checks Instead. (Yahoo Finance)
+- [macro] He Saved $1 Million For Retirement. Can He Finally Buy The Corvette? (Yahoo Finance)
+- [macro] Can XRP Hit $500? (Yahoo Finance)
 - [macro] Jim Cramer on CrowdStrike (CRWD): “I Think the Second Half of the Year is Going to Be Really Good” (Yahoo Finance)
 - [macro] Jim Cramer Says Ingredion (INGR) Will Become an Ingredient Powerhouse After Tate & Lyle Deal (Yahoo Finance)
 - [macro] Jim Cramer Explains the Reason Capital One (COF) Became a “Virtual Trampoline” (Yahoo Finance)
@@ -35,6 +38,3 @@
 - [macro] Jim Cramer Highlights How CEO Lip-Bu Tan Solved Intel (INTC) Foundry Issues (Yahoo Finance)
 - [macro] Jim Cramer on SLB: “It Is By Far the Best There Is” (Yahoo Finance)
 - [macro] Jim Cramer Calls Marriott (MAR) “The Best” Among Hotel Companies (Yahoo Finance)
-- [macro] Jim Cramer Notes That He Loves “What Ford (F) Is Doing With the Battery Business” (Yahoo Finance)
-- [macro] Jim Cramer on Fair Isaac (FICO): “I Like the Company, But I’m Not Going to Go There” (Yahoo Finance)
-- [macro] Jim Cramer Highlights Oracle (ORCL)’s Heavy Debt Load (Yahoo Finance)
