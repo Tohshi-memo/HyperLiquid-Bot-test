@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T11:22:33.335417+00:00`
-- Market context score: `55.5`
-- News risk score: `45.13`
-- Macro risk score: `22.52`
-- Risk-on score: `47.73`
-- Articles: `54`
+- Generated: `2026-06-22T11:37:32.166037+00:00`
+- Market context score: `47.38`
+- News risk score: `49.27`
+- Macro risk score: `24.99`
+- Risk-on score: `34.11`
+- Articles: `62`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:79, fx:6, index:23, metal:20, unknown:722`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4002`
-- Day/swing latest: `2026-06-22T11:15:00+00:00`
+- Day/swing records: `4003`
+- Day/swing latest: `2026-06-22T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `10`, risk hits `5`, risk headline rate `0.4`, policy hits `1`
-- macro: articles `42`, risk hits `4`, risk headline rate `0.0952`, policy hits `11`
+- crypto: articles `19`, risk hits `10`, risk headline rate `0.4211`, policy hits `1`
+- macro: articles `41`, risk hits `6`, risk headline rate `0.1463`, policy hits `11`
 
 ## Headlines
 
+- [crypto] Bitcoin ETF outflow pain eases just as another headwind gathers strength (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Former Kenyan justice minister blocked from entering Uganda, lawyers' body says (BBC News)
+- [macro] Momenta prepares $1bn Hong Kong IPO at $9bn valuation (Yahoo Finance)
+- [macro] UniCredit lifts Commerzbank holding to 42.5% (Yahoo Finance)
+- [macro] South East Water announces new chief executive (BBC News)
+- [macro] Fraudulent returns cost retailers estimated £29m — report (Yahoo Finance)
+- [macro] Operating without visibility biggest risk for fashion brands says Lectra (Yahoo Finance)
+- [crypto] Bank of England eases stablecoin rules, introduces 40B pound issuance cap (Cointelegraph.com News)
 - [commodity] Oil prices mixed as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal (Energy)
-- [macro] Masan looks to foreign investors with tungsten mine growth (Yahoo Finance)
 - [crypto] As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] ISCV vs. IWN: Which Small-Cap Value ETF Is the Better Buy? (Yahoo Finance)
-- [macro] DarGlobal awards $90m Rayana infrastructure contract in Riyadh (Yahoo Finance)
-- [macro] ‘Founder’ Is the New Brass Ring for Computer Science Grads (Yahoo Finance)
-- [macro] Morning Bid: Seventh in a decade (Yahoo Finance)
-- [crypto] Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] First round of US-Iran talks ends with encouraging progress, mediators say (BBC News)
-- [macro] Schools close as more than half of France under red heat alerts (BBC News)
