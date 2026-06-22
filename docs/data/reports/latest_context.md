@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T01:37:33.055481+00:00`
-- Market context score: `34.12`
-- News risk score: `48.0`
-- Macro risk score: `42.0`
-- Risk-on score: `10.0`
-- Articles: `9`
+- Generated: `2026-06-22T01:52:26.767188+00:00`
+- Market context score: `49.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `23.33`
+- Articles: `7`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:78, fx:6, index:23, metal:18, unknown:702`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3963`
-- Day/swing latest: `2026-06-22T01:30:00+00:00`
+- Day/swing records: `3964`
+- Day/swing latest: `2026-06-22T01:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
-- [commodity] Oil rises after Trump threatens fresh strikes on Iran, overshadowing peace talks (Energy)
+- [commodity] Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal (Energy)
 - [macro] First round of direct US-Iran talks since deal expected to continue through the night (BBC News)
 - [macro] Is Germany looking again at coal-powered electricity? (BBC News)
 - [macro] Fake romance to missed deliveries: How to protect yourself from three common scams (BBC News)
 - [crypto] Are perps swaps? A quick look at that CME suit: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Half of France under red heat alert as alcohol banned at street music festival (BBC News)
 - [macro] Ethiopia PM's party wins landslide as fears grow of new conflict (BBC News)
-- [crypto] Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains (Cointelegraph.com News)
-- [crypto] Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns (Cointelegraph.com News)
