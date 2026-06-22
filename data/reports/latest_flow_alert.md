@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-22T19:25:28.838073+00:00`
+- Generated: `2026-06-22T19:30:36.193794+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19578608.88`
-- Polymarket volume z-score: `-0.56`
+- Polymarket 24h volume: `18734503.01`
+- Polymarket volume z-score: `-0.59`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4663542.561` | liquidity: `10840.52829`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3139364.312` | liquidity: `10122.38112`
-- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `1680242.4905560014` | liquidity: `210680.74753`
-- Will Abelardo de la Espriella  win the 2026 Colombian presidential election? | 24h volume: `1555656.6068439987` | liquidity: `137476.51599`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `920157.5` | liquidity: `12090867.03164`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `880597.785` | liquidity: `8389.86419`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `642022.1675769994` | liquidity: `820729.2825`
-- Exact Score: Argentina 2 - 0 Austria? | 24h volume: `637267.469057006` | liquidity: `332240.20189`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4663542.561` | liquidity: `13244.95207`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3139364.312` | liquidity: `12812.8668`
+- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `1675911.2295070013` | liquidity: `217404.55721`
+- Will Abelardo de la Espriella  win the 2026 Colombian presidential election? | 24h volume: `1550592.9695129986` | liquidity: `140152.784`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `880597.785` | liquidity: `9051.84345`
+- Exact Score: Argentina 2 - 0 Austria? | 24h volume: `640590.4904870057` | liquidity: `327316.87677`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `637778.9175779995` | liquidity: `816465.6568`
+- Will Keir Starmer be the next leader out before 2027? | 24h volume: `441479.1332820005` | liquidity: `35427.5817`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
