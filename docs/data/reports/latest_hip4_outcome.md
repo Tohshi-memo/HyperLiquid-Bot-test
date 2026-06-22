@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-22T16:37:38.403939+00:00`
+- Generated: `2026-06-22T16:52:36.188584+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `121`
 - Outcome sides (rows): `242`
@@ -37,8 +37,8 @@
 - Tunisia [No] symbol `#2151` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
+- Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9988` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
-- Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Qatar [No] symbol `#2061` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iraq [No] symbol `#1941` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
