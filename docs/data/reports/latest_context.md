@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T04:22:27.528802+00:00`
-- Market context score: `77.62`
-- News risk score: `18.0`
+- Generated: `2026-06-22T04:37:30.566237+00:00`
+- Market context score: `53.32`
+- News risk score: `40.5`
 - Macro risk score: `12.0`
-- Risk-on score: `70.0`
-- Articles: `7`
+- Risk-on score: `35.0`
+- Articles: `8`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:79, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3974`
-- Day/swing latest: `2026-06-22T04:15:00+00:00`
+- Day/swing records: `3975`
+- Day/swing latest: `2026-06-22T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug (Cointelegraph.com News)
 - [macro] Toy Story 5 scores record opening weekend for franchise (BBC News)
 - [macro] First round of US-Iran talks end with 'encouraging progress', mediators say (BBC News)
 - [commodity] Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal (Energy)
