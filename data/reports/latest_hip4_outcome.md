@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-22T00:20:56.656103+00:00`
+- Generated: `2026-06-22T00:37:27.386329+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `133`
 - Outcome sides (rows): `266`
@@ -24,6 +24,7 @@
 
 ## Current Implied Probabilities
 
+- Cape Verde [No] symbol `#4601` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -33,10 +34,9 @@
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Panama [No] symbol `#2031` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
-- Cape Verde [No] symbol `#4601` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
-- Uruguay [No] symbol `#4581` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
+- Uruguay [No] symbol `#4581` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
+- Iran [No] symbol `#4561` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
-- Draw [Yes] symbol `#4590` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
 - Draw [Yes] symbol `#4550` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#4541` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -46,8 +46,8 @@
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
-- Iran [No] symbol `#4561` underlying `n/a` prob `0.9985` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9984` price_source `allMids` vol24h `0.0` oi `0.0`
+- Draw [Yes] symbol `#4590` underlying `n/a` prob `0.9976` price_source `allMids` vol24h `0.0` oi `0.0`
 - Qatar [No] symbol `#2061` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
