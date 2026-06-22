@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T16:16:15.797398+00:00`
-- Market context score: `50.34`
+- Generated: `2026-06-22T16:22:47.028940+00:00`
+- Market context score: `50.73`
 - News risk score: `45.34`
 - Macro risk score: `22.78`
-- Risk-on score: `36.54`
+- Risk-on score: `37.4`
 - Articles: `80`
 - Polymarket markets: `393`
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast (BBC News)
 - [commodity] Treasury Department authorizes Iranian oil sales through August (Energy)
 - [commodity] Chevron to fuel massive Microsoft data center in Texas using natural gas (Energy)
 - [macro] Twins marry twins in joyous Nigerian joint wedding (BBC News)
+- [macro] SpaceX signs $6.3 billion compute deal with Reflection AI (Yahoo Finance)
+- [macro] Alphabet Sinks 6%, Amazon Slides 4% Amid AI Capex Anxiety Across the Hyperscalers (Yahoo Finance)
+- [macro] Why SpaceX Stock Is Dropping Again Today (Yahoo Finance)
 - [macro] WhatsApp to be led by Indian start-up founder as Will Cathcart steps back (BBC News)
-- [crypto] Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low (Cointelegraph.com News)
-- [macro] AI Momentum Outweighs Iran Risks and Fed Concerns, Says Chief Economist (Yahoo Finance)
-- [macro] Why Alamos Gold Stock Is Plummeting Today (Yahoo Finance)
-- [macro] Why Micron Stock Keeps Going Up (Yahoo Finance)
-- [macro] Strategy Buys Another 520 Bitcoin As Price Languishes (Yahoo Finance)
+- [macro] SpaceX Falls After Bond Offering, New Analyst Coverage. Space Stocks Drop To Key Levels. (Yahoo Finance)
+- [macro] Google Stock Falls As Top AI Scientists Defect To OpenAI, Anthropic (Yahoo Finance)
