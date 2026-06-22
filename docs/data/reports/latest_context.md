@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T04:37:30.566237+00:00`
-- Market context score: `53.32`
-- News risk score: `40.5`
-- Macro risk score: `12.0`
-- Risk-on score: `35.0`
-- Articles: `8`
+- Generated: `2026-06-22T04:52:29.398915+00:00`
+- Market context score: `47.97`
+- News risk score: `42.81`
+- Macro risk score: `16.62`
+- Risk-on score: `26.79`
+- Articles: `15`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:79, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3975`
-- Day/swing latest: `2026-06-22T04:30:00+00:00`
+- Day/swing records: `3976`
+- Day/swing latest: `2026-06-22T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug (Cointelegraph.com News)
-- [macro] Toy Story 5 scores record opening weekend for franchise (BBC News)
 - [macro] First round of US-Iran talks end with 'encouraging progress', mediators say (BBC News)
+- [crypto] Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug (Cointelegraph.com News)
+- [macro] Trump-backed political outsider wins Colombia election, initial count shows (BBC News)
+- [macro] Toy Story 5 scores record opening weekend for franchise (BBC News)
 - [commodity] Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal (Energy)
 - [macro] After closing 1,000 restaurants, seafood chain sees clear sailing (Yahoo Finance)
-- [macro] Is Germany looking again at coal-powered electricity? (BBC News)
-- [macro] Fake romance to missed deliveries: How to protect yourself from three common scams (BBC News)
-- [crypto] Are perps swaps? A quick look at that CME suit: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] After Trump inspects Reflecting Pool, he says repair work will begin 'immediately' (BBC News)
+- [macro] Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas (BBC News)
+- [macro] Cape Verde fan goes wild live on BBC News as his country scores (BBC News)
+- [macro] The BTS fans losing thousands as scammers cash in on comeback tour ticket war (BBC News)
