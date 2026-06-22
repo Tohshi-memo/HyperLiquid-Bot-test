@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T22:00:22.224806+00:00`
+- Generated: `2026-06-22T22:07:27.307286+00:00`
 - Market context score: `47.75`
 - News risk score: `43.03`
 - Macro risk score: `23.45`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94 (BBC News)
 - [crypto] Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tesla crash that killed a woman under US federal investigation (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Ex-Trump advisor makes bold case for Bitcoin (Yahoo Finance)
 - [crypto] Strive says digital credit selloff was a liquidation event, not a credit crisis (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Chubb CEO flags threat disrupting global oil supply (Yahoo Finance)
-- [commodity] Oil prices fall after U.S. authorizes Iranian crude sales (Energy)
