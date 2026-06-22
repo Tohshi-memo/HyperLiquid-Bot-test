@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T22:37:27.769031+00:00`
-- Market context score: `47.67`
-- News risk score: `41.72`
-- Macro risk score: `24.22`
-- Risk-on score: `28.09`
-- Articles: `60`
+- Generated: `2026-06-22T22:52:34.527811+00:00`
+- Market context score: `49.92`
+- News risk score: `39.37`
+- Macro risk score: `22.06`
+- Risk-on score: `30.28`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:716`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4047`
-- Day/swing latest: `2026-06-22T22:30:00+00:00`
+- Day/swing records: `4048`
+- Day/swing latest: `2026-06-22T22:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `2`
-- crypto: articles `33`, risk hits `11`, risk headline rate `0.2727`, policy hits `4`
-- macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `1`
+- crypto: articles `32`, risk hits `10`, risk headline rate `0.25`, policy hits `4`
+- macro: articles `21`, risk hits `1`, risk headline rate `0.0476`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
@@ -37,5 +37,5 @@
 - [crypto] Ric Edelman says crypto’s biggest growth story is happening off the price chart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] 21Shares co-founder warns tokenization hype is outrunning Wall Street reality (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Franklin Templeton launches dedicated crypto division after closing 250 Digital acquisition (Cointelegraph.com News)
-- [macro] Ex-Trump advisor makes bold case for Bitcoin (Yahoo Finance)
 - [crypto] Strive says digital credit selloff was a liquidation event, not a credit crisis (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil prices fall after U.S. authorizes Iranian crude sales (Energy)
