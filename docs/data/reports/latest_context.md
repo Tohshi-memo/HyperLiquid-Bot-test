@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T09:22:32.840576+00:00`
-- Market context score: `54.43`
-- News risk score: `40.78`
-- Macro risk score: `24.16`
-- Risk-on score: `42.29`
-- Articles: `55`
+- Generated: `2026-06-22T09:37:31.453939+00:00`
+- Market context score: `52.28`
+- News risk score: `44.97`
+- Macro risk score: `20.15`
+- Risk-on score: `39.54`
+- Articles: `62`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:79, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3994`
-- Day/swing latest: `2026-06-22T09:15:00+00:00`
+- Day/swing records: `3995`
+- Day/swing latest: `2026-06-22T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `46`, risk hits `8`, risk headline rate `0.1739`, policy hits `1`
+- crypto: articles `13`, risk hits `6`, risk headline rate `0.3846`, policy hits `0`
+- macro: articles `47`, risk hits `5`, risk headline rate `0.1064`, policy hits `1`
 
 ## Headlines
 
+- [macro] DMA acquires Chicago-based Barron Corporate Tax Solutions (Yahoo Finance)
+- [macro] Tata CLiQ to open Lululemon stores across India in offline push (Yahoo Finance)
+- [crypto] Bank of England eases stablecoin rules, introduces 40 billion-pound issuance cap (Cointelegraph.com News)
 - [crypto] Taiko halts its Ethereum layer 2 network after a bridge exploit, token dives 10% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Archion replaces Hino, Fuso at CJPT (Yahoo Finance)
-- [macro] Prediction: Micron Stock Will Skyrocket After June 24 (Yahoo Finance)
-- [macro] Malaysia vehicle sales fall 12% in May (Yahoo Finance)
-- [macro] Government Workers Have Access to a Retirement Account Private Sector Employees Don’t Know Exists (Yahoo Finance)
-- [commodity] Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again (Energy)
-- [macro] EasyJet rejects £4.7bn takeover offer from US investment firm (BBC News)
-- [macro] 5 Best Small-Cap Financial Stocks to Buy Now (Yahoo Finance)
-- [macro] Stocks waver, oil falls as traders weigh fragile Iran peace talks (Yahoo Finance)
+- [macro] Amazon (AMZN): The Best High Quality Stock to Buy for the Long Term (Yahoo Finance)
+- [macro] Piper Sandler Raises its Price Target on DexCom (DXCM) (Yahoo Finance)
+- [macro] Mizuho Raises its Price Target on First Solar (FSLR) (Yahoo Finance)
+- [macro] Baird Raises its Price Target on Jabil (JBL) (Yahoo Finance)
+- [macro] Seaport Research Raises its Price Target on Vistra Corp. (VST) (Yahoo Finance)
+- [macro] Is Caterpillar (CAT) the Best High Quality Stock to Buy for the Long Term? (Yahoo Finance)
