@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-22T05:52:26.518599+00:00`
+- Generated: `2026-06-22T06:07:31.436092+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `125`
 - Outcome sides (rows): `250`
@@ -34,7 +34,7 @@
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Panama [No] symbol `#2031` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
-- Egypt [Yes] symbol `#4640` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
+- Egypt [Yes] symbol `#4640` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Tunisia [No] symbol `#2151` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
