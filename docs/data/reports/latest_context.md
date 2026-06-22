@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T07:52:28.899680+00:00`
+- Generated: `2026-06-22T08:07:34.586847+00:00`
 - Market context score: `57.91`
 - News risk score: `31.5`
 - Macro risk score: `21.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:79, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3988`
-- Day/swing latest: `2026-06-22T07:45:00+00:00`
+- Day/swing records: `3989`
+- Day/swing latest: `2026-06-22T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [commodity] Oil falls as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal (Energy)
 - [macro] EasyJet rejects £4.7bn takeover offer from US investment firm (BBC News)
 - [macro] First round of US-Iran talks ends with encouraging progress, mediators say (BBC News)
 - [crypto] Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] More than half of France under red alerts as heatwave intensifies (BBC News)
 - [crypto] Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil falls as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal (Energy)
 - [crypto] Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP briefly loses $1.14 support before buyers drive sharp rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
