@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-22T04:07:27.082096+00:00`
+- Generated: `2026-06-22T04:22:27.528802+00:00`
 - Market context score: `77.62`
 - News risk score: `18.0`
 - Macro risk score: `12.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:79, fx:6, index:23, metal:18, unknown:701`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, para, vntl, xyz`
 
-- Day/swing records: `3973`
-- Day/swing latest: `2026-06-22T04:00:00+00:00`
+- Day/swing records: `3974`
+- Day/swing latest: `2026-06-22T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Toy Story 5 scores franchise record for opening weekend (BBC News)
+- [macro] Toy Story 5 scores record opening weekend for franchise (BBC News)
 - [macro] First round of US-Iran talks end with 'encouraging progress', mediators say (BBC News)
 - [commodity] Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal (Energy)
 - [macro] After closing 1,000 restaurants, seafood chain sees clear sailing (Yahoo Finance)
