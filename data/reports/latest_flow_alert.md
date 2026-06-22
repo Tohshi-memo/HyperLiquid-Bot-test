@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-22T17:50:31.740404+00:00`
+- Generated: `2026-06-22T17:55:31.125405+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19391974.87`
+- Polymarket 24h volume: `19418376.4`
 - Polymarket volume z-score: `-0.58`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4663542.561` | liquidity: `11060.70915`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3139364.312` | liquidity: `9633.23276`
-- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `1718843.1297920009` | liquidity: `195833.27598`
-- Will Abelardo de la Espriella  win the 2026 Colombian presidential election? | 24h volume: `1599225.9818929988` | liquidity: `83699.65017`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1008627.5` | liquidity: `12078003.33996`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `880511.702` | liquidity: `6996.13079`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `666621.7007959994` | liquidity: `852286.067`
-- Will Keir Starmer be the next leader out before 2027? | 24h volume: `443538.27057700045` | liquidity: `31427.8697`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4663542.561` | liquidity: `11588.91182`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3139364.312` | liquidity: `11905.51144`
+- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `1719479.720560001` | liquidity: `168812.25432`
+- Will Abelardo de la Espriella  win the 2026 Colombian presidential election? | 24h volume: `1602911.4778759987` | liquidity: `83873.89444`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1008627.5` | liquidity: `12086711.03321`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `880511.702` | liquidity: `10483.92687`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `666010.1090759995` | liquidity: `865962.1781`
+- Will Keir Starmer be the next leader out before 2027? | 24h volume: `443227.6902470005` | liquidity: `37139.7297`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
