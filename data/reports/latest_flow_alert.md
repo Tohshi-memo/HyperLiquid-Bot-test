@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-22T20:00:38.194255+00:00`
+- Generated: `2026-06-22T20:05:34.604111+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17709606.56`
-- Polymarket volume z-score: `-0.62`
+- Polymarket 24h volume: `17858105.19`
+- Polymarket volume z-score: `-0.61`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4663542.561` | liquidity: `13213.16414`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3139364.312` | liquidity: `12795.78671`
-- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `1646855.743196001` | liquidity: `197466.74802`
-- Will Abelardo de la Espriella  win the 2026 Colombian presidential election? | 24h volume: `1538648.1620399987` | liquidity: `135895.95763`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `880597.785` | liquidity: `9508.97629`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `665432.2307639999` | liquidity: `820110.3952`
-- Will Keir Starmer be the next leader out before 2027? | 24h volume: `442151.07730400044` | liquidity: `42267.3782`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `425989.46643699985` | liquidity: `194458.4796`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4663542.561` | liquidity: `13055.99983`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3139364.312` | liquidity: `12865.88936`
+- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `1641001.452433001` | liquidity: `199154.31659`
+- Will Abelardo de la Espriella  win the 2026 Colombian presidential election? | 24h volume: `1533549.0196619988` | liquidity: `136683.18893`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `880597.785` | liquidity: `9194.51039`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `660293.6110649998` | liquidity: `796336.6643`
+- Will Keir Starmer be the next leader out before 2027? | 24h volume: `441093.87541900045` | liquidity: `43616.0933`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `425829.2582599998` | liquidity: `197259.0189`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
