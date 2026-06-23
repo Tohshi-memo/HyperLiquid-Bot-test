@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T17:37:35.321301+00:00`
-- Market context score: `48.77`
-- News risk score: `45.86`
-- Macro risk score: `23.87`
-- Risk-on score: `33.91`
-- Articles: `89`
+- Generated: `2026-06-23T17:42:33.907261+00:00`
+- Market context score: `48.88`
+- News risk score: `45.75`
+- Macro risk score: `23.67`
+- Risk-on score: `33.97`
+- Articles: `90`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,11 +24,12 @@
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `36`, risk hits `11`, risk headline rate `0.3056`, policy hits `3`
-- macro: articles `50`, risk hits `9`, risk headline rate `0.16`, policy hits `4`
+- macro: articles `51`, risk hits `9`, risk headline rate `0.1569`, policy hits `4`
 
 ## Headlines
 
 - [commodity] Strait of Hormuz evacuation plan to begin for ships stranded in Persian Gulf, maritime organization says (Energy)
+- [macro] Tech stocks tumble on concerns over AI spending (BBC News)
 - [commodity] Trump administration to loan $17 billion to speed deployment of 10 big nuclear reactors in U.S. (Energy)
 - [macro] Ransom note claims Nancy Guthrie died after abduction (BBC News)
 - [macro] Zambia ex-president's family wins latest legal battle over what should happen to his body (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Stock Market Today: Nasdaq Sinks As Micron Tanks; Cybersecurity Names Rise (Live Coverage) (Yahoo Finance)
 - [macro] Palantir and Salesforce put software's rebound on trial: AlphaCheck (Yahoo Finance)
 - [macro] Franklin Templeton Launches New Crypto Unit (Yahoo Finance)
-- [macro] Mark Zuckerberg directed Meta to create a prediction markets app, NYT reports (Yahoo Finance)
