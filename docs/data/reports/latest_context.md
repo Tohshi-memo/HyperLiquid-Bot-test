@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T16:22:33.804878+00:00`
-- Market context score: `49.76`
-- News risk score: `43.4`
-- Macro risk score: `21.56`
-- Risk-on score: `33.15`
-- Articles: `86`
-- Polymarket markets: `391`
+- Generated: `2026-06-23T16:38:00.231747+00:00`
+- Market context score: `49.31`
+- News risk score: `43.6`
+- Macro risk score: `23.23`
+- Risk-on score: `32.96`
+- Articles: `87`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4118`
-- Day/swing latest: `2026-06-23T16:15:00+00:00`
+- Day/swing records: `4119`
+- Day/swing latest: `2026-06-23T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `36`, risk hits `10`, risk headline rate `0.2778`, policy hits `2`
-- macro: articles `48`, risk hits `7`, risk headline rate `0.125`, policy hits `2`
+- crypto: articles `38`, risk hits `10`, risk headline rate `0.2632`, policy hits `2`
+- macro: articles `47`, risk hits `8`, risk headline rate `0.1489`, policy hits `3`
 
 ## Headlines
 
+- [crypto] BNY sees 'FOMO' driving asset managers into tokenized funds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Hut 8 To Pay $2.35 Million To Settle Investor Lawsuit (Yahoo Finance)
+- [macro] Drowning deaths soar in France as Europe buckles in peak of heatwave (BBC News)
+- [crypto] CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report (Cointelegraph.com News)
+- [macro] Intel's Stock Is Soaring. Is It Too Late to Buy? (Yahoo Finance)
+- [macro] Retailer Approaching Historically Bullish Trendline (Yahoo Finance)
+- [macro] Stocks fall as chipmakers and tech slump on rate bets (Yahoo Finance)
 - [macro] Americans are warming up to homebuying for the first time in 3 years (Yahoo Finance)
-- [macro] 4 Reasons Short Sellers Should Think Twice Before Betting Against SpaceX (Yahoo Finance)
-- [macro] The Supreme Court and the White House Just Changed Everything for Freight Brokers, NVOCCs, Customs Brokers, Freight Forwarders, and Warehouse Operators (Yahoo Finance)
-- [macro] How To Play The Options Game With This Struggling Software Titan (Yahoo Finance)
-- [macro] US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks (BBC News)
-- [macro] US Supreme Court boosts Exxon's bid to get compensation from Cuba (Yahoo Finance)
-- [macro] US Supreme Court ends suit alleging Cisco helped China pursue Falun Gong (Yahoo Finance)
-- [macro] Tim Cook issues chilling warning as ‘hundred-year-flood’ strikes US tech giants like Apple, Dell, HP. Get protection now (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Falls As Micron Sinks Ahead Of Earnings; Trump Helps Quantum Stocks (Live Coverage) (Yahoo Finance)
-- [crypto] Chainlink joins European and Korean bank consortia to develop FX settlement network (Cointelegraph.com News)
+- [macro] How Marvell Technology (MRVL) Is Using Teralynx T100 to Target AI Data-Center Bandwidth Bottlenecks (Yahoo Finance)
+- [macro] How BE Semiconductor Industries (BESIY) Is Turning Hybrid Bonding Demand Into a Bigger AI Packaging Growth Target (Yahoo Finance)
