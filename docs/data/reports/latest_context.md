@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T20:52:32.447685+00:00`
+- Generated: `2026-06-23T21:07:30.679566+00:00`
 - Market context score: `48.88`
 - News risk score: `43.58`
 - Macro risk score: `21.67`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4136`
-- Day/swing latest: `2026-06-23T20:45:00+00:00`
+- Day/swing records: `4137`
+- Day/swing latest: `2026-06-23T21:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto isn't the problem with the US economy, says senator (Cointelegraph.com News)
 - [commodity] Oil prices edge lower as market monitors tanker traffic through Strait of Hormuz (Energy)
 - [crypto] Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date (Cointelegraph.com News)
