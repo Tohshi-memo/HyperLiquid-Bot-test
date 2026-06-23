@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T23:37:25.794192+00:00`
-- Market context score: `51.77`
-- News risk score: `39.72`
-- Macro risk score: `20.61`
-- Risk-on score: `34.14`
-- Articles: `70`
+- Generated: `2026-06-23T23:44:15.125033+00:00`
+- Market context score: `49.35`
+- News risk score: `39.58`
+- Macro risk score: `20.83`
+- Risk-on score: `28.73`
+- Articles: `69`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `32`, risk hits `7`, risk headline rate `0.2188`, policy hits `2`
-- macro: articles `35`, risk hits `5`, risk headline rate `0.1143`, policy hits `0`
+- macro: articles `34`, risk hits `5`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [macro] Google's YouTube settles social media addiction case with teen (BBC News)
 - [macro] E-commerce giant Alibaba sues US government over defence blacklist (BBC News)
 - [macro] E-commerce giant Alibaba sues US government over defence blacklist (BBC News)
 - [crypto] Ethereum’s much-hated staking 'tax' may already be obsolete (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] The economic challenges facing the next prime minister (BBC News)
 - [crypto] AI chipmaker Cerebras down 11% after first public earnings report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Germany rail network comes to complete halt nationwide due to IT malfunction (BBC News)
-- [macro] Google's YouTube settles social media addiction case with teen (BBC News)
