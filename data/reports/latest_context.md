@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T02:07:30.270036+00:00`
+- Generated: `2026-06-23T02:22:31.367726+00:00`
 - Market context score: `37.23`
 - News risk score: `46.47`
 - Macro risk score: `33.29`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:716`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4061`
-- Day/swing latest: `2026-06-23T02:00:00+00:00`
+- Day/swing records: `4062`
+- Day/swing latest: `2026-06-23T02:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Ransom note claims Nancy Guthrie died after abduction (BBC News)
 - [macro] Tech giant Oracle sheds 21,000 jobs in a year as AI replaces some roles (BBC News)
+- [macro] Ransom note claims Nancy Guthrie died after abduction (BBC News)
 - [commodity] Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing (Energy)
 - [macro] How 100 Romanian hospitals switched to pen and paper to defeat a national cyber-attack (BBC News)
 - [macro] US eases oil sanctions as Iran denies Vance claim on nuclear inspectors (BBC News)
