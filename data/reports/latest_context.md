@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T12:07:32.459514+00:00`
-- Market context score: `47.9`
-- News risk score: `41.12`
-- Macro risk score: `23.24`
-- Risk-on score: `27.72`
-- Articles: `61`
+- Generated: `2026-06-23T12:22:34.859406+00:00`
+- Market context score: `51.45`
+- News risk score: `38.76`
+- Macro risk score: `18.96`
+- Risk-on score: `32.01`
+- Articles: `63`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4101`
-- Day/swing latest: `2026-06-23T12:00:00+00:00`
+- Day/swing records: `4102`
+- Day/swing latest: `2026-06-23T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `0`
-- macro: articles `41`, risk hits `6`, risk headline rate `0.0976`, policy hits `15`
+- crypto: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `42`, risk hits `3`, risk headline rate `0.0476`, policy hits `11`
 
 ## Headlines
 
+- [commodity] Oil prices are lower as market monitors tanker traffic through Strait of Hormuz (Energy)
+- [macro] Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back (BBC News)
+- [macro] Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back (BBC News)
+- [crypto] Former BIS chief softens stance on stablecoins, backs coexistence with fiat (Cointelegraph.com News)
+- [macro] GROW Small Cap Equity Fund Covered Its Position in Harrow (HROW) in Q1 (Yahoo Finance)
 - [macro] Who could be the UK's next chancellor? (BBC News)
+- [macro] Here’s GROW Small Cap Equity Fund‘s Discussion on Palantir Technologies (PLTR) (Yahoo Finance)
 - [macro] Zambia ex-president's family wins latest legal battle over what should happen to his body (BBC News)
-- [macro] FusionIQ buys wealth technology firm Marstone (Yahoo Finance)
-- [macro] Kenya minister halts construction of US-backed Ebola quarantine centre (BBC News)
-- [macro] AI Stocks In A Bubble? Comparisons To 1999 Appear. What Strategists Say. (Yahoo Finance)
-- [macro] Newly minted SpaceX millionaires are preparing for their first big purchases — and luxury real estate is top of mind (Yahoo Finance)
-- [macro] Micron to report third quarter earnings amid sky-high demand from data centers (Yahoo Finance)
 - [macro] Stock Market Today: Techs Dive As South Korea Leads Global Rout; Sandisk, Micron Dive As SpaceX Nears Lows (Yahoo Finance)
-- [commodity] Oil prices are little changed as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing (Energy)
-- [crypto] Bitcoin volatility looks cheap as $10 billion options settlement nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Here’s Why GROW Small Cap Equity Fund Bets Against Robinhood Markets (HOOD) (Yahoo Finance)
