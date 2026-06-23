@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T12:22:34.859406+00:00`
-- Market context score: `51.45`
-- News risk score: `38.76`
-- Macro risk score: `18.96`
-- Risk-on score: `32.01`
-- Articles: `63`
+- Generated: `2026-06-23T12:37:37.597670+00:00`
+- Market context score: `50.62`
+- News risk score: `40.81`
+- Macro risk score: `20.94`
+- Risk-on score: `32.64`
+- Articles: `67`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4102`
-- Day/swing latest: `2026-06-23T12:15:00+00:00`
+- Day/swing records: `4103`
+- Day/swing latest: `2026-06-23T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `42`, risk hits `3`, risk headline rate `0.0476`, policy hits `11`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `42`, risk hits `4`, risk headline rate `0.0714`, policy hits `13`
 
 ## Headlines
 
+- [crypto] The digital euro takes a massive step forward after winning a crucial European Parliament vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Drowning deaths soar in France as Europe buckles in peak of heatwave (BBC News)
+- [crypto] EU committee advances digital euro bill after key vote (Cointelegraph.com News)
 - [commodity] Oil prices are lower as market monitors tanker traffic through Strait of Hormuz (Energy)
 - [macro] Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back (BBC News)
 - [macro] Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back (BBC News)
-- [crypto] Former BIS chief softens stance on stablecoins, backs coexistence with fiat (Cointelegraph.com News)
-- [macro] GROW Small Cap Equity Fund Covered Its Position in Harrow (HROW) in Q1 (Yahoo Finance)
-- [macro] Who could be the UK's next chancellor? (BBC News)
-- [macro] Here’s GROW Small Cap Equity Fund‘s Discussion on Palantir Technologies (PLTR) (Yahoo Finance)
-- [macro] Zambia ex-president's family wins latest legal battle over what should happen to his body (BBC News)
+- [crypto] Strategy's STRC slump prompts Terra comparisons that don't hold up, says analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Stock Market Today: Techs Dive As South Korea Leads Global Rout; Sandisk, Micron Dive As SpaceX Nears Lows (Yahoo Finance)
-- [macro] Here’s Why GROW Small Cap Equity Fund Bets Against Robinhood Markets (HOOD) (Yahoo Finance)
+- [crypto] Former BIS chief softens stance on stablecoins, backs coexistence with fiat (Cointelegraph.com News)
