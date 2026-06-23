@@ -2,7 +2,7 @@
 
 These are early-warning indicators for cross-market relationships. They are hypotheses to test, not trade signals by themselves.
 
-- Updated: `2026-06-23T16:07:38.568119+00:00`
+- Updated: `2026-06-23T16:22:33.804878+00:00`
 - Correlation status: `ready`
 - Asset price records: `672`
 - Minimum samples for correlation: `24`
@@ -13,20 +13,20 @@ These are early-warning indicators for cross-market relationships. They are hypo
 
 ## Class Returns
 
-- 15m: commodity avg `-0.0057` n `12`; crypto_alt avg `0.5477` n `228`; crypto_major avg `0.6875` n `8`; equity avg `0.4146` n `86`; fx avg `0.0009` n `6`; index avg `0.0543` n `23`; metal avg `0.0238` n `20`; unknown avg `0.3907` n `764`
-- 1h: commodity avg `-0.0729` n `12`; crypto_alt avg `0.2284` n `228`; crypto_major avg `0.3912` n `8`; equity avg `0.2474` n `86`; fx avg `-0.0258` n `6`; index avg `0.0029` n `23`; metal avg `0.094` n `20`; unknown avg `-0.0795` n `764`
-- 4h: commodity avg `-0.1535` n `12`; crypto_alt avg `0.0245` n `228`; crypto_major avg `-0.124` n `8`; equity avg `0.6128` n `86`; fx avg `-0.09` n `6`; index avg `-0.014` n `23`; metal avg `0.1432` n `20`; unknown avg `-0.3647` n `764`
-- 24h: commodity avg `-0.3608` n `12`; crypto_alt avg `-3.3504` n `228`; crypto_major avg `-3.5591` n `8`; equity avg `-2.689` n `86`; fx avg `-0.2044` n `6`; index avg `-0.8469` n `23`; metal avg `-0.8172` n `20`; unknown avg `-0.1728` n `604`
+- 15m: commodity avg `-0.0281` n `12`; crypto_alt avg `-0.1026` n `228`; crypto_major avg `-0.1079` n `8`; equity avg `-0.0554` n `86`; fx avg `0.0122` n `6`; index avg `0.0073` n `23`; metal avg `0.0193` n `20`; unknown avg `0.1303` n `764`
+- 1h: commodity avg `-0.0617` n `12`; crypto_alt avg `0.2361` n `228`; crypto_major avg `0.4803` n `8`; equity avg `0.4384` n `86`; fx avg `-0.0113` n `6`; index avg `0.0363` n `23`; metal avg `0.1522` n `20`; unknown avg `0.1965` n `764`
+- 4h: commodity avg `-0.1613` n `12`; crypto_alt avg `0.0609` n `228`; crypto_major avg `-0.0346` n `8`; equity avg `0.9482` n `86`; fx avg `-0.0571` n `6`; index avg `0.0674` n `23`; metal avg `0.2801` n `20`; unknown avg `-0.1899` n `764`
+- 24h: commodity avg `-0.4174` n `12`; crypto_alt avg `-3.7145` n `228`; crypto_major avg `-3.8892` n `8`; equity avg `-2.724` n `86`; fx avg `-0.182` n `6`; index avg `-0.8689` n `23`; metal avg `-0.8257` n `20`; unknown avg `-0.1307` n `604`
 
 ## Correlations
 
-- polymarket_volume_24h -> equity_forward_1h_return_pct: corr `0.1331`, n `668`, weak_sample_signal
-- flow_alert_score -> index_forward_1h_return_pct: corr `0.1252`, n `668`, weak_sample_signal
-- flow_alert_score -> equity_forward_1h_return_pct: corr `0.12`, n `668`, weak_sample_signal
-- polymarket_volume_24h -> index_forward_1h_return_pct: corr `0.1088`, n `668`, weak_sample_signal
-- risk_on_score -> metal_forward_1h_return_pct: corr `-0.0872`, n `668`, weak_sample_signal
-- market_context_score -> equity_forward_1h_return_pct: corr `0.0788`, n `668`, weak_sample_signal
-- risk_on_score -> equity_forward_1h_return_pct: corr `0.0702`, n `668`, weak_sample_signal
+- polymarket_volume_24h -> equity_forward_1h_return_pct: corr `0.1313`, n `668`, weak_sample_signal
+- flow_alert_score -> index_forward_1h_return_pct: corr `0.1249`, n `668`, weak_sample_signal
+- flow_alert_score -> equity_forward_1h_return_pct: corr `0.1189`, n `668`, weak_sample_signal
+- polymarket_volume_24h -> index_forward_1h_return_pct: corr `0.1082`, n `668`, weak_sample_signal
+- risk_on_score -> metal_forward_1h_return_pct: corr `-0.0871`, n `668`, weak_sample_signal
+- market_context_score -> equity_forward_1h_return_pct: corr `0.08`, n `668`, weak_sample_signal
+- risk_on_score -> equity_forward_1h_return_pct: corr `0.0713`, n `668`, weak_sample_signal
 - flow_alert_score -> unknown_forward_1h_return_pct: corr `0.0673`, n `668`, weak_sample_signal
 - polymarket_volume_24h -> unknown_forward_1h_return_pct: corr `0.0629`, n `668`, weak_sample_signal
-- risk_on_score -> crypto_alt_forward_1h_return_pct: corr `-0.0601`, n `668`, weak_sample_signal
+- risk_on_score -> crypto_alt_forward_1h_return_pct: corr `-0.0596`, n `668`, weak_sample_signal
