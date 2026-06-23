@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T12:46:06.399047+00:00`
-- Market context score: `50.89`
-- News risk score: `39.52`
-- Macro risk score: `19.23`
-- Risk-on score: `31.5`
-- Articles: `66`
+- Generated: `2026-06-23T12:52:33.582226+00:00`
+- Market context score: `51.11`
+- News risk score: `39.3`
+- Macro risk score: `19.21`
+- Risk-on score: `31.8`
+- Articles: `67`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `1`
 - macro: articles `41`, risk hits `4`, risk headline rate `0.0732`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Kalshi adds India to growing list of restricted jurisdictions (Cointelegraph.com News)
 - [crypto] The digital euro takes a massive step forward after winning a crucial European Parliament vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Bitcoin 'vulnerable to further weakness' as token tumbles amid tech rout (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Stocks drop as Fed rate bets hit tech royalty; dollar gains (Yahoo Finance)
 - [commodity] Oil prices are lower as market monitors tanker traffic through Strait of Hormuz (Energy)
 - [macro] UK tribunal gives go ahead for $4 billion lawsuit against Apple over iCloud services (Yahoo Finance)
-- [macro] Atai Capital’s Update on BK Technologies Corp. (BKTI) (Yahoo Finance)
