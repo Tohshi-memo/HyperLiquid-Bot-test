@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T05:22:30.310387+00:00`
-- Market context score: `38.38`
-- News risk score: `43.67`
-- Macro risk score: `38.53`
-- Risk-on score: `14.5`
-- Articles: `31`
+- Generated: `2026-06-23T05:37:25.814535+00:00`
+- Market context score: `37.03`
+- News risk score: `45.66`
+- Macro risk score: `38.41`
+- Risk-on score: `13.12`
+- Articles: `32`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:716`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4074`
-- Day/swing latest: `2026-06-23T05:15:00+00:00`
+- Day/swing records: `4075`
+- Day/swing latest: `2026-06-23T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `3`
+- crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `3`
 - macro: articles `12`, risk hits `5`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin slips toward $63,000 as a tech selloff drags risk assets lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trump signs orders to build a quantum computer and protect against the one that could break encryption (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto lobby urges Congress pass staking and mining tax bill as is (Cointelegraph.com News)
 - [crypto] Trump signs orders for quantum computer, cryptography upgrades (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Ransom note claims Nancy Guthrie died after abduction (BBC News)
 - [commodity] Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing (Energy)
 - [macro] How 100 Romanian hospitals switched to pen and paper to defeat a national cyber-attack (BBC News)
-- [macro] US eases oil sanctions as Iran denies Vance claim on nuclear inspectors (BBC News)
