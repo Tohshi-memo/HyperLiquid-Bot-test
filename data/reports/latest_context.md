@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T02:22:31.367726+00:00`
-- Market context score: `37.23`
-- News risk score: `46.47`
-- Macro risk score: `33.29`
-- Risk-on score: `12.33`
-- Articles: `38`
+- Generated: `2026-06-23T02:37:25.601814+00:00`
+- Market context score: `36.5`
+- News risk score: `47.56`
+- Macro risk score: `33.38`
+- Risk-on score: `11.65`
+- Articles: `37`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:716`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4062`
-- Day/swing latest: `2026-06-23T02:15:00+00:00`
+- Day/swing records: `4063`
+- Day/swing latest: `2026-06-23T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `3`
+- crypto: articles `17`, risk hits `9`, risk headline rate `0.4118`, policy hits `3`
 - macro: articles `16`, risk hits `5`, risk headline rate `0.1875`, policy hits `1`
 
 ## Headlines
 
-- [macro] Tech giant Oracle sheds 21,000 jobs in a year as AI replaces some roles (BBC News)
+- [macro] Tech giant Oracle cuts 21,000 jobs as it embraces AI (BBC News)
 - [macro] Ransom note claims Nancy Guthrie died after abduction (BBC News)
 - [commodity] Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing (Energy)
 - [macro] How 100 Romanian hospitals switched to pen and paper to defeat a national cyber-attack (BBC News)
