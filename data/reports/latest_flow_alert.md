@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-23T11:20:28.210649+00:00`
+- Generated: `2026-06-23T11:25:30.328181+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14894053.26`
+- Polymarket 24h volume: `15109414.75`
 - Polymarket volume z-score: `-0.59`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `2321010.988083` | liquidity: `13601.17848`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `2126546.6318` | liquidity: `6505.57454`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1951906.9608` | liquidity: `5091.10813`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1201264.29` | liquidity: `11654058.37195`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `823796.8246000003` | liquidity: `7731.22025`
-- Will Wes Moore win the 2028 US Presidential Election? | 24h volume: `723065.4490750001` | liquidity: `464631.13575`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `671926.6266940001` | liquidity: `1016174.7664`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `523843.78692400013` | liquidity: `1049189.7873`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `2413410.988083` | liquidity: `13989.31757`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `2038146.6318` | liquidity: `5370.19818`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1890574.9608` | liquidity: `4683.49174`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1204264.29` | liquidity: `11655633.28788`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `823796.8246000003` | liquidity: `7134.76647`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `731444.4833620001` | liquidity: `740250.70863`
+- Will Wes Moore win the 2028 US Presidential Election? | 24h volume: `723436.6990750001` | liquidity: `479820.46166`
+- Will the price of Bitcoin be above $58,000 on June 23? | 24h volume: `522838.1950190003` | liquidity: `214880.70683`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
