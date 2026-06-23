@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T22:45:14.377669+00:00`
-- Market context score: `50.6`
-- News risk score: `39.33`
-- Macro risk score: `22.24`
-- Risk-on score: `31.84`
-- Articles: `65`
-- Polymarket markets: `390`
+- Generated: `2026-06-23T22:52:32.567453+00:00`
+- Market context score: `51.33`
+- News risk score: `39.41`
+- Macro risk score: `22.26`
+- Risk-on score: `33.53`
+- Articles: `64`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -23,14 +23,14 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `32`, risk hits `7`, risk headline rate `0.2188`, policy hits `2`
+- crypto: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `2`
 - macro: articles `30`, risk hits `5`, risk headline rate `0.1333`, policy hits `1`
 
 ## Headlines
 
+- [macro] Germany rail network comes to complete halt nationwide due to IT malfunction (BBC News)
 - [macro] Google's YouTube settles social media addiction case with teen (BBC News)
 - [crypto] $170M Ether longs liquidated as crypto market tumbles: Is ETH doomed? (Cointelegraph.com News)
-- [macro] Germany rail network comes to complete halt nationwide due to IT malfunction (BBC News)
 - [macro] E-commerce giant Alibaba sues US government over defence blacklist (BBC News)
 - [crypto] Starmer steps down: What Andy Burnham means for crypto in the UK (Cointelegraph.com News)
 - [crypto] Crypto critic Roubini joins tokenization boom with onchain 'Technodollar' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
