@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-23T07:00:29.611201+00:00`
+- Generated: `2026-06-23T07:05:29.223483+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17535607.38`
-- Polymarket volume z-score: `-0.54`
+- Polymarket 24h volume: `17295108.93`
+- Polymarket volume z-score: `-0.55`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4282410.410700001` | liquidity: `7393.36127`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3105384.5927000004` | liquidity: `6714.29009`
-- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1293062.21` | liquidity: `11622456.67861`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `823708.2776000003` | liquidity: `7841.95089`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `706517.7339149986` | liquidity: `932712.0457`
-- Will Wes Moore win the 2028 US Presidential Election? | 24h volume: `699929.6202450001` | liquidity: `515606.02525`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `572071.6778370001` | liquidity: `1157209.0597`
-- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `450140.4122089999` | liquidity: `235020.05138`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4112793.4107000004` | liquidity: `8394.43558`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `3044184.5927000004` | liquidity: `7927.91064`
+- Will Iran win the 2026 FIFA World Cup? | 24h volume: `1293062.21` | liquidity: `11622456.62861`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `823708.2776000003` | liquidity: `8573.04435`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `706094.8206649985` | liquidity: `931655.4231`
+- Will Wes Moore win the 2028 US Presidential Election? | 24h volume: `699472.0242450001` | liquidity: `515247.76682`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `572935.0647730001` | liquidity: `1138241.6285`
+- Will Ivan Cepeda Castro win the 2026 Colombian presidential election? | 24h volume: `445002.19760599994` | liquidity: `239870.43666`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
