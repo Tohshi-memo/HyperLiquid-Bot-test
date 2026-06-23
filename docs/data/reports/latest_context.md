@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T09:37:29.457358+00:00`
-- Market context score: `49.93`
-- News risk score: `35.87`
-- Macro risk score: `20.68`
-- Risk-on score: `26.85`
+- Generated: `2026-06-23T09:52:31.398801+00:00`
+- Market context score: `49.01`
+- News risk score: `36.87`
+- Macro risk score: `22.6`
+- Risk-on score: `26.36`
 - Articles: `55`
-- Polymarket markets: `392`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4091`
-- Day/swing latest: `2026-06-23T09:30:00+00:00`
+- Day/swing records: `4092`
+- Day/swing latest: `2026-06-23T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `2`
-- macro: articles `40`, risk hits `6`, risk headline rate `0.1`, policy hits `1`
+- macro: articles `40`, risk hits `7`, risk headline rate `0.125`, policy hits `3`
 
 ## Headlines
 
-- [macro] Heineken names JDE Peet’s chief new CEO (Yahoo Finance)
+- [macro] Stocks hit by Fed rate reality check; oil slips (Yahoo Finance)
 - [macro] Can you keep your kids off school or refuse to work during a heatwave? (BBC News)
 - [macro] Ticket reseller StubHub UK customers to get refunds over illegal hidden fees (BBC News)
 - [macro] NatPower, Tesla reach deal on first phase of $5 billion battery storage plan (Yahoo Finance)
