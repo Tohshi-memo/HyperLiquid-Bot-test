@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-23T09:07:28.744884+00:00`
-- Market context score: `47.47`
-- News risk score: `39.07`
-- Macro risk score: `22.36`
-- Risk-on score: `24.71`
-- Articles: `55`
+- Generated: `2026-06-23T09:22:35.396627+00:00`
+- Market context score: `49.93`
+- News risk score: `35.73`
+- Macro risk score: `20.89`
+- Risk-on score: `26.79`
+- Articles: `54`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4089`
-- Day/swing latest: `2026-06-23T09:00:00+00:00`
+- Day/swing records: `4090`
+- Day/swing latest: `2026-06-23T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `2`
-- macro: articles `39`, risk hits `7`, risk headline rate `0.1282`, policy hits `1`
+- crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `2`
+- macro: articles `39`, risk hits `6`, risk headline rate `0.1026`, policy hits `1`
 
 ## Headlines
 
-- [macro] Ticket reseller StubHub customers to get £10 refund over illegal hidden fees (BBC News)
-- [macro] Paranova and Dovecote Park unveil Aldi Wagyu packs (Yahoo Finance)
+- [macro] Can you keep your kids off school or refuse to work during a heatwave? (BBC News)
+- [macro] Ticket reseller StubHub UK customers to get refunds over illegal hidden fees (BBC News)
+- [macro] PwC Ireland urges long-term focus in Budget 2027 to boost competitiveness (Yahoo Finance)
+- [macro] NatPower, Tesla reach deal on first phase of $5 billion battery storage plan (Yahoo Finance)
+- [macro] Exclusive-Nissan shelves development of electric Qashqai in cost-cutting drive (Yahoo Finance)
 - [crypto] Ripple gains preliminary MiCA license ahead of July 1 EU deadline (Cointelegraph.com News)
 - [macro] Montreal shooting leaves officer, civilian and suspect dead (BBC News)
 - [macro] Banco Santander (SAN) Takes a New Step Toward AI-Powered Commerce (Yahoo Finance)
 - [macro] Energy Transfer (ET) Enter Multiple New Agreements Through Affiliates (Yahoo Finance)
 - [macro] Becton Dickinson (BDX) Issues Voluntary Recall for Select Skin Preparation Products (Yahoo Finance)
-- [macro] Activist Investor Takes Major Stake in Devon Energy (DVN) (Yahoo Finance)
-- [macro] Kimberly-Clark (KMB) Highlights Progress at the dbAccess Global Consumer Conference (Yahoo Finance)
-- [macro] Kraft Heinz (KHC) Reveals Its Next Move at the Annual dbAccess Global Consumer Conference (Yahoo Finance)
