@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-23T15:42:05.116850+00:00`
+- Generated: `2026-06-23T15:52:35.033070+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `177`
 - Outcome sides (rows): `354`
@@ -48,7 +48,7 @@
 - Ecuador [No] symbol `#1861` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [No] symbol `#1911` underlying `n/a` prob `0.997` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Korea [No] symbol `#2111` underlying `n/a` prob `0.9968` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [No] symbol `#1831` underlying `n/a` prob `0.9955` price_source `allMids` vol24h `0.0` oi `0.0`
+- Qatar [No] symbol `#2061` underlying `n/a` prob `0.9955` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
@@ -56,8 +56,8 @@
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0011` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1494` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8506` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1502` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8498` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0063` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9937` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0029` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -76,7 +76,7 @@
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9841` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0009` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0045` price_source `allMids` vol24h `0.0` oi `0.0`
+- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0049` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -84,8 +84,8 @@
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0011` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1494` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8506` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1502` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8498` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0063` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9937` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0029` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -104,7 +104,7 @@
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9841` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0009` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9991` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0045` price_source `allMids` vol24h `0.0` oi `0.0`
+- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0049` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
