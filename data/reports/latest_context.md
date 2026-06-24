@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T19:07:31.032574+00:00`
+- Generated: `2026-06-24T19:16:16.318002+00:00`
 - Market context score: `44.77`
 - News risk score: `47.63`
 - Macro risk score: `38.61`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4224`
-- Day/swing latest: `2026-06-24T19:00:00+00:00`
+- Day/swing records: `4225`
+- Day/swing latest: `2026-06-24T19:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [commodity] U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz (Energy)
 - [commodity] Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz (Energy)
+- [commodity] U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz (Energy)
 - [policy] Cook, Welcome Remarks (FRB: Speeches)
 - [macro] Market Update: COR, ADM, NI (Yahoo Finance)
 - [macro] Elon Musk loses trillionaire status as global tech rout hits SpaceX (BBC News)
