@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T05:59:16.540637+00:00`
+- Generated: `2026-06-24T06:07:30.602344+00:00`
 - Market context score: `46.6`
 - News risk score: `33.58`
 - Macro risk score: `26.29`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4172`
-- Day/swing latest: `2026-06-24T05:45:00+00:00`
+- Day/swing records: `4173`
+- Day/swing latest: `2026-06-24T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [crypto] Catholic leaders, US authorities challenge CLARITY Act over illicit activity (Cointelegraph.com News)
+- [macro] Burnham likely to replace Reeves if he becomes PM (BBC News)
 - [commodity] Oil extends decline as Trump accuses oil firms of 'gouging' consumers (Energy)
 - [crypto] Live markets: Bitcoin could drop to $59,000 in the short-term as liquidity dries up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Clean sweep for Mamdani-backed candidates in New York's Democratic primary (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Bondi Beach shooting hero pleads not guilty to alleged assault on his father (BBC News)
 - [macro] Congress passes war powers measure for first time, rebuking Trump's war with Iran (BBC News)
 - [crypto] StarkWare introduces 'Private KYC' to address personal data breaches (Cointelegraph.com News)
-- [crypto] Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] CFTC sues Kentucky after state’s prediction market lawsuits (Cointelegraph.com News)
