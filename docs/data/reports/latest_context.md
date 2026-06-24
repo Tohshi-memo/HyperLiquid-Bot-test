@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T20:07:33.391815+00:00`
-- Market context score: `44.23`
-- News risk score: `47.6`
-- Macro risk score: `40.35`
-- Risk-on score: `31.52`
-- Articles: `64`
+- Generated: `2026-06-24T20:22:26.369198+00:00`
+- Market context score: `43.65`
+- News risk score: `47.38`
+- Macro risk score: `39.99`
+- Risk-on score: `29.88`
+- Articles: `63`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4228`
-- Day/swing latest: `2026-06-24T20:00:00+00:00`
+- Day/swing records: `4229`
+- Day/swing latest: `2026-06-24T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `39`, risk hits `12`, risk headline rate `0.2051`, policy hits `4`
+- crypto: articles `38`, risk hits `12`, risk headline rate `0.2105`, policy hits `3`
 - macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `0`
 - policy: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `2`
 
@@ -36,6 +36,6 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz (Energy)
 - [commodity] U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz (Energy)
+- [macro] Analyst Report: NiSource Inc (Yahoo Finance)
 - [policy] Cook, Welcome Remarks (FRB: Speeches)
 - [macro] Market Update: COR, ADM, NI (Yahoo Finance)
-- [macro] Elon Musk loses trillionaire status as global tech rout hits SpaceX (BBC News)
