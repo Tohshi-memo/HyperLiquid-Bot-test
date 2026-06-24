@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-24T12:35:30.606619+00:00`
+- Generated: `2026-06-24T12:40:32.729915+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19146771.52`
-- Polymarket volume z-score: `-0.26`
+- Polymarket 24h volume: `19264045.05`
+- Polymarket volume z-score: `-0.25`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4757314.721265` | liquidity: `14778.70532`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3444177.8381100004` | liquidity: `19751.51278`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1239591.855752999` | liquidity: `756387.85033`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1039213.2666600001` | liquidity: `15107.49452`
-- US-Iran Final Nuclear Deal by August 31, 2026? | 24h volume: `955304.9059419996` | liquidity: `622188.399`
-- Will the Iranian regime fall by June 30? | 24h volume: `778659.5035459691` | liquidity: `836428.92407`
-- Will the US confirm that aliens exist by June 30? | 24h volume: `697317.2836839998` | liquidity: `535226.01172`
-- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `579407.034` | liquidity: `33383.14765`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4757313.490265` | liquidity: `14987.4025`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3350577.8381100004` | liquidity: `19803.72031`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1242786.828654999` | liquidity: `757560.94617`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1039213.2666600001` | liquidity: `15253.10089`
+- US-Iran Final Nuclear Deal by August 31, 2026? | 24h volume: `955304.9059419996` | liquidity: `618443.0199`
+- Will the Iranian regime fall by June 30? | 24h volume: `778311.4235459691` | liquidity: `831290.66529`
+- Will the US confirm that aliens exist by June 30? | 24h volume: `711504.0509349998` | liquidity: `519089.15839`
+- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `610607.034` | liquidity: `34763.57273`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
