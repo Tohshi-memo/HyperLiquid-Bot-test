@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T15:37:30.115709+00:00`
-- Market context score: `44.8`
-- News risk score: `49.4`
-- Macro risk score: `32.46`
-- Risk-on score: `31.3`
-- Articles: `80`
+- Generated: `2026-06-24T15:52:30.783198+00:00`
+- Market context score: `44.37`
+- News risk score: `50.34`
+- Macro risk score: `31.06`
+- Risk-on score: `30.62`
+- Articles: `83`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4210`
-- Day/swing latest: `2026-06-24T15:30:00+00:00`
+- Day/swing records: `4211`
+- Day/swing latest: `2026-06-24T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `14`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `44`, risk hits `13`, risk headline rate `0.2727`, policy hits `7`
+- crypto: articles `37`, risk hits `17`, risk headline rate `0.3243`, policy hits `4`
+- macro: articles `45`, risk hits `13`, risk headline rate `0.2667`, policy hits `4`
 
 ## Headlines
 
-- [crypto] Ex-FCA policy insider explains the ‘great divide’ in the UK’s crypto ambition (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Trump cancels signing of housing bill with CBDC ban (Cointelegraph.com News)
-- [macro] This AI Meme Coin Just Crashed 95% in a Week. What Lessons Can Crypto Investors Learn? (Yahoo Finance)
-- [crypto] Binance withdraws Greece-filed MiCA application. (Cointelegraph.com News)
-- [macro] How 770 Shares of This Beer Giant Yield About $100 a Year (Yahoo Finance)
-- [macro] France confirms first Ebola case (BBC News)
-- [macro] Wendy’s picks Steve Cirulis as finance and strategy chief (Yahoo Finance)
-- [crypto] The Impossibility of Perfect Fairness in Transaction Ordering (Cointelegraph.com News)
-- [macro] Qualcomm Stock Price Prediction: 36% Upside the Analysts Are Missing (Yahoo Finance)
-- [macro] Congress passes war powers measure for first time, breaking with Trump over Iran (BBC News)
+- [crypto] Binance withdraws Greece-filed MiCA application (Cointelegraph.com News)
+- [crypto] SecondFi loses $2.4 million in Cardano wallet exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Trump refuses to sign law with U.S. CBDC ban, demands approval of elections bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Paychex tops fourth quarter earnings, shares dip on 2027 outlook (Yahoo Finance)
+- [macro] PayPal No Longer Deserves A Premium Valuation. Here's Why. (Yahoo Finance)
+- [macro] Is The Short Term Pessimism In Fiserv (FISV) A Buying Opportunity Near Its 52-Week Low (Yahoo Finance)
+- [macro] Infosys (INFY) Continues To Win Major AI Contracts As Stock Trades Near 52-Week Lows (Yahoo Finance)
+- [macro] This Beaten Down Tech Stock Could Surge 46% According To Analysts (Yahoo Finance)
+- [macro] Jack Henry & Associates (JKHY) Continues To Struggle Amid Short-Term Challenges (Yahoo Finance)
+- [macro] Is Uber’s (UBER) Europe Expansion A Buying Opportunity As Stock Trades Near 52-Week Lows? (Yahoo Finance)
