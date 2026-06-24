@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T21:22:28.886194+00:00`
+- Generated: `2026-06-24T21:37:29.560893+00:00`
 - Market context score: `46.44`
 - News risk score: `45.28`
 - Macro risk score: `38.59`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4233`
-- Day/swing latest: `2026-06-24T21:15:00+00:00`
+- Day/swing records: `4234`
+- Day/swing latest: `2026-06-24T21:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Trump accuses oil firms of price gouging at petrol pumps (BBC News)
 - [crypto] FTX exec’s wife scheduled for November trial on campaign finance charges (Cointelegraph.com News)
 - [crypto] Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain? (Cointelegraph.com News)
 - [policy] Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses (FRB: Press Release - All Releases)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz (Energy)
 - [commodity] U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz (Energy)
-- [macro] Analyst Report: NiSource Inc (Yahoo Finance)
