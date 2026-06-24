@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T18:22:29.158628+00:00`
+- Generated: `2026-06-24T18:37:40.804911+00:00`
 - Market context score: `45.73`
 - News risk score: `46.59`
 - Macro risk score: `37.09`
 - Risk-on score: `32.75`
 - Articles: `62`
-- Polymarket markets: `392`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4221`
-- Day/swing latest: `2026-06-24T18:15:00+00:00`
+- Day/swing records: `4222`
+- Day/swing latest: `2026-06-24T18:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz (Energy)
 - [policy] Cook, Welcome Remarks (FRB: Speeches)
 - [macro] Elon Musk loses trillionaire status as global tech rout hits SpaceX (BBC News)
 - [crypto] Crypto-backed candidates notch wins in three US state primaries (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Binance withdraws Greek MiCA bid but vows to remain in Europe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin falls under $60K, but traders anticipate 15% bounce (Cointelegraph.com News)
 - [commodity] Oil tankers with 35 million barrels stuck in Persian Gulf exited Strait of Hormuz since Iran deal (Energy)
-- [commodity] Why energy could be a great place to invest even with oil prices retreating — 5 stocks to buy (Energy)
