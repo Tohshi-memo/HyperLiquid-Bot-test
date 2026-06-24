@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T21:37:29.560893+00:00`
-- Market context score: `46.44`
-- News risk score: `45.28`
-- Macro risk score: `38.59`
-- Risk-on score: `33.78`
-- Articles: `63`
+- Generated: `2026-06-24T21:52:45.823199+00:00`
+- Market context score: `47.65`
+- News risk score: `43.48`
+- Macro risk score: `36.58`
+- Risk-on score: `34.21`
+- Articles: `58`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4234`
-- Day/swing latest: `2026-06-24T21:30:00+00:00`
+- Day/swing records: `4235`
+- Day/swing latest: `2026-06-24T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `39`, risk hits `11`, risk headline rate `0.1795`, policy hits `3`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `0`
+- crypto: articles `37`, risk hits `11`, risk headline rate `0.1892`, policy hits `3`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 - policy: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [macro] France, UK and Spain see record temperatures as heatwave grips western Europe (BBC News)
 - [macro] Trump accuses oil firms of price gouging at petrol pumps (BBC News)
 - [crypto] FTX exec’s wife scheduled for November trial on campaign finance charges (Cointelegraph.com News)
 - [crypto] Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain? (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Kalshi sues Illinois officials over prediction markets restrictions (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz (Energy)
-- [commodity] U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz (Energy)
