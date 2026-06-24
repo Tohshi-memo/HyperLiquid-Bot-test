@@ -1,9 +1,9 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-24T04:07:27.957296+00:00`
+- Generated: `2026-06-24T04:22:26.797270+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
-- Outcome markets: `169`
-- Outcome sides (rows): `338`
+- Outcome markets: `165`
+- Outcome sides (rows): `330`
 
 ## Markets by Underlying
 
@@ -11,7 +11,7 @@
 - ETH: `3`
 - HYPE: `1`
 - SOL: `1`
-- unknown: `163`
+- unknown: `159`
 
 ## Markets by Class
 
@@ -20,13 +20,12 @@
 - priceBinary: `4`
 - price_above: `1`
 - price_below: `1`
-- unknown: `159`
+- unknown: `155`
 
 ## Current Implied Probabilities
 
-- Colombia [Yes] symbol `#5140` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [Yes] symbol `#5000` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
+- Colombia [Yes] symbol `#5140` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -40,6 +39,7 @@
 - Scotland [No] symbol `#2081` underlying `n/a` prob `0.9988` price_source `allMids` vol24h `0.0` oi `0.0`
 - Paraguay [No] symbol `#2041` underlying `n/a` prob `0.9988` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
+- Congo DR [No] symbol `#5161` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iraq [No] symbol `#1941` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Panama [No] symbol `#2031` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
