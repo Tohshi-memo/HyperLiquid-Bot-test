@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T14:52:32.920951+00:00`
-- Market context score: `49.23`
-- News risk score: `46.37`
-- Macro risk score: `25.9`
-- Risk-on score: `36.12`
-- Articles: `79`
+- Generated: `2026-06-24T15:07:27.909987+00:00`
+- Market context score: `47.12`
+- News risk score: `48.89`
+- Macro risk score: `29.87`
+- Risk-on score: `35.07`
+- Articles: `78`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4207`
-- Day/swing latest: `2026-06-24T14:45:00+00:00`
+- Day/swing records: `4208`
+- Day/swing latest: `2026-06-24T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `34`, risk hits `14`, risk headline rate `0.2941`, policy hits `4`
-- macro: articles `44`, risk hits `10`, risk headline rate `0.1818`, policy hits `2`
+- crypto: articles `33`, risk hits `14`, risk headline rate `0.303`, policy hits `4`
+- macro: articles `44`, risk hits `11`, risk headline rate `0.2273`, policy hits `7`
 
 ## Headlines
 
-- [crypto] Bitcoin just broke below the floor of its famous Rainbow Chart into the ‘BTC is dead’ zone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] The banking lobby is wrong about stablecoins and community banks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Kenya to charge students with murder over deadly school fire (BBC News)
-- [commodity] U.S. crude oil dips below $70 as tankers transit Strait of Hormuz (Energy)
-- [macro] Lucid vs. Rivian: Which Is Winning the Only Race That Matters? (Yahoo Finance)
-- [macro] Oil falls below $75 per barrel for first time since start of Iran war (Yahoo Finance)
-- [crypto] How memecoin marketing moved from online speculation to real-world risk (Cointelegraph.com News)
-- [macro] Dimon says bull market is like a 'little tsunami' that even he finds surprising, but he says 'it will stop.' Here's why (Yahoo Finance)
-- [macro] Here’s What Pressured Vital Farms (VITL) in Q1 (Yahoo Finance)
-- [macro] Can Argenx Retake Its Record High — And A Buy Point — On A New Vyvgart Strategy? (Yahoo Finance)
+- [macro] France confirms first Ebola case (BBC News)
+- [macro] Wendy’s picks Steve Cirulis as finance and strategy chief (Yahoo Finance)
+- [macro] Congress passes war powers measure for first time, breaking with Trump over Iran (BBC News)
+- [macro] Could SVOL’s High 20% Yield Backfire? 2018 Says “Maybe” (Yahoo Finance)
+- [macro] From trucks to trade compliance, logistics firms make strategic buys (Yahoo Finance)
+- [macro] 3 Quality Dividend Aristocrats to Buy in June (Yahoo Finance)
+- [macro] Wendy's gets the meme stock treatment after Reddit's WallStreetBets calls for a rescue (Yahoo Finance)
+- [macro] Nike names former Pfizer CFO David Denton as finance chief (Yahoo Finance)
+- [macro] Buy, Hold, or Sell: Rivian Slipped to $14 on Macro Pressures, but Does Its $5 Billion Volkswagen Venture Provide an Ironclad Moat? (Yahoo Finance)
+- [macro] JPMorgan raises S&P 500 target to 7,800, but warns of 'flash crash' (Yahoo Finance)
