@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T12:07:34.149971+00:00`
+- Generated: `2026-06-24T12:13:42.604420+00:00`
 - Market context score: `43.6`
 - News risk score: `50.58`
 - Macro risk score: `32.85`
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Brent oil falls below $75, notching its lowest level since before U.S.-Iran war (Energy)
 - [crypto] CBOE debuts prediction market with S&P 500 contracts (Cointelegraph.com News)
 - [macro] Nissan and Valeo sign contract for bidirectional charging stations (Yahoo Finance)
-- [commodity] Brent oil falls below $75, notching its lowest level since before U.S.-Iran war (Energy)
 - [macro] DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering (Yahoo Finance)
 - [macro] Schroders Capital CIO: AI is about returns, not headcounts (Yahoo Finance)
 - [macro] Dow Jones Futures: Nasdaq Set To Regain Key Level As Korea's Kospi Rebounds, Micron Due; FedEx, Cerebras Tumble (Yahoo Finance)
