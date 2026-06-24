@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T00:07:25.351070+00:00`
-- Market context score: `49.17`
-- News risk score: `39.4`
-- Macro risk score: `21.33`
-- Risk-on score: `28.37`
-- Articles: `66`
+- Generated: `2026-06-24T00:22:25.577222+00:00`
+- Market context score: `49.14`
+- News risk score: `39.15`
+- Macro risk score: `21.21`
+- Risk-on score: `28.06`
+- Articles: `64`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4149`
-- Day/swing latest: `2026-06-24T00:00:00+00:00`
+- Day/swing records: `4150`
+- Day/swing latest: `2026-06-24T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `2`
-- macro: articles `32`, risk hits `5`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `30`, risk hits `7`, risk headline rate `0.2333`, policy hits `1`
+- macro: articles `31`, risk hits `5`, risk headline rate `0.129`, policy hits `0`
 
 ## Headlines
 
+- [macro] Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot (BBC News)
 - [macro] Germany rail network briefly halted nationwide due to IT malfunction (BBC News)
 - [macro] Google's YouTube settles social media addiction case with teen (BBC News)
 - [macro] Chinese e-commerce giant Alibaba sues US government over defence blacklist (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Stanford was their golden ticket - could AI help or hinder that? (BBC News)
 - [macro] Ten years on, Brexit's economic impact is becoming clearer (BBC News)
 - [macro] The economic challenges facing the next prime minister (BBC News)
-- [crypto] AI chipmaker Cerebras down 11% after first public earnings report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
