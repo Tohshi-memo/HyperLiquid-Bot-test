@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T11:52:31.775606+00:00`
-- Market context score: `43.47`
-- News risk score: `51.08`
-- Macro risk score: `32.04`
-- Risk-on score: `29.62`
-- Articles: `68`
+- Generated: `2026-06-24T12:07:34.149971+00:00`
+- Market context score: `43.6`
+- News risk score: `50.58`
+- Macro risk score: `32.85`
+- Risk-on score: `29.8`
+- Articles: `67`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4195`
-- Day/swing latest: `2026-06-24T11:45:00+00:00`
+- Day/swing records: `4196`
+- Day/swing latest: `2026-06-24T12:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `11`, risk headline rate `0.3478`, policy hits `4`
-- macro: articles `44`, risk hits `13`, risk headline rate `0.25`, policy hits `12`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `24`, risk hits `11`, risk headline rate `0.3333`, policy hits `4`
+- macro: articles `42`, risk hits `13`, risk headline rate `0.2619`, policy hits `12`
 
 ## Headlines
 
-- [crypto] This forgotten coin could surprise everyone before its next halving (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Carlyle reportedly puts Very Group up for sale at £2bn valuation (Yahoo Finance)
-- [crypto] CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38% (Cointelegraph.com News)
-- [macro] Investment platform Seccl sets up Irish unit (Yahoo Finance)
-- [macro] Tech-led change and AI tops long-term concerns for CPAs – AICPA survey (Yahoo Finance)
-- [macro] SpaceX Will Swallow Nearly the Entire U.S. Economy, According to Elon Musk (Yahoo Finance)
-- [macro] Forget Wall Street Analysts: History Says SpaceX Will Reach This Price Target Within the Next Year (Yahoo Finance)
-- [macro] Alphabet to replace Verizon in Dow Jones Industrial Average (Yahoo Finance)
-- [macro] Dow Jones Futures: Techs Rise As Korea's Kospi Rebounds, Micron Due; FedEx, Cerebras Tumble (Yahoo Finance)
-- [crypto] Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered (Cointelegraph.com News)
+- [crypto] CBOE debuts prediction market with S&P 500 contracts (Cointelegraph.com News)
+- [macro] Nissan and Valeo sign contract for bidirectional charging stations (Yahoo Finance)
+- [commodity] Brent oil falls below $75, notching its lowest level since before U.S.-Iran war (Energy)
+- [macro] DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering (Yahoo Finance)
+- [macro] Schroders Capital CIO: AI is about returns, not headcounts (Yahoo Finance)
+- [macro] Dow Jones Futures: Nasdaq Set To Regain Key Level As Korea's Kospi Rebounds, Micron Due; FedEx, Cerebras Tumble (Yahoo Finance)
+- [macro] Analysts Pound The Table For 4 Rising S&P 500 Stocks (Yahoo Finance)
+- [macro] Elon Musk loses trillionaire status as SpaceX stock falls (Yahoo Finance)
+- [macro] Yum! Brands Is Selling Pizza Hut. Investors Should Be Cautiously Optimistic. (Yahoo Finance)
+- [macro] Nervous investors await Micron earnings as chip sector whipsaws (Yahoo Finance)
