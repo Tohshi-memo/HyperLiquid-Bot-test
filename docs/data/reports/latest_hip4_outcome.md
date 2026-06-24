@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-24T04:22:26.797270+00:00`
+- Generated: `2026-06-24T04:37:29.296034+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `165`
 - Outcome sides (rows): `330`
@@ -24,8 +24,8 @@
 
 ## Current Implied Probabilities
 
+- Colombia [Yes] symbol `#5140` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
-- Colombia [Yes] symbol `#5140` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
