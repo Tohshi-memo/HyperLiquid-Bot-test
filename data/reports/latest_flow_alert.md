@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-24T23:40:29.808362+00:00`
+- Generated: `2026-06-24T23:45:30.371957+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `16217253.91`
-- Polymarket volume z-score: `-0.68`
+- Polymarket 24h volume: `16385752.26`
+- Polymarket volume z-score: `-0.65`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3493753.766665` | liquidity: `14696.19701`
-- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `2369378.058333` | liquidity: `42001.86921`
-- Will JD Vance enter Iran by June 30? | 24h volume: `1783968.403332` | liquidity: `34248.86775`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1556329.0375199972` | liquidity: `255471.04268`
-- US-Iran Final Nuclear Deal by August 31, 2026? | 24h volume: `978578.3422669999` | liquidity: `628146.1709`
-- Will the US confirm that aliens exist by June 30? | 24h volume: `810798.8339710003` | liquidity: `221863.9371`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `739606.358337` | liquidity: `16709.01481`
-- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `699033.482695` | liquidity: `808989.36081`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3493753.766665` | liquidity: `15314.82001`
+- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `2369378.058333` | liquidity: `38509.38921`
+- Will JD Vance enter Iran by June 30? | 24h volume: `1783968.403332` | liquidity: `32456.7157`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1559728.2786369976` | liquidity: `250843.46044`
+- US-Iran Final Nuclear Deal by August 31, 2026? | 24h volume: `978766.5132589999` | liquidity: `522298.3688`
+- Will the US confirm that aliens exist by June 30? | 24h volume: `810798.8339710003` | liquidity: `220140.62509`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `739606.358337` | liquidity: `16965.97426`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `619951.6744770003` | liquidity: `218765.3485`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
