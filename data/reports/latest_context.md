@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T03:07:29.760923+00:00`
-- Market context score: `46.29`
-- News risk score: `35.64`
+- Generated: `2026-06-24T03:22:30.822596+00:00`
+- Market context score: `44.68`
+- News risk score: `38.01`
 - Macro risk score: `21.6`
-- Risk-on score: `18.91`
+- Risk-on score: `17.33`
 - Articles: `44`
 - Polymarket markets: `390`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4161`
-- Day/swing latest: `2026-06-24T03:00:00+00:00`
+- Day/swing records: `4162`
+- Day/swing latest: `2026-06-24T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `0`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `0`
 - macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
 
 ## Headlines
 
+- [crypto] StarkWare introduces 'Private KYC' to address personal data breaches (Cointelegraph.com News)
 - [crypto] Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CFTC sues Kentucky after state’s prediction market lawsuits (Cointelegraph.com News)
 - [macro] Who could be the UK's next chancellor? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Chinese e-commerce giant Alibaba sues US government over defence blacklist (BBC News)
 - [macro] Chinese e-commerce giant Alibaba sues US government over defence blacklist (BBC News)
 - [crypto] Ethereum’s much-hated staking 'tax' may already be obsolete (Cointelegraph.com News)
-- [macro] Stanford was their golden ticket - could AI help or hinder that? (BBC News)
