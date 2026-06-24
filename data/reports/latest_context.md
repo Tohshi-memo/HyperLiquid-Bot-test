@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T10:37:29.790831+00:00`
-- Market context score: `44.31`
-- News risk score: `48.26`
-- Macro risk score: `32.37`
-- Risk-on score: `29.23`
-- Articles: `62`
+- Generated: `2026-06-24T10:52:26.468138+00:00`
+- Market context score: `44.72`
+- News risk score: `45.83`
+- Macro risk score: `28.32`
+- Risk-on score: `26.56`
+- Articles: `58`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4190`
-- Day/swing latest: `2026-06-24T10:30:00+00:00`
+- Day/swing records: `4191`
+- Day/swing latest: `2026-06-24T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `8`, risk headline rate `0.3158`, policy hits `2`
-- macro: articles `42`, risk hits `13`, risk headline rate `0.2619`, policy hits `12`
+- crypto: articles `21`, risk hits `10`, risk headline rate `0.3333`, policy hits `3`
+- macro: articles `36`, risk hits `9`, risk headline rate `0.2222`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Strategy's MSTR may plunge 80% if it repeats this dot-com-era fractal (Cointelegraph.com News)
-- [macro] Roundhill’s WEEK ETF Quietly Pays Treasury Bill Investors Every Wednesday Like Clockwork (Yahoo Finance)
+- [macro] Council tax debt rises to £9bn but here's how you can get help (BBC News)
+- [crypto] YZi Labs ends proxy war with BNB treasury company CEA Industries (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Brent falls below $76, notching its lowest level since day before U.S.-Iran war (Energy)
+- [macro] Tech Stock Selloff Could Just Be a Blip But Watch These 2 Factors (Yahoo Finance)
+- [macro] US demand lifts Sri Lanka apparel exports to 2026 monthly high (Yahoo Finance)
 - [macro] France confirms first Ebola case (BBC News)
-- [macro] Exclusive-US SEC probes popular type of private equity fund as it steps up industry scrutiny, sources say (Yahoo Finance)
-- [macro] US banks look for new bill of health from Fed stress tests (Yahoo Finance)
-- [macro] The Vanguard ETF That Could Set You Up for Life if You Buy It Today (Yahoo Finance)
-- [macro] Widowed Twice, He Can Only Claim on One Record, Worth $2,600 a Month, Not Both (Yahoo Finance)
-- [macro] The Retirement Income Bet That Takes 12 Years To Pay Off (Yahoo Finance)
-- [macro] Edward Jones Offers Carefull Fraud Protection Free to Clients (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Wednesday, June 24, 2026: Earn up to 4.10% APY (Yahoo Finance)
+- [macro] PLN EPI hot taps WNTS to link Conrad’s Mako gas project (Yahoo Finance)
+- [macro] Exclusive-Tata unit says 'extensive damage' from fire at Delhi data centre hampers recovery (Yahoo Finance)
+- [crypto] Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What SK Hynix’s $29 Billion Nasdaq Listing Plan Means for Micron Stock (Yahoo Finance)
