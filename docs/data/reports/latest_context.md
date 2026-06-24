@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-24T00:37:28.711629+00:00`
-- Market context score: `49.72`
-- News risk score: `37.8`
-- Macro risk score: `21.51`
-- Risk-on score: `28.3`
-- Articles: `60`
+- Generated: `2026-06-24T00:52:29.003903+00:00`
+- Market context score: `49.43`
+- News risk score: `37.74`
+- Macro risk score: `22.12`
+- Risk-on score: `27.85`
+- Articles: `57`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4151`
-- Day/swing latest: `2026-06-24T00:30:00+00:00`
+- Day/swing records: `4152`
+- Day/swing latest: `2026-06-24T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `30`, risk hits `5`, risk headline rate `0.1333`, policy hits `0`
+- crypto: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `1`
+- macro: articles `28`, risk hits `5`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [macro] Who could be the UK's next chancellor? (BBC News)
 - [macro] Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot (BBC News)
 - [macro] Germany rail network briefly halted nationwide due to IT malfunction (BBC News)
 - [macro] Google's YouTube settles social media addiction case with teen (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Stanford was their golden ticket - could AI help or hinder that? (BBC News)
 - [macro] Stanford was their golden ticket - could AI help or hinder that? (BBC News)
 - [macro] Ten years on, Brexit's economic impact is becoming clearer (BBC News)
-- [macro] The economic challenges facing the next prime minister (BBC News)
