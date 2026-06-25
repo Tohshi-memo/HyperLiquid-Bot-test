@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-25T19:07:27.168139+00:00`
+- Generated: `2026-06-25T19:22:32.558860+00:00`
 - Market context score: `50.17`
 - News risk score: `44.75`
 - Macro risk score: `30.09`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4320`
-- Day/swing latest: `2026-06-25T19:00:00+00:00`
+- Day/swing records: `4321`
+- Day/swing latest: `2026-06-25T19:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
+- [commodity] Oil reverses losses, rises after an Iran attack on cargo vessel (Energy)
 - [crypto] Coinbase's Base blockchain resumes after two-hour outage disrupted network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil reverses losses, turns higher after an Iran attack on cargo vessel (Energy)
 - [macro] France warns even young people's health at risk as Europe's heatwave shifts east (BBC News)
 - [crypto] Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K? (Cointelegraph.com News)
 - [macro] Analyst Report: United Airlines Holdings Inc (Yahoo Finance)
