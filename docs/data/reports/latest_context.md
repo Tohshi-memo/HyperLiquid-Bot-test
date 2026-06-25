@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-25T15:52:26.209399+00:00`
-- Market context score: `53.11`
+- Generated: `2026-06-25T15:57:19.116518+00:00`
+- Market context score: `52.44`
 - News risk score: `43.39`
 - Macro risk score: `28.81`
-- Risk-on score: `43.33`
+- Risk-on score: `41.83`
 - Articles: `98`
 - Polymarket markets: `390`
 
@@ -30,12 +30,12 @@
 ## Headlines
 
 - [crypto] Strategy has a 10-month cash runway for dividends, but retail investors are losing faith (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Polestar exits US market after government bans sales due to connected vehicle tech (Yahoo Finance)
+- [macro] Forget XLU. The Grid Fund Actually Powering the AI Boom Is Up 23% in 2026 (Yahoo Finance)
+- [macro] This Might Be the Cheapest Meta Platforms Trades in Years. Here's Why. (Yahoo Finance)
+- [macro] Nano Nuclear Energy vs. NuScale Power: Which Nuclear Energy Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [crypto] Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation' (Cointelegraph.com News)
 - [macro] Oil price falls back to pre-Iran war levels (BBC News)
 - [macro] Oil price falls back to pre-Iran war levels (BBC News)
 - [macro] Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests (BBC News)
-- [macro] Polestar says Trump administration forcing it to end US sales (Yahoo Finance)
-- [macro] IBD 50 Stock Indivior Breaks Out Amid Big Fund Ownership Expansion, Strong Profit Prospects (Yahoo Finance)
-- [macro] It’s Pretty Insane How Much TPAY’s 10% Yield Beats Most Covered Call ETFs (Yahoo Finance)
-- [macro] There Is A 20% Yield S&P 500 ETF That Crushes Most Covered Call ETFs (Yahoo Finance)
-- [macro] Meta Stock: 'Bulls Are Frustrated' But Analyst Sees Big Potential For AI Business Push (Yahoo Finance)
+- [macro] Is Micron a Buy After Its Blowout Earnings Report? (Yahoo Finance)
