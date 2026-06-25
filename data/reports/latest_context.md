@@ -1,34 +1,35 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-25T03:07:29.819217+00:00`
-- Market context score: `51.71`
-- News risk score: `37.02`
-- Macro risk score: `40.91`
-- Risk-on score: `39.41`
+- Generated: `2026-06-25T03:22:30.004767+00:00`
+- Market context score: `54.94`
+- News risk score: `34.11`
+- Macro risk score: `39.34`
+- Risk-on score: `43.53`
 - Articles: `37`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `1147`
+- Asset universe count: `1148`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:764`
+- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4256`
-- Day/swing latest: `2026-06-25T03:00:00+00:00`
+- Day/swing records: `4257`
+- Day/swing latest: `2026-06-25T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `3`, risk headline rate `0.1`, policy hits `0`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `19`, risk hits `2`, risk headline rate `0.0526`, policy hits `0`
+- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
 - policy: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [macro] Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities (BBC News)
 - [commodity] Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming (Energy)
 - [crypto] Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT (Cointelegraph.com News)
 - [macro] Trump accuses big oil firms of price-gouging drivers (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Texas family sues Tesla over fatal crash into home (BBC News)
 - [crypto] HYPE down 22% from record highs: Will spot demand revive the uptrend? (Cointelegraph.com News)
 - [macro] France, UK and Spain see record temperatures as heatwave grips western Europe (BBC News)
-- [crypto] FTX exec’s wife scheduled for November trial on campaign finance charges (Cointelegraph.com News)
