@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-25T04:07:39.521582+00:00`
+- Generated: `2026-06-25T04:20:55.123825+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `145`
 - Outcome sides (rows): `290`
@@ -27,10 +27,10 @@
 - Mexico [Yes] symbol `#5400` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Qatar [No] symbol `#2061` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
+- Draw [No] symbol `#5031` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [Yes] symbol `#5020` underlying `n/a` prob `0.9998` price_source `allMids` vol24h `0.0` oi `0.0`
-- Draw [No] symbol `#5031` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#6411` underlying `BTC` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#6411` underlying `BTC` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Uzbekistan [No] symbol `#2191` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Curacao [No] symbol `#1841` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
