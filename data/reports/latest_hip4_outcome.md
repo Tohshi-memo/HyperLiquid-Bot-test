@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-25T04:20:55.123825+00:00`
+- Generated: `2026-06-25T04:37:29.454631+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `145`
 - Outcome sides (rows): `290`
@@ -25,9 +25,10 @@
 ## Current Implied Probabilities
 
 - Mexico [Yes] symbol `#5400` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
+- Czechia [No] symbol `#5381` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
+- Draw [No] symbol `#5031` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Qatar [No] symbol `#2061` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
-- Draw [No] symbol `#5031` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - South Africa [Yes] symbol `#5020` underlying `n/a` prob `0.9998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#6411` underlying `BTC` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9996` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -46,7 +47,6 @@
 - South Korea [No] symbol `#5041` underlying `n/a` prob `0.9987` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9979` price_source `allMids` vol24h `0.0` oi `0.0`
 - Senegal [No] symbol `#2091` underlying `n/a` prob `0.9978` price_source `allMids` vol24h `0.0` oi `0.0`
-- Czechia [No] symbol `#5381` underlying `n/a` prob `0.9978` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iraq [No] symbol `#1941` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 - Jordan [No] symbol `#1971` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
 
