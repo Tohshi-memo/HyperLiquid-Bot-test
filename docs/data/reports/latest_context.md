@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-25T03:37:32.538352+00:00`
-- Market context score: `53.1`
-- News risk score: `37.34`
-- Macro risk score: `41.08`
-- Risk-on score: `42.82`
-- Articles: `38`
+- Generated: `2026-06-25T03:52:29.042171+00:00`
+- Market context score: `55.39`
+- News risk score: `35.65`
+- Macro risk score: `41.16`
+- Risk-on score: `46.53`
+- Articles: `34`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4258`
-- Day/swing latest: `2026-06-25T03:30:00+00:00`
+- Day/swing records: `4259`
+- Day/swing latest: `2026-06-25T03:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `3`, risk headline rate `0.1053`, policy hits `0`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- commodity: articles `6`, risk hits `6`, risk headline rate `0.8333`, policy hits `0`
+- crypto: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
+- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 - policy: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker (Energy)
 - [macro] Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval (Economy)
 - [crypto] Abracadabra takes emergency action as MIM stablecoin depeg worsens (Cointelegraph.com News)
 - [macro] Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities (BBC News)
@@ -38,4 +39,3 @@
 - [macro] The legal fight to get equal pay for Germany's disabled workers (BBC News)
 - [macro] I've spent 30 years in recruitment - this is how to get a job (BBC News)
 - [macro] VAT cut on theme parks and kids' meals comes into force (BBC News)
-- [macro] Texas family sues Tesla over fatal crash into home (BBC News)
