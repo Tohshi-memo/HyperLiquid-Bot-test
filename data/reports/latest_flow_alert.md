@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-25T20:15:31.421578+00:00`
+- Generated: `2026-06-25T20:18:02.693391+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `16240083.66`
-- Polymarket volume z-score: `-0.6`
+- Polymarket 24h volume: `16282423.93`
+- Polymarket volume z-score: `-0.59`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `3124452.019891` | liquidity: `50635.7077`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3009311.987` | liquidity: `15115.99421`
-- Will the US confirm that aliens exist by June 30? | 24h volume: `1878640.345874` | liquidity: `423703.67688`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1743177.0120609987` | liquidity: `177082.59326`
-- Will Nooshi Dadgostar be the next Prime Minister of Sweden? | 24h volume: `813934.2919999998` | liquidity: `65573.18845`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `707167.2007759997` | liquidity: `294892.8091`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `651905.2723379998` | liquidity: `182725.6382`
-- Will Donald Trump publicly insult someone on June 21, 2026? | 24h volume: `554077.4103800001` | liquidity: `2040804.1465`
+- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `3124452.019891` | liquidity: `46580.93786`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3009261.987` | liquidity: `15908.89153`
+- Will the US confirm that aliens exist by June 30? | 24h volume: `1878467.843754` | liquidity: `415792.45789`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1744822.1146999989` | liquidity: `176133.84469`
+- Will Nooshi Dadgostar be the next Prime Minister of Sweden? | 24h volume: `813934.2919999998` | liquidity: `65565.41493`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `733113.4230229997` | liquidity: `271059.2378`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `649940.4077319999` | liquidity: `184374.9846`
+- Will Donald Trump publicly insult someone on June 21, 2026? | 24h volume: `555077.4103800001` | liquidity: `2039810.1415`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
