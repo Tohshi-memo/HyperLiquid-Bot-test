@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-25T07:07:29.077090+00:00`
-- Market context score: `52.97`
-- News risk score: `37.95`
-- Macro risk score: `30.46`
-- Risk-on score: `39.05`
-- Articles: `38`
+- Generated: `2026-06-25T07:22:27.656013+00:00`
+- Market context score: `51.99`
+- News risk score: `38.9`
+- Macro risk score: `32.37`
+- Risk-on score: `38.4`
+- Articles: `39`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4272`
-- Day/swing latest: `2026-06-25T07:00:00+00:00`
+- Day/swing records: `4273`
+- Day/swing latest: `2026-06-25T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
-- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `1`
+- macro: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `1`
 - policy: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens (Economy)
+- [macro] Oil price falls to levels not seen since before Iran war (BBC News)
 - [macro] Cheaper theme park tickets and kids' meals as VAT cut comes into force (BBC News)
 - [crypto] US arbitration giant rolls out ‘legal layer’ for agentic commerce (Cointelegraph.com News)
 - [macro] Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval (Economy)
@@ -36,6 +38,4 @@
 - [commodity] Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming (Energy)
 - [crypto] House Democrats seek SEC answers on AI investment advisers (Cointelegraph.com News)
 - [crypto] MemeCore's M token suddenly crashes 80% with no clear trigger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Ferrari marketing boss quits just weeks after EV launch backlash (BBC News)
