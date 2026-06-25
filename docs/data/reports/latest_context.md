@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-25T03:22:30.004767+00:00`
-- Market context score: `54.94`
-- News risk score: `34.11`
-- Macro risk score: `39.34`
-- Risk-on score: `43.53`
-- Articles: `37`
+- Generated: `2026-06-25T03:37:32.538352+00:00`
+- Market context score: `53.1`
+- News risk score: `37.34`
+- Macro risk score: `41.08`
+- Risk-on score: `42.82`
+- Articles: `38`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4257`
-- Day/swing latest: `2026-06-25T03:15:00+00:00`
+- Day/swing records: `4258`
+- Day/swing latest: `2026-06-25T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `2`, risk headline rate `0.0526`, policy hits `0`
-- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- crypto: articles `19`, risk hits `3`, risk headline rate `0.1053`, policy hits `0`
+- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 - policy: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [macro] Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval (Economy)
+- [crypto] Abracadabra takes emergency action as MIM stablecoin depeg worsens (Cointelegraph.com News)
 - [macro] Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities (BBC News)
 - [commodity] Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming (Energy)
 - [crypto] Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] I've spent 30 years in recruitment - this is how to get a job (BBC News)
 - [macro] VAT cut on theme parks and kids' meals comes into force (BBC News)
 - [macro] Texas family sues Tesla over fatal crash into home (BBC News)
-- [crypto] HYPE down 22% from record highs: Will spot demand revive the uptrend? (Cointelegraph.com News)
-- [macro] France, UK and Spain see record temperatures as heatwave grips western Europe (BBC News)
