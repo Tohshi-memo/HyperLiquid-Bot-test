@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-25T14:30:35.198680+00:00`
+- Generated: `2026-06-25T14:35:38.601094+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17336322.25`
-- Polymarket volume z-score: `-0.39`
+- Polymarket 24h volume: `17368466.13`
+- Polymarket volume z-score: `-0.38`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `2811165.516891` | liquidity: `42088.1925`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1854100.6194800015` | liquidity: `146611.99284`
-- Will the US confirm that aliens exist by June 30? | 24h volume: `1839804.1971820004` | liquidity: `313976.57985`
-- Will JD Vance enter Iran by June 30? | 24h volume: `1579131.352582` | liquidity: `29450.28943`
-- Will Nooshi Dadgostar be the next Prime Minister of Sweden? | 24h volume: `813582.1939999998` | liquidity: `63104.54693`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `751128.9233130006` | liquidity: `223813.9453`
-- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `595198.032443` | liquidity: `798626.168`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `558643.5041460003` | liquidity: `158446.9679`
+- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `2842360.511891` | liquidity: `41723.7953`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1850009.9194800018` | liquidity: `149762.40281`
+- Will the US confirm that aliens exist by June 30? | 24h volume: `1840004.1971820004` | liquidity: `317626.83995`
+- Will JD Vance enter Iran by June 30? | 24h volume: `1518282.7032469998` | liquidity: `30713.18115`
+- Will Nooshi Dadgostar be the next Prime Minister of Sweden? | 24h volume: `813582.1939999998` | liquidity: `63469.57719`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `761216.9923460005` | liquidity: `213457.7263`
+- Will Hunter Biden win the 2028 Democratic presidential nomination? | 24h volume: `595198.032443` | liquidity: `802541.0491`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `561339.4272260001` | liquidity: `158574.9484`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
