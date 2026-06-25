@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-25T18:52:34.278350+00:00`
+- Generated: `2026-06-25T19:07:27.168139+00:00`
 - Market context score: `50.17`
 - News risk score: `44.75`
 - Macro risk score: `30.09`
 - Risk-on score: `38.42`
 - Articles: `76`
-- Polymarket markets: `392`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4319`
-- Day/swing latest: `2026-06-25T18:45:00+00:00`
+- Day/swing records: `4320`
+- Day/swing latest: `2026-06-25T19:00:00+00:00`
 
 ## News Categories
 
@@ -33,9 +33,9 @@
 - [commodity] Oil reverses losses, turns higher after an Iran attack on cargo vessel (Energy)
 - [macro] France warns even young people's health at risk as Europe's heatwave shifts east (BBC News)
 - [crypto] Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K? (Cointelegraph.com News)
+- [macro] Analyst Report: United Airlines Holdings Inc (Yahoo Finance)
+- [macro] Analyst Report: Leidos Holdings Inc (Yahoo Finance)
 - [crypto] Strategy's yield-generating STRC stock is more correlated with BTC than ever (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Market Update: PAYX, LDOS, UTHR, UAL (Yahoo Finance)
 - [crypto] Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP risks drop below $1, but onchain data highlights silver lining (Cointelegraph.com News)
-- [crypto] a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] 21shares trims 2026 crypto forecasts despite institutional adoption gains (Cointelegraph.com News)
