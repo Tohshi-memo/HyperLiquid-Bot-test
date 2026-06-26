@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T09:22:31.974079+00:00`
+- Generated: `2026-06-26T09:37:35.115779+00:00`
 - Market context score: `53.71`
 - News risk score: `32.88`
 - Macro risk score: `27.76`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4375`
-- Day/swing latest: `2026-06-26T09:15:00+00:00`
+- Day/swing records: `4376`
+- Day/swing latest: `2026-06-26T09:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `1`
 - macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [commodity] U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman (Energy)
 - [crypto] Japanese financial services giant SBI Holdings to buy Bitbank for $289 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Grant Cardone says he will keep buying bitcoin using real estate cash flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Polymarket hit by $2.9M theft, users to be refunded (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] U.S.-Iran peace deal grants access to Tehran's nuclear sites, UN watchdog says (Energy)
 - [crypto] Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Reflecting Pool liner cut with sharp knife or razor, National Park Service says (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
