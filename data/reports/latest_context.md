@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T16:52:27.165992+00:00`
-- Market context score: `54.94`
-- News risk score: `44.32`
-- Macro risk score: `26.91`
-- Risk-on score: `47.46`
-- Articles: `71`
+- Generated: `2026-06-26T17:07:26.813034+00:00`
+- Market context score: `53.88`
+- News risk score: `43.74`
+- Macro risk score: `27.13`
+- Risk-on score: `44.7`
+- Articles: `70`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4405`
-- Day/swing latest: `2026-06-26T16:45:00+00:00`
+- Day/swing records: `4406`
+- Day/swing latest: `2026-06-26T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `4`
-- macro: articles `44`, risk hits `9`, risk headline rate `0.1818`, policy hits `8`
+- crypto: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `4`
+- macro: articles `42`, risk hits `10`, risk headline rate `0.1905`, policy hits `6`
 
 ## Headlines
 
+- [crypto] Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position (Cointelegraph.com News)
+- [macro] Mother dies saving daughter in Venezuela earthquakes (BBC News)
+- [macro] The Quiet Gross Margin Reality Check That Points to a Dangerous Valuation Gap Between Marvell and Broadcom (Yahoo Finance)
+- [macro] The Bitcoin Mining ETF That Returned 52% in One Week, And Most Income Investors Have Never Heard of It (Yahoo Finance)
+- [macro] Want $7,000 a Year on $100K? These Pipelines Yield 7%+ While Your Cash Pays Less (Yahoo Finance)
 - [macro] Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents (BBC News)
-- [macro] SEC zeroes in on private equity favorite $106 billion tactic (Yahoo Finance)
-- [macro] Is SpaceX Overvalued Right Now? (Yahoo Finance)
-- [macro] Wall Street Has 36 Buy Ratings on Oracle. Here’s How We See 47% Upside (Yahoo Finance)
-- [macro] $30 Billion in Stocks Are About to Hit the Market in 2 Days, and One Strategist Says: Buy It (Yahoo Finance)
-- [macro] Analyst Behind $250 SpaceX Target Says Physical AI Will Be “One of AI’s Fastest-Growing Areas Over the Next 4-5 Years” (Yahoo Finance)
-- [macro] Social Security Pays $1,976 a Month. Here’s What a $393,000 Portfolio Generates Instead (Yahoo Finance)
+- [macro] 1 Ultra-High-Yield Energy Stalwart With an 6% Payout That Is Safe to Hold for the Next 20 Years (Yahoo Finance)
+- [macro] Corporate America Is Quietly Buying Back Its Own Stock at a Record Pace, and It’s Not Just the Mag 7 (Yahoo Finance)
+- [macro] Why Acadia Pharmaceuticals Stock Is Soaring Today (Yahoo Finance)
 - [crypto] Crypto Biz: The cost of stacking sats (Cointelegraph.com News)
-- [macro] Sharplink Resumes Ethereum Purchases (Yahoo Finance)
-- [macro] This AI Data Center Play Nears Breakout After Record Orders (Yahoo Finance)
