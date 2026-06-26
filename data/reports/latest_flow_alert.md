@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-26T00:00:25.558456+00:00`
+- Generated: `2026-06-26T00:05:33.237401+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17983705.58`
-- Polymarket volume z-score: `-0.2`
+- Polymarket 24h volume: `17256588.1`
+- Polymarket volume z-score: `-0.36`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `3127736.690891` | liquidity: `48539.30815`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3009338.055` | liquidity: `19040.74759`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `2001300.8938019983` | liquidity: `210666.92744`
-- Will the US confirm that aliens exist by June 30? | 24h volume: `1540247.0885180007` | liquidity: `476247.73365`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `888011.7143839995` | liquidity: `251645.6886`
-- Will Nooshi Dadgostar be the next Prime Minister of Sweden? | 24h volume: `813934.2919999998` | liquidity: `62401.16555`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `746019.4068570001` | liquidity: `181939.695`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `680400.572997` | liquidity: `203884.44711`
+- Will Benjamin Netanyahu enter Iran by June 30? | 24h volume: `3127736.690891` | liquidity: `47927.79775`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3009338.055` | liquidity: `19030.48792`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1954375.0044929998` | liquidity: `229308.08113`
+- Will the US confirm that aliens exist by June 30? | 24h volume: `1143166.5185180008` | liquidity: `475741.70185`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `846577.8640459998` | liquidity: `255755.2906`
+- Will Nooshi Dadgostar be the next Prime Minister of Sweden? | 24h volume: `813934.2919999998` | liquidity: `61599.55141`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `745512.859916` | liquidity: `181435.1915`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `680509.028664` | liquidity: `203207.35137`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
