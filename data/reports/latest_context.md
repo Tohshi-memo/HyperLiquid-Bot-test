@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T08:22:33.237478+00:00`
-- Market context score: `52.71`
-- News risk score: `29.72`
-- Macro risk score: `27.78`
-- Risk-on score: `30.5`
-- Articles: `32`
+- Generated: `2026-06-26T08:37:36.862320+00:00`
+- Market context score: `54.36`
+- News risk score: `31.93`
+- Macro risk score: `27.71`
+- Risk-on score: `36.0`
+- Articles: `35`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4371`
-- Day/swing latest: `2026-06-26T08:15:00+00:00`
+- Day/swing records: `4372`
+- Day/swing latest: `2026-06-26T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `1`
-- macro: articles `18`, risk hits `6`, risk headline rate `0.2222`, policy hits `0`
+- crypto: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `1`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Japanese financial services giant SBI Holdings to buy Bitbank for $289 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Grant Cardone says he will keep buying bitcoin using real estate cash flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Polymarket hit by $2.9M theft, users to be refunded (Cointelegraph.com News)
 - [macro] Asia stock markets slide as tech shares slump (BBC News)
 - [macro] Asia stock markets slide as tech shares slump (BBC News)
 - [macro] UN pauses Strait of Hormuz evacuation plan after cargo ship attacked (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Reflecting Pool liner cut with sharp knife or razor, National Park Service says (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Tether stablecoin flips Ether by market cap as ETH routs to $1.5K (Cointelegraph.com News)
-- [crypto] Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Aerial footage reveals destruction in coastal Venezuela (BBC News)
