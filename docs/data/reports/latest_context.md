@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T09:52:31.183525+00:00`
+- Generated: `2026-06-26T09:56:43.580498+00:00`
 - Market context score: `51.39`
 - News risk score: `35.39`
 - Macro risk score: `28.37`
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [crypto] Ethereum treasury firm Sharplink takes in ether for the first time in eight months (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Housing board votes to freeze New York rents in victory for Mamdani (BBC News)
 - [crypto] Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K (Cointelegraph.com News)
 - [macro] Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery (Economy)
 - [commodity] U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Polymarket hit by $2.9M theft, users to be refunded (Cointelegraph.com News)
 - [macro] Asia stock markets slide as tech shares slump (BBC News)
 - [macro] Asia stock markets slide as tech shares slump (BBC News)
-- [macro] UN pauses Strait of Hormuz evacuation plan after cargo ship attacked (BBC News)
