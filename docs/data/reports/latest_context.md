@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T06:07:29.466186+00:00`
+- Generated: `2026-06-26T06:19:40.051226+00:00`
 - Market context score: `52.96`
 - News risk score: `27.47`
 - Macro risk score: `30.95`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4362`
-- Day/swing latest: `2026-06-26T06:00:00+00:00`
+- Day/swing records: `4363`
+- Day/swing latest: `2026-06-26T06:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,8 @@
 
 ## Headlines
 
-- [commodity] UN nuclear watchdog says it has access to Iran's nuclear sites after interim peace deal (Energy)
+- [commodity] U.S.-Iran peace deal grants access to Tehran's nuclear sites, UN watchdog says (Energy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Tether stablecoin flips Ether by market cap as ETH routs to $1.5K (Cointelegraph.com News)
 - [crypto] Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Coinbase's Base resumes block production after 2-hour outage (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Sharplink buys ETH after 8-month pause as token hits 2026 low (Cointelegraph.com News)
 - [crypto] StablecoinX bets on Ethena ecosystem with Nasdaq debut (Cointelegraph.com News)
 - [macro] Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235 (BBC News)
-- [macro] Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants (BBC News)
