@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T06:19:40.051226+00:00`
-- Market context score: `52.96`
-- News risk score: `27.47`
-- Macro risk score: `30.95`
-- Risk-on score: `30.35`
-- Articles: `34`
+- Generated: `2026-06-26T06:22:26.050113+00:00`
+- Market context score: `53.44`
+- News risk score: `27.0`
+- Macro risk score: `30.0`
+- Risk-on score: `30.67`
+- Articles: `35`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -24,11 +24,12 @@
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `15`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `16`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `17`, risk hits `6`, risk headline rate `0.2353`, policy hits `0`
 
 ## Headlines
 
 - [commodity] U.S.-Iran peace deal grants access to Tehran's nuclear sites, UN watchdog says (Energy)
+- [macro] Reflecting Pool liner cut with sharp knife or razor, National Park Service says (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Tether stablecoin flips Ether by market cap as ETH routs to $1.5K (Cointelegraph.com News)
 - [crypto] Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Oil slides 2% as markets look past fresh Iran tensions and focus on supply outlook (Energy)
 - [crypto] Sharplink buys ETH after 8-month pause as token hits 2026 low (Cointelegraph.com News)
 - [crypto] StablecoinX bets on Ethena ecosystem with Nasdaq debut (Cointelegraph.com News)
-- [macro] Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235 (BBC News)
