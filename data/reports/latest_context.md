@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T13:37:27.635815+00:00`
+- Generated: `2026-06-26T13:52:33.298542+00:00`
 - Market context score: `56.58`
 - News risk score: `35.82`
 - Macro risk score: `29.19`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4392`
-- Day/swing latest: `2026-06-26T13:30:00+00:00`
+- Day/swing records: `4393`
+- Day/swing latest: `2026-06-26T13:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman (Energy)
 - [crypto] CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hyperliquid added to Singapore's Investor Alert List (Cointelegraph.com News)
 - [macro] US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] With crypto ending the first half in the red, bitcoin's solace is it beat Strategy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UN pauses Strait of Hormuz evacuation plan after cargo ship attacked (BBC News)
 - [macro] Daily – Vickers Top Insider Picks for 06/26/2026 (Yahoo Finance)
-- [macro] Daily – Vickers Top Buyers & Sellers for 06/26/2026 (Yahoo Finance)
