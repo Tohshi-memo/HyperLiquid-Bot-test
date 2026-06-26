@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T20:59:47.824519+00:00`
+- Generated: `2026-06-26T21:07:26.271862+00:00`
 - Market context score: `46.62`
 - News risk score: `43.4`
 - Macro risk score: `34.17`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4421`
-- Day/swing latest: `2026-06-26T20:45:00+00:00`
+- Day/swing records: `4422`
+- Day/swing latest: `2026-06-26T21:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman (Energy)
 - [crypto] Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israel and Lebanon sign framework agreement after US-brokered talks (BBC News)
@@ -35,6 +36,5 @@
 - [crypto] Former Ethereum Foundation leader warns of funding gap as governance shifts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mother dies saving daughter in Venezuela earthquakes (BBC News)
 - [crypto] Anti-trafficking group says Clarity Act's Section 604 could weaken accountability (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman (Energy)
 - [macro] Europe's deadly heatwave breaks German record and halts public events (BBC News)
 - [crypto] Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
