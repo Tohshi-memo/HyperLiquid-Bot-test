@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T04:52:25.747274+00:00`
-- Market context score: `55.12`
-- News risk score: `30.05`
-- Macro risk score: `30.68`
-- Risk-on score: `37.24`
-- Articles: `37`
+- Generated: `2026-06-26T05:07:30.006453+00:00`
+- Market context score: `52.22`
+- News risk score: `31.45`
+- Macro risk score: `32.76`
+- Risk-on score: `32.76`
+- Articles: `33`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4357`
-- Day/swing latest: `2026-06-26T04:45:00+00:00`
+- Day/swing records: `4358`
+- Day/swing latest: `2026-06-26T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `1`
-- macro: articles `18`, risk hits `6`, risk headline rate `0.2222`, policy hits `0`
+- crypto: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `1`
+- macro: articles `16`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
-- [commodity] Oil slides nearly 2% as markets look past fresh Iran tensions and focus on supply outlook (Energy)
+- [commodity] Oil slides 2% as markets look past fresh Iran tensions and focus on supply outlook (Energy)
 - [crypto] Sharplink buys ETH after 8-month pause as token hits 2026 low (Cointelegraph.com News)
 - [crypto] StablecoinX bets on Ethena ecosystem with Nasdaq debut on Friday (Cointelegraph.com News)
 - [macro] Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235 (BBC News)
