@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T18:52:56.609433+00:00`
+- Generated: `2026-06-26T19:07:28.851710+00:00`
 - Market context score: `48.65`
 - News risk score: `43.78`
 - Macro risk score: `31.32`
@@ -14,11 +14,11 @@
 - Asset universe count: `1149`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:86, fx:6, index:23, metal:20, unknown:766`
+- Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4413`
-- Day/swing latest: `2026-06-26T18:45:00+00:00`
+- Day/swing records: `4414`
+- Day/swing latest: `2026-06-26T19:00:00+00:00`
 
 ## News Categories
 
@@ -37,4 +37,4 @@
 - [crypto] SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives (Cointelegraph.com News)
 - [macro] DR Congo takes Rwanda to international court over decades of conflict (BBC News)
 - [crypto] Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position (Cointelegraph.com News)
-- [macro] Analyst Report: Becton Dickinson & Co (Yahoo Finance)
+- [macro] Analyst Report: DuPont de Nemours Inc (Yahoo Finance)
