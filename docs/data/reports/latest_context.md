@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-26T15:07:26.724979+00:00`
-- Market context score: `57.49`
-- News risk score: `37.46`
-- Macro risk score: `25.6`
-- Risk-on score: `46.85`
-- Articles: `52`
+- Generated: `2026-06-26T15:14:54.044421+00:00`
+- Market context score: `55.8`
+- News risk score: `41.5`
+- Macro risk score: `26.15`
+- Risk-on score: `46.7`
+- Articles: `67`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `4`
-- macro: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `3`
+- macro: articles `41`, risk hits `9`, risk headline rate `0.1707`, policy hits `5`
 
 ## Headlines
 
+- [macro] AI trade hits a wall amid report that OpenAI will delay IPO until 2027 (Yahoo Finance)
 - [crypto] Securitize aims to raise $400 million as tokenization firm nears public debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] The AI Selloff Is Getting Brutal: 10 Tech Giants Already Deep in Bear Market Territory (Yahoo Finance)
+- [macro] Why Is Oracle’s Stock Dropping Amid Record-Breaking AI Growth? (Yahoo Finance)
+- [macro] SpaceX stock on track to shed 18% this week (Yahoo Finance)
+- [macro] Four men held over child-marriage in Sierra Leone set to appear in landmark court case (BBC News)
+- [macro] Retired Engineer With $1.6M Discovers Tax Bomb Hiding Inside 401(k) He Never Rolled Over (Yahoo Finance)
+- [macro] Could This Hydrogen Stock Follow Bloom Energy's Path to Success? (Yahoo Finance)
+- [macro] Nvidia Stock Continues Slide Amid Tech Sell-Off (Yahoo Finance)
 - [macro] US goods trade deficit hits 14-month high in May as imports surge (Yahoo Finance)
-- [macro] The Costly Investing Myth: “This Time Is Different” (Yahoo Finance)
-- [macro] Australia grocery giants set to face “price gouging” laws (Yahoo Finance)
-- [macro] Microsoft stock hits one-year low amid AI spending concerns (Yahoo Finance)
-- [macro] Stocks drop in tech sell-off (Yahoo Finance)
-- [macro] Stock Market Today: Indexes Work Back Into The Black; Dow, S&P Inch Higher (Live Coverage) (Yahoo Finance)
-- [macro] Driver’s biometrics case against ULH expands to class action (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Framework Ventures raises $400M to invest beyond crypto: Report (Cointelegraph.com News)
