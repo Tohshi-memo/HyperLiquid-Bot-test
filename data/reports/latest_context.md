@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T18:52:32.447452+00:00`
-- Market context score: `57.8`
-- News risk score: `38.96`
-- Macro risk score: `21.82`
-- Risk-on score: `47.37`
+- Generated: `2026-06-27T19:07:29.501166+00:00`
+- Market context score: `60.0`
+- News risk score: `35.22`
+- Macro risk score: `14.54`
+- Risk-on score: `46.36`
 - Articles: `52`
 - Polymarket markets: `393`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4508`
-- Day/swing latest: `2026-06-27T18:45:00+00:00`
+- Day/swing records: `4509`
+- Day/swing latest: `2026-06-27T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `37`, risk hits `5`, risk headline rate `0.1351`, policy hits `2`
+- macro: articles `37`, risk hits `1`, risk headline rate `0.027`, policy hits `0`
 
 ## Headlines
 
-- [macro] Watch: A race of against the clock for Venezuela earthquake rescuers (BBC News)
-- [macro] 49-year-old popular steakhouse chain closes 41 locations (Yahoo Finance)
-- [macro] The Fed Removed This 1 Key Phrase From the Inflation Report. What That Means for the Market. (Yahoo Finance)
-- [macro] SoFi Stock Is Down Over 30% and Here Is What Investors Should Consider Now (Yahoo Finance)
-- [macro] Dow Jones goes in hard on Verizon (Yahoo Finance)
-- [macro] How High-Yield Savings Accounts and Money Markets Compare for Savers (Yahoo Finance)
-- [crypto] Why a selloff in gold and silver is dragging bitcoin down (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What to Know About This $130,000 Amalgamated Financial Insider Sale After Shares Rose 49% (Yahoo Finance)
-- [macro] SpaceX Stock Will Join The Nasdaq-100 Index On July 7 (Yahoo Finance)
-- [crypto] DCG-backed Yuma launches fund offering institutional exposure to Bittensor (Cointelegraph.com News)
+- [macro] Viral post says GTA 6 cost as much to build as the $1.5B+ Burj Khalifa — analysts say Take-Two could recoup that in days (Yahoo Finance)
+- [macro] Watch: A race against the clock for Venezuela earthquake rescuers (BBC News)
+- [macro] Fox Advisors Downgrades Seagate Technology (STX) – Here’s Why (Yahoo Finance)
+- [macro] Cloudflare (NET) Announces New Initiative With Major Web Browsers (Yahoo Finance)
+- [macro] BofA Lifts PT on QUALCOMM (QCOM) – Here’s Why (Yahoo Finance)
+- [macro] Is Accenture (ACN) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
+- [macro] Is CrowdStrike (CRWD) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
+- [macro] Sell the House in Retirement and Medicare Bills You for It 24 Months Later. (Yahoo Finance)
+- [macro] EU Targets Microsoft (MSFT) and Amazon Cloud Units for Big Tech “Gatekeeper” Rules, Reuters Reports (Yahoo Finance)
+- [macro] Amazon (AMZN) to Invest an Additional $13 Billion in India by 2030, Reuters Reports (Yahoo Finance)
