@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T04:07:26.570692+00:00`
-- Market context score: `40.2`
-- News risk score: `47.42`
-- Macro risk score: `36.04`
-- Risk-on score: `20.77`
-- Articles: `26`
+- Generated: `2026-06-27T04:22:28.209862+00:00`
+- Market context score: `42.15`
+- News risk score: `44.54`
+- Macro risk score: `35.08`
+- Risk-on score: `22.31`
+- Articles: `25`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4450`
-- Day/swing latest: `2026-06-27T04:00:00+00:00`
+- Day/swing records: `4451`
+- Day/swing latest: `2026-06-27T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `6`, risk headline rate `0.3846`, policy hits `0`
-- macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
+- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Venezuela earthquakes kill 920 people as international rescue teams arrive (BBC News)
 - [macro] Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents (BBC News)
 - [macro] US conducts strikes on Iran after attack on cargo ship (BBC News)
 - [crypto] SOL reclaims $72, but onchain data flags weakening momentum (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] They quit the West for Russia's traditional values, but it wasn't what they expected (BBC News)
 - [macro] Meloni and Trump: A very public fall-out that is proving very hard to fix (BBC News)
 - [macro] Three unusual things about the King's tax bill (BBC News)
-- [macro] Israel and Lebanon sign framework agreement after US-brokered talks (BBC News)
