@@ -2,7 +2,7 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-27T01:48:40.807666+00:00`
+- Generated: `2026-06-27T01:52:29.762961+00:00`
 - Observed: `2026-06-27T01:45:00+00:00`
 - Assets: `1149`
 
@@ -22,9 +22,9 @@ Individual asset screen for drilling down from class-level signals.
 - `#5121` unknown price `0.895` 4h `0.0` vol `0.0` relationship `market_context_high->#5121_24h`
 - `#5111` unknown price `0.964995` 4h `0.0` vol `0.0` relationship `market_context_high->#5111_24h`
 - `#5420` unknown price `0.49` 4h `0.0` vol `0.0` relationship `market_context_high->#5420_4h`
+- `RESOLV` crypto_alt price `0.02042` 4h `-5.4805` vol `446928.53` relationship `market_context_high->RESOLV_24h`
 - `#5100` unknown price `0.82` 4h `1.2346` vol `0.0` relationship `market_context_high->#5100_24h`
 - `#1960` unknown price `0.016755` 4h `-0.9166` vol `0.0` relationship `market_context_high->#1960_24h`
-- `RESOLV` crypto_alt price `0.020916` 4h `-3.1846` vol `443731.84` relationship `market_context_high->RESOLV_24h`
-- `W` crypto_alt price `0.01019` 4h `-4.4986` vol `1070215.2` relationship `market_context_high->W_4h`
-- `LAYER` crypto_alt price `0.066839` 4h `2.1753` vol `419307.74` relationship `market_context_high->LAYER_24h`
-- `MERL` crypto_alt price `0.018669` 4h `-3.3446` vol `363750.13` relationship `market_context_high->MERL_4h`
+- `W` crypto_alt price `0.0102` 4h `-4.4049` vol `1057468.72` relationship `market_context_high->W_4h`
+- `LAYER` crypto_alt price `0.066524` 4h `1.6938` vol `421396.57` relationship `market_context_high->LAYER_24h`
+- `MERL` crypto_alt price `0.018664` 4h `-3.3704` vol `357248.49` relationship `market_context_high->MERL_4h`

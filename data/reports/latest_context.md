@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T01:48:40.807666+00:00`
-- Market context score: `42.85`
-- News risk score: `45.5`
-- Macro risk score: `36.83`
-- Risk-on score: `25.33`
-- Articles: `30`
+- Generated: `2026-06-27T01:52:29.762961+00:00`
+- Market context score: `41.89`
+- News risk score: `51.96`
+- Macro risk score: `34.68`
+- Risk-on score: `27.86`
+- Articles: `20`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -23,8 +23,8 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `6`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `14`, risk hits `6`, risk headline rate `0.3571`, policy hits `1`
+- crypto: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `1`
 
 ## Headlines
 
@@ -35,6 +35,6 @@
 - [macro] Meloni and Trump: A very public fall-out that is proving very hard to fix (BBC News)
 - [macro] Three unusual things about the King's tax bill (BBC News)
 - [macro] Israel and Lebanon sign framework agreement after US-brokered talks (BBC News)
-- [crypto] Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K (Cointelegraph.com News)
 - [macro] Venezuela earthquakes kill 920 people as families desperate for news (BBC News)
 - [commodity] U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman (Energy)
+- [crypto] Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)

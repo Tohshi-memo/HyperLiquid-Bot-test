@@ -2,9 +2,9 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-06-27T01:48:40.807666+00:00`
+- Generated: `2026-06-27T01:52:29.762961+00:00`
 - Price records: `672`
-- Market context records: `4886`
+- Market context records: `4887`
 - Flow alert records: `8640`
 - Minimum samples: `30`
 - Pattern count: `72`
@@ -25,17 +25,17 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `market_context_high->unknown_1h` score `16.0087` n `110` status `ready` deltaP `9.5727` edge `1.312` maxDD `-1.674`
-- `market_context_high->unknown_4h` score `9.56` n `110` status `ready` deltaP `23.0099` edge `0.6964` maxDD `-1.917`
-- `market_context_high->crypto_alt_4h` score `6.4558` n `110` status `ready` deltaP `21.3609` edge `0.5308` maxDD `-7.8181`
-- `market_context_high->crypto_major_4h` score `6.2676` n `110` status `ready` deltaP `18.7971` edge `0.5194` maxDD `-7.1265`
-- `market_context_high->unknown_24h` score `5.0422` n `91` status `ready` deltaP `24.0804` edge `0.2939` maxDD `-1.4072`
+- `market_context_high->unknown_1h` score `16.0099` n `110` status `ready` deltaP `9.5727` edge `1.3121` maxDD `-1.674`
+- `market_context_high->unknown_4h` score `9.5612` n `110` status `ready` deltaP `23.0099` edge `0.6965` maxDD `-1.917`
+- `market_context_high->crypto_alt_4h` score `6.457` n `110` status `ready` deltaP `21.3609` edge `0.5309` maxDD `-7.8181`
+- `market_context_high->crypto_major_4h` score `6.2688` n `110` status `ready` deltaP `18.7971` edge `0.5195` maxDD `-7.1265`
+- `market_context_high->unknown_24h` score `5.0434` n `91` status `ready` deltaP `24.0804` edge `0.294` maxDD `-1.4072`
 - `market_context_high->metal_4h` score `1.1199` n `110` status `ready` deltaP `8.0627` edge `0.1058` maxDD `-1.9651`
-- `market_context_high->equity_4h` score `0.875` n `110` status `ready` deltaP `12.439` edge `0.1674` maxDD `-6.3852`
+- `market_context_high->equity_4h` score `0.8758` n `110` status `ready` deltaP `12.439` edge `0.1675` maxDD `-6.3852`
 - `market_context_high->index_4h` score `0.5913` n `110` status `ready` deltaP `12.1452` edge `0.0411` maxDD `-0.7006`
-- `market_context_high->crypto_major_1h` score `0.4718` n `110` status `ready` deltaP `6.4698` edge `0.1212` maxDD `-5.6406`
-- `market_context_high->crypto_alt_1h` score `0.4074` n `110` status `ready` deltaP `7.8715` edge `0.102` maxDD `-5.5126`
-- `market_context_high->equity_1h` score `0.1958` n `110` status `ready` deltaP `3.9358` edge `0.0586` maxDD `-2.779`
+- `market_context_high->crypto_major_1h` score `0.4726` n `110` status `ready` deltaP `6.4698` edge `0.1213` maxDD `-5.6406`
+- `market_context_high->crypto_alt_1h` score `0.4082` n `110` status `ready` deltaP `7.8715` edge `0.1021` maxDD `-5.5126`
+- `market_context_high->equity_1h` score `0.1966` n `110` status `ready` deltaP `3.9358` edge `0.0587` maxDD `-2.779`
 - `market_context_high->metal_1h` score `-0.2025` n `110` status `ready` deltaP `0.2449` edge `0.0304` maxDD `-1.3057`
 - `market_context_high->commodity_1h` score `-0.2246` n `110` status `ready` deltaP `3.2825` edge `0.0153` maxDD `-1.278`
 - `market_context_high->index_1h` score `-0.5172` n `110` status `ready` deltaP `-0.2885` edge `0.0111` maxDD `-0.7054`
@@ -44,7 +44,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->fx_1h` score `-1.3226` n `110` status `ready` deltaP `-6.7175` edge `-0.0041` maxDD `-0.5734`
 - `market_context_high->fx_24h` score `-1.7125` n `91` status `ready` deltaP `-4.947` edge `-0.0087` maxDD `-2.749`
 - `market_context_high->index_24h` score `-4.515` n `91` status `ready` deltaP `-4.8879` edge `-0.1377` maxDD `-24.6845`
-- `market_context_high->commodity_24h` score `-4.8398` n `91` status `ready` deltaP `14.4993` edge `0.0109` maxDD `-27.5371`
+- `market_context_high->commodity_24h` score `-4.8386` n `91` status `ready` deltaP `14.4993` edge `0.011` maxDD `-27.5371`
 
 ## Guardrails
 
