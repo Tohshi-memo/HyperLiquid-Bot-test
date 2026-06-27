@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T10:22:27.341595+00:00`
-- Market context score: `46.96`
-- News risk score: `40.84`
-- Macro risk score: `31.71`
-- Risk-on score: `28.61`
-- Articles: `20`
+- Generated: `2026-06-27T10:31:29.382461+00:00`
+- Market context score: `47.81`
+- News risk score: `40.22`
+- Macro risk score: `30.27`
+- Risk-on score: `29.43`
+- Articles: `22`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4474`
-- Day/swing latest: `2026-06-27T10:15:00+00:00`
+- Day/swing records: `4475`
+- Day/swing latest: `2026-06-27T10:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `1`
-- macro: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `0`
+- macro: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `1`
 
 ## Headlines
 
@@ -34,6 +34,6 @@
 - [crypto] Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Securitize expects to raise $400M ahead of public debut (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Billionaire Leon Black walks out of Epstein investigation hearing (BBC News)
 - [macro] Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents (BBC News)
 - [crypto] SOL reclaims $72, but onchain data flags weakening momentum (Cointelegraph.com News)
-- [crypto] US senators urge CFTC probe Polymarket over ‘deceptive marketing’ (Cointelegraph.com News)
