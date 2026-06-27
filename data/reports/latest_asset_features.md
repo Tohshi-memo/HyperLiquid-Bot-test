@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-27T14:07:25.843207+00:00`
-- Observed: `2026-06-27T14:00:00+00:00`
+- Generated: `2026-06-27T14:22:31.736745+00:00`
+- Observed: `2026-06-27T14:15:00+00:00`
 - Assets: `1149`
 
 ## Top Activity
@@ -16,15 +16,15 @@ Individual asset screen for drilling down from class-level signals.
 - `#1800` unknown price `0.005125` 4h `0.0` vol `0.0` relationship `market_context_high->#1800_24h`
 - `@215` unknown price `0.0015401` 4h `-0.3236` vol `0.0` relationship `market_context_high->@215_24h`
 - `@16` unknown price `0.057784` 4h `0.0` vol `0.0` relationship `market_context_high->@16_24h`
-- `#1910` unknown price `0.00293` 4h `0.0` vol `0.0` relationship `market_context_high->#1910_24h`
+- `#1910` unknown price `0.002935` 4h `0.1706` vol `0.0` relationship `market_context_high->#1910_24h`
 - `#5431` unknown price `0.655005` 4h `-10.2173` vol `0.0` relationship `market_context_high->#5431_24h`
 - `#5420` unknown price `0.49` 4h `0.0` vol `0.0` relationship `market_context_high->#5420_4h`
-- `#5441` unknown price `0.44552` 4h `-28.0334` vol `0.0` relationship `market_context_high->#5441_24h`
 - `#1960` unknown price `0.014085` 4h `-9.0997` vol `0.0` relationship `market_context_high->#1960_4h`
-- `LAYER` crypto_alt price `0.067673` 4h `0.493` vol `402693.56` relationship `market_context_high->LAYER_24h`
-- `SYRUP` crypto_alt price `0.156435` 4h `7.8416` vol `2284213.49` relationship `market_context_high->SYRUP_24h`
+- `SYRUP` crypto_alt price `0.156085` 4h `7.0138` vol `2308583.86` relationship `market_context_high->SYRUP_24h`
+- `LAYER` crypto_alt price `0.06782` 4h `0.8896` vol `395274.03` relationship `market_context_high->LAYER_24h`
+- `#5441` unknown price `0.445515` 4h `-28.0342` vol `0.0` relationship `market_context_high->#5441_24h`
+- `MERL` crypto_alt price `0.019164` 4h `3.9488` vol `402534.08` relationship `market_context_high->MERL_4h`
+- `#1730` unknown price `0.18783` 4h `2.7488` vol `0.0` relationship `market_context_high->#1730_24h`
 - `@6` unknown price `9.5e-05` 4h `10.4651` vol `0.0` relationship `market_context_high->@6_24h`
-- `MERL` crypto_alt price `0.018888` 4h `2.4073` vol `398748.6` relationship `market_context_high->MERL_4h`
-- `W` crypto_alt price `0.01014` 4h `-2.3121` vol `971844.71` relationship `market_context_high->W_4h`
-- `#1730` unknown price `0.18593` 4h `2.6472` vol `0.0` relationship `market_context_high->#1730_24h`
-- `#5780` unknown price `0.037775` 4h `-4.1487` vol `0.0` relationship `market_context_high->#5780_4h`
+- `#5780` unknown price `0.037805` 4h `-4.2063` vol `0.0` relationship `market_context_high->#5780_4h`
+- `W` crypto_alt price `0.01021` 4h `-1.0659` vol `956676.07` relationship `market_context_high->W_4h`
