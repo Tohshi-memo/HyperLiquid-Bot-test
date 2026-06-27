@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T19:22:32.942052+00:00`
-- Market context score: `60.0`
-- News risk score: `35.22`
-- Macro risk score: `14.54`
-- Risk-on score: `46.36`
-- Articles: `52`
-- Polymarket markets: `393`
+- Generated: `2026-06-27T19:37:30.895515+00:00`
+- Market context score: `55.16`
+- News risk score: `38.05`
+- Macro risk score: `21.31`
+- Risk-on score: `40.54`
+- Articles: `53`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4510`
-- Day/swing latest: `2026-06-27T19:15:00+00:00`
+- Day/swing records: `4511`
+- Day/swing latest: `2026-06-27T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `37`, risk hits `1`, risk headline rate `0.027`, policy hits `0`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `2`
+- macro: articles `37`, risk hits `5`, risk headline rate `0.1351`, policy hits `1`
 
 ## Headlines
 
-- [macro] Prime Is Suing the IRS for $11 Million Over Fuel Tax It Paid on Reefer Diesel. The Same Credit It Is Fighting For Is One Small Carriers Can Claim Too. (Yahoo Finance)
-- [macro] Viral post says GTA 6 cost as much to build as the $1.5B+ Burj Khalifa — analysts say Take-Two could recoup that in days (Yahoo Finance)
-- [macro] Watch: A race against the clock for Venezuela earthquake rescuers (BBC News)
-- [macro] Fox Advisors Downgrades Seagate Technology (STX) – Here’s Why (Yahoo Finance)
-- [macro] Cloudflare (NET) Announces New Initiative With Major Web Browsers (Yahoo Finance)
-- [macro] BofA Lifts PT on QUALCOMM (QCOM) – Here’s Why (Yahoo Finance)
-- [macro] Is Accenture (ACN) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
-- [macro] Is CrowdStrike (CRWD) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
-- [macro] Sell the House in Retirement and Medicare Bills You for It 24 Months Later. (Yahoo Finance)
-- [macro] EU Targets Microsoft (MSFT) and Amazon Cloud Units for Big Tech “Gatekeeper” Rules, Reuters Reports (Yahoo Finance)
+- [crypto] Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss (Cointelegraph.com News)
+- [macro] Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season (Yahoo Finance)
+- [macro] What to Know About This $1.56 Million Dream Finders Homes Insider Sale After Shares Fell 29% (Yahoo Finance)
+- [macro] Nancy Pelosi places big bets on two surging tech stocks (Yahoo Finance)
+- [macro] Scotiabank Cuts PT on América Móvil (AMX) – Here’s Why (Yahoo Finance)
+- [macro] Goldman Sachs Initiates Coverage of RELX PLC (RELX) With a Buy (Yahoo Finance)
+- [macro] Deutsche Bank Cuts PT on Sanofi (SNY) – Here’s Why (Yahoo Finance)
+- [macro] Energy Transfer (ET) Announces Expansion of the Nederland NGL Export Terminal (Yahoo Finance)
+- [macro] DA Davidson Initiates Coverage of Fastenal Company (FAST) (Yahoo Finance)
+- [macro] Scotiabank Lifts PT on Vale S.A. (VALE), Here’s Why (Yahoo Finance)
