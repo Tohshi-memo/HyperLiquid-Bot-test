@@ -2,31 +2,31 @@
 
 These are early-warning indicators for cross-market relationships. They are hypotheses to test, not trade signals by themselves.
 
-- Updated: `2026-06-27T20:22:27.737534+00:00`
+- Updated: `2026-06-27T20:35:09.751645+00:00`
 - Correlation status: `ready`
 - Asset price records: `672`
 - Minimum samples for correlation: `24`
 
 ## Current Signals
 
-- 4h_index_leads_crypto: score `1.3262` - Index perps are stronger than crypto majors; possible risk-on canary.
+- 4h_index_leads_crypto: score `1.4093` - Index perps are stronger than crypto majors; possible risk-on canary.
 
 ## Class Returns
 
-- 15m: commodity avg `0.0185` n `12`; crypto_alt avg `0.1039` n `228`; crypto_major avg `0.0762` n `8`; equity avg `0.0193` n `88`; fx avg `0.0033` n `6`; index avg `0.0146` n `23`; metal avg `0.005` n `20`; unknown avg `-0.0304` n `764`
-- 1h: commodity avg `0.0573` n `12`; crypto_alt avg `-0.3095` n `228`; crypto_major avg `-0.3632` n `8`; equity avg `-0.0633` n `88`; fx avg `0.005` n `6`; index avg `0.015` n `23`; metal avg `-0.0165` n `20`; unknown avg `-0.029` n `764`
-- 4h: commodity avg `0.0417` n `12`; crypto_alt avg `-1.1658` n `228`; crypto_major avg `-1.3507` n `8`; equity avg `-0.1462` n `88`; fx avg `-0.001` n `6`; index avg `-0.0245` n `23`; metal avg `-0.0568` n `20`; unknown avg `0.2288` n `764`
-- 24h: commodity avg `0.2429` n `12`; crypto_alt avg `-0.612` n `228`; crypto_major avg `-0.6829` n `8`; equity avg `0.4243` n `88`; fx avg `0.0887` n `6`; index avg `0.0153` n `23`; metal avg `0.1068` n `20`; unknown avg `-0.2546` n `700`
+- 15m: commodity avg `-0.0026` n `12`; crypto_alt avg `0.0168` n `228`; crypto_major avg `-0.0332` n `8`; equity avg `0.0213` n `88`; fx avg `-0.0105` n `6`; index avg `0.006` n `23`; metal avg `0.0003` n `20`; unknown avg `-0.0991` n `764`
+- 1h: commodity avg `0.0441` n `12`; crypto_alt avg `0.5631` n `228`; crypto_major avg `0.2523` n `8`; equity avg `0.0702` n `88`; fx avg `-0.0055` n `6`; index avg `0.0311` n `23`; metal avg `0.0123` n `20`; unknown avg `-0.0773` n `764`
+- 4h: commodity avg `-0.01` n `12`; crypto_alt avg `-1.2223` n `228`; crypto_major avg `-1.4135` n `8`; equity avg `-0.1147` n `88`; fx avg `-0.0065` n `6`; index avg `-0.0042` n `23`; metal avg `-0.0572` n `20`; unknown avg `0.2728` n `764`
+- 24h: commodity avg `0.1201` n `12`; crypto_alt avg `-0.2402` n `228`; crypto_major avg `-0.4004` n `8`; equity avg `0.5886` n `88`; fx avg `0.0777` n `6`; index avg `0.0348` n `23`; metal avg `0.1462` n `20`; unknown avg `-0.4384` n `700`
 
 ## Correlations
 
 - news_risk_score -> metal_forward_1h_return_pct: corr `-0.2082`, n `668`, weak_sample_signal
-- market_context_score -> metal_forward_1h_return_pct: corr `0.1637`, n `668`, weak_sample_signal
+- market_context_score -> metal_forward_1h_return_pct: corr `0.1636`, n `668`, weak_sample_signal
 - flow_alert_score -> metal_forward_1h_return_pct: corr `0.1358`, n `668`, weak_sample_signal
-- risk_on_score -> metal_forward_1h_return_pct: corr `0.1091`, n `668`, weak_sample_signal
+- risk_on_score -> metal_forward_1h_return_pct: corr `0.1092`, n `668`, weak_sample_signal
 - news_risk_score -> unknown_forward_1h_return_pct: corr `-0.1066`, n `668`, weak_sample_signal
-- news_risk_score -> equity_forward_1h_return_pct: corr `-0.0949`, n `668`, weak_sample_signal
+- news_risk_score -> equity_forward_1h_return_pct: corr `-0.095`, n `668`, weak_sample_signal
 - flow_alert_score -> unknown_forward_1h_return_pct: corr `0.0892`, n `668`, weak_sample_signal
-- news_risk_score -> crypto_alt_forward_1h_return_pct: corr `-0.0812`, n `668`, weak_sample_signal
-- news_risk_score -> crypto_major_forward_1h_return_pct: corr `-0.0808`, n `668`, weak_sample_signal
-- risk_on_score -> index_forward_1h_return_pct: corr `0.0787`, n `668`, weak_sample_signal
+- news_risk_score -> crypto_alt_forward_1h_return_pct: corr `-0.0814`, n `668`, weak_sample_signal
+- news_risk_score -> crypto_major_forward_1h_return_pct: corr `-0.0802`, n `668`, weak_sample_signal
+- risk_on_score -> index_forward_1h_return_pct: corr `0.0794`, n `668`, weak_sample_signal
