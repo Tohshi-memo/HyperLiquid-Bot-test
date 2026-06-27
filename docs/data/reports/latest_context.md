@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T22:47:28.593862+00:00`
+- Generated: `2026-06-27T22:52:25.396207+00:00`
 - Market context score: `55.37`
 - News risk score: `41.84`
 - Macro risk score: `18.47`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] 3 Stocks I'm Not Selling No Matter What the Market Does (Yahoo Finance)
 - [macro] Cathie Wood buys $11.5 million of battered tech stock (Yahoo Finance)
 - [macro] Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment (Yahoo Finance)
 - [macro] Goldman Sachs Raises PT on Dynatrace (DT) Stock (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Daiwa Reduces PT on Alibaba Group Holding Limited (BABA) Stock (Yahoo Finance)
 - [macro] Jefferies Maintains Buy Rating on Oracle (ORCL) Stock (Yahoo Finance)
 - [macro] Hers’s Why Alphabet (GOOGL) Is One of the Best Cloud Computing Stocks to Buy According to Hedge Funds (Yahoo Finance)
-- [macro] Microsoft (MSFT): One of the Best Cloud Computing Stocks to Buy According to Hedge Funds (Yahoo Finance)

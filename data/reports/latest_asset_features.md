@@ -2,7 +2,7 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-27T22:47:28.593862+00:00`
+- Generated: `2026-06-27T22:52:25.396207+00:00`
 - Observed: `2026-06-27T22:45:00+00:00`
 - Assets: `1149`
 
@@ -19,12 +19,12 @@ Individual asset screen for drilling down from class-level signals.
 - `#2150` unknown price `0.00264` 4h `0.0` vol `0.0` relationship `market_context_high->#2150_24h`
 - `#2180` unknown price `0.00301` 4h `0.0` vol `0.0` relationship `market_context_high->#2180_24h`
 - `#5110` unknown price `0.065005` 4h `0.0` vol `0.0` relationship `market_context_high->#5110_24h`
-- `#1730` unknown price `0.1768` 4h `-6.724` vol `0.0` relationship `market_context_high->#1730_24h`
-- `#5880` unknown price `0.0075` 4h `-95.1589` vol `0.0` relationship `market_context_high->#5880_24h`
-- `SYRUP` crypto_alt price `0.142395` 4h `-2.4625` vol `3264217.65` relationship `market_context_high->SYRUP_24h`
+- `#1730` unknown price `0.17789` 4h `-6.1489` vol `0.0` relationship `market_context_high->#1730_24h`
+- `#5880` unknown price `0.005005` 4h `-96.7694` vol `0.0` relationship `market_context_high->#5880_24h`
+- `SYRUP` crypto_alt price `0.14257` 4h `-2.3426` vol `3263269.26` relationship `market_context_high->SYRUP_24h`
 - `#5431` unknown price `0.655145` 4h `-0.0008` vol `0.0` relationship `market_context_high->#5431_24h`
 - `#1960` unknown price `0.01409` 4h `0.0355` vol `0.0` relationship `market_context_high->#1960_4h`
-- `#5900` unknown price `0.246125` 4h `-11.9394` vol `0.0` relationship `market_context_high->#5900_24h`
-- `LAYER` crypto_alt price `0.066757` 4h `-1.0392` vol `343533.13` relationship `market_context_high->LAYER_24h`
+- `#5900` unknown price `0.24638` 4h `-11.8482` vol `0.0` relationship `market_context_high->#5900_24h`
+- `LAYER` crypto_alt price `0.066893` 4h `-0.8376` vol `342225.27` relationship `market_context_high->LAYER_24h`
 - `@6` unknown price `9.5e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@6_24h`
-- `#1740` unknown price `0.00882` 4h `45.3048` vol `0.0` relationship `market_context_high->#1740_4h`
+- `FOGO` crypto_alt price `0.01046` 4h `7.58` vol `493533.06` relationship `market_context_high->FOGO_4h`
