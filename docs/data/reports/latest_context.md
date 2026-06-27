@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T17:37:24.767667+00:00`
-- Market context score: `55.89`
+- Generated: `2026-06-27T17:51:51.663200+00:00`
+- Market context score: `57.83`
 - News risk score: `40.53`
 - Macro risk score: `22.15`
-- Risk-on score: `44.57`
+- Risk-on score: `48.88`
 - Articles: `49`
 - Polymarket markets: `392`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4503`
-- Day/swing latest: `2026-06-27T17:30:00+00:00`
+- Day/swing records: `4504`
+- Day/swing latest: `2026-06-27T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `36`, risk hits `6`, risk headline rate `0.1389`, policy hits `2`
+- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `2`
 
 ## Headlines
 
-- [macro] What to Know About This $197,000 Veracyte Insider Sale After a 120% Stock Rally (Yahoo Finance)
-- [macro] AMC makes bold call that sends its stock crashing (Yahoo Finance)
-- [macro] This U.S. Uranium Miner Just Became a Critical Minerals Play. But Is the Stock a Buy? (Yahoo Finance)
-- [macro] The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map (Yahoo Finance)
-- [macro] Standard Chartered Says XRP Hits $28 by 2030 but Ripple’s Own Stablecoin May Have Other Plans (Yahoo Finance)
-- [macro] Europe's deadly heatwave breaks German record and halts public events (BBC News)
-- [macro] Americans Need $1.6 Million to Retire. The Median 55-Year-Old Has $205,341. (Yahoo Finance)
-- [crypto] What Robinhood’s recent layoffs say about the current state of crypto investments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Citrix (CTXS), HPE (HPE) Expand Partnership for Hybrid Cloud and Virtualization (Yahoo Finance)
-- [macro] Microchip Tech (MCHP) Armenia Office Receives U.S. Export License for Advanced FPGA Development (Yahoo Finance)
+- [macro] AT&T is raising 2 fees customers pay monthly (Yahoo Finance)
+- [macro] Ignore Every Utility Bill And Still Keep The Lights On. Here’s How (Yahoo Finance)
+- [macro] Is Veritone (VERI) One of the Underperforming Tech Stocks to Buy According to Analysts? (Yahoo Finance)
+- [macro] Kingsoft Cloud Holdings (KC): Underperforming Tech Stocks to Buy According to Analysts (Yahoo Finance)
+- [macro] Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions (Yahoo Finance)
+- [macro] Tigo Energy (TYGO) Launches Modular GO Energy Storage System for European Residential Market (Yahoo Finance)
+- [macro] EPAM Systems (EPAM), TGS Collaborate to Accelerate AI Adoption in Energy Sector (Yahoo Finance)
+- [macro] Here is Why Endava (DAVA) is One of the Underperforming Tech Stocks to Buy According to Analysts (Yahoo Finance)
+- [macro] Fastly (FSLY), Skyfire Partner to Enable Secure and Monetizable Agentic Commerce (Yahoo Finance)
+- [macro] Accenture (ACN), Seattle Seahawks Enter Multi-Year Partnership to Drive Business Transformation (Yahoo Finance)
