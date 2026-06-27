@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T22:07:26.925811+00:00`
-- Market context score: `49.11`
+- Generated: `2026-06-27T22:22:31.405603+00:00`
+- Market context score: `48.13`
 - News risk score: `44.49`
 - Macro risk score: `23.17`
-- Risk-on score: `33.23`
+- Risk-on score: `31.05`
 - Articles: `54`
 - Polymarket markets: `393`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4520`
-- Day/swing latest: `2026-06-27T22:00:00+00:00`
+- Day/swing records: `4521`
+- Day/swing latest: `2026-06-27T22:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Accenture Shares Plunged 50% This Year. Here's What Investors Need to Know. (Yahoo Finance)
 - [macro] Israel strikes southern Lebanon as Hezbollah condemns new deal (BBC News)
 - [macro] Where Will High-Yield Enbridge Stock Be in 10 Years? (Yahoo Finance)
 - [macro] Panic attacks and fractures - Venezuela hospital treats earthquake victims (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Time's running out for Americans to claim a possible COVID tax refund (Yahoo Finance)
 - [macro] Looking for Reliable Retirement Income? This Vanguard ETF Could Be Worth a Closer Look. (Yahoo Finance)
 - [crypto] Fidelity rebuts claims Bitcoin becomes less secure after halvings (Cointelegraph.com News)
-- [macro] Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make (Yahoo Finance)
