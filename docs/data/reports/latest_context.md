@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T19:16:19.033160+00:00`
-- Market context score: `60.55`
+- Generated: `2026-06-27T19:22:32.942052+00:00`
+- Market context score: `60.0`
 - News risk score: `35.22`
 - Macro risk score: `14.54`
-- Risk-on score: `47.57`
+- Risk-on score: `46.36`
 - Articles: `52`
 - Polymarket markets: `393`
 
@@ -28,7 +28,6 @@
 
 ## Headlines
 
-- [macro] The Market Just Pulled Back Again. These 3 Blue Chips Are the Ones to Buy. (Yahoo Finance)
 - [macro] Prime Is Suing the IRS for $11 Million Over Fuel Tax It Paid on Reefer Diesel. The Same Credit It Is Fighting For Is One Small Carriers Can Claim Too. (Yahoo Finance)
 - [macro] Viral post says GTA 6 cost as much to build as the $1.5B+ Burj Khalifa — analysts say Take-Two could recoup that in days (Yahoo Finance)
 - [macro] Watch: A race against the clock for Venezuela earthquake rescuers (BBC News)
@@ -38,3 +37,4 @@
 - [macro] Is Accenture (ACN) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
 - [macro] Is CrowdStrike (CRWD) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
 - [macro] Sell the House in Retirement and Medicare Bills You for It 24 Months Later. (Yahoo Finance)
+- [macro] EU Targets Microsoft (MSFT) and Amazon Cloud Units for Big Tech “Gatekeeper” Rules, Reuters Reports (Yahoo Finance)
