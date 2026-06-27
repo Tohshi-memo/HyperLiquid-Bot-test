@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T12:00:09.690226+00:00`
-- Market context score: `50.9`
-- News risk score: `40.36`
-- Macro risk score: `30.33`
-- Risk-on score: `36.43`
-- Articles: `15`
+- Generated: `2026-06-27T12:07:31.701975+00:00`
+- Market context score: `46.45`
+- News risk score: `44.25`
+- Macro risk score: `30.12`
+- Risk-on score: `29.75`
+- Articles: `16`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -22,11 +22,12 @@
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `1`
+- crypto: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `1`
 - macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [crypto] SecondFi targets two-week recovery after Cardano wallet exploit (Cointelegraph.com News)
 - [macro] US strikes Iran after attack on cargo ship (BBC News)
 - [macro] Venezuela earthquakes kill 920 people as international rescue teams arrive (BBC News)
 - [crypto] EU lawmakers urge assessing DeFi, staking, NFT regulation (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Billionaire Leon Black walks out of Epstein investigation hearing (BBC News)
 - [macro] Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents (BBC News)
-- [crypto] SOL reclaims $72, but onchain data flags weakening momentum (Cointelegraph.com News)
