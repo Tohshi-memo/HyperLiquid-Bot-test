@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T21:07:32.666609+00:00`
+- Generated: `2026-06-27T21:22:26.335193+00:00`
 - Market context score: `53.88`
 - News risk score: `41.67`
 - Macro risk score: `18.63`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4517`
-- Day/swing latest: `2026-06-27T21:00:00+00:00`
+- Day/swing records: `4518`
+- Day/swing latest: `2026-06-27T21:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] 'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes (BBC News)
 - [crypto] Fidelity rebuts claims Bitcoin becomes less secure after halvings (Cointelegraph.com News)
 - [macro] Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make (Yahoo Finance)
-- [macro] Heatwave breaks more records in northern and central Europe (BBC News)
+- [macro] Heatwave breaks records in Germany, Denmark and Czech Republic (BBC News)
+- [macro] What Is TTEC Holdings Inc (TTEC)’s AI-Powered Claims Validation Platform About? (Yahoo Finance)
 - [macro] Perfect Corp (PERF) Expands Its Developer Tools (Yahoo Finance)
 - [macro] Should Investors Buy Infleqtion to Ride the Quantum Computing Rally? (Yahoo Finance)
 - [macro] CI&T (CINT) Joins Anthropic’s Claude Partner Network (Yahoo Finance)
 - [macro] Restaurant Brands International vs. McDonald's: Comparing Revenue Trends for These Fast-Food Giants (Yahoo Finance)
 - [macro] 3 Reasons to Buy Silicon Motion Technology Stock Like There's No Tomorrow (Yahoo Finance)
-- [macro] Here’s Why PayPay Corporation (PAYP) Is Among the Most Promising New Technology Stocks (Yahoo Finance)
-- [macro] 1 Reason Why Passively Managed Index Funds Could Save You More Money Than Mutual Funds (Yahoo Finance)
