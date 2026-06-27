@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-27T02:15:30.054166+00:00`
+- Generated: `2026-06-27T02:20:25.637618+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `16526838.86`
-- Polymarket volume z-score: `-0.44`
+- Polymarket 24h volume: `18425432.33`
+- Polymarket volume z-score: `-0.02`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3539892.311` | liquidity: `15492.31925`
-- Will Egypt win on 2026-06-26? | 24h volume: `2593041.120474001` | liquidity: `2306219.5984`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1324216.4531599998` | liquidity: `212841.03064`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `759299.5024340006` | liquidity: `425006.9463`
-- Will JD Vance enter Iran by June 30? | 24h volume: `731630.6813319998` | liquidity: `40186.34257`
-- Will Crude Oil (CL) hit (HIGH) $200 by end of June? | 24h volume: `666601.6540000001` | liquidity: `394304.53852`
-- Saudi Arabia bans US military aircraft by June 30? | 24h volume: `621022.8426609999` | liquidity: `19503.92651`
-- Will IR Iran win on 2026-06-26? | 24h volume: `607440.942528999` | liquidity: `1772685.9022`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3539892.311` | liquidity: `15491.70205`
+- Will Egypt win on 2026-06-26? | 24h volume: `2723407.7177470005` | liquidity: `2573227.2283`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1325592.3378939999` | liquidity: `223940.15304`
+- Will Trump say "Mutilation" during Faith & Freedom Coalition Conference? | 24h volume: `903251.988806` | liquidity: `53592.57616`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `759299.5024340006` | liquidity: `424786.9157`
+- Will JD Vance enter Iran by June 30? | 24h volume: `731630.6813319998` | liquidity: `37210.60487`
+- Will Crude Oil (CL) hit (HIGH) $200 by end of June? | 24h volume: `666601.6540000001` | liquidity: `394311.99531`
+- Will IR Iran win on 2026-06-26? | 24h volume: `647848.1785069997` | liquidity: `2122306.0978`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
