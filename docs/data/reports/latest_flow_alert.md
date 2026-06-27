@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-27T05:10:28.615568+00:00`
+- Generated: `2026-06-27T05:15:26.868546+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `34569189.08`
-- Polymarket volume z-score: `3.44`
+- Polymarket 24h volume: `36693946.44`
+- Polymarket volume z-score: `3.88`
 
 ## Top Polymarket Markets
 
-- Will Egypt win on 2026-06-26? | 24h volume: `8807037.329994954` | liquidity: `3334138.60203`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4460452.231` | liquidity: `15757.32555`
-- Will Egypt vs. IR Iran end in a draw? | 24h volume: `3766379.0050700125` | liquidity: `759997.89055`
-- Will IR Iran win on 2026-06-26? | 24h volume: `3675321.9362499914` | liquidity: `2221368.87222`
-- Egypt vs. IR Iran: O/U 2.5 | 24h volume: `2112692.418826999` | liquidity: `121334.0286`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1125150.639144` | liquidity: `190117.22209`
-- Will Trump say "Mutilation" during Faith & Freedom Coalition Conference? | 24h volume: `938831.978806` | liquidity: `209506.62433`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `802548.4889780006` | liquidity: `371659.4521`
+- Will Egypt win on 2026-06-26? | 24h volume: `8984607.317792954` | liquidity: `3163951.14902`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4542404.231` | liquidity: `15490.01587`
+- Will Egypt vs. IR Iran end in a draw? | 24h volume: `4005424.4740360174` | liquidity: `850243.59542`
+- Will IR Iran win on 2026-06-26? | 24h volume: `3958637.972575992` | liquidity: `1989001.42839`
+- Egypt vs. IR Iran: O/U 2.5 | 24h volume: `2130816.8544439985` | liquidity: `521747.07161`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `1115834.2011189999` | liquidity: `188232.76409`
+- Will Trump say "Mutilation" during Faith & Freedom Coalition Conference? | 24h volume: `950651.978806` | liquidity: `197723.43931`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `792817.5732620005` | liquidity: `370606.7979`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
