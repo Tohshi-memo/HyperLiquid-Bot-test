@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T14:04:18.752064+00:00`
-- Market context score: `53.28`
-- News risk score: `39.5`
-- Macro risk score: `27.33`
-- Risk-on score: `39.86`
-- Articles: `30`
+- Generated: `2026-06-27T14:07:25.843207+00:00`
+- Market context score: `52.91`
+- News risk score: `39.88`
+- Macro risk score: `28.08`
+- Risk-on score: `39.65`
+- Articles: `29`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,7 +24,7 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `2`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `2`
+- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `2`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [macro] Robert, Past 70.5, Asks Clark Howard What to Do With RMDs From Three Retirement Accounts (Yahoo Finance)
 - [macro] iShares vs. Global X: Which Defense ETF Looks Best in 2026? (Yahoo Finance)
 - [crypto] Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] ‘A paycheck is not the key to independence’: Nearly 1 in 3 young adults still live at home — and most of them have jobs (Yahoo Finance)
 - [macro] Court appoints receiver for Golub, BlueFive’s Mag Mile office (Yahoo Finance)
+- [macro] ‘A paycheck is not the key to independence’: Nearly 1 in 3 young adults still live at home — and most of them have jobs (Yahoo Finance)
