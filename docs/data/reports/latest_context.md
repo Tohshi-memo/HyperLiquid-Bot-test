@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T21:37:25.629140+00:00`
-- Market context score: `53.2`
-- News risk score: `41.67`
-- Macro risk score: `18.63`
-- Risk-on score: `38.23`
-- Articles: `52`
+- Generated: `2026-06-27T21:43:23.705292+00:00`
+- Market context score: `52.42`
+- News risk score: `42.59`
+- Macro risk score: `19.97`
+- Risk-on score: `37.78`
+- Articles: `53`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `13`, risk hits `6`, risk headline rate `0.3846`, policy hits `1`
-- macro: articles `38`, risk hits `4`, risk headline rate `0.1053`, policy hits `0`
+- macro: articles `39`, risk hits `5`, risk headline rate `0.1282`, policy hits `0`
 
 ## Headlines
 
+- [macro] Panic attacks and fractures - Venezuela hospital treats earthquake victims (BBC News)
 - [macro] SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor (Yahoo Finance)
 - [macro] 'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes (BBC News)
 - [macro] Time's running out for Americans to claim a possible COVID tax refund (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Heatwave breaks records in Germany, Denmark and Czech Republic (BBC News)
 - [macro] What Is TTEC Holdings Inc (TTEC)’s AI-Powered Claims Validation Platform About? (Yahoo Finance)
 - [macro] Perfect Corp (PERF) Expands Its Developer Tools (Yahoo Finance)
-- [macro] Should Investors Buy Infleqtion to Ride the Quantum Computing Rally? (Yahoo Finance)
