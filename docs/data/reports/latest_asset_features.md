@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-27T10:07:31.323071+00:00`
-- Observed: `2026-06-27T10:00:00+00:00`
+- Generated: `2026-06-27T10:22:27.341595+00:00`
+- Observed: `2026-06-27T10:15:00+00:00`
 - Assets: `1149`
 
 ## Top Activity
@@ -24,7 +24,7 @@ Individual asset screen for drilling down from class-level signals.
 - `#1770` unknown price `0.000585` 4h `-42.3645` vol `0.0` relationship `market_context_high->#1770_24h`
 - `#5420` unknown price `0.49` 4h `0.0` vol `0.0` relationship `market_context_high->#5420_4h`
 - `#5111` unknown price `0.934995` 4h `0.0` vol `0.0` relationship `market_context_high->#5111_24h`
-- `RESOLV` crypto_alt price `0.019528` 4h `-1.3887` vol `504053.31` relationship `market_context_high->RESOLV_24h`
+- `RESOLV` crypto_alt price `0.019498` 4h `-1.3658` vol `519073.9` relationship `market_context_high->RESOLV_24h`
 - `#5100` unknown price `0.82` 4h `0.0` vol `0.0` relationship `market_context_high->#5100_24h`
 - `#1960` unknown price `0.015495` 4h `-5.4029` vol `0.0` relationship `market_context_high->#1960_24h`
-- `@47` unknown price `0.00675` 4h `-45.3176` vol `0.0` relationship `market_context_high->@47_24h`
+- `@47` unknown price `0.00675` 4h `0.0` vol `0.0` relationship `market_context_high->@47_24h`
