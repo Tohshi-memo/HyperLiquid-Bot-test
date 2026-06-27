@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T09:52:51.950089+00:00`
+- Generated: `2026-06-27T10:07:31.323071+00:00`
 - Market context score: `48.08`
 - News risk score: `39.2`
 - Macro risk score: `31.65`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4472`
-- Day/swing latest: `2026-06-27T09:45:00+00:00`
+- Day/swing records: `4473`
+- Day/swing latest: `2026-06-27T10:00:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [macro] Venezuela earthquakes kill 920 people as international rescue teams arrive (BBC News)
 - [macro] US strikes Iran after attack on cargo ship (BBC News)
+- [macro] Venezuela earthquakes kill 920 people as international rescue teams arrive (BBC News)
 - [crypto] EU lawmakers urge assessing DeFi, staking, NFT regulation (Cointelegraph.com News)
 - [crypto] Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
