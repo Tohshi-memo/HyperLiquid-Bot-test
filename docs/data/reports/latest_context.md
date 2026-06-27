@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T17:51:51.663200+00:00`
-- Market context score: `57.83`
-- News risk score: `40.53`
-- Macro risk score: `22.15`
-- Risk-on score: `48.88`
-- Articles: `49`
+- Generated: `2026-06-27T18:07:25.965480+00:00`
+- Market context score: `59.55`
+- News risk score: `38.79`
+- Macro risk score: `20.49`
+- Risk-on score: `50.61`
+- Articles: `50`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4504`
-- Day/swing latest: `2026-06-27T17:45:00+00:00`
+- Day/swing records: `4505`
+- Day/swing latest: `2026-06-27T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `2`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `2`
+- macro: articles `36`, risk hits `4`, risk headline rate `0.1111`, policy hits `2`
 
 ## Headlines
 
+- [crypto] DCG-backed Yuma launches fund offering institutional exposure to Bittensor (Cointelegraph.com News)
+- [macro] Why Plug Power Inc. (PLUG) Is Leaning on Electrolyzer Deployments to Support Its Green Hydrogen Equipment Story (Yahoo Finance)
+- [macro] How Nextpower Inc. (NXT) Uses Prevalon to Push Beyond Solar Trackers Into Storage and Data-Center Power (Yahoo Finance)
+- [macro] Why This $1.8 Million Dime Insider Sale May Matter Less Than Its 67% EPS Growth (Yahoo Finance)
+- [macro] Where Will Nvidia Stock Be in 2030? (Yahoo Finance)
 - [macro] AT&T is raising 2 fees customers pay monthly (Yahoo Finance)
 - [macro] Ignore Every Utility Bill And Still Keep The Lights On. Here’s How (Yahoo Finance)
+- [macro] Intuitive Surgical Stock Is Up Over 400%. Here's Why It's Still a No-Brainer Buy. (Yahoo Finance)
 - [macro] Is Veritone (VERI) One of the Underperforming Tech Stocks to Buy According to Analysts? (Yahoo Finance)
 - [macro] Kingsoft Cloud Holdings (KC): Underperforming Tech Stocks to Buy According to Analysts (Yahoo Finance)
-- [macro] Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions (Yahoo Finance)
-- [macro] Tigo Energy (TYGO) Launches Modular GO Energy Storage System for European Residential Market (Yahoo Finance)
-- [macro] EPAM Systems (EPAM), TGS Collaborate to Accelerate AI Adoption in Energy Sector (Yahoo Finance)
-- [macro] Here is Why Endava (DAVA) is One of the Underperforming Tech Stocks to Buy According to Analysts (Yahoo Finance)
-- [macro] Fastly (FSLY), Skyfire Partner to Enable Secure and Monetizable Agentic Commerce (Yahoo Finance)
-- [macro] Accenture (ACN), Seattle Seahawks Enter Multi-Year Partnership to Drive Business Transformation (Yahoo Finance)
