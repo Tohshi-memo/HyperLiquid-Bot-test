@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T05:37:26.283607+00:00`
+- Generated: `2026-06-27T05:44:05.702638+00:00`
 - Market context score: `43.18`
 - News risk score: `46.0`
 - Macro risk score: `32.0`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `5`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Securitize expects to raise $400M ahead of public debut (Cointelegraph.com News)
 - [macro] Venezuela earthquakes kill 920 people as international rescue teams arrive (BBC News)
 - [macro] Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents (BBC News)
 - [macro] US strikes on Iran after attack on cargo ship (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Religion row as Texas makes Bible stories required reading in schools (BBC News)
 - [macro] They quit the West for Russia's traditional values, but it wasn't what they expected (BBC News)
 - [macro] Meloni and Trump: A very public fall-out that is proving very hard to fix (BBC News)
-- [macro] Three unusual things about the King's tax bill (BBC News)
