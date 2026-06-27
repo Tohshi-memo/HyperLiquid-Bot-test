@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T16:46:32.834243+00:00`
-- Market context score: `54.59`
-- News risk score: `43.25`
-- Macro risk score: `22.88`
-- Risk-on score: `44.26`
-- Articles: `49`
+- Generated: `2026-06-27T16:52:32.510656+00:00`
+- Market context score: `54.37`
+- News risk score: `43.36`
+- Macro risk score: `22.61`
+- Risk-on score: `43.76`
+- Articles: `50`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -24,12 +24,11 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `13`, risk hits `6`, risk headline rate `0.3846`, policy hits `2`
-- macro: articles `35`, risk hits `6`, risk headline rate `0.1429`, policy hits `3`
+- macro: articles `36`, risk hits `6`, risk headline rate `0.1389`, policy hits `3`
 
 ## Headlines
 
-- [macro] Solar Beats Coal for the First Time: 3 Dividend Stocks to Buy Now (Yahoo Finance)
-- [macro] What to Know About This $476,000 Palvella Therapeutics Insider Sale After a 620% Stock Rally (Yahoo Finance)
+- [macro] Europe's deadly heatwave breaks German record and halts public events (BBC News)
 - [crypto] What Robinhood’s recent layoffs say about the current state of crypto investments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What to Know About OrbiMed's $39 Million Enliven Therapeutics Stock Sale Amid a 130% Rally (Yahoo Finance)
 - [macro] Here's How Investing $450 Per Month Could Generate More Than $30,000 in Annual Dividends (Yahoo Finance)
@@ -38,3 +37,4 @@
 - [macro] Citrix (CTXS), HPE (HPE) Expand Partnership for Hybrid Cloud and Virtualization (Yahoo Finance)
 - [macro] Microchip Tech (MCHP) Armenia Office Receives U.S. Export License for Advanced FPGA Development (Yahoo Finance)
 - [macro] Here is Why Seagate (STX) One of the Best Future Stocks to Buy and Hold for 10 Years (Yahoo Finance)
+- [macro] Palantir (PLTR) Selected as Data Architecture for US Army’s NGC2 Program (Yahoo Finance)
