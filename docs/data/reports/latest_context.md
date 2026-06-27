@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T19:07:29.501166+00:00`
-- Market context score: `60.0`
+- Generated: `2026-06-27T19:16:19.033160+00:00`
+- Market context score: `60.55`
 - News risk score: `35.22`
 - Macro risk score: `14.54`
-- Risk-on score: `46.36`
+- Risk-on score: `47.57`
 - Articles: `52`
 - Polymarket markets: `393`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4509`
-- Day/swing latest: `2026-06-27T19:00:00+00:00`
+- Day/swing records: `4510`
+- Day/swing latest: `2026-06-27T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] The Market Just Pulled Back Again. These 3 Blue Chips Are the Ones to Buy. (Yahoo Finance)
+- [macro] Prime Is Suing the IRS for $11 Million Over Fuel Tax It Paid on Reefer Diesel. The Same Credit It Is Fighting For Is One Small Carriers Can Claim Too. (Yahoo Finance)
 - [macro] Viral post says GTA 6 cost as much to build as the $1.5B+ Burj Khalifa — analysts say Take-Two could recoup that in days (Yahoo Finance)
 - [macro] Watch: A race against the clock for Venezuela earthquake rescuers (BBC News)
 - [macro] Fox Advisors Downgrades Seagate Technology (STX) – Here’s Why (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] Is Accenture (ACN) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
 - [macro] Is CrowdStrike (CRWD) One of the Best Trending AI Stocks to Watch in 2026? (Yahoo Finance)
 - [macro] Sell the House in Retirement and Medicare Bills You for It 24 Months Later. (Yahoo Finance)
-- [macro] EU Targets Microsoft (MSFT) and Amazon Cloud Units for Big Tech “Gatekeeper” Rules, Reuters Reports (Yahoo Finance)
-- [macro] Amazon (AMZN) to Invest an Additional $13 Billion in India by 2030, Reuters Reports (Yahoo Finance)
