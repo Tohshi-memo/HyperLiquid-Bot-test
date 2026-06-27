@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-27T08:22:24.277327+00:00`
-- Market context score: `47.42`
-- News risk score: `41.54`
-- Macro risk score: `33.14`
-- Risk-on score: `30.76`
-- Articles: `22`
+- Generated: `2026-06-27T08:37:30.939740+00:00`
+- Market context score: `47.34`
+- News risk score: `39.9`
+- Macro risk score: `33.09`
+- Risk-on score: `29.17`
+- Articles: `23`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4466`
-- Day/swing latest: `2026-06-27T08:15:00+00:00`
+- Day/swing records: `4467`
+- Day/swing latest: `2026-06-27T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `1`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 - macro: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [macro] US strikes Iran after attack on cargo ship (BBC News)
+- [crypto] EU lawmakers urge assessing DeFi, staking, NFT regulation (Cointelegraph.com News)
 - [crypto] Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Securitize expects to raise $400M ahead of public debut (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Venezuela earthquakes kill 920 people as international rescue teams arrive (BBC News)
 - [macro] Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents (BBC News)
-- [macro] US strikes Iran after attack on cargo ship (BBC News)
 - [crypto] SOL reclaims $72, but onchain data flags weakening momentum (Cointelegraph.com News)
 - [crypto] US senators urge CFTC probe Polymarket over ‘deceptive marketing’ (Cointelegraph.com News)
-- [macro] Just how much trouble is Canada's economy in? (BBC News)
