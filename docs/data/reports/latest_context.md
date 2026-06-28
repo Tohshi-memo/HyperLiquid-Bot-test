@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T14:22:31.351589+00:00`
-- Market context score: `53.75`
-- News risk score: `24.15`
-- Macro risk score: `23.92`
-- Risk-on score: `26.67`
-- Articles: `13`
+- Generated: `2026-06-28T14:37:25.374552+00:00`
+- Market context score: `54.54`
+- News risk score: `23.36`
+- Macro risk score: `22.36`
+- Risk-on score: `27.14`
+- Articles: `14`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4585`
-- Day/swing latest: `2026-06-28T14:15:00+00:00`
+- Day/swing records: `4586`
+- Day/swing latest: `2026-06-28T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Australian man charged with murder after girl found dead in suitcase in Thailand (BBC News)
 - [macro] Australia's Firmus Technologies strikes AI access deal with Nvidia (Yahoo Finance)
 - [macro] Eleven killed after plane carrying skydivers crashes in eastern France (BBC News)
 - [commodity] Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Binance posts over $400M in weekly net outflows as MiCA deadline nears (Cointelegraph.com News)
 - [macro] Uganda's leading media outlets shut down by army chief (BBC News)
 - [crypto] Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence (Cointelegraph.com News)
-- [crypto] Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
