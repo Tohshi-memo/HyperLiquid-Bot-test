@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-28T15:07:27.998273+00:00`
+- Generated: `2026-06-28T15:22:29.304662+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `81`
 - Outcome sides (rows): `162`
@@ -70,8 +70,8 @@
 - Brazil [No] symbol `#1781` underlying `n/a` prob `0.9465` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [Yes] symbol `#1790` underlying `n/a` prob `0.0061` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9939` price_source `allMids` vol24h `0.0` oi `0.0`
-- Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0255` price_source `allMids` vol24h `0.0` oi `0.0`
-- Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9746` price_source `allMids` vol24h `0.0` oi `0.0`
+- Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0251` price_source `allMids` vol24h `0.0` oi `0.0`
+- Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9748` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0256` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9744` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0006` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -98,8 +98,8 @@
 - Brazil [No] symbol `#1781` underlying `n/a` prob `0.9465` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [Yes] symbol `#1790` underlying `n/a` prob `0.0061` price_source `allMids` vol24h `0.0` oi `0.0`
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9939` price_source `allMids` vol24h `0.0` oi `0.0`
-- Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0255` price_source `allMids` vol24h `0.0` oi `0.0`
-- Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9746` price_source `allMids` vol24h `0.0` oi `0.0`
+- Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0251` price_source `allMids` vol24h `0.0` oi `0.0`
+- Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9748` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0256` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9744` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0006` price_source `allMids` vol24h `0.0` oi `0.0`
