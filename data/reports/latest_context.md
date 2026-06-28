@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T14:37:25.374552+00:00`
-- Market context score: `54.54`
-- News risk score: `23.36`
-- Macro risk score: `22.36`
-- Risk-on score: `27.14`
-- Articles: `14`
+- Generated: `2026-06-28T14:52:30.268931+00:00`
+- Market context score: `50.11`
+- News risk score: `27.73`
+- Macro risk score: `31.07`
+- Risk-on score: `24.29`
+- Articles: `13`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4586`
-- Day/swing latest: `2026-06-28T14:30:00+00:00`
+- Day/swing records: `4587`
+- Day/swing latest: `2026-06-28T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
 - [macro] Australian man charged with murder after girl found dead in suitcase in Thailand (BBC News)
-- [macro] Australia's Firmus Technologies strikes AI access deal with Nvidia (Yahoo Finance)
+- [macro] The $2.4B grocery sushi industry has a dark side — and a new lawsuit exposes what workers were left with (Yahoo Finance)
 - [macro] Eleven killed after plane carrying skydivers crashes in eastern France (BBC News)
 - [commodity] Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
