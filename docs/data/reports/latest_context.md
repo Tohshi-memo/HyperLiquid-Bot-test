@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T09:52:33.475645+00:00`
-- Market context score: `64.45`
-- News risk score: `22.49`
-- Macro risk score: `20.59`
-- Risk-on score: `47.78`
-- Articles: `13`
+- Generated: `2026-06-28T10:07:25.728472+00:00`
+- Market context score: `53.39`
+- News risk score: `24.45`
+- Macro risk score: `24.58`
+- Risk-on score: `26.36`
+- Articles: `15`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4567`
-- Day/swing latest: `2026-06-28T09:45:00+00:00`
+- Day/swing records: `4568`
+- Day/swing latest: `2026-06-28T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
@@ -34,7 +34,7 @@
 - [crypto] Base post-mortem reveals sequencer bug behind back-to-back outages (Cointelegraph.com News)
 - [macro] US and Iran exchange strikes and accuse each other of violating ceasefire (BBC News)
 - [crypto] Bitcoin unspent transaction outputs signal capitulation underway: analyst (Cointelegraph.com News)
-- [macro] Bad Bunny: Latin star lights up London with history-making stadium show (BBC News)
+- [macro] Bad Bunny lights up London with history-making stadium show (BBC News)
 - [macro] These women said no to having kids - here's why (BBC News)
 - [macro] Sort Your Life Out: The four most common cluttering mistakes and how to fix them (BBC News)
 - [macro] I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it (BBC News)
