@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T05:07:30.282647+00:00`
-- Market context score: `52.0`
-- News risk score: `31.5`
+- Generated: `2026-06-28T05:22:27.968537+00:00`
+- Market context score: `52.73`
+- News risk score: `30.43`
 - Macro risk score: `24.0`
-- Risk-on score: `29.0`
-- Articles: `21`
+- Risk-on score: `29.71`
+- Articles: `22`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4548`
-- Day/swing latest: `2026-06-28T05:00:00+00:00`
+- Day/swing records: `4549`
+- Day/swing latest: `2026-06-28T05:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Base post-mortem reveals sequencer bug behind back-to-back outages (Cointelegraph.com News)
 - [macro] US and Iran exchange strikes and accuse each other of violating ceasefire (BBC News)
 - [crypto] Bitcoin unspent transaction outputs signal capitulation underway: analyst (Cointelegraph.com News)
 - [macro] Bad Bunny: Latin star lights up London with history-making stadium show (BBC News)
@@ -36,4 +37,3 @@
 - [macro] What news reports from 1600s tell us about life in Mughal India (BBC News)
 - [macro] Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes (BBC News)
 - [macro] Why Kim Jong Un never talks about his mother - or her controversial bloodline (BBC News)
-- [macro] Israel strikes southern Lebanon as Hezbollah condemns new deal (BBC News)
