@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-28T18:30:26.311587+00:00`
-- Flow alert score: `20.08`
+- Generated: `2026-06-28T18:35:32.111643+00:00`
+- Flow alert score: `20.32`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19781664.63`
-- Polymarket volume z-score: `0.77`
+- Polymarket 24h volume: `19898659.35`
+- Polymarket volume z-score: `0.83`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6132483.384007` | liquidity: `24611.54612`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4028872.023` | liquidity: `24497.26541`
-- South Africa vs. Canada: Team to Advance | 24h volume: `955274.9763450031` | liquidity: `2912043.6736`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `743970.335022` | liquidity: `448618.5012`
-- Iran leadership change by June 30? | 24h volume: `613525.38894` | liquidity: `106146.90677`
-- Will Trump say "Mutilation" during Faith & Freedom Coalition Conference? | 24h volume: `609110.79` | liquidity: `1334255.0917`
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `607433.5445` | liquidity: `55332.93158`
-- US forces in Venezuela again by June 30, 2026? | 24h volume: `445417.99518499826` | liquidity: `1213560.60243`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6272883.384007` | liquidity: `24715.47985`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4028872.023` | liquidity: `24444.395`
+- South Africa vs. Canada: Team to Advance | 24h volume: `1006487.9597440035` | liquidity: `3126990.5896`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `743481.350481` | liquidity: `446187.97066`
+- Iran leadership change by June 30? | 24h volume: `613525.38894` | liquidity: `105104.78406`
+- Will Trump say "Mutilation" during Faith & Freedom Coalition Conference? | 24h volume: `610110.79` | liquidity: `1333144.94566`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `607433.5445` | liquidity: `56455.19143`
+- US forces in Venezuela again by June 30, 2026? | 24h volume: `456317.99518499826` | liquidity: `1198371.70243`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
