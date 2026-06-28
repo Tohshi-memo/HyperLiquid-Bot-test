@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T03:22:24.737619+00:00`
-- Market context score: `46.98`
-- News risk score: `37.9`
-- Macro risk score: `29.09`
-- Risk-on score: `25.17`
+- Generated: `2026-06-28T03:37:29.330652+00:00`
+- Market context score: `49.45`
+- News risk score: `35.25`
+- Macro risk score: `24.0`
+- Risk-on score: `26.5`
 - Articles: `23`
 - Polymarket markets: `394`
 
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4541`
-- Day/swing latest: `2026-06-28T03:15:00+00:00`
+- Day/swing records: `4542`
+- Day/swing latest: `2026-06-28T03:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `1`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] US and Iran exchange strikes and accuse each other of violating ceasefire (BBC News)
 - [crypto] Bitcoin unspent transaction outputs signal capitulation underway: analyst (Cointelegraph.com News)
 - [macro] Bad Bunny: Latin star lights up London with history-making stadium show (BBC News)
-- [macro] US launches strikes on Iran after second shipping attack (BBC News)
 - [macro] These women said no to having kids - here's why (BBC News)
 - [macro] Sort Your Life Out: The four most common cluttering mistakes and how to fix them (BBC News)
 - [macro] I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it (BBC News)
