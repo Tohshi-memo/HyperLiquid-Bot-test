@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T02:37:30.853893+00:00`
-- Market context score: `46.27`
-- News risk score: `39.25`
-- Macro risk score: `32.0`
-- Risk-on score: `25.83`
-- Articles: `14`
+- Generated: `2026-06-28T02:52:32.298883+00:00`
+- Market context score: `46.98`
+- News risk score: `37.9`
+- Macro risk score: `29.09`
+- Risk-on score: `25.17`
+- Articles: `23`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4538`
-- Day/swing latest: `2026-06-28T02:30:00+00:00`
+- Day/swing records: `4539`
+- Day/swing latest: `2026-06-28T02:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `1`
 
 ## Headlines
 
+- [macro] Bad Bunny: Latin star lights up London with history-making stadium show (BBC News)
+- [macro] US launches strikes on Iran after second shipping attack (BBC News)
+- [macro] These women said no to having kids - here's why (BBC News)
+- [macro] Sort Your Life Out: The four most common cluttering mistakes and how to fix them (BBC News)
+- [macro] I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it (BBC News)
+- [macro] What news reports from 1600s tell us about life in Mughal India (BBC News)
+- [macro] Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes (BBC News)
+- [macro] Why Kim Jong Un never talks about his mother - or her controversial bloodline (BBC News)
 - [macro] Israel strikes southern Lebanon as Hezbollah condemns new deal (BBC News)
 - [macro] Panic attacks and fractures - Venezuela hospital treats earthquake victims (BBC News)
-- [macro] 'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes (BBC News)
-- [crypto] Fidelity rebuts claims Bitcoin becomes less secure after halvings (Cointelegraph.com News)
-- [macro] Heatwave breaks records in Germany, Denmark and Czech Republic (BBC News)
-- [macro] Trump's face is added to select US passports for America's 250th birthday (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss (Cointelegraph.com News)
-- [macro] Watch: A race against the clock for Venezuela earthquake rescuers (BBC News)
-- [crypto] Why a selloff in gold and silver is dragging bitcoin down (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
