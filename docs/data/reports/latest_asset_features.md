@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-28T04:52:26.741542+00:00`
-- Observed: `2026-06-28T04:45:00+00:00`
+- Generated: `2026-06-28T05:07:30.282647+00:00`
+- Observed: `2026-06-28T05:00:00+00:00`
 - Assets: `1149`
 
 ## Top Activity
@@ -20,11 +20,11 @@ Individual asset screen for drilling down from class-level signals.
 - `#1940` unknown price `0.00498` 4h `398.0` vol `0.0` relationship `market_context_high->#1940_4h`
 - `#2150` unknown price `0.00264` 4h `0.0` vol `0.0` relationship `market_context_high->#2150_24h`
 - `#2180` unknown price `0.00301` 4h `0.0` vol `0.0` relationship `market_context_high->#2180_24h`
-- `#1730` unknown price `0.20224` 4h `12.4055` vol `0.0` relationship `market_context_high->#1730_24h`
-- `@16` unknown price `0.057784` 4h `0.0` vol `0.0` relationship `market_context_high->@16_24h`
+- `#1730` unknown price `0.217445` 4h `17.5442` vol `0.0` relationship `market_context_high->#1730_24h`
 - `#1960` unknown price `0.01445` 4h `2.4823` vol `0.0` relationship `market_context_high->#1960_4h`
-- `SYRUP` crypto_alt price `0.14368` 4h `-1.616` vol `3321504.62` relationship `market_context_high->SYRUP_24h`
-- `LAYER` crypto_alt price `0.067041` 4h `0.009` vol `286566.16` relationship `market_context_high->LAYER_24h`
+- `@16` unknown price `0.057784` 4h `0.0` vol `0.0` relationship `market_context_high->@16_24h`
+- `SYRUP` crypto_alt price `0.14382` 4h `-0.6219` vol `3306408.55` relationship `market_context_high->SYRUP_24h`
+- `LAYER` crypto_alt price `0.066805` 4h `0.2807` vol `284736.52` relationship `market_context_high->LAYER_24h`
 - `#5110` unknown price `0.065005` 4h `0.0` vol `0.0` relationship `market_context_high->#5110_24h`
 - `#5431` unknown price `0.655145` 4h `0.0` vol `0.0` relationship `market_context_high->#5431_24h`
 - `@6` unknown price `9.5e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@6_24h`
