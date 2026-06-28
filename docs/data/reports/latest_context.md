@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T22:22:25.575584+00:00`
-- Market context score: `62.49`
+- Generated: `2026-06-28T22:37:27.668132+00:00`
+- Market context score: `62.85`
 - News risk score: `31.55`
 - Macro risk score: `16.09`
-- Risk-on score: `49.37`
+- Risk-on score: `50.15`
 - Articles: `49`
 - Polymarket markets: `392`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4617`
-- Day/swing latest: `2026-06-28T22:15:00+00:00`
+- Day/swing records: `4618`
+- Day/swing latest: `2026-06-28T22:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,9 @@
 
 ## Headlines
 
-- [macro] Dow Jones Futures Rise With Market At Tipping Point; Iran News, AI Fears In Focus (Yahoo Finance)
+- [commodity] Iran talks on hold after fighting breaks out and Trump once again threatens annihilation (Energy)
+- [macro] Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point (Yahoo Finance)
+- [macro] 60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes (Yahoo Finance)
 - [macro] Two boys rescued from Venezuela earthquake rubble after days of being trapped (BBC News)
 - [macro] Buy AST SpaceMobile Before Aug. 1 Due to This Opportunity (Yahoo Finance)
 - [macro] SpaceX landed in millions of 401(k)s through index funds — and the same rules open the door to OpenAI and Anthropic (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] The Smartest Dividend Stocks to Buy With $3,000 Right Now (Yahoo Finance)
 - [macro] Ford’s AI wasn’t smart enough to replace veteran engineers — so it hired 350 of them to fix quality control issues (Yahoo Finance)
 - [macro] Chevron CFO reveals why gas prices are stuck (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [commodity] Iran talks on hold after fighting breaks out and Trump once again threatens annihilation (Energy)
