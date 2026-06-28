@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T23:52:26.487470+00:00`
-- Market context score: `60.83`
+- Generated: `2026-06-28T23:55:57.012917+00:00`
+- Market context score: `60.06`
 - News risk score: `33.25`
 - Macro risk score: `19.0`
-- Risk-on score: `48.21`
+- Risk-on score: `46.5`
 - Articles: `50`
 - Polymarket markets: `392`
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] AI and regulation redefine European retail (Yahoo Finance)
 - [commodity] Iran talks on hold after fighting breaks out and Trump once again threatens annihilation (Energy)
+- [macro] Oil climbs following renewed US, Iran strikes in Middle East (Yahoo Finance)
+- [macro] OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks? (Yahoo Finance)
 - [macro] Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point (Yahoo Finance)
 - [macro] Tesla Reports Q2 Deliveries in a Matter of Days. Here's the Number That Matters. (Yahoo Finance)
 - [macro] 3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade (Yahoo Finance)
 - [macro] Got the tennis bug? How to play sport without paying (BBC News)
 - [crypto] Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28 (Cointelegraph.com News)
 - [macro] This Unstoppable Vanguard ETF Could Set You Up for Life With $300 a Month. Here's How. (Yahoo Finance)
-- [macro] Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian attacks is called (Yahoo Finance)
-- [macro] The Case For and Against Buying Chevron Right Now (Yahoo Finance)
-- [macro] Is Micron Stock the New Nvidia? (Yahoo Finance)
