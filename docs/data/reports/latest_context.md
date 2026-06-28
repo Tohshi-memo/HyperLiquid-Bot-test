@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T00:07:30.308599+00:00`
-- Market context score: `56.74`
-- News risk score: `40.66`
-- Macro risk score: `21.72`
-- Risk-on score: `46.4`
-- Articles: `51`
-- Polymarket markets: `394`
+- Generated: `2026-06-28T00:22:27.087417+00:00`
+- Market context score: `45.29`
+- News risk score: `41.03`
+- Macro risk score: `25.33`
+- Risk-on score: `22.65`
+- Articles: `20`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4528`
-- Day/swing latest: `2026-06-28T00:00:00+00:00`
+- Day/swing records: `4529`
+- Day/swing latest: `2026-06-28T00:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `39`, risk hits `6`, risk headline rate `0.1538`, policy hits `0`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
+- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
-- [macro] Hedge Funds Are Buying Up Amazon Stock. Should You Join In, Too? (Yahoo Finance)
-- [macro] 2 Warren Buffett Stocks to Buy and Hold for the Next 20 Years (Yahoo Finance)
-- [macro] The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas. (Yahoo Finance)
-- [macro] The Market Is Panicking, But You Should Keep Buying Shares of This Artificial Intelligence (AI) Powerhouse (Yahoo Finance)
-- [macro] One of Texas' Oldest Oil Plays Is Running Dry (Yahoo Finance)
-- [macro] The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century (Yahoo Finance)
-- [macro] How Many Starlink Satellites Can SpaceX Launch This Year? (Yahoo Finance)
-- [macro] 3 Stocks I'm Not Selling No Matter What the Market Does (Yahoo Finance)
-- [macro] Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment (Yahoo Finance)
-- [macro] Goldman Sachs Raises PT on Dynatrace (DT) Stock (Yahoo Finance)
+- [macro] Israel strikes southern Lebanon as Hezbollah condemns new deal (BBC News)
+- [macro] Panic attacks and fractures - Venezuela hospital treats earthquake victims (BBC News)
+- [macro] 'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes (BBC News)
+- [crypto] Fidelity rebuts claims Bitcoin becomes less secure after halvings (Cointelegraph.com News)
+- [macro] Heatwave breaks records in Germany, Denmark and Czech Republic (BBC News)
+- [macro] Trump's face is added to select US passports for America's 250th birthday (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss (Cointelegraph.com News)
+- [macro] Watch: A race against the clock for Venezuela earthquake rescuers (BBC News)
+- [crypto] Why a selloff in gold and silver is dragging bitcoin down (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
