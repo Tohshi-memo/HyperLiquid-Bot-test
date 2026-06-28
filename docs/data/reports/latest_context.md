@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T16:07:32.795419+00:00`
-- Market context score: `53.36`
-- News risk score: `30.88`
-- Macro risk score: `27.12`
-- Risk-on score: `32.67`
-- Articles: `24`
+- Generated: `2026-06-28T16:22:12.866510+00:00`
+- Market context score: `53.23`
+- News risk score: `31.26`
+- Macro risk score: `29.78`
+- Risk-on score: `33.7`
+- Articles: `27`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4592`
-- Day/swing latest: `2026-06-28T16:00:00+00:00`
+- Day/swing records: `4593`
+- Day/swing latest: `2026-06-28T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `2`
-- macro: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `3`
+- crypto: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Will Bitcoin price recover in July? (Cointelegraph.com News)
+- [macro] What Does a Silicon Motion Director's Sale of 2,000 Company Shares Mean for Investors? (Yahoo Finance)
+- [macro] Cerebras Stock's Volatility Comes as AI Stock Momentum Is Slowing. Should Investors Be Worried? (Yahoo Finance)
+- [crypto] EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite (Cointelegraph.com News)
+- [macro] The Best High-Yield Income Investments for 2026, Ranked (Yahoo Finance)
+- [macro] Finding the Best High-Yield Savings Account Rate for Your Money (Yahoo Finance)
 - [macro] Eleven killed after plane carrying skydivers crashes in eastern France (BBC News)
+- [macro] 1 Nvidia-Backed AI Infrastructure Stock to Buy Hand Over Fist Right Now (Yahoo Finance)
 - [macro] Fourteen killed in Saudi Arabia helicopter crash (BBC News)
 - [macro] Two Monthly Dividend ETFs Built for Lower Volatility That Retirees Quietly Rely On (Yahoo Finance)
-- [macro] SpaceX Has $100 Billion in Cash... Is It Enough? (Yahoo Finance)
-- [macro] The Ultimate AI Power Supercycle Winner: NextEra Energy or Vistra Stock? (Yahoo Finance)
-- [macro] 2 Dividend Stocks to Buy Even as New Fed Chair Kevin Warsh Holds Interest Rates Steady (Yahoo Finance)
-- [macro] Is Oracle’s Debt Simply Too Much to Justify the Risk? (Yahoo Finance)
-- [macro] Your 2024 Income Sets Your 2026 Medicare Bill. Most Retirees Never Connect the Two. (Yahoo Finance)
-- [macro] Uganda's leading media outlets shut down by army chief (BBC News)
-- [crypto] Samson Mow says bitcoin bottom is in despite skepticism from analysts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
