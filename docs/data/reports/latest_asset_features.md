@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-28T10:07:25.728472+00:00`
-- Observed: `2026-06-28T10:00:00+00:00`
+- Generated: `2026-06-28T10:22:27.178749+00:00`
+- Observed: `2026-06-28T10:15:00+00:00`
 - Assets: `1149`
 
 ## Top Activity
@@ -20,11 +20,11 @@ Individual asset screen for drilling down from class-level signals.
 - `#1940` unknown price `0.00498` 4h `0.0` vol `0.0` relationship `market_context_high->#1940_4h`
 - `#2180` unknown price `0.00301` 4h `0.0` vol `0.0` relationship `market_context_high->#2180_24h`
 - `#2150` unknown price `0.00264` 4h `0.0` vol `0.0` relationship `market_context_high->#2150_24h`
-- `#1960` unknown price `0.01475` 4h `2.0761` vol `0.0` relationship `market_context_high->#1960_4h`
+- `#1960` unknown price `0.01475` 4h `4.6099` vol `0.0` relationship `market_context_high->#1960_4h`
 - `@16` unknown price `0.057784` 4h `0.0` vol `0.0` relationship `market_context_high->@16_24h`
-- `SYRUP` crypto_alt price `0.14807` 4h `3.0626` vol `3120179.93` relationship `market_context_high->SYRUP_24h`
-- `LAYER` crypto_alt price `0.065901` 4h `-0.2195` vol `218630.19` relationship `market_context_high->LAYER_24h`
-- `#1730` unknown price `0.21605` 4h `0.8213` vol `0.0` relationship `market_context_high->#1730_24h`
-- `#5431` unknown price `0.65515` 4h `0.0` vol `0.0` relationship `market_context_high->#5431_24h`
-- `#5441` unknown price `0.695745` 4h `0.0` vol `0.0` relationship `market_context_high->#5441_4h`
+- `SYRUP` crypto_alt price `0.148765` 4h `3.4383` vol `3064519.28` relationship `market_context_high->SYRUP_24h`
+- `LAYER` crypto_alt price `0.065741` 4h `-0.1852` vol `218455.01` relationship `market_context_high->LAYER_24h`
+- `#1730` unknown price `0.2105` 4h `-5.2399` vol `0.0` relationship `market_context_high->#1730_24h`
+- `#5431` unknown price `0.655155` 4h `0.0008` vol `0.0` relationship `market_context_high->#5431_24h`
+- `#5441` unknown price `0.69575` 4h `0.0007` vol `0.0` relationship `market_context_high->#5441_4h`
 - `@6` unknown price `9.5e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@6_24h`
