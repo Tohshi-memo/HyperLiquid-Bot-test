@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T15:37:33.540452+00:00`
-- Market context score: `52.61`
-- News risk score: `32.88`
-- Macro risk score: `31.32`
-- Risk-on score: `34.29`
-- Articles: `23`
-- Polymarket markets: `393`
+- Generated: `2026-06-28T15:52:32.938486+00:00`
+- Market context score: `53.36`
+- News risk score: `30.88`
+- Macro risk score: `27.12`
+- Risk-on score: `32.67`
+- Articles: `24`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4590`
-- Day/swing latest: `2026-06-28T15:30:00+00:00`
+- Day/swing records: `4591`
+- Day/swing latest: `2026-06-28T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `2`
-- macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
+- macro: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `3`
 
 ## Headlines
 
+- [macro] Eleven killed after plane carrying skydivers crashes in eastern France (BBC News)
+- [macro] Fourteen killed in Saudi Arabia helicopter crash (BBC News)
+- [macro] Two Monthly Dividend ETFs Built for Lower Volatility That Retirees Quietly Rely On (Yahoo Finance)
+- [macro] SpaceX Has $100 Billion in Cash... Is It Enough? (Yahoo Finance)
+- [macro] The Ultimate AI Power Supercycle Winner: NextEra Energy or Vistra Stock? (Yahoo Finance)
+- [macro] 2 Dividend Stocks to Buy Even as New Fed Chair Kevin Warsh Holds Interest Rates Steady (Yahoo Finance)
+- [macro] Is Oracle’s Debt Simply Too Much to Justify the Risk? (Yahoo Finance)
 - [macro] Your 2024 Income Sets Your 2026 Medicare Bill. Most Retirees Never Connect the Two. (Yahoo Finance)
 - [macro] Uganda's leading media outlets shut down by army chief (BBC News)
 - [crypto] Samson Mow says bitcoin bottom is in despite skepticism from analysts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Is American Express Built for the Next Decade of Spending? (Yahoo Finance)
-- [macro] This Tiny AI Stock Is Up By 680% in a Year. Is It A Buy? (Yahoo Finance)
-- [crypto] Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Anthropic Could Become the Most Valuable Software Company in History. These Stocks Have Exposure to the AI Giant. (Yahoo Finance)
-- [macro] Sandisk Is Crushing Every S&P 500 Stock in 2026. Can Anything Stop It? (Yahoo Finance)
-- [macro] The Hidden Danger Lurking in Some High-Yield Dividend Stocks (Yahoo Finance)
