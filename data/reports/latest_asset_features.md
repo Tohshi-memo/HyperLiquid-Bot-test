@@ -2,7 +2,7 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-06-28T22:37:27.668132+00:00`
+- Generated: `2026-06-28T22:43:04.548796+00:00`
 - Observed: `2026-06-28T22:30:00+00:00`
 - Assets: `1149`
 
