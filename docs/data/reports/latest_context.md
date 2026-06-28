@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-28T07:07:27.694649+00:00`
-- Market context score: `51.44`
-- News risk score: `33.43`
+- Generated: `2026-06-28T07:22:32.432061+00:00`
+- Market context score: `52.46`
+- News risk score: `31.93`
 - Macro risk score: `24.86`
-- Risk-on score: `29.71`
-- Articles: `19`
-- Polymarket markets: `394`
+- Risk-on score: `30.71`
+- Articles: `20`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4556`
-- Day/swing latest: `2026-06-28T07:00:00+00:00`
+- Day/swing records: `4557`
+- Day/swing latest: `2026-06-28T07:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Base post-mortem reveals sequencer bug behind back-to-back outages (Cointelegraph.com News)
 - [macro] US and Iran exchange strikes and accuse each other of violating ceasefire (BBC News)
 - [crypto] Bitcoin unspent transaction outputs signal capitulation underway: analyst (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it (BBC News)
 - [macro] What news reports from 1600s tell us about life in Mughal India (BBC News)
 - [macro] Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes (BBC News)
-- [macro] Why Kim Jong Un never talks about his mother - or her controversial bloodline (BBC News)
