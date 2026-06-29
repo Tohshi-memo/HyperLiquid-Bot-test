@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-06-29T17:15:19.700780+00:00`
+- Updated: `2026-06-29T17:22:34.257189+00:00`
 - Asset price active records: `672`
 - Day/swing records: `4693`
 - Macro indicators: `11`
@@ -13,16 +13,16 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (2323 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (63355 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2614 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/reports/latest_ai_context_index.md` (2571 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (63734 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2604 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (874 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2535 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (48209 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5704 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2220 bytes): Individual asset screen.
+- `data/processed/ai_analysis_pack.json` (48213 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5665 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2219 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (8795 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3621 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3619 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
@@ -38,9 +38,9 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- polymarket_volume_spike: score `3.81` - Polymarket crypto volume is unusually high.
-- 1h_crypto_metal_divergence: score `2.0342` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
-- 4h_crypto_metal_divergence: score `1.7587` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
+- polymarket_volume_spike: score `3.87` - Polymarket crypto volume is unusually high.
+- 1h_crypto_metal_divergence: score `1.9516` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
+- 4h_crypto_metal_divergence: score `1.6785` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
 
 ## Full JSON Rule
 
