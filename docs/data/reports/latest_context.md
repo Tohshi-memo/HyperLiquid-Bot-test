@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T22:18:31.052100+00:00`
+- Generated: `2026-06-29T22:22:29.901206+00:00`
 - Market context score: `47.81`
 - News risk score: `38.47`
 - Macro risk score: `25.89`
@@ -31,7 +31,7 @@
 - [crypto] Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom? (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Donald Trump has 10 days to decide on housing bill with CBDC ban (Cointelegraph.com News)
-- [macro] The Ring and Lilo & Stitch actress Daveigh Chase died of Aids (BBC News)
+- [macro] Lilo & Stitch star Daveigh Chase's cause of death was Aids (BBC News)
 - [macro] 'No one move!': The agonising silence as Venezuela rescuers listen for survivors (BBC News)
 - [macro] Osaka 'pays love and respect to Japan' in Wimbledon kimono (BBC News)
 - [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again (Energy)
