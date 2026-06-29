@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T19:22:43.109840+00:00`
-- Market context score: `47.8`
-- News risk score: `38.51`
-- Macro risk score: `24.38`
-- Risk-on score: `25.72`
-- Articles: `63`
-- Polymarket markets: `390`
+- Generated: `2026-06-29T19:37:30.906354+00:00`
+- Market context score: `46.73`
+- News risk score: `39.7`
+- Macro risk score: `26.27`
+- Risk-on score: `25.07`
+- Articles: `64`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4701`
-- Day/swing latest: `2026-06-29T19:15:00+00:00`
+- Day/swing records: `4702`
+- Day/swing latest: `2026-06-29T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `38`, risk hits `8`, risk headline rate `0.1842`, policy hits `5`
-- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `4`
+- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `4`
 
 ## Headlines
 
+- [macro] South African leader warns anti-migrant protesters ahead of unofficial deadline (BBC News)
 - [macro] Six people shot dead at centre for mothers and children in Germany (BBC News)
 - [crypto] Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Putin makes rare admission of fuel shortages caused by Ukrainian strikes (BBC News)
 - [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again (Energy)
 - [macro] Analyst Report: Public Serv Enterprise Grp Inc (Yahoo Finance)
-- [macro] Analyst Report: Owens Corning (Yahoo Finance)
