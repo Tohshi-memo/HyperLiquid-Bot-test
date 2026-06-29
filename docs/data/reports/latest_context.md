@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T03:22:30.651662+00:00`
+- Generated: `2026-06-29T03:37:36.231789+00:00`
 - Market context score: `58.04`
 - News risk score: `32.23`
 - Macro risk score: `19.95`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4637`
-- Day/swing latest: `2026-06-29T03:15:00+00:00`
+- Day/swing records: `4638`
+- Day/swing latest: `2026-06-29T03:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes (Economy)
 - [crypto] Pioneering zk-rollup Loopring closes DEX, citing lack of adoption (Cointelegraph.com News)
 - [commodity] U.S., Iran pause hostilities as Hormuz shipping resumes after weekend clashes (Energy)
 - [crypto] Ether treasury Sharplink bought $62.4M ETH last week (Cointelegraph.com News)
-- [macro] China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes (Economy)
 - [crypto] Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market bottom (Cointelegraph.com News)
 - [commodity] Oil jumps back above $70 as fresh U.S.-Iran clashes reignite Middle East supply fears (Energy)
 - [macro] Australian man charged with murder after dead girl found in suitcase in Thailand (BBC News)
