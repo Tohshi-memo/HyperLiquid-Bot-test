@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T02:07:31.672446+00:00`
+- Generated: `2026-06-29T02:22:29.631504+00:00`
 - Market context score: `55.04`
 - News risk score: `32.23`
 - Macro risk score: `19.95`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4632`
-- Day/swing latest: `2026-06-29T02:00:00+00:00`
+- Day/swing records: `4633`
+- Day/swing latest: `2026-06-29T02:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Oil jumps back above $70 as fresh U.S.-Iran clashes reignite Middle East supply fears (Energy)
 - [commodity] U.S., Iran pause hostilities as Hormuz shipping resumes after weekend clashes (Energy)
 - [macro] Australian man charged with murder after dead girl found in suitcase in Thailand (BBC News)
-- [commodity] Oil jumps back above $70 as fresh U.S.-Iran clashes reignite Middle East supply fears (Energy)
 - [macro] Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend (BBC News)
 - [macro] Got the tennis bug? How to play sport without paying (BBC News)
 - [crypto] Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28 (Cointelegraph.com News)
