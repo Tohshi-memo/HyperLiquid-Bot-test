@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T12:07:35.433140+00:00`
-- Market context score: `59.73`
-- News risk score: `38.68`
-- Macro risk score: `18.19`
-- Risk-on score: `50.05`
-- Articles: `69`
+- Generated: `2026-06-29T12:22:30.521060+00:00`
+- Market context score: `53.03`
+- News risk score: `43.71`
+- Macro risk score: `28.18`
+- Risk-on score: `43.17`
+- Articles: `72`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4672`
-- Day/swing latest: `2026-06-29T12:00:00+00:00`
+- Day/swing records: `4673`
+- Day/swing latest: `2026-06-29T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `2`
-- macro: articles `45`, risk hits `3`, risk headline rate `0.0667`, policy hits `0`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `3`
+- macro: articles `46`, risk hits `11`, risk headline rate `0.2174`, policy hits `3`
 
 ## Headlines
 
+- [macro] Five dead following shooting in Stade, northern Germany (BBC News)
+- [crypto] Saylor's Strategy initiates buybacks and bitcoin monetization program, lifts STRC dividend (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] The S&P 500 just sent a warning signal to investors (Yahoo Finance)
+- [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks (Energy)
+- [macro] Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event (BBC News)
+- [macro] JPMorgan Chase pushes fraud division layoffs, despite rising revenues (Yahoo Finance)
 - [macro] Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards (BBC News)
-- [macro] New Cascale CEO to outline transformation plans at 2026 meeting (Yahoo Finance)
-- [macro] BBC at Venezuela baseball stadium sheltering earthquake survivors (BBC News)
-- [macro] Umios enters SE Asia pet-food market (Yahoo Finance)
-- [macro] UK financial watchdog consults on changes for closed ended investment funds (Yahoo Finance)
-- [macro] Comcast Stock Soars On Company Split As Cable TV Giant's Makeover Continues (Yahoo Finance)
-- [crypto] Dollar, U.S. Treasury yield market positions may carry glimmer of hope for bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] SpaceX's $60 Billion Cursor Acquisition Changes Everything. Here's Why. (Yahoo Finance)
-- [macro] What Makes Progressive Corporation (PGR) an Investment Bet? (Yahoo Finance)
-- [crypto] FundBank becomes IRACE Digital in bid to bridge traditional finance and crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] JPMorgan Pushes Back on Broadcom (AVGO) Delay Fears and Says the TPU v9 Program Is Firmly on Schedule (Yahoo Finance)
+- [macro] Lam Research (LRCX): BofA Raises Its Target by $150 as Chip Equipment Spending Heads Toward $250 Billion (Yahoo Finance)
+- [macro] Can KLA Corporation (KLAC) Capture Its Share of a $250 Billion Global Chip Equipment Market? (Yahoo Finance)
