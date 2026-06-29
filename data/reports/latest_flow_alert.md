@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-29T18:00:26.815339+00:00`
+- Generated: `2026-06-29T18:05:35.805441+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `32398116.55`
-- Polymarket volume z-score: `4.05`
+- Polymarket 24h volume: `33028624.48`
+- Polymarket volume z-score: `4.23`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6093588.978666001` | liquidity: `24167.8315`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4140520.0` | liquidity: `21966.72714`
-- Brazil vs. Japan: Team to Advance | 24h volume: `2991409.850878002` | liquidity: `763800.0164`
-- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1363517.3647720001` | liquidity: `190311.14176`
-- Exact Score: Brazil 2 - 3 Japan? | 24h volume: `1299172.546893001` | liquidity: `60456.3976`
-- Will any U.S. Senator enter Iran by June 30? | 24h volume: `1213283.026974` | liquidity: `27403.13007`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `1164044.4587339994` | liquidity: `767617.1526`
-- Exact Score: Brazil 3 - 3 Japan? | 24h volume: `927390.5126060008` | liquidity: `54758.86661`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6098788.982666001` | liquidity: `23956.15327`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4140520.0` | liquidity: `22024.32224`
+- Brazil vs. Japan: Team to Advance | 24h volume: `3089665.9404340032` | liquidity: `657398.1304`
+- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1363893.273861` | liquidity: `164504.53079`
+- Exact Score: Brazil 2 - 3 Japan? | 24h volume: `1313762.4913270008` | liquidity: `69900.4545`
+- Will any U.S. Senator enter Iran by June 30? | 24h volume: `1213283.026974` | liquidity: `27797.16071`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `1165765.7909979993` | liquidity: `767323.7915`
+- Exact Score: Brazil 3 - 3 Japan? | 24h volume: `945487.7237190007` | liquidity: `93944.78946`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
