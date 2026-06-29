@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T19:37:30.906354+00:00`
-- Market context score: `46.73`
-- News risk score: `39.7`
-- Macro risk score: `26.27`
-- Risk-on score: `25.07`
-- Articles: `64`
+- Generated: `2026-06-29T19:52:31.026578+00:00`
+- Market context score: `46.8`
+- News risk score: `39.71`
+- Macro risk score: `26.23`
+- Risk-on score: `25.21`
+- Articles: `65`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4702`
-- Day/swing latest: `2026-06-29T19:30:00+00:00`
+- Day/swing records: `4703`
+- Day/swing latest: `2026-06-29T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `38`, risk hits `8`, risk headline rate `0.1842`, policy hits `5`
+- crypto: articles `39`, risk hits `8`, risk headline rate `0.1795`, policy hits `5`
 - macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Bitcoin put-call ratio hits 1-year high: Are bears preparing for drop to $55K? (Cointelegraph.com News)
+- [macro] Will Andy Burnham's devolution plan raise economic growth? (BBC News)
 - [macro] South African leader warns anti-migrant protesters ahead of unofficial deadline (BBC News)
 - [macro] Six people shot dead at centre for mothers and children in Germany (BBC News)
 - [crypto] Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Dogs, drones and sound detectors: How rescuers search for quake survivors (BBC News)
 - [crypto] JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Putin makes rare admission of fuel shortages caused by Ukrainian strikes (BBC News)
-- [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again (Energy)
-- [macro] Analyst Report: Public Serv Enterprise Grp Inc (Yahoo Finance)
