@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-29T00:55:28.085642+00:00`
-- Flow alert score: `19.36`
+- Generated: `2026-06-29T01:00:30.996284+00:00`
+- Flow alert score: `20.52`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19518621.44`
-- Polymarket volume z-score: `0.59`
+- Polymarket 24h volume: `20176091.64`
+- Polymarket volume z-score: `0.88`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6303702.050673` | liquidity: `23659.39848`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4028872.023` | liquidity: `24262.516`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `802980.8836919997` | liquidity: `448636.65905`
-- US forces in Venezuela again by June 30, 2026? | 24h volume: `733578.1314109983` | liquidity: `3389180.62048`
-- Will Trump say "Mutilation" during Faith & Freedom Coalition Conference? | 24h volume: `659373.58` | liquidity: `2284628.46248`
-- Iran leadership change by June 30? | 24h volume: `603363.3184370002` | liquidity: `114745.03211`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `513795.0435940004` | liquidity: `904280.761`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `418761.062766` | liquidity: `272330.1042`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6303702.050673` | liquidity: `23661.54868`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4028872.023` | liquidity: `24271.5619`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `814637.9808909995` | liquidity: `437107.26702`
+- US forces in Venezuela again by June 30, 2026? | 24h volume: `738116.6014109984` | liquidity: `3382969.00894`
+- Will Trump say "Mutilation" during Faith & Freedom Coalition Conference? | 24h volume: `659373.58` | liquidity: `2284631.57256`
+- Iran leadership change by June 30? | 24h volume: `603368.338437` | liquidity: `114774.46353`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `513191.3617780004` | liquidity: `903329.021`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `420912.14751` | liquidity: `250149.1848`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
