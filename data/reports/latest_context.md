@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T22:52:26.650065+00:00`
-- Market context score: `47.6`
-- News risk score: `38.45`
-- Macro risk score: `26.41`
-- Risk-on score: `26.01`
-- Articles: `61`
+- Generated: `2026-06-29T23:07:29.030718+00:00`
+- Market context score: `46.57`
+- News risk score: `39.75`
+- Macro risk score: `26.92`
+- Risk-on score: `25.0`
+- Articles: `60`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4715`
-- Day/swing latest: `2026-06-29T22:45:00+00:00`
+- Day/swing records: `4716`
+- Day/swing latest: `2026-06-29T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `7`, risk headline rate `0.1714`, policy hits `5`
-- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `4`
+- crypto: articles `35`, risk hits `8`, risk headline rate `0.2`, policy hits `5`
+- macro: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Securitize heads to NYSE debut after investors approve SPAC merger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] UK sets final crypto rules as firms face 2027 FCA authorization deadline (Cointelegraph.com News)
+- [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again (Energy)
 - [crypto] Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom? (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Donald Trump has 10 days to decide on housing bill with CBDC ban (Cointelegraph.com News)
 - [macro] Lilo & Stitch star Daveigh Chase's cause of death was Aids (BBC News)
 - [macro] 'No one move!': The agonising silence as Venezuela rescuers listen for survivors (BBC News)
 - [macro] Osaka 'pays love and respect to Japan' in Wimbledon kimono (BBC News)
-- [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again (Energy)
 - [macro] Aftershock frays nerves as many Venezuelans left to fend for themselves (BBC News)
-- [crypto] Senate leaders push for July passage of CLARITY Act (Cointelegraph.com News)
-- [macro] Six people shot dead at centre for mothers and children in Germany (BBC News)
