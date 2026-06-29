@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T09:37:28.198242+00:00`
-- Market context score: `57.64`
-- News risk score: `37.56`
-- Macro risk score: `23.17`
-- Risk-on score: `46.33`
-- Articles: `54`
+- Generated: `2026-06-29T09:52:28.136643+00:00`
+- Market context score: `58.36`
+- News risk score: `36.55`
+- Macro risk score: `23.41`
+- Risk-on score: `47.17`
+- Articles: `55`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4662`
-- Day/swing latest: `2026-06-29T09:30:00+00:00`
+- Day/swing records: `4663`
+- Day/swing latest: `2026-06-29T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `39`, risk hits `7`, risk headline rate `0.1538`, policy hits `0`
+- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `38`, risk hits `7`, risk headline rate `0.1579`, policy hits `0`
 
 ## Headlines
 
+- [macro] Senior South African police officer survives assassination attempt (BBC News)
+- [crypto] Kiwoom eyes Bithumb stake as Korean brokerages push into crypto: Report (Cointelegraph.com News)
+- [crypto] Bitcoin falls into a technical no man’s land as major support levels sit miles away (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Persistent Systems to acquire Germany-based Nagarro in $1.4bn deal (Yahoo Finance)
+- [macro] HP expands AI initiatives with OpenAI Frontier platform adoption (Yahoo Finance)
+- [macro] 2 Reasons July 7 Is Shaping Up as a Monster Day for SpaceX (Yahoo Finance)
+- [macro] Aker Solutions Wins Hydropower Contract for 150 MW Tussa II Plant (Yahoo Finance)
 - [macro] Saks Global exits Chapter 11 as Exemplar Luxury Group (Yahoo Finance)
-- [macro] Chilean retail group Cencosud acquires Makro Colombia (Yahoo Finance)
+- [macro] Let Your Dividends Do The Housework For You. Literally. (Yahoo Finance)
 - [crypto] New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Banks get creative and look further afield as AI-fueled debt soars (Yahoo Finance)
-- [macro] Will SpaceX Stock Double Anytime Soon? No -- but These 3 Stocks Could (Yahoo Finance)
-- [macro] Michael Burry just made a rare bullish bet on Big Tech (Yahoo Finance)
-- [macro] AI and white-collar America's nervous breakdown (Yahoo Finance)
-- [macro] South Korea unveils $880bn chip and AI investment plan (BBC News)
-- [macro] Dollar set for best month in nearly a year as bulls grow confident (Yahoo Finance)
-- [crypto] BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
