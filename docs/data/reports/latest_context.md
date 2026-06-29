@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T10:52:31.547751+00:00`
-- Market context score: `59.25`
-- News risk score: `35.56`
-- Macro risk score: `19.75`
-- Risk-on score: `46.93`
-- Articles: `62`
+- Generated: `2026-06-29T11:07:29.507715+00:00`
+- Market context score: `56.5`
+- News risk score: `36.65`
+- Macro risk score: `22.13`
+- Risk-on score: `42.65`
+- Articles: `65`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4667`
-- Day/swing latest: `2026-06-29T10:45:00+00:00`
+- Day/swing records: `4668`
+- Day/swing latest: `2026-06-29T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `1`
-- macro: articles `43`, risk hits `3`, risk headline rate `0.0698`, policy hits `8`
+- crypto: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `1`
+- macro: articles `44`, risk hits `5`, risk headline rate `0.1136`, policy hits `8`
 
 ## Headlines
 
-- [macro] Zephyr Energy acquires 27,000 acres in Utah’s Paradox Basin (Yahoo Finance)
-- [macro] Can Micron (MU) ’s Deal With Anthropic Cement Its Place in the AI Memory Market? (Yahoo Finance)
-- [macro] AMD (AMD) Commits £2 Billion to the UK and Helps Build Two AI Supercomputers at Cambridge (Yahoo Finance)
-- [macro] Lam Research (LRCX): Citi Raises Target by $135 on a Multi-Year Chip Manufacturing Investment Boom (Yahoo Finance)
-- [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks; U.S. crude back above $70 (Energy)
-- [macro] Analysis-Cheaper AI is better: Soaring bills are reshaping how businesses choose models (Yahoo Finance)
-- [macro] Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race (Yahoo Finance)
-- [macro] The US Army Just Made Palantir (PLTR) Foundry the Data Backbone of Its Biggest Tech Overhaul (Yahoo Finance)
-- [macro] Amazon Explores External Trainium Chip Sales, Putting Marvell (MRVL) in Focus (Yahoo Finance)
-- [macro] Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure (Yahoo Finance)
+- [macro] British American Tobacco to cut 9,000 jobs (BBC News)
+- [crypto] Bitcoin hovers below $60,000 as crypto braces for a pivotal week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Fitness brand founder and Olympian Les Mills dies aged 91 (BBC News)
+- [crypto] Vitalik Buterin says obfuscation could unlock private onchain crypto voting (Cointelegraph.com News)
+- [macro] ReBound Returns’ analysis reveals £29m losses from retail returns fraud (Yahoo Finance)
+- [macro] SK Hynix Just Sent a Huge Warning to Micron Investors (Yahoo Finance)
+- [crypto] Germany leads MiCA crypto authorization race as Europe’s deadline looms (Cointelegraph.com News)
+- [macro] Volkswagen eyes 100,000 job cuts and four plant closures – report (Yahoo Finance)
+- [macro] Autonomous driving firm Momenta targets $752m in Hong Kong listing (Yahoo Finance)
+- [macro] Curis opens 11 sites for emavusertib combo in TakeAim CLL trial (Yahoo Finance)
