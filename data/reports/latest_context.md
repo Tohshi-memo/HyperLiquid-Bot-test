@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T14:18:13.995282+00:00`
-- Market context score: `58.72`
-- News risk score: `37.74`
-- Macro risk score: `21.67`
+- Generated: `2026-06-29T14:22:30.157914+00:00`
+- Market context score: `58.61`
+- News risk score: `37.91`
+- Macro risk score: `21.95`
 - Risk-on score: `48.32`
 - Articles: `87`
 - Polymarket markets: `390`
@@ -24,17 +24,17 @@
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `34`, risk hits `6`, risk headline rate `0.1471`, policy hits `7`
-- macro: articles `50`, risk hits `5`, risk headline rate `0.08`, policy hits `2`
+- macro: articles `50`, risk hits `5`, risk headline rate `0.08`, policy hits `3`
 
 ## Headlines
 
+- [macro] US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Strategy opens the door to selling bitcoin under new capital plan. Here's what it means (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] DR Congo bans mass gatherings in the  capital to prevent spread of Ebola (BBC News)
-- [macro] US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case (BBC News)
+- [macro] Hub International files confidentially for proposed US IPO (Yahoo Finance)
+- [macro] Microsoft stock is headed for its worst month since 2000 (Yahoo Finance)
+- [macro] Will cryptocurrency cross-border transfers increase? (Yahoo Finance)
+- [macro] Nike stock has cratered to its lowest level in over 11 years (Yahoo Finance)
 - [macro] Skyborn acquires full ownership of 111MW Nordergründe wind farm (Yahoo Finance)
 - [crypto] Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Medicare Advantage Quietly Drops Your Doctor Mid-Year. You’re Locked In Until January. (Yahoo Finance)
-- [macro] Five dead in shooting at youth welfare centre in northern Germany (BBC News)
-- [macro] Dave Ramsey Just Gave You Two Hidden Reasons to Move Everything to a Roth. No RMDs and No Inherited-IRA Forced Withdrawal (Yahoo Finance)
-- [macro] These 7 Stocks Will Solve AI’s Most Important Bottleneck (Yahoo Finance)
