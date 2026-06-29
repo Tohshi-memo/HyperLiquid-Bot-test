@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-29T20:22:26.165305+00:00`
-- Market context score: `47.83`
-- News risk score: `38.56`
-- Macro risk score: `26.23`
-- Risk-on score: `26.54`
-- Articles: `65`
+- Generated: `2026-06-29T20:37:30.130381+00:00`
+- Market context score: `47.97`
+- News risk score: `38.57`
+- Macro risk score: `25.76`
+- Risk-on score: `26.68`
+- Articles: `66`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4705`
-- Day/swing latest: `2026-06-29T20:15:00+00:00`
+- Day/swing records: `4706`
+- Day/swing latest: `2026-06-29T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `39`, risk hits `7`, risk headline rate `0.1538`, policy hits `5`
-- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `4`
+- macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `4`
 
 ## Headlines
 
+- [macro] The Ring and Lilo & Stitch actress Daveigh Chase died of Aids (BBC News)
 - [commodity] Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again (Energy)
 - [macro] Dogs, drones and sound detectors: How rescuers search for quake survivors (BBC News)
 - [macro] Aftershock frays nerves as many Venezuelans left to fend for themselves (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Will Andy Burnham's devolution plan raise economic growth? (BBC News)
 - [macro] South African leader warns anti-migrant protesters ahead of unofficial deadline (BBC News)
 - [crypto] Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes (Cointelegraph.com News)
