@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T11:52:28.224105+00:00`
-- Market context score: `57.58`
-- News risk score: `38.21`
-- Macro risk score: `23.65`
-- Risk-on score: `46.93`
-- Articles: `65`
+- Generated: `2026-06-30T12:07:27.419944+00:00`
+- Market context score: `62.56`
+- News risk score: `37.95`
+- Macro risk score: `19.95`
+- Risk-on score: `56.38`
+- Articles: `67`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4767`
-- Day/swing latest: `2026-06-30T11:45:00+00:00`
+- Day/swing records: `4768`
+- Day/swing latest: `2026-06-30T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `6`, risk headline rate `0.1739`, policy hits `3`
-- macro: articles `41`, risk hits `6`, risk headline rate `0.122`, policy hits `6`
+- crypto: articles `25`, risk hits `7`, risk headline rate `0.2`, policy hits `3`
+- macro: articles `41`, risk hits `3`, risk headline rate `0.0732`, policy hits `4`
 
 ## Headlines
 
-- [macro] NLNG awards Baker Hughes 13-year gas turbine services contract (Yahoo Finance)
-- [macro] Mirae Asset lauches MAPS trading app in Hong Kong (Yahoo Finance)
-- [macro] Stocks surge in stellar quarter; dollar hits gold and yen (Yahoo Finance)
-- [macro] Eni, NOC start production from Libya’s Sabratha Compression Project (Yahoo Finance)
-- [macro] Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco (BBC News)
-- [macro] Goldman Sachs Raised Its Dividend as Investment Banking Fees Rebound. Is the Stock a Buy? (Yahoo Finance)
-- [commodity] Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar (Energy)
-- [macro] S&P 500, Dow, Nasdaq best first half since 2021 H1 2026 (Yahoo Finance)
-- [macro] SpaceX Stock Vaporizes $811 Billion In Value (Yahoo Finance)
-- [macro] Heavy security in South Africa as anti-migrant protesters take to the streets (BBC News)
+- [crypto] Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Gold prices today, Tuesday, June 30: Hanging just above $4,000, but ready to rise? (Yahoo Finance)
+- [macro] US regulator fines BofA’s wealth unit Merrill over SAR failures (Yahoo Finance)
+- [macro] General Atlantic in talks to buy PAG’s stake in Nuvama Wealth – report (Yahoo Finance)
+- [macro] GE HealthCare introduces upgrade pathways for interventional suite modernisation (Yahoo Finance)
+- [macro] Oracle (ORCL) Launches Fusion Agentic Applications to Automate Supply Chain Management Tasks (Yahoo Finance)
+- [macro] Trip.com Group (TCOM): 10 Undervalued Stocks with High Upside Potential (Yahoo Finance)
+- [macro] ReElement Technologies, POSCO (PKX) Form $200M JV for US Rare Earth, Magnet Production (Yahoo Finance)
+- [macro] Fermi (FRMI) Selects TSK to Lead Engineering, Project Management for Phase Two of Project Matador in Texas (Yahoo Finance)
+- [macro] Strong dollar pushes yen to 40-year low as traders test Japanese authorities (Yahoo Finance)
