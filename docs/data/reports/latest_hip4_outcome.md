@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-30T07:07:32.140028+00:00`
+- Generated: `2026-06-30T07:22:30.961111+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `77`
 - Outcome sides (rows): `154`
@@ -56,8 +56,8 @@
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0013` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9987` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.2031` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.7969` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.2034` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.7966` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0014` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0013` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -84,8 +84,8 @@
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [Yes] symbol `#1720` underlying `n/a` prob `0.0013` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9987` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.2031` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.7969` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.2034` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.7966` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [Yes] symbol `#1740` underlying `n/a` prob `0.0014` price_source `allMids` vol24h `0.0` oi `0.0`
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0013` price_source `allMids` vol24h `0.0` oi `0.0`

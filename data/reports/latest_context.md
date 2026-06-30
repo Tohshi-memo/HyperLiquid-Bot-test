@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T07:07:32.140028+00:00`
+- Generated: `2026-06-30T07:22:30.961111+00:00`
 - Market context score: `52.32`
 - News risk score: `33.0`
 - Macro risk score: `22.79`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4748`
-- Day/swing latest: `2026-06-30T07:00:00+00:00`
+- Day/swing records: `4749`
+- Day/swing latest: `2026-06-30T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Heavy security deployed in South Africa ahead of anti-migrant protests (BBC News)
 - [crypto] Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Australia’s crypto travel rule is coming into effect: Here’s what's changing (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip (Cointelegraph.com News)
 - [crypto] XRP holds $1 support as network activity rises and leverage clears out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tether trades at 7% to 10% premium in India. Exchanges say its just supply and demand (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
