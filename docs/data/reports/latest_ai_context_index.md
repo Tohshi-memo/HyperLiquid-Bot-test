@@ -2,9 +2,9 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-06-30T01:37:26.493721+00:00`
+- Updated: `2026-06-30T01:52:25.900816+00:00`
 - Asset price active records: `672`
-- Day/swing records: `4726`
+- Day/swing records: `4727`
 - Macro indicators: `6`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
@@ -14,15 +14,15 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2316 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (60665 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2372 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (874 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_context_index.json` (60668 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2414 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (1852 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (48252 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5658 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2244 bytes): Individual asset screen.
+- `data/processed/ai_analysis_pack.json` (48241 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5698 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2277 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (8828 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3623 bytes): Mechanical relationship candidates.
+- `data/reports/latest_relationship_scan.md` (3625 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
@@ -38,7 +38,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- baseline: score `0` - No elevated canary signal. Continue collecting samples.
+- 4h_index_leads_crypto: score `1.3773` - Index perps are stronger than crypto majors; possible risk-on canary.
 
 ## Full JSON Rule
 
