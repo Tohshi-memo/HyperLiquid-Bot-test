@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T22:52:33.648307+00:00`
-- Market context score: `54.65`
-- News risk score: `40.1`
-- Macro risk score: `17.19`
-- Risk-on score: `39.58`
-- Articles: `63`
+- Generated: `2026-06-30T23:07:31.343180+00:00`
+- Market context score: `53.67`
+- News risk score: `39.93`
+- Macro risk score: `17.35`
+- Risk-on score: `37.31`
+- Articles: `62`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4811`
-- Day/swing latest: `2026-06-30T22:45:00+00:00`
+- Day/swing records: `4812`
+- Day/swing latest: `2026-06-30T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `33`, risk hits `10`, risk headline rate `0.303`, policy hits `3`
-- macro: articles `28`, risk hits `1`, risk headline rate `0.0357`, policy hits `0`
+- macro: articles `27`, risk hits `1`, risk headline rate `0.037`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Why Gen Z are planning for life without a state pension (BBC News)
+- [crypto] U.S. senators seek to block foreign adversaries from AI technology in new bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Plea for households to read energy meter as prices rise (BBC News)
 - [macro] US Supreme Court has dealt heavy defeats to Trump, while expanding his power (BBC News)
 - [crypto] Trump pocketed more than $1 billion from crypto ties as industry headed toward slump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin just $5K away from ‘best investment opportunity’ of bear market (Cointelegraph.com News)
@@ -36,6 +39,3 @@
 - [macro] Three-year-old rescued and taken to hospital six days after Venezuela quake (BBC News)
 - [macro] US Supreme Court upholds bans on transgender athletes in female school and college sports (BBC News)
 - [crypto] Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next? (Cointelegraph.com News)
-- [crypto] Phantom doubles down on perpetual futures with hire of Hyperliquid market builders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] SEC seeks public comment on regulating next generation of ETFs (Cointelegraph.com News)
-- [commodity] Brent posts biggest monthly decline since March 2020 as traders monitor U.S.-Iran talks (Energy)
