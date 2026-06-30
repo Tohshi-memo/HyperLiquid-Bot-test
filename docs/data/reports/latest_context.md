@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T04:07:26.211102+00:00`
+- Generated: `2026-06-30T04:22:23.905188+00:00`
 - Market context score: `47.35`
 - News risk score: `38.72`
 - Macro risk score: `24.86`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4736`
-- Day/swing latest: `2026-06-30T04:00:00+00:00`
+- Day/swing records: `4737`
+- Day/swing latest: `2026-06-30T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Aftershock frays nerves as many Venezuelans left to fend for themselves (BBC News)
+- [crypto] Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000 (Cointelegraph.com News)
 - [crypto] Sovereign funds see Bitcoin discount as entry point: MidChains CEO (Cointelegraph.com News)
 - [macro] India's biggest share sales tell the story of a country glued to its phones (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express (Cointelegraph.com News)
 - [macro] Homes harder to sell as high mortgage rates frustrate buyers (BBC News)
 - [crypto] Securitize heads to NYSE debut after investors approve SPAC merger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] We had packed lunches every day for 10 years and retired at 40 (BBC News)
-- [crypto] UK sets final crypto rules as firms face 2027 FCA authorization deadline (Cointelegraph.com News)
