@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T17:37:27.156244+00:00`
-- Market context score: `57.83`
-- News risk score: `42.69`
-- Macro risk score: `22.31`
-- Risk-on score: `50.77`
-- Articles: `80`
+- Generated: `2026-06-30T17:52:39.423165+00:00`
+- Market context score: `52.09`
+- News risk score: `47.5`
+- Macro risk score: `31.4`
+- Risk-on score: `45.52`
+- Articles: `79`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4790`
-- Day/swing latest: `2026-06-30T17:30:00+00:00`
+- Day/swing records: `4791`
+- Day/swing latest: `2026-06-30T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `32`, risk hits `9`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `46`, risk hits `5`, risk headline rate `0.087`, policy hits `7`
+- crypto: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `4`
+- macro: articles `46`, risk hits `12`, risk headline rate `0.2609`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Roof collapse kills 14 children at Pakistan tuition centre (BBC News)
-- [crypto] Crypto companies have spent $189M so far on 2026 US election cycle: Report (Cointelegraph.com News)
-- [macro] Wall Street’s Blue-Chip Index Just Cast Out Verizon for a Higher-Risk AI Growth Machine (Yahoo Finance)
-- [macro] 1 Industrial Pioneer With a Plain-As-Day Moat to Buy and Never Sell (Yahoo Finance)
-- [macro] Toyota's global dominance faces new test (Yahoo Finance)
-- [macro] Ambarella Stock Rockets As AI Chipmaker Scores 'Top Pick' Rating (Yahoo Finance)
-- [macro] Thousands of anti-migrant protesters march in South Africa amid heavy police presence (BBC News)
-- [macro] SpaceX Just Raised $25 Billion in a Debt Sale. Here's What That Means for Investors. (Yahoo Finance)
-- [macro] This Nuclear Energy Stock Has Plunged 32%. Buy It Now Before It Sets a New All-Time High. (Yahoo Finance)
-- [macro] US Supreme Court upholds bans on transgender women in female school and college sports (BBC News)
+- [macro] What to know about the looming  deadline on North American free trade (BBC News)
+- [macro] Profit From Intel Stock's High Volatility With An Advanced Options Trade: The Short Strangle (Yahoo Finance)
+- [macro] American Express Company (AXP) Remains One Of Warren Buffett’s Oldest Stock Picks (Yahoo Finance)
+- [macro] Warren Buffett’s Berkshire Hathaway Has Held Moody’s Corporation (MCO) Since 2010 (Yahoo Finance)
+- [macro] The Coca-Cola Company (KO) Remains One Of Warren Buffett’s Oldest Stock Picks (Yahoo Finance)
+- [macro] Market Indexes Close Out June With a Tech-Fueled Tuesday Rally (Yahoo Finance)
+- [macro] Warren Buffett’s Berkshire Hathaway Has Held DaVita Inc. (DVA) Since 2011 (Yahoo Finance)
+- [macro] Warren Buffett’s Berkshire Hathaway Has Held VeriSign, Inc. (VRSN) Since 2012 (Yahoo Finance)
+- [macro] Apple Inc. (AAPL) Is A Top Warren Buffett Stock Pick (Yahoo Finance)
+- [macro] Bank Of America Corp (BAC) Is A Long Time Berkshire Hathaway Holding (Yahoo Finance)
