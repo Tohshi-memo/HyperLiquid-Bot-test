@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T08:22:31.216568+00:00`
-- Market context score: `52.04`
-- News risk score: `33.28`
-- Macro risk score: `23.35`
-- Risk-on score: `30.35`
-- Articles: `37`
+- Generated: `2026-06-30T08:37:27.466495+00:00`
+- Market context score: `51.73`
+- News risk score: `33.6`
+- Macro risk score: `23.98`
+- Risk-on score: `30.15`
+- Articles: `36`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4753`
-- Day/swing latest: `2026-06-30T08:15:00+00:00`
+- Day/swing records: `4754`
+- Day/swing latest: `2026-06-30T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `1`
-- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `2`
+- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `2`
 
 ## Headlines
 
+- [macro] Parcel bomb injures Ukrainian oligarch and family in Monaco - reports (BBC News)
 - [crypto] Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot (Cointelegraph.com News)
 - [macro] Heavy security deployed in South Africa ahead of anti-migrant protests (BBC News)
 - [macro] Founder of Asian super-app Gojek sentenced to 10 years in jail for corruption (BBC News)
@@ -35,6 +36,5 @@
 - [crypto] Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Australia’s crypto travel rule is coming into effect: Here’s what's changing (Cointelegraph.com News)
-- [macro] Parcel bomb injures Ukrainian oligarch and family in Monaco - reports (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Homes harder to sell as high mortgage rates frustrate buyers (BBC News)
