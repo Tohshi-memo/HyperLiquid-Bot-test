@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-06-30T21:00:26.185839+00:00`
+- Generated: `2026-06-30T21:05:33.780957+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `31313207.8`
-- Polymarket volume z-score: `2.22`
+- Polymarket 24h volume: `32026262.01`
+- Polymarket volume z-score: `2.37`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6023312.131` | liquidity: `22760.31898`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `5092326.650399` | liquidity: `19755.62817`
-- France vs. Sweden: Team to Advance | 24h volume: `3118900.708392982` | liquidity: `3034174.1509`
-- Aleksandar Vučić out as Serbian President by June 30, 2026? | 24h volume: `3035217.8663049974` | liquidity: `2114523.54569`
-- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `1407556.5166409996` | liquidity: `40589.40154`
-- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1327704.641666` | liquidity: `43356.11982`
-- Exact Score: France 3 - 1 Sweden? | 24h volume: `993497.1574030006` | liquidity: `275958.8845`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `897431.4614479995` | liquidity: `584220.3238`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6163712.131` | liquidity: `22546.52161`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `5092326.650399` | liquidity: `19434.77033`
+- France vs. Sweden: Team to Advance | 24h volume: `3413366.499331982` | liquidity: `378871.5766`
+- Aleksandar Vučić out as Serbian President by June 30, 2026? | 24h volume: `3078488.9620209974` | liquidity: `2082944.92111`
+- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1413044.641666` | liquidity: `42700.38828`
+- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `1407556.5166409996` | liquidity: `39168.98415`
+- Exact Score: France 3 - 1 Sweden? | 24h volume: `1049946.133356001` | liquidity: `31922.947`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `898495.3625449995` | liquidity: `581078.3844`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
