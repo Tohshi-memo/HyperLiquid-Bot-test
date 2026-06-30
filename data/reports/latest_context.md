@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T01:22:31.296484+00:00`
-- Market context score: `47.93`
-- News risk score: `36.18`
+- Generated: `2026-06-30T01:34:24.039435+00:00`
+- Market context score: `46.66`
+- News risk score: `38.06`
 - Macro risk score: `27.54`
-- Risk-on score: `25.25`
+- Risk-on score: `24.0`
 - Articles: `43`
 - Polymarket markets: `390`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4725`
-- Day/swing latest: `2026-06-30T01:15:00+00:00`
+- Day/swing records: `4726`
+- Day/swing latest: `2026-06-30T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `2`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `6`
 
 ## Headlines
 
+- [crypto] Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express (Cointelegraph.com News)
 - [macro] Homes harder to sell as high mortgage rates frustrate buyers (BBC News)
 - [crypto] Securitize heads to NYSE debut after investors approve SPAC merger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] We had packed lunches every day for 10 years and retired at 40 (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Donald Trump has 10 days to decide on housing bill with CBDC ban (Cointelegraph.com News)
 - [macro] Lilo & Stitch star Daveigh Chase's cause of death was Aids (BBC News)
-- [macro] 'No one move!': The agonising silence as Venezuela rescuers listen for survivors (BBC News)
