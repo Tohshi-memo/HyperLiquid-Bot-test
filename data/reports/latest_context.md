@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T21:52:53.324364+00:00`
-- Market context score: `54.17`
-- News risk score: `40.99`
+- Generated: `2026-06-30T22:07:26.271655+00:00`
+- Market context score: `55.02`
+- News risk score: `39.74`
 - Macro risk score: `17.68`
-- Risk-on score: `39.45`
+- Risk-on score: `40.29`
 - Articles: `65`
 - Polymarket markets: `392`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4807`
-- Day/swing latest: `2026-06-30T21:45:00+00:00`
+- Day/swing records: `4808`
+- Day/swing latest: `2026-06-30T22:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `36`, risk hits `12`, risk headline rate `0.3056`, policy hits `4`
+- crypto: articles `36`, risk hits `10`, risk headline rate `0.2778`, policy hits `4`
 - macro: articles `27`, risk hits `1`, risk headline rate `0.037`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin just $5K away from ‘best investment opportunity’ of bear market (Cointelegraph.com News)
 - [crypto] Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling (Cointelegraph.com News)
 - [macro] Three-year-old rescued and taken to hospital six days after Venezuela quake (BBC News)
 - [macro] US Supreme Court upholds bans on transgender athletes in female school and college sports (BBC News)
@@ -38,4 +39,3 @@
 - [commodity] Brent posts biggest monthly decline since March 2020 as traders monitor U.S.-Iran talks (Energy)
 - [macro] Firefighters struggle to contain deadly Greek wildfire (BBC News)
 - [crypto] Companies spending the most on AI are growing jobs, Ramp study finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Thousands of anti-migrant protesters march in South Africa amid heavy police presence (BBC News)
