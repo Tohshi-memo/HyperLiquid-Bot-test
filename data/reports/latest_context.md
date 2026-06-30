@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T14:37:30.934919+00:00`
-- Market context score: `58.67`
-- News risk score: `40.72`
-- Macro risk score: `22.94`
-- Risk-on score: `51.21`
-- Articles: `78`
+- Generated: `2026-06-30T14:52:35.287083+00:00`
+- Market context score: `56.16`
+- News risk score: `40.91`
+- Macro risk score: `21.27`
+- Risk-on score: `45.16`
+- Articles: `82`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4778`
-- Day/swing latest: `2026-06-30T14:30:00+00:00`
+- Day/swing records: `4779`
+- Day/swing latest: `2026-06-30T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `9`, risk headline rate `0.2`, policy hits `4`
-- macro: articles `41`, risk hits `5`, risk headline rate `0.0976`, policy hits `6`
+- crypto: articles `36`, risk hits `10`, risk headline rate `0.2222`, policy hits `4`
+- macro: articles `44`, risk hits `4`, risk headline rate `0.0682`, policy hits `7`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Jefferies warns of crypto market volatility as Clarity Act faces Senate test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Supreme Court's birthright ruling is major blow to Trump (BBC News)
+- [macro] A $400,000 Annuity Guarantees $2,600 a Month for Life, but Here Is the $190,000 Retirees Are Giving Up (Yahoo Finance)
+- [macro] Senegalese MPs move to clip presidential powers as tensions mount (BBC News)
+- [macro] MGM Resorts International vs. Royal Caribbean Cruises: Which Consumer Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [crypto] Circle slides 8% as Stripe, Coinbase and BlackRock back rival stablecoin network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar (Energy)
-- [macro] Carbon Underwriting secures FTV Capital investment (Yahoo Finance)
-- [macro] Lactalis to invest in quark production in Germany (Yahoo Finance)
-- [macro] Ian Macleod cuts production amid muted whisky outlook (Yahoo Finance)
-- [macro] Grenergy signs 15-year, 1TWh annual night-time PPA in Chile (Yahoo Finance)
-- [macro] Exceptional Results Drive Growth at Ross Stores (ROST) (Yahoo Finance)
-- [macro] ASML vs. Applied Materials: Why One Is the Smarter Buy Right Now (Yahoo Finance)
-- [crypto] MetaMask launches stablecoin yield account with card spending (Cointelegraph.com News)
-- [crypto] MetaMask launches Money Account with stablecoin yield and spending in one wallet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Forget Southern Copper: 1 Domestic Copper King to Buy Hand Over Fist as the Global Supply Crunch Intensifies (Yahoo Finance)
+- [macro] Verisk Analytics (VRSK) Dropped 15% in Q1 (Yahoo Finance)
+- [macro] JPMorgan delivers verdict on crypto's most popular product (Yahoo Finance)
+- [macro] Drinks companies hit out at Germany’s sugar tax plans (Yahoo Finance)
