@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T04:52:27.146014+00:00`
-- Market context score: `47.22`
-- News risk score: `38.55`
-- Macro risk score: `24.81`
-- Risk-on score: `24.62`
-- Articles: `31`
+- Generated: `2026-06-30T05:07:32.613312+00:00`
+- Market context score: `48.0`
+- News risk score: `37.41`
+- Macro risk score: `25.52`
+- Risk-on score: `25.67`
+- Articles: `33`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4739`
-- Day/swing latest: `2026-06-30T04:45:00+00:00`
+- Day/swing records: `4740`
+- Day/swing latest: `2026-06-30T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `0`
+- crypto: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
 - macro: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Tether trades at 7% to 10% premium in India. Exchanges say its just supply and demand (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Aftershock frays nerves as many Venezuelans left to fend for themselves (BBC News)
 - [crypto] Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000 (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] SEC wins $5.4M judgment in NanoBit crypto fraud case (Cointelegraph.com News)
 - [macro] Chinese tycoon sentenced to 30 years in US jail (BBC News)
 - [crypto] Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express (Cointelegraph.com News)
-- [macro] Homes harder to sell as high mortgage rates frustrate buyers (BBC News)
-- [crypto] Securitize heads to NYSE debut after investors approve SPAC merger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
