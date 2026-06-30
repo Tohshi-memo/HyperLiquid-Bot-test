@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T16:07:28.899252+00:00`
-- Market context score: `56.79`
-- News risk score: `41.23`
-- Macro risk score: `22.9`
-- Risk-on score: `47.45`
-- Articles: `75`
+- Generated: `2026-06-30T16:22:26.798275+00:00`
+- Market context score: `57.07`
+- News risk score: `42.06`
+- Macro risk score: `24.03`
+- Risk-on score: `49.2`
+- Articles: `74`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4784`
-- Day/swing latest: `2026-06-30T16:00:00+00:00`
+- Day/swing records: `4785`
+- Day/swing latest: `2026-06-30T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `33`, risk hits `8`, risk headline rate `0.2121`, policy hits `4`
-- macro: articles `40`, risk hits `4`, risk headline rate `0.1`, policy hits `4`
+- crypto: articles `32`, risk hits `8`, risk headline rate `0.2188`, policy hits `4`
+- macro: articles `40`, risk hits `5`, risk headline rate `0.125`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US Supreme Court upholds bans on transgender women in female school and college sports (BBC News)
+- [macro] Almost 60,000 far-right extremists in Germany, intelligence agency says (BBC News)
+- [macro] Accent rejects Frasers takeover approach as “materially inadequate” (Yahoo Finance)
+- [macro] Last chance to file a claim in the European Wax Center settlement (Yahoo Finance)
 - [commodity] Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar (Energy)
-- [macro] Micron Hit With Price-Fixing Lawsuit: Real Collusion or Simple Supply and Demand? (Yahoo Finance)
-- [macro] US envoys in Doha to meet mediators but not Iranians, Qatar says (BBC News)
-- [macro] Should You Invest in This Gold ETF While the Precious Metal Trades Around $4,000? (Yahoo Finance)
-- [macro] Why Intel Stock Just Popped (Yahoo Finance)
-- [macro] RFBL secures packaging materials supply order from 3B Films (Yahoo Finance)
-- [macro] Billionaires Bill Ackman, Jeremy Grantham, and Cliff Asness Are Piling Into This AI Stock the Market Is Severely Undervaluing (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] IBD 50 Stocks To Watch: Alignment Healthcare Hits Latest Buy Point, But There's A Catch (Yahoo Finance)
-- [macro] Consortium including Visa, Mastercard jointly launch new global stablecoin (Yahoo Finance)
+- [macro] Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Shows Its Might; This Tech Player Hits A New High (Live Coverage) (Yahoo Finance)
+- [macro] AeroVironment shares jump on strong earnings beat, record backlog and Pentagon spending tailwinds (Yahoo Finance)
+- [macro] Pepsi Price Prediction: The Case for 20%+ Upside (Yahoo Finance)
+- [macro] Stock bulls in control of the quarter as oil tumbles the most in years; gold, yen also fall (Yahoo Finance)
