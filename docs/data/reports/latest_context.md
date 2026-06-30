@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T15:37:48.845405+00:00`
-- Market context score: `59.34`
-- News risk score: `39.17`
-- Macro risk score: `19.83`
-- Risk-on score: `50.22`
-- Articles: `80`
+- Generated: `2026-06-30T15:52:30.964545+00:00`
+- Market context score: `57.3`
+- News risk score: `40.53`
+- Macro risk score: `22.62`
+- Risk-on score: `47.88`
+- Articles: `78`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4782`
-- Day/swing latest: `2026-06-30T15:30:00+00:00`
+- Day/swing records: `4783`
+- Day/swing latest: `2026-06-30T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `35`, risk hits `8`, risk headline rate `0.2`, policy hits `4`
-- macro: articles `43`, risk hits `2`, risk headline rate `0.0465`, policy hits `5`
+- macro: articles `41`, risk hits `4`, risk headline rate `0.0976`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Micron Hit With Price-Fixing Lawsuit: Real Collusion or Simple Supply and Demand? (Yahoo Finance)
+- [macro] US envoys in Doha to meet mediators but not Iranians, Qatar says (BBC News)
+- [macro] Should You Invest in This Gold ETF While the Precious Metal Trades Around $4,000? (Yahoo Finance)
+- [macro] Why Intel Stock Just Popped (Yahoo Finance)
+- [macro] RFBL secures packaging materials supply order from 3B Films (Yahoo Finance)
+- [macro] Billionaires Bill Ackman, Jeremy Grantham, and Cliff Asness Are Piling Into This AI Stock the Market Is Severely Undervaluing (Yahoo Finance)
 - [commodity] Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar (Energy)
-- [macro] Nasdaq heads for best Q2 since 2020 as chip stocks surge (Yahoo Finance)
-- [macro] BMW completes $1.7 billion investment in EV production at U.S. plants (Yahoo Finance)
-- [macro] US Supreme Court upholds bans on transgender women in female school and college sports (BBC News)
-- [macro] BP deputy CEO Carol Howle retiring, role not being replaced (Yahoo Finance)
-- [macro] Up 250% YTD, Does Seagate Have More Upside Ahead? (Yahoo Finance)
-- [macro] Thousands of anti-migrant protesters march in South Africa amid heavy police presence (BBC News)
-- [macro] Super Micro, Dell Gain 4% a Day After Super Micro’s Taiwan-Probe Plunge (Yahoo Finance)
-- [macro] Why AMD Stock Just Popped (Yahoo Finance)
-- [macro] Webull Launches Crypto Trading In Canada (Yahoo Finance)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] IBD 50 Stocks To Watch: Alignment Healthcare Hits Latest Buy Point, But There's A Catch (Yahoo Finance)
+- [macro] Consortium including Visa, Mastercard jointly launch new global stablecoin (Yahoo Finance)
