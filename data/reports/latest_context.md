@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T13:07:26.509528+00:00`
-- Market context score: `60.39`
-- News risk score: `39.82`
-- Macro risk score: `21.23`
-- Risk-on score: `53.62`
-- Articles: `72`
+- Generated: `2026-06-30T13:22:31.357762+00:00`
+- Market context score: `59.51`
+- News risk score: `38.33`
+- Macro risk score: `18.24`
+- Risk-on score: `49.27`
+- Articles: `73`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4772`
-- Day/swing latest: `2026-06-30T13:00:00+00:00`
+- Day/swing records: `4773`
+- Day/swing latest: `2026-06-30T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `8`, risk headline rate `0.2`, policy hits `3`
-- macro: articles `41`, risk hits `4`, risk headline rate `0.0976`, policy hits `4`
+- macro: articles `42`, risk hits `2`, risk headline rate `0.0476`, policy hits `4`
 
 ## Headlines
 
+- [macro] Cooke nets Mowi salmon farms in Canada (Yahoo Finance)
+- [commodity] Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar (Energy)
+- [macro] Thousands of anti-migrant protesters march in South Africa amid heavy police presence (BBC News)
+- [macro] Inflation in Eurozone’s Biggest Economies Cools More Than Expected (Yahoo Finance)
+- [macro] Joby, Toyota announce joint venture for air taxi production (Yahoo Finance)
 - [crypto] Theo becomes first crypto-native investor in Fidelity tokenized fund (Cointelegraph.com News)
 - [crypto] Nasdaq expands distribution of its market data into blockchain infrastructure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] In 10 Years, Will You Wish You'd Bought Ford Stock Right Now? (Yahoo Finance)
-- [macro] This Is Exactly How the IRS Determines Your RMD (Yahoo Finance)
-- [macro] Bitcoin and ethereum prices today, Tuesday, June 30: Prices sliding, down about 40% from last year (Yahoo Finance)
-- [crypto] Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom (Cointelegraph.com News)
-- [macro] 3 Stocks to Watch as the MiCA Deadline Reshapes EU Digital Assets (Yahoo Finance)
-- [macro] Morgan Stanley Initiates Coverage on VSE Corporation (VSEC) with Equal Weight Rating (Yahoo Finance)
-- [macro] Moog Inc. (MOG-A), PONAR Wadowice S.A. Sign MOU to Advance European Aerospace and Defense Capabilities (Yahoo Finance)
-- [macro] Elbit Systems Ltd. (ESLT): Among Aerospace and Defense Stocks with the Largest 5Y Share Price Returns (Yahoo Finance)
+- [macro] Saia REV: Rapid, Expanded and Visible (Yahoo Finance)
+- [macro] Why the Best LTL Carriers Are Built, Not Bought (Yahoo Finance)
+- [macro] Think you can outsmart the market by letting AI pick stocks? A new study says don’t bother — you can’t beat buy-and-hold (Yahoo Finance)
