@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T07:22:30.961111+00:00`
-- Market context score: `52.32`
-- News risk score: `33.0`
-- Macro risk score: `22.79`
-- Risk-on score: `30.53`
+- Generated: `2026-06-30T07:37:33.655762+00:00`
+- Market context score: `52.38`
+- News risk score: `32.79`
+- Macro risk score: `23.32`
+- Risk-on score: `30.67`
 - Articles: `38`
 - Polymarket markets: `391`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4749`
-- Day/swing latest: `2026-06-30T07:15:00+00:00`
+- Day/swing records: `4750`
+- Day/swing latest: `2026-06-30T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `1`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `2`
+- crypto: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `2`
 
 ## Headlines
 
 - [macro] Heavy security deployed in South Africa ahead of anti-migrant protests (BBC News)
+- [crypto] Bitcoin's 52-week correlation with USD/JPY hits -0.90, undercutting 'carry trade' theory (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Australia’s crypto travel rule is coming into effect: Here’s what's changing (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Homes harder to sell as high mortgage rates frustrate buyers (BBC News)
 - [crypto] Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip (Cointelegraph.com News)
 - [crypto] XRP holds $1 support as network activity rises and leverage clears out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
