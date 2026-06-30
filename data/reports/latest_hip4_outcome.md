@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-06-30T00:22:27.728353+00:00`
+- Generated: `2026-06-30T00:37:35.772580+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `79`
 - Outcome sides (rows): `158`
@@ -26,7 +26,7 @@
 
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Round of 32: Germany vs Paraguay [Paraguay] symbol `#6761` underlying `n/a` prob `0.9997` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Round of 32: Germany vs Paraguay [Paraguay] symbol `#6761` underlying `n/a` prob `0.9998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
 - Haiti [No] symbol `#1921` underlying `n/a` prob `0.9993` price_source `allMids` vol24h `0.0` oi `0.0`
 - Saudi Arabia [No] symbol `#2071` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -72,11 +72,11 @@
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0025` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
-- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0258` price_source `allMids` vol24h `0.0` oi `0.0`
-- Colombia [No] symbol `#1811` underlying `n/a` prob `0.9742` price_source `allMids` vol24h `0.0` oi `0.0`
+- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0262` price_source `allMids` vol24h `0.0` oi `0.0`
+- Colombia [No] symbol `#1811` underlying `n/a` prob `0.9738` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0006` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0057` price_source `allMids` vol24h `0.0` oi `0.0`
+- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0032` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -100,11 +100,11 @@
 - Canada [No] symbol `#1791` underlying `n/a` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0025` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9975` price_source `allMids` vol24h `0.0` oi `0.0`
-- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0258` price_source `allMids` vol24h `0.0` oi `0.0`
-- Colombia [No] symbol `#1811` underlying `n/a` prob `0.9742` price_source `allMids` vol24h `0.0` oi `0.0`
+- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0262` price_source `allMids` vol24h `0.0` oi `0.0`
+- Colombia [No] symbol `#1811` underlying `n/a` prob `0.9738` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [Yes] symbol `#1820` underlying `n/a` prob `0.0006` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
-- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0057` price_source `allMids` vol24h `0.0` oi `0.0`
+- Croatia [Yes] symbol `#1830` underlying `n/a` prob `0.0032` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
