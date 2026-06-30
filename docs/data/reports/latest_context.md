@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T20:22:27.228908+00:00`
+- Generated: `2026-06-30T20:37:27.604855+00:00`
 - Market context score: `56.56`
 - News risk score: `39.05`
 - Macro risk score: `18.15`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4801`
-- Day/swing latest: `2026-06-30T20:15:00+00:00`
+- Day/swing records: `4802`
+- Day/swing latest: `2026-06-30T20:30:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,9 @@
 
 ## Headlines
 
+- [commodity] Brent posts biggest monthly decline since March 2020 as traders monitor U.S.-Iran talks (Energy)
+- [macro] Firefighters struggle to contain deadly Greek wildfire (BBC News)
 - [crypto] Companies spending the most on AI are growing jobs, Ramp study finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Brent posts biggest monthly decline since March 2020 as traders monitor state of U.S.-Iran talks (Energy)
 - [macro] Thousands of anti-migrant protesters march in South Africa amid heavy police presence (BBC News)
 - [macro] Americans react to Supreme Court upholding birthright citizenship (BBC News)
 - [macro] Roof collapse kills 14 children at Pakistan tuition centre (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'Absolute madness': Row over plan to demolish Nazi bunker under Berlin (BBC News)
 - [macro] Australia sues Amazon for making allegedly unfair contracts with subscribers (BBC News)
 - [macro] Australia sues Amazon for making allegedly unfair contracts with subscribers (BBC News)
-- [crypto] Nasdaq brings proprietary market data onchain through Pyth (Cointelegraph.com News)
