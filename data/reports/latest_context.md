@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T22:45:56.215777+00:00`
-- Market context score: `54.85`
-- News risk score: `39.77`
-- Macro risk score: `17.33`
-- Risk-on score: `39.8`
+- Generated: `2026-06-30T22:52:33.648307+00:00`
+- Market context score: `54.65`
+- News risk score: `40.1`
+- Macro risk score: `17.19`
+- Risk-on score: `39.58`
 - Articles: `63`
 - Polymarket markets: `392`
 
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `34`, risk hits `10`, risk headline rate `0.2941`, policy hits `3`
-- macro: articles `27`, risk hits `1`, risk headline rate `0.037`, policy hits `0`
+- crypto: articles `33`, risk hits `10`, risk headline rate `0.303`, policy hits `3`
+- macro: articles `28`, risk hits `1`, risk headline rate `0.0357`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US Supreme Court has dealt heavy defeats to Trump, while expanding his power (BBC News)
 - [crypto] Trump pocketed more than $1 billion from crypto ties as industry headed toward slump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin just $5K away from ‘best investment opportunity’ of bear market (Cointelegraph.com News)
 - [crypto] Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Phantom doubles down on perpetual futures with hire of Hyperliquid market builders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SEC seeks public comment on regulating next generation of ETFs (Cointelegraph.com News)
 - [commodity] Brent posts biggest monthly decline since March 2020 as traders monitor U.S.-Iran talks (Energy)
-- [macro] Firefighters struggle to contain deadly Greek wildfire (BBC News)
