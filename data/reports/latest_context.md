@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T23:07:31.343180+00:00`
-- Market context score: `53.67`
-- News risk score: `39.93`
-- Macro risk score: `17.35`
-- Risk-on score: `37.31`
-- Articles: `62`
+- Generated: `2026-06-30T23:22:26.837035+00:00`
+- Market context score: `53.31`
+- News risk score: `40.21`
+- Macro risk score: `17.95`
+- Risk-on score: `36.97`
+- Articles: `60`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4812`
-- Day/swing latest: `2026-06-30T23:00:00+00:00`
+- Day/swing records: `4813`
+- Day/swing latest: `2026-06-30T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `33`, risk hits `10`, risk headline rate `0.303`, policy hits `3`
-- macro: articles `27`, risk hits `1`, risk headline rate `0.037`, policy hits `0`
+- crypto: articles `32`, risk hits `10`, risk headline rate `0.3125`, policy hits `4`
+- macro: articles `26`, risk hits `1`, risk headline rate `0.0385`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Has Strategy’s capital overhaul put an end to ‘death spiral’ fears? (Cointelegraph.com News)
 - [macro] Why Gen Z are planning for life without a state pension (BBC News)
 - [crypto] U.S. senators seek to block foreign adversaries from AI technology in new bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Plea for households to read energy meter as prices rise (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling (Cointelegraph.com News)
 - [macro] Three-year-old rescued and taken to hospital six days after Venezuela quake (BBC News)
 - [macro] US Supreme Court upholds bans on transgender athletes in female school and college sports (BBC News)
-- [crypto] Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next? (Cointelegraph.com News)
