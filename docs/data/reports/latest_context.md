@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-06-30T12:07:27.419944+00:00`
-- Market context score: `62.56`
-- News risk score: `37.95`
-- Macro risk score: `19.95`
-- Risk-on score: `56.38`
+- Generated: `2026-06-30T12:22:22.673018+00:00`
+- Market context score: `62.84`
+- News risk score: `36.75`
+- Macro risk score: `17.47`
+- Risk-on score: `55.05`
 - Articles: `67`
 - Polymarket markets: `393`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4768`
-- Day/swing latest: `2026-06-30T12:00:00+00:00`
+- Day/swing records: `4769`
+- Day/swing latest: `2026-06-30T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `25`, risk hits `7`, risk headline rate `0.2`, policy hits `3`
-- macro: articles `41`, risk hits `3`, risk headline rate `0.0732`, policy hits `4`
+- macro: articles `41`, risk hits `1`, risk headline rate `0.0244`, policy hits `6`
 
 ## Headlines
 
+- [macro] Shetland backs plan to connect islands with £1.5bn undersea tunnels (BBC News)
+- [macro] Invesco QQQ Is Magnificent, but This 1 ETF Might Be Even Better Right Now (Yahoo Finance)
+- [macro] Recursion Pharmaceuticals vs. Summit Therapeutics: Which Healthcare Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Comcast Just Split Itself Up: These 5 Conglomerates Could Be Next (Yahoo Finance)
+- [macro] State Street Tech ETF Faces Off With Roundhill Generative AI Fund (Yahoo Finance)
+- [macro] Nvidia stock is sagging. Here's what's behind the negative short-term trend. (Yahoo Finance)
+- [macro] CrowdStrike Stock Split Set For Wednesday Amid 2026 Momentum (Yahoo Finance)
 - [crypto] Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Gold prices today, Tuesday, June 30: Hanging just above $4,000, but ready to rise? (Yahoo Finance)
-- [macro] US regulator fines BofA’s wealth unit Merrill over SAR failures (Yahoo Finance)
-- [macro] General Atlantic in talks to buy PAG’s stake in Nuvama Wealth – report (Yahoo Finance)
-- [macro] GE HealthCare introduces upgrade pathways for interventional suite modernisation (Yahoo Finance)
-- [macro] Oracle (ORCL) Launches Fusion Agentic Applications to Automate Supply Chain Management Tasks (Yahoo Finance)
-- [macro] Trip.com Group (TCOM): 10 Undervalued Stocks with High Upside Potential (Yahoo Finance)
-- [macro] ReElement Technologies, POSCO (PKX) Form $200M JV for US Rare Earth, Magnet Production (Yahoo Finance)
-- [macro] Fermi (FRMI) Selects TSK to Lead Engineering, Project Management for Phase Two of Project Matador in Texas (Yahoo Finance)
-- [macro] Strong dollar pushes yen to 40-year low as traders test Japanese authorities (Yahoo Finance)
+- [macro] Here is Why Petrobras (PBR) is One of the Undervalued Stocks with High Upside Potential (Yahoo Finance)
+- [macro] Fox Corporation (FOX) to Acquire Roku (ROKU) for $22B in Cash-and-Stock Deal (Yahoo Finance)
