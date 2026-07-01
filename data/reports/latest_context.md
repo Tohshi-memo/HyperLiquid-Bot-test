@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T11:47:43.938142+00:00`
-- Market context score: `60.58`
-- News risk score: `31.68`
-- Macro risk score: `24.72`
-- Risk-on score: `48.5`
-- Articles: `69`
+- Generated: `2026-07-01T11:52:26.730420+00:00`
+- Market context score: `60.85`
+- News risk score: `32.3`
+- Macro risk score: `26.87`
+- Risk-on score: `50.42`
+- Articles: `67`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `19`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `46`, risk hits `7`, risk headline rate `0.1522`, policy hits `1`
+- macro: articles `44`, risk hits `8`, risk headline rate `0.1818`, policy hits `2`
 
 ## Headlines
 
+- [macro] At least five killed in fire at Antwerp apartment building, say police (BBC News)
+- [commodity] Oil prices wobble as uncertainty persists over U.S.-Iran talks in Qatar (Energy)
+- [macro] Kotak to acquire Deutsche Bank’s retail and wealth businesses in India (Yahoo Finance)
 - [crypto] Ark Invest bought more than $75 million of crypto shares during June bloodbath (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
 - [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
-- [macro] OJG to operate Lee brand in US, Canada under new Authentic deal (Yahoo Finance)
-- [macro] Star Copper to acquire two copper-gold projects in BC (Yahoo Finance)
-- [macro] German vegan firm Planethic files for self-administration (Yahoo Finance)
-- [macro] Breakout Watch: Industry Giant Rolls Out A Different Kind Of Red Carpet (Yahoo Finance)
-- [macro] Several killed and injured in fire at Antwerp apartment building (BBC News)
-- [macro] Dow Jones Futures Fall, Bloom Energy Jumps; SpaceX's First Buy Point (Yahoo Finance)
-- [macro] BND vs. VCIT: Which Vanguard Bond ETF Is the Better Buy for Income Investors? (Yahoo Finance)
+- [macro] Nike, Alcoa, AMD, Micron, and More Stocks That Explain Today’s Market (Yahoo Finance)
+- [macro] S&P 500, Nasdaq futures fall as chip stocks surge in Q2 2026 (Yahoo Finance)
+- [macro] The Bill Miller Playbook: How Lincoln Financial, Strategy, and Nabors Stack Up for Retirement Investors (Yahoo Finance)
+- [macro] South Korea to the rescue: The world's biggest chipmakers will drop $590 billion to end RAMageddon, but there's a catch (Yahoo Finance)
