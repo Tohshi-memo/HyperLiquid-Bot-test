@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-01T09:22:27.840128+00:00`
+- Generated: `2026-07-01T09:37:25.706420+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `74`
 - Outcome sides (rows): `148`
@@ -46,9 +46,9 @@
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - New Zealand [No] symbol `#2011` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Iran [No] symbol `#1931` underlying `n/a` prob `0.9983` price_source `allMids` vol24h `0.0` oi `0.0`
+- Canada [No] symbol `#1791` underlying `n/a` prob `0.998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Tunisia [No] symbol `#2151` underlying `n/a` prob `0.998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Uruguay [No] symbol `#2181` underlying `n/a` prob `0.998` price_source `allMids` vol24h `0.0` oi `0.0`
-- Scotland [No] symbol `#2081` underlying `n/a` prob `0.9978` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
@@ -68,8 +68,8 @@
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [Yes] symbol `#1780` underlying `n/a` prob `0.0651` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [No] symbol `#1781` underlying `n/a` prob `0.9349` price_source `allMids` vol24h `0.0` oi `0.0`
-- Canada [Yes] symbol `#1790` underlying `n/a` prob `0.0078` price_source `allMids` vol24h `0.0` oi `0.0`
-- Canada [No] symbol `#1791` underlying `n/a` prob `0.9922` price_source `allMids` vol24h `0.0` oi `0.0`
+- Canada [Yes] symbol `#1790` underlying `n/a` prob `0.002` price_source `allMids` vol24h `0.0` oi `0.0`
+- Canada [No] symbol `#1791` underlying `n/a` prob `0.998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0055` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9945` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0186` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -96,8 +96,8 @@
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [Yes] symbol `#1780` underlying `n/a` prob `0.0651` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [No] symbol `#1781` underlying `n/a` prob `0.9349` price_source `allMids` vol24h `0.0` oi `0.0`
-- Canada [Yes] symbol `#1790` underlying `n/a` prob `0.0078` price_source `allMids` vol24h `0.0` oi `0.0`
-- Canada [No] symbol `#1791` underlying `n/a` prob `0.9922` price_source `allMids` vol24h `0.0` oi `0.0`
+- Canada [Yes] symbol `#1790` underlying `n/a` prob `0.002` price_source `allMids` vol24h `0.0` oi `0.0`
+- Canada [No] symbol `#1791` underlying `n/a` prob `0.998` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [Yes] symbol `#1800` underlying `n/a` prob `0.0055` price_source `allMids` vol24h `0.0` oi `0.0`
 - Cape Verde [No] symbol `#1801` underlying `n/a` prob `0.9945` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0186` price_source `allMids` vol24h `0.0` oi `0.0`
