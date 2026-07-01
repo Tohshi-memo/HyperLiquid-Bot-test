@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-01T23:00:26.441088+00:00`
+- Generated: `2026-07-01T23:05:32.413246+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `42359639.92`
-- Polymarket volume z-score: `3.18`
+- Polymarket 24h volume: `42142910.24`
+- Polymarket volume z-score: `3.13`
 
 ## Top Polymarket Markets
 
-- Belgium vs. Senegal: Team to Advance | 24h volume: `12733206.363435948` | liquidity: `2781882.88264`
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `7448796.876665` | liquidity: `23642.9501`
-- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `2799275.625548` | liquidity: `67554.40156`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `1532542.4` | liquidity: `22436.95438`
-- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1353317.876604` | liquidity: `1413730.66976`
-- Will Donald Trump publicly insult Benjamin Netanyahu by June 30, 2026? | 24h volume: `1208383.16288` | liquidity: `2220646.38533`
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `1066898.538622` | liquidity: `66845.14712`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `1047718.9835009994` | liquidity: `1625378.6682`
+- Belgium vs. Senegal: Team to Advance | 24h volume: `12762463.150162952` | liquidity: `2758376.27102`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `7448796.876665` | liquidity: `23908.09732`
+- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `2799275.625548` | liquidity: `67669.05295`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `1532542.4` | liquidity: `21373.0008`
+- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1353317.876604` | liquidity: `1418635.2383`
+- Will Donald Trump publicly insult Benjamin Netanyahu by June 30, 2026? | 24h volume: `1207932.2490110002` | liquidity: `2170124.99289`
+- United States vs. Bosnia and Herzegovina: Team to Advance | 24h volume: `1095748.2778599951` | liquidity: `1417837.0765`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `1066898.538622` | liquidity: `66854.5062`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
