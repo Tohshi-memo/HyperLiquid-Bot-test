@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-01T08:20:27.468636+00:00`
+- Generated: `2026-07-01T08:25:36.143184+00:00`
 - Flow alert score: `21.64`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `28554137.43`
+- Polymarket 24h volume: `28569728.18`
 - Polymarket volume z-score: `1.16`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `8311716.0` | liquidity: `29346.23338`
-- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `4231516.223213999` | liquidity: `51418.93104`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4062055.0503990003` | liquidity: `22020.18944`
-- Aleksandar Vučić out as Serbian President by June 30, 2026? | 24h volume: `2974121.449319` | liquidity: `3677576.56015`
-- Will Donald Trump be the next leader out before 2027? | 24h volume: `682189.667675` | liquidity: `48708.94204`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `611837.5135999997` | liquidity: `978370.2922`
-- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `611689.1673930001` | liquidity: `45126.11072`
-- Will Lebanon recognize Israel by June 30? | 24h volume: `592595.8954080002` | liquidity: `106499.31195`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `8218116.0` | liquidity: `28826.58907`
+- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `4332144.973213999` | liquidity: `48321.49165`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3929455.0503990003` | liquidity: `20970.51401`
+- Aleksandar Vučić out as Serbian President by June 30, 2026? | 24h volume: `2980265.588461` | liquidity: `3667433.85687`
+- Will Donald Trump be the next leader out before 2027? | 24h volume: `682241.247675` | liquidity: `48678.66131`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `616261.6629799997` | liquidity: `977878.1891`
+- Will Lebanon recognize Israel by June 30? | 24h volume: `591621.0563950002` | liquidity: `98361.03456`
+- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `584200.747393` | liquidity: `44476.17243`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
