@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-01T00:10:28.831318+00:00`
+- Generated: `2026-07-01T00:15:28.819028+00:00`
 - Flow alert score: `23.88`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `29713084.74`
+- Polymarket 24h volume: `29713603.77`
 - Polymarket volume z-score: `1.72`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6974911.011` | liquidity: `23209.737`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `5092326.650399` | liquidity: `19963.87759`
-- Aleksandar Vučić out as Serbian President by June 30, 2026? | 24h volume: `3107509.9873719974` | liquidity: `2702545.43455`
-- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `2201174.431666` | liquidity: `40354.63772`
-- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `1407598.937641` | liquidity: `36098.07146`
-- Mexico vs. Ecuador: Team to Advance | 24h volume: `1351560.0360710036` | liquidity: `2734783.311`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `897753.8053709995` | liquidity: `628950.8896`
-- Will Bitcoin dip to $57,500 in June? | 24h volume: `737687.7859360006` | liquidity: `64495.3778`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `6974911.011` | liquidity: `23183.26765`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `5092326.650399` | liquidity: `19580.76161`
+- Aleksandar Vučić out as Serbian President by June 30, 2026? | 24h volume: `3087338.642518997` | liquidity: `3618275.15339`
+- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `2339206.013666` | liquidity: `40402.5769`
+- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `1407598.937641` | liquidity: `35726.89258`
+- Mexico vs. Ecuador: Team to Advance | 24h volume: `1378706.4003310043` | liquidity: `3304265.2274`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `900010.1929539995` | liquidity: `625581.548`
+- Will Bitcoin dip to $57,500 in June? | 24h volume: `732805.4137350005` | liquidity: `63682.27817`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
