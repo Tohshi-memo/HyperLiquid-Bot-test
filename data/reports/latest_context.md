@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T22:07:29.178632+00:00`
-- Market context score: `49.6`
-- News risk score: `43.36`
-- Macro risk score: `26.2`
-- Risk-on score: `34.52`
-- Articles: `70`
+- Generated: `2026-07-01T22:09:38.808190+00:00`
+- Market context score: `48.77`
+- News risk score: `44.7`
+- Macro risk score: `26.53`
+- Risk-on score: `33.93`
+- Articles: `71`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `38`, risk hits `12`, risk headline rate `0.2368`, policy hits `2`
+- crypto: articles `39`, risk hits `13`, risk headline rate `0.2564`, policy hits `3`
 - macro: articles `30`, risk hits `6`, risk headline rate `0.2`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next? (Cointelegraph.com News)
 - [crypto] Robinhood rolls out public blockchain, plans crypto trading for UK residents (Cointelegraph.com News)
 - [macro] Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth' (BBC News)
 - [crypto] Ethereum Institutional launch draws support from across the Ethereum ecosystem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Four die in Mexico City World Cup celebrations (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Halifax brand to be scrapped after 173 years (BBC News)
-- [crypto] Democrat backed by Ripple co-founder’s PAC wins Colorado primary (Cointelegraph.com News)
