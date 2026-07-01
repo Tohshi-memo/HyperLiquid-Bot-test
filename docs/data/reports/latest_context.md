@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T00:07:25.654686+00:00`
-- Market context score: `53.08`
-- News risk score: `40.59`
-- Macro risk score: `17.8`
-- Risk-on score: `36.72`
-- Articles: `60`
+- Generated: `2026-07-01T00:22:30.133726+00:00`
+- Market context score: `50.32`
+- News risk score: `41.87`
+- Macro risk score: `19.9`
+- Risk-on score: `32.48`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4816`
-- Day/swing latest: `2026-07-01T00:00:00+00:00`
+- Day/swing records: `4817`
+- Day/swing latest: `2026-07-01T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `31`, risk hits `10`, risk headline rate `0.3226`, policy hits `4`
-- macro: articles `27`, risk hits `1`, risk headline rate `0.037`, policy hits `0`
+- crypto: articles `30`, risk hits `10`, risk headline rate `0.3333`, policy hits `4`
+- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Afghan Taliban launch strikes on border with Pakistan as tensions escalate (BBC News)
 - [macro] Chinese tycoon sentenced to 30 years in US jail (BBC News)
 - [macro] US envoys in Doha to meet mediators but not Iranians, Qatar says (BBC News)
+- [macro] A plane crashed into a tower in Beijing but China is not saying what happened (BBC News)
 - [crypto] Has Strategy’s capital overhaul put an end to ‘death spiral’ fears? (Cointelegraph.com News)
 - [macro] Why Gen Z are planning for life without a state pension (BBC News)
 - [crypto] U.S. senators seek to block foreign adversaries from AI technology in new bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Plea for households to read energy meter as prices rise (BBC News)
 - [macro] US Supreme Court has dealt heavy defeats to Trump, while expanding his power (BBC News)
 - [crypto] Trump pocketed more than $1 billion from crypto ties as industry headed toward slump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin just $5K away from ‘best investment opportunity’ of bear market (Cointelegraph.com News)
-- [crypto] Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling (Cointelegraph.com News)
