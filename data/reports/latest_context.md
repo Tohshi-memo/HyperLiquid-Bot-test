@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T03:52:28.321081+00:00`
-- Market context score: `49.71`
-- News risk score: `37.19`
-- Macro risk score: `24.17`
-- Risk-on score: `28.8`
-- Articles: `47`
+- Generated: `2026-07-01T04:07:27.096177+00:00`
+- Market context score: `49.99`
+- News risk score: `36.89`
+- Macro risk score: `24.15`
+- Risk-on score: `29.15`
+- Articles: `48`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4831`
-- Day/swing latest: `2026-07-01T03:45:00+00:00`
+- Day/swing records: `4832`
+- Day/swing latest: `2026-07-01T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `2`
+- crypto: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `2`
 - macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Trump earned more from crypto than real estate in 2025, filings show (Cointelegraph.com News)
 - [crypto] ‘47 Ronin’ director who gambled Netflix funds on crypto gets 30 months (Cointelegraph.com News)
 - [macro] Anthropic says US lifts export ban on its advanced AI tools (BBC News)
 - [macro] Anthropic says US lifts export ban on its advanced AI tools (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] UK crypto investors sue Binance, Changpeng Zhao for $200M (Cointelegraph.com News)
 - [macro] Australia sues Amazon for making allegedly unfair contracts with subscribers (BBC News)
 - [macro] Australia sues Amazon for making allegedly unfair contracts with subscribers (BBC News)
-- [macro] Afghan Taliban launch strikes on border with Pakistan as tensions escalate (BBC News)
