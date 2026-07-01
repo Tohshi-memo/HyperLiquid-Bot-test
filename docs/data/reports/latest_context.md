@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T20:47:15.720395+00:00`
-- Market context score: `51.53`
-- News risk score: `41.15`
-- Macro risk score: `25.57`
-- Risk-on score: `36.7`
-- Articles: `65`
+- Generated: `2026-07-01T20:52:31.486027+00:00`
+- Market context score: `50.65`
+- News risk score: `42.56`
+- Macro risk score: `25.93`
+- Risk-on score: `36.06`
+- Articles: `66`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `36`, risk hits `11`, risk headline rate `0.2222`, policy hits `2`
+- crypto: articles `37`, risk hits `12`, risk headline rate `0.2432`, policy hits `3`
 - macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Tradeweb executes real-time tokenized US Treasury transaction on Canton Network (Cointelegraph.com News)
 - [crypto] Bitcoin bounces off 21-month low, but leverage data signals caution: Was $57K the bottom? (Cointelegraph.com News)
 - [macro] World Cup could boost the June jobs report by 40,000, Goldman estimates (Economy)
 - [macro] Four die in Mexico City World Cup celebrations (BBC News)
@@ -37,5 +38,4 @@
 - [crypto] Democrat backed by Ripple co-founder’s PAC wins Colorado primary (Cointelegraph.com News)
 - [commodity] Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well (Energy)
 - [crypto] Bitcoin bear market ‘dead’ after first TD9 reversal signal since July 2022 fires (Cointelegraph.com News)
-- [macro] US blocks long-term renewal of North American trade deal (BBC News)
 - [macro] US blocks long-term renewal of North American trade deal (BBC News)
