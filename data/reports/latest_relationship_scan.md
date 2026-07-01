@@ -2,9 +2,9 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-07-01T23:48:56.603235+00:00`
+- Generated: `2026-07-01T23:52:25.545394+00:00`
 - Price records: `672`
-- Market context records: `5400`
+- Market context records: `5401`
 - Flow alert records: `8640`
 - Minimum samples: `30`
 - Pattern count: `96`
@@ -36,11 +36,11 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->index_1h` score `0.0412` n `205` status `ready` deltaP `5.5762` edge `0.0156` maxDD `-0.9472`
 - `market_context_high->fx_24h` score `-0.1671` n `194` status `ready` deltaP `6.991` edge `0.029` maxDD `-0.8294`
 - `market_context_high->metal_1h` score `-0.452` n `205` status `ready` deltaP `2.3784` edge `0.014` maxDD `-2.0682`
-- `market_context_high->fx_1h` score `-0.4563` n `205` status `ready` deltaP `-1.2531` edge `-0.0012` maxDD `-0.5823`
+- `market_context_high->fx_1h` score `-0.4555` n `205` status `ready` deltaP `-1.2531` edge `-0.0011` maxDD `-0.5823`
 - `market_context_high->index_4h` score `-1.0297` n `205` status `ready` deltaP `5.7926` edge `0.0365` maxDD `-2.874`
 - `market_context_high->fx_4h` score `-1.1939` n `205` status `ready` deltaP `0.2439` edge `0.0018` maxDD `-1.567`
 - `market_context_high->commodity_1h` score `-1.4519` n `205` status `ready` deltaP `-3.021` edge `-0.0064` maxDD `-3.5563`
-- `market_context_high->index_24h` score `-1.6679` n `194` status `ready` deltaP `12.8275` edge `0.0741` maxDD `-12.5551`
+- `market_context_high->index_24h` score `-1.6667` n `194` status `ready` deltaP `12.8275` edge `0.0742` maxDD `-12.5551`
 - `market_context_high->metal_4h` score `-2.4479` n `205` status `ready` deltaP `-5.4573` edge `-0.025` maxDD `-12.8631`
 - `market_context_high->commodity_4h` score `-4.3228` n `205` status `ready` deltaP `-7.5914` edge `-0.0458` maxDD `-14.1062`
 - `market_context_high->crypto_alt_24h` score `-5.0926` n `194` status `ready` deltaP `12.9349` edge `0.3591` maxDD `-54.2437`
