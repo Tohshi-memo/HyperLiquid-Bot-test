@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T07:37:31.241385+00:00`
-- Market context score: `47.61`
-- News risk score: `34.85`
-- Macro risk score: `29.37`
-- Risk-on score: `24.11`
+- Generated: `2026-07-01T07:52:26.292167+00:00`
+- Market context score: `47.3`
+- News risk score: `34.84`
+- Macro risk score: `30.07`
+- Risk-on score: `23.67`
 - Articles: `44`
 - Polymarket markets: `392`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4845`
-- Day/swing latest: `2026-07-01T07:30:00+00:00`
+- Day/swing records: `4846`
+- Day/swing latest: `2026-07-01T07:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `1`
-- macro: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
+- crypto: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `1`
+- macro: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
 - [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
 - [macro] Why is crucial tech vulnerable to the heat? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] North Sea oil and renewables: The UK’s next PM faces a defining energy policy decision (Economy)
 - [commodity] North Sea oil and renewables: The UK’s next PM faces a defining energy policy decision (Energy)
 - [crypto] Taiwan’s legislature passes crypto, stablecoin regulations (Cointelegraph.com News)
-- [crypto] Anthropic to bring back Fable 5 as US lifts export controls (Cointelegraph.com News)
