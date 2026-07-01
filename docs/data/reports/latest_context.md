@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T05:52:26.417275+00:00`
+- Generated: `2026-07-01T06:07:28.899126+00:00`
 - Market context score: `51.32`
 - News risk score: `32.61`
 - Macro risk score: `25.1`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4839`
-- Day/swing latest: `2026-07-01T05:45:00+00:00`
+- Day/swing records: `4840`
+- Day/swing latest: `2026-07-01T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Three-year-old rescued and taken to hospital six days after Venezuela quake (BBC News)
 - [macro] US Supreme Court upholds birthright citizenship in blow to Trump (BBC News)
 - [crypto] XRP holds above $1 after leverage flush as network activity improves (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Taiwan’s sweeping crypto law raises the bar with licensing, reserve mandates, and tough penalties (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Anthropic says US lifts export ban on its advanced AI tools (BBC News)
 - [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
 - [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
-- [commodity] Iran says it is selling oil at 20% premium as end of U.S. blockade sees 40 million barrels exported (Energy)
