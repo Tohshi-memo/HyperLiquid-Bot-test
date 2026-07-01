@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-01T07:22:30.265197+00:00`
-- Market context score: `48.01`
-- News risk score: `34.65`
-- Macro risk score: `28.7`
-- Risk-on score: `24.56`
-- Articles: `46`
-- Polymarket markets: `391`
+- Generated: `2026-07-01T07:37:31.241385+00:00`
+- Market context score: `47.61`
+- News risk score: `34.85`
+- Macro risk score: `29.37`
+- Risk-on score: `24.11`
+- Articles: `44`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:23, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4844`
-- Day/swing latest: `2026-07-01T07:15:00+00:00`
+- Day/swing records: `4845`
+- Day/swing latest: `2026-07-01T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `1`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `0`
+- crypto: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `1`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
+- [macro] Trump made more than $1bn from crypto in first year back in office (BBC News)
+- [macro] Why is crucial tech vulnerable to the heat? (BBC News)
 - [crypto] Live markets: U.S. spot bitcoin ETFs had their worst month ever in June, shedding $4.5 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Romesh Ranganathan 'gutted' over bakery closure (BBC News)
@@ -35,6 +38,3 @@
 - [commodity] North Sea oil and renewables: The UK’s next PM faces a defining energy policy decision (Energy)
 - [crypto] Taiwan’s legislature passes crypto, stablecoin regulations (Cointelegraph.com News)
 - [crypto] Anthropic to bring back Fable 5 as US lifts export controls (Cointelegraph.com News)
-- [commodity] KKR to control South Korea's $1.3 billion renewables platform with SK as AI power demand rises (Energy)
-- [macro] Three-year-old rescued and taken to hospital six days after Venezuela quake (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
