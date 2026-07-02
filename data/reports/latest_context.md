@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T16:07:37.803063+00:00`
-- Market context score: `47.2`
-- News risk score: `50.07`
-- Macro risk score: `26.84`
-- Risk-on score: `35.09`
-- Articles: `88`
+- Generated: `2026-07-02T16:22:33.704738+00:00`
+- Market context score: `44.49`
+- News risk score: `51.69`
+- Macro risk score: `30.14`
+- Risk-on score: `31.68`
+- Articles: `87`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4972`
-- Day/swing latest: `2026-07-02T16:00:00+00:00`
+- Day/swing records: `4973`
+- Day/swing latest: `2026-07-02T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `33`, risk hits `14`, risk headline rate `0.3636`, policy hits `4`
-- macro: articles `53`, risk hits `9`, risk headline rate `0.1698`, policy hits `8`
+- macro: articles `52`, risk hits `12`, risk headline rate `0.2308`, policy hits `6`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] Pubs allowed to extend hours for 1am England clash (BBC News)
+- [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
+- [macro] 'Most massive' Russian attack on Kyiv kills at least 21 (BBC News)
+- [macro] Venezuela quake survivor pulled out alive after eight days (BBC News)
+- [macro] SanDisk Sinks 11%, Seagate Falls 7%, Micron Slides 4% on Memory Supply-Glut Fears (Yahoo Finance)
+- [macro] Visa announces Visa Threat Intelligence Platform to strengthen cyber and fraud defence (Yahoo Finance)
+- [macro] Follow Stock Market Leaders To Stay In Step With Broader Market Health (Yahoo Finance)
 - [macro] U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2% (Economy)
-- [macro] Cramer Says the New Fed Chair Won’t ‘Shock’ Anyone at His Big Debut. Here’s Why That’s the Point (Yahoo Finance)
+- [macro] The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026 (Yahoo Finance)
+- [macro] How Social Security Retirees Could Accidentally Cost Themselves $487 A Month (Yahoo Finance)
 - [macro] Flexport's CEO called remote work ‘white-collar fraud’ — then said it’s really for workers who’ll accept lower pay (Yahoo Finance)
-- [macro] Senior Economist: Markets Have The Fed Wrong, Interest Rates Likely to Stay Put “For The Rest Of The Year” (Yahoo Finance)
-- [macro] I’ve socked away $1 million for retirement – this might be an odd question, but is there such a thing as too much money in a 401k? (Yahoo Finance)
-- [macro] Rocket Lab’s CEO Just Bet $8 Billion on Taking Down SpaceX. Here’s the ‘1+1=3’ Logic (Yahoo Finance)
-- [macro] Vatican excommunicates hundreds of thousands of splinter sect followers (BBC News)
-- [macro] Reddit Says Buy This AI Energy Stock Before It’s Too Late (Yahoo Finance)
-- [macro] Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading (Yahoo Finance)
