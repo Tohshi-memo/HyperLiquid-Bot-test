@@ -1,41 +1,41 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T17:07:37.276774+00:00`
+- Generated: `2026-07-02T17:22:29.957590+00:00`
 - Market context score: `44.44`
-- News risk score: `50.73`
-- Macro risk score: `30.93`
-- Risk-on score: `31.05`
-- Articles: `84`
+- News risk score: `51.29`
+- Macro risk score: `32.74`
+- Risk-on score: `32.21`
+- Articles: `85`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `1151`
+- Asset universe count: `1152`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:763`
+- Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4976`
-- Day/swing latest: `2026-07-02T17:00:00+00:00`
+- Day/swing records: `4977`
+- Day/swing latest: `2026-07-02T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `36`, risk hits `14`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `46`, risk hits `12`, risk headline rate `0.2391`, policy hits `5`
+- crypto: articles `37`, risk hits `14`, risk headline rate `0.3243`, policy hits `6`
+- macro: articles `46`, risk hits `13`, risk headline rate `0.2609`, policy hits `6`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Ryanair warns of 'queue chaos' from new EU border system (BBC News)
+- [macro] Ryanair warns of 'queue chaos' from new EU border system (BBC News)
+- [macro] Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era (Economy)
+- [macro] Meta Wants to Sell You Its AI Compute. AWS, Azure, and Google Just Got a New Rival (Yahoo Finance)
+- [macro] Manufacturing job losses offer lessons for AI white-collar crisis (Yahoo Finance)
+- [crypto] FBI director discloses Strategy holdings months after deadline: Report (Cointelegraph.com News)
+- [macro] Microsoft vs. Nvidia: Which Is the Better AI Stock to Own for the Next 3 Years? (Yahoo Finance)
 - [commodity] Oil prices edge lower after Qatar says U.S. and Iran made progress during talks (Energy)
+- [macro] Adobe vs ServiceNow: The Better Buy Amid Rising AI Competition (Yahoo Finance)
 - [crypto] EToro invests in onchain derivatives platform Extended as brokers race into DeFi (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
-- [crypto] Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2% (Economy)
-- [macro] Palantir CEO: “Something Has Gone Completely Wrong” In AI. Alex Karp Says Enterprises Are Paying To Lose Their Competitive Edge (Yahoo Finance)
-- [macro] Micron’s CEO Says Even His Own Customers Couldn’t See This Coming. Now He’s Spending $200 Billion (Yahoo Finance)
-- [macro] Reddit Vs. Chewy: The Better Buy Stock In 2026 (Yahoo Finance)
-- [macro] This Cash-Rich Telecom Anchor Is an Unbeatable Haven for Retirees (Yahoo Finance)
-- [macro] Cognex, IBD Stock Of The Day, Called Play On Industrial Automation Trend (Yahoo Finance)
