@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T21:52:29.209066+00:00`
+- Generated: `2026-07-02T22:07:26.294449+00:00`
 - Market context score: `40.06`
 - News risk score: `49.86`
 - Macro risk score: `37.89`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4995`
-- Day/swing latest: `2026-07-02T21:45:00+00:00`
+- Day/swing records: `4996`
+- Day/swing latest: `2026-07-02T22:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Ripple co-founder backs venture launched by US senator's son: Report (Cointelegraph.com News)
 - [macro] Ebola treatments trial begins in the Democratic Republic of Congo (BBC News)
 - [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
 - [commodity] Saudi Arabia has ramped up oil shipments through the Strait of Hormuz since U.S.-Iran deal (Energy)
@@ -38,4 +39,3 @@
 - [crypto] IMF says tokenization could transform settlement and financial stability (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil prices little changed after Qatar says U.S. and Iran made progress during talks (Energy)
-- [crypto] Russia on track for digital ruble rollout on Sept. 1: Central bank governor (Cointelegraph.com News)
