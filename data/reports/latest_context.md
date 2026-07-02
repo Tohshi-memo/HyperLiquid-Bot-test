@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T04:22:29.612575+00:00`
+- Generated: `2026-07-02T04:37:29.126286+00:00`
 - Market context score: `51.4`
 - News risk score: `36.16`
 - Macro risk score: `25.79`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:228, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4926`
-- Day/swing latest: `2026-07-02T04:15:00+00:00`
+- Day/swing records: `4927`
+- Day/swing latest: `2026-07-02T04:30:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
+- [macro] Russia launches deadly large-scale missile and drone strikes on Kyiv (BBC News)
 - [macro] Watch: Couple scale Empire State Building, get engaged and are arrested (BBC News)
-- [macro] At least eight killed in major missile and drone strikes on Kyiv (BBC News)
 - [commodity] Oil falls as easing Middle East tensions send Brent to its worst quarter since 2020 (Energy)
 - [crypto] Analyst warns BTC could drop further after worst June since 2022 (Cointelegraph.com News)
 - [crypto] Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow (Cointelegraph.com News)
