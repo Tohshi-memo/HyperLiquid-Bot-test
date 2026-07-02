@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T19:52:52.474767+00:00`
+- Generated: `2026-07-02T19:57:46.002684+00:00`
 - Market context score: `39.18`
 - News risk score: `52.76`
 - Macro risk score: `37.86`
 - Risk-on score: `23.7`
 - Articles: `62`
-- Polymarket markets: `397`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Former Olympian indicted for allegedly vandalising Washington Reflecting Pool (BBC News)
 - [crypto] IMF says tokenization could transform settlement and financial stability (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil prices little changed after Qatar says U.S. and Iran made progress during talks (Energy)
@@ -38,4 +39,3 @@
 - [macro] Killers of British couple in South Africa sentenced to life (BBC News)
 - [macro] 'Most massive' Russian attack on Kyiv kills at least 25 (BBC News)
 - [macro] Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era (Economy)
-- [macro] Bomb blast at Damascus cafe kills six, Syrian state media say (BBC News)
