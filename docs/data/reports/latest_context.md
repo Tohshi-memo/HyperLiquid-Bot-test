@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T20:07:30.372091+00:00`
+- Generated: `2026-07-02T20:22:30.748901+00:00`
 - Market context score: `40.37`
 - News risk score: `51.84`
 - Macro risk score: `36.51`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4988`
-- Day/swing latest: `2026-07-02T20:00:00+00:00`
+- Day/swing records: `4989`
+- Day/swing latest: `2026-07-02T20:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] 'Most massive' Russian attack on Kyiv kills at least 27 (BBC News)
 - [macro] Former Olympian indicted for allegedly vandalising Washington Reflecting Pool (BBC News)
 - [crypto] IMF says tokenization could transform settlement and financial stability (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,5 +38,4 @@
 - [crypto] Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
 - [macro] Killers of British couple in South Africa sentenced to life (BBC News)
-- [macro] 'Most massive' Russian attack on Kyiv kills at least 25 (BBC News)
 - [macro] Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era (Economy)
