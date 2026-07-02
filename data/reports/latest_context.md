@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T23:07:26.030715+00:00`
-- Market context score: `42.53`
-- News risk score: `45.97`
-- Macro risk score: `37.5`
-- Risk-on score: `25.28`
-- Articles: `52`
+- Generated: `2026-07-02T23:22:28.386253+00:00`
+- Market context score: `44.31`
+- News risk score: `45.68`
+- Macro risk score: `37.41`
+- Risk-on score: `28.94`
+- Articles: `53`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5000`
-- Day/swing latest: `2026-07-02T23:00:00+00:00`
+- Day/swing records: `5001`
+- Day/swing latest: `2026-07-02T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `8`, risk headline rate `0.2609`, policy hits `6`
+- crypto: articles `24`, risk hits `8`, risk headline rate `0.25`, policy hits `6`
 - macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `4`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves (Cointelegraph.com News)
 - [macro] AI is 'not smart' so what's next in artificial intelligence? (BBC News)
 - [macro] 'We give up to £400': How much should you gift at a wedding? (BBC News)
 - [crypto] Ripple co-founder backs venture launched by US senator's son: Report (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Former Olympian indicted for allegedly vandalising Washington Reflecting Pool (BBC News)
 - [macro] Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal (BBC News)
 - [macro] 'Most massive' Russian attack on Kyiv kills at least 27 (BBC News)
-- [crypto] IMF says tokenization could transform settlement and financial stability (Cointelegraph.com News)
