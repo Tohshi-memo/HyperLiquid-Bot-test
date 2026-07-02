@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T21:21:34.002388+00:00`
-- Market context score: `39.07`
-- News risk score: `50.8`
-- Macro risk score: `37.74`
-- Risk-on score: `21.75`
+- Generated: `2026-07-02T21:37:36.311451+00:00`
+- Market context score: `40.65`
+- News risk score: `49.4`
+- Macro risk score: `37.0`
+- Risk-on score: `23.79`
 - Articles: `58`
-- Polymarket markets: `397`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4993`
-- Day/swing latest: `2026-07-02T21:15:00+00:00`
+- Day/swing records: `4994`
+- Day/swing latest: `2026-07-02T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `30`, risk hits `12`, risk headline rate `0.3333`, policy hits `6`
-- macro: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `4`
+- crypto: articles `29`, risk hits `11`, risk headline rate `0.3103`, policy hits `6`
+- macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `4`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Ebola treatments trial begins in the Democratic Republic of Congo (BBC News)
 - [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
 - [commodity] Saudi Arabia has ramped up oil shipments through the Strait of Hormuz since U.S.-Iran deal (Energy)
 - [macro] Former Olympian indicted for allegedly vandalising Washington Reflecting Pool (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil prices little changed after Qatar says U.S. and Iran made progress during talks (Energy)
 - [crypto] Russia on track for digital ruble rollout on Sept. 1: Central bank governor (Cointelegraph.com News)
-- [crypto] Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
