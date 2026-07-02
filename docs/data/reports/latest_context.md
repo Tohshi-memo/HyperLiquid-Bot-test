@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T06:07:26.110516+00:00`
+- Generated: `2026-07-02T06:09:24.394079+00:00`
 - Market context score: `52.55`
 - News risk score: `39.15`
 - Macro risk score: `23.92`
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [macro] At least 13 killed in large-scale Russian missile and drone strikes on Kyiv (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] France to strengthen response as crypto wrench attacks hit 77 (Cointelegraph.com News)
-- [macro] At least 10 killed in large-scale Russian missile and drone strikes on Kyiv (BBC News)
 - [macro] People smuggler convicted in France now seeking asylum in UK, BBC discovers (BBC News)
 - [macro] 'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation (BBC News)
 - [macro] World Cup dreams shattered as StubHub tickets cancelled at last minute leaving fans stranded outside stadiums (BBC News)
