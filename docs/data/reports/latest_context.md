@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T14:22:31.241481+00:00`
-- Market context score: `52.83`
-- News risk score: `47.61`
-- Macro risk score: `24.09`
-- Risk-on score: `44.48`
+- Generated: `2026-07-02T14:26:08.323846+00:00`
+- Market context score: `52.36`
+- News risk score: `47.07`
+- Macro risk score: `23.02`
+- Risk-on score: `42.59`
 - Articles: `91`
 - Polymarket markets: `396`
 
@@ -24,7 +24,7 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `35`, risk hits `13`, risk headline rate `0.3429`, policy hits `2`
-- macro: articles `55`, risk hits `9`, risk headline rate `0.1636`, policy hits `4`
+- macro: articles `55`, risk hits `8`, risk headline rate `0.1455`, policy hits `4`
 
 ## Headlines
 
@@ -32,9 +32,9 @@
 - [macro] Government considers U-turn over extending pub hours for England v Mexico (BBC News)
 - [macro] Venezuela quake survivor pulled out alive after eight days (BBC News)
 - [macro] Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths (BBC News)
+- [macro] Ingredients group Solina snaps up butter business Epicurean (Yahoo Finance)
 - [macro] Australia’s QBE completes buyout of Indian JV Raheja QBE (Yahoo Finance)
 - [macro] Damiani Group completes Baume & Mercier acquisition (Yahoo Finance)
 - [macro] Google, Disney Intellectual Property Licensing Partner Teases Breakout. Top Funds Buy In. (Yahoo Finance)
+- [macro] Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions (Yahoo Finance)
 - [macro] Ford Q2 sales slide 10% on EV drop and model phase-outs; Bronco and Maverick hybrid set records (Yahoo Finance)
-- [macro] Hardman Johnston’s Bullish Stance on Universal Display Corporation (OLED) (Yahoo Finance)
-- [macro] Stock analysts may be setting up the market for a summer failure (Yahoo Finance)
