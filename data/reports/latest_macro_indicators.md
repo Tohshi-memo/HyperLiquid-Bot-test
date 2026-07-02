@@ -2,7 +2,7 @@
 
 Public macro indicators for rates, employment, inflation, dollar, and risk context. These are inputs for analysis, not trade signals.
 
-- Generated: `2026-07-01T23:18:27.524885+00:00`
+- Generated: `2026-07-02T14:18:30.545416+00:00`
 - Indicators: `11`
 
 ## Providers
@@ -22,9 +22,9 @@ Public macro indicators for rates, employment, inflation, dollar, and risk conte
 
 ## Indicators
 
-- `us_average_hourly_earnings` US Average Hourly Earnings: `37.53` usd at `2026-05-01` (BLS)
-- `us_nonfarm_payrolls` US Nonfarm Payrolls: `159001.0` thousands at `2026-05-01` (BLS)
-- `us_unemployment_rate` US Unemployment Rate: `4.3` percent at `2026-05-01` (BLS)
+- `us_average_hourly_earnings` US Average Hourly Earnings: `37.64` usd at `2026-06-01` (BLS)
+- `us_nonfarm_payrolls` US Nonfarm Payrolls: `158984.0` thousands at `2026-06-01` (BLS)
+- `us_unemployment_rate` US Unemployment Rate: `4.2` percent at `2026-06-01` (BLS)
 - `us_core_cpi_u` US Core CPI-U: `336.846` index at `2026-05-01` (BLS)
 - `us_cpi_u` US CPI-U: `335.123` index at `2026-05-01` (BLS)
 - `us_ppi_final_demand` US PPI Final Demand: `158.012` index at `2026-05-01` (BLS)
