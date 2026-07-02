@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-02T12:37:27.216190+00:00`
+- Generated: `2026-07-02T12:52:29.014036+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `71`
 - Outcome sides (rows): `142`
@@ -62,8 +62,8 @@
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0014` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
-- Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0135` price_source `allMids` vol24h `0.0` oi `0.0`
-- Belgium [No] symbol `#1761` underlying `n/a` prob `0.9865` price_source `allMids` vol24h `0.0` oi `0.0`
+- Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.014` price_source `allMids` vol24h `0.0` oi `0.0`
+- Belgium [No] symbol `#1761` underlying `n/a` prob `0.986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [Yes] symbol `#1770` underlying `n/a` prob `0.0085` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9915` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [Yes] symbol `#1780` underlying `n/a` prob `0.0625` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -90,8 +90,8 @@
 - Australia [No] symbol `#1741` underlying `n/a` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [Yes] symbol `#1750` underlying `n/a` prob `0.0014` price_source `allMids` vol24h `0.0` oi `0.0`
 - Austria [No] symbol `#1751` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
-- Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0135` price_source `allMids` vol24h `0.0` oi `0.0`
-- Belgium [No] symbol `#1761` underlying `n/a` prob `0.9865` price_source `allMids` vol24h `0.0` oi `0.0`
+- Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.014` price_source `allMids` vol24h `0.0` oi `0.0`
+- Belgium [No] symbol `#1761` underlying `n/a` prob `0.986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [Yes] symbol `#1770` underlying `n/a` prob `0.0085` price_source `allMids` vol24h `0.0` oi `0.0`
 - Bosnia and Herzegovina [No] symbol `#1771` underlying `n/a` prob `0.9915` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [Yes] symbol `#1780` underlying `n/a` prob `0.0625` price_source `allMids` vol24h `0.0` oi `0.0`
