@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T18:07:34.364596+00:00`
-- Market context score: `49.26`
-- News risk score: `48.41`
-- Macro risk score: `29.65`
-- Risk-on score: `39.33`
-- Articles: `85`
+- Generated: `2026-07-02T18:17:53.511125+00:00`
+- Market context score: `42.53`
+- News risk score: `49.9`
+- Macro risk score: `36.72`
+- Risk-on score: `28.3`
+- Articles: `62`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4980`
-- Day/swing latest: `2026-07-02T18:00:00+00:00`
+- Day/swing records: `4981`
+- Day/swing latest: `2026-07-02T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `34`, risk hits `12`, risk headline rate `0.2941`, policy hits `6`
-- macro: articles `49`, risk hits `10`, risk headline rate `0.2041`, policy hits `8`
+- crypto: articles `33`, risk hits `12`, risk headline rate `0.303`, policy hits `6`
+- macro: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `4`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era (Economy)
 - [macro] 'Most massive' Russian attack on Kyiv kills at least 22 (BBC News)
 - [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
 - [macro] Old British fridges 'cannot cope with the heat' (BBC News)
 - [crypto] Bitcoin price taps new July high above $62K on weak US jobs data (Cointelegraph.com News)
-- [macro] Palantir vs. SanDisk: Two Paths to AI Riches, One Winner (Yahoo Finance)
-- [macro] Applied Optoelectronics Plunges 17%, Coherent and Lumentum Sink 10% as Photonics Stocks Reset (Yahoo Finance)
-- [macro] Another beef processor closes plant, cuts 218 jobs (Yahoo Finance)
-- [macro] Nokia (NOK) Joins Finnish Consortium to Develop National Counter-Drone Network (Yahoo Finance)
-- [macro] Here is Why AT&T (T) is One of the Most Buzzing Stocks to Buy Right Now (Yahoo Finance)
-- [macro] TPIsoftware Adopts Intel (INTC) Processors and GPUs to Power Enterprise AI Solutions (Yahoo Finance)
+- [macro] Vatican excommunicates followers of global Catholic sect (BBC News)
+- [macro] Ryanair warns of 'queue chaos' from new EU border system (BBC News)
+- [macro] Ryanair warns of 'queue chaos' from new EU border system (BBC News)
+- [crypto] FBI director discloses Strategy holdings months after deadline: Report (Cointelegraph.com News)
+- [commodity] Oil prices edge lower after Qatar says U.S. and Iran made progress during talks (Energy)
