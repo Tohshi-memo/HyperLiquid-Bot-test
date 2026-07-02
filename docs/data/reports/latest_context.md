@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-02T12:52:29.014036+00:00`
-- Market context score: `48.99`
-- News risk score: `48.58`
-- Macro risk score: `25.38`
-- Risk-on score: `37.27`
-- Articles: `67`
+- Generated: `2026-07-02T13:07:30.113588+00:00`
+- Market context score: `51.22`
+- News risk score: `47.65`
+- Macro risk score: `24.16`
+- Risk-on score: `40.97`
+- Articles: `75`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `4959`
-- Day/swing latest: `2026-07-02T12:45:00+00:00`
+- Day/swing records: `4960`
+- Day/swing latest: `2026-07-02T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `12`, risk headline rate `0.3793`, policy hits `1`
-- macro: articles `37`, risk hits `7`, risk headline rate `0.1892`, policy hits `1`
+- crypto: articles `32`, risk hits `12`, risk headline rate `0.3438`, policy hits `1`
+- macro: articles `42`, risk hits `7`, risk headline rate `0.1667`, policy hits `2`
 
 ## Headlines
 
-- [macro] Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners (Economy)
+- [crypto] UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’ (Cointelegraph.com News)
+- [crypto] Aave brings V3 lending and GHO stablecoin to Monad (Cointelegraph.com News)
 - [macro] U.S. economy added 57,000 jobs in June, less than expected; unemployment rate at 4.2% (Economy)
-- [macro] Government rules out extending pub hours for England v Mexico game (BBC News)
-- [commodity] Oil prices on pace for fourth straight weekly loss as Trump sees progress in U.S.-Iran talks (Energy)
-- [crypto] U.S. payroll growth slowed sharply in June, with only 57,000 jobs added (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Watch: BBC at site of deadly Russian attack on Kyiv flats (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] EXCLUSIVE: Vivakor Pushes $36 Million Olenox Asset Sale Target to July (Yahoo Finance)
-- [macro] Why Nike Stock Dropped 11% in June (Yahoo Finance)
-- [macro] Don't Chase Wendy's Meme Stock Rally. Here Are 2 Restaurant Stocks With Actual Growth Stories. (Yahoo Finance)
+- [commodity] Oil prices fall after Qatar says U.S. and Iran made progress during talks (Energy)
+- [macro] Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners (Economy)
+- [macro] Core Scientific’s (CORZ) Data Center Pivot Could See The Stock Gain 50% From Here On (Yahoo Finance)
+- [macro] Hut 8 (HUT) Changed From Bitcoin Mining to Data Center Business, Here’s How Much More Upside The Stock Could Have (Yahoo Finance)
+- [macro] IREN Ltd (IREN) Upside Becomes Attractive Amid Stock Price Decline (Yahoo Finance)
+- [macro] Wall Street Thinks Riot Platforms’ (RIOT) Data Center Business Has Further Upside (Yahoo Finance)
+- [macro] Can The latest Funding Round Help Cipher Digital (CIFR) Stock Surge? (Yahoo Finance)
