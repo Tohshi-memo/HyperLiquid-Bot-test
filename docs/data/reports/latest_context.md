@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T04:37:25.837476+00:00`
-- Market context score: `43.11`
-- News risk score: `45.34`
-- Macro risk score: `40.02`
-- Risk-on score: `26.98`
-- Articles: `32`
+- Generated: `2026-07-03T04:52:25.697121+00:00`
+- Market context score: `47.08`
+- News risk score: `44.43`
+- Macro risk score: `36.51`
+- Risk-on score: `33.71`
+- Articles: `30`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5022`
-- Day/swing latest: `2026-07-03T04:30:00+00:00`
+- Day/swing records: `5023`
+- Day/swing latest: `2026-07-03T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `2`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `3`
+- macro: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `1`
 
 ## Headlines
 
+- [macro] 'Most massive' Russian attack on Kyiv kills at least 30 (BBC News)
 - [crypto] US dominates Polymarket political bets despite geoblock: Report (Cointelegraph.com News)
 - [crypto] Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise (Cointelegraph.com News)
 - [crypto] Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] AI is 'not smart' so what's next in artificial intelligence? (BBC News)
 - [macro] 'We give up to £400': How much should you gift at a wedding? (BBC News)
 - [crypto] Ripple co-founder backs venture launched by US senator's son: Report (Cointelegraph.com News)
-- [macro] Ebola treatments trial begins in the Democratic Republic of Congo (BBC News)
