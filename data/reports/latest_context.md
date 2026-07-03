@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T15:22:30.339505+00:00`
+- Generated: `2026-07-03T15:32:26.736287+00:00`
 - Market context score: `59.76`
 - News risk score: `38.41`
 - Macro risk score: `22.71`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5064`
-- Day/swing latest: `2026-07-03T15:15:00+00:00`
+- Day/swing records: `5065`
+- Day/swing latest: `2026-07-03T15:30:00+00:00`
 
 ## News Categories
 
@@ -35,6 +35,6 @@
 - [macro] This Artificial Intelligence (AI) Chip Giant Is a Profit-Making Machine. Its Latest Move Could Supercharge the Stock (Yahoo Finance)
 - [macro] 2 Stocks That Could Soar, Driven by Billions From Software Innovations. Hint: They Aren't Even Tech Stocks. (Yahoo Finance)
 - [macro] The Real Cost of Retiring to Scottsdale, Arizona, at 65 on $950,000 Stress Free (Yahoo Finance)
+- [macro] Dow Jones Futures Rise, Techs Lead After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals (Yahoo Finance)
 - [macro] Instagram running ads promoting child sexual abuse material in India, BBC finds (BBC News)
 - [macro] Instagram running ads promoting child sexual abuse material in India, BBC finds (BBC News)
-- [macro] German row over plan for workers to need sick note on first day of illness (BBC News)
