@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T10:22:40.672523+00:00`
+- Generated: `2026-07-03T10:37:27.051768+00:00`
 - Market context score: `57.29`
 - News risk score: `35.97`
 - Macro risk score: `19.43`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5044`
-- Day/swing latest: `2026-07-03T10:15:00+00:00`
+- Day/swing records: `5045`
+- Day/swing latest: `2026-07-03T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
-- [macro] Ebola treatments trial begins in DR Congo (BBC News)
+- [macro] Christine Lagarde leaves door open to early ECB exit, as she mulls French politics (Economy)
 - [macro] France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather (BBC News)
+- [macro] Ebola treatments trial begins in DR Congo (BBC News)
 - [macro] At least 32 dead after overcrowded bus plunges into ravine in Pakistan (BBC News)
 - [macro] Tackle workplace sickness to unlock hidden growth, former John Lewis boss says (BBC News)
-- [macro] Christine Lagarde leaves door open to early ECB exit, as she mulls French politics (Economy)
 - [crypto] India's central bank revives push to isolate banks from crypto: Report (Cointelegraph.com News)
 - [crypto] Tokenization could make finance faster, but also more susceptible to shocks, IMF says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran begins public mourning for Ayatollah killed in February (BBC News)
