@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T16:07:32.710224+00:00`
-- Market context score: `60.73`
-- News risk score: `37.07`
-- Macro risk score: `19.47`
-- Risk-on score: `51.39`
-- Articles: `74`
+- Generated: `2026-07-03T16:22:29.781155+00:00`
+- Market context score: `59.55`
+- News risk score: `38.12`
+- Macro risk score: `22.14`
+- Risk-on score: `50.66`
+- Articles: `80`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5067`
-- Day/swing latest: `2026-07-03T16:00:00+00:00`
+- Day/swing records: `5068`
+- Day/swing latest: `2026-07-03T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
-- macro: articles `47`, risk hits `7`, risk headline rate `0.1064`, policy hits `1`
+- crypto: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `3`
+- macro: articles `52`, risk hits `9`, risk headline rate `0.1538`, policy hits `1`
 
 ## Headlines
 
-- [macro] AI debt is a bigger risk to stability than sky-high Wall Street valuations, the IMF says. Here’s why (Yahoo Finance)
-- [macro] JPMorgan says AI chip rally could slow as hyperscalers close the performance gap (Yahoo Finance)
-- [macro] Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister (BBC News)
-- [macro] Where Will TransMedics Group Stock Be in 10 Years? (Yahoo Finance)
-- [macro] Moderna vs. Recursion: Which Cutting-Edge Pharma Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] Is Rocket Lab (RKLB) The Best Space Stock to Buy Now? (Yahoo Finance)
-- [macro] Popular K-pop company behind BTS merch sells all its Bitcoin (Yahoo Finance)
-- [macro] Two Sector Income ETFs Outyielding the S&P 500 by More Than 2 Percent Heading Into a Possible Recession (Yahoo Finance)
-- [macro] Will Costco Pay a Special Dividend in 2026? Here's What History Says. (Yahoo Finance)
+- [macro] 'Start work at 11' - but will other bosses be as flexible over England's 1am match? (BBC News)
 - [macro] Dow Jones Futures: Techs Rebound After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals (Yahoo Finance)
+- [crypto] Crypto Biz: Bitcoin maximalism meets the realities of capital markets (Cointelegraph.com News)
+- [macro] Jim Cramer turns bullish on health care stock after years of doubt (Yahoo Finance)
+- [macro] Fiserv, service station operators including BP warn US stores on illegal vapes (Yahoo Finance)
+- [macro] Fiserv, service station operators including BP warn US stores on illegal vapes (Yahoo Finance)
+- [macro] Up 140% YTD, Three Catalysts Will Take AMD to New Highs In 2026 (Yahoo Finance)
+- [macro] Essent vs. Progressive: Which Insurance Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] This Free Cash Flow ETF is Quietly Outperforming Vanguard’s S&P 500 in 2026 (Yahoo Finance)
+- [macro] Cybersecurity Spending Just Crossed $300 Billion and These 3 ETFs Are the Cleanest Plays on the AI Era Attack Surface (Yahoo Finance)
