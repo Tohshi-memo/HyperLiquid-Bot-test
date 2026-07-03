@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T10:52:30.264475+00:00`
-- Market context score: `58.01`
-- News risk score: `34.97`
-- Macro risk score: `19.09`
-- Risk-on score: `43.44`
+- Generated: `2026-07-03T11:07:28.760367+00:00`
+- Market context score: `56.68`
+- News risk score: `36.27`
+- Macro risk score: `21.7`
+- Risk-on score: `42.57`
 - Articles: `40`
-- Polymarket markets: `396`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5046`
-- Day/swing latest: `2026-07-03T10:45:00+00:00`
+- Day/swing records: `5047`
+- Day/swing latest: `2026-07-03T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `3`
-- macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `0`
+- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [macro] Ukrainian woman named by Interpol as main suspect in Monaco bomb attack (BBC News)
+- [macro] 'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs (BBC News)
 - [macro] No-gift policy for Taylor Swift, but how much should you give at a wedding? (BBC News)
 - [crypto] Memory and semiconductor stocks lose momentum, bitcoin rebounds in sign of changing investor focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Christine Lagarde leaves door open to early ECB exit, as she mulls French politics (Economy)
@@ -36,5 +38,3 @@
 - [macro] Ebola treatments trial begins in DR Congo (BBC News)
 - [macro] At least 32 dead after overcrowded bus plunges into ravine in Pakistan (BBC News)
 - [macro] Tackle workplace sickness to unlock hidden growth, former John Lewis boss says (BBC News)
-- [crypto] India's central bank revives push to isolate banks from crypto: Report (Cointelegraph.com News)
-- [crypto] Tokenization could make finance faster, but also more susceptible to shocks, IMF says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
