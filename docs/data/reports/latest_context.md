@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T14:37:27.409586+00:00`
+- Generated: `2026-07-03T14:52:25.722934+00:00`
 - Market context score: `61.08`
 - News risk score: `32.99`
 - Macro risk score: `19.79`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5061`
-- Day/swing latest: `2026-07-03T14:30:00+00:00`
+- Day/swing records: `5062`
+- Day/swing latest: `2026-07-03T14:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Hagerty to acquire Bennetts in UK motorcycle insurance push (Yahoo Finance)
+- [macro] Vltava Fund Exited KLA Corporation Amid Price-Quality Imbalance (Yahoo Finance)
+- [macro] Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals (Yahoo Finance)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] How Greg Abel Is Already Reshaping Berkshire Hathaway's Playbook (Yahoo Finance)
 - [macro] Vintae’s restructuring plan for Bodegas Riojanas receives judicial approval (Yahoo Finance)
 - [macro] Sumitomo to divest stakes in three Belgian offshore wind projects (Yahoo Finance)
-- [macro] Target adds big names to its exclusive Amazon-rival marketplace (Yahoo Finance)
-- [macro] Bitcoin ETFs Just Had Their Worst Month Ever. Here's Why I'm Not Worried About Bitcoin. (Yahoo Finance)
-- [macro] Kiewit receives LNTP for Glenfarne’s Texas LNG export terminal (Yahoo Finance)
+- [macro] Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks (Yahoo Finance)
+- [macro] Are We Paying Too Much for Applied Materials (AMAT)? (Yahoo Finance)
 - [macro] Vltava Fund Sold Lam Research Due (LRCX) to Overvaluation (Yahoo Finance)
-- [macro] US withdraws troops from Nigeria after Islamic State mission (BBC News)
-- [crypto] EU crypto rulebook faces enforcement challenge as MiCA transition ends (Cointelegraph.com News)
-- [macro] What Makes Visa (V) a Lucrative Investment? (Yahoo Finance)
