@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T07:37:26.507064+00:00`
+- Generated: `2026-07-03T07:52:25.409911+00:00`
 - Market context score: `54.01`
 - News risk score: `37.26`
 - Macro risk score: `22.52`
 - Risk-on score: `37.77`
 - Articles: `33`
-- Polymarket markets: `397`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5034`
-- Day/swing latest: `2026-07-03T07:30:00+00:00`
+- Day/swing records: `5035`
+- Day/swing latest: `2026-07-03T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Taylor Swift's rumoured wedding celebrations begin with star-studded New York event (BBC News)
 - [macro] Burnham says there is some room for movement on tax (BBC News)
+- [macro] Taylor Swift's rumoured wedding celebrations begin with star-studded New York event (BBC News)
 - [macro] Security staff to go on strike at Aberdeen Airport (BBC News)
 - [crypto] Live updates: More bitcoin is now held at a loss than at a profit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Bomb blast at Damascus cafe kills nine, Syrian state media say (BBC News)
