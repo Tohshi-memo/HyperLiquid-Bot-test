@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-03T09:00:30.036350+00:00`
+- Generated: `2026-07-03T09:05:31.005004+00:00`
 - Flow alert score: `19.64`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `30615653.01`
+- Polymarket 24h volume: `30601716.11`
 - Polymarket volume z-score: `0.66`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `7613490.773` | liquidity: `26617.01898`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2857118.618333` | liquidity: `24073.63684`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `2385927.3089669994` | liquidity: `766870.05475`
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `1654951.188` | liquidity: `82912.80891`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `1435589.55` | liquidity: `30867.32625`
-- Will no listed leader be out before 2027? | 24h volume: `1338651.697` | liquidity: `91107.36449`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1285284.2283329992` | liquidity: `1467455.3322`
-- Will Donald Trump be the next leader out before 2027? | 24h volume: `1271844.144833` | liquidity: `96484.04432`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `7613490.773` | liquidity: `29093.5441`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2948907.533333` | liquidity: `23546.0753`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `2385974.3941149996` | liquidity: `758489.96995`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `1556936.188` | liquidity: `80461.61288`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `1435589.55` | liquidity: `31916.31495`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1285321.4554969992` | liquidity: `1451888.7928`
+- Will Donald Trump be the next leader out before 2027? | 24h volume: `1271719.144833` | liquidity: `94241.80577`
+- Will no listed leader be out before 2027? | 24h volume: `1265736.697` | liquidity: `90153.92166`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
