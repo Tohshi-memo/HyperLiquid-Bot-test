@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T08:37:27.414611+00:00`
-- Market context score: `57.94`
-- News risk score: `36.0`
-- Macro risk score: `22.0`
-- Risk-on score: `45.24`
-- Articles: `35`
+- Generated: `2026-07-03T08:52:31.302570+00:00`
+- Market context score: `59.65`
+- News risk score: `34.04`
+- Macro risk score: `19.79`
+- Risk-on score: `46.56`
+- Articles: `34`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5038`
-- Day/swing latest: `2026-07-03T08:30:00+00:00`
+- Day/swing records: `5039`
+- Day/swing latest: `2026-07-03T08:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `2`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [macro] Iran begins public mourning for Ayatollah killed in February (BBC News)
+- [crypto] Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC (Cointelegraph.com News)
 - [macro] Taylor Swift's rumoured wedding celebrations begin with star-studded New York event (BBC News)
 - [commodity] Extreme heat wave threatens U.S. power grids and July 4 travel (Energy)
 - [commodity] Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets (Energy)
@@ -36,5 +38,3 @@
 - [macro] Security staff to go on strike at Aberdeen Airport (BBC News)
 - [crypto] Live updates: More bitcoin is now held at a loss than at a profit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Bomb blast at Damascus cafe kills nine, Syrian state media say (BBC News)
-- [macro] Venezuela quake survivor pulled out alive after eight days (BBC News)
-- [crypto] Binance says MiCA should be judged by who it licenses, not who it excludes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
