@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T02:37:30.221764+00:00`
-- Market context score: `40.8`
-- News risk score: `46.39`
-- Macro risk score: `41.88`
-- Risk-on score: `23.43`
-- Articles: `34`
-- Polymarket markets: `398`
+- Generated: `2026-07-03T02:52:25.176978+00:00`
+- Market context score: `40.66`
+- News risk score: `46.57`
+- Macro risk score: `40.55`
+- Risk-on score: `22.77`
+- Articles: `33`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5014`
-- Day/swing latest: `2026-07-03T02:30:00+00:00`
+- Day/swing records: `5015`
+- Day/swing latest: `2026-07-03T02:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `5`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `3`
 - macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `2`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche (Cointelegraph.com News)
 - [macro] Venezuela quake survivor pulled out alive after eight days (BBC News)
 - [crypto] Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom? (Cointelegraph.com News)
 - [crypto] Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Ebola treatments trial begins in the Democratic Republic of Congo (BBC News)
 - [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
 - [commodity] Saudi Arabia has ramped up oil shipments through the Strait of Hormuz since U.S.-Iran deal (Energy)
-- [macro] Former Olympian indicted for allegedly vandalising Washington Reflecting Pool (BBC News)
