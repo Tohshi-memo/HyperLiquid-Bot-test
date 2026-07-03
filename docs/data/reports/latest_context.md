@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T08:52:31.302570+00:00`
-- Market context score: `59.65`
-- News risk score: `34.04`
-- Macro risk score: `19.79`
-- Risk-on score: `46.56`
-- Articles: `34`
-- Polymarket markets: `397`
+- Generated: `2026-07-03T09:07:33.916577+00:00`
+- Market context score: `60.18`
+- News risk score: `33.27`
+- Macro risk score: `19.74`
+- Risk-on score: `47.06`
+- Articles: `35`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5039`
-- Day/swing latest: `2026-07-03T08:45:00+00:00`
+- Day/swing records: `5040`
+- Day/swing latest: `2026-07-03T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `2`
+- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Tokenization could make finance faster, but also more susceptible to shocks, IMF says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran begins public mourning for Ayatollah killed in February (BBC News)
 - [crypto] Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC (Cointelegraph.com News)
 - [macro] Taylor Swift's rumoured wedding celebrations begin with star-studded New York event (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Burnham says there is some room for movement on tax (BBC News)
 - [macro] Security staff to go on strike at Aberdeen Airport (BBC News)
 - [crypto] Live updates: More bitcoin is now held at a loss than at a profit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bomb blast at Damascus cafe kills nine, Syrian state media say (BBC News)
