@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T13:37:29.588693+00:00`
+- Generated: `2026-07-03T13:52:30.162887+00:00`
 - Market context score: `57.37`
 - News risk score: `34.24`
 - Macro risk score: `23.27`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5057`
-- Day/swing latest: `2026-07-03T13:30:00+00:00`
+- Day/swing records: `5058`
+- Day/swing latest: `2026-07-03T13:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Security staff to go on strike at Aberdeen Airport (BBC News)
 - [crypto] Upbit says it only expressed interest in future OUSD participation (Cointelegraph.com News)
 - [macro] 'Start work at 11' - but will other bosses be as flexible over England's 1am match? (BBC News)
 - [macro] Ukrainian woman named by Interpol as main suspect in Monaco bomb attack (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues (Cointelegraph.com News)
 - [crypto] Bitcoin, ether traders aren't fully buying the bounce, options markets show (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs (BBC News)
