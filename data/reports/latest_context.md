@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-03T03:07:33.915276+00:00`
-- Market context score: `43.38`
-- News risk score: `45.24`
-- Macro risk score: `38.01`
-- Risk-on score: `26.73`
+- Generated: `2026-07-03T03:22:28.179494+00:00`
+- Market context score: `43.11`
+- News risk score: `45.34`
+- Macro risk score: `40.02`
+- Risk-on score: `26.98`
 - Articles: `32`
 - Polymarket markets: `397`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5016`
-- Day/swing latest: `2026-07-03T03:00:00+00:00`
+- Day/swing records: `5017`
+- Day/swing latest: `2026-07-03T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `3`
-- macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `2`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `4`
+- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise (Cointelegraph.com News)
 - [crypto] Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche (Cointelegraph.com News)
 - [macro] Venezuela quake survivor pulled out alive after eight days (BBC News)
 - [crypto] Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom? (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Ripple co-founder backs venture launched by US senator's son: Report (Cointelegraph.com News)
 - [macro] Ebola treatments trial begins in the Democratic Republic of Congo (BBC News)
 - [macro] Pubs allowed to stay open until 5am for England Mexico match (BBC News)
-- [commodity] Saudi Arabia has ramped up oil shipments through the Strait of Hormuz since U.S.-Iran deal (Energy)
