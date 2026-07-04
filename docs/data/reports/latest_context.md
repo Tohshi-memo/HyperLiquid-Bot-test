@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T13:54:59.605819+00:00`
-- Market context score: `65.72`
-- News risk score: `31.9`
-- Macro risk score: `16.5`
-- Risk-on score: `57.0`
-- Articles: `50`
+- Generated: `2026-07-04T14:07:30.616950+00:00`
+- Market context score: `63.59`
+- News risk score: `32.37`
+- Macro risk score: `19.44`
+- Risk-on score: `53.77`
+- Articles: `52`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5154`
-- Day/swing latest: `2026-07-04T13:45:00+00:00`
+- Day/swing records: `5155`
+- Day/swing latest: `2026-07-04T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `39`, risk hits `2`, risk headline rate `0.0513`, policy hits `2`
+- crypto: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `2`
+- macro: articles `39`, risk hits `4`, risk headline rate `0.1026`, policy hits `2`
 
 ## Headlines
 
-- [macro] Netflix Vs. Walt Disney: Netflix Prints Cold Hard Cash While Disney Bleeds to Fund Parks and Linear Cable Remnants (Yahoo Finance)
-- [macro] Is Envista Holdings Corporation (NVST) a Top Ariel Investment Stock to Buy? (Yahoo Finance)
-- [macro] Is BOK Financial Corporation (BOKF) a Top Stock to Buy According to Ariel Investments? (Yahoo Finance)
-- [macro] Knicks Success Assert Madison Square Garden Sports Corp. (MSGS) as a Top Stock to Buy According to Ariel Investments (Yahoo Finance)
-- [macro] Why is Morgan Stanley Bullish on Charles River Laboratories International, Inc. (CRL) as a Top Stock to Buy According to Ariel Investment? (Yahoo Finance)
-- [macro] Prestige Consumer Healthcare Inc. (PBH): A Top Ariel Investments Stock to Buy Following Breathe Right Brand Acquisition (Yahoo Finance)
-- [macro] Norwegian Cruise Line Holdings Ltd. (NCLH): A Top Cruise Stock to Buy According to Ariel Investments (Yahoo Finance)
-- [macro] Solid Growth Prospects Assert Sphere Entertainment Co. (SPHR) as a Top Stock to Buy According to Ariel Investments (Yahoo Finance)
-- [macro] Jones Lang LaSalle Incorporated (JLL) Secures $870M Senior Loan for Four Seasons Private Residences Redevelopment (Yahoo Finance)
-- [macro] Here’s Why OneSpaWorld Holdings Limited (OSW) is a Top Stock to Buy According to Ariel Investment (Yahoo Finance)
+- [crypto] Europe led on crypto regulation. Now implementation must match ambition (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Strong SoC Platforms Demand Assert Ambarella, Inc. (AMBA) as a Top Robotics Stock to Buy According to Short Sellers (Yahoo Finance)
+- [macro] Zebra Technologies Unveils CV70 CXP Camera for High-Speed Machine Vision Applications (Yahoo Finance)
+- [macro] Rockwell Automation, Inc. (ROK): One of the Best Robotics Stocks to Buy, Helping Manufacturers Move from Fragmented Automation (Yahoo Finance)
+- [macro] ​Honeywell International Inc. (HON): One of The Best Robotics Stocks to Buy Poised for Manufacturing Automation Opportunities (Yahoo Finance)
+- [macro] BofA Boosts Teradyne (TER) Price Target on Industry Growth (Yahoo Finance)
+- [macro] Here’s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments (Yahoo Finance)
+- [macro] Is NVIDIA Corporation (NVDA) The Best Robotics Stock to Buy According to Short Sellers? (Yahoo Finance)
+- [macro] Is Stryker Corp. (SYK) The Best Robotic Stock to Buy? (Yahoo Finance)
