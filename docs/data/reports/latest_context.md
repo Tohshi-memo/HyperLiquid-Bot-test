@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T21:22:26.847989+00:00`
-- Market context score: `60.37`
+- Generated: `2026-07-04T21:37:29.560900+00:00`
+- Market context score: `60.74`
 - News risk score: `31.78`
 - Macro risk score: `22.39`
-- Risk-on score: `47.22`
+- Risk-on score: `48.04`
 - Articles: `48`
 - Polymarket markets: `394`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5183`
-- Day/swing latest: `2026-07-04T21:15:00+00:00`
+- Day/swing records: `5184`
+- Day/swing latest: `2026-07-04T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] 1 Reason to Buy This Wide-Moat Stock Right Now (Yahoo Finance)
+- [macro] If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today (Yahoo Finance)
 - [macro] Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares? (Yahoo Finance)
 - [macro] MicroStrategy CEO Calls Bitcoin ‘United States of Money’ (Yahoo Finance)
 - [macro] Apple Is Reportedly Planning 5 New iPhones -- Including a $2,500 Foldable. Here's What It Means for the Stock. (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] Here's the Next Major Trillion-Dollar Blockbuster IPO Now That SpaceX's Is Complete (Yahoo Finance)
 - [macro] Eala wins 'for all the girls with ruffled socks and chubby cheeks' (BBC News)
 - [macro] Why July Could Be a Big Month for AMD Stock Investors (Yahoo Finance)
-- [macro] Bitcoin Miner IREN Falls After $700 Million CEO Stock Award (Yahoo Finance)
-- [macro] The Monthly Income Trap: How JEPQ Investors Gave Up $18,000 Per $10,000 Invested Since Inception (Yahoo Finance)
