@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-04T19:52:29.255829+00:00`
+- Generated: `2026-07-04T20:02:53.421995+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `73`
 - Outcome sides (rows): `146`
@@ -27,7 +27,6 @@
 - Turkey [No] symbol `#2161` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Japan [No] symbol `#1961` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
 - Senegal [No] symbol `#2091` underlying `n/a` prob `1.0` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Round of 16: Canada vs Morocco [Morocco] symbol `#7411` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Netherlands [No] symbol `#2001` underlying `ETH` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Congo DR [No] symbol `#1821` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Algeria [No] symbol `#1721` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -49,6 +48,7 @@
 - South Africa [No] symbol `#2101` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - Czechia [No] symbol `#1851` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
 - New Zealand [No] symbol `#2011` underlying `n/a` prob `0.9986` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Round of 16: Canada vs Morocco [Morocco] symbol `#7411` underlying `n/a` prob `0.998` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
