@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T15:19:38.519171+00:00`
+- Generated: `2026-07-04T15:22:25.733471+00:00`
 - Market context score: `60.79`
 - News risk score: `33.4`
 - Macro risk score: `21.42`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th (BBC News)
 - [macro] Injury ends Williams' Wimbledon comeback (BBC News)
 - [macro] Vanguard VCIT vs iShares MUB: Which Bond ETF Should You Choose? (Yahoo Finance)
 - [macro] Arizona Gold & Silver CEO on strong gold recovery results at Philadelphia project - ICYMI (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Berkshire Hathaway's Giant Cash Pile Earns More When Rates Stay High. Here's Why That Matters. (Yahoo Finance)
 - [macro] Jim Cramer on AST SpaceMobile: “I Think It Can Make Money in Two Years” (Yahoo Finance)
 - [macro] Jim Cramer Prefers GEV Over NuScale, Calls the Latter “Too Speculative” (Yahoo Finance)
-- [macro] Jim Cramer Says “For the First Time in Ages, I Like Having a Position in Moderna” (Yahoo Finance)
