@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T12:52:30.661662+00:00`
-- Market context score: `64.48`
-- News risk score: `28.59`
-- Macro risk score: `22.75`
-- Risk-on score: `53.81`
-- Articles: `23`
+- Generated: `2026-07-04T13:07:25.036029+00:00`
+- Market context score: `64.96`
+- News risk score: `26.67`
+- Macro risk score: `18.89`
+- Risk-on score: `51.79`
+- Articles: `22`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5150`
-- Day/swing latest: `2026-07-04T12:45:00+00:00`
+- Day/swing records: `5151`
+- Day/swing latest: `2026-07-04T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `2`
-- macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `1`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `1`
 
 ## Headlines
 
-- [macro] 2 High-Yield Dividend Stocks Just Got Kicked Out of the S&P 500. Is Either a Buy Now? (Yahoo Finance)
+- [macro] Vanguard S&P 500 Growth vs. Invesco SmallCap Revenue: How Do These ETFs Stack Up? (Yahoo Finance)
+- [macro] Is D-Wave Quantum a Buy? (Yahoo Finance)
+- [macro] Trump drops love-bomb on Micron while holding the stock — up 209% this year. Experts say it ‘undermines’ the system (Yahoo Finance)
 - [macro] Ukraine hits major oil terminal in Russia's St Petersburg (BBC News)
-- [macro] Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals (Yahoo Finance)
-- [macro] 3 AI Data Center Power Stocks to Buy in July (Yahoo Finance)
 - [macro] Dior dress, Adam Sandler and a man of honour: what we know about Taylor and Travis's wedding (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
