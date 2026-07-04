@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T22:07:31.976051+00:00`
-- Market context score: `61.93`
-- News risk score: `29.77`
-- Macro risk score: `20.57`
-- Risk-on score: `48.31`
+- Generated: `2026-07-04T22:15:56.588663+00:00`
+- Market context score: `60.91`
+- News risk score: `30.43`
+- Macro risk score: `22.0`
+- Risk-on score: `47.14`
 - Articles: `44`
 - Polymarket markets: `394`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5186`
-- Day/swing latest: `2026-07-04T22:00:00+00:00`
+- Day/swing records: `5187`
+- Day/swing latest: `2026-07-04T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
-- macro: articles `28`, risk hits `2`, risk headline rate `0.0714`, policy hits `1`
+- macro: articles `28`, risk hits `4`, risk headline rate `0.1071`, policy hits `0`
 
 ## Headlines
 
+- [macro] Could Canopy Growth Stock Deliver a 4X Gain? 1 Analyst Thinks So. (Yahoo Finance)
+- [macro] Which Banking ETF Is Better, State Street's KBE or iShares' U.S. Regional Bank-Focused IAT? (Yahoo Finance)
+- [macro] The Smartest Dividend Stock to Buy With $1,000 Right Now (Yahoo Finance)
+- [macro] Meta’s next AI bet has one major catch for investors (Yahoo Finance)
 - [macro] JPMorgan Chase Just Authorized a $50 Billion Buyback and Raised Its Dividend. Is the Stock a Buy Near Record Highs? (Yahoo Finance)
 - [macro] Which Is the Better High Dividend ETF, iShares' HDV or Fidelity's FDVV? (Yahoo Finance)
 - [macro] 1 Reason to Buy This Wide-Moat Stock Right Now (Yahoo Finance)
 - [macro] If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today (Yahoo Finance)
 - [macro] Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares? (Yahoo Finance)
-- [macro] Taylor Swift Could Soon Be Writing a Bigger Check As Rhode Island's New Luxury Home Tax Officially Kicks In (Yahoo Finance)
-- [macro] MicroStrategy CEO Calls Bitcoin ‘United States of Money’ (Yahoo Finance)
-- [macro] Apple Is Reportedly Planning 5 New iPhones -- Including a $2,500 Foldable. Here's What It Means for the Stock. (Yahoo Finance)
-- [macro] Which Pharmaceutical ETF Is Better, VanEck's PPH or Invesco's PJP? (Yahoo Finance)
 - [macro] Eala wins 'for all the girls with ruffled socks and chubby cheeks' (BBC News)
