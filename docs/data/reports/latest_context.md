@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T01:52:25.816105+00:00`
-- Market context score: `51.36`
-- News risk score: `39.92`
-- Macro risk score: `25.85`
-- Risk-on score: `35.38`
-- Articles: `22`
+- Generated: `2026-07-04T02:07:27.108721+00:00`
+- Market context score: `50.77`
+- News risk score: `40.5`
+- Macro risk score: `27.0`
+- Risk-on score: `35.0`
+- Articles: `21`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5106`
-- Day/swing latest: `2026-07-04T01:45:00+00:00`
+- Day/swing records: `5107`
+- Day/swing latest: `2026-07-04T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin P&L ratio falls to 43-month low (Cointelegraph.com News)
 - [crypto] SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back? (Cointelegraph.com News)
 - [macro] Anguished families left to identify Venezuela quake victims at makeshift morgue (BBC News)
 - [macro] Security staff strikes averted at Aberdeen Airport (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Iran begins public mourning for Ayatollah killed in February (BBC News)
 - [commodity] Extreme heat wave threatens U.S. power grids and July 4 travel (Energy)
 - [crypto] Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office (Cointelegraph.com News)
-- [crypto] ESMA warns many prediction market event contracts already face EU retail ban (Cointelegraph.com News)
