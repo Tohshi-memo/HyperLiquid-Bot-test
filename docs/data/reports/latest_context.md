@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T18:37:25.729049+00:00`
-- Market context score: `59.54`
+- Generated: `2026-07-04T18:46:31.687444+00:00`
+- Market context score: `60.23`
 - News risk score: `32.23`
 - Macro risk score: `20.43`
-- Risk-on score: `45.03`
+- Risk-on score: `46.55`
 - Articles: `54`
 - Polymarket markets: `395`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5173`
-- Day/swing latest: `2026-07-04T18:30:00+00:00`
+- Day/swing records: `5174`
+- Day/swing latest: `2026-07-04T18:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Ukraine hits major oil terminal in Russia's St Petersburg (BBC News)
+- [macro] 1 Simple Reason to Buy NuScale Power (SMR) Right Now (Yahoo Finance)
+- [macro] Netflix Stock Is Flirting With $70. Once-in-a-Decade Opportunity or Value Trap? (Yahoo Finance)
 - [macro] Hovering Around $1,800 a Share, Is an ASML Stock Split Imminent? (Yahoo Finance)
 - [crypto] Bitcoin jumps above $63,000, reversing end-June losses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why Ross Dress for Less is Everywhere Now (Yahoo Finance)
 - [macro] Dividend King vs. Growth Giant: Johnson & Johnson Takes on Eli Lilly (Yahoo Finance)
 - [crypto] Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI Can't Thrive Without This Stock (Hint: It's Not Nvidia) (Yahoo Finance)
-- [macro] The Radian Group's Chairman Sold Over 3,000 Company Shares. Should Investors Worry? (Yahoo Finance)
-- [macro] Here's Why The Latest Rocket Lab Acquisition Could Shake Up The Entire Space Economy (Yahoo Finance)
 - [macro] Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding (BBC News)
-- [macro] Injury ends Williams' Wimbledon comeback (BBC News)
