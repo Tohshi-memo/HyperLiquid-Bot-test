@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T09:22:25.837720+00:00`
-- Market context score: `63.35`
-- News risk score: `28.31`
-- Macro risk score: `21.06`
-- Risk-on score: `50.42`
+- Generated: `2026-07-04T09:37:28.684122+00:00`
+- Market context score: `62.03`
+- News risk score: `28.7`
+- Macro risk score: `20.23`
+- Risk-on score: `47.49`
 - Articles: `16`
 - Polymarket markets: `395`
 
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5136`
-- Day/swing latest: `2026-07-04T09:15:00+00:00`
+- Day/swing records: `5137`
+- Day/swing latest: `2026-07-04T09:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `2`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `2`
 - macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [commodity] UK and France agree with Oman to ensure safety of its territorial waters (Energy)
 - [crypto] Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction (Cointelegraph.com News)
 - [macro] Keiko Fujimori declared winner of Peru's presidential election weeks after vote (BBC News)
 - [crypto] XRP climbs 8% as record holder losses signal better risk-reward for buyers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +38,3 @@
 - [crypto] US law enforcement group drops opposition to CLARITY Act: Report (Cointelegraph.com News)
 - [macro] Iran begins public mourning for Ayatollah killed in February (BBC News)
 - [crypto] Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying (Cointelegraph.com News)
-- [macro] Brutal heat cancels Fourth of July events, from DC to Philadelphia (BBC News)
