@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T03:52:29.523440+00:00`
-- Market context score: `44.86`
+- Generated: `2026-07-04T04:07:25.353660+00:00`
+- Market context score: `47.86`
 - News risk score: `44.79`
 - Macro risk score: `27.0`
-- Risk-on score: `25.48`
+- Risk-on score: `32.14`
 - Articles: `15`
 - Polymarket markets: `396`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5114`
-- Day/swing latest: `2026-07-04T03:45:00+00:00`
+- Day/swing records: `5115`
+- Day/swing latest: `2026-07-04T04:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying (Cointelegraph.com News)
 - [crypto] SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back? (Cointelegraph.com News)
 - [macro] Anguished families left to identify Venezuela quake victims at makeshift morgue (BBC News)
 - [macro] Security staff strikes averted at Aberdeen Airport (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Iran begins public mourning for Ayatollah killed in February (BBC News)
 - [commodity] Extreme heat wave threatens U.S. power grids and July 4 travel (Energy)
 - [crypto] Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office (Cointelegraph.com News)
-- [crypto] ESMA warns many prediction market event contracts already face EU retail ban (Cointelegraph.com News)
