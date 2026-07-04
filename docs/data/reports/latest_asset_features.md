@@ -2,14 +2,14 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-07-04T06:22:34.369007+00:00`
-- Observed: `2026-07-04T06:15:00+00:00`
+- Generated: `2026-07-04T06:37:28.441279+00:00`
+- Observed: `2026-07-04T06:30:00+00:00`
 - Assets: `1153`
 
 ## Top Activity
 
 - `#1930` unknown price `0.002575` 4h `0.0` vol `0.0` relationship `market_context_high->#1930_24h`
-- `#2040` unknown price `0.00109` 4h `35.4037` vol `0.0` relationship `market_context_high->#2040_24h`
+- `#2040` unknown price `0.00109` 4h `17.2043` vol `0.0` relationship `market_context_high->#2040_24h`
 - `#1800` unknown price `0.0006` 4h `0.0` vol `0.0` relationship `market_context_high->#1800_24h`
 - `#1740` unknown price `0.00606` 4h `0.0` vol `0.0` relationship `market_context_high->#1740_4h`
 - `#2080` unknown price `0.00219` 4h `0.0` vol `0.0` relationship `market_context_high->#2080_24h`
@@ -21,10 +21,10 @@ Individual asset screen for drilling down from class-level signals.
 - `#1790` unknown price `0.00345` 4h `-61.4094` vol `0.0` relationship `market_context_high->#1790_4h`
 - `@308` unknown price `1667.0` 4h `0.0` vol `0.0` relationship `market_context_high->@308_4h`
 - `#1910` unknown price `0.003885` 4h `17.5492` vol `0.0` relationship `market_context_high->#1910_4h`
-- `xyz:CBRS` equity price `202.825` 4h `1.1798` vol `2658848.31` relationship `market_context_high->xyz:CBRS_24h`
-- `#1890` unknown price `0.35049` 4h `-1.6445` vol `0.0` relationship `market_context_high->#1890_24h`
-- `xyz:RKLB` equity price `103.41` 4h `0.0` vol `321514.73` relationship `market_context_high->xyz:RKLB_24h`
-- `xyz:BB` equity price `11.5045` 4h `0.9742` vol `1544158.46` relationship `market_context_high->xyz:BB_24h`
+- `xyz:CBRS` equity price `202.925` 4h `1.1389` vol `2658742.42` relationship `market_context_high->xyz:CBRS_24h`
+- `#1890` unknown price `0.34467` 4h `-3.2777` vol `0.0` relationship `market_context_high->#1890_24h`
+- `xyz:RKLB` equity price `103.48` 4h `0.0532` vol `320805.96` relationship `market_context_high->xyz:RKLB_24h`
+- `xyz:BB` equity price `11.5185` 4h `1.1326` vol `1497277.35` relationship `market_context_high->xyz:BB_24h`
 - `@90` unknown price `0.015906` 4h `0.0` vol `0.0` relationship `market_context_high->@90_24h`
 - `#5101` unknown price `0.0875` 4h `-7.2946` vol `0.0` relationship `market_context_high->#5101_24h`
-- `xyz:BOT` equity price `37.1805` 4h `2.5994` vol `1627207.43` relationship `market_context_high->xyz:BOT_24h`
+- `xyz:BOT` equity price `36.977` 4h `2.0576` vol `1623348.31` relationship `market_context_high->xyz:BOT_24h`
