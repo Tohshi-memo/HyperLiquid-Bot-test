@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T13:52:24.969561+00:00`
-- Market context score: `63.42`
-- News risk score: `32.2`
-- Macro risk score: `17.0`
-- Risk-on score: `52.33`
+- Generated: `2026-07-04T13:54:59.605819+00:00`
+- Market context score: `65.72`
+- News risk score: `31.9`
+- Macro risk score: `16.5`
+- Risk-on score: `57.0`
 - Articles: `50`
 - Polymarket markets: `395`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `39`, risk hits `3`, risk headline rate `0.0513`, policy hits `3`
+- macro: articles `39`, risk hits `2`, risk headline rate `0.0513`, policy hits `2`
 
 ## Headlines
 
+- [macro] Netflix Vs. Walt Disney: Netflix Prints Cold Hard Cash While Disney Bleeds to Fund Parks and Linear Cable Remnants (Yahoo Finance)
 - [macro] Is Envista Holdings Corporation (NVST) a Top Ariel Investment Stock to Buy? (Yahoo Finance)
+- [macro] Is BOK Financial Corporation (BOKF) a Top Stock to Buy According to Ariel Investments? (Yahoo Finance)
 - [macro] Knicks Success Assert Madison Square Garden Sports Corp. (MSGS) as a Top Stock to Buy According to Ariel Investments (Yahoo Finance)
-- [macro] Here's the Precise Timeline of When SpaceX Insiders Can Dump Their Shares on Retail Investors (Yahoo Finance)
-- [macro] A Veracyte Insider Sold 24,000 Company Shares for $1.1 Million. Here's a Deeper Look at the Transaction. (Yahoo Finance)
-- [macro] NIQ (NIQ) Completes Acquisition of Flywheel’s China and Southeast Asia Business (Yahoo Finance)
-- [macro] CoreWeave (CRWV) Partners with BattleBots as Official AI Cloud Provider (Yahoo Finance)
-- [macro] Infleqtion (INFQ) Launches America’s Quantum Space Initiative to Advance Space Infrastructure (Yahoo Finance)
-- [macro] Sharon AI (SHAZ): 10 Best New Tech Stocks to Buy According to Analysts (Yahoo Finance)
-- [macro] Here is Why PicS N.V. (PICS) is One of the Best New Tech Stocks to Buy According to Analysts (Yahoo Finance)
-- [macro] Unusual Machines (UMAC) Expands Operations with New Orlando Manufacturing Facility (Yahoo Finance)
+- [macro] Why is Morgan Stanley Bullish on Charles River Laboratories International, Inc. (CRL) as a Top Stock to Buy According to Ariel Investment? (Yahoo Finance)
+- [macro] Prestige Consumer Healthcare Inc. (PBH): A Top Ariel Investments Stock to Buy Following Breathe Right Brand Acquisition (Yahoo Finance)
+- [macro] Norwegian Cruise Line Holdings Ltd. (NCLH): A Top Cruise Stock to Buy According to Ariel Investments (Yahoo Finance)
+- [macro] Solid Growth Prospects Assert Sphere Entertainment Co. (SPHR) as a Top Stock to Buy According to Ariel Investments (Yahoo Finance)
+- [macro] Jones Lang LaSalle Incorporated (JLL) Secures $870M Senior Loan for Four Seasons Private Residences Redevelopment (Yahoo Finance)
+- [macro] Here’s Why OneSpaWorld Holdings Limited (OSW) is a Top Stock to Buy According to Ariel Investment (Yahoo Finance)
