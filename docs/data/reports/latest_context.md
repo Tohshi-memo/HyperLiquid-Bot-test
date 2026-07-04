@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T15:52:25.728176+00:00`
-- Market context score: `61.71`
-- News risk score: `31.58`
-- Macro risk score: `19.12`
-- Risk-on score: `48.79`
+- Generated: `2026-07-04T16:07:29.039055+00:00`
+- Market context score: `60.27`
+- News risk score: `32.35`
+- Macro risk score: `20.65`
+- Risk-on score: `46.82`
 - Articles: `52`
 - Polymarket markets: `397`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5162`
-- Day/swing latest: `2026-07-04T15:45:00+00:00`
+- Day/swing records: `5163`
+- Day/swing latest: `2026-07-04T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `2`
-- macro: articles `38`, risk hits `4`, risk headline rate `0.1053`, policy hits `1`
+- macro: articles `38`, risk hits `5`, risk headline rate `0.1316`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Why bitcoin's disconnect from record-high stocks won't last (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What is Mistral AI? Everything to know about the OpenAI competitor (Yahoo Finance)
+- [macro] What Happens When Medicare Premiums Are No Longer Your Problem? (Yahoo Finance)
+- [macro] Why Did Nebius Stock Jump 20% in June? (Yahoo Finance)
+- [macro] Why Ultra-High-Yield UPS Is Investing $48 Million to Control the Temperature (Yahoo Finance)
 - [crypto] Trump's crypto token buyers are down $3.8 billion, blockchain data shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] The $246,500 Question: Is Your 401(k) at 60 Enough for Retirement (Yahoo Finance)
-- [macro] A New Stablecoin Is Taking Aim at Circle's USDC. Here's What Investors Need to Know. (Yahoo Finance)
-- [macro] Ladder Capital's Asset Management Head Sells 35,000 Shares — What's Really at Stake? (Yahoo Finance)
+- [macro] Coinbase CEO has a radical fix for America's $36 trillion debt (Yahoo Finance)
+- [macro] Prediction: Coinbase Has Over 100% Upside as Cost Cuts and Volume Recovery Drive The Stock Higher (Yahoo Finance)
 - [macro] Injury ends Williams' Wimbledon comeback (BBC News)
-- [macro] 3 Stocks to Buy on the AI Infrastructure Sell-Off (Yahoo Finance)
-- [macro] Vanguard VCIT vs iShares MUB: Which Bond ETF Should You Choose? (Yahoo Finance)
-- [macro] Arizona Gold & Silver CEO on strong gold recovery results at Philadelphia project - ICYMI (Yahoo Finance)
 - [macro] Jim Cramer on AST SpaceMobile: “I Think It Can Make Money in Two Years” (Yahoo Finance)
-- [macro] Jim Cramer Prefers GEV Over NuScale, Calls the Latter “Too Speculative” (Yahoo Finance)
