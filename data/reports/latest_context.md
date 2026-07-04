@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T10:37:27.212077+00:00`
-- Market context score: `61.4`
-- News risk score: `29.64`
-- Macro risk score: `21.79`
-- Risk-on score: `47.49`
-- Articles: `16`
+- Generated: `2026-07-04T10:52:25.362000+00:00`
+- Market context score: `61.82`
+- News risk score: `29.19`
+- Macro risk score: `20.94`
+- Risk-on score: `47.71`
+- Articles: `17`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5141`
-- Day/swing latest: `2026-07-04T10:30:00+00:00`
+- Day/swing records: `5142`
+- Day/swing latest: `2026-07-04T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `2`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `1`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `1`
 
 ## Headlines
 
+- [macro] Pope urges Europe to do more for migrants while visiting gateway island (BBC News)
 - [commodity] UK and France agree with Oman to ensure safety of its territorial waters (Energy)
 - [macro] Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral (BBC News)
 - [crypto] Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin’s next parabolic run may need $1 trillion in fresh capital (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin profit and loss ratio falls to 43-month low (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] US law enforcement group drops opposition to CLARITY Act: Report (Cointelegraph.com News)
