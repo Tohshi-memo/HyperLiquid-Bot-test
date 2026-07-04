@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T22:15:56.588663+00:00`
-- Market context score: `60.91`
-- News risk score: `30.43`
-- Macro risk score: `22.0`
-- Risk-on score: `47.14`
+- Generated: `2026-07-04T22:22:30.545606+00:00`
+- Market context score: `60.5`
+- News risk score: `30.77`
+- Macro risk score: `22.57`
+- Risk-on score: `46.73`
 - Articles: `44`
 - Polymarket markets: `394`
 
@@ -24,7 +24,7 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
-- macro: articles `28`, risk hits `4`, risk headline rate `0.1071`, policy hits `0`
+- macro: articles `28`, risk hits `4`, risk headline rate `0.1071`, policy hits `1`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [macro] Which Is the Better High Dividend ETF, iShares' HDV or Fidelity's FDVV? (Yahoo Finance)
 - [macro] 1 Reason to Buy This Wide-Moat Stock Right Now (Yahoo Finance)
 - [macro] If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today (Yahoo Finance)
-- [macro] Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares? (Yahoo Finance)
 - [macro] Eala wins 'for all the girls with ruffled socks and chubby cheeks' (BBC News)
+- [crypto] Tokenization's next use case is personalized portfolios, NYLIM executive says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
