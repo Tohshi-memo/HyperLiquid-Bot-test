@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T09:37:28.684122+00:00`
+- Generated: `2026-07-04T09:52:30.788781+00:00`
 - Market context score: `62.03`
 - News risk score: `28.7`
 - Macro risk score: `20.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5137`
-- Day/swing latest: `2026-07-04T09:30:00+00:00`
+- Day/swing records: `5138`
+- Day/swing latest: `2026-07-04T09:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral (BBC News)
 - [commodity] UK and France agree with Oman to ensure safety of its territorial waters (Energy)
 - [crypto] Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction (Cointelegraph.com News)
 - [macro] Keiko Fujimori declared winner of Peru's presidential election weeks after vote (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Bitcoin profit and loss ratio falls to 43-month low (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US law enforcement group drops opposition to CLARITY Act: Report (Cointelegraph.com News)
-- [macro] Iran begins public mourning for Ayatollah killed in February (BBC News)
 - [crypto] Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying (Cointelegraph.com News)
