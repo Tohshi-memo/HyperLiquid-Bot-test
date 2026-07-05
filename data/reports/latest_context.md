@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T07:37:27.711553+00:00`
+- Generated: `2026-07-05T07:52:30.243486+00:00`
 - Market context score: `68.62`
 - News risk score: `18.0`
 - Macro risk score: `12.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5223`
-- Day/swing latest: `2026-07-05T07:30:00+00:00`
+- Day/swing records: `5224`
+- Day/swing latest: `2026-07-05T07:45:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] US marks 250th birthday with fireworks, flyovers and extreme weather (BBC News)
 - [macro] Scorching heat and delays: How Washington DC marked America 250 (BBC News)
 - [crypto] Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Chinese underground church figure Jin Mingri freed from prison (BBC News)
-- [macro] US marks its 250th birthday with fireworks, flyovers and extreme weather (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap (Cointelegraph.com News)
 - [crypto] Moonbeam to pivot from Polkadot to Base, unveils AI agent framework (Cointelegraph.com News)
