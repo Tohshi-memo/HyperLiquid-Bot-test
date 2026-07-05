@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T22:37:29.075783+00:00`
-- Market context score: `40.87`
-- News risk score: `57.35`
-- Macro risk score: `22.6`
-- Risk-on score: `25.57`
-- Articles: `47`
+- Generated: `2026-07-05T22:44:21.111859+00:00`
+- Market context score: `39.07`
+- News risk score: `59.62`
+- Macro risk score: `25.25`
+- Risk-on score: `24.48`
+- Articles: `51`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `6`, risk headline rate `0.7143`, policy hits `0`
-- macro: articles `39`, risk hits `6`, risk headline rate `0.1282`, policy hits `3`
+- macro: articles `43`, risk hits `8`, risk headline rate `0.186`, policy hits `3`
 
 ## Headlines
 
+- [macro] Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus (Yahoo Finance)
+- [macro] If You'd Invested $10,000 in the SpaceX IPO, Here's How Much You Would Have Now (Yahoo Finance)
 - [macro] Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target (Yahoo Finance)
-- [macro] Leerink Sees Altimmune (ALT) As An Attractive Play In The MASH Therapeutics Market (Yahoo Finance)
-- [macro] Dow Jones Futures Rise, Techs Jump; Apple, SpaceX, Sandisk, Robinhood In Focus (Yahoo Finance)
-- [macro] Here’s What Analysts Say About Petco Health and Wellness (WOOF) (Yahoo Finance)
-- [macro] 3 Dividend ETF Picks That Could Build Serious Long-Term Wealth (Yahoo Finance)
-- [macro] Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts (BBC News)
-- [macro] A Hedge Fund Dumped Establishment Labs Shares Worth $6.6 Million. Here's a Closer Look at the Transaction. (Yahoo Finance)
-- [macro] The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half. (Yahoo Finance)
-- [macro] Five Energy Stocks Riding Texas's Data Center Power Boom (Yahoo Finance)
-- [macro] Stock Futures Kick Off Week that Includes Fed Minutes (Yahoo Finance)
+- [macro] Why Does KeyBanc Rate Netskope (NTSK) As “Overweight” With A $15 Price Target? (Yahoo Finance)
+- [macro] TD Cowen Rates Vertex (VERX) A Buy; Sees Sentiment Improving On Execution (Yahoo Finance)
+- [macro] Goldman Sachs Says Braze (BRZE) Is Well Positioned To Keep Taking Share From Legacy Marketing Tools (Yahoo Finance)
+- [macro] SailPoint (SAIL) Completes Entro Security Acquisition To Strengthen AI Identity Governance (Yahoo Finance)
+- [macro] NICE (NICE) Expands AI Reach With Sopra Steria CXone Deployment (Yahoo Finance)
+- [macro] Navan (NAVN) Introduces AI Protocol For Natural Language Access to Travel and Expense Data (Yahoo Finance)
+- [macro] Maxim Says Context Therapeutics (CNTX)’s Share Pullback Is an Overreaction; Remains Bullish (Yahoo Finance)
