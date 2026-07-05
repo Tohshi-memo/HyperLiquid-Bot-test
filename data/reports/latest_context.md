@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T12:22:27.668639+00:00`
+- Generated: `2026-07-05T12:37:25.174767+00:00`
 - Market context score: `59.62`
 - News risk score: `18.0`
 - Macro risk score: `12.0`
 - Risk-on score: `30.0`
-- Articles: `10`
+- Articles: `11`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5242`
-- Day/swing latest: `2026-07-05T12:15:00+00:00`
+- Day/swing records: `5243`
+- Day/swing latest: `2026-07-05T12:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Iran's supreme leader absent as senior officials attend ayatollah's funeral (BBC News)
 - [crypto] South Africa proposes crypto tax guidance under existing framework (Cointelegraph.com News)
 - [macro] Evacuations in Guam as super typhoon Bavi approaches (BBC News)
 - [crypto] Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Chinese underground church figure Jin Mingri freed from prison (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap (Cointelegraph.com News)
-- [crypto] Moonbeam to pivot from Polkadot to Base, unveils AI agent framework (Cointelegraph.com News)
