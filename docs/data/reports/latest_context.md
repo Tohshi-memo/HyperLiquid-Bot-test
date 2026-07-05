@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T11:52:33.993585+00:00`
+- Generated: `2026-07-05T12:07:29.310922+00:00`
 - Market context score: `59.62`
 - News risk score: `18.0`
 - Macro risk score: `12.0`
 - Risk-on score: `30.0`
-- Articles: `9`
+- Articles: `10`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5240`
-- Day/swing latest: `2026-07-05T11:45:00+00:00`
+- Day/swing records: `5241`
+- Day/swing latest: `2026-07-05T12:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] South Africa proposes crypto tax rules under existing tax framework (Cointelegraph.com News)
 - [macro] Evacuations in Guam as super typhoon Bavi approaches (BBC News)
 - [crypto] Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high (Cointelegraph.com News)
 - [macro] US marks 250th birthday with fireworks, flyovers and extreme weather (BBC News)
