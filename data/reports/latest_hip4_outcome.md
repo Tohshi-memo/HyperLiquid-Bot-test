@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-05T15:37:31.959289+00:00`
+- Generated: `2026-07-05T15:40:54.567647+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `62`
 - Outcome sides (rows): `124`
@@ -70,8 +70,8 @@
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9973` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [Yes] symbol `#1880` underlying `n/a` prob `0.0673` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [No] symbol `#1881` underlying `n/a` prob `0.9327` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [Yes] symbol `#1890` underlying `n/a` prob `0.3486` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [No] symbol `#1891` underlying `n/a` prob `0.6514` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [Yes] symbol `#1890` underlying `n/a` prob `0.3496` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [No] symbol `#1891` underlying `n/a` prob `0.6504` price_source `allMids` vol24h `0.0` oi `0.0`
 - Germany [Yes] symbol `#1900` underlying `n/a` prob `0.001` price_source `allMids` vol24h `0.0` oi `0.0`
 - Germany [No] symbol `#1901` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [Yes] symbol `#1910` underlying `n/a` prob `0.0005` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -98,8 +98,8 @@
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9973` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [Yes] symbol `#1880` underlying `n/a` prob `0.0673` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [No] symbol `#1881` underlying `n/a` prob `0.9327` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [Yes] symbol `#1890` underlying `n/a` prob `0.3486` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [No] symbol `#1891` underlying `n/a` prob `0.6514` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [Yes] symbol `#1890` underlying `n/a` prob `0.3496` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [No] symbol `#1891` underlying `n/a` prob `0.6504` price_source `allMids` vol24h `0.0` oi `0.0`
 - Germany [Yes] symbol `#1900` underlying `n/a` prob `0.001` price_source `allMids` vol24h `0.0` oi `0.0`
 - Germany [No] symbol `#1901` underlying `n/a` prob `0.999` price_source `allMids` vol24h `0.0` oi `0.0`
 - Ghana [Yes] symbol `#1910` underlying `n/a` prob `0.0005` price_source `allMids` vol24h `0.0` oi `0.0`
