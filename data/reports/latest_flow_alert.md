@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-05T14:45:27.078426+00:00`
+- Generated: `2026-07-05T14:50:29.628013+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19939122.83`
-- Polymarket volume z-score: `-1.64`
+- Polymarket 24h volume: `19747111.9`
+- Polymarket volume z-score: `-1.67`
 
 ## Top Polymarket Markets
 
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3606783.935` | liquidity: `83076.39349`
-- Mexico vs. England: Team to Advance | 24h volume: `2304868.1580749955` | liquidity: `3797934.638`
-- Brazil vs. Norway: Team to Advance | 24h volume: `1696756.7437839925` | liquidity: `2157454.2201`
-- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1436697.534666` | liquidity: `74432.92185`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `831540.9385770023` | liquidity: `2088229.16949`
-- Will Lebanon recognize Israel by June 30? | 24h volume: `636391.2335050006` | liquidity: `2324385.37233`
-- Will Javier Milei be the next leader out before 2027? | 24h volume: `611045.9600000001` | liquidity: `38553.88543`
-- Exact Score: Brazil 2 - 1 Norway? | 24h volume: `606796.1309150159` | liquidity: `1654429.7876`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3516483.935` | liquidity: `57509.01202`
+- Mexico vs. England: Team to Advance | 24h volume: `2303190.091881995` | liquidity: `3796742.2385`
+- Brazil vs. Norway: Team to Advance | 24h volume: `1700677.620619992` | liquidity: `2156349.2486`
+- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1436697.534666` | liquidity: `52154.61023`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `851291.1105770024` | liquidity: `2069496.33472`
+- Will Lebanon recognize Israel by June 30? | 24h volume: `636391.2335050006` | liquidity: `2324420.37233`
+- Exact Score: Brazil 2 - 1 Norway? | 24h volume: `614969.4708620158` | liquidity: `1647538.5262`
+- Exact Score: Brazil 3 - 3 Norway? | 24h volume: `569521.3750629998` | liquidity: `235217.81149`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
