@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T19:37:28.235626+00:00`
+- Generated: `2026-07-05T19:39:57.561150+00:00`
 - Market context score: `41.92`
 - News risk score: `55.54`
 - Macro risk score: `25.43`
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Trump thanks Fifa for overturning USA striker's ban (BBC News)
+- [macro] Ethereum Lost 22% in 1 Month. Here's Why It Could Still Get Worse (Yahoo Finance)
 - [macro] 3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026 (Yahoo Finance)
 - [macro] MercadoLibre and Walmart Are Both Down This Year. Which Stock Should Investors Buy? (Yahoo Finance)
 - [macro] Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Delek Insider Dumps 4,909 Shares after a Blockbuster Year — is it time to sell? (Yahoo Finance)
 - [macro] A big shift in the U.S. energy market is about to happen (Yahoo Finance)
 - [macro] What a $1,000 Investment in a SpaceX Could Be Worth in 5 Years (Yahoo Finance)
-- [macro] Eight rescued from seaplane that made 'hard landing' in Manhattan river (BBC News)
