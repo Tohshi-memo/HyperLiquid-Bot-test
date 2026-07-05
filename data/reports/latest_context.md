@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T21:37:27.984323+00:00`
+- Generated: `2026-07-05T21:45:16.675553+00:00`
 - Market context score: `40.61`
 - News risk score: `58.92`
 - Macro risk score: `24.55`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5279`
-- Day/swing latest: `2026-07-05T21:30:00+00:00`
+- Day/swing records: `5280`
+- Day/swing latest: `2026-07-05T21:45:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Super typhoon Bavi nears Pacific islands with huge wind gusts (BBC News)
+- [macro] Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts (BBC News)
 - [macro] Stock Futures Kick Off Week that Includes Fed Minutes (Yahoo Finance)
 - [macro] Bitcoin Is Down 53%. Is It Finally Time to Buy? (Yahoo Finance)
 - [macro] The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained (Yahoo Finance)
