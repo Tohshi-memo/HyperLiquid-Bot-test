@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T17:56:32.655639+00:00`
-- Market context score: `39.51`
-- News risk score: `54.57`
-- Macro risk score: `25.62`
-- Risk-on score: `21.34`
-- Articles: `45`
+- Generated: `2026-07-05T18:07:29.549202+00:00`
+- Market context score: `37.1`
+- News risk score: `60.0`
+- Macro risk score: `29.88`
+- Risk-on score: `22.18`
+- Articles: `42`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5264`
-- Day/swing latest: `2026-07-05T17:45:00+00:00`
+- Day/swing records: `5265`
+- Day/swing latest: `2026-07-05T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `6`, risk headline rate `0.625`, policy hits `0`
-- macro: articles `36`, risk hits `6`, risk headline rate `0.1389`, policy hits `10`
+- crypto: articles `7`, risk hits `6`, risk headline rate `0.7143`, policy hits `0`
+- macro: articles `34`, risk hits `8`, risk headline rate `0.2059`, policy hits `10`
 
 ## Headlines
 
+- [macro] Iran's supreme leader absent as senior officials attend ayatollah's funeral (BBC News)
+- [macro] AMD vs Palantir: Which AI Giant Is a Better Buy? (Yahoo Finance)
+- [macro] Six Dividend Aristocrats Keeping SCHD’s Income Stream Bulletproof This Year (Yahoo Finance)
+- [macro] Why e.l.f. Beauty Stock Jumped 32% in June (Yahoo Finance)
+- [macro] Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026 (Yahoo Finance)
 - [macro] EasyJet reaches 'agreement in principle' over potential takeover (BBC News)
 - [macro] Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks (BBC News)
 - [macro] A bigger tax hit to save in interest — why raiding your 401(k) to pay off credit cards can backfire badly (Yahoo Finance)
 - [macro] Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends (Yahoo Finance)
 - [macro] JPMorgan tweaks gold price target as Fed risks return (Yahoo Finance)
-- [macro] Two Retirees, Same Income. Only the One Who Filed a Life-Changing-Event Form Kept the Lower Premium. (Yahoo Finance)
-- [macro] If a Stock Market Crash Is Coming, This ETF Could Be the Smartest Buy Right Now (Yahoo Finance)
-- [macro] Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus (Yahoo Finance)
-- [macro] Prediction: Energy Transfer (ET) Will Crush the S&P 500 in the Second-Half of 2026. (Yahoo Finance)
-- [macro] Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors (Yahoo Finance)
