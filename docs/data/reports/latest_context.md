@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T00:52:32.943792+00:00`
-- Market context score: `47.21`
-- News risk score: `39.52`
+- Generated: `2026-07-05T01:07:25.610758+00:00`
+- Market context score: `47.67`
+- News risk score: `38.83`
 - Macro risk score: `38.67`
-- Risk-on score: `30.66`
-- Articles: `20`
+- Risk-on score: `31.11`
+- Articles: `21`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5197`
-- Day/swing latest: `2026-07-05T00:45:00+00:00`
+- Day/swing records: `5198`
+- Day/swing latest: `2026-07-05T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- crypto: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Moonbeam to pivot from Polkadot to Base, unveils AI agent framework (Cointelegraph.com News)
 - [macro] Funeral of Iran's former supreme leader 'intensely political moment' (BBC News)
 - [macro] Eala wins 'for all the girls with ruffled socks and chubby cheeks' (BBC News)
 - [crypto] Tokenization's next use case is personalized portfolios, NYLIM executive says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Ukraine hits major oil terminal in Russia's St Petersburg (BBC News)
 - [crypto] Bitcoin jumps above $63,000, reversing end-June losses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
