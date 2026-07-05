@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-04T23:52:31.125995+00:00`
-- Market context score: `60.43`
-- News risk score: `31.37`
-- Macro risk score: `23.16`
-- Risk-on score: `47.31`
-- Articles: `43`
+- Generated: `2026-07-05T00:07:30.975249+00:00`
+- Market context score: `59.74`
+- News risk score: `32.16`
+- Macro risk score: `23.22`
+- Risk-on score: `46.48`
+- Articles: `41`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5193`
-- Day/swing latest: `2026-07-04T23:45:00+00:00`
+- Day/swing records: `5194`
+- Day/swing latest: `2026-07-05T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
+- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
 - macro: articles `28`, risk hits `3`, risk headline rate `0.1071`, policy hits `2`
 
 ## Headlines
@@ -36,5 +36,5 @@
 - [macro] Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock. (Yahoo Finance)
 - [macro] Micron Stock Has Soared Nearly 700% in a Year. Is a Stock Split Imminent? (Yahoo Finance)
 - [macro] What This Nearly $1 Million Ambarella Insider Sale Means With Shares Up 18% in a Year (Yahoo Finance)
+- [macro] Palantir CEO Alex Karp Says AI Labs Are Chasing 'Tokens' While Enterprises Fear for Their IP: 'Something Has Gone Completely Wrong' (Yahoo Finance)
 - [macro] What This $905,000 Insider Sale at McGrath RentCorp Signals for Investors (Yahoo Finance)
-- [macro] ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock. (Yahoo Finance)
