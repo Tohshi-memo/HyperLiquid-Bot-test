@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-05T12:30:25.172473+00:00`
+- Generated: `2026-07-05T12:35:27.801441+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `21250444.08`
-- Polymarket volume z-score: `-1.42`
+- Polymarket 24h volume: `21338390.93`
+- Polymarket volume z-score: `-1.41`
 
 ## Top Polymarket Markets
 
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3546094.726` | liquidity: `78325.63853`
-- Mexico vs. England: Team to Advance | 24h volume: `2051450.1193499975` | liquidity: `4214849.3718`
-- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1436700.234666` | liquidity: `66160.05449`
-- Will Javier Milei be the next leader out before 2027? | 24h volume: `1337737.0000000002` | liquidity: `38388.65072`
-- Will no listed leader be out before 2027? | 24h volume: `1327636.516` | liquidity: `96985.99579`
-- Brazil vs. Norway: Team to Advance | 24h volume: `1228223.5995209962` | liquidity: `2162944.1087`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `1224342.458` | liquidity: `28401.39719`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `799303.1213650011` | liquidity: `2115809.19162`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3666574.726` | liquidity: `71138.29449`
+- Mexico vs. England: Team to Advance | 24h volume: `2058477.8276789973` | liquidity: `3858525.1076`
+- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1436700.234666` | liquidity: `58402.87304`
+- Will Javier Milei be the next leader out before 2027? | 24h volume: `1292244.2400000002` | liquidity: `38098.55241`
+- Will no listed leader be out before 2027? | 24h volume: `1289986.516` | liquidity: `91752.74221`
+- Brazil vs. Norway: Team to Advance | 24h volume: `1233778.4018669962` | liquidity: `2149833.8671`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `1224342.458` | liquidity: `30121.75019`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `801515.6509580013` | liquidity: `2113844.66578`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
