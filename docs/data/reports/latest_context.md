@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T14:52:25.362179+00:00`
-- Market context score: `42.58`
-- News risk score: `40.33`
-- Macro risk score: `22.91`
-- Risk-on score: `15.11`
-- Articles: `19`
+- Generated: `2026-07-05T15:07:30.906174+00:00`
+- Market context score: `42.64`
+- News risk score: `44.25`
+- Macro risk score: `24.5`
+- Risk-on score: `19.17`
+- Articles: `33`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5252`
-- Day/swing latest: `2026-07-05T14:45:00+00:00`
+- Day/swing records: `5253`
+- Day/swing latest: `2026-07-05T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- crypto: articles `9`, risk hits `5`, risk headline rate `0.4444`, policy hits `0`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Banks have stopped asking if stablecoins belong in finance, now they're considering how (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Start work at 11' - but will other bosses be as flexible over England's 1am match? (BBC News)
-- [macro] Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks (BBC News)
-- [crypto] Collateral, not yield, will decide which stablecoins win (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Cargo vessel in Red Sea reports coming under attack, UK maritime body says (Energy)
-- [macro] Australia probes mystery space balls that washed up on beach (BBC News)
-- [macro] Iran's supreme leader absent as senior officials attend ayatollah's funeral (BBC News)
-- [crypto] South Africa proposes crypto tax guidance under existing framework (Cointelegraph.com News)
-- [macro] Evacuations in Guam as super typhoon Bavi approaches (BBC News)
+- [crypto] Americans traded $571 million on Polymarket politic bets despite U.S. ban (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Thousand welcome home Cape Verde footballers after stunning World Cup run (BBC News)
+- [macro] Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI (Yahoo Finance)
+- [macro] The Strait of Hormuz has reopened — why that might be a problem for the oil market: Chart of the Day (Yahoo Finance)
+- [macro] My parents are in their early 60s with no savings, a mortgage, and $2,400 in Social Security – where can they afford to live? (Yahoo Finance)
+- [macro] SPYI vs. JEPI: Which S&P 500 Covered-Call ETF Pays You More Safely? (Yahoo Finance)
+- [macro] The 3 Best Dividend Stocks to Buy in July (Yahoo Finance)
+- [macro] The AI Boom Runs on Debt. Global Regulators Want to Shut Off the Tap (Yahoo Finance)
+- [macro] Is Nvidia Undervalued or AMD Overvalued — or Both? (Yahoo Finance)
+- [macro] Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now (Yahoo Finance)
