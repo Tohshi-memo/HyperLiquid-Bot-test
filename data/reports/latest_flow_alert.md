@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-05T18:00:24.792706+00:00`
+- Generated: `2026-07-05T18:05:27.684890+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `27094641.53`
-- Polymarket volume z-score: `-0.51`
+- Polymarket 24h volume: `27227715.04`
+- Polymarket volume z-score: `-0.49`
 
 ## Top Polymarket Markets
 
-- Mexico vs. England: Team to Advance | 24h volume: `5835013.437127967` | liquidity: `3079210.4697`
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3341341.97275` | liquidity: `77858.17109`
-- Brazil vs. Norway: Team to Advance | 24h volume: `2258781.4641609867` | liquidity: `2112396.3945`
-- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1444780.1059980001` | liquidity: `63649.84629`
-- Exact Score: Brazil 2 - 1 Norway? | 24h volume: `1030518.8248440207` | liquidity: `1174227.0051`
-- Will Claudia Sheinbaum be the next leader out before 2027? | 24h volume: `1003629.4923330017` | liquidity: `49473.79543`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `846997.7923430039` | liquidity: `1886426.75706`
-- Exact Score: Brazil 3 - 3 Norway? | 24h volume: `833879.5210609993` | liquidity: `276061.59499`
+- Mexico vs. England: Team to Advance | 24h volume: `5849121.970878965` | liquidity: `3041160.0148`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3341347.17275` | liquidity: `67074.97288`
+- Brazil vs. Norway: Team to Advance | 24h volume: `2284478.0600979854` | liquidity: `2081138.7558`
+- Will Luiz Inácio Lula da Silva be the next leader out before 2027? | 24h volume: `1445238.045998` | liquidity: `54903.06853`
+- Exact Score: Brazil 2 - 1 Norway? | 24h volume: `1050023.0063360212` | liquidity: `1059947.5534`
+- Will Claudia Sheinbaum be the next leader out before 2027? | 24h volume: `1003629.4923330017` | liquidity: `50967.24296`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `847163.793343004` | liquidity: `1887119.88451`
+- Exact Score: Brazil 3 - 3 Norway? | 24h volume: `835771.3238499992` | liquidity: `195713.04789`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
