@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-05T16:50:00.200684+00:00`
-- Market context score: `42.09`
-- News risk score: `53.95`
-- Macro risk score: `27.12`
-- Risk-on score: `27.11`
+- Generated: `2026-07-05T16:52:25.906294+00:00`
+- Market context score: `40.53`
+- News risk score: `54.36`
+- Macro risk score: `27.79`
+- Risk-on score: `24.25`
 - Articles: `37`
 - Polymarket markets: `391`
 
@@ -24,11 +24,13 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `6`, risk headline rate `0.625`, policy hits `0`
-- macro: articles `28`, risk hits `6`, risk headline rate `0.1786`, policy hits `6`
+- macro: articles `28`, risk hits `6`, risk headline rate `0.1786`, policy hits `7`
 
 ## Headlines
 
+- [macro] 3 Stocks to Buy and Hold Even if There's a Stock Market Sell-Off in the Second Half of 2026 (Yahoo Finance)
 - [macro] Starbucks vs Chipotle: Two Restaurant Titans, Two Playbooks, Only One Winner (Yahoo Finance)
+- [macro] Investors with $5M+ are done being landlords — and one passive strategy pays 10% to 12% 'easy money' (Yahoo Finance)
 - [macro] Why Strategy, Inc. Plunged in June (Yahoo Finance)
 - [macro] The Backdoor Roth 401(k) Loophole: How High Earners Add $8,600 Tax-Free in 2026 (Yahoo Finance)
 - [macro] The AI Supercycle Needs More Than Just Chips. This Growth Stock Builds the Network That Connects Them. (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade (Yahoo Finance)
 - [macro] The Real Cost of Retiring in Charleston, SC, at 65 on $975,000 Worry Free (Yahoo Finance)
 - [crypto] Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday (Cointelegraph.com News)
-- [macro] Paramount’s Warner deal has a new $650 million problem (Yahoo Finance)
-- [macro] Rate hike readjustment and AI hardware momentum: What to watch this week (Yahoo Finance)
