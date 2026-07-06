@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-06T14:07:40.438848+00:00`
-- Market context score: `50.8`
-- News risk score: `44.91`
-- Macro risk score: `22.33`
-- Risk-on score: `37.03`
-- Articles: `83`
+- Generated: `2026-07-06T14:22:31.858535+00:00`
+- Market context score: `50.02`
+- News risk score: `45.0`
+- Macro risk score: `22.52`
+- Risk-on score: `35.45`
+- Articles: `82`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5344`
-- Day/swing latest: `2026-07-06T14:00:00+00:00`
+- Day/swing records: `5345`
+- Day/swing latest: `2026-07-06T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `6`
-- macro: articles `49`, risk hits `5`, risk headline rate `0.102`, policy hits `3`
+- macro: articles `48`, risk hits `6`, risk headline rate `0.1042`, policy hits `2`
 
 ## Headlines
 
+- [macro] Sri Lanka prison riots leave 26 dead and more than 100 injured (BBC News)
+- [macro] ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover (BBC News)
+- [macro] Micron stock has now plunged to this surprising level (Yahoo Finance)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] French watchdog clears Auchan-Intermarché franchise deal (Yahoo Finance)
+- [macro] Prediction: This Will Be the Next Artificial Intelligence (AI) Semiconductor Stock to Go Parabolic (Yahoo Finance)
+- [macro] Strong Results Lifted Trane Technologies (TT) in Q1 (Yahoo Finance)
+- [macro] Why This Biotech, Up 14% Since Its Breakout, Is On The Rise Once Again (Yahoo Finance)
 - [macro] Accent Resources signs Norseman sale agreement with Boomerang (Yahoo Finance)
-- [crypto] FCA warns of major shakeup as AI agents meet tokenized money (Cointelegraph.com News)
-- [macro] Nu vs. OneMain: Should You Pick the Digital Disruptor or the Domestic Dividend Payer in 2026? (Yahoo Finance)
-- [macro] Ranking the Best "Magnificent Seven" Stocks to Buy Right Now (Yahoo Finance)
-- [macro] Buxton Brewery MD leaves to head Great British Drinks Company (Yahoo Finance)
-- [macro] These Were the S&P 500's Best-Performing Stocks at the Halfway Mark of 2026. Can They Still Go Higher This Year? (Yahoo Finance)
-- [macro] TeraWulf, Anthropic Sign $19 Billion Data Center Lease. Neocloud Stocks Soar. (Yahoo Finance)
-- [macro] Microsoft joins AI-driven tech layoff wave with 4,800 job cuts (Yahoo Finance)
-- [macro] Stock Market Today: Dow Eases, Nasdaq Rises; Memory Names Micron, Sandisk Bounce Higher (Live Coverage) (Yahoo Finance)
-- [crypto] DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Michael Saylor’s New MSTR Playbook Is Already Costing Investors: 17% of Bitcoin Sale Capacity Gone (Yahoo Finance)
