@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-06T04:55:24.802541+00:00`
+- Generated: `2026-07-06T05:00:26.794893+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12433747.72`
-- Polymarket volume z-score: `-2.83`
+- Polymarket 24h volume: `12512171.58`
+- Polymarket volume z-score: `-2.81`
 
 ## Top Polymarket Markets
 
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3314503.180435` | liquidity: `68399.52201`
-- United States vs. Belgium: Team to Advance | 24h volume: `1467021.8020340025` | liquidity: `997244.4014`
-- Portugal vs. Spain: Team to Advance | 24h volume: `1138935.693339999` | liquidity: `934805.3628`
-- Will Claudia Sheinbaum be the next leader out before 2027? | 24h volume: `1002629.4923330017` | liquidity: `34608.98659`
-- Will the White House call a full lid by 6:30PM on July 4? | 24h volume: `506540.59303499985` | liquidity: `1224313.47045`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `441790.3963180002` | liquidity: `2002087.20581`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `380741.99308399996` | liquidity: `371805.94963`
-- Will Javier Milei be the next leader out before 2027? | 24h volume: `335020.89800000004` | liquidity: `42270.77367`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3314503.180435` | liquidity: `70457.49401`
+- United States vs. Belgium: Team to Advance | 24h volume: `1480035.3215600024` | liquidity: `1205605.7611`
+- Portugal vs. Spain: Team to Advance | 24h volume: `1145925.6086659988` | liquidity: `916918.361`
+- Will Claudia Sheinbaum be the next leader out before 2027? | 24h volume: `1002629.4923330017` | liquidity: `33149.05339`
+- Will the White House call a full lid by 6:30PM on July 4? | 24h volume: `506329.00120899983` | liquidity: `1224313.47045`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `441796.8863180002` | liquidity: `2005150.98741`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `380640.333084` | liquidity: `371486.31983`
+- Will Javier Milei be the next leader out before 2027? | 24h volume: `335020.89800000004` | liquidity: `41454.37661`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
