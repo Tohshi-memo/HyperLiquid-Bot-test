@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-06T23:07:32.580910+00:00`
+- Generated: `2026-07-06T23:22:31.868221+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `36`
 - Outcome sides (rows): `72`
@@ -31,15 +31,15 @@
 - Portugal [No] symbol `#2051` underlying `n/a` prob `0.9951` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9919` price_source `allMids` vol24h `0.0` oi `0.0`
 - Switzerland [No] symbol `#2141` underlying `n/a` prob `0.9904` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#7671` underlying `n/a` prob `0.9812` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#7671` underlying `n/a` prob `0.9832` price_source `allMids` vol24h `0.0` oi `0.0`
 - Morocco [No] symbol `#1991` underlying `n/a` prob `0.9723` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9661` price_source `allMids` vol24h `0.0` oi `0.0`
 - USA [No] symbol `#2171` underlying `n/a` prob `0.9661` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#7620` underlying `BTC` prob `0.9635` price_source `allMids` vol24h `0.0` oi `0.0`
 - Norway [No] symbol `#2021` underlying `n/a` prob `0.9503` price_source `allMids` vol24h `0.0` oi `0.0`
 - Decrease [No] symbol `#5111` underlying `n/a` prob `0.95` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#7630` underlying `ETH` prob `0.9449` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#7640` underlying `SOL` prob `0.9326` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#7620` underlying `BTC` prob `0.95` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#7640` underlying `SOL` prob `0.9046` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#7630` underlying `ETH` prob `0.896` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [No] symbol `#5121` underlying `n/a` prob `0.884` price_source `allMids` vol24h `0.0` oi `0.0`
 - No change [Yes] symbol `#5100` underlying `n/a` prob `0.8699` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [No] symbol `#1881` underlying `n/a` prob `0.858` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -60,7 +60,7 @@
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9919` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [Yes] symbol `#1780` underlying `n/a` prob `0.0001` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [No] symbol `#1781` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
-- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0338` price_source `allMids` vol24h `0.0` oi `0.0`
+- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0339` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9661` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [Yes] symbol `#1870` underlying `n/a` prob `0.0043` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9957` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -88,7 +88,7 @@
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9919` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [Yes] symbol `#1780` underlying `n/a` prob `0.0001` price_source `allMids` vol24h `0.0` oi `0.0`
 - Brazil [No] symbol `#1781` underlying `n/a` prob `0.9999` price_source `allMids` vol24h `0.0` oi `0.0`
-- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0338` price_source `allMids` vol24h `0.0` oi `0.0`
+- Colombia [Yes] symbol `#1810` underlying `n/a` prob `0.0339` price_source `allMids` vol24h `0.0` oi `0.0`
 - Colombia [No] symbol `#1811` underlying `n/a` prob `0.9661` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [Yes] symbol `#1870` underlying `n/a` prob `0.0043` price_source `allMids` vol24h `0.0` oi `0.0`
 - Egypt [No] symbol `#1871` underlying `n/a` prob `0.9957` price_source `allMids` vol24h `0.0` oi `0.0`
