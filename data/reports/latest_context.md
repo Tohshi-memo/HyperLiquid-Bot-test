@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-06T05:07:31.405423+00:00`
-- Market context score: `46.1`
-- News risk score: `35.26`
-- Macro risk score: `23.78`
-- Risk-on score: `18.97`
-- Articles: `21`
+- Generated: `2026-07-06T05:22:25.243274+00:00`
+- Market context score: `51.62`
+- News risk score: `32.08`
+- Macro risk score: `24.96`
+- Risk-on score: `29.0`
+- Articles: `26`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5308`
-- Day/swing latest: `2026-07-06T05:00:00+00:00`
+- Day/swing records: `5309`
+- Day/swing latest: `2026-07-06T05:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
 
 ## Headlines
 
+- [crypto] XRP rises 3% as $1.14 breakout turns into support test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Ether leads crypto's hold above key levels as bitcoin steadies over $63,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Why Iran may find it difficult to clear its oil inventories even after sanctions relief (Energy)
+- [macro] 'I ate ketchup and cheese', says Venezuelan girl trapped under quake rubble for 32 hours (BBC News)
+- [macro] Nine killed in Russian strikes on Kyiv on eve of Nato summit in Turkey (BBC News)
 - [crypto] Central bankers sound alarms over agentic AI finance risks (Cointelegraph.com News)
 - [crypto] Trump’s memecoin holders have lost over $3.8B: Report (Cointelegraph.com News)
 - [macro] Australia space agency has found 'likely source' of mystery space balls (BBC News)
 - [macro] Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m (BBC News)
 - [macro] Australian PM apologises for 'inappropriate' comments about Kylie Minogue (BBC News)
-- [macro] From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding (BBC News)
-- [macro] Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts (BBC News)
-- [macro] Wegovy weight loss pill now available in UK - here's what you need to know (BBC News)
-- [macro] Bangladesh courts China even as ties with India improve (BBC News)
-- [crypto] Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express (Cointelegraph.com News)
