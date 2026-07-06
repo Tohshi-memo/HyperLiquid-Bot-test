@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-06T18:10:29.990306+00:00`
+- Generated: `2026-07-06T18:15:29.469795+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `26410758.48`
-- Polymarket volume z-score: `-0.48`
+- Polymarket 24h volume: `26913070.23`
+- Polymarket volume z-score: `-0.42`
 
 ## Top Polymarket Markets
 
-- Portugal vs. Spain: Team to Advance | 24h volume: `4818896.996349999` | liquidity: `2588041.814`
-- United States vs. Belgium: Team to Advance | 24h volume: `3554539.486439008` | liquidity: `2147160.0548`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2818119.58` | liquidity: `28425.84165`
-- Exact Score: Portugal 3 - 3 Spain? | 24h volume: `1681223.8382190035` | liquidity: `657138.27028`
-- Exact Score: Portugal 3 - 2 Spain? | 24h volume: `1288632.0776889985` | liquidity: `835232.20057`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1059474.352421` | liquidity: `606154.3061`
-- Exact Score: Portugal 2 - 3 Spain? | 24h volume: `927100.0480689966` | liquidity: `843705.73943`
-- Exact Score: Portugal 1 - 2 Spain? | 24h volume: `919319.6393890124` | liquidity: `1668056.3792`
+- Portugal vs. Spain: Team to Advance | 24h volume: `5061753.794159003` | liquidity: `3337190.5733`
+- United States vs. Belgium: Team to Advance | 24h volume: `3561143.800460992` | liquidity: `1962958.7967`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2818119.58` | liquidity: `29901.36528`
+- Exact Score: Portugal 3 - 3 Spain? | 24h volume: `1683239.3937610034` | liquidity: `656744.84162`
+- Exact Score: Portugal 3 - 2 Spain? | 24h volume: `1306712.3680029984` | liquidity: `666009.00248`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1061073.5671249998` | liquidity: `597624.6584`
+- Exact Score: Portugal 2 - 3 Spain? | 24h volume: `945892.4653079967` | liquidity: `812806.86088`
+- Exact Score: Portugal 1 - 2 Spain? | 24h volume: `940795.3197990115` | liquidity: `1659683.7847`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
