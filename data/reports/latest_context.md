@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-06T16:07:29.677565+00:00`
-- Market context score: `53.13`
-- News risk score: `45.56`
-- Macro risk score: `23.38`
-- Risk-on score: `43.15`
-- Articles: `86`
+- Generated: `2026-07-06T16:22:30.122866+00:00`
+- Market context score: `51.08`
+- News risk score: `46.42`
+- Macro risk score: `25.03`
+- Risk-on score: `39.95`
+- Articles: `85`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5352`
-- Day/swing latest: `2026-07-06T16:00:00+00:00`
+- Day/swing records: `5353`
+- Day/swing latest: `2026-07-06T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `33`, risk hits `11`, risk headline rate `0.303`, policy hits `6`
-- macro: articles `48`, risk hits `6`, risk headline rate `0.125`, policy hits `1`
+- macro: articles `47`, risk hits `7`, risk headline rate `0.1489`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Britain should consider regulating AI models, FCA official says (Yahoo Finance)
+- [macro] Oil prices little changed as Saudi cuts prices, OPEC+ boosts target (Yahoo Finance)
+- [macro] Microsoft to cut 4,800 jobs, overhaul Xbox unit (Yahoo Finance)
+- [macro] Vanguard's VGSH or iShares' IGSB: Which Short-Term Bond ETF Belongs in Your Portfolio? (Yahoo Finance)
+- [macro] Prediction: Following Alphabet, This Could Be the Next Trillion-Dollar Artificial Intelligence (AI) Stock Greg Abel Adds to Berkshire's Portfolio (Yahoo Finance)
+- [macro] Hut 8 vs. Riot Platforms: Which Bitcoin Miner Turning Data Center Developer Is the Better Stock Now? (Yahoo Finance)
+- [macro] A DXP Enterprises Director Sold Nearly 7,000 Company Shares. Here's a Closer Look at the Transaction. (Yahoo Finance)
+- [macro] Tesla is doing in China what it couldn't do in the U.S. (Yahoo Finance)
+- [macro] Rate buydown vs. closing costs vs. price reduction (Yahoo Finance)
 - [crypto] Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 3 Quantum Computing Stocks to Buy in July (Yahoo Finance)
-- [macro] Dell Is Up 6% Today: Is It Outperforming Other AI Server Stocks Like Hewlett Packard Enterprise and Super Micro? (Yahoo Finance)
-- [crypto] One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tech stocks on track for record annual inflows as investors pile into the AI trade (Yahoo Finance)
-- [macro] S&P Global (SPGI): Strong Fundamentals Amid AI Uncertainties? (Yahoo Finance)
-- [macro] Michael Saylor's Strategy may have saved bitcoin from a bigger sell-off: 'A balancing force in the market' (Yahoo Finance)
-- [macro] Is this the Best Time to Buy CDW Corporation (CDW)? (Yahoo Finance)
-- [macro] Johnson & Johnson, IBD Stock Of The Day, In Buy Zone Heading Into Earnings (Yahoo Finance)
-- [macro] 3 Reliable Income Generators to Buy in July (Yahoo Finance)
