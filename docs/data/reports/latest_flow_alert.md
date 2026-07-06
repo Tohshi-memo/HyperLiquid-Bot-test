@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-06T02:40:25.117803+00:00`
+- Generated: `2026-07-06T02:45:30.030390+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `52150256.97`
-- Polymarket volume z-score: `3.39`
+- Polymarket 24h volume: `52580094.6`
+- Polymarket volume z-score: `3.45`
 
 ## Top Polymarket Markets
 
-- Mexico vs. England: Team to Advance | 24h volume: `28991534.71680397` | liquidity: `228269.5244`
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3344615.186435` | liquidity: `68088.45513`
-- Exact Score: Mexico 3 - 3 England? | 24h volume: `1504493.678136001` | liquidity: `58766.31774`
-- Exact Score: Mexico 2 - 1 England? | 24h volume: `1366749.8540510018` | liquidity: `139181.48275`
-- Exact Score: Mexico 1 - 2 England? | 24h volume: `1317498.0457820087` | liquidity: `519718.63248`
-- United States vs. Belgium: Team to Advance | 24h volume: `1272513.087947002` | liquidity: `609361.3612`
-- Exact Score: Mexico 3 - 2 England? | 24h volume: `1219201.8746639981` | liquidity: `215227.10271`
-- Exact Score: Mexico 2 - 3 England? | 24h volume: `1140840.5489820028` | liquidity: `73433.19857`
+- Mexico vs. England: Team to Advance | 24h volume: `29204225.281207968` | liquidity: `64444.7237`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `3344615.186435` | liquidity: `67926.25103`
+- Exact Score: Mexico 3 - 3 England? | 24h volume: `1552328.5969960005` | liquidity: `29586.54361`
+- Exact Score: Mexico 2 - 1 England? | 24h volume: `1365487.7290510018` | liquidity: `139177.81605`
+- Exact Score: Mexico 1 - 2 England? | 24h volume: `1316402.2378170085` | liquidity: `515517.19635`
+- United States vs. Belgium: Team to Advance | 24h volume: `1271853.9160920018` | liquidity: `610333.2908`
+- Exact Score: Mexico 3 - 2 England? | 24h volume: `1228843.0511359982` | liquidity: `189946.89009`
+- Exact Score: Mexico 2 - 3 England? | 24h volume: `1194755.830732003` | liquidity: `39043.26508`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
