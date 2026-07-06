@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-06T21:37:38.144419+00:00`
-- Market context score: `50.89`
-- News risk score: `39.46`
-- Macro risk score: `22.44`
-- Risk-on score: `32.66`
-- Articles: `54`
-- Polymarket markets: `390`
+- Generated: `2026-07-06T21:52:30.093350+00:00`
+- Market context score: `50.27`
+- News risk score: `39.6`
+- Macro risk score: `24.57`
+- Risk-on score: `32.2`
+- Articles: `50`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5374`
-- Day/swing latest: `2026-07-06T21:30:00+00:00`
+- Day/swing records: `5375`
+- Day/swing latest: `2026-07-06T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `7`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `8`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back? (Cointelegraph.com News)
 - [macro] Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region (BBC News)
 - [crypto] BonkDAO reports $20M theft from ‘malicious governance proposal’ (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Trump confirms he asked Fifa to review Balogun ban (BBC News)
 - [macro] Charlie Kirk's family attends hearing for suspect charged with his murder (BBC News)
 - [macro] Huge crowds fill Tehran streets for Khamenei's funeral procession (BBC News)
-- [macro] Market Update: IQV (Yahoo Finance)
