@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-06T03:07:28.828747+00:00`
-- Market context score: `44.02`
-- News risk score: `38.29`
+- Generated: `2026-07-06T03:22:24.609187+00:00`
+- Market context score: `46.57`
+- News risk score: `34.54`
 - Macro risk score: `22.59`
-- Risk-on score: `16.47`
-- Articles: `20`
-- Polymarket markets: `394`
+- Risk-on score: `18.97`
+- Articles: `21`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:88, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5300`
-- Day/swing latest: `2026-07-06T03:00:00+00:00`
+- Day/swing records: `5301`
+- Day/swing latest: `2026-07-06T03:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Trump’s memecoin holders have lost over $3.8B: Report (Cointelegraph.com News)
 - [macro] Australia space agency has found 'likely source' of mystery space balls (BBC News)
 - [macro] Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m (BBC News)
 - [macro] Australian PM apologises for 'inappropriate' comments about Kylie Minogue (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Bangladesh courts China even as ties with India improve (BBC News)
 - [crypto] Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express (Cointelegraph.com News)
 - [macro] Marine Le Pen appeal verdict: Why this moment matters for France (BBC News)
-- [macro] The African fishermen who blame Chinese trawlers for their woes (BBC News)
