@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-06T07:20:27.025804+00:00`
+- Generated: `2026-07-06T07:25:26.524764+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13082121.09`
-- Polymarket volume z-score: `-2.57`
+- Polymarket 24h volume: `12947571.59`
+- Polymarket volume z-score: `-2.58`
 
 ## Top Polymarket Markets
 
-- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `2618237.250435` | liquidity: `70653.22945`
-- Portugal vs. Spain: Team to Advance | 24h volume: `1820562.7494289996` | liquidity: `887741.3093`
-- United States vs. Belgium: Team to Advance | 24h volume: `1718867.8912070012` | liquidity: `1149082.995`
-- Will Claudia Sheinbaum be the next leader out before 2027? | 24h volume: `991143.9323330018` | liquidity: `33427.19314`
-- Will the White House call a full lid by 6:30PM on July 4? | 24h volume: `494305.0435949998` | liquidity: `1226950.65357`
-- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `440788.08331800014` | liquidity: `1230600.13034`
-- Exact Score: Portugal 3 - 3 Spain? | 24h volume: `369942.9352470009` | liquidity: `387415.60625`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `338906.56007499987` | liquidity: `367053.71785`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `2533968.700435` | liquidity: `66105.34981`
+- Portugal vs. Spain: Team to Advance | 24h volume: `1827599.9294489997` | liquidity: `892831.5396`
+- United States vs. Belgium: Team to Advance | 24h volume: `1726928.062729001` | liquidity: `1145079.7002`
+- Will Claudia Sheinbaum be the next leader out before 2027? | 24h volume: `887773.892333002` | liquidity: `31810.46976`
+- Will the White House call a full lid by 6:30PM on July 4? | 24h volume: `495305.0435949998` | liquidity: `1225954.57857`
+- Strait of Hormuz traffic returns to normal by end of June? | 24h volume: `440788.08331800014` | liquidity: `1230616.05877`
+- Exact Score: Portugal 3 - 3 Spain? | 24h volume: `385398.12673300086` | liquidity: `386977.11625`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `356427.53109499865` | liquidity: `550315.42695`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
