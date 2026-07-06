@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-06T21:25:23.878427+00:00`
+- Generated: `2026-07-06T21:30:34.715343+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `20651128.87`
-- Polymarket volume z-score: `-1.25`
+- Polymarket 24h volume: `21939280.5`
+- Polymarket volume z-score: `-1.08`
 
 ## Top Polymarket Markets
 
-- United States vs. Belgium: Team to Advance | 24h volume: `6724669.550998001` | liquidity: `5199270.3656`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2818016.01` | liquidity: `28954.83175`
-- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `1654721.909927` | liquidity: `715138.00179`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1111568.7865779998` | liquidity: `591448.415`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `537626.6658839999` | liquidity: `552297.69184`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `515511.80104999634` | liquidity: `436515.40434`
-- Exact Score: United States 2 - 1 Belgium? | 24h volume: `452210.24457200005` | liquidity: `1275599.8491`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `400485.4178329999` | liquidity: `375303.10306`
+- United States vs. Belgium: Team to Advance | 24h volume: `7414971.704012994` | liquidity: `5544617.609`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2818016.01` | liquidity: `29336.81426`
+- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `1654721.909927` | liquidity: `715147.63807`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1111500.6912819997` | liquidity: `616272.0645`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `564890.7825519999` | liquidity: `570355.04206`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `515433.71563799627` | liquidity: `436723.63879`
+- Exact Score: United States 2 - 1 Belgium? | 24h volume: `508192.79291100014` | liquidity: `1260111.8139`
+- Exact Score: United States 3 - 3 Belgium? | 24h volume: `439347.22456299985` | liquidity: `604413.02655`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
