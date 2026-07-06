@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-06T06:52:28.896392+00:00`
-- Market context score: `54.13`
-- News risk score: `33.2`
-- Macro risk score: `24.21`
-- Risk-on score: `35.25`
-- Articles: `26`
+- Generated: `2026-07-06T06:57:59.046767+00:00`
+- Market context score: `54.48`
+- News risk score: `32.85`
+- Macro risk score: `23.51`
+- Risk-on score: `35.47`
+- Articles: `27`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `0`
+- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [macro] ITV sells media and entertainment arm to Sky for £1.6bn (BBC News)
 - [commodity] Why Iran may find it difficult to clear its oil inventories even after sanctions relief (Energy)
 - [macro] What Sky buying ITV could mean for your favourite shows (BBC News)
 - [crypto] I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Stablecoin transaction volume hits record $1.79T in June (Cointelegraph.com News)
 - [crypto] Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect (Cointelegraph.com News)
-- [crypto] XRP rises 3% as $1.14 breakout turns into support test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
