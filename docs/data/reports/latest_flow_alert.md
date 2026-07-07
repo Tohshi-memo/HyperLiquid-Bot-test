@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-07T17:05:30.796520+00:00`
+- Generated: `2026-07-07T17:10:35.824653+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `46165958.2`
-- Polymarket volume z-score: `2.0`
+- Polymarket 24h volume: `47582292.29`
+- Polymarket volume z-score: `2.18`
 
 ## Top Polymarket Markets
 
-- Argentina vs. Egypt: Team to Advance | 24h volume: `11686343.906160966` | liquidity: `1352686.3334`
-- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `3962939.471999` | liquidity: `58067.25215`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `2846500.7` | liquidity: `34285.95926`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `2215398.662998` | liquidity: `428518.16698`
-- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `2137965.82863` | liquidity: `2057863.66073`
-- Exact Score: Argentina 3 - 1 Egypt? | 24h volume: `2021568.457313995` | liquidity: `132752.1482`
-- Exact Score: Argentina 3 - 3 Egypt? | 24h volume: `1545613.989947997` | liquidity: `147381.34587`
-- Exact Score: Argentina 3 - 2 Egypt? | 24h volume: `1475284.887608999` | liquidity: `107430.65753`
+- Argentina vs. Egypt: Team to Advance | 24h volume: `12352008.57483596` | liquidity: `449194.214`
+- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `3963039.471999` | liquidity: `51147.0544`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `2846500.7` | liquidity: `34335.79324`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `2215579.662998` | liquidity: `408439.29197`
+- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `2137965.82863` | liquidity: `2037723.06688`
+- Exact Score: Argentina 3 - 1 Egypt? | 24h volume: `2044909.5446869968` | liquidity: `71243.4765`
+- Exact Score: Argentina 3 - 3 Egypt? | 24h volume: `1554339.1536939968` | liquidity: `101179.00532`
+- Exact Score: Argentina 3 - 2 Egypt? | 24h volume: `1497596.7105049992` | liquidity: `85696.76996`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
