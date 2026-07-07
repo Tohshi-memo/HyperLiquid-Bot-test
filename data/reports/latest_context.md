@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T19:53:03.328180+00:00`
+- Generated: `2026-07-07T20:07:36.189318+00:00`
 - Market context score: `39.29`
 - News risk score: `48.25`
 - Macro risk score: `43.47`
 - Risk-on score: `22.26`
 - Articles: `51`
-- Polymarket markets: `395`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5462`
-- Day/swing latest: `2026-07-07T19:45:00+00:00`
+- Day/swing records: `5463`
+- Day/swing latest: `2026-07-07T20:00:00+00:00`
 
 ## News Categories
 
@@ -30,11 +30,11 @@
 ## Headlines
 
 - [commodity] U.S. revokes Iran oil sales authorization after tanker attacks (Energy)
+- [macro] Marine Le Pen to run for French presidency and appeal conviction in top court (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kraken wins $22M arbitration against former auditor Mazars (Cointelegraph.com News)
 - [commodity] Oil prices rise after attacks on tankers in Strait of Hormuz, U.S. revokes Iran sale authorization (Energy)
-- [macro] Marine Le Pen to run for French presidency and appeal conviction in top court (BBC News)
 - [policy] Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs (FRB: Press Release - All Releases)
 - [macro] Trump looms large as Nato grapples with challenge of rearming Europe (BBC News)
 - [crypto] Crypto exchange Kraken is trying to become a bank in Europe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
