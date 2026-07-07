@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T06:37:25.611470+00:00`
-- Market context score: `54.92`
-- News risk score: `38.15`
-- Macro risk score: `24.83`
-- Risk-on score: `41.42`
-- Articles: `40`
+- Generated: `2026-07-07T06:52:32.997827+00:00`
+- Market context score: `56.34`
+- News risk score: `37.59`
+- Macro risk score: `24.7`
+- Risk-on score: `44.06`
+- Articles: `41`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5410`
-- Day/swing latest: `2026-07-07T06:30:00+00:00`
+- Day/swing records: `5411`
+- Day/swing latest: `2026-07-07T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `9`
+- crypto: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `9`
 - macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Live markets: Bitcoin and ether ETFs drew inflows on Monday (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Marine Le Pen appeal verdict: Why Tuesday's ruling matters for France (BBC News)
 - [commodity] Google backs nuclear fusion startup targeting Europe’s first commercial power plant (Energy)
 - [macro] India's landmark Ram temple overhauls board after alleged theft of donations (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI (Cointelegraph.com News)
 - [crypto] Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says (Cointelegraph.com News)
 - [crypto] BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] E-bike injury payouts top £110m and push up insurance premiums (BBC News)
