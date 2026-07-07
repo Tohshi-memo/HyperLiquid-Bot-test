@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T00:37:25.315627+00:00`
-- Market context score: `49.53`
-- News risk score: `38.77`
-- Macro risk score: `26.8`
-- Risk-on score: `30.71`
-- Articles: `49`
+- Generated: `2026-07-07T00:52:25.743607+00:00`
+- Market context score: `49.66`
+- News risk score: `38.79`
+- Macro risk score: `26.34`
+- Risk-on score: `30.84`
+- Articles: `50`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5386`
-- Day/swing latest: `2026-07-07T00:30:00+00:00`
+- Day/swing records: `5387`
+- Day/swing latest: `2026-07-07T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `8`
-- macro: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `0`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Why some African nations are turning down Trump aid money (BBC News)
 - [macro] AI chip boom lifts Samsung profits by 1,800% (BBC News)
 - [crypto] Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026 (Cointelegraph.com News)
 - [macro] Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'I wear it on my middle finger': The rise of the defiant divorce ring (BBC News)
 - [macro] Banks accused of failing most vulnerable customers (BBC News)
 - [macro] Banks accused of failing most vulnerable customers (BBC News)
-- [macro] Phone contract comparisons 'amounted to mis-selling' student loans, MPs say (BBC News)
