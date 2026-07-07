@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T05:37:33.472313+00:00`
-- Market context score: `58.5`
-- News risk score: `32.47`
-- Macro risk score: `26.16`
-- Risk-on score: `45.08`
-- Articles: `32`
+- Generated: `2026-07-07T05:52:28.281581+00:00`
+- Market context score: `59.73`
+- News risk score: `33.98`
+- Macro risk score: `23.62`
+- Risk-on score: `48.13`
+- Articles: `33`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5406`
-- Day/swing latest: `2026-07-07T05:30:00+00:00`
+- Day/swing records: `5407`
+- Day/swing latest: `2026-07-07T05:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `7`
-- macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `8`
+- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `0`
 
 ## Headlines
 
+- [crypto] BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] E-bike injury payouts top £110m and push up insurance premiums (BBC News)
 - [macro] Fatal Typhoon Maysak floods burst dam wall in China (BBC News)
 - [crypto] XRP stalls near $1.14 as breakout attempt struggles for volume (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,5 +37,3 @@
 - [crypto] L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO (Cointelegraph.com News)
 - [macro] Samsung profits jump 1,800% as AI chip sales soar (BBC News)
 - [macro] Charlie Kirk's family attends hearing for suspect charged with his murder (BBC News)
-- [crypto] US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg (Cointelegraph.com News)
-- [crypto] Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K (Cointelegraph.com News)
