@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T01:37:25.222871+00:00`
-- Market context score: `53.83`
-- News risk score: `36.51`
-- Macro risk score: `24.08`
-- Risk-on score: `37.33`
-- Articles: `46`
+- Generated: `2026-07-07T01:52:25.119721+00:00`
+- Market context score: `58.44`
+- News risk score: `31.58`
+- Macro risk score: `23.89`
+- Risk-on score: `43.33`
+- Articles: `45`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5390`
-- Day/swing latest: `2026-07-07T01:30:00+00:00`
+- Day/swing records: `5391`
+- Day/swing latest: `2026-07-07T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `6`
-- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
+- crypto: articles `15`, risk hits `3`, risk headline rate `0.1333`, policy hits `6`
+- macro: articles `28`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
 - [macro] AI chip boom lifts Samsung profits by 1,800% (BBC News)
+- [macro] Fatal Typhoon Maysak floods burst dam wall in China (BBC News)
 - [macro] Why some African nations are turning down Trump aid money (BBC News)
 - [macro] Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei (BBC News)
 - [crypto] Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026 (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Amazon bars breastfeeding boss from business course (BBC News)
 - [macro] 'I wear it on my middle finger': The rise of the defiant divorce ring (BBC News)
 - [macro] 'I wear it on my middle finger': The rise of the defiant divorce ring (BBC News)
-- [macro] Banks accused of failing most vulnerable customers (BBC News)
