@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T20:07:36.189318+00:00`
-- Market context score: `39.29`
-- News risk score: `48.25`
-- Macro risk score: `43.47`
-- Risk-on score: `22.26`
+- Generated: `2026-07-07T20:22:37.140833+00:00`
+- Market context score: `40.78`
+- News risk score: `46.42`
+- Macro risk score: `42.04`
+- Risk-on score: `23.48`
 - Articles: `51`
 - Polymarket markets: `394`
 
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5463`
-- Day/swing latest: `2026-07-07T20:00:00+00:00`
+- Day/swing records: `5464`
+- Day/swing latest: `2026-07-07T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `2`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
+- crypto: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `2`
+- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
 - [commodity] U.S. revokes Iran oil sales authorization after tanker attacks (Energy)
+- [macro] New footage shown at Kirk hearing shows man on rooftop near shooting scene (BBC News)
 - [macro] Marine Le Pen to run for French presidency and appeal conviction in top court (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [policy] Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs (FRB: Press Release - All Releases)
 - [macro] Trump looms large as Nato grapples with challenge of rearming Europe (BBC News)
 - [crypto] Crypto exchange Kraken is trying to become a bank in Europe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda (BBC News)
