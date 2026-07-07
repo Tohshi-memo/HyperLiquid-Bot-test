@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T21:37:26.271875+00:00`
-- Market context score: `46.11`
-- News risk score: `44.53`
-- Macro risk score: `37.96`
-- Risk-on score: `32.19`
+- Generated: `2026-07-07T21:52:30.853139+00:00`
+- Market context score: `44.77`
+- News risk score: `46.21`
+- Macro risk score: `39.13`
+- Risk-on score: `31.07`
 - Articles: `53`
 - Polymarket markets: `394`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5469`
-- Day/swing latest: `2026-07-07T21:30:00+00:00`
+- Day/swing records: `5470`
+- Day/swing latest: `2026-07-07T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `31`, risk hits `8`, risk headline rate `0.2258`, policy hits `2`
-- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `32`, risk hits `9`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [crypto] SEC crypto rule changes are high on its 2026 agenda (Cointelegraph.com News)
 - [commodity] U.S. revokes Iran oil sales authorization after tanker attacks (Energy)
 - [crypto] Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost (Cointelegraph.com News)
 - [crypto] Vanguard seeks digital assets chief after years of crypto skepticism (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] New video shows man believed to be Tyler Robinson before Charlie Kirk shooting (BBC News)
 - [macro] New footage shown at Kirk hearing shows man on rooftop near shooting scene (BBC News)
 - [macro] Marine Le Pen to run for French presidency and appeal conviction in top court (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
