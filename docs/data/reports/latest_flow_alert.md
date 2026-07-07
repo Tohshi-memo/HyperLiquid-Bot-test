@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-07T01:00:24.087422+00:00`
-- Flow alert score: `21.36`
+- Generated: `2026-07-07T01:05:25.085521+00:00`
+- Flow alert score: `21.6`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `38496556.84`
-- Polymarket volume z-score: `1.09`
+- Polymarket 24h volume: `38995713.8`
+- Polymarket volume z-score: `1.15`
 
 ## Top Polymarket Markets
 
-- United States vs. Belgium: Team to Advance | 24h volume: `14999807.444566965` | liquidity: `985968.8951`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2818016.01` | liquidity: `30035.30172`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `2241547.121` | liquidity: `318842.13438`
-- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `1690056.8679269997` | liquidity: `668820.31607`
-- Exact Score: United States 2 - 1 Belgium? | 24h volume: `1470692.7244120077` | liquidity: `320402.19304`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1121581.7934319999` | liquidity: `703807.0689`
-- Exact Score: United States 3 - 3 Belgium? | 24h volume: `1081105.981246001` | liquidity: `95527.31296`
-- Exact Score: United States 3 - 2 Belgium? | 24h volume: `1076485.1506520002` | liquidity: `100852.76235`
+- United States vs. Belgium: Team to Advance | 24h volume: `15187596.05147402` | liquidity: `1351134.1285`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2818016.01` | liquidity: `31523.77883`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `2241547.121` | liquidity: `318831.53225`
+- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `1690468.3079269996` | liquidity: `666885.17852`
+- Exact Score: United States 2 - 1 Belgium? | 24h volume: `1470562.5710810078` | liquidity: `514331.22198`
+- Exact Score: United States 3 - 2 Belgium? | 24h volume: `1192565.9687870005` | liquidity: `191325.96204`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1118476.7134319998` | liquidity: `687127.7765`
+- Exact Score: United States 3 - 3 Belgium? | 24h volume: `1099960.914874001` | liquidity: `109378.05056`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
