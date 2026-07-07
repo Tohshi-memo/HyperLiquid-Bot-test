@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T21:52:30.853139+00:00`
+- Generated: `2026-07-07T21:59:13.546835+00:00`
 - Market context score: `44.77`
 - News risk score: `46.21`
 - Macro risk score: `39.13`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] US launches strikes on Iran after tankers hit in Strait of Hormuz (BBC News)
 - [crypto] SEC crypto rule changes are high on its 2026 agenda (Cointelegraph.com News)
 - [commodity] U.S. revokes Iran oil sales authorization after tanker attacks (Energy)
 - [crypto] Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Watch: Marine Le Pen confirms run for French presidency (BBC News)
 - [macro] New video shows man believed to be Tyler Robinson before Charlie Kirk shooting (BBC News)
 - [macro] New footage shown at Kirk hearing shows man on rooftop near shooting scene (BBC News)
-- [macro] Marine Le Pen to run for French presidency and appeal conviction in top court (BBC News)
