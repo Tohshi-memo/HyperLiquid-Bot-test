@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-07T23:10:29.101244+00:00`
-- Flow alert score: `25.0`
+- Generated: `2026-07-07T23:15:29.499940+00:00`
+- Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `48474728.0`
-- Polymarket volume z-score: `2.15`
+- Polymarket 24h volume: `21454135.07`
+- Polymarket volume z-score: `-1.05`
 
 ## Top Polymarket Markets
 
-- Switzerland vs. Colombia: Team to Advance | 24h volume: `17779176.448070277` | liquidity: `2520620.99742`
-- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `3963333.191999` | liquidity: `50616.79627`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `2846500.7` | liquidity: `30823.49718`
-- Exact Score: Switzerland 3 - 3 Colombia? | 24h volume: `1795829.5280649983` | liquidity: `183864.20728`
-- Exact Score: Switzerland 2 - 3 Colombia? | 24h volume: `1721436.8159340066` | liquidity: `144375.19853`
-- Exact Score: Switzerland 1 - 2 Colombia? | 24h volume: `1359392.7325750054` | liquidity: `205946.85983`
-- Exact Score: Switzerland 3 - 2 Colombia? | 24h volume: `1158617.1862739993` | liquidity: `127678.49978`
-- Exact Score: Switzerland 1 - 1 Colombia? | 24h volume: `1138006.170290999` | liquidity: `224550.09944`
+- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `3963333.191999` | liquidity: `54413.91756`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `2846500.7` | liquidity: `33448.46742`
+- Will Pete Buttigieg win the 2028 US Presidential Election? | 24h volume: `990023.9208150016` | liquidity: `523895.54691`
+- Will Volodymyr Zelenskyy be the next leader out before 2027? | 24h volume: `929076.531` | liquidity: `65423.88349`
+- Norway vs. England: Team to Advance | 24h volume: `864494.5803240133` | liquidity: `770469.0132`
+- Will Tucker Carlson win the 2028 US Presidential Election? | 24h volume: `761414.9472639885` | liquidity: `293339.34767`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `727205.4098550003` | liquidity: `804782.5769`
+- Exact Score: Switzerland 0 - 0 Colombia? | 24h volume: `717419.6258409993` | liquidity: `479115.61249`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
