@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-07T20:22:37.140833+00:00`
-- Market context score: `40.78`
-- News risk score: `46.42`
-- Macro risk score: `42.04`
-- Risk-on score: `23.48`
+- Generated: `2026-07-07T20:29:54.014438+00:00`
+- Market context score: `42.88`
+- News risk score: `44.99`
+- Macro risk score: `39.18`
+- Risk-on score: `25.86`
 - Articles: `51`
 - Polymarket markets: `394`
 
@@ -24,12 +24,13 @@
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `2`
-- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
 - [commodity] U.S. revokes Iran oil sales authorization after tanker attacks (Energy)
+- [macro] Watch: Marine Le Pen confirms run for French presidency (BBC News)
 - [macro] New footage shown at Kirk hearing shows man on rooftop near shooting scene (BBC News)
 - [macro] Marine Le Pen to run for French presidency and appeal conviction in top court (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [commodity] Oil prices rise after attacks on tankers in Strait of Hormuz, U.S. revokes Iran sale authorization (Energy)
 - [policy] Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs (FRB: Press Release - All Releases)
 - [macro] Trump looms large as Nato grapples with challenge of rearming Europe (BBC News)
-- [crypto] Crypto exchange Kraken is trying to become a bank in Europe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
