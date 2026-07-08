@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T13:18:41.595459+00:00`
-- Market context score: `51.86`
-- News risk score: `47.05`
-- Macro risk score: `18.07`
-- Risk-on score: `39.59`
+- Generated: `2026-07-08T13:22:29.362275+00:00`
+- Market context score: `51.91`
+- News risk score: `46.43`
+- Macro risk score: `16.82`
+- Risk-on score: `38.7`
 - Articles: `70`
 - Polymarket markets: `392`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `22`, risk hits `15`, risk headline rate `0.4091`, policy hits `1`
-- macro: articles `47`, risk hits `3`, risk headline rate `0.0638`, policy hits `3`
+- macro: articles `47`, risk hits `2`, risk headline rate `0.0426`, policy hits `3`
 
 ## Headlines
 
 - [macro] Severn Trent avoids fine for wastewater failures (BBC News)
+- [macro] UBS Lifts Price Target on Halliburton (HAL), Reaffirms Neutral Rating (Yahoo Finance)
+- [macro] Mars-owned Nature’s Bakery to shut production site (Yahoo Finance)
+- [macro] Citi Lowers SLB Price Target Due to Ongoing Weakness in the Middle East (Yahoo Finance)
+- [macro] ConocoPhillips (COP) – Among the 10 Most Promising Energy Stocks to Buy Now (Yahoo Finance)
+- [macro] AI disruption is the hot topic of earnings calls (Yahoo Finance)
 - [macro] Nigeria's president demands to know how fake agency was allegedly set up in his office (BBC News)
+- [macro] Prediction: Sandisk Will Split Its Stock Before 2026 Is Over (Yahoo Finance)
 - [macro] Bitcoin and ethereum prices today, Wednesday, July 8, 2026: Crypto prices down following U.S.-Iran strikes (Yahoo Finance)
 - [macro] Blue Origin raising $10 billion in first outside funding round (Yahoo Finance)
-- [macro] 3 Absurdly Cheap Stocks to Buy With $1,000 in July (Yahoo Finance)
-- [crypto] BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway (Cointelegraph.com News)
-- [macro] SpaceX Mania Just Made This the Busiest Month for the Nasdaq’s Biggest ETF in 6 Years (Yahoo Finance)
-- [macro] Where Oversold Meets Undervalued: 3 Dividend and Growth Plays for Income Investors (Yahoo Finance)
-- [macro] Why General Mills’ (GIS) Long Dividend Record Still Leaves Investors With Current-Year Taxable Income (Yahoo Finance)
-- [macro] Why Verizon’s (VZ) Income Appeal Shows the Limits of Qualified Dividend Tax Efficiency (Yahoo Finance)
