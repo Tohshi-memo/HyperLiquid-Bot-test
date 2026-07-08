@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T14:22:31.320996+00:00`
-- Market context score: `51.03`
-- News risk score: `44.38`
-- Macro risk score: `19.57`
-- Risk-on score: `36.05`
-- Articles: `76`
+- Generated: `2026-07-08T14:37:32.690765+00:00`
+- Market context score: `48.28`
+- News risk score: `44.7`
+- Macro risk score: `21.1`
+- Risk-on score: `30.79`
+- Articles: `79`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5533`
-- Day/swing latest: `2026-07-08T14:15:00+00:00`
+- Day/swing records: `5534`
+- Day/swing latest: `2026-07-08T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `15`, risk headline rate `0.3214`, policy hits `2`
-- macro: articles `47`, risk hits `4`, risk headline rate `0.0851`, policy hits `3`
+- crypto: articles `29`, risk hits `15`, risk headline rate `0.3103`, policy hits `2`
+- macro: articles `49`, risk hits `5`, risk headline rate `0.102`, policy hits `7`
 
 ## Headlines
 
-- [crypto] Adam Back's BSTR scraps original SPAC terms, seeks new deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices jump more than 4% after Trump threatens to bomb Iran again (Energy)
-- [macro] Statkraft backs 280MW Gran Sul wind project in Brazil (Yahoo Finance)
-- [macro] ABF renames UK bread arm after clinching Hovis deal (Yahoo Finance)
-- [crypto] BNB Chain is building a new layer-1 for high-frequency trading and AI agents (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] InsuranceDekho parent selects banks for possible IPO (Yahoo Finance)
-- [macro] Goldman Sachs Sees a $2 Trillion Opportunity in Private Markets (Yahoo Finance)
-- [macro] Intel stock is currently trading at a level not seen even during the dot-com bubble (Yahoo Finance)
-- [macro] Stock Market Today: Dow Dives As Trump Says Iran Ceasefire Is 'Over'; Micron, Sandisk Reverse (Live Coverage) (Yahoo Finance)
-- [crypto] Bull Bitcoin asks French court to strike down DAC8 implementing decree (Cointelegraph.com News)
+- [commodity] Oil prices jump more than 7% after Trump threatens to bomb Iran again (Energy)
+- [crypto] Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] German doctor jailed for murder of 15 patients and suspected of more (BBC News)
+- [crypto] Adam Back's BSTR scraps SPAC merger, seeks new deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] India To Prevent Banks From Owning Crypto (Yahoo Finance)
+- [macro] Teck and partners agree to boost output at Trail Operations (Yahoo Finance)
+- [macro] M&S to outline shareholder returns plans this year – report (Yahoo Finance)
+- [macro] Helen of Troy reports surprise profit, raises revenue outlook (Yahoo Finance)
+- [macro] 3 Forgotten Space Economy Stocks That Could Deliver Colossal Gains Over the Next 10 Years (Yahoo Finance)
+- [macro] Eight killed after landslide hits girls' school in Bangladesh (BBC News)
