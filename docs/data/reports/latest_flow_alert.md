@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-08T13:10:26.146388+00:00`
+- Generated: `2026-07-08T13:11:52.004961+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `28431984.33`
+- Polymarket 24h volume: `28438123.34`
 - Polymarket volume z-score: `-0.18`
 
 ## Top Polymarket Markets
 
-- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `4665664.983332` | liquidity: `60224.73602`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3060034.424` | liquidity: `34218.01396`
-- Will Pete Buttigieg win the 2028 US Presidential Election? | 24h volume: `1726448.602227933` | liquidity: `509031.41556`
-- France vs. Morocco: Team to Advance | 24h volume: `1525887.1851529987` | liquidity: `3104453.251`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1384118.7346259996` | liquidity: `447980.7525`
-- Will Tucker Carlson win the 2028 US Presidential Election? | 24h volume: `1371595.6905429852` | liquidity: `311871.40024`
-- Norway vs. England: Team to Advance | 24h volume: `928018.7374830104` | liquidity: `905300.8973`
-- Exact Score: France 3 - 3 Morocco? | 24h volume: `828276.8990250019` | liquidity: `443823.01729`
+- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `4665664.983332` | liquidity: `60173.18934`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3060034.424` | liquidity: `34305.07399`
+- Will Pete Buttigieg win the 2028 US Presidential Election? | 24h volume: `1726448.602227933` | liquidity: `508414.00914`
+- France vs. Morocco: Team to Advance | 24h volume: `1527359.9712439985` | liquidity: `3104352.8204`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1383417.5581569995` | liquidity: `479295.3664`
+- Will Tucker Carlson win the 2028 US Presidential Election? | 24h volume: `1377788.3207429848` | liquidity: `306310.01138`
+- Norway vs. England: Team to Advance | 24h volume: `928731.1457540103` | liquidity: `800046.5419`
+- Exact Score: France 3 - 3 Morocco? | 24h volume: `828367.808114002` | liquidity: `463734.01683`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
