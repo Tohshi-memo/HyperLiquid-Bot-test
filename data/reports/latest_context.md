@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T18:51:18.665693+00:00`
-- Market context score: `44.84`
+- Generated: `2026-07-08T19:07:30.770568+00:00`
+- Market context score: `46.07`
 - News risk score: `43.13`
 - Macro risk score: `26.78`
-- Risk-on score: `23.96`
+- Risk-on score: `26.69`
 - Articles: `54`
 - Polymarket markets: `393`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5551`
-- Day/swing latest: `2026-07-08T18:45:00+00:00`
+- Day/swing records: `5552`
+- Day/swing latest: `2026-07-08T19:00:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [crypto] Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over? (Cointelegraph.com News)
 - [commodity] Oil prices jump more than 4% after Trump threatens to bomb Iran and reimpose naval blockade (Energy)
+- [crypto] Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over? (Cointelegraph.com News)
 - [macro] Trump threatens more strikes on Iran as Tehran warns of 'fearless' response (BBC News)
 - [policy] Minutes of the Federal Open Market Committee, June 16-17, 2026 (FRB: Press Release - All Releases)
 - [macro] Market Update: CMCSA, GAP (Yahoo Finance)
