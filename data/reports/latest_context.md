@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T20:17:55.100746+00:00`
-- Market context score: `43.33`
-- News risk score: `45.25`
-- Macro risk score: `28.67`
-- Risk-on score: `23.11`
-- Articles: `54`
+- Generated: `2026-07-08T20:22:27.964310+00:00`
+- Market context score: `44.92`
+- News risk score: `45.18`
+- Macro risk score: `27.56`
+- Risk-on score: `26.15`
+- Articles: `56`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -24,11 +24,12 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `14`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `5`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `5`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Arizona toddler found alive in hospital morgue after declared dead from drowning (BBC News)
 - [macro] Online marketplaces still selling dozens of unsafe baby products, Which? finds (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Officials set to revise MiCA to cover non-EU stablecoin issuers: Report (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [policy] Minutes of the Federal Open Market Committee, June 16-17, 2026 (FRB: Press Release - All Releases)
 - [macro] Market Update: CMCSA, GAP (Yahoo Finance)
 - [macro] Nigeria's president demands to know how fake agency was allegedly set up in his office (BBC News)
-- [crypto] Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger (Cointelegraph.com News)
