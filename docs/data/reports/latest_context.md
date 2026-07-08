@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T17:07:27.432624+00:00`
-- Market context score: `49.27`
+- Generated: `2026-07-08T17:13:53.343053+00:00`
+- Market context score: `47.91`
 - News risk score: `45.71`
 - Macro risk score: `23.18`
-- Risk-on score: `34.63`
+- Risk-on score: `31.61`
 - Articles: `79`
 - Polymarket markets: `392`
 
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [macro] Trump says ceasefire is 'over' after US and Iran trade strikes (BBC News)
-- [macro] Why Alibaba Stock Is Rallying Today (Yahoo Finance)
-- [macro] Stock Market Today, July 8: Stocks Slide and Dow Drops 1.5% as Middle East Tensions Spike (Yahoo Finance)
-- [macro] Claiming Social Security at 62 Can Reduce Your Benefit by Up to 30%. When It Still Makes Sense (Yahoo Finance)
-- [macro] How Stellantis Aims to Turn Its Overseas Business Around to Drive Its Stock Higher (Yahoo Finance)
-- [macro] Morgan Stanley sends strong signal on SpaceX stock price target (Yahoo Finance)
+- [macro] BofA extends first $520 million loan to OpenAI ahead of IPO, source says (Yahoo Finance)
+- [macro] Nearly 40 million investors could face a crypto ban (Yahoo Finance)
+- [macro] Nvidia backed by Bank of America as analysts see AI leadership supporting further growth (Yahoo Finance)
+- [macro] Tim Cook’s Final Move as Apple CEO: The Biggest American Manufacturing Deal in Company History (Yahoo Finance)
+- [macro] Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics (Yahoo Finance)
+- [macro] Could Buying NuScale Power Today Set You Up for Life? (Yahoo Finance)
+- [macro] New airline cargo contract raises liability risk, logistics providers say (Yahoo Finance)
 - [macro] Online marketplaces still selling dozens of unsafe baby products, Which? finds (BBC News)
 - [macro] This Glaucoma Therapy Company Is Keeping An Eye On Profits (Yahoo Finance)
-- [commodity] Oil prices jump 7% after Trump threatens to bomb Iran and reimpose naval blockade (Energy)
-- [macro] Arizona toddler found alive in hospital morgue after declared dead from drowning (BBC News)
