@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T15:07:30.005513+00:00`
-- Market context score: `45.03`
-- News risk score: `49.03`
-- Macro risk score: `28.88`
-- Risk-on score: `30.16`
-- Articles: `78`
+- Generated: `2026-07-08T15:22:26.528188+00:00`
+- Market context score: `50.52`
+- News risk score: `45.46`
+- Macro risk score: `23.74`
+- Risk-on score: `37.4`
+- Articles: `80`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5536`
-- Day/swing latest: `2026-07-08T15:00:00+00:00`
+- Day/swing records: `5537`
+- Day/swing latest: `2026-07-08T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `16`, risk headline rate `0.3214`, policy hits `2`
-- macro: articles `49`, risk hits `12`, risk headline rate `0.2449`, policy hits `3`
+- crypto: articles `30`, risk hits `16`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `49`, risk hits `8`, risk headline rate `0.1633`, policy hits `1`
 
 ## Headlines
 
 - [commodity] Oil prices jump 7% after Trump threatens to bomb Iran and reimpose naval blockade (Energy)
-- [macro] Interview: Citi’s Andrew James on private markets, portfolio resilience and long-term wealth creation (Yahoo Finance)
-- [macro] UTM seals gas sales pact with Seplat and NNPC for Yoho FLNG project (Yahoo Finance)
-- [macro] Stocks, bonds retreat after Trump says Iran MOU 'is over' (Yahoo Finance)
-- [macro] Cloudflare (NET) Launches New Partner Program to Speed AI Security Adoption (Yahoo Finance)
-- [macro] Google vs. Microsoft: The AI Economics War Has a Clear Winner (and a Clear Buy) (Yahoo Finance)
-- [macro] Grant Thornton Picks CrowdStrike (CRWD) to Power Its Global Cybersecurity Platform (Yahoo Finance)
-- [macro] Samsara (IOT) Continues to Win Wall Street’s Confidence (Yahoo Finance)
-- [macro] Bandwidth (BAND) Unveils $275 Million Financing Plan—Here’s Why It Matters (Yahoo Finance)
-- [macro] Why Zeta Global’s (ZETA) New AI Alliance Has Wall Street Paying Attention (Yahoo Finance)
+- [crypto] Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets: BBG (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Teenager arrested after two girls, 13, seriously injured in German school attack (BBC News)
+- [macro] Here’s Why Nvidia Might Be the New Value Play in Semiconductors (Yahoo Finance)
+- [macro] Record Money Is Pouring Into Emerging Markets. This One Difference Could Decide Your Returns (Yahoo Finance)
+- [macro] Three Most Valuable Companies at $13 Trillion: Buy, Sell, or Hold (Yahoo Finance)
+- [macro] Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more (Yahoo Finance)
+- [macro] Refinery Stocks Lead S&P 500 After Trump Ceasefire Comment (Yahoo Finance)
+- [macro] Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq (BBC News)
