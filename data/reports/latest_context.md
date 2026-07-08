@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T00:37:26.271271+00:00`
+- Generated: `2026-07-08T00:52:24.829219+00:00`
 - Market context score: `46.41`
 - News risk score: `41.83`
 - Macro risk score: `34.22`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5481`
-- Day/swing latest: `2026-07-08T00:30:00+00:00`
+- Day/swing records: `5482`
+- Day/swing latest: `2026-07-08T00:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [commodity] Oil jumps as U.S. strikes on Iran after Tehran targeted commercial ships risk fragile Mideast truce (Energy)
+- [commodity] Oil jumps as U.S. 'powerful strikes' against Iran risk unraveling fragile Mideast truce (Energy)
 - [macro] US launches strikes on Iran after tankers hit in Strait of Hormuz (BBC News)
 - [macro] Victims of 23andMe data breach to get $47m payout, judge rules (BBC News)
 - [macro] Package holidays to Dubai and Egypt cheaper as European prices creep up (BBC News)
