@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T09:52:25.672055+00:00`
+- Generated: `2026-07-08T10:07:31.272814+00:00`
 - Market context score: `43.74`
 - News risk score: `42.92`
 - Macro risk score: `24.19`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5515`
-- Day/swing latest: `2026-07-08T09:45:00+00:00`
+- Day/swing records: `5516`
+- Day/swing latest: `2026-07-08T10:00:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
-- [commodity] Oil surges 6% after Trump says ceasefire with Iran is over (Energy)
+- [commodity] Oil surges almost 6% after Trump says ceasefire with Iran is over (Energy)
 - [crypto] Reserve Bank of India still favors crypto prohibition to curtail tax evasion: Reuters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The places where it's cheaper to holiday this summer (BBC News)
 - [macro] From mouthwash to hair dye: How weight-loss jabs are changing shopping habits (BBC News)
 - [crypto] Base to activate B20 standard for stablecoins, RWAs and other tokens (Cointelegraph.com News)
-- [crypto] XRP Ledger’s new upgrade is here. But not everyone’s on board yet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Validators embrace XRP Ledger's recent upgrade. But not everyone’s on board yet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Virgin Media fined after hanging up on customers trying to cancel contracts (BBC News)
 - [macro] Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News)
 - [macro] Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News)
