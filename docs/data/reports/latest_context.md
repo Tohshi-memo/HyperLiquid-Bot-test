@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T07:52:32.018297+00:00`
+- Generated: `2026-07-08T08:07:29.594178+00:00`
 - Market context score: `37.73`
 - News risk score: `50.35`
 - Macro risk score: `27.61`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5507`
-- Day/swing latest: `2026-07-08T07:45:00+00:00`
+- Day/swing records: `5508`
+- Day/swing latest: `2026-07-08T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News)
+- [macro] Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News)
 - [macro] Virgin Media fined £28m for preventing customers from cancelling contracts (BBC News)
 - [macro] Watch: Gaza football fans watch World Cup from rubble (BBC News)
 - [commodity] Oil jumps as U.S. 'powerful strikes' against Iran risk stoke Mideast tensions (Energy)
 - [macro] US and Iran trade strikes after tankers hit in Strait of Hormuz (BBC News)
 - [crypto] EU to again vote to extend ‘chat control’ rules (Cointelegraph.com News)
-- [macro] Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News)
-- [macro] Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News)
 - [macro] Australia dock workers call for 28-hour week in AI talks (BBC News)
 - [macro] Australia dock workers call for 28-hour week in AI talks (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
