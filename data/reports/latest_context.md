@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T06:07:25.095376+00:00`
+- Generated: `2026-07-08T06:22:26.411940+00:00`
 - Market context score: `32.77`
 - News risk score: `55.35`
 - Macro risk score: `32.45`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5503`
-- Day/swing latest: `2026-07-08T06:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
-- [macro] Australia dock workers call for 28-hour week in AI talks (BBC News)
-- [macro] Australia dock workers call for 28-hour week in AI talks (BBC News)
 - [macro] Virgin Media fined £28m for preventing customers from cancelling contracts (BBC News)
+- [macro] Australia dock workers call for 28-hour week in AI talks (BBC News)
+- [macro] Australia dock workers call for 28-hour week in AI talks (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Nato allies announce £37bn for new missile project (BBC News)
 - [crypto] StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap (Cointelegraph.com News)
 - [crypto] Swyftx eyes crypto payments after securing Australian license (Cointelegraph.com News)
 - [crypto] Live markets: Japan's collapsing yen is pushing companies into bitcoin and XRP (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian fuel shortages bite – but will Putin change tack in Ukraine war? (BBC News)
 - [macro] Airbnb data identifies illegal social home sublets (BBC News)
-- [macro] US and Iran trade strikes after tankers hit in Strait of Hormuz (BBC News)
