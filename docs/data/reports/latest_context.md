@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-08T00:22:25.638260+00:00`
-- Market context score: `47.84`
-- News risk score: `41.6`
-- Macro risk score: `34.17`
-- Risk-on score: `32.13`
-- Articles: `46`
+- Generated: `2026-07-08T00:37:26.271271+00:00`
+- Market context score: `46.41`
+- News risk score: `41.83`
+- Macro risk score: `34.22`
+- Risk-on score: `29.17`
+- Articles: `45`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:763`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5480`
-- Day/swing latest: `2026-07-08T00:15:00+00:00`
+- Day/swing records: `5481`
+- Day/swing latest: `2026-07-08T00:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `2`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil jumps as U.S. strikes on Iran after Tehran targeted commercial ships risk fragile Mideast truce (Energy)
 - [macro] US launches strikes on Iran after tankers hit in Strait of Hormuz (BBC News)
 - [macro] Victims of 23andMe data breach to get $47m payout, judge rules (BBC News)
 - [macro] Package holidays to Dubai and Egypt cheaper as European prices creep up (BBC News)
@@ -38,4 +39,3 @@
 - [commodity] U.S. revokes Iran oil sales authorization after tanker attacks (Energy)
 - [crypto] Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost (Cointelegraph.com News)
 - [crypto] Vanguard seeks digital assets chief after years of crypto skepticism (Cointelegraph.com News)
-- [crypto] New Hampshire lawmakers to hold hearing on $100M Bitcoin bonds (Cointelegraph.com News)
