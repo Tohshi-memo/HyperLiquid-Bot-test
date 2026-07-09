@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T18:52:25.373647+00:00`
-- Market context score: `40.99`
-- News risk score: `46.41`
-- Macro risk score: `38.86`
-- Risk-on score: `22.74`
-- Articles: `54`
+- Generated: `2026-07-09T19:07:28.804463+00:00`
+- Market context score: `41.28`
+- News risk score: `46.38`
+- Macro risk score: `38.21`
+- Risk-on score: `23.09`
+- Articles: `55`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5634`
-- Day/swing latest: `2026-07-09T18:45:00+00:00`
+- Day/swing records: `5635`
+- Day/swing latest: `2026-07-09T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `32`, risk hits `10`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `3`
-- policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
+- policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `5`
 
 ## Headlines
 
+- [policy] Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy (FRB: Press Release - All Releases)
 - [crypto] Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall more than 2% as mediators try to prevent U.S. and Iran from returning to war (Energy)
 - [macro] Interest rates may need to rise this year, says Bank of England economist (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Market Update: AES, SPH (Yahoo Finance)
 - [macro] Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges (BBC News)
 - [commodity] Tanker traffic through Strait of Hormuz slows after Iranian attacks trigger renewed fighting with U.S. (Energy)
-- [crypto] UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal (Cointelegraph.com News)
