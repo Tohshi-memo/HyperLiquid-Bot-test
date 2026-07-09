@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-09T04:09:35.999074+00:00`
+- Generated: `2026-07-09T04:29:51.945332+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `29`
 - Outcome sides (rows): `58`
@@ -25,47 +25,47 @@
 ## Current Implied Probabilities
 
 - Recurring Named Outcome [No] symbol `#7871` underlying `n/a` prob `0.985` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#7831` underlying `HYPE` prob `0.9845` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#7801` underlying `BTC` prob `0.9836` price_source `allMids` vol24h `0.0` oi `0.0`
 - Switzerland [No] symbol `#2141` underlying `n/a` prob `0.9801` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#7851` underlying `n/a` prob `0.9785` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#7860` underlying `n/a` prob `0.9757` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9746` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#7801` underlying `BTC` prob `0.9742` price_source `allMids` vol24h `0.0` oi `0.0`
 - Decrease [No] symbol `#5111` underlying `n/a` prob `0.97` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#7860` underlying `n/a` prob `0.97` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#7851` underlying `n/a` prob `0.9652` price_source `allMids` vol24h `0.0` oi `0.0`
-- Morocco [No] symbol `#1991` underlying `n/a` prob `0.9628` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#7831` underlying `HYPE` prob `0.96` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#7821` underlying `SOL` prob `0.9547` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#7811` underlying `ETH` prob `0.9414` price_source `allMids` vol24h `0.0` oi `0.0`
-- Norway [No] symbol `#2021` underlying `n/a` prob `0.9371` price_source `allMids` vol24h `0.0` oi `0.0`
+- Morocco [No] symbol `#1991` underlying `n/a` prob `0.9654` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#7821` underlying `SOL` prob `0.9594` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#7811` underlying `ETH` prob `0.946` price_source `allMids` vol24h `0.0` oi `0.0`
+- Norway [No] symbol `#2021` underlying `n/a` prob `0.9384` price_source `allMids` vol24h `0.0` oi `0.0`
 - No change [Yes] symbol `#5100` underlying `n/a` prob `0.8898` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [No] symbol `#5121` underlying `n/a` prob `0.8743` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [No] symbol `#1881` underlying `n/a` prob `0.8426` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [No] symbol `#2121` underlying `n/a` prob `0.8117` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8007` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Quarterfinal: France vs Morocco [France] symbol `#7610` underlying `n/a` prob `0.7765` price_source `allMids` vol24h `0.0` oi `0.0`
-- Above 3.8% [No] symbol `#5441` underlying `n/a` prob `0.7712` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8015` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Quarterfinal: France vs Morocco [France] symbol `#7610` underlying `n/a` prob `0.777` price_source `allMids` vol24h `0.0` oi `0.0`
+- Above 3.8% [No] symbol `#5441` underlying `n/a` prob `0.763` price_source `allMids` vol24h `0.0` oi `0.0`
 - World Cup Quarterfinal: Spain vs Belgium [Spain] symbol `#7790` underlying `n/a` prob `0.7442` price_source `allMids` vol24h `0.0` oi `0.0`
 - World Cup Quarterfinal: Argentina vs Switzerland [Argentina] symbol `#7880` underlying `n/a` prob `0.7278` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [No] symbol `#1891` underlying `n/a` prob `0.6735` price_source `allMids` vol24h `0.0` oi `0.0`
-- Below 3.8% [No] symbol `#5421` underlying `n/a` prob `0.6656` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [No] symbol `#1891` underlying `n/a` prob `0.6742` price_source `allMids` vol24h `0.0` oi `0.0`
+- Below 3.8% [No] symbol `#5421` underlying `n/a` prob `0.6567` price_source `allMids` vol24h `0.0` oi `0.0`
 - World Cup Quarterfinal: Norway vs England [England] symbol `#7781` underlying `n/a` prob `0.647` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 3.8% [Yes] symbol `#5430` underlying `n/a` prob `0.5718` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 3.8% [Yes] symbol `#5430` underlying `n/a` prob `0.5766` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1993` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8007` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1985` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8015` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0254` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9746` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [Yes] symbol `#1880` underlying `n/a` prob `0.1574` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [No] symbol `#1881` underlying `n/a` prob `0.8426` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [Yes] symbol `#1890` underlying `n/a` prob `0.3265` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [No] symbol `#1891` underlying `n/a` prob `0.6735` price_source `allMids` vol24h `0.0` oi `0.0`
-- Morocco [Yes] symbol `#1990` underlying `n/a` prob `0.0372` price_source `allMids` vol24h `0.0` oi `0.0`
-- Morocco [No] symbol `#1991` underlying `n/a` prob `0.9628` price_source `allMids` vol24h `0.0` oi `0.0`
-- Norway [Yes] symbol `#2020` underlying `n/a` prob `0.0629` price_source `allMids` vol24h `0.0` oi `0.0`
-- Norway [No] symbol `#2021` underlying `n/a` prob `0.9371` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [Yes] symbol `#1890` underlying `n/a` prob `0.3258` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [No] symbol `#1891` underlying `n/a` prob `0.6742` price_source `allMids` vol24h `0.0` oi `0.0`
+- Morocco [Yes] symbol `#1990` underlying `n/a` prob `0.0346` price_source `allMids` vol24h `0.0` oi `0.0`
+- Morocco [No] symbol `#1991` underlying `n/a` prob `0.9654` price_source `allMids` vol24h `0.0` oi `0.0`
+- Norway [Yes] symbol `#2020` underlying `n/a` prob `0.0616` price_source `allMids` vol24h `0.0` oi `0.0`
+- Norway [No] symbol `#2021` underlying `n/a` prob `0.9384` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [Yes] symbol `#2120` underlying `n/a` prob `0.1883` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [No] symbol `#2121` underlying `n/a` prob `0.8117` price_source `allMids` vol24h `0.0` oi `0.0`
 - Switzerland [Yes] symbol `#2140` underlying `n/a` prob `0.0199` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -82,18 +82,18 @@
 
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1993` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8007` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1985` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8015` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [Yes] symbol `#1760` underlying `n/a` prob `0.0254` price_source `allMids` vol24h `0.0` oi `0.0`
 - Belgium [No] symbol `#1761` underlying `n/a` prob `0.9746` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [Yes] symbol `#1880` underlying `n/a` prob `0.1574` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [No] symbol `#1881` underlying `n/a` prob `0.8426` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [Yes] symbol `#1890` underlying `n/a` prob `0.3265` price_source `allMids` vol24h `0.0` oi `0.0`
-- France [No] symbol `#1891` underlying `n/a` prob `0.6735` price_source `allMids` vol24h `0.0` oi `0.0`
-- Morocco [Yes] symbol `#1990` underlying `n/a` prob `0.0372` price_source `allMids` vol24h `0.0` oi `0.0`
-- Morocco [No] symbol `#1991` underlying `n/a` prob `0.9628` price_source `allMids` vol24h `0.0` oi `0.0`
-- Norway [Yes] symbol `#2020` underlying `n/a` prob `0.0629` price_source `allMids` vol24h `0.0` oi `0.0`
-- Norway [No] symbol `#2021` underlying `n/a` prob `0.9371` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [Yes] symbol `#1890` underlying `n/a` prob `0.3258` price_source `allMids` vol24h `0.0` oi `0.0`
+- France [No] symbol `#1891` underlying `n/a` prob `0.6742` price_source `allMids` vol24h `0.0` oi `0.0`
+- Morocco [Yes] symbol `#1990` underlying `n/a` prob `0.0346` price_source `allMids` vol24h `0.0` oi `0.0`
+- Morocco [No] symbol `#1991` underlying `n/a` prob `0.9654` price_source `allMids` vol24h `0.0` oi `0.0`
+- Norway [Yes] symbol `#2020` underlying `n/a` prob `0.0616` price_source `allMids` vol24h `0.0` oi `0.0`
+- Norway [No] symbol `#2021` underlying `n/a` prob `0.9384` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [Yes] symbol `#2120` underlying `n/a` prob `0.1883` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [No] symbol `#2121` underlying `n/a` prob `0.8117` price_source `allMids` vol24h `0.0` oi `0.0`
 - Switzerland [Yes] symbol `#2140` underlying `n/a` prob `0.0199` price_source `allMids` vol24h `0.0` oi `0.0`
