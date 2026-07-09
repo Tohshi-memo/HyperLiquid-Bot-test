@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T10:52:55.063151+00:00`
-- Market context score: `42.15`
-- News risk score: `47.29`
-- Macro risk score: `38.44`
-- Risk-on score: `25.9`
-- Articles: `41`
-- Polymarket markets: `392`
+- Generated: `2026-07-09T11:12:33.267252+00:00`
+- Market context score: `40.19`
+- News risk score: `49.25`
+- Macro risk score: `41.84`
+- Risk-on score: `24.48`
+- Articles: `39`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5605`
-- Day/swing latest: `2026-07-09T10:45:00+00:00`
+- Day/swing records: `5606`
+- Day/swing latest: `2026-07-09T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `15`, risk headline rate `0.3462`, policy hits `5`
-- macro: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `0`
+- crypto: articles `28`, risk hits `17`, risk headline rate `0.3571`, policy hits `5`
+- macro: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto remains resilient in face of renewed Middle East tensions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Revolut says USDT delisting is limited to EEA, Switzerland (Cointelegraph.com News)
 - [crypto] Singapore's Temasek investment fund says crypto is off the table, will focus on AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] How can I get air conditioning in my home and how much does it cost? (BBC News)
 - [crypto] Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow (Cointelegraph.com News)
 - [macro] US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over' (BBC News)
-- [crypto] Crypto trader applies legendary HODL strategy to EUR/USD forex bet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Sony secures conditional approval to set up U.S. stablecoin trust bank (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
