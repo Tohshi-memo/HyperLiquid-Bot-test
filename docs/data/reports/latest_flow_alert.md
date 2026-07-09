@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-09T07:31:13.773696+00:00`
+- Generated: `2026-07-09T08:25:50.530489+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `25364155.88`
-- Polymarket volume z-score: `-0.56`
+- Polymarket 24h volume: `26035620.54`
+- Polymarket volume z-score: `-0.48`
 
 ## Top Polymarket Markets
 
-- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `2572489.5596929993` | liquidity: `62698.93385`
-- France vs. Morocco: Team to Advance | 24h volume: `2047302.0480619958` | liquidity: `4752603.647`
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `1424827.125` | liquidity: `29169.00455`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1203806.4060000002` | liquidity: `30091.86276`
-- Exact Score: France 3 - 3 Morocco? | 24h volume: `997827.0260929974` | liquidity: `712294.36435`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `799861.3700419993` | liquidity: `540843.3432`
-- Will no listed leader be out before 2027? | 24h volume: `770710.331` | liquidity: `83046.52563`
-- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `718187.507` | liquidity: `64711.65848`
+- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `2532660.9996929993` | liquidity: `53651.40777`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `2266327.125` | liquidity: `27341.19183`
+- France vs. Morocco: Team to Advance | 24h volume: `2191879.334806996` | liquidity: `4618543.7418`
+- Exact Score: France 3 - 3 Morocco? | 24h volume: `1029970.0383759977` | liquidity: `717157.10809`
+- Will no listed leader be out before 2027? | 24h volume: `771041.771` | liquidity: `93006.6615`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `770014.6050329992` | liquidity: `583331.3363`
+- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `718518.947` | liquidity: `54846.16213`
+- Exact Score: France 3 - 2 Morocco? | 24h volume: `692015.1113170029` | liquidity: `739997.73716`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
