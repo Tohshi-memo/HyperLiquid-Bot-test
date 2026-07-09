@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T15:37:27.081808+00:00`
+- Generated: `2026-07-09T15:52:32.660995+00:00`
 - Market context score: `48.62`
 - News risk score: `46.93`
 - Macro risk score: `25.12`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5621`
-- Day/swing latest: `2026-07-09T15:30:00+00:00`
+- Day/swing records: `5622`
+- Day/swing latest: `2026-07-09T15:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Elon Musk Lost His Trillionaire Status as SpaceX Shares Dropped 26%. Are Tesla and SpaceX Stock Still a Buy? (Yahoo Finance)
+- [macro] SpaceX stock in focus as launch, Starlink business hit new milestones (Yahoo Finance)
+- [macro] Michael Burry: How a stock can fall from $100 to $5 and still deliver a 6x return (Yahoo Finance)
 - [commodity] Tanker traffic through Strait of Hormuz slows after Iranian attacks trigger renewed fighting with U.S. (Energy)
+- [macro] Micron shares rise on $3B US semiconductor supply chain investment (Yahoo Finance)
+- [macro] What Is the Vanguard International Dividend Appreciation ETF (VIGI), and Who Should Buy It? (Yahoo Finance)
+- [macro] What Makes Amphenol (APH) a Strong Bet Now? (Yahoo Finance)
 - [macro] Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies (BBC News)
 - [macro] Xiaomi introduces Sky Nomad SUV line as car ambitions broaden – report (Yahoo Finance)
 - [macro] Dollar dips as labor market remains stable, US-Iran tensions rise (Yahoo Finance)
-- [macro] STG Logistics exits Chapter 11 as intermodal market heats up (Yahoo Finance)
-- [macro] New AI Model Puts SpaceX Back In Race Versus Anthropic, OpenAI, Google (Yahoo Finance)
-- [commodity] Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war (Energy)
-- [macro] Investors’ Confidence in DexCom (DXCM) Rises as Growth Outlook Reassured (Yahoo Finance)
-- [macro] Zero State Income Tax and $800,000: Here’s How to Retire to Tennessee at 62 (Yahoo Finance)
-- [macro] Factory fire kills at least 28 in China's 'shoe capital' (BBC News)
