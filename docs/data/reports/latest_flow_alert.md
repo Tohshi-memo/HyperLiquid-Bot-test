@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-09T10:44:38.130890+00:00`
+- Generated: `2026-07-09T10:50:25.595670+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `23955216.97`
-- Polymarket volume z-score: `-0.72`
+- Polymarket 24h volume: `23816421.34`
+- Polymarket volume z-score: `-0.73`
 
 ## Top Polymarket Markets
 
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `3309906.0` | liquidity: `29417.36662`
-- France vs. Morocco: Team to Advance | 24h volume: `2092495.4131399947` | liquidity: `4656681.5195`
-- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `1513109.006361` | liquidity: `53499.50969`
-- Exact Score: France 3 - 3 Morocco? | 24h volume: `1131151.4274779996` | liquidity: `1037119.67578`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `796719.950443001` | liquidity: `547026.9964`
-- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `725414.517` | liquidity: `60453.95972`
-- Exact Score: France 3 - 2 Morocco? | 24h volume: `725106.9115610041` | liquidity: `748901.41338`
-- Will Seyed Hossein Mousavian be head of state in Iran end of 2026? | 24h volume: `704450.9425` | liquidity: `59350.69746`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `3366006.0` | liquidity: `28426.76604`
+- France vs. Morocco: Team to Advance | 24h volume: `2092339.174317995` | liquidity: `4721546.0942`
+- Will Mahmoud Abbas be the next leader out before 2027? | 24h volume: `1450359.006361` | liquidity: `53379.06679`
+- Exact Score: France 3 - 3 Morocco? | 24h volume: `1127647.0238889994` | liquidity: `1035364.28588`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `796877.637178001` | liquidity: `541872.2506`
+- Exact Score: France 3 - 2 Morocco? | 24h volume: `734147.5915590042` | liquidity: `744560.62367`
+- Will Sébastien Lecornu be the next leader out before 2027? | 24h volume: `725414.517` | liquidity: `61180.98714`
+- Will Seyed Hossein Mousavian be head of state in Iran end of 2026? | 24h volume: `704450.9425` | liquidity: `59654.38356`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
