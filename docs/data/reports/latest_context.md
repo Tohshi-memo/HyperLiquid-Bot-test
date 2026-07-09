@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T22:06:23.344261+00:00`
-- Market context score: `40.77`
-- News risk score: `46.24`
-- Macro risk score: `37.79`
-- Risk-on score: `21.7`
-- Articles: `54`
-- Polymarket markets: `397`
+- Generated: `2026-07-09T22:27:37.687938+00:00`
+- Market context score: `40.64`
+- News risk score: `45.1`
+- Macro risk score: `35.23`
+- Risk-on score: `19.49`
+- Articles: `53`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5647`
-- Day/swing latest: `2026-07-09T22:00:00+00:00`
+- Day/swing records: `5648`
+- Day/swing latest: `2026-07-09T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `10`, risk headline rate `0.2581`, policy hits `1`
-- macro: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `3`
+- crypto: articles `30`, risk hits `10`, risk headline rate `0.2667`, policy hits `1`
+- macro: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `3`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `5`
 
 ## Headlines
 
+- [crypto] New Hampshire snuffs out trailblazing state-government bitcoin bond effort (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] How an app in South Korea will let victims track their stalkers (BBC News)
 - [crypto] Coinbase chief legal officer to transition to advisory role on July 31 (Cointelegraph.com News)
 - [macro] Tehran launches more strikes after second round of US attacks in southern Iran (BBC News)
 - [macro] Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitdeer stock jumps 14% as company expands US mining hardware production (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] What's next for Iran after the funeral of their late supreme leader? (BBC News)
