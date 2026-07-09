@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T18:22:25.950749+00:00`
+- Generated: `2026-07-09T18:26:24.033990+00:00`
 - Market context score: `42.36`
 - News risk score: `47.13`
 - Macro risk score: `34.54`
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [crypto] Troubles for bitcoin ETFs and private credit funds suggest rising market risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall more than 2% as mediators try to prevent U.S. and Iran from returning to war (Energy)
 - [macro] Interest rates may need to rise this year, says Bank of England economist (BBC News)
 - [crypto] Bitcoin miners’ AI pivot faces investor scrutiny over insider sales (Cointelegraph.com News)
