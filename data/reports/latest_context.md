@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T05:52:30.321631+00:00`
-- Market context score: `48.52`
-- News risk score: `41.21`
-- Macro risk score: `33.23`
-- Risk-on score: `32.96`
-- Articles: `31`
+- Generated: `2026-07-09T06:07:29.578932+00:00`
+- Market context score: `49.13`
+- News risk score: `43.17`
+- Macro risk score: `34.21`
+- Risk-on score: `36.32`
+- Articles: `34`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:764`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5591`
-- Day/swing latest: `2026-07-09T05:45:00+00:00`
+- Day/swing records: `5592`
+- Day/swing latest: `2026-07-09T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `4`
-- macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `4`
+- macro: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Trader loses $1M after signing phishing token approval (Cointelegraph.com News)
+- [crypto] AI is shortening the shelf life of crypto security audits, researchers warn (Cointelegraph.com News)
+- [macro] Life of Sizewell B extended by another 20 years (BBC News)
 - [macro] US launches more strikes on Iran with blasts reported in south of country (BBC News)
 - [commodity] Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions (Energy)
 - [crypto] XRP holds near $1.10 as traders watch long-term breakout setup (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Jackdaw boss warns of winter fuel shortages if gas field not approved (BBC News)
 - [crypto] Bitcoin, ether steady, gold slides as US-Iran tensions escalate again (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] AI boom fuels inflation fears, complicating Fed’s next rate move (Cointelegraph.com News)
 - [macro] Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes (BBC News)
-- [crypto] Crypto VC Paradigm raises $1.2B to push into AI (Cointelegraph.com News)
-- [crypto] Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years (Cointelegraph.com News)
-- [macro] China consumer price growth weakens in June while producer inflation rises to near 4-year high (Economy)
-- [macro] Democrat Graham Platner suspends campaign for key US Senate race in Maine (BBC News)
