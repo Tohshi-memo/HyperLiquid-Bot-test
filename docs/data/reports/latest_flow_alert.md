@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-09T20:56:28.274992+00:00`
-- Flow alert score: `20.72`
+- Generated: `2026-07-09T21:00:28.194871+00:00`
+- Flow alert score: `20.96`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `37152490.14`
-- Polymarket volume z-score: `0.93`
+- Polymarket 24h volume: `37643534.63`
+- Polymarket volume z-score: `0.99`
 
 ## Top Polymarket Markets
 
-- France vs. Morocco: Team to Advance | 24h volume: `5604394.366440016` | liquidity: `924908.18565`
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `4916400.0` | liquidity: `31758.10895`
-- Exact Score: France 3 - 3 Morocco? | 24h volume: `2811166.0816400084` | liquidity: `107770.22615`
-- Exact Score: France 3 - 2 Morocco? | 24h volume: `2499024.7936250027` | liquidity: `80952.7181`
-- Will Seyed Hossein Mousavian be head of state in Iran end of 2026? | 24h volume: `2390518.383333` | liquidity: `58305.497`
-- Exact Score: France 2 - 1 Morocco? | 24h volume: `1850534.8814820063` | liquidity: `77485.8902`
-- Exact Score: France 2 - 3 Morocco? | 24h volume: `1511254.584520001` | liquidity: `82237.8944`
-- Exact Score: France 2 - 2 Morocco? | 24h volume: `1315535.9796930023` | liquidity: `85215.25843`
+- France vs. Morocco: Team to Advance | 24h volume: `5756269.318682012` | liquidity: `930240.10545`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `4916400.0` | liquidity: `32025.84747`
+- Exact Score: France 3 - 3 Morocco? | 24h volume: `2904467.6136400085` | liquidity: `158961.8526`
+- Exact Score: France 3 - 2 Morocco? | 24h volume: `2508631.232513003` | liquidity: `58333.63329`
+- Will Seyed Hossein Mousavian be head of state in Iran end of 2026? | 24h volume: `2390518.383333` | liquidity: `57988.367`
+- Exact Score: France 2 - 1 Morocco? | 24h volume: `1881077.9936920053` | liquidity: `93654.8362`
+- Exact Score: France 2 - 3 Morocco? | 24h volume: `1521814.3145190007` | liquidity: `83735.51971`
+- Exact Score: France 2 - 2 Morocco? | 24h volume: `1335359.2104890018` | liquidity: `71587.5572`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
