@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T20:22:28.923013+00:00`
-- Market context score: `39.95`
-- News risk score: `48.65`
-- Macro risk score: `38.06`
-- Risk-on score: `22.02`
-- Articles: `58`
+- Generated: `2026-07-09T20:27:24.217232+00:00`
+- Market context score: `40.88`
+- News risk score: `47.48`
+- Macro risk score: `38.11`
+- Risk-on score: `23.12`
+- Articles: `57`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `35`, risk hits `13`, risk headline rate `0.2857`, policy hits `2`
+- crypto: articles `34`, risk hits `12`, risk headline rate `0.2647`, policy hits `2`
 - macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `3`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `5`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] White House says it received no Democratic response related to SEC, CFTC vacancies (Cointelegraph.com News)
 - [crypto] Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives (Cointelegraph.com News)
 - [crypto] Newest version of crypto Clarity Act may drop as soon as next week, sources say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Interest rates may need to rise this year, says Bank of England economist (BBC News)
 - [macro] Analyst Report: AES Corp/The (Yahoo Finance)
 - [macro] Analyst Report: Suburban Propane Partners LP (Yahoo Finance)
-- [crypto] Bitcoin miners’ AI pivot faces investor scrutiny over insider sales (Cointelegraph.com News)
