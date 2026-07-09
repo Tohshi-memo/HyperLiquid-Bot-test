@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T16:07:26.644194+00:00`
-- Market context score: `48.32`
-- News risk score: `45.86`
-- Macro risk score: `24.54`
-- Risk-on score: `33.16`
+- Generated: `2026-07-09T16:22:35.185809+00:00`
+- Market context score: `47.15`
+- News risk score: `45.97`
+- Macro risk score: `26.57`
+- Risk-on score: `31.41`
 - Articles: `83`
 - Polymarket markets: `396`
 
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5623`
-- Day/swing latest: `2026-07-09T16:00:00+00:00`
+- Day/swing records: `5624`
+- Day/swing latest: `2026-07-09T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `37`, risk hits `17`, risk headline rate `0.2973`, policy hits `5`
-- macro: articles `41`, risk hits `5`, risk headline rate `0.122`, policy hits `2`
+- crypto: articles `36`, risk hits `16`, risk headline rate `0.2778`, policy hits `3`
+- macro: articles `42`, risk hits `7`, risk headline rate `0.1667`, policy hits `3`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges (BBC News)
+- [commodity] Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war (Energy)
+- [macro] Greek F-16 fighter jet crash-lands at busy Zakynthos airport (BBC News)
+- [macro] Bitcoin just crossed 200 days of warning sign investors cannot ignore (Yahoo Finance)
 - [commodity] These 10 states are best positioned to land AI data center deals despite rising public opposition (Energy)
-- [crypto] Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments (Cointelegraph.com News)
-- [crypto] AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] AMD’s $300 Billion Ambition Is Putting Pressure on Rivals (Yahoo Finance)
-- [macro] Long Call Options Are One Choice For Traders Eyeing Arista Stock (Yahoo Finance)
-- [macro] MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot (Yahoo Finance)
-- [macro] Amazon Hasn’t Repurchased a Single Share in 4 Years. That’s Exactly Why You Should (Yahoo Finance)
-- [macro] Why Sandisk Stock Popped Again Today (Yahoo Finance)
-- [macro] AI Infrastructure Stock Gets Big Price-Target Hike After Acquisition (Yahoo Finance)
+- [macro] GameStop just cleared a hurdle nobody was watching (Yahoo Finance)
+- [macro] Why Broadcom Stock Rallied Thursday Morning (Yahoo Finance)
+- [macro] Mixed Drivers Fuel Optimism in Stryker Corporation’s (SYK) Performance (Yahoo Finance)
+- [macro] Preferred Stocks are Yielding 8.5% But Here’s The Leverage Risk Hiding Inside PFFA (Yahoo Finance)
+- [macro] MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises. (Yahoo Finance)
+- [macro] A Missouri woman, 70, couldn't afford her $8K/month drug after Medicare Advantage denied coverage — and landed in the ER (Yahoo Finance)
