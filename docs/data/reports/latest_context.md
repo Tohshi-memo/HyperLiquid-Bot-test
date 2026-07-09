@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-09T20:07:30.317095+00:00`
+- Generated: `2026-07-09T20:22:28.923013+00:00`
 - Market context score: `39.95`
 - News risk score: `48.65`
 - Macro risk score: `38.06`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5639`
-- Day/swing latest: `2026-07-09T20:00:00+00:00`
+- Day/swing records: `5640`
+- Day/swing latest: `2026-07-09T20:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [crypto] White House says it received no Democratic nominees for SEC, CFTC vacancies (Cointelegraph.com News)
+- [crypto] White House says it received no Democratic response related to SEC, CFTC vacancies (Cointelegraph.com News)
 - [crypto] Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives (Cointelegraph.com News)
 - [crypto] Newest version of crypto Clarity Act may drop as soon as next week, sources say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall 2% as mediators try to prevent U.S. and Iran from returning to war (Energy)
