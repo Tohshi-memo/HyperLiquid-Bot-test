@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T20:58:37.023627+00:00`
-- Market context score: `58.63`
-- News risk score: `32.12`
-- Macro risk score: `18.52`
-- Risk-on score: `42.18`
-- Articles: `47`
+- Generated: `2026-07-10T21:07:35.445187+00:00`
+- Market context score: `57.33`
+- News risk score: `33.54`
+- Macro risk score: `20.87`
+- Risk-on score: `41.39`
+- Articles: `48`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5737`
-- Day/swing latest: `2026-07-10T20:45:00+00:00`
+- Day/swing records: `5738`
+- Day/swing latest: `2026-07-10T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `25`, risk hits `6`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `19`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `1`
 
 ## Headlines
 
@@ -37,4 +37,4 @@
 - [macro] Watch: What links a bomb in Monaco and a shooting in Ukraine? (BBC News)
 - [commodity] How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz (Energy)
 - [crypto] New Hampshire council votes down $100M Bitcoin bonds (Cointelegraph.com News)
-- [macro] Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing (BBC News)
+- [macro] Elon Musk SEC settlement raises 'red flags,' judge says (Yahoo Finance)
