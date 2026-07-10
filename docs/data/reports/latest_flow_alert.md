@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-10T17:15:26.744730+00:00`
-- Flow alert score: `17.0`
+- Generated: `2026-07-10T17:20:32.911083+00:00`
+- Flow alert score: `17.08`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `27733671.09`
-- Polymarket volume z-score: `-0.01`
+- Polymarket 24h volume: `27989462.79`
+- Polymarket volume z-score: `0.02`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `5054492.888666` | liquidity: `32075.64899`
-- Spain vs. Belgium: Team to Advance | 24h volume: `3171831.158333995` | liquidity: `1488252.5212`
-- Will no listed leader be out before 2027? | 24h volume: `2621733.132362` | liquidity: `98914.83142`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `1859701.951999` | liquidity: `18059.93558`
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `1188386.4149989998` | liquidity: `22186.47772`
-- Exact Score: Spain 2 - 0 Belgium? | 24h volume: `1120218.5460020013` | liquidity: `1585165.4725`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1081299.573` | liquidity: `26926.7077`
-- Exact Score: Spain 2 - 1 Belgium? | 24h volume: `937084.6127169955` | liquidity: `1352795.7892`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `5054492.888666` | liquidity: `32363.45899`
+- Spain vs. Belgium: Team to Advance | 24h volume: `3209757.371316997` | liquidity: `1495903.2888`
+- Will no listed leader be out before 2027? | 24h volume: `2621733.132362` | liquidity: `97326.72017`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `1859701.951999` | liquidity: `18224.30118`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `1188386.4149989998` | liquidity: `22723.62672`
+- Exact Score: Spain 2 - 0 Belgium? | 24h volume: `1133560.2992590026` | liquidity: `1883120.5055`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1081299.573` | liquidity: `23829.8277`
+- Exact Score: Spain 2 - 1 Belgium? | 24h volume: `959403.8027089946` | liquidity: `1640818.4152`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
