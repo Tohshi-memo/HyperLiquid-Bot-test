@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-10T08:15:31.354750+00:00`
+- Generated: `2026-07-10T08:20:30.765345+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19680607.01`
-- Polymarket volume z-score: `-1.02`
+- Polymarket 24h volume: `19763123.92`
+- Polymarket volume z-score: `-1.01`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `2973043.03` | liquidity: `29184.94846`
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `2918953.508666` | liquidity: `27398.36743`
-- Will Seyed Hossein Mousavian be head of state in Iran end of 2026? | 24h volume: `2701775.383333` | liquidity: `55743.02707`
-- Spain vs. Belgium: Team to Advance | 24h volume: `1098462.5384240004` | liquidity: `1334481.989525`
-- Norway vs. England: Team to Advance | 24h volume: `754834.6602299993` | liquidity: `660768.279625`
-- Will no listed leader be out before 2027? | 24h volume: `700234.3884580001` | liquidity: `103660.52656`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `621424.8545970016` | liquidity: `473887.4859`
-- Will Miguel Díaz-Canel be the next leader out before 2027? | 24h volume: `597078.740004` | liquidity: `81039.71989`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3075043.03` | liquidity: `28709.68071`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `2745553.508666` | liquidity: `26575.97556`
+- Will Seyed Hossein Mousavian be head of state in Iran end of 2026? | 24h volume: `2632545.383333` | liquidity: `54702.24437`
+- Spain vs. Belgium: Team to Advance | 24h volume: `1102683.0255890004` | liquidity: `1336503.2077`
+- Will no listed leader be out before 2027? | 24h volume: `812869.0184580002` | liquidity: `102217.87742`
+- Norway vs. England: Team to Advance | 24h volume: `755937.2642239996` | liquidity: `650986.820825`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `620781.3381430015` | liquidity: `471328.1991`
+- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `547079.0659999999` | liquidity: `1466798.84443`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
