@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T13:46:36.459941+00:00`
-- Market context score: `61.8`
-- News risk score: `30.33`
-- Macro risk score: `20.41`
-- Risk-on score: `48.43`
-- Articles: `43`
+- Generated: `2026-07-10T13:52:33.785372+00:00`
+- Market context score: `61.91`
+- News risk score: `30.28`
+- Macro risk score: `20.37`
+- Risk-on score: `48.62`
+- Articles: `44`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `5`, risk headline rate `0.16`, policy hits `0`
+- crypto: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `0`
 - macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Will the crypto lobby's $189M campaign get CLARITY over the line? (Cointelegraph.com News)
 - [commodity] Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite (Energy)
 - [macro] Chip giant SK Hynix raises $26.5bn in mega US share sale (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] OKX, MetaMask, Matter Labs back dispute resolution court for AI agents (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US charges prisoner over alleged laundering of seized Kraken crypto (Cointelegraph.com News)
 - [macro] EU threatens Meta with fines over 'addictive' Facebook and Instagram (BBC News)
-- [crypto] Wall Street banks tighten prediction market rules for staff as insider fears spread (Cointelegraph.com News)
