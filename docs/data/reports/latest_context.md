@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T23:07:24.624174+00:00`
-- Market context score: `54.05`
-- News risk score: `34.21`
-- Macro risk score: `21.76`
-- Risk-on score: `35.0`
-- Articles: `42`
+- Generated: `2026-07-10T23:22:27.594069+00:00`
+- Market context score: `55.51`
+- News risk score: `34.31`
+- Macro risk score: `20.96`
+- Risk-on score: `38.03`
+- Articles: `44`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5746`
-- Day/swing latest: `2026-07-10T23:00:00+00:00`
+- Day/swing records: `5747`
+- Day/swing latest: `2026-07-10T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `2`
-- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `1`
+- macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `1`
 
 ## Headlines
 
+- [macro] Meet the crypto billionaires building a world where money buys you a vote (BBC News)
+- [macro] Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows (BBC News)
 - [macro] Apple sues OpenAI, its employees claiming theft of trade secrets (BBC News)
 - [macro] Man fatally shot by ICE in Houston was not intended target, DHS says (BBC News)
 - [macro] Watch: Inside the 30-hour dating retreat run by monks (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Kraken to overhaul app with AI investing assistant (Cointelegraph.com News)
 - [crypto] Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] US CBDC ban to go into effect without Trump signoff on housing bill (Cointelegraph.com News)
-- [macro] Superb Sinner ends Djokovic's latest bid for history (BBC News)
