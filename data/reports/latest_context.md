@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T01:07:24.699463+00:00`
+- Generated: `2026-07-10T01:14:47.086805+00:00`
 - Market context score: `41.74`
 - News risk score: `43.48`
 - Macro risk score: `36.1`
 - Risk-on score: `20.9`
 - Articles: `45`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Factory fire kills at least 28 in China's 'shoe capital' (BBC News)
 - [macro] All the best looks from Paris Haute Couture Week 2026 (BBC News)
 - [macro] US and Iran trade attacks as Khamenei is buried (BBC News)
 - [macro] Pressure builds on Europe's biggest port to be greener (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side (BBC News)
 - [crypto] New Hampshire snuffs out trailblazing state-government bitcoin bond effort (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How an app in South Korea will let victims track their stalkers (BBC News)
-- [crypto] Coinbase chief legal officer to transition to advisory role on July 31 (Cointelegraph.com News)
