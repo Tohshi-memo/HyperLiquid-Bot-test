@@ -2,9 +2,9 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-07-10T21:37:27.472128+00:00`
+- Updated: `2026-07-10T21:52:24.474129+00:00`
 - Asset price active records: `672`
-- Day/swing records: `5740`
+- Day/swing records: `5741`
 - Macro indicators: `11`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
@@ -14,15 +14,15 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2370 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (63746 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2361 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (871 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_context_index.json` (63791 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2355 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (872 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2535 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (48170 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5698 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2181 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (8889 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3557 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (48206 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5725 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2180 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (8890 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3559 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
