@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T01:37:26.267200+00:00`
+- Generated: `2026-07-10T01:52:27.105533+00:00`
 - Market context score: `41.69`
 - News risk score: `43.75`
 - Macro risk score: `35.33`
 - Risk-on score: `20.71`
 - Articles: `45`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5661`
-- Day/swing latest: `2026-07-10T01:30:00+00:00`
+- Day/swing records: `5662`
+- Day/swing latest: `2026-07-10T01:45:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [macro] Factory fire kills at least 28 in China's 'shoe capital' (BBC News)
 - [macro] South Korean chip giant SK Hynix raises $26.5bn in US share sale (BBC News)
+- [macro] Factory fire kills at least 28 in China's 'shoe capital' (BBC News)
 - [macro] All the best looks from Paris Haute Couture Week 2026 (BBC News)
 - [macro] US and Iran trade attacks as Khamenei is buried (BBC News)
 - [macro] Pressure builds on Europe's biggest port to be greener (BBC News)
