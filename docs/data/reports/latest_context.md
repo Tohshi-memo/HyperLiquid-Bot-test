@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T07:07:30.718148+00:00`
+- Generated: `2026-07-10T07:22:25.504151+00:00`
 - Market context score: `60.13`
 - News risk score: `34.76`
 - Macro risk score: `22.76`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5683`
-- Day/swing latest: `2026-07-10T07:00:00+00:00`
+- Day/swing records: `5684`
+- Day/swing latest: `2026-07-10T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] At least 11 die in Spain wildfire as heatwave continues in Southern Europe (BBC News)
 - [macro] EasyJet agrees in principle to rival £5.7bn takeover bid (BBC News)
 - [crypto] Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] At least 11 die in Spain wildfire as heatwave continues in Southern Europe (BBC News)
 - [crypto] Live markets: Bitcoin ETFs bleed again while ether funds snap a five-day inflow streak (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] EU parliament passes ‘chat control,’ allowing private chat scans until 2028 (Cointelegraph.com News)
 - [crypto] Robinhood Chain sees over $70M in ETH bridged during first week (Cointelegraph.com News)
