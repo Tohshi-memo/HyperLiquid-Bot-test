@@ -1,35 +1,35 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T08:52:30.631496+00:00`
-- Market context score: `64.78`
-- News risk score: `26.31`
-- Macro risk score: `20.78`
-- Risk-on score: `51.81`
-- Articles: `29`
+- Generated: `2026-07-10T09:07:27.045115+00:00`
+- Market context score: `64.53`
+- News risk score: `26.57`
+- Macro risk score: `21.29`
+- Risk-on score: `51.67`
+- Articles: `28`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `1156`
+- Asset universe count: `1157`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
+- Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5690`
-- Day/swing latest: `2026-07-10T08:45:00+00:00`
+- Day/swing records: `5691`
+- Day/swing latest: `2026-07-10T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
-- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `2`
+- macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `2`
 
 ## Headlines
 
-- [commodity] World oil demand set for first annual decline since 2020, IEA says (Energy)
 - [macro] EasyJet agrees to surprise takeover bid as rival US firm swoops in (BBC News)
+- [commodity] World oil demand set for first annual decline since 2020, IEA says (Energy)
 - [macro] We've saved £6,000 on holidays by swapping homes with strangers (BBC News)
 - [macro] We've saved £6,000 on holidays by swapping homes with strangers (BBC News)
 - [crypto] Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
