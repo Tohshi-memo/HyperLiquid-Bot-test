@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-10T16:15:35.141728+00:00`
+- Generated: `2026-07-10T16:20:29.567536+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `27336856.31`
-- Polymarket volume z-score: `-0.07`
+- Polymarket 24h volume: `25554985.25`
+- Polymarket volume z-score: `-0.28`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `5052772.649` | liquidity: `34018.98721`
-- Spain vs. Belgium: Team to Advance | 24h volume: `2906527.2643229957` | liquidity: `1403518.88635`
-- Will no listed leader be out before 2027? | 24h volume: `2623333.132362` | liquidity: `104360.86111`
-- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `1328248.378999` | liquidity: `23615.65401`
-- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `1218932.841999` | liquidity: `22306.15092`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1081246.0` | liquidity: `26801.1207`
-- Exact Score: Spain 2 - 0 Belgium? | 24h volume: `961029.4513190025` | liquidity: `1662083.6482`
-- Exact Score: Spain 2 - 1 Belgium? | 24h volume: `869260.3290670016` | liquidity: `2064231.104`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `5054492.888666` | liquidity: `32068.80899`
+- Spain vs. Belgium: Team to Advance | 24h volume: `2926635.8479909953` | liquidity: `1403286.81325`
+- Will no listed leader be out before 2027? | 24h volume: `2623333.132362` | liquidity: `104934.44891`
+- Will Alesa Mengesha be the next Prime Minister of Ethiopia? | 24h volume: `1364701.951999` | liquidity: `22490.35601`
+- Will Shimelis Abdisa be the next Prime Minister of Ethiopia? | 24h volume: `1218986.4149989998` | liquidity: `22577.96972`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1081299.573` | liquidity: `27287.9007`
+- Exact Score: Spain 2 - 0 Belgium? | 24h volume: `968833.375475002` | liquidity: `1656226.6867`
+- Exact Score: Spain 2 - 1 Belgium? | 24h volume: `888902.0929040004` | liquidity: `2064904.4987`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
