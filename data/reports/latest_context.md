@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T14:07:27.131556+00:00`
-- Market context score: `62.0`
-- News risk score: `30.25`
-- Macro risk score: `20.33`
-- Risk-on score: `48.79`
-- Articles: `45`
+- Generated: `2026-07-10T14:22:32.871660+00:00`
+- Market context score: `62.75`
+- News risk score: `34.52`
+- Macro risk score: `17.49`
+- Risk-on score: `52.98`
+- Articles: `68`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5710`
-- Day/swing latest: `2026-07-10T14:00:00+00:00`
+- Day/swing records: `5711`
+- Day/swing latest: `2026-07-10T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `5`, risk headline rate `0.1481`, policy hits `0`
-- macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
+- macro: articles `39`, risk hits `1`, risk headline rate `0.0256`, policy hits `3`
 
 ## Headlines
 
-- [crypto] MiCA licensing only the beginning as crypto custodians face scrutiny (Cointelegraph.com News)
-- [macro] East Asia braces for destructive typhoon as landslides kill 15 in Philippines (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Will the crypto lobby's $189M campaign get CLARITY over the line? (Cointelegraph.com News)
-- [commodity] Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite (Energy)
-- [macro] Chip giant SK Hynix raises $26.5bn in mega US share sale (BBC News)
-- [macro] Chip giant SK Hynix raises $26.5bn in mega US share sale (BBC News)
-- [macro] Man nearly sucked out of window mid-air on Ryanair plane, passengers say (BBC News)
-- [macro] Man nearly sucked out of window mid-air on Ryanair plane, passengers say (BBC News)
-- [crypto] OKX, MetaMask, Matter Labs back dispute resolution court for AI agents (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] EasyJet agrees to surprise takeover bid as rival US firm swoops in (BBC News)
+- [macro] At 69, She Found a Way to Delay RMDs and Keep More Benefits Untaxed (Yahoo Finance)
+- [macro] Spain’s SanLucar buys “controlling stake” in US berries firm Twin River (Yahoo Finance)
+- [macro] Cango sets July 20 effective date for 10-for-1 share consolidation amid NYSE price deficiency (Yahoo Finance)
+- [macro] Is Venture Global (VG) One of the Best IPO Stocks with Huge Upside Potential? (Yahoo Finance)
+- [macro] Cadre Holdings’ (CDRE) Safariland Selected for FBI Ballistic Panel Contract (Yahoo Finance)
+- [macro] Here is Why Figure Tech (FIGR) is One of the Best IPO Stocks with Huge Upside Potential (Yahoo Finance)
+- [macro] Zenas BioPharma (ZBIO): Best IPO Stocks with Huge Upside Potential (Yahoo Finance)
+- [macro] Fervo (FRVO), NVIDIA (NVDA) Announce EGS-Twin Geothermal Platform Partnership (NVDA) (Yahoo Finance)
+- [macro] Alphabet (GOOG) Surged as Investors’ Confidence Boosted Amid Durable Execution (Yahoo Finance)
