@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-10T07:37:27.334039+00:00`
-- Market context score: `62.37`
-- News risk score: `32.17`
-- Macro risk score: `20.06`
-- Risk-on score: `51.11`
-- Articles: `36`
+- Generated: `2026-07-10T07:52:33.564830+00:00`
+- Market context score: `64.32`
+- News risk score: `29.27`
+- Macro risk score: `18.67`
+- Risk-on score: `52.48`
+- Articles: `35`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:91, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5685`
-- Day/swing latest: `2026-07-10T07:30:00+00:00`
+- Day/swing records: `5686`
+- Day/swing latest: `2026-07-10T07:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `2`
+- crypto: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
+- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
-- [macro] How we've saved thousands on our holidays by swapping homes with strangers (BBC News)
-- [macro] How we've saved thousands on our holidays by swapping homes with strangers (BBC News)
+- [macro] Would you swap homes with a stranger to get a cheaper holiday? (BBC News)
+- [macro] Would you swap homes with a stranger to get a cheaper holiday? (BBC News)
+- [macro] At least 11 dead and 19 missing in wildfire in southern Spain (BBC News)
 - [macro] EasyJet agrees to rival £5.7bn takeover bid (BBC News)
-- [macro] At least 11 die in Spain wildfire as heatwave continues in Southern Europe (BBC News)
 - [crypto] Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live markets: Bitcoin ETFs bleed again while ether funds snap a five-day inflow streak (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] EU parliament passes ‘chat control,’ allowing private chat scans until 2028 (Cointelegraph.com News)
