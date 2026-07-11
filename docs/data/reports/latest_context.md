@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-11T22:03:25.486794+00:00`
+- Generated: `2026-07-11T22:07:24.844142+00:00`
 - Market context score: `52.89`
 - News risk score: `44.48`
 - Macro risk score: `27.99`
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [macro] Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists' (BBC News)
-- [macro] Home Depot vs. Lowe's: A Look at Recent Revenue Trends for These Home Improvement Giants (Yahoo Finance)
 - [macro] Florida man paid off his house 2 months before Hurricane Milton tore off his roof — and he had no home insurance (Yahoo Finance)
 - [macro] Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What? (Yahoo Finance)
 - [macro] FedEx and UPS face a new pricing threat from an old rival (Yahoo Finance)
 - [macro] Ethereum Rallied 8% This Month While XRP Fell. Which Is the Better Buy? (Yahoo Finance)
 - [macro] TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts (Yahoo Finance)
+- [macro] Everyone Owns VOO. This Overlooked S&P 500 ETF Is Somehow Cheaper (Yahoo Finance)
 - [macro] Here is Why Salesforce (CRM) is One of the Best Large Cap Stocks to Buy According to Analysts (Yahoo Finance)
 - [macro] Baker Hughes (BKR) Secures Long-Term Service Agreement for ANOH Gas Plant (Yahoo Finance)
 - [macro] Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC (Yahoo Finance)
