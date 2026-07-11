@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-11T13:37:28.878433+00:00`
-- Market context score: `54.11`
-- News risk score: `35.64`
-- Macro risk score: `20.9`
-- Risk-on score: `36.01`
-- Articles: `52`
+- Generated: `2026-07-11T13:52:24.725487+00:00`
+- Market context score: `52.56`
+- News risk score: `37.47`
+- Macro risk score: `25.66`
+- Risk-on score: `35.91`
+- Articles: `54`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5804`
-- Day/swing latest: `2026-07-11T13:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `42`, risk hits `4`, risk headline rate `0.0952`, policy hits `2`
+- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `43`, risk hits `9`, risk headline rate `0.186`, policy hits `1`
 
 ## Headlines
 
-- [macro] US wants Iran to pledge to stop shooting at ships in Strait of Hormuz (BBC News)
-- [macro] US pays out $3m to victims of mystery Havana Syndrome condition reported by spies (BBC News)
-- [macro] Why Americans Are Quietly Retiring to Greece at 62 on $2,800 a Month (Yahoo Finance)
-- [macro] Stock Market Week Ahead: Watching Big Banks, GE, TSMC For Signals (Yahoo Finance)
-- [macro] American Express Reports Earnings on July 24. Here's Why Card-Fee Growth Matters More Than Spending This Quarter. (Yahoo Finance)
-- [macro] Luxury retailer exits beauty business and ends major partnership (Yahoo Finance)
-- [macro] Solstice Advanced Mat Bets on AI Demand With $14.5B Element Solutions Deal (Yahoo Finance)
-- [macro] Common Debt Payoff Strategies Compared (Yahoo Finance)
-- [crypto] Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800? (Cointelegraph.com News)
-- [macro] Robert Kiyosaki warns the 'biggest crash' in US history is nigh — millions of may lose it all. Protect your riches now (Yahoo Finance)
+- [macro] Indian tourists among 15 killed as speedboat capsizes in Vietnam (BBC News)
+- [macro] Landmark US housing bill becomes law despite Trump protest (BBC News)
+- [macro] 3 Dividend Stocks That Are No-Brainer Buys Heading Into the Second Half of 2026 (Yahoo Finance)
+- [macro] Goldman Sachs doubles down on Applied Materials stock target (Yahoo Finance)
+- [macro] Big bank profit engines expected to roar into earnings as Main Street keeps spending (Yahoo Finance)
+- [crypto] Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision (Cointelegraph.com News)
+- [macro] Dave Ramsey says grab Social Security ASAP — but NBER data shows early claiming costs a median $182,370 (Yahoo Finance)
+- [macro] South Africa World Cup midfielder Adams dies aged 25 (BBC News)
+- [macro] Costco Could Be Poised for Major Gains Before 2030. Here Is Why Now May Be the Time to Buy. (Yahoo Finance)
+- [macro] AT&T Yields 5.3% and Trades Near a 52-Week Low. Is the SpaceX Threat Really Worth That Discount? (Yahoo Finance)
