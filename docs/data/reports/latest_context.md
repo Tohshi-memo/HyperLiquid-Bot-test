@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-11T08:57:10.657544+00:00`
-- Market context score: `59.34`
-- News risk score: `26.3`
-- Macro risk score: `15.75`
-- Risk-on score: `37.8`
+- Generated: `2026-07-11T09:07:25.963879+00:00`
+- Market context score: `58.72`
+- News risk score: `27.26`
+- Macro risk score: `15.53`
+- Risk-on score: `37.16`
 - Articles: `23`
-- Polymarket markets: `393`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5785`
-- Day/swing latest: `2026-07-11T08:45:00+00:00`
+- Day/swing records: `5786`
+- Day/swing latest: `2026-07-11T09:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
-- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `0`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
 
 ## Headlines
 
+- [macro] Spain battles to contain one of its deadliest wildfires as at least 12 killed (BBC News)
 - [macro] Newly-released video shows Peter Falconio's killer questioned (BBC News)
 - [macro] New dinosaur species as long as cricket pitch discovered in Thailand (BBC News)
-- [macro] Spain battles to contain one of its deadliest wildfires as at least 12 killed (BBC News)
 - [macro] Will Trump Accounts deliver for American children? (BBC News)
 - [macro] US wants Iran to pledge to stop shooting at ships in Strait of Hormuz (BBC News)
 - [macro] Small plane crash in Bahamas kills 10 people (BBC News)
