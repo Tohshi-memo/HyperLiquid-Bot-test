@@ -50,8 +50,16 @@
       </details>
     </aside>
 
+    <nav class="quick-nav" aria-label="Asset screener sections">
+      <div class="quick-nav__inner">
+        <a href="./index.html">Dashboard</a>
+        <a href="#assetFilters">Filters</a>
+        <a href="#assetResults">Assets</a>
+      </div>
+    </nav>
+
     <main class="layout">
-      <section class="panel panel--wide" aria-labelledby="controlsTitle">
+      <section id="assetFilters" class="panel panel--wide" aria-labelledby="controlsTitle">
         <div class="section-head">
           <h2 id="controlsTitle">Filters</h2>
           <span id="assetCountBadge" class="badge badge--neutral">loading</span>
@@ -86,7 +94,7 @@
         <div id="assetSummary" class="asset-summary"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="assetTableTitle">
+      <section id="assetResults" class="panel panel--wide" aria-labelledby="assetTableTitle">
         <div class="section-head">
           <h2 id="assetTableTitle">Assets</h2>
           <span class="muted">Sorted after every context run</span>
@@ -111,12 +119,16 @@
             <tbody id="assetTableBody"></tbody>
           </table>
         </div>
+        <div id="assetMobileList" class="asset-mobile-list"></div>
+        <div id="assetPagination" class="pagination" aria-label="Asset result pages"></div>
       </section>
     </main>
 
     <footer class="footer">
       <span>Public data only. Use private validation before strategy decisions.</span>
     </footer>
+
+    <a class="back-to-top" href="#assetFilters" aria-label="Back to top" title="Back to top">↑</a>
 
     <script src="./assets.js"></script>
   </body>

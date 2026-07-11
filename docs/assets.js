@@ -3,6 +3,15 @@ const DATA = {
 };
 
 let assetRows = [];
+let assetPage = 1;
+const DESKTOP_ASSET_PAGE_SIZE = 50;
+const MOBILE_ASSET_PAGE_SIZE = 24;
+
+function assetPageSize() {
+  return window.matchMedia("(max-width: 720px)").matches
+    ? MOBILE_ASSET_PAGE_SIZE
+    : DESKTOP_ASSET_PAGE_SIZE;
+}
 
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-store" });
@@ -123,12 +132,18 @@ function renderRows() {
     })
     .sort((a, b) => valueOf(b, sortKey) - valueOf(a, sortKey));
 
+  const pageSize = assetPageSize();
+  const pageCount = Math.max(1, Math.ceil(rows.length / pageSize));
+  assetPage = Math.min(Math.max(assetPage, 1), pageCount);
+  const start = (assetPage - 1) * pageSize;
+  const visibleRows = rows.slice(start, start + pageSize);
+
   if (badge) {
-    badge.textContent = `${fmtNumber(rows.length, 0)} shown`;
+    badge.textContent = `${fmtNumber(rows.length, 0)} matching`;
     badge.className = "badge badge--good";
   }
 
-  tbody.innerHTML = rows.slice(0, 180).map((row) => {
+  tbody.innerHTML = visibleRows.map((row) => {
     const rel = row.best_relationship || {};
     const relText = rel.pattern_id
       ? `${rel.condition || "pattern"} / ${rel.horizon || ""} / score ${fmtNumber(rel.score, 2)}`
@@ -149,6 +164,64 @@ function renderRows() {
       </tr>
     `;
   }).join("") || `<tr><td colspan="11">No matching assets.</td></tr>`;
+
+  renderMobileCards(visibleRows);
+  renderPagination(rows.length, pageCount);
+}
+
+function renderMobileCards(rows) {
+  const node = document.getElementById("assetMobileList");
+  if (!node) return;
+  node.innerHTML = rows.map((row) => {
+    const rel = row.best_relationship || {};
+    const relationship = rel.pattern_id
+      ? `${rel.condition || "relationship"} / ${rel.horizon || ""} / score ${fmtNumber(rel.score, 2)}`
+      : "No relationship candidate";
+    return `
+      <article class="asset-mobile-card">
+        <div class="asset-mobile-card__head">
+          <strong>${escapeHtml(row.symbol)}</strong>
+          <span>${escapeHtml(row.asset_class || "unknown")}</span>
+        </div>
+        <div class="asset-mobile-card__meta">
+          <span>Price ${fmtNumber(row.price, 6)}</span>
+          <span>Funding ${fmtPct(Number(row.funding || 0) * 100)}</span>
+        </div>
+        <div class="asset-mobile-card__returns">
+          <span>1h<strong class="${classForPct(row.returns?.["1h"])}">${fmtPct(row.returns?.["1h"])}</strong></span>
+          <span>4h<strong class="${classForPct(row.returns?.["4h"])}">${fmtPct(row.returns?.["4h"])}</strong></span>
+          <span>24h<strong class="${classForPct(row.returns?.["24h"])}">${fmtPct(row.returns?.["24h"])}</strong></span>
+        </div>
+        <div class="asset-mobile-card__meta">
+          <span>Volume ${fmtNumber(row.day_ntl_vlm, 0)}</span>
+          <span>OI ${fmtNumber(row.open_interest, 0)}</span>
+        </div>
+        <div class="asset-mobile-card__relationship">${escapeHtml(relationship)}</div>
+      </article>
+    `;
+  }).join("") || `<article class="asset-mobile-card">No matching assets.</article>`;
+}
+
+function renderPagination(total, pageCount) {
+  const node = document.getElementById("assetPagination");
+  if (!node) return;
+  if (total <= assetPageSize()) {
+    node.innerHTML = "";
+    return;
+  }
+  node.innerHTML = `
+    <button type="button" data-page="previous" ${assetPage <= 1 ? "disabled" : ""}>Previous</button>
+    <span>Page ${assetPage} of ${pageCount}</span>
+    <button type="button" data-page="next" ${assetPage >= pageCount ? "disabled" : ""}>Next</button>
+  `;
+  node.querySelector('[data-page="previous"]')?.addEventListener("click", () => {
+    assetPage -= 1;
+    renderRows();
+  });
+  node.querySelector('[data-page="next"]')?.addEventListener("click", () => {
+    assetPage += 1;
+    renderRows();
+  });
 }
 
 function isMetadataOnlySymbol(row) {
@@ -178,8 +251,27 @@ async function init() {
 }
 
 for (const id of ["assetSearch", "assetClassFilter", "assetSort", "hideUnknownAux"]) {
-  document.getElementById(id)?.addEventListener("input", renderRows);
-  document.getElementById(id)?.addEventListener("change", renderRows);
+  document.getElementById(id)?.addEventListener("input", () => {
+    assetPage = 1;
+    renderRows();
+  });
+  document.getElementById(id)?.addEventListener("change", () => {
+    assetPage = 1;
+    renderRows();
+  });
 }
 
+function setupBackToTop() {
+  const button = document.querySelector(".back-to-top");
+  if (!button) return;
+  const update = () => button.classList.toggle("is-visible", window.scrollY > 520);
+  update();
+  window.addEventListener("scroll", update, { passive: true });
+}
+
+setupBackToTop();
+window.addEventListener("resize", () => {
+  assetPage = 1;
+  renderRows();
+});
 init();

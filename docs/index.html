@@ -52,8 +52,22 @@
       </details>
     </aside>
 
+    <nav class="quick-nav" aria-label="Dashboard sections">
+      <div class="quick-nav__inner">
+        <a href="#overview">Overview</a>
+        <a href="#macro">Macro</a>
+        <a href="#sectors">Sectors</a>
+        <a href="#polymarket">Polymarket</a>
+        <a href="#hip4">HIP-4</a>
+        <a href="#relationships">Relationships</a>
+        <a href="#assetSignals">Assets</a>
+        <a href="#intelligence">News</a>
+        <a href="./assets.html">Asset Screener</a>
+      </div>
+    </nav>
+
     <main class="layout">
-      <section class="panel panel--status" aria-labelledby="statusTitle">
+      <section id="overview" class="panel panel--status" aria-labelledby="statusTitle">
         <div class="section-head">
           <h2 id="statusTitle">Market Status</h2>
           <span id="flowLevel" class="badge badge--neutral">--</span>
@@ -114,7 +128,7 @@
         </details>
       </section>
 
-      <section class="panel" aria-labelledby="dataTitle">
+      <section id="readiness" class="panel" aria-labelledby="dataTitle">
         <div class="section-head">
           <h2 id="dataTitle">Data Readiness</h2>
           <span id="correlationStatus" class="badge badge--neutral">--</span>
@@ -130,7 +144,7 @@
         </div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="canaryTitle">
+      <section id="canary" class="panel panel--wide" aria-labelledby="canaryTitle">
         <div class="section-head"><h2 id="canaryTitle">Canary Signals</h2></div>
         <div id="canaryList" class="signal-list"></div>
         <details class="metric-guide">
@@ -184,7 +198,7 @@
         </details>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="macroIndicatorTitle">
+      <section id="macro" class="panel panel--wide" aria-labelledby="macroIndicatorTitle">
         <div class="section-head">
           <h2 id="macroIndicatorTitle">Macro Indicators</h2>
           <a class="text-link" href="./data/reports/latest_macro_indicators.md">Open Report</a>
@@ -193,7 +207,7 @@
         <div id="macroIndicatorList" class="detail-list"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="sectorReactionTitle">
+      <section id="sectors" class="panel panel--wide" aria-labelledby="sectorReactionTitle">
         <div class="section-head">
           <h2 id="sectorReactionTitle">Sector Reactions</h2>
           <a class="text-link" href="./data/reports/latest_sector_reactions.md">Open Report</a>
@@ -202,13 +216,13 @@
         <div id="sectorReactionList" class="item-list"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="healthPolymarketTitle">
+      <section id="health" class="panel panel--wide" aria-labelledby="healthPolymarketTitle">
         <div class="section-head"><h2 id="healthPolymarketTitle">Pandemic / Health Markets</h2></div>
         <p class="section-note">感染症、パンデミック、公衆衛生イベントを市場全体のリスク予兆として監視します。</p>
         <div id="healthPolymarketList" class="item-list"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="polymarketPeopleTitle">
+      <section id="polymarket" class="panel panel--wide" aria-labelledby="polymarketPeopleTitle">
         <div class="section-head">
           <h2 id="polymarketPeopleTitle">Polymarket People</h2>
           <span id="polymarketPeopleCount" class="badge badge--neutral">--</span>
@@ -232,25 +246,33 @@
             </select>
           </label>
         </div>
+        <div class="list-toolbar">
+          <span id="polymarketPeopleSummary" class="muted"></span>
+          <button id="polymarketPeopleToggle" class="secondary-action" type="button">Show all</button>
+        </div>
         <div id="polymarketPeopleList" class="item-list"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="hip4Title">
+      <section id="hip4" class="panel panel--wide" aria-labelledby="hip4Title">
         <div class="section-head">
           <h2 id="hip4Title">HIP-4 Prediction Markets</h2>
           <span id="hip4Badge" class="badge badge--neutral">--</span>
         </div>
         <p class="section-note">HyperLiquid上の予測市場です。APIから名前が取れないものは価格とID中心で表示します。</p>
+        <div class="list-toolbar">
+          <span id="hip4Summary" class="muted"></span>
+          <button id="hip4Toggle" class="secondary-action" type="button">Show all</button>
+        </div>
         <div id="hip4List" class="item-list"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="relationshipTitle">
+      <section id="relationships" class="panel panel--wide" aria-labelledby="relationshipTitle">
         <div class="section-head"><h2 id="relationshipTitle">Relationship Scan</h2></div>
         <p class="section-note">過去データから機械的に見つかった相関候補です。採用前に別期間で検証します。</p>
         <div id="relationshipList" class="item-list"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="individualSignalsTitle">
+      <section id="assetSignals" class="panel panel--wide" aria-labelledby="individualSignalsTitle">
         <div class="section-head">
           <h2 id="individualSignalsTitle">Individual Asset Signals</h2>
           <a class="text-link" href="./assets.html">Open Asset Screener</a>
@@ -259,7 +281,7 @@
         <div id="individualSignalsList" class="item-list relationship-cards"></div>
       </section>
 
-      <section class="panel panel--wide" aria-labelledby="intelligenceTitle">
+      <section id="intelligence" class="panel panel--wide" aria-labelledby="intelligenceTitle">
         <div class="section-head"><h2 id="intelligenceTitle">News And Polymarket</h2></div>
         <p class="section-note">ニュース見出しと予測市場の出来高・確率を並べて、世論や注目テーマの変化を見ます。</p>
         <div class="intel-grid">
@@ -361,6 +383,8 @@
     <footer class="footer">
       <span>Public data only. No private strategy, wallet, position, or execution data.</span>
     </footer>
+
+    <a class="back-to-top" href="#overview" aria-label="Back to top" title="Back to top">↑</a>
 
     <script src="./app.js"></script>
   </body>

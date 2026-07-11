@@ -26,6 +26,9 @@ const CLASS_ORDER = [
 
 let polymarketPeopleHistory = [];
 let polymarketPeopleControlsReady = false;
+let polymarketPeopleExpanded = false;
+let hip4Data = null;
+let hip4Expanded = false;
 
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-store" });
@@ -371,6 +374,16 @@ function isReadableDashboardAsset(row) {
 renderDashboard();
 setInterval(renderDashboard, 5 * 60 * 1000);
 
+function setupBackToTop() {
+  const button = document.querySelector(".back-to-top");
+  if (!button) return;
+  const update = () => button.classList.toggle("is-visible", window.scrollY > 520);
+  update();
+  window.addEventListener("scroll", update, { passive: true });
+}
+
+setupBackToTop();
+
 function renderIntelligence(context, flow) {
   renderPolymarket(context, flow);
   renderHealthPolymarket(context, flow);
@@ -446,6 +459,7 @@ function setupPolymarketPeopleControls(rows) {
   const eventSelect = document.getElementById("polymarketPeopleEvent");
   const searchInput = document.getElementById("polymarketPeopleSearch");
   const sortSelect = document.getElementById("polymarketPeopleSort");
+  const toggle = document.getElementById("polymarketPeopleToggle");
   const events = [...new Set(rows.map((row) => row?.event_slug).filter(Boolean))].sort();
   if (eventSelect) {
     const selected = eventSelect.value;
@@ -460,6 +474,10 @@ function setupPolymarketPeopleControls(rows) {
   if (!polymarketPeopleControlsReady) {
     searchInput?.addEventListener("input", renderPolymarketPeopleList);
     sortSelect?.addEventListener("change", renderPolymarketPeopleList);
+    toggle?.addEventListener("click", () => {
+      polymarketPeopleExpanded = !polymarketPeopleExpanded;
+      renderPolymarketPeopleList();
+    });
   }
   polymarketPeopleControlsReady = true;
 }
@@ -484,7 +502,16 @@ function renderPolymarketPeopleList() {
     });
   sortPolymarketPeopleRows(latest, sort);
   setBadge("polymarketPeopleCount", `${fmtNumber(latest.length, 0)} people`, latest.length ? "good" : "neutral");
-  node.innerHTML = latest.slice(0, 30).map((row) => {
+  const visibleLimit = polymarketPeopleExpanded ? latest.length : 10;
+  const visibleRows = latest.slice(0, visibleLimit);
+  const summary = document.getElementById("polymarketPeopleSummary");
+  const toggle = document.getElementById("polymarketPeopleToggle");
+  if (summary) summary.textContent = `Showing ${fmtNumber(visibleRows.length, 0)} of ${fmtNumber(latest.length, 0)} matching people`;
+  if (toggle) {
+    toggle.hidden = latest.length <= 10;
+    toggle.textContent = polymarketPeopleExpanded ? "Show less" : `Show all ${fmtNumber(latest.length, 0)}`;
+  }
+  node.innerHTML = visibleRows.map((row) => {
     const name = row.person_name || row.subject_name || row.outcome_name || "Unknown";
     const href = row.event_slug
       ? `https://polymarket.com/event/${encodeURIComponent(String(row.event_slug))}`
@@ -510,9 +537,6 @@ function renderPolymarketPeopleList() {
       </article>
     `;
   }).join("") || emptyCard("Person-level Polymarket history will appear after the next context run.");
-  if (latest.length > 30) {
-    node.insertAdjacentHTML("beforeend", emptyCard(`Showing 30 of ${fmtNumber(latest.length, 0)} matching rows. Use search or event filter to narrow it.`));
-  }
 }
 
 function latestPolymarketPeopleRows(rows) {
@@ -987,12 +1011,16 @@ function renderHip4(hip4) {
   const node = document.getElementById("hip4List");
   if (!node) return;
 
+  hip4Data = hip4;
+
   const rows = Array.isArray(hip4?.rows) ? hip4.rows : [];
   const errors = Array.isArray(hip4?.request_errors) ? hip4.request_errors : [];
   const warnings = Array.isArray(hip4?.request_warnings) ? hip4.request_warnings : [];
 
   if (rows.length === 0) {
     setBadge("hip4Badge", "0 markets", "neutral");
+    document.getElementById("hip4Summary").textContent = "No markets available";
+    document.getElementById("hip4Toggle").hidden = true;
     node.innerHTML = emptyCard("No HIP-4 prediction markets found.");
     return;
   }
@@ -1008,8 +1036,22 @@ function renderHip4(hip4) {
   setBadge("hip4Badge", `${badgeCount} market${Number(badgeCount) !== 1 ? "s" : ""}`, "good");
 
   const groups = [...byOutcome.values()].sort((a, b) => hip4GroupScore(b) - hip4GroupScore(a));
-  const visibleLimit = 16;
+  const visibleLimit = hip4Expanded ? groups.length : 8;
   const visibleGroups = groups.slice(0, visibleLimit);
+  const summary = document.getElementById("hip4Summary");
+  const toggle = document.getElementById("hip4Toggle");
+  if (summary) summary.textContent = `Showing ${fmtNumber(visibleGroups.length, 0)} of ${fmtNumber(groups.length, 0)} markets`;
+  if (toggle) {
+    toggle.hidden = groups.length <= 8;
+    toggle.textContent = hip4Expanded ? "Show less" : `Show all ${fmtNumber(groups.length, 0)}`;
+    if (!toggle.dataset.bound) {
+      toggle.dataset.bound = "true";
+      toggle.addEventListener("click", () => {
+        hip4Expanded = !hip4Expanded;
+        renderHip4(hip4Data);
+      });
+    }
+  }
   const unknownCount = groups.filter((sides) => !sides[0]?.underlying && !sides[0]?.expiry && sides[0]?.target_price == null).length;
 
   const statusHtml = unknownCount
@@ -1062,10 +1104,6 @@ function renderHip4(hip4) {
     `;
   });
 
-  const hiddenHtml = groups.length > visibleGroups.length
-    ? emptyCard(`Showing ${visibleGroups.length} of ${groups.length} HIP-4 markets. Open the HIP-4 report for the full raw list.`)
-    : "";
-
   const errorHtml = errors.length
     ? `<article class="item-card item-card--warning"><strong>Price data unavailable</strong><div class="meta-line"><span>${escapeHtml(errors[0])}</span></div></article>`
     : "";
@@ -1073,7 +1111,7 @@ function renderHip4(hip4) {
     ? `<article class="item-card item-card--warning"><strong>Context endpoint unavailable</strong><div class="meta-line"><span>Prices are still filled from allMids when available.</span></div></article>`
     : "";
 
-  node.innerHTML = statusHtml + cards.join("") + hiddenHtml + errorHtml + warningHtml;
+  node.innerHTML = statusHtml + cards.join("") + errorHtml + warningHtml;
 }
 
 function hip4GroupScore(sides) {
