@@ -2,9 +2,9 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-07-11T06:52:24.972445+00:00`
+- Generated: `2026-07-11T06:57:06.767354+00:00`
 - Price records: `672`
-- Market context records: `6365`
+- Market context records: `6366`
 - Flow alert records: `8640`
 - Minimum samples: `30`
 - Pattern count: `96`
@@ -25,7 +25,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `news_risk_high->crypto_alt_24h` score `14.6743` n `32` status `ready` deltaP `39.9306` edge `0.9714` maxDD `-0.5131`
+- `news_risk_high->crypto_alt_24h` score `14.6755` n `32` status `ready` deltaP `39.9306` edge `0.9715` maxDD `-0.5131`
 - `news_risk_high->fx_24h` score `6.3076` n `32` status `ready` deltaP `52.4306` edge `0.1761` maxDD `0.0`
 - `news_risk_high->crypto_major_24h` score `4.405` n `32` status `ready` deltaP `17.5347` edge `0.5258` maxDD `-4.2368`
 - `news_risk_high->fx_4h` score `4.051` n `32` status `ready` deltaP `41.997` edge `0.0622` maxDD `-0.0345`
@@ -38,7 +38,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->index_4h` score `0.1153` n `210` status `ready` deltaP `8.3014` edge `0.0219` maxDD `-0.4108`
 - `news_risk_high->unknown_1h` score `-0.4179` n `32` status `ready` deltaP `5.7822` edge `-0.0389` maxDD `-0.7581`
 - `market_context_high->metal_1h` score `-0.4191` n `220` status `ready` deltaP `3.2145` edge `0.0026` maxDD `-1.8877`
-- `market_context_high->commodity_24h` score `-0.5239` n `131` status `ready` deltaP `-3.6087` edge `0.1433` maxDD `-6.2457`
+- `market_context_high->commodity_24h` score `-0.5223` n `131` status `ready` deltaP `-3.6087` edge `0.1435` maxDD `-6.2457`
 - `market_context_high->metal_24h` score `-0.5715` n `131` status `ready` deltaP `15.8967` edge `0.0776` maxDD `-11.8809`
 - `market_context_high->index_1h` score `-0.616` n `220` status `ready` deltaP `-1.5024` edge `0.003` maxDD `-0.7564`
 - `market_context_high->fx_1h` score `-0.6861` n `220` status `ready` deltaP `-0.343` edge `-0.0015` maxDD `-0.9376`
