@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-11T21:37:26.438241+00:00`
-- Market context score: `52.99`
-- News risk score: `43.8`
-- Macro risk score: `26.63`
-- Risk-on score: `42.58`
+- Generated: `2026-07-11T21:52:27.092717+00:00`
+- Market context score: `51.24`
+- News risk score: `44.88`
+- Macro risk score: `28.89`
+- Risk-on score: `40.45`
 - Articles: `53`
 - Polymarket markets: `395`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5835`
-- Day/swing latest: `2026-07-11T21:30:00+00:00`
+- Day/swing records: `5836`
+- Day/swing latest: `2026-07-11T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `42`, risk hits `8`, risk headline rate `0.1667`, policy hits `5`
+- macro: articles `42`, risk hits `10`, risk headline rate `0.2143`, policy hits `4`
 
 ## Headlines
 
+- [macro] Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What? (Yahoo Finance)
+- [macro] TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts (Yahoo Finance)
+- [macro] Everyone Owns VOO. This Overlooked S&P 500 ETF Is Somehow Cheaper (Yahoo Finance)
+- [macro] Here is Why Salesforce (CRM) is One of the Best Large Cap Stocks to Buy According to Analysts (Yahoo Finance)
+- [macro] Baker Hughes (BKR) Secures Long-Term Service Agreement for ANOH Gas Plant (Yahoo Finance)
+- [macro] Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC (Yahoo Finance)
+- [macro] Carrier Global (CARR) Completes $440M Sale of Riello Business (Yahoo Finance)
 - [macro] An Acadia Pharmaceuticals Insider Sold Nearly Half Their Shares in the Company. What Does That Mean for Investors? (Yahoo Finance)
-- [macro] Vertex Pharmaceuticals Bets $10 Billion on Crinetics to Build Endocrinology Powerhouse (Yahoo Finance)
-- [macro] Ripple's stablecoin is fading away on popular chain, XRP crashes (Yahoo Finance)
-- [macro] 2 Beaten-Down Stocks That Still Aren't Worth Buying (Yahoo Finance)
-- [commodity] Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier (Energy)
-- [macro] Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs (Yahoo Finance)
-- [macro] Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog (Yahoo Finance)
-- [macro] Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates (Yahoo Finance)
-- [macro] Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due (Yahoo Finance)
-- [macro] How Vertiv (VRT) Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition (Yahoo Finance)
+- [macro] Fifth Third (FITB) Launches AI-Powered Mobile App Interface (Yahoo Finance)
+- [macro] Upstart Holdings (UPST) Renews $600M Forward-Flow Agreement (Yahoo Finance)
