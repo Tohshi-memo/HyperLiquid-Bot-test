@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-11T18:00:25.802113+00:00`
-- Flow alert score: `21.08`
+- Generated: `2026-07-11T18:05:26.209327+00:00`
+- Flow alert score: `21.12`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `34721965.74`
-- Polymarket volume z-score: `1.02`
+- Polymarket 24h volume: `34845617.9`
+- Polymarket volume z-score: `1.03`
 
 ## Top Polymarket Markets
 
-- Norway vs. England: Team to Advance | 24h volume: `4841224.102916056` | liquidity: `2375278.778325`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `3637122.842333` | liquidity: `25756.84317`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3279396.7353660003` | liquidity: `17798.4782`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `2803967.082344` | liquidity: `31785.87588`
-- Exact Score: Norway 3 - 2 England? | 24h volume: `2004609.4248959983` | liquidity: `1060162.28155`
-- Argentina vs. Switzerland: Team to Advance | 24h volume: `1697918.6911959997` | liquidity: `1446840.2188`
-- Exact Score: Norway 2 - 3 England? | 24h volume: `1615402.1436480095` | liquidity: `1201055.25908`
-- Exact Score: Norway 1 - 2 England? | 24h volume: `1565520.1940969962` | liquidity: `1647958.7491`
+- Norway vs. England: Team to Advance | 24h volume: `4996481.820573059` | liquidity: `2340283.32905`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `3637122.842333` | liquidity: `25215.50555`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3097396.7353660003` | liquidity: `17809.2309`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `2803967.082344` | liquidity: `31240.76022`
+- Exact Score: Norway 3 - 2 England? | 24h volume: `2018951.743685997` | liquidity: `1148565.26889`
+- Argentina vs. Switzerland: Team to Advance | 24h volume: `1746311.592036999` | liquidity: `1438346.157575`
+- Exact Score: Norway 2 - 3 England? | 24h volume: `1650631.53775201` | liquidity: `1252972.79027`
+- Exact Score: Norway 1 - 2 England? | 24h volume: `1576925.9179809967` | liquidity: `1640140.3412`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
