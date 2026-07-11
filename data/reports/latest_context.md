@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-11T10:52:29.580745+00:00`
-- Market context score: `54.54`
-- News risk score: `32.57`
-- Macro risk score: `22.47`
-- Risk-on score: `34.98`
-- Articles: `22`
-- Polymarket markets: `391`
+- Generated: `2026-07-11T11:07:25.413028+00:00`
+- Market context score: `49.49`
+- News risk score: `31.81`
+- Macro risk score: `20.78`
+- Risk-on score: `22.46`
+- Articles: `18`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5793`
-- Day/swing latest: `2026-07-11T10:45:00+00:00`
+- Day/swing records: `5794`
+- Day/swing latest: `2026-07-11T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `4`
+- macro: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `4`
 
 ## Headlines
 
-- [macro] Best CD rates today, Saturday, July 11, 2026: Best account provides 4.10% APY (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Saturday, July 11: Rates moving lower today (Yahoo Finance)
+- [macro] Best CD rates today, Saturday, July 11, 2026: Best account provides 4.10% APY (Yahoo Finance)
 - [commodity] Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier (Energy)
 - [crypto] Dollar stablecoins could improve FX access but amplify currency runs: IMF paper (Cointelegraph.com News)
 - [macro] Spain battles to contain one of its deadliest wildfires as at least 12 killed (BBC News)
