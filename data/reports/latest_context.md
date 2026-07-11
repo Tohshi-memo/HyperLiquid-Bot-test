@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-11T02:22:27.407098+00:00`
-- Market context score: `56.39`
-- News risk score: `31.98`
+- Generated: `2026-07-11T02:37:25.917472+00:00`
+- Market context score: `56.98`
+- News risk score: `31.11`
 - Macro risk score: `17.45`
-- Risk-on score: `36.68`
-- Articles: `34`
+- Risk-on score: `37.26`
+- Articles: `35`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:229, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5759`
-- Day/swing latest: `2026-07-11T02:15:00+00:00`
+- Day/swing records: `5760`
+- Day/swing latest: `2026-07-11T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
 - macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Meta pulls new AI image feature after days of backlash (BBC News)
 - [crypto] DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report (Cointelegraph.com News)
 - [macro] US wants Iran to pledge to stop shooting at ships in Strait of Hormuz (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Meet the crypto billionaires building a world where money buys you a vote (BBC News)
 - [macro] Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows (BBC News)
 - [macro] Apple sues OpenAI, its employees claiming theft of trade secrets (BBC News)
-- [macro] Man fatally shot by ICE in Houston was not intended target, DHS says (BBC News)
