@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T15:31:12.697712+00:00`
+- Generated: `2026-07-12T15:37:24.947246+00:00`
 - Market context score: `72.14`
 - News risk score: `22.92`
 - Macro risk score: `19.22`
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] US insists Strait of Hormuz is open as it exchanges strikes with Iran (BBC News)
+- [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
+- [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
 - [macro] David Willey, esteemed BBC foreign correspondent, dies aged 93 (BBC News)
 - [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
-- [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
 - [macro] Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller (Yahoo Finance)
 - [macro] Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners’ Filings (Yahoo Finance)
 - [macro] Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners (Yahoo Finance)
 - [macro] Should You Buy Lincoln National Corporation (LNC)’s Shares? (Yahoo Finance)
 - [macro] Quad/Graphics, Inc. (QUAD) Is A Top Stock To Buy According To Bill Miller (Yahoo Finance)
-- [macro] Bread Financial Holdings, Inc. (BFH) Is A Top Stock In Miller Value Partners’ Filings (Yahoo Finance)
-- [macro] Should You Buy USA TODAY Co., Inc. (TDAY)’s Shares? (Yahoo Finance)
