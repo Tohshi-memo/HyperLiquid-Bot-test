@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T18:07:34.026347+00:00`
-- Market context score: `64.79`
-- News risk score: `22.04`
-- Macro risk score: `19.47`
+- Generated: `2026-07-12T18:22:29.274091+00:00`
+- Market context score: `64.63`
+- News risk score: `22.18`
+- Macro risk score: `20.11`
 - Risk-on score: `47.71`
-- Articles: `41`
+- Articles: `40`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5914`
-- Day/swing latest: `2026-07-12T18:00:00+00:00`
+- Day/swing records: `5915`
+- Day/swing latest: `2026-07-12T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - macro: articles `34`, risk hits `3`, risk headline rate `0.0882`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart (Cointelegraph.com News)
 - [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
 - [macro] Figure Technology (FIGR): Stocks Set to Explode in the Next 2 Years (Yahoo Finance)
 - [macro] NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Why Western Digital (WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions (Yahoo Finance)
 - [macro] How AppLovin (APP) Is Using AI to Expand Beyond Mobile Gaming Into E-Commerce Advertising (Yahoo Finance)
 - [macro] Viavi Solutions (VIAV) Launches Ultra-Compact µPNT GDO-1000 Precision Timing Module (Yahoo Finance)
-- [macro] Bausch Health’s (BHC) Canadian Subsidiary Lists PrOKEDI Dosages in RAMQ Formulary (Yahoo Finance)
