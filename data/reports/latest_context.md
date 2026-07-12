@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T03:52:29.603602+00:00`
+- Generated: `2026-07-12T04:04:08.504703+00:00`
 - Market context score: `28.61`
 - News risk score: `58.95`
 - Macro risk score: `33.38`
 - Risk-on score: `3.75`
 - Articles: `19`
-- Polymarket markets: `393`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5860`
-- Day/swing latest: `2026-07-12T03:45:00+00:00`
+- Day/swing records: `5861`
+- Day/swing latest: `2026-07-12T04:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [macro] At least two killed in Toronto street festival shooting (BBC News)
+- [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [macro] Pizza chain closing up to 50 locations after years of declines (Yahoo Finance)
 - [commodity] U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says (Energy)
 - [macro] China's second typhoon in a week makes landfall (BBC News)
