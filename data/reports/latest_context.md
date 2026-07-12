@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T19:37:27.129790+00:00`
-- Market context score: `53.91`
-- News risk score: `24.31`
-- Macro risk score: `22.89`
-- Risk-on score: `26.76`
+- Generated: `2026-07-12T19:52:24.979502+00:00`
+- Market context score: `53.08`
+- News risk score: `25.12`
+- Macro risk score: `24.51`
+- Risk-on score: `26.22`
 - Articles: `43`
 - Polymarket markets: `391`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5920`
-- Day/swing latest: `2026-07-12T19:30:00+00:00`
+- Day/swing records: `5921`
+- Day/swing latest: `2026-07-12T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `1`
+- macro: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [macro] At least 27 killed in Bangkok bar fire, Thai media report (BBC News)
 - [macro] 'Funflation' hits home: Why staying in isn't the cost-saver it used to be (Economy)
 - [macro] Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters' (Yahoo Finance)
 - [macro] 'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
 - [macro] Figure Technology (FIGR): Stocks Set to Explode in the Next 2 Years (Yahoo Finance)
 - [macro] NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing (Yahoo Finance)
-- [macro] First Majestic Silver (AG) Receives Construction Permits for Santa Elena Mine Expansion (Yahoo Finance)
