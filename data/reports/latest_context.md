@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T20:22:23.756472+00:00`
-- Market context score: `53.15`
-- News risk score: `25.21`
-- Macro risk score: `24.19`
-- Risk-on score: `26.32`
+- Generated: `2026-07-12T20:37:29.102524+00:00`
+- Market context score: `57.88`
+- News risk score: `24.87`
+- Macro risk score: `23.62`
+- Risk-on score: `36.32`
 - Articles: `44`
 - Polymarket markets: `391`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5923`
-- Day/swing latest: `2026-07-12T20:15:00+00:00`
+- Day/swing records: `5924`
+- Day/swing latest: `2026-07-12T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `37`, risk hits `6`, risk headline rate `0.1622`, policy hits `1`
+- macro: articles `37`, risk hits `6`, risk headline rate `0.1622`, policy hits `0`
 
 ## Headlines
 
+- [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
 - [macro] At least 27 killed in Bangkok bar fire, Thai authorities say (BBC News)
 - [macro] Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era (BBC News)
 - [macro] 'Funflation' hits home: Why staying in isn't the cost-saver it used to be (Economy)
@@ -37,4 +38,3 @@
 - [macro] South Africa says more than 53,000 foreigners deported in migration campaign (BBC News)
 - [crypto] Signs of life?: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart (Cointelegraph.com News)
-- [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
