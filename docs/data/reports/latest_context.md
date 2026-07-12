@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T06:37:30.283141+00:00`
+- Generated: `2026-07-12T06:44:41.178199+00:00`
 - Market context score: `61.57`
 - News risk score: `25.18`
 - Macro risk score: `26.11`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] China's second typhoon in a week makes landfall (BBC News)
 - [crypto] Bitcoin, ether little changed as U.S. launches fresh Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ripple once weighed shutting down and handing XRP to shareholders, CEO says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says (Energy)
@@ -37,4 +38,3 @@
 - [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal (Cointelegraph.com News)
-- [macro] At least two killed in Toronto street festival shooting (BBC News)
