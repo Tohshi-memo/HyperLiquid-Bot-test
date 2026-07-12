@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-12T03:45:28.307734+00:00`
+- Generated: `2026-07-12T03:50:30.405684+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `45448992.11`
-- Polymarket volume z-score: `2.12`
+- Polymarket 24h volume: `46119204.11`
+- Polymarket volume z-score: `2.2`
 
 ## Top Polymarket Markets
 
-- Argentina vs. Switzerland: Team to Advance | 24h volume: `17997459.341187146` | liquidity: `6519143.23985`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `3637259.319` | liquidity: `32597.26101`
-- Exact Score: Argentina 2 - 1 Switzerland? | 24h volume: `2739502.3228310314` | liquidity: `762744.97142`
-- Exact Score: Argentina 3 - 1 Switzerland? | 24h volume: `2481308.0048150076` | liquidity: `149623.26725`
-- Exact Score: Argentina 2 - 0 Switzerland? | 24h volume: `2051075.028497004` | liquidity: `489255.7449`
-- Exact Score: Argentina 3 - 2 Switzerland? | 24h volume: `1367801.2827460028` | liquidity: `308955.30176`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1263042.1853329998` | liquidity: `28944.61449`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `1223059.1991670001` | liquidity: `534158.5423`
+- Argentina vs. Switzerland: Team to Advance | 24h volume: `18478834.357813142` | liquidity: `6489255.9529`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `3637259.319` | liquidity: `32569.73978`
+- Exact Score: Argentina 2 - 1 Switzerland? | 24h volume: `2739177.231927031` | liquidity: `779189.57609`
+- Exact Score: Argentina 3 - 1 Switzerland? | 24h volume: `2525277.4214830077` | liquidity: `173861.71777`
+- Exact Score: Argentina 2 - 0 Switzerland? | 24h volume: `2050779.325165004` | liquidity: `512189.02516`
+- Exact Score: Argentina 3 - 2 Switzerland? | 24h volume: `1368801.2827460028` | liquidity: `326504.55149`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1263042.1853329998` | liquidity: `32524.96449`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `1224460.4743830003` | liquidity: `590535.4854`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
