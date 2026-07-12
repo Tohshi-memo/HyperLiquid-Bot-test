@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T17:37:28.507081+00:00`
-- Market context score: `70.1`
+- Generated: `2026-07-12T17:39:31.822964+00:00`
+- Market context score: `64.7`
 - News risk score: `22.29`
 - Macro risk score: `19.45`
-- Risk-on score: `59.71`
+- Risk-on score: `47.71`
 - Articles: `42`
 - Polymarket markets: `391`
 
@@ -34,7 +34,7 @@
 - [macro] Why Western Digital (WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions (Yahoo Finance)
 - [macro] How AppLovin (APP) Is Using AI to Expand Beyond Mobile Gaming Into E-Commerce Advertising (Yahoo Finance)
 - [macro] Viavi Solutions (VIAV) Launches Ultra-Compact µPNT GDO-1000 Precision Timing Module (Yahoo Finance)
+- [macro] Bausch Health’s (BHC) Canadian Subsidiary Lists PrOKEDI Dosages in RAMQ Formulary (Yahoo Finance)
 - [macro] Clarivate (CLVT) to Sell Life Sciences & Healthcare Business to Altaris For $600 Million (Yahoo Finance)
 - [macro] Ur-Energy (URG) Achieves Key Regulatory Milestone for Shirley Basin Project (Yahoo Finance)
-- [macro] SITE Centers (SITC) Divests Stake in The Pike Outlets for $50 Million (Yahoo Finance)
-- [macro] Dakota Gold (DC) Reveals Encouraging Data for Richmond Hill Oxide Heap Leach Gold Project (Yahoo Finance)
+- [macro] Borr Drilling (BORR) Extends Debt Maturity Profile and Lowers Total Outstanding Debt (Yahoo Finance)
