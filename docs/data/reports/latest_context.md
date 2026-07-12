@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T01:52:26.112063+00:00`
+- Generated: `2026-07-12T02:07:27.651479+00:00`
 - Market context score: `34.92`
 - News risk score: `50.2`
 - Macro risk score: `30.94`
 - Risk-on score: `9.44`
 - Articles: `22`
-- Polymarket markets: `391`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5852`
-- Day/swing latest: `2026-07-12T01:45:00+00:00`
+- Day/swing records: `5853`
+- Day/swing latest: `2026-07-12T02:00:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [macro] At least two killed in Toronto street festival shooting (BBC News)
 - [commodity] U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says (Energy)
 - [macro] China's second typhoon in a week makes landfall (BBC News)
 - [crypto] Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project (Cointelegraph.com News)
 - [macro] Muslim judge in India faces death threats after convicting 'cow vigilantes' (BBC News)
-- [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [macro] T. rex could become most expensive fossil ever - but it's a ​problem for scientists (BBC News)
 - [macro] How men with female surnames are standing up to ridicule in Kenya (BBC News)
 - [macro] Ice on testicles and donating blood - the myths sold to men trying to boost their sperm (BBC News)
