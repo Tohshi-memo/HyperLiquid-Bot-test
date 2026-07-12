@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-12T16:20:24.209868+00:00`
+- Generated: `2026-07-12T16:25:25.115143+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14152462.65`
-- Polymarket volume z-score: `-1.44`
+- Polymarket 24h volume: `14191549.77`
+- Polymarket volume z-score: `-1.43`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `3297135.013059031` | liquidity: `2600845.2247`
-- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `2731651.9890000024` | liquidity: `49555.7394`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `789133.9487469996` | liquidity: `1036831.9747`
-- Will Ali Motahari be head of state in Iran end of 2026? | 24h volume: `573597.8899999993` | liquidity: `61751.55661`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `470479.5616819999` | liquidity: `597225.5545`
-- Iran full airspace closure by July 15? | 24h volume: `376668.89131799963` | liquidity: `63815.87137`
-- Will the U.S. invade Iran before 2027? | 24h volume: `358169.2903119998` | liquidity: `459873.8507`
-- Will the US announce a blockade on Iran by July 31? | 24h volume: `340039.122307` | liquidity: `54112.3848`
+- France vs. Spain: Team to Advance | 24h volume: `3307411.378736029` | liquidity: `2596848.7972`
+- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `2731651.9890000024` | liquidity: `49556.68306`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `789153.9487469996` | liquidity: `1021511.1244`
+- Will Ali Motahari be head of state in Iran end of 2026? | 24h volume: `566494.6999999994` | liquidity: `61685.8248`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `470514.9576819999` | liquidity: `597176.05832`
+- Iran full airspace closure by July 15? | 24h volume: `376860.40131799964` | liquidity: `62766.07413`
+- Will the U.S. invade Iran before 2027? | 24h volume: `358174.00987799984` | liquidity: `454521.762`
+- Will the US announce a blockade on Iran by July 31? | 24h volume: `340010.247307` | liquidity: `58909.5838`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
