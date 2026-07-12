@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T06:44:41.178199+00:00`
+- Generated: `2026-07-12T06:52:30.088114+00:00`
 - Market context score: `61.57`
 - News risk score: `25.18`
 - Macro risk score: `26.11`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5871`
-- Day/swing latest: `2026-07-12T06:30:00+00:00`
+- Day/swing records: `5872`
+- Day/swing latest: `2026-07-12T06:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [macro] China's second typhoon in a week makes landfall (BBC News)
 - [crypto] Bitcoin, ether little changed as U.S. launches fresh Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ripple once weighed shutting down and handing XRP to shareholders, CEO says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +36,5 @@
 - [crypto] Bitcoin’s BIP 110 fork deadline nears with miner support at zero (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How Aldi is taking on US supermarkets with its $4 almond butter (BBC News)
 - [macro] How Aldi is taking on US supermarkets with its $4 almond butter (BBC News)
-- [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal (Cointelegraph.com News)
