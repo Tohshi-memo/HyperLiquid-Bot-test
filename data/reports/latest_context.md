@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T09:07:33.234154+00:00`
+- Generated: `2026-07-12T09:22:57.692465+00:00`
 - Market context score: `64.07`
 - News risk score: `22.71`
 - Macro risk score: `21.19`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5881`
-- Day/swing latest: `2026-07-12T09:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] People flee as Russian strike hits near Ukraine coffee shop (BBC News)
 - [macro] US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
 - [macro] China evacuates nearly two million people as powerful typhoon makes landfall (BBC News)
 - [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin’s BIP 110 fork deadline nears with miner support at zero (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How Aldi is taking on US supermarkets with its $4 almond butter (BBC News)
 - [macro] How Aldi is taking on US supermarkets with its $4 almond butter (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
