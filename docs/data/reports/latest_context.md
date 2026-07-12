@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T23:22:32.246681+00:00`
-- Market context score: `56.66`
+- Generated: `2026-07-12T23:37:26.163372+00:00`
+- Market context score: `55.76`
 - News risk score: `25.44`
 - Macro risk score: `26.76`
-- Risk-on score: `35.29`
+- Risk-on score: `33.29`
 - Articles: `39`
 - Polymarket markets: `391`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5935`
-- Day/swing latest: `2026-07-12T23:15:00+00:00`
+- Day/swing records: `5936`
+- Day/swing latest: `2026-07-12T23:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [crypto] Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026 (Cointelegraph.com News)
+- [macro] Unum Group Cuts Long-Term Care Risk With $3.8B Reinsurance Deal (Yahoo Finance)
 - [macro] At least 27 killed in Bangkok bar fire (BBC News)
 - [macro] Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
 - [macro] US insists Strait of Hormuz is open as it exchanges strikes with Iran (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
 - [macro] Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era (BBC News)
 - [macro] 'Funflation' hits home: Why staying in isn't the cost-saver it used to be (Economy)
-- [macro] Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters' (Yahoo Finance)
-- [macro] Is the AI Bubble About to Burst? (Yahoo Finance)
