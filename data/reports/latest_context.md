@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T22:04:16.623991+00:00`
+- Generated: `2026-07-12T22:07:26.745573+00:00`
 - Market context score: `57.9`
 - News risk score: `24.53`
 - Macro risk score: `23.95`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
 - [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
+- [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
 - [macro] At least 27 killed in Bangkok bar fire (BBC News)
 - [macro] Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era (BBC News)
 - [macro] 'Funflation' hits home: Why staying in isn't the cost-saver it used to be (Economy)
