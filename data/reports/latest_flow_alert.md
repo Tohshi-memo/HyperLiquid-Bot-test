@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-12T11:10:27.350082+00:00`
+- Generated: `2026-07-12T11:15:30.045547+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14817746.0`
-- Polymarket volume z-score: `-1.43`
+- Polymarket 24h volume: `14606692.33`
+- Polymarket volume z-score: `-1.45`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `2337291.825512024` | liquidity: `2154458.2329`
-- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `1455160.8310000023` | liquidity: `50180.01739`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `1210986.8628860007` | liquidity: `580783.4415`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1185059.319` | liquidity: `24532.13517`
-- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `910521.8789999988` | liquidity: `59302.14689`
-- Will Ali Motahari be head of state in Iran end of 2026? | 24h volume: `573727.9199999993` | liquidity: `57014.37406`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `479102.0678969999` | liquidity: `361865.63292`
-- Will Pete Buttigieg win the 2028 US Presidential Election? | 24h volume: `459520.5821330022` | liquidity: `493623.20896`
+- France vs. Spain: Team to Advance | 24h volume: `2341901.1972590243` | liquidity: `2152688.438`
+- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `1455160.8310000023` | liquidity: `50183.46739`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `1211100.9817760007` | liquidity: `582587.3164`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1072859.319` | liquidity: `26028.15267`
+- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `910521.8789999988` | liquidity: `59609.59783`
+- Will Ali Motahari be head of state in Iran end of 2026? | 24h volume: `573727.9199999993` | liquidity: `57333.45866`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `479357.89789699984` | liquidity: `362622.98504`
+- Will Pete Buttigieg win the 2028 US Presidential Election? | 24h volume: `460948.7921330008` | liquidity: `493652.8468`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
