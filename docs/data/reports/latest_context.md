@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T17:07:28.531855+00:00`
-- Market context score: `72.41`
+- Generated: `2026-07-12T17:22:31.074836+00:00`
+- Market context score: `72.2`
 - News risk score: `22.29`
 - Macro risk score: `19.45`
-- Risk-on score: `64.86`
+- Risk-on score: `64.38`
 - Articles: `42`
 - Polymarket markets: `391`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5910`
-- Day/swing latest: `2026-07-12T17:00:00+00:00`
+- Day/swing records: `5911`
+- Day/swing latest: `2026-07-12T17:15:00+00:00`
 
 ## News Categories
 
@@ -30,11 +30,11 @@
 
 - [macro] US insists Strait of Hormuz is open as it exchanges strikes with Iran (BBC News)
 - [macro] Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 (BBC News)
+- [macro] Rubrik (RBRK) is One of the Best Up and Coming Stocks to Invest In Right Now, Here’s Why (Yahoo Finance)
+- [macro] UL Solutions (ULS) Opens New Automotive EMC Laboratory in Toyota City (Yahoo Finance)
+- [macro] GlobalFoundries (GFS) Announces Production Readiness of SLATE Wafer-to-Wafer Bonding Technology (Yahoo Finance)
+- [macro] Haleon (HLN) Partners with Microsoft (MSFT) to Advance Digital and AI Capabilities (Yahoo Finance)
+- [macro] Here’s Why Sunbelt (SUNB) is One of the Best Up and Coming Stocks to Invest In Right Now (Yahoo Finance)
 - [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
 - [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
 - [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
-- [macro] 'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires (BBC News)
-- [macro] David Willey, esteemed BBC foreign correspondent, dies aged 93 (BBC News)
-- [macro] Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller (Yahoo Finance)
-- [macro] Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners’ Filings (Yahoo Finance)
-- [macro] Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners (Yahoo Finance)
