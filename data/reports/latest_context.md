@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T00:09:42.910726+00:00`
+- Generated: `2026-07-12T00:22:24.514440+00:00`
 - Market context score: `40.31`
 - News risk score: `42.43`
 - Macro risk score: `30.38`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5845`
-- Day/swing latest: `2026-07-12T00:00:00+00:00`
+- Day/swing records: `5846`
+- Day/swing latest: `2026-07-12T00:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Iran says Strait of Hormuz closed 'until further notice' (BBC News)
+- [macro] US launches fresh strikes as Iran closes Strait of Hormuz (BBC News)
 - [commodity] Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier (Energy)
 - [macro] Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists' (BBC News)
 - [crypto] Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
