@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T16:32:09.543399+00:00`
+- Generated: `2026-07-12T16:37:23.649683+00:00`
 - Market context score: `72.42`
 - News risk score: `22.43`
 - Macro risk score: `19.25`
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 (BBC News)
 - [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
 - [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
-- [macro] Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 (BBC News)
 - [macro] US insists Strait of Hormuz is open as it exchanges strikes with Iran (BBC News)
 - [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
 - [macro] 'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires (BBC News)
