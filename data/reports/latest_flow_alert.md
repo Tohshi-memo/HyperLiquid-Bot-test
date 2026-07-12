@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-12T09:35:29.322807+00:00`
+- Generated: `2026-07-12T09:40:28.429876+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14337755.67`
-- Polymarket volume z-score: `-1.5`
+- Polymarket 24h volume: `14402148.21`
+- Polymarket volume z-score: `-1.49`
 
 ## Top Polymarket Markets
 
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `2465159.319` | liquidity: `24831.72853`
-- France vs. Spain: Team to Advance | 24h volume: `1773577.1406340247` | liquidity: `2118784.8311`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `1223702.5678920008` | liquidity: `582202.5432`
-- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `880976.6289999989` | liquidity: `52035.49834`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `475118.8361669999` | liquidity: `374323.37284`
-- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `448865.60796199995` | liquidity: `1858662.79971`
-- Iran full airspace closure by July 15? | 24h volume: `422754.652674` | liquidity: `56944.88991`
-- Will the U.S. invade Iran before 2027? | 24h volume: `377431.6095899998` | liquidity: `458536.162`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `2327459.319` | liquidity: `25157.39797`
+- France vs. Spain: Team to Advance | 24h volume: `1776155.505650025` | liquidity: `2147058.5183`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `1222929.3923540008` | liquidity: `583654.9649`
+- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `880976.6289999989` | liquidity: `55203.60178`
+- Will Ali Motahari be head of state in Iran end of 2026? | 24h volume: `500029.1199999995` | liquidity: `39993.69723`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `475098.7761669999` | liquidity: `368584.73012`
+- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `448964.420795` | liquidity: `1862903.17265`
+- Iran full airspace closure by July 15? | 24h volume: `422763.50223` | liquidity: `58690.06861`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
