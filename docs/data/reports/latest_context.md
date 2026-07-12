@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T14:37:46.381236+00:00`
+- Generated: `2026-07-12T14:52:27.005501+00:00`
 - Market context score: `65.22`
 - News risk score: `21.33`
 - Macro risk score: `18.67`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5901`
-- Day/swing latest: `2026-07-12T14:30:00+00:00`
+- Day/swing records: `5902`
+- Day/swing latest: `2026-07-12T14:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
 - [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
 - [macro] Badly burned British couple rescued from ravine during Spain wildfires, reports say (BBC News)
-- [commodity] U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says (Energy)
 - [crypto] Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Pakistan crypto chief seeks dialogue after scholar rules against crypto payments (Cointelegraph.com News)
 - [crypto] Bitcoin is nearing a power law support line Fidelity has tracked since 2015 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
