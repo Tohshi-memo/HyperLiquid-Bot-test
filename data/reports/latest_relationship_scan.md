@@ -2,9 +2,9 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-07-12T21:03:12.568577+00:00`
+- Generated: `2026-07-12T21:07:31.764140+00:00`
 - Price records: `672`
-- Market context records: `6539`
+- Market context records: `6540`
 - Flow alert records: `8640`
 - Minimum samples: `30`
 - Pattern count: `80`
@@ -40,7 +40,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `news_risk_high->crypto_alt_1h` score `-0.0955` n `36` status `ready` deltaP `-0.2994` edge `0.0407` maxDD `-2.0756`
 - `market_context_high->equity_4h` score `-0.2935` n `186` status `ready` deltaP `10.6724` edge `0.0611` maxDD `-8.2573`
 - `news_risk_high->index_24h` score `-0.3383` n `30` status `ready` deltaP `6.1929` edge `0.0025` maxDD `-2.3058`
-- `market_context_high->crypto_major_4h` score `-0.3693` n `186` status `ready` deltaP `12.9917` edge `0.0951` maxDD `-12.6576`
+- `market_context_high->crypto_major_4h` score `-0.3901` n `186` status `ready` deltaP `12.6065` edge `0.095` maxDD `-12.6576`
 - `market_context_high->fx_1h` score `-0.429` n `196` status `ready` deltaP `-0.4002` edge `-0.0016` maxDD `-0.7249`
 - `market_context_high->commodity_1h` score `-0.4521` n `196` status `ready` deltaP `1.7475` edge `-0.0013` maxDD `-2.1314`
 - `market_context_high->crypto_alt_1h` score `-0.5356` n `196` status `ready` deltaP `6.3333` edge `0.0204` maxDD `-5.8368`
