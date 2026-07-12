@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T15:37:24.947246+00:00`
+- Generated: `2026-07-12T15:52:28.542924+00:00`
 - Market context score: `72.14`
-- News risk score: `22.92`
-- Macro risk score: `19.22`
-- Risk-on score: `64.7`
-- Articles: `45`
+- News risk score: `23.07`
+- Macro risk score: `19.03`
+- Risk-on score: `64.76`
+- Articles: `46`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5904`
-- Day/swing latest: `2026-07-12T15:30:00+00:00`
+- Day/swing records: `5905`
+- Day/swing latest: `2026-07-12T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `35`, risk hits `3`, risk headline rate `0.0857`, policy hits `1`
+- macro: articles `36`, risk hits `3`, risk headline rate `0.0833`, policy hits `1`
 
 ## Headlines
 
 - [macro] US insists Strait of Hormuz is open as it exchanges strikes with Iran (BBC News)
 - [macro] US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' (BBC News)
+- [macro] 'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires (BBC News)
 - [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
 - [macro] David Willey, esteemed BBC foreign correspondent, dies aged 93 (BBC News)
 - [commodity] U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz (Energy)
@@ -37,4 +38,3 @@
 - [macro] Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners’ Filings (Yahoo Finance)
 - [macro] Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners (Yahoo Finance)
 - [macro] Should You Buy Lincoln National Corporation (LNC)’s Shares? (Yahoo Finance)
-- [macro] Quad/Graphics, Inc. (QUAD) Is A Top Stock To Buy According To Bill Miller (Yahoo Finance)
