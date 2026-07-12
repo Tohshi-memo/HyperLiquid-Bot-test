@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-12T21:07:31.764140+00:00`
+- Generated: `2026-07-12T21:22:26.745302+00:00`
 - Market context score: `57.81`
 - News risk score: `24.77`
 - Macro risk score: `23.93`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:765`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5926`
-- Day/swing latest: `2026-07-12T21:00:00+00:00`
+- Day/swing records: `5927`
+- Day/swing latest: `2026-07-12T21:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points (Yahoo Finance)
-- [macro] At least 27 killed in Bangkok bar fire, Thai authorities say (BBC News)
+- [macro] At least 27 killed in Bangkok bar fire (BBC News)
 - [macro] Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era (BBC News)
 - [macro] 'Funflation' hits home: Why staying in isn't the cost-saver it used to be (Economy)
 - [macro] Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters' (Yahoo Finance)
