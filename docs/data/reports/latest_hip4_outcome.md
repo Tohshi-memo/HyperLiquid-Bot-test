@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-12T11:48:13.434505+00:00`
+- Generated: `2026-07-12T11:52:29.372878+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `24`
 - Outcome sides (rows): `48`
@@ -35,15 +35,15 @@
 - England [No] symbol `#1881` underlying `n/a` prob `0.787` price_source `allMids` vol24h `0.0` oi `0.0`
 - No change [Yes] symbol `#5100` underlying `n/a` prob `0.7824` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [No] symbol `#5121` underlying `n/a` prob `0.7667` price_source `allMids` vol24h `0.0` oi `0.0`
-- Above 3.8% [No] symbol `#5441` underlying `n/a` prob `0.7228` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8160` underlying `SOL` prob `0.6762` price_source `allMids` vol24h `0.0` oi `0.0`
+- Above 3.8% [No] symbol `#5441` underlying `n/a` prob `0.7218` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8160` underlying `SOL` prob `0.6678` price_source `allMids` vol24h `0.0` oi `0.0`
 - Exactly 3.8% [No] symbol `#5431` underlying `n/a` prob `0.6562` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 3.8% [No] symbol `#5421` underlying `n/a` prob `0.6515` price_source `allMids` vol24h `0.0` oi `0.0`
 - World Cup Semifinal: France vs Spain [France] symbol `#8130` underlying `n/a` prob `0.6056` price_source `allMids` vol24h `0.0` oi `0.0`
 - France [No] symbol `#1891` underlying `n/a` prob `0.6032` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8140` underlying `BTC` prob `0.5373` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8150` underlying `ETH` prob `0.5214` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8171` underlying `HYPE` prob `0.5012` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8140` underlying `BTC` prob `0.5295` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8150` underlying `ETH` prob `0.5192` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8171` underlying `HYPE` prob `0.5191` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#5090` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
