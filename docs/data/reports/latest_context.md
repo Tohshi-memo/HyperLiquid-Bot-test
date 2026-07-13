@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T21:37:34.215507+00:00`
+- Generated: `2026-07-13T21:40:20.155956+00:00`
 - Market context score: `49.45`
 - News risk score: `42.25`
 - Macro risk score: `31.75`
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
+- [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
 - [macro] Lindsey Graham's sister chosen as replacement after senator's death (BBC News)
-- [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
-- [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
 - [commodity] Brent oil jumps more than 9%, biggest daily gain since 2020, after Trump reinstates Iran blockade (Energy)
 - [macro] Hungary parliament votes to remove president from office (BBC News)
 - [commodity] U.S. says more than 8 million barrels of oil transited Hormuz Sunday with military assistance (Energy)
