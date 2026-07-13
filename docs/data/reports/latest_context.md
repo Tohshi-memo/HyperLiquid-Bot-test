@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T06:07:25.406034+00:00`
-- Market context score: `45.74`
-- News risk score: `35.7`
-- Macro risk score: `24.58`
-- Risk-on score: `18.86`
-- Articles: `30`
+- Generated: `2026-07-13T06:22:33.785380+00:00`
+- Market context score: `44.69`
+- News risk score: `37.11`
+- Macro risk score: `24.32`
+- Risk-on score: `17.62`
+- Articles: `28`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5960`
-- Day/swing latest: `2026-07-13T06:00:00+00:00`
+- Day/swing records: `5961`
+- Day/swing latest: `2026-07-13T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `1`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `1`
 
 ## Headlines
 
+- [macro] At least 27 killed, 22 critically injured in Bangkok bar fire (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx (Cointelegraph.com News)
 - [macro] The SpaceX IPO made history. Is the excitement still there? (BBC News)
 - [macro] The SpaceX IPO made history. Is the excitement still there? (BBC News)
-- [macro] US and Iran trade fire as tensions rise over Strait of Hormuz (BBC News)
 - [macro] US and Iran trade fire as tensions rise over Strait of Hormuz (BBC News)
 - [macro] Watch: At the scene where Bangkok's deadly bar fire unfolded (BBC News)
 - [crypto] Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
