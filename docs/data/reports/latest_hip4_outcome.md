@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-13T12:52:29.827511+00:00`
+- Generated: `2026-07-13T13:07:27.727555+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `23`
 - Outcome sides (rows): `46`
@@ -25,24 +25,24 @@
 ## Current Implied Probabilities
 
 - Decrease [No] symbol `#5111` underlying `n/a` prob `0.9915` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#8301` underlying `n/a` prob `0.9152` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#8301` underlying `n/a` prob `0.9153` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#8281` underlying `n/a` prob `0.8379` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8221` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8212` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [No] symbol `#2121` underlying `n/a` prob `0.7895` price_source `allMids` vol24h `0.0` oi `0.0`
-- England [No] symbol `#1881` underlying `n/a` prob `0.784` price_source `allMids` vol24h `0.0` oi `0.0`
+- England [No] symbol `#1881` underlying `n/a` prob `0.7849` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#8290` underlying `n/a` prob `0.7694` price_source `allMids` vol24h `0.0` oi `0.0`
 - No change [Yes] symbol `#5100` underlying `n/a` prob `0.7675` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [No] symbol `#5121` underlying `n/a` prob `0.7642` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 3.8% [No] symbol `#5441` underlying `n/a` prob `0.7215` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 3.8% [No] symbol `#5421` underlying `n/a` prob `0.69` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8251` underlying `SOL` prob `0.6258` price_source `allMids` vol24h `0.0` oi `0.0`
 - France [No] symbol `#1891` underlying `n/a` prob `0.607` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8251` underlying `SOL` prob `0.6031` price_source `allMids` vol24h `0.0` oi `0.0`
 - World Cup Semifinal: France vs Spain [France] symbol `#8130` underlying `n/a` prob `0.5977` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8241` underlying `ETH` prob `0.5854` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8241` underlying `ETH` prob `0.5704` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#8261` underlying `HYPE` prob `0.5655` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8231` underlying `BTC` prob `0.56` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8231` underlying `BTC` prob `0.5609` price_source `allMids` vol24h `0.0` oi `0.0`
 - World Cup Semifinal: England vs Argentina [England] symbol `#8220` underlying `n/a` prob `0.5549` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 3.8% [No] symbol `#5431` underlying `n/a` prob `0.5185` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 3.8% [No] symbol `#5431` underlying `n/a` prob `0.539` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#5090` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -54,10 +54,10 @@
 
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1779` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8221` price_source `allMids` vol24h `0.0` oi `0.0`
-- England [Yes] symbol `#1880` underlying `n/a` prob `0.216` price_source `allMids` vol24h `0.0` oi `0.0`
-- England [No] symbol `#1881` underlying `n/a` prob `0.784` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1788` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8212` price_source `allMids` vol24h `0.0` oi `0.0`
+- England [Yes] symbol `#1880` underlying `n/a` prob `0.2151` price_source `allMids` vol24h `0.0` oi `0.0`
+- England [No] symbol `#1881` underlying `n/a` prob `0.7849` price_source `allMids` vol24h `0.0` oi `0.0`
 - France [Yes] symbol `#1890` underlying `n/a` prob `0.393` price_source `allMids` vol24h `0.0` oi `0.0`
 - France [No] symbol `#1891` underlying `n/a` prob `0.607` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [Yes] symbol `#2120` underlying `n/a` prob `0.2105` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -74,18 +74,18 @@
 - Fallback [No] symbol `#5411` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 3.8% [Yes] symbol `#5420` underlying `n/a` prob `0.31` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 3.8% [No] symbol `#5421` underlying `n/a` prob `0.69` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 3.8% [Yes] symbol `#5430` underlying `n/a` prob `0.4815` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 3.8% [No] symbol `#5431` underlying `n/a` prob `0.5185` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 3.8% [Yes] symbol `#5430` underlying `n/a` prob `0.461` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 3.8% [No] symbol `#5431` underlying `n/a` prob `0.539` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 3.8% [Yes] symbol `#5440` underlying `n/a` prob `0.2785` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1779` price_source `allMids` vol24h `0.0` oi `0.0`
-- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8221` price_source `allMids` vol24h `0.0` oi `0.0`
-- England [Yes] symbol `#1880` underlying `n/a` prob `0.216` price_source `allMids` vol24h `0.0` oi `0.0`
-- England [No] symbol `#1881` underlying `n/a` prob `0.784` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [Yes] symbol `#1730` underlying `n/a` prob `0.1788` price_source `allMids` vol24h `0.0` oi `0.0`
+- Argentina [No] symbol `#1731` underlying `n/a` prob `0.8212` price_source `allMids` vol24h `0.0` oi `0.0`
+- England [Yes] symbol `#1880` underlying `n/a` prob `0.2151` price_source `allMids` vol24h `0.0` oi `0.0`
+- England [No] symbol `#1881` underlying `n/a` prob `0.7849` price_source `allMids` vol24h `0.0` oi `0.0`
 - France [Yes] symbol `#1890` underlying `n/a` prob `0.393` price_source `allMids` vol24h `0.0` oi `0.0`
 - France [No] symbol `#1891` underlying `n/a` prob `0.607` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [Yes] symbol `#2120` underlying `n/a` prob `0.2105` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -102,8 +102,8 @@
 - Fallback [No] symbol `#5411` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 3.8% [Yes] symbol `#5420` underlying `n/a` prob `0.31` price_source `allMids` vol24h `0.0` oi `0.0`
 - Below 3.8% [No] symbol `#5421` underlying `n/a` prob `0.69` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 3.8% [Yes] symbol `#5430` underlying `n/a` prob `0.4815` price_source `allMids` vol24h `0.0` oi `0.0`
-- Exactly 3.8% [No] symbol `#5431` underlying `n/a` prob `0.5185` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 3.8% [Yes] symbol `#5430` underlying `n/a` prob `0.461` price_source `allMids` vol24h `0.0` oi `0.0`
+- Exactly 3.8% [No] symbol `#5431` underlying `n/a` prob `0.539` price_source `allMids` vol24h `0.0` oi `0.0`
 - Above 3.8% [Yes] symbol `#5440` underlying `n/a` prob `0.2785` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
