@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T19:45:18.570878+00:00`
+- Generated: `2026-07-13T19:52:42.893040+00:00`
 - Market context score: `48.01`
 - News risk score: `43.62`
 - Macro risk score: `31.69`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Man wanted in connection with murder arrested in Jordan (BBC News)
 - [crypto] TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. says more than 8 million barrels of oil transited Hormuz Sunday with military assistance (Energy)
 - [macro] Trump reinstating naval blockade of Iranian ports (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] UN maritime agency opposes Hormuz transit fees after Trump demands protection money (Energy)
 - [macro] Paramount and Warner Bros sued to block $110bn mega merger (BBC News)
-- [crypto] Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
