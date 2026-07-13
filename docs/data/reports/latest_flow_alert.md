@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-13T03:15:23.711171+00:00`
+- Generated: `2026-07-13T03:20:31.380910+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14760981.77`
+- Polymarket 24h volume: `14804464.47`
 - Polymarket volume z-score: `-1.25`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `3663482.9539469243` | liquidity: `3936183.6619`
-- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `2733936.172000002` | liquidity: `56240.25895`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `697689.3022810005` | liquidity: `683842.77493`
-- Will Ali Motahari be head of state in Iran end of 2026? | 24h volume: `566495.7009999994` | liquidity: `56983.12879`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `429962.5046579999` | liquidity: `893040.09673`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `429204.13850600086` | liquidity: `2266714.9347`
-- England vs. Argentina: Team to Advance | 24h volume: `309412.59974400135` | liquidity: `1534957.90175`
-- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `305888.491` | liquidity: `55719.0889`
+- France vs. Spain: Team to Advance | 24h volume: `3647521.2593319225` | liquidity: `3936228.519525`
+- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `2733936.172000002` | liquidity: `57209.95865`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `697689.3022810005` | liquidity: `681588.07125`
+- Will Ali Motahari be head of state in Iran end of 2026? | 24h volume: `566495.7009999994` | liquidity: `53719.84199`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `430288.1781489999` | liquidity: `894793.0079`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `428621.4041400009` | liquidity: `2250625.392`
+- England vs. Argentina: Team to Advance | 24h volume: `310596.53307300137` | liquidity: `1536242.097525`
+- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `305888.491` | liquidity: `59854.4989`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
