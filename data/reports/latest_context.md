@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T20:45:09.877804+00:00`
+- Generated: `2026-07-13T20:53:02.478038+00:00`
 - Market context score: `48.48`
 - News risk score: `43.4`
 - Macro risk score: `31.0`
 - Risk-on score: `33.86`
 - Articles: `64`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `6019`
+- Day/swing latest: `2026-07-13T20:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] Brent oil jumps more than 9%, biggest daily gain since 2020, after Trump reinstates Iran blockade (Energy)
 - [macro] Hungary parliament votes to remove president from office (BBC News)
 - [commodity] U.S. says more than 8 million barrels of oil transited Hormuz Sunday with military assistance (Energy)
 - [crypto] Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Wildfire raging south of Paris could have been set deliberately, says minister (BBC News)
 - [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
 - [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
-- [macro] Man wanted in connection with murder arrested in Jordan (BBC News)
