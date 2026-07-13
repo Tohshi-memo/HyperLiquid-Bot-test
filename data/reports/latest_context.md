@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T22:37:31.682935+00:00`
+- Generated: `2026-07-13T22:40:58.650834+00:00`
 - Market context score: `50.49`
 - News risk score: `39.95`
 - Macro risk score: `31.57`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78 (BBC News)
 - [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
 - [macro] Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz (BBC News)
 - [commodity] Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade (Energy)
@@ -38,4 +39,3 @@
 - [macro] Hungary parliament votes to remove president from office (BBC News)
 - [commodity] U.S. says more than 8 million barrels of oil transited Hormuz Sunday with military assistance (Energy)
 - [crypto] Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Franklin Crypto CIO says crypto prices are disconnected from fundamentals (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
