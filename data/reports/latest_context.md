@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T08:07:28.577789+00:00`
+- Generated: `2026-07-13T08:22:30.297903+00:00`
 - Market context score: `41.98`
 - News risk score: `39.79`
 - Macro risk score: `29.67`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5968`
-- Day/swing latest: `2026-07-13T08:00:00+00:00`
+- Day/swing records: `5969`
+- Day/swing latest: `2026-07-13T08:15:00+00:00`
 
 ## News Categories
 
@@ -32,7 +32,7 @@
 - [macro] The SpaceX IPO made history. One month on has it lost momentum? (BBC News)
 - [macro] The SpaceX IPO made history. One month on has it lost momentum? (BBC News)
 - [crypto] Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] At least 27 killed, 22 critically injured in Bangkok bar fire (BBC News)
+- [macro] At least 27 killed, 22 critically injured after fire engulfs Bangkok bar (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx (Cointelegraph.com News)
 - [macro] US and Iran trade fire as tensions rise over Strait of Hormuz (BBC News)
