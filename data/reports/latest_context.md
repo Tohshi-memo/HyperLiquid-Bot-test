@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T07:22:25.078492+00:00`
+- Generated: `2026-07-13T07:35:53.301352+00:00`
 - Market context score: `42.44`
 - News risk score: `39.33`
 - Macro risk score: `28.75`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5965`
-- Day/swing latest: `2026-07-13T07:15:00+00:00`
+- Day/swing records: `5966`
+- Day/swing latest: `2026-07-13T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise nearly 4% as U.S. and Iran fight for control of Strait of Hormuz (Energy)
 - [macro] The SpaceX IPO made history. One month on has it lost momentum? (BBC News)
 - [macro] The SpaceX IPO made history. One month on has it lost momentum? (BBC News)
 - [crypto] Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] US and Iran trade fire as tensions rise over Strait of Hormuz (BBC News)
 - [macro] Watch: At the scene where Bangkok's deadly bar fire unfolded (BBC News)
 - [crypto] Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bank of Thailand targets USDT and cash flows in gray money crackdown (Cointelegraph.com News)
