@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-13T14:20:28.481910+00:00`
+- Generated: `2026-07-13T14:25:27.098041+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12644681.97`
-- Polymarket volume z-score: `-1.46`
+- Polymarket 24h volume: `13201963.67`
+- Polymarket volume z-score: `-1.4`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `2909360.629892031` | liquidity: `2855065.738525`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `586410.379477` | liquidity: `2116557.06766`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `459352.0945920001` | liquidity: `981542.49958`
-- Will the price of Bitcoin be above $66,000 on July 13? | 24h volume: `440392.633571` | liquidity: `101950.18757`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `417358.633263` | liquidity: `2773556.4973`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `405837.8670369997` | liquidity: `887420.72528`
-- England vs. Argentina: Team to Advance | 24h volume: `330175.32203899976` | liquidity: `1708753.9857`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `298064.65229199996` | liquidity: `466903.8684`
+- France vs. Spain: Team to Advance | 24h volume: `2898258.555545029` | liquidity: `2842227.6785`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `586379.179477` | liquidity: `2113975.84144`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `509834.4714580002` | liquidity: `978688.61216`
+- Will the price of Bitcoin be above $66,000 on July 13? | 24h volume: `440403.28357100004` | liquidity: `76827.91119`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `435261.815175` | liquidity: `2771614.518`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `411394.2229789997` | liquidity: `870918.52831`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `331072.59965899994` | liquidity: `377468.0296`
+- England vs. Argentina: Team to Advance | 24h volume: `328553.38990199973` | liquidity: `1699954.292275`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
