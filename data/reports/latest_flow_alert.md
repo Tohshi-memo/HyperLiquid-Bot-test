@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-13T12:40:27.044295+00:00`
+- Generated: `2026-07-13T12:45:25.518042+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13493626.82`
-- Polymarket volume z-score: `-1.39`
+- Polymarket 24h volume: `13809071.08`
+- Polymarket volume z-score: `-1.35`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `3025966.8971220325` | liquidity: `2838026.813975`
-- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `1281319.862999999` | liquidity: `52279.04617`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `606182.1989680001` | liquidity: `977984.68354`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `586849.931642` | liquidity: `2116420.60089`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `422736.23156199977` | liquidity: `2628167.0311`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `411543.2417189993` | liquidity: `942491.90349`
-- England vs. Argentina: Team to Advance | 24h volume: `361657.6914130002` | liquidity: `1630972.632825`
-- Will the price of Bitcoin be above $66,000 on July 13? | 24h volume: `356091.59262700006` | liquidity: `40531.81362`
+- France vs. Spain: Team to Advance | 24h volume: `3017147.7463620324` | liquidity: `2836552.577975`
+- Will Mostafa Pourmohammadi be head of state in Iran end of 2026? | 24h volume: `1281319.862999999` | liquidity: `53109.13708`
+- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `603188.2170210001` | liquidity: `978742.89304`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `586841.8899749999` | liquidity: `2116244.14241`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `423005.9286259999` | liquidity: `2634424.3502`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `413593.31171899935` | liquidity: `939776.75783`
+- England vs. Argentina: Team to Advance | 24h volume: `360772.9414740003` | liquidity: `1630362.504125`
+- Will the price of Bitcoin be above $66,000 on July 13? | 24h volume: `355841.66306200007` | liquidity: `40590.45331`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
