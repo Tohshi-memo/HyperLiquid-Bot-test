@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T09:52:28.078790+00:00`
+- Generated: `2026-07-13T10:07:26.050192+00:00`
 - Market context score: `47.23`
 - News risk score: `43.13`
 - Macro risk score: `26.18`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5975`
-- Day/swing latest: `2026-07-13T09:45:00+00:00`
+- Day/swing records: `5976`
+- Day/swing latest: `2026-07-13T10:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,9 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise as U.S. and Iran contest control of Strait of Hormuz with fresh strikes (Energy)
+- [macro] UK to regulate major cloud firms to boost financial system resilience (Yahoo Finance)
+- [macro] Niel family’s Vega to acquire 16.2% Vodafone stake from e& for $5.95bn (Yahoo Finance)
 - [crypto] Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] I got a speeding ticket for a car I sold years ago because the buyer never transferred the title. What do I do? (Yahoo Finance)
 - [macro] ICICI Bank Ltd (IBN) Joins TPG to Acquire Aseem Infrastructure (Yahoo Finance)
@@ -36,6 +39,3 @@
 - [macro] Wells Fargo Updates Its Call on Banc of California Inc (BANC) Stock Ahead of Q2 Report (Yahoo Finance)
 - [macro] Is Western Alliance Bancorporation (WAL) One of the Top Bank Stocks to Buy Now According to Analysts? (Yahoo Finance)
 - [macro] Should You Buy Pinnacle Financial Partners Inc (PNFP) Stock? Benchmark Has a Message (Yahoo Finance)
-- [macro] Looking to Buy Wells Fargo & Co (WFC) Stock? Listen to JPMorgan First (Yahoo Finance)
-- [macro] Nu Holdings Ltd. (NU) Lines Up $4.2 Billion Investment. Destination Mexico (Yahoo Finance)
-- [macro] Can Nuvation Bio Inc (NUVB) Stock Soar 150% From Current Level? (Yahoo Finance)
