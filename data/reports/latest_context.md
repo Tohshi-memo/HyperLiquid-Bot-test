@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-13T01:07:26.223618+00:00`
+- Generated: `2026-07-13T01:22:27.738290+00:00`
 - Market context score: `53.88`
 - News risk score: `24.1`
 - Macro risk score: `23.75`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `5942`
-- Day/swing latest: `2026-07-13T01:00:00+00:00`
+- Day/swing records: `5943`
+- Day/swing latest: `2026-07-13T01:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise 4% as U.S. and Iran fight for control of Strait of Hormuz (Energy)
 - [macro] How Indian scientists are mapping the brain's last frontier (BBC News)
 - [macro] 10 years of Pokémon Go and the millions still trying to catch 'em all (BBC News)
 - [macro] The Chinese graduate accused of being Mexico's 'fentanyl king' (BBC News)
@@ -37,4 +38,3 @@
 - [macro] New era for Gibraltar with removal of 118-year-old border controls with Spain (BBC News)
 - [macro] Why switching to save money is easier than you might think (BBC News)
 - [crypto] Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026 (Cointelegraph.com News)
-- [macro] US insists Strait of Hormuz is open as it exchanges strikes with Iran (BBC News)
