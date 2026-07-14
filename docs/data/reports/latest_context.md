@@ -1,34 +1,36 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T17:52:26.293580+00:00`
-- Market context score: `47.86`
-- News risk score: `46.67`
-- Macro risk score: `27.83`
-- Risk-on score: `34.06`
-- Articles: `90`
+- Generated: `2026-07-14T18:07:32.750013+00:00`
+- Market context score: `46.18`
+- News risk score: `45.17`
+- Macro risk score: `26.96`
+- Risk-on score: `28.72`
+- Articles: `68`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `1160`
+- Asset universe count: `1161`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:767`
+- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6102`
-- Day/swing latest: `2026-07-14T17:45:00+00:00`
+- Day/swing records: `6103`
+- Day/swing latest: `2026-07-14T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `1`
 - crypto: articles `36`, risk hits `15`, risk headline rate `0.2778`, policy hits `5`
-- macro: articles `48`, risk hits `15`, risk headline rate `0.2083`, policy hits `9`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.2`, policy hits `0`
+- policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Billionaire Warren Buffett stops donations to Bill Gates charity (BBC News)
+- [policy] Minutes of the Board's discount rate meetings on June 8 and June 17, 2026 (FRB: Press Release - All Releases)
 - [commodity] Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic (Energy)
 - [macro] Gas prices drive down US inflation - but will it last? (BBC News)
 - [macro] Colombian national killed by ICE agent during operation in Maine (BBC News)
@@ -36,6 +38,4 @@
 - [commodity] Apple in talks with startup that shrinks AI models to run on an iPhone (Energy)
 - [crypto] The Clarity Act isn't a ticket to sanctions evasion, actually (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach (Cointelegraph.com News)
-- [macro] Goldman Sachs Saves the Dow From IBM's Worst Day in 39 Years (Yahoo Finance)
-- [macro] Could This Listing Close the Valuation Gap With Micron? (Yahoo Finance)
-- [macro] Billionaire Warren Buffett stops donations to Bill Gates charity (BBC News)
+- [macro] Israeli strike on police post in north Gaza kills seven, officials say (BBC News)
