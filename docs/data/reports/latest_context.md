@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T20:52:25.083068+00:00`
+- Generated: `2026-07-14T21:07:33.809819+00:00`
 - Market context score: `45.42`
 - News risk score: `44.7`
 - Macro risk score: `24.61`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6114`
-- Day/swing latest: `2026-07-14T20:45:00+00:00`
+- Day/swing records: `6115`
+- Day/swing latest: `2026-07-14T21:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Consumer prices rose 3.5% annually in June, less than expected as energy prices eased (Economy)
 - [crypto] U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee (Energy)
 - [macro] Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] US, UK treasuries to align transatlantic rules on tokenization and stablecoins (Cointelegraph.com News)
 - [macro] 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal (BBC News)
 - [macro] Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal (BBC News)
-- [macro] Colombian national killed by ICE agent during operation in Maine (BBC News)
