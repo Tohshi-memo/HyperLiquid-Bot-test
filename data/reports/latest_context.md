@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T12:21:03.777695+00:00`
-- Market context score: `41.9`
-- News risk score: `50.66`
-- Macro risk score: `35.65`
-- Risk-on score: `27.15`
-- Articles: `73`
-- Polymarket markets: `392`
+- Generated: `2026-07-14T12:37:29.146991+00:00`
+- Market context score: `34.16`
+- News risk score: `55.23`
+- Macro risk score: `42.23`
+- Risk-on score: `16.28`
+- Articles: `76`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6080`
-- Day/swing latest: `2026-07-14T12:15:00+00:00`
+- Day/swing records: `6081`
+- Day/swing latest: `2026-07-14T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
-- crypto: articles `25`, risk hits `10`, risk headline rate `0.28`, policy hits `3`
-- macro: articles `44`, risk hits `20`, risk headline rate `0.3636`, policy hits `7`
+- crypto: articles `26`, risk hits `12`, risk headline rate `0.3077`, policy hits `6`
+- macro: articles `46`, risk hits `27`, risk headline rate `0.4783`, policy hits `5`
 
 ## Headlines
 
+- [crypto] U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bitcoin and ethereum prices today, Tuesday, July 14, 2026: (Yahoo Finance)
+- [macro] Warsh's statement to Congress: Fed has 'no tolerance for persistently elevated inflation' (Yahoo Finance)
+- [macro] Here's Why Vertex Was Willing to Pay a Premium of More Than 100% for Crinetics Pharmaceuticals (Yahoo Finance)
+- [macro] The Stock Market Just Sent Its Most Confusing Signal in Years -- but History Is Clear on What Happens Next (Yahoo Finance)
+- [macro] Could This "Magnificent Seven" Stock End Up Being Nvidia's Biggest Rival? (Yahoo Finance)
+- [macro] Silver prices today, Tuesday, July 14, 2026: Prices fall to Dec. '25 levels as Iran conflict intensifies (Yahoo Finance)
+- [macro] A 'Healthy' U.S. Economy Spurs Bank of America, Wells Fargo Earnings Beat (Yahoo Finance)
+- [macro] Apple's lawsuit shows the importance of AI devices for the iPhone maker's future: Analyst (Yahoo Finance)
 - [macro] PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds (BBC News)
-- [crypto] ECB picks firms including Deutsche Bank, Revolut for digital euro pilot (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Vanguard appoints new head of investment management in Europe (Yahoo Finance)
-- [crypto] Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Price Prediction: ON Semiconductor’s Rally May Be Far From Over (Yahoo Finance)
-- [macro] Here’s Why GE Vernova Is a No-Brainer Buy Before July 22 Earnings (Yahoo Finance)
-- [macro] A retired police officer thought he was being scammed, then found a $300K insurance policy in his name (Yahoo Finance)
-- [macro] Enfinity Global Tops 535 MW of Operating Solar Capacity in Italy (Yahoo Finance)
-- [macro] Bank of America profit jumps 27% as CEO Brian Moynihan signals 'healthy economic backdrop' (Yahoo Finance)
-- [macro] Dollar dips ahead of US inflation data, supported by rate outlook (Yahoo Finance)
