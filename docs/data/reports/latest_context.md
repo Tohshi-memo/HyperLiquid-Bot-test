@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T15:52:31.774644+00:00`
-- Market context score: `41.79`
-- News risk score: `51.47`
-- Macro risk score: `36.33`
-- Risk-on score: `27.83`
-- Articles: `83`
+- Generated: `2026-07-14T16:01:43.581617+00:00`
+- Market context score: `37.81`
+- News risk score: `53.47`
+- Macro risk score: `40.32`
+- Risk-on score: `22.19`
+- Articles: `82`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6094`
-- Day/swing latest: `2026-07-14T15:45:00+00:00`
+- Day/swing records: `6095`
+- Day/swing latest: `2026-07-14T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `1`
 - crypto: articles `31`, risk hits `14`, risk headline rate `0.2903`, policy hits `5`
-- macro: articles `47`, risk hits `21`, risk headline rate `0.3404`, policy hits `4`
+- macro: articles `46`, risk hits `23`, risk headline rate `0.413`, policy hits `4`
 
 ## Headlines
 
+- [macro] JPMorgan CEO Jamie Dimon offers up a quick insight for investors (Yahoo Finance)
 - [commodity] Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic (Energy)
+- [macro] Pfizer Vs. Amgen: Bet That Pfizer’s Seagen Integration Leads to Long-Term Oncology Alpha Over Amgen (Yahoo Finance)
+- [macro] A Single Social Security Decision Could Be Worth More Than $100,000 For Retirees (Yahoo Finance)
+- [macro] Nvidia’s China Comeback Finally Begins — But Here’s Why Investors Should Keep Expectations in Check (Yahoo Finance)
 - [macro] Consumer prices rose 3.5% annually in June, less than expected as energy prices eased (Economy)
+- [macro] New survey shows central banks are starting to ditch the dollar and buy more gold instead — should you do the same? (Yahoo Finance)
+- [macro] Meet Wall Street’s Safest High-Yield Dividend Stocks (Yahoo Finance)
 - [macro] Tyrannosaurus rex most expensive dinosaur ever sold (BBC News)
-- [macro] Had You Bought This Magnificent Vanguard ETF at the Start of January, You'd Be Crushing the S&P 500 in 2026 (Yahoo Finance)
 - [macro] IBM Stock Crashes On Earnings Miss, AI Warning (Yahoo Finance)
-- [macro] VLUE vs. VTV: Does the Value Factor Beat Just Buying Vanguard’s Value ETF? (Yahoo Finance)
-- [macro] Mortgage rate history: 1972 to 2026 (Yahoo Finance)
-- [macro] Key gasoline and jet fuel company files Chapter 11 bankruptcy (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Leads After Inflation Results; Fed Chair Warsh Highlights AI Movement (Live Coverage) (Yahoo Finance)
-- [macro] Why Wall Street Is Suddenly Rushing Back Into Beaten-Down Shopify (SHOP) Stock (Yahoo Finance)
