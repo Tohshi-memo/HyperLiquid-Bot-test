@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-14T09:20:26.610139+00:00`
+- Generated: `2026-07-14T09:25:30.175827+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `20199759.41`
-- Polymarket volume z-score: `-0.49`
+- Polymarket 24h volume: `20369963.68`
+- Polymarket volume z-score: `-0.47`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `3964457.2629459817` | liquidity: `2757029.596475`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1454251.8740410004` | liquidity: `545653.1166`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `798506.4058240002` | liquidity: `2100578.10845`
-- Exact Score: France 3 - 3 Spain? | 24h volume: `773572.0199119992` | liquidity: `890783.34025`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `682850.6176700001` | liquidity: `2951095.0733`
-- Iran military action against a Gulf State on July 9? | 24h volume: `668138.758373` | liquidity: `3781636.48916`
-- Will the U.S. invade Iran before 2027? | 24h volume: `572436.0253360004` | liquidity: `848093.2721`
-- Exact Score: France 0 - 0 Spain? | 24h volume: `539960.592989` | liquidity: `2174035.1937`
+- France vs. Spain: Team to Advance | 24h volume: `3970951.5908789816` | liquidity: `2839998.526725`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1454045.2587850003` | liquidity: `548094.459`
+- Exact Score: France 3 - 3 Spain? | 24h volume: `817608.1196409992` | liquidity: `908194.5057`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `798506.4058240002` | liquidity: `2099855.24941`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `773059.2549400001` | liquidity: `2902795.0126`
+- Iran military action against a Gulf State on July 9? | 24h volume: `668138.758373` | liquidity: `3781613.85616`
+- Will the U.S. invade Iran before 2027? | 24h volume: `566987.8200720004` | liquidity: `667564.6291`
+- Exact Score: France 0 - 0 Spain? | 24h volume: `541991.5929919999` | liquidity: `2156629.1464`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
