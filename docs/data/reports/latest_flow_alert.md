@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-14T16:51:05.376071+00:00`
+- Generated: `2026-07-14T16:55:28.519599+00:00`
 - Flow alert score: `21.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `33390566.49`
+- Polymarket 24h volume: `33414256.02`
 - Polymarket volume z-score: `1.1`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `9463608.041025974` | liquidity: `3126759.90975`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3509033.39424897` | liquidity: `465115.58`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `1733307.4934740053` | liquidity: `3326541.4196`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1610142.462479` | liquidity: `280721.99999`
-- Exact Score: France 3 - 3 Spain? | 24h volume: `1492093.2118149982` | liquidity: `895872.6788`
-- Exact Score: France 3 - 2 Spain? | 24h volume: `1414896.9232900024` | liquidity: `681524.08251`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1395323.5354400007` | liquidity: `630272.09119`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1281819.6767670002` | liquidity: `274461.90904`
+- France vs. Spain: Team to Advance | 24h volume: `9683845.349745978` | liquidity: `3798841.253975`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3442221.2612429694` | liquidity: `447770.8784`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `1797717.9368720062` | liquidity: `3324450.3612`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1610122.122479` | liquidity: `281044.32062`
+- Exact Score: France 3 - 3 Spain? | 24h volume: `1521078.955668998` | liquidity: `908152.97727`
+- Exact Score: France 3 - 2 Spain? | 24h volume: `1420970.9287240026` | liquidity: `672466.59744`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1395316.7932400005` | liquidity: `631161.07951`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1283385.2853800007` | liquidity: `277355.37878`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
