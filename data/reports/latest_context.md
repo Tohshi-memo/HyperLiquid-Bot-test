@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T12:07:27.317146+00:00`
-- Market context score: `41.76`
-- News risk score: `50.07`
-- Macro risk score: `37.16`
-- Risk-on score: `26.9`
-- Articles: `74`
+- Generated: `2026-07-14T12:21:03.777695+00:00`
+- Market context score: `41.9`
+- News risk score: `50.66`
+- Macro risk score: `35.65`
+- Risk-on score: `27.15`
+- Articles: `73`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6079`
-- Day/swing latest: `2026-07-14T12:00:00+00:00`
+- Day/swing records: `6080`
+- Day/swing latest: `2026-07-14T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
-- crypto: articles `24`, risk hits `9`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `46`, risk hits `22`, risk headline rate `0.3913`, policy hits `6`
+- crypto: articles `25`, risk hits `10`, risk headline rate `0.28`, policy hits `3`
+- macro: articles `44`, risk hits `20`, risk headline rate `0.3636`, policy hits `7`
 
 ## Headlines
 
-- [crypto] Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bank of America profit jumps 27% as CEO Brian Moynihan signals 'healthy economic backdrop' (Yahoo Finance)
-- [macro] Schroders Wealth Management makes senior leadership changes (Yahoo Finance)
-- [macro] How Much Higher Can the S&P 500 Climb From Here? Wall Street Analysts Share a Resounding Answer. (Yahoo Finance)
-- [macro] The Risk Behind Apple’s Lawsuit That Most Investors Are Ignoring Right Now (Yahoo Finance)
-- [macro] Dollar dips ahead of US inflation data, supported by rate outlook (Yahoo Finance)
 - [macro] PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds (BBC News)
-- [macro] IBM stock crashes after major warning (Yahoo Finance)
-- [macro] Goldman Sachs profits soar amid roaring Wall Street activity (Yahoo Finance)
-- [crypto] ABA, state banking groups push back on CLARITY Act stablecoin yield provisions (Cointelegraph.com News)
+- [crypto] ECB picks firms including Deutsche Bank, Revolut for digital euro pilot (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Vanguard appoints new head of investment management in Europe (Yahoo Finance)
+- [crypto] Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Price Prediction: ON Semiconductor’s Rally May Be Far From Over (Yahoo Finance)
+- [macro] Here’s Why GE Vernova Is a No-Brainer Buy Before July 22 Earnings (Yahoo Finance)
+- [macro] A retired police officer thought he was being scammed, then found a $300K insurance policy in his name (Yahoo Finance)
+- [macro] Enfinity Global Tops 535 MW of Operating Solar Capacity in Italy (Yahoo Finance)
+- [macro] Bank of America profit jumps 27% as CEO Brian Moynihan signals 'healthy economic backdrop' (Yahoo Finance)
+- [macro] Dollar dips ahead of US inflation data, supported by rate outlook (Yahoo Finance)
