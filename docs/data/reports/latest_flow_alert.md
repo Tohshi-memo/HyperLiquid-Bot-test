@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-14T00:30:28.725349+00:00`
+- Generated: `2026-07-14T00:35:29.514470+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17856977.3`
-- Polymarket volume z-score: `-0.76`
+- Polymarket 24h volume: `17507262.95`
+- Polymarket volume z-score: `-0.8`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `3774883.567781999` | liquidity: `2799270.208875`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1275497.5022930012` | liquidity: `494811.5325`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `802683.6878150002` | liquidity: `2075405.81202`
-- Strait of Hormuz traffic returns to normal by July 15? | 24h volume: `654016.3017580009` | liquidity: `683849.80186`
-- Will the U.S. invade Iran before 2027? | 24h volume: `560271.5006420003` | liquidity: `621058.8622`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `548643.7879389991` | liquidity: `3121790.5018`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `521244.19123900053` | liquidity: `907098.54042`
-- Exact Score: France 0 - 0 Spain? | 24h volume: `488196.35327200004` | liquidity: `1905231.2327`
+- France vs. Spain: Team to Advance | 24h volume: `3777720.8549459996` | liquidity: `2802991.939325`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1278040.178891001` | liquidity: `523862.2121`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `802789.3318150002` | liquidity: `2076968.81969`
+- Will the U.S. invade Iran before 2027? | 24h volume: `560271.5006420003` | liquidity: `611746.7187`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `550457.4879389992` | liquidity: `3111110.7276`
+- Exact Score: France 0 - 0 Spain? | 24h volume: `489566.56830100005` | liquidity: `1927569.3315`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `470584.8312389998` | liquidity: `902455.28959`
+- Exact Score: France 1 - 3 Spain? | 24h volume: `424439.8562749998` | liquidity: `437145.84106`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
