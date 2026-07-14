@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T03:37:29.944859+00:00`
-- Market context score: `41.88`
-- News risk score: `44.58`
-- Macro risk score: `32.22`
-- Risk-on score: `20.67`
-- Articles: `45`
+- Generated: `2026-07-14T03:52:23.112012+00:00`
+- Market context score: `41.23`
+- News risk score: `45.44`
+- Macro risk score: `32.27`
+- Risk-on score: `19.95`
+- Articles: `44`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6046`
-- Day/swing latest: `2026-07-14T03:30:00+00:00`
+- Day/swing records: `6047`
+- Day/swing latest: `2026-07-14T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `5`, risk headline rate `0.7143`, policy hits `0`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `14`, risk hits `7`, risk headline rate `0.3571`, policy hits `3`
 - macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes (BBC News)
+- [macro] UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes (BBC News)
 - [crypto] US government moves $297M in seized Bitcoin, Ether to Coinbase Prime (Cointelegraph.com News)
-- [macro] UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes (BBC News)
-- [macro] UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes (BBC News)
 - [crypto] Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US-based Mexican food chain Chipotle opening first outlet in Mexico (BBC News)
+- [macro] US burrito chain Chipotle opening first outlet in Mexico (BBC News)
 - [commodity] Trump's Hormuz toll plans bring oil supply risks back in spotlight (Energy)
 - [macro] Colombian national killed by ICE agent during operation in Maine (BBC News)
 - [macro] Identity of Sydney daycare worker facing 329 child abuse offences revealed (BBC News)
