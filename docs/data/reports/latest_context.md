@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T20:01:25.503626+00:00`
+- Generated: `2026-07-14T20:07:41.991200+00:00`
 - Market context score: `45.91`
 - News risk score: `43.19`
 - Macro risk score: `25.05`
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee (Energy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US, UK treasuries to align transatlantic rules on tokenization and stablecoins (Cointelegraph.com News)
 - [macro] 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal (BBC News)
 - [macro] Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal (BBC News)
