@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-14T15:15:34.301549+00:00`
-- Flow alert score: `20.2`
+- Generated: `2026-07-14T15:20:36.287340+00:00`
+- Flow alert score: `20.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `31296678.16`
-- Polymarket volume z-score: `0.8`
+- Polymarket 24h volume: `31363989.85`
+- Polymarket volume z-score: `0.81`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `7211163.963161952` | liquidity: `3084226.82285`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3686743.851949002` | liquidity: `565186.8538`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1620245.785898` | liquidity: `677205.68684`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1411128.3253110002` | liquidity: `637911.64221`
-- Exact Score: France 3 - 3 Spain? | 24h volume: `1321499.4527559974` | liquidity: `1056366.91902`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `1289728.1515900025` | liquidity: `3433615.9785`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1185674.3526660004` | liquidity: `311748.63515`
-- Exact Score: France 3 - 2 Spain? | 24h volume: `1095425.0890680032` | liquidity: `511482.31001`
+- France vs. Spain: Team to Advance | 24h volume: `7239965.546068952` | liquidity: `3078530.11885`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3688484.1586540025` | liquidity: `563367.9382`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1620381.504698` | liquidity: `677204.50084`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1411118.7041110003` | liquidity: `637910.08891`
+- Exact Score: France 3 - 3 Spain? | 24h volume: `1324011.8337069976` | liquidity: `1047026.70767`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `1297531.8541670025` | liquidity: `3407144.7055`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1185894.4465140002` | liquidity: `311236.81135`
+- Exact Score: France 3 - 2 Spain? | 24h volume: `1101096.8362520037` | liquidity: `518895.90196`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
