@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-14T20:45:32.421604+00:00`
+- Generated: `2026-07-14T20:50:33.369153+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `68713157.8`
-- Polymarket volume z-score: `4.91`
+- Polymarket 24h volume: `69468464.95`
+- Polymarket volume z-score: `4.97`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `34859029.664240144` | liquidity: `292082.8541`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3186160.8631279687` | liquidity: `589170.29`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `2929842.958326032` | liquidity: `387752.83597`
-- Exact Score: France 3 - 2 Spain? | 24h volume: `2484969.2405710025` | liquidity: `100054.52561`
-- Exact Score: France 3 - 3 Spain? | 24h volume: `2427105.0977859995` | liquidity: `109040.78809`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1679107.7717539996` | liquidity: `674304.21511`
-- Exact Score: France 1 - 0 Spain? | 24h volume: `1571472.3977829986` | liquidity: `331780.19624`
-- Exact Score: France 2 - 2 Spain? | 24h volume: `1440150.8481659822` | liquidity: `82678.1427`
+- France vs. Spain: Team to Advance | 24h volume: `35158597.79957617` | liquidity: `404367.09115`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3184670.0515909693` | liquidity: `596704.7396`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `2929759.958326032` | liquidity: `393189.67792`
+- Exact Score: France 3 - 2 Spain? | 24h volume: `2511155.6519980025` | liquidity: `114320.06965`
+- Exact Score: France 3 - 3 Spain? | 24h volume: `2449190.832119999` | liquidity: `130669.4772`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1679114.6017539997` | liquidity: `673985.71774`
+- Exact Score: France 1 - 0 Spain? | 24h volume: `1571472.3977829986` | liquidity: `337276.10582`
+- Exact Score: France 2 - 2 Spain? | 24h volume: `1457101.9492409828` | liquidity: `100744.2473`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
