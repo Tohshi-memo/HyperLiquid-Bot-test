@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-14T12:05:31.084842+00:00`
+- Generated: `2026-07-14T12:10:26.320235+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `20985294.04`
-- Polymarket volume z-score: `-0.39`
+- Polymarket 24h volume: `20986668.38`
+- Polymarket volume z-score: `-0.38`
 
 ## Top Polymarket Markets
 
-- France vs. Spain: Team to Advance | 24h volume: `4232760.02678497` | liquidity: `2873056.89775`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1577694.1143689996` | liquidity: `454948.7423`
-- Exact Score: France 3 - 3 Spain? | 24h volume: `1023544.9475819988` | liquidity: `912372.23914`
-- Exact Score: France 2 - 1 Spain? | 24h volume: `837578.3528330001` | liquidity: `3042683.7814`
-- Iran military action against a Gulf State on July 9? | 24h volume: `671377.658848` | liquidity: `3772386.37853`
-- Exact Score: France 3 - 2 Spain? | 24h volume: `647118.273968001` | liquidity: `600542.65867`
-- Will the U.S. invade Iran before 2027? | 24h volume: `582746.8184070005` | liquidity: `711360.8109`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `556330.0921970002` | liquidity: `633977.10555`
+- France vs. Spain: Team to Advance | 24h volume: `4262161.497806967` | liquidity: `3124723.1298`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1577882.4282589997` | liquidity: `351638.9257`
+- Exact Score: France 3 - 3 Spain? | 24h volume: `1027617.4161479988` | liquidity: `909388.96358`
+- Exact Score: France 2 - 1 Spain? | 24h volume: `840737.0537090001` | liquidity: `3057073.3295`
+- Iran military action against a Gulf State on July 9? | 24h volume: `669134.136575` | liquidity: `3770557.96853`
+- Exact Score: France 3 - 2 Spain? | 24h volume: `654233.1420920013` | liquidity: `539001.05346`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `555313.0921970002` | liquidity: `653072.90621`
+- Will the U.S. invade Iran before 2027? | 24h volume: `491584.43866000016` | liquidity: `689241.1757`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
