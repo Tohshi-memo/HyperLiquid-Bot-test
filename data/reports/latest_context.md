@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T10:07:26.437086+00:00`
-- Market context score: `42.4`
-- News risk score: `44.89`
-- Macro risk score: `38.37`
-- Risk-on score: `24.39`
-- Articles: `49`
-- Polymarket markets: `391`
+- Generated: `2026-07-14T10:22:25.358372+00:00`
+- Market context score: `39.2`
+- News risk score: `46.75`
+- Macro risk score: `39.62`
+- Risk-on score: `19.34`
+- Articles: `57`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6071`
-- Day/swing latest: `2026-07-14T10:00:00+00:00`
+- Day/swing records: `6072`
+- Day/swing latest: `2026-07-14T10:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `32`, risk hits `18`, risk headline rate `0.4062`, policy hits `3`
+- commodity: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `3`
+- macro: articles `38`, risk hits `21`, risk headline rate `0.3947`, policy hits `7`
 
 ## Headlines
 
+- [macro] California leads lawsuit to block Paramount Warner Bros mega merger (BBC News)
+- [commodity] Trump’s Hormuz toll plan could backfire, global shipping industry warns — here’s why (Energy)
 - [macro] South East Water must pay £30.5m for supply failures (BBC News)
-- [crypto] Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts (Cointelegraph.com News)
-- [commodity] U.S. crude jumps above $80 as Iran ceasefire fractures; Trump's Hormuz toll plans reignite supply fears (Energy)
-- [macro] Where Will Walmart Stock Be in 5 Years? (Yahoo Finance)
-- [macro] TC Group names Jennie Brown as head of tax advisory (Yahoo Finance)
-- [macro] Earnings, Inflation and Iran Tensions Set the Tone for US Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures (Yahoo Finance)
-- [macro] Could MercadoLibre Stock Be a Once-in-a-Decade Buying Opportunity? (Yahoo Finance)
-- [macro] Chinese vehicle sales decline 3% in June (Yahoo Finance)
-- [macro] Dollar dips ahead of US inflation data, supported by rate outlook (Yahoo Finance)
-- [macro] ECB picks 36 payment firms for digital euro pilot (Yahoo Finance)
+- [crypto] Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig (Cointelegraph.com News)
+- [macro] He Retired at 58, Not 65. Here’s Why His Social Security Claiming Decision Matters More Than His Portfolio (Yahoo Finance)
+- [macro] Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport (BBC News)
+- [macro] RIA Caprock Makes 2nd Acquisition to Date with $4B Austin-Based Team (Yahoo Finance)
+- [macro] Mortgage & refinance interest rates today, Tuesday, July 14, 2026: Rates mixed this morning (Yahoo Finance)
+- [macro] Best CD rates today, Tuesday, July 14, 2026: Lock in up to 4.10% APY today (Yahoo Finance)
+- [macro] Welcome to the Tokenpocalypse: Companies rapidly backtrack after encouraging workers to spend with abandon on AI (Yahoo Finance)
