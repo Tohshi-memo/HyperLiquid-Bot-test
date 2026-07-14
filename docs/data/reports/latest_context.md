@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T00:37:24.899156+00:00`
-- Market context score: `45.73`
-- News risk score: `41.96`
-- Macro risk score: `35.33`
-- Risk-on score: `28.19`
+- Generated: `2026-07-14T00:52:24.059841+00:00`
+- Market context score: `43.15`
+- News risk score: `43.3`
+- Macro risk score: `36.93`
+- Risk-on score: `24.19`
 - Articles: `45`
 - Polymarket markets: `390`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:766`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6034`
-- Day/swing latest: `2026-07-14T00:30:00+00:00`
+- Day/swing records: `6035`
+- Day/swing latest: `2026-07-14T00:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `21`, risk hits `7`, risk headline rate `0.2381`, policy hits `4`
+- commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.25`, policy hits `4`
 - macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries (Energy)
 - [macro] UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes (BBC News)
 - [macro] UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes (BBC News)
 - [macro] California leads lawsuit to block Paramount Warner Bros mega merger (BBC News)
@@ -38,4 +39,3 @@
 - [commodity] Jim Cramer says these 'Pavlovian trades' are the stocks that benefit when oil spikes (Energy)
 - [macro] 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78 (BBC News)
 - [commodity] Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade (Energy)
-- [crypto] Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules (Cointelegraph.com News)
