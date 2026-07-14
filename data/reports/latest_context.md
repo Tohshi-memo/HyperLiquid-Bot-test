@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-14T21:37:32.869112+00:00`
+- Generated: `2026-07-14T21:52:31.351455+00:00`
 - Market context score: `45.58`
 - News risk score: `44.57`
 - Macro risk score: `24.57`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6117`
-- Day/swing latest: `2026-07-14T21:30:00+00:00`
+- Day/swing records: `6118`
+- Day/swing latest: `2026-07-14T21:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Midnight social media curfew and scrolling curbs proposed for older UK teens (BBC News)
 - [crypto] Three US senators oppose CLARITY Act on ethics grounds with vote expected soon (Cointelegraph.com News)
 - [macro] Consumer prices rose 3.5% annually in June, less than expected as energy prices eased (Economy)
 - [crypto] U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] Velocity raises $38M to build stablecoin treasury infrastructure for enterprises (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US, UK treasuries to align transatlantic rules on tokenization and stablecoins (Cointelegraph.com News)
-- [macro] 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal (BBC News)
