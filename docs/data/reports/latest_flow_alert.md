@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-15T15:56:12.125553+00:00`
-- Flow alert score: `22.12`
+- Generated: `2026-07-15T16:00:42.268328+00:00`
+- Flow alert score: `22.2`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `36293697.34`
-- Polymarket volume z-score: `1.28`
+- Polymarket 24h volume: `36490562.71`
+- Polymarket volume z-score: `1.3`
 
 ## Top Polymarket Markets
 
-- England vs. Argentina: Team to Advance | 24h volume: `7140797.601278756` | liquidity: `2254957.132375`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3872353.619885` | liquidity: `22623.95433`
-- Exact Score: England 3 - 3 Argentina? | 24h volume: `2552301.1552809994` | liquidity: `678740.4374`
-- Exact Score: England 2 - 3 Argentina? | 24h volume: `2004650.3169399912` | liquidity: `1512530.60781`
-- Exact Score: England 3 - 2 Argentina? | 24h volume: `1986985.3359769958` | liquidity: `1136442.93614`
-- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1512064.3000000035` | liquidity: `49966.27877`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1432270.435026001` | liquidity: `565967.06387`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1403638.8584279998` | liquidity: `1024812.28817`
+- England vs. Argentina: Team to Advance | 24h volume: `7183675.903773751` | liquidity: `2301328.64805`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3929553.619885` | liquidity: `23584.47249`
+- Exact Score: England 3 - 3 Argentina? | 24h volume: `2557322.0643569995` | liquidity: `889221.85247`
+- Exact Score: England 2 - 3 Argentina? | 24h volume: `2018069.1157069914` | liquidity: `1482088.43833`
+- Exact Score: England 3 - 2 Argentina? | 24h volume: `1987728.259437996` | liquidity: `1041096.65286`
+- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1512064.3000000035` | liquidity: `47750.75077`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1432164.0970740009` | liquidity: `569593.28466`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1403861.7260949998` | liquidity: `1003020.87834`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
