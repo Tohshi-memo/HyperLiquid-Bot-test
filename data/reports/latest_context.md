@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T07:22:28.005858+00:00`
+- Generated: `2026-07-15T07:37:36.167147+00:00`
 - Market context score: `51.02`
 - News risk score: `41.18`
 - Macro risk score: `25.18`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:93, fx:6, index:25, metal:20, unknown:767`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6155`
-- Day/swing latest: `2026-07-15T07:15:00+00:00`
+- Day/swing records: `6156`
+- Day/swing latest: `2026-07-15T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Midnight social media curfew proposed for older UK teens (BBC News)
 - [macro] Thames Water returns to profit after raising bills (BBC News)
+- [macro] Midnight social media curfew proposed for UK teens aged 16 and 17 (BBC News)
 - [macro] Trump threatens to bomb bridges and power plants unless Iran resumes talks (BBC News)
 - [macro] Trump threatens to bomb bridges and power plants unless Iran resumes talks (BBC News)
 - [commodity] Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports (Energy)
