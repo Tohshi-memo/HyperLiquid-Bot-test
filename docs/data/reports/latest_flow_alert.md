@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-15T20:40:27.721004+00:00`
+- Generated: `2026-07-15T20:45:30.175645+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `63526409.2`
-- Polymarket volume z-score: `3.75`
+- Polymarket 24h volume: `64581175.16`
+- Polymarket volume z-score: `3.84`
 
 ## Top Polymarket Markets
 
-- England vs. Argentina: Team to Advance | 24h volume: `22207272.16882101` | liquidity: `248770.535875`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4678353.619885` | liquidity: `22580.20351`
-- Exact Score: England 3 - 3 Argentina? | 24h volume: `3851436.0929179923` | liquidity: `301931.06567`
-- Exact Score: England 3 - 2 Argentina? | 24h volume: `3518497.3031000025` | liquidity: `109770.8651`
-- Exact Score: England 2 - 3 Argentina? | 24h volume: `3239162.417705997` | liquidity: `122165.00899`
-- Exact Score: England 2 - 1 Argentina? | 24h volume: `2749653.1694260235` | liquidity: `109200.86779`
-- Exact Score: England 1 - 2 Argentina? | 24h volume: `1904959.0656769895` | liquidity: `108931.83934`
-- Exact Score: England 2 - 2 Argentina? | 24h volume: `1864786.297882008` | liquidity: `99103.75832`
+- England vs. Argentina: Team to Advance | 24h volume: `22657216.54299601` | liquidity: `320477.375475`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4679663.219885` | liquidity: `23918.75785`
+- Exact Score: England 3 - 3 Argentina? | 24h volume: `3851263.0929179923` | liquidity: `307175.2577`
+- Exact Score: England 3 - 2 Argentina? | 24h volume: `3526998.1431000023` | liquidity: `127509.13125`
+- Exact Score: England 2 - 3 Argentina? | 24h volume: `3253709.4063379974` | liquidity: `154328.96913`
+- Exact Score: England 2 - 1 Argentina? | 24h volume: `2786804.8057610253` | liquidity: `93329.5492`
+- Exact Score: England 1 - 2 Argentina? | 24h volume: `1950426.7639609904` | liquidity: `91496.36336`
+- Exact Score: England 2 - 2 Argentina? | 24h volume: `1902392.8280660075` | liquidity: `116945.2421`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
