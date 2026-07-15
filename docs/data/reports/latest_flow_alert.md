@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-15T13:35:30.813007+00:00`
-- Flow alert score: `18.76`
+- Generated: `2026-07-15T13:40:31.210248+00:00`
+- Flow alert score: `18.84`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `28275907.91`
-- Polymarket volume z-score: `0.44`
+- Polymarket 24h volume: `28491828.85`
+- Polymarket volume z-score: `0.46`
 
 ## Top Polymarket Markets
 
-- England vs. Argentina: Team to Advance | 24h volume: `5938645.728715981` | liquidity: `2332505.5025`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2503045.548461` | liquidity: `23758.6824`
-- Exact Score: England 3 - 3 Argentina? | 24h volume: `1649548.7970580014` | liquidity: `1083562.96448`
-- Exact Score: England 3 - 2 Argentina? | 24h volume: `1517002.2102029945` | liquidity: `539414.88294`
-- Exact Score: England 2 - 3 Argentina? | 24h volume: `1424723.532282994` | liquidity: `997131.05705`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1322746.1523850015` | liquidity: `626492.64329`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `920318.775639` | liquidity: `1042249.27292`
-- Exact Score: England 2 - 1 Argentina? | 24h volume: `844761.1775350063` | liquidity: `2414590.835`
+- England vs. Argentina: Team to Advance | 24h volume: `5954753.120391978` | liquidity: `2307531.111725`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `2524295.619889` | liquidity: `28804.64605`
+- Exact Score: England 3 - 3 Argentina? | 24h volume: `1681865.3773940017` | liquidity: `1070112.02303`
+- Exact Score: England 3 - 2 Argentina? | 24h volume: `1528979.1777339948` | liquidity: `534875.1316`
+- Exact Score: England 2 - 3 Argentina? | 24h volume: `1457709.6236339943` | liquidity: `1060739.90047`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1436961.5686290017` | liquidity: `506968.17589`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `920317.2656390001` | liquidity: `1049400.6469`
+- Exact Score: England 2 - 1 Argentina? | 24h volume: `848151.6241800067` | liquidity: `2416306.5724`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
