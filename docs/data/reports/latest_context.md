@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T23:07:29.774011+00:00`
+- Generated: `2026-07-15T23:22:26.320109+00:00`
 - Market context score: `50.75`
 - News risk score: `44.13`
 - Macro risk score: `24.46`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6216`
-- Day/swing latest: `2026-07-15T23:00:00+00:00`
+- Day/swing records: `6217`
+- Day/swing latest: `2026-07-15T23:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] New monkey species with orange lips found 'hiding' in DRC forest (BBC News)
+- [macro] Families of 43 victims await verdict in Genoa bridge disaster (BBC News)
 - [macro] Celebrity influencers paid up to £1m to advertise deodorant on Instagram (BBC News)
 - [macro] Argentina face fine for Falklands banner in semi-final win (BBC News)
 - [macro] US military to start testosterone  testing, Hegseth says (BBC News)
@@ -37,5 +39,3 @@
 - [macro] World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says (Economy)
 - [macro] Russian attacks kill 14 as Ukraine hits Black Sea oil tankers (BBC News)
 - [commodity] Trump blasts New York AI data center moratorium, says state should change policy 'immediately' (Energy)
-- [crypto] Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
