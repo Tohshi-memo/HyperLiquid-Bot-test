@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-07-15T08:52:26.317114+00:00`
+- Generated: `2026-07-15T08:58:16.254473+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `17`
 - Outcome sides (rows): `34`
@@ -26,15 +26,15 @@
 - No change [Yes] symbol `#5100` underlying `n/a` prob `0.9143` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [No] symbol `#5121` underlying `n/a` prob `0.905` price_source `allMids` vol24h `0.0` oi `0.0`
 - Argentina [No] symbol `#1731` underlying `n/a` prob `0.8032` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#8450` underlying `n/a` prob `0.7808` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#8450` underlying `n/a` prob `0.7842` price_source `allMids` vol24h `0.0` oi `0.0`
 - England [No] symbol `#1881` underlying `n/a` prob `0.7741` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#8441` underlying `n/a` prob `0.713` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#8411` underlying `SOL` prob `0.6323` price_source `allMids` vol24h `0.0` oi `0.0`
 - Spain [Yes] symbol `#2120` underlying `n/a` prob `0.5791` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8391` underlying `BTC` prob `0.5715` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8401` underlying `ETH` prob `0.543` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8391` underlying `BTC` prob `0.5533` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [Yes] symbol `#8420` underlying `HYPE` prob `0.5405` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Semifinal: England vs Argentina [England] symbol `#8220` underlying `n/a` prob `0.5348` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Semifinal: England vs Argentina [England] symbol `#8220` underlying `n/a` prob `0.5349` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8401` underlying `ETH` prob `0.5252` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#8461` underlying `n/a` prob `0.506` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [Yes] symbol `#1710` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Fallback [No] symbol `#1711` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -43,10 +43,10 @@
 - Recurring Fallback [Yes] symbol `#8430` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#8431` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#8460` underlying `n/a` prob `0.494` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Semifinal: England vs Argentina [Argentina] symbol `#8221` underlying `n/a` prob `0.4652` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8400` underlying `ETH` prob `0.4748` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Semifinal: England vs Argentina [Argentina] symbol `#8221` underlying `n/a` prob `0.4651` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#8421` underlying `HYPE` prob `0.4595` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8400` underlying `ETH` prob `0.457` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8390` underlying `BTC` prob `0.4285` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8390` underlying `BTC` prob `0.4467` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
@@ -66,12 +66,12 @@
 - Decrease [No] symbol `#5111` underlying `n/a` prob `0.992` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [Yes] symbol `#5120` underlying `n/a` prob `0.095` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [No] symbol `#5121` underlying `n/a` prob `0.905` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Semifinal: England vs Argentina [England] symbol `#8220` underlying `n/a` prob `0.5348` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Semifinal: England vs Argentina [Argentina] symbol `#8221` underlying `n/a` prob `0.4652` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8390` underlying `BTC` prob `0.4285` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8391` underlying `BTC` prob `0.5715` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8400` underlying `ETH` prob `0.457` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8401` underlying `ETH` prob `0.543` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Semifinal: England vs Argentina [England] symbol `#8220` underlying `n/a` prob `0.5349` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Semifinal: England vs Argentina [Argentina] symbol `#8221` underlying `n/a` prob `0.4651` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8390` underlying `BTC` prob `0.4467` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8391` underlying `BTC` prob `0.5533` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8400` underlying `ETH` prob `0.4748` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8401` underlying `ETH` prob `0.5252` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [Yes] symbol `#8410` underlying `SOL` prob `0.3677` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#8411` underlying `SOL` prob `0.6323` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [Yes] symbol `#8420` underlying `HYPE` prob `0.5405` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -94,12 +94,12 @@
 - Decrease [No] symbol `#5111` underlying `n/a` prob `0.992` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [Yes] symbol `#5120` underlying `n/a` prob `0.095` price_source `allMids` vol24h `0.0` oi `0.0`
 - Increase [No] symbol `#5121` underlying `n/a` prob `0.905` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Semifinal: England vs Argentina [England] symbol `#8220` underlying `n/a` prob `0.5348` price_source `allMids` vol24h `0.0` oi `0.0`
-- World Cup Semifinal: England vs Argentina [Argentina] symbol `#8221` underlying `n/a` prob `0.4652` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8390` underlying `BTC` prob `0.4285` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8391` underlying `BTC` prob `0.5715` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#8400` underlying `ETH` prob `0.457` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#8401` underlying `ETH` prob `0.543` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Semifinal: England vs Argentina [England] symbol `#8220` underlying `n/a` prob `0.5349` price_source `allMids` vol24h `0.0` oi `0.0`
+- World Cup Semifinal: England vs Argentina [Argentina] symbol `#8221` underlying `n/a` prob `0.4651` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8390` underlying `BTC` prob `0.4467` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8391` underlying `BTC` prob `0.5533` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#8400` underlying `ETH` prob `0.4748` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#8401` underlying `ETH` prob `0.5252` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [Yes] symbol `#8410` underlying `SOL` prob `0.3677` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#8411` underlying `SOL` prob `0.6323` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [Yes] symbol `#8420` underlying `HYPE` prob `0.5405` price_source `allMids` vol24h `0.0` oi `0.0`

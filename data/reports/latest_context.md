@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T08:52:26.317114+00:00`
+- Generated: `2026-07-15T08:58:16.254473+00:00`
 - Market context score: `67.28`
 - News risk score: `31.18`
 - Macro risk score: `21.7`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Thames Water returns to profit after raising bills (BBC News)
 - [macro] How will Buy Now Pay Later changes affect you? (BBC News)
 - [macro] Midnight social media curfew proposed for UK teens aged 16 and 17 (BBC News)
 - [crypto] Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +37,4 @@
 - [macro] Trump threatens to bomb bridges and power plants unless Iran resumes talks (BBC News)
 - [macro] Trump threatens to bomb bridges and power plants unless Iran resumes talks (BBC News)
 - [crypto] UK plans first G7 digital sovereign bond by early 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Thames Water returns to profit after raising bills (BBC News)
 - [commodity] Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports (Energy)
