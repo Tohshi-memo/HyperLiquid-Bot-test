@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T02:37:31.354683+00:00`
+- Generated: `2026-07-15T02:52:32.299445+00:00`
 - Market context score: `55.3`
 - News risk score: `36.31`
 - Macro risk score: `24.18`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:93, fx:6, index:25, metal:20, unknown:767`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6137`
-- Day/swing latest: `2026-07-15T02:30:00+00:00`
+- Day/swing records: `6138`
+- Day/swing latest: `2026-07-15T02:45:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
+- [macro] China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls (Economy)
 - [macro] China economic growth falls sharply, missing target (BBC News)
-- [macro] China posts slowest GDP growth since 2022 at 4.3%, missing expectations (Economy)
 - [crypto] Bitmine generated $46M from Ethereum staking last quarter (Cointelegraph.com News)
 - [macro] Seven Britons among those killed in Spain wildfires (BBC News)
 - [macro] Xbox workers stunned after jobs 'bloodbath' (BBC News)
