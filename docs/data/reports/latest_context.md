@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T18:22:33.705313+00:00`
+- Generated: `2026-07-15T18:37:32.687048+00:00`
 - Market context score: `55.36`
 - News risk score: `42.12`
 - Macro risk score: `18.81`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6198`
-- Day/swing latest: `2026-07-15T18:15:00+00:00`
+- Day/swing records: `6199`
+- Day/swing latest: `2026-07-15T18:30:00+00:00`
 
 ## News Categories
 
@@ -30,6 +30,7 @@
 ## Headlines
 
 - [macro] SpaceX share price drops below stock market debut (BBC News)
+- [macro] What if Bluey spoke one of the world's oldest living languages? (BBC News)
 - [crypto] US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon (Cointelegraph.com News)
 - [macro] French MPs approve assisted dying law with strict rules after years of argument (BBC News)
 - [crypto] Ostium pauses trading as security firms report multimillion-dollar oracle exploit (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [policy] Cook, Economic Outlook (FRB: Speeches)
 - [crypto] Cantor and Securitize collaborate on blockchain-based IPOs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Five arrested after Hong Kong police raid independent bookshops (BBC News)
