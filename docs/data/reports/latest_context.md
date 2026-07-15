@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T17:22:27.689907+00:00`
-- Market context score: `53.49`
-- News risk score: `46.39`
-- Macro risk score: `22.51`
-- Risk-on score: `44.32`
-- Articles: `92`
+- Generated: `2026-07-15T17:38:21.540538+00:00`
+- Market context score: `55.56`
+- News risk score: `45.13`
+- Macro risk score: `21.75`
+- Risk-on score: `47.57`
+- Articles: `93`
 - Polymarket markets: `401`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6194`
-- Day/swing latest: `2026-07-15T17:15:00+00:00`
+- Day/swing records: `6195`
+- Day/swing latest: `2026-07-15T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
-- crypto: articles `33`, risk hits `14`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `56`, risk hits `10`, risk headline rate `0.1429`, policy hits `3`
+- crypto: articles `32`, risk hits `13`, risk headline rate `0.3125`, policy hits `2`
+- macro: articles `58`, risk hits `8`, risk headline rate `0.1207`, policy hits `7`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Ostium pauses trading as security firms report multimillion-dollar oracle exploit (Cointelegraph.com News)
-- [macro] Fed's Cook says she is prepared to act soon if inflation does not begin to slow (Yahoo Finance)
-- [macro] Dow Jones Stays Calm While Memory Chips Give Investors Whiplash (Again) (Yahoo Finance)
-- [macro] IBM warning sends software and consulting stock prices reeling (Yahoo Finance)
-- [commodity] Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes (Energy)
-- [macro] Lucid Stock Bounces Back After Strongly Refuting Bankruptcy Rumors (Yahoo Finance)
-- [macro] If a Bear Market Is Coming, History Says the Smartest Investors Are All Making This 1 Move Right Now (Yahoo Finance)
-- [crypto] DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [policy] Cook, Economic Outlook (FRB: Speeches)
-- [crypto] Cantor and Securitize collaborate on blockchain-based IPOs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Wells Fargo, Morgan Stanley Boast Q2 Wealth Revenue Jumps (Yahoo Finance)
+- [macro] A CBS journalist who covers scams rushed his to his bank to withdraw money after nearly falling for an imposter scam (Yahoo Finance)
+- [macro] French MPs approve assisted dying law with strict rules after years of argument (BBC News)
+- [macro] Prediction: This Dividend King Could End The Year With a New All-Time High Stock Price (Yahoo Finance)
+- [macro] Price Prediction: Broadcom Stock Will End The Year at This Price (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq, S&P 500 Weaken; PayPal Surges, But Sandisk, Chip Stocks Tumble (Live Coverage) (Yahoo Finance)
+- [macro] SpaceX share price drops below stock market debut (BBC News)
+- [macro] Larry Fink stays bullish as one BlackRock unit sheds nearly 40% (Yahoo Finance)
+- [macro] Booking, Alphabet, and 7 Other Stocks to Buy Ahead of Earnings (Yahoo Finance)
+- [macro] JPMorgan Chase, Stock Of The Day, Rises In Buy Zone: Next AI Winner? (Yahoo Finance)
