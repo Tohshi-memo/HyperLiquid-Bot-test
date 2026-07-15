@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T21:37:34.122804+00:00`
-- Market context score: `53.71`
-- News risk score: `42.63`
-- Macro risk score: `20.69`
-- Risk-on score: `40.95`
-- Articles: `68`
+- Generated: `2026-07-15T21:52:43.962621+00:00`
+- Market context score: `54.66`
+- News risk score: `42.36`
+- Macro risk score: `21.13`
+- Risk-on score: `43.0`
+- Articles: `66`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6211`
-- Day/swing latest: `2026-07-15T21:30:00+00:00`
+- Day/swing records: `6212`
+- Day/swing latest: `2026-07-15T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `2`
 - crypto: articles `31`, risk hits `12`, risk headline rate `0.2903`, policy hits `3`
-- macro: articles `33`, risk hits `4`, risk headline rate `0.0909`, policy hits `3`
+- macro: articles `31`, risk hits `4`, risk headline rate `0.0968`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Russian attacks kill 14 as Ukraine hits Black Sea oil tankers (BBC News)
 - [macro] World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says (Economy)
+- [macro] Russian attacks kill 14 as Ukraine hits Black Sea oil tankers (BBC News)
 - [commodity] Trump blasts New York AI data center moratorium, says state should change policy 'immediately' (Energy)
 - [crypto] Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
