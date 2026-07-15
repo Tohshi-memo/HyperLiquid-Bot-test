@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-15T08:25:26.068189+00:00`
+- Generated: `2026-07-15T08:30:25.079174+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `23831984.25`
-- Polymarket volume z-score: `-0.04`
+- Polymarket 24h volume: `23894796.97`
+- Polymarket volume z-score: `-0.03`
 
 ## Top Polymarket Markets
 
-- England vs. Argentina: Team to Advance | 24h volume: `3701909.594247998` | liquidity: `2841561.629525`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3004036.340572008` | liquidity: `872019.3163`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1658231.2536799998` | liquidity: `918940.26797`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1274526.4710429981` | liquidity: `497793.37205`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1248307.7526090008` | liquidity: `1216950.89316`
-- Exact Score: England 3 - 3 Argentina? | 24h volume: `962659.3775480003` | liquidity: `1337164.36903`
-- Exact Score: England 3 - 2 Argentina? | 24h volume: `911311.1637389993` | liquidity: `512538.02762`
-- Exact Score: England 2 - 3 Argentina? | 24h volume: `868662.8490259992` | liquidity: `989964.70571`
+- England vs. Argentina: Team to Advance | 24h volume: `3703401.872698999` | liquidity: `2852537.890675`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `3002571.577089007` | liquidity: `872656.9121`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1658264.0634299999` | liquidity: `919025.78375`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1272488.9165329982` | liquidity: `499021.42849`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1248149.0026090008` | liquidity: `1216357.11716`
+- Exact Score: England 3 - 3 Argentina? | 24h volume: `983525.9374350004` | liquidity: `1294860.34274`
+- Exact Score: England 3 - 2 Argentina? | 24h volume: `925995.6827609988` | liquidity: `550592.13136`
+- Exact Score: England 2 - 3 Argentina? | 24h volume: `870279.1890259993` | liquidity: `990246.01562`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
