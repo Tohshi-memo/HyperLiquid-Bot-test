@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T16:37:28.633201+00:00`
-- Market context score: `54.07`
+- Generated: `2026-07-15T16:52:28.955684+00:00`
+- Market context score: `55.83`
 - News risk score: `44.82`
 - Macro risk score: `23.28`
-- Risk-on score: `44.57`
+- Risk-on score: `48.49`
 - Articles: `90`
-- Polymarket markets: `399`
+- Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6191`
-- Day/swing latest: `2026-07-15T16:30:00+00:00`
+- Day/swing records: `6192`
+- Day/swing latest: `2026-07-15T16:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] SOXS Jumps 11% as Micron Slides on Fears of Fiercer Chinese Memory Chip Competition (Yahoo Finance)
+- [macro] Is The Coca-Cola Company (KO) A Good Stock To Buy Now? (Yahoo Finance)
+- [macro] This Is the Default ‘Trump Account’ ETF for Newborns. Should You Own It Too? (Yahoo Finance)
+- [macro] Micron vs SanDisk: Which Memory Play Wins the AI Boom? (Yahoo Finance)
+- [macro] Dell, Micron, SanDisk tumble as AI hardware rally hits reversal (Yahoo Finance)
 - [crypto] Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets (Cointelegraph.com News)
-- [macro] Why Robinhood Could See a Prediction Markets Earnings Boost (Yahoo Finance)
-- [macro] Meta employees sue over alleged AI-driven layoffs targeting workers on leave (Yahoo Finance)
-- [macro] Citi revamps Apple's stock price target for the rest of 2026 (Yahoo Finance)
-- [macro] SpaceX Stock Is Already Down 37% From Its Peak. Here's What Deutsche Bank's $255 Target Says Happens Next (Yahoo Finance)
-- [macro] PYPY Pops 14% as Paypal Reportedly Draws $53 Billion Stripe + Advent Takeover Bid (Yahoo Finance)
+- [macro] I Keep Backing Up the Truck and Buying Amazon Because Of This Silicon Secret (Yahoo Finance)
+- [macro] IBM employees watch $400 million vanish as stock hits worst day — a reminder about holding too much company stock (Yahoo Finance)
+- [macro] Microsoft Stock Hit With Price-Target Cuts After Flaccid Performance (Yahoo Finance)
 - [macro] Stocks rise after soft US inflation reading with Middle East in focus (Yahoo Finance)
-- [macro] British Steel nationalisation takes step closer (BBC News)
-- [macro] Healthcare Bellwether J&J Beats And Raises, But Shares Dip (Yahoo Finance)
-- [macro] PayPal Surges Amid Stripe, Private Equity Takeover Report. Lowball Offer? (Yahoo Finance)
