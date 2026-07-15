@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-15T00:57:17.778565+00:00`
-- Market context score: `47.63`
-- News risk score: `39.29`
-- Macro risk score: `25.61`
-- Risk-on score: `26.47`
-- Articles: `50`
+- Generated: `2026-07-15T01:07:26.822337+00:00`
+- Market context score: `46.94`
+- News risk score: `40.4`
+- Macro risk score: `26.36`
+- Risk-on score: `26.17`
+- Articles: `53`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:92, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6130`
-- Day/swing latest: `2026-07-15T00:45:00+00:00`
+- Day/swing records: `6131`
+- Day/swing latest: `2026-07-15T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `3`
-- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Seven Britons among those killed in Spain wildfires (BBC News)
+- [macro] Trump retreat over Hormuz tolls suggests he is struggling to end Iran war (BBC News)
 - [macro] Midnight social media curfew proposed for older UK teens (BBC News)
+- [macro] US Congress takes next step to make daylight saving time permanent (BBC News)
 - [macro] How a former 'street kid' is key to South Africa's police corruption inquiry (BBC News)
 - [macro] I changed jobs 10 times in 10 years to get the career I wanted (BBC News)
 - [macro] Buy Now Pay Later rules to bring refunds and rejections (BBC News)
 - [macro] Heating oil customers to get compensation after price hikes (BBC News)
 - [crypto] Over 95% of Coinbase’s code is now written with AI (Cointelegraph.com News)
 - [macro] From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers (BBC News)
-- [crypto] Three US senators oppose CLARITY Act on ethics grounds with vote expected soon (Cointelegraph.com News)
-- [macro] Consumer prices rose 3.5% annually in June, less than expected as energy prices eased (Economy)
-- [crypto] U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
