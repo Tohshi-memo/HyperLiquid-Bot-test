@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T11:52:29.321121+00:00`
-- Market context score: `51.53`
-- News risk score: `35.56`
-- Macro risk score: `18.38`
-- Risk-on score: `29.26`
-- Articles: `43`
-- Polymarket markets: `395`
+- Generated: `2026-07-16T12:07:52.143563+00:00`
+- Market context score: `48.01`
+- News risk score: `40.69`
+- Macro risk score: `20.2`
+- Risk-on score: `26.46`
+- Articles: `54`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6265`
-- Day/swing latest: `2026-07-16T11:45:00+00:00`
+- Day/swing records: `6266`
+- Day/swing latest: `2026-07-16T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `2`
-- macro: articles `22`, risk hits `2`, risk headline rate `0.0455`, policy hits `0`
+- crypto: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `32`, risk hits `4`, risk headline rate `0.0938`, policy hits `0`
 
 ## Headlines
 
+- [macro] Dow Jones Futures Rise But AI Woes Continue; Taiwan Semi, GE, UnitedHealth Are Key Earnings Movers (Yahoo Finance)
+- [macro] Argentina face action over Falklands banner (BBC News)
+- [macro] Hyundai plans full ownership of US robotics firm Boston Dynamics (Yahoo Finance)
+- [crypto] Galaxy targets institutional stablecoin yield with new DeFi vaults (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] RIA Buyers Predict Valuations to Flatline in Second Half of 2026 (Yahoo Finance)
+- [macro] Here Are Thursday’s Top Wall Street Analyst Research Calls: Alphabet, BlackRock, Etsy, Flex, Lululemon Athletica, Meta Platforms, Okta, Palo Alto Networks, and More (Yahoo Finance)
+- [macro] Hyundai Card’s 20-year history of innovation creates a new playbook: “Universal and Specialised” (Yahoo Finance)
+- [macro] Snowflake unveils $448 million pay plan for CEO tied to ambitious stock targets (Yahoo Finance)
 - [macro] Iran targets military bases as US launches wave of strikes (BBC News)
 - [crypto] ARK pushes back against a16z’s ‘TradFi wants blockchain, not DeFi’ claim (Cointelegraph.com News)
-- [macro] British Steel taken into public ownership to protect 'vital' UK supply (BBC News)
-- [macro] Protests in Ukraine's cities against Zelensky's removal of defence minister (BBC News)
-- [crypto] The most popular bitcoin call option has slipped by $10,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] The best energy stocks right now as two major conflicts keep oil prices elevated (Energy)
-- [crypto] Rebooting the internet: inside the open-source project to let AI programs pay each other (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Aer Lingus proposes cutting 500 jobs under savings plan (BBC News)
-- [macro] Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned (BBC News)
-- [macro] 'Moment of joy' as Uganda discharges last Ebola patient (BBC News)
