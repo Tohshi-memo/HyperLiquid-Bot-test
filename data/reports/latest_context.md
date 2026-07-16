@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T01:22:24.414949+00:00`
-- Market context score: `46.21`
+- Generated: `2026-07-16T01:37:25.803961+00:00`
+- Market context score: `45.46`
 - News risk score: `44.05`
 - Macro risk score: `30.77`
-- Risk-on score: `29.29`
+- Risk-on score: `27.62`
 - Articles: `46`
 - Polymarket markets: `395`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6224`
-- Day/swing latest: `2026-07-16T01:15:00+00:00`
+- Day/swing records: `6225`
+- Day/swing latest: `2026-07-16T01:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Base’s social bet left it trailing in prediction markets and perps: Pollak (Cointelegraph.com News)
 - [macro] Orange haze from Canada wildfires seen in Ontario and northern US (BBC News)
 - [macro] A Cold War bunker gets a luxury makeover as 'doomsday' condos (BBC News)
 - [macro] New monkey species with orange lips found 'hiding' in DRC forest (BBC News)
@@ -38,4 +39,3 @@
 - [macro] US military to start screening for testosterone deficiency, Hegseth says (BBC News)
 - [macro] Buffett calls Bill Gates relationship with Epstein 'distasteful' (BBC News)
 - [macro] 'I must get out into the free world', dissident who fled China on boat tells BBC (BBC News)
-- [macro] Bangkok's bar fire is the city's latest deadly blaze - will anything ever change? (BBC News)
