@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T20:22:30.393637+00:00`
-- Market context score: `50.49`
-- News risk score: `41.59`
-- Macro risk score: `22.72`
-- Risk-on score: `33.68`
-- Articles: `69`
+- Generated: `2026-07-16T20:31:29.839088+00:00`
+- Market context score: `51.8`
+- News risk score: `40.28`
+- Macro risk score: `22.74`
+- Risk-on score: `35.49`
+- Articles: `68`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6299`
-- Day/swing latest: `2026-07-16T20:15:00+00:00`
+- Day/swing records: `6300`
+- Day/swing latest: `2026-07-16T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `33`, risk hits `9`, risk headline rate `0.2424`, policy hits `1`
+- crypto: articles `32`, risk hits `8`, risk headline rate `0.2188`, policy hits `1`
 - macro: articles `32`, risk hits `3`, risk headline rate `0.0625`, policy hits `0`
 - policy: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [crypto] 1inch co-founder says he was fired, announces new venture (Cointelegraph.com News)
 - [macro] Kris Jenner's mother Mary Jo dies aged 91 (BBC News)
-- [macro] Canada wildfires spread smoke across North America, prompting air quality alerts (BBC News)
+- [crypto] 1inch co-founder says he was fired, announces new venture (Cointelegraph.com News)
+- [macro] Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south (BBC News)
 - [commodity] The best energy stocks right now as two major conflicts keep oil prices elevated (Energy)
 - [crypto] Injective files for SEC transfer agent registration to bring securities ownership records onchain (Cointelegraph.com News)
 - [commodity] Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports (Energy)
