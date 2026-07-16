@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T14:07:28.828714+00:00`
-- Market context score: `56.97`
-- News risk score: `36.7`
-- Macro risk score: `16.67`
-- Risk-on score: `41.66`
-- Articles: `82`
+- Generated: `2026-07-16T14:22:30.400366+00:00`
+- Market context score: `57.17`
+- News risk score: `36.4`
+- Macro risk score: `16.66`
+- Risk-on score: `41.85`
+- Articles: `83`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6274`
-- Day/swing latest: `2026-07-16T14:00:00+00:00`
+- Day/swing records: `6275`
+- Day/swing latest: `2026-07-16T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `6`, risk headline rate `0.1852`, policy hits `1`
+- crypto: articles `28`, risk hits `6`, risk headline rate `0.1786`, policy hits `1`
 - macro: articles `54`, risk hits `4`, risk headline rate `0.0556`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Investigation into parking tickets for drivers queuing at petrol stations (BBC News)
 - [macro] More than 800 Canadian wildfires burning as air quality alerts extend to US (BBC News)
 - [macro] Strong Results Bolster UnitedHealth’s (UNH) Recovery (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Is Honeywell International Inc. (HON) One of the Best Dividend Stocks to Invest In According to Jim Simons’ Renaissance Technologies? (Yahoo Finance)
 - [macro] Zelestra, EnBW sign agreement for 300MW Italian battery storage project (Yahoo Finance)
 - [macro] Copper & Kings gets backing from FMCG investor (Yahoo Finance)
-- [macro] Market Cap Of Tokenized Stocks Reaches $2.3 Billion (Yahoo Finance)
