@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T15:07:39.552170+00:00`
-- Market context score: `55.16`
-- News risk score: `38.34`
-- Macro risk score: `17.95`
-- Risk-on score: `39.51`
+- Generated: `2026-07-16T15:11:17.806162+00:00`
+- Market context score: `56.09`
+- News risk score: `39.41`
+- Macro risk score: `20.09`
+- Risk-on score: `43.29`
 - Articles: `85`
 - Polymarket markets: `395`
 
@@ -24,18 +24,18 @@
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `7`, risk headline rate `0.2069`, policy hits `1`
-- macro: articles `54`, risk hits `4`, risk headline rate `0.0556`, policy hits `0`
+- macro: articles `54`, risk hits `6`, risk headline rate `0.0926`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
 - [policy] Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank (FRB: Press Release - All Releases)
 - [macro] Italian officials handed jail terms for Genoa bridge disaster that killed 43 (BBC News)
+- [macro] Why McDonald's stock is at nearly 2-year lows (Yahoo Finance)
 - [crypto] Crypto for Advisors: Strengthening defenses against AI fraud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Hi-View begins exploration campaign in BC’s Toodoggone area (Yahoo Finance)
-- [macro] Panera makes a major Sip Club change diners will hate (Yahoo Finance)
-- [macro] Here’s Why McKesson Corporation (MCK) Slid in Q2 (Yahoo Finance)
-- [macro] Here’s Why SoFi Is a Prime Takeover Target for These Major Financial Players (Yahoo Finance)
-- [macro] Children among dead at Algeria foster care home blaze - president (BBC News)
-- [macro] Protests in Ukrainian cities against Zelensky's removal of defence minister (BBC News)
-- [macro] Abbott, Up 14%, Strikes Three-Month High After Boosting 2026 Profit Outlook (Yahoo Finance)
+- [macro] CB&I wins EnQuest contract extension for Kittiwake duty holder role (Yahoo Finance)
+- [macro] XDTE’s 32% Yield Sounds Great. Here’s Why the Math Doesn’t Hold Up (Yahoo Finance)
+- [macro] Is ZoomInfo Technologies (GTM) One of the Most Undervalued Stocks Under $5 to Buy? (Yahoo Finance)
+- [macro] Kosmos Energy (KOS): One of the Most Undervalued Stocks Under $5 to Buy (Yahoo Finance)
+- [macro] Oracle Corporation (ORCL) Declining, Piper Sandler Remains a Buy (Yahoo Finance)
+- [macro] Tesla and Rivian Are Both Down 12%. Here's the Better Buy for the Second Half of 2026. (Yahoo Finance)
