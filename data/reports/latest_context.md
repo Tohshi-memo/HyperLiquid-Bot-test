@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T22:37:26.347010+00:00`
+- Generated: `2026-07-16T22:43:38.244151+00:00`
 - Market context score: `51.97`
 - News risk score: `38.74`
 - Macro risk score: `27.89`
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [macro] Trump Media to sell early access to key social posts (BBC News)
 - [macro] At least one dead in Texas floods ravaging same area where campers died (BBC News)
 - [crypto] Polygon CEO announces job cuts amid Coinme acquisition (Cointelegraph.com News)
 - [macro] I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno (BBC News)
 - [macro] As heatwaves strike, Europeans turn to prized Chinese air-conditioner (BBC News)
-- [macro] Trump Media to sell early access to key social posts (BBC News)
 - [macro] Blasts reported in Iran as US launches new wave of strikes (BBC News)
 - [macro] JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war (BBC News)
 - [crypto] Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC (Cointelegraph.com News)
