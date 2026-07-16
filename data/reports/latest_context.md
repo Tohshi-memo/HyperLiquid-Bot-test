@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T03:37:32.104655+00:00`
+- Generated: `2026-07-16T03:52:28.703801+00:00`
 - Market context score: `42.8`
 - News risk score: `44.82`
 - Macro risk score: `32.47`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6233`
-- Day/swing latest: `2026-07-16T03:30:00+00:00`
+- Day/swing records: `6234`
+- Day/swing latest: `2026-07-16T03:45:00+00:00`
 
 ## News Categories
 
@@ -34,7 +34,7 @@
 - [crypto] Base’s social bet left it trailing in prediction markets and perps: Pollak (Cointelegraph.com News)
 - [macro] Orange haze from Canada wildfires seen in Ontario and northern US (BBC News)
 - [macro] A Cold War bunker gets a luxury makeover as 'doomsday' condos (BBC News)
-- [macro] New monkey species with orange lips found 'hiding' in DRC forest (BBC News)
+- [macro] New monkey species with orange lips found 'hiding' in DR Congo forest (BBC News)
 - [macro] Families of 43 victims await verdict in Genoa bridge disaster (BBC News)
 - [macro] Celebrity influencers paid up to £1m to advertise deodorant on Instagram (BBC News)
 - [macro] Argentina face action after waving Falklands banner (BBC News)
