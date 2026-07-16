@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T09:26:42.788943+00:00`
-- Market context score: `45.56`
-- News risk score: `40.67`
-- Macro risk score: `27.0`
-- Risk-on score: `23.56`
-- Articles: `30`
+- Generated: `2026-07-16T09:37:28.533119+00:00`
+- Market context score: `46.36`
+- News risk score: `39.48`
+- Macro risk score: `26.95`
+- Risk-on score: `24.32`
+- Articles: `31`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6255`
-- Day/swing latest: `2026-07-16T09:15:00+00:00`
+- Day/swing records: `6256`
+- Day/swing latest: `2026-07-16T09:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `1`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `1`
 - macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `1`
 
 ## Headlines
 
+- [crypto] US Senate unanimously adopts resolution opposing clemency for SBF (Cointelegraph.com News)
 - [macro] Eleven people die in fire at Algerian foster care home (BBC News)
 - [macro] US military to start screening for testosterone deficiency, Hegseth says (BBC News)
 - [macro] Iran targets military bases as US launches wave of strikes (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode (Cointelegraph.com News)
 - [crypto] Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue (Cointelegraph.com News)
 - [macro] British Steel taken into public ownership to protect 'vital' UK supply (BBC News)
-- [crypto] Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets (Cointelegraph.com News)
