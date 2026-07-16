@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T08:07:27.889385+00:00`
-- Market context score: `41.75`
-- News risk score: `40.16`
-- Macro risk score: `31.25`
-- Risk-on score: `16.26`
+- Generated: `2026-07-16T08:22:40.963894+00:00`
+- Market context score: `46.59`
+- News risk score: `39.64`
+- Macro risk score: `30.39`
+- Risk-on score: `26.26`
 - Articles: `29`
 - Polymarket markets: `395`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6250`
-- Day/swing latest: `2026-07-16T08:00:00+00:00`
+- Day/swing records: `6251`
+- Day/swing latest: `2026-07-16T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `2`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `1`
 - macro: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode (Cointelegraph.com News)
 - [macro] Iran targets military bases as US launches wave of strikes (BBC News)
 - [crypto] Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue (Cointelegraph.com News)
 - [macro] British Steel taken into public ownership to protect 'vital' UK supply (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] A bitcoin wallet dormant since the 2017 peak just moved $383 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
