@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T06:22:33.464146+00:00`
+- Generated: `2026-07-16T06:37:29.715434+00:00`
 - Market context score: `48.13`
 - News risk score: `38.5`
 - Macro risk score: `34.67`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `6244`
+- Day/swing latest: `2026-07-16T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
-- [crypto] Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady near $65,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK economy returns to growth in May (BBC News)
 - [macro] Government brings British Steel under public ownership (BBC News)
+- [crypto] Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady near $65,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] A bitcoin wallet dormant since the 2017 peak just moved $383 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
