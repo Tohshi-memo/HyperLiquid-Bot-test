@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T12:52:28.075582+00:00`
+- Generated: `2026-07-16T12:58:07.317822+00:00`
 - Market context score: `52.32`
 - News risk score: `37.67`
 - Macro risk score: `17.7`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Protests in Ukrainian cities against Zelensky's removal of defence minister (BBC News)
 - [macro] Volunteer firefighter suspected of starting devastating France forest fire (BBC News)
 - [macro] 'Moment of joy' as Uganda discharges last Ebola patient (BBC News)
 - [crypto] Tokenized stocks market cap gains to record $2.3B (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] U.S. grocery unit sales falling, squeezing PepsiCo and food companies (Yahoo Finance)
 - [macro] Is the RWA Boom an Illusion? Experts React to Tokenization’s Liquidity Gap (Yahoo Finance)
 - [macro] Silver prices today, Thursday, July 16, 2026: Prices can't crack $60 as U.S. airstrikes continue in Iran (Yahoo Finance)
-- [macro] Stock Market Today: Tech Futures Slide As Sandisk, SK Hynix Plunge; Nvidia Chipmaker TSMC Falls (Live Coverage) (Yahoo Finance)
