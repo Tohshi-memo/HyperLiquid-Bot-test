@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-16T04:15:24.569619+00:00`
+- Generated: `2026-07-16T04:20:23.539751+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18903623.33`
+- Polymarket 24h volume: `18909151.39`
 - Polymarket volume z-score: `-0.52`
 
 ## Top Polymarket Markets
 
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4679663.219885` | liquidity: `11352.67788`
-- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1526144.5010000034` | liquidity: `26281.46947`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1367358.438572` | liquidity: `805877.16528`
-- Will the U.S. invade Iran before 2027? | 24h volume: `1347285.8642010007` | liquidity: `533457.2478`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1217407.7839710007` | liquidity: `534655.11487`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `850232.11655` | liquidity: `1848758.86589`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `786435.8534970002` | liquidity: `647085.8904`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `648149.1012810003` | liquidity: `446533.08867`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4679663.219885` | liquidity: `14155.34272`
+- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1526144.5010000034` | liquidity: `32010.85977`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1367316.2703220001` | liquidity: `823883.99241`
+- Will the U.S. invade Iran before 2027? | 24h volume: `1347280.1924120006` | liquidity: `527853.188`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1226335.4439710008` | liquidity: `473816.48268`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `850504.59655` | liquidity: `1851301.72846`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `785935.8534970002` | liquidity: `665997.73878`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `648179.4510340003` | liquidity: `468376.98339`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
