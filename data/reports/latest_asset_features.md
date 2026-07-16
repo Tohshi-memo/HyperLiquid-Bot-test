@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-07-16T18:52:27.863562+00:00`
-- Observed: `2026-07-16T18:45:00+00:00`
+- Generated: `2026-07-16T19:07:32.704366+00:00`
+- Observed: `2026-07-16T19:00:00+00:00`
 - Assets: `1163`
 
 ## Top Activity
 
 - `@304` unknown price `0.000662` 4h `0.303` vol `0.0` relationship `market_context_high->@304_24h`
-- `@133` unknown price `0.000101` 4h `0.0` vol `0.0` relationship `market_context_high->@133_24h`
+- `@133` unknown price `0.000101` 4h `-0.9804` vol `0.0` relationship `market_context_high->@133_24h`
 - `@248` unknown price `364.5` 4h `0.0` vol `0.0` relationship `market_context_high->@248_4h`
 - `@278` unknown price `0.00281` 4h `0.0` vol `0.0` relationship `market_context_high->@278_24h`
-- `xyz:IBM` equity price `219.215` 4h `4.7723` vol `11580872.51` relationship `market_context_high->xyz:IBM_24h`
-- `@258` unknown price `0.039535` 4h `1.4108` vol `0.0` relationship `market_context_high->@258_24h`
-- `#2121` unknown price `0.417945` 4h `0.0455` vol `0.0` relationship `market_context_high->#2121_24h`
-- `CASHCAT` crypto_alt price `0.08189` 4h `-18.0092` vol `38949209.72` relationship `none`
-- `xyz:NBIS` equity price `174.67` 4h `-4.8172` vol `18833276.62` relationship `market_context_high->xyz:NBIS_1h`
-- `xyz:BB` equity price `9.1922` 4h `-3.461` vol `9190890.27` relationship `market_context_high->xyz:BB_1h`
-- `xyz:BE` equity price `207.29` 4h `-5.6701` vol `2624575.21` relationship `none`
-- `KAITO` crypto_alt price `0.81128` 4h `8.6676` vol `7420122.81` relationship `market_context_high->KAITO_1h`
-- `PURR` crypto_alt price `0.07155` 4h `-7.4864` vol `753627.14` relationship `market_context_high->PURR_1h`
-- `@219` unknown price `0.027533` 4h `0.0145` vol `0.0` relationship `market_context_high->@219_24h`
-- `xyz:SNDK` equity price `1413.3` 4h `-4.1278` vol `407851424.59` relationship `market_context_high->xyz:SNDK_1h`
-- `xyz:KIOXIA` equity price `356.045` 4h `-2.7372` vol `4711367.83` relationship `market_context_high->xyz:KIOXIA_1h`
-- `xyz:SKHY` equity price `156.265` 4h `-3.3044` vol `311709153.73` relationship `market_context_high->xyz:SKHY_1h`
-- `xyz:PURRDAT` equity price `6.89675` 4h `-5.5595` vol `4476545.53` relationship `market_context_high->xyz:PURRDAT_1h`
-- `ONDO` crypto_alt price `0.379745` 4h `-2.3842` vol `29343150.74` relationship `market_context_high->ONDO_1h`
-- `CELO` crypto_alt price `0.070576` 4h `-0.3065` vol `254351.34` relationship `market_context_high->CELO_24h`
+- `@258` unknown price `0.039716` 4h `2.5935` vol `0.0` relationship `market_context_high->@258_24h`
+- `xyz:IBM` equity price `218.74` 4h `3.7395` vol `11818252.7` relationship `market_context_high->xyz:IBM_24h`
+- `#2121` unknown price `0.41682` 4h `-0.6554` vol `0.0` relationship `market_context_high->#2121_24h`
+- `@219` unknown price `0.027533` 4h `0.0109` vol `0.0` relationship `market_context_high->@219_24h`
+- `xyz:SNDK` equity price `1398.65` 4h `-4.8732` vol `404320888.89` relationship `market_context_high->xyz:SNDK_1h`
+- `CASHCAT` crypto_alt price `0.079867` 4h `-17.7418` vol `39266554.72` relationship `none`
+- `xyz:SKHY` equity price `155.07` 4h `-3.9428` vol `308896748.51` relationship `market_context_high->xyz:SKHY_1h`
+- `KAITO` crypto_alt price `0.82715` 4h `9.921` vol `7510737.2` relationship `market_context_high->KAITO_1h`
+- `xyz:BB` equity price `9.2036` 4h `-3.3088` vol `9254894.84` relationship `market_context_high->xyz:BB_1h`
+- `xyz:NBIS` equity price `173.79` 4h `-4.5425` vol `18818399.51` relationship `market_context_high->xyz:NBIS_1h`
+- `xyz:PURRDAT` equity price `6.86345` 4h `-5.5909` vol `4420411.66` relationship `market_context_high->xyz:PURRDAT_1h`
+- `CELO` crypto_alt price `0.070512` 4h `-0.9705` vol `254639.18` relationship `market_context_high->CELO_24h`
+- `xyz:BE` equity price `206.56` 4h `-5.0888` vol `2595302.57` relationship `none`
+- `xyz:KIOXIA` equity price `356.46` 4h `-2.2942` vol `4707122.96` relationship `market_context_high->xyz:KIOXIA_1h`
+- `ONDO` crypto_alt price `0.374695` 4h `-1.8738` vol `30191643.96` relationship `market_context_high->ONDO_1h`
+- `PURR` crypto_alt price `0.073183` 4h `-5.1616` vol `796303.09` relationship `market_context_high->PURR_1h`
