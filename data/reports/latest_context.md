@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T16:46:28.763922+00:00`
-- Market context score: `54.32`
-- News risk score: `39.42`
-- Macro risk score: `22.31`
-- Risk-on score: `40.21`
-- Articles: `90`
+- Generated: `2026-07-16T16:52:25.949008+00:00`
+- Market context score: `55.03`
+- News risk score: `38.65`
+- Macro risk score: `21.25`
+- Risk-on score: `40.72`
+- Articles: `91`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -23,19 +23,19 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `33`, risk hits `7`, risk headline rate `0.1818`, policy hits `1`
-- macro: articles `55`, risk hits `8`, risk headline rate `0.1273`, policy hits `2`
+- crypto: articles `34`, risk hits `7`, risk headline rate `0.1765`, policy hits `1`
+- macro: articles `55`, risk hits `7`, risk headline rate `0.1091`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] 'Moment of joy' as Uganda discharges last Ebola patient (BBC News)
+- [crypto] Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO (Cointelegraph.com News)
+- [macro] Meta's data center plans could help solve its AI spending problems (Yahoo Finance)
 - [crypto] Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky's removal of popular defence minister sparks protests in Ukraine (BBC News)
+- [macro] SoFi Technologies: The Customer Growth Story Isn't Over (NASDAQ: SOFI) (Yahoo Finance)
+- [macro] ‘The only true one-and-done asset’ — here’s the passive income gig one investor says can net you $40,000 per month (Yahoo Finance)
+- [macro] Americans Say They Need $1.2 Million to Retire. Most Don’t Expect to Have It. (Yahoo Finance)
 - [crypto] Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash (Cointelegraph.com News)
 - [macro] Billionaire Leon Cooperman’s Top 3 Stocks: Buy, Sell or Hold (Yahoo Finance)
-- [macro] Pakistan resisting UK attempts to deport grooming gang leader (BBC News)
-- [macro] Small Caps Are Beating the S&P 500 by the Widest Margin Since 2003.  These ETFs Let You Ride the Rally (Yahoo Finance)
-- [macro] Visa Launches Stablecoin Platform for Minting, Wallets and Payments (Yahoo Finance)
-- [macro] Big Tech Isn’t Doing Its Part to Offset Chip Weakness (Yahoo Finance)
-- [macro] ‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working? (Yahoo Finance)
-- [macro] A Fuel Shortage Is Slowing Nuclear Energy. This New Public Company Wants to Get It Moving. (Yahoo Finance)
