@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T14:09:43.481831+00:00`
-- Market context score: `47.66`
-- News risk score: `45.58`
-- Macro risk score: `24.64`
-- Risk-on score: `31.5`
-- Articles: `72`
-- Polymarket markets: `396`
+- Generated: `2026-07-17T14:22:28.103853+00:00`
+- Market context score: `49.92`
+- News risk score: `43.8`
+- Macro risk score: `22.07`
+- Risk-on score: `34.04`
+- Articles: `75`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6370`
-- Day/swing latest: `2026-07-17T14:00:00+00:00`
+- Day/swing records: `6371`
+- Day/swing latest: `2026-07-17T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `24`, risk hits `9`, risk headline rate `0.2917`, policy hits `0`
-- macro: articles `45`, risk hits `8`, risk headline rate `0.1556`, policy hits `4`
+- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `0`
+- macro: articles `47`, risk hits `5`, risk headline rate `0.1064`, policy hits `6`
 
 ## Headlines
 
+- [macro] Import prices post surprise gain as costs of goods from China hit highest since 2008 (Economy)
+- [macro] Why are UK fuel prices rising again? (BBC News)
+- [macro] Here are Updates on Amazon’s (AMZN) Rational FCF Reinvestment (Yahoo Finance)
+- [macro] Truist Financial Q2 2026 earnings beat estimates, EPS up 37% (Yahoo Finance)
+- [macro] Canadian baker FGF buys Metro production site (Yahoo Finance)
+- [macro] Apple surpasses Nvidia as world's most valuable company (Yahoo Finance)
 - [macro] FAF Trustees open nominations for 2027 FASAC intake (Yahoo Finance)
+- [macro] Merrill’s Corina Davis: Success as a Financial Advisor Isn’t About Hitting Home Runs (Yahoo Finance)
+- [macro] This Once-Deflated Cloud Stock Deserves Another Look. Here's Why. (Yahoo Finance)
 - [crypto] HSBC wins Bank of England approval to enter Digital Securities Sandbox (Cointelegraph.com News)
-- [macro] Hedge Fund Citadel Securities Invests $400 Million In Crypto.com (Yahoo Finance)
-- [macro] Chipmakers and other high-flying stocks slide as AI trade wobbles (Yahoo Finance)
-- [macro] Warren Buffett Drops a Bombshell: He Was Responsible for Berkshire’s Push Into AI (Yahoo Finance)
-- [macro] Coca-Cola halts Fairlife U.S. production after ransomware attack (Yahoo Finance)
-- [macro] Wedgewood Partners’ Views on Microsoft’s (MSFT) Capital Expenditure (Yahoo Finance)
-- [macro] The $5.25 billion ETF paying dividends that grew three years straight right now (Yahoo Finance)
-- [macro] Uganda suspends school trips after 20 pupils die in bus crash (BBC News)
-- [macro] ConocoPhillips to Buy 42% Stake in BP's Iraq Kirkuk Oil Venture (Yahoo Finance)
