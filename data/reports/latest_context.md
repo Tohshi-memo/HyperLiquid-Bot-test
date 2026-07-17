@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T06:07:32.299486+00:00`
+- Generated: `2026-07-17T06:22:27.228779+00:00`
 - Market context score: `46.87`
 - News risk score: `36.96`
 - Macro risk score: `30.22`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6338`
-- Day/swing latest: `2026-07-17T06:00:00+00:00`
+- Day/swing records: `6339`
+- Day/swing latest: `2026-07-17T06:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] US launches new strikes as Iran says civilian infrastructure hit (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’ (Cointelegraph.com News)
 - [commodity] Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz (Energy)
 - [macro] School bus crash kills at least 20 pupils in Uganda (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Bitcoin’s anti-spam fight gets a 'DOG Mode' reply (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Japan relaxes royal succession rules - but ban on female emperors remain (BBC News)
 - [macro] Olympic cyclist admits to driving despite ban after crash that killed wife (BBC News)
-- [macro] Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK? (BBC News)
-- [macro] Trump Media to sell early access to key social posts (BBC News)
