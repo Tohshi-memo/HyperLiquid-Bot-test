@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T07:01:06.718975+00:00`
+- Generated: `2026-07-17T07:07:24.976002+00:00`
 - Market context score: `48.18`
 - News risk score: `34.57`
 - Macro risk score: `30.93`
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Trump Media to sell early access to key social posts (BBC News)
+- [macro] Trump Media to sell early access to key social posts (BBC News)
 - [macro] US launches new strikes as Iran says civilian infrastructure hit (BBC News)
-- [macro] Trump Media to sell early access to key social posts (BBC News)
-- [macro] Trump Media to sell early access to key social posts (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’ (Cointelegraph.com News)
 - [commodity] Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz (Energy)
