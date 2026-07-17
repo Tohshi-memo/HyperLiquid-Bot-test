@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T21:37:24.884325+00:00`
-- Market context score: `47.96`
-- News risk score: `41.15`
-- Macro risk score: `32.46`
-- Risk-on score: `31.37`
-- Articles: `54`
+- Generated: `2026-07-17T21:52:27.365660+00:00`
+- Market context score: `48.73`
+- News risk score: `40.42`
+- Macro risk score: `32.49`
+- Risk-on score: `32.47`
+- Articles: `51`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6400`
-- Day/swing latest: `2026-07-17T21:30:00+00:00`
+- Day/swing records: `6401`
+- Day/swing latest: `2026-07-17T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.8333`, policy hits `0`
 - crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `0`
-- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `2`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
 
 ## Headlines
 
+- [crypto] FTX to distribute $900M to creditors in fifth payment round (Cointelegraph.com News)
 - [macro] Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite (BBC News)
 - [macro] Trump threatens to tariff Canada over wildfire smoke choking northern US cities (BBC News)
 - [commodity] Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Crypto Biz: When dollars disappear, stablecoins step in (Cointelegraph.com News)
 - [commodity] Oil prices rise after Kuwait says Iran attacked water desalination and power plant (Energy)
 - [macro] Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC (BBC News)
-- [macro] EU proposes slowing down cuts to carbon emissions for businesses (BBC News)
