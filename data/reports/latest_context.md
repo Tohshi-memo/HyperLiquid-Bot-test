@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T03:52:29.156741+00:00`
+- Generated: `2026-07-17T04:07:24.969109+00:00`
 - Market context score: `48.38`
 - News risk score: `37.34`
 - Macro risk score: `27.02`
 - Risk-on score: `27.02`
 - Articles: `49`
-- Polymarket markets: `395`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6329`
-- Day/swing latest: `2026-07-17T03:45:00+00:00`
+- Day/swing records: `6330`
+- Day/swing latest: `2026-07-17T04:00:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [macro] US launches new wave of strikes on Iran as tensions escalate over Strait of Hormuz (BBC News)
+- [macro] US launches fresh wave of strikes as Iran says civilian infrastructure hit (BBC News)
 - [macro] More than 500 Rohingya vanished at sea - what happened? (BBC News)
 - [macro] Australia 'deeply frustrated' over Laos methanol poisoning charges (BBC News)
 - [macro] China hits out at British Steel nationalisation (BBC News)
