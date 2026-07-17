@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T00:07:28.230217+00:00`
-- Market context score: `53.86`
-- News risk score: `38.2`
-- Macro risk score: `26.43`
-- Risk-on score: `39.71`
+- Generated: `2026-07-17T00:22:26.826925+00:00`
+- Market context score: `53.85`
+- News risk score: `38.11`
+- Macro risk score: `26.88`
+- Risk-on score: `39.78`
 - Articles: `57`
 - Polymarket markets: `395`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6314`
-- Day/swing latest: `2026-07-17T00:00:00+00:00`
+- Day/swing records: `6315`
+- Day/swing latest: `2026-07-17T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `0`
-- macro: articles `26`, risk hits `3`, risk headline rate `0.1154`, policy hits `0`
+- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
+- macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `0`
 - policy: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price (Cointelegraph.com News)
 - [macro] Blasts reported in Iran as US launches new wave of strikes (BBC News)
 - [crypto] Citadel Securities invests $400M in Crypto.com at $20B valuation (Cointelegraph.com News)
 - [macro] The financial winners and losers from the World Cup (BBC News)
@@ -38,4 +39,3 @@
 - [macro] One man's hunger strike changed India's map. Can it still change politics? (BBC News)
 - [macro] At least one dead in Texas floods ravaging same area where campers died (BBC News)
 - [crypto] Polygon CEO announces job cuts amid Coinme acquisition (Cointelegraph.com News)
-- [macro] I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno (BBC News)
