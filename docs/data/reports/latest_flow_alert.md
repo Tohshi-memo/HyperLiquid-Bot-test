@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-17T13:15:27.039753+00:00`
-- Flow alert score: `18.08`
+- Generated: `2026-07-17T13:20:36.756221+00:00`
+- Flow alert score: `18.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `27635470.37`
-- Polymarket volume z-score: `0.27`
+- Polymarket 24h volume: `27410365.53`
+- Polymarket volume z-score: `0.25`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4934354.614` | liquidity: `22704.9843`
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3125394.00943` | liquidity: `28529.15091`
-- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `2312819.268971003` | liquidity: `1122501.07727`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1930467.3795` | liquidity: `24986.98073`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1886525.9795` | liquidity: `29464.88977`
-- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1412802.1089999983` | liquidity: `58965.4225`
-- Spain vs. Argentina: Team to Advance | 24h volume: `940628.3785269993` | liquidity: `5181334.5729`
-- France vs. England: Team to Win | 24h volume: `925750.2450880153` | liquidity: `967266.2118`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4934354.614` | liquidity: `24838.17515`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `3057794.00943` | liquidity: `29489.17903`
+- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `2306872.184437003` | liquidity: `1126507.6531`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1996767.3795` | liquidity: `24975.79389`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1886525.9795` | liquidity: `27371.42117`
+- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1412802.1089999983` | liquidity: `58303.21911`
+- Spain vs. Argentina: Team to Advance | 24h volume: `939606.3011249994` | liquidity: `5178443.7068`
+- France vs. England: Team to Win | 24h volume: `927215.0374900157` | liquidity: `968622.3929`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
