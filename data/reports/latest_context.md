@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T21:22:27.846287+00:00`
-- Market context score: `46.21`
-- News risk score: `42.92`
-- Macro risk score: `33.15`
-- Risk-on score: `29.24`
+- Generated: `2026-07-17T21:28:12.656310+00:00`
+- Market context score: `47.96`
+- News risk score: `41.15`
+- Macro risk score: `32.46`
+- Risk-on score: `31.37`
 - Articles: `54`
 - Polymarket markets: `398`
 
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.8333`, policy hits `0`
-- crypto: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `0`
-- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `2`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `0`
+- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `2`
 
 ## Headlines
 
+- [macro] Taco Bell removes lettuce from menu in US after links to explosive diarrhoea (BBC News)
 - [macro] Trump threatens to tariff Canada over wildfire smoke choking northern US cities (BBC News)
 - [commodity] Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz (Energy)
 - [crypto] Galaxy lands 15-year Texas Tech stadium naming rights deal (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] Oil prices rise after Kuwait says Iran attacked water desalination and power plant (Energy)
 - [macro] Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC (BBC News)
 - [macro] EU proposes slowing down cuts to carbon emissions for businesses (BBC News)
-- [macro] US denies Iranian claims it hit civilian infrastructure in latest strikes (BBC News)
