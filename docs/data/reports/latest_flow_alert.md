@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-17T19:45:29.691509+00:00`
-- Flow alert score: `18.0`
+- Generated: `2026-07-17T19:50:29.354409+00:00`
+- Flow alert score: `18.2`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `27140328.02`
-- Polymarket volume z-score: `0.25`
+- Polymarket 24h volume: `27730782.76`
+- Polymarket volume z-score: `0.3`
 
 ## Top Polymarket Markets
 
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `5084728.9212030005` | liquidity: `25619.46122`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4787001.281` | liquidity: `24856.81826`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1886783.9795` | liquidity: `26664.20769`
-- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `1706789.1348669985` | liquidity: `1520267.08466`
-- France vs. England: Team to Win | 24h volume: `1313730.049318016` | liquidity: `1039513.197`
-- Spain vs. Argentina: Team to Advance | 24h volume: `1075792.3602529964` | liquidity: `6792532.1598`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `677123.5432250001` | liquidity: `393416.32336`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `615402.0056449998` | liquidity: `885061.19265`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `5084728.9212030005` | liquidity: `25501.70186`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4787001.281` | liquidity: `22215.34875`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1886783.9795` | liquidity: `27003.2866`
+- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `1698458.8260919983` | liquidity: `1524026.92565`
+- France vs. England: Team to Win | 24h volume: `1357839.9874290158` | liquidity: `1023168.7685`
+- Spain vs. Argentina: Team to Advance | 24h volume: `1071516.9407269966` | liquidity: `6761533.2163`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `677300.3780910001` | liquidity: `379907.43452`
+- Exact Score: Spain 3 - 0 Argentina? | 24h volume: `643896.372393` | liquidity: `762063.34836`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
