@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T17:22:29.353829+00:00`
-- Market context score: `47.38`
-- News risk score: `45.48`
-- Macro risk score: `24.17`
-- Risk-on score: `30.61`
-- Articles: `74`
+- Generated: `2026-07-17T17:37:28.303576+00:00`
+- Market context score: `49.72`
+- News risk score: `44.84`
+- Macro risk score: `23.02`
+- Risk-on score: `34.83`
+- Articles: `76`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6383`
-- Day/swing latest: `2026-07-17T17:15:00+00:00`
+- Day/swing records: `6384`
+- Day/swing latest: `2026-07-17T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `27`, risk hits `10`, risk headline rate `0.2963`, policy hits `0`
-- macro: articles `44`, risk hits `10`, risk headline rate `0.1591`, policy hits `3`
+- macro: articles `46`, risk hits `10`, risk headline rate `0.1522`, policy hits `0`
 
 ## Headlines
 
-- [macro] Amazon: CEO Andy Jassy's Historic $25 Billion Move Is a Massive Signal for Tech Investors (NASDAQ: AMZN) (Yahoo Finance)
+- [macro] Sainsbury’s retreat highlights strong competition in the UK banking industry (Yahoo Finance)
+- [crypto] Stripe and Swift race to control the next generation of global payments infrastructure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Dow Holds Steady While Nasdaq Stumbles: What Moved Markets This Week (Yahoo Finance)
+- [macro] Roundtable Secures Enterprise Technology Platform Partnership with Mario Nawfal, the World’s #1 Most-Viewed Journalist (Yahoo Finance)
+- [macro] Trump Media will sell Wall Street ‘the fastest’ access to Trump’s market-moving Truth Social posts in pay-to-win model (Yahoo Finance)
+- [macro] The Stock Market Is Rocky Right Now. History Says It's Still a Prime Buying Opportunity. (Yahoo Finance)
+- [macro] Q&A: How a 12-Year Succession Plan Helped HB Wealth Grow (Yahoo Finance)
+- [macro] How To Profit From Amazon Stock Facing Big Price Swings With Earnings On Deck (Yahoo Finance)
+- [macro] Eli Lilly Stock Hovers In Buy Zone, Finds Key Support Amid $3 Billion Deal (Yahoo Finance)
 - [macro] US single-family housing starts fall; building permits lowest in 10 months (Yahoo Finance)
-- [macro] Stock Market Midday, July 17: Netflix Plunges and Stocks Slide as Semiconductor Sell-Off Deepens (Yahoo Finance)
-- [macro] VYM’s $94.6 Billion Portfolio Beats Treasury Yields with Dividend Kings Leading the Way (Yahoo Finance)
-- [macro] Here's What SharkNinja And Monster Beverage Have In Common (Yahoo Finance)
-- [macro] Chargebacks in Trucking Factoring: What They Cost You (Yahoo Finance)
-- [crypto] OKX Europe lets users convert USDT to MiCA-compliant USDC (Cointelegraph.com News)
-- [macro] Trump Media pitched $100,000 monthly fee for fast feed of US president's posts, FT reports (Yahoo Finance)
-- [macro] AMD: Jefferies eyes Anthropic deal as Advancing AI 2026 event nears (Yahoo Finance)
-- [macro] China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic (BBC News)
