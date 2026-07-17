@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-07-17T12:37:28.596123+00:00`
-- Observed: `2026-07-17T12:30:00+00:00`
+- Generated: `2026-07-17T12:52:29.247468+00:00`
+- Observed: `2026-07-17T12:45:00+00:00`
 - Assets: `1166`
 
 ## Top Activity
 
 - `@304` unknown price `0.000662` 4h `0.0` vol `0.0` relationship `market_context_high->@304_24h`
 - `@133` unknown price `0.0001` 4h `0.0` vol `0.0` relationship `market_context_high->@133_24h`
-- `@258` unknown price `0.035451` 4h `-6.8696` vol `0.0` relationship `market_context_high->@258_24h`
-- `#2121` unknown price `0.414285` 4h `-0.076` vol `0.0` relationship `market_context_high->#2121_24h`
+- `@258` unknown price `0.022792` 4h `-24.1228` vol `0.0` relationship `market_context_high->@258_24h`
+- `#2121` unknown price `0.414595` 4h `-0.0012` vol `0.0` relationship `market_context_high->#2121_24h`
 - `@278` unknown price `0.00281` 4h `0.0` vol `0.0` relationship `market_context_high->@278_24h`
-- `xyz:IBM` equity price `216.445` 4h `1.6866` vol `12101448.78` relationship `market_context_high->xyz:IBM_24h`
 - `@248` unknown price `364.5` 4h `0.0` vol `0.0` relationship `market_context_high->@248_4h`
+- `xyz:IBM` equity price `214.72` 4h `0.7224` vol `11938148.8` relationship `market_context_high->xyz:IBM_24h`
 - `@219` unknown price `0.028041` 4h `3.4914` vol `0.0` relationship `market_context_high->@219_24h`
-- `xyz:NFLX` equity price `66.042` 4h `-1.9799` vol `16227724.13` relationship `market_context_high->xyz:NFLX_24h`
-- `xyz:ZHIPU` equity price `145.045` 4h `2.5524` vol `8815268.54` relationship `market_context_high->xyz:ZHIPU_4h`
-- `CASHCAT` crypto_alt price `0.053029` 4h `-8.073` vol `76788503.36` relationship `none`
-- `STABLE` crypto_alt price `0.035312` 4h `-7.2689` vol `887247.45` relationship `market_context_high->STABLE_24h`
-- `KAITO` crypto_alt price `0.915985` 4h `4.5932` vol `14349613.55` relationship `market_context_high->KAITO_1h`
-- `xyz:BB` equity price `8.9395` 4h `2.1307` vol `11156558.73` relationship `market_context_high->xyz:BB_1h`
-- `xyz:SHAZ` equity price `62.569` 4h `1.7415` vol `1683348.89` relationship `none`
-- `xyz:NBIS` equity price `167.115` 4h `2.9636` vol `30490925.73` relationship `market_context_high->xyz:NBIS_1h`
-- `xyz:MINIMAX` equity price `28.1065` 4h `1.261` vol `2105021.2` relationship `market_context_high->xyz:MINIMAX_1h`
-- `MET` crypto_alt price `0.13123` 4h `-0.6849` vol `1314548.35` relationship `market_context_high->MET_1h`
-- `xyz:KIOXIA` equity price `318.505` 4h `2.5434` vol `8307135.95` relationship `market_context_high->xyz:KIOXIA_1h`
-- `xyz:BE` equity price `201.865` 4h `3.4781` vol `4336818.9` relationship `none`
+- `xyz:NFLX` equity price `65.96` 4h `-2.2032` vol `16329139.48` relationship `market_context_high->xyz:NFLX_24h`
+- `xyz:ZHIPU` equity price `144.695` 4h `2.3447` vol `8823495.71` relationship `market_context_high->xyz:ZHIPU_4h`
+- `CASHCAT` crypto_alt price `0.057979` 4h `-2.9884` vol `77391746.99` relationship `none`
+- `KAITO` crypto_alt price `0.90766` 4h `3.7741` vol `15310927.36` relationship `market_context_high->KAITO_1h`
+- `xyz:BB` equity price `8.9388` 4h `2.0347` vol `11020396.13` relationship `market_context_high->xyz:BB_1h`
+- `xyz:MINIMAX` equity price `28.0075` 4h `0.8099` vol `2080649.59` relationship `market_context_high->xyz:MINIMAX_1h`
+- `xyz:NBIS` equity price `166.605` 4h `1.843` vol `30526398.5` relationship `market_context_high->xyz:NBIS_1h`
+- `#5110` unknown price `0.00716` 4h `-0.0698` vol `0.0` relationship `market_context_high->#5110_24h`
+- `xyz:KIOXIA` equity price `318.375` 4h `2.7082` vol `8297204.11` relationship `market_context_high->xyz:KIOXIA_1h`
+- `xyz:BE` equity price `201.665` 4h `2.7383` vol `4332814.44` relationship `none`
+- `xyz:PURRDAT` equity price `6.4394` 4h `1.0752` vol `6064116.21` relationship `market_context_high->xyz:PURRDAT_1h`
+- `xyz:SNDK` equity price `1383.1` 4h `4.7843` vol `502483573.34` relationship `market_context_high->xyz:SNDK_1h`
