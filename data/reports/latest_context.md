@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T05:37:25.838780+00:00`
-- Market context score: `43.91`
+- Generated: `2026-07-17T05:52:25.601272+00:00`
+- Market context score: `43.59`
 - News risk score: `40.81`
 - Macro risk score: `32.29`
-- Risk-on score: `22.01`
+- Risk-on score: `21.29`
 - Articles: `45`
 - Polymarket markets: `395`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6336`
-- Day/swing latest: `2026-07-17T05:30:00+00:00`
+- Day/swing records: `6337`
+- Day/swing latest: `2026-07-17T05:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz (Energy)
+- [macro] School bus crash kills at least 20 pupils in Uganda (BBC News)
 - [macro] China hits out at British Steel nationalisation (BBC News)
 - [macro] China hits out at British Steel nationalisation (BBC News)
 - [crypto] Bitcoin’s anti-spam fight gets a 'DOG Mode' reply (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,5 +39,3 @@
 - [macro] Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK? (BBC News)
 - [macro] Trump Media to sell early access to key social posts (BBC News)
 - [macro] US launches new strikes as Iran says civilian infrastructure hit (BBC News)
-- [crypto] Crypto exchange Bybit launches in Indonesia after NOBI acquisition (Cointelegraph.com News)
-- [crypto] Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
