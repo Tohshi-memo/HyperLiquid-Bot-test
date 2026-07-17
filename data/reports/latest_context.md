@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T22:22:25.312348+00:00`
-- Market context score: `48.43`
-- News risk score: `40.56`
-- Macro risk score: `33.27`
-- Risk-on score: `32.21`
+- Generated: `2026-07-17T22:28:28.042540+00:00`
+- Market context score: `49.8`
+- News risk score: `40.58`
+- Macro risk score: `32.5`
+- Risk-on score: `34.99`
 - Articles: `50`
-- Polymarket markets: `398`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.8333`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `0`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `2`
+- crypto: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `0`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
 
 ## Headlines
 
+- [macro] Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop (BBC News)
 - [crypto] FTX to distribute $900M to creditors in fifth payment round (Cointelegraph.com News)
 - [macro] Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite (BBC News)
 - [macro] Trump threatens to tariff Canada over wildfire smoke choking northern US cities (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Consensys unknowingly outsourced developer work to North Korean (Cointelegraph.com News)
 - [crypto] Crypto Biz: When dollars disappear, stablecoins step in (Cointelegraph.com News)
 - [commodity] Oil prices rise after Kuwait says Iran attacked water desalination and power plant (Energy)
-- [macro] Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC (BBC News)
