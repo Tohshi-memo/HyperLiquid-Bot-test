@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T21:28:12.656310+00:00`
+- Generated: `2026-07-17T21:37:24.884325+00:00`
 - Market context score: `47.96`
 - News risk score: `41.15`
 - Macro risk score: `32.46`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6399`
-- Day/swing latest: `2026-07-17T21:15:00+00:00`
+- Day/swing records: `6400`
+- Day/swing latest: `2026-07-17T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Taco Bell removes lettuce from menu in US after links to explosive diarrhoea (BBC News)
+- [macro] Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite (BBC News)
 - [macro] Trump threatens to tariff Canada over wildfire smoke choking northern US cities (BBC News)
 - [commodity] Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz (Energy)
 - [crypto] Galaxy lands 15-year Texas Tech stadium naming rights deal (Cointelegraph.com News)
