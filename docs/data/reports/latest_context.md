@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T02:07:25.803548+00:00`
-- Market context score: `45.15`
-- News risk score: `39.9`
-- Macro risk score: `30.14`
-- Risk-on score: `23.18`
-- Articles: `50`
+- Generated: `2026-07-17T02:22:32.062365+00:00`
+- Market context score: `44.9`
+- News risk score: `40.15`
+- Macro risk score: `30.16`
+- Risk-on score: `22.86`
+- Articles: `49`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6322`
-- Day/swing latest: `2026-07-17T02:00:00+00:00`
+- Day/swing records: `6323`
+- Day/swing latest: `2026-07-17T02:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `0`
+- crypto: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
 - macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
 - policy: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `3`
 
 ## Headlines
 
+- [macro] Canada fires prompt US air quality alerts as smoke blankets major cities (BBC News)
 - [crypto] Balaji seeks Malaysia deal, threatens exit after Network School probe (Cointelegraph.com News)
 - [commodity] Oil rises as Iran threatens retaliation if Trump targets country's critical infrastructure (Energy)
 - [macro] Trump Media to sell early access to key social posts (BBC News)
@@ -38,4 +39,3 @@
 - [macro] The financial winners and losers from the World Cup (BBC News)
 - [macro] I wouldn't marry him until he paid off his debt, now I'm in charge of our money (BBC News)
 - [policy] Jefferson, Navigating Economic Shocks: A Monetary Policymaker’s Perspective (FRB: Speeches)
-- [macro] One man's hunger strike changed India's map. Can it still change politics? (BBC News)
