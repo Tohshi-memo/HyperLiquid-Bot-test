@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T14:22:28.103853+00:00`
-- Market context score: `49.92`
-- News risk score: `43.8`
-- Macro risk score: `22.07`
-- Risk-on score: `34.04`
+- Generated: `2026-07-17T14:37:25.931050+00:00`
+- Market context score: `48.34`
+- News risk score: `45.42`
+- Macro risk score: `24.25`
+- Risk-on score: `32.72`
 - Articles: `75`
 - Polymarket markets: `395`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6371`
-- Day/swing latest: `2026-07-17T14:15:00+00:00`
+- Day/swing records: `6372`
+- Day/swing latest: `2026-07-17T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `0`
-- macro: articles `47`, risk hits `5`, risk headline rate `0.1064`, policy hits `6`
+- crypto: articles `24`, risk hits `9`, risk headline rate `0.2917`, policy hits `0`
+- macro: articles `48`, risk hits `9`, risk headline rate `0.1458`, policy hits `7`
 
 ## Headlines
 
-- [macro] Import prices post surprise gain as costs of goods from China hit highest since 2008 (Economy)
-- [macro] Why are UK fuel prices rising again? (BBC News)
-- [macro] Here are Updates on Amazon’s (AMZN) Rational FCF Reinvestment (Yahoo Finance)
-- [macro] Truist Financial Q2 2026 earnings beat estimates, EPS up 37% (Yahoo Finance)
-- [macro] Canadian baker FGF buys Metro production site (Yahoo Finance)
+- [macro] Iran accuses US of hitting civilian infrastructure (BBC News)
+- [macro] Taiwan Semiconductor Manufacturing (TSM): A Beneficiary of AI Boom (Yahoo Finance)
+- [macro] United Rentals (URI) Rose on Robust Nonresidential Construction End Markets (Yahoo Finance)
+- [macro] US manufacturing output unchanged in June, but accelerates in second quarter (Yahoo Finance)
+- [macro] Bank of America just made a strong call on inflation, economy (Yahoo Finance)
+- [macro] Howden acquires Irish practice Thomond Asset Management (Yahoo Finance)
+- [macro] Coca-Cola suspends Fairlife production after ransomware attack (Yahoo Finance)
+- [macro] 22% Growth in iPhone Powers Apple’s (AAPL) Rally (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Sinks Amid Tech Rout; Robotic Surgery Name Tumbles (Live Coverage) (Yahoo Finance)
 - [macro] Apple surpasses Nvidia as world's most valuable company (Yahoo Finance)
-- [macro] FAF Trustees open nominations for 2027 FASAC intake (Yahoo Finance)
-- [macro] Merrill’s Corina Davis: Success as a Financial Advisor Isn’t About Hitting Home Runs (Yahoo Finance)
-- [macro] This Once-Deflated Cloud Stock Deserves Another Look. Here's Why. (Yahoo Finance)
-- [crypto] HSBC wins Bank of England approval to enter Digital Securities Sandbox (Cointelegraph.com News)
