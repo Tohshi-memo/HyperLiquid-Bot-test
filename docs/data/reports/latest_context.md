@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T06:22:27.228779+00:00`
-- Market context score: `46.87`
-- News risk score: `36.96`
-- Macro risk score: `30.22`
-- Risk-on score: `24.57`
-- Articles: `45`
+- Generated: `2026-07-17T06:37:26.427792+00:00`
+- Market context score: `47.08`
+- News risk score: `36.92`
+- Macro risk score: `29.63`
+- Risk-on score: `24.76`
+- Articles: `46`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6339`
-- Day/swing latest: `2026-07-17T06:15:00+00:00`
+- Day/swing records: `6340`
+- Day/swing latest: `2026-07-17T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
-- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Trump Media to sell early access to key social posts (BBC News)
+- [macro] Trump Media to sell early access to key social posts (BBC News)
 - [macro] US launches new strikes as Iran says civilian infrastructure hit (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’ (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] China hits out at British Steel nationalisation (BBC News)
 - [macro] China hits out at British Steel nationalisation (BBC News)
 - [crypto] Bitcoin’s anti-spam fight gets a 'DOG Mode' reply (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Japan relaxes royal succession rules - but ban on female emperors remain (BBC News)
-- [macro] Olympic cyclist admits to driving despite ban after crash that killed wife (BBC News)
