@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-17T09:20:42.524910+00:00`
-- Flow alert score: `18.92`
+- Generated: `2026-07-17T09:25:27.140601+00:00`
+- Flow alert score: `18.76`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `29795787.48`
-- Polymarket volume z-score: `0.48`
+- Polymarket 24h volume: `29395482.42`
+- Polymarket volume z-score: `0.44`
 
 ## Top Polymarket Markets
 
-- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4730507.478988` | liquidity: `23587.3355`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3930343.5526469997` | liquidity: `21120.74851`
-- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `2903761.061843001` | liquidity: `248588.12798`
-- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1412572.1149999981` | liquidity: `53545.02088`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1248794.9395` | liquidity: `20023.81291`
-- Spain vs. Argentina: Team to Advance | 24h volume: `916660.4043589997` | liquidity: `5205604.2762`
-- France vs. England: Team to Win | 24h volume: `890438.9789960148` | liquidity: `725156.2821`
-- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `632982.3810630029` | liquidity: `151728.22301`
+- Will Gedion Timothewos be the next Prime Minister of Ethiopia? | 24h volume: `4621307.478988` | liquidity: `26936.22642`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3930343.5526469997` | liquidity: `20746.44086`
+- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `2906549.4773750007` | liquidity: `250564.81109`
+- Will Mohammad Khatami be head of state in Iran end of 2026? | 24h volume: `1412572.1149999981` | liquidity: `51640.01868`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1248794.9395` | liquidity: `19429.86674`
+- Spain vs. Argentina: Team to Advance | 24h volume: `915852.2719819996` | liquidity: `5204500.7571`
+- France vs. England: Team to Win | 24h volume: `888985.6541200149` | liquidity: `724478.375`
+- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `633695.5175480029` | liquidity: `167143.14334`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
