@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T09:07:33.723138+00:00`
+- Generated: `2026-07-17T09:18:46.132225+00:00`
 - Market context score: `46.69`
 - News risk score: `36.42`
 - Macro risk score: `29.98`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `1165`
+- Asset universe count: `1166`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:768`
+- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6350`
-- Day/swing latest: `2026-07-17T09:00:00+00:00`
+- Day/swing records: `6351`
+- Day/swing latest: `2026-07-17T09:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Trump accuses China of election meddling and questions voting security ahead of midterms (BBC News)
 - [crypto] Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist (Cointelegraph.com News)
 - [macro] China hits out at British Steel nationalisation (BBC News)
@@ -38,4 +39,3 @@
 - [macro] US launches new strikes as Iran says civilian infrastructure hit (BBC News)
 - [commodity] Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz (Energy)
 - [crypto] Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] This $28 million ether market bet aims to profit from pure market chaos (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
