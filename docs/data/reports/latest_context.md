@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T18:52:27.750804+00:00`
+- Generated: `2026-07-17T19:07:26.117527+00:00`
 - Market context score: `46.56`
 - News risk score: `43.93`
 - Macro risk score: `29.6`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6389`
-- Day/swing latest: `2026-07-17T18:45:00+00:00`
+- Day/swing records: `6390`
+- Day/swing latest: `2026-07-17T19:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise after Kuwait says Iran attacked water desalination and power plant (Energy)
 - [commodity] Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz (Energy)
 - [macro] EU proposes slowing down cuts to carbon emissions for businesses (BBC News)
 - [macro] US denies Iranian claims it hit civilian infrastructure in latest strikes (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Analyst Report: Prologis Inc (Yahoo Finance)
 - [macro] Analyst Report: US Bancorp (Yahoo Finance)
-- [commodity] Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain (Energy)
