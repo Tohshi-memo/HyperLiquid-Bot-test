@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-16T23:52:26.932538+00:00`
-- Market context score: `53.99`
-- News risk score: `38.12`
-- Macro risk score: `26.41`
-- Risk-on score: `39.93`
-- Articles: `58`
+- Generated: `2026-07-17T00:07:28.230217+00:00`
+- Market context score: `53.86`
+- News risk score: `38.2`
+- Macro risk score: `26.43`
+- Risk-on score: `39.71`
+- Articles: `57`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:94, fx:6, index:25, metal:20, unknown:768`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6313`
-- Day/swing latest: `2026-07-16T23:45:00+00:00`
+- Day/swing records: `6314`
+- Day/swing latest: `2026-07-17T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
+- crypto: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `0`
 - macro: articles `26`, risk hits `3`, risk headline rate `0.1154`, policy hits `0`
 - policy: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `3`
 
 ## Headlines
 
+- [macro] Blasts reported in Iran as US launches new wave of strikes (BBC News)
+- [crypto] Citadel Securities invests $400M in Crypto.com at $20B valuation (Cointelegraph.com News)
 - [macro] The financial winners and losers from the World Cup (BBC News)
 - [macro] I wouldn't marry him until he paid off his debt, now I'm in charge of our money (BBC News)
 - [policy] Jefferson, Navigating Economic Shocks: A Monetary Policymaker’s Perspective (FRB: Speeches)
@@ -37,5 +39,3 @@
 - [macro] At least one dead in Texas floods ravaging same area where campers died (BBC News)
 - [crypto] Polygon CEO announces job cuts amid Coinme acquisition (Cointelegraph.com News)
 - [macro] I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno (BBC News)
-- [macro] As heatwaves strike, Europeans turn to prized Chinese air-conditioner (BBC News)
-- [macro] Blasts reported in Iran as US launches new wave of strikes (BBC News)
