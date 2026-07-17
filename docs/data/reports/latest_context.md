@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-17T11:01:05.270886+00:00`
+- Generated: `2026-07-17T11:07:24.138439+00:00`
 - Market context score: `47.44`
 - News risk score: `35.27`
 - Macro risk score: `26.86`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Trump alleges China meddled in 2020 election and questions voting security ahead of midterms (BBC News)
 - [macro] US launches new strikes as Iran says civilian infrastructure hit (BBC News)
 - [commodity] Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain (Energy)
 - [crypto] Live markets: Bitcoin slips to $63,000 as the chip rout goes global (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Why has British Steel been nationalised? (BBC News)
 - [crypto] Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50% (Cointelegraph.com News)
 - [macro] Who is the frontrunner to be the UK's next chancellor? (BBC News)
-- [macro] The financial winners and losers from the World Cup (BBC News)
