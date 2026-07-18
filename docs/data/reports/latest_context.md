@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T04:37:24.841491+00:00`
-- Market context score: `50.55`
-- News risk score: `37.76`
-- Macro risk score: `40.11`
-- Risk-on score: `37.16`
-- Articles: `30`
+- Generated: `2026-07-18T04:52:29.748842+00:00`
+- Market context score: `49.13`
+- News risk score: `34.37`
+- Macro risk score: `44.54`
+- Risk-on score: `32.81`
+- Articles: `26`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6427`
-- Day/swing latest: `2026-07-18T04:30:00+00:00`
+- Day/swing records: `6428`
+- Day/swing latest: `2026-07-18T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
-- macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `2`
+- crypto: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `2`
 
 ## Headlines
 
-- [macro] Indian activist on hunger strike for 20 days forcibly taken to hospital (BBC News)
 - [macro] US strikes hit Iran for seventh consecutive night (BBC News)
+- [macro] Indian activist on hunger strike for 20 days forcibly taken to hospital (BBC News)
 - [macro] He made history in Congress - then the Supreme Court changed its mind (BBC News)
 - [macro] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities (BBC News)
 - [macro] What this desert city can teach the world about tackling heat deaths (BBC News)
