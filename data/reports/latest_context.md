@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T17:26:33.708247+00:00`
-- Market context score: `63.06`
-- News risk score: `30.64`
-- Macro risk score: `25.17`
-- Risk-on score: `53.29`
-- Articles: `35`
+- Generated: `2026-07-18T17:37:28.317492+00:00`
+- Market context score: `65.06`
+- News risk score: `32.89`
+- Macro risk score: `29.86`
+- Risk-on score: `61.42`
+- Articles: `37`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6478`
-- Day/swing latest: `2026-07-18T17:15:00+00:00`
+- Day/swing records: `6479`
+- Day/swing latest: `2026-07-18T17:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `2`
-- macro: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `6`
+- macro: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `5`
 
 ## Headlines
 
-- [macro] The Chip Index Just Fell Into a Bear Market. Apple Is Sitting Near an All-Time High Anyway. (Yahoo Finance)
+- [commodity] Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement (Energy)
+- [macro] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities (BBC News)
+- [macro] Analog Devices (ADI) at $375: Are Investors Paying an AI Premium for Industrial Tech? (Yahoo Finance)
+- [macro] Apple raises prices on key subscription services (Yahoo Finance)
+- [macro] Verizon makes cost-cutting move as customers continue to leave (Yahoo Finance)
+- [macro] 2 Space Stocks You Should Buy Before Piling Into SpaceX (Yahoo Finance)
+- [macro] Here's Why The Metals Company Stock Plunged 28.2% in the First Half of 2026 (Yahoo Finance)
+- [macro] Baby Boomers Are Upsizing Homes in 2026. Here’s the Silent Social Security Tax Trap That Follows. (Yahoo Finance)
+- [macro] At 63, He Wants to Take a Big Career Leap. The FedEx CEO’s ‘Just Say Yes’ Story Shows Why the Smarter Bet May Be Social Security. (Yahoo Finance)
 - [crypto] DOG Mode explains Bitcoin's next governance fight (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US strikes hit Iran for seventh consecutive night (BBC News)
-- [macro] Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off (Yahoo Finance)
-- [macro] This Emerging Markets ETF Beat the S&P 500 for 16 Years. Could It Happen Again? (Yahoo Finance)
-- [macro] Why Investors Shouldn't Worry About Life360 Director Charles Prober Selling 7,930 Shares for $420,700 (Yahoo Finance)
-- [macro] Should You Buy This Sneaky AI Dividend Stock Up 330% In The Last 5 Years? (Yahoo Finance)
-- [macro] There’s an ETF That Promises You Can’t Lose Money. What’s the Catch? (Yahoo Finance)
-- [macro] Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates (Yahoo Finance)
-- [macro] Dave Ramsey: 'You can't outearn stupidity' — here's why teachers become millionaires so often and how to follow along (Yahoo Finance)
