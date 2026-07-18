@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T21:32:39.770671+00:00`
+- Generated: `2026-07-18T21:37:26.360866+00:00`
 - Market context score: `44.55`
 - News risk score: `41.76`
 - Macro risk score: `38.94`
@@ -36,5 +36,5 @@
 - [macro] What Do SpaceX, AMD, and Palantir Have in Common? (Yahoo Finance)
 - [macro] Robinhood CFO Shiv Verma Sells 3,982 Shares for $457,000 -- Here's What it Signals for the Stock (Yahoo Finance)
 - [macro] Company behind five cosmetic brands files Chapter 11 bankruptcy (Yahoo Finance)
-- [macro] Discount chain shuts 75 locations, calls its stores 'substandard' (Yahoo Finance)
 - [macro] Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead (Yahoo Finance)
+- [macro] Hungary's president agrees to stand down after parliament backs removal (BBC News)
