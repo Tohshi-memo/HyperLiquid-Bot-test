@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T22:29:01.566703+00:00`
+- Generated: `2026-07-18T22:37:31.799384+00:00`
 - Market context score: `44.22`
 - News risk score: `36.76`
 - Macro risk score: `29.21`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6498`
-- Day/swing latest: `2026-07-18T22:15:00+00:00`
+- Day/swing records: `6499`
+- Day/swing latest: `2026-07-18T22:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [commodity] Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal (Energy)
+- [macro] Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong. (Yahoo Finance)
 - [macro] 3 AI Stocks That Can Outperform Nvidia Next Year (Yahoo Finance)
 - [crypto] France orders country's internet service providers to block Polymarket (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [commodity] Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says (Energy)
 - [macro] Two US troops killed and one missing after Iranian attack in Jordan (BBC News)
 - [macro] Everyone’s Chasing Portugal. Smart American Retirees Are Quietly Moving Here Instead (Yahoo Finance)
-- [macro] Bank of America revamps Tesla forecast before earnings (Yahoo Finance)
