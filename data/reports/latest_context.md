@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T15:22:26.575945+00:00`
+- Generated: `2026-07-18T15:37:27.014544+00:00`
 - Market context score: `61.58`
 - News risk score: `32.73`
 - Macro risk score: `23.06`
 - Risk-on score: `50.97`
 - Articles: `38`
-- Polymarket markets: `398`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6470`
-- Day/swing latest: `2026-07-18T15:15:00+00:00`
+- Day/swing records: `6471`
+- Day/swing latest: `2026-07-18T15:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [macro] For Gen Z, saving for vacation tops retirement: JPM study (Yahoo Finance)
-- [macro] Discount chain closing 75 stores, admits 1,000s are 'substandard' (Yahoo Finance)
-- [macro] US strikes hit Iran for seventh consecutive night (BBC News)
-- [macro] Gold's Returns Are Shining: Is It Better to Invest With a Physical Gold or Mining Stock ETF in 2026? (Yahoo Finance)
-- [macro] Elon Musk's SpaceX has lost $1T in market cap since mid-June as Starship launch is scrubbed (Yahoo Finance)
-- [macro] Why CoreWeave Stock Keeps Falling (Yahoo Finance)
-- [macro] State Street's XLF or ProShares' UYG: Which Financial ETF Is Right for Long-Term Investors? (Yahoo Finance)
-- [macro] 4 Covered Call ETFs to Buy in 2026: Skip XYLD’s 0.60% Fee for Cheaper Alternatives (Yahoo Finance)
-- [macro] The 3 Energy Stocks I'd Buy With My Next $1,000 (Yahoo Finance)
+- [macro] Which Vanguard Global ETF Is the Better Buy in 2026: VT or VXUS? (Yahoo Finance)
 - [macro] German politician resigns over surrogacy child controversy (BBC News)
+- [macro] Plug Power Wins a 50-Megawatt Order in Australia. Here's What It Means for the Hydrogen Stock. (Yahoo Finance)
+- [macro] Which Aerospace and Defense ETF Is the Better Buy: iShares' ITA or First Trust's MISL? (Yahoo Finance)
+- [macro] Tesla face 3 major headwinds heading into earnings report (Yahoo Finance)
+- [macro] Stock Market Week Ahead: Navigating Uncertainty (Yahoo Finance)
+- [macro] Forget EWZ. Franklin’s Brazil Twin Charges Two-Thirds Less, and It’s Up 30% This Year (Yahoo Finance)
+- [macro] For Gen Z, saving for vacation tops retirement: JPM study (Yahoo Finance)
+- [macro] The Portfolio That Gives You a $2,000 Raise Every Year (Yahoo Finance)
+- [macro] US strikes hit Iran for seventh consecutive night (BBC News)
