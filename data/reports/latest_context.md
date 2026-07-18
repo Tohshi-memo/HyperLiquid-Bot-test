@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T16:52:31.522990+00:00`
-- Market context score: `65.25`
-- News risk score: `30.46`
-- Macro risk score: `23.38`
-- Risk-on score: `57.33`
-- Articles: `37`
+- Generated: `2026-07-18T17:07:25.503104+00:00`
+- Market context score: `64.17`
+- News risk score: `30.41`
+- Macro risk score: `24.74`
+- Risk-on score: `55.39`
+- Articles: `36`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6476`
-- Day/swing latest: `2026-07-18T16:45:00+00:00`
+- Day/swing records: `6477`
+- Day/swing latest: `2026-07-18T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `2`
-- macro: articles `29`, risk hits `5`, risk headline rate `0.1379`, policy hits `4`
+- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `2`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1481`, policy hits `6`
 
 ## Headlines
 
+- [crypto] DOG Mode explains Bitcoin's next governance fight (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] US strikes hit Iran for seventh consecutive night (BBC News)
+- [macro] This Emerging Markets ETF Beat the S&P 500 for 16 Years. Could It Happen Again? (Yahoo Finance)
 - [macro] Why Investors Shouldn't Worry About Life360 Director Charles Prober Selling 7,930 Shares for $420,700 (Yahoo Finance)
 - [macro] Should You Buy This Sneaky AI Dividend Stock Up 330% In The Last 5 Years? (Yahoo Finance)
-- [macro] US strikes hit Iran for seventh consecutive night (BBC News)
-- [macro] AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI (Yahoo Finance)
-- [macro] Louis Navellier reveals best tech, energy stocks to buy now (Yahoo Finance)
+- [macro] There’s an ETF That Promises You Can’t Lose Money. What’s the Catch? (Yahoo Finance)
+- [macro] Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates (Yahoo Finance)
+- [macro] Why Is XRP Not Going Up? (Yahoo Finance)
+- [macro] Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off (Yahoo Finance)
 - [macro] Dave Ramsey: 'You can't outearn stupidity' — here's why teachers become millionaires so often and how to follow along (Yahoo Finance)
-- [macro] The AI Capex Question Every QQQ Holder Should Be Asking Right Now (Yahoo Finance)
-- [crypto] Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Caterpillar (NYSE: CAT) Now Makes Up 11% of the Dow. Could a Stock Split Come Before Year-End? (Yahoo Finance)
-- [crypto] Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
