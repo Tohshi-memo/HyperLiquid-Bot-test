@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T19:52:29.412993+00:00`
-- Market context score: `55.38`
+- Generated: `2026-07-18T20:07:25.101355+00:00`
+- Market context score: `53.58`
 - News risk score: `36.75`
 - Macro risk score: `28.86`
-- Risk-on score: `42.79`
+- Risk-on score: `38.79`
 - Articles: `31`
 - Polymarket markets: `396`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6488`
-- Day/swing latest: `2026-07-18T19:45:00+00:00`
+- Day/swing records: `6489`
+- Day/swing latest: `2026-07-18T20:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] AeroVironment CEO Wahid Nawabi Sells 5,246 Shares for Tax Withholding. What Investors Need to Know. (Yahoo Finance)
+- [macro] A 63-Year-Old’s $600,000 401(k) Roth Conversion Plan Saves Tens of Thousands in Taxes Before RMDs Hit (Yahoo Finance)
+- [macro] Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. (Yahoo Finance)
+- [macro] Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead (Yahoo Finance)
 - [macro] Two US troops killed and one missing after Iranian attack in Jordan (BBC News)
+- [macro] Prediction: SOXX Is About to Outperform SMH. Here's Why. (Yahoo Finance)
 - [macro] Hungary's president agrees to stand down after parliament backs removal (BBC News)
 - [macro] JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year (Yahoo Finance)
 - [macro] SpaceX Is in Talks on a Multibillion Dollar Defense Contract. Here Is What It Means for Investors (Yahoo Finance)
-- [macro] The $1.4 Million Gap: What a Median 55-Year-Old Can Still Do in the Last 10 Working Years (Yahoo Finance)
-- [macro] Energizer Insider Aqua Capital Purchases 100,000 Shares for $2 Million -- Should Investors Buy Too? (Yahoo Finance)
-- [macro] Bank of America sends strong verdict on Microsoft stock (Yahoo Finance)
-- [macro] This Nuclear Stock Is Down 46%, and It's a Screaming Buy (Yahoo Finance)
 - [commodity] Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement (Energy)
-- [crypto] Crypto executives say digital native generations may never need a bank account (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
