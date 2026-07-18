@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T07:07:26.605140+00:00`
-- Market context score: `57.14`
-- News risk score: `29.55`
-- Macro risk score: `34.82`
-- Risk-on score: `42.86`
-- Articles: `18`
+- Generated: `2026-07-18T07:22:22.614276+00:00`
+- Market context score: `57.9`
+- News risk score: `28.79`
+- Macro risk score: `33.32`
+- Risk-on score: `43.33`
+- Articles: `19`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6437`
-- Day/swing latest: `2026-07-18T07:00:00+00:00`
+- Day/swing records: `6438`
+- Day/swing latest: `2026-07-18T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `1`
+- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `1`
 
 ## Headlines
 
+- [macro] Helicopters dump water as huge Norway fire destroys homes (BBC News)
 - [macro] Space start-up launches India’s first commercial rocket designed for orbit (BBC News)
 - [macro] Indian activist on hunger strike for 20 days forcibly taken to hospital (BBC News)
 - [macro] Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult' (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities (BBC News)
 - [macro] What this desert city can teach the world about tackling heat deaths (BBC News)
 - [macro] How these twins' rare growth disorder could provide the key to preventing cancer (BBC News)
-- [macro] Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop (BBC News)
