@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T18:22:26.683891+00:00`
-- Market context score: `65.86`
-- News risk score: `32.01`
-- Macro risk score: `28.19`
-- Risk-on score: `61.81`
+- Generated: `2026-07-18T18:33:08.305887+00:00`
+- Market context score: `57.51`
+- News risk score: `35.91`
+- Macro risk score: `27.11`
+- Risk-on score: `46.15`
 - Articles: `35`
 - Polymarket markets: `396`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6482`
-- Day/swing latest: `2026-07-18T18:15:00+00:00`
+- Day/swing records: `6483`
+- Day/swing latest: `2026-07-18T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `2`
-- macro: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `4`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `2`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `5`
 
 ## Headlines
 
-- [commodity] Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement (Energy)
 - [macro] Two US troops killed and one missing after Iranian attack in Jordan (BBC News)
-- [macro] Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy (Yahoo Finance)
-- [macro] What Does the C3.ai CEO's Sale of Company Shares Worth $4.2 Million Mean for Investors? (Yahoo Finance)
-- [macro] Meta, Anthropic drop bombshell news on AI market (Yahoo Finance)
-- [macro] Which Energy ETF Is the Better Buy: State Street's XLE or First Trust's EMLP? (Yahoo Finance)
-- [macro] A Painful Payroll Tax Increase Could Be Coming to Save Social Security: What Working Americans Need to Know (Yahoo Finance)
-- [macro] 3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock (Yahoo Finance)
-- [macro] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities (BBC News)
-- [macro] Analog Devices (ADI) at $375: Are Investors Paying an AI Premium for Industrial Tech? (Yahoo Finance)
+- [crypto] Crypto executives say digital native generations may never need a bank account (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement (Energy)
+- [macro] GRID’s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss (Yahoo Finance)
+- [macro] Copart Director Daniel Englander Sells 80,000 Shares for $2.2 Million. Should Investors Sell Too, With the Stock Down 40%? (Yahoo Finance)
+- [macro] iShares' IGLB or Vanguard's VGLT: Which Long-Term Bond ETF Should Investors Choose? (Yahoo Finance)
+- [macro] Why Did Joby Aviation Stock Fall Below $10? (Yahoo Finance)
+- [macro] What Does the Electronic Arts CEO's Sale of Company Shares Worth $1 Million Mean for Investors? (Yahoo Finance)
+- [macro] Social Security Retirees Are More Concentrated in US Assets Than They Realize. What to Do About It. (Yahoo Finance)
+- [macro] Hungary's president agrees to stand down after parliament backs removal (BBC News)
