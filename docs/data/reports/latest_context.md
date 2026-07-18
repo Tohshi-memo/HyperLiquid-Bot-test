@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T23:33:25.978135+00:00`
+- Generated: `2026-07-18T23:37:29.737466+00:00`
 - Market context score: `48.33`
 - News risk score: `37.15`
 - Macro risk score: `29.98`
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] What It Takes to Retire on Lake Como at 60 on $1 Million Without Touching Your Principal (Yahoo Finance)
+- [macro] A PayPal Vice President Sold Nearly 4,000 Company Shares. Here's What That Means for Investors. (Yahoo Finance)
 - [commodity] Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement (Energy)
 - [macro] Massive TSMC deal is huge stride for US in high-tech race (Yahoo Finance)
 - [macro] American sneaker brand closes more stores (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong. (Yahoo Finance)
 - [macro] JD Vance Says AI Could Create Massive Wealth but Calls for Workers to Have 'Some Power' (Yahoo Finance)
 - [macro] Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says (Yahoo Finance)
-- [macro] 3 AI Stocks That Can Outperform Nvidia Next Year (Yahoo Finance)
-- [crypto] France orders country's internet service providers to block Polymarket (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
