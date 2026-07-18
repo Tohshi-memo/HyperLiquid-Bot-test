@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T10:22:25.460649+00:00`
+- Generated: `2026-07-18T10:37:24.299941+00:00`
 - Market context score: `71.05`
 - News risk score: `25.75`
 - Macro risk score: `26.25`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6450`
-- Day/swing latest: `2026-07-18T10:15:00+00:00`
+- Day/swing records: `6451`
+- Day/swing latest: `2026-07-18T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Mortgage and refinance interest rates today, Saturday, July 18, 2026: Rates lower to start the weekend (Yahoo Finance)
 - [macro] Best CD rates today, Saturday, July 18, 2026: Best account provides 4.10% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Saturday, July 18, 2026: Rates lower to start the weekend (Yahoo Finance)
 - [crypto] French gambling regulator orders ISPs to block Polymarket (Cointelegraph.com News)
 - [commodity] U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping (Energy)
 - [macro] Laos says it can't determine cause of  tourist deaths linked to methanol (BBC News)
