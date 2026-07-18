@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T18:33:08.305887+00:00`
-- Market context score: `57.51`
-- News risk score: `35.91`
-- Macro risk score: `27.11`
+- Generated: `2026-07-18T18:37:29.311968+00:00`
+- Market context score: `57.8`
+- News risk score: `35.48`
+- Macro risk score: `26.4`
 - Risk-on score: `46.15`
 - Articles: `35`
 - Polymarket markets: `396`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `2`
-- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `5`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `4`
 
 ## Headlines
 
 - [macro] Two US troops killed and one missing after Iranian attack in Jordan (BBC News)
 - [crypto] Crypto executives say digital native generations may never need a bank account (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement (Energy)
+- [macro] Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors (Yahoo Finance)
 - [macro] GRID’s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss (Yahoo Finance)
 - [macro] Copart Director Daniel Englander Sells 80,000 Shares for $2.2 Million. Should Investors Sell Too, With the Stock Down 40%? (Yahoo Finance)
 - [macro] iShares' IGLB or Vanguard's VGLT: Which Long-Term Bond ETF Should Investors Choose? (Yahoo Finance)
 - [macro] Why Did Joby Aviation Stock Fall Below $10? (Yahoo Finance)
 - [macro] What Does the Electronic Arts CEO's Sale of Company Shares Worth $1 Million Mean for Investors? (Yahoo Finance)
-- [macro] Social Security Retirees Are More Concentrated in US Assets Than They Realize. What to Do About It. (Yahoo Finance)
 - [macro] Hungary's president agrees to stand down after parliament backs removal (BBC News)
