@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-18T23:25:28.887366+00:00`
-- Flow alert score: `24.32`
+- Generated: `2026-07-18T23:28:28.032875+00:00`
+- Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `41925556.28`
-- Polymarket volume z-score: `1.83`
+- Polymarket 24h volume: `21842150.24`
+- Polymarket volume z-score: `-0.25`
 
 ## Top Polymarket Markets
 
-- France vs. England: Team to Win | 24h volume: `19948040.945292056` | liquidity: `4725899.86019`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `5206789.542` | liquidity: `23037.05409`
-- Spain vs. Argentina: Team to Advance | 24h volume: `2455498.9927840014` | liquidity: `5577398.43595`
-- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `1508374.4059209991` | liquidity: `2001901.01629`
-- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1474634.1300000022` | liquidity: `53983.1809`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1213805.98` | liquidity: `28316.54121`
-- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `1077943.84988` | liquidity: `475227.91949`
-- Exact Score: Any Other Score? | 24h volume: `919770.8821980011` | liquidity: `704821.36583`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `5206789.542` | liquidity: `23767.68952`
+- Spain vs. Argentina: Team to Advance | 24h volume: `2493990.015528002` | liquidity: `5556032.38145`
+- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `1510378.4378339986` | liquidity: `1996332.34005`
+- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1474634.1300000022` | liquidity: `54443.97093`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1213605.98` | liquidity: `29601.16041`
+- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `1085161.0116869998` | liquidity: `477921.30848`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `650459.300414` | liquidity: `561697.33599`
+- Exact Score: Spain 3 - 2 Argentina? | 24h volume: `566896.155495` | liquidity: `641071.44577`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
