@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-18T18:50:26.308150+00:00`
+- Generated: `2026-07-18T18:55:30.929934+00:00`
 - Flow alert score: `18.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `28008853.68`
+- Polymarket 24h volume: `27957760.35`
 - Polymarket volume z-score: `0.42`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `5206789.542` | liquidity: `23402.06014`
-- France vs. England: Team to Win | 24h volume: `2680305.3768839813` | liquidity: `2678364.8884`
-- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1474801.4800000023` | liquidity: `52129.82504`
-- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `1418973.2744260004` | liquidity: `2350943.35138`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1214256.18833` | liquidity: `28472.71631`
-- Exact Score: France 2 - 1 England? | 24h volume: `1131918.9509229928` | liquidity: `2108016.9233`
-- Spain vs. Argentina: Team to Advance | 24h volume: `934670.4614320006` | liquidity: `6865693.263875`
-- Exact Score: France 3 - 1 England? | 24h volume: `773007.0901830003` | liquidity: `1817871.2397`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `5206789.542` | liquidity: `23602.42074`
+- France vs. England: Team to Win | 24h volume: `2687076.452748982` | liquidity: `2752512.514`
+- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1474801.4800000023` | liquidity: `50919.44837`
+- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `1422675.7670360007` | liquidity: `2345420.14525`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1214256.18833` | liquidity: `29632.18342`
+- Exact Score: France 2 - 1 England? | 24h volume: `1126282.2684729928` | liquidity: `2106315.4015`
+- Spain vs. Argentina: Team to Advance | 24h volume: `937247.2868540006` | liquidity: `6848164.993825`
+- Exact Score: France 3 - 1 England? | 24h volume: `765503.8601830002` | liquidity: `1827356.0321`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
