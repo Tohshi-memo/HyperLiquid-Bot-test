@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T15:07:25.877167+00:00`
-- Market context score: `61.75`
-- News risk score: `33.5`
-- Macro risk score: `24.55`
-- Risk-on score: `52.55`
-- Articles: `34`
+- Generated: `2026-07-18T15:10:11.083594+00:00`
+- Market context score: `61.91`
+- News risk score: `32.9`
+- Macro risk score: `23.4`
+- Risk-on score: `51.99`
+- Articles: `37`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `28`, risk hits `6`, risk headline rate `0.1786`, policy hits `0`
+- macro: articles `31`, risk hits `6`, risk headline rate `0.1613`, policy hits `0`
 
 ## Headlines
 
 - [macro] US strikes hit Iran for seventh consecutive night (BBC News)
+- [macro] Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S. (Yahoo Finance)
 - [macro] Here's Why CoreWeave Stock Tanked This Week (Yahoo Finance)
 - [macro] Which Is the Better Buy: Vanguard's Total World ETF or iShares' Emerging Markets EEM? (Yahoo Finance)
 - [macro] BofA sees lost year taking shape for gold (Yahoo Finance)
 - [macro] Top Reason NuScale Power Is Worth Buying Right Now (Yahoo Finance)
 - [macro] Buy Any Month, Always Hedged: The ETF Built for Investors Who Bail at Every Dip (Yahoo Finance)
-- [macro] Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve (Yahoo Finance)
 - [macro] German politician resigns over surrogacy child controversy (BBC News)
 - [crypto] Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next. (Yahoo Finance)
