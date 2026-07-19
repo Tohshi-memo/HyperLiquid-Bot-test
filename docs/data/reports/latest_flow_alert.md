@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-19T22:35:24.470395+00:00`
+- Generated: `2026-07-19T22:40:24.969369+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13099510.98`
-- Polymarket volume z-score: `-1.18`
+- Polymarket 24h volume: `13271932.94`
+- Polymarket volume z-score: `-1.17`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4900833.05` | liquidity: `19047.05581`
-- Exact Score: Spain 0 - 0 Argentina? | 24h volume: `2477307.9279879974` | liquidity: `1351201.17172`
-- President Trump to Attend World Cup Final? | 24h volume: `546231.0727180004` | liquidity: `282737.53915`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `466391.2224269999` | liquidity: `495369.68265`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `443178.70951600047` | liquidity: `429278.89524`
-- Will China invade Taiwan by December 31, 2027? | 24h volume: `358493.0850539998` | liquidity: `208305.8432`
-- Will the U.S. invade Iran before 2027? | 24h volume: `311051.1105579997` | liquidity: `376514.8305`
-- Will Nir Barkat be the next Prime Minister of Israel? | 24h volume: `303407.804` | liquidity: `117155.12354`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4900833.05` | liquidity: `18462.21639`
+- Exact Score: Spain 0 - 0 Argentina? | 24h volume: `2479581.367987998` | liquidity: `1345319.26616`
+- President Trump to Attend World Cup Final? | 24h volume: `545982.0737830003` | liquidity: `463885.48927`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `467522.8761089999` | liquidity: `494167.2171`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `446326.8063100004` | liquidity: `416527.25425`
+- Will China invade Taiwan by December 31, 2027? | 24h volume: `358493.0850539998` | liquidity: `208251.3013`
+- Will the U.S. invade Iran before 2027? | 24h volume: `311493.73722599965` | liquidity: `370600.2222`
+- Will Nir Barkat be the next Prime Minister of Israel? | 24h volume: `303699.051` | liquidity: `116503.66535`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
