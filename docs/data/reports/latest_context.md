@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-19T14:07:23.969461+00:00`
+- Generated: `2026-07-19T14:22:35.974382+00:00`
 - Market context score: `49.58`
 - News risk score: `40.0`
 - Macro risk score: `36.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6561`
-- Day/swing latest: `2026-07-19T14:00:00+00:00`
+- Day/swing records: `6562`
+- Day/swing latest: `2026-07-19T14:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [macro] Marathon runners compete on drifting sea ice at North Pole (BBC News)
+- [macro] Runners take on 'world's coolest marathon' on drifting North Pole ice (BBC News)
 - [macro] Ferry carrying 116 passengers sinks off Guyana coast, authorities say (BBC News)
 - [crypto] AI is destroying the internet. Math is our only hope. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US and Iran trade fire after two US soldiers killed in Jordan (BBC News)
 - [crypto] Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kraken says simpler options can unlock crypto's next derivatives market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tate brothers arrested in US as further UK charges take total to 59 (BBC News)
 - [crypto] US agencies miss GENIUS Act deadline for final stablecoin rules (Cointelegraph.com News)
+- [macro] Tate brothers arrested in US as further UK charges take total to 59 (BBC News)
 - [commodity] U.S. says it targeted Iranian forces after attacks that killed two American service members (Energy)
