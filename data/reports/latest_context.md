@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-19T14:37:25.410151+00:00`
-- Market context score: `50.69`
-- News risk score: `38.91`
-- Macro risk score: `33.82`
-- Risk-on score: `36.06`
-- Articles: `20`
+- Generated: `2026-07-19T14:48:36.343731+00:00`
+- Market context score: `49.07`
+- News risk score: `40.5`
+- Macro risk score: `37.0`
+- Risk-on score: `35.0`
+- Articles: `21`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6563`
-- Day/swing latest: `2026-07-19T14:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
@@ -35,6 +35,6 @@
 - [crypto] AI is destroying the internet. Math is our only hope. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US and Iran trade fire after two US soldiers killed in Jordan (BBC News)
+- [macro] Anger as water supply misery continues for second day (BBC News)
 - [crypto] Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kraken says simpler options can unlock crypto's next derivatives market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] US agencies miss GENIUS Act deadline for final stablecoin rules (Cointelegraph.com News)
