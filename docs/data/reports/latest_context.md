@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-19T01:37:24.865155+00:00`
+- Generated: `2026-07-19T01:52:38.859679+00:00`
 - Market context score: `41.84`
 - News risk score: `38.19`
 - Macro risk score: `38.94`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6511`
-- Day/swing latest: `2026-07-19T01:30:00+00:00`
+- Day/swing records: `6512`
+- Day/swing latest: `2026-07-19T01:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Why the World Cup half-time show may be a taste of things to come (BBC News)
 - [macro] Tate brothers arrested in US after more charges laid against them in UK (BBC News)
+- [macro] Why the World Cup half-time show may be a taste of things to come (BBC News)
 - [macro] Two US troops killed and one missing after Iranian attack in Jordan (BBC News)
 - [macro] Russians turn to cash, putting more strain on slowing wartime economy (BBC News)
 - [macro] Private jets flock to Montana - but locals can't afford the trailer park (BBC News)
