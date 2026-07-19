@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-19T16:28:06.279024+00:00`
+- Generated: `2026-07-19T16:30:30.872472+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `44629331.82`
-- Polymarket volume z-score: `2.02`
+- Polymarket 24h volume: `45289185.11`
+- Polymarket volume z-score: `2.09`
 
 ## Top Polymarket Markets
 
-- Spain vs. Argentina: Team to Advance | 24h volume: `10184666.247892942` | liquidity: `5563501.69935`
-- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `6714658.0045689605` | liquidity: `2361752.77905`
-- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `5146781.267995998` | liquidity: `2727166.90461`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4900733.92` | liquidity: `18944.90794`
-- Exact Score: Spain 3 - 2 Argentina? | 24h volume: `2377094.2211140017` | liquidity: `1531114.38946`
-- Exact Score: Spain 2 - 2 Argentina? | 24h volume: `1841148.7112189853` | liquidity: `3484369.4966`
-- Exact Score: Spain 3 - 0 Argentina? | 24h volume: `1566742.9124059998` | liquidity: `1550898.43455`
-- Exact Score: Spain 2 - 1 Argentina? | 24h volume: `1530704.2392320004` | liquidity: `2796609.7712`
+- Spain vs. Argentina: Team to Advance | 24h volume: `10244357.17570394` | liquidity: `5192730.3807`
+- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `6861624.176080957` | liquidity: `2428822.76193`
+- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `5176239.389921999` | liquidity: `2703538.58044`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `4991633.92` | liquidity: `19215.41473`
+- Exact Score: Spain 3 - 2 Argentina? | 24h volume: `2385156.159705002` | liquidity: `1551989.1587`
+- Exact Score: Spain 2 - 2 Argentina? | 24h volume: `1844916.269009984` | liquidity: `3462457.133`
+- Exact Score: Spain 3 - 0 Argentina? | 24h volume: `1585948.9664509997` | liquidity: `1582469.18761`
+- Exact Score: Spain 2 - 1 Argentina? | 24h volume: `1547546.2835960006` | liquidity: `2787901.4267`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
