@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-18T23:52:24.091951+00:00`
-- Market context score: `44.48`
-- News risk score: `35.53`
-- Macro risk score: `33.68`
-- Risk-on score: `19.35`
-- Articles: `29`
+- Generated: `2026-07-19T00:07:31.580624+00:00`
+- Market context score: `34.8`
+- News risk score: `45.18`
+- Macro risk score: `52.83`
+- Risk-on score: `13.21`
+- Articles: `15`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6504`
-- Day/swing latest: `2026-07-18T23:45:00+00:00`
+- Day/swing records: `6505`
+- Day/swing latest: `2026-07-19T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `2`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
 
 ## Headlines
 
-- [macro] SpaceX (SPCX) Loses Its IPO Premium as a Bigger Supply Test Looms (Yahoo Finance)
-- [macro] How Much Will $500 in XRP Be Worth in 5 Years? (Yahoo Finance)
-- [macro] Which "Magnificent Seven" Stock Has the Best Risk/Reward Right Now? (Yahoo Finance)
-- [macro] If Interest Rates Climb, This Financial ETF Could Be a Big Winner (Yahoo Finance)
-- [macro] What It Takes to Retire on Lake Como at 60 on $1 Million Without Touching Your Principal (Yahoo Finance)
-- [macro] A PayPal Vice President Sold Nearly 4,000 Company Shares. Here's What That Means for Investors. (Yahoo Finance)
+- [macro] Russians turn to cash, putting more strain on slowing wartime economy (BBC News)
 - [commodity] Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement (Energy)
-- [macro] Massive TSMC deal is huge stride for US in high-tech race (Yahoo Finance)
-- [macro] American sneaker brand closes more stores (Yahoo Finance)
-- [macro] Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says (Yahoo Finance)
+- [crypto] France orders country's internet service providers to block Polymarket (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says (Energy)
+- [macro] Two US troops killed and one missing after Iranian attack in Jordan (BBC News)
+- [macro] Hungary's president agrees to stand down after parliament backs removal (BBC News)
+- [crypto] Crypto executives say digital native generations may never need a bank account (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities (BBC News)
+- [crypto] DOG Mode explains Bitcoin's next governance fight (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
