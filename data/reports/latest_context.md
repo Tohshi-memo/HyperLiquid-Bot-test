@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-19T06:37:23.468988+00:00`
-- Market context score: `34.12`
-- News risk score: `50.5`
-- Macro risk score: `32.0`
-- Risk-on score: `8.33`
-- Articles: `11`
+- Generated: `2026-07-19T06:52:28.221731+00:00`
+- Market context score: `38.76`
+- News risk score: `45.95`
+- Macro risk score: `22.91`
+- Risk-on score: `11.36`
+- Articles: `13`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6531`
-- Day/swing latest: `2026-07-19T06:30:00+00:00`
+- Day/swing records: `6532`
+- Day/swing latest: `2026-07-19T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
 - [crypto] Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US and Iran exchange strikes after two US deaths in Jordan attack (BBC News)
+- [macro] US and Iran exchange strikes after two US soldiers killed in Jordan (BBC News)
 - [macro] Andrew Tate and brother arrested in US after more charges laid against them in UK (BBC News)
 - [macro] New EU border system tripling time at passport control, airport boss says (BBC News)
+- [macro] New EU border system tripling time at passport control, airport boss says (BBC News)
 - [macro] Why the World Cup half-time show may be a taste of things to come (BBC News)
+- [macro] The hidden cost of the night shift and how to sleep it off (BBC News)
 - [macro] Russians turn to cash, putting more strain on slowing wartime economy (BBC News)
 - [macro] Private jets flock to Montana - but locals can't afford the trailer park (BBC News)
 - [commodity] Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement (Energy)
-- [crypto] France orders country's internet service providers to block Polymarket (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says (Energy)
