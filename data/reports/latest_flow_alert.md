@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-19T06:45:25.266827+00:00`
-- Flow alert score: `18.92`
+- Generated: `2026-07-19T06:50:27.228299+00:00`
+- Flow alert score: `18.8`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `29217558.41`
-- Polymarket volume z-score: `0.48`
+- Polymarket 24h volume: `28980872.97`
+- Polymarket volume z-score: `0.45`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `5400972.632` | liquidity: `23198.98188`
-- Spain vs. Argentina: Team to Advance | 24h volume: `3895081.6163470037` | liquidity: `6344229.477425`
-- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `3278437.368597987` | liquidity: `1987250.49183`
-- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `2511004.6243559974` | liquidity: `1272604.65009`
-- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1474553.0000000023` | liquidity: `56629.72928`
-- Exact Score: Spain 3 - 2 Argentina? | 24h volume: `1280809.746240002` | liquidity: `645599.53131`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1212355.74` | liquidity: `27675.498`
-- Exact Score: Spain 2 - 2 Argentina? | 24h volume: `896703.1714930024` | liquidity: `2759707.3471`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `5400972.632` | liquidity: `22817.97963`
+- Spain vs. Argentina: Team to Advance | 24h volume: `3895905.6272480036` | liquidity: `6343167.96175`
+- Exact Score: Spain 2 - 3 Argentina? | 24h volume: `2943986.200338992` | liquidity: `1794648.45263`
+- Exact Score: Spain 3 - 3 Argentina? | 24h volume: `2516550.0788989975` | liquidity: `1297042.87516`
+- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1474551.0000000023` | liquidity: `56092.45928`
+- Exact Score: Spain 3 - 2 Argentina? | 24h volume: `1280413.5716930022` | liquidity: `605795.90459`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1212355.74` | liquidity: `27054.18031`
+- Exact Score: Spain 2 - 2 Argentina? | 24h volume: `897363.7714930024` | liquidity: `2758912.5931`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
