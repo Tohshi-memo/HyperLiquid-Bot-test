@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-19T20:37:24.890558+00:00`
+- Generated: `2026-07-19T20:52:24.159830+00:00`
 - Market context score: `54.1`
 - News risk score: `35.54`
 - Macro risk score: `33.55`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6587`
-- Day/swing latest: `2026-07-19T20:30:00+00:00`
+- Day/swing records: `6588`
+- Day/swing latest: `2026-07-19T20:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Alphabet's Gemini 3.5 Pro Is Late and the Stock Is Slipping. Is the AI Leader Falling Behind? (Yahoo Finance)
+- [macro] Cathie Wood Is Selling This High-Flying Stock. Is It a Buy? (Yahoo Finance)
+- [macro] MicroStrategy CEO: Wall Street’s Biggest Banks are Locked in a Tight Bitcoin Race (Yahoo Finance)
 - [commodity] U.S. death toll rises again as Iran war escalates over the weekend (Energy)
+- [macro] Declare Your Financial Independence! (Yahoo Finance)
+- [macro] My 2 Favorite Dividend Kings to Buy Right Now (Yahoo Finance)
 - [macro] Utility ETFs Soar 8% YTD on AI Power Demand. Here’s Which One to Buy (Yahoo Finance)
 - [macro] IBM’s 25% crash reveals AI’s hidden corporate casualty (Yahoo Finance)
 - [macro] US soldier killed and one injured after Iranian attack in Iraq (BBC News)
 - [macro] Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion (Yahoo Finance)
-- [macro] Spend the IRA First, Claim Social Security Last: The Order That Adds Six Figures for $500,000 Retirees (Yahoo Finance)
-- [macro] Can an Apple lawsuit derail OpenAI’s hardware plans? (Yahoo Finance)
-- [macro] Analysts Project the Oklo Stock Price Will Reach $87 in 2027 -- Is the Risk-to-Reward Scenario Worth It? (Yahoo Finance)
-- [macro] Astera Labs vs. Navitas Semiconductor: What the Revenue Trajectories of These Artificial Intelligence Companies Reveal to Investors. (Yahoo Finance)
-- [macro] If You'd Put $10,000 in Palantir at Its IPO, Here's What You'd Have Now -- Even After a 37% Drop (Yahoo Finance)
