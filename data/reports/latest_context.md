@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-19T05:07:23.993661+00:00`
+- Generated: `2026-07-19T05:22:23.811828+00:00`
 - Market context score: `32.08`
 - News risk score: `52.5`
 - Macro risk score: `36.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6525`
-- Day/swing latest: `2026-07-19T05:00:00+00:00`
+- Day/swing records: `6526`
+- Day/swing latest: `2026-07-19T05:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] US and Iran exchange strikes after two US deaths in Jordan attack (BBC News)
 - [macro] Andrew Tate and brother arrested in US after more charges laid against them in UK (BBC News)
 - [macro] New EU border system tripling time at passport control, airport boss says (BBC News)
 - [macro] Why the World Cup half-time show may be a taste of things to come (BBC News)
-- [macro] Two US troops killed and one missing after Iranian attack in Jordan (BBC News)
 - [macro] Russians turn to cash, putting more strain on slowing wartime economy (BBC News)
 - [macro] Private jets flock to Montana - but locals can't afford the trailer park (BBC News)
 - [commodity] Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement (Energy)
