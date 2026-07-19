@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-19T10:37:25.843584+00:00`
+- Generated: `2026-07-19T10:52:28.591723+00:00`
 - Market context score: `42.39`
 - News risk score: `51.21`
 - Macro risk score: `33.43`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `936`
+- Asset universe count: `1167`
 - Asset price history records: `672`
 
-- Asset classes: `crypto_alt:225, crypto_major:7, metal:1, unknown:703`
-- HIP-3 dexes: ``
+- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:96, fx:6, index:25, metal:20, unknown:770`
+- HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6547`
-- Day/swing latest: `2026-07-19T10:30:00+00:00`
+- Day/swing records: `6548`
+- Day/swing latest: `2026-07-19T10:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] US and Iran exchange strikes after two US soldiers killed in Jordan (BBC News)
 - [macro] Tate brothers arrested in US as further UK charges take total to 59 (BBC News)
 - [crypto] South Korean regulator begins sanctions process against Dunamu: Report (Cointelegraph.com News)
 - [crypto] Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] U.S. says it targeted Iranian forces after attacks that killed two American service members (Energy)
 - [crypto] Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups (Cointelegraph.com News)
 - [macro] Cuban dissident Luis Manuel Otero Alcántara goes into exile in US (BBC News)
-- [crypto] Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
