@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T04:48:42.045257+00:00`
-- Market context score: `48.05`
-- News risk score: `31.49`
-- Macro risk score: `26.12`
-- Risk-on score: `21.01`
-- Articles: `24`
+- Generated: `2026-07-20T04:52:27.218487+00:00`
+- Market context score: `46.75`
+- News risk score: `32.76`
+- Macro risk score: `28.67`
+- Risk-on score: `20.16`
+- Articles: `25`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -22,12 +22,13 @@
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics (Energy)
 - [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
 - [crypto] Cardano activates van Rossem hard fork, paving way for Leios (Cointelegraph.com News)
 - [macro] Food delivery rider wins China's top literary prize (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Norway opens new memorial for victims of 2011 massacre (BBC News)
 - [crypto] South Korea probed 40 cases of crypto manipulation over 2 years (Cointelegraph.com News)
 - [macro] ‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent (BBC News)
-- [crypto] Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19 (Cointelegraph.com News)
