@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T07:37:30.032084+00:00`
-- Market context score: `45.76`
+- Generated: `2026-07-20T07:49:50.443282+00:00`
+- Market context score: `46.36`
 - News risk score: `39.99`
 - Macro risk score: `23.25`
-- Risk-on score: `22.01`
+- Risk-on score: `23.34`
 - Articles: `27`
 - Polymarket markets: `395`
 
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6627`
-- Day/swing latest: `2026-07-20T07:30:00+00:00`
+- Day/swing records: `6628`
+- Day/swing latest: `2026-07-20T07:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
-- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
+- macro: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Brent crude breaches $90 as Iran vows not ‘a single drop’ of oil or gas will transit Hormuz (Energy)
+- [macro] Ryanair profits tumble as jet fuel costs soar (BBC News)
 - [crypto] South Korea eyes September launch for second phase of CBDC pilot: Report (Cointelegraph.com News)
 - [crypto] Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics (Energy)
-- [macro] Spanish and Argentinian fans react outside World Cup final (BBC News)
-- [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
