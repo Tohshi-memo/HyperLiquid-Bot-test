@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T00:07:30.131249+00:00`
-- Market context score: `69.14`
-- News risk score: `28.4`
-- Macro risk score: `26.6`
-- Risk-on score: `65.45`
-- Articles: `52`
+- Generated: `2026-07-20T00:22:29.851574+00:00`
+- Market context score: `60.57`
+- News risk score: `25.89`
+- Macro risk score: `27.79`
+- Risk-on score: `44.74`
+- Articles: `28`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6601`
-- Day/swing latest: `2026-07-20T00:00:00+00:00`
+- Day/swing records: `6602`
+- Day/swing latest: `2026-07-20T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `43`, risk hits `10`, risk headline rate `0.2093`, policy hits `2`
+- crypto: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
-- [macro] CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificial Intelligence Companies (Yahoo Finance)
-- [macro] Anthropic's Potential $1.2 Trillion IPO Could Make This Stock a Major Beneficiary (Yahoo Finance)
-- [macro] Corrections & Amplifications (Yahoo Finance)
-- [macro] Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead (Yahoo Finance)
-- [macro] Oil Pulls the Market Lower Again (Yahoo Finance)
-- [macro] Buyout Firm Truelink Nears $1 Billion Deal for Coffee Syrup Maker (Yahoo Finance)
-- [macro] The Tax Return You Filed in April Just Set Your 2027 Medicare Premium, and It’s Locked Unless Your Life Changes (Yahoo Finance)
+- [macro] ‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent (BBC News)
+- [crypto] Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19 (Cointelegraph.com News)
 - [macro] This farmer wanted to quit the cocaine industry - he couldn't (BBC News)
 - [macro] This farmer wanted to quit the cocaine industry - he couldn't (BBC News)
-- [macro] Homebuyers lose ground as housing affordability slams shut (Yahoo Finance)
+- [macro] Are you a parent missing out on £27 a week? Here's how to check (BBC News)
+- [macro] My fitness tracker knew I was pregnant before I did (BBC News)
+- [commodity] U.S. death toll rises again as Iran war escalates over the weekend (Energy)
+- [macro] Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show (BBC News)
+- [macro] Watch: Torrential rain hits New York and New Jersey triggering flash floods (BBC News)
+- [macro] US soldier killed and one injured after Iranian attack in Iraq (BBC News)
