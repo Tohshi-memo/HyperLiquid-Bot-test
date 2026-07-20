@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T05:07:24.321648+00:00`
+- Generated: `2026-07-20T05:22:29.417105+00:00`
 - Market context score: `48.05`
 - News risk score: `31.49`
 - Macro risk score: `26.12`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6618`
-- Day/swing latest: `2026-07-20T05:00:00+00:00`
+- Day/swing records: `6619`
+- Day/swing latest: `2026-07-20T05:15:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics (Energy)
 - [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
-- [crypto] Cardano activates van Rossem hard fork, paving way for Leios (Cointelegraph.com News)
+- [crypto] Cardano activates van Rossem hard fork (Cointelegraph.com News)
 - [macro] Food delivery rider wins China's top literary prize (BBC News)
 - [macro] Test that found source of US explosive diarrhoea outbreak was false positive, health officials say (BBC News)
 - [crypto] Allbridge pauses cross-chain bridge after $1.65M exploit (Cointelegraph.com News)
