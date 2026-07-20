@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-20T11:50:27.223079+00:00`
+- Generated: `2026-07-20T11:55:30.390564+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22331623.68`
+- Polymarket 24h volume: `22371865.92`
 - Polymarket volume z-score: `-0.48`
 
 ## Top Polymarket Markets
 
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `5638833.37` | liquidity: `26995.54535`
-- Will Trump be in the WC Champions Photo? | 24h volume: `3326163.3777659973` | liquidity: `579239.7097`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3081389.94` | liquidity: `21366.49748`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `914256.4032119972` | liquidity: `456448.01981`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `749247.3489539997` | liquidity: `680088.86952`
-- Will the U.S. invade Iran before 2027? | 24h volume: `601612.8746319999` | liquidity: `618862.7434`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `557210.3347840004` | liquidity: `518816.64359`
-- Will Tim Walz win the 2028 US Presidential Election? | 24h volume: `483863.244333` | liquidity: `1427396.11323`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `5641843.37` | liquidity: `27581.23602`
+- Will Trump be in the WC Champions Photo? | 24h volume: `3331616.4006149983` | liquidity: `674076.93629`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `3035939.94` | liquidity: `21587.35928`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `920158.973211997` | liquidity: `451335.51257`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `749826.7486349997` | liquidity: `682836.2606`
+- Will the U.S. invade Iran before 2027? | 24h volume: `601747.5140879999` | liquidity: `629836.7251`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `573562.5782560003` | liquidity: `507307.71459`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `484018.2566399999` | liquidity: `652694.54349`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
