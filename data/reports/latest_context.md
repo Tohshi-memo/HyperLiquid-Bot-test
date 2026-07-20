@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T07:22:25.734577+00:00`
-- Market context score: `47.7`
-- News risk score: `37.12`
+- Generated: `2026-07-20T07:37:30.032084+00:00`
+- Market context score: `45.76`
+- News risk score: `39.99`
 - Macro risk score: `23.25`
-- Risk-on score: `23.92`
-- Articles: `26`
+- Risk-on score: `22.01`
+- Articles: `27`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6626`
-- Day/swing latest: `2026-07-20T07:15:00+00:00`
+- Day/swing records: `6627`
+- Day/swing latest: `2026-07-20T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 - macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
 
 ## Headlines
 
+- [crypto] South Korea eyes September launch for second phase of CBDC pilot: Report (Cointelegraph.com News)
 - [crypto] Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] From 'Super El Niño' to Europe’s extreme heatwave: How this year's weather shocks are rattling commodity markets (Energy)
@@ -37,4 +38,3 @@
 - [commodity] Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics (Energy)
 - [macro] Spanish and Argentinian fans react outside World Cup final (BBC News)
 - [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
-- [crypto] Cardano activates van Rossem hard fork (Cointelegraph.com News)
