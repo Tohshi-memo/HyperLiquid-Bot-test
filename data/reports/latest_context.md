@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T12:52:25.347744+00:00`
-- Market context score: `47.82`
-- News risk score: `48.58`
-- Macro risk score: `24.55`
-- Risk-on score: `34.34`
-- Articles: `75`
+- Generated: `2026-07-20T12:58:04.212735+00:00`
+- Market context score: `47.74`
+- News risk score: `47.88`
+- Macro risk score: `24.27`
+- Risk-on score: `33.46`
+- Articles: `77`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3571`, policy hits `3`
-- macro: articles `42`, risk hits `7`, risk headline rate `0.1429`, policy hits `8`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.3448`, policy hits `3`
+- macro: articles `43`, risk hits `7`, risk headline rate `0.1395`, policy hits `8`
 
 ## Headlines
 
+- [crypto] Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran's Houthi allies in Yemen declare maritime embargo of Saudi Arabia (Energy)
+- [macro] 3 Bearish Signs Flashing for Bitcoin in July 2026 (Yahoo Finance)
+- [macro] Costco opens first standalone gas station in Southern California (Yahoo Finance)
 - [macro] SpaceX vs. Archer Aviation: Which Aerospace Stock Is a High Flyer for 2026? (Yahoo Finance)
 - [crypto] Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin (Cointelegraph.com News)
-- [macro] Standard Chartered Renews Call for $100,000 Bitcoin by End of 2026. Here's the Most Likely Scenario (Yahoo Finance)
-- [macro] Is IBM Stock in Trouble? (Yahoo Finance)
+- [macro] GFL Environmental (GFL) Slid Following the Deal Reveal (Yahoo Finance)
 - [crypto] Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Alibaba Stock Rallies After Touting New AI Model As Trailing Only Anthropic (Yahoo Finance)
 - [macro] Why are thousands of people protesting in Delhi? (BBC News)
-- [macro] Longer-Term Opportunity Overshadows Karman Holdings’ (KRMN) Near-Term Concerns (Yahoo Finance)
-- [macro] Another driver wrecked your rental car and hurt your family — here's who pays the medical bills (Yahoo Finance)
