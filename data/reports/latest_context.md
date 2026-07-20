@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T03:22:25.777905+00:00`
+- Generated: `2026-07-20T03:37:29.847806+00:00`
 - Market context score: `47.6`
 - News risk score: `31.93`
 - Macro risk score: `27.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6611`
-- Day/swing latest: `2026-07-20T03:15:00+00:00`
+- Day/swing records: `6612`
+- Day/swing latest: `2026-07-20T03:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
 - [macro] Test that found source of US explosive diarrhoea outbreak was false positive, health officials say (BBC News)
 - [crypto] Allbridge pauses cross-chain bridge after $1.65M exploit (Cointelegraph.com News)
-- [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
 - [crypto] Japanese logistics company eyes JPYC stablecoin to pay drivers (Cointelegraph.com News)
 - [macro] Norway opens new memorial for victims of 2011 massacre (BBC News)
 - [crypto] South Korea probed 40 cases of crypto manipulation over 2 years (Cointelegraph.com News)
