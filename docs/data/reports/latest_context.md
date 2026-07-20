@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T07:49:50.443282+00:00`
-- Market context score: `46.36`
-- News risk score: `39.99`
-- Macro risk score: `23.25`
-- Risk-on score: `23.34`
+- Generated: `2026-07-20T07:52:32.308877+00:00`
+- Market context score: `44.44`
+- News risk score: `41.86`
+- Macro risk score: `27.0`
+- Risk-on score: `22.09`
 - Articles: `27`
 - Polymarket markets: `395`
 
@@ -24,12 +24,12 @@
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
-- macro: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
 
 ## Headlines
 
 - [commodity] Brent crude breaches $90 as Iran vows not ‘a single drop’ of oil or gas will transit Hormuz (Energy)
-- [macro] Ryanair profits tumble as jet fuel costs soar (BBC News)
+- [macro] Ryanair profits drop as Iran war puts off passengers and lifts fuel costs (BBC News)
 - [crypto] South Korea eyes September launch for second phase of CBDC pilot: Report (Cointelegraph.com News)
 - [crypto] Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
