@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T11:37:30.103869+00:00`
-- Market context score: `44.7`
-- News risk score: `47.21`
-- Macro risk score: `26.17`
-- Risk-on score: `26.86`
-- Articles: `60`
+- Generated: `2026-07-20T11:52:29.046865+00:00`
+- Market context score: `45.58`
+- News risk score: `45.96`
+- Macro risk score: `24.74`
+- Risk-on score: `27.22`
+- Articles: `58`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6643`
-- Day/swing latest: `2026-07-20T11:30:00+00:00`
+- Day/swing records: `6644`
+- Day/swing latest: `2026-07-20T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `24`, risk hits `9`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `32`, risk hits `5`, risk headline rate `0.1562`, policy hits `9`
+- macro: articles `30`, risk hits `4`, risk headline rate `0.1333`, policy hits `8`
 
 ## Headlines
 
+- [macro] Temenos finalises purchase of wealth platform additiv (Yahoo Finance)
+- [macro] Oil hits $90, U.S. strikes Iran ninth day, stocks rise (Yahoo Finance)
+- [macro] Scores feared dead after passenger ferry capsizes off Guyana (BBC News)
+- [macro] Hyundai workers step up strike action (Yahoo Finance)
 - [commodity] Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests (Energy)
+- [macro] Moneysupermarket introduces investment platform (Yahoo Finance)
+- [macro] At 50, she quit her career to retire to Mexico — then spent 'year one' making endless mistakes. Here's what she learned (Yahoo Finance)
 - [macro] JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child (BBC News)
 - [macro] Trump says US strikes hit Iran in 'honour' of American soldiers killed (BBC News)
 - [crypto] A bitcoin 'volmageddon' may be brewing, key indicator suggests (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stock market today: Dow, S&P 500, Nasdaq futures edge up as oil turns lower in wait for Big Tech earnings (Yahoo Finance)
-- [crypto] Bank of Korea prepares for live CBDC transactions with 9 banks in September (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Samsung Biologics to acquire PolyPeptide in $1.81bn cash deal (Yahoo Finance)
-- [macro] UK biotech financing continues recovery trajectory on five-year Q2 high (Yahoo Finance)
-- [macro] Prediction: This Space Economy Stock Will Outperform SpaceX Over the Next 5 Years (Yahoo Finance)
-- [crypto] Crypto institutions look beyond audits as trust signals falter: Hacken (Cointelegraph.com News)
