@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T04:37:30.698747+00:00`
+- Generated: `2026-07-20T04:48:42.045257+00:00`
 - Market context score: `48.05`
 - News risk score: `31.49`
 - Macro risk score: `26.12`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:769`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6616`
-- Day/swing latest: `2026-07-20T04:30:00+00:00`
+- Day/swing records: `6617`
+- Day/swing latest: `2026-07-20T04:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
 - [crypto] Cardano activates van Rossem hard fork, paving way for Leios (Cointelegraph.com News)
 - [macro] Food delivery rider wins China's top literary prize (BBC News)
-- [commodity] Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise (Energy)
 - [macro] Test that found source of US explosive diarrhoea outbreak was false positive, health officials say (BBC News)
 - [crypto] Allbridge pauses cross-chain bridge after $1.65M exploit (Cointelegraph.com News)
 - [crypto] Japanese logistics company eyes JPYC stablecoin to pay drivers (Cointelegraph.com News)
