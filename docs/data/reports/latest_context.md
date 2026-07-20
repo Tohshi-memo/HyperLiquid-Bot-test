@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T15:07:30.053401+00:00`
-- Market context score: `53.47`
-- News risk score: `46.02`
+- Generated: `2026-07-20T15:19:24.978959+00:00`
+- Market context score: `54.11`
+- News risk score: `44.57`
 - Macro risk score: `22.65`
-- Risk-on score: `44.03`
+- Risk-on score: `44.21`
 - Articles: `85`
 - Polymarket markets: `395`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6656`
-- Day/swing latest: `2026-07-20T15:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `5`, risk headline rate `0.5714`, policy hits `0`
-- crypto: articles `31`, risk hits `10`, risk headline rate `0.3226`, policy hits `3`
+- crypto: articles `31`, risk hits `9`, risk headline rate `0.2903`, policy hits `3`
 - macro: articles `47`, risk hits `4`, risk headline rate `0.0851`, policy hits `5`
 
 ## Headlines
 
+- [commodity] Iran's Houthi allies declare maritime embargo against Saudi Arabia, escalating threat to oil market (Energy)
 - [macro] Burnham promises help with your money. How could it affect you? (BBC News)
 - [macro] Netflix: Buy the Dip or Wait for Proof? (Yahoo Finance)
 - [macro] Hut 8 Jumps 10% on $9.8B AI Data Center Lease; MARA, Riot Platforms Rally in Sympathy (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Newcastle, Liverpool and England legend Keegan dies (BBC News)
 - [commodity] Alphabet stock pops on report it's developing a more efficient AI chip (Energy)
 - [crypto] Inside Cardano's 'Van Rossum' hard fork, and what it means for users (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] More retirees say they're 'living a nightmare' — surpassing those 'living the dream' for the first time, study finds (Yahoo Finance)
