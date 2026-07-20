@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-20T20:22:29.839573+00:00`
-- Market context score: `51.9`
-- News risk score: `41.94`
-- Macro risk score: `28.09`
-- Risk-on score: `39.14`
-- Articles: `67`
+- Generated: `2026-07-20T20:37:41.736540+00:00`
+- Market context score: `51.02`
+- News risk score: `43.34`
+- Macro risk score: `28.07`
+- Risk-on score: `38.36`
+- Articles: `68`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:770`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `6678`
+- Day/swing latest: `2026-07-20T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `30`, risk hits `6`, risk headline rate `0.2`, policy hits `3`
+- crypto: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `3`
 - macro: articles `32`, risk hits `6`, risk headline rate `0.1875`, policy hits `2`
 
 ## Headlines
 
+- [crypto] SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme (Cointelegraph.com News)
 - [macro] Trump warns Iran will pay 'many times over' for deaths of US soldiers (BBC News)
 - [macro] Merger deal between Paramount and Warner Bros paused by judge (BBC News)
 - [crypto] Exodus to cut 25% of staff in company reorganization (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Burnham promises help with your money. How could it affect you? (BBC News)
 - [macro] Burnham has big ideas - but what will they cost? (BBC News)
 - [macro] 'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites (BBC News)
-- [macro] Yemen's Houthis announce 'maritime embargo' on Saudi Arabia (BBC News)
