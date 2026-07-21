@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-21T16:05:27.620673+00:00`
+- Generated: `2026-07-21T16:10:33.357000+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `19974975.79`
+- Polymarket 24h volume: `20011516.66`
 - Polymarket volume z-score: `-0.63`
 
 ## Top Polymarket Markets
 
-- Will Trump be in the WC Champions Photo? | 24h volume: `5120762.04266598` | liquidity: `3868165.13154`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `2123929.8890000004` | liquidity: `19952.33237`
-- Will Gretchen Whitmer win the 2028 US Presidential Election? | 24h volume: `1443627.6776210004` | liquidity: `266695.78638`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1119178.0195070002` | liquidity: `291204.15271`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1048982.2387489954` | liquidity: `306729.0059`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `927683.0491649964` | liquidity: `12270.22746`
-- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `732183.7100000001` | liquidity: `2078321.65215`
-- Will Gretchen Whitmer win the 2028 Democratic presidential nomination? | 24h volume: `653105.7473619999` | liquidity: `195960.4779`
+- Will Trump be in the WC Champions Photo? | 24h volume: `5110181.46263598` | liquidity: `3885067.52763`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `2123929.8890000004` | liquidity: `30669.86526`
+- Will Gretchen Whitmer win the 2028 US Presidential Election? | 24h volume: `1443824.9576210005` | liquidity: `266473.856`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1108735.583942` | liquidity: `309109.55137`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1067287.1361609953` | liquidity: `290555.41548`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `927683.0491649964` | liquidity: `18317.91146`
+- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `733703.1460000001` | liquidity: `2069738.40957`
+- Will Gretchen Whitmer win the 2028 Democratic presidential nomination? | 24h volume: `653664.2684589999` | liquidity: `192924.43638`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
