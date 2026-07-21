@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T04:07:25.399474+00:00`
-- Market context score: `58.16`
-- News risk score: `29.61`
-- Macro risk score: `28.17`
-- Risk-on score: `42.67`
-- Articles: `41`
+- Generated: `2026-07-21T04:22:25.248227+00:00`
+- Market context score: `63.03`
+- News risk score: `29.55`
+- Macro risk score: `27.06`
+- Risk-on score: `53.03`
+- Articles: `43`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6706`
-- Day/swing latest: `2026-07-21T04:00:00+00:00`
+- Day/swing records: `6707`
+- Day/swing latest: `2026-07-21T04:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
-- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `1`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say (Energy)
 - [crypto] Grayscale files S-1 for first US Worldcoin ETF (Cointelegraph.com News)
 - [crypto] Celsius co-founders Leon, Goldstein to pay FTC over $6M (Cointelegraph.com News)
 - [crypto] Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] London Stock Exchange eyes overnight trading launch in 2027: FT (Cointelegraph.com News)
 - [macro] Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks (BBC News)
 - [macro] Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks (BBC News)
-- [crypto] Patrick Witt defers military training as CLARITY heads to Senate (Cointelegraph.com News)
