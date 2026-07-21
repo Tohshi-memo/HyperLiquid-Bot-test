@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T07:07:32.857648+00:00`
-- Market context score: `56.25`
-- News risk score: `35.37`
-- Macro risk score: `33.74`
-- Risk-on score: `45.38`
-- Articles: `34`
+- Generated: `2026-07-21T07:22:28.295762+00:00`
+- Market context score: `56.4`
+- News risk score: `37.35`
+- Macro risk score: `33.69`
+- Risk-on score: `47.38`
+- Articles: `36`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6717`
-- Day/swing latest: `2026-07-21T07:00:00+00:00`
+- Day/swing records: `6718`
+- Day/swing latest: `2026-07-21T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `14`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `16`, risk hits `4`, risk headline rate `0.1875`, policy hits `0`
 - macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `1`
 
 ## Headlines
 
+- [crypto] XRP jumps 4% as traders watch 'triangle breakout' toward $1.35 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] UK government borrowing falls in June (BBC News)
+- [macro] Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks (BBC News)
+- [macro] Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks (BBC News)
+- [crypto] Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says (Cointelegraph.com News)
 - [commodity] Abu Dhabi approves $6.2 billion gas project to boost UAE supply (Energy)
 - [crypto] Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK government borrowing falls in June (BBC News)
 - [macro] VAT to be cut from household electricity bills in October (BBC News)
 - [macro] US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers (BBC News)
 - [crypto] UK Parliament begins inquiry into banking chokepoint for crypto businesses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say (Energy)
-- [crypto] Grayscale files S-1 for first US Worldcoin ETF (Cointelegraph.com News)
