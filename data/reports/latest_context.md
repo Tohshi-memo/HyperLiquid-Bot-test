@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T21:43:14.052439+00:00`
-- Market context score: `54.94`
-- News risk score: `39.16`
-- Macro risk score: `24.5`
-- Risk-on score: `42.18`
+- Generated: `2026-07-21T21:52:27.110390+00:00`
+- Market context score: `53.97`
+- News risk score: `40.49`
+- Macro risk score: `24.84`
+- Risk-on score: `41.29`
 - Articles: `63`
 - Polymarket markets: `395`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6774`
-- Day/swing latest: `2026-07-21T21:30:00+00:00`
+- Day/swing records: `6775`
+- Day/swing latest: `2026-07-21T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `30`, risk hits `9`, risk headline rate `0.2`, policy hits `3`
-- macro: articles `31`, risk hits `5`, risk headline rate `0.1613`, policy hits `0`
+- crypto: articles `31`, risk hits `10`, risk headline rate `0.2258`, policy hits `3`
+- macro: articles `30`, risk hits `5`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] CLARITY Act could help CFTC deal with prediction markets: Lawyer (Cointelegraph.com News)
 - [crypto] Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil (Cointelegraph.com News)
 - [crypto] Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls? (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Pakistan steps up crypto enforcement with dedicated federal unit (Cointelegraph.com News)
 - [crypto] Pavel Durov says Telegram to roll out native Gram crypto wallet (Cointelegraph.com News)
 - [crypto] White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal (BBC News)
