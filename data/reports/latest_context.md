@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T13:07:25.280716+00:00`
-- Market context score: `59.33`
-- News risk score: `36.93`
-- Macro risk score: `25.04`
-- Risk-on score: `50.26`
-- Articles: `62`
+- Generated: `2026-07-21T13:22:29.564123+00:00`
+- Market context score: `58.5`
+- News risk score: `38.88`
+- Macro risk score: `27.94`
+- Risk-on score: `51.17`
+- Articles: `65`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6741`
-- Day/swing latest: `2026-07-21T13:00:00+00:00`
+- Day/swing records: `6742`
+- Day/swing latest: `2026-07-21T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `20`, risk hits `5`, risk headline rate `0.15`, policy hits `0`
-- macro: articles `38`, risk hits `6`, risk headline rate `0.1579`, policy hits `5`
+- crypto: articles `21`, risk hits `5`, risk headline rate `0.1429`, policy hits `1`
+- macro: articles `40`, risk hits `8`, risk headline rate `0.2`, policy hits `6`
 
 ## Headlines
 
+- [crypto] Robinhood-backed DEX Arcus expands with tokenized assets, perps (Cointelegraph.com News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Ryanair broken window may have been caused by 'foreign object' (BBC News)
+- [macro] Short-Term Income ETFs: How Do Vanguard Short-Term Bond ETF and Schwab Treasury ETF Compare? (Yahoo Finance)
+- [macro] SpaceX Shares Fall Below IPO Price: A Contrarian Buy Worth Considering (Yahoo Finance)
 - [commodity] U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire (Energy)
-- [macro] 5 Words From Netflix's Co-CEO Ted Sarandos That Suggest an Acquisition May Not Necessarily Be on the Horizon for the Streaming Giant (Yahoo Finance)
-- [macro] Dozens hurt in Bologna protests after man dies while being restrained by police (BBC News)
-- [macro] Advanced Micro Devices vs. Intel: What the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors (Yahoo Finance)
-- [macro] American Resources' ReElement unit expands workforce ahead of Indiana commissioning (Yahoo Finance)
-- [crypto] Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK borrows less than expected in June but public finances remain a challenge (BBC News)
-- [macro] Forget Picking the Next AI Winner: TSM Lets You Profit From Every Wave of the Revolution (Yahoo Finance)
-- [macro] Row escalates in Ukraine over army chief's future (BBC News)
-- [crypto] Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg (Cointelegraph.com News)
+- [crypto] Morpho launches fixed-rate lending protocol on Base (Cointelegraph.com News)
+- [macro] This Is America’s Worst Car Brand (Yahoo Finance)
+- [macro] Noumi enters takeover deal with major investor Arrovest (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises As GM Surges On Earnings Report; Marvell, Micron, Sandisk Rally (Live Coverage) (Yahoo Finance)
