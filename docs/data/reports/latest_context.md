@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T07:24:27.719461+00:00`
-- Market context score: `56.4`
+- Generated: `2026-07-21T07:37:28.003070+00:00`
+- Market context score: `57.3`
 - News risk score: `37.35`
 - Macro risk score: `33.69`
-- Risk-on score: `47.38`
+- Risk-on score: `49.38`
 - Articles: `36`
 - Polymarket markets: `394`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6718`
-- Day/swing latest: `2026-07-21T07:15:00+00:00`
+- Day/swing records: `6719`
+- Day/swing latest: `2026-07-21T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [crypto] Bitcoin ETFs post five-day inflow streak, longest since May (Cointelegraph.com News)
+- [macro] VAT to be cut from household electricity bills in October (BBC News)
 - [crypto] XRP jumps 4% as traders watch 'triangle breakout' toward $1.35 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK government borrowing falls in June (BBC News)
 - [macro] Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks (BBC News)
@@ -35,6 +37,4 @@
 - [crypto] Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says (Cointelegraph.com News)
 - [commodity] Abu Dhabi approves $6.2 billion gas project to boost UAE supply (Energy)
 - [crypto] Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] VAT to be cut from household electricity bills in October (BBC News)
 - [macro] US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers (BBC News)
-- [crypto] UK Parliament begins inquiry into banking chokepoint for crypto businesses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
