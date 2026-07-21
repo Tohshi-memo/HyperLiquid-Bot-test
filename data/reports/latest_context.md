@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T05:52:30.489967+00:00`
+- Generated: `2026-07-21T06:07:25.614509+00:00`
 - Market context score: `66.57`
 - News risk score: `30.22`
 - Macro risk score: `28.81`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6712`
-- Day/swing latest: `2026-07-21T05:45:00+00:00`
+- Day/swing records: `6713`
+- Day/swing latest: `2026-07-21T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] VAT to be cut from household electricity bills in October (BBC News)
 - [crypto] Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say (Energy)
@@ -37,4 +38,3 @@
 - [macro] US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers (BBC News)
 - [commodity] Ships shun Strait of Hormuz as renewed fighting strains key oil corridor (Energy)
 - [macro] At least 27 dead and 83 missing after passenger ferry capsizes off Guyana (BBC News)
-- [crypto] London Stock Exchange eyes overnight trading launch in 2027: FT (Cointelegraph.com News)
