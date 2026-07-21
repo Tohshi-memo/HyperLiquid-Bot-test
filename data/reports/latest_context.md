@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T19:37:38.807902+00:00`
+- Generated: `2026-07-21T19:52:28.372627+00:00`
 - Market context score: `54.09`
 - News risk score: `37.86`
 - Macro risk score: `24.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6766`
-- Day/swing latest: `2026-07-21T19:30:00+00:00`
+- Day/swing records: `6767`
+- Day/swing latest: `2026-07-21T19:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [macro] Zelensky sacks Ukraine's top army commander after days of protests (BBC News)
 - [crypto] Pakistan steps up crypto enforcement with dedicated federal unit (Cointelegraph.com News)
-- [macro] Row escalates in Ukraine over army chief's future (BBC News)
 - [crypto] Pavel Durov says Telegram to roll out native Gram crypto wallet (Cointelegraph.com News)
 - [crypto] White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal (BBC News)
