@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T13:37:30.297116+00:00`
-- Market context score: `59.5`
-- News risk score: `38.28`
-- Macro risk score: `25.33`
-- Risk-on score: `51.88`
-- Articles: `68`
+- Generated: `2026-07-21T13:52:25.920678+00:00`
+- Market context score: `60.18`
+- News risk score: `38.21`
+- Macro risk score: `24.41`
+- Risk-on score: `53.0`
+- Articles: `72`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6743`
-- Day/swing latest: `2026-07-21T13:30:00+00:00`
+- Day/swing records: `6744`
+- Day/swing latest: `2026-07-21T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `21`, risk hits `5`, risk headline rate `0.1429`, policy hits `1`
-- macro: articles `43`, risk hits `7`, risk headline rate `0.1628`, policy hits `5`
+- crypto: articles `23`, risk hits `5`, risk headline rate `0.1304`, policy hits `1`
+- macro: articles `45`, risk hits `7`, risk headline rate `0.1556`, policy hits `3`
 
 ## Headlines
 
-- [macro] Nasdaq Futures Rise as Tech Stocks Follow Asia's Lead (Yahoo Finance)
-- [macro] GE Vernova Stock Is Up 560% in 2 Years. Here's What Wall Street Price Targets Say Happens Next (Yahoo Finance)
-- [macro] Micron Technology, Sandisk, and Western Digital Are Down Big in the Past Month. Is Now the Time to Buy? (Yahoo Finance)
-- [crypto] Robinhood-backed DEX Arcus expands with tokenized assets, perps (Cointelegraph.com News)
-- [macro] Retiring This Year? You’ll Need $185,500 Just for Medical Bills. (Yahoo Finance)
-- [macro] 3M stock jumps on raised outlook as company's turnaround gains traction (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Ryanair broken window may have been caused by 'foreign object' (BBC News)
-- [macro] Danaher Plummets After One Segment Comes In 'Surprisingly Soft' (Yahoo Finance)
-- [commodity] U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire (Energy)
+- [macro] ADNOC approves $6.2bn Umm Shaif gas cap development (Yahoo Finance)
+- [macro] AI Power Demand Continues to Surge: 5 Highest Yielding Utility Stocks You Can Hold for Decades (Yahoo Finance)
+- [macro] Shopify downgraded, Five Below upgraded: Wall Street's top analyst calls (Yahoo Finance)
+- [crypto] MoneyGram's CEO says blockchain works best when customers don't know it's there (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Germany’s Intersnack to buy US peer Utz in $2.9bn deal (Yahoo Finance)
+- [macro] Planet Fitness (PLNT) Declined After Guidance Cut (Yahoo Finance)
+- [macro] A 70-year-old blew through one-third of his $3 million nest egg in 3 years — financial advisors say he needs to act now (Yahoo Finance)
+- [crypto] CoinShares debuts Bitcoin mining ETF in Europe entrance (Cointelegraph.com News)
+- [macro] TSMC Plans To Raise Prices, Says Report. Stock Jumps. (Yahoo Finance)
+- [macro] Below Expected Sales for AMDS Hurt Artivion (AORT) in Q2 (Yahoo Finance)
