@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T23:07:33.174968+00:00`
-- Market context score: `51.8`
-- News risk score: `40.5`
-- Macro risk score: `25.67`
-- Risk-on score: `36.78`
-- Articles: `60`
+- Generated: `2026-07-21T23:22:29.379400+00:00`
+- Market context score: `51.63`
+- News risk score: `40.63`
+- Macro risk score: `25.69`
+- Risk-on score: `36.54`
+- Articles: `59`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6780`
-- Day/swing latest: `2026-07-21T23:00:00+00:00`
+- Day/swing records: `6781`
+- Day/swing latest: `2026-07-21T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `30`, risk hits `10`, risk headline rate `0.2333`, policy hits `3`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.2414`, policy hits `3`
 - macro: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `0`
 
 ## Headlines
 
+- [macro] Will AI help you do your job or replace you? (BBC News)
 - [crypto] Crypto lobby group Digital Chamber sues Illinois to block digital asset tax (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CLARITY Act could help CFTC deal with prediction markets: Lawyer (Cointelegraph.com News)
 - [crypto] Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky sacks Ukraine's top army commander after days of protests (BBC News)
 - [crypto] Pakistan steps up crypto enforcement with dedicated federal unit (Cointelegraph.com News)
-- [crypto] Pavel Durov says Telegram to roll out native Gram crypto wallet (Cointelegraph.com News)
