@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-21T05:50:26.209005+00:00`
+- Generated: `2026-07-21T05:55:27.692696+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17640826.34`
+- Polymarket 24h volume: `17642140.94`
 - Polymarket volume z-score: `-0.9`
 
 ## Top Polymarket Markets
 
-- Will Trump be in the WC Champions Photo? | 24h volume: `4690926.495578992` | liquidity: `2931929.01414`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1800285.3156619999` | liquidity: `23554.7656`
-- Will Gretchen Whitmer win the 2028 US Presidential Election? | 24h volume: `1441335.6575550004` | liquidity: `228984.61089`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1045205.0828480005` | liquidity: `695353.18885`
-- Will the U.S. invade Iran before 2027? | 24h volume: `790054.3822289994` | liquidity: `816375.6846`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `770604.5430509985` | liquidity: `745827.05869`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `654719.4937799908` | liquidity: `622073.43801`
-- Will Gretchen Whitmer win the 2028 Democratic presidential nomination? | 24h volume: `653163.6587999999` | liquidity: `187389.01505`
+- Will Trump be in the WC Champions Photo? | 24h volume: `4691187.891296992` | liquidity: `2926564.30078`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `1800285.3156619999` | liquidity: `22028.31198`
+- Will Gretchen Whitmer win the 2028 US Presidential Election? | 24h volume: `1441335.6575550004` | liquidity: `229082.31089`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `1044675.4928480004` | liquidity: `695758.31629`
+- Will the U.S. invade Iran before 2027? | 24h volume: `790061.1322289994` | liquidity: `816617.1688`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `770450.8402459983` | liquidity: `740654.44626`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `653880.2219589908` | liquidity: `630193.22483`
+- Will Gretchen Whitmer win the 2028 Democratic presidential nomination? | 24h volume: `653163.6587999999` | liquidity: `187438.45505`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
