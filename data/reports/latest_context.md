@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T02:07:24.461402+00:00`
-- Market context score: `61.54`
-- News risk score: `31.48`
-- Macro risk score: `29.42`
-- Risk-on score: `52.23`
-- Articles: `46`
+- Generated: `2026-07-21T02:22:28.155876+00:00`
+- Market context score: `62.34`
+- News risk score: `30.54`
+- Macro risk score: `28.04`
+- Risk-on score: `52.7`
+- Articles: `45`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6698`
-- Day/swing latest: `2026-07-21T02:00:00+00:00`
+- Day/swing records: `6699`
+- Day/swing latest: `2026-07-21T02:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 - macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `1`
 
 ## Headlines
 
+- [macro] At least 27 dead and 83 missing after passenger ferry capsizes off Guyana (BBC News)
 - [macro] US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers (BBC News)
-- [macro] Scores feared dead after passenger ferry capsizes off Guyana (BBC News)
 - [crypto] London Stock Exchange eyes overnight trading launch in 2027: FT (Cointelegraph.com News)
 - [macro] Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks (BBC News)
 - [macro] Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks (BBC News)
