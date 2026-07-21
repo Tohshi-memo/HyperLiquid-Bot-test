@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T15:52:27.142907+00:00`
-- Market context score: `55.08`
-- News risk score: `41.25`
-- Macro risk score: `23.49`
-- Risk-on score: `43.88`
-- Articles: `77`
+- Generated: `2026-07-21T15:57:52.031601+00:00`
+- Market context score: `53.97`
+- News risk score: `40.78`
+- Macro risk score: `22.55`
+- Risk-on score: `40.67`
+- Articles: `76`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.2083`, policy hits `1`
-- macro: articles `49`, risk hits `8`, risk headline rate `0.1429`, policy hits `2`
+- macro: articles `48`, risk hits `7`, risk headline rate `0.125`, policy hits `2`
 
 ## Headlines
 
+- [macro] Israeli air strike in Gaza City kills family of six, medics say (BBC News)
+- [crypto] MEXC adds Bittensor TAO staking for its global user base (Cointelegraph.com News)
 - [macro] Lindt's Easter chocolate sales fall after price hike (BBC News)
 - [macro] Gold prices today, Tuesday, July 21, 2026: Gold hovers above $4,000 ahead of next week’s Fed meeting (Yahoo Finance)
+- [macro] Copper Price Rebound Lifts FCX; This Stock Is Actionable (Yahoo Finance)
 - [macro] 5 Compelling Stocks Worth Buying More Of Right Now (Including Broadcom) (Yahoo Finance)
+- [macro] Nebius soars as Nvidia stake signals deepening AI ties (Yahoo Finance)
 - [macro] Silver prices today, Tuesday, July 21, 2026: Silver ticks up near $60 in early trading (Yahoo Finance)
 - [macro] B&M fined £2m over serious food hygiene failings at Birmingham shops (BBC News)
 - [macro] SK Hynix’s HBM Empire Powers 65% US Revenue — Is This the Must-Own AI Stock? (Yahoo Finance)
-- [macro] Danaher Plummets After One Segment Comes In 'Surprisingly Soft' (Yahoo Finance)
-- [macro] AMC Stock After Record Earnings: Buy, Sell, or Hold? (Yahoo Finance)
-- [macro] 4 High-Yield ETFs to Buy When the VIX Spikes in 2026 (Yahoo Finance)
-- [macro] Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat (Yahoo Finance)
