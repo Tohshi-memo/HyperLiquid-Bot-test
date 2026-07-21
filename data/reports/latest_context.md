@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T12:52:27.710112+00:00`
-- Market context score: `58.94`
-- News risk score: `37.65`
-- Macro risk score: `26.47`
-- Risk-on score: `50.55`
+- Generated: `2026-07-21T13:07:25.280716+00:00`
+- Market context score: `59.33`
+- News risk score: `36.93`
+- Macro risk score: `25.04`
+- Risk-on score: `50.26`
 - Articles: `62`
 - Polymarket markets: `395`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6740`
-- Day/swing latest: `2026-07-21T12:45:00+00:00`
+- Day/swing records: `6741`
+- Day/swing latest: `2026-07-21T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `20`, risk hits `5`, risk headline rate `0.15`, policy hits `0`
-- macro: articles `38`, risk hits `8`, risk headline rate `0.1842`, policy hits `5`
+- macro: articles `38`, risk hits `6`, risk headline rate `0.1579`, policy hits `5`
 
 ## Headlines
 
+- [commodity] U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire (Energy)
+- [macro] 5 Words From Netflix's Co-CEO Ted Sarandos That Suggest an Acquisition May Not Necessarily Be on the Horizon for the Streaming Giant (Yahoo Finance)
+- [macro] Dozens hurt in Bologna protests after man dies while being restrained by police (BBC News)
+- [macro] Advanced Micro Devices vs. Intel: What the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors (Yahoo Finance)
+- [macro] American Resources' ReElement unit expands workforce ahead of Indiana commissioning (Yahoo Finance)
 - [crypto] Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK borrows less than expected in June but public finances remain a challenge (BBC News)
-- [macro] 1 Oil Stock Yielding Over 8% That Wall Street Is Ignoring (Yahoo Finance)
-- [macro] 3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul (Yahoo Finance)
+- [macro] Forget Picking the Next AI Winner: TSM Lets You Profit From Every Wave of the Revolution (Yahoo Finance)
 - [macro] Row escalates in Ukraine over army chief's future (BBC News)
-- [macro] Analyzing the Financial Benefits of In-House Beverage Programs (Yahoo Finance)
-- [macro] Tempus AI acquires cancer-monitoring firm Personalis for $1.5 billion (Yahoo Finance)
 - [crypto] Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg (Cointelegraph.com News)
-- [macro] Stock Market Today: Dow Rises As GM Surges On Earnings Report; Marvell, Micron, Sandisk Rally (Live Coverage) (Yahoo Finance)
-- [macro] Stock Market Today: Sandisk, Micron, AMD Jump As AI Rebounds; GM, 3M Lead Earnings Movers (Yahoo Finance)
