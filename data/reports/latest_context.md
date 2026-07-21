@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-21T14:22:29.315817+00:00`
-- Market context score: `57.18`
-- News risk score: `38.62`
-- Macro risk score: `25.29`
-- Risk-on score: `47.01`
-- Articles: `72`
+- Generated: `2026-07-21T14:37:35.926675+00:00`
+- Market context score: `56.94`
+- News risk score: `39.51`
+- Macro risk score: `23.81`
+- Risk-on score: `46.66`
+- Articles: `74`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6746`
-- Day/swing latest: `2026-07-21T14:15:00+00:00`
+- Day/swing records: `6747`
+- Day/swing latest: `2026-07-21T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `23`, risk hits `5`, risk headline rate `0.1304`, policy hits `1`
-- macro: articles `45`, risk hits `10`, risk headline rate `0.1778`, policy hits `2`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `46`, risk hits `8`, risk headline rate `0.1522`, policy hits `2`
 
 ## Headlines
 
-- [macro] The top five AI trends reshaping banking in 2026 (Yahoo Finance)
-- [commodity] Ships shun Strait of Hormuz as renewed fighting strains key oil corridor (Energy)
-- [macro] Should You Be Bullish on Forte Biosciences (FBRX) (Yahoo Finance)
-- [macro] Oracle stock has crashed 50% since June (Yahoo Finance)
-- [macro] Bitdeer’s June bitcoin production rises 388% as Malaysia AI cloud capacity expands (Yahoo Finance)
-- [macro] Yanara secures $171m for Australian renewable energy portfolio (Yahoo Finance)
-- [macro] Why Google’s New AI Chip Is the Key to Unlocking Its Massive $462 Billion Backlog (Yahoo Finance)
-- [macro] Forward Air secures deal to keep at least 50% of $250M account (Yahoo Finance)
-- [macro] Cardinal Infrastructure Group (CDNL) Rallied as Results Align with Guidance (Yahoo Finance)
-- [macro] The bulls are circling Meta again, but investors should keep one thing in mind (Yahoo Finance)
+- [macro] As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected (Market Insider)
+- [crypto] Augustus raises $180 million to build a clearing bank for the AI and stablecoin era (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] VAT to be cut from household electricity bills in October (BBC News)
+- [macro] Intuitive Surgical (ISRG) Slid Despite Strong Fundamentals (Yahoo Finance)
+- [macro] Germany’s Intersnack to buy US peer Utz in $2.9bn deal (Yahoo Finance)
+- [macro] These Dividend Aristocrats Yield Enough to Let Your Passive Income Do the Heavy Lifting (Yahoo Finance)
+- [macro] OpenAI Is on Pace to Miss Its Own Ad Revenue Forecast by 90%. Here’s What It Means For The AI Trade (Yahoo Finance)
+- [macro] SanDisk Rises 8%, Western Digital Jumps 9%, Micron Adds 7% as Memory Rebound Accelerates (Yahoo Finance)
+- [macro] Novartis Is On The Rise. But So, Too, Are Its Generic Rivals. (Yahoo Finance)
+- [macro] One-third of investors have more credit card debt than retirement savings: Survey (Yahoo Finance)
