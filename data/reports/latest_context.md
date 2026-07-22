@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T15:22:35.749354+00:00`
-- Market context score: `45.9`
-- News risk score: `47.89`
-- Macro risk score: `27.91`
-- Risk-on score: `30.77`
-- Articles: `82`
-- Polymarket markets: `394`
+- Generated: `2026-07-22T15:37:34.573419+00:00`
+- Market context score: `45.25`
+- News risk score: `47.19`
+- Macro risk score: `27.6`
+- Risk-on score: `28.61`
+- Articles: `83`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6842`
-- Day/swing latest: `2026-07-22T15:15:00+00:00`
+- Day/swing records: `6843`
+- Day/swing latest: `2026-07-22T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `2`
-- macro: articles `53`, risk hits `11`, risk headline rate `0.2075`, policy hits `2`
+- crypto: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `2`
+- macro: articles `53`, risk hits `11`, risk headline rate `0.2075`, policy hits `1`
 
 ## Headlines
 
+- [crypto] UK digital bond plans hinge on one missing piece: onchain cash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief? (BBC News)
+- [macro] Dollar dips after four-day streak of gains, yen holds near 40-year low (Yahoo Finance)
+- [macro] Larry Ellison Loses $66 Billion (Yahoo Finance)
+- [macro] AMD Just Landed a $5 Billion AI Coup — Is Nvidia’s Grip Finally Starting to Slip? (Yahoo Finance)
+- [macro] European Leveraged Finance Survey: Macro anxiety outweighs credit risk (Yahoo Finance)
+- [macro] Samsung Biologics: geographic diversification is a sound business decision (Yahoo Finance)
 - [crypto] Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] How to Use Crypto ETFs as Part of a Diversified Portfolio (Yahoo Finance)
-- [macro] Oracle Shares Are Crashing. Here’s Why I’ll Start Buying. (Yahoo Finance)
-- [macro] Why Did Super Micro Computer Stock Soar Today? (Yahoo Finance)
-- [commodity] Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says (Energy)
-- [macro] Modelling scout linked to Epstein found dead in Paris (BBC News)
-- [macro] Google Earnings Due. Cloud Growth Could Shake Up Big Tech, AI Trade (Yahoo Finance)
-- [macro] Ukrainian drones hit Russian online giant retailer Wildberries for second time (BBC News)
-- [macro] FTAI Aviation Jumps On $1.5 Billion Deal For New Power Unit (Yahoo Finance)
-- [macro] US to announce deal allowing Saudi Arabia a nuclear programme (BBC News)
+- [macro] IREN Limited (IREN) Lands $2.8 Billion in AI Contracts. Is This the Catalyst Its Stock Needed? (Yahoo Finance)
+- [macro] What Makes KLA Corporation (KLAC) an Attractive Bet? (Yahoo Finance)
