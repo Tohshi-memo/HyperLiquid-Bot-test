@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T07:26:26.144156+00:00`
-- Market context score: `41.52`
-- News risk score: `49.22`
-- Macro risk score: `36.78`
-- Risk-on score: `25.5`
-- Articles: `32`
+- Generated: `2026-07-22T07:37:30.736867+00:00`
+- Market context score: `43.75`
+- News risk score: `47.18`
+- Macro risk score: `32.56`
+- Risk-on score: `27.14`
+- Articles: `34`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6811`
-- Day/swing latest: `2026-07-22T07:15:00+00:00`
+- Day/swing records: `6812`
+- Day/swing latest: `2026-07-22T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `12`, risk hits `7`, risk headline rate `0.4167`, policy hits `0`
-- macro: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `1`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
 
 ## Headlines
 
-- [macro] Lower fuel, chocolate and beef prices help push inflation down (BBC News)
+- [macro] Food prices rise at slowest rate in nearly two years (BBC News)
 - [macro] More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say (BBC News)
 - [macro] Japan temperatures soar over 40C, marking first 'cruelly hot day' (BBC News)
 - [macro] Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push (Economy)
