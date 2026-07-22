@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T22:52:25.673586+00:00`
-- Market context score: `41.35`
-- News risk score: `47.48`
-- Macro risk score: `29.73`
-- Risk-on score: `21.0`
-- Articles: `66`
+- Generated: `2026-07-22T23:07:30.901023+00:00`
+- Market context score: `41.28`
+- News risk score: `47.19`
+- Macro risk score: `30.91`
+- Risk-on score: `21.04`
+- Articles: `65`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6872`
-- Day/swing latest: `2026-07-22T22:45:00+00:00`
+- Day/swing records: `6873`
+- Day/swing latest: `2026-07-22T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `3`
-- macro: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `2`
+- crypto: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `3`
+- macro: articles `32`, risk hits `8`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [macro] Watch: What we know about the US-Saudi nuclear deal (BBC News)
 - [commodity] Here's how Jim Cramer says to approach the earnings season's 'ball of confusion' (Energy)
 - [crypto] Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] U.S. signs nuclear power agreement with Saudi Arabia (Energy)
 - [commodity] Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb (Energy)
 - [macro] US signs landmark nuclear deal with Saudi Arabia (BBC News)
-- [crypto] S&P launches blockchain fundamentals index for digital assets (Cointelegraph.com News)
