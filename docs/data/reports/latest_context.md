@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T14:37:32.524598+00:00`
-- Market context score: `45.18`
-- News risk score: `51.4`
-- Macro risk score: `29.28`
-- Risk-on score: `32.63`
+- Generated: `2026-07-22T14:52:25.741238+00:00`
+- Market context score: `45.69`
+- News risk score: `49.63`
+- Macro risk score: `27.91`
+- Risk-on score: `31.76`
 - Articles: `82`
 - Polymarket markets: `394`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6839`
-- Day/swing latest: `2026-07-22T14:30:00+00:00`
+- Day/swing records: `6840`
+- Day/swing latest: `2026-07-22T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `11`, risk headline rate `0.3704`, policy hits `2`
-- macro: articles `52`, risk hits `13`, risk headline rate `0.2308`, policy hits `3`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `2`
+- macro: articles `53`, risk hits `12`, risk headline rate `0.2075`, policy hits `3`
 
 ## Headlines
 
-- [macro] Sompo agrees to acquire Fator Seguradora in Brazil (Yahoo Finance)
+- [macro] US to announce deal allowing Saudi Arabia a nuclear programme (BBC News)
+- [macro] Iberdrola to buy majority stake in Finnish power distributor Caruna (Yahoo Finance)
+- [macro] Tech's AI debt boom, in one chart (Yahoo Finance)
+- [macro] SK Hynix Pares 4% Drop After Denying Talks to Buy Intel’s Ohio Fab as Market Shrugs Off Iran Jitters (Yahoo Finance)
+- [macro] Should You Add KKR & Co.’s (KKR) to Your Portfolio? (Yahoo Finance)
+- [macro] Prediction: This Stock Could Become a Leader in Advanced Nuclear Energy (Yahoo Finance)
+- [macro] What Makes Thermo Fisher Scientific (TMO) an Attractive Long-Term Bet? (Yahoo Finance)
+- [macro] Wall St mixed as caution builds ahead of Big Tech earnings (Yahoo Finance)
+- [macro] Here are the Compelling Reasons to Own Visa (V) (Yahoo Finance)
 - [macro] Why Supermicro Stock Is Surging Even as Revenue Falls Short (Yahoo Finance)
-- [macro] Student loan defaults hit record high. Borrowers need to act ASAP. (Yahoo Finance)
-- [macro] GE Vernova Earnings Miss. The AI Energy Stock Is Plunging. (Yahoo Finance)
-- [macro] Here’s What Propelled AmpliTech Group (AMPG) Higher (Yahoo Finance)
-- [macro] This One Factor Keeps Me Buying Marvell Technology Now (Yahoo Finance)
-- [macro] British woman jailed for blackmail after accusing banker of rape in Hong Kong (BBC News)
-- [macro] FRC publishes ARAQ 2026, reports audit quality improving but uneven (Yahoo Finance)
-- [macro] What Fuels Credo Technology Group Holding Ltd’s (CRDO) Exceptional Return in Q2? (Yahoo Finance)
-- [commodity] Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says (Energy)
