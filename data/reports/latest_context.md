@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T12:07:32.514923+00:00`
-- Market context score: `41.29`
-- News risk score: `55.22`
-- Macro risk score: `30.97`
-- Risk-on score: `27.85`
-- Articles: `75`
+- Generated: `2026-07-22T12:22:24.759180+00:00`
+- Market context score: `39.16`
+- News risk score: `54.57`
+- Macro risk score: `31.45`
+- Risk-on score: `22.77`
+- Articles: `76`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6829`
-- Day/swing latest: `2026-07-22T12:00:00+00:00`
+- Day/swing records: `6830`
+- Day/swing latest: `2026-07-22T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `23`, risk hits `11`, risk headline rate `0.4348`, policy hits `2`
-- macro: articles `50`, risk hits `16`, risk headline rate `0.26`, policy hits `4`
+- crypto: articles `24`, risk hits `11`, risk headline rate `0.4167`, policy hits `2`
+- macro: articles `50`, risk hits `17`, risk headline rate `0.28`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow (Cointelegraph.com News)
-- [commodity] Brent oil price hovers near $95 as Rubio says U.S. will 'continue to protect shipping' in Hormuz (Energy)
-- [macro] Moneta enters UK market through Thomson Tyndall partnership (Yahoo Finance)
-- [macro] 3 Dividend Stocks That Could Turn $5,000 Apiece Into $1 Million by 2066 (Yahoo Finance)
-- [crypto] Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys (Cointelegraph.com News)
-- [crypto] Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Modelling scout linked to Epstein found dead in Paris suburbs (BBC News)
 - [macro] Dow Jones Futures Fall As Oil Prices Jump; Two Big AI Earnings Movers With Google, Tesla Earnings Due (Yahoo Finance)
-- [macro] George Foreman got $5M/month from his popular grill — $240M total. Here’s his tactic for max riches (you can mimic it) (Yahoo Finance)
-- [macro] What does an Andy Burnham-led government mean for your money? (BBC News)
-- [macro] Most bus fares in England to be capped at £2 from January (BBC News)
+- [macro] GM Korea’s unionised workers continue partial strikes (Yahoo Finance)
+- [macro] Playing up the irony (small gig, real cost):  “He Took a $20,000 Consulting Gig at 70. It Cost Him $1,148 in Medicare Premiums He Never Saw Coming. (Yahoo Finance)
+- [macro] Why This $16 Energy Stock Could Be Worth $250 by 2040 (Yahoo Finance)
+- [macro] Repligen to buy BioLife in $1.5 billion deal to expand cell therapy business (Yahoo Finance)
+- [macro] Here Are Wednesday’s Top Wall Street Analyst Research Calls: Altria, Circle Internet, Coreweave, Digital Ocean, IBM, Keel Infrastructure, Nebius Group, Trimble, Vornado Realty, and More (Yahoo Finance)
+- [macro] Super Micro Soars Late On Booming Margins, Orders; Dell, HP Enterprise Also Rally (Yahoo Finance)
+- [macro] Google Earnings Due. Cloud Growth Could Frame AI Debate For Big Tech. (Yahoo Finance)
