@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T21:33:04.627460+00:00`
+- Generated: `2026-07-22T21:37:27.524634+00:00`
 - Market context score: `41.03`
 - News risk score: `49.45`
 - Macro risk score: `30.61`
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb (Energy)
+- [commodity] U.S. signs nuclear power agreement with Saudi Arabia (Energy)
 - [macro] US signs landmark nuclear deal with Saudi Arabia (BBC News)
 - [crypto] S&P launches blockchain fundamentals index for digital assets (Cointelegraph.com News)
-- [commodity] U.S. signs nuclear power agreement with Saudi Arabia (Energy)
 - [macro] Fire kills 10 members of same family in Peru, police say (BBC News)
 - [crypto] Tesla holds bitcoin treasury steady, reports $112M impairment loss (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto PAC pours $1M into Michigan Democratic primary race (Cointelegraph.com News)
-- [commodity] Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Police formally investigate woman after Brit stabbed to death in French village (BBC News)
 - [macro] Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist (BBC News)
