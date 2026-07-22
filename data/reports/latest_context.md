@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T11:07:30.851453+00:00`
-- Market context score: `48.14`
-- News risk score: `44.05`
-- Macro risk score: `28.29`
-- Risk-on score: `32.64`
-- Articles: `55`
+- Generated: `2026-07-22T11:22:26.129356+00:00`
+- Market context score: `44.74`
+- News risk score: `50.43`
+- Macro risk score: `32.29`
+- Risk-on score: `31.99`
+- Articles: `65`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6826`
-- Day/swing latest: `2026-07-22T11:00:00+00:00`
+- Day/swing records: `6827`
+- Day/swing latest: `2026-07-22T11:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `0`
-- macro: articles `37`, risk hits `9`, risk headline rate `0.2162`, policy hits `3`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
+- crypto: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `0`
+- macro: articles `46`, risk hits `17`, risk headline rate `0.2826`, policy hits `5`
 
 ## Headlines
 
+- [commodity] Oil prices jump 4% as Rubio says U.S. will 'continue to protect shipping' after strikes on Iran (Energy)
+- [crypto] SecondFi to shut down after $2.4 million ADA wallet theft (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Fluor selected for FEED of GPIC’s aromatics project in Bahrain (Yahoo Finance)
+- [macro] PDEXCIL, AWARE to aid Indian powerloom sector with EU traceability rules (Yahoo Finance)
+- [macro] BlackRock draws Wall Street's attention with eye-catching move (Yahoo Finance)
+- [macro] Equinor ASA Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Most bus fares in England to be capped at £2 from January (BBC News)
+- [macro] Wickes reports 2.3% revenue growth as retail returns to growth (Yahoo Finance)
 - [crypto] Talos brings institutional trading tools to Kalshi prediction markets (Cointelegraph.com News)
-- [macro] Best student loan refinance companies of 2026 (Yahoo Finance)
-- [macro] PKF O’Connor Davies appoints new partner in SALT practice (Yahoo Finance)
-- [crypto] South Korea crypto volumes shrink as retail investors shift to stocks (Cointelegraph.com News)
-- [macro] TGS and Ghana Petroleum Commission sign Keta Basin seismic deal (Yahoo Finance)
-- [macro] A 61-Year-Old Who Just Inherited an $850,000 IRA and Is About to Hand the IRS $210,000 (Yahoo Finance)
-- [macro] US SEC settles FOIA lawsuit with Coinbase over lost messages, WSJ op-ed says (Yahoo Finance)
-- [macro] Modelling scout linked to Epstein found dead in Paris suburbs (BBC News)
-- [macro] AT&T tops targets for wireless subscriber additions as bundle offers gain traction (Yahoo Finance)
+- [macro] Stronger market helped Triumph in 2Q, Graft stresses other factors (Yahoo Finance)
