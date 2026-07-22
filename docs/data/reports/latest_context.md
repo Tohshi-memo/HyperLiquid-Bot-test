@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T19:37:28.951457+00:00`
-- Market context score: `42.76`
-- News risk score: `49.04`
-- Macro risk score: `30.75`
-- Risk-on score: `25.84`
-- Articles: `68`
+- Generated: `2026-07-22T19:52:30.310490+00:00`
+- Market context score: `42.58`
+- News risk score: `49.07`
+- Macro risk score: `31.3`
+- Risk-on score: `25.66`
+- Articles: `67`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6859`
-- Day/swing latest: `2026-07-22T19:30:00+00:00`
+- Day/swing records: `6860`
+- Day/swing latest: `2026-07-22T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `34`, risk hits `13`, risk headline rate `0.3235`, policy hits `2`
-- macro: articles `30`, risk hits `7`, risk headline rate `0.2333`, policy hits `2`
+- macro: articles `29`, risk hits `7`, risk headline rate `0.2414`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Police formally investigate woman after Brit stabbed to death in French village (BBC News)
-- [commodity] Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb (Energy)
 - [macro] Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist (BBC News)
 - [commodity] Oil prices rise after Rubio says Iran is not serious about a deal (Energy)
 - [commodity] Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says (Energy)
