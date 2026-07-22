@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T03:52:26.838905+00:00`
-- Market context score: `45.89`
-- News risk score: `42.87`
-- Macro risk score: `29.98`
-- Risk-on score: `27.28`
-- Articles: `38`
+- Generated: `2026-07-22T04:07:29.179638+00:00`
+- Market context score: `42.39`
+- News risk score: `46.0`
+- Macro risk score: `34.57`
+- Risk-on score: `23.89`
+- Articles: `36`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:771`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6797`
-- Day/swing latest: `2026-07-22T03:45:00+00:00`
+- Day/swing records: `6798`
+- Day/swing latest: `2026-07-22T04:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `20`, risk hits `10`, risk headline rate `0.35`, policy hits `2`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `0`
+- crypto: articles `19`, risk hits `10`, risk headline rate `0.3684`, policy hits `2`
+- macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `0`
 
 ## Headlines
 
+- [macro] France passes law banning under-15s from social media (BBC News)
 - [crypto] Balance Coin crashes 99% after reported $915K exploit (Cointelegraph.com News)
 - [crypto] OpenAI says AI models escaped containment to hack Hugging Face (Cointelegraph.com News)
 - [macro] Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production (Economy)
@@ -36,4 +37,3 @@
 - [macro] Boost youth jobs by cutting employers' national insurance, MPs urge (BBC News)
 - [macro] Will AI help you do your job or replace you? (BBC News)
 - [crypto] Crypto lobby group Digital Chamber sues Illinois to block digital asset tax (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] CLARITY Act could help CFTC deal with prediction markets: Lawyer (Cointelegraph.com News)
