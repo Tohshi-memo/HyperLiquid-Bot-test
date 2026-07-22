@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T14:52:25.741238+00:00`
-- Market context score: `45.69`
-- News risk score: `49.63`
-- Macro risk score: `27.91`
-- Risk-on score: `31.76`
+- Generated: `2026-07-22T15:07:27.750267+00:00`
+- Market context score: `43.05`
+- News risk score: `50.16`
+- Macro risk score: `28.99`
+- Risk-on score: `26.76`
 - Articles: `82`
 - Polymarket markets: `394`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6840`
-- Day/swing latest: `2026-07-22T14:45:00+00:00`
+- Day/swing records: `6841`
+- Day/swing latest: `2026-07-22T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `2`
-- macro: articles `53`, risk hits `12`, risk headline rate `0.2075`, policy hits `3`
+- macro: articles `53`, risk hits `12`, risk headline rate `0.2264`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says (Energy)
+- [macro] Modelling scout linked to Epstein found dead in Paris (BBC News)
+- [macro] Ukrainian drones hit Russian online giant retailer Wildberries for second time (BBC News)
 - [macro] US to announce deal allowing Saudi Arabia a nuclear programme (BBC News)
-- [macro] Iberdrola to buy majority stake in Finnish power distributor Caruna (Yahoo Finance)
-- [macro] Tech's AI debt boom, in one chart (Yahoo Finance)
-- [macro] SK Hynix Pares 4% Drop After Denying Talks to Buy Intel’s Ohio Fab as Market Shrugs Off Iran Jitters (Yahoo Finance)
-- [macro] Should You Add KKR & Co.’s (KKR) to Your Portfolio? (Yahoo Finance)
-- [macro] Prediction: This Stock Could Become a Leader in Advanced Nuclear Energy (Yahoo Finance)
-- [macro] What Makes Thermo Fisher Scientific (TMO) an Attractive Long-Term Bet? (Yahoo Finance)
-- [macro] Wall St mixed as caution builds ahead of Big Tech earnings (Yahoo Finance)
-- [macro] Here are the Compelling Reasons to Own Visa (V) (Yahoo Finance)
-- [macro] Why Supermicro Stock Is Surging Even as Revenue Falls Short (Yahoo Finance)
+- [macro] The Winners And Losers During Oil's Worst Traffic Jam In Years (Yahoo Finance)
+- [macro] Tidewater (TDW) Slid Amid the U.S.–Iran ceasefire in June (Yahoo Finance)
+- [macro] BMO Capital Markets leads M&A financial advice in mining for H1 2026 (Yahoo Finance)
+- [macro] How many employees does Walmart have? Its workforce & layoffs explained (Yahoo Finance)
+- [macro] AT&T Earnings Beat. CEO Stankey: Starlink Deal Not Needed At All (Yahoo Finance)
+- [macro] Talen Energy (TLN) Gains from Current Electrification Trends (Yahoo Finance)
