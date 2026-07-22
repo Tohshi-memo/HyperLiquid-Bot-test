@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-22T23:15:25.863529+00:00`
+- Generated: `2026-07-22T23:20:24.329045+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17944420.52`
-- Polymarket volume z-score: `-0.77`
+- Polymarket 24h volume: `18009580.26`
+- Polymarket volume z-score: `-0.76`
 
 ## Top Polymarket Markets
 
-- Will Trump be in the WC Champions Photo? | 24h volume: `6903628.3704780005` | liquidity: `10368686.48112`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `2205272.9140000003` | liquidity: `27536.15675`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1241359.7757090004` | liquidity: `587720.89079`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1181966.3818700123` | liquidity: `299099.41888`
-- Will Vivek Ramaswamy win the 2028 US Presidential Election? | 24h volume: `555729.721494` | liquidity: `1441986.71987`
-- Israel x Iran ceasefire continues through July 22? | 24h volume: `469056.6320000002` | liquidity: `121029.58125`
-- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `457243.83999999997` | liquidity: `2244994.59718`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `455958.47824200103` | liquidity: `321218.43875`
+- Will Trump be in the WC Champions Photo? | 24h volume: `6915067.532817001` | liquidity: `10362284.3275`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `2205272.9140000003` | liquidity: `25553.92767`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1241476.7757090004` | liquidity: `583814.33561`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `1185579.4815780122` | liquidity: `283293.27786`
+- Will Vivek Ramaswamy win the 2028 US Presidential Election? | 24h volume: `555730.781494` | liquidity: `1441985.66411`
+- Israel x Iran ceasefire continues through July 22? | 24h volume: `469787.60200000025` | liquidity: `121422.83498`
+- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `457253.83999999997` | liquidity: `2242737.08451`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `455175.75586200104` | liquidity: `310389.85084`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
