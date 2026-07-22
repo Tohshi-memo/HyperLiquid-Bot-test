@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T10:07:29.241598+00:00`
-- Market context score: `46.94`
-- News risk score: `42.63`
-- Macro risk score: `31.12`
-- Risk-on score: `29.85`
-- Articles: `38`
+- Generated: `2026-07-22T10:22:30.040284+00:00`
+- Market context score: `43.81`
+- News risk score: `48.03`
+- Macro risk score: `32.95`
+- Risk-on score: `28.13`
+- Articles: `52`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6822`
-- Day/swing latest: `2026-07-22T10:00:00+00:00`
+- Day/swing records: `6823`
+- Day/swing latest: `2026-07-22T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
+- macro: articles `39`, risk hits `12`, risk headline rate `0.2821`, policy hits `6`
 
 ## Headlines
 
-- [macro] Ukrainian drones hit more sites of Russian online retailer Wildberries (BBC News)
-- [crypto] SecondFi to wind down after $2.6M ADA theft linked to wallet flaw (Cointelegraph.com News)
-- [crypto] Galaxy pledges $5M for developers quantum-proofing Bitcoin (Cointelegraph.com News)
-- [commodity] Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks (Energy)
-- [crypto] Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Most bus fares in England to be capped at £2 from January (BBC News)
-- [macro] Police station opens at Hitler's birthplace in bid to rid site of Nazi link (BBC News)
-- [crypto] Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] India's Modi government under growing pressure as 'cockroach' protests intensify (BBC News)
-- [crypto] Bitcoin ETFs extend inflow streak to 6 days with $203M added (Cointelegraph.com News)
+- [macro] Why are thousands protesting for education reform in India? (BBC News)
+- [macro] US renews strikes on Iran as Trump threatens to attack underground nuclear site (BBC News)
+- [macro] Food prices have fallen – but inflation expected to rise from here (BBC News)
+- [macro] You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip? (Yahoo Finance)
+- [macro] Analysis-Meta employees' lawsuit shows that if AI fires you, proving it is the hard part (Yahoo Finance)
+- [macro] Mulberry Narrows Losses, Lifts Margins in Fiscal 2026 as Turnaround Strategy Starts to Pay Off (Yahoo Finance)
+- [macro] Uranium Holds at $85 as AI Data Centers Go Nuclear (Yahoo Finance)
+- [macro] The Smartest Way to Invest $5,000 in a Trillion-Dollar Stock Over Private Space Plays (Yahoo Finance)
+- [macro] Oil climbs over 4% to near six-week high as conflict threatens key oil transit routes (Yahoo Finance)
+- [macro] They Retired to a Rural Town on a Fixed Social Security Income. Then Their County Became a Pharmacy Desert. (Yahoo Finance)
