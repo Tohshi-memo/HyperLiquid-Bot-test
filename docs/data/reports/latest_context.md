@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T07:22:31.971560+00:00`
-- Market context score: `40.86`
-- News risk score: `49.87`
-- Macro risk score: `38.07`
-- Risk-on score: `25.08`
-- Articles: `31`
+- Generated: `2026-07-22T07:26:26.144156+00:00`
+- Market context score: `41.52`
+- News risk score: `49.22`
+- Macro risk score: `36.78`
+- Risk-on score: `25.5`
+- Articles: `32`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -24,12 +24,13 @@
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `12`, risk hits `7`, risk headline rate `0.4167`, policy hits `0`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `1`
+- macro: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `1`
 
 ## Headlines
 
 - [macro] Lower fuel, chocolate and beef prices help push inflation down (BBC News)
 - [macro] More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say (BBC News)
+- [macro] Japan temperatures soar over 40C, marking first 'cruelly hot day' (BBC News)
 - [macro] Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push (Economy)
 - [macro] Most bus fares in England to be capped at £2 from January (BBC News)
 - [crypto] AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Zelensky sacks Ukraine's top army commander after days of protests (BBC News)
 - [macro] Rebel Wilson cleared in defamation case brought by actress in her own film (BBC News)
 - [macro] Meet the women breaking world records in lumberjack sports (BBC News)
-- [crypto] Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
