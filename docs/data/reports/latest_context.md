@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T06:22:30.374995+00:00`
+- Generated: `2026-07-22T06:37:26.080489+00:00`
 - Market context score: `42.51`
 - News risk score: `47.94`
 - Macro risk score: `36.95`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6807`
-- Day/swing latest: `2026-07-22T06:15:00+00:00`
+- Day/swing records: `6808`
+- Day/swing latest: `2026-07-22T06:30:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,8 @@
 ## Headlines
 
 - [macro] Lower fuel prices help drive inflation down to 2.6% (BBC News)
-- [macro] Most bust fares in England to be capped at £2 from January (BBC News)
+- [macro] Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push (Economy)
+- [macro] Most bus fares in England to be capped at £2 from January (BBC News)
 - [crypto] AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Zelensky sacks Ukraine's top army commander after days of protests (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Meet the women breaking world records in lumberjack sports (BBC News)
 - [crypto] Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] India steps up energy shift as costs and tariff pressures mount — oil blending push sparks backlash (Energy)
-- [macro] France passes law banning under-15s from social media (BBC News)
