@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-22T14:19:04.263357+00:00`
-- Market context score: `46.39`
-- News risk score: `49.76`
-- Macro risk score: `26.01`
-- Risk-on score: `32.71`
-- Articles: `82`
+- Generated: `2026-07-22T14:22:33.769621+00:00`
+- Market context score: `43.34`
+- News risk score: `51.78`
+- Macro risk score: `30.05`
+- Risk-on score: `29.17`
+- Articles: `83`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `11`, risk headline rate `0.3704`, policy hits `2`
-- macro: articles `52`, risk hits `10`, risk headline rate `0.1731`, policy hits `3`
+- macro: articles `53`, risk hits `14`, risk headline rate `0.2453`, policy hits `3`
 
 ## Headlines
 
+- [macro] FRC publishes ARAQ 2026, reports audit quality improving but uneven (Yahoo Finance)
+- [macro] What Fuels Credo Technology Group Holding Ltd’s (CRDO) Exceptional Return in Q2? (Yahoo Finance)
+- [macro] From $91B to $2.3B: The Catastrophic Collapse of America’s EV Industry (Yahoo Finance)
 - [commodity] Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says (Energy)
+- [macro] TrustCo Bank Corp NY Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Bank OZK Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally (Yahoo Finance)
+- [macro] Rising oil prices weigh on US stocks ahead of Big Tech results (Yahoo Finance)
 - [commodity] Oil prices rise after Rubio says Iran is not serious about a deal (Energy)
-- [macro] Nike to limit China wholesale sales online from January – report (Yahoo Finance)
-- [macro] Africa bucks trend of falling global beer output (Yahoo Finance)
 - [macro] Multiple Catalysts Spur Upslope Capital Management’s Latest Buy: Magnum Ice Cream (MICC) (Yahoo Finance)
-- [macro] Sihl debuts aqueous inkjet-coated PE films for label converters (Yahoo Finance)
-- [macro] Ex-Southern Water boss among four charged over alleged plan to manipulate water tests (BBC News)
-- [macro] AI Worries Weighed on Jack Henry (JKHY) in Q2 (Yahoo Finance)
-- [macro] AI Is Eating Big Tech’s Free Cash Flow: Why Microsoft and Oracle Face Different Risks (Yahoo Finance)
-- [macro] Oil climbs more than 2% to multi-week high as conflict threatens oil transit routes (Yahoo Finance)
