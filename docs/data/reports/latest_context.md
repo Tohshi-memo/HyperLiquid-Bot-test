@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T16:07:33.672271+00:00`
-- Market context score: `51.1`
-- News risk score: `45.03`
-- Macro risk score: `27.29`
-- Risk-on score: `39.68`
-- Articles: `92`
+- Generated: `2026-07-23T16:12:09.814093+00:00`
+- Market context score: `48.86`
+- News risk score: `46.6`
+- Macro risk score: `29.72`
+- Risk-on score: `36.93`
+- Articles: `91`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `36`, risk hits `10`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `52`, risk hits `12`, risk headline rate `0.2308`, policy hits `4`
+- crypto: articles `35`, risk hits `10`, risk headline rate `0.2571`, policy hits `3`
+- macro: articles `52`, risk hits `15`, risk headline rate `0.2692`, policy hits `6`
 
 ## Headlines
 
 - [commodity] Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment (Energy)
 - [macro] Yemen's Houthis attack Saudi tanker as US launches more Iran strikes (BBC News)
+- [macro] Mortgage rates hit highest level since August as oil's rise sparks inflation worries (Yahoo Finance)
+- [macro] T-Mobile Earnings Beat, Revenue Light. CEO Shoots Down Expanded Starlink Deal. (Yahoo Finance)
+- [macro] Cash Squeeze at Tesla and Alphabet: Same Issue But Not The Same at All (Yahoo Finance)
 - [macro] Nicaragua's legislature debates barring opposition from elections (BBC News)
+- [macro] The Set It and Forget It Monthly Dividend Stocks Retirees Wish They’d Bought 20 Years Ago (Yahoo Finance)
+- [macro] I Can’t Stop Buying Microsoft Because It’s Turning This AI Bottleneck Into a Moat (Yahoo Finance)
+- [macro] What Surging Bond Yields Mean for Consumers and Markets (Yahoo Finance)
 - [commodity] Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia (Energy)
-- [macro] “It Ain’t That Bad That I Got to Pay Somebody to Come Here.” Why a Man Who Runs 65 Owner-Operators Says Sign-On Bonuses Repel the Drivers You Actually Want. (Yahoo Finance)
-- [macro] Tesla Stock Plunges 14% as Weak Earnings Override AI Hype (Yahoo Finance)
-- [macro] Burnham says 20% business rates cut for English pubs 'a first step' (BBC News)
-- [macro] Top exec at $1.7 trillion Wall Street giant makes bold crypto call (Yahoo Finance)
-- [macro] Alphabet Just Posted a Monster Quarter. The Stock Dropped Anyway. Time to Buy the Stock? (Yahoo Finance)
-- [macro] Google Stock Falls 7% Amid Questions Over AI Leadership, Gemini 4 Roadmap (Yahoo Finance)
