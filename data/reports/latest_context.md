@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T17:37:28.162775+00:00`
-- Market context score: `47.2`
-- News risk score: `47.15`
-- Macro risk score: `30.2`
-- Risk-on score: `33.89`
+- Generated: `2026-07-23T17:51:45.343920+00:00`
+- Market context score: `46.11`
+- News risk score: `48.23`
+- Macro risk score: `32.34`
+- Risk-on score: `33.18`
 - Articles: `94`
 - Polymarket markets: `394`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6945`
-- Day/swing latest: `2026-07-23T17:30:00+00:00`
+- Day/swing records: `6946`
+- Day/swing latest: `2026-07-23T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
 - crypto: articles `38`, risk hits `11`, risk headline rate `0.2632`, policy hits `5`
-- macro: articles `51`, risk hits `14`, risk headline rate `0.2549`, policy hits `5`
+- macro: articles `51`, risk hits `17`, risk headline rate `0.2941`, policy hits `5`
 
 ## Headlines
 
-- [macro] Google and Tesla shares plunge as AI spending rattles markets (BBC News)
-- [macro] Google and Tesla shares plunge as AI spending rattles markets (BBC News)
-- [macro] A Smart Way to Invest $1,000 Right Now (Yahoo Finance)
-- [macro] Blackstone is addressing community concerns around AI, CEO says (Yahoo Finance)
-- [macro] Albertsons cuts fiscal 2026 sales and profit outlook, stock drops (Yahoo Finance)
-- [macro] Micron vs. SK Hynix: Which Is the Better Memory Stock to Buy? (Yahoo Finance)
-- [macro] Another crypto business announces shutdown, asks users to withdraw funds (Yahoo Finance)
-- [commodity] Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment (Energy)
-- [macro] Houthi attacks raise fears of wider Middle East conflict and more global economic damage (BBC News)
-- [macro] Visteon Corporation Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] Saudis must recognise Israel for nuclear deal, says Trump (BBC News)
+- [commodity] Brent crude tops $100 a barrel. How the next stop could be $120 (Energy)
+- [commodity] Congress splits on war powers resolutions to force Trump to abandon Iran war (Energy)
+- [macro] Ukraine's ousted defence minister insists on being reinstated (BBC News)
+- [macro] Data Centers Turbocharge Jet Engine Maker In A Battle For Power (Yahoo Finance)
+- [macro] A Lot More SpaceX Shares Are About to Come Onto the Market (Yahoo Finance)
+- [macro] Oil tops $100 again after Houthi attack on Saudi tankers worsens oil supply disruption (Yahoo Finance)
+- [macro] At $100 Per Barrel, Which Oil Stock Has Dominated in 2026: ExxonMobil, Chevron, or BP? (Yahoo Finance)
+- [macro] Why Teva Pharmaceutical Stock Is a Buy Despite Trump Tariff Threat (Yahoo Finance)
+- [macro] Here's Why This Tesla-Focused ETF Crashed Today (Yahoo Finance)
