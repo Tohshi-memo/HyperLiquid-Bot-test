@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T11:52:25.034945+00:00`
-- Market context score: `48.42`
-- News risk score: `43.02`
-- Macro risk score: `34.11`
-- Risk-on score: `34.6`
-- Articles: `45`
+- Generated: `2026-07-23T12:02:06.273703+00:00`
+- Market context score: `51.51`
+- News risk score: `41.72`
+- Macro risk score: `31.24`
+- Risk-on score: `39.27`
+- Articles: `51`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:99, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6923`
-- Day/swing latest: `2026-07-23T11:45:00+00:00`
+- Day/swing records: `6924`
+- Day/swing latest: `2026-07-23T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `3`
-- macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `0`
+- crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Polymarket to challenge France’s nationwide website block (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bernstein says Bitcoin mining deals necessary for AI power crunch (Cointelegraph.com News)
 - [macro] Why are UK fuel prices rising again? (BBC News)
 - [commodity] Houthis claim strikes on Saudi oil tankers as Rubio says Iran not ready to make a deal (Energy)
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] HYPE falls as crypto funds queue nearly $150M in locked tokens for withdrawal (Cointelegraph.com News)
 - [crypto] Bulls face a test unlike anything in bitcoin's 17-year history (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump's nuclear deal with Saudis jettisons longstanding US demands (BBC News)
-- [crypto] Kazakhstan approves strategic crypto mining rules tied to national reserve (Cointelegraph.com News)
-- [macro] Thousands evacuated in France fires (BBC News)
-- [crypto] Bitcoin will get ‘lift’ from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec (Cointelegraph.com News)
