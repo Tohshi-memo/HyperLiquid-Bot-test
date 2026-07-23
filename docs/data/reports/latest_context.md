@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T01:37:24.276515+00:00`
-- Market context score: `39.04`
-- News risk score: `44.83`
-- Macro risk score: `33.39`
-- Risk-on score: `15.0`
+- Generated: `2026-07-23T01:52:28.161962+00:00`
+- Market context score: `38.81`
+- News risk score: `45.3`
+- Macro risk score: `32.85`
+- Risk-on score: `14.69`
 - Articles: `54`
 - Polymarket markets: `393`
 
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6883`
-- Day/swing latest: `2026-07-23T01:30:00+00:00`
+- Day/swing records: `6884`
+- Day/swing latest: `2026-07-23T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
-- crypto: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
-- macro: articles `29`, risk hits `8`, risk headline rate `0.2759`, policy hits `2`
+- crypto: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `1`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2667`, policy hits `2`
 
 ## Headlines
 
-- [commodity] Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats (Energy)
 - [macro] China's Moonshot AI stole from Anthropic, Trump tech adviser says (BBC News)
+- [commodity] Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats (Energy)
 - [macro] US signs landmark nuclear deal with Saudi Arabia (BBC News)
 - [macro] Canada's 'powerful' dairy sector is in Trump's trade crosshairs (BBC News)
 - [macro] Even camels can't cope: Africa's ships of the desert hit by rising temperatures (BBC News)
