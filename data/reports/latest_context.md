@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T22:22:27.401543+00:00`
-- Market context score: `40.03`
-- News risk score: `50.61`
-- Macro risk score: `33.4`
-- Risk-on score: `22.09`
-- Articles: `63`
+- Generated: `2026-07-23T22:37:32.018124+00:00`
+- Market context score: `38.03`
+- News risk score: `50.87`
+- Macro risk score: `33.44`
+- Risk-on score: `17.88`
+- Articles: `62`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6963`
-- Day/swing latest: `2026-07-23T22:15:00+00:00`
+- Day/swing records: `6964`
+- Day/swing latest: `2026-07-23T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `34`, risk hits `15`, risk headline rate `0.3529`, policy hits `5`
+- crypto: articles `33`, risk hits `15`, risk headline rate `0.3636`, policy hits `5`
 - macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `4`
 
 ## Headlines
 
+- [macro] US announces tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
 - [crypto] Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC (Cointelegraph.com News)
-- [macro] US announces tariffs on dozens of countries over forced labour concerns (BBC News)
 - [macro] India activist ends hunger strike after 26 days (BBC News)
 - [macro] Lawmakers push for AI 'kill switch' after OpenAI goes rogue (BBC News)
 - [crypto] Coinbase lets businesses accept USDC payments from AI agents (Cointelegraph.com News)
