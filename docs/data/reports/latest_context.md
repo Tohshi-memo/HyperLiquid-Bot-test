@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T02:52:24.409060+00:00`
-- Market context score: `38.51`
-- News risk score: `45.48`
-- Macro risk score: `31.75`
-- Risk-on score: `13.75`
-- Articles: `50`
+- Generated: `2026-07-23T03:07:32.442942+00:00`
+- Market context score: `37.35`
+- News risk score: `47.29`
+- Macro risk score: `31.73`
+- Risk-on score: `12.7`
+- Articles: `51`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6888`
-- Day/swing latest: `2026-07-23T02:45:00+00:00`
+- Day/swing records: `6889`
+- Day/swing latest: `2026-07-23T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
+- crypto: articles `19`, risk hits `8`, risk headline rate `0.3684`, policy hits `1`
 - macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `1`
 
 ## Headlines
 
+- [crypto] SEC settles Coinbase suit over ‘text messages that disappeared’ (Cointelegraph.com News)
 - [macro] China's Moonshot AI stole from Anthropic, Trump tech adviser says (BBC News)
 - [crypto] AFX protocol reportedly loses $24M in bridge exploit (Cointelegraph.com News)
 - [commodity] Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats (Energy)
@@ -37,4 +38,3 @@
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
 - [crypto] Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russia's businesses under strain from Ukraine's attacks on Wildberries (BBC News)
