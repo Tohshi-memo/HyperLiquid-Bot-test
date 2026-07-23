@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T01:52:28.161962+00:00`
-- Market context score: `38.81`
-- News risk score: `45.3`
-- Macro risk score: `32.85`
-- Risk-on score: `14.69`
-- Articles: `54`
+- Generated: `2026-07-23T02:07:30.003280+00:00`
+- Market context score: `38.0`
+- News risk score: `46.53`
+- Macro risk score: `32.27`
+- Risk-on score: `13.71`
+- Articles: `53`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6884`
-- Day/swing latest: `2026-07-23T01:45:00+00:00`
+- Day/swing records: `6885`
+- Day/swing latest: `2026-07-23T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `1`
-- macro: articles `30`, risk hits `8`, risk headline rate `0.2667`, policy hits `2`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
 - [macro] China's Moonshot AI stole from Anthropic, Trump tech adviser says (BBC News)
+- [crypto] AFX Protocol reportedly loses $24M in bridge exploit (Cointelegraph.com News)
 - [commodity] Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats (Energy)
 - [macro] US signs landmark nuclear deal with Saudi Arabia (BBC News)
 - [macro] Canada's 'powerful' dairy sector is in Trump's trade crosshairs (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
 - [crypto] Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia's businesses under strain from Ukraine's attacks on Wildberries (BBC News)
-- [macro] Watch: What we know about the US-Saudi nuclear deal (BBC News)
