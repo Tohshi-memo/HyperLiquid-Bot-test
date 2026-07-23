@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T20:33:34.183258+00:00`
+- Generated: `2026-07-23T20:37:26.897769+00:00`
 - Market context score: `40.83`
 - News risk score: `47.84`
 - Macro risk score: `30.65`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] India activist ends hunger strike after 26 days (BBC News)
 - [crypto] Clarity Act expected to miss its window before Congress' summer break, leadership says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries (Energy)
 - [commodity] Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia (Energy)
@@ -37,4 +38,3 @@
 - [crypto] As BitMEX exits, analysts warn crypto consolidation is accelerating (Cointelegraph.com News)
 - [macro] France evacuates 20,000 as wildfires spread in south-west (BBC News)
 - [commodity] Congress splits on war powers resolutions to force Trump to abandon Iran war (Energy)
-- [crypto] Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
