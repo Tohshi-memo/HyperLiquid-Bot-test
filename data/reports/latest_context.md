@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T12:52:32.804477+00:00`
-- Market context score: `45.84`
-- News risk score: `46.44`
-- Macro risk score: `28.09`
-- Risk-on score: `29.47`
-- Articles: `67`
+- Generated: `2026-07-23T13:07:32.828996+00:00`
+- Market context score: `49.34`
+- News risk score: `48.36`
+- Macro risk score: `31.81`
+- Risk-on score: `40.26`
+- Articles: `83`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -14,27 +14,27 @@
 - Asset universe count: `1173`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:99, fx:6, index:25, metal:20, unknown:773`
+- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6927`
-- Day/swing latest: `2026-07-23T12:45:00+00:00`
+- Day/swing records: `6928`
+- Day/swing latest: `2026-07-23T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `30`, risk hits `11`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `34`, risk hits `9`, risk headline rate `0.2059`, policy hits `2`
+- crypto: articles `33`, risk hits `11`, risk headline rate `0.2727`, policy hits `4`
+- macro: articles `47`, risk hits `15`, risk headline rate `0.2766`, policy hits `5`
 
 ## Headlines
 
+- [macro] Saudis must recognise Israel for nuclear deal, says Trump (BBC News)
+- [commodity] Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment (Energy)
+- [crypto] Binance joins STOP THE TRAFFIK in anti-human trafficking effort (Cointelegraph.com News)
+- [crypto] The KIDS Act is way worse than digital carding — it is a mass surveillance system (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Trump's nuclear deal with Saudis jettisons longstanding US demands (BBC News)
+- [crypto] BlackRock, Coinbase, Strategy in group pledging $15 million to prepare Bitcoin for quantum threats (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'I am still alive': Indian activist on hunger strike for 26 days loses 11kg (BBC News)
+- [macro] Assisi Pet Care builds on acquisition spree with Forthglade (Yahoo Finance)
+- [macro] Nestlé to sell half of waters business to Platinum Equity (Yahoo Finance)
 - [crypto] BitMEX token crashes 90% as exchange announces shutdown (Cointelegraph.com News)
-- [commodity] Trump says Saudi nuclear deal does not include enrichment, contingent on relations with Israel (Energy)
-- [macro] Business rate cut not enough, says Michelin-star chef (BBC News)
-- [commodity] Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea (Energy)
-- [crypto] Bitget secures license for New Zealand expansion (Cointelegraph.com News)
-- [macro] These 4 Stocks Are Wall Street’s Most Reliable Dividend Growers (Yahoo Finance)
-- [macro] Lockheed Martin Q2 2026 earnings beat, full-year outlook raised (Yahoo Finance)
-- [macro] This Low-Risk Dividend Stock Could Be Worth $1 Million in 30 Years -- Here's the Math (Yahoo Finance)
-- [macro] Gary Lineker among millionaires asking Andy Burnham to tax them more (BBC News)
