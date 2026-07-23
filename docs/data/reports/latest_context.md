@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T13:22:34.901412+00:00`
-- Market context score: `51.46`
+- Generated: `2026-07-23T13:37:26.030094+00:00`
+- Market context score: `49.67`
 - News risk score: `47.56`
-- Macro risk score: `30.82`
-- Risk-on score: `43.94`
-- Articles: `85`
+- Macro risk score: `29.01`
+- Risk-on score: `39.29`
+- Articles: `87`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6929`
-- Day/swing latest: `2026-07-23T13:15:00+00:00`
+- Day/swing records: `6930`
+- Day/swing latest: `2026-07-23T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `34`, risk hits `11`, risk headline rate `0.2647`, policy hits `5`
-- macro: articles `48`, risk hits `15`, risk headline rate `0.2708`, policy hits `7`
+- crypto: articles `35`, risk hits `12`, risk headline rate `0.2857`, policy hits `5`
+- macro: articles `49`, risk hits `15`, risk headline rate `0.2449`, policy hits `5`
 
 ## Headlines
 
-- [commodity] Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia (Energy)
-- [macro] Government to cut business rates for pubs, clubs and music venues (BBC News)
-- [macro] Stock Market Today: Dow Jones Index Falls 500 Points As Alphabet, Tesla Dive On Earnings News (Live Coverage) (Yahoo Finance)
-- [crypto] Strategy-led group pledges $15M to quantum-proof Bitcoin network (Cointelegraph.com News)
-- [macro] What Does Box COO Olivia Nottebohm's Sale of Nearly 6,000 Company Shares Mean for Investors? (Yahoo Finance)
 - [macro] Saudis must recognise Israel for nuclear deal, says Trump (BBC News)
-- [commodity] Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment (Energy)
-- [crypto] Binance joins STOP THE TRAFFIK in anti-human trafficking effort (Cointelegraph.com News)
-- [crypto] The KIDS Act is way worse than digital carding — it is a mass surveillance system (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] CapEx Is Exploding as Alphabet Goes On a Spending Spree (Yahoo Finance)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] ServiceNow stock jumps on strong revenue as company shrugs off AI disruption fears (Yahoo Finance)
+- [crypto] Fears of AI-driven DeFi hack epidemic overstated for now — but not for long (Cointelegraph.com News)
+- [macro] I Won’t Stop Buying Meta Even With The High Capex Spend (Yahoo Finance)
+- [macro] Peacock Q2 2026 earnings: first-ever quarterly profit (Yahoo Finance)
+- [macro] Microsoft at $390: Irrational AI Capex Fear Is Your Opportunity (Yahoo Finance)
+- [macro] France evacuates 20,000 as wildfires spread in south-west (BBC News)
+- [macro] Oil hits $100 after Houthi attack on Saudi tankers worsens oil supply disruption (Yahoo Finance)
+- [macro] Electricity bills to be subsidised as crude oil nears $100 (BBC News)
