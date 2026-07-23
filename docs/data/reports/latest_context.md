@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T03:22:29.399466+00:00`
-- Market context score: `36.81`
-- News risk score: `47.98`
-- Macro risk score: `31.75`
-- Risk-on score: `12.08`
-- Articles: `50`
+- Generated: `2026-07-23T03:37:26.409529+00:00`
+- Market context score: `36.2`
+- News risk score: `48.77`
+- Macro risk score: `31.77`
+- Risk-on score: `11.4`
+- Articles: `49`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6890`
-- Day/swing latest: `2026-07-23T03:15:00+00:00`
+- Day/swing records: `6891`
+- Day/swing latest: `2026-07-23T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
-- crypto: articles `18`, risk hits `8`, risk headline rate `0.3889`, policy hits `1`
-- macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `1`
+- crypto: articles `17`, risk hits `8`, risk headline rate `0.4118`, policy hits `1`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `1`
 
 ## Headlines
 
+- [macro] Houthis claim attack on oil tankers as US launches more strikes on Iran (BBC News)
 - [crypto] SEC settles Coinbase suit over ‘text messages that disappeared’ (Cointelegraph.com News)
 - [macro] China's Moonshot AI stole from Anthropic, Trump tech adviser says (BBC News)
 - [crypto] AFX protocol reportedly loses $24M in bridge exploit (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Even camels can't cope: Africa's ships of the desert hit by rising temperatures (BBC News)
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
-- [crypto] Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
