@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T05:37:26.194074+00:00`
-- Market context score: `38.98`
-- News risk score: `48.33`
-- Macro risk score: `35.41`
-- Risk-on score: `18.59`
-- Articles: `42`
+- Generated: `2026-07-23T05:52:29.607781+00:00`
+- Market context score: `39.54`
+- News risk score: `46.84`
+- Macro risk score: `37.28`
+- Risk-on score: `19.29`
+- Articles: `39`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6898`
-- Day/swing latest: `2026-07-23T05:30:00+00:00`
+- Day/swing records: `6899`
+- Day/swing latest: `2026-07-23T05:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.4`, policy hits `3`
-- macro: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `0`
+- commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `14`, risk hits `6`, risk headline rate `0.3571`, policy hits `3`
+- macro: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `0`
 
 ## Headlines
 
+- [macro] Blocked by censors, China's animal lovers take fight against abuse offline and overseas (BBC News)
+- [commodity] Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats (Energy)
 - [macro] Firm hacked by rogue OpenAI models says it is 'a wake up call' (BBC News)
 - [crypto] Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] White House accuses Moonshot AI of distilling Anthropic tech for K3 (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Houthis claim attack on oil tankers as US launches more strikes on Iran (BBC News)
 - [crypto] SEC settles Coinbase suit over ‘text messages that disappeared’ (Cointelegraph.com News)
 - [macro] China's Moonshot AI stole from Anthropic, Trump tech adviser says (BBC News)
-- [crypto] Hackers steal $31.6M with 2 crypto bridge attacks within 7 hours (Cointelegraph.com News)
-- [commodity] Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats (Energy)
