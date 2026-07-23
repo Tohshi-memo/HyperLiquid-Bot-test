@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T16:12:09.814093+00:00`
-- Market context score: `48.86`
-- News risk score: `46.6`
-- Macro risk score: `29.72`
-- Risk-on score: `36.93`
-- Articles: `91`
+- Generated: `2026-07-23T16:22:39.464492+00:00`
+- Market context score: `46.26`
+- News risk score: `47.11`
+- Macro risk score: `30.02`
+- Risk-on score: `31.7`
+- Articles: `90`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6940`
-- Day/swing latest: `2026-07-23T16:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `35`, risk hits `10`, risk headline rate `0.2571`, policy hits `3`
-- macro: articles `52`, risk hits `15`, risk headline rate `0.2692`, policy hits `6`
+- crypto: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `3`
+- macro: articles `52`, risk hits `15`, risk headline rate `0.2692`, policy hits `7`
 
 ## Headlines
 
+- [macro] Gary Lineker among millionaires asking Andy Burnham to tax them more (BBC News)
+- [macro] Saudis must recognise Israel for nuclear deal, says Trump (BBC News)
+- [macro] Rockefeller CIO Warns: Big Tech’s $650B AI Buildout May Be Hiding a Massive Overbuild (Yahoo Finance)
+- [macro] Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year (Yahoo Finance)
 - [commodity] Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment (Energy)
 - [macro] Yemen's Houthis attack Saudi tanker as US launches more Iran strikes (BBC News)
+- [macro] General Motors analyst sets new stock price target after earnings (Yahoo Finance)
+- [macro] Prediction: Dell Technologies Stock Could Be 30% Higher by This Time Next Year (Yahoo Finance)
 - [macro] Mortgage rates hit highest level since August as oil's rise sparks inflation worries (Yahoo Finance)
-- [macro] T-Mobile Earnings Beat, Revenue Light. CEO Shoots Down Expanded Starlink Deal. (Yahoo Finance)
-- [macro] Cash Squeeze at Tesla and Alphabet: Same Issue But Not The Same at All (Yahoo Finance)
-- [macro] Nicaragua's legislature debates barring opposition from elections (BBC News)
-- [macro] The Set It and Forget It Monthly Dividend Stocks Retirees Wish They’d Bought 20 Years Ago (Yahoo Finance)
-- [macro] I Can’t Stop Buying Microsoft Because It’s Turning This AI Bottleneck Into a Moat (Yahoo Finance)
-- [macro] What Surging Bond Yields Mean for Consumers and Markets (Yahoo Finance)
-- [commodity] Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia (Energy)
+- [macro] Cottage owners expected rental income to cover the mortgage — but hidden fees turned their properties into money pits (Yahoo Finance)
