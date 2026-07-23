@@ -2,9 +2,9 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-07-23T04:52:30.914988+00:00`
+- Generated: `2026-07-23T04:57:10.689135+00:00`
 - Price records: `672`
-- Market context records: `7635`
+- Market context records: `7636`
 - Flow alert records: `8640`
 - Minimum samples: `30`
 - Pattern count: `120`
@@ -26,13 +26,13 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 ## Top Patterns
 
 - `market_context_high->index_1h` score `0.0601` n `146` status `ready` deltaP `6.6622` edge `0.0112` maxDD `-0.8324`
-- `market_context_high->equity_24h` score `-0.0061` n `145` status `ready` deltaP `16.9771` edge `0.3766` maxDD `-34.5784`
+- `market_context_high->equity_24h` score `-0.0069` n `145` status `ready` deltaP `16.9771` edge `0.3765` maxDD `-34.5784`
 - `market_context_high->crypto_major_1h` score `-0.1393` n `146` status `ready` deltaP `8.1556` edge `0.0238` maxDD `-4.0162`
 - `market_context_high->crypto_alt_1h` score `-0.182` n `146` status `ready` deltaP `2.5039` edge `0.0232` maxDD `-2.7243`
 - `market_context_high->commodity_1h` score `-0.3452` n `146` status `ready` deltaP `2.2789` edge `-0.0024` maxDD `-1.5641`
 - `market_context_high->fx_24h` score `-0.3515` n `145` status `ready` deltaP `9.2803` edge `0.0176` maxDD `-3.0343`
 - `market_context_high->commodity_24h` score `-0.3624` n `145` status `ready` deltaP `11.4971` edge `0.0515` maxDD `-7.0012`
-- `market_context_high->equity_1h` score `-0.4604` n `146` status `ready` deltaP `5.8271` edge `0.0535` maxDD `-7.7764`
+- `market_context_high->equity_1h` score `-0.469` n `146` status `ready` deltaP `5.677` edge `0.0534` maxDD `-7.7764`
 - `market_context_high->unknown_24h` score `-0.5253` n `146` status `ready` deltaP `8.4071` edge `0.0182` maxDD `-4.775`
 - `market_context_high->commodity_4h` score `-0.5888` n `146` status `ready` deltaP `2.6769` edge `0.0076` maxDD `-2.2943`
 - `market_context_high->index_4h` score `-0.6589` n `146` status `ready` deltaP `8.6045` edge `0.0283` maxDD `-3.2774`
