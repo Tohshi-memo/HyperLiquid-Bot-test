@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T07:37:24.656206+00:00`
+- Generated: `2026-07-23T07:43:09.896162+00:00`
 - Market context score: `42.33`
 - News risk score: `45.56`
 - Macro risk score: `35.1`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:98, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `6906`
+- Day/swing latest: `2026-07-23T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands (Energy)
 - [macro] Google burning through cash with spiralling AI costs (BBC News)
 - [macro] Google burning through cash with spiralling AI costs (BBC News)
 - [crypto] Bitcoin ETFs approach $1B in 7-session inflow run (Cointelegraph.com News)
@@ -35,6 +36,5 @@
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
 - [macro] Airport drop-off fees up by a third - here are the priciest (BBC News)
 - [crypto] Kakao taps Circle to explore won stablecoin payment infrastructure (Cointelegraph.com News)
-- [commodity] Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands (Energy)
 - [crypto] Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats (Energy)
