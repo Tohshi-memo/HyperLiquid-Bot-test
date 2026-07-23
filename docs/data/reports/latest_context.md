@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T14:22:27.069386+00:00`
+- Generated: `2026-07-23T14:26:57.096966+00:00`
 - Market context score: `46.74`
 - News risk score: `46.59`
 - Macro risk score: `27.84`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia (Energy)
 - [macro] Yemen's Houthis attack Saudi tanker as US launches more Iran strikes (BBC News)
 - [macro] What IBM execs think will be different 90 days after a brutal warning (Yahoo Finance)
 - [macro] Quest Diagnostics Surges After Hims- And Oura-Tied Beat (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Honeywell International Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Dime Community Bancshares Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] First Merchants Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Jim Cramer Highlights Visa (V) as Consumer Credit Demand Soars (Yahoo Finance)
