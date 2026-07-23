@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T16:37:35.839322+00:00`
-- Market context score: `47.51`
-- News risk score: `46.44`
-- Macro risk score: `29.42`
-- Risk-on score: `33.69`
+- Generated: `2026-07-23T16:52:30.063865+00:00`
+- Market context score: `46.04`
+- News risk score: `48.19`
+- Macro risk score: `31.63`
+- Risk-on score: `32.74`
 - Articles: `92`
 - Polymarket markets: `394`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6941`
-- Day/swing latest: `2026-07-23T16:30:00+00:00`
+- Day/swing records: `6942`
+- Day/swing latest: `2026-07-23T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `35`, risk hits `10`, risk headline rate `0.2571`, policy hits `3`
-- macro: articles `53`, risk hits `15`, risk headline rate `0.2642`, policy hits `6`
+- crypto: articles `37`, risk hits `11`, risk headline rate `0.2703`, policy hits `4`
+- macro: articles `51`, risk hits `16`, risk headline rate `0.2941`, policy hits `7`
 
 ## Headlines
 
+- [macro] Yemen's Houthis attack Saudi tanker as US launches more Iran strikes (BBC News)
+- [crypto] Here’s why the CLARITY Act’s ethics deal may be so hard to reach (Cointelegraph.com News)
+- [crypto] BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power (Cointelegraph.com News)
+- [macro] France evacuates 20,000 as wildfires spread in south-west (BBC News)
+- [macro] Morgan Stanley doubles down on Schwab after earnings (Yahoo Finance)
+- [macro] As Wall Street Cuts Tesla, Morgan Stanley Raises Its Apple Target (Yahoo Finance)
 - [crypto] Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant (Cointelegraph.com News)
-- [macro] Nike Stock for the Next 10 Years: Buy, Hold, or Avoid? (Yahoo Finance)
-- [macro] Stocks sink on Big Tech cash burn; oil hits $100 for first time since May (Yahoo Finance)
-- [macro] IBM Is The World’s Worst Big Tech Company (Yahoo Finance)
-- [macro] Gary Lineker among millionaires asking Andy Burnham to tax them more (BBC News)
-- [macro] OpenAI and Anthropic workers will get tax surprises after IPOs (Yahoo Finance)
-- [macro] Vontier Corporation (VNT) Looks Undervalued After an Overdone Selloff (Yahoo Finance)
-- [macro] BNPL regulation won’t change the biggest thing BNPL created (Yahoo Finance)
-- [macro] Saudis must recognise Israel for nuclear deal, says Trump (BBC News)
-- [macro] Your pension may rely on the ‘optimistic assumption’ that AI will pay off — Moody's sees 'no playbook' for what’s next (Yahoo Finance)
+- [macro] U.S. Debt Smashes WWII Record — But It’s About to Get So Much Worse (Yahoo Finance)
+- [macro] Amazon Falls 4% as Senate China Probe and AI-Spending Jitters Weigh Ahead of Earnings (Yahoo Finance)
+- [macro] BlackRock, Strategy and Coinbase Back $15M Bitcoin Security Consortium (Yahoo Finance)
