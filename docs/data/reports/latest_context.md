@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-23T19:22:25.783773+00:00`
+- Generated: `2026-07-23T19:37:29.839162+00:00`
 - Market context score: `40.63`
 - News risk score: `47.89`
 - Macro risk score: `31.24`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6952`
-- Day/swing latest: `2026-07-23T19:15:00+00:00`
+- Day/swing records: `6953`
+- Day/swing latest: `2026-07-23T19:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Burnham says 20% business rates cut for English pubs 'a first step' (BBC News)
 - [macro] France evacuates 20,000 as wildfires spread in south-west (BBC News)
 - [commodity] Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia (Energy)
 - [commodity] Congress splits on war powers resolutions to force Trump to abandon Iran war (Energy)
@@ -37,4 +38,3 @@
 - [macro] Analyst Report: Texas Instruments Inc (Yahoo Finance)
 - [macro] Analyst Report: International Business Machine (Yahoo Finance)
 - [macro] Saudis must recognise Israel for nuclear deal, says Trump (BBC News)
-- [commodity] Brent crude tops $100 a barrel. How the next stop could be $120 (Energy)
