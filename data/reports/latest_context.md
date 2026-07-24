@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-24T18:52:11.159555+00:00`
+- Generated: `2026-07-24T19:07:35.295806+00:00`
 - Market context score: `38.61`
 - News risk score: `53.82`
 - Macro risk score: `37.53`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7044`
-- Day/swing latest: `2026-07-24T18:45:00+00:00`
+- Day/swing records: `7045`
+- Day/swing latest: `2026-07-24T19:00:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Trump vows to investigate EU over fining of US tech companies (BBC News)
+- [macro] Trump vows to investigate EU over fining of US tech companies (BBC News)
 - [macro] Ten killed in Russian attack on drone exhibition near Kyiv (BBC News)
 - [commodity] Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea (Energy)
-- [macro] Trump vows to investigate EU over fining of US tech companies (BBC News)
-- [macro] Trump vows to investigate EU over fining of US tech companies (BBC News)
 - [macro] Four Palestinians and two Israelis killed in West Bank shooting (BBC News)
 - [macro] US and Iran trade more strikes in Gulf as fears of escalation mount (BBC News)
 - [macro] Analyst Report: American Express Co (Yahoo Finance)
