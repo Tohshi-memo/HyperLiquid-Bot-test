@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-24T21:07:30.445014+00:00`
-- Market context score: `38.87`
-- News risk score: `53.12`
-- Macro risk score: `40.3`
-- Risk-on score: `24.24`
-- Articles: `61`
+- Generated: `2026-07-24T21:22:24.530942+00:00`
+- Market context score: `39.14`
+- News risk score: `52.83`
+- Macro risk score: `40.27`
+- Risk-on score: `24.58`
+- Articles: `62`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7052`
-- Day/swing latest: `2026-07-24T21:00:00+00:00`
+- Day/swing records: `7053`
+- Day/swing latest: `2026-07-24T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `12`, risk headline rate `0.3448`, policy hits `5`
+- crypto: articles `30`, risk hits `12`, risk headline rate `0.3333`, policy hits `5`
 - macro: articles `28`, risk hits `11`, risk headline rate `0.3571`, policy hits `2`
 
 ## Headlines
 
 - [macro] ICC top prosecutor removed over sexual misconduct allegations (BBC News)
+- [crypto] Strive’s SATA recovers most of June decline, trades within 3% of par (Cointelegraph.com News)
 - [macro] Trump vows to investigate EU over fining of US tech companies (BBC News)
 - [macro] Trump vows to investigate EU over fining of US tech companies (BBC News)
 - [crypto] House passes bill on lawmakers using insider information for stock trading (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Ten killed in Russian attack on drone exhibition near Kyiv (BBC News)
 - [commodity] Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea (Energy)
 - [macro] Four Palestinians and two Israelis killed in West Bank shooting (BBC News)
-- [macro] US and Iran trade more strikes in Gulf as fears of escalation mount (BBC News)
