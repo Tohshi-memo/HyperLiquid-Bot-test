@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-24T12:22:26.004550+00:00`
-- Market context score: `42.34`
-- News risk score: `48.87`
-- Macro risk score: `35.92`
-- Risk-on score: `26.7`
-- Articles: `53`
+- Generated: `2026-07-24T12:37:30.051242+00:00`
+- Market context score: `41.93`
+- News risk score: `49.12`
+- Macro risk score: `36.92`
+- Risk-on score: `26.37`
+- Articles: `52`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:773`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7019`
-- Day/swing latest: `2026-07-24T12:15:00+00:00`
+- Day/swing records: `7020`
+- Day/swing latest: `2026-07-24T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `15`, risk headline rate `0.3448`, policy hits `2`
-- macro: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `2`
+- macro: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `2`
 
 ## Headlines
 
+- [macro] New figures show costs rising for pensioners (BBC News)
 - [macro] Trump's new global tariff draws rebukes from trade partners over forced labor justification (Economy)
-- [macro] How Trump Accounts could impact your child's student aid (Yahoo Finance)
 - [crypto] Odos Protocol to shut down, gives users until July 30 to withdraw assets (Cointelegraph.com News)
 - [crypto] EU hits Russia with massive 21st sanctions package targeting $120B crypto network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate' (BBC News)
