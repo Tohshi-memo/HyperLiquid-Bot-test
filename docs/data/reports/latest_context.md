@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-24T21:52:25.529825+00:00`
-- Market context score: `36.6`
-- News risk score: `53.82`
-- Macro risk score: `43.75`
-- Risk-on score: `21.08`
-- Articles: `57`
+- Generated: `2026-07-24T22:07:27.114999+00:00`
+- Market context score: `37.34`
+- News risk score: `53.88`
+- Macro risk score: `43.34`
+- Risk-on score: `22.62`
+- Articles: `56`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7055`
-- Day/swing latest: `2026-07-24T21:45:00+00:00`
+- Day/swing records: `7056`
+- Day/swing latest: `2026-07-24T22:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `12`, risk headline rate `0.3448`, policy hits `5`
+- crypto: articles `28`, risk hits `12`, risk headline rate `0.3571`, policy hits `4`
 - macro: articles `24`, risk hits `12`, risk headline rate `0.4167`, policy hits `0`
 
 ## Headlines
 
+- [crypto] EU authorities include HTX exchange in Russian sanctions (Cointelegraph.com News)
 - [macro] Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain (BBC News)
 - [macro] ICC top prosecutor removed over sexual misconduct allegations (BBC News)
 - [crypto] Strive’s SATA recovers most of June decline, trades within 3% of par (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ten killed in Russian attack on drone exhibition near Kyiv (BBC News)
-- [commodity] Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea (Energy)
