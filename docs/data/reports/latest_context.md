@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-24T02:07:34.335416+00:00`
+- Generated: `2026-07-24T02:22:24.361607+00:00`
 - Market context score: `38.98`
 - News risk score: `51.06`
 - Macro risk score: `28.6`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6978`
-- Day/swing latest: `2026-07-24T02:00:00+00:00`
+- Day/swing records: `6979`
+- Day/swing latest: `2026-07-24T02:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
+- [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
 - [macro] Houthi attacks raise fears of wider Middle East conflict and more global economic damage (BBC News)
 - [crypto] SEC sets September talks on move toward 24-hour stock trading (Cointelegraph.com News)
-- [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
-- [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
 - [macro] China's Moonshot AI stole from Anthropic, Trump tech adviser says (BBC News)
 - [macro] CJP protest: The youth movement India's Modi didn't see coming (BBC News)
 - [macro] Indonesian babies were trafficked to Singapore. What happens to them now? (BBC News)
