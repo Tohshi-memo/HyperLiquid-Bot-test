@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-24T01:52:26.321846+00:00`
-- Market context score: `38.23`
-- News risk score: `51.5`
-- Macro risk score: `28.5`
-- Risk-on score: `17.0`
-- Articles: `50`
+- Generated: `2026-07-24T02:07:34.335416+00:00`
+- Market context score: `38.98`
+- News risk score: `51.06`
+- Macro risk score: `28.6`
+- Risk-on score: `18.33`
+- Articles: `48`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6977`
-- Day/swing latest: `2026-07-24T01:45:00+00:00`
+- Day/swing records: `6978`
+- Day/swing latest: `2026-07-24T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- crypto: articles `20`, risk hits `14`, risk headline rate `0.5`, policy hits `2`
+- crypto: articles `18`, risk hits `12`, risk headline rate `0.5`, policy hits `2`
 - macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `6`
 
 ## Headlines
 
+- [macro] Houthi attacks raise fears of wider Middle East conflict and more global economic damage (BBC News)
 - [crypto] SEC sets September talks on move toward 24-hour stock trading (Cointelegraph.com News)
 - [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
 - [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
@@ -37,4 +38,3 @@
 - [macro] UK complacent about war threat, warns defence boss (BBC News)
 - [macro] UK mortgage rates rise to highest level for a month (BBC News)
 - [macro] We split bills equally even when one of us earned a lot more (BBC News)
-- [macro] Could you run a country on just three hours of sleep? Japan's PM says she does (BBC News)
