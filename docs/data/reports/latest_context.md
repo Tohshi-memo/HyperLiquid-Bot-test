@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-24T03:07:29.832955+00:00`
-- Market context score: `37.28`
-- News risk score: `53.56`
-- Macro risk score: `28.6`
-- Risk-on score: `16.67`
-- Articles: `48`
-- Polymarket markets: `394`
+- Generated: `2026-07-24T03:22:28.945451+00:00`
+- Market context score: `37.27`
+- News risk score: `53.43`
+- Macro risk score: `29.98`
+- Risk-on score: `17.05`
+- Articles: `50`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:772`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `6982`
-- Day/swing latest: `2026-07-24T03:00:00+00:00`
+- Day/swing records: `6983`
+- Day/swing latest: `2026-07-24T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- crypto: articles `18`, risk hits `13`, risk headline rate `0.5556`, policy hits `2`
-- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `6`
+- crypto: articles `19`, risk hits `13`, risk headline rate `0.5263`, policy hits `2`
+- macro: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `6`
 
 ## Headlines
 
+- [macro] Trump's new global tariff draws rebukes from trade partners over forced-labor justification (Economy)
+- [crypto] Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of shit’: Politico (Cointelegraph.com News)
 - [crypto] BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown (Cointelegraph.com News)
 - [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
 - [macro] US imposes tariffs on dozens of trade partners over 'forced labour' imports (BBC News)
@@ -36,5 +38,3 @@
 - [macro] China's Moonshot AI stole from Anthropic, Trump tech adviser says (BBC News)
 - [macro] CJP protest: The youth movement India's Modi didn't see coming (BBC News)
 - [macro] Indonesian babies were trafficked to Singapore. What happens to them now? (BBC News)
-- [macro] UK complacent about war threat, warns defence boss (BBC News)
-- [macro] UK mortgage rates rise to highest level for a month (BBC News)
