@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-25T18:22:31.118694+00:00`
-- Market context score: `48.41`
-- News risk score: `39.63`
-- Macro risk score: `27.46`
-- Risk-on score: `29.19`
-- Articles: `31`
+- Generated: `2026-07-25T18:35:03.906982+00:00`
+- Market context score: `47.17`
+- News risk score: `39.09`
+- Macro risk score: `28.8`
+- Risk-on score: `26.5`
+- Articles: `30`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7137`
-- Day/swing latest: `2026-07-25T18:15:00+00:00`
+- Day/swing records: `7138`
+- Day/swing latest: `2026-07-25T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `20`, risk hits `5`, risk headline rate `0.15`, policy hits `7`
+- crypto: articles `11`, risk hits `5`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.1667`, policy hits `7`
 
 ## Headlines
 
-- [macro] Is the Vanguard S&P 500 Growth ETF or iShares Small-Cap 600 Growth ETF the Better Fund in 2026? (Yahoo Finance)
-- [macro] Nvidia stock is doing something it hasn't done in years (Yahoo Finance)
+- [macro] Valmont Industries CFO Buys $100,000 in Shares. What Does This News Mean for Investors? (Yahoo Finance)
+- [crypto] Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program (Cointelegraph.com News)
+- [macro] Have a Large 401(k) Balance and Approaching 62? Make Sure You Convert Before This Medicare Rule Kicks In (Yahoo Finance)
+- [macro] Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus (Yahoo Finance)
+- [macro] New York Has the Heaviest State and Local Tax Burden in America. For a Retiree Living on Social Security, Here’s What It Really Costs. (Yahoo Finance)
+- [macro] Morgan Stanley strongly resets GE Vernova stock target (Yahoo Finance)
+- [macro] The Real Reason Hemp Hasn’t Replaced Cotton (Yahoo Finance)
 - [macro] India's 'cockroach' protest called off after education minister quits (BBC News)
-- [macro] Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now. (Yahoo Finance)
-- [macro] The Crowd Is Dumping Oklo. Here's Why I'd Be Buying It Down 44%. (Yahoo Finance)
-- [macro] Silver or Gold: Is a Mining Stock Fund Better Than Holding Physical Bullion Through an ETF? (Yahoo Finance)
 - [macro] More than 250,000 flee wildfires in France and Spain (BBC News)
 - [crypto] Russia’s largest bank Sberbank plans crypto trading infrastructure by December (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus (Yahoo Finance)
-- [commodity] Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities (Energy)
