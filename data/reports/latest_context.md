@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-25T06:37:24.862995+00:00`
-- Market context score: `35.43`
-- News risk score: `45.69`
-- Macro risk score: `44.67`
-- Risk-on score: `11.97`
-- Articles: `23`
+- Generated: `2026-07-25T06:52:33.853691+00:00`
+- Market context score: `36.22`
+- News risk score: `44.93`
+- Macro risk score: `43.14`
+- Risk-on score: `12.5`
+- Articles: `22`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7090`
-- Day/swing latest: `2026-07-25T06:30:00+00:00`
+- Day/swing records: `7091`
+- Day/swing latest: `2026-07-25T06:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `16`, risk hits `9`, risk headline rate `0.5`, policy hits `1`
 
 ## Headlines
 
+- [macro] Trump takes swipes at press during White House Correspondents' Dinner (BBC News)
 - [macro] Iran-backed Houthis claim missile attack on Saudi Arabia (BBC News)
 - [commodity] Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery (Energy)
-- [macro] Trump takes swipes at press during White House Correspondents' Dinner (BBC News)
 - [macro] More than 220,000 evacuated in France and Spain due to wildfires (BBC News)
 - [macro] Trump orders Smithsonian to post warnings about 'inaccurate' US history (BBC News)
 - [macro] Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion (BBC News)
