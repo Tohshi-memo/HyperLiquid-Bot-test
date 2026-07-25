@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-25T19:22:23.393704+00:00`
-- Market context score: `52.61`
+- Generated: `2026-07-25T19:37:26.287563+00:00`
+- Market context score: `51.11`
 - News risk score: `35.69`
 - Macro risk score: `22.03`
-- Risk-on score: `33.15`
+- Risk-on score: `29.82`
 - Articles: `31`
 - Polymarket markets: `392`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7141`
-- Day/swing latest: `2026-07-25T19:15:00+00:00`
+- Day/swing records: `7142`
+- Day/swing latest: `2026-07-25T19:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Global apparel company sells lingerie brand after sales declines (Yahoo Finance)
 - [macro] Global Markets (SPGM) or Emerging Growth (IEMG)? Which Fund is the Right Choice? (Yahoo Finance)
 - [macro] Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus (Yahoo Finance)
 - [macro] Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now? (Yahoo Finance)
@@ -35,6 +36,5 @@
 - [macro] The 3 Dividend ETFs That Can Fund a 30-Year Retirement Without Ever Selling a Share (Yahoo Finance)
 - [macro] 140-year-old retail giant closed over 2,500 stores (Yahoo Finance)
 - [macro] Ford Just Put Apple Maps in the Dashboard of a $30,000 EV. Apple Didn't Have to Build a Car. (Yahoo Finance)
-- [macro] Archer Aviation vs. Ford Motor: Are Electric Planes or Automobiles a Better Buy in 2026? (Yahoo Finance)
 - [crypto] Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program (Cointelegraph.com News)
 - [macro] India's 'cockroach' protest called off after education minister quits (BBC News)
