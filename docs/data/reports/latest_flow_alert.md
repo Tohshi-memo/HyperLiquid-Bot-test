@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-25T18:15:29.175632+00:00`
+- Generated: `2026-07-25T18:20:30.028441+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10876799.6`
+- Polymarket 24h volume: `10900211.8`
 - Polymarket volume z-score: `-0.9`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1849726.66` | liquidity: `31971.7577`
-- Israel x Iran ceasefire continues through July 25? | 24h volume: `896280.671629001` | liquidity: `84967.1152`
-- Will the U.S. invade Iran before 2027? | 24h volume: `613162.6439179998` | liquidity: `595563.1061`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `414143.1418880001` | liquidity: `366291.55912`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `364234.457932` | liquidity: `715302.04935`
-- Israel x Iran ceasefire continues through July 26? | 24h volume: `356402.90095300006` | liquidity: `70982.0424`
-- Israel x Iran ceasefire continues through July 24? | 24h volume: `308717.96286900004` | liquidity: `78402.52805`
-- Bab el-Mandeb Strait effectively closed by July 31? | 24h volume: `306225.958958` | liquidity: `150179.20559`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1849726.66` | liquidity: `33744.96468`
+- Israel x Iran ceasefire continues through July 25? | 24h volume: `895483.195841001` | liquidity: `88119.81274`
+- Will the U.S. invade Iran before 2027? | 24h volume: `622103.2447679999` | liquidity: `588984.7179`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `412703.06406200025` | liquidity: `345627.2208`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `363951.674932` | liquidity: `716259.43528`
+- Israel x Iran ceasefire continues through July 26? | 24h volume: `355492.6291600001` | liquidity: `88368.7942`
+- Bab el-Mandeb Strait effectively closed by July 31? | 24h volume: `309343.958958` | liquidity: `154447.42484`
+- Israel x Iran ceasefire continues through July 24? | 24h volume: `306318.38953700004` | liquidity: `78743.94923`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
