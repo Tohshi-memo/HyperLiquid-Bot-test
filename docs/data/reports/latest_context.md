@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-25T05:07:33.977101+00:00`
+- Generated: `2026-07-25T05:22:31.778646+00:00`
 - Market context score: `34.52`
 - News risk score: `46.6`
 - Macro risk score: `46.47`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7084`
-- Day/swing latest: `2026-07-25T05:00:00+00:00`
+- Day/swing records: `7085`
+- Day/swing latest: `2026-07-25T05:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait (BBC News)
 - [macro] Trump pokes fun at press during White House Correspondents' Dinner (BBC News)
+- [macro] Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait (BBC News)
 - [macro] More than 220,000 evacuated in France and Spain due to wildfires (BBC News)
 - [macro] Trump orders Smithsonian to post warnings about 'inaccurate' US history (BBC News)
 - [macro] Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion (BBC News)
