@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-25T07:37:30.945471+00:00`
-- Market context score: `34.52`
-- News risk score: `47.87`
-- Macro risk score: `41.49`
-- Risk-on score: `10.59`
-- Articles: `20`
+- Generated: `2026-07-25T07:52:24.115300+00:00`
+- Market context score: `41.6`
+- News risk score: `44.08`
+- Macro risk score: `41.43`
+- Risk-on score: `23.09`
+- Articles: `21`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7094`
-- Day/swing latest: `2026-07-25T07:30:00+00:00`
+- Day/swing records: `7095`
+- Day/swing latest: `2026-07-25T07:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `16`, risk hits `9`, risk headline rate `0.5`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Ethereum ETFs close week in red, end 5-day inflow streak (Cointelegraph.com News)
 - [macro] Trump takes swipes at press during White House Correspondents' Dinner (BBC News)
 - [macro] Iran-backed Houthis claim missile attack on Saudi Arabia (BBC News)
 - [commodity] Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery (Energy)
@@ -37,4 +38,3 @@
 - [macro] Ten killed in Russian attack on drone exhibition near Kyiv (BBC News)
 - [macro] Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes (BBC News)
 - [macro] ADHD has rewired the workplace. This is what it means for bosses and workers (BBC News)
-- [macro] Warning shot or publicity stunt - how worried should we be about the OpenAI hack? (BBC News)
