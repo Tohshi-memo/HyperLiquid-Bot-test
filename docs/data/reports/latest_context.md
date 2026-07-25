@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-25T17:52:25.805863+00:00`
-- Market context score: `44.25`
-- News risk score: `42.05`
-- Macro risk score: `32.2`
-- Risk-on score: `23.78`
-- Articles: `33`
+- Generated: `2026-07-25T18:07:26.826122+00:00`
+- Market context score: `48.41`
+- News risk score: `39.63`
+- Macro risk score: `27.46`
+- Risk-on score: `29.19`
+- Articles: `31`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7135`
-- Day/swing latest: `2026-07-25T17:45:00+00:00`
+- Day/swing records: `7136`
+- Day/swing latest: `2026-07-25T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.2273`, policy hits `9`
+- macro: articles `20`, risk hits `5`, risk headline rate `0.15`, policy hits `7`
 
 ## Headlines
 
+- [macro] Is the Vanguard S&P 500 Growth ETF or iShares Small-Cap 600 Growth ETF the Better Fund in 2026? (Yahoo Finance)
+- [macro] Nvidia stock is doing something it hasn't done in years (Yahoo Finance)
 - [macro] India's 'cockroach' protest called off after education minister quits (BBC News)
+- [macro] Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now. (Yahoo Finance)
+- [macro] The Crowd Is Dumping Oklo. Here's Why I'd Be Buying It Down 44%. (Yahoo Finance)
 - [macro] Silver or Gold: Is a Mining Stock Fund Better Than Holding Physical Bullion Through an ETF? (Yahoo Finance)
 - [macro] More than 250,000 flee wildfires in France and Spain (BBC News)
-- [macro] Larry Ellison Personally Guaranteed $40.4 Billion of His Son's Warner Bros. Discovery Deal. Now 12 States Have Sued to Block It, and Oracle Stock Has Fallen 34% This Month. (Yahoo Finance)
-- [macro] Bankrupt fried chicken chain franchisee sells last 23 locations (Yahoo Finance)
 - [crypto] Russia’s largest bank Sberbank plans crypto trading infrastructure by December (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside. (Yahoo Finance)
-- [macro] Korea's chipmakers prepare big U.S. deals in Silicon Valley (Yahoo Finance)
 - [macro] Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus (Yahoo Finance)
 - [commodity] Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities (Energy)
