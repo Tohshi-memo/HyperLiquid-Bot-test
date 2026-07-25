@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-25T22:52:31.664693+00:00`
-- Market context score: `46.98`
-- News risk score: `40.93`
-- Macro risk score: `27.39`
-- Risk-on score: `27.08`
-- Articles: `32`
+- Generated: `2026-07-25T23:07:26.245688+00:00`
+- Market context score: `46.65`
+- News risk score: `41.27`
+- Macro risk score: `28.06`
+- Risk-on score: `26.88`
+- Articles: `31`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7155`
-- Day/swing latest: `2026-07-25T22:45:00+00:00`
+- Day/swing records: `7156`
+- Day/swing latest: `2026-07-25T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `3`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `3`
 
 ## Headlines
 
@@ -37,4 +37,4 @@
 - [macro] Here’s What a $300,000 Budget Actually Buys You in The Villages, Florida (Yahoo Finance)
 - [macro] Top 3 US Stock Market Stories From This Week (Yahoo Finance)
 - [macro] Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant (Yahoo Finance)
-- [macro] Several injured at Berlin Pride after reports vehicle drove into crowd, police say (BBC News)
+- [macro] Peter Schiff says SpaceX is a warning for hyped stocks (Yahoo Finance)
