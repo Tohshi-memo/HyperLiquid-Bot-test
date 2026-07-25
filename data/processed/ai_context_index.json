@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-25T07:22:26.042011+00:00",
+  "updated_at": "2026-07-25T07:34:58.230348+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -26,7 +26,7 @@
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 64169,
+        "bytes": 64164,
         "note": "Machine-readable map."
       },
       {
@@ -61,7 +61,7 @@
       },
       {
         "path": "data/reports/latest_hip4_outcome.md",
-        "bytes": 8732,
+        "bytes": 827,
         "note": "HIP-4 outcome market overview."
       },
       {
@@ -103,7 +103,7 @@
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 6265819,
+        "bytes": 6266613,
         "note": "News/context history."
       },
       {
@@ -113,12 +113,12 @@
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 530215,
+        "bytes": 530255,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 43124425,
+        "bytes": 43124696,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -133,17 +133,17 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 22416,
+        "bytes": 667,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 6231308,
+        "bytes": 6220693,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
         "path": "data/processed/relationship_scan_latest.json",
-        "bytes": 1690550,
+        "bytes": 1690541,
         "note": "Mechanical A/B -> future-return candidate patterns."
       },
       {
@@ -167,10 +167,6 @@
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
       {
-        "path": "data/archive/asset_price_history_2026-07.jsonl.gz",
-        "when_to_read": "Only for longer backtests after a specific rule is selected."
-      },
-      {
         "path": "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
@@ -181,7 +177,7 @@
     ]
   },
   "dataset_health": {
-    "market_context_history_records": 7855,
+    "market_context_history_records": 7856,
     "flow_alert_history_records": 8640,
     "polymarket_outcome_history_records": 75000,
     "macro_indicator_count": 11,
@@ -193,8 +189,7 @@
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
-      "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-07.jsonl.gz"
+      "data/archive/asset_price_history_2026-06.jsonl.gz"
     ],
     "polymarket_outcome_archive_files": [
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
@@ -203,7 +198,6 @@
     "archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
       "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-07.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-06.jsonl.gz"
     ],
@@ -227,25 +221,17 @@
       "24h": 27204,
       "72h": 25040
     },
-    "hip4_outcome_count": 12,
-    "hip4_side_count": 24,
+    "hip4_outcome_count": 0,
+    "hip4_side_count": 0,
     "hip4_outcome_history_records": 720,
-    "hip4_outcome_by_underlying": {
-      "unknown": 8,
-      "BTC": 1,
-      "ETH": 1,
-      "SOL": 1,
-      "HYPE": 1
-    },
-    "hip4_outcome_by_class": {
-      "unknown": 4,
-      "priceBinary": 4,
-      "fallback": 1,
-      "namedOutcome": 3
-    },
-    "hip4_outcome_request_errors": [],
+    "hip4_outcome_by_underlying": {},
+    "hip4_outcome_by_class": {},
+    "hip4_outcome_request_errors": [
+      "outcomeMeta: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info",
+      "allMids: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
+    ],
     "hip4_outcome_request_warnings": [
-      "outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info"
+      "outcomeAssetCtxs: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
     ],
     "relationship_pattern_count": 120,
     "relationship_min_samples": 30,
@@ -254,7 +240,7 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-07-25T07:22:26.042011+00:00",
+    "generated_at": "2026-07-25T07:34:58.230348+00:00",
     "scores": {
       "news_risk_score": 47.87,
       "macro_risk_score": 41.49,
@@ -547,7 +533,7 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-07-25T07:20:26.420605+00:00",
+      "generated_at": "2026-07-25T07:30:32.951516+00:00",
       "scores": {
         "flow_alert_score": 17.0,
         "flow_alert_level": "baseline"
@@ -567,9 +553,9 @@
       },
       "polymarket": {
         "market_count": 58,
-        "volume_24h": 12723779.04,
-        "lifetime_volume": 301200366.91,
-        "liquidity": 17983879.58,
+        "volume_24h": 12704797.92,
+        "lifetime_volume": 301804983.42,
+        "liquidity": 17461675.14,
         "top_markets": [
           {
             "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
@@ -580,7 +566,7 @@
             "impact_category": "policy",
             "volume_24h": 1965754.9933310002,
             "volume": 46224362.39541418,
-            "liquidity": 27892.06085,
+            "liquidity": 27606.59477,
             "end_date": "2026-06-01T00:00:00Z",
             "outcomes": [
               {
@@ -604,9 +590,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-july-181",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 1164028.4408949981,
-            "volume": 27198738.262553696,
-            "liquidity": 397215.76582,
+            "volume_24h": 1157248.8434999983,
+            "volume": 27199369.345062695,
+            "liquidity": 401749.87181,
             "end_date": "2026-07-29T00:00:00Z",
             "outcomes": [
               {
@@ -630,24 +616,24 @@
             "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 672163.401753,
-            "volume": 1475985.7740770062,
-            "liquidity": 67476.08384,
+            "volume_24h": 662086.3967530001,
+            "volume": 1476008.0240770062,
+            "liquidity": 69413.33513,
             "end_date": "2026-07-25T23:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.9595,
+                "probability": 0.96,
                 "token_id": "68080778697884921540335032370654180051222428162809511382222697646266365598353"
               },
               {
                 "name": "No",
-                "probability": 0.0405,
+                "probability": 0.04,
                 "token_id": "78490650034715460452736990813572497306014595139693256665537363422066781784722"
               }
             ],
-            "yes_probability": 0.9595,
-            "no_probability": 0.0405
+            "yes_probability": 0.96,
+            "no_probability": 0.04
           },
           {
             "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
@@ -658,7 +644,7 @@
             "impact_category": "macro",
             "volume_24h": 651148.5369029999,
             "volume": 17884218.688727874,
-            "liquidity": 616084.30354,
+            "liquidity": 621172.17354,
             "end_date": "2026-07-29T00:00:00Z",
             "outcomes": [
               {
@@ -682,9 +668,9 @@
             "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 639871.9639949999,
-            "volume": 47220701.57986266,
-            "liquidity": 848764.3267,
+            "volume_24h": 639759.8206629999,
+            "volume": 47220871.57986266,
+            "liquidity": 858836.3002,
             "end_date": "2026-12-31T00:00:00Z",
             "outcomes": [
               {
@@ -710,7 +696,7 @@
             "impact_category": "macro",
             "volume_24h": 612675.678,
             "volume": 13040977.076148918,
-            "liquidity": 2140750.06532,
+            "liquidity": 2140902.33232,
             "end_date": "2026-07-29T00:00:00Z",
             "outcomes": [
               {
@@ -736,7 +722,7 @@
             "impact_category": "macro",
             "volume_24h": 556687.8439120001,
             "volume": 15092092.749237088,
-            "liquidity": 507664.38048,
+            "liquidity": 507164.44448,
             "end_date": "2026-07-29T00:00:00Z",
             "outcomes": [
               {
@@ -760,9 +746,9 @@
             "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 447575.11966,
-            "volume": 602445.8565010002,
-            "liquidity": 51243.56488,
+            "volume_24h": 445383.23966,
+            "volume": 602712.0265010003,
+            "liquidity": 48738.04053,
             "end_date": "2026-07-24T23:59:00Z",
             "outcomes": [
               {
@@ -812,9 +798,9 @@
             "url": "https://polymarket.com/event/will-trump-meet-with-netanyahu-byptptpt-20260714195149520",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 295508.7744729993,
-            "volume": 392986.2271299989,
-            "liquidity": 50249.4803,
+            "volume_24h": 295494.61862999934,
+            "volume": 393050.5128429989,
+            "liquidity": 52191.4569,
             "end_date": "2026-07-31T23:59:00Z",
             "outcomes": [
               {
@@ -837,32 +823,22 @@
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-07-25T07:22:26.042011+00:00",
-      "outcome_count": 12,
-      "side_count": 24,
-      "by_underlying": {
-        "unknown": 8,
-        "BTC": 1,
-        "ETH": 1,
-        "SOL": 1,
-        "HYPE": 1
-      },
-      "by_class": {
-        "unknown": 4,
-        "priceBinary": 4,
-        "fallback": 1,
-        "namedOutcome": 3
-      },
-      "by_status": {
-        "unknown": 12
-      },
-      "request_errors": [],
+      "generated_at": "2026-07-25T07:34:58.230348+00:00",
+      "outcome_count": 0,
+      "side_count": 0,
+      "by_underlying": {},
+      "by_class": {},
+      "by_status": {},
+      "request_errors": [
+        "outcomeMeta: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info",
+        "allMids: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
+      ],
       "request_warnings": [
-        "outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info"
+        "outcomeAssetCtxs: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-07-25T07:22:26.042011+00:00",
+      "generated_at": "2026-07-25T07:34:58.230348+00:00",
       "pattern_count": 120,
       "min_samples": 30,
       "top_patterns": [
@@ -1141,7 +1117,7 @@
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-07-25T07:22:26.042011+00:00",
+      "generated_at": "2026-07-25T07:34:58.230348+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121162,
       "top_patterns": [
@@ -1315,7 +1291,7 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-07-25T07:22:26.042011+00:00",
+      "generated_at": "2026-07-25T07:34:58.230348+00:00",
       "observed_at": "2026-07-25T07:15:00+00:00",
       "asset_count": 1175,
       "top_assets": [
@@ -1596,7 +1572,7 @@
     "status": "ready",
     "sample_status": {
       "asset_price_records": 672,
-      "market_context_records": 7855,
+      "market_context_records": 7856,
       "flow_alert_records": 8640,
       "minimum_for_correlation": 24,
       "ready_for_correlation": true
