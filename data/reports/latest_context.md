@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T12:07:26.381129+00:00`
-- Market context score: `43.53`
-- News risk score: `46.33`
-- Macro risk score: `38.67`
-- Risk-on score: `28.25`
+- Generated: `2026-07-26T12:22:27.679163+00:00`
+- Market context score: `47.12`
+- News risk score: `42.11`
+- Macro risk score: `34.5`
+- Risk-on score: `31.07`
 - Articles: `15`
 - Polymarket markets: `393`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7207`
-- Day/swing latest: `2026-07-26T12:00:00+00:00`
+- Day/swing records: `7208`
+- Day/swing latest: `2026-07-26T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `8`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Water supply issue affects Gatwick Airport (BBC News)
 - [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
 - [macro] Firefighters battle wildfire as tens of thousands evacuated near Bordeaux (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Europe's high regulatory bar could spark new crypto industry M&A wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: At the scene of Berlin Pride attack as manhunt continues (BBC News)
 - [crypto] Shiba Inu surges 36% as South Korean traders fuel mystery rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] BitMart to wind down exchange, end trading by Aug. 26 (Cointelegraph.com News)
