@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T12:52:27.729655+00:00`
-- Market context score: `43.76`
-- News risk score: `43.71`
+- Generated: `2026-07-26T13:07:22.350123+00:00`
+- Market context score: `41.03`
+- News risk score: `47.73`
 - Macro risk score: `37.71`
-- Risk-on score: `26.19`
-- Articles: `14`
+- Risk-on score: `23.51`
+- Articles: `15`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7210`
-- Day/swing latest: `2026-07-26T12:45:00+00:00`
+- Day/swing records: `7211`
+- Day/swing latest: `2026-07-26T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
 - macro: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 
 ## Headlines
 
 - [macro] Water supply issue affects Gatwick Airport (BBC News)
+- [crypto] U.S. regulator warns prediction markets against cutting corners in event contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
 - [macro] Firefighters battle wildfire as tens of thousands evacuated near Bordeaux (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
 - [crypto] Europe's high regulatory bar could spark new crypto industry M&A wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: At the scene of Berlin Pride attack as manhunt continues (BBC News)
-- [crypto] Shiba Inu surges 36% as South Korean traders fuel mystery rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
