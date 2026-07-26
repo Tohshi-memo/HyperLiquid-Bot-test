@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T14:07:32.834007+00:00`
+- Generated: `2026-07-26T14:12:43.092982+00:00`
 - Market context score: `46.06`
 - News risk score: `42.11`
 - Macro risk score: `37.71`
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
 - [macro] Gatwick Airport left without running water after major outage (BBC News)
 - [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
-- [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
 - [crypto] Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn (Cointelegraph.com News)
 - [crypto] U.S. regulator warns prediction markets against cutting corners in event contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
