@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T13:22:29.609767+00:00`
+- Generated: `2026-07-26T13:37:25.330156+00:00`
 - Market context score: `42.31`
 - News risk score: `45.86`
 - Macro risk score: `37.71`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7212`
-- Day/swing latest: `2026-07-26T13:15:00+00:00`
+- Day/swing records: `7213`
+- Day/swing latest: `2026-07-26T13:30:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 ## Headlines
 
 - [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
+- [macro] Gatwick Airport left without running water after major outage (BBC News)
 - [crypto] Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn (Cointelegraph.com News)
-- [macro] Water supply issue affects Gatwick Airport (BBC News)
 - [crypto] U.S. regulator warns prediction markets against cutting corners in event contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
