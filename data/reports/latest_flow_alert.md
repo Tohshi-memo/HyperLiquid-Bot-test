@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-26T14:25:26.628276+00:00`
+- Generated: `2026-07-26T14:30:26.399258+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12811503.45`
-- Polymarket volume z-score: `-0.57`
+- Polymarket 24h volume: `12908288.72`
+- Polymarket volume z-score: `-0.56`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1989435.333333` | liquidity: `33408.89517`
-- Will the U.S. invade Iran before 2027? | 24h volume: `952748.4043840001` | liquidity: `736315.1633`
-- Israel x Iran ceasefire continues through July 25? | 24h volume: `755988.0902609999` | liquidity: `183216.13474`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `686494.556281` | liquidity: `315205.7841`
-- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `665890.3530000001` | liquidity: `2357674.58998`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `608718.3778889987` | liquidity: `720207.72152`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `493763.1343299989` | liquidity: `534695.92467`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `491346.9726260008` | liquidity: `450586.80949`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1989435.333333` | liquidity: `32909.24067`
+- Will the U.S. invade Iran before 2027? | 24h volume: `955043.7527400001` | liquidity: `738685.6538`
+- Israel x Iran ceasefire continues through July 25? | 24h volume: `756120.9902609999` | liquidity: `178862.24072`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `687494.556281` | liquidity: `319470.0955`
+- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `671368.9580000001` | liquidity: `2355271.81198`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `618861.2350309987` | liquidity: `712619.34228`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `494485.0363299989` | liquidity: `535943.47941`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `491183.59286800085` | liquidity: `450868.75224`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
