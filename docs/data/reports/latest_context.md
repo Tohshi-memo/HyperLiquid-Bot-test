@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T14:22:29.108542+00:00`
+- Generated: `2026-07-26T14:37:30.283130+00:00`
 - Market context score: `43.87`
 - News risk score: `44.25`
 - Macro risk score: `42.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7216`
-- Day/swing latest: `2026-07-26T14:15:00+00:00`
+- Day/swing records: `7217`
+- Day/swing latest: `2026-07-26T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
 - [macro] Gatwick Airport left without running water after major outage (BBC News)
+- [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
 - [macro] ICE uses a $125 million Thomson Reuters deal to access your credit card data without a warrant (Yahoo Finance)
 - [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
 - [crypto] Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy (Cointelegraph.com News)
