@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T03:52:30.824894+00:00`
-- Market context score: `49.98`
-- News risk score: `39.33`
-- Macro risk score: `18.67`
-- Risk-on score: `29.11`
+- Generated: `2026-07-26T04:07:24.062296+00:00`
+- Market context score: `47.26`
+- News risk score: `43.5`
+- Macro risk score: `18.0`
+- Risk-on score: `26.33`
 - Articles: `14`
-- Polymarket markets: `394`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7174`
-- Day/swing latest: `2026-07-26T03:45:00+00:00`
+- Day/swing records: `7175`
+- Day/swing latest: `2026-07-26T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Left-wing Democrats are on a winning run - but can they lure back crucial swing voters? (BBC News)
 - [crypto] Binance ‘red teams’ its own staff every month to keep hackers out (Cointelegraph.com News)
 - [macro] More than 300,000 flee wildfires in France and Spain (BBC News)
 - [macro] The notorious Cameroonian prison with its own record label (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Pizza, pasta, potatoes, protein - how Italian children became so overweight (BBC News)
 - [macro] Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis (BBC News)
 - [crypto] Robinhood in talks with Crypto.com over prediction markets: WSJ (Cointelegraph.com News)
-- [crypto] Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program (Cointelegraph.com News)
