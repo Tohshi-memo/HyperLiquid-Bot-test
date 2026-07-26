@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T12:22:27.679163+00:00`
-- Market context score: `47.12`
-- News risk score: `42.11`
-- Macro risk score: `34.5`
-- Risk-on score: `31.07`
-- Articles: `15`
+- Generated: `2026-07-26T12:34:15.518348+00:00`
+- Market context score: `43.76`
+- News risk score: `43.71`
+- Macro risk score: `37.71`
+- Risk-on score: `26.19`
+- Articles: `14`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7208`
-- Day/swing latest: `2026-07-26T12:15:00+00:00`
+- Day/swing records: `7209`
+- Day/swing latest: `2026-07-26T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
+- macro: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Water supply issue affects Gatwick Airport (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
 - [macro] Firefighters battle wildfire as tens of thousands evacuated near Bordeaux (BBC News)
 - [macro] Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say (BBC News)
