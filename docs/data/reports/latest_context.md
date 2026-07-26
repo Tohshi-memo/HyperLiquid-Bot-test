@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T10:37:26.562179+00:00`
-- Market context score: `50.07`
-- News risk score: `41.18`
-- Macro risk score: `28.36`
-- Risk-on score: `34.55`
-- Articles: `17`
+- Generated: `2026-07-26T10:52:30.800239+00:00`
+- Market context score: `46.93`
+- News risk score: `43.0`
+- Macro risk score: `32.0`
+- Risk-on score: `30.48`
+- Articles: `18`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7201`
-- Day/swing latest: `2026-07-26T10:30:00+00:00`
+- Day/swing records: `7202`
+- Day/swing latest: `2026-07-26T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
+- [macro] Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say (BBC News)
 - [crypto] South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys (Cointelegraph.com News)
 - [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
 - [crypto] Europe's high regulatory bar could spark new crypto industry M&A wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Shiba Inu surges 36% as South Korean traders fuel mystery rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BitMart to wind down exchange, end trading by Aug. 26 (Cointelegraph.com News)
 - [crypto] Crypto exchange BitMart to shut down after nine years, BMX token crashes 58% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Left-wing Democrats are on a winning run - but can they lure back crucial swing voters? (BBC News)
