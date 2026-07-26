@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T20:22:24.667403+00:00`
+- Generated: `2026-07-26T20:37:26.136042+00:00`
 - Market context score: `36.86`
 - News risk score: `57.18`
 - Macro risk score: `38.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7239`
-- Day/swing latest: `2026-07-26T20:15:00+00:00`
+- Day/swing records: `7240`
+- Day/swing latest: `2026-07-26T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
 - [macro] Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says (Yahoo Finance)
 - [macro] The Market May Be Focusing on the Wrong Metric at MercadoLibre (Yahoo Finance)
 - [macro] Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Berlin Pride attack suspect shot and killed during police operation (BBC News)
 - [macro] Airbnb Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now. (Yahoo Finance)
 - [macro] Rising inflation turns July Fed meeting into rate-hike showdown (Yahoo Finance)
-- [macro] Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%. (Yahoo Finance)
