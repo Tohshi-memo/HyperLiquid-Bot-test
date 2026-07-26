@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T06:37:26.785838+00:00`
-- Market context score: `53.32`
-- News risk score: `40.5`
-- Macro risk score: `12.0`
-- Risk-on score: `35.0`
-- Articles: `10`
+- Generated: `2026-07-26T06:52:25.925778+00:00`
+- Market context score: `49.92`
+- News risk score: `43.83`
+- Macro risk score: `18.67`
+- Risk-on score: `32.78`
+- Articles: `11`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7185`
-- Day/swing latest: `2026-07-26T06:30:00+00:00`
+- Day/swing records: `7186`
+- Day/swing latest: `2026-07-26T06:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
@@ -31,9 +31,9 @@
 - [crypto] Binance ‘red teams’ its own staff every month to keep hackers out (Cointelegraph.com News)
 - [macro] More than 300,000 flee wildfires in France and Spain (BBC News)
 - [macro] The notorious Cameroonian prison with its own record label (BBC News)
+- [macro] Primark's new 'supermarket tactic' to woo customers in online price war (BBC News)
 - [macro] Would you pay $58.5m to live in this iconic New York building? (BBC News)
 - [macro] Rental searches for pet friendly properties drop after law change (BBC News)
 - [macro] What Love Island tells us about the changing face of dating (BBC News)
 - [macro] Pizza, pasta, potatoes, protein - how Italian children became so overweight (BBC News)
 - [macro] Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis (BBC News)
-- [crypto] Robinhood in talks with Crypto.com over prediction markets: WSJ (Cointelegraph.com News)
