@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T07:22:28.539378+00:00`
+- Generated: `2026-07-26T07:27:47.481985+00:00`
 - Market context score: `52.02`
 - News risk score: `36.33`
 - Macro risk score: `18.67`
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] France battles fire 'whirlwinds' as another 55,000 evacuated (BBC News)
 - [crypto] Crypto exchange BitMart to shut down after nine years, BMX token crashes 58% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Left-wing Democrats are on a winning run - but can they lure back crucial swing voters? (BBC News)
 - [crypto] Binance ‘red teams’ its own staff every month to keep hackers out (Cointelegraph.com News)
-- [macro] More than 300,000 flee wildfires in France and Spain (BBC News)
 - [macro] The notorious Cameroonian prison with its own record label (BBC News)
 - [macro] Primark's new 'supermarket tactic' to woo customers in online price war (BBC News)
 - [macro] Would you pay $58.5m to live in this iconic New York building? (BBC News)
