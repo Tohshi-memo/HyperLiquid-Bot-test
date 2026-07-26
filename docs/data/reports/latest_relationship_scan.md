@@ -2,9 +2,9 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-07-26T04:47:42.973708+00:00`
+- Generated: `2026-07-26T04:52:32.535751+00:00`
 - Price records: `672`
-- Market context records: `7951`
+- Market context records: `7952`
 - Flow alert records: `8640`
 - Minimum samples: `30`
 - Pattern count: `96`
@@ -44,7 +44,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->fx_1h` score `-0.402` n `91` status `ready` deltaP `0.3036` edge `0.0012` maxDD `-0.2715`
 - `market_context_high->fx_4h` score `-0.4526` n `91` status `ready` deltaP `4.6879` edge `0.0058` maxDD `-0.9813`
 - `market_context_high->commodity_4h` score `-0.52` n `91` status `ready` deltaP `2.5843` edge `0.0159` maxDD `-2.4502`
-- `market_context_high->unknown_1h` score `-1.7162` n `91` status `ready` deltaP `9.5891` edge `-0.1646` maxDD `-1.054`
+- `market_context_high->unknown_1h` score `-1.715` n `91` status `ready` deltaP `9.5891` edge `-0.1645` maxDD `-1.054`
 
 ## Guardrails
 
