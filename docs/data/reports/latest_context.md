@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T18:47:00.875294+00:00`
+- Generated: `2026-07-26T18:52:26.331247+00:00`
 - Market context score: `42.47`
 - News risk score: `48.68`
 - Macro risk score: `40.09`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Firefighters battle wildfire as tens of thousands evacuated near Bordeaux (BBC News)
 - [macro] Water returning to Gatwick Airport after major outage (BBC News)
+- [macro] Firefighters battle wildfire as tens of thousands evacuated near Bordeaux (BBC News)
 - [macro] How to Make the Most of a 3.9% Social Security COLA Bump for 2027 (Yahoo Finance)
 - [macro] Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors (Yahoo Finance)
 - [crypto] 2 weeks left for Clarity: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
