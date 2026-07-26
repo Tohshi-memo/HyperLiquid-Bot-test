@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T14:37:30.283130+00:00`
-- Market context score: `43.87`
+- Generated: `2026-07-26T14:52:30.096648+00:00`
+- Market context score: `42.67`
 - News risk score: `44.25`
 - Macro risk score: `42.0`
-- Risk-on score: `28.5`
+- Risk-on score: `25.83`
 - Articles: `16`
 - Polymarket markets: `393`
 
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7217`
-- Day/swing latest: `2026-07-26T14:30:00+00:00`
+- Day/swing records: `7218`
+- Day/swing latest: `2026-07-26T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
+- macro: articles `7`, risk hits `5`, risk headline rate `0.5714`, policy hits `0`
 
 ## Headlines
 
-- [macro] Gatwick Airport left without running water after major outage (BBC News)
 - [commodity] Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' (Energy)
-- [macro] ICE uses a $125 million Thomson Reuters deal to access your credit card data without a warrant (Yahoo Finance)
+- [macro] Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks (Yahoo Finance)
+- [macro] Gatwick Airport left without running water after major outage (BBC News)
 - [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
 - [crypto] Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy (Cointelegraph.com News)
 - [crypto] U.S. regulator warns prediction markets against cutting corners in event contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
