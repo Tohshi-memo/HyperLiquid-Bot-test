@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T07:07:27.461145+00:00`
-- Market context score: `29.62`
-- News risk score: `55.97`
-- Macro risk score: `38.49`
-- Risk-on score: `5.4`
-- Articles: `28`
-- Polymarket markets: `394`
+- Generated: `2026-07-27T07:22:28.608518+00:00`
+- Market context score: `33.72`
+- News risk score: `54.91`
+- Macro risk score: `36.35`
+- Risk-on score: `12.8`
+- Articles: `27`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7280`
-- Day/swing latest: `2026-07-27T07:00:00+00:00`
+- Day/swing records: `7281`
+- Day/swing latest: `2026-07-27T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `7`, risk headline rate `0.5455`, policy hits `1`
-- macro: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `1`
+- macro: articles `15`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
 - [macro] PM pledges continued support for Ukraine ahead of Zelensky visit (BBC News)
-- [crypto] Live updates: Ether leads crypto higher as bitcoin trades around $65,500 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live updates: Ether leads crypto higher. China's gold imports surge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto is the canary in the coal mine for the quantum computing threat, experts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil slides 6% as Iran reportedly signals halt to attacks if U.S. pause holds (Energy)
 - [macro] Chipmaker CXMT becomes mainland China's most valuable listed firm (BBC News)
