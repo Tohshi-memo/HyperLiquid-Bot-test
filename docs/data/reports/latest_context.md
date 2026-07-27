@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T14:52:30.771224+00:00`
-- Market context score: `55.1`
-- News risk score: `43.46`
-- Macro risk score: `25.21`
-- Risk-on score: `46.44`
-- Articles: `92`
+- Generated: `2026-07-27T15:07:29.445712+00:00`
+- Market context score: `53.47`
+- News risk score: `43.57`
+- Macro risk score: `26.97`
+- Risk-on score: `43.59`
+- Articles: `94`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7310`
-- Day/swing latest: `2026-07-27T14:45:00+00:00`
+- Day/swing records: `7311`
+- Day/swing latest: `2026-07-27T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `30`, risk hits `9`, risk headline rate `0.2333`, policy hits `8`
-- macro: articles `59`, risk hits `12`, risk headline rate `0.1525`, policy hits `7`
+- crypto: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `8`
+- macro: articles `59`, risk hits `16`, risk headline rate `0.2034`, policy hits `3`
 
 ## Headlines
 
+- [macro] ACCIONA divests 361MW of Spanish wind farms to Galp for $491m (Yahoo Finance)
+- [macro] Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls' (Yahoo Finance)
+- [crypto] What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] More AI Fatigue? Why I’m Doubly Confident To Load Up on Meta Before Earnings on July 29 (Yahoo Finance)
+- [macro] I’m Buying Microsoft Before July 29 for One Reason (Yahoo Finance)
+- [macro] Semiconductor stock charts just formed this bearish shape that signals more potential losses (Yahoo Finance)
+- [macro] Micron’s 30% July Washout Just Sparked a Single-Digit P/E— Is it a Buying Signal? (Yahoo Finance)
 - [macro] Biden, Carney and Oasis: How the world is celebrating Mayo's All-Ireland win (BBC News)
-- [crypto] Fanatics buys regulated exchange in bid to grow prediction markets business (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Compelling Reasons to Add ATS Corporation (ATS) (Yahoo Finance)
-- [crypto] Cantor is advising crypto bank AMINA on path to potential public listing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stocks to Watch: Nvidia, Strategy, Cracker Barrel, LVMH (Yahoo Finance)
-- [macro] Week ahead: Wall Street's biggest summer test is here with Big Tech, Fed on deck (Yahoo Finance)
-- [macro] I Asked AI to Plan My Financial Independence Strategy. It Got 2 Things Completely Wrong. (Yahoo Finance)
-- [macro] 3 realities from the summer tech stock rout you are probably overlooking (Yahoo Finance)
-- [macro] I Will Keep Buying Amazon After Wall Street Next ‘Capex Panic’ Drops The Stock Price (Yahoo Finance)
-- [macro] Data Centre Cooling Demand Boosted AAON (AAON) (Yahoo Finance)
+- [crypto] Bitcoin price eyes $66K as US stocks rise on Iran-strike pause (Cointelegraph.com News)
+- [macro] PTC (PTC): A Mispriced Opportunity? (Yahoo Finance)
