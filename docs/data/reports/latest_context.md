@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T18:22:31.985478+00:00`
+- Generated: `2026-07-27T18:37:27.972416+00:00`
 - Market context score: `50.18`
 - News risk score: `45.44`
 - Macro risk score: `31.24`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7324`
-- Day/swing latest: `2026-07-27T18:15:00+00:00`
+- Day/swing records: `7325`
+- Day/swing latest: `2026-07-27T18:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Cracker Barrel chief executive steps down a year after rebrand chaos (BBC News)
 - [commodity] Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold (Energy)
 - [crypto] Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Wildfire now nine miles away from French city of Bordeaux, mayor warns (BBC News)
-- [macro] Cracker Barrel chief executive steps down a year after rebrand chaos (BBC News)
 - [macro] What you need to know if you're travelling to France or Spain (BBC News)
 - [macro] France and Spain wildfire witnesses describe 'wall of flames', fear and stress (BBC News)
 - [macro] Shots fired at US consulate in Toronto for a second time this year (BBC News)
