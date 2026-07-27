@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T06:22:27.431374+00:00`
-- Market context score: `27.92`
-- News risk score: `58.46`
-- Macro risk score: `38.56`
-- Risk-on score: `3.76`
-- Articles: `27`
-- Polymarket markets: `395`
+- Generated: `2026-07-27T06:37:28.340877+00:00`
+- Market context score: `25.85`
+- News risk score: `61.51`
+- Macro risk score: `38.63`
+- Risk-on score: `1.76`
+- Articles: `26`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7277`
-- Day/swing latest: `2026-07-27T06:15:00+00:00`
+- Day/swing records: `7278`
+- Day/swing latest: `2026-07-27T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `7`, risk headline rate `0.6`, policy hits `1`
+- crypto: articles `9`, risk hits `7`, risk headline rate `0.6667`, policy hits `1`
 - macro: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Oil slides 6% as Iran reportedly signals halt to attacks if U.S. pause holds (Energy)
 - [macro] Chipmaker CXMT becomes mainland China's most valuable listed firm (BBC News)
 - [macro] Will summer discounts make family days out cheaper? (BBC News)
 - [crypto] Triple-A confirms treasury-wallet breach after losses reach $11.8M (Cointelegraph.com News)
-- [commodity] Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds (Energy)
 - [crypto] BitMart withdrawals appear to slow following wind-down announcement (Cointelegraph.com News)
 - [crypto] Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk (Economy)
 - [macro] Shein swings to $99m loss as Trump tariffs hit sales (BBC News)
 - [crypto] Garden Finance disables app as Blockaid reports $450,000 exploit (Cointelegraph.com News)
-- [macro] Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall (BBC News)
+- [macro] Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall (BBC News)
