@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T11:07:24.340062+00:00`
-- Market context score: `46.63`
-- News risk score: `50.16`
-- Macro risk score: `30.95`
-- Risk-on score: `35.44`
-- Articles: `66`
+- Generated: `2026-07-27T11:22:27.343875+00:00`
+- Market context score: `47.78`
+- News risk score: `47.76`
+- Macro risk score: `26.94`
+- Risk-on score: `34.46`
+- Articles: `68`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:776`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7295`
-- Day/swing latest: `2026-07-27T11:00:00+00:00`
+- Day/swing records: `7296`
+- Day/swing latest: `2026-07-27T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `3`
-- macro: articles `46`, risk hits `15`, risk headline rate `0.2609`, policy hits `12`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `3`
+- macro: articles `47`, risk hits `12`, risk headline rate `0.1915`, policy hits `10`
 
 ## Headlines
 
+- [crypto] Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] How 'fire-generated thunderstorms' make wildfires more deadly (BBC News)
+- [macro] Spain cereals firm Haricaman gets investment (Yahoo Finance)
+- [macro] AfDB approves $114m loan for Morocco battery plant (Yahoo Finance)
+- [macro] JD.com signs home comfort retail agreement with Carrier (Yahoo Finance)
+- [macro] If You Invest $10,000 in AGNC Investment Today, Here's the Monthly Passive Income You Could Have in 20 Years (Yahoo Finance)
 - [crypto] Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Micron, Sandisk, and Intel Have Dominated 2026. Which Is the Best Buy Now? (Yahoo Finance)
-- [macro] After Losing 40% Of His Net Worth In A Month, Elon Musk Attempts To Raise $4 Billion For Another Company (Yahoo Finance)
-- [macro] Goldman Sachs leads oil and gas M&A advisory by value in H1 2026 (Yahoo Finance)
-- [macro] Three dead and several injured in shooting at food festival near Seattle's Space Needle (BBC News)
-- [macro] Morning Bid: China chip champ (Yahoo Finance)
-- [macro] Oil price dives as US and Iran pause attacks (BBC News)
-- [macro] Oil price dives as US and Iran pause attacks (BBC News)
-- [macro] VW H1 operating profit falls 11.6% on US ID.4 exit, China slump (Yahoo Finance)
-- [crypto] Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Vontobel’s H1 profit jumps 87% as efficiency gains strengthen results (Yahoo Finance)
+- [macro] Pirlo out of Italy football top job after backlash over Russian betting firm links (BBC News)
+- [macro] IMF chief visits Argentina as 2027 debt hurdle looms (Yahoo Finance)
