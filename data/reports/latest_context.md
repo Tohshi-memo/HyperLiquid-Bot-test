@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-26T23:52:27.276329+00:00`
-- Market context score: `40.56`
-- News risk score: `55.57`
-- Macro risk score: `34.36`
-- Risk-on score: `27.82`
-- Articles: `42`
+- Generated: `2026-07-27T00:07:28.570839+00:00`
+- Market context score: `30.41`
+- News risk score: `54.14`
+- Macro risk score: `39.27`
+- Risk-on score: `5.91`
+- Articles: `19`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7253`
-- Day/swing latest: `2026-07-26T23:45:00+00:00`
+- Day/swing records: `7254`
+- Day/swing latest: `2026-07-27T00:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `7`, risk hits `6`, risk headline rate `0.5714`, policy hits `0`
-- macro: articles `34`, risk hits `13`, risk headline rate `0.3529`, policy hits `4`
+- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `8`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
 
 ## Headlines
 
-- [macro] Mark Cuban's group buys stake in relocating MLB franchise (Yahoo Finance)
-- [macro] GE Aerospace has a Backlog Worth $210 Billion. Here's Why I'm Still Not Buying (Yahoo Finance)
-- [macro] Why SLB Stock Surged This Past Week (Yahoo Finance)
-- [macro] HSBC Just Started Covering SpaceX With a $115 Price Target. The Stock Closed Friday at $115.07. (Yahoo Finance)
-- [macro] Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead (Yahoo Finance)
+- [crypto] South Korea trading giant puts receivables onchain in tokenization test with LG CNS (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds (Energy)
 - [macro] Would you choose £50,000 over the chance of £1m? (BBC News)
-- [macro] The Hidden Costs of The Villages Nobody Mentions Until You Move In (Yahoo Finance)
-- [macro] Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise (Yahoo Finance)
 - [crypto] WEMIX says attacker moved about $724,000 after contract breach (Cointelegraph.com News)
-- [macro] Microsoft and Meta Platforms Are Negative in 2026. Here's My Favorite One to Buy Now. (Yahoo Finance)
+- [macro] The Indian Army's first woman boxer is now chasing Commonwealth gold (BBC News)
+- [macro] PM pledges continued support for Ukraine ahead of Zelensky visit (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say (BBC News)
+- [macro] Water returns to Gatwick Airport after major outage (BBC News)
+- [macro] What we know so far about the Berlin Pride ramming attack (BBC News)
