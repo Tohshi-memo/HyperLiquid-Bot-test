@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T15:07:29.445712+00:00`
+- Generated: `2026-07-27T15:09:51.750600+00:00`
 - Market context score: `53.47`
 - News risk score: `43.57`
 - Macro risk score: `26.97`
@@ -28,6 +28,9 @@
 
 ## Headlines
 
+- [macro] Oil price dives as US and Iran pause attacks (BBC News)
+- [macro] Oil price dives as US and Iran pause attacks (BBC News)
+- [macro] Three dead and several injured in shooting at food festival near Seattle's Space Needle (BBC News)
 - [macro] ACCIONA divests 361MW of Spanish wind farms to Galp for $491m (Yahoo Finance)
 - [macro] Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls' (Yahoo Finance)
 - [crypto] What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [macro] I’m Buying Microsoft Before July 29 for One Reason (Yahoo Finance)
 - [macro] Semiconductor stock charts just formed this bearish shape that signals more potential losses (Yahoo Finance)
 - [macro] Micron’s 30% July Washout Just Sparked a Single-Digit P/E— Is it a Buying Signal? (Yahoo Finance)
-- [macro] Biden, Carney and Oasis: How the world is celebrating Mayo's All-Ireland win (BBC News)
-- [crypto] Bitcoin price eyes $66K as US stocks rise on Iran-strike pause (Cointelegraph.com News)
-- [macro] PTC (PTC): A Mispriced Opportunity? (Yahoo Finance)
