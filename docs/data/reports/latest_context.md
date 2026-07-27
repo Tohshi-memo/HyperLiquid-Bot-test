@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T20:37:33.865115+00:00`
-- Market context score: `48.19`
-- News risk score: `47.09`
-- Macro risk score: `33.02`
-- Risk-on score: `37.1`
-- Articles: `78`
+- Generated: `2026-07-27T20:52:25.247315+00:00`
+- Market context score: `47.7`
+- News risk score: `47.57`
+- Macro risk score: `33.98`
+- Risk-on score: `36.8`
+- Articles: `76`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7333`
-- Day/swing latest: `2026-07-27T20:30:00+00:00`
+- Day/swing records: `7334`
+- Day/swing latest: `2026-07-27T20:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `35`, risk hits `10`, risk headline rate `0.2286`, policy hits `8`
 - macro: articles `39`, risk hits `14`, risk headline rate `0.2821`, policy hits `3`
 
 ## Headlines
 
-- [macro] Wildfire now nine miles from French city of Bordeaux, mayor warns (BBC News)
 - [commodity] Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture (Energy)
+- [macro] Wildfire now nine miles from French city of Bordeaux, mayor warns (BBC News)
 - [macro] Pirlo out of Italy football top job after backlash over Russian betting firm links (BBC News)
 - [crypto] Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Wildfire witnesses describe 'wall of flames', fear and stress (BBC News)
