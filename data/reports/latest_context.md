@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T20:07:33.026333+00:00`
+- Generated: `2026-07-27T20:19:01.384809+00:00`
 - Market context score: `48.19`
 - News risk score: `47.09`
 - Macro risk score: `33.02`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7331`
-- Day/swing latest: `2026-07-27T20:00:00+00:00`
+- Day/swing records: `7332`
+- Day/swing latest: `2026-07-27T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [commodity] Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture (Energy)
 - [macro] Pirlo out of Italy football top job after backlash over Russian betting firm links (BBC News)
 - [crypto] Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Wildfire witnesses describe 'wall of flames', fear and stress (BBC News)
-- [commodity] Trump says U.S. has sold more than $13 billion of Venezuela oil (Energy)
 - [macro] Police still searching for second suspect in fatal Seattle food festival shooting (BBC News)
 - [crypto] Bitmine keeps buying Ether as ETH outperforms Bitcoin (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
