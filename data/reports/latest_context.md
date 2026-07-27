@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T05:07:45.151980+00:00`
+- Generated: `2026-07-27T05:22:31.575899+00:00`
 - Market context score: `27.3`
 - News risk score: `58.87`
 - Macro risk score: `39.56`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7272`
-- Day/swing latest: `2026-07-27T05:00:00+00:00`
+- Day/swing records: `7273`
+- Day/swing latest: `2026-07-27T05:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `9`, risk headline rate `0.6`, policy hits `0`
-- macro: articles `16`, risk hits `8`, risk headline rate `0.4375`, policy hits `1`
+- macro: articles `17`, risk hits `8`, risk headline rate `0.4118`, policy hits `1`
 
 ## Headlines
 
+- [macro] Will summer discounts make family days out cheaper? (BBC News)
 - [commodity] Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds (Energy)
 - [crypto] BitMart withdrawals appear to slow following wind-down announcement (Cointelegraph.com News)
 - [macro] Chipmaker CXMT becomes mainland China's most valuable listed firm (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms (BBC News)
 - [crypto] Garden Finance disables app as Blockaid reports $450,000 exploit (Cointelegraph.com News)
 - [macro] Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall (BBC News)
-- [macro] Argentinian leader calls Brazilian president a 'thief' and a 'convict' (BBC News)
