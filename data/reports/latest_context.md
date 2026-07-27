@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T14:37:32.900692+00:00`
-- Market context score: `54.77`
-- News risk score: `43.73`
-- Macro risk score: `25.19`
-- Risk-on score: `45.93`
+- Generated: `2026-07-27T14:52:30.771224+00:00`
+- Market context score: `55.1`
+- News risk score: `43.46`
+- Macro risk score: `25.21`
+- Risk-on score: `46.44`
 - Articles: `92`
 - Polymarket markets: `393`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7309`
-- Day/swing latest: `2026-07-27T14:30:00+00:00`
+- Day/swing records: `7310`
+- Day/swing latest: `2026-07-27T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `8`
-- macro: articles `60`, risk hits `13`, risk headline rate `0.1667`, policy hits `4`
+- crypto: articles `30`, risk hits `9`, risk headline rate `0.2333`, policy hits `8`
+- macro: articles `59`, risk hits `12`, risk headline rate `0.1525`, policy hits `7`
 
 ## Headlines
 
+- [macro] Biden, Carney and Oasis: How the world is celebrating Mayo's All-Ireland win (BBC News)
+- [crypto] Fanatics buys regulated exchange in bid to grow prediction markets business (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Compelling Reasons to Add ATS Corporation (ATS) (Yahoo Finance)
 - [crypto] Cantor is advising crypto bank AMINA on path to potential public listing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Stocks to Watch: Nvidia, Strategy, Cracker Barrel, LVMH (Yahoo Finance)
+- [macro] Week ahead: Wall Street's biggest summer test is here with Big Tech, Fed on deck (Yahoo Finance)
+- [macro] I Asked AI to Plan My Financial Independence Strategy. It Got 2 Things Completely Wrong. (Yahoo Finance)
 - [macro] 3 realities from the summer tech stock rout you are probably overlooking (Yahoo Finance)
+- [macro] I Will Keep Buying Amazon After Wall Street Next ‘Capex Panic’ Drops The Stock Price (Yahoo Finance)
 - [macro] Data Centre Cooling Demand Boosted AAON (AAON) (Yahoo Finance)
-- [macro] Everus Construction Group (ECG) Strengthens from Long-Term Infrastructure Demand (Yahoo Finance)
-- [macro] Oil price dives as US and Iran pause attacks (BBC News)
-- [macro] Oil price dives as US and Iran pause attacks (BBC News)
-- [macro] Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk (Economy)
-- [macro] Devastating European wildfires in maps - and how they're being tackled (BBC News)
-- [macro] The Broadcom Dip Is a Gift (Yahoo Finance)
-- [macro] Businessman and philanthropist Sir Ian Wood dies aged 84 (BBC News)
