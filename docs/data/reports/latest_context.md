@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T03:22:33.529704+00:00`
+- Generated: `2026-07-27T03:37:31.035803+00:00`
 - Market context score: `26.24`
 - News risk score: `60.93`
 - Macro risk score: `37.67`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:100, fx:6, index:25, metal:20, unknown:775`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7265`
-- Day/swing latest: `2026-07-27T03:15:00+00:00`
+- Day/swing records: `7266`
+- Day/swing latest: `2026-07-27T03:30:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk (Economy)
 - [macro] Shein swings to $99m loss as Trump tariffs hit sales (BBC News)
 - [crypto] Garden Finance disables app as Blockaid reports $450,000 exploit (Cointelegraph.com News)
 - [macro] Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall (BBC News)
 - [macro] Argentinian leader calls Brazilian president a 'thief' and a 'convict' (BBC News)
 - [crypto] Storj files for bankruptcy, explores equity path for tokenholders (Cointelegraph.com News)
-- [macro] Singapore tightens monetary policy as rising oil prices rekindle inflation risk (Economy)
 - [macro] Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat (BBC News)
 - [crypto] CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26 (Cointelegraph.com News)
 - [crypto] South Korea trading giant puts receivables onchain in tokenization test with LG CNS (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
