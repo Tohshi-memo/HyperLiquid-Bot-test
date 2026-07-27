@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T15:37:31.350567+00:00`
-- Market context score: `51.29`
-- News risk score: `45.33`
-- Macro risk score: `30.43`
-- Risk-on score: `41.52`
+- Generated: `2026-07-27T15:52:30.967125+00:00`
+- Market context score: `51.22`
+- News risk score: `44.67`
+- Macro risk score: `29.17`
+- Risk-on score: `40.34`
 - Articles: `93`
 - Polymarket markets: `393`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7313`
-- Day/swing latest: `2026-07-27T15:30:00+00:00`
+- Day/swing records: `7314`
+- Day/swing latest: `2026-07-27T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `8`
-- macro: articles `58`, risk hits `21`, risk headline rate `0.2586`, policy hits `4`
+- macro: articles `58`, risk hits `20`, risk headline rate `0.2414`, policy hits `3`
 
 ## Headlines
 
-- [macro] ICAI’s first International Conference Europe held in Luxembourg (Yahoo Finance)
+- [macro] Xeinadin extends Dublin reach with acquisition of Hayden Brown (Yahoo Finance)
+- [macro] Stock Market Today: Indexes Mixed On U.S.-Iran War Pause; Pharma Player Tests Entry, Oil Skids (Live Coverage) (Yahoo Finance)
 - [macro] Three dead and several injured in shooting at food festival near Seattle's Space Needle (BBC News)
-- [commodity] Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold (Energy)
-- [macro] Meta Can Absorb Capex Trouble, That Is Why I Am Buying This Week (Yahoo Finance)
-- [macro] Apple Stock Hits Record High Before Fiscal Q3 Earnings (Yahoo Finance)
-- [macro] AI Energy Bottleneck: Buy GE Vernova or NextEra Energy on AI Pivot? (Yahoo Finance)
-- [macro] WestBridge begins process to exit Star Health stake – report (Yahoo Finance)
-- [macro] The ACA Coverage Debate Just Became a $50 Billion Question for Intuitive Surgical (Yahoo Finance)
-- [macro] Oil price dives as US and Iran pause attacks (BBC News)
-- [macro] Oil price dives as US and Iran pause attacks (BBC News)
+- [macro] Nvidia Has Given a Massive Boost to This AI Infrastructure Stock. Buy It Before It Doubles in 3 Years (Yahoo Finance)
+- [macro] Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder (Yahoo Finance)
+- [macro] Kevin O'Leary says save $100,000 by age 33 — most Americans in that age group aren't even close to that (Yahoo Finance)
+- [macro] Monster Beverage Is Splitting Its Stock 2-for-1 on Aug. 11. Here's What a $1,000 Investment Could Be Worth in 5 Years. (Yahoo Finance)
+- [macro] Super Micro’s Margin Beat Is Genuine. And So Is The ‘Value Trap’ Thesis (Yahoo Finance)
+- [macro] ICAI’s first International Conference Europe held in Luxembourg (Yahoo Finance)
+- [macro] 'Job lock' hits 24% of U.S. workers — staying in jobs they hate because losing health insurance terrifies them (Yahoo Finance)
