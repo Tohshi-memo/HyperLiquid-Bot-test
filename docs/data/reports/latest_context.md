@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T20:52:25.247315+00:00`
-- Market context score: `47.7`
-- News risk score: `47.57`
-- Macro risk score: `33.98`
-- Risk-on score: `36.8`
-- Articles: `76`
+- Generated: `2026-07-27T21:07:32.075128+00:00`
+- Market context score: `47.48`
+- News risk score: `47.9`
+- Macro risk score: `34.02`
+- Risk-on score: `36.6`
+- Articles: `75`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7334`
-- Day/swing latest: `2026-07-27T20:45:00+00:00`
+- Day/swing records: `7335`
+- Day/swing latest: `2026-07-27T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `10`, risk headline rate `0.2286`, policy hits `8`
+- crypto: articles `34`, risk hits `10`, risk headline rate `0.2353`, policy hits `8`
 - macro: articles `39`, risk hits `14`, risk headline rate `0.2821`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold (Energy)
 - [commodity] Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture (Energy)
 - [macro] Wildfire now nine miles from French city of Bordeaux, mayor warns (BBC News)
 - [macro] Pirlo out of Italy football top job after backlash over Russian betting firm links (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitmine keeps buying Ether as ETH outperforms Bitcoin (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Cracker Barrel chief executive steps down a year after rebrand chaos (BBC News)
-- [crypto] Securitize Capital becomes SEC-registered investment adviser (Cointelegraph.com News)
