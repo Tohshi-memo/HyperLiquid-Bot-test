@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T11:52:36.358911+00:00`
-- Market context score: `44.26`
-- News risk score: `47.36`
-- Macro risk score: `23.27`
-- Risk-on score: `24.91`
-- Articles: `68`
+- Generated: `2026-07-28T12:07:51.094721+00:00`
+- Market context score: `41.27`
+- News risk score: `49.49`
+- Macro risk score: `25.4`
+- Risk-on score: `20.89`
+- Articles: `72`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7394`
-- Day/swing latest: `2026-07-28T11:45:00+00:00`
+- Day/swing records: `7395`
+- Day/swing latest: `2026-07-28T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `1`
-- macro: articles `46`, risk hits `7`, risk headline rate `0.1522`, policy hits `5`
+- macro: articles `50`, risk hits `9`, risk headline rate `0.18`, policy hits `8`
 
 ## Headlines
 
-- [crypto] Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Sabadell to expand AI focus, centralise key functions in restructure (Yahoo Finance)
-- [macro] Should You Buy Apple Stock Before July 30? (Yahoo Finance)
-- [macro] HSBC to set up global AI excellence centre in Singapore (Yahoo Finance)
-- [macro] Apnimed scouts $160m IPO to back late-stage sleep apnoea pill development (Yahoo Finance)
-- [macro] SpaceX Has Nosedived 50% From Its All-Time High, and It May Realistically Lose Another 50% Before Its Valuation Makes Any Sense (Yahoo Finance)
-- [macro] India's June industrial output grows 7.3% y/y on manufacturing boost (Yahoo Finance)
-- [macro] GSK launches $2.5 billion savings drive to boost drug pipeline (Yahoo Finance)
-- [crypto] Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Core Scientific signs AI infrastructure deal with AMD (Yahoo Finance)
+- [macro] 'It's a hell of a situation': Spain grapples with devastating wildfires (BBC News)
+- [crypto] Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Vinfast partners with akf-Bank for German market expansion (Yahoo Finance)
+- [macro] Dubai DET partners with Julius Baer to support global investors (Yahoo Finance)
+- [macro] Your 401(k) Plan Has a Hidden Roth Door. Here’s How to Use It Before 2027 (Yahoo Finance)
+- [macro] India's June industrial output grows fastest in nearly two years on manufacturing boost (Yahoo Finance)
+- [macro] Seattle pays tribute to food festival shooting victims (BBC News)
+- [macro] Here's Exactly Why Wall Street Thinks Intuitive Surgical Stock Could Soar 102% Over the Next 12 Months (Yahoo Finance)
+- [macro] Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting (Yahoo Finance)
+- [macro] Brookfield sees 6.5 GW of AI data-centre capacity coming online in India (Yahoo Finance)
