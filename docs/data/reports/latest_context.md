@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T01:52:33.963268+00:00`
+- Generated: `2026-07-28T01:57:35.870215+00:00`
 - Market context score: `36.6`
 - News risk score: `52.65`
 - Macro risk score: `36.0`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] US singer D4vd to go on trial for murder in death of 14-year-old (BBC News)
 - [macro] Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits (BBC News)
+- [macro] US singer D4vd to go on trial for murder in death of 14-year-old (BBC News)
 - [crypto] Binance phishs its own staff monthly, India censors BitChat code: Asia Express (Cointelegraph.com News)
 - [macro] New technical education routes to be offered at 14 in England (BBC News)
 - [macro] Shots fired at US consulate in Toronto for a second time this year (BBC News)
