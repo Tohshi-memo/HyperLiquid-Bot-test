@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T10:37:27.894489+00:00`
-- Market context score: `39.72`
-- News risk score: `51.74`
-- Macro risk score: `23.16`
-- Risk-on score: `18.48`
-- Articles: `62`
+- Generated: `2026-07-28T10:44:15.886916+00:00`
+- Market context score: `39.59`
+- News risk score: `52.11`
+- Macro risk score: `23.32`
+- Risk-on score: `18.56`
+- Articles: `63`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `18`, risk hits `9`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `41`, risk hits `6`, risk headline rate `0.1463`, policy hits `5`
+- macro: articles `42`, risk hits `6`, risk headline rate `0.1429`, policy hits `6`
 
 ## Headlines
 
+- [macro] People trapped inside Japan shopping centre after earthquake (BBC News)
 - [macro] Schools to offer technical subjects to pupils from age 14 in England, Burnham says (BBC News)
 - [macro] Eat Happy, Hana finalise sushi merger (Yahoo Finance)
 - [macro] Is American Express Still Worth Buying at Today's Price? (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] GE Aerospace Slumps: Buy the Dip or Avoid? (Yahoo Finance)
 - [macro] Saipem wins $911m Eni contracts for Ivory Coast and Italian projects (Yahoo Finance)
 - [crypto] IMF warns Brazil’s stablecoin activity outpaces traditional capital flows (Cointelegraph.com News)
-- [crypto] Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
