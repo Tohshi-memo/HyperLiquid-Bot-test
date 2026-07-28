@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T01:37:24.589643+00:00`
-- Market context score: `37.23`
-- News risk score: `51.83`
-- Macro risk score: `35.97`
-- Risk-on score: `17.87`
-- Articles: `51`
+- Generated: `2026-07-28T01:52:33.963268+00:00`
+- Market context score: `36.6`
+- News risk score: `52.65`
+- Macro risk score: `36.0`
+- Risk-on score: `17.17`
+- Articles: `50`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7353`
-- Day/swing latest: `2026-07-28T01:30:00+00:00`
+- Day/swing records: `7354`
+- Day/swing latest: `2026-07-28T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `9`, risk headline rate `0.4211`, policy hits `1`
+- crypto: articles `18`, risk hits `9`, risk headline rate `0.4444`, policy hits `1`
 - macro: articles `30`, risk hits `13`, risk headline rate `0.3333`, policy hits `2`
 
 ## Headlines
 
+- [macro] US singer D4vd to go on trial for murder in death of 14-year-old (BBC News)
 - [macro] Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits (BBC News)
 - [crypto] Binance phishs its own staff monthly, India censors BitChat code: Asia Express (Cointelegraph.com News)
 - [macro] New technical education routes to be offered at 14 in England (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Number of suspects in fatal Seattle food festival shooting rises to three (BBC News)
 - [crypto] Kalshi, Polymarket win pause against Minnesota's prediction market ban (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Is it time to stop using glue and labels on paper? (BBC News)
-- [macro] US singer D4vd to go on trial for murder in death of 14-year-old (BBC News)
