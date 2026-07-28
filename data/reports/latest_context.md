@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T20:37:57.098555+00:00`
-- Market context score: `49.59`
-- News risk score: `37.08`
-- Macro risk score: `21.8`
-- Risk-on score: `27.53`
-- Articles: `68`
+- Generated: `2026-07-28T20:52:40.100342+00:00`
+- Market context score: `49.56`
+- News risk score: `36.96`
+- Macro risk score: `22.06`
+- Risk-on score: `27.46`
+- Articles: `67`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:776`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7429`
-- Day/swing latest: `2026-07-28T20:30:00+00:00`
+- Day/swing records: `7430`
+- Day/swing latest: `2026-07-28T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `32`, risk hits `5`, risk headline rate `0.1562`, policy hits `3`
-- macro: articles `32`, risk hits `2`, risk headline rate `0.0625`, policy hits `1`
+- macro: articles `31`, risk hits `2`, risk headline rate `0.0645`, policy hits `1`
 
 ## Headlines
 
+- [macro] eBay agrees $56m settlement with bloggers over harassment case (BBC News)
 - [crypto] 'Anything remotely dovish' from Fed could be good for bitcoin, says analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Morgan Stanley expands crypto lineup with Ether, Solana ETPs (Cointelegraph.com News)
 - [commodity] U.S. crude oil falls below $80 as Iran discusses Strait of Hormuz with Saudi Arabia and Oman (Energy)
@@ -37,4 +38,3 @@
 - [crypto] AmericanFortress proposes quantum-safe crypto wallet protection without fund migration (Cointelegraph.com News)
 - [macro] Ghana mourns its tallest man - a 'generous and popular giant' (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] World's most profitable airline now accepts crypto payments for flights (Yahoo Finance)
