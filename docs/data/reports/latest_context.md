@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T16:48:11.228634+00:00`
-- Market context score: `51.16`
-- News risk score: `41.84`
-- Macro risk score: `20.23`
-- Risk-on score: `34.43`
-- Articles: `90`
+- Generated: `2026-07-28T16:52:34.491248+00:00`
+- Market context score: `50.32`
+- News risk score: `42.44`
+- Macro risk score: `21.37`
+- Risk-on score: `33.5`
+- Articles: `91`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `31`, risk hits `8`, risk headline rate `0.2581`, policy hits `3`
-- macro: articles `56`, risk hits `6`, risk headline rate `0.0893`, policy hits `2`
+- macro: articles `57`, risk hits `7`, risk headline rate `0.1053`, policy hits `3`
 
 ## Headlines
 
+- [macro] Some parents on benefits to be offered up to £4,500 for child starting apprenticeship (BBC News)
+- [macro] 'It's a hell of a situation': Spain grapples with devastating wildfires (BBC News)
+- [macro] Jim Cramer’s Accidental High Yielders Strategy. Buy Quality Dividend Stocks After Market Crashes at Double Their Normal Yield (Yahoo Finance)
 - [macro] Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry (BBC News)
 - [macro] Schools to offer technical subjects to pupils from age 14 in England, Burnham says (BBC News)
+- [macro] Eli Lilly Just Made a $2.8 Billion Bet That Goes Beyond GLP-1 Drugs (Yahoo Finance)
 - [macro] Boston Scientific expects headcount reductions amid restructuring initiative (Yahoo Finance)
 - [macro] Wall Street’s Trading Boom Just Got a New Leader: Can Morgan Stanley (MS) Keep It? (Yahoo Finance)
 - [macro] Three Prices Where SpaceX Stock Is a Buy (Yahoo Finance)
 - [macro] Mercedes' mixed bag: Upbeat Q2 results come as German automaker could face US sales ban (Yahoo Finance)
-- [macro] Why Did SpaceX Stock Drop Today -- Then Pop? (Yahoo Finance)
-- [crypto] Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street (Cointelegraph.com News)
-- [macro] How to save cash: 7 ways to protect and grow your liquid savings (Yahoo Finance)
-- [macro] Daktronics, Inc. Q1 2010 Earnings Call Summary (Yahoo Finance)
