@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T14:37:42.991171+00:00`
-- Market context score: `48.25`
-- News risk score: `44.44`
-- Macro risk score: `21.91`
-- Risk-on score: `30.8`
-- Articles: `84`
+- Generated: `2026-07-28T14:52:28.635755+00:00`
+- Market context score: `49.19`
+- News risk score: `42.33`
+- Macro risk score: `19.61`
+- Risk-on score: `30.25`
+- Articles: `85`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7405`
-- Day/swing latest: `2026-07-28T14:30:00+00:00`
+- Day/swing records: `7406`
+- Day/swing latest: `2026-07-28T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `1`
-- macro: articles `53`, risk hits `7`, risk headline rate `0.1132`, policy hits `8`
+- crypto: articles `29`, risk hits `8`, risk headline rate `0.2759`, policy hits `1`
+- macro: articles `52`, risk hits `4`, risk headline rate `0.0769`, policy hits `7`
 
 ## Headlines
 
+- [crypto] Russia outlines new digital depository rules ahead of fall crypto framework roll-out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] EBay, former executives to pay $56 million to settle couple's harassment case (Yahoo Finance)
 - [crypto] Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Tesla stock hasn't been this oversold in more than a year (Yahoo Finance)
 - [macro] Gong cha signs 50-store franchise agreement in Texas with BACC (Yahoo Finance)
-- [macro] Will tough talk be enough? Fed Chair Warsh faces pressure to combat inflation (Yahoo Finance)
+- [macro] Micron Stock Dives As Semiconductor Sell-Off Gains Steam (Yahoo Finance)
+- [macro] Why Sandisk Stock Keeps Crashing (Yahoo Finance)
 - [macro] 4 US Stocks Earnings to Watch This Week: Will AI Spending Finally Pay Off? (Yahoo Finance)
-- [macro] The 3 Biggest Reasons to Buy Reddit Stock Before Its July 30 Earnings Report (Yahoo Finance)
-- [macro] Austral Resources ends Anthill agreement with Glencore and Secover (Yahoo Finance)
-- [macro] Boeing Shares Fight To Regain Support After Q2 Results (Yahoo Finance)
-- [macro] Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension (Yahoo Finance)
-- [macro] The 10 busiest commuter trains in England and Wales revealed (BBC News)
