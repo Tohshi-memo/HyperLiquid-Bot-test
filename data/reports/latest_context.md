@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T04:37:25.117590+00:00`
-- Market context score: `32.55`
-- News risk score: `54.68`
-- Macro risk score: `36.6`
-- Risk-on score: `10.12`
-- Articles: `42`
+- Generated: `2026-07-28T04:52:29.876768+00:00`
+- Market context score: `32.66`
+- News risk score: `54.9`
+- Macro risk score: `34.24`
+- Risk-on score: `9.66`
+- Articles: `39`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7365`
-- Day/swing latest: `2026-07-28T04:30:00+00:00`
+- Day/swing records: `7366`
+- Day/swing latest: `2026-07-28T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `17`, risk hits `10`, risk headline rate `0.5294`, policy hits `1`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `14`, risk hits `9`, risk headline rate `0.5714`, policy hits `1`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [macro] Spain and France brace for new heatwaves as wildfire closes in on Bordeaux (BBC News)
+- [macro] Michelin-starred chef calls for VAT cut for restaurants (BBC News)
 - [crypto] Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US judge temporarily blocks Minnesota prediction market ban (Cointelegraph.com News)
 - [macro] Chip firms fall in US and Asia as AI jitters rattle investors (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Zimbabwe admits seven fintech projects to regulatory sandbox (Cointelegraph.com News)
 - [macro] Burnham says pupils in England need clearer pathway into work (BBC News)
 - [crypto] Hong Kong prepares banks for quantum threats amid tokenization push (Cointelegraph.com News)
-- [macro] Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits (BBC News)
-- [macro] Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits (BBC News)
