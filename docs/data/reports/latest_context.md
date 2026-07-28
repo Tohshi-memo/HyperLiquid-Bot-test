@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-27T23:51:04.580811+00:00`
-- Market context score: `42.29`
-- News risk score: `52.15`
-- Macro risk score: `35.73`
-- Risk-on score: `29.29`
-- Articles: `66`
+- Generated: `2026-07-28T00:07:31.361157+00:00`
+- Market context score: `41.01`
+- News risk score: `53.43`
+- Macro risk score: `34.77`
+- Risk-on score: `27.16`
+- Articles: `67`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7346`
-- Day/swing latest: `2026-07-27T23:45:00+00:00`
+- Day/swing records: `7347`
+- Day/swing latest: `2026-07-28T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `13`, risk headline rate `0.3448`, policy hits `6`
-- macro: articles `35`, risk hits `14`, risk headline rate `0.3143`, policy hits `2`
+- crypto: articles `29`, risk hits `14`, risk headline rate `0.3793`, policy hits `4`
+- macro: articles `36`, risk hits `14`, risk headline rate `0.3056`, policy hits `2`
 
 ## Headlines
 
+- [crypto] U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Number of suspects in fatal Seattle food festival shooting rises to three (BBC News)
 - [crypto] Kalshi, Polymarket win pause against Minnesota's prediction market ban (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Is it time to stop using glue and labels on paper? (BBC News)
@@ -36,5 +37,4 @@
 - [macro] New technical education routes to be offered at 14 in England (BBC News)
 - [macro] Some people's chats with Claude AI found publicly available online (BBC News)
 - [macro] A Japanese town wrestles with identity after protests over its first mosque (BBC News)
-- [macro] Trump says Iran war talks taking place during lull in strikes (BBC News)
-- [macro] As the US pauses the war with Iran, is Trump really running out of weapons? (BBC News)
+- [macro] China's new challenge as natural disasters strike - fake AI videos (BBC News)
