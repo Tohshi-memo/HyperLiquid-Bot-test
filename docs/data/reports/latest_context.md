@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T04:52:29.876768+00:00`
+- Generated: `2026-07-28T05:07:24.729777+00:00`
 - Market context score: `32.66`
 - News risk score: `54.9`
 - Macro risk score: `34.24`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7366`
-- Day/swing latest: `2026-07-28T04:45:00+00:00`
+- Day/swing records: `7367`
+- Day/swing latest: `2026-07-28T05:00:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [commodity] Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes (Energy)
 - [macro] Spain and France brace for new heatwaves as wildfire closes in on Bordeaux (BBC News)
 - [macro] Michelin-starred chef calls for VAT cut for restaurants (BBC News)
 - [crypto] Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US judge temporarily blocks Minnesota prediction market ban (Cointelegraph.com News)
 - [macro] Chip firms fall in US and Asia as AI jitters rattle investors (BBC News)
-- [commodity] Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes (Energy)
 - [commodity] India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor (Energy)
 - [crypto] Zimbabwe admits seven fintech projects to regulatory sandbox (Cointelegraph.com News)
 - [macro] Burnham says pupils in England need clearer pathway into work (BBC News)
