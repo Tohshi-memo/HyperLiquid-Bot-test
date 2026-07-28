@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T21:07:37.192345+00:00`
-- Market context score: `49.52`
+- Generated: `2026-07-28T21:22:26.560521+00:00`
+- Market context score: `49.37`
 - News risk score: `36.85`
-- Macro risk score: `22.34`
-- Risk-on score: `27.37`
-- Articles: `66`
+- Macro risk score: `22.39`
+- Risk-on score: `27.06`
+- Articles: `64`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:776`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7431`
-- Day/swing latest: `2026-07-28T21:00:00+00:00`
+- Day/swing records: `7432`
+- Day/swing latest: `2026-07-28T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `32`, risk hits `5`, risk headline rate `0.1562`, policy hits `3`
+- crypto: articles `30`, risk hits `5`, risk headline rate `0.1667`, policy hits `3`
 - macro: articles `30`, risk hits `2`, risk headline rate `0.0667`, policy hits `1`
 
 ## Headlines
 
+- [macro] Bystander video shows teen lifeguard's dramatic ocean rescue (BBC News)
 - [macro] eBay agrees $56m settlement with bloggers over harassment case (BBC News)
 - [crypto] 'Anything remotely dovish' from Fed could be good for bitcoin, says analyst (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Morgan Stanley expands crypto lineup with Ether, Solana ETPs (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure (Energy)
 - [crypto] AmericanFortress proposes quantum-safe crypto wallet protection without fund migration (Cointelegraph.com News)
 - [macro] Ghana mourns its tallest man - a 'generous and popular giant' (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
