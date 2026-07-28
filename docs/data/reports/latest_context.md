@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T11:22:28.588911+00:00`
-- Market context score: `36.72`
-- News risk score: `51.02`
-- Macro risk score: `27.68`
-- Risk-on score: `12.92`
+- Generated: `2026-07-28T11:37:27.917025+00:00`
+- Market context score: `39.5`
+- News risk score: `47.65`
+- Macro risk score: `24.0`
+- Risk-on score: `14.86`
 - Articles: `64`
 - Polymarket markets: `396`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7392`
-- Day/swing latest: `2026-07-28T11:15:00+00:00`
+- Day/swing records: `7393`
+- Day/swing latest: `2026-07-28T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `1`
-- macro: articles `42`, risk hits `9`, risk headline rate `0.2143`, policy hits `7`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `1`
+- macro: articles `43`, risk hits `7`, risk headline rate `0.1628`, policy hits `5`
 
 ## Headlines
 
+- [macro] Apnimed scouts $160m IPO to back late-stage sleep apnoea pill development (Yahoo Finance)
+- [macro] Most internal audit teams have untapped leadership talent – survey (Yahoo Finance)
+- [macro] GSK launches $2.5 billion savings drive to boost drug pipeline (Yahoo Finance)
+- [macro] UPS Q2 2026 earnings beat estimates, raises full-year revenue outlook (Yahoo Finance)
+- [macro] Devon and Cornwall companies urge action on skills and infrastructure (Yahoo Finance)
+- [macro] Carby Label invests in fourth Lombardi press (Yahoo Finance)
 - [crypto] Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What you wear can help you get a job - here's how (BBC News)
-- [macro] Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price (Yahoo Finance)
-- [macro] Mastercard and NBE introduce USD corporate debit card in Egypt (Yahoo Finance)
-- [macro] Porsche to cut 5,000 more jobs by 2035, taking total reductions to 9,000 (Yahoo Finance)
-- [macro] Barclays Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] A City Electrician Dreaded the Windfall Elimination Cut to His Social Security. Then a 2025 Law Erased It. (Yahoo Finance)
-- [crypto] 1inch opens Aqua liquidity protocol across 13 chains (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Zelensky to press Trump on air defences while in Washington (BBC News)
-- [macro] Morning Bid: Chip rout snowballs (Yahoo Finance)
+- [macro] Germany's deep tech edge drives acceleration in VC funding (Yahoo Finance)
+- [macro] PayPal presses on with turnaround in pivotal quarter as sale questions linger (Yahoo Finance)
