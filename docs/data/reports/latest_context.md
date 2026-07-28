@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T13:52:30.860364+00:00`
-- Market context score: `48.06`
-- News risk score: `46.4`
-- Macro risk score: `21.51`
-- Risk-on score: `31.89`
-- Articles: `80`
+- Generated: `2026-07-28T14:07:30.697631+00:00`
+- Market context score: `49.14`
+- News risk score: `44.85`
+- Macro risk score: `18.41`
+- Risk-on score: `31.81`
+- Articles: `78`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:774`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7402`
-- Day/swing latest: `2026-07-28T13:45:00+00:00`
+- Day/swing records: `7403`
+- Day/swing latest: `2026-07-28T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `26`, risk hits `9`, risk headline rate `0.3462`, policy hits `1`
-- macro: articles `50`, risk hits `6`, risk headline rate `0.12`, policy hits `1`
+- macro: articles `48`, risk hits `3`, risk headline rate `0.0625`, policy hits `1`
 
 ## Headlines
 
+- [macro] Hilton raises full-year RevPAR forecast after Q2 2026 earnings (Yahoo Finance)
+- [macro] Hormel Foods’ president John Ghingo takes CEO seat from Jeff Ettinger (Yahoo Finance)
+- [macro] Is it safe to travel to France and Spain right now? (BBC News)
+- [macro] Is it safe to travel to France and Spain right now? (BBC News)
+- [macro] How 3 homeowners did the refinance math, and why they say it was worth it (Yahoo Finance)
+- [macro] Royal Caribbean Q2 2026 earnings beat, revenue outlook trimmed (Yahoo Finance)
+- [macro] Reddit Considers a Bold Move: Cutting Off Google's Access for AI Training (Yahoo Finance)
+- [macro] Intuitive Surgical Fell 37% to $355 With This Wall Street Pro Is Calling for $685 (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises, Nasdaq Sinks As Chipmakers Dive; Coca-Cola Surges (Live Coverage) (Yahoo Finance)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Frasers’ Hugo Boss takeover offer becomes unconditional after EU clearance (Yahoo Finance)
-- [macro] JetBlue Q2 2026 earnings: wider loss as fuel costs surge 81% (Yahoo Finance)
-- [macro] Apple tops $5 trillion market cap, only second company to hit the milestone (Yahoo Finance)
-- [macro] Meta and BlackRock form $14 billion El Paso data center venture (Yahoo Finance)
-- [macro] Intuit downgrade, Intuitive Surgical upgraded: Wall Street's top analyst calls (Yahoo Finance)
-- [macro] Should You Buy Altria for Its 5.8% Dividend Yield Ahead of July 30 Earnings? (Yahoo Finance)
-- [macro] Applied Materials (AMAT) Rose on AI-Driven Wafer Fabrication Spending (Yahoo Finance)
-- [crypto] The real reason DeFi projects that survived 2022 crash are shutting down now (Cointelegraph.com News)
-- [macro] Advanced Micro Devices (AMD) Surged on an Agentic AI-Driven Server CPU Renaissance (Yahoo Finance)
