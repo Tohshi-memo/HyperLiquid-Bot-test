@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-28T19:37:29.232744+00:00`
-- Market context score: `45.36`
-- News risk score: `41.71`
-- Macro risk score: `23.39`
-- Risk-on score: `22.63`
-- Articles: `68`
+- Generated: `2026-07-28T19:51:05.865080+00:00`
+- Market context score: `46.47`
+- News risk score: `40.41`
+- Macro risk score: `23.41`
+- Risk-on score: `24.01`
+- Articles: `67`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:776`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7425`
-- Day/swing latest: `2026-07-28T19:30:00+00:00`
+- Day/swing records: `7426`
+- Day/swing latest: `2026-07-28T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `33`, risk hits `8`, risk headline rate `0.2424`, policy hits `3`
+- crypto: articles `32`, risk hits `7`, risk headline rate `0.2188`, policy hits `3`
 - macro: articles `31`, risk hits `3`, risk headline rate `0.0968`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ondo drops tokenized asset blockchain plans for private, high-speed trading network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. crude oil falls below $80 as Iran discusses Strait of Hormuz with Saudi Arabia and Oman (Energy)
 - [commodity] U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure (Energy)
 - [crypto] AmericanFortress proposes quantum-safe crypto wallet protection without fund migration (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Analyst Report: SLB Ltd (Yahoo Finance)
 - [macro] Analyst Report: Annaly Capital Management Inc (Yahoo Finance)
 - [macro] Analyst Report: Brown & Brown Inc (Yahoo Finance)
-- [macro] Analyst Report: Baker Hughes Co (Yahoo Finance)
