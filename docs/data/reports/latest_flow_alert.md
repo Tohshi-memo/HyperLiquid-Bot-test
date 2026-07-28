@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-28T04:45:26.688890+00:00`
-- Flow alert score: `24.08`
+- Generated: `2026-07-28T04:50:33.056140+00:00`
+- Flow alert score: `24.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22722641.09`
-- Polymarket volume z-score: `1.77`
+- Polymarket 24h volume: `22685978.85`
+- Polymarket volume z-score: `1.76`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `3011404.5823849994` | liquidity: `2469502.82558`
-- US announces halt in Iran offensive operations by July 31? | 24h volume: `2508445.061391999` | liquidity: `12443869.22299`
-- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `2325289.290112001` | liquidity: `396568.72553`
-- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `2165206.732417999` | liquidity: `445824.26599`
-- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `2081769.155867` | liquidity: `1860438.6659`
-- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1755729.434123` | liquidity: `2211493.79392`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1592666.663333` | liquidity: `24955.13852`
-- Will Tom Cotton win the 2028 Republican presidential nomination? | 24h volume: `572812.994` | liquidity: `150133.3128`
+- Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `3007753.3152659996` | liquidity: `2467790.81277`
+- US announces halt in Iran offensive operations by July 31? | 24h volume: `2508429.7105999994` | liquidity: `12451244.08329`
+- Will there be no change in Fed interest rates after the July 2026 meeting? | 24h volume: `2326833.3079110007` | liquidity: `374845.14821`
+- Will the Fed increase interest rates by 25 bps after the July 2026 meeting? | 24h volume: `2148873.8276349986` | liquidity: `446117.77918`
+- Will the Fed decrease interest rates by 25 bps after the July 2026 meeting? | 24h volume: `2078783.965867` | liquidity: `1857710.76848`
+- Will the Fed increase interest rates by 50+ bps after the July 2026 meeting? | 24h volume: `1751743.435459` | liquidity: `2211243.7875`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1592666.663333` | liquidity: `21373.12991`
+- Will Tom Cotton win the 2028 Republican presidential nomination? | 24h volume: `572812.994` | liquidity: `148508.4708`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
