@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T11:07:38.872063+00:00`
-- Market context score: `45.67`
-- News risk score: `42.62`
-- Macro risk score: `31.35`
-- Risk-on score: `27.1`
-- Articles: `63`
+- Generated: `2026-07-29T11:22:33.063162+00:00`
+- Market context score: `47.85`
+- News risk score: `42.84`
+- Macro risk score: `27.82`
+- Risk-on score: `30.79`
+- Articles: `72`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:777`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7485`
-- Day/swing latest: `2026-07-29T11:00:00+00:00`
+- Day/swing records: `7486`
+- Day/swing latest: `2026-07-29T11:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `5`
-- macro: articles `35`, risk hits `8`, risk headline rate `0.2286`, policy hits `4`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `6`
+- macro: articles `44`, risk hits `8`, risk headline rate `0.1818`, policy hits `8`
 
 ## Headlines
 
-- [macro] 'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake (BBC News)
-- [crypto] Binance disappears from Google Play in certain EU countries (Cointelegraph.com News)
-- [macro] RWR vs. XLRE: Which Real Estate ETF Is the Better Buy? (Yahoo Finance)
+- [crypto] Telegram founder Pavel Durov internationally wanted, Russia’s FSB says (Cointelegraph.com News)
+- [crypto] 3 reasons Wednesday's Fed meeting is pivotal for BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] More than 100 aftershocks hit Japan after deadly quake that killed 13 (BBC News)
+- [macro] Humana cuts 2026 profit outlook on lower Medicare star ratings (Yahoo Finance)
 - [macro] Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers (Yahoo Finance)
+- [macro] 'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake (BBC News)
+- [macro] Rheinmetall Q2 profit beats forecasts as revenue jumps nearly 70% (Yahoo Finance)
+- [macro] AI Data Center Turbines, Backlogged For Years, Are Suffering Early Deaths. Here's Why. (Yahoo Finance)
+- [crypto] Binance disappears from Google Play in certain EU countries (Cointelegraph.com News)
 - [macro] Andy Burnham wants to fix social care - what are the options? (BBC News)
-- [macro] European wildfires in maps - and how they're being tackled (BBC News)
-- [macro] Matcha and protein pivot pays off for Greggs as profits rise (BBC News)
-- [macro] Morning Bid: US profit growth mushrooms (Yahoo Finance)
-- [macro] French DJ ​and electropop ‌musician Kavinsky dies aged 50 (BBC News)
-- [macro] Why some seniors become millionaires in America — while the majority never do. Are you doing enough? (Yahoo Finance)
