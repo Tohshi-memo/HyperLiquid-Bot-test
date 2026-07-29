@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T09:22:31.977638+00:00`
-- Market context score: `42.2`
-- News risk score: `42.76`
-- Macro risk score: `34.22`
-- Risk-on score: `20.6`
-- Articles: `49`
+- Generated: `2026-07-29T09:37:30.313004+00:00`
+- Market context score: `43.0`
+- News risk score: `42.09`
+- Macro risk score: `33.44`
+- Risk-on score: `21.52`
+- Articles: `52`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:777`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7480`
-- Day/swing latest: `2026-07-29T09:15:00+00:00`
+- Day/swing records: `7481`
+- Day/swing latest: `2026-07-29T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `0`
+- crypto: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `4`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `0`
 
 ## Headlines
 
+- [macro] Uefa World Cup boycott may be raised over Fifa plan (BBC News)
+- [crypto] Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Hungary repeals crypto checks as first MiCA license is granted (Cointelegraph.com News)
 - [crypto] Russia charges Telegram founder Pavel Durov with aiding terrorism (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil jumps as U.S.-Iran resume strikes after a brief pause (Energy)
 - [macro] Trump's new spy chief confirmed by US Senate (BBC News)
@@ -35,6 +38,3 @@
 - [macro] OpenAI says its rogue AI tried to hack other companies (BBC News)
 - [macro] Saudi Arabia joins US in strikes on Iran-backed militias in Iraq (BBC News)
 - [macro] Ticket prices set to rise by 15p as Heathrow able to recover runway project money (BBC News)
-- [crypto] Trump teleprompter operator accused over Kalshi bets leaves government: AP (Cointelegraph.com News)
-- [crypto] SpaceX is a battleground Solana must win (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Iran launches surprise ballistic missile attack on U.S. forces in the Middle East (Energy)
