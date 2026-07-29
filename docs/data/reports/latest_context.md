@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T17:22:32.101450+00:00`
-- Market context score: `48.21`
-- News risk score: `43.05`
-- Macro risk score: `26.88`
-- Risk-on score: `31.42`
-- Articles: `81`
+- Generated: `2026-07-29T17:37:27.607694+00:00`
+- Market context score: `48.72`
+- News risk score: `42.23`
+- Macro risk score: `29.55`
+- Risk-on score: `32.87`
+- Articles: `77`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:778`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7510`
-- Day/swing latest: `2026-07-29T17:15:00+00:00`
+- Day/swing records: `7511`
+- Day/swing latest: `2026-07-29T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `34`, risk hits `10`, risk headline rate `0.2059`, policy hits `9`
-- macro: articles `45`, risk hits `7`, risk headline rate `0.1556`, policy hits `7`
+- crypto: articles `32`, risk hits `8`, risk headline rate `0.1562`, policy hits `9`
+- macro: articles `43`, risk hits `9`, risk headline rate `0.186`, policy hits `12`
 
 ## Headlines
 
@@ -37,4 +37,4 @@
 - [macro] Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins (BBC News)
 - [macro] Datadog, IBD Stock Of The Day, Rides AI Momentum Ahead Of Earnings Report (Yahoo Finance)
 - [macro] Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts (Yahoo Finance)
-- [macro] Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve (Yahoo Finance)
+- [macro] Glencore Sees $3.3 Billion Trading Profit as Iran War Rattles Oil Markets (Yahoo Finance)
