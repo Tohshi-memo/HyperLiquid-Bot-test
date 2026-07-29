@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T10:07:31.391778+00:00`
+- Generated: `2026-07-29T10:15:59.586491+00:00`
 - Market context score: `42.95`
 - News risk score: `42.75`
 - Macro risk score: `32.58`
 - Risk-on score: `21.64`
 - Articles: `58`
-- Polymarket markets: `396`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:777`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7482`
-- Day/swing latest: `2026-07-29T10:00:00+00:00`
+- Day/swing records: `7483`
+- Day/swing latest: `2026-07-29T10:15:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Telefonica Q2 Earnings Call Highlights (Yahoo Finance)
 - [crypto] Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report (Cointelegraph.com News)
 - [crypto] Binance offers gold and silver options after commodity futures pull in billions in daily volume (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mortgage and refinance rates today, Wednesday, July 29, 2026: Rates up across the board ahead of Fed rate decision (Yahoo Finance)
 - [macro] The chip crash is exposing the brutal cost of leverage: Chart of the Day (Yahoo Finance)
 - [macro] Best CD rates today, Wednesday, July 29, 2026: Earn up to 4.15% APY (Yahoo Finance)
-- [macro] BXP closes $1.2bn loan for 343 Madison Avenue, New York City (Yahoo Finance)
 - [macro] Russia charges Telegram founder Durov with facilitating terrorism (BBC News)
 - [macro] FA 'deeply concerned' by Fifa plan as Uefa to meet (BBC News)
 - [macro] Saudi Arabia joins US in strikes on Iran-backed militias in Iraq (BBC News)
