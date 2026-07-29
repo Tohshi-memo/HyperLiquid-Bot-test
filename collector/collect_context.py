@@ -659,13 +659,19 @@ def summarize_gdelt(rows: list[dict[str, Any]]) -> dict[str, Any]:
 
 def summarize_polymarket(markets: list[dict[str, Any]]) -> dict[str, Any]:
     clean = [m for m in markets if "error" not in m]
-    rows = []
-    for market in clean[:30]:
-        rows.append(polymarket_summary_row(market))
+    rows = [
+        polymarket_summary_row(market)
+        for market in clean[:30]
+    ]
+    health_rows = [
+        polymarket_summary_row(market)
+        for market in clean
+        if is_public_health_polymarket(market)
+    ][:10]
     return {
         "market_count": len(clean),
         "top_markets": rows,
-        "health_markets": [row for row in rows if is_public_health_polymarket(row)][:10],
+        "health_markets": health_rows,
     }
 
 
@@ -1039,7 +1045,16 @@ def classify_polymarket_market(market: dict[str, Any], watch_terms: list[str]) -
 def polymarket_search_text(market: dict[str, Any]) -> str:
     parts = [
         str(market.get(key, ""))
-        for key in ("question", "title", "slug", "description", "category")
+        for key in (
+            "question",
+            "title",
+            "slug",
+            "event_slug",
+            "description",
+            "category",
+            "impact_category",
+            "query",
+        )
     ]
     for key in ("tags", "categories", "events"):
         value = market.get(key)
