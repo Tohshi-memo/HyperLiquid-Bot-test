@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T23:22:37.047809+00:00`
+- Generated: `2026-07-29T23:37:24.349062+00:00`
 - Market context score: `47.03`
 - News risk score: `42.98`
 - Macro risk score: `28.62`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:778`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7534`
-- Day/swing latest: `2026-07-29T23:15:00+00:00`
+- Day/swing records: `7535`
+- Day/swing latest: `2026-07-29T23:30:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] What a divided Fed means for investors (Economy)
 - [crypto] Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] I dropped out of university and built five beauty businesses. Here's how I did it (BBC News)
 - [macro] Interest rates expected to be held again by Bank of England (BBC News)
-- [macro] What a divided Fed means for investors (Economy)
+- [macro] India's CJP protests: Why tech alone won't stop exam paper leaks (BBC News)
 - [macro] Meta shares fall as frustration grows over AI spending plans (BBC News)
 - [macro] Salman Rushdie attacker convicted of terror offenses (BBC News)
 - [macro] The Chinese robot army transforming the UK's retail industry (BBC News)
 - [macro] The Chinese robot army transforming the UK's retail industry (BBC News)
 - [crypto] Robinhood posts record quarter, but crypto revenue slides 38% (Cointelegraph.com News)
-- [crypto] Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO (Cointelegraph.com News)
