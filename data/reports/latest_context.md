@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T11:22:33.063162+00:00`
-- Market context score: `47.85`
-- News risk score: `42.84`
-- Macro risk score: `27.82`
-- Risk-on score: `30.79`
-- Articles: `72`
+- Generated: `2026-07-29T11:37:30.953662+00:00`
+- Market context score: `44.61`
+- News risk score: `44.81`
+- Macro risk score: `31.1`
+- Risk-on score: `26.51`
+- Articles: `76`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:777`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7486`
-- Day/swing latest: `2026-07-29T11:15:00+00:00`
+- Day/swing records: `7487`
+- Day/swing latest: `2026-07-29T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `6`
-- macro: articles `44`, risk hits `8`, risk headline rate `0.1818`, policy hits `8`
+- crypto: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `6`
+- macro: articles `49`, risk hits `12`, risk headline rate `0.2449`, policy hits `7`
 
 ## Headlines
 
+- [macro] Data centres could pay hundreds of millions in deposits for power demands (BBC News)
+- [macro] Fifa offers $40m if nations back controversial plan (BBC News)
+- [macro] Russia weighs state support for Wildberries after drone strikes – report (Yahoo Finance)
+- [macro] Oscar-winning songwriter Glen Hansard killed in crash (BBC News)
 - [crypto] Telegram founder Pavel Durov internationally wanted, Russia’s FSB says (Cointelegraph.com News)
+- [macro] Boston Scientific trims annual profit forecast on softer Watchman device demand (Yahoo Finance)
 - [crypto] 3 reasons Wednesday's Fed meeting is pivotal for BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] More than 100 aftershocks hit Japan after deadly quake that killed 13 (BBC News)
-- [macro] Humana cuts 2026 profit outlook on lower Medicare star ratings (Yahoo Finance)
-- [macro] Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers (Yahoo Finance)
-- [macro] 'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake (BBC News)
-- [macro] Rheinmetall Q2 profit beats forecasts as revenue jumps nearly 70% (Yahoo Finance)
-- [macro] AI Data Center Turbines, Backlogged For Years, Are Suffering Early Deaths. Here's Why. (Yahoo Finance)
-- [crypto] Binance disappears from Google Play in certain EU countries (Cointelegraph.com News)
-- [macro] Andy Burnham wants to fix social care - what are the options? (BBC News)
+- [macro] Jim Cramer warns of looming 'nightmare' for tech stocks as US and Korean markets now handcuffed to each other (Yahoo Finance)
+- [macro] How much cash do you need invested in 2026 to completely live off dividends? Probably less than you think (Yahoo Finance)
+- [macro] Garmin Stock Jumps On Second-Quarter Beat, Raised Outlook (Yahoo Finance)
