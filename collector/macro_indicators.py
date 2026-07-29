@@ -249,9 +249,10 @@ def collect_release_calendar(now: datetime) -> list[dict[str, Any]]:
         if release:
             releases.append(release)
         else:
-            release = fallback_release(meta)
-            release["source_fetch_status"] = "blocked_or_unavailable"
-            releases.append(release)
+            release = fallback_release(meta, now)
+            if release:
+                release["source_fetch_status"] = "blocked_or_unavailable"
+                releases.append(release)
 
     bea_releases, _ = collect_bea_releases(now)
     releases.extend(bea_releases)
@@ -260,8 +261,20 @@ def collect_release_calendar(now: datetime) -> list[dict[str, Any]]:
     if fomc:
         releases.append(fomc)
 
+    now_utc = ensure_utc(now)
     releases = sorted(
-        releases,
+        (
+            row
+            for row in releases
+            if (
+                parse_iso_datetime(
+                    row.get("scheduled_utc")
+                    or row.get("scheduled_for")
+                )
+                or datetime.min.replace(tzinfo=timezone.utc)
+            )
+            > now_utc
+        ),
         key=lambda row: row.get("scheduled_utc") or row.get("scheduled_for") or "",
     )
     return releases
@@ -347,11 +360,19 @@ def next_fomc_release(now: datetime) -> dict[str, Any] | None:
     return None
 
 
-def fallback_release(meta: dict[str, Any]) -> dict[str, Any]:
+def fallback_release(
+    meta: dict[str, Any],
+    now: datetime,
+) -> dict[str, Any] | None:
+    scheduled = parse_iso_datetime(
+        meta.get("fallback_scheduled_for")
+    )
+    if scheduled is None or scheduled <= ensure_utc(now):
+        return None
     return release_row(
         meta=meta,
         reference_period=meta.get("fallback_reference_period"),
-        scheduled_for=parse_iso_datetime(meta.get("fallback_scheduled_for")),
+        scheduled_for=scheduled,
         calendar_status="official_static",
     )
 
