@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T04:37:25.171515+00:00`
+- Generated: `2026-07-29T04:52:25.310550+00:00`
 - Market context score: `43.64`
 - News risk score: `35.11`
 - Macro risk score: `39.8`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:777`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7461`
-- Day/swing latest: `2026-07-29T04:30:00+00:00`
+- Day/swing records: `7462`
+- Day/swing latest: `2026-07-29T04:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Wildfires in south-west France flare up as region braces for new 40C heatwave (BBC News)
 - [macro] Iran and US trade strikes, shattering brief lull in fighting (BBC News)
 - [crypto] South Korea plans stablecoin rules as opposition pushes crypto tax repeal (Cointelegraph.com News)
 - [crypto] Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Trump administration bans new Chinese humanoid robots (BBC News)
 - [commodity] Iran launches surprise ballistic missile attack on U.S. forces in the Middle East (Energy)
 - [crypto] Zcash says Ironwood proof rules out undetectable counterfeiting bugs (Cointelegraph.com News)
-- [commodity] Oil jumps as U.S.-Iran resume strikes after a brief pause (Energy)
