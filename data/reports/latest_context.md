@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-29T13:37:39.961574+00:00`
-- Market context score: `49.8`
-- News risk score: `40.36`
-- Macro risk score: `23.56`
-- Risk-on score: `31.43`
+- Generated: `2026-07-29T13:52:31.292793+00:00`
+- Market context score: `51.97`
+- News risk score: `39.96`
+- Macro risk score: `23.42`
+- Risk-on score: `35.85`
 - Articles: `80`
 - Polymarket markets: `396`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:777`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7495`
-- Day/swing latest: `2026-07-29T13:30:00+00:00`
+- Day/swing records: `7496`
+- Day/swing latest: `2026-07-29T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `9`
-- macro: articles `51`, risk hits `6`, risk headline rate `0.1176`, policy hits `3`
+- crypto: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `9`
+- macro: articles `50`, risk hits `6`, risk headline rate `0.12`, policy hits `2`
 
 ## Headlines
 
+- [macro] SK Hynix stock rout shines light on this stunning semiconductor stock reality (Yahoo Finance)
+- [macro] Is AI facing a big financial reckoning? (BBC News)
+- [macro] Saudi Arabia joins US in strikes on Iran-backed militias in Iraq (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Reddit initiated, Caterpillar downgraded: Wall Street's top analyst calls (Yahoo Finance)
+- [macro] Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins (BBC News)
 - [commodity] Oil prices jump more than 6% after Trump says U.S. will hit Iran hard (Energy)
-- [crypto] About $80 million ZEC crosses into Zcash's new 'Ironwood' pool in the first day (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] The 100x obsession: Fundamentals grow in importance as crypto matures (Cointelegraph.com News)
-- [macro] Should You Ignore Vertiv? Why ON Semiconductor May Be The Better AI Infrastructure Stock Today (Yahoo Finance)
-- [commodity] Trump says U.S. will give Iran a 'beating' after surprise attack (Energy)
-- [macro] Marsh & McLennan (MRSH) Reinvents Operations with AI Productivity Push (Yahoo Finance)
-- [macro] ICON Public Limited Company (ICLR) Surges on Net Book-to-Bill Strength (Yahoo Finance)
-- [macro] Bitcoin and ethereum prices today, Wednesday, July 29, 2026:  Crypto investors watching the Fed decision closely (Yahoo Finance)
-- [macro] Investors are selling Meta as it heads to its earnings report (Yahoo Finance)
-- [macro] Keurig Dr Pepper (KDP) Pops on Strong Beverage Sales (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls As Iran Hostilities Ignite Again; SK Hynix Slides (Live Coverage) (Yahoo Finance)
+- [macro] ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission. (Yahoo Finance)
+- [crypto] BNY to bring transfer agency records onchain in blockchain push (Cointelegraph.com News)
