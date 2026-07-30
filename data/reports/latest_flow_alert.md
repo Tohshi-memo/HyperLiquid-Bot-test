@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-30T06:50:30.612126+00:00`
+- Generated: `2026-07-30T06:55:34.883373+00:00`
 - Flow alert score: `21.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8449118.947612` | liquidity: `28003.76892`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3553455.734666` | liquidity: `30649.7576`
-- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1365449.277000001` | liquidity: `59338.49479`
-- Will the U.S. invade Iran before 2027? | 24h volume: `1214428.310095` | liquidity: `967206.9812`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1199533.097506` | liquidity: `482337.1262`
-- Will Tulsi Gabbard win the 2028 US Presidential Election? | 24h volume: `1115089.189325` | liquidity: `1460705.76147`
-- Fed rate hike in 2026? | 24h volume: `912641.2219979999` | liquidity: `428615.7679`
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `582140.8266600001` | liquidity: `66096.1396`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8449118.947612` | liquidity: `26757.98195`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3553455.734666` | liquidity: `31569.59304`
+- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1365449.277000001` | liquidity: `58966.41703`
+- Will the U.S. invade Iran before 2027? | 24h volume: `1214428.310095` | liquidity: `971760.9102`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1199533.097506` | liquidity: `484302.5659`
+- Will Tulsi Gabbard win the 2028 US Presidential Election? | 24h volume: `1115089.189325` | liquidity: `1711897.68147`
+- Fed rate hike in 2026? | 24h volume: `912641.2219979999` | liquidity: `422792.7341`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `582140.8266600001` | liquidity: `62909.60213`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
