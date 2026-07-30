@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T07:18:05.678100+00:00`
+- Generated: `2026-07-30T07:22:32.915848+00:00`
 - Market context score: `47.06`
 - News risk score: `41.87`
 - Macro risk score: `32.76`
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices (Energy)
 - [macro] Shell profits double as oil prices rise due to Iran war (BBC News)
 - [crypto] Bitcoin ETF inflows return as Ether funds slip into outflows (Cointelegraph.com News)
-- [commodity] Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices (Energy)
 - [crypto] Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Burnham says nuclear sub investment will protect UK and boost jobs (BBC News)
 - [macro] US launches 'heavy' strikes on Iran after attempted attack on American troops (BBC News)
