@@ -94,7 +94,7 @@ jobs:
 
       - name: Dual-write incremental research data
         env:
-          TD_BASE_URL: ${{ secrets.TD_BASE_URL || vars.TD_BASE_URL }}
+          TD_BASE_URL: ${{ secrets.TD_BASE_URL || vars.TD_BASE_URL || 'https://leatherwallet.sakura.ne.jp/trading-ingest' }}
           TD_REPO: 'hyperliquid-bot-test'
           TD_HMAC_SECRET: ${{ secrets.TD_HMAC_SECRET }}
           TD_SYNC_LOOKBACK_MINUTES: '30'

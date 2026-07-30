@@ -200,8 +200,10 @@ python tools/build_report_site_data.py
 python tools/sync_storage_gateway.py --profile context --dry-run
 ```
 
-When `TD_BASE_URL` and `TD_HMAC_SECRET` are configured, collector workflows
-also dual-write newly available research rows to the Sakura storage gateway.
+Collector workflows use the Sakura storage gateway at
+`https://leatherwallet.sakura.ne.jp/trading-ingest` by default and allow
+`TD_BASE_URL` to override it. When `TD_HMAC_SECRET` is configured, they
+dual-write newly available research rows to the gateway.
 The exporter never uploads the cumulative history JSON files as-is. It writes
 incremental, deterministic `JSONL.gz` objects and sends only low-volume run,
 manifest, checkpoint, and data-quality events to the ledger.
