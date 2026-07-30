@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-30T23:00:35.473833+00:00`
+- Generated: `2026-07-30T23:05:36.899539+00:00`
 - Flow alert score: `21.84`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `15362775.357997999` | liquidity: `30458.30566`
-- Will the U.S. invade Iran before 2027? | 24h volume: `1673757.9753350026` | liquidity: `1040516.377`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1531598.438745` | liquidity: `237261.9622`
-- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `708846.984659` | liquidity: `41351.61891`
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `630959.3977589993` | liquidity: `52657.28491`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `516761.49106400006` | liquidity: `372085.9587`
-- Fed rate hike in 2026? | 24h volume: `506903.5717429998` | liquidity: `292261.948`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `491359.8632609999` | liquidity: `305390.70422`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `15362775.357997999` | liquidity: `27713.82072`
+- Will the U.S. invade Iran before 2027? | 24h volume: `1673757.9753350026` | liquidity: `1040625.1505`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1531598.438745` | liquidity: `234730.7393`
+- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `708846.984659` | liquidity: `40082.45708`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `630959.3977589993` | liquidity: `51148.51344`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `516761.49106400006` | liquidity: `373234.4841`
+- Fed rate hike in 2026? | 24h volume: `506903.5717429998` | liquidity: `290330.1312`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `491359.8632609999` | liquidity: `291198.41424`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
