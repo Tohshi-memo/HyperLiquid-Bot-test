@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-30T00:10:27.557371+00:00`
+- Generated: `2026-07-30T00:15:31.604178+00:00`
 - Flow alert score: `20.6`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8448803.224444` | liquidity: `28006.90445`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3553114.79` | liquidity: `30244.22445`
-- US x Iran Effective Ceasefire by July 24? | 24h volume: `1410732.8733329996` | liquidity: `119647.98088`
-- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1364362.495000001` | liquidity: `62000.16387`
-- Will Tulsi Gabbard win the 2028 US Presidential Election? | 24h volume: `1114872.4011920001` | liquidity: `1469743.38446`
-- Fed rate hike in 2026? | 24h volume: `603255.096985` | liquidity: `384299.9191`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `561801.675955` | liquidity: `672899.87408`
-- Will the U.S. invade Iran before 2027? | 24h volume: `503500.302447` | liquidity: `599213.9176`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8448803.224444` | liquidity: `28633.71568`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3553114.79` | liquidity: `31947.94612`
+- US x Iran Effective Ceasefire by July 24? | 24h volume: `1410732.8733329996` | liquidity: `163534.72344`
+- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1364362.495000001` | liquidity: `55469.33283`
+- Will Tulsi Gabbard win the 2028 US Presidential Election? | 24h volume: `1114872.4011920001` | liquidity: `1469708.8469`
+- Fed rate hike in 2026? | 24h volume: `603255.096985` | liquidity: `383872.9292`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `561801.675955` | liquidity: `672898.54608`
+- Will the U.S. invade Iran before 2027? | 24h volume: `503500.302447` | liquidity: `607813.9859`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
