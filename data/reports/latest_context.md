@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T12:52:26.510259+00:00`
-- Market context score: `49.38`
-- News risk score: `46.16`
-- Macro risk score: `36.23`
-- Risk-on score: `40.18`
-- Articles: `62`
+- Generated: `2026-07-30T13:07:32.432121+00:00`
+- Market context score: `47.56`
+- News risk score: `49.93`
+- Macro risk score: `39.14`
+- Risk-on score: `40.43`
+- Articles: `71`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:779`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7588`
-- Day/swing latest: `2026-07-30T12:45:00+00:00`
+- Day/swing records: `7589`
+- Day/swing latest: `2026-07-30T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `4`
-- macro: articles `37`, risk hits `15`, risk headline rate `0.2973`, policy hits `10`
+- macro: articles `46`, risk hits `22`, risk headline rate `0.3478`, policy hits `13`
 
 ## Headlines
 
+- [macro] US economic growth slows to 1.5% in second quarter (BBC News)
 - [macro] U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3% (Economy)
-- [macro] Thousands evacuated in Crete but Spanish PM ends wildfire emergency (BBC News)
-- [commodity] Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen (Energy)
-- [macro] Stock Market Today: Dow Rises After Key Inflation Data; Meta Plunges On Earnings (Live Coverage) (Yahoo Finance)
-- [macro] Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 after Fed holds rates steady (Yahoo Finance)
-- [macro] Power Metallic Mines continues exploration as resource estimate timing shifts (Yahoo Finance)
-- [macro] Trillion Energy rebrands as Dune Oil as it deepens Türkiye oil focus (Yahoo Finance)
-- [macro] This Dividend King Still Has Plenty of Room to Grow (Yahoo Finance)
-- [macro] Microsoft stock surges on strong quarter, record cloud revenue (Yahoo Finance)
-- [macro] Major central banks steer a cautious hiking path (Yahoo Finance)
+- [macro] Equifax 'duplicate collection account' class-action settlement: Who qualifies (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises After Inflation Data; Meta Plunges On Earnings (Live Coverage) (Yahoo Finance)
+- [macro] Silver prices today, Thursday, July 30, 2026: Silver prices remain below $60, even without a rate increase (Yahoo Finance)
+- [macro] What Does the Pinterest CEO's Sale of Over 30,000 Company Shares Mean for Investors? (Yahoo Finance)
+- [macro] 25 Billion Reasons Why Tesla Fell 15% After Earnings (Yahoo Finance)
+- [macro] Fed's favored inflation gauge shows prices edged down in June but remain high (Yahoo Finance)
+- [macro] Intel Corporation (INTC) Rally Highlights the Fund’s Missed CPU Bet (Yahoo Finance)
+- [macro] Carvana stock tumbles as full-year guidance disappoints despite record quarter (Yahoo Finance)
