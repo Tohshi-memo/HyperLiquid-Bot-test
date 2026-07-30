@@ -11,13 +11,18 @@ from pathlib import Path
 from collector.collect_context import build_polymarket_outcome_history_rows
 from collector.day_swing import label_records
 from collector.storage_sync import (
+    PreparedObject,
     assess_time_series,
     extract_day_swing_events,
     make_event_object,
     make_manifest_event,
 )
 from utils.trading_data_client import TradingDataClient
-from tools.sync_storage_gateway import resolve_since, save_sync_state
+from tools.sync_storage_gateway import (
+    object_idempotency_key,
+    resolve_since,
+    save_sync_state,
+)
 
 
 class StorageSyncTests(unittest.TestCase):
@@ -207,6 +212,38 @@ class StorageSyncTests(unittest.TestCase):
             next_since = resolve_since(None, self.now, "context", state_path)
 
             self.assertEqual(next_since, self.now + timedelta(microseconds=1))
+
+    def test_object_idempotency_includes_immutable_object_key(self) -> None:
+        common = {
+            "dataset": "test_events",
+            "body": b"same compressed body",
+            "content_type": "application/gzip",
+            "observed_start": "2026-07-30T00:00:00Z",
+            "observed_end": "2026-07-30T00:00:00Z",
+            "available_start": "2026-07-30T00:00:00Z",
+            "available_end": "2026-07-30T00:00:00Z",
+            "row_count": 1,
+            "sha256": "a" * 64,
+            "event_types": ("test.event",),
+            "data_class": "test",
+        }
+        first = PreparedObject(
+            object_key="year=2026/month=07/first.jsonl.gz",
+            **common,
+        )
+        second = PreparedObject(
+            object_key="year=2026/month=07/second.jsonl.gz",
+            **common,
+        )
+
+        self.assertNotEqual(
+            object_idempotency_key(first),
+            object_idempotency_key(second),
+        )
+        self.assertEqual(
+            object_idempotency_key(first),
+            object_idempotency_key(first),
+        )
 
 
 if __name__ == "__main__":

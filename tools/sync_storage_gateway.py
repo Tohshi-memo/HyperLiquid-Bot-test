@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import sys
@@ -84,8 +85,20 @@ def upload_prepared_object(client: Any, prepared: PreparedObject, temp_dir: Path
         content_type=prepared.content_type,
         observed_start=prepared.observed_start,
         observed_end=prepared.observed_end,
-        idempotency_key=f"{prepared.dataset}:{prepared.sha256}",
+        idempotency_key=object_idempotency_key(prepared),
     )
+
+
+def object_idempotency_key(prepared: PreparedObject) -> str:
+    identity = "\n".join(
+        [
+            "TD-OBJECT-IDEMPOTENCY-v1",
+            prepared.dataset,
+            prepared.object_key,
+            prepared.sha256,
+        ]
+    )
+    return f"object:{hashlib.sha256(identity.encode('utf-8')).hexdigest()}"
 
 
 def resolve_since(
