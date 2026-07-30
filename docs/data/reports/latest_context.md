@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T23:22:28.121778+00:00`
-- Market context score: `41.58`
-- News risk score: `53.26`
-- Macro risk score: `43.68`
-- Risk-on score: `31.66`
-- Articles: `60`
+- Generated: `2026-07-30T23:38:00.744808+00:00`
+- Market context score: `41.3`
+- News risk score: `53.56`
+- Macro risk score: `43.76`
+- Risk-on score: `31.32`
+- Articles: `59`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:779`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7629`
-- Day/swing latest: `2026-07-30T23:15:00+00:00`
+- Day/swing records: `7630`
+- Day/swing latest: `2026-07-30T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `9`, risk headline rate `0.3103`, policy hits `5`
+- crypto: articles `28`, risk hits `9`, risk headline rate `0.3214`, policy hits `5`
 - macro: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `6`
 - policy: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
 - [macro] Trump says Board of Peace has reached agreement for disarmament of Hamas (BBC News)
+- [macro] Apple warns of future 'supply constraints' for Mac, iPhone, iPad (BBC News)
 - [macro] Thames Water boss says leakage targets 'not realistic' (BBC News)
 - [macro] 'I pay £580 a month to live in a disused care home': Property guardians show us around (BBC News)
-- [macro] Apple warns of future 'supply constraints' for Mac, iPhone, iPad (BBC News)
 - [macro] India wants to join the strawberry superpowers (BBC News)
 - [crypto] US Senators sent revised ethics rules to White House for CLARITY Act: Report (Cointelegraph.com News)
 - [crypto] Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses (Cointelegraph.com News)
