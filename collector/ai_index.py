@@ -82,6 +82,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         market_history=market_history,
         flow_history=flow_history,
     )
+    canary["available_at"] = datetime.now(timezone.utc).isoformat()
     CANARY_FILE.write_text(json.dumps(canary, indent=2, ensure_ascii=False), encoding="utf-8")
     CANARY_REPORT_FILE.write_text(render_canary_report(canary), encoding="utf-8")
 
@@ -105,6 +106,7 @@ def update_ai_index(now: datetime, context: dict[str, Any]) -> dict[str, Any]:
         relationship_scan=relationship_scan,
         sector_reactions=sector_reactions,
     )
+    index["available_at"] = datetime.now(timezone.utc).isoformat()
     AI_INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
     AI_INDEX_REPORT_FILE.write_text(render_index_report(index), encoding="utf-8")
 

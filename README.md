@@ -197,7 +197,20 @@ pip install -r requirements.txt
 python -m collector.collect_context
 COLLECTOR_PROFILE=flow_alert python -m collector.collect_context
 python tools/build_report_site_data.py
+python tools/sync_storage_gateway.py --profile context --dry-run
 ```
+
+When `TD_BASE_URL` and `TD_HMAC_SECRET` are configured, collector workflows
+also dual-write newly available research rows to the Sakura storage gateway.
+The exporter never uploads the cumulative history JSON files as-is. It writes
+incremental, deterministic `JSONL.gz` objects and sends only low-volume run,
+manifest, checkpoint, and data-quality events to the ledger.
+
+Day/swing feature observations and future-return labels are stored in separate
+datasets. Labels carry their actual availability time from the future price
+observation and are tagged as forbidden inputs to the decision path. The
+existing Git data commits remain enabled during the dual-write verification
+period.
 
 ## Schedule
 

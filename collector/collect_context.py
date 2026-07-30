@@ -129,6 +129,7 @@ def run_context(now: datetime) -> None:
     articles = collect_rss(cutoff)
     gdelt = collect_gdelt()
     polymarket = collect_polymarket()
+    polymarket_collected_at = datetime.now(timezone.utc)
     context = build_context(now, lookback_hours, articles, gdelt, polymarket)
     context["macro_indicators"] = collect_macro_indicators_summary(now)
     context["asset_universe"] = collect_asset_universe_summary(now)
@@ -138,6 +139,7 @@ def run_context(now: datetime) -> None:
     context["sector_reactions"] = collect_sector_reactions_summary(now, context)
     context["asset_features"] = collect_asset_features_summary(now)
     context["ai_index"] = collect_ai_index_summary(now, context)
+    context["available_at"] = datetime.now(timezone.utc).isoformat()
 
     (raw_dir / f"rss_{now.strftime('%H%M%S')}.json").write_text(
         json.dumps([asdict(a) for a in articles], indent=2, ensure_ascii=False),
@@ -154,7 +156,12 @@ def run_context(now: datetime) -> None:
 
     CONTEXT_FILE.write_text(json.dumps(context, indent=2, ensure_ascii=False), encoding="utf-8")
     append_history(context)
-    append_polymarket_outcome_history(now, polymarket, profile="context")
+    append_polymarket_outcome_history(
+        now,
+        polymarket,
+        profile="context",
+        collected_at=polymarket_collected_at,
+    )
     REPORT_FILE.write_text(render_report(context), encoding="utf-8")
     logging.info("Wrote %s", CONTEXT_FILE)
 
@@ -228,11 +235,13 @@ def run_flow_alert(now: datetime) -> None:
     raw_dir = RAW_DIR / now.strftime("%Y-%m-%d")
 
     polymarket = collect_polymarket()
+    polymarket_collected_at = datetime.now(timezone.utc)
     dune_large_flows = collect_dune_large_flows()
     previous_history = load_json(FLOW_ALERT_HISTORY_FILE, default=[])
     if not isinstance(previous_history, list):
         previous_history = []
     alert = build_flow_alert(now, lookback_hours, polymarket, dune_large_flows, previous_history)
+    alert["available_at"] = datetime.now(timezone.utc).isoformat()
 
     (raw_dir / f"polymarket_alert_{now.strftime('%H%M%S')}.json").write_text(
         json.dumps(polymarket, indent=2, ensure_ascii=False),
@@ -246,7 +255,12 @@ def run_flow_alert(now: datetime) -> None:
     FLOW_ALERT_FILE.write_text(json.dumps(alert, indent=2, ensure_ascii=False), encoding="utf-8")
     append_flow_alert_history(alert)
     if os.getenv("POLYMARKET_OUTCOME_HISTORY_FROM_FLOW", "false").lower() == "true":
-        append_polymarket_outcome_history(now, polymarket, profile="flow_alert")
+        append_polymarket_outcome_history(
+            now,
+            polymarket,
+            profile="flow_alert",
+            collected_at=polymarket_collected_at,
+        )
     FLOW_ALERT_REPORT_FILE.write_text(render_flow_alert_report(alert), encoding="utf-8")
     logging.info("Wrote %s", FLOW_ALERT_FILE)
 
@@ -837,6 +851,7 @@ def append_polymarket_outcome_history(
     now: datetime,
     markets: list[dict[str, Any]],
     profile: str,
+    collected_at: datetime | None = None,
 ) -> None:
     max_records = int(os.getenv("POLYMARKET_OUTCOME_HISTORY_MAX_RECORDS", "75000"))
     max_bytes = int(os.getenv("POLYMARKET_OUTCOME_HISTORY_MAX_BYTES", "85000000"))
@@ -845,7 +860,12 @@ def append_polymarket_outcome_history(
         history = []
 
     observed_at = floor_time(now, int(os.getenv("POLYMARKET_OUTCOME_HISTORY_BUCKET_MINUTES", "15"))).isoformat()
-    rows = build_polymarket_outcome_history_rows(observed_at, markets, profile)
+    rows = build_polymarket_outcome_history_rows(
+        observed_at,
+        markets,
+        profile,
+        collected_at=(collected_at or now).isoformat(),
+    )
     if not rows:
         return
 
@@ -896,6 +916,7 @@ def build_polymarket_outcome_history_rows(
     observed_at: str,
     markets: list[dict[str, Any]],
     profile: str,
+    collected_at: str | None = None,
 ) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
     for market in markets:
@@ -917,6 +938,7 @@ def build_polymarket_outcome_history_rows(
             rows.append(
                 {
                     "observed_at": observed_at,
+                    "collected_at": collected_at or observed_at,
                     "profile": profile,
                     "event_slug": summary.get("event_slug"),
                     "market_slug": summary.get("slug"),
@@ -1104,6 +1126,7 @@ def append_history(context: dict[str, Any]) -> None:
         history = []
     history.append({
         "generated_at": context["generated_at"],
+        "available_at": context.get("available_at") or context["generated_at"],
         "scores": context["scores"],
         "news": {
             "article_count": context["news"]["article_count"],
@@ -1138,6 +1161,7 @@ def append_flow_alert_history(alert: dict[str, Any]) -> None:
         history = []
     history.append({
         "generated_at": alert["generated_at"],
+        "available_at": alert.get("available_at") or alert["generated_at"],
         "scores": alert["scores"],
         "large_flows": {
             "large_usdc_tx_count": alert["large_flows"]["large_usdc_tx_count"],

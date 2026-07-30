@@ -89,9 +89,11 @@ def update_hip4_outcome_snapshot(now: datetime) -> dict[str, Any]:
     aggregates = aggregate_rows(rows)
     request_errors = [err for err in (meta_error, mids_error) if err]
     request_warnings = [ctx_error] if ctx_error else []
+    available_at = datetime.now(timezone.utc)
 
     latest = {
         "generated_at": now.isoformat(),
+        "available_at": available_at.isoformat(),
         "info_url": info_url,
         "source_status": {
             "outcome_meta": "ok" if meta_error is None else "error",
@@ -493,6 +495,7 @@ def append_history(now: datetime, latest: dict[str, Any], max_records: int, max_
         {
             "observed_at": bucket,
             "generated_at": latest["generated_at"],
+            "available_at": latest.get("available_at") or latest["generated_at"],
             "outcome_count": latest["outcome_count"],
             "side_count": latest["side_count"],
             "by_underlying": latest["by_underlying"],

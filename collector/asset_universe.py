@@ -101,11 +101,19 @@ def update_asset_universe_snapshot(now: datetime) -> dict[str, Any]:
     bucket = floor_time(now, bucket_minutes)
 
     rows, collection_meta = collect_asset_rows(hip3_dexes)
-    latest = build_latest_snapshot(now, bucket, rows, top_limit, class_top_limit, collection_meta)
-    history = update_price_history(now, bucket, rows, max_records)
+    collected_at = datetime.now(timezone.utc)
+    latest = build_latest_snapshot(
+        collected_at,
+        bucket,
+        rows,
+        top_limit,
+        class_top_limit,
+        collection_meta,
+    )
+    history = update_price_history(collected_at, bucket, rows, max_records)
     summary = {
         "enabled": True,
-        "updated_at": now.isoformat(),
+        "updated_at": collected_at.isoformat(),
         "observed_at": bucket.isoformat(),
         "asset_count": latest["asset_count"],
         "priced_asset_count": latest["priced_asset_count"],

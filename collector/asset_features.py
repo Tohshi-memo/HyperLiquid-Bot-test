@@ -57,9 +57,11 @@ def update_asset_features(now: datetime) -> dict[str, Any]:
 
     rows.sort(key=lambda row: to_float(row.get("activity_score")), reverse=True)
     top_limit = int(os.getenv("ASSET_FEATURES_TOP_LIMIT", "80"))
+    available_at = datetime.now(timezone.utc)
     latest = {
         "schema_version": 1,
         "generated_at": now.isoformat(),
+        "available_at": available_at.isoformat(),
         "observed_at": latest_record.get("observed_at"),
         "asset_count": len(rows),
         "top_assets": rows[:top_limit],
@@ -68,6 +70,7 @@ def update_asset_features(now: datetime) -> dict[str, Any]:
     all_payload = {
         "schema_version": 1,
         "generated_at": now.isoformat(),
+        "available_at": available_at.isoformat(),
         "observed_at": latest_record.get("observed_at"),
         "purpose": (
             "All tradable HyperLiquid assets with compact derived features. "
@@ -82,7 +85,7 @@ def update_asset_features(now: datetime) -> dict[str, Any]:
 
     return {
         "enabled": True,
-        "updated_at": now.isoformat(),
+        "updated_at": available_at.isoformat(),
         "latest_file": "data/processed/asset_features_latest.json",
         "all_file": "data/processed/asset_features_all.json",
         "report_file": "data/reports/latest_asset_features.md",

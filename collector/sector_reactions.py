@@ -66,17 +66,26 @@ def update_sector_reactions(now: datetime, context: dict[str, Any] | None = None
     provider = price_provider()
 
     price_history = load_json(PRICE_HISTORY_FILE, {})
-    if should_refresh_prices(price_history, now, refresh_hours):
+    prices_refreshed = should_refresh_prices(price_history, now, refresh_hours)
+    if prices_refreshed:
         records, fetch_errors = fetch_sector_price_records(proxies, max_price_records)
+        source_refreshed_at = now.isoformat()
     else:
         records = price_history.get("records", []) if isinstance(price_history, dict) else []
         fetch_errors = []
+        source_refreshed_at = (
+            price_history.get("source_refreshed_at")
+            or price_history.get("updated_at")
+            or now.isoformat()
+        )
     records = [row for row in records if isinstance(row, dict)]
     records.sort(key=lambda row: row.get("date", ""))
 
     price_output = {
         "schema_version": 1,
         "updated_at": now.isoformat(),
+        "source_refreshed_at": source_refreshed_at,
+        "prices_refreshed_this_run": prices_refreshed,
         "source": provider,
         "source_note": (
             "Daily ETF close proxies. Default provider is Yahoo chart endpoint with no key; "

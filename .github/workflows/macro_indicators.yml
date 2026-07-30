@@ -43,6 +43,28 @@ jobs:
       - name: Build report site data
         run: python tools/build_report_site_data.py
 
+      - name: Dual-write incremental macro data
+        env:
+          TD_BASE_URL: ${{ secrets.TD_BASE_URL || vars.TD_BASE_URL }}
+          TD_REPO: 'hyperliquid-bot-test'
+          TD_HMAC_SECRET: ${{ secrets.TD_HMAC_SECRET }}
+          TD_SYNC_LOOKBACK_MINUTES: '90'
+        run: |
+          if [ -z "$TD_BASE_URL" ] || [ -z "$TD_HMAC_SECRET" ]; then
+            echo "::notice::Sakura dual-write is not configured; keeping Git-only collection."
+            exit 0
+          fi
+          python tools/sync_storage_gateway.py --profile macro
+
+      - name: Preserve raw inputs after a failed run
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: macro-raw-recovery-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/raw/
+          if-no-files-found: ignore
+          retention-days: 14
+
       - name: Commit macro indicator data
         if: always()
         run: |
@@ -51,6 +73,7 @@ jobs:
           git add --force \
             data/processed/macro_indicators_latest.json \
             data/processed/macro_indicators_history.json \
+            data/processed/trading_data_sync_state.json \
             data/reports/latest_macro_indicators.md \
             docs/data/processed/macro_indicators_latest.json \
             docs/data/reports/latest_macro_indicators.md \

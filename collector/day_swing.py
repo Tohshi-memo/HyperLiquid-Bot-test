@@ -107,9 +107,10 @@ def build_observation(
             "labels": {},
         }
 
+    collected_at = datetime.now(timezone.utc)
     return {
         "observed_at": bucket.isoformat(),
-        "collected_at": now.isoformat(),
+        "collected_at": collected_at.isoformat(),
         "context_scores": context.get("scores", {}),
         "news": {
             "article_count": context.get("news", {}).get("article_count"),
@@ -240,7 +241,9 @@ def label_records(records: list[dict[str, Any]], horizons: list[str]) -> None:
                     "return_pct": pct_change(future_price, start_price),
                     "price": round(future_price, 8),
                     "labeled_at": future_time.isoformat(),
+                    "available_at": future_record.get("collected_at") or future_time.isoformat(),
                     "delay_minutes": round(delay, 1),
+                    "label_version": "forward_return_v1",
                 }
 
 

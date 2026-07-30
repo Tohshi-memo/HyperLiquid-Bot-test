@@ -211,10 +211,12 @@ def update_macro_indicators(now: datetime) -> dict[str, Any]:
 
     release_calendar = collect_release_calendar(now)
     apply_next_releases(indicators, release_calendar)
+    available_at = datetime.now(timezone.utc)
 
     latest = {
         "schema_version": 1,
         "generated_at": now.isoformat(),
+        "available_at": available_at.isoformat(),
         "purpose": (
             "Macro indicator snapshot for rates, employment, inflation, dollar, "
             "and broad risk context. These are public macro inputs, not trade signals."
@@ -685,6 +687,7 @@ def append_history(latest: dict[str, Any]) -> None:
         history = []
     compact = {
         "generated_at": latest.get("generated_at"),
+        "available_at": latest.get("available_at") or latest.get("generated_at"),
         "indicator_count": latest.get("indicator_count"),
         "values": {
             row["key"]: {

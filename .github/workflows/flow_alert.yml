@@ -51,6 +51,28 @@ jobs:
       - name: Build report site data
         run: python tools/build_report_site_data.py
 
+      - name: Dual-write incremental flow data
+        env:
+          TD_BASE_URL: ${{ secrets.TD_BASE_URL || vars.TD_BASE_URL }}
+          TD_REPO: 'hyperliquid-bot-test'
+          TD_HMAC_SECRET: ${{ secrets.TD_HMAC_SECRET }}
+          TD_SYNC_LOOKBACK_MINUTES: '15'
+        run: |
+          if [ -z "$TD_BASE_URL" ] || [ -z "$TD_HMAC_SECRET" ]; then
+            echo "::notice::Sakura dual-write is not configured; keeping Git-only collection."
+            exit 0
+          fi
+          python tools/sync_storage_gateway.py --profile flow_alert
+
+      - name: Preserve raw inputs after a failed run
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: flow-raw-recovery-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/raw/
+          if-no-files-found: ignore
+          retention-days: 14
+
       - name: Commit flow alert data
         if: always()
         run: |
@@ -59,6 +81,7 @@ jobs:
           git add --force \
             data/processed/flow_alert.json \
             data/processed/flow_alert_history.json \
+            data/processed/trading_data_sync_state.json \
             data/reports/latest_flow_alert.md \
             docs/data/processed/flow_alert.json \
             docs/data/reports/latest_flow_alert.md \
