@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-30T11:30:24.246414+00:00`
+- Generated: `2026-07-30T11:35:24.664924+00:00`
 - Flow alert score: `19.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8167056.717612` | liquidity: `24238.373`
-- Will the U.S. invade Iran before 2027? | 24h volume: `1460092.0226750027` | liquidity: `1056479.4958`
-- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1365388.792000001` | liquidity: `57065.35105`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1255396.0520219998` | liquidity: `555930.9743`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `889845.612167` | liquidity: `889599.1379`
-- Fed rate hike in 2026? | 24h volume: `865199.270357` | liquidity: `330341.4438`
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `647549.948709999` | liquidity: `9376.15955`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `530403.7055649998` | liquidity: `81609.643`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8167056.717612` | liquidity: `27008.33517`
+- Will the U.S. invade Iran before 2027? | 24h volume: `1460092.0226750027` | liquidity: `1069923.348`
+- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1365388.792000001` | liquidity: `57081.05192`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1255396.0520219998` | liquidity: `551412.3684`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `889845.612167` | liquidity: `897281.41991`
+- Fed rate hike in 2026? | 24h volume: `865199.270357` | liquidity: `329773.9816`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `647549.948709999` | liquidity: `35122.24266`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `530403.7055649998` | liquidity: `76795.5386`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
