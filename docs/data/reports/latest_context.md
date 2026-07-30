@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T09:37:29.855094+00:00`
+- Generated: `2026-07-30T09:52:26.963345+00:00`
 - Market context score: `51.12`
 - News risk score: `39.59`
 - Macro risk score: `32.73`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:779`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7575`
-- Day/swing latest: `2026-07-30T09:30:00+00:00`
+- Day/swing records: `7576`
+- Day/swing latest: `2026-07-30T09:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Virtual interviews don't show bosses your personality, says Burnham (BBC News)
 - [macro] Missile that left crater deep inside Poland was probably Russian - Polish PM (BBC News)
 - [macro] Veteran Ugandan opposition leader collapses in court and in ICU, his wife says (BBC News)
-- [macro] Virtual job interviews don't let people shine, says Burnham (BBC News)
 - [macro] Shell profits double as oil prices rise due to Iran war (BBC News)
 - [commodity] Oil prices move higher as Iran threatens response to latest U.S. strikes (Energy)
 - [crypto] Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
