@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T01:52:26.395626+00:00`
-- Market context score: `41.95`
-- News risk score: `45.76`
-- Macro risk score: `32.9`
-- Risk-on score: `22.07`
-- Articles: `48`
+- Generated: `2026-07-30T02:07:28.065430+00:00`
+- Market context score: `41.51`
+- News risk score: `46.3`
+- Macro risk score: `32.97`
+- Risk-on score: `21.57`
+- Articles: `47`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:779`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7544`
-- Day/swing latest: `2026-07-30T01:45:00+00:00`
+- Day/swing records: `7545`
+- Day/swing latest: `2026-07-30T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `10`, risk headline rate `0.3333`, policy hits `4`
+- crypto: articles `20`, risk hits `10`, risk headline rate `0.35`, policy hits `4`
 - macro: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `6`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
@@ -37,5 +37,5 @@
 - [macro] Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins (BBC News)
 - [macro] What a divided Fed means for investors (Economy)
 - [macro] Watch: Japanese mall explodes after magnitude 6.8 earthquake (BBC News)
-- [crypto] Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] I dropped out of university and built five beauty businesses. Here's how I did it (BBC News)
