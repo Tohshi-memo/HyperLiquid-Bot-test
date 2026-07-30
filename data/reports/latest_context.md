@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T12:01:49.405470+00:00`
-- Market context score: `48.66`
-- News risk score: `41.25`
-- Macro risk score: `35.09`
-- Risk-on score: `34.0`
-- Articles: `45`
+- Generated: `2026-07-30T12:07:28.484778+00:00`
+- Market context score: `46.04`
+- News risk score: `42.16`
+- Macro risk score: `38.38`
+- Risk-on score: `30.18`
+- Articles: `42`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,7 +24,7 @@
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `4`
-- macro: articles `20`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `3`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [crypto] Bitcoin ETFs on track for the smallest monthly inflows ever (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Market Digest: BX, CAKE, DECK, KO, LVS, RJF, STX, RTX (Yahoo Finance)
 - [macro] Watch: Giant iceberg turns over near  Greenland's coast (BBC News)
+- [macro] US launches 'heavy' strikes on Iran after attempted attack on American troops (BBC News)
