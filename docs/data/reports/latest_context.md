@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T05:07:26.347846+00:00`
-- Market context score: `41.38`
+- Generated: `2026-07-30T05:22:26.303332+00:00`
+- Market context score: `43.53`
 - News risk score: `44.48`
 - Macro risk score: `34.33`
-- Risk-on score: `20.27`
+- Risk-on score: `25.03`
 - Articles: `40`
 - Polymarket markets: `391`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:779`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7557`
-- Day/swing latest: `2026-07-30T05:00:00+00:00`
+- Day/swing records: `7558`
+- Day/swing latest: `2026-07-30T05:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July (Cointelegraph.com News)
 - [macro] US launches 'heavy' strikes on Iran after attempted attack on American troops (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Burnham says nuclear sub investment will protect UK and boost jobs (BBC News)
 - [macro] The once-destroyed community that's now a global energy giant (BBC News)
 - [macro] Three Greek firefighters die as wildfires threaten parts of southern Europe (BBC News)
-- [crypto] Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows (Cointelegraph.com News)
