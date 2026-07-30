@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T11:22:29.129357+00:00`
-- Market context score: `47.21`
-- News risk score: `41.33`
-- Macro risk score: `35.05`
-- Risk-on score: `30.83`
-- Articles: `41`
+- Generated: `2026-07-30T11:37:25.092947+00:00`
+- Market context score: `46.82`
+- News risk score: `41.27`
+- Macro risk score: `36.61`
+- Risk-on score: `30.49`
+- Articles: `40`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:779`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7582`
-- Day/swing latest: `2026-07-30T11:15:00+00:00`
+- Day/swing records: `7583`
+- Day/swing latest: `2026-07-30T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `4`
+- crypto: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `4`
+- macro: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT (Cointelegraph.com News)
 - [crypto] Bitcoin ETFs on track for the smallest monthly inflows ever (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Interest rates held as Bank of England says inflation set to rise (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Nicaraguan leader proposes extending presidential term by another year (BBC News)
 - [crypto] BitRiver founder charged in Russia with $12.5 million fraud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Missile that left crater deep inside Poland was probably Russian - Polish PM (BBC News)
-- [crypto] Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
