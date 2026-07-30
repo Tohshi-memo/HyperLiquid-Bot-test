@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T16:07:38.108060+00:00`
-- Market context score: `44.43`
-- News risk score: `50.68`
-- Macro risk score: `33.61`
-- Risk-on score: `32.01`
-- Articles: `83`
+- Generated: `2026-07-30T16:12:21.315111+00:00`
+- Market context score: `43.33`
+- News risk score: `51.42`
+- Macro risk score: `34.98`
+- Risk-on score: `30.71`
+- Articles: `84`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,18 +24,18 @@
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `33`, risk hits `10`, risk headline rate `0.303`, policy hits `4`
-- macro: articles `44`, risk hits `12`, risk headline rate `0.2273`, policy hits `5`
+- macro: articles `45`, risk hits `13`, risk headline rate `0.2444`, policy hits `10`
 - policy: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
 - [macro] Thousands evacuated in Crete as wildfires threaten tourist resorts (BBC News)
 - [crypto] Ondo Finance weighs acquisition worth up to $500 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Worldline cuts revenue growth forecast as bank contract delays slow recovery (Yahoo Finance)
+- [macro] Prediction: Synopsys Could Become the Next $150 Billion Software Giant (Yahoo Finance)
 - [crypto] Hyperscale Data sells 100 BTC to fund Michigan AI data center (Cointelegraph.com News)
+- [macro] Chipotle shares rise on quarterly earnings beat, raised outlook (Yahoo Finance)
+- [macro] Intel and AMD Soar 13%, Taiwan Semiconductor Rallies 7% as AI-Chip Stocks Bounce Hard (Yahoo Finance)
 - [macro] Agentic capital markets will emerge from the convergence of machine-readable assets, programmable settlement and delegated intelligence (Yahoo Finance)
-- [macro] Alphabet Beat Nvidia in the First Half of 2026. Here's My Prediction for Which Stock Will Win in the Second Half. (Yahoo Finance)
 - [crypto] Tokenized gold passes DeFi stress test, but less than 2% is used as collateral (Cointelegraph.com News)
 - [macro] Silicon Motion Jumps On Positive Day For Chip Stocks (Yahoo Finance)
-- [macro] A payment is not complete when the message arrives (Yahoo Finance)
-- [macro] Man impaled by a hiking pole treks 10 miles down mountain (BBC News)
-- [macro] The CLARITY Act Is Moving Again in the Senate. Here's What Passage Would Change for Coinbase and Robinhood. (Yahoo Finance)
