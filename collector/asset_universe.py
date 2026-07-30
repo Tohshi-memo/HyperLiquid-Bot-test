@@ -133,7 +133,10 @@ def update_asset_universe_snapshot(now: datetime) -> dict[str, Any]:
     }
 
     LATEST_FILE.write_text(json.dumps(latest, indent=2, ensure_ascii=False), encoding="utf-8")
-    HISTORY_FILE.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
+    HISTORY_FILE.write_text(
+        json.dumps(history, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
     REPORT_FILE.write_text(render_report(summary), encoding="utf-8")
     logger.info("Wrote %s", LATEST_FILE)
     return summary

@@ -61,7 +61,10 @@ def update_day_swing_dataset(now: datetime, context: dict[str, Any]) -> dict[str
         "label_horizons": horizons,
         "records": records,
     }
-    DATASET_FILE.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
+    DATASET_FILE.write_text(
+        json.dumps(output, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
 
     summary = summarize_dataset(output)
     analysis_pack = build_ai_analysis_pack(output, summary)

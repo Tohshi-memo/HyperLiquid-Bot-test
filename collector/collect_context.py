@@ -1151,7 +1151,10 @@ def append_history(context: dict[str, Any]) -> None:
         },
         "polymarket_market_count": context["polymarket"]["market_count"],
     })
-    HISTORY_FILE.write_text(json.dumps(history[-max_records:], indent=2), encoding="utf-8")
+    HISTORY_FILE.write_text(
+        json.dumps(history[-max_records:], separators=(",", ":")),
+        encoding="utf-8",
+    )
 
 
 def append_flow_alert_history(alert: dict[str, Any]) -> None:
@@ -1175,7 +1178,10 @@ def append_flow_alert_history(alert: dict[str, Any]) -> None:
             "lifetime_volume": alert["polymarket"]["lifetime_volume"],
         },
     })
-    FLOW_ALERT_HISTORY_FILE.write_text(json.dumps(history[-max_records:], indent=2), encoding="utf-8")
+    FLOW_ALERT_HISTORY_FILE.write_text(
+        json.dumps(history[-max_records:], separators=(",", ":")),
+        encoding="utf-8",
+    )
 
 
 def render_report(context: dict[str, Any]) -> str:

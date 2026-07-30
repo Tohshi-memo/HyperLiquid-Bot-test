@@ -98,7 +98,10 @@ def update_sector_reactions(now: datetime, context: dict[str, Any] | None = None
         "records": records,
         "fetch_errors": fetch_errors,
     }
-    PRICE_HISTORY_FILE.write_text(json.dumps(price_output, indent=2, ensure_ascii=False), encoding="utf-8")
+    PRICE_HISTORY_FILE.write_text(
+        json.dumps(price_output, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
 
     context_history = load_json(MARKET_CONTEXT_HISTORY_FILE, [])
     flow_history = load_json(FLOW_ALERT_HISTORY_FILE, [])
