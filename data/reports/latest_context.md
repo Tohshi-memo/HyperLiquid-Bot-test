@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-30T19:47:15.910286+00:00`
-- Market context score: `40.43`
-- News risk score: `53.86`
-- Macro risk score: `39.93`
-- Risk-on score: `28.19`
-- Articles: `62`
+- Generated: `2026-07-30T19:52:45.820356+00:00`
+- Market context score: `40.73`
+- News risk score: `53.52`
+- Macro risk score: `39.88`
+- Risk-on score: `28.56`
+- Articles: `63`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,19 +23,19 @@
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3571`, policy hits `5`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.3448`, policy hits `5`
 - macro: articles `28`, risk hits `10`, risk headline rate `0.2857`, policy hits `4`
 - policy: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures (Cointelegraph.com News)
 - [commodity] Oil prices fall after Saudi Arabia proposes naval coalition to protect ships from attack (Energy)
 - [macro] Migrants seen swimming around border fence of Spanish enclave Ceuta (BBC News)
 - [macro] Virtual interviews don't show bosses your personality, says Burnham (BBC News)
 - [macro] Analyst Report: Visa Inc (Yahoo Finance)
+- [macro] Analyst Report: Cognizant Tech Sol. Corp (Yahoo Finance)
 - [macro] Analyst Report: Ford Motor Co (Yahoo Finance)
 - [macro] Analyst Report: Qorvo Inc (Yahoo Finance)
 - [macro] Analyst Report: SoFi Technologies Inc (Yahoo Finance)
-- [macro] Analyst Report: Cognizant Tech Sol. Corp (Yahoo Finance)
 - [macro] Danube's record low levels force shutdown of Hungary's only nuclear plant (BBC News)
-- [crypto] Aviva Investors launches tokenized fund after Central Bank of Ireland approval (Cointelegraph.com News)
