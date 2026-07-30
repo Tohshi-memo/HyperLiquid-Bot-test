@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-30T05:45:28.449604+00:00`
+- Generated: `2026-07-30T05:50:31.985291+00:00`
 - Flow alert score: `20.44`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8449118.947612` | liquidity: `23677.1507`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3553455.734666` | liquidity: `29197.26009`
-- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1365455.277000001` | liquidity: `53666.02401`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `8449118.947612` | liquidity: `25048.51928`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3553455.734666` | liquidity: `29861.56414`
+- Will Hassan Shariatmadari be head of state in Iran end of 2026? | 24h volume: `1365455.277000001` | liquidity: `51190.91558`
 - Will Tulsi Gabbard win the 2028 US Presidential Election? | 24h volume: `1114841.9193250001` | liquidity: `1474319.32645`
-- Will the U.S. invade Iran before 2027? | 24h volume: `1063345.8010900002` | liquidity: `991082.8089`
-- Fed rate hike in 2026? | 24h volume: `911298.6512579999` | liquidity: `392016.2369`
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `564414.583516` | liquidity: `38408.34704`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `545486.252059` | liquidity: `679313.22631`
+- Will the U.S. invade Iran before 2027? | 24h volume: `1063345.8010900002` | liquidity: `799485.3495`
+- Fed rate hike in 2026? | 24h volume: `911298.6512579999` | liquidity: `385956.4437`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `564414.583516` | liquidity: `38126.37474`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `545486.252059` | liquidity: `681038.10762`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
