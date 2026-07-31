@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-31T14:52:29.182276+00:00`
-- Market context score: `57.87`
-- News risk score: `41.11`
-- Macro risk score: `28.04`
-- Risk-on score: `51.7`
-- Articles: `76`
+- Generated: `2026-07-31T15:06:29.402373+00:00`
+- Market context score: `59.75`
+- News risk score: `39.32`
+- Macro risk score: `25.05`
+- Risk-on score: `53.21`
+- Articles: `78`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:780`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7690`
-- Day/swing latest: `2026-07-31T14:45:00+00:00`
+- Day/swing records: `7691`
+- Day/swing latest: `2026-07-31T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `4`
-- macro: articles `45`, risk hits `9`, risk headline rate `0.1778`, policy hits `3`
+- crypto: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `4`
+- macro: articles `46`, risk hits `7`, risk headline rate `0.1304`, policy hits `0`
 - policy: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
 - [macro] Healey announces his first Budget will be on 28 October (BBC News)
-- [macro] Marie Brizard sees sales rebound in France (Yahoo Finance)
-- [macro] Chevron reports net income of $12.1bn in Q2 2026 (Yahoo Finance)
-- [macro] 1 Unstoppable Dividend ETF Up 26% in 2026 to Buy and Hold for the Next 20 Years (Yahoo Finance)
-- [macro] Selling days boost June sales but US spirits still down over year – NABCA (Yahoo Finance)
-- [macro] MKS (MKSI): A Mission Critical Semiconductor Supplier Behind Next Gen Chip Making (Yahoo Finance)
-- [macro] What Makes Forgent Power Solutions (FPS) a Bullish Bet? (Yahoo Finance)
-- [macro] Exxon, Chevron Earnings Soar On Iran War Surge, But Big Oil Stocks Diverge (Yahoo Finance)
-- [macro] Stock Market Today: Dow Turns Lower As Apple Dives On Soft View; Amazon Surges On Earnings (Live Coverage) (Yahoo Finance)
-- [macro] Apple's iPhone leasing program: How it works, what to consider (Yahoo Finance)
+- [crypto] Crypto faces 3 barriers to next bull run, STS Digital CEO says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What is a good credit score to buy a house? (Yahoo Finance)
+- [macro] Mapfre to take 38.9% stake in Spanish insurtech operator Tuio (Yahoo Finance)
+- [macro] Coinbase Q2 2026 earnings miss: $359 million net loss (Yahoo Finance)
+- [macro] The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments (Yahoo Finance)
+- [macro] Lemonade's Full-Year In-Force Premium Outlook Misses Expectations. Is the Growth Story Slowing or Just Repricing? (Yahoo Finance)
+- [macro] Procore Technologies’ (PCOR) SaaS Model Tested in Volatile Market (Yahoo Finance)
+- [macro] Is Schwab Stock A Sweet Buy In Sour Market? Consider These Clues. (Yahoo Finance)
+- [macro] Guardant Health, Thursday's Stock Of The Day, Spikes After Hiking 2026 Outlook (Yahoo Finance)
