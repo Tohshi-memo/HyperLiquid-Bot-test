@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-31T14:37:29.883825+00:00`
-- Market context score: `57.49`
-- News risk score: `42.3`
-- Macro risk score: `27.47`
-- Risk-on score: `51.62`
-- Articles: `77`
+- Generated: `2026-07-31T14:52:29.182276+00:00`
+- Market context score: `57.87`
+- News risk score: `41.11`
+- Macro risk score: `28.04`
+- Risk-on score: `51.7`
+- Articles: `76`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:780`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7689`
-- Day/swing latest: `2026-07-31T14:30:00+00:00`
+- Day/swing records: `7690`
+- Day/swing latest: `2026-07-31T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `4`
-- macro: articles `45`, risk hits `7`, risk headline rate `0.1556`, policy hits `5`
+- crypto: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `4`
+- macro: articles `45`, risk hits `9`, risk headline rate `0.1778`, policy hits `3`
 - policy: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
 - [macro] Healey announces his first Budget will be on 28 October (BBC News)
-- [macro] Hundreds escape Greek wildfire by sea as blazes continue across Europe (BBC News)
-- [macro] France’s Domaine Lafage buys local wine cooperative (Yahoo Finance)
-- [commodity] Democrats demand information on Trump and Lutnick families' ties to critical mineral deals (Energy)
-- [macro] About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says (BBC News)
-- [macro] Guardant Health, Stock Of The Day, Spikes After Hiking 2026 Outlook (Yahoo Finance)
-- [macro] Inside Project Peregrine: Why Blackstone and KKR Bought Into Kuwait’s Oil Pipelines (Yahoo Finance)
-- [macro] Study Finds That A $1.2 Million Retirement and a $4 Million Retirement Look Almost Identical In Terms Of Spending (Yahoo Finance)
-- [macro] TopBuild Acquisition Seals QXO’s (QXO) North American Dominance (Yahoo Finance)
-- [macro] Is CoreWeave Stock a Buy After a Company Insider Shed 6,455 Shares? (Yahoo Finance)
+- [macro] Marie Brizard sees sales rebound in France (Yahoo Finance)
+- [macro] Chevron reports net income of $12.1bn in Q2 2026 (Yahoo Finance)
+- [macro] 1 Unstoppable Dividend ETF Up 26% in 2026 to Buy and Hold for the Next 20 Years (Yahoo Finance)
+- [macro] Selling days boost June sales but US spirits still down over year – NABCA (Yahoo Finance)
+- [macro] MKS (MKSI): A Mission Critical Semiconductor Supplier Behind Next Gen Chip Making (Yahoo Finance)
+- [macro] What Makes Forgent Power Solutions (FPS) a Bullish Bet? (Yahoo Finance)
+- [macro] Exxon, Chevron Earnings Soar On Iran War Surge, But Big Oil Stocks Diverge (Yahoo Finance)
+- [macro] Stock Market Today: Dow Turns Lower As Apple Dives On Soft View; Amazon Surges On Earnings (Live Coverage) (Yahoo Finance)
+- [macro] Apple's iPhone leasing program: How it works, what to consider (Yahoo Finance)
