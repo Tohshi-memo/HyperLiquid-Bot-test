@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-31T12:50:27.886581+00:00`
+- Generated: `2026-07-31T12:55:28.950283+00:00`
 - Flow alert score: `17.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `12134499.557832` | liquidity: `28483.31407`
-- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `778014.8619019998` | liquidity: `59510.38274`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `696219.6070909977` | liquidity: `354745.06486`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `504854.53990800073` | liquidity: `423908.1888`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `452286.37001000013` | liquidity: `485251.3392`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `423605.341297` | liquidity: `110730.8107`
-- Will Hamas agree to disarm by December 31? | 24h volume: `398120.2386159999` | liquidity: `69115.4425`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `325992.00870799995` | liquidity: `829026.03425`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `12134499.557832` | liquidity: `27891.32858`
+- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `778014.8619019998` | liquidity: `61729.91467`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `696219.6070909977` | liquidity: `354092.41336`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `504854.53990800073` | liquidity: `426089.6216`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `452286.37001000013` | liquidity: `481686.6308`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `423605.341297` | liquidity: `115459.1552`
+- Will Hamas agree to disarm by December 31? | 24h volume: `398120.2386159999` | liquidity: `65768.9042`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `325992.00870799995` | liquidity: `828951.17545`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
