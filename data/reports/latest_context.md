@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-31T21:07:26.037198+00:00`
+- Generated: `2026-07-31T21:22:30.506757+00:00`
 - Market context score: `44.65`
 - News risk score: `46.26`
 - Macro risk score: `35.89`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7714`
-- Day/swing latest: `2026-07-31T21:00:00+00:00`
+- Day/swing records: `7715`
+- Day/swing latest: `2026-07-31T21:15:00+00:00`
 
 ## News Categories
 
@@ -34,8 +34,8 @@
 - [crypto] Bank of Italy finds no consistent cost advantage for stablecoin remittances (Cointelegraph.com News)
 - [crypto] Pump.fun laid off workers before they received millions in PUMP tokens: Report (Cointelegraph.com News)
 - [commodity] Oil prices rise after Iran says it attacked two tankers transiting Strait of Hormuz (Energy)
-- [macro] Analyst Report: Lam Research Corp (Yahoo Finance)
 - [macro] Analyst Report: T-Mobile US Inc (Yahoo Finance)
-- [macro] Analyst Report: Flex Ltd (Yahoo Finance)
+- [macro] Analyst Report: Lam Research Corp (Yahoo Finance)
 - [macro] Analyst Report: Unilever PLC (Yahoo Finance)
+- [macro] Analyst Report: Flex Ltd (Yahoo Finance)
 - [macro] Analyst Report: Mastercard Inc (Yahoo Finance)
