@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-31T10:22:34.975147+00:00`
+- Generated: `2026-07-31T10:37:31.492538+00:00`
 - Market context score: `57.46`
 - News risk score: `33.33`
 - Macro risk score: `28.52`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:780`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7672`
-- Day/swing latest: `2026-07-31T10:15:00+00:00`
+- Day/swing records: `7673`
+- Day/swing latest: `2026-07-31T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Andy Burnham to give regional mayors share of income tax (BBC News)
 - [macro] Sainsbury's agrees to sell Argos for £120m (BBC News)
 - [macro] Anthropic's Claude AI escapes to hack into three organisations (BBC News)
 - [macro] Anthropic's Claude AI escapes to hack into three organisations (BBC News)
-- [macro] Andy Burnham to give regional mayors share of income tax (BBC News)
 - [commodity] Oi prices choppy as recovering Hormuz Strait traffic tempers war premium (Energy)
 - [crypto] New York sues Kalshi over alleged illegal gambling operation (Cointelegraph.com News)
 - [crypto] New York sues Kalshi, alleges it offers a gambling platform 'plain and simple' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
