@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-31T15:40:29.733759+00:00`
+- Generated: `2026-07-31T15:45:42.581259+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `20042218.89`
-- Polymarket volume z-score: `-0.03`
+- Polymarket 24h volume: `16838068.65`
+- Polymarket volume z-score: `-0.44`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `10136639.657832` | liquidity: `28206.95484`
-- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `739649.676906` | liquidity: `48016.66966`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `685170.4367979977` | liquidity: `591960.14607`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `496514.4549199999` | liquidity: `127728.0012`
-- Will Hamas agree to disarm by December 31? | 24h volume: `467731.50728499977` | liquidity: `63613.7759`
-- Will the price of Bitcoin be above $66,000 on July 31? | 24h volume: `347580.352235` | liquidity: `67646.38898`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `327906.33544699993` | liquidity: `435144.5616`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `299950.45836899994` | liquidity: `828325.09147`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `7907759.657832` | liquidity: `27816.98333`
+- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `722539.7275280005` | liquidity: `49551.04305`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `659310.6313389977` | liquidity: `628961.21206`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `496213.42420999997` | liquidity: `134291.8482`
+- Will Hamas agree to disarm by December 31? | 24h volume: `493803.16618799965` | liquidity: `65677.481`
+- Will the price of Bitcoin be above $66,000 on July 31? | 24h volume: `351281.85990100005` | liquidity: `67726.81942`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `295243.305466` | liquidity: `434097.22`
+- Will the price of Bitcoin be above $62,000 on July 31? | 24h volume: `283941.850268` | liquidity: `16196.17753`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
