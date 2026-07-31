@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-31T00:52:31.554762+00:00`
+- Generated: `2026-07-31T00:59:37.180733+00:00`
 - Market context score: `38.75`
 - News risk score: `55.56`
 - Macro risk score: `43.84`
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [macro] Nirmal Purja among 10 climbers feared missing after avalanche (BBC News)
 - [macro] Anthropic says AI models hacked three firms during tests (BBC News)
 - [macro] Anthropic says AI models hacked three firms during tests (BBC News)
 - [crypto] Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury (Cointelegraph.com News)
 - [macro] Hamas says it has agreed to disarm after Trump announces Board of Peace plan (BBC News)
-- [macro] Nirmal Purja among 10 climbers feared missing after avalanche (BBC News)
 - [macro] Apple warns of future 'supply constraints' for Mac, iPhone, iPad (BBC News)
 - [macro] Thames Water boss says leakage targets 'not realistic' (BBC News)
 - [macro] 'I pay £580 a month to live in a disused care home': Property guardians show us around (BBC News)
