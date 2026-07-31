@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-31T20:07:41.748461+00:00`
-- Market context score: `47.23`
-- News risk score: `44.24`
-- Macro risk score: `34.2`
-- Risk-on score: `33.01`
-- Articles: `60`
+- Generated: `2026-07-31T20:12:47.960789+00:00`
+- Market context score: `46.94`
+- News risk score: `44.37`
+- Macro risk score: `34.97`
+- Risk-on score: `32.77`
+- Articles: `59`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -24,16 +24,16 @@
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `6`
-- macro: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `1`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `1`
 - policy: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
 - [crypto] Pump.fun laid off workers before they received millions in PUMP tokens: Report (Cointelegraph.com News)
 - [commodity] Oil prices rise after Iran says it attacked two tankers transiting Strait of Hormuz (Energy)
+- [macro] Analyst Report: T-Mobile US Inc (Yahoo Finance)
 - [macro] Analyst Report: Lam Research Corp (Yahoo Finance)
 - [macro] Analyst Report: Flex Ltd (Yahoo Finance)
-- [macro] Analyst Report: T-Mobile US Inc (Yahoo Finance)
 - [macro] Analyst Report: Unilever PLC (Yahoo Finance)
 - [macro] Analyst Report: Mastercard Inc (Yahoo Finance)
 - [crypto] Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
