@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-07-31T18:45:29.754294+00:00`
+- Generated: `2026-07-31T18:50:31.286250+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13053693.47`
-- Polymarket volume z-score: `-0.93`
+- Polymarket 24h volume: `11578447.1`
+- Polymarket volume z-score: `-1.12`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `4728999.6578319995` | liquidity: `25879.61238`
-- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `717004.6011830005` | liquidity: `56287.01056`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `661195.9197239974` | liquidity: `529816.57241`
-- Will Hamas agree to disarm by December 31? | 24h volume: `527370.8034189999` | liquidity: `36865.4312`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `517703.12930300017` | liquidity: `143224.7142`
-- Kharg Island no longer under Iranian control by July 31? | 24h volume: `323335.00499999995` | liquidity: `240718.8084`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `294960.78901999973` | liquidity: `470774.4651`
-- Will the U.S. invade Iran before 2027? | 24h volume: `287457.0175829998` | liquidity: `1213257.266`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `3239870.6745` | liquidity: `26161.06607`
+- Will Donald Trump publicly insult Vladimir Putin by July 31, 2026? | 24h volume: `711637.7819550001` | liquidity: `44041.07342`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `701643.462134998` | liquidity: `531886.64463`
+- Will Hamas agree to disarm by December 31? | 24h volume: `593764.3596539998` | liquidity: `55604.5821`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `505122.03502699995` | liquidity: `143076.191`
+- Kharg Island no longer under Iranian control by July 31? | 24h volume: `311854.72500000003` | liquidity: `247998.68189`
+- Will the U.S. invade Iran before 2027? | 24h volume: `280987.372758` | liquidity: `1217449.6917`
+- Will Bitcoin reach $67,500 in July? | 24h volume: `275755.962617` | liquidity: `71755.55746`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
