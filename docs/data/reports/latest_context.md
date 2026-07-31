@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-07-31T18:52:33.190601+00:00`
-- Market context score: `45.89`
-- News risk score: `44.97`
-- Macro risk score: `37.62`
-- Risk-on score: `31.94`
-- Articles: `56`
+- Generated: `2026-07-31T19:07:35.731554+00:00`
+- Market context score: `45.46`
+- News risk score: `45.24`
+- Macro risk score: `38.66`
+- Risk-on score: `31.61`
+- Articles: `55`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:780`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7705`
-- Day/swing latest: `2026-07-31T18:45:00+00:00`
+- Day/swing records: `7706`
+- Day/swing latest: `2026-07-31T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `6`
-- macro: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `1`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
+- [commodity] Oil prices rise after Iran says it attacked two tankers transiting Strait of Hormuz (Energy)
 - [crypto] Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI firms must answer for rogue bots, says boss of hacked company (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Ex-FTX users report funds being released in $900M distribution round (Cointelegraph.com News)
 - [macro] As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years (Economy)
 - [macro] Two bodies located and search ongoing after avalanche hits Nirmal Purja's team (BBC News)
-- [crypto] Tether earns $1.5B in Q2 as US Treasury holdings fuel profits (Cointelegraph.com News)
