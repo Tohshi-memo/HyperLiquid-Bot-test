@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T03:05:27.477589+00:00`
+- Generated: `2026-08-01T03:10:34.563327+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `886115.7752299998` | liquidity: `170036.36826`
-- Will Hamas agree to disarm by December 31? | 24h volume: `760726.7821109999` | liquidity: `65861.6821`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `681416.6533529952` | liquidity: `101566.8346`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `886115.7752299998` | liquidity: `166522.36079`
+- Will Hamas agree to disarm by December 31? | 24h volume: `760726.7821109999` | liquidity: `61433.8855`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `681416.6533529952` | liquidity: `100037.4115`
 - Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `619898.2898960003` | liquidity: `929001.49006`
-- Will the U.S. invade Iran before 2027? | 24h volume: `604958.451222` | liquidity: `1260332.8564`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `499933.1385159997` | liquidity: `69163.64108`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `488417.9798060002` | liquidity: `45311.3504`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `316651.92801100004` | liquidity: `491310.2242`
+- Will the U.S. invade Iran before 2027? | 24h volume: `604958.451222` | liquidity: `1252217.6163`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `499933.1385159997` | liquidity: `62078.24155`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `488417.9798060002` | liquidity: `41959.4284`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `316651.92801100004` | liquidity: `481941.066`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
