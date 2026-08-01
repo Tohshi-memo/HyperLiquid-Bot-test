@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T07:20:19.714917+00:00`
+- Generated: `2026-08-01T07:22:44.927217+00:00`
 - Market context score: `37.97`
 - News risk score: `47.22`
 - Macro risk score: `24.97`
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Russian strikes on Kyiv kill at least nine, Ukraine officials say (BBC News)
 - [commodity] Iran's overlapping power centers make ending the war more complicated (Energy)
 - [crypto] XRP Ledger upgrade brings back features once pulled over critical bugs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] How bitcoin cold wallets lost $70 million in an attack that never touched the devices (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fifa scraps controversial World Cup investment plan (BBC News)
 - [macro] Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge (BBC News)
-- [macro] Russian strikes on Kyiv kill at least nine, Ukraine officials say (BBC News)
 - [macro] Budget to be held in October, Healey announces (BBC News)
 - [macro] Watch: Why Fifa dropped plans to sell stakes in the World Cup (BBC News)
 - [macro] Peru's ex-president leaves jail after 15-year jail term for corruption overturned (BBC News)
