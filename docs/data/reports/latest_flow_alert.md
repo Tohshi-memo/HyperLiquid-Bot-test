@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T09:00:32.007027+00:00`
+- Generated: `2026-08-01T09:05:32.159756+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1061554.1937289995` | liquidity: `130401.55305`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `665314.2022259964` | liquidity: `116455.4061`
-- Will the U.S. invade Iran before 2027? | 24h volume: `640010.7471` | liquidity: `1357629.7816`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `599896.0150120002` | liquidity: `52048.873`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `580888.8008829997` | liquidity: `83713.05609`
-- Will Hamas agree to disarm by December 31? | 24h volume: `569628.006365` | liquidity: `87207.0724`
-- Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `550248.845399` | liquidity: `879234.49413`
-- Will China invade Taiwan by September 30, 2026? | 24h volume: `344273.6177350001` | liquidity: `150131.32513`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1061554.1937289995` | liquidity: `133876.6306`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `665314.2022259964` | liquidity: `91061.3847`
+- Will the U.S. invade Iran before 2027? | 24h volume: `640010.7471` | liquidity: `1421116.7667`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `599896.0150120002` | liquidity: `52509.9906`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `580888.8008829997` | liquidity: `84837.51574`
+- Will Hamas agree to disarm by December 31? | 24h volume: `569628.006365` | liquidity: `86472.2746`
+- Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `550248.845399` | liquidity: `876578.20308`
+- Will China invade Taiwan by September 30, 2026? | 24h volume: `344273.6177350001` | liquidity: `151275.8913`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
