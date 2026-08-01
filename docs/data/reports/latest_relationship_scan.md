@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-08-01T22:22:36.797674+00:00`
+- Generated: `2026-08-01T22:37:31.685959+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -25,26 +25,26 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `news_risk_high->unknown_24h` score `5188.5913` n `60` status `ready` deltaP `31.2882` edge `432.2161` maxDD `-2.0332`
-- `market_context_high->crypto_alt_24h` score `17.8146` n `53` status `ready` deltaP `58.1374` edge `1.1367` maxDD `-2.1786`
-- `news_risk_high->equity_4h` score `4.8645` n `68` status `ready` deltaP `17.1359` edge `0.3675` maxDD `-3.4427`
-- `market_context_high->commodity_24h` score `1.7657` n `53` status `ready` deltaP `27.4844` edge `0.229` maxDD `-10.2019`
+- `news_risk_high->unknown_24h` score `5188.5925` n `60` status `ready` deltaP `31.2882` edge `432.2162` maxDD `-2.0332`
+- `market_context_high->crypto_alt_24h` score `17.8621` n `53` status `ready` deltaP `58.3107` edge `1.1395` maxDD `-2.1786`
+- `news_risk_high->equity_4h` score `4.8633` n `68` status `ready` deltaP `17.1359` edge `0.3674` maxDD `-3.4427`
+- `market_context_high->commodity_24h` score `1.7587` n `53` status `ready` deltaP `27.4844` edge `0.2281` maxDD `-10.2019`
 - `news_risk_high->index_4h` score `1.7415` n `68` status `ready` deltaP `16.6786` edge `0.072` maxDD `-0.3783`
-- `market_context_high->crypto_alt_4h` score `0.7892` n `53` status `ready` deltaP `9.9575` edge `0.1305` maxDD `-5.323`
-- `news_risk_high->equity_1h` score `0.6672` n `68` status `ready` deltaP `9.4928` edge `0.0746` maxDD `-2.916`
-- `market_context_high->fx_4h` score `0.2058` n `53` status `ready` deltaP `13.5585` edge `0.0156` maxDD `-1.3685`
-- `news_risk_high->metal_4h` score `0.1274` n `68` status `ready` deltaP `5.165` edge `0.0295` maxDD `-0.8085`
-- `news_risk_high->crypto_alt_1h` score `0.0983` n `68` status `ready` deltaP `6.1818` edge `0.0396` maxDD `-3.1233`
-- `market_context_high->fx_24h` score `-0.025` n `53` status `ready` deltaP `7.7531` edge `0.0431` maxDD `-2.506`
-- `market_context_high->fx_1h` score `-0.052` n `53` status `ready` deltaP `6.7535` edge `0.0009` maxDD `-0.6874`
-- `news_risk_high->index_1h` score `-0.0528` n `68` status `ready` deltaP `2.6154` edge `0.0081` maxDD `-0.5845`
-- `news_risk_high->fx_4h` score `-0.0613` n `68` status `ready` deltaP `10.3121` edge `0.0219` maxDD `-0.6604`
-- `market_context_high->commodity_1h` score `-0.0667` n `53` status `ready` deltaP `4.3272` edge `0.0167` maxDD `-1.3282`
-- `news_risk_high->fx_1h` score `-0.1354` n `68` status `ready` deltaP `1.6203` edge `0.0041` maxDD `-0.2475`
+- `market_context_high->crypto_alt_4h` score `0.7758` n `53` status `ready` deltaP `9.805` edge `0.1298` maxDD `-5.323`
+- `news_risk_high->equity_1h` score `0.666` n `68` status `ready` deltaP `9.4928` edge `0.0745` maxDD `-2.916`
+- `market_context_high->fx_4h` score `0.205` n `53` status `ready` deltaP `13.5585` edge `0.0155` maxDD `-1.3685`
+- `news_risk_high->metal_4h` score `0.1266` n `68` status `ready` deltaP `5.165` edge `0.0294` maxDD `-0.8085`
+- `news_risk_high->crypto_alt_1h` score `0.0897` n `68` status `ready` deltaP `6.0321` edge `0.0395` maxDD `-3.1233`
+- `market_context_high->fx_24h` score `-0.0144` n `53` status `ready` deltaP `7.9264` edge `0.0433` maxDD `-2.506`
+- `news_risk_high->index_1h` score `-0.0442` n `68` status `ready` deltaP `2.7651` edge `0.0082` maxDD `-0.5845`
+- `news_risk_high->fx_4h` score `-0.0625` n `68` status `ready` deltaP `10.3121` edge `0.0218` maxDD `-0.6604`
+- `market_context_high->fx_1h` score `-0.0652` n `53` status `ready` deltaP `6.6038` edge `0.0008` maxDD `-0.6874`
+- `market_context_high->commodity_1h` score `-0.0675` n `53` status `ready` deltaP `4.3272` edge `0.0166` maxDD `-1.3282`
+- `news_risk_high->fx_1h` score `-0.144` n `68` status `ready` deltaP `1.4706` edge `0.004` maxDD `-0.2475`
 - `news_risk_high->metal_1h` score `-0.152` n `68` status `ready` deltaP `2.1663` edge `0.0064` maxDD `-0.5599`
-- `news_risk_high->crypto_major_1h` score `-0.2132` n `68` status `ready` deltaP `1.9197` edge `0.0319` maxDD `-3.762`
-- `market_context_high->commodity_4h` score `-0.3063` n `53` status `ready` deltaP `2.81` edge `0.0295` maxDD `-3.0005`
-- `market_context_high->crypto_alt_1h` score `-0.6129` n `53` status `ready` deltaP `-4.4176` edge `0.0136` maxDD `-3.0178`
+- `news_risk_high->crypto_major_1h` score `-0.2147` n `68` status `ready` deltaP `1.9197` edge `0.0317` maxDD `-3.762`
+- `market_context_high->commodity_4h` score `-0.2976` n `53` status `ready` deltaP `2.9625` edge `0.0296` maxDD `-3.0005`
+- `market_context_high->crypto_alt_1h` score `-0.6214` n `53` status `ready` deltaP `-4.5673` edge `0.0135` maxDD `-3.0178`
 
 ## Guardrails
 
