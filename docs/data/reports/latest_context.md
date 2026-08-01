@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T11:04:01.686747+00:00`
+- Generated: `2026-08-01T11:07:24.664104+00:00`
 - Market context score: `37.15`
 - News risk score: `48.62`
 - Macro risk score: `27.21`
@@ -34,7 +34,7 @@
 - [macro] Infantino on the brink? Who might replace him if he goes? (BBC News)
 - [macro] Mortgage and refinance interest rates today, Saturday, August 1, 2026: Rates higher than Friday (Yahoo Finance)
 - [macro] Best CD rates today, Saturday, August 1, 2026: Best CD account earns 4.15% APY (Yahoo Finance)
-- [macro] Uefa has 'lost confidence' in Fifa leadership (BBC News)
+- [macro] Uefa has 'lost confidence' in Infantino's Fifa leadership (BBC News)
 - [crypto] Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis (Cointelegraph.com News)
 - [crypto] Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian strikes on Kyiv kill at least nine, Ukraine officials say (BBC News)
