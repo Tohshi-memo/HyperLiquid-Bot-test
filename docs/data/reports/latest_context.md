@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T21:37:31.522912+00:00`
-- Market context score: `42.17`
+- Generated: `2026-08-01T21:52:28.392658+00:00`
+- Market context score: `43.17`
 - News risk score: `52.76`
 - Macro risk score: `24.0`
-- Risk-on score: `25.12`
+- Risk-on score: `27.34`
 - Articles: `39`
 - Polymarket markets: `387`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7811`
-- Day/swing latest: `2026-08-01T21:30:00+00:00`
+- Day/swing records: `7812`
+- Day/swing latest: `2026-08-01T21:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy? (Yahoo Finance)
 - [macro] Claiming at 62 vs. 67: The $150,000 Social Security Mistake Nobody Does the Math On (Yahoo Finance)
 - [crypto] Onchain, in court: What happened in crypto legal news this week (Cointelegraph.com News)
 - [macro] Three killed after bomb detonated at Moscow restaurant, state media say (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Inflation Could Wreck Your Retirement. Here's How to Avoid Letting That Happen. (Yahoo Finance)
 - [commodity] Tankers near Oman come under fire as Iran threatens to choke off shipping routes (Energy)
 - [macro] Tourist plane crashes in Peru, killing 13 (BBC News)
-- [macro] 29-year-old fast-casual chain closes final location (Yahoo Finance)
