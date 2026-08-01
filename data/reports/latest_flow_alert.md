@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T19:45:27.424450+00:00`
+- Generated: `2026-08-01T19:50:32.441301+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,17 +8,17 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10507943.69`
-- Polymarket volume z-score: `-1.2`
+- Polymarket 24h volume: `10593719.25`
+- Polymarket volume z-score: `-1.19`
 
 ## Top Polymarket Markets
 
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `990192.8434070025` | liquidity: `63200.1751`
-- Will the U.S. invade Iran before 2027? | 24h volume: `965042.923977001` | liquidity: `1164572.521`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `782221.2234640004` | liquidity: `84010.6643`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `990192.8434070025` | liquidity: `65607.0873`
+- Will the U.S. invade Iran before 2027? | 24h volume: `965042.923977001` | liquidity: `1164064.1283`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `782221.2234640004` | liquidity: `85181.03728`
 - U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `674206.874789` | liquidity: `369114.07988`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `626233.4088659999` | liquidity: `83617.09835`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `609886.9810139997` | liquidity: `66775.7416`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `626233.4088659999` | liquidity: `84734.49706`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `609886.9810139997` | liquidity: `73825.7245`
 - Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `563384.7227360004` | liquidity: `176905.984`
 - Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `506056.99713100004` | liquidity: `1217973.75399`
 
