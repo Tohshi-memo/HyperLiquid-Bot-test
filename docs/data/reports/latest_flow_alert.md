@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T00:40:26.240432+00:00`
+- Generated: `2026-08-01T00:45:29.882644+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11457603.03`
-- Polymarket volume z-score: `-1.12`
+- Polymarket 24h volume: `11439951.78`
+- Polymarket volume z-score: `-1.13`
 
 ## Top Polymarket Markets
 
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `845975.6592669997` | liquidity: `177510.19144`
-- Will Hamas agree to disarm by December 31? | 24h volume: `777297.6397739997` | liquidity: `71480.4084`
-- Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `694136.3281810002` | liquidity: `924571.79709`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `667243.1263199951` | liquidity: `121640.8617`
-- Will the U.S. invade Iran before 2027? | 24h volume: `579146.820686` | liquidity: `1212723.5628`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `462642.4977749999` | liquidity: `96547.10993`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `373540.4214679999` | liquidity: `55405.629`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `331012.24871099996` | liquidity: `375605.0328`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `875966.1709649997` | liquidity: `178148.45199`
+- Will Hamas agree to disarm by December 31? | 24h volume: `766882.2115019998` | liquidity: `72688.8854`
+- Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `688124.4165880003` | liquidity: `932846.16019`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `680028.4890299949` | liquidity: `119426.401`
+- Will the U.S. invade Iran before 2027? | 24h volume: `591835.311914` | liquidity: `1173967.5654`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `461208.9573049998` | liquidity: `98134.09693`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `399845.91737900005` | liquidity: `60706.9378`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `333386.47122799995` | liquidity: `375971.6469`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
