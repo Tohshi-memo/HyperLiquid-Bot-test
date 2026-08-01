@@ -2,23 +2,23 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-08-01T08:52:28.626183+00:00`
+- Updated: `2026-08-01T09:07:23.754160+00:00`
 - Asset price active records: `672`
-- Day/swing records: `7760`
+- Day/swing records: `7761`
 - Macro indicators: `11`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
-- Asset price archives: `data/archive/asset_price_history_2026-05.jsonl.gz`, `data/archive/asset_price_history_2026-06.jsonl.gz`, `data/archive/asset_price_history_2026-07.jsonl.gz`
+- Asset price archives: `data/archive/asset_price_history_2026-05.jsonl.gz`, `data/archive/asset_price_history_2026-06.jsonl.gz`
 - Polymarket outcome archives: `data/archive/polymarket_outcome_history_2026-05.jsonl.gz`, `data/archive/polymarket_outcome_history_2026-06.jsonl.gz`
 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2371 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (63093 bytes): Machine-readable map.
+- `data/processed/ai_context_index.json` (63046 bytes): Machine-readable map.
 - `data/reports/latest_canary_signals.md` (2396 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/reports/latest_ai_analysis_brief.md` (873 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2102 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (48269 bytes): Compact strategy stats.
+- `data/processed/ai_analysis_pack.json` (48271 bytes): Compact strategy stats.
 - `data/reports/latest_asset_universe.md` (5715 bytes): Asset-class overview.
 - `data/reports/latest_asset_features.md` (2291 bytes): Individual asset screen.
 - `data/reports/latest_hip4_outcome.md` (6154 bytes): HIP-4 outcome market overview.

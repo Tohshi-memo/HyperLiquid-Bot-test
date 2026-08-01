@@ -1,33 +1,34 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T08:52:28.626183+00:00`
-- Market context score: `42.64`
-- News risk score: `40.2`
-- Macro risk score: `25.88`
-- Risk-on score: `16.25`
-- Articles: `19`
+- Generated: `2026-08-01T09:07:23.754160+00:00`
+- Market context score: `37.59`
+- News risk score: `47.62`
+- Macro risk score: `25.75`
+- Risk-on score: `11.25`
+- Articles: `20`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `1184`
-- Asset price history records: `672`
+- Asset universe count: `None`
+- Asset price history records: `None`
 
-- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:781`
-- HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
+- Asset classes: ``
+- HIP-3 dexes: ``
 
-- Day/swing records: `7760`
-- Day/swing latest: `2026-08-01T08:45:00+00:00`
+- Day/swing records: `7761`
+- Day/swing latest: `2026-08-01T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.1333`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian strikes on Kyiv kill at least nine, Ukraine officials say (BBC News)
 - [macro] Stick to spending limits, PM and chancellor tell ministers in joint memo (BBC News)
 - [crypto] Bitcoin ETFs end July in the green despite late-month selling (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] How bitcoin cold wallets lost $70 million in an attack that never touched the devices (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fifa scraps controversial World Cup investment plan (BBC News)
 - [macro] Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge (BBC News)
-- [macro] Watch: Why Fifa dropped plans to sell stakes in the World Cup (BBC News)

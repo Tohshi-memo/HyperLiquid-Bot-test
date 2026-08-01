@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T08:52:28.626183+00:00",
+  "updated_at": "2026-08-01T09:07:23.754160+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -26,7 +26,7 @@
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 63093,
+        "bytes": 63046,
         "note": "Machine-readable map."
       },
       {
@@ -36,7 +36,7 @@
       },
       {
         "path": "data/reports/latest_ai_analysis_brief.md",
-        "bytes": 875,
+        "bytes": 873,
         "note": "BTC/ETH/HYPE/SOL compact stats."
       },
       {
@@ -46,7 +46,7 @@
       },
       {
         "path": "data/processed/ai_analysis_pack.json",
-        "bytes": 48269,
+        "bytes": 48271,
         "note": "Compact strategy stats."
       },
       {
@@ -98,27 +98,27 @@
       },
       {
         "path": "data/processed/day_swing_dataset.json",
-        "bytes": 52873342,
+        "bytes": 52880272,
         "note": "Full BTC/ETH/HYPE/SOL feature and label rows."
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 4850952,
+        "bytes": 4851562,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 2820531,
+        "bytes": 2820681,
         "note": "Polymarket/flow history."
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 567844,
+        "bytes": 567822,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 46803709,
+        "bytes": 46803939,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -133,12 +133,12 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 14996,
+        "bytes": 14984,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 5218106,
+        "bytes": 5215700,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
@@ -167,10 +167,6 @@
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
       {
-        "path": "data/archive/asset_price_history_2026-07.jsonl.gz",
-        "when_to_read": "Only for longer backtests after a specific rule is selected."
-      },
-      {
         "path": "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
@@ -181,7 +177,7 @@
     ]
   },
   "dataset_health": {
-    "market_context_history_records": 8604,
+    "market_context_history_records": 8605,
     "flow_alert_history_records": 8640,
     "polymarket_outcome_history_records": 75000,
     "macro_indicator_count": 11,
@@ -193,8 +189,7 @@
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
-      "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-07.jsonl.gz"
+      "data/archive/asset_price_history_2026-06.jsonl.gz"
     ],
     "polymarket_outcome_archive_files": [
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
@@ -203,7 +198,6 @@
     "archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
       "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-07.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-06.jsonl.gz"
     ],
@@ -220,12 +214,12 @@
       "metal": 20,
       "unknown": 781
     },
-    "day_swing_records": 7760,
+    "day_swing_records": 7761,
     "day_swing_label_counts": {
-      "1h": 30972,
-      "4h": 30808,
-      "24h": 29872,
-      "72h": 27708
+      "1h": 30976,
+      "4h": 30812,
+      "24h": 29876,
+      "72h": 27712
     },
     "hip4_outcome_count": 8,
     "hip4_side_count": 16,
@@ -253,16 +247,16 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-08-01T08:52:28.626183+00:00",
+    "generated_at": "2026-08-01T09:07:23.754160+00:00",
     "scores": {
-      "news_risk_score": 40.2,
-      "macro_risk_score": 25.88,
-      "risk_on_score": 16.25,
-      "market_context_score": 42.64
+      "news_risk_score": 47.62,
+      "macro_risk_score": 25.75,
+      "risk_on_score": 11.25,
+      "market_context_score": 37.59
     },
     "news": {
-      "article_count": 19,
-      "risk_keyword_hits": 5,
+      "article_count": 20,
+      "risk_keyword_hits": 6,
       "sentiment_score": -1.0
     },
     "polymarket_market_count": 387,
@@ -498,7 +492,7 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-08-01T08:50:28.742647+00:00",
+      "generated_at": "2026-08-01T09:05:32.159756+00:00",
       "scores": {
         "flow_alert_score": 17.0,
         "flow_alert_level": "baseline"
@@ -520,7 +514,7 @@
         "market_count": 60,
         "volume_24h": 11554928.85,
         "lifetime_volume": 229711795.52,
-        "liquidity": 16111334.54,
+        "liquidity": 16246290.99,
         "top_markets": [
           {
             "question": "U.S. anti-cartel operation outside of the U.S. by July 31?",
@@ -531,7 +525,7 @@
             "impact_category": "geopolitics",
             "volume_24h": 1061554.1937289995,
             "volume": 2029109.743747,
-            "liquidity": 130501.31712,
+            "liquidity": 133876.6306,
             "end_date": "2026-07-31T11:59:00Z",
             "outcomes": [
               {
@@ -557,7 +551,7 @@
             "impact_category": "geopolitics",
             "volume_24h": 665314.2022259964,
             "volume": 3111430.1531169997,
-            "liquidity": 119692.5291,
+            "liquidity": 91061.3847,
             "end_date": "2026-07-31T23:59:00Z",
             "outcomes": [
               {
@@ -583,7 +577,7 @@
             "impact_category": "geopolitics",
             "volume_24h": 640010.7471,
             "volume": 51544771.34769599,
-            "liquidity": 1358947.965,
+            "liquidity": 1421116.7667,
             "end_date": "2026-12-31T00:00:00Z",
             "outcomes": [
               {
@@ -609,22 +603,22 @@
             "impact_category": "geopolitics",
             "volume_24h": 599896.0150120002,
             "volume": 769698.1270600002,
-            "liquidity": 52914.506,
+            "liquidity": 52509.9906,
             "end_date": "2026-08-02T23:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.81,
+                "probability": 0.805,
                 "token_id": "112157595552502425360311365480557346272967836691353340001604809204498706086576"
               },
               {
                 "name": "No",
-                "probability": 0.19,
+                "probability": 0.195,
                 "token_id": "69096949813045225336683960679829035937696902053122957721872788215708031375062"
               }
             ],
-            "yes_probability": 0.81,
-            "no_probability": 0.19
+            "yes_probability": 0.805,
+            "no_probability": 0.195
           },
           {
             "question": "Israel x Iran ceasefire continues through July 31?",
@@ -635,7 +629,7 @@
             "impact_category": "geopolitics",
             "volume_24h": 580888.8008829997,
             "volume": 2871452.912221,
-            "liquidity": 85687.63108,
+            "liquidity": 84837.51574,
             "end_date": "2026-07-31T23:59:00Z",
             "outcomes": [
               {
@@ -661,22 +655,22 @@
             "impact_category": "geopolitics",
             "volume_24h": 569628.006365,
             "volume": 956267.9602810002,
-            "liquidity": 86331.8066,
+            "liquidity": 86472.2746,
             "end_date": "2026-12-31T20:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.625,
+                "probability": 0.645,
                 "token_id": "3833250547311424992805456252782158332407335422350263044535636678503072819141"
               },
               {
                 "name": "No",
-                "probability": 0.375,
+                "probability": 0.355,
                 "token_id": "30676432546818066080538703205639237969080188796746196694446265523208566227883"
               }
             ],
-            "yes_probability": 0.625,
-            "no_probability": 0.375
+            "yes_probability": 0.645,
+            "no_probability": 0.355
           },
           {
             "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
@@ -687,7 +681,7 @@
             "impact_category": "commodity",
             "volume_24h": 550248.845399,
             "volume": 1044746.977792,
-            "liquidity": 879234.49413,
+            "liquidity": 876578.20308,
             "end_date": "2026-08-01T03:59:59.999Z",
             "outcomes": [
               {
@@ -713,22 +707,22 @@
             "impact_category": "geopolitics",
             "volume_24h": 344273.6177350001,
             "volume": 1785870.0998520004,
-            "liquidity": 145942.06594,
+            "liquidity": 151275.8913,
             "end_date": "2026-09-30T00:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.013,
+                "probability": 0.0125,
                 "token_id": "11630502333603507010260051963632226548966933278788158525182753385940719742668"
               },
               {
                 "name": "No",
-                "probability": 0.987,
+                "probability": 0.9875,
                 "token_id": "50085164654457077021180441667207714705224469706773328882519583735294659477266"
               }
             ],
-            "yes_probability": 0.013,
-            "no_probability": 0.987
+            "yes_probability": 0.0125,
+            "no_probability": 0.9875
           },
           {
             "question": "Will Donald Trump publicly insult Vladimir Putin by July 31, 2026?",
@@ -739,7 +733,7 @@
             "impact_category": "policy",
             "volume_24h": 292876.61240599985,
             "volume": 1074748.119837,
-            "liquidity": 171146.57877,
+            "liquidity": 170075.76743,
             "end_date": "2026-07-31T23:59:00Z",
             "outcomes": [
               {
@@ -765,7 +759,7 @@
             "impact_category": "macro",
             "volume_24h": 280887.8940350002,
             "volume": 2264206.9574199994,
-            "liquidity": 591528.0255,
+            "liquidity": 615044.1125,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -793,7 +787,7 @@
             "impact_category": "health",
             "volume_24h": 98099.78699400007,
             "volume": 17473242.07030903,
-            "liquidity": 861643.73214,
+            "liquidity": 862855.16318,
             "end_date": "2026-12-31T00:00:00Z",
             "outcomes": [
               {
@@ -815,7 +809,7 @@
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-08-01T08:52:28.626183+00:00",
+      "generated_at": "2026-08-01T09:07:23.754160+00:00",
       "outcome_count": 8,
       "side_count": 16,
       "by_underlying": {
@@ -839,7 +833,7 @@
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-08-01T08:52:28.626183+00:00",
+      "generated_at": "2026-08-01T09:07:23.754160+00:00",
       "pattern_count": 48,
       "min_samples": 30,
       "top_patterns": [
@@ -1118,7 +1112,7 @@
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-08-01T08:52:28.626183+00:00",
+      "generated_at": "2026-08-01T09:07:23.754160+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121162,
       "top_patterns": [
@@ -1292,7 +1286,7 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-08-01T08:52:28.626183+00:00",
+      "generated_at": "2026-08-01T09:07:23.754160+00:00",
       "observed_at": "2026-08-01T08:45:00+00:00",
       "asset_count": 1184,
       "top_assets": [
@@ -1573,7 +1567,7 @@
     "status": "ready",
     "sample_status": {
       "asset_price_records": 672,
-      "market_context_records": 8604,
+      "market_context_records": 8605,
       "flow_alert_records": 8640,
       "minimum_for_correlation": 24,
       "ready_for_correlation": true
@@ -1873,5 +1867,5 @@
     "read_relationship_scan_when": "Selecting public, mechanically discovered A/B -> future-return candidates for private AI hypothesis review and strategy validation.",
     "read_sector_reactions_when": "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, or 252d after public event conditions."
   },
-  "available_at": "2026-08-01T08:53:22.708108+00:00"
+  "available_at": "2026-08-01T09:08:52.756099+00:00"
 }
