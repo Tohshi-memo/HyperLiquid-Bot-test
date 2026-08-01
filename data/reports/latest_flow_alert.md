@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T07:40:28.782054+00:00`
+- Generated: `2026-08-01T07:45:32.593714+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11327287.22`
-- Polymarket volume z-score: `-1.12`
+- Polymarket 24h volume: `11226758.86`
+- Polymarket volume z-score: `-1.13`
 
 ## Top Polymarket Markets
 
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1024608.3117249993` | liquidity: `130189.58359`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `718330.395800995` | liquidity: `115383.771`
-- Will Hamas agree to disarm by December 31? | 24h volume: `670754.6934959997` | liquidity: `80565.0572`
-- Will the U.S. invade Iran before 2027? | 24h volume: `619773.470263` | liquidity: `1332635.4464`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `602999.1278829997` | liquidity: `85092.71268`
-- Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `565869.8547410001` | liquidity: `879234.49413`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `563455.9297370003` | liquidity: `54485.9667`
-- Will China invade Taiwan by September 30, 2026? | 24h volume: `342390.47133200004` | liquidity: `128434.33803`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1061234.8012549996` | liquidity: `127958.67659`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `665656.6182029966` | liquidity: `113719.3278`
+- Will the U.S. invade Iran before 2027? | 24h volume: `625827.2123659999` | liquidity: `1331449.595`
+- Will Hamas agree to disarm by December 31? | 24h volume: `596030.4939509998` | liquidity: `83573.5408`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `576571.2478829996` | liquidity: `86165.52478`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `569270.4945550002` | liquidity: `49469.2426`
+- Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `560209.887635` | liquidity: `879234.49413`
+- Will China invade Taiwan by September 30, 2026? | 24h volume: `344071.1885870001` | liquidity: `128294.4912`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
