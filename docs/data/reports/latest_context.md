@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T18:45:14.887203+00:00`
-- Market context score: `44.92`
+- Generated: `2026-08-01T18:52:27.925170+00:00`
+- Market context score: `44.1`
 - News risk score: `51.2`
 - Macro risk score: `25.51`
-- Risk-on score: `30.47`
+- Risk-on score: `28.65`
 - Articles: `38`
 - Polymarket markets: `387`
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Most Income Investors Have Never Heard of These 3 Bond ETFs Paying Over 10 Percent Monthly (Yahoo Finance)
 - [macro] Is Bloom Energy in Its Nvidia Moment? (Yahoo Finance)
 - [macro] XLV vs PBE: Is a Low-Cost Healthcare ETF the Better Buy Than a Focused Biotech Specialist? (Yahoo Finance)
 - [crypto] Minnesota crypto ATM ban goes into effect after reported $1M losses (Cointelegraph.com News)
 - [macro] Meta Is Paying Workers to Learn a Trade. For Someone Near 60, the Real Prize May Be Delaying Social Security. (Yahoo Finance)
-- [macro] Is XRP the Best Crypto You Can Buy Right Now? (Yahoo Finance)
 - [macro] Italy putting nearly all major cities on highest heat alert (BBC News)
 - [macro] Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs (BBC News)
 - [macro] Call for 'full review' as pressure grows on Infantino (BBC News)
