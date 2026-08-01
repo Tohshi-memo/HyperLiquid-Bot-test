@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T17:52:24.236323+00:00`
-- Market context score: `43.62`
-- News risk score: `51.4`
-- Macro risk score: `28.86`
-- Risk-on score: `29.02`
-- Articles: `42`
+- Generated: `2026-08-01T18:07:24.491635+00:00`
+- Market context score: `50.16`
+- News risk score: `46.66`
+- Macro risk score: `23.7`
+- Risk-on score: `37.6`
+- Articles: `40`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7796`
-- Day/swing latest: `2026-08-01T17:45:00+00:00`
+- Day/swing records: `7797`
+- Day/swing latest: `2026-08-01T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
-- crypto: articles `13`, risk hits `7`, risk headline rate `0.5385`, policy hits `0`
-- macro: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `4`
+- crypto: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `26`, risk hits `3`, risk headline rate `0.1154`, policy hits `5`
 
 ## Headlines
 
-- [macro] Warren Buffett's Berkshire Hathaway Is Sounding a Warning. What History Tells Us. (Yahoo Finance)
-- [macro] Is Grail (GRAL) Stock a Buy, Sell, or Hold at Under $70? (Yahoo Finance)
-- [macro] Gold Trust vs Silver Trust: Which Precious Metal ETF Should Win Investor Dollars? (Yahoo Finance)
+- [macro] Where Will Micron Stock Be in 2030? (Yahoo Finance)
+- [macro] Michael Saylor Has Paused Strategy's Regular Bitcoin Buys. What Does That Mean for MSTR Stock? (Yahoo Finance)
+- [macro] Healthcare Stocks Are Having a Good Year. Should You Buy a Fidelity or iShares ETF to Profit? (Yahoo Finance)
+- [macro] This Aerospace Stock Is Cheap, But Does That Make It a Buy Today? (Yahoo Finance)
 - [macro] Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs (BBC News)
-- [macro] Health savings accounts can be a great retirement tool – if you’re healthy or wealthy (Yahoo Finance)
 - [macro] Call for 'full review' as pressure grows on Infantino (BBC News)
 - [crypto] Tokenized stock trading surged 288% in July, but one QQQ token drove most of it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Current Ebola outbreak worst ever in DR Congo, WHO says (BBC News)
