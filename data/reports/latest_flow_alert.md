@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T17:15:30.211915+00:00`
+- Generated: `2026-08-01T17:20:36.548789+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1153512.5276519998` | liquidity: `328915.60491`
-- Will the U.S. invade Iran before 2027? | 24h volume: `813751.2337580003` | liquidity: `1276152.488`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `813598.7722600029` | liquidity: `40876.2387`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `624065.5458559998` | liquidity: `91718.41273`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `606999.5927330002` | liquidity: `78572.90326`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1153512.5276519998` | liquidity: `332615.40491`
+- Will the U.S. invade Iran before 2027? | 24h volume: `813751.2337580003` | liquidity: `1277976.036`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `813598.7722600029` | liquidity: `38605.3793`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `624065.5458559998` | liquidity: `91692.72797`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `606999.5927330002` | liquidity: `69316.41592`
 - Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `486089.52523400006` | liquidity: `995560.36668`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `482521.1348819995` | liquidity: `78782.3389`
-- Will Hamas agree to disarm by December 31? | 24h volume: `433766.03770999983` | liquidity: `97495.9522`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `482521.1348819995` | liquidity: `77863.4946`
+- Will Hamas agree to disarm by December 31? | 24h volume: `433766.03770999983` | liquidity: `98141.9186`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
