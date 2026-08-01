@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T20:07:31.736532+00:00`
+- Generated: `2026-08-01T20:22:29.537428+00:00`
 - Market context score: `45.54`
-- News risk score: `49.65`
-- Macro risk score: `17.76`
-- Risk-on score: `27.61`
-- Articles: `38`
+- News risk score: `50.89`
+- Macro risk score: `17.54`
+- Risk-on score: `28.57`
+- Articles: `40`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7805`
-- Day/swing latest: `2026-08-01T20:00:00+00:00`
+- Day/swing records: `7806`
+- Day/swing latest: `2026-08-01T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- crypto: articles `11`, risk hits `7`, risk headline rate `0.6364`, policy hits `0`
-- macro: articles `26`, risk hits `2`, risk headline rate `0.0769`, policy hits `2`
+- crypto: articles `12`, risk hits `8`, risk headline rate `0.6667`, policy hits `0`
+- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `2`
 
 ## Headlines
 
+- [macro] Three killed in Moscow restaurant bombing (BBC News)
+- [crypto] Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Ocean Power Technologies expands with Columbia Wave IP - ICYMI (Yahoo Finance)
 - [macro] Vertiv CEO makes critical comment as stock crashes (Yahoo Finance)
 - [macro] This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream (Yahoo Finance)
-- [macro] Three killed in Moscow restaurant explosion (BBC News)
 - [macro] Why EPAM Systems Stock Rocketed Higher This Week (Yahoo Finance)
 - [macro] Medicare’s Routine Dental Coverage Has Been $0 Since 1965. A Single Implant Now Costs $4,500. (Yahoo Finance)
 - [macro] Vanguard VONG vs VBK: Is a Small Cap ETF the Better Buy Over a Large Cap Fund in 2026? (Yahoo Finance)
-- [macro] Most Income Investors Have Never Heard of These 3 Bond ETFs Paying Over 10 Percent Monthly (Yahoo Finance)
 - [crypto] Minnesota crypto ATM ban goes into effect after reported $1M losses (Cointelegraph.com News)
 - [macro] Italy putting nearly all major cities on highest heat alert (BBC News)
-- [macro] Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs (BBC News)
