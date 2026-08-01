@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T09:22:27.856745+00:00`
-- Market context score: `39.19`
-- News risk score: `46.08`
-- Macro risk score: `22.63`
-- Risk-on score: `12.33`
-- Articles: `19`
+- Generated: `2026-08-01T09:30:30.935486+00:00`
+- Market context score: `42.3`
+- News risk score: `41.5`
+- Macro risk score: `22.5`
+- Risk-on score: `15.33`
+- Articles: `20`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7762`
-- Day/swing latest: `2026-08-01T09:15:00+00:00`
+- Day/swing records: `7763`
+- Day/swing latest: `2026-08-01T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `14`, risk hits `2`, risk headline rate `0.0714`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis (Cointelegraph.com News)
 - [crypto] Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian strikes on Kyiv kill at least nine, Ukraine officials say (BBC News)
 - [macro] Stick to spending limits, PM and chancellor tell ministers in joint memo (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] XRP Ledger upgrade brings back features once pulled over critical bugs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] How bitcoin cold wallets lost $70 million in an attack that never touched the devices (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fifa scraps controversial World Cup investment plan (BBC News)
-- [macro] Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge (BBC News)
