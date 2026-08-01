@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T15:07:36.757080+00:00`
-- Market context score: `34.92`
-- News risk score: `57.48`
-- Macro risk score: `31.55`
-- Risk-on score: `15.84`
+- Generated: `2026-08-01T15:14:07.059293+00:00`
+- Market context score: `35.75`
+- News risk score: `56.67`
+- Macro risk score: `29.93`
+- Risk-on score: `16.39`
 - Articles: `45`
 - Polymarket markets: `388`
 
@@ -24,15 +24,15 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 - crypto: articles `8`, risk hits `5`, risk headline rate `0.625`, policy hits `0`
-- macro: articles `35`, risk hits `14`, risk headline rate `0.2571`, policy hits `6`
+- macro: articles `35`, risk hits `13`, risk headline rate `0.2286`, policy hits `6`
 
 ## Headlines
 
 - [macro] India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts (BBC News)
-- [macro] If You Invest $1,000 in the Vanguard High Dividend Yield ETF Right Now and Never Add Another Dollar, Here's What History Says It Could Deliver in 20 Years (Yahoo Finance)
 - [macro] $5,000 in GE Vernova at Its 2024 Low Would Be Worth This Much Now (Yahoo Finance)
 - [macro] The Market Now Says Palantir Technologies Is Just an LLM Wrapper. The Financials Disagree (Yahoo Finance)
 - [macro] MicroStrategy Post-Earnings CLARITY Act Push Could Add New Catalyst for Its Stock (Yahoo Finance)
+- [macro] Passive Income Play: Own This Many Chevron Shares for $1,000 a Year (Yahoo Finance)
 - [macro] 1 in 5 new car buyers are stuck in a $1,000-a-month nightmare — and it’s ruining their long-term wealth (Yahoo Finance)
 - [macro] Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says (BBC News)
 - [macro] Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship (BBC News)
