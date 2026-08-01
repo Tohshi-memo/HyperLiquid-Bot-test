@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-01T08:22:29.552650+00:00`
+- Generated: `2026-08-01T08:37:24.520533+00:00`
 - Market context score: `45.24`
 - News risk score: `36.38`
 - Macro risk score: `25.75`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7758`
-- Day/swing latest: `2026-08-01T08:15:00+00:00`
+- Day/swing records: `7759`
+- Day/swing latest: `2026-08-01T08:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Russian strikes on Kyiv kill at least nine, Ukraine officials say (BBC News)
 - [macro] Stick to spending limits, PM and chancellor tell ministers in joint memo (BBC News)
 - [crypto] Bitcoin ETFs end July in the green despite late-month selling (Cointelegraph.com News)
 - [macro] Race to rescue remaining climbers after deadly avalanche in Pakistan (BBC News)
-- [macro] Russian strikes on Kyiv kill at least nine, Ukraine officials say (BBC News)
 - [commodity] Iran's overlapping power centers make ending the war more complicated (Energy)
 - [crypto] XRP Ledger upgrade brings back features once pulled over critical bugs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] How bitcoin cold wallets lost $70 million in an attack that never touched the devices (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
