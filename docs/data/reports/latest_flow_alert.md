@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T15:25:26.556773+00:00`
+- Generated: `2026-08-01T15:30:30.442615+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1128981.303716` | liquidity: `222922.50619`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `730600.873005001` | liquidity: `35965.0399`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `647372.3436379997` | liquidity: `63058.2535`
-- Will the U.S. invade Iran before 2027? | 24h volume: `621779.551826` | liquidity: `1365509.4493`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `529899.5554410006` | liquidity: `71499.0625`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `1128981.303716` | liquidity: `221321.06786`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `730600.873005001` | liquidity: `53672.4908`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `647372.3436379997` | liquidity: `66680.5335`
+- Will the U.S. invade Iran before 2027? | 24h volume: `621779.551826` | liquidity: `1371718.8399`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `529899.5554410006` | liquidity: `69557.3987`
 - Will WTI Crude Oil (WTI) hit (HIGH) $90 in July? | 24h volume: `497452.3178850001` | liquidity: `1001561.13466`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `464839.92988200014` | liquidity: `43640.8966`
-- Will Hamas agree to disarm by December 31? | 24h volume: `463900.7460010002` | liquidity: `95043.8594`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `464839.92988200014` | liquidity: `54975.255`
+- Will Hamas agree to disarm by December 31? | 24h volume: `463900.7460010002` | liquidity: `95046.1394`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
