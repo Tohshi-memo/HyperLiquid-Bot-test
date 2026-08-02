@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-02T23:40:32.275768+00:00`
+- Generated: `2026-08-02T23:43:04.363812+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `15557139.82`
-- Polymarket volume z-score: `-0.64`
+- Polymarket 24h volume: `15307834.32`
+- Polymarket volume z-score: `-0.67`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `2547186.1492350013` | liquidity: `1482308.9765`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `1163360.612553` | liquidity: `462051.2012`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `1102736.0312779984` | liquidity: `258526.68301`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `940254.9541779975` | liquidity: `67723.0869`
-- Will Tucker Carlson win the 2028 Republican presidential nomination? | 24h volume: `691160.7054370001` | liquidity: `492390.68549`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `624075.6235769993` | liquidity: `130127.01793`
-- Israel x Iran ceasefire continues through August 3? | 24h volume: `521007.194799` | liquidity: `115320.86814`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `413557.0454870001` | liquidity: `255912.5937`
+- Will the U.S. invade Iran before 2027? | 24h volume: `2555204.2770420015` | liquidity: `1468284.8406`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `1165702.786285` | liquidity: `464043.5518`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `978807.0418339979` | liquidity: `254882.77883`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `942596.1232519975` | liquidity: `65413.207`
+- Will Tucker Carlson win the 2028 Republican presidential nomination? | 24h volume: `691160.7054370001` | liquidity: `492972.98249`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `609116.0094699992` | liquidity: `132704.29957`
+- Israel x Iran ceasefire continues through August 3? | 24h volume: `518144.2153219998` | liquidity: `115688.569`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `432128.2114620001` | liquidity: `259122.8513`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
