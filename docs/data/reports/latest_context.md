@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T14:07:23.211926+00:00`
-- Market context score: `39.22`
-- News risk score: `43.0`
-- Macro risk score: `32.0`
-- Risk-on score: `13.33`
+- Generated: `2026-08-02T14:22:27.249557+00:00`
+- Market context score: `41.77`
+- News risk score: `40.5`
+- Macro risk score: `27.0`
+- Risk-on score: `15.0`
 - Articles: `18`
 - Polymarket markets: `389`
 
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7874`
-- Day/swing latest: `2026-08-02T14:00:00+00:00`
+- Day/swing records: `7875`
+- Day/swing latest: `2026-08-02T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
-- [macro] Stock Market Week Ahead: Citadel, SpaceX, Palantir And This Key Market Signal (Yahoo Finance)
-- [macro] Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom (Yahoo Finance)
+- [macro] Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree (Yahoo Finance)
+- [macro] Carmelo Anthony breaks down how a $100M contract shrinks to under $50M — and where the rest goes (Yahoo Finance)
 - [commodity] Investors scored on Iran war's oil market boom. Staying long the trade will get trickier (Energy)
 - [crypto] The reverse bridge: Crypto meets Wall Street using perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
