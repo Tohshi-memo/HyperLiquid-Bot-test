@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T16:37:30.165893+00:00`
-- Market context score: `48.25`
-- News risk score: `37.46`
-- Macro risk score: `28.27`
-- Risk-on score: `27.31`
-- Articles: `35`
-- Polymarket markets: `389`
+- Generated: `2026-08-02T16:52:24.523484+00:00`
+- Market context score: `47.65`
+- News risk score: `37.3`
+- Macro risk score: `27.83`
+- Risk-on score: `25.67`
+- Articles: `37`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7884`
-- Day/swing latest: `2026-08-02T16:30:00+00:00`
+- Day/swing records: `7885`
+- Day/swing latest: `2026-08-02T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `2`
 
 ## Headlines
 
+- [macro] Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission (BBC News)
+- [macro] Cathie Wood sells $5.5 million of surging tech stock (Yahoo Finance)
+- [macro] Prediction: Salesforce Will End The Year At This Price (Yahoo Finance)
+- [macro] Your Bank Insures $250,000. A Married Couple Can Insure $1 Million at the Same Bank Without Opening an Account Anywhere Else (Yahoo Finance)
+- [macro] ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play? (Yahoo Finance)
 - [macro] Pizza chain struggling after losing hundreds of locations (Yahoo Finance)
 - [macro] American Express: The Growth Story Isn't Over (NYSE: AXP) (Yahoo Finance)
-- [macro] Warren Buffett keeps pointing at the same ETF for a reason (Yahoo Finance)
-- [macro] Nvidia vs. Alphabet: What Revenue Trends Reveal About the AI Leaders (Yahoo Finance)
 - [crypto] The future of crypto payments won't include on-ramps or bridges, Fun CEO says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Prediction: Vanguard's S&P 500 ETF Will Be Back Above $1 Trillion in Assets Before the Year Is Out. Here's the Math. (Yahoo Finance)
 - [macro] At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal (BBC News)
-- [macro] Coinbase CEO Brian Armstrong Continues to Advocate for the Clarity Act. Here's the Most Likely Scenario For the Crypto Market. (Yahoo Finance)
 - [macro] Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths (BBC News)
-- [macro] Shoppers made 158 million chargeback disputes in 2025 as 'friendly fraud' surged 29% — and businesses pay the price (Yahoo Finance)
