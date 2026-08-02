@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T02:22:32.708684+00:00`
-- Market context score: `46.24`
-- News risk score: `43.87`
-- Macro risk score: `23.55`
-- Risk-on score: `26.47`
-- Articles: `26`
+- Generated: `2026-08-02T02:37:30.273249+00:00`
+- Market context score: `46.55`
+- News risk score: `43.56`
+- Macro risk score: `22.93`
+- Risk-on score: `26.67`
+- Articles: `27`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7830`
-- Day/swing latest: `2026-08-02T02:15:00+00:00`
+- Day/swing records: `7831`
+- Day/swing latest: `2026-08-02T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `1`
-- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal (BBC News)
 - [macro] How Spain's migrant crisis created a political storm - whipped up by social media (BBC News)
 - [macro] Tourist plane crashes in Peru, killing 13 (BBC News)
 - [macro] Three killed after bomb detonated at Moscow restaurant, state media say (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Russian ship defies sanctions to send military vehicles to Mali (BBC News)
 - [macro] Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo (BBC News)
 - [macro] The Sopranos star Vincent Pastore dies aged 80 (BBC News)
-- [macro] Ginger hair portraits show unexpected 'golden thread' connecting Americans (BBC News)
