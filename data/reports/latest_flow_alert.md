@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-02T06:20:36.984597+00:00`
+- Generated: `2026-08-02T06:25:28.573096+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `2263770.5123319956` | liquidity: `876098.9616`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `1613301.0385859974` | liquidity: `160808.04579`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `1129708.9731780011` | liquidity: `270534.85305`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `1023236.4983590015` | liquidity: `75935.8483`
-- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `693713.9139630005` | liquidity: `63543.78792`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `540175.1540940001` | liquidity: `558593.6914`
-- Israel x Iran ceasefire continues through August 3? | 24h volume: `496407.48773000017` | liquidity: `79345.56689`
+- Will the U.S. invade Iran before 2027? | 24h volume: `2263770.5123319956` | liquidity: `1244608.5591`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `1613301.0385859974` | liquidity: `171857.14454`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `1129708.9731780011` | liquidity: `268504.10484`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `1023236.4983590015` | liquidity: `76367.9427`
+- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `693713.9139630005` | liquidity: `67528.05957`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `540175.1540940001` | liquidity: `463346.0355`
+- Israel x Iran ceasefire continues through August 3? | 24h volume: `496407.48773000017` | liquidity: `200174.33849`
 - Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `485182.06518000003` | liquidity: `4484777.53578`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
