@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-02T10:20:24.509787+00:00`
+- Generated: `2026-08-02T10:25:30.806773+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `2731025.0013619964` | liquidity: `1433049.2209`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `1582385.7116180006` | liquidity: `183226.47762`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `1080147.2214560006` | liquidity: `281181.6278`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `1070243.115898005` | liquidity: `66503.1547`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `700607.9730070003` | liquidity: `554548.3447`
+- Will the U.S. invade Iran before 2027? | 24h volume: `2731025.0013619964` | liquidity: `1431891.801`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `1582385.7116180006` | liquidity: `186242.66674`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `1080147.2214560006` | liquidity: `281181.5508`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `1070243.115898005` | liquidity: `67516.0569`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `700607.9730070003` | liquidity: `575602.5517`
 - Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `664089.5734359999` | liquidity: `125122.04003`
-- Israel x Iran ceasefire continues through August 3? | 24h volume: `596440.8463450002` | liquidity: `202123.88165`
-- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `523269.61850900017` | liquidity: `4344659.28429`
+- Israel x Iran ceasefire continues through August 3? | 24h volume: `596440.8463450002` | liquidity: `199575.95912`
+- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `523269.61850900017` | liquidity: `4341352.59429`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
