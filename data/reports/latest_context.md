@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T18:46:01.251961+00:00`
-- Market context score: `50.89`
-- News risk score: `38.65`
-- Macro risk score: `25.44`
-- Risk-on score: `33.13`
+- Generated: `2026-08-02T18:52:31.556776+00:00`
+- Market context score: `51.71`
+- News risk score: `39.62`
+- Macro risk score: `27.38`
+- Risk-on score: `36.48`
 - Articles: `41`
 - Polymarket markets: `390`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `29`, risk hits `4`, risk headline rate `0.1379`, policy hits `4`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `4`
 
 ## Headlines
 
+- [macro] Big Tech’s $2 trillion AI shakeout just changed everything (Yahoo Finance)
 - [crypto] Counting down the days: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Aehr Test Systems vs. C3.ai: Which Technology Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Warren Buffett Regretted Not Investing in Alphabet Earlier. New CEO Greg Abel Won't Have the Same Worry. (Yahoo Finance)
+- [macro] Where Will the Vanguard S&P 500 ETF (VOO) Be in 2036? History Has Good and Bad News for Investors. (Yahoo Finance)
 - [macro] IonQ vs. Rigetti: Which Quantum Computing Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [macro] At 59, She’s Never Had a 401(k). Washington Is About to Auto-Enroll Her in an IRA, and One Choice Decides Whether It Taxes Her Social Security. (Yahoo Finance)
-- [macro] A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter? (Yahoo Finance)
-- [macro] Got $1,000? Taiwan Semiconductor Manufacturing's $100 Billion Arizona Investment Makes It a Must-Own Stock (Yahoo Finance)
 - [macro] Two crew killed as British pilot survives after firefighting helicopters collide in Greece (BBC News)
-- [macro] Taco Bell outbreak deals blow to parent company's finances (Yahoo Finance)
-- [macro] 3 Quantum Computing Stocks a Top Analyst Says Can Soar (Yahoo Finance)
 - [crypto] Why a DeFi platform ditched its consumer app to become the secret backend for tech giants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Dow Jones Futures Due As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom (Yahoo Finance)
