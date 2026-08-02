@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-02T12:25:27.683862+00:00`
+- Generated: `2026-08-02T12:30:29.507148+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `2764569.9726299965` | liquidity: `1397309.4086`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `1545116.0901419974` | liquidity: `199878.02037`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `1070249.992094006` | liquidity: `74226.6631`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `962186.2052680007` | liquidity: `293353.12778`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `753225.8115240004` | liquidity: `614583.861`
-- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `625793.1719789999` | liquidity: `156570.6463`
-- Israel x Iran ceasefire continues through August 3? | 24h volume: `601466.9148100001` | liquidity: `229092.3959`
+- Will the U.S. invade Iran before 2027? | 24h volume: `2764569.9726299965` | liquidity: `1353221.5709`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `1545116.0901419974` | liquidity: `199360.37849`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `1070249.992094006` | liquidity: `75323.7875`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `962186.2052680007` | liquidity: `293052.26778`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `753225.8115240004` | liquidity: `615446.6792`
+- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `625793.1719789999` | liquidity: `157205.50361`
+- Israel x Iran ceasefire continues through August 3? | 24h volume: `601466.9148100001` | liquidity: `229854.25786`
 - Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `520085.5924690001` | liquidity: `4333858.94544`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
