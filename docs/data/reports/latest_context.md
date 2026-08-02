@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T22:07:30.088757+00:00`
-- Market context score: `50.01`
-- News risk score: `37.22`
-- Macro risk score: `27.78`
-- Risk-on score: `30.83`
-- Articles: `32`
+- Generated: `2026-08-02T22:14:30.210160+00:00`
+- Market context score: `53.89`
+- News risk score: `36.35`
+- Macro risk score: `26.05`
+- Risk-on score: `38.06`
+- Articles: `35`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `0`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `0`
 
 ## Headlines
 
+- [macro] Three SkyWest Executives Sold Stock in Three Days. Here's What Long-Term Investors Should Know (Yahoo Finance)
+- [macro] SkyWest Is Buying Back Stock While Its Executives Sell. Here's How to Read It (Yahoo Finance)
+- [macro] I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them. (Yahoo Finance)
+- [macro] SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why. (Yahoo Finance)
 - [macro] Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs (Yahoo Finance)
 - [macro] Bitcoin Price Prediction: What Price Will BTC Hit in August? (Yahoo Finance)
 - [macro] SpaceX vs. the "Magnificent Seven": How the New Nasdaq-100 Member Stacks Up (Yahoo Finance)
 - [macro] SkyWest's CEO Just Sold $5.7 Million in Stock. Here's What Long-Term Investors Should Know (Yahoo Finance)
 - [macro] Japan to vow coordination with US on weak yen in historic battle (Yahoo Finance)
 - [macro] Two crew killed after firefighting helicopters collide in Greece, as British pilot survives (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Counting down the days: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Why a DeFi platform ditched its consumer app to become the secret backend for tech giants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Dow Jones Futures Due As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom (Yahoo Finance)
