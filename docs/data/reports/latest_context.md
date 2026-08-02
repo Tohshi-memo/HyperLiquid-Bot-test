@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T00:22:27.443316+00:00`
+- Generated: `2026-08-02T00:37:27.934139+00:00`
 - Market context score: `45.19`
 - News risk score: `46.4`
 - Macro risk score: `19.53`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7822`
-- Day/swing latest: `2026-08-02T00:15:00+00:00`
+- Day/swing records: `7823`
+- Day/swing latest: `2026-08-02T00:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Tourist plane crashes in Peru, killing 13 (BBC News)
 - [macro] Three killed after bomb detonated at Moscow restaurant, state media say (BBC News)
 - [macro] Solitude as a new aspirational lifestyle: 'We are not lonely' (BBC News)
 - [commodity] Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days (Energy)
@@ -35,6 +36,5 @@
 - [macro] Russian ship defies sanctions to send military vehicles to Mali (BBC News)
 - [macro] Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo (BBC News)
 - [macro] The Sopranos star Vincent Pastore dies aged 80 (BBC News)
-- [macro] Tourist plane crashes in Peru, killing 13 (BBC News)
 - [macro] Ginger hair portraits show unexpected 'golden thread' connecting Americans (BBC News)
 - [crypto] Strategy holds STRC dividend at 12% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
