@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T22:22:28.396954+00:00`
-- Market context score: `54.55`
-- News risk score: `35.7`
-- Macro risk score: `24.76`
-- Risk-on score: `38.5`
-- Articles: `33`
+- Generated: `2026-08-02T22:37:28.714179+00:00`
+- Market context score: `54.28`
+- News risk score: `35.97`
+- Macro risk score: `25.28`
+- Risk-on score: `38.33`
+- Articles: `32`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:783`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7907`
-- Day/swing latest: `2026-08-02T22:15:00+00:00`
+- Day/swing records: `7908`
+- Day/swing latest: `2026-08-02T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
 
 ## Headlines
 
+- [macro] Mueller's Sales Jumped 25% as Copper Climbed. Here's How to Read the CFO's Latest Insider Filing (Yahoo Finance)
+- [macro] Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom (Yahoo Finance)
+- [macro] Should You Read Anything Into Mueller's CEO Parting With Shares After a 53% Run? (Yahoo Finance)
 - [macro] Three SkyWest Executives Sold Stock in Three Days. Here's What Long-Term Investors Should Know (Yahoo Finance)
 - [macro] SkyWest Is Buying Back Stock While Its Executives Sell. Here's How to Read It (Yahoo Finance)
 - [macro] I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them. (Yahoo Finance)
@@ -35,6 +38,3 @@
 - [macro] Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs (Yahoo Finance)
 - [macro] Bitcoin Price Prediction: What Price Will BTC Hit in August? (Yahoo Finance)
 - [macro] SpaceX vs. the "Magnificent Seven": How the New Nasdaq-100 Member Stacks Up (Yahoo Finance)
-- [macro] SkyWest's CEO Just Sold $5.7 Million in Stock. Here's What Long-Term Investors Should Know (Yahoo Finance)
-- [macro] Japan to vow coordination with US on weak yen in historic battle (Yahoo Finance)
-- [macro] Two crew killed after firefighting helicopters collide in Greece, as British pilot survives (BBC News)
