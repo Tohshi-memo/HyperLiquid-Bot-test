@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T18:22:32.333071+00:00`
-- Market context score: `52.74`
-- News risk score: `38.96`
-- Macro risk score: `23.55`
-- Risk-on score: `36.77`
-- Articles: `40`
+- Generated: `2026-08-02T18:37:23.740225+00:00`
+- Market context score: `50.89`
+- News risk score: `38.65`
+- Macro risk score: `25.44`
+- Risk-on score: `33.13`
+- Articles: `41`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7891`
-- Day/swing latest: `2026-08-02T18:15:00+00:00`
+- Day/swing records: `7892`
+- Day/swing latest: `2026-08-02T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `29`, risk hits `3`, risk headline rate `0.1034`, policy hits `4`
+- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `1`
+- macro: articles `29`, risk hits `4`, risk headline rate `0.1379`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Counting down the days: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] IonQ vs. Rigetti: Which Quantum Computing Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] At 59, She’s Never Had a 401(k). Washington Is About to Auto-Enroll Her in an IRA, and One Choice Decides Whether It Taxes Her Social Security. (Yahoo Finance)
+- [macro] A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter? (Yahoo Finance)
+- [macro] Got $1,000? Taiwan Semiconductor Manufacturing's $100 Billion Arizona Investment Makes It a Must-Own Stock (Yahoo Finance)
 - [macro] Two crew killed as British pilot survives after firefighting helicopters collide in Greece (BBC News)
-- [macro] Why Sprouts Farmers Market Stock Surged This Week (Yahoo Finance)
-- [macro] Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip (Yahoo Finance)
-- [macro] What if I Have $2 Million Saved for Retirement? Is It Really Enough to Stop Working? (Yahoo Finance)
-- [macro] Analyst sends strong signal on SpaceX stock before earnings (Yahoo Finance)
-- [macro] SpaceX’s Blockbuster Earnings Report Is Coming. What to Watch. (Yahoo Finance)
-- [macro] Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors. (Yahoo Finance)
+- [macro] Taco Bell outbreak deals blow to parent company's finances (Yahoo Finance)
+- [macro] 3 Quantum Computing Stocks a Top Analyst Says Can Soar (Yahoo Finance)
 - [crypto] Why a DeFi platform ditched its consumer app to become the secret backend for tech giants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Dow Jones Futures Due As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom (Yahoo Finance)
-- [macro] At the scene of deadly Moscow bomb blast (BBC News)
