@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T14:04:17.094741+00:00`
-- Market context score: `40.24`
-- News risk score: `42.0`
-- Macro risk score: `30.0`
-- Risk-on score: `14.0`
-- Articles: `16`
+- Generated: `2026-08-02T14:07:23.211926+00:00`
+- Market context score: `39.22`
+- News risk score: `43.0`
+- Macro risk score: `32.0`
+- Risk-on score: `13.33`
+- Articles: `18`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,12 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Stock Market Week Ahead: Citadel, SpaceX, Palantir And This Key Market Signal (Yahoo Finance)
+- [macro] Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom (Yahoo Finance)
 - [commodity] Investors scored on Iran war's oil market boom. Staying long the trade will get trickier (Energy)
 - [crypto] The reverse bridge: Crypto meets Wall Street using perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] BNB Chain pursues legal action after ex-employee’s memecoin launch (Cointelegraph.com News)
 - [macro] Trump cancels Iran strikes subject to deal being made 'rapidly' (BBC News)
 - [macro] Fastest runner to cross the Alps says it was an incredible experience (BBC News)
-- [macro] Three killed after bomb detonated at Moscow restaurant, state media say (BBC News)
-- [macro] How Spain's migrant crisis created a political storm - whipped up by social media (BBC News)
