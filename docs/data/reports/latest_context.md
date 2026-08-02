@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T14:37:25.146523+00:00`
+- Generated: `2026-08-02T14:52:24.239895+00:00`
 - Market context score: `41.77`
 - News risk score: `40.5`
 - Macro risk score: `27.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7876`
-- Day/swing latest: `2026-08-02T14:30:00+00:00`
+- Day/swing records: `7877`
+- Day/swing latest: `2026-08-02T14:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree (Yahoo Finance)
-- [macro] Carmelo Anthony breaks down how a $100M contract shrinks to under $50M — and where the rest goes (Yahoo Finance)
+- [macro] At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal (BBC News)
+- [macro] US retirees blow nearly $1 of every $3 on a single expense — here's what it costs you each year (Yahoo Finance)
 - [commodity] Investors scored on Iran war's oil market boom. Staying long the trade will get trickier (Energy)
 - [crypto] The reverse bridge: Crypto meets Wall Street using perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
