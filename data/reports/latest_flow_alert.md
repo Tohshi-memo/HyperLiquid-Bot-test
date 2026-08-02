@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-02T00:00:28.463062+00:00`
+- Generated: `2026-08-02T00:05:35.845472+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `1185051.064043002` | liquidity: `48260.4729`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `1073786.0267780004` | liquidity: `265855.40368`
-- Will the U.S. invade Iran before 2027? | 24h volume: `706941.1991690004` | liquidity: `1097617.5875`
-- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `571773.6936980005` | liquidity: `193292.0646`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `553802.2811890006` | liquidity: `63258.3872`
-- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `534601.8226920001` | liquidity: `289171.44404`
-- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `443205.0207780001` | liquidity: `1315621.63613`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `348291.591079` | liquidity: `87297.37304`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `1185051.064043002` | liquidity: `53860.3879`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `1073786.0267780004` | liquidity: `263199.56246`
+- Will the U.S. invade Iran before 2027? | 24h volume: `706941.1991690004` | liquidity: `1115932.5695`
+- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `571773.6936980005` | liquidity: `182288.484`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `553802.2811890006` | liquidity: `63726.3896`
+- U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `534601.8226920001` | liquidity: `289171.61404`
+- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `443205.0207780001` | liquidity: `4726124.19113`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `348291.591079` | liquidity: `94167.56837`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
