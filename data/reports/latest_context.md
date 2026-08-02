@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T15:16:17.007442+00:00`
-- Market context score: `41.77`
-- News risk score: `40.5`
-- Macro risk score: `27.0`
-- Risk-on score: `15.0`
+- Generated: `2026-08-02T15:22:30.945474+00:00`
+- Market context score: `50.25`
+- News risk score: `39.25`
+- Macro risk score: `24.5`
+- Risk-on score: `31.83`
 - Articles: `30`
 - Polymarket markets: `389`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `0`
+- macro: articles `22`, risk hits `4`, risk headline rate `0.1364`, policy hits `0`
 
 ## Headlines
 
+- [macro] The Salesforce Dip Is a Buying Opportunity (Yahoo Finance)
 - [macro] At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal (BBC News)
+- [macro] An Analyst Just Called Meta a Top Large-Cap Buy. Here’s Why We Agree. (Yahoo Finance)
 - [macro] Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging (Yahoo Finance)
 - [macro] A Dire Situation (Yahoo Finance)
 - [macro] Uber’s $1 Trillion Opportunity That Wall Street Is Completely Ignoring (Yahoo Finance)
+- [macro] Goldman Sachs Expects S&P 500 Volatility to Increase Ahead of U.S. Midterm Elections (Yahoo Finance)
 - [macro] Warren Buffett Stepped Back From Berkshire Hathaway With a Bang; Its Investment in 1 AI Stock Now Tops $30 Billion (Yahoo Finance)
 - [macro] US retirees blow nearly $1 of every $3 on a single expense — here's what it costs you each year (Yahoo Finance)
-- [macro] 3 Ultra-High-Yield Energy Stocks to Hold Forever (Yahoo Finance)
-- [macro] BND vs AGG: The Two Biggest Bond ETFs Look Identical, but One Has Quietly Won for Years (Yahoo Finance)
-- [macro] Prediction: Up 50% YTD, Cisco Will End The Year at This Price (Yahoo Finance)
-- [macro] Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree (Yahoo Finance)
+- [macro] Carmelo Anthony breaks down how a $100M contract shrinks to under $50M — and where the rest goes (Yahoo Finance)
