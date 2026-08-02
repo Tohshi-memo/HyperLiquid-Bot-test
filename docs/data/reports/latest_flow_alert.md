@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-01T23:55:25.334021+00:00`
+- Generated: `2026-08-02T00:00:28.463062+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `1185051.064043002` | liquidity: `63978.6102`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `1073786.0267780004` | liquidity: `265777.88186`
-- Will the U.S. invade Iran before 2027? | 24h volume: `706941.1991690004` | liquidity: `1172639.4973`
-- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `571773.6936980005` | liquidity: `193290.0646`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `553802.2811890006` | liquidity: `62465.5527`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `1185051.064043002` | liquidity: `48260.4729`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `1073786.0267780004` | liquidity: `265855.40368`
+- Will the U.S. invade Iran before 2027? | 24h volume: `706941.1991690004` | liquidity: `1097617.5875`
+- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `571773.6936980005` | liquidity: `193292.0646`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `553802.2811890006` | liquidity: `63258.3872`
 - U.S. anti-cartel operation outside of the U.S. by July 31? | 24h volume: `534601.8226920001` | liquidity: `289171.44404`
-- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `443205.0207780001` | liquidity: `1315533.19613`
-- Israel x Iran ceasefire continues through July 31? | 24h volume: `348291.591079` | liquidity: `99387.45556`
+- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `443205.0207780001` | liquidity: `1315621.63613`
+- Israel x Iran ceasefire continues through July 31? | 24h volume: `348291.591079` | liquidity: `87297.37304`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
