@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-02T06:22:25.880759+00:00`
+- Generated: `2026-08-02T06:37:27.425704+00:00`
 - Market context score: `42.75`
 - News risk score: `39.83`
 - Macro risk score: `25.39`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7845`
-- Day/swing latest: `2026-08-02T06:15:00+00:00`
+- Day/swing records: `7846`
+- Day/swing latest: `2026-08-02T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly' (BBC News)
 - [macro] Three killed after bomb detonated at Moscow restaurant, state media say (BBC News)
 - [macro] Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says (BBC News)
-- [macro] Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal (BBC News)
 - [macro] How Spain's migrant crisis created a political storm - whipped up by social media (BBC News)
 - [macro] Tourist plane crashes in Peru, killing 13 (BBC News)
 - [macro] Solitude as a new aspirational lifestyle: 'We are not lonely' (BBC News)
