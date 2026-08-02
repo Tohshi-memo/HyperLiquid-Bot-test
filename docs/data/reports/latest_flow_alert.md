@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-02T11:00:28.515661+00:00`
+- Generated: `2026-08-02T11:03:49.720885+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `2734932.9782819967` | liquidity: `1429623.1723`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `1571671.0254250008` | liquidity: `198640.19577`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `1077508.4735060048` | liquidity: `74422.7699`
-- Israel x Iran ceasefire continues through August 1? | 24h volume: `1026051.8017900008` | liquidity: `281161.6224`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `739036.8129190003` | liquidity: `571685.4309`
-- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `630113.9705839999` | liquidity: `125393.50578`
-- Israel x Iran ceasefire continues through August 3? | 24h volume: `613087.9836590001` | liquidity: `204594.62114`
-- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `524814.2197540002` | liquidity: `4341186.98007`
+- Will the U.S. invade Iran before 2027? | 24h volume: `2734932.9782819967` | liquidity: `1431098.9335`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `1571671.0254250008` | liquidity: `199101.56875`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `1077508.4735060048` | liquidity: `77047.7845`
+- Israel x Iran ceasefire continues through August 1? | 24h volume: `1026051.8017900008` | liquidity: `279448.05879`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `739036.8129190003` | liquidity: `575023.3805`
+- Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026? | 24h volume: `630113.9705839999` | liquidity: `125392.50578`
+- Israel x Iran ceasefire continues through August 3? | 24h volume: `613087.9836590001` | liquidity: `206481.12903`
+- Will Donald Trump publicly insult Tucker Carlson by July 31, 2026? | 24h volume: `524814.2197540002` | liquidity: `4341352.44444`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
