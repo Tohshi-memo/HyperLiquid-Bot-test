@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T08:52:29.830917+00:00`
+- Generated: `2026-08-03T09:07:35.095867+00:00`
 - Market context score: `47.06`
 - News risk score: `41.57`
 - Macro risk score: `28.79`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7948`
-- Day/swing latest: `2026-08-03T08:45:00+00:00`
+- Day/swing records: `7949`
+- Day/swing latest: `2026-08-03T09:00:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [commodity] Oil prices fall as Middle East tensions ebb on diplomatic efforts (Energy)
 - [macro] Ariana Grande to take a break from public life amid 'endless' scrutiny (BBC News)
 - [crypto] Bitget to exit Japan, close remaining positions after Dec. 31 (Cointelegraph.com News)
 - [crypto] U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump suggests new talks with Iran to begin on Monday (BBC News)
-- [commodity] Oil drops over 5% as Middle East tensions ebb on diplomatic efforts (Energy)
 - [macro] US and Japan take action to prop up yen in rare joint move (BBC News)
 - [macro] US and Japan take action to prop up yen in rare joint move (BBC News)
 - [crypto] Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss (Cointelegraph.com News)
