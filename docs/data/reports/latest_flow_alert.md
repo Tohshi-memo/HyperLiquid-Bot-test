@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-03T23:35:28.215670+00:00`
+- Generated: `2026-08-03T23:40:29.310486+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `747594.48124` | liquidity: `24135.5161`
-- Will the U.S. invade Iran before 2027? | 24h volume: `747384.162749998` | liquidity: `1305896.0961`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `666303.5947020004` | liquidity: `161500.11166`
-- Will Trump speak to Emmanuel Macron in July? | 24h volume: `464192.95863999985` | liquidity: `69348.50945`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `381239.9758769999` | liquidity: `694426.2155`
-- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `322781.13236100005` | liquidity: `495451.68812`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `291853.69` | liquidity: `1689208.56918`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `267487.7868149999` | liquidity: `94450.2165`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `747594.48124` | liquidity: `25543.10426`
+- Will the U.S. invade Iran before 2027? | 24h volume: `747384.162749998` | liquidity: `1324918.9036`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `666303.5947020004` | liquidity: `161735.10006`
+- Will Trump speak to Emmanuel Macron in July? | 24h volume: `464192.95863999985` | liquidity: `67588.44658`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `381239.9758769999` | liquidity: `591663.8605`
+- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `322781.13236100005` | liquidity: `496628.99304`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `291853.69` | liquidity: `1689319.03708`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `267487.7868149999` | liquidity: `64216.7065`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
