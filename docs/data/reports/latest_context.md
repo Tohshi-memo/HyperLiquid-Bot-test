@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T14:07:28.255335+00:00`
-- Market context score: `54.42`
-- News risk score: `39.84`
-- Macro risk score: `24.71`
-- Risk-on score: `41.68`
-- Articles: `77`
+- Generated: `2026-08-03T14:22:30.592976+00:00`
+- Market context score: `56.38`
+- News risk score: `40.71`
+- Macro risk score: `26.97`
+- Risk-on score: `47.63`
+- Articles: `78`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7969`
-- Day/swing latest: `2026-08-03T14:00:00+00:00`
+- Day/swing records: `7970`
+- Day/swing latest: `2026-08-03T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `31`, risk hits `8`, risk headline rate `0.1613`, policy hits `6`
-- macro: articles `45`, risk hits `9`, risk headline rate `0.1556`, policy hits `2`
+- crypto: articles `32`, risk hits `8`, risk headline rate `0.1562`, policy hits `5`
+- macro: articles `45`, risk hits `11`, risk headline rate `0.2`, policy hits `2`
 
 ## Headlines
 
-- [crypto] Circle slides after Morgan Stanley downgrade, cut in price target (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging (Yahoo Finance)
-- [macro] Tyson Foods expects steeper losses in beef as third-quarter volumes slide (Yahoo Finance)
-- [macro] Ripple Backs 2 UK Firms to Grow XRPL: What Does XRP Actually Get? (Yahoo Finance)
-- [macro] Asian Stocks Are Down 10% From June Highs. That Could Be Bad News for This Semiconductor Index. (Yahoo Finance)
-- [macro] Stock Market Today: Dow Jumps 600 Points On Trump Strikes Reversal; Oil Prices Plunge (Live Coverage) (Yahoo Finance)
-- [crypto] Bernstein sees another leg lower for crypto markets if Clarity Act stalls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Is Shift4 Technologies (FOUR) too Cheap to Ignore? (Yahoo Finance)
-- [macro] What Makes Natural Resource Partners (NRP) a Strong Investment Bet? (Yahoo Finance)
-- [macro] Semiconductor stocks sink over fears of increased competition from China (Yahoo Finance)
+- [macro] Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years (BBC News)
+- [commodity] Oil prices tumble after Trump calls off attack on Iran (Energy)
+- [macro] Iran says it is in talks with Oman but not the US after Trump says negotiations to resume (BBC News)
+- [crypto] US hints at more yen intervention: Five things to know in Bitcoin this week (Cointelegraph.com News)
+- [macro] Wall St starts the month strong as Mideast deal hopes rise (Yahoo Finance)
+- [macro] Oil prices fall as Trump seeks Iran nuclear deal (Yahoo Finance)
+- [macro] AARP sees a goldmine hiding in plain sight in AI adoption (Yahoo Finance)
+- [macro] These 3 ETFs Turn Market Fear Into Double Digit Monthly Income (Yahoo Finance)
+- [macro] Tech stocks today: Investors eye SpaceX's first earnings report (Yahoo Finance)
+- [macro] Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach (Yahoo Finance)
