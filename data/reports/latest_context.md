@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T16:07:44.327156+00:00`
-- Market context score: `59.11`
-- News risk score: `40.3`
-- Macro risk score: `26.93`
-- Risk-on score: `53.33`
-- Articles: `81`
+- Generated: `2026-08-03T16:22:30.314234+00:00`
+- Market context score: `58.67`
+- News risk score: `38.94`
+- Macro risk score: `26.92`
+- Risk-on score: `51.21`
+- Articles: `80`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:103, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7977`
-- Day/swing latest: `2026-08-03T16:00:00+00:00`
+- Day/swing records: `7978`
+- Day/swing latest: `2026-08-03T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `34`, risk hits `8`, risk headline rate `0.1471`, policy hits `5`
-- macro: articles `46`, risk hits `11`, risk headline rate `0.1957`, policy hits `4`
+- crypto: articles `34`, risk hits `6`, risk headline rate `0.1176`, policy hits `5`
+- macro: articles `45`, risk hits `11`, risk headline rate `0.2`, policy hits `2`
 
 ## Headlines
 
+- [crypto] BlackRock launches tokenized money market funds for stablecoin reserves (Cointelegraph.com News)
+- [macro] Data Center Sales Make Up 92% of Nvidia's Revenue. Here's What Investors Need to Know About Jensen Huang's Bets on AI Growth. (Yahoo Finance)
+- [macro] AstraZeneca shares slump after $400bn BMS merger rumours (Yahoo Finance)
+- [macro] Lending circles offer no interest and no collateral — here's why millions still use them to bypass banks (Yahoo Finance)
 - [macro] Iran says it is in talks with Oman but not the US after Trump says negotiations to resume (BBC News)
+- [macro] Spain seeks common EU rules as regions court Chinese investors – report (Yahoo Finance)
+- [macro] Amazon Desires to Spend More Than $220 Billion in AI Capex This Year. That’s Why I’m Buying (Yahoo Finance)
+- [macro] AstraZeneca Nosedives On A Rumored Megamerger; Is $160 Billion Enough? (Yahoo Finance)
 - [macro] Threat to oil tankers in Middle East  worst since start of Iran war, analysts say (BBC News)
 - [macro] Threat to oil tankers in Middle East  worst since start of Iran war, analysts say (BBC News)
-- [commodity] Oil prices tumble after Trump calls off attack on Iran (Energy)
-- [macro] NZAC vs. URTH: Which Global ETF Is the Better Buy? (Yahoo Finance)
-- [macro] Why CNH Industrial Stock Is Skyrocketing Today (Yahoo Finance)
-- [macro] Abbott Laboratories Lost 16% This Year: One Analyst Sees 35% Gains for the Healthcare Giant (Yahoo Finance)
-- [macro] Russian anti-war politician says he has fled the country (BBC News)
-- [macro] Stock Market Today: Dow Jumps As Oil Skids On Trump Iran Move; Defense Play Clears Entry (Live Coverage) (Yahoo Finance)
-- [macro] Could Masco (MAS) Be One of the Better Home Improvement Stocks to Watch? (Yahoo Finance)
