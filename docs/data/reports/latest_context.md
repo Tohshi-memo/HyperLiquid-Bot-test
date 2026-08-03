@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T11:52:33.187427+00:00`
-- Market context score: `44.85`
-- News risk score: `46.22`
-- Macro risk score: `29.09`
-- Risk-on score: `27.47`
-- Articles: `68`
+- Generated: `2026-08-03T12:07:34.431203+00:00`
+- Market context score: `51.54`
+- News risk score: `42.86`
+- Macro risk score: `23.3`
+- Risk-on score: `37.31`
+- Articles: `69`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7960`
-- Day/swing latest: `2026-08-03T11:45:00+00:00`
+- Day/swing records: `7961`
+- Day/swing latest: `2026-08-03T12:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.2727`, policy hits `3`
-- macro: articles `45`, risk hits `12`, risk headline rate `0.2`, policy hits `11`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `23`, risk hits `9`, risk headline rate `0.2609`, policy hits `3`
+- macro: articles `45`, risk hits `8`, risk headline rate `0.1333`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Bitget set to exit Japan, close all remaining positions by year-end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil prices tumble after Trump calls off attack on Iran (Energy)
+- [macro] AppLovin Corporation (APP): Leveraging AI AD Matching Technology to Reach into Every Screen (Yahoo Finance)
+- [macro] Here Are Monday’s Top Wall Street Analyst Research Calls: Best Buy, Circle Internet, Corning, Eaton Corporation, eBay, Ingersoll-Rand, NXP Semiconductors, Starbucks, and More (Yahoo Finance)
+- [macro] Taiwan Semiconductor Manufacturing Company Limited (TSM):  An Unmatched Technological Lead in Semiconductors (Yahoo Finance)
+- [macro] Wall St futures gain on Mideast deal hopes; healthcare in focus (Yahoo Finance)
+- [macro] Yum! Brands (YUM): Rapid Global Expansion Drives Growth (Yahoo Finance)
+- [macro] Janus Henderson to buy three Insignia units (Yahoo Finance)
 - [macro] Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began (BBC News)
-- [crypto] Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss (Cointelegraph.com News)
-- [macro] AngloGold reports 58% rise in Q2 2026 headline earnings (Yahoo Finance)
-- [macro] Speed as Strategy:  Rabigh Reinforcement Delivers 1,179 MW on an Accelerated Timeline (Yahoo Finance)
-- [macro] World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear (Yahoo Finance)
-- [macro] POWER Digest [August 2026] (Yahoo Finance)
-- [macro] GCash to expand payment options with Visa and Mastercard card linking (Yahoo Finance)
-- [macro] TotalEnergies signs renewables deals with Shell and KKR in Europe (Yahoo Finance)
-- [macro] Oracle Inks 10-Year, $7 Billion Contract With DoD -- What Investors Need to Know (Yahoo Finance)
-- [macro] Yen climbs for third straight session, euro/dollar awaits US data (Yahoo Finance)
+- [macro] Indian wealth manager 360 ONE eyes more ultra-rich clients – report (Yahoo Finance)
