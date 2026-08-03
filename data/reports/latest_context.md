@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T13:52:37.099019+00:00`
-- Market context score: `51.94`
-- News risk score: `42.76`
-- Macro risk score: `27.64`
-- Risk-on score: `39.75`
-- Articles: `76`
+- Generated: `2026-08-03T14:07:28.255335+00:00`
+- Market context score: `54.42`
+- News risk score: `39.84`
+- Macro risk score: `24.71`
+- Risk-on score: `41.68`
+- Articles: `77`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7968`
-- Day/swing latest: `2026-08-03T13:45:00+00:00`
+- Day/swing records: `7969`
+- Day/swing latest: `2026-08-03T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `31`, risk hits `9`, risk headline rate `0.1935`, policy hits `6`
-- macro: articles `44`, risk hits `12`, risk headline rate `0.2045`, policy hits `2`
+- crypto: articles `31`, risk hits `8`, risk headline rate `0.1613`, policy hits `6`
+- macro: articles `45`, risk hits `9`, risk headline rate `0.1556`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Circle slides after Morgan Stanley downgrade, cut in price target (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging (Yahoo Finance)
+- [macro] Tyson Foods expects steeper losses in beef as third-quarter volumes slide (Yahoo Finance)
+- [macro] Ripple Backs 2 UK Firms to Grow XRPL: What Does XRP Actually Get? (Yahoo Finance)
+- [macro] Asian Stocks Are Down 10% From June Highs. That Could Be Bad News for This Semiconductor Index. (Yahoo Finance)
+- [macro] Stock Market Today: Dow Jumps 600 Points On Trump Strikes Reversal; Oil Prices Plunge (Live Coverage) (Yahoo Finance)
 - [crypto] Bernstein sees another leg lower for crypto markets if Clarity Act stalls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Oil prices drop after Trump cancels attack on Iran to seek deal (Yahoo Finance)
-- [crypto] How Fake World Assets and onchain gacha became crypto’s latest craze (Cointelegraph.com News)
-- [macro] A $65,000 401(k) projects just $4,300 in annual retirement income — here's why that number is wildly misleading (Yahoo Finance)
-- [macro] Hughes Satellite Systems files Chapter 11 bankruptcy amid Starlink competition (Yahoo Finance)
-- [macro] SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview (Yahoo Finance)
-- [macro] Marriott Outlook Comes Up Short As Middle East Conflicts Drag On Results (Yahoo Finance)
-- [macro] Nissan Posts First Quarterly Profit in Two Years, Keeps Outlook (Yahoo Finance)
-- [macro] CAVA Adds Amiee Bayer-Thomas to Board of Directors (Yahoo Finance)
-- [macro] APi Group Corporation (APG): Powering Infrastructure with Precision (Yahoo Finance)
+- [macro] Is Shift4 Technologies (FOUR) too Cheap to Ignore? (Yahoo Finance)
+- [macro] What Makes Natural Resource Partners (NRP) a Strong Investment Bet? (Yahoo Finance)
+- [macro] Semiconductor stocks sink over fears of increased competition from China (Yahoo Finance)
