@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T13:07:27.018968+00:00`
-- Market context score: `52.67`
-- News risk score: `41.18`
-- Macro risk score: `22.53`
-- Risk-on score: `38.11`
-- Articles: `74`
+- Generated: `2026-08-03T13:22:28.599575+00:00`
+- Market context score: `53.0`
+- News risk score: `41.93`
+- Macro risk score: `24.77`
+- Risk-on score: `40.31`
+- Articles: `75`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:102, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7965`
-- Day/swing latest: `2026-08-03T13:00:00+00:00`
+- Day/swing records: `7966`
+- Day/swing latest: `2026-08-03T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.2143`, policy hits `6`
-- macro: articles `45`, risk hits `7`, risk headline rate `0.1111`, policy hits `3`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.2069`, policy hits `6`
+- macro: articles `45`, risk hits `9`, risk headline rate `0.1556`, policy hits `2`
 
 ## Headlines
 
-- [crypto] Tom Lee's Bitmine bought more ether, added to stock buyback last week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stock Market Today: Dow Rallies 600 Points On Trump Reversal; Oil Prices Plunge (Live Coverage) (Yahoo Finance)
-- [macro] Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B (Yahoo Finance)
-- [macro] Iran denies Trump's claim that new talks will begin on Monday (BBC News)
-- [macro] Global Eggs strikes Germany M&A through Hevo arm (Yahoo Finance)
-- [macro] Shein offering $1.1 billion to investors before Hong Kong IPO (Yahoo Finance)
-- [macro] Silver prices today, Monday, August 3, 2026: Silver prices open higher thanks to paused airstrikes (Yahoo Finance)
-- [macro] Palantir stock jumps ahead of quarterly results (Yahoo Finance)
-- [crypto] Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases (Cointelegraph.com News)
-- [macro] Here’s Why Fundsmith Equity Fund Sold Intuit (INTU) in Q2 (Yahoo Finance)
+- [crypto] BlackRock expands tokenized cash with new blockchain-based money market offerings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss (Yahoo Finance)
+- [macro] BofA crowns monitoring platform top software pick before earnings (Yahoo Finance)
+- [macro] MakeMyTrip Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Agnico Eagle Mines Eyes 20%-30% Gold Production Growth Through Organic Expansion (Yahoo Finance)
+- [macro] Do you own America's most stolen car? What your insurance won't cover. (Yahoo Finance)
+- [macro] Tesla’s (TSLA) AI Driven Future Beyond Cars (Yahoo Finance)
+- [macro] Wall St set for higher open on Mideast deal hopes; healthcare in focus (Yahoo Finance)
+- [macro] Rowan Street Capital: Meta Platforms’ (META) Fundamentals Outpace Its Stock Rally (Yahoo Finance)
+- [macro] Warren Buffett shares ‘the big problem’ with Donald Trump’s businesses. What you can learn from the president’s mistakes (Yahoo Finance)
