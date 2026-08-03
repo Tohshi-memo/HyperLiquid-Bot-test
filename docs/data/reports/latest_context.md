@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T16:52:28.898338+00:00`
-- Market context score: `58.47`
-- News risk score: `38.85`
-- Macro risk score: `26.55`
-- Risk-on score: `50.56`
-- Articles: `80`
+- Generated: `2026-08-03T17:07:28.477157+00:00`
+- Market context score: `57.36`
+- News risk score: `39.36`
+- Macro risk score: `27.81`
+- Risk-on score: `48.98`
+- Articles: `82`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:103, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7980`
-- Day/swing latest: `2026-08-03T16:45:00+00:00`
+- Day/swing records: `7981`
+- Day/swing latest: `2026-08-03T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `34`, risk hits `6`, risk headline rate `0.1176`, policy hits `5`
-- macro: articles `45`, risk hits `10`, risk headline rate `0.1778`, policy hits `6`
+- crypto: articles `35`, risk hits `6`, risk headline rate `0.1143`, policy hits `5`
+- macro: articles `46`, risk hits `11`, risk headline rate `0.1957`, policy hits `7`
 
 ## Headlines
 
+- [macro] Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure (Economy)
+- [crypto] Kenya moves 30 million academic credentials onto Avalanche blockchain (Cointelegraph.com News)
 - [macro] Tesla rival trims spending plans despite revenue beat (Yahoo Finance)
+- [macro] Read Between These Lines As Eli Lilly, Hot IPO And More Face Key Test (Yahoo Finance)
+- [macro] The Surprising Part of Tilray's Business That Drove Most of Its Growth Last Year (Yahoo Finance)
 - [macro] Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results (Yahoo Finance)
 - [macro] Alphabet’s stock splits: History & prospects explained (Yahoo Finance)
 - [macro] Wall St starts the month strong as Mideast deal hopes rise (Yahoo Finance)
 - [macro] Top Strategist: Japan Just Unleashed a Historic Yen Intervention. Here’s What Comes Next (Yahoo Finance)
-- [macro] D-Wave Spikes 11% on Nasdaq Verafin Deal, IonQ Gains 9% After SkyWater Buyout, Rigetti Rises 7% (Yahoo Finance)
 - [macro] Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone (Yahoo Finance)
-- [macro] Leopold Aschenbrenner was up 439% — then 4x leverage wiped out 67% of his $45B AI hedge fund in one month (Yahoo Finance)
-- [macro] Rhine falls to record low levels as drought strains Europe's rivers (BBC News)
-- [macro] Yen climbs against dollar, euro as traders speculate on further intervention (Yahoo Finance)
