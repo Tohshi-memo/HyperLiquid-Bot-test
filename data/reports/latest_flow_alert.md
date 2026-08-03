@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-03T06:40:58.838341+00:00`
+- Generated: `2026-08-03T06:45:35.134367+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10278653.81`
-- Polymarket volume z-score: `-1.3`
+- Polymarket 24h volume: `9790455.93`
+- Polymarket volume z-score: `-1.36`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `963196.5221999998` | liquidity: `1604168.6014`
 - Will Tucker Carlson win the 2028 Republican presidential nomination? | 24h volume: `794491.253125` | liquidity: `407555.91121`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `751919.4831030001` | liquidity: `618096.0248`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `484736.5388079994` | liquidity: `204675.70835`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `435767.8945130001` | liquidity: `64043.754`
-- Israel x Iran ceasefire continues through August 2? | 24h volume: `423137.79959799955` | liquidity: `252222.78936`
-- Israel x Iran ceasefire continues through August 3? | 24h volume: `326345.713526` | liquidity: `94462.04521`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `304501.24191599997` | liquidity: `637022.8861`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `622819.2931179999` | liquidity: `617090.8884`
+- Will the U.S. invade Iran before 2027? | 24h volume: `536550.2705580002` | liquidity: `1559589.661`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `450540.58875299967` | liquidity: `198729.78075`
+- Israel x Iran ceasefire continues through August 2? | 24h volume: `427479.95034999977` | liquidity: `254488.32722`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `389079.1666619993` | liquidity: `63125.2223`
+- Israel x Iran ceasefire continues through August 3? | 24h volume: `321194.67768400005` | liquidity: `94125.59883`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `311443.768264` | liquidity: `638359.9016`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
