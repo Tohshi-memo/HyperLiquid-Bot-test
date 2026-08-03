@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T16:22:30.314234+00:00`
+- Generated: `2026-08-03T16:37:39.460787+00:00`
 - Market context score: `58.67`
 - News risk score: `38.94`
 - Macro risk score: `26.92`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:103, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7978`
-- Day/swing latest: `2026-08-03T16:15:00+00:00`
+- Day/swing records: `7979`
+- Day/swing latest: `2026-08-03T16:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Rhine falls to record low levels as drought strains Europe's rivers (BBC News)
 - [crypto] BlackRock launches tokenized money market funds for stablecoin reserves (Cointelegraph.com News)
+- [macro] Salesforce Remains Down But Turning Positive: 100%+ Returns Lie Ahead According to This Analyst (Yahoo Finance)
+- [macro] Buying Intel Over TSMC Isn’t as Crazy as It Might Seem (Yahoo Finance)
 - [macro] Data Center Sales Make Up 92% of Nvidia's Revenue. Here's What Investors Need to Know About Jensen Huang's Bets on AI Growth. (Yahoo Finance)
 - [macro] AstraZeneca shares slump after $400bn BMS merger rumours (Yahoo Finance)
 - [macro] Lending circles offer no interest and no collateral — here's why millions still use them to bypass banks (Yahoo Finance)
 - [macro] Iran says it is in talks with Oman but not the US after Trump says negotiations to resume (BBC News)
-- [macro] Spain seeks common EU rules as regions court Chinese investors – report (Yahoo Finance)
-- [macro] Amazon Desires to Spend More Than $220 Billion in AI Capex This Year. That’s Why I’m Buying (Yahoo Finance)
 - [macro] AstraZeneca Nosedives On A Rumored Megamerger; Is $160 Billion Enough? (Yahoo Finance)
-- [macro] Threat to oil tankers in Middle East  worst since start of Iran war, analysts say (BBC News)
 - [macro] Threat to oil tankers in Middle East  worst since start of Iran war, analysts say (BBC News)
