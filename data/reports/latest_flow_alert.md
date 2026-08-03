@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-03T18:45:30.493690+00:00`
+- Generated: `2026-08-03T18:50:31.350886+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10180632.81`
-- Polymarket volume z-score: `-1.2`
+- Polymarket 24h volume: `10306761.07`
+- Polymarket volume z-score: `-1.19`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `924755.9623469985` | liquidity: `1364202.8932`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `747572.0` | liquidity: `25935.11326`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `637326.8539599999` | liquidity: `564656.925`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `582777.2074550005` | liquidity: `169279.23897`
-- Will Trump speak to Emmanuel Macron in July? | 24h volume: `489569.5986429998` | liquidity: `65494.36466`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `396760.1900530013` | liquidity: `71930.0213`
-- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `320280.252361` | liquidity: `494651.13231`
-- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `286206.19` | liquidity: `1473841.53471`
+- Will the U.S. invade Iran before 2027? | 24h volume: `924402.4123469986` | liquidity: `1364840.5667`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `747572.0` | liquidity: `26174.78523`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `637432.9282439998` | liquidity: `563593.8804`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `586824.4174550003` | liquidity: `154762.64532`
+- Will Trump speak to Emmanuel Macron in July? | 24h volume: `489215.85552499985` | liquidity: `63517.06766`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `396460.1900530013` | liquidity: `75357.1884`
+- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `320280.252361` | liquidity: `496897.59231`
+- Strait of Hormuz traffic returns to normal by July 31? | 24h volume: `286206.19` | liquidity: `1477440.94631`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
