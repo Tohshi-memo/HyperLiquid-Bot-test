@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-03T21:22:34.603114+00:00`
+- Generated: `2026-08-03T21:37:27.615432+00:00`
 - Market context score: `55.75`
 - News risk score: `38.83`
 - Macro risk score: `36.76`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:103, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `7998`
-- Day/swing latest: `2026-08-03T21:15:00+00:00`
+- Day/swing records: `7999`
+- Day/swing latest: `2026-08-03T21:30:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [crypto] FalconX cuts 10% of workforce amid prolonged crypto market slump: Report (Cointelegraph.com News)
 - [macro] Iran says it is in talks with Oman but not the US after Trump says negotiations to resume (BBC News)
 - [macro] Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach (BBC News)
-- [macro] Analyst Report: Enterprise Products Pntr LP (Yahoo Finance)
 - [macro] Analyst Report: Valero Energy Corp (Yahoo Finance)
+- [macro] Analyst Report: Enterprise Products Pntr LP (Yahoo Finance)
