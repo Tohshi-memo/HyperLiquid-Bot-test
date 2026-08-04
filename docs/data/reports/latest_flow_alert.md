@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-04T01:55:29.772910+00:00`
+- Generated: `2026-08-04T02:00:33.453130+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10472193.22`
+- Polymarket 24h volume: `10465219.02`
 - Polymarket volume z-score: `-1.08`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `807290.1524119981` | liquidity: `1322005.3557`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `747594.48124` | liquidity: `26670.2988`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `706177.9347810005` | liquidity: `215175.87986`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `594020.2893569998` | liquidity: `80252.5724`
-- Will Trump speak to Emmanuel Macron in July? | 24h volume: `453465.4799510001` | liquidity: `111687.45178`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `444014.31623` | liquidity: `617470.649`
-- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `322781.13236099994` | liquidity: `499609.80863`
-- Israel x Iran ceasefire continues through August 9? | 24h volume: `282414.05330499995` | liquidity: `49993.9116`
+- Will the U.S. invade Iran before 2027? | 24h volume: `807290.1524119981` | liquidity: `1314778.271`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `747594.48124` | liquidity: `24661.07623`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `706177.9347810005` | liquidity: `208204.24002`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `594020.2893569998` | liquidity: `80665.881`
+- Will Trump speak to Emmanuel Macron in July? | 24h volume: `453465.4799510001` | liquidity: `104578.16227`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `444014.31623` | liquidity: `584031.7293`
+- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `322781.13236099994` | liquidity: `484124.3245`
+- Israel x Iran ceasefire continues through August 9? | 24h volume: `282414.05330499995` | liquidity: `40902.3072`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
