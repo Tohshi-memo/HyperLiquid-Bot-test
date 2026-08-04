@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T19:07:56.352705+00:00`
-- Market context score: `44.17`
-- News risk score: `48.51`
-- Macro risk score: `36.72`
-- Risk-on score: `30.76`
+- Generated: `2026-08-04T19:22:42.886708+00:00`
+- Market context score: `43.18`
+- News risk score: `49.48`
+- Macro risk score: `38.65`
+- Risk-on score: `30.11`
 - Articles: `67`
 - Polymarket markets: `391`
 
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8083`
-- Day/swing latest: `2026-08-04T19:00:00+00:00`
+- Day/swing records: `8084`
+- Day/swing latest: `2026-08-04T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
 - crypto: articles `36`, risk hits `12`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `1`
+- macro: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `1`
 
 ## Headlines
 
+- [macro] Arson arrest made over largest of Washington state's wildfires (BBC News)
+- [macro] Ukrainian vegetable seller targeted in 'human safari' drone attack (BBC News)
 - [macro] Oil prices fall on hopes Strait of Hormuz could reopen (BBC News)
 - [macro] Oil prices fall on hopes Strait of Hormuz could reopen (BBC News)
 - [macro] EU commends Spain's 'swift response' to Ceuta migrant crisis (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack (BBC News)
 - [macro] More than 170 migrants rescued after boat catches fire in Channel (BBC News)
 - [crypto] Samsung is poised to become a dominant stablecoin distributor, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] BNY to offer institutional crypto staking through Galaxy partnership (Cointelegraph.com News)
-- [macro] Watch: Evacuations as Guatemala volcano erupts (BBC News)
