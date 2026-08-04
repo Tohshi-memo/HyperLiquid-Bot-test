@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T14:37:35.998512+00:00`
-- Market context score: `53.28`
-- News risk score: `41.17`
-- Macro risk score: `26.01`
-- Risk-on score: `40.78`
+- Generated: `2026-08-04T14:46:13.670316+00:00`
+- Market context score: `54.0`
+- News risk score: `41.61`
+- Macro risk score: `22.83`
+- Risk-on score: `41.55`
 - Articles: `90`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8065`
-- Day/swing latest: `2026-08-04T14:30:00+00:00`
+- Day/swing records: `8066`
+- Day/swing latest: `2026-08-04T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `34`, risk hits `7`, risk headline rate `0.1765`, policy hits `4`
-- macro: articles `51`, risk hits `8`, risk headline rate `0.1373`, policy hits `8`
+- crypto: articles `36`, risk hits `10`, risk headline rate `0.2222`, policy hits `4`
+- macro: articles `49`, risk hits `5`, risk headline rate `0.0816`, policy hits `4`
 
 ## Headlines
 
-- [crypto] Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Arson arrest made over largest of Washington state's wildfires (BBC News)
-- [macro] Is YouTube Going After Netflix? This Could Be the Biggest Sign Yet (Yahoo Finance)
-- [macro] This ETF Is Down 2.48% in 2026. Here's Why I'm Still Investing. (Yahoo Finance)
-- [macro] AuKing Mining agrees to purchase Malawi’s Machinga HREE project (Yahoo Finance)
-- [macro] Mark Zuckerberg sends a strong message to Meta stock investors (Yahoo Finance)
-- [macro] Here’s Why Baron Health Care Fund Remains Bullish on Insmed (INSM) (Yahoo Finance)
-- [macro] Worried About the Market? Hide Out in These 3 High-Yielding Dividend Stocks (Yahoo Finance)
-- [macro] Yen intervention rattles Japan as global stocks barely notice: AlphaCheck (Yahoo Finance)
-- [commodity] Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' (Energy)
+- [macro] Is Walmart a good long-term investment? Its buy-and-hold prospects explained (Yahoo Finance)
+- [macro] Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure (Economy)
+- [macro] Ignite Specialty Risk launches Australian operations (Yahoo Finance)
+- [crypto] At least 15 attackers exploited Coldcard vulnerability: Galaxy (Cointelegraph.com News)
+- [macro] Meet the Most Profitable Company in America Right Now (It’s Not Apple or Microsoft) (Yahoo Finance)
+- [crypto] Polymarket targets $20 billion valuation as competition heats up in prediction market sector (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] “Our Conviction Level Is Really Strong”: Goldman Sachs Sees 90% Upside on Korean Stocks. Here Are the ETFs to Buy if They’re Right. (Yahoo Finance)
+- [macro] More than 150 migrants rescued after boat catches fire in Channel (BBC News)
+- [macro] CNX Resources (CNX) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys (Yahoo Finance)
