@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T00:57:17.582773+00:00`
-- Market context score: `54.29`
-- News risk score: `34.36`
-- Macro risk score: `32.42`
-- Risk-on score: `39.68`
-- Articles: `34`
+- Generated: `2026-08-04T01:07:33.609516+00:00`
+- Market context score: `54.56`
+- News risk score: `33.96`
+- Macro risk score: `32.38`
+- Risk-on score: `39.93`
+- Articles: `35`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:780`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8012`
-- Day/swing latest: `2026-08-04T00:45:00+00:00`
+- Day/swing records: `8013`
+- Day/swing latest: `2026-08-04T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `1`
+- crypto: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
 - macro: articles `17`, risk hits `6`, risk headline rate `0.2353`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Caleb & Brown expands to UK, betting on untapped crypto demand (Cointelegraph.com News)
 - [macro] Why is Trump Media selling early access to Trump's Truth Social posts? (BBC News)
 - [crypto] Boltz pauses service after wave of AI-assisted hacking attempts (Cointelegraph.com News)
 - [macro] Half price rail travel extended to 18-year-olds (BBC News)
@@ -37,4 +38,3 @@
 - [macro] EU calls for stronger borders after Ceuta migrant crossings (BBC News)
 - [crypto] Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report (Cointelegraph.com News)
 - [macro] US reports first two deaths linked to  'explosive diarrhoea' outbreak (BBC News)
-- [commodity] Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it' (Energy)
