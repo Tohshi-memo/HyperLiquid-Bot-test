@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-08-04T15:07:31.824990+00:00`
+- Generated: `2026-08-04T15:23:00.196684+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `8`
 - Outcome sides (rows): `16`
@@ -22,57 +22,57 @@
 ## Current Implied Probabilities
 
 - Recurring Named Outcome [No] symbol `#10081` underlying `n/a` prob `0.8997` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#10070` underlying `n/a` prob `0.808` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#10070` underlying `n/a` prob `0.8135` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#10061` underlying `n/a` prob `0.8013` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10040` underlying `HYPE` prob `0.797` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10010` underlying `BTC` prob `0.6717` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10020` underlying `ETH` prob `0.6061` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10030` underlying `SOL` prob `0.556` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10040` underlying `HYPE` prob `0.725` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10010` underlying `BTC` prob `0.63` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10020` underlying `ETH` prob `0.5532` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10030` underlying `SOL` prob `0.5132` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#10050` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#10051` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10031` underlying `SOL` prob `0.444` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10021` underlying `ETH` prob `0.3939` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10011` underlying `BTC` prob `0.3283` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10041` underlying `HYPE` prob `0.203` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10031` underlying `SOL` prob `0.4868` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10021` underlying `ETH` prob `0.4468` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10011` underlying `BTC` prob `0.37` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10041` underlying `HYPE` prob `0.275` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#10060` underlying `n/a` prob `0.1987` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#10071` underlying `n/a` prob `0.192` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#10071` underlying `n/a` prob `0.1865` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#10080` underlying `n/a` prob `0.1003` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
-- Recurring [Yes] symbol `#10010` underlying `BTC` prob `0.6717` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10011` underlying `BTC` prob `0.3283` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10020` underlying `ETH` prob `0.6061` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10021` underlying `ETH` prob `0.3939` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10030` underlying `SOL` prob `0.556` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10031` underlying `SOL` prob `0.444` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10040` underlying `HYPE` prob `0.797` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10041` underlying `HYPE` prob `0.203` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10010` underlying `BTC` prob `0.63` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10011` underlying `BTC` prob `0.37` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10020` underlying `ETH` prob `0.5532` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10021` underlying `ETH` prob `0.4468` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10030` underlying `SOL` prob `0.5132` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10031` underlying `SOL` prob `0.4868` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10040` underlying `HYPE` prob `0.725` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10041` underlying `HYPE` prob `0.275` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#10050` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#10051` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#10060` underlying `n/a` prob `0.1987` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#10061` underlying `n/a` prob `0.8013` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#10070` underlying `n/a` prob `0.808` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#10071` underlying `n/a` prob `0.192` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#10070` underlying `n/a` prob `0.8135` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#10071` underlying `n/a` prob `0.1865` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#10080` underlying `n/a` prob `0.1003` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#10081` underlying `n/a` prob `0.8997` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
-- Recurring [Yes] symbol `#10010` underlying `BTC` prob `0.6717` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10011` underlying `BTC` prob `0.3283` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10020` underlying `ETH` prob `0.6061` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10021` underlying `ETH` prob `0.3939` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10030` underlying `SOL` prob `0.556` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10031` underlying `SOL` prob `0.444` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [Yes] symbol `#10040` underlying `HYPE` prob `0.797` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#10041` underlying `HYPE` prob `0.203` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10010` underlying `BTC` prob `0.63` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10011` underlying `BTC` prob `0.37` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10020` underlying `ETH` prob `0.5532` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10021` underlying `ETH` prob `0.4468` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10030` underlying `SOL` prob `0.5132` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10031` underlying `SOL` prob `0.4868` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [Yes] symbol `#10040` underlying `HYPE` prob `0.725` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#10041` underlying `HYPE` prob `0.275` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [Yes] symbol `#10050` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Fallback [No] symbol `#10051` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#10060` underlying `n/a` prob `0.1987` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#10061` underlying `n/a` prob `0.8013` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [Yes] symbol `#10070` underlying `n/a` prob `0.808` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#10071` underlying `n/a` prob `0.192` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [Yes] symbol `#10070` underlying `n/a` prob `0.8135` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#10071` underlying `n/a` prob `0.1865` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#10080` underlying `n/a` prob `0.1003` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#10081` underlying `n/a` prob `0.8997` price_source `allMids` vol24h `0.0` oi `0.0`
 
