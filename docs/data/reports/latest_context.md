@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T23:49:25.954353+00:00`
-- Market context score: `46.12`
-- News risk score: `46.21`
-- Macro risk score: `33.61`
-- Risk-on score: `31.98`
+- Generated: `2026-08-04T23:52:28.767123+00:00`
+- Market context score: `47.37`
+- News risk score: `45.44`
+- Macro risk score: `32.07`
+- Risk-on score: `33.52`
 - Articles: `62`
 - Polymarket markets: `390`
 
@@ -24,12 +24,12 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `23`, risk hits `8`, risk headline rate `0.2609`, policy hits `0`
-- macro: articles `34`, risk hits `9`, risk headline rate `0.2647`, policy hits `1`
+- macro: articles `34`, risk hits `8`, risk headline rate `0.2353`, policy hits `1`
 - policy: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `6`
 
 ## Headlines
 
-- [macro] Armed man with armour-piercing bullets arrested near Trump's California golf course (BBC News)
+- [macro] Armed man arrested near Trump's golf course ahead of president's visit (BBC News)
 - [macro] Could tech replace firefighters in the battle against wildfires? (BBC News)
 - [macro] The cost of being single – and how friends are teaming up to beat it (BBC News)
 - [macro] Fashion brand Jaded has ad banned for 'glamourising smoking' (BBC News)
