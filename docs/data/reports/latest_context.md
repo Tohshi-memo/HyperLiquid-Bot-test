@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T07:52:32.537038+00:00`
-- Market context score: `43.18`
-- News risk score: `38.25`
-- Macro risk score: `31.67`
-- Risk-on score: `18.0`
-- Articles: `45`
+- Generated: `2026-08-04T08:07:56.753229+00:00`
+- Market context score: `42.03`
+- News risk score: `40.8`
+- Macro risk score: `29.17`
+- Risk-on score: `16.67`
+- Articles: `46`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8040`
-- Day/swing latest: `2026-08-04T07:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `10`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `2`
+- commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `3`
 - macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `2`
 
 ## Headlines
 
-- [macro] Five dead in Moscow as Ukraine continues warehouse strikes (BBC News)
+- [crypto] Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] NY judge denies CFTC motion to halt enforcement action against Kalshi (Cointelegraph.com News)
+- [macro] Five dead in Moscow region as Ukraine continues warehouse strikes (BBC News)
 - [commodity] BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’ (Energy)
 - [crypto] Nigeria sets crypto tax collection rules for digital asset platforms (Cointelegraph.com News)
 - [macro] Charity cyclist, 82, dies a day after 3,300 mile ride across Australia (BBC News)
 - [macro] US states sue to block Trump tariffs impacting dozens of countries (BBC News)
 - [macro] US states sue to block Trump tariffs impacting dozens of countries (BBC News)
 - [commodity] Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto firms still seeking frontier AI access; only select few have it (Cointelegraph.com News)
