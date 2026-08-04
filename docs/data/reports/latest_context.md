@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T00:22:25.250589+00:00`
-- Market context score: `56.97`
-- News risk score: `34.58`
-- Macro risk score: `34.14`
-- Risk-on score: `46.47`
+- Generated: `2026-08-04T00:37:24.872559+00:00`
+- Market context score: `57.56`
+- News risk score: `33.96`
+- Macro risk score: `32.38`
+- Risk-on score: `46.6`
 - Articles: `35`
 - Polymarket markets: `388`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:780`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8010`
-- Day/swing latest: `2026-08-04T00:15:00+00:00`
+- Day/swing records: `8011`
+- Day/swing latest: `2026-08-04T00:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `2`
-- macro: articles `16`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
+- macro: articles `17`, risk hits `6`, risk headline rate `0.2353`, policy hits `1`
 
 ## Headlines
 
+- [macro] Why is Trump Media selling early access to Trump's Truth Social posts? (BBC News)
 - [crypto] Boltz pauses service after wave of AI-assisted hacking attempts (Cointelegraph.com News)
 - [macro] Half price rail travel extended to 18-year-olds (BBC News)
 - [macro] Tokenomics: Why making AI pay is tricky (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report (Cointelegraph.com News)
 - [macro] US reports first two deaths linked to  'explosive diarrhoea' outbreak (BBC News)
 - [commodity] Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it' (Energy)
-- [commodity] Oil prices tumble after Trump calls off attack on Iran (Energy)
