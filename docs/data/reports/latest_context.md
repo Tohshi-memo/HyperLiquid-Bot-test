@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T17:52:43.216531+00:00`
-- Market context score: `51.54`
-- News risk score: `47.01`
-- Macro risk score: `31.76`
-- Risk-on score: `44.01`
-- Articles: `94`
+- Generated: `2026-08-04T18:07:36.191925+00:00`
+- Market context score: `44.29`
+- News risk score: `48.44`
+- Macro risk score: `36.7`
+- Risk-on score: `30.96`
+- Articles: `68`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8078`
-- Day/swing latest: `2026-08-04T17:45:00+00:00`
+- Day/swing records: `8079`
+- Day/swing latest: `2026-08-04T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
 - crypto: articles `37`, risk hits `12`, risk headline rate `0.2432`, policy hits `3`
-- macro: articles `52`, risk hits `14`, risk headline rate `0.25`, policy hits `5`
+- macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `1`
 
 ## Headlines
 
-- [macro] Chery International hits 20m milestone (Yahoo Finance)
-- [macro] Amid crypto turmoil, this stablecoin quietly made $1.5 billion in Q2 (Yahoo Finance)
-- [macro] Palantir Soars 27% and Caterpillar Helps Lift the Dow 800 Points (Yahoo Finance)
-- [macro] Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests. (Yahoo Finance)
-- [macro] Stocks jump to records after upbeat company forecasts; oil, yen weaken (Yahoo Finance)
+- [commodity] Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' (Energy)
+- [crypto] Open USD rattled Circle's stock, but its key backers still support USDC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack (BBC News)
 - [macro] More than 170 migrants rescued after boat catches fire in Channel (BBC News)
-- [macro] Here's 1 High-Upside Cryptocurrency That Investors Keep Underestimating (Yahoo Finance)
-- [macro] Tesla's Wholesale Sales In China Grow For Ninth Month In A Row (Yahoo Finance)
-- [macro] Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs (Yahoo Finance)
+- [crypto] Samsung is poised to become a dominant stablecoin distributor, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] BNY to offer institutional crypto staking through Galaxy partnership (Cointelegraph.com News)
+- [macro] Oil prices fall on hopes Strait of Hormuz could reopen (BBC News)
+- [macro] Oil prices fall on hopes Strait of Hormuz could reopen (BBC News)
+- [macro] Watch: Evacuations as Guatemala volcano erupts (BBC News)
+- [crypto] Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record (Cointelegraph.com News)
