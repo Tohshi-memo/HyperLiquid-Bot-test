@@ -1,40 +1,40 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T13:22:28.958852+00:00`
-- Market context score: `49.3`
-- News risk score: `42.39`
-- Macro risk score: `27.37`
-- Risk-on score: `33.48`
+- Generated: `2026-08-04T13:37:25.071364+00:00`
+- Market context score: `47.31`
+- News risk score: `43.49`
+- Macro risk score: `30.26`
+- Risk-on score: `31.06`
 - Articles: `84`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
 
-- Asset universe count: `1189`
+- Asset universe count: `1190`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:781`
+- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8060`
-- Day/swing latest: `2026-08-04T13:15:00+00:00`
+- Day/swing records: `8061`
+- Day/swing latest: `2026-08-04T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `32`, risk hits `7`, risk headline rate `0.1875`, policy hits `4`
-- macro: articles `47`, risk hits `8`, risk headline rate `0.1489`, policy hits `7`
+- crypto: articles `33`, risk hits `7`, risk headline rate `0.1818`, policy hits `4`
+- macro: articles `46`, risk hits `11`, risk headline rate `0.2174`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin (Cointelegraph.com News)
+- [macro] BellRing Brands cuts earnings forecast amid inventory issues (Yahoo Finance)
+- [macro] Vandemoortele buys US baker Banneton outright (Yahoo Finance)
+- [macro] Why AMD is a Yahoo Finance AlphaSpace rockstar (Yahoo Finance)
+- [macro] Trump demands Exxon, Chevron cut gas prices after Iran war profits (Yahoo Finance)
+- [macro] Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress (Yahoo Finance)
+- [macro] The $32,000 Line Hasn’t Moved Since 1984. It’s Why More of Your Social Security Gets Taxed Every Year. (Yahoo Finance)
+- [macro] All Eyes Are on SpaceX's Aug. 4 Earnings Report. But These 3 Unstoppable Growth Stocks Are Better Buys Hiding in Plain Sight. (Yahoo Finance)
 - [macro] Crown Labels boosts digital press capacity with Domino (Yahoo Finance)
 - [macro] Half-price rail travel extended to 18-year-olds (BBC News)
-- [macro] Reddit on Reddit: Why Retail Traders Are Split on the Stock Now (Yahoo Finance)
-- [macro] Snap Stock Gets Boost After Q2 Report. Why Results Are 'Step In Right Direction' (Yahoo Finance)
-- [macro] AG Barr expects sales growth despite distribution problems (Yahoo Finance)
-- [macro] Palantir Rockets 16% After Q2 Blowout; C3.ai, UiPath Sit Out the Rally (Yahoo Finance)
-- [macro] Toyota Q1 2027 earnings: profit surges 76%, stock falls (Yahoo Finance)
-- [macro] JELD-WEN Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Pfizer Hikes 2026 Sales Outlook By $500 Million On Second-Quarter Beat (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rallies As Caterpillar, Palantir Soar On Earnings; SpaceX Earnings Next (Live Coverage) (Yahoo Finance)
