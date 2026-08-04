@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-08-04T09:07:27.911129+00:00`
-- Observed: `2026-08-04T09:00:00+00:00`
+- Generated: `2026-08-04T09:22:24.025048+00:00`
+- Observed: `2026-08-04T09:15:00+00:00`
 - Assets: `1189`
 
 ## Top Activity
@@ -13,18 +13,18 @@ Individual asset screen for drilling down from class-level signals.
 - `@136` unknown price `0.003189` 4h `0.0` vol `0.0` relationship `market_context_high->@136_24h`
 - `@126` unknown price `0.04215` 4h `0.0` vol `0.0` relationship `market_context_high->@126_24h`
 - `@138` unknown price `0.0004` 4h `0.0` vol `0.0` relationship `market_context_high->@138_24h`
-- `@270` unknown price `0.22624` 4h `9.0681` vol `0.0` relationship `market_context_high->@270_24h`
+- `@270` unknown price `0.229305` 4h `10.2057` vol `0.0` relationship `market_context_high->@270_24h`
 - `@274` unknown price `1.4e-07` 4h `0.0` vol `0.0` relationship `market_context_high->@274_24h`
-- `ORDI` crypto_alt price `3.4533` 4h `1.1541` vol `129310.45` relationship `market_context_high->ORDI_24h`
-- `@292` unknown price `0.048513` 4h `-1.5804` vol `0.0` relationship `market_context_high->@292_24h`
-- `ZRO` crypto_alt price `0.75437` 4h `1.2251` vol `1263692.74` relationship `market_context_high->ZRO_24h`
-- `FARTCOIN` crypto_alt price `0.13146` 4h `-0.912` vol `6319345.84` relationship `market_context_high->FARTCOIN_24h`
-- `BABY` crypto_alt price `0.010481` 4h `-0.6069` vol `149468.65` relationship `market_context_high->BABY_24h`
-- `hyna:FARTCOIN` unknown price `0.13136` 4h `-0.8753` vol `3095.81` relationship `market_context_high->hyna:FARTCOIN_24h`
+- `ORDI` crypto_alt price `3.4528` 4h `1.098` vol `129698.18` relationship `market_context_high->ORDI_24h`
+- `@292` unknown price `0.048812` 4h `-0.8893` vol `0.0` relationship `market_context_high->@292_24h`
+- `ZRO` crypto_alt price `0.7559` 4h `1.4277` vol `1261036.06` relationship `market_context_high->ZRO_24h`
+- `BABY` crypto_alt price `0.010451` 4h `-0.6276` vol `184048.43` relationship `market_context_high->BABY_24h`
+- `FARTCOIN` crypto_alt price `0.13127` 4h `-0.9806` vol `6293074.02` relationship `market_context_high->FARTCOIN_24h`
+- `hyna:FARTCOIN` unknown price `0.13114` 4h `-0.9965` vol `3095.81` relationship `market_context_high->hyna:FARTCOIN_24h`
 - `@144` unknown price `0.000494` 4h `-4.817` vol `0.0` relationship `market_context_high->@144_24h`
-- `GRIFFAIN` crypto_alt price `0.008714` 4h `1.0319` vol `580433.94` relationship `market_context_high->GRIFFAIN_24h`
-- `MEGA` crypto_alt price `0.036048` 4h `-2.2029` vol `2259303.39` relationship `market_context_high->MEGA_24h`
-- `PUMP` crypto_alt price `0.002222` 4h `-0.0899` vol `34374875.69` relationship `market_context_high->PUMP_24h`
-- `@162` unknown price `0.13127` 4h `-0.9208` vol `0.0` relationship `market_context_high->@162_24h`
-- `S` crypto_alt price `0.02301` 4h `2.5721` vol `390976.63` relationship `market_context_high->S_24h`
-- `kSHIB` crypto_alt price `0.004944` 4h `-0.6631` vol `1612913.11` relationship `market_context_high->kSHIB_24h`
+- `GRIFFAIN` crypto_alt price `0.008578` 4h `-0.4641` vol `669931.97` relationship `market_context_high->GRIFFAIN_24h`
+- `MEGA` crypto_alt price `0.036206` 4h `-1.6141` vol `2250744.01` relationship `market_context_high->MEGA_24h`
+- `PUMP` crypto_alt price `0.002221` 4h `-0.09` vol `34132995.62` relationship `market_context_high->PUMP_24h`
+- `@162` unknown price `0.13107` 4h `-1.0307` vol `0.0` relationship `market_context_high->@162_24h`
+- `kSHIB` crypto_alt price `0.004943` 4h `-0.5433` vol `1608632.68` relationship `market_context_high->kSHIB_24h`
+- `@244` unknown price `3.12485` 4h `0.0` vol `0.0` relationship `market_context_high->@244_4h`
