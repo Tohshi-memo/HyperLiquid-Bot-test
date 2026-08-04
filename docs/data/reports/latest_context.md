@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T21:37:39.575002+00:00`
-- Market context score: `43.6`
-- News risk score: `48.46`
-- Macro risk score: `40.63`
-- Risk-on score: `30.95`
+- Generated: `2026-08-04T21:52:25.847112+00:00`
+- Market context score: `43.94`
+- News risk score: `48.17`
+- Macro risk score: `39.44`
+- Risk-on score: `30.99`
 - Articles: `63`
 - Polymarket markets: `391`
 
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8093`
-- Day/swing latest: `2026-08-04T21:30:00+00:00`
+- Day/swing records: `8094`
+- Day/swing latest: `2026-08-04T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `31`, risk hits `10`, risk headline rate `0.2258`, policy hits `2`
-- macro: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `1`
+- crypto: articles `30`, risk hits `10`, risk headline rate `0.2333`, policy hits `1`
+- macro: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `1`
 - policy: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `6`
 
 ## Headlines
 
+- [macro] EU commends Spain's 'swift response' to Ceuta migrant crisis (BBC News)
+- [macro] Projectile sinks Indian-flagged ship off Yemen coast (BBC News)
 - [policy] Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc. (FRB: Press Release - All Releases)
 - [policy] Federal Reserve Board announces approval of the application by FS Bancorp, Inc. (FRB: Press Release - All Releases)
 - [policy] Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc. (FRB: Press Release - All Releases)
@@ -36,6 +38,4 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks (Cointelegraph.com News)
 - [macro] More than 170 migrants rescued after boat catches fire in Channel (BBC News)
-- [macro] EU commends Spain's 'swift response' to Ceuta migrant crisis (BBC News)
 - [macro] Arrests in Egypt after people allegedly impersonate judges (BBC News)
-- [macro] Arson arrest made over largest of Washington state's wildfires (BBC News)
