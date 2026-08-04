@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-04T08:07:56.753229+00:00`
+- Generated: `2026-08-04T08:22:28.997461+00:00`
 - Market context score: `42.03`
 - News risk score: `40.8`
 - Macro risk score: `29.17`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:107, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `8041`
+- Day/swing latest: `2026-08-04T08:15:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [commodity] BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’ (Energy)
 - [crypto] Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] NY judge denies CFTC motion to halt enforcement action against Kalshi (Cointelegraph.com News)
 - [macro] Five dead in Moscow region as Ukraine continues warehouse strikes (BBC News)
-- [commodity] BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’ (Energy)
 - [crypto] Nigeria sets crypto tax collection rules for digital asset platforms (Cointelegraph.com News)
 - [macro] Charity cyclist, 82, dies a day after 3,300 mile ride across Australia (BBC News)
 - [macro] US states sue to block Trump tariffs impacting dozens of countries (BBC News)
