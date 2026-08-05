@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T06:07:32.348457+00:00`
+- Generated: `2026-08-05T06:22:29.021133+00:00`
 - Market context score: `50.73`
 - News risk score: `38.52`
 - Macro risk score: `32.6`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8127`
-- Day/swing latest: `2026-08-05T06:00:00+00:00`
+- Day/swing records: `8128`
+- Day/swing latest: `2026-08-05T06:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] SpaceX's first-ever earnings show higher revenues and huge spending (BBC News)
+- [macro] Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CLARITY or not, crypto isn’t going back in the bottle: Bitwise (Cointelegraph.com News)
@@ -35,6 +37,4 @@
 - [macro] Russian ballistic missile strike on Kyiv kills at least 14, officials say (BBC News)
 - [crypto] Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bybit’s EU payments arm secures Austrian e-money license (Cointelegraph.com News)
-- [macro] SpaceX's first-ever earnings show higher revenues and huge spending (BBC News)
-- [macro] Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall (BBC News)
 - [macro] Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall (BBC News)
