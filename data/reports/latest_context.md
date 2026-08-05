@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T08:07:37.499881+00:00`
+- Generated: `2026-08-05T08:22:29.175137+00:00`
 - Market context score: `54.23`
 - News risk score: `35.16`
 - Macro risk score: `30.79`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8135`
-- Day/swing latest: `2026-08-05T08:00:00+00:00`
+- Day/swing records: `8136`
+- Day/swing latest: `2026-08-05T08:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,8 @@
 
 ## Headlines
 
-- [macro] Afghan boxer arrives at Greek court in connection with death of Scottish woman (BBC News)
+- [macro] Afghan boxer appears in court in connection with death of Scottish woman (BBC News)
+- [macro] SpaceX shares sink after first earnings report reveals huge AI spending plans (BBC News)
 - [crypto] The worst chart for bitcoin bulls right now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian strike kills at least 17 as Zelensky says interceptors could have saved lives (BBC News)
 - [crypto] Missouri trio charged over alleged Bitcoin kidnapping plot (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [macro] Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy (Economy)
 - [macro] Police raid Starbucks Korea headquarters over 'Tank Day' fiasco (BBC News)
 - [macro] Police raid Starbucks Korea headquarters over 'Tank Day' fiasco (BBC News)
-- [macro] SpaceX's first-ever earnings show higher revenues and huge spending (BBC News)
 - [crypto] AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes (Cointelegraph.com News)
