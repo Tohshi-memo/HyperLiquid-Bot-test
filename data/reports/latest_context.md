@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T20:00:23.557481+00:00`
-- Market context score: `51.38`
-- News risk score: `40.5`
-- Macro risk score: `26.86`
-- Risk-on score: `36.31`
-- Articles: `67`
+- Generated: `2026-08-05T20:07:31.705362+00:00`
+- Market context score: `51.54`
+- News risk score: `40.51`
+- Macro risk score: `26.37`
+- Risk-on score: `36.47`
+- Articles: `68`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -25,9 +25,12 @@
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `38`, risk hits `10`, risk headline rate `0.1842`, policy hits `1`
 - macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [policy] Cook, Outlook for the U.S. and Alaskan Economies (FRB: Speeches)
+- [macro] Drone carrying explosives found at German airport, police say (BBC News)
 - [macro] Trump's 'Liberation Day' tariff refunds hit $100bn (BBC News)
 - [crypto] Senator Lummis still pushing for CLARITY vote before August recess (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +39,3 @@
 - [commodity] Oil prices little changed on negotiations to manage ship traffic in Strait of Hormuz (Energy)
 - [macro] After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives (BBC News)
 - [macro] Analyst Report: Hartford Insurance Grp Inc (Yahoo Finance)
-- [macro] Analyst Report: Fidelity Natl Information Serv (Yahoo Finance)
-- [macro] Analyst Report: AbbVie Inc (Yahoo Finance)
