@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-05T18:25:27.420790+00:00`
+- Generated: `2026-08-05T18:30:34.815636+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `18252.0189`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `924084.9061870001` | liquidity: `396958.9589`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `664013.4305830002` | liquidity: `487096.7812`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `580257.3497300026` | liquidity: `579627.68295`
-- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `558112.2586399993` | liquidity: `58212.21844`
-- Will the U.S. invade Iran before 2027? | 24h volume: `558102.6295280021` | liquidity: `848090.809`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `379885.2616799998` | liquidity: `73630.0864`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `348009.91362099996` | liquidity: `404706.0263`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `20227.95486`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `924084.9061870001` | liquidity: `324394.7401`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `664013.4305830002` | liquidity: `481741.493`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `580257.3497300026` | liquidity: `577671.97723`
+- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `558112.2586399993` | liquidity: `59980.78588`
+- Will the U.S. invade Iran before 2027? | 24h volume: `558102.6295280021` | liquidity: `847851.2402`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `379885.2616799998` | liquidity: `75793.3264`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `348009.91362099996` | liquidity: `396090.5691`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
