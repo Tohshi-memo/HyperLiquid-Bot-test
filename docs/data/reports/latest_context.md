@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T19:37:25.424947+00:00`
+- Generated: `2026-08-05T19:52:27.810326+00:00`
 - Market context score: `51.44`
 - News risk score: `40.54`
 - Macro risk score: `26.85`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8180`
-- Day/swing latest: `2026-08-05T19:30:00+00:00`
+- Day/swing records: `8181`
+- Day/swing latest: `2026-08-05T19:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Trump's 'Liberation Day' tariff refunds hit $100bn (BBC News)
 - [crypto] Senator Lummis still pushing for CLARITY vote before August recess (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Watch: 'Scariest night' as Ukraine fails to intercept Russian attack (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Analyst Report: Fidelity Natl Information Serv (Yahoo Finance)
 - [macro] Analyst Report: Hartford Insurance Grp Inc (Yahoo Finance)
 - [macro] Analyst Report: AbbVie Inc (Yahoo Finance)
-- [macro] Analyst Report: Sonoco Products Co (Yahoo Finance)
