@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T10:07:26.794515+00:00`
-- Market context score: `52.9`
-- News risk score: `33.51`
-- Macro risk score: `27.56`
-- Risk-on score: `34.05`
-- Articles: `45`
+- Generated: `2026-08-05T10:14:30.671394+00:00`
+- Market context score: `46.7`
+- News risk score: `37.8`
+- Macro risk score: `30.48`
+- Risk-on score: `25.0`
+- Articles: `56`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
-- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `0`
+- macro: articles `34`, risk hits `9`, risk headline rate `0.2647`, policy hits `4`
 
 ## Headlines
 
+- [macro] SpaceX slides as AI spending worries overshadow early returns (Yahoo Finance)
+- [macro] SpaceX's first earnings reveal the cost of becoming an AI giant: Chart of the Day (Yahoo Finance)
+- [macro] Mortgage and refinance rates today, Wednesday, August 5, 2026: Rates mixed as Iran negotiations focus on Hormuz (Yahoo Finance)
+- [macro] Sandisk stock is bouncing — how to play earnings with limited risk: Alpha Options Playbook (Yahoo Finance)
+- [macro] As bank bonuses soar, PE's biggest firms play catch-up (Yahoo Finance)
+- [macro] Best CD rates today, Wednesday, August 5, 2026: Earn up to 4.15% APY (Yahoo Finance)
+- [macro] Wall Street is set for a bonus boom. Big banks have the edge. (Yahoo Finance)
+- [macro] AsymBio to secure $184m to support growth in biologics manufacturing (Yahoo Finance)
 - [crypto] Coldcard hack sparks a self-custody security overhaul: Cory Klippsten (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian strike kills at least 17 as Zelensky says interceptors could have saved lives (BBC News)
-- [commodity] Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike (Energy)
-- [crypto] Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode (Cointelegraph.com News)
-- [macro] Anthropic AI created fake profiles and impersonated people in attempted hack (BBC News)
-- [crypto] BlackRock brings tokenized money market funds to Europe via JPMorgan (Cointelegraph.com News)
-- [macro] Afghan boxer appears in court in connection with death of Scottish woman (BBC News)
-- [crypto] Proof of Play to shut down after blockchain gaming thesis falls short (Cointelegraph.com News)
-- [crypto] Why bitcoin’s ‘500-day rule’ faces its biggest test yet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live updates: An AI credit bubble could set up bitcoin’s path to $1 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
