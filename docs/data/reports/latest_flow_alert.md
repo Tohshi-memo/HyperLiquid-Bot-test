@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-05T11:05:31.723868+00:00`
+- Generated: `2026-08-05T11:10:34.241091+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? | 24h volume: `1517862.798941` | liquidity: `45411.911`
-- Will the U.S. invade Iran before 2027? | 24h volume: `959322.1902589957` | liquidity: `782725.4489`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `8178.46529`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `929979.5923190004` | liquidity: `501886.42598`
-- Will Haley Stevens win the 2026 Michigan Democratic Primary? | 24h volume: `832839.107612` | liquidity: `56839.40473`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `811842.56597` | liquidity: `434207.9972`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `761263.1679290001` | liquidity: `337324.7017`
-- Will Donavan McKinney be the Democratic Nominee for MI-13? | 24h volume: `587801.1061159999` | liquidity: `56689.27762`
+- Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? | 24h volume: `1517862.798941` | liquidity: `44900.7598`
+- Will the U.S. invade Iran before 2027? | 24h volume: `959322.1902589957` | liquidity: `782512.6069`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `8589.8406`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `929979.5923190004` | liquidity: `502213.89265`
+- Will Haley Stevens win the 2026 Michigan Democratic Primary? | 24h volume: `832839.107612` | liquidity: `57333.56454`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `811842.56597` | liquidity: `434137.8889`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `761263.1679290001` | liquidity: `348124.2171`
+- Will Donavan McKinney be the Democratic Nominee for MI-13? | 24h volume: `587801.1061159999` | liquidity: `57538.5945`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
