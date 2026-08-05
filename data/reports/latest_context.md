@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T02:22:29.803182+00:00`
+- Generated: `2026-08-05T02:37:34.073994+00:00`
 - Market context score: `49.34`
 - News risk score: `43.12`
 - Macro risk score: `33.58`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8112`
-- Day/swing latest: `2026-08-05T02:15:00+00:00`
+- Day/swing records: `8113`
+- Day/swing latest: `2026-08-05T02:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Ethereum researchers want to rein in staking, critics say it could backfire (Cointelegraph.com News)
 - [macro] Russian ballistic missile strike on Kyiv kills one and injures others (BBC News)
 - [macro] Oil prices fall on hopes Strait of Hormuz could reopen (BBC News)
 - [macro] Oil prices fall on hopes Strait of Hormuz could reopen (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Could tech replace firefighters in the battle against wildfires? (BBC News)
 - [macro] The cost of being single – and how friends are teaming up to beat it (BBC News)
 - [macro] Fashion brand Jaded has ad banned for 'glamourising smoking' (BBC News)
-- [macro] Mysterious elephant deaths in Kenya raise questions around pesticides (BBC News)
