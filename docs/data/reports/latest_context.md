@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T00:07:30.462794+00:00`
-- Market context score: `49.43`
-- News risk score: `42.57`
-- Macro risk score: `33.67`
-- Risk-on score: `36.29`
-- Articles: `60`
+- Generated: `2026-08-05T00:22:25.984266+00:00`
+- Market context score: `51.82`
+- News risk score: `41.04`
+- Macro risk score: `32.09`
+- Risk-on score: `39.71`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8103`
-- Day/swing latest: `2026-08-05T00:00:00+00:00`
+- Day/swing records: `8104`
+- Day/swing latest: `2026-08-05T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `21`, risk hits `6`, risk headline rate `0.1905`, policy hits `0`
-- macro: articles `34`, risk hits `9`, risk headline rate `0.2647`, policy hits `1`
+- macro: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `1`
 - policy: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `6`
 
 ## Headlines
 
 - [macro] Armed man arrested near Trump's golf course ahead of president's visit (BBC News)
+- [macro] AI used new levels of 'autonomy and deception' to trick people in safety test (BBC News)
 - [macro] Could tech replace firefighters in the battle against wildfires? (BBC News)
 - [macro] The cost of being single – and how friends are teaming up to beat it (BBC News)
 - [macro] Fashion brand Jaded has ad banned for 'glamourising smoking' (BBC News)
@@ -37,5 +38,4 @@
 - [macro] 'My grandmother subjected my baby to female genital mutilation behind my back' (BBC News)
 - [macro] Saudi-led group completes $55bn purchase of gaming giant EA (BBC News)
 - [macro] 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused (BBC News)
-- [macro] 'I feel like I dug my own grave': The workers caught in the AI transition (BBC News)
 - [macro] 'I feel like I dug my own grave': The workers caught in the AI transition (BBC News)
