@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T15:37:37.751918+00:00`
-- Market context score: `55.17`
-- News risk score: `39.93`
-- Macro risk score: `22.03`
-- Risk-on score: `42.41`
+- Generated: `2026-08-05T15:52:34.688056+00:00`
+- Market context score: `54.21`
+- News risk score: `39.6`
+- Macro risk score: `19.71`
+- Risk-on score: `39.13`
 - Articles: `96`
 - Polymarket markets: `389`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8165`
-- Day/swing latest: `2026-08-05T15:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `41`, risk hits `11`, risk headline rate `0.1951`, policy hits `2`
-- macro: articles `53`, risk hits `6`, risk headline rate `0.1132`, policy hits `3`
+- crypto: articles `42`, risk hits `12`, risk headline rate `0.2143`, policy hits `2`
+- macro: articles `52`, risk hits `4`, risk headline rate `0.0769`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Drone carrying explosives found at German airport, police say (BBC News)
+- [macro] Do college students need renters insurance? (Yahoo Finance)
+- [macro] Price Prediction: ON Semiconductor Stock Looks Ready for Its Next Move (Yahoo Finance)
+- [macro] Wells Fargo’s CEO Says AI Will Erase Tens of Thousands of Jobs. Here’s Why He’s Still Not Worried About Your Wallet (Yahoo Finance)
+- [macro] RedotPay Vows to ‘Vigorously Defend’ Binance Lawsuit Alleging User Diversion (Yahoo Finance)
 - [macro] Where Will Bitcoin Be in 3 Years? (Yahoo Finance)
-- [macro] Why Upstart Stock Was Climbing Today (Yahoo Finance)
-- [macro] The Man Who Sued Ripple Now Runs US Intelligence. Here’s What That Lawsuit Is Still Costing XRP (Yahoo Finance)
-- [macro] The Poor Are Spending Less At McDonald’s (Yahoo Finance)
-- [macro] I've Been Wrong About Coca-Cola Stock for 5 Years. Here's Why I'm Finally Changing My Mind. (Yahoo Finance)
-- [macro] Glencore Turns Middle East Chaos Into a Trading Jackpot (Yahoo Finance)
-- [macro] Charles River Blows Out Of A Buy Zone After One Metric Hits A Four-Year High (Yahoo Finance)
-- [macro] Private companies added just 44,000 workers in July, below expectations, ADP reports (Economy)
-- [macro] Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business (Yahoo Finance)
-- [macro] Left-wing political outsider wins Democratic Senate primary in Michigan (BBC News)
+- [macro] She Sold the Family House at 63 and Banked the Gain. At 65, Medicare Priced Her Like a Millionaire. (Yahoo Finance)
+- [macro] Nextech3D.ai partners with F2B to expand AI-powered event technology business (Yahoo Finance)
+- [macro] Boerse Stuttgart Digital, Tradias Complete Merger to Build European Crypto Hub (Yahoo Finance)
