@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T16:07:53.256090+00:00`
-- Market context score: `56.37`
+- Generated: `2026-08-05T16:22:30.399768+00:00`
+- Market context score: `55.9`
 - News risk score: `38.59`
 - Macro risk score: `19.46`
-- Risk-on score: `42.98`
+- Risk-on score: `41.92`
 - Articles: `95`
-- Polymarket markets: `389`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8166`
-- Day/swing latest: `2026-08-05T16:00:00+00:00`
+- Day/swing records: `8167`
+- Day/swing latest: `2026-08-05T16:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Left-wing political outsider wins Democratic Senate primary in Michigan (BBC News)
 - [macro] Drone carrying explosives found at German airport, police say (BBC News)
 - [macro] El-Sayed's victory sends tremors through Democratic Party (BBC News)
 - [macro] Lam Research Soars After Earnings. Are they the Top Semiconductor Equipment Buy? (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Yen steadies after intervention and dollar stays near six-week low (Yahoo Finance)
 - [macro] Amgen Hikes Sales Outlook By $1 Billion After Second-Quarter Smash (Yahoo Finance)
 - [crypto] Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Do college students need renters insurance? (Yahoo Finance)
