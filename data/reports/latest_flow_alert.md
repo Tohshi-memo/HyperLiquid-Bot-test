@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-05T09:50:33.167291+00:00`
+- Generated: `2026-08-05T09:55:27.235919+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `15956644.25`
-- Polymarket volume z-score: `-0.13`
+- Polymarket 24h volume: `15993269.72`
+- Polymarket volume z-score: `-0.12`
 
 ## Top Polymarket Markets
 
-- Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? | 24h volume: `1501894.1977269999` | liquidity: `95179.2729`
-- Will the U.S. invade Iran before 2027? | 24h volume: `1011350.0899180006` | liquidity: `920116.0438`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `971165.6612120003` | liquidity: `510096.36505`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `8811.09145`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `925123.47` | liquidity: `8711.02378`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `882268.2469259996` | liquidity: `423632.4337`
-- Will Haley Stevens win the 2026 Michigan Democratic Primary? | 24h volume: `811938.6117990002` | liquidity: `79117.10894`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `676599.243928` | liquidity: `459312.1629`
+- Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? | 24h volume: `1506893.7441119999` | liquidity: `100718.34286`
+- Will the U.S. invade Iran before 2027? | 24h volume: `1010253.4125410006` | liquidity: `919701.2544`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `964107.8139600002` | liquidity: `512905.68413`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `9629.18971`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `925123.47` | liquidity: `8744.76812`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `882068.6449200001` | liquidity: `506609.0685`
+- Will Haley Stevens win the 2026 Michigan Democratic Primary? | 24h volume: `830853.8744649998` | liquidity: `80539.23373`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `679749.8954090001` | liquidity: `436895.2031`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
