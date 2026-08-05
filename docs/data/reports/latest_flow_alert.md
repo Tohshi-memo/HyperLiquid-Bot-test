@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-05T06:15:28.401172+00:00`
+- Generated: `2026-08-05T06:20:34.087034+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14440612.56`
-- Polymarket volume z-score: `-0.35`
+- Polymarket 24h volume: `15251512.88`
+- Polymarket volume z-score: `-0.25`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `1177879.9102250007` | liquidity: `474262.12464`
-- Will the U.S. invade Iran before 2027? | 24h volume: `980040.9936360008` | liquidity: `1143480.5251`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `925130.47` | liquidity: `8525.85848`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `876526.7986729995` | liquidity: `401687.8661`
-- Will Haley Stevens win the 2026 Michigan Democratic Primary? | 24h volume: `685028.3716150001` | liquidity: `103567.38301`
-- Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? | 24h volume: `649767.951243` | liquidity: `75003.56864`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `622283.5` | liquidity: `9292.47344`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `613383.7277230001` | liquidity: `735420.87911`
+- Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? | 24h volume: `1255073.4182200003` | liquidity: `186268.3381`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `1125706.5705860008` | liquidity: `474437.14255`
+- Will the U.S. invade Iran before 2027? | 24h volume: `979904.9018760008` | liquidity: `1152722.2187`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `925130.47` | liquidity: `8327.18811`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `870349.5938109995` | liquidity: `406508.8764`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `814392.9` | liquidity: `9009.88334`
+- Will Haley Stevens win the 2026 Michigan Democratic Primary? | 24h volume: `752345.6650380002` | liquidity: `97988.44144`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `613356.9277230001` | liquidity: `742784.99897`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
