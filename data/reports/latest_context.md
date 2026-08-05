@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-05T14:52:29.159986+00:00`
-- Market context score: `56.63`
-- News risk score: `39.85`
-- Macro risk score: `21.01`
-- Risk-on score: `45.2`
-- Articles: `92`
+- Generated: `2026-08-05T15:07:36.829235+00:00`
+- Market context score: `55.18`
+- News risk score: `40.15`
+- Macro risk score: `22.04`
+- Risk-on score: `42.63`
+- Articles: `95`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8162`
-- Day/swing latest: `2026-08-05T14:45:00+00:00`
+- Day/swing records: `8163`
+- Day/swing latest: `2026-08-05T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `39`, risk hits `11`, risk headline rate `0.2051`, policy hits `2`
-- macro: articles `51`, risk hits `5`, risk headline rate `0.098`, policy hits `2`
+- crypto: articles `40`, risk hits `11`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `53`, risk hits `6`, risk headline rate `0.1132`, policy hits `3`
 
 ## Headlines
 
-- [crypto] Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Left-wing political outsider wins Democratic Senate primary in Michigan (BBC News)
-- [macro] CVS Stock Slides On 2027 Outlook Despite Hearty Earnings Beat (Yahoo Finance)
-- [macro] Veteran analyst rethinks Palantir stock after earnings (Yahoo Finance)
-- [commodity] Oil prices fall on negotiations to manage ship traffic in Strait of Hormuz (Energy)
-- [macro] Rosenblatt keeps Hut 8 at Buy, sees 23% upside despite ERCOT delay (Yahoo Finance)
-- [macro] 5 Stocks Ready to Pay You a Dividend in August, but You Must Buy Them Today (Yahoo Finance)
-- [macro] Drone carrying explosives found at German airport, police say (BBC News)
-- [macro] Tesla vs BYD: Only One Leader in The EV Race (Yahoo Finance)
-- [macro] Stock Market Today: Dow Leads Charge As Trump Eyes Hormuz Deal; Eli Lilly Pops (Live Coverage) (Yahoo Finance)
+- [crypto] Crypto Long & Short: Putting the bitcoin sizing question to the test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India (BBC News)
+- [macro] NASBA awards grants for accounting education research (Yahoo Finance)
+- [macro] El-Sayed's victory sends tremors through Democratic Party (BBC News)
+- [macro] SpaceX Has Already Lost AI Race (Yahoo Finance)
+- [macro] Why This International ETF Might Be the Most Underrated Investment of 2026 (Yahoo Finance)
+- [macro] Corient Acquires UHNW-Focused $21B Summit Trail Advisors (Yahoo Finance)
+- [macro] 3 money rules I swear by — and why they work (Yahoo Finance)
+- [macro] Could Centene (CNC) Be Entering a Major Margin Recovery? (Yahoo Finance)
