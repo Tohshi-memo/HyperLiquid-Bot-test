@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T04:37:38.724039+00:00`
-- Market context score: `39.97`
+- Generated: `2026-08-06T04:52:34.877691+00:00`
+- Market context score: `41.9`
 - News risk score: `44.55`
 - Macro risk score: `37.26`
-- Risk-on score: `18.3`
+- Risk-on score: `22.59`
 - Articles: `35`
 - Polymarket markets: `388`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8216`
-- Day/swing latest: `2026-08-06T04:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] XRP whales keep buying the dip, but ether shows deeper capitulation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Meta latest AI firm to see model go rogue during testing (Cointelegraph.com News)
 - [crypto] Here are the possible outcomes for Clarity right now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,5 +38,4 @@
 - [macro] Meta says AI model accessed the internet and hacked another firm (BBC News)
 - [crypto] Block raises 2026 outlook on strong quarter, says AI touches nearly all code (Cointelegraph.com News)
 - [crypto] Mysten Labs tech chief joins Anthropic to work on AI security (Cointelegraph.com News)
-- [macro] Iran says deal with Oman on Strait of Hormuz is in final stages (BBC News)
 - [macro] Iran says deal with Oman on Strait of Hormuz is in final stages (BBC News)
