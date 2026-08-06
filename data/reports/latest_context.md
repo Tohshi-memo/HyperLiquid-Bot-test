@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T10:22:30.599226+00:00`
+- Generated: `2026-08-06T10:37:33.170017+00:00`
 - Market context score: `56.82`
 - News risk score: `34.43`
 - Macro risk score: `25.61`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8238`
-- Day/swing latest: `2026-08-06T10:15:00+00:00`
+- Day/swing records: `8239`
+- Day/swing latest: `2026-08-06T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Afghan boxer accused of killing Scottish aid worker back in court (BBC News)
 - [commodity] U.S. ready to return to ‘commitments,’ Iran says as Strait of Hormuz deal looms (Energy)
 - [macro] Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape (BBC News)
 - [macro] 'I've had to Botox my CV': Are AI recruitment tools affecting women's careers? (BBC News)
@@ -35,6 +36,5 @@
 - [crypto] Russian president signs crypto law, core rules take effect in 2026 (Cointelegraph.com News)
 - [crypto] RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares (Cointelegraph.com News)
 - [crypto] NFT startup founder charged with misusing funds from $10 million fundraising (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Afghan boxer accused of killing Scottish aid worker back in court (BBC News)
 - [macro] Thousands of young people missing out on money they don't know about (BBC News)
 - [macro] Iranian footballers who defied Tehran become Australian citizens (BBC News)
