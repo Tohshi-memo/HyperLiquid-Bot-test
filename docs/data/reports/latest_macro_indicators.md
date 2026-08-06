@@ -2,7 +2,7 @@
 
 Public macro indicators for rates, employment, inflation, dollar, and risk context. These are inputs for analysis, not trade signals.
 
-- Generated: `2026-08-06T14:18:28.956262+00:00`
+- Generated: `2026-08-06T23:18:27.540845+00:00`
 - Indicators: `11`
 
 ## Providers
@@ -25,8 +25,8 @@ Public macro indicators for rates, employment, inflation, dollar, and risk conte
 - `us_core_cpi_u` US Core CPI-U: `336.882` index at `2026-06-01` (BLS)
 - `us_cpi_u` US CPI-U: `333.952` index at `2026-06-01` (BLS)
 - `us_ppi_final_demand` US PPI Final Demand: `157.045` index at `2026-06-01` (BLS)
-- `us_treasury_avg_bill_rate` US Treasury Average Treasury Bills Rate: `3.706` percent at `2026-06-30` (US Treasury Fiscal Data)
-- `us_treasury_avg_bond_rate` US Treasury Average Treasury Bonds Rate: `3.43` percent at `2026-06-30` (US Treasury Fiscal Data)
-- `us_treasury_avg_interest_bearing_debt_rate` US Treasury Average Total Interest-bearing Debt Rate: `3.409` percent at `2026-06-30` (US Treasury Fiscal Data)
-- `us_treasury_avg_marketable_rate` US Treasury Average Total Marketable Rate: `3.411` percent at `2026-06-30` (US Treasury Fiscal Data)
-- `us_treasury_avg_note_rate` US Treasury Average Treasury Notes Rate: `3.283` percent at `2026-06-30` (US Treasury Fiscal Data)
+- `us_treasury_avg_bill_rate` US Treasury Average Treasury Bills Rate: `3.758` percent at `2026-07-31` (US Treasury Fiscal Data)
+- `us_treasury_avg_bond_rate` US Treasury Average Treasury Bonds Rate: `3.442` percent at `2026-07-31` (US Treasury Fiscal Data)
+- `us_treasury_avg_interest_bearing_debt_rate` US Treasury Average Total Interest-bearing Debt Rate: `3.447` percent at `2026-07-31` (US Treasury Fiscal Data)
+- `us_treasury_avg_marketable_rate` US Treasury Average Total Marketable Rate: `3.443` percent at `2026-07-31` (US Treasury Fiscal Data)
+- `us_treasury_avg_note_rate` US Treasury Average Treasury Notes Rate: `3.309` percent at `2026-07-31` (US Treasury Fiscal Data)
