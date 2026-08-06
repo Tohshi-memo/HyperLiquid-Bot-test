@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T12:52:27.749395+00:00`
-- Market context score: `51.12`
-- News risk score: `43.32`
-- Macro risk score: `23.1`
-- Risk-on score: `36.69`
-- Articles: `68`
+- Generated: `2026-08-06T13:07:25.560009+00:00`
+- Market context score: `52.69`
+- News risk score: `42.96`
+- Macro risk score: `23.37`
+- Risk-on score: `39.96`
+- Articles: `69`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:109, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8248`
-- Day/swing latest: `2026-08-06T12:45:00+00:00`
+- Day/swing records: `8249`
+- Day/swing latest: `2026-08-06T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `32`, risk hits `10`, risk headline rate `0.2812`, policy hits `3`
-- macro: articles `35`, risk hits `7`, risk headline rate `0.1714`, policy hits `1`
+- crypto: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `3`
+- macro: articles `34`, risk hits `7`, risk headline rate `0.1765`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Blockchain.com wins Cayman custody license after MiCA and FCA approvals (Cointelegraph.com News)
+- [crypto] Hyperliquid RWA contracts grow to 32% of trading activity in Q2 (Cointelegraph.com News)
+- [macro] High Beta Runners Up: Why AMD and Marvell Technology Now Command Attention (Yahoo Finance)
+- [macro] CoreWeave is Off 20% Over 3 Months: A Prominent Tech Analyst Expects 65% Gains This Cycle (Yahoo Finance)
 - [crypto] JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Boomers Should Buy These High-Yield Dividend August Bargains Hand-Over-Fist (Yahoo Finance)
+- [macro] Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout (Yahoo Finance)
 - [macro] Shorts, strappy tops and sandals: What is acceptable to wear to work? (BBC News)
-- [macro] Mercury Systems’ (MRCY) Turnaround Gains Traction With Accelerated Growth (Yahoo Finance)
-- [macro] Digi International (DGII) Strengthens on Record Revenue (Yahoo Finance)
-- [macro] Mud Jeans files bankruptcy after failing to overcome debt burden (Yahoo Finance)
-- [macro] Alvopetro Energy reports higher Q2 revenue and cash flow as sales volumes increase (Yahoo Finance)
-- [macro] Owner of bike maker Raleigh files for insolvency (BBC News)
-- [macro] Etsy layoffs: CEO Kruti Patel Goyal cuts 12% of workforce, Q2 2026 (Yahoo Finance)
-- [macro] PrimoHoagies Names Glen Brandenburg COO (Yahoo Finance)
-- [macro] Prediction: DTE Energy Will End The Year At This Price (Yahoo Finance)
+- [macro] OpenAI moves to dismiss Apple trade secrets lawsuit (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises, Nasdaq Falls As AI Stocks Sandisk, Western Digital Plunge On Earnings (Live Coverage) (Yahoo Finance)
