@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-06T02:15:29.092646+00:00`
+- Generated: `2026-08-06T02:20:32.548403+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9230343.04`
-- Polymarket volume z-score: `-0.98`
+- Polymarket 24h volume: `9061892.73`
+- Polymarket volume z-score: `-1.0`
 
 ## Top Polymarket Markets
 
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `975921.5968749999` | liquidity: `317333.6919`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `16819.5064`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `698787.1975740001` | liquidity: `744637.6361`
-- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `597434.6546380001` | liquidity: `72847.4814`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `487524.9942809999` | liquidity: `729505.03807`
-- Will Elissa Slotkin win the 2028 Democratic presidential nomination? | 24h volume: `481684.6075` | liquidity: `895366.80471`
-- Will the U.S. invade Iran before 2027? | 24h volume: `389620.63754400006` | liquidity: `931820.6676`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `382497.14701400005` | liquidity: `86976.4625`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `984684.772838` | liquidity: `310597.3277`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `935631.45` | liquidity: `17830.51769`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `630266.2952269996` | liquidity: `746704.7955`
+- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `578848.2307929995` | liquidity: `76630.03781`
+- Will Elissa Slotkin win the 2028 Democratic presidential nomination? | 24h volume: `481684.6075` | liquidity: `888140.3243`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `449379.2636879989` | liquidity: `725175.63707`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `364196.5770139999` | liquidity: `87888.9928`
+- Will the U.S. invade Iran before 2027? | 24h volume: `352979.0742120001` | liquidity: `933879.9568`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
