@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-06T08:50:26.811172+00:00`
+- Generated: `2026-08-06T08:55:29.075921+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9504098.28`
-- Polymarket volume z-score: `-0.86`
+- Polymarket 24h volume: `9699632.38`
+- Polymarket volume z-score: `-0.82`
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1072176.9333330002` | liquidity: `19732.02383`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `799943.3878039999` | liquidity: `741812.9381`
-- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `544418.5799150002` | liquidity: `76382.25535`
-- Will Elissa Slotkin win the 2028 Democratic presidential nomination? | 24h volume: `481735.6395` | liquidity: `836463.18772`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `471849.01486899983` | liquidity: `319011.0197`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `415661.82730500033` | liquidity: `703304.18508`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `371472.55716699996` | liquidity: `438960.2111`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `346480.990092` | liquidity: `72098.0024`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1104336.101333` | liquidity: `20201.32319`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `822645.63486` | liquidity: `741344.8672`
+- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `553979.0460510002` | liquidity: `76730.64384`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `496968.3751279999` | liquidity: `312646.6139`
+- Will Elissa Slotkin win the 2028 Democratic presidential nomination? | 24h volume: `481735.6395` | liquidity: `837579.27663`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `416623.84109800024` | liquidity: `713052.48525`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `387931.25532600004` | liquidity: `393479.189`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `371868.07502300007` | liquidity: `439553.1464`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
