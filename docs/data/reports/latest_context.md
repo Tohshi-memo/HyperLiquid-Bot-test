@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T22:52:37.310110+00:00`
-- Market context score: `45.33`
-- News risk score: `43.26`
-- Macro risk score: `29.03`
-- Risk-on score: `26.02`
-- Articles: `52`
+- Generated: `2026-08-06T23:07:28.395679+00:00`
+- Market context score: `43.95`
+- News risk score: `44.67`
+- Macro risk score: `31.11`
+- Risk-on score: `24.91`
+- Articles: `51`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8265`
-- Day/swing latest: `2026-08-06T22:45:00+00:00`
+- Day/swing records: `8266`
+- Day/swing latest: `2026-08-06T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `1`
-- macro: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `0`
+- crypto: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `1`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `0`
 
 ## Headlines
 
+- [macro] Why airlines are warning over lithium-ion batteries (BBC News)
 - [macro] Houthi attacks reportedly kill at least 30 Yemeni government forces (BBC News)
 - [macro] India is a nation of walkers - but its cities forgot them (BBC News)
 - [crypto] Power struggle erupts at Ondo Finance after founder’s death (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Gas prices could remain high this fall even if crude prices stabilize. Here's why (Energy)
 - [macro] The July jobs numbers are due out Friday. Here's what to expect (Economy)
 - [macro] Does Africa still back Infantino as Fifa president? (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
