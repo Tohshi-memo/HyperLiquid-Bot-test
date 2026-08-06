@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T23:07:28.395679+00:00`
-- Market context score: `43.95`
-- News risk score: `44.67`
-- Macro risk score: `31.11`
-- Risk-on score: `24.91`
+- Generated: `2026-08-06T23:22:28.516771+00:00`
+- Market context score: `44.14`
+- News risk score: `45.04`
+- Macro risk score: `30.49`
+- Risk-on score: `25.43`
 - Articles: `51`
 - Polymarket markets: `389`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8266`
-- Day/swing latest: `2026-08-06T23:00:00+00:00`
+- Day/swing records: `8267`
+- Day/swing latest: `2026-08-06T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `1`
-- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `0`
+- crypto: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `0`
 
 ## Headlines
 
 - [macro] Why airlines are warning over lithium-ion batteries (BBC News)
+- [macro] Argos is getting a makeover - but can it attract new shoppers? (BBC News)
 - [macro] Houthi attacks reportedly kill at least 30 Yemeni government forces (BBC News)
 - [macro] India is a nation of walkers - but its cities forgot them (BBC News)
 - [crypto] Power struggle erupts at Ondo Finance after founder’s death (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Oil prices jump after Iran publishes restrictive draft plan for Strait of Hormuz (Energy)
 - [commodity] Gas prices could remain high this fall even if crude prices stabilize. Here's why (Energy)
 - [macro] The July jobs numbers are due out Friday. Here's what to expect (Economy)
-- [macro] Does Africa still back Infantino as Fifa president? (BBC News)
