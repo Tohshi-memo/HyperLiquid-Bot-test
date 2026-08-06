@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T02:22:31.433057+00:00`
-- Market context score: `44.29`
-- News risk score: `43.36`
-- Macro risk score: `32.44`
-- Risk-on score: `25.06`
-- Articles: `37`
+- Generated: `2026-08-06T02:37:24.867309+00:00`
+- Market context score: `41.91`
+- News risk score: `44.55`
+- Macro risk score: `34.85`
+- Risk-on score: `21.69`
+- Articles: `40`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8207`
-- Day/swing latest: `2026-08-06T02:15:00+00:00`
+- Day/swing records: `8208`
+- Day/swing latest: `2026-08-06T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `21`, risk hits `9`, risk headline rate `0.381`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Meta says AI model accessed the internet and hacked another firm (BBC News)
 - [macro] Meta says AI model accessed the internet and hacked another firm (BBC News)
 - [commodity] U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near (Energy)
 - [crypto] Block raises 2026 outlook on strong quarter, says AI touches nearly all code (Cointelegraph.com News)
@@ -36,6 +37,5 @@
 - [macro] Iran says deal with Oman on Strait of Hormuz is in final stages (BBC News)
 - [macro] Iran says deal with Oman on Strait of Hormuz is in final stages (BBC News)
 - [crypto] Bitcoin Red Team reports 5K findings in sweeping security audit (Cointelegraph.com News)
+- [macro] Banned from football at home, Afghan women's team reunite 8,000 miles away (BBC News)
 - [macro] What's causing record high US beef prices? (BBC News)
-- [macro] Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer? (BBC News)
-- [crypto] Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
