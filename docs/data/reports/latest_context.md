@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T12:37:31.311013+00:00`
-- Market context score: `48.8`
-- News risk score: `44.18`
-- Macro risk score: `25.51`
-- Risk-on score: `33.17`
-- Articles: `65`
+- Generated: `2026-08-06T12:52:27.749395+00:00`
+- Market context score: `51.12`
+- News risk score: `43.32`
+- Macro risk score: `23.1`
+- Risk-on score: `36.69`
+- Articles: `68`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:109, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8247`
-- Day/swing latest: `2026-08-06T12:30:00+00:00`
+- Day/swing records: `8248`
+- Day/swing latest: `2026-08-06T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `31`, risk hits `10`, risk headline rate `0.2903`, policy hits `3`
-- macro: articles `33`, risk hits `8`, risk headline rate `0.2121`, policy hits `1`
+- crypto: articles `32`, risk hits `10`, risk headline rate `0.2812`, policy hits `3`
+- macro: articles `35`, risk hits `7`, risk headline rate `0.1714`, policy hits `1`
 
 ## Headlines
 
+- [crypto] JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Shorts, strappy tops and sandals: What is acceptable to wear to work? (BBC News)
+- [macro] Mercury Systems’ (MRCY) Turnaround Gains Traction With Accelerated Growth (Yahoo Finance)
+- [macro] Digi International (DGII) Strengthens on Record Revenue (Yahoo Finance)
+- [macro] Mud Jeans files bankruptcy after failing to overcome debt burden (Yahoo Finance)
+- [macro] Alvopetro Energy reports higher Q2 revenue and cash flow as sales volumes increase (Yahoo Finance)
 - [macro] Owner of bike maker Raleigh files for insolvency (BBC News)
-- [macro] Man charged with killing Scottish aid worker in Greece (BBC News)
-- [macro] Diageo sets out $1bn savings plan (Yahoo Finance)
-- [commodity] U.S. ready to return to ‘commitments,’ Iran says as Strait of Hormuz deal looms (Energy)
-- [crypto] Zeus Wallet taken offline after cyberattack, says no customer funds at risk (Cointelegraph.com News)
-- [macro] Google’s AI Architect Just Quit, Sparking Fears It Could Fall Behind in the AI Race (Yahoo Finance)
-- [macro] Lessons from the Iran war: China’s oil buffer and energy resilience, tested (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rises, Nasdaq Falls As AI Stocks Sandisk, Western Digital Plunge On Earnings (Live Coverage) (Yahoo Finance)
-- [macro] Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers (Yahoo Finance)
-- [macro] Warner Bros. Discovery Q2 2026 earnings: streaming revenue up 10% (Yahoo Finance)
+- [macro] Etsy layoffs: CEO Kruti Patel Goyal cuts 12% of workforce, Q2 2026 (Yahoo Finance)
+- [macro] PrimoHoagies Names Glen Brandenburg COO (Yahoo Finance)
+- [macro] Prediction: DTE Energy Will End The Year At This Price (Yahoo Finance)
