@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T10:16:21.598968+00:00`
+- Generated: `2026-08-06T10:22:30.599226+00:00`
 - Market context score: `56.82`
 - News risk score: `34.43`
 - Macro risk score: `25.61`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] U.S. ready to return to ‘commitments,’ Iran says as Strait of Hormuz deal looms (Energy)
 - [macro] Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape (BBC News)
 - [macro] 'I've had to Botox my CV': Are AI recruitment tools affecting women's careers? (BBC News)
 - [macro] Cashing in on SpaceX: 'Every chance I get, I'll sell a little more' (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Afghan boxer accused of killing Scottish aid worker back in court (BBC News)
 - [macro] Thousands of young people missing out on money they don't know about (BBC News)
 - [macro] Iranian footballers who defied Tehran become Australian citizens (BBC News)
-- [crypto] Yen stablecoin issuer JPYC’s Series B reaches $38M (Cointelegraph.com News)
