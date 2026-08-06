@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-06T10:37:33.170017+00:00`
-- Market context score: `56.82`
-- News risk score: `34.43`
-- Macro risk score: `25.61`
-- Risk-on score: `42.8`
-- Articles: `44`
+- Generated: `2026-08-06T10:52:27.609500+00:00`
+- Market context score: `54.53`
+- News risk score: `36.13`
+- Macro risk score: `25.59`
+- Risk-on score: `39.13`
+- Articles: `46`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -14,20 +14,22 @@
 - Asset universe count: `1191`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:108, fx:6, index:25, metal:20, unknown:782`
+- Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:109, fx:6, index:25, metal:20, unknown:781`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8239`
-- Day/swing latest: `2026-08-06T10:30:00+00:00`
+- Day/swing records: `8240`
+- Day/swing latest: `2026-08-06T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `2`
+- crypto: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `2`
 - macro: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin, ether benefit as traders seek safety of largest tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Situational Awareness returns with $400M investment after nearly collapsing: Report (Cointelegraph.com News)
 - [macro] Afghan boxer accused of killing Scottish aid worker back in court (BBC News)
 - [commodity] U.S. ready to return to ‘commitments,’ Iran says as Strait of Hormuz deal looms (Energy)
 - [macro] Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Russian president signs crypto law, core rules take effect in 2026 (Cointelegraph.com News)
 - [crypto] RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares (Cointelegraph.com News)
 - [crypto] NFT startup founder charged with misusing funds from $10 million fundraising (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Thousands of young people missing out on money they don't know about (BBC News)
-- [macro] Iranian footballers who defied Tehran become Australian citizens (BBC News)
