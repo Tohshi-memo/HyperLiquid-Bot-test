@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-07T21:20:30.990602+00:00`
+- Generated: `2026-08-07T21:25:31.898628+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9934972.19`
-- Polymarket volume z-score: `-0.8`
+- Polymarket 24h volume: `9897679.87`
+- Polymarket volume z-score: `-0.81`
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1250141.442742` | liquidity: `22654.70519`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `776987.7389209999` | liquidity: `745618.53447`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `539139.1408490002` | liquidity: `361463.0698`
-- Fed rate hike in 2026? | 24h volume: `515196.6969040004` | liquidity: `292086.3374`
-- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `503352.6550259996` | liquidity: `55179.59521`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `429090.89396299963` | liquidity: `339134.1727`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `370572.7405340001` | liquidity: `351646.16291`
-- Will the U.S. invade Iran before 2027? | 24h volume: `361437.43645500025` | liquidity: `875669.8243`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1250141.442742` | liquidity: `23077.86289`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `776987.7389209999` | liquidity: `744156.85947`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `539130.2208490002` | liquidity: `361453.0166`
+- Fed rate hike in 2026? | 24h volume: `515196.6969040004` | liquidity: `291538.2163`
+- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `496426.7761319995` | liquidity: `50940.35333`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `429064.36335399956` | liquidity: `341170.7377`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `368754.55871600006` | liquidity: `352049.86113`
+- Will the U.S. invade Iran before 2027? | 24h volume: `360881.8809010003` | liquidity: `881155.0992`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
