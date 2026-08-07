@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-07T11:15:31.912146+00:00`
+- Generated: `2026-08-07T11:20:26.033412+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9983270.67`
-- Polymarket volume z-score: `-0.74`
+- Polymarket 24h volume: `10021586.38`
+- Polymarket volume z-score: `-0.72`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `1018066.989130999` | liquidity: `800833.8664`
-- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `590711.8996010001` | liquidity: `62571.78894`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `549132.087638` | liquidity: `751861.9534`
-- Will the U.S. invade Iran before 2027? | 24h volume: `490323.6477980001` | liquidity: `895871.0314`
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `460680.89274200005` | liquidity: `18132.11808`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `459397.2159239999` | liquidity: `82810.4469`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `450450.4662880002` | liquidity: `668965.70267`
-- Will the Iranian regime fall before 2027? | 24h volume: `313894.19185099995` | liquidity: `910464.3031`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `1001553.2072039988` | liquidity: `805813.9834`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `642432.892742` | liquidity: `17709.75607`
+- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `587733.2540530001` | liquidity: `64664.83477`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `548418.964085` | liquidity: `738004.75312`
+- Will the U.S. invade Iran before 2027? | 24h volume: `490323.64779799996` | liquidity: `992024.236`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `459448.899364` | liquidity: `84568.7347`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `449519.9082620002` | liquidity: `664643.47333`
+- Will the Iranian regime fall before 2027? | 24h volume: `313894.191851` | liquidity: `911012.1231`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
