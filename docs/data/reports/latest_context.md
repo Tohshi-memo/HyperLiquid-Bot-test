@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T13:07:32.947617+00:00`
+- Generated: `2026-08-07T13:22:56.947658+00:00`
 - Market context score: `58.28`
 - News risk score: `34.35`
 - Macro risk score: `22.93`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8321`
-- Day/swing latest: `2026-08-07T13:00:00+00:00`
+- Day/swing records: `8322`
+- Day/swing latest: `2026-08-07T13:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Saudi Arabia, Turkey and Pakistan sign defence pact (BBC News)
+- [macro] Surprise fall in US jobs last month as slow summer continues (BBC News)
 - [crypto] Bitcoiners turn to dice throws as self-custody setups are re-evaluated (Cointelegraph.com News)
 - [macro] U.S. economy unexpectedly lost 23,000 jobs in July (Economy)
 - [commodity] Oil prices little changed as market waits on deal to open Strait of Hormuz (Energy)
@@ -36,5 +38,3 @@
 - [crypto] Russia cracks down on 9 crypto exchanges in Moscow City (Cointelegraph.com News)
 - [crypto] CEX perpetual futures volume falls to $4T, lowest since late 2023 (Cointelegraph.com News)
 - [commodity] Solar stocks shine after Trump extends China tariffs to polysilicon products (Energy)
-- [macro] Saudi Arabia, Turkey and Pakistan sign defence pact (BBC News)
-- [crypto] After a Clarity Act funeral, the crypto world would keep turning (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
