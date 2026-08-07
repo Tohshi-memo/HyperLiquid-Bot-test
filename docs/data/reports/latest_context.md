@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T09:07:29.609546+00:00`
-- Market context score: `47.54`
+- Generated: `2026-08-07T09:22:25.518558+00:00`
+- Market context score: `50.24`
 - News risk score: `38.58`
 - Macro risk score: `27.65`
-- Risk-on score: `26.45`
+- Risk-on score: `32.45`
 - Articles: `41`
 - Polymarket markets: `388`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8306`
-- Day/swing latest: `2026-08-07T09:00:00+00:00`
+- Day/swing records: `8307`
+- Day/swing latest: `2026-08-07T09:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
+- [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
+- [crypto] Stripe-owned Bridge joins EU MiCA register after Luxembourg approval (Cointelegraph.com News)
 - [crypto] CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO (Cointelegraph.com News)
 - [macro] German airport drone-bomb: Could Russia be involved? (BBC News)
 - [crypto] Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] A new youth agitation grips an Indian state after 'cockroach' protests (BBC News)
-- [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
-- [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
 - [crypto] Ethereum staking token weETH splits from restaking as rewards debate heats up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Coldcard exploit pushes July losses to $247M as second-worst month of 2026 (Cointelegraph.com News)
 - [crypto] Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Moment earthquake shakes hospital operating room in Japan (BBC News)
