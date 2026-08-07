@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T03:22:42.451538+00:00`
-- Market context score: `46.71`
-- News risk score: `39.95`
-- Macro risk score: `32.62`
-- Risk-on score: `27.63`
-- Articles: `45`
+- Generated: `2026-08-07T03:37:19.008955+00:00`
+- Market context score: `46.0`
+- News risk score: `40.23`
+- Macro risk score: `33.18`
+- Risk-on score: `26.51`
+- Articles: `48`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8283`
-- Day/swing latest: `2026-08-07T03:15:00+00:00`
+- Day/swing records: `8284`
+- Day/swing latest: `2026-08-07T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
-- macro: articles `26`, risk hits `9`, risk headline rate `0.3462`, policy hits `0`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `0`
+- macro: articles `28`, risk hits `10`, risk headline rate `0.3571`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitget explores licensed crypto presence in Bhutan (Cointelegraph.com News)
 - [crypto] US Senate pushes CLARITY Act vote to September: Report (Cointelegraph.com News)
 - [commodity] Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz (Energy)
 - [crypto] MARA swings to Q2 loss as Bitcoin’s slump masks higher output (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Uefa says boycott may still go ahead as FA withdraws Infantino support (BBC News)
 - [macro] Trump imposes 15% tariff on key chip material to counter China (BBC News)
 - [macro] Trump imposes 15% tariff on key chip material to counter China (BBC News)
-- [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
