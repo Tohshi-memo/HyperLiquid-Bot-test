@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T20:03:22.695293+00:00`
+- Generated: `2026-08-07T20:07:26.938774+00:00`
 - Market context score: `53.19`
 - News risk score: `39.25`
 - Macro risk score: `24.48`
@@ -33,8 +33,8 @@
 - [commodity] Oil prices rise as as market waits on deal to open Strait of Hormuz (Energy)
 - [crypto] U.S. widens Iran crypto crackdown with sanctions on two exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Analyst Report: Jacobs Solutions Inc (Yahoo Finance)
 - [macro] Analyst Report: Shell Plc (Yahoo Finance)
 - [macro] Market Update: AMT, J, MSI, SHEL, SYK, FBIN (Yahoo Finance)
-- [macro] Analyst Report: Jacobs Solutions Inc (Yahoo Finance)
 - [macro] Here are three key takeaways from the disappointing July jobs report (Economy)
 - [commodity] Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening (Energy)
