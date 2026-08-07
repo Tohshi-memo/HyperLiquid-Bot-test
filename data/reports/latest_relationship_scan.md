@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-08-07T20:52:29.435964+00:00`
+- Generated: `2026-08-07T20:54:56.739268+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -35,7 +35,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->fx_1h` score `-0.2548` n `109` status `ready` deltaP `4.7272` edge `-0.0032` maxDD `-0.9639`
 - `market_context_high->fx_4h` score `-0.4662` n `108` status `ready` deltaP `5.1717` edge `0.002` maxDD `-1.6928`
 - `market_context_high->index_1h` score `-0.5855` n `109` status `ready` deltaP `-1.5794` edge `-0.0035` maxDD `-0.7809`
-- `market_context_high->index_4h` score `-0.6313` n `108` status `ready` deltaP `1.7559` edge `-0.0038` maxDD `-1.1743`
+- `market_context_high->index_4h` score `-0.6325` n `108` status `ready` deltaP `1.7559` edge `-0.0039` maxDD `-1.1743`
 - `market_context_high->metal_4h` score `-0.7902` n `108` status `ready` deltaP `1.0614` edge `-0.0075` maxDD `-2.7373`
 - `market_context_high->metal_1h` score `-1.0195` n `109` status `ready` deltaP `-4.3317` edge `-0.0065` maxDD `-0.9664`
 - `market_context_high->equity_4h` score `-1.0577` n `108` status `ready` deltaP `7.4977` edge `-0.0044` maxDD `-7.6983`
@@ -44,7 +44,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->crypto_major_24h` score `-2.2056` n `87` status `ready` deltaP `6.8489` edge `-0.079` maxDD `-14.2873`
 - `market_context_high->crypto_alt_24h` score `-3.3224` n `87` status `ready` deltaP `-19.2067` edge `-0.1536` maxDD `-4.5445`
 - `market_context_high->crypto_alt_4h` score `-3.3682` n `108` status `ready` deltaP `-5.0644` edge `-0.0821` maxDD `-6.5193`
-- `market_context_high->crypto_major_4h` score `-7.2292` n `108` status `ready` deltaP `-9.5867` edge `-0.1891` maxDD `-18.954`
+- `market_context_high->crypto_major_4h` score `-7.2304` n `108` status `ready` deltaP `-9.5867` edge `-0.1892` maxDD `-18.954`
 
 ## Guardrails
 
