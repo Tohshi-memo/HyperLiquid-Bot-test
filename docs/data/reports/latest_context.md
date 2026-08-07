@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T19:22:28.079795+00:00`
-- Market context score: `50.68`
-- News risk score: `42.07`
-- Macro risk score: `24.88`
+- Generated: `2026-08-07T19:37:34.366402+00:00`
+- Market context score: `50.86`
+- News risk score: `41.8`
+- Macro risk score: `24.43`
 - Risk-on score: `35.34`
 - Articles: `56`
-- Polymarket markets: `389`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8346`
-- Day/swing latest: `2026-08-07T19:15:00+00:00`
+- Day/swing records: `8347`
+- Day/swing latest: `2026-08-07T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `30`, risk hits `12`, risk headline rate `0.3`, policy hits `4`
-- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `2`
+- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
 
 ## Headlines
 
@@ -35,6 +35,6 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Analyst Report: Shell Plc (Yahoo Finance)
 - [macro] Market Update: AMT, J, MSI, SHEL, SYK, FBIN (Yahoo Finance)
+- [macro] Analyst Report: Jacobs Solutions Inc (Yahoo Finance)
 - [macro] Here are three key takeaways from the disappointing July jobs report (Economy)
 - [commodity] Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening (Energy)
-- [macro] Saudi Arabia, Turkey and Pakistan sign defence pact (BBC News)
