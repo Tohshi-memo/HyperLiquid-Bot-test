@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T17:12:53.587338+00:00`
-- Market context score: `54.84`
+- Generated: `2026-08-07T17:22:29.452275+00:00`
+- Market context score: `55.13`
 - News risk score: `44.03`
 - Macro risk score: `23.82`
-- Risk-on score: `45.84`
+- Risk-on score: `46.47`
 - Articles: `81`
 - Polymarket markets: `389`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8337`
-- Day/swing latest: `2026-08-07T17:00:00+00:00`
+- Day/swing records: `8338`
+- Day/swing latest: `2026-08-07T17:15:00+00:00`
 
 ## News Categories
 
@@ -30,11 +30,11 @@
 
 - [macro] Stock Market Today: Nasdaq Pops As July Jobs Miss Dampens Rates View; Gold Stocks Shine (Live Coverage) (Yahoo Finance)
 - [crypto] Reform UK chair calls for probe into SBF-linked donation: Report (Cointelegraph.com News)
+- [macro] MercadoLibre Quarterly Revenue Just Topped $10 Billion for the First Time. Is the Post-Earnings Sell-Off a Gift for Long-Term Investors? (Yahoo Finance)
+- [macro] Alphabet’s Cloud vs Meta’s Superintelligence: Who Wins Q2? (Yahoo Finance)
+- [macro] Early surge in US container imports coming to an end, shippers say (Yahoo Finance)
+- [macro] SK Hynix Slides and the ProShares Ultra SK Hynix ETF (SKHU) Tumbles With It (Yahoo Finance)
 - [macro] Call options explained: From opening trade to expiration (Yahoo Finance)
 - [macro] Global Partners LP Q2 2026 Earnings Call Summary (Yahoo Finance)
 - [crypto] BitMEX sale collapsed as buyers balked at founder ownership and shrinking business (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] DUST Drops 13% as Gold Miners Rally Hard (Yahoo Finance)
-- [macro] Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead (Yahoo Finance)
-- [macro] SpaceX Signed $14.1 Billion of Cloud Contracts in a Single Quarter. Its AI Segment Revenue Hit $2.56 Billion. (Yahoo Finance)
-- [macro] Constellation Signed 920 Megawatts of New Power Deals, Including a Walmart PPA. Here's What It Means for CEG Stock. (Yahoo Finance)
-- [macro] Why JFrog Stock Jumped Today (Yahoo Finance)
