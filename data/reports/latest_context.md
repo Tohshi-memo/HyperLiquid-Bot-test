@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T15:06:14.673781+00:00`
-- Market context score: `59.34`
-- News risk score: `38.19`
-- Macro risk score: `23.74`
-- Risk-on score: `50.86`
-- Articles: `65`
+- Generated: `2026-08-07T15:22:34.281059+00:00`
+- Market context score: `58.44`
+- News risk score: `41.18`
+- Macro risk score: `20.49`
+- Risk-on score: `50.15`
+- Articles: `75`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8329`
-- Day/swing latest: `2026-08-07T15:00:00+00:00`
+- Day/swing records: `8330`
+- Day/swing latest: `2026-08-07T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `28`, risk hits `6`, risk headline rate `0.1786`, policy hits `2`
-- macro: articles `33`, risk hits `4`, risk headline rate `0.1212`, policy hits `0`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `2`
+- macro: articles `42`, risk hits `3`, risk headline rate `0.0714`, policy hits `1`
 
 ## Headlines
 
-- [macro] Pregis acquires MP Global Packaging (Yahoo Finance)
+- [commodity] Oil prices rise as as market waits on deal to open Strait of Hormuz (Energy)
 - [macro] Seven killed after teen shooter opens fire at home and school in Thailand (BBC News)
-- [macro] SpaceX's influence ripples across markets: AlphaCheck (Yahoo Finance)
-- [macro] Saudi Arabia, Turkey and Pakistan sign defence pact (BBC News)
-- [macro] What Prediction Markets Say About 3 Struggling Brands Fighting to Survive (Yahoo Finance)
-- [macro] Under Armour slashes revenue outlook as fiscal first quarter sales decline (Yahoo Finance)
-- [macro] 1 Quantum Computing Stock Poised to Drop After Aug. 10 (Yahoo Finance)
-- [macro] Maine Does Not Tax Social Security. The Check Can Still Make More of a Retiree’s Pension Taxable. (Yahoo Finance)
-- [macro] Historically, Berkshire Hathaway Has Only Bought Back Stock Below Its Intrinsic Value. Here's How Investors Can Apply Warren Buffett's Discipline to Their Own Portfolios. (Yahoo Finance)
-- [macro] Why Antipodes Trimmed Workday (WDAY) Despite Strong Cash Flow (Yahoo Finance)
+- [crypto] How a five-second trick let traders drain millions from Polymarket (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto Biz: Crypto’s biggest business is starting to look a lot like banking (Cointelegraph.com News)
+- [macro] Can't Classify It? Maybe It's a Rule Breaker Stock (Yahoo Finance)
+- [macro] NY Fed finds little change in inflation expectations in July (Yahoo Finance)
+- [macro] MCD Stock Forecast: Here’s Where It’ll End The Year (Yahoo Finance)
+- [macro] Fifty 1 Labs Outlines Planned U.S. Telehealth Peptide Services Platform (Yahoo Finance)
+- [macro] Why Twilio Stock Rocketed Higher Today (Yahoo Finance)
+- [macro] Suntex Enterprises Signs Construction Management Agreement for Airtopia Development Pipeline (Yahoo Finance)
