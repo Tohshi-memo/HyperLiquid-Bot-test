@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T21:51:52.324087+00:00`
+- Generated: `2026-08-07T22:07:31.315860+00:00`
 - Market context score: `49.13`
 - News risk score: `42.89`
 - Macro risk score: `27.22`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8356`
-- Day/swing latest: `2026-08-07T21:45:00+00:00`
+- Day/swing records: `8357`
+- Day/swing latest: `2026-08-07T22:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] Donald Trump’s media company to terminate Crypto.com deal (Cointelegraph.com News)
 - [macro] Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy (BBC News)
+- [crypto] Donald Trump’s media company to terminate Crypto.com deal (Cointelegraph.com News)
 - [macro] Thai PM vows to introduce stricter gun laws after eight killed in shooting (BBC News)
 - [crypto] Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What is birthright citizenship and how common is birth tourism in the US? (BBC News)
