@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T23:22:37.957605+00:00`
-- Market context score: `46.79`
-- News risk score: `43.59`
-- Macro risk score: `27.29`
-- Risk-on score: `28.89`
-- Articles: `51`
+- Generated: `2026-08-07T23:37:28.959496+00:00`
+- Market context score: `47.79`
+- News risk score: `42.47`
+- Macro risk score: `25.54`
+- Risk-on score: `29.49`
+- Articles: `50`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,12 +17,12 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:783`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8362`
-- Day/swing latest: `2026-08-07T23:15:00+00:00`
+- Day/swing records: `8363`
+- Day/swing latest: `2026-08-07T23:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `24`, risk hits `11`, risk headline rate `0.3333`, policy hits `6`
 - macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `0`
 
@@ -30,6 +30,7 @@
 
 - [macro] Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies (BBC News)
 - [macro] Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy (BBC News)
+- [macro] Ondo Perps hits $7 billion in volume weeks after launch (Yahoo Finance)
 - [crypto] Donald Trump’s media company to terminate Crypto.com deal (Cointelegraph.com News)
 - [macro] Thai PM vows to introduce stricter gun laws after eight killed in shooting (BBC News)
 - [crypto] Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Sophia Laforteza steps away from Katseye, the second member to depart this year (BBC News)
 - [macro] Kidnapped rare Serbian eagle freed into wild after rescue (BBC News)
 - [crypto] Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges (Cointelegraph.com News)
