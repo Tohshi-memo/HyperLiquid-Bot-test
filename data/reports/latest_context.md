@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T14:07:36.209391+00:00`
-- Market context score: `58.43`
-- News risk score: `34.24`
-- Macro risk score: `23.39`
-- Risk-on score: `45.36`
-- Articles: `52`
+- Generated: `2026-08-07T14:22:28.638668+00:00`
+- Market context score: `60.13`
+- News risk score: `38.11`
+- Macro risk score: `21.51`
+- Risk-on score: `51.72`
+- Articles: `69`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8325`
-- Day/swing latest: `2026-08-07T14:00:00+00:00`
+- Day/swing records: `8326`
+- Day/swing latest: `2026-08-07T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `30`, risk hits `6`, risk headline rate `0.1667`, policy hits `2`
-- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
+- crypto: articles `28`, risk hits `6`, risk headline rate `0.1786`, policy hits `2`
+- macro: articles `37`, risk hits `4`, risk headline rate `0.0811`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices little changed as market waits on deal to open Strait of Hormuz (Energy)
+- [macro] Tether Expands Tokenization To Saudi Arabia (Yahoo Finance)
+- [macro] Applied Optoelectronics Zooms 13% Higher on Pivotal Quarterly Print; Coherent Advances 13%, Lumentum Adds 8% (Yahoo Finance)
+- [macro] Palomar Holdings’ (PLMR) Premium Growth Overshadowed by Sector Caution (Yahoo Finance)
+- [macro] IBD 50 Stock Natera Zips Into Profit-Taking Zone On Its Blowout Quarter (Yahoo Finance)
+- [macro] While everyone chases Nvidia, Caterpillar just showed where AI money goes next (Yahoo Finance)
 - [commodity] Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill (Energy)
-- [crypto] Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Surprise fall in US jobs last month as slow summer continues (BBC News)
-- [commodity] Solar stocks shine after Trump extends China tariffs to polysilicon products (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] U.S. economy unexpectedly lost 23,000 jobs in July (Economy)
-- [macro] Trump administration to pay German firm $1.2bn to halt US wind projects (BBC News)
-- [macro] Trump administration to pay German firm $1.2bn to halt US wind projects (BBC News)
-- [crypto] Fierce backlash to Ethereum’s EIP-8363 staking proposal (Cointelegraph.com News)
-- [macro] Saudi Arabia, Turkey and Pakistan sign defence pact (BBC News)
+- [macro] U.S. Physical Therapy (USPH): Return Expectations Tempered Despite Solid Execution (Yahoo Finance)
+- [macro] Clive Owen bolsters consulting services with new hire (Yahoo Finance)
+- [macro] The Aug. 12 Inflation Report Could Decide Whether Kevin Warsh Raises Rates in September (Yahoo Finance)
