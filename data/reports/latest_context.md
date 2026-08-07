@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T09:22:25.518558+00:00`
-- Market context score: `50.24`
-- News risk score: `38.58`
+- Generated: `2026-08-07T09:27:39.169489+00:00`
+- Market context score: `50.59`
+- News risk score: `38.17`
 - Macro risk score: `27.65`
-- Risk-on score: `32.45`
-- Articles: `41`
+- Risk-on score: `32.89`
+- Articles: `42`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `0`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `0`
 - macro: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
 - [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
 - [crypto] Stripe-owned Bridge joins EU MiCA register after Luxembourg approval (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] A new youth agitation grips an Indian state after 'cockroach' protests (BBC News)
 - [crypto] Ethereum staking token weETH splits from restaking as rewards debate heats up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Coldcard exploit pushes July losses to $247M as second-worst month of 2026 (Cointelegraph.com News)
-- [crypto] Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
