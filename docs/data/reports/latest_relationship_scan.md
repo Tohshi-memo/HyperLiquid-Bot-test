@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-08-07T23:15:19.773200+00:00`
+- Generated: `2026-08-07T23:22:37.957605+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -40,11 +40,11 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->metal_4h` score `-0.8992` n `103` status `ready` deltaP `-0.629` edge `-0.0102` maxDD `-2.7373`
 - `market_context_high->equity_4h` score `-1.4327` n `103` status `ready` deltaP `5.18` edge `-0.0202` maxDD `-7.6983`
 - `market_context_high->crypto_alt_1h` score `-1.5767` n `103` status `ready` deltaP `-7.4356` edge `-0.0189` maxDD `-2.3669`
-- `market_context_high->crypto_major_24h` score `-1.7624` n `81` status `ready` deltaP `11.3812` edge `-0.0524` maxDD `-14.2873`
-- `market_context_high->crypto_major_1h` score `-2.091` n `103` status `ready` deltaP `-4.8907` edge `-0.042` maxDD `-4.6382`
-- `market_context_high->crypto_alt_24h` score `-3.5286` n `81` status `ready` deltaP `-21.4313` edge `-0.1652` maxDD `-4.5445`
-- `market_context_high->crypto_alt_4h` score `-3.6877` n `103` status `ready` deltaP `-7.6827` edge `-0.0909` maxDD `-6.5487`
-- `market_context_high->crypto_major_4h` score `-7.0763` n `103` status `ready` deltaP `-8.9184` edge `-0.1911` maxDD `-18.1307`
+- `market_context_high->crypto_major_24h` score `-1.7616` n `81` status `ready` deltaP `11.3812` edge `-0.0523` maxDD `-14.2873`
+- `market_context_high->crypto_major_1h` score `-2.0778` n `103` status `ready` deltaP `-4.741` edge `-0.0419` maxDD `-4.6382`
+- `market_context_high->crypto_alt_24h` score `-3.5278` n `81` status `ready` deltaP `-21.4313` edge `-0.1651` maxDD `-4.5445`
+- `market_context_high->crypto_alt_4h` score `-3.6865` n `103` status `ready` deltaP `-7.6827` edge `-0.0908` maxDD `-6.5487`
+- `market_context_high->crypto_major_4h` score `-7.0751` n `103` status `ready` deltaP `-8.9184` edge `-0.191` maxDD `-18.1307`
 
 ## Guardrails
 
