@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T20:07:26.938774+00:00`
-- Market context score: `53.19`
-- News risk score: `39.25`
-- Macro risk score: `24.48`
-- Risk-on score: `38.38`
-- Articles: `53`
-- Polymarket markets: `388`
+- Generated: `2026-08-07T20:22:36.036349+00:00`
+- Market context score: `52.24`
+- News risk score: `40.98`
+- Macro risk score: `24.47`
+- Risk-on score: `37.72`
+- Articles: `55`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8349`
-- Day/swing latest: `2026-08-07T20:00:00+00:00`
+- Day/swing records: `8350`
+- Day/swing latest: `2026-08-07T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `4`
-- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
+- crypto: articles `28`, risk hits `11`, risk headline rate `0.2857`, policy hits `5`
+- macro: articles `21`, risk hits `1`, risk headline rate `0.0476`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: BBC questions Infantino over backing as Fifa president (BBC News)
+- [crypto] US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges (Cointelegraph.com News)
 - [macro] Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies (BBC News)
 - [macro] U.S. economy unexpectedly lost 23,000 jobs in July (Economy)
 - [commodity] Oil prices rise as as market waits on deal to open Strait of Hormuz (Energy)
@@ -36,5 +38,3 @@
 - [macro] Analyst Report: Jacobs Solutions Inc (Yahoo Finance)
 - [macro] Analyst Report: Shell Plc (Yahoo Finance)
 - [macro] Market Update: AMT, J, MSI, SHEL, SYK, FBIN (Yahoo Finance)
-- [macro] Here are three key takeaways from the disappointing July jobs report (Economy)
-- [commodity] Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening (Energy)
