@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T17:37:24.982169+00:00`
-- Market context score: `51.13`
-- News risk score: `46.53`
-- Macro risk score: `27.98`
-- Risk-on score: `41.27`
-- Articles: `78`
+- Generated: `2026-08-07T17:52:30.177161+00:00`
+- Market context score: `51.45`
+- News risk score: `46.22`
+- Macro risk score: `27.36`
+- Risk-on score: `41.49`
+- Articles: `76`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8339`
-- Day/swing latest: `2026-08-07T17:30:00+00:00`
+- Day/swing records: `8340`
+- Day/swing latest: `2026-08-07T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `29`, risk hits `11`, risk headline rate `0.2759`, policy hits `4`
-- macro: articles `43`, risk hits `9`, risk headline rate `0.186`, policy hits `3`
+- macro: articles `41`, risk hits `7`, risk headline rate `0.1707`, policy hits `3`
 
 ## Headlines
 
-- [macro] CoreWeave's CEO Sells Company Stock Worth $28.2 Million. Here's What That Means for Investors. (Yahoo Finance)
-- [macro] Oklo's Groves Reactor Just Achieved First Criticality. Here's What It Means for OKLO Stock. (Yahoo Finance)
-- [macro] BorgWarner secures new VCT engine contracts in Europe and China (Yahoo Finance)
+- [commodity] Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening (Energy)
+- [macro] Saudi Arabia, Turkey and Pakistan sign defence pact (BBC News)
+- [crypto] Circle expands USDC to OKX ecosystem with X Layer launch (Cointelegraph.com News)
+- [macro] Russ Savage calls for Celsius Holdings CEO John Fieldly to be fired (Yahoo Finance)
+- [macro] Spotify and Pinterest Delivered the Growth. Investors Wanted More (Yahoo Finance)
+- [macro] This AI Stock Offers Diversified Way To Play The Space, Eyes Entry As Profits Jump 80% (Yahoo Finance)
+- [macro] Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100? (Yahoo Finance)
+- [macro] Citi raises Q3 2026 Brent crude oil forecast to $80 a barrel (Yahoo Finance)
+- [macro] This Power Stock Could Be a Big Winner From the Data Center Boom (Yahoo Finance)
 - [macro] Jim Cramer Says US Markets Will Regret Letting SK hynix Inc. (NASDAQ:SKHY) In (Yahoo Finance)
-- [macro] Sen. Martin Heinrich bill to end oil company overseas tax breaks (Yahoo Finance)
-- [macro] Jim Cramer Continues To Believe In Banco Santander, S.A. (NYSE:SAN) & European Banks (Yahoo Finance)
-- [macro] AdvanSix Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
-- [macro] The U.S. Economy Just Experienced Its 5th Largest Month of Job Losses Since 2020. Here's Why It's Both Good and Bad News (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Pops As July Jobs Miss Dampens Rates View; Gold Stocks Shine (Live Coverage) (Yahoo Finance)
-- [crypto] Reform UK chair calls for probe into SBF-linked donation: Report (Cointelegraph.com News)
