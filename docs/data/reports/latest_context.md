@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T10:30:20.116470+00:00`
-- Market context score: `53.49`
-- News risk score: `37.22`
-- Macro risk score: `25.64`
-- Risk-on score: `37.76`
-- Articles: `42`
+- Generated: `2026-08-07T10:37:26.035486+00:00`
+- Market context score: `52.47`
+- News risk score: `38.17`
+- Macro risk score: `28.23`
+- Risk-on score: `37.28`
+- Articles: `43`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -22,12 +22,14 @@
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `0`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin hovers below $68,000 as Middle East tensions escalate further (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Solar stocks shine after Trump extends China tariffs to polysilicon products (Energy)
 - [macro] Best CD rates today, Friday, August 7, 2026: Up to 4.15% APY return available to boost savings (Yahoo Finance)
 - [macro] US strikes $1.2bn deal to pay German firm to halt offshore wind projects (BBC News)
 - [crypto] CleanSpark misses Wall Street revenue estimates as shares sink (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
 - [crypto] Stripe-owned Bridge joins EU MiCA register after Luxembourg approval (Cointelegraph.com News)
 - [crypto] CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO (Cointelegraph.com News)
-- [macro] German airport drone-bomb: Could Russia be involved? (BBC News)
-- [crypto] Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
