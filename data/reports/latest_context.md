@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T08:37:49.372364+00:00`
-- Market context score: `39.09`
-- News risk score: `41.88`
-- Macro risk score: `37.26`
-- Risk-on score: `14.08`
-- Articles: `35`
+- Generated: `2026-08-07T08:52:25.198165+00:00`
+- Market context score: `42.52`
+- News risk score: `43.59`
+- Macro risk score: `36.71`
+- Risk-on score: `22.94`
+- Articles: `34`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8304`
-- Day/swing latest: `2026-08-07T08:30:00+00:00`
+- Day/swing records: `8305`
+- Day/swing latest: `2026-08-07T08:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `0`
 - macro: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
 - [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
 - [crypto] Ethereum staking token weETH splits from restaking as rewards debate heats up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Australian aviation crew carries out daring midwinter Antarctica rescue (BBC News)
 - [commodity] Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz (Energy)
 - [crypto] Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams (Cointelegraph.com News)
-- [crypto] Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg (Cointelegraph.com News)
