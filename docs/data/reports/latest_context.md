@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-07T02:52:34.023350+00:00`
+- Generated: `2026-08-07T03:07:26.250433+00:00`
 - Market context score: `46.71`
 - News risk score: `39.95`
 - Macro risk score: `32.62`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:782`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8281`
-- Day/swing latest: `2026-08-07T02:45:00+00:00`
+- Day/swing records: `8282`
+- Day/swing latest: `2026-08-07T03:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] US Senate pushes CLARITY Act vote to September: Report (Cointelegraph.com News)
 - [commodity] Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz (Energy)
 - [crypto] MARA swings to Q2 loss as Bitcoin’s slump masks higher output (Cointelegraph.com News)
 - [crypto] Senate won't vote on crypto Clarity Act before its summer break (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +37,4 @@
 - [macro] Uefa says boycott may still go ahead as FA withdraws Infantino support (BBC News)
 - [macro] Trump imposes 15% tariff on key chip material to counter China (BBC News)
 - [macro] Trump imposes 15% tariff on key chip material to counter China (BBC News)
-- [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
 - [macro] Meta fined $567m in largest child safety ruling against social media giant (BBC News)
