@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-07T17:35:35.080035+00:00`
+- Generated: `2026-08-07T17:40:36.024335+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10818789.86`
-- Polymarket volume z-score: `-0.43`
+- Polymarket 24h volume: `10830337.8`
+- Polymarket volume z-score: `-0.42`
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1250291.442742` | liquidity: `22870.62819`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `854806.0224830001` | liquidity: `782761.59644`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `708072.7931669997` | liquidity: `807648.0606`
-- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `536278.9128220002` | liquidity: `57804.17119`
-- Fed rate hike in 2026? | 24h volume: `509002.22652400035` | liquidity: `175582.717`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `487890.9215020002` | liquidity: `371909.8455`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `426856.97728600027` | liquidity: `652413.37138`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `419722.7377159997` | liquidity: `418173.31`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `1250291.442742` | liquidity: `21875.6725`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `855477.864588` | liquidity: `764523.32216`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `680343.5117439998` | liquidity: `688518.254`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `529071.4926119999` | liquidity: `356249.8141`
+- Fed rate hike in 2026? | 24h volume: `517407.2142540001` | liquidity: `193350.6962`
+- US announces end of Iranian blockade by August 7, 2026? | 24h volume: `499361.40767700016` | liquidity: `43383.5669`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `447464.054854` | liquidity: `654330.59213`
+- Will the U.S. invade Iran before 2027? | 24h volume: `418086.0850170004` | liquidity: `864150.728`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
