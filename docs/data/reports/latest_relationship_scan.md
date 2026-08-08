@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-08-08T11:49:35.086286+00:00`
+- Generated: `2026-08-08T11:52:29.592224+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -39,12 +39,12 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->fx_4h` score `-0.8517` n `103` status `ready` deltaP `1.3275` edge `-0.0045` maxDD `-1.6928`
 - `market_context_high->metal_4h` score `-1.0819` n `103` status `ready` deltaP `-3.6778` edge `-0.0133` maxDD `-2.7373`
 - `market_context_high->equity_4h` score `-1.7607` n `103` status `ready` deltaP `3.9605` edge `-0.0394` maxDD `-7.6983`
-- `market_context_high->crypto_alt_1h` score `-1.8451` n `103` status `ready` deltaP `-10.1302` edge `-0.0233` maxDD `-2.3669`
+- `market_context_high->crypto_alt_1h` score `-1.857` n `103` status `ready` deltaP `-10.2799` edge `-0.0233` maxDD `-2.3669`
 - `market_context_high->crypto_major_1h` score `-2.381` n `103` status `ready` deltaP `-7.2859` edge `-0.0502` maxDD `-4.6382`
-- `market_context_high->crypto_major_24h` score `-2.6039` n `83` status `ready` deltaP `7.3482` edge `-0.1334` maxDD `-14.2873`
-- `market_context_high->crypto_alt_24h` score `-3.725` n `83` status `ready` deltaP `-21.8039` edge `-0.1879` maxDD `-4.5445`
+- `market_context_high->crypto_major_24h` score `-2.6` n `83` status `ready` deltaP `7.3482` edge `-0.1329` maxDD `-14.2873`
+- `market_context_high->crypto_alt_24h` score `-3.7242` n `83` status `ready` deltaP `-21.8039` edge `-0.1878` maxDD `-4.5445`
 - `market_context_high->crypto_alt_4h` score `-3.9568` n `103` status `ready` deltaP `-9.8168` edge `-0.0991` maxDD `-6.5487`
-- `market_context_high->crypto_major_4h` score `-7.6136` n `103` status `ready` deltaP `-12.4245` edge `-0.2125` maxDD `-18.1307`
+- `market_context_high->crypto_major_4h` score `-7.6148` n `103` status `ready` deltaP `-12.4245` edge `-0.2126` maxDD `-18.1307`
 
 ## Guardrails
 
