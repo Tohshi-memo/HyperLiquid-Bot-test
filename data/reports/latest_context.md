@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T19:37:34.487818+00:00`
+- Generated: `2026-08-08T19:42:20.013033+00:00`
 - Market context score: `52.14`
 - News risk score: `37.56`
 - Macro risk score: `23.48`
@@ -31,10 +31,10 @@
 - [macro] Is Dutch Bros a Buy After Crashing 19% in 1 Day? (Yahoo Finance)
 - [macro] Hormuz talks positive, Oman says, as Iran warns deal would not open strait (BBC News)
 - [macro] Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due (Yahoo Finance)
-- [macro] Motorola Solutions Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Materion Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Morgan Stanley Direct Lending Fund Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Matador Resources Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] MSC Income Fund Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Motorola Solutions Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope (BBC News)
 - [macro] Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner (Yahoo Finance)
 - [macro] LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts (Yahoo Finance)
