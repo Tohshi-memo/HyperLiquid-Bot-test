@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T11:07:36.768322+00:00`
+- Generated: `2026-08-08T11:16:25.021227+00:00`
 - Market context score: `44.17`
 - News risk score: `38.89`
 - Macro risk score: `23.07`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8408`
-- Day/swing latest: `2026-08-08T11:00:00+00:00`
+- Day/swing records: `8409`
+- Day/swing latest: `2026-08-08T11:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 ## Headlines
 
 - [macro] Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general (BBC News)
-- [macro] Mortgage and refinance interest rates today, Saturday, August 8, 2026: Rates mixed this weekend (Yahoo Finance)
 - [macro] Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Saturday, August 8, 2026: Rates mixed this weekend (Yahoo Finance)
 - [crypto] U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Domestic stablecoins could boost demand for dollar-backed tokens: IMF (Cointelegraph.com News)
