@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T09:07:28.172380+00:00`
-- Market context score: `42.48`
-- News risk score: `41.56`
-- Macro risk score: `20.23`
-- Risk-on score: `14.92`
-- Articles: `16`
+- Generated: `2026-08-08T09:22:23.662032+00:00`
+- Market context score: `46.51`
+- News risk score: `35.14`
+- Macro risk score: `20.57`
+- Risk-on score: `18.57`
+- Articles: `14`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8400`
-- Day/swing latest: `2026-08-08T09:00:00+00:00`
+- Day/swing records: `8401`
+- Day/swing latest: `2026-08-08T09:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `1`
-- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Domestic stablecoins could boost demand for dollar-backed tokens: IMF (Cointelegraph.com News)
 - [macro] Child among three killed in Russian missile attacks near Kyiv (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Scale of devastation shocks US city's fire-seasoned residents (BBC News)
 - [macro] He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home (BBC News)
 - [macro] 'I ran because I knew I would die': Russian drones target medics in Ukraine (BBC News)
-- [macro] The phone book that led us to Assad's spy chief in hiding (BBC News)
