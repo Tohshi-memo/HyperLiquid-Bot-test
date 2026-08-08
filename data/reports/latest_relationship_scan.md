@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-08-08T07:32:50.486373+00:00`
+- Generated: `2026-08-08T07:37:32.726316+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -25,7 +25,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `market_context_high->equity_24h` score `6.1368` n `81` status `ready` deltaP `1.9483` edge `0.8044` maxDD `-21.1456`
+- `market_context_high->equity_24h` score `6.1356` n `81` status `ready` deltaP `1.9483` edge `0.8043` maxDD `-21.1456`
 - `market_context_high->metal_24h` score `3.5929` n `81` status `ready` deltaP `11.4005` edge `0.281` maxDD `-2.2743`
 - `market_context_high->fx_24h` score `1.7225` n `81` status `ready` deltaP `33.6034` edge `0.0668` maxDD `-1.9329`
 - `market_context_high->commodity_4h` score `1.5979` n `103` status `ready` deltaP `15.3534` edge `0.0981` maxDD `-2.7169`
@@ -37,10 +37,10 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->index_4h` score `-0.5361` n `103` status `ready` deltaP `0.253` edge `-0.0099` maxDD `-1.1743`
 - `market_context_high->metal_1h` score `-0.6241` n `103` status `ready` deltaP `-3.7105` edge `-0.0057` maxDD `-0.9664`
 - `market_context_high->fx_4h` score `-0.9297` n `103` status `ready` deltaP `0.4129` edge `-0.0049` maxDD `-1.6928`
-- `market_context_high->metal_4h` score `-1.0645` n `103` status `ready` deltaP `-3.3729` edge `-0.0131` maxDD `-2.7373`
+- `market_context_high->metal_4h` score `-1.0565` n `103` status `ready` deltaP `-3.2204` edge `-0.0131` maxDD `-2.7373`
 - `market_context_high->equity_4h` score `-1.6891` n `103` status `ready` deltaP `4.5702` edge `-0.0375` maxDD `-7.6983`
 - `market_context_high->crypto_alt_1h` score `-1.7588` n `103` status `ready` deltaP `-9.232` edge `-0.0221` maxDD `-2.3669`
-- `market_context_high->crypto_major_1h` score `-2.2552` n `103` status `ready` deltaP `-6.0883` edge `-0.0477` maxDD `-4.6382`
+- `market_context_high->crypto_major_1h` score `-2.2564` n `103` status `ready` deltaP `-6.0883` edge `-0.0478` maxDD `-4.6382`
 - `market_context_high->crypto_major_24h` score `-2.6085` n `81` status `ready` deltaP `7.2145` edge `-0.1331` maxDD `-14.2873`
 - `market_context_high->crypto_alt_4h` score `-3.6793` n `103` status `ready` deltaP `-7.6827` edge `-0.0902` maxDD `-6.5487`
 - `market_context_high->crypto_alt_24h` score `-3.7869` n `81` status `ready` deltaP `-22.9938` edge `-0.1879` maxDD `-4.5445`
