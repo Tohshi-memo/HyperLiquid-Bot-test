@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T06:22:25.688918+00:00`
+- Generated: `2026-08-08T06:37:27.062000+00:00`
 - Market context score: `44.05`
 - News risk score: `46.29`
 - Macro risk score: `28.12`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8390`
-- Day/swing latest: `2026-08-08T06:15:00+00:00`
+- Day/swing records: `8391`
+- Day/swing latest: `2026-08-08T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Domestic stablecoins could boost demand for dollar-backed tokens: IMF (Cointelegraph.com News)
 - [macro] Child among three killed in Russian missile attacks near Kyiv (BBC News)
 - [crypto] US court backs Bybit’s bid to trace funds from $1.5B North Korea hack (Cointelegraph.com News)
 - [crypto] New XRP Ledger amendments target $530 million in tokenized Wall Street assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] 'I ran because I knew I would die': Russian drones target medics in Ukraine (BBC News)
 - [macro] The phone book that led us to Assad's spy chief in hiding (BBC News)
 - [macro] Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies (BBC News)
-- [macro] Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy (BBC News)
