@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T03:22:31.046984+00:00`
-- Market context score: `46.86`
-- News risk score: `43.87`
-- Macro risk score: `28.62`
-- Risk-on score: `29.76`
-- Articles: `30`
+- Generated: `2026-08-08T03:37:30.248345+00:00`
+- Market context score: `48.26`
+- News risk score: `41.57`
+- Macro risk score: `28.79`
+- Risk-on score: `31.0`
+- Articles: `28`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:783`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8378`
-- Day/swing latest: `2026-08-08T03:15:00+00:00`
+- Day/swing records: `8379`
+- Day/swing latest: `2026-08-08T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `13`, risk hits `7`, risk headline rate `0.3846`, policy hits `4`
-- macro: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `12`, risk hits `6`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
 
 ## Headlines
 
+- [crypto] New XRP Ledger amendments target $530 million in tokenized Wall Street assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies (BBC News)
 - [macro] Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy (BBC News)
@@ -37,4 +38,3 @@
 - [macro] What is birthright citizenship and how common is birth tourism in the US? (BBC News)
 - [macro] Sophia Laforteza steps away from Katseye, the second member to depart this year (BBC News)
 - [macro] Kidnapped rare Serbian eagle freed into wild after rescue (BBC News)
-- [crypto] Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
