@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T16:16:05.365598+00:00`
+- Generated: `2026-08-08T16:22:28.532318+00:00`
 - Market context score: `56.82`
 - News risk score: `35.84`
 - Macro risk score: `24.46`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] US offers $1bn to Colombia on new right-wing president's first day of office (BBC News)
 - [macro] Chewy Chief Accounting Officer Disposes 11,134 Shares for $254,000 in Tax-Related Transaction (Yahoo Finance)
 - [macro] Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general (BBC News)
 - [macro] Vanguard Health Care ETF vs State Street XLV: Which ETF Is the Better Buy for Investors in 2026? (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Nebius Stock Plunged 31% Last Month. Is It Time to Buy? (Yahoo Finance)
 - [macro] AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High (Yahoo Finance)
 - [crypto] Brazil's central bank orders exchanges to delay large crypto transfers abroad (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high (Energy)
