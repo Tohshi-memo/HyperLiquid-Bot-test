@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T15:37:31.541777+00:00`
+- Generated: `2026-08-08T15:41:26.253594+00:00`
 - Market context score: `46.95`
 - News risk score: `39.56`
 - Macro risk score: `24.54`
@@ -33,8 +33,8 @@
 - [macro] Bank of America revamps Apple stock price target after earnings (Yahoo Finance)
 - [commodity] UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high (Energy)
 - [macro] Typhoon Dolphin batters Japan's Okinawa before bearing down on China (BBC News)
+- [macro] Varon Corp CEO discusses Canadian market opportunity – ICYMI (Yahoo Finance)
 - [crypto] US Senate to vote on advancing CLARITY Act in September after Thune files cloture (Cointelegraph.com News)
 - [macro] Publix struggles to reverse concerning customer behavior (Yahoo Finance)
-- [macro] What Sent Sandisk Shares Tumbling Nearly 20% Last Month (Yahoo Finance)
 - [macro] Google's AI claimed Flock cameras hold $650 in gold and 23 pounds of copper — It was duped by meme (Yahoo Finance)
 - [macro] Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities (Yahoo Finance)
