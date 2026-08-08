@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T19:07:29.757971+00:00`
+- Generated: `2026-08-08T19:22:27.168579+00:00`
 - Market context score: `54.7`
 - News risk score: `36.86`
 - Macro risk score: `22.05`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `8441`
+- Day/swing latest: `2026-08-08T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [macro] Hormuz talks positive, Oman says, as Iran warns deal would not open strait (BBC News)
 - [macro] Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope (BBC News)
-- [macro] Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner (Yahoo Finance)
 - [macro] Four Savers Value Village Insiders Sold This Week. Here's What to Make of It (Yahoo Finance)
 - [macro] Toast CEO Aman Narang Sells 138,000 Shares for $4.9 Million Amid Stock's 24% Dip (Yahoo Finance)
 - [macro] A Savers Insider Cashed In Options Struck at $1.41. Here's What to Know (Yahoo Finance)
