@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T23:22:27.644889+00:00`
-- Market context score: `60.36`
-- News risk score: `34.2`
-- Macro risk score: `25.04`
-- Risk-on score: `50.25`
-- Articles: `42`
+- Generated: `2026-08-08T23:25:22.523231+00:00`
+- Market context score: `62.42`
+- News risk score: `31.75`
+- Macro risk score: `21.25`
+- Risk-on score: `51.33`
+- Articles: `40`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -24,15 +24,15 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `31`, risk hits `7`, risk headline rate `0.1935`, policy hits `4`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1379`, policy hits `2`
 
 ## Headlines
 
-- [macro] Snap's CTO Sells Over 5 Million Shares for $28.2 Million. Here's a Deeper Look at the Transaction. (Yahoo Finance)
-- [macro] Forget SMH. The Chip Fund That Owns Less Nvidia Is Beating It by 20 Points (Yahoo Finance)
-- [macro] Why the Market Continues to Sleep on Micron's Growth Potential (Yahoo Finance)
-- [macro] Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal. (Yahoo Finance)
-- [macro] Qorvo Insiders Keep Filing. But the Merger Is the Main Thing That Matters (Yahoo Finance)
+- [macro] Three Griffon Executives Sold Into an Earnings Pop. Here's What to Know (Yahoo Finance)
+- [macro] Ormat Technologies Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] OR Royalties Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Oscar Health Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Optimum Communications Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Fast-moving Canada wildfire doubles in size forcing thousands to flee homes (BBC News)
 - [crypto] Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3% (Cointelegraph.com News)
 - [macro] Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push (Yahoo Finance)
