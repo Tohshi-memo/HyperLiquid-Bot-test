@@ -2,7 +2,7 @@
 
 These are early-warning indicators for cross-market relationships. They are hypotheses to test, not trade signals by themselves.
 
-- Updated: `2026-08-08T05:31:49.553306+00:00`
+- Updated: `2026-08-08T05:37:30.592194+00:00`
 - Correlation status: `ready`
 - Asset price records: `672`
 - Minimum samples for correlation: `24`
@@ -13,10 +13,10 @@ These are early-warning indicators for cross-market relationships. They are hypo
 
 ## Class Returns
 
-- 15m: commodity avg `0.0068` n `12`; crypto_alt avg `0.0313` n `230`; crypto_major avg `-0.0188` n `8`; equity avg `0.0039` n `112`; fx avg `0.0001` n `6`; index avg `0.0056` n `25`; metal avg `-0.0033` n `20`; unknown avg `-0.078` n `784`
-- 1h: commodity avg `-0.0237` n `12`; crypto_alt avg `-0.049` n `230`; crypto_major avg `-0.0819` n `8`; equity avg `-0.0231` n `112`; fx avg `0.0048` n `6`; index avg `-0.0093` n `25`; metal avg `-0.0192` n `20`; unknown avg `-0.1414` n `783`
-- 4h: commodity avg `-0.0254` n `12`; crypto_alt avg `0.3067` n `230`; crypto_major avg `0.3076` n `8`; equity avg `-0.1062` n `112`; fx avg `-0.0018` n `6`; index avg `-0.0062` n `25`; metal avg `-0.0443` n `20`; unknown avg `-0.0042` n `783`
-- 24h: commodity avg `-0.2642` n `12`; crypto_alt avg `0.1479` n `230`; crypto_major avg `0.9791` n `8`; equity avg `1.464` n `112`; fx avg `-0.0666` n `6`; index avg `0.1526` n `25`; metal avg `0.2348` n `20`; unknown avg `0.0393` n `766`
+- 15m: commodity avg `0.0` n `12`; crypto_alt avg `0.0532` n `230`; crypto_major avg `0.0524` n `8`; equity avg `-0.0167` n `112`; fx avg `-0.0065` n `6`; index avg `0.0084` n `25`; metal avg `-0.003` n `20`; unknown avg `0.7443` n `784`
+- 1h: commodity avg `-0.0304` n `12`; crypto_alt avg `-0.0272` n `230`; crypto_major avg `-0.0108` n `8`; equity avg `-0.0437` n `112`; fx avg `-0.0018` n `6`; index avg `-0.0065` n `25`; metal avg `-0.0188` n `20`; unknown avg `0.6801` n `783`
+- 4h: commodity avg `-0.0321` n `12`; crypto_alt avg `0.3287` n `230`; crypto_major avg `0.3791` n `8`; equity avg `-0.127` n `112`; fx avg `-0.0084` n `6`; index avg `-0.0034` n `25`; metal avg `-0.0439` n `20`; unknown avg `1.4519` n `783`
+- 24h: commodity avg `-0.2708` n `12`; crypto_alt avg `0.1709` n `230`; crypto_major avg `1.0511` n `8`; equity avg `1.4434` n `112`; fx avg `-0.0732` n `6`; index avg `0.1554` n `25`; metal avg `0.2352` n `20`; unknown avg `0.0386` n `766`
 
 ## Correlations
 
