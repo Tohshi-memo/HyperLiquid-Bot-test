@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T20:22:24.149372+00:00`
-- Market context score: `61.28`
-- News risk score: `33.35`
-- Macro risk score: `21.63`
-- Risk-on score: `50.29`
-- Articles: `45`
+- Generated: `2026-08-08T20:37:24.583648+00:00`
+- Market context score: `60.93`
+- News risk score: `34.72`
+- Macro risk score: `23.3`
+- Risk-on score: `51.3`
+- Articles: `47`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8445`
-- Day/swing latest: `2026-08-08T20:15:00+00:00`
+- Day/swing records: `8446`
+- Day/swing latest: `2026-08-08T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `34`, risk hits `4`, risk headline rate `0.1176`, policy hits `8`
+- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `10`
 
 ## Headlines
 
+- [macro] Where Will Dell Technologies Stock Be in 3 Years? (Yahoo Finance)
 - [macro] Paris tells e-scooter riders to wear safety gear or face fines (BBC News)
+- [macro] SentinelOne (S) Deepens AWS Ties As Growth Accelerates (Yahoo Finance)
+- [macro] Jim Cramer Praises Exchange Duopoly CME Group (CME) and Cboe (CBOE) (Yahoo Finance)
+- [macro] Caterpillar tariffs send major signal on margins (Yahoo Finance)
 - [crypto] Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Nexa Resources Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Natural Grocers by Vitamin Cottage Q3 Earnings Call Highlights (Yahoo Finance)
+- [macro] Cloudflare Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term (Yahoo Finance)
-- [macro] Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG) (Yahoo Finance)
-- [macro] Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics? (Yahoo Finance)
-- [macro] AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia? (Yahoo Finance)
-- [macro] OpenAI acquires presentation startup NextSlide (Yahoo Finance)
-- [macro] Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground (Yahoo Finance)
-- [macro] Here's the Best Way to Make the 4% Rule Work for You in Retirement (Yahoo Finance)
-- [macro] Is Dutch Bros a Buy After Crashing 19% in 1 Day? (Yahoo Finance)
