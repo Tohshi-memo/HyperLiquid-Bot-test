@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T14:16:01.583104+00:00`
-- Market context score: `51.17`
-- News risk score: `35.64`
-- Macro risk score: `27.14`
-- Risk-on score: `31.84`
-- Articles: `38`
+- Generated: `2026-08-08T14:22:28.717315+00:00`
+- Market context score: `51.65`
+- News risk score: `35.91`
+- Macro risk score: `27.68`
+- Risk-on score: `33.33`
+- Articles: `37`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -24,15 +24,15 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `1`
 
 ## Headlines
 
-- [macro] Uniti (UNIT) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Insider Dumps More Than 4,000 Shares of Regional Bank Ahead of Stock Split (Yahoo Finance)
+- [macro] He Needs $30,000 for a Roof and Furnace at 69. A New Maine Law Could Help Him Borrow Without Making More of His Social Security Taxable. (Yahoo Finance)
+- [macro] Joby Aviation Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] James Hardie Industries Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] JAN Q2 Earnings Call Highlights (Yahoo Finance)
 - [crypto] Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Energy Fuels CEO Bhappu Sells 14,375 Shares for Tax Withholding (Yahoo Finance)
-- [macro] Retiring in 2030? 3 Critical Moves to Make First (Yahoo Finance)
 - [macro] Jim Cramer Favors Fortinet (FTNT) Alongside CrowdStrike (CRWD) and Palo Alto (PANW) (Yahoo Finance)
 - [macro] US gifts $1bn to Colombia on new right-wing president's first day of office (BBC News)
 - [macro] Is football AI-proof? Why tech investors wanted a slice of the World Cup (BBC News)
