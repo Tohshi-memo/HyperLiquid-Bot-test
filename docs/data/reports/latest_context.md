@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-08T22:07:28.276859+00:00`
+- Generated: `2026-08-08T22:13:09.910418+00:00`
 - Market context score: `60.43`
 - News risk score: `35.16`
 - Macro risk score: `26.47`
@@ -29,11 +29,11 @@
 ## Headlines
 
 - [macro] Fast-moving Canada wildfire doubles in size forcing thousands to flee homes (BBC News)
+- [macro] When Leverage Goes Wrong on Wall Street (Yahoo Finance)
 - [macro] How Qorvo's $22 Billion Merger Changes What Its Insider Filings Mean (Yahoo Finance)
 - [macro] ‘Your Anxiety Comes From Your Mother Being a Twerp’: Dave Ramsey to Caller Who Paid Off $12K But Can’t Shake Family Pressure (Yahoo Finance)
 - [macro] Home Depot Has Raised Its Dividend for 17 Consecutive Years and Reports Earnings Aug. 18. Is It the Smarter Dow Stock to Buy Over Walmart? (Yahoo Finance)
 - [macro] How Much Do You Need Invested to Out-Earn the Average Social Security Check With Dividends? (Yahoo Finance)
-- [macro] Should You Worry About This Qorvo Insider Activity During the Skyworks Deal? Here's What to Know (Yahoo Finance)
 - [crypto] Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3% (Cointelegraph.com News)
 - [macro] Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push (Yahoo Finance)
 - [macro] Paris tells e-scooter riders to wear safety gear or face fines (BBC News)
