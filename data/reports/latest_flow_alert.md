@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-08T08:25:27.346139+00:00`
+- Generated: `2026-08-08T08:30:35.593019+00:00`
 - Flow alert score: `17.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2129550.0` | liquidity: `21860.85083`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `737122.038625` | liquidity: `818258.34404`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `723204.0113599999` | liquidity: `372591.19033`
-- Fed rate hike in 2026? | 24h volume: `622118.8415340001` | liquidity: `438403.2809`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `564685.6647459996` | liquidity: `627780.1527`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `458952.17212699977` | liquidity: `563685.0215`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `426217.0` | liquidity: `17400.85507`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `403826.71079999977` | liquidity: `822675.0242`
+- Will Berhanu Nega be the next Prime Minister of Ethiopia? | 24h volume: `2129550.0` | liquidity: `22074.8249`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `737122.038625` | liquidity: `818246.74404`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `723204.0113599999` | liquidity: `372104.19033`
+- Fed rate hike in 2026? | 24h volume: `622118.8415340001` | liquidity: `439059.8909`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `564685.6647459996` | liquidity: `631756.6905`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `458952.17212699977` | liquidity: `563831.46`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `426217.0` | liquidity: `17393.58497`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `403826.71079999977` | liquidity: `797322.7301`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
