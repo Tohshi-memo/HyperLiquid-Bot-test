@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T23:07:25.682708+00:00`
-- Market context score: `73.87`
-- News risk score: `21.81`
-- Macro risk score: `19.5`
-- Risk-on score: `67.71`
+- Generated: `2026-08-09T23:22:37.291848+00:00`
+- Market context score: `65.49`
+- News risk score: `21.34`
+- Macro risk score: `18.42`
+- Risk-on score: `48.29`
 - Articles: `39`
 - Polymarket markets: `388`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8551`
-- Day/swing latest: `2026-08-09T23:00:00+00:00`
+- Day/swing records: `8552`
+- Day/swing latest: `2026-08-09T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `34`, risk hits `3`, risk headline rate `0.0882`, policy hits `1`
+- macro: articles `34`, risk hits `2`, risk headline rate `0.0588`, policy hits `2`
 
 ## Headlines
 
+- [macro] goeasy Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Gran Tierra Energy Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Finning International Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Fiera Capital Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Ensign Energy Services Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Emera Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Energy Fuels Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead (Yahoo Finance)
+- [macro] If a Stock Market Crash Is Coming, History Says This Investing Strategy Has Never Once Failed (Yahoo Finance)
 - [macro] How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ (Yahoo Finance)
-- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
-- [macro] Apple CEO Tim Cook Just Passed His Successor a Mess (Yahoo Finance)
-- [macro] Medical Facilities Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Element Fleet Management Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Dexterra Group Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Doman Building Materials Group Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Chartwell Retirement Residences Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Dorel Industries Q2 Earnings Call Highlights (Yahoo Finance)
