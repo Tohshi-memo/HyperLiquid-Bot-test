@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T05:37:35.618098+00:00`
-- Market context score: `40.84`
-- News risk score: `40.16`
-- Macro risk score: `33.82`
-- Risk-on score: `15.23`
-- Articles: `15`
+- Generated: `2026-08-09T05:52:25.466460+00:00`
+- Market context score: `39.73`
+- News risk score: `41.25`
+- Macro risk score: `36.0`
+- Risk-on score: `14.5`
+- Articles: `14`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8481`
-- Day/swing latest: `2026-08-09T05:30:00+00:00`
+- Day/swing records: `8482`
+- Day/swing latest: `2026-08-09T05:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
+- [crypto] BTCPay restricts remote Lightning access after attackers steal funds (Cointelegraph.com News)
 - [crypto] Controversial Bitcoin fork BIP-110 mines two blocks, then stops (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Perez Hilton faces long recovery after reports he self-harmed during livestream (BBC News)
 - [macro] How a schoolteacher's son became Kashmir's first India Test cricketer (BBC News)
@@ -37,4 +37,3 @@
 - [macro] Fast-moving Canada wildfire doubles in size forcing thousands to flee homes (BBC News)
 - [crypto] Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3% (Cointelegraph.com News)
 - [crypto] Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Hormuz talks positive, Oman says, as Iran warns deal would not open strait (BBC News)
