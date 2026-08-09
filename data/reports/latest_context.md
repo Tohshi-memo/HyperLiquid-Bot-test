@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T18:02:55.013698+00:00`
-- Market context score: `63.12`
-- News risk score: `31.12`
-- Macro risk score: `19.94`
-- Risk-on score: `51.86`
-- Articles: `33`
+- Generated: `2026-08-09T18:07:28.299239+00:00`
+- Market context score: `63.75`
+- News risk score: `30.99`
+- Macro risk score: `19.68`
+- Risk-on score: `53.04`
+- Articles: `34`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `4`
+- macro: articles `28`, risk hits `2`, risk headline rate `0.0714`, policy hits `4`
 
 ## Headlines
 
+- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
 - [macro] Micron Has Surged 207% This Year. Brace for a Steep Pullback. (Yahoo Finance)
 - [macro] Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant (Yahoo Finance)
 - [macro] 1 Long-Term Dividend ETF Built to Outlast Any Market Cycle Over 20 Years (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Victory Capital Hit a Stock-Price Target in Months. Here's What the CFO's Latest Insider Filing Shows (Yahoo Finance)
 - [macro] Why AdaptHealth Stock Plummeted This Week (Yahoo Finance)
 - [macro] Victory Capital's CEO Stock Vested Because Shares Hit a Target. Here's What to Know (Yahoo Finance)
-- [macro] What to Know About Colgate-Palmolive Director John Cahill Selling 4,170 Shares for $389,353 (Yahoo Finance)
