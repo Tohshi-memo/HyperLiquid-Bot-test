@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-09T14:45:30.147069+00:00`
+- Generated: `2026-08-09T14:51:13.192917+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7197333.86`
-- Polymarket volume z-score: `-1.83`
+- Polymarket 24h volume: `7138031.5`
+- Polymarket volume z-score: `-1.86`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `980498.98` | liquidity: `17482.91348`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `749075.4473959993` | liquidity: `1208540.3571`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `382514.9094780001` | liquidity: `886589.13971`
-- US announces end of Iranian blockade by August 9, 2026? | 24h volume: `381498.539902` | liquidity: `74765.08035`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `287633.4534219999` | liquidity: `715067.10913`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `226587.4363109999` | liquidity: `94173.4365`
-- Bitcoin Up or Down on August 9? | 24h volume: `196173.70358899943` | liquidity: `29918.3101`
-- US announces end of Iranian blockade by August 15, 2026? | 24h volume: `192835.53248000005` | liquidity: `61298.9531`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `980498.98` | liquidity: `17885.64542`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `752527.5458399991` | liquidity: `1207183.3523`
+- US announces end of Iranian blockade by August 9, 2026? | 24h volume: `381810.18551800004` | liquidity: `71670.33555`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `371085.6667580001` | liquidity: `886771.33001`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `233072.85568599997` | liquidity: `715065.07362`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `222668.42059899992` | liquidity: `94098.9566`
+- Bitcoin Up or Down on August 9? | 24h volume: `202261.85577499942` | liquidity: `23633.1843`
+- US announces end of Iranian blockade by August 15, 2026? | 24h volume: `195352.06767600004` | liquidity: `60862.8476`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
