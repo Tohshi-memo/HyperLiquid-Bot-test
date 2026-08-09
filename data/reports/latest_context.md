@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T19:52:26.916994+00:00`
-- Market context score: `61.65`
-- News risk score: `30.83`
-- Macro risk score: `22.13`
-- Risk-on score: `49.17`
-- Articles: `38`
+- Generated: `2026-08-09T20:07:31.169793+00:00`
+- Market context score: `64.57`
+- News risk score: `29.27`
+- Macro risk score: `19.17`
+- Risk-on score: `53.24`
+- Articles: `40`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8538`
-- Day/swing latest: `2026-08-09T19:45:00+00:00`
+- Day/swing records: `8539`
+- Day/swing latest: `2026-08-09T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `31`, risk hits `3`, risk headline rate `0.0968`, policy hits `6`
+- macro: articles `33`, risk hits `2`, risk headline rate `0.0606`, policy hits `5`
 
 ## Headlines
 
+- [macro] A Darden Insider Cut His Direct Holdings. Here's How Long-Term Investors Should Read It (Yahoo Finance)
+- [macro] Nigerian army says it safely rescued 33 people kidnapped by gunmen (BBC News)
+- [macro] Why MercadoLibre Stock Jumped 11% in July (Yahoo Finance)
+- [macro] A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028 (Yahoo Finance)
+- [macro] Costco vs. General Mills: Comparing Revenue Trends Between These Consumer Staples Companies (Yahoo Finance)
 - [macro] Man arrested after boat capsizes near Statue of Liberty killing woman and infant (BBC News)
+- [macro] Berkshire breaks 14-quarter selling streak with $23.5B of stock buys — $10B went to 1 company at a private price (Yahoo Finance)
 - [macro] This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold Forever. (Yahoo Finance)
 - [macro] Darden's CEO Sold Stock With Options Struck at $124. Here's How to Read It (Yahoo Finance)
 - [macro] Comcast (CMCSA) Pushes Private Wireless Into The Office Market (Yahoo Finance)
-- [macro] Jim Cramer Just Reminded Everyone About the Most Important Aspect of Investing in SpaceX (Yahoo Finance)
-- [macro] Arista Networks vs. Arm: Comparing Revenue Growth Trajectories for These Artificial Intelligence Companies (Yahoo Finance)
-- [macro] Washington Just Committed $17.5 Billion to New Reactors. Uranium Funds Missed the Memo (Yahoo Finance)
-- [macro] Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg (Yahoo Finance)
-- [macro] She Returned to a Classroom at 64. Her Wages Earned No Social Security Credit, but Every Dollar Counted Against Her. (Yahoo Finance)
-- [macro] Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet. (Yahoo Finance)
