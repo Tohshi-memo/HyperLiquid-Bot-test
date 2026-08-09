@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T11:52:26.737447+00:00`
+- Generated: `2026-08-09T12:07:27.866251+00:00`
 - Market context score: `33.72`
 - News risk score: `51.64`
 - Macro risk score: `33.57`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8506`
-- Day/swing latest: `2026-08-09T11:45:00+00:00`
+- Day/swing records: `8507`
+- Day/swing latest: `2026-08-09T12:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Israel rejects Trump's 15-point plan for Gaza, Netanyahu says (BBC News)
 - [commodity] Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility (Energy)
 - [crypto] BIP-110 Bitcoin branch stalls after two blocks as gap widens (Cointelegraph.com News)
 - [macro] Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation (BBC News)
-- [macro] Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week (Yahoo Finance)
 - [macro] Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week (Yahoo Finance)
 - [crypto] Brazil targets crypto fraud with up to 24-hour transfer hold (Cointelegraph.com News)
 - [macro] State of emergency declared as fast-moving Canada wildfire doubles in size (BBC News)
 - [crypto] BTCPay restricts remote Lightning access after attackers steal funds (Cointelegraph.com News)
 - [crypto] Controversial Bitcoin fork BIP-110 mines two blocks, then stops (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Perez Hilton faces long recovery after reports he self-harmed during livestream (BBC News)
