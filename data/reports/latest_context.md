@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T13:37:30.266340+00:00`
-- Market context score: `39.16`
-- News risk score: `44.81`
-- Macro risk score: `28.9`
-- Risk-on score: `13.56`
-- Articles: `14`
+- Generated: `2026-08-09T13:52:27.050086+00:00`
+- Market context score: `38.96`
+- News risk score: `44.65`
+- Macro risk score: `28.92`
+- Risk-on score: `13.0`
+- Articles: `13`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8513`
-- Day/swing latest: `2026-08-09T13:30:00+00:00`
+- Day/swing records: `8514`
+- Day/swing latest: `2026-08-09T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `4`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `2`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [commodity] Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility (Energy)
 - [crypto] BIP-110 Bitcoin branch stalls after two blocks as gap widens (Cointelegraph.com News)
 - [macro] Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY (Yahoo Finance)
-- [macro] Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week (Yahoo Finance)
 - [crypto] Brazil targets crypto fraud with up to 24-hour transfer hold (Cointelegraph.com News)
+- [crypto] BTCPay restricts remote Lightning access after attackers steal funds (Cointelegraph.com News)
