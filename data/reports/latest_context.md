@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T20:37:33.530019+00:00`
+- Generated: `2026-08-09T20:52:28.778883+00:00`
 - Market context score: `63.07`
 - News risk score: `29.27`
 - Macro risk score: `19.17`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8541`
-- Day/swing latest: `2026-08-09T20:30:00+00:00`
+- Day/swing records: `8542`
+- Day/swing latest: `2026-08-09T20:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Unpacking the Latest Pullback in Micron Stock (Yahoo Finance)
+- [macro] Olive Garden's President Cashed In Options Struck at $124. Here's What to Know (Yahoo Finance)
 - [macro] LongHorn's President Sold Darden Stock After a 9.5% Sales Jump. Here's What to Know (Yahoo Finance)
 - [macro] Vaxart Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] OTC Markets Group Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Pyxus International Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Unusual Machines Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] OTC Markets Group Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Strawberry Fields REIT Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] A Darden Insider Cut His Direct Holdings. Here's How Long-Term Investors Should Read It (Yahoo Finance)
 - [macro] Nigerian army says it safely rescued 33 people kidnapped by gunmen (BBC News)
-- [macro] Why MercadoLibre Stock Jumped 11% in July (Yahoo Finance)
-- [macro] A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028 (Yahoo Finance)
