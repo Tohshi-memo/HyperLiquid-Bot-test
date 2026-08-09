@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T21:45:03.187642+00:00`
+- Generated: `2026-08-09T21:52:24.534417+00:00`
 - Market context score: `73.4`
 - News risk score: `22.68`
 - Macro risk score: `20.5`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Why Upstart Stock Plunged 23% in July (Yahoo Finance)
 - [macro] Israel rejects Trump's 15-point plan for Gaza, Netanyahu says (BBC News)
 - [macro] Delaying Social Security to 70 Costs About $158,000 in Skipped Checks, and Still Beats Any Annuity You Can Buy. (Yahoo Finance)
 - [macro] The Hardest Money Problem in Retirement Isn’t Saving $500,000. It’s Turning It Into a Monthly Paycheck. (Yahoo Finance)
@@ -36,5 +37,4 @@
 - [macro] Cascades Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Canadian Apartment Properties REIT Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] AirBoss of America Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Baylin Technologies Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Altus Group Q2 Earnings Call Highlights (Yahoo Finance)
