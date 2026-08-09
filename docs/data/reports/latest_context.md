@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T10:37:29.385860+00:00`
+- Generated: `2026-08-09T10:49:28.469571+00:00`
 - Market context score: `25.45`
 - News risk score: `62.31`
 - Macro risk score: `39.85`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8501`
-- Day/swing latest: `2026-08-09T10:30:00+00:00`
+- Day/swing records: `8502`
+- Day/swing latest: `2026-08-09T10:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 ## Headlines
 
 - [macro] Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation (BBC News)
-- [macro] Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week (Yahoo Finance)
 - [macro] Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week (Yahoo Finance)
 - [crypto] Brazil targets crypto fraud with up to 24-hour transfer hold (Cointelegraph.com News)
 - [macro] State of emergency declared as fast-moving Canada wildfire doubles in size (BBC News)
 - [crypto] BTCPay restricts remote Lightning access after attackers steal funds (Cointelegraph.com News)
