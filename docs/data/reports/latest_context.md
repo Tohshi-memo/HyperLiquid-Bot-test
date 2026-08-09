@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T22:37:29.944583+00:00`
+- Generated: `2026-08-09T22:52:24.970686+00:00`
 - Market context score: `73.87`
 - News risk score: `21.8`
 - Macro risk score: `19.48`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8549`
-- Day/swing latest: `2026-08-09T22:30:00+00:00`
+- Day/swing records: `8550`
+- Day/swing latest: `2026-08-09T22:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
 - [macro] Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead (Yahoo Finance)
+- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
+- [macro] Apple CEO Tim Cook Just Passed His Successor a Mess (Yahoo Finance)
 - [macro] Medical Facilities Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Element Fleet Management Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Dexterra Group Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Dream Industrial Real Estate Invest Trst Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Doman Building Materials Group Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Chartwell Retirement Residences Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Dorel Industries Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Chorus Aviation Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Chartwell Retirement Residences Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Doman Building Materials Group Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Dream Industrial Real Estate Invest Trst Q2 Earnings Call Highlights (Yahoo Finance)
