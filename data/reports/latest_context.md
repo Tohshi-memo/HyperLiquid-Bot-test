@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T19:37:25.492787+00:00`
-- Market context score: `61.01`
-- News risk score: `28.25`
-- Macro risk score: `17.22`
-- Risk-on score: `43.71`
-- Articles: `37`
+- Generated: `2026-08-09T19:45:03.507837+00:00`
+- Market context score: `58.65`
+- News risk score: `30.83`
+- Macro risk score: `22.13`
+- Risk-on score: `42.5`
+- Articles: `38`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8537`
-- Day/swing latest: `2026-08-09T19:30:00+00:00`
+- Day/swing records: `8538`
+- Day/swing latest: `2026-08-09T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `30`, risk hits `1`, risk headline rate `0.0333`, policy hits `4`
+- macro: articles `31`, risk hits `3`, risk headline rate `0.0968`, policy hits `6`
 
 ## Headlines
 
+- [macro] Man arrested after boat capsizes near Statue of Liberty killing woman and infant (BBC News)
+- [macro] Comcast (CMCSA) Pushes Private Wireless Into The Office Market (Yahoo Finance)
+- [macro] Washington Just Committed $17.5 Billion to New Reactors. Uranium Funds Missed the Memo (Yahoo Finance)
+- [macro] Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg (Yahoo Finance)
+- [macro] She Returned to a Classroom at 64. Her Wages Earned No Social Security Credit, but Every Dollar Counted Against Her. (Yahoo Finance)
+- [macro] Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet. (Yahoo Finance)
+- [macro] ServiceNow (NOW) Unveils Autonomous Security to Accelerate Growth (Yahoo Finance)
 - [macro] Ring Energy Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Gold Royalty Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Nine Energy Service Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Lineage Cell Therapeutics Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Myomo Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Galiano Gold Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Castellum Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Equinox Gold Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Core Molding Technologies Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] B2Gold Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Lineage Cell Therapeutics Q2 Earnings Call Highlights (Yahoo Finance)
