@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T08:05:17.827452+00:00`
-- Market context score: `41.77`
-- News risk score: `39.25`
+- Generated: `2026-08-09T08:07:34.134047+00:00`
+- Market context score: `39.22`
+- News risk score: `43.0`
 - Macro risk score: `32.0`
-- Risk-on score: `15.83`
-- Articles: `10`
+- Risk-on score: `13.33`
+- Articles: `9`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,12 +17,12 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `8491`
+- Day/swing latest: `2026-08-09T08:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
@@ -36,4 +36,3 @@
 - [macro] Hundreds arrested over French wildfires, but who is to blame? (BBC News)
 - [macro] Israel accused of weaponising archaeology at ancient West Bank sites (BBC News)
 - [crypto] Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3% (Cointelegraph.com News)
-- [crypto] Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
