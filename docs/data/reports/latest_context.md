@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T17:22:26.881376+00:00`
+- Generated: `2026-08-09T17:37:26.340950+00:00`
 - Market context score: `42.91`
 - News risk score: `39.71`
 - Macro risk score: `25.1`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8528`
-- Day/swing latest: `2026-08-09T17:15:00+00:00`
+- Day/swing records: `8529`
+- Day/swing latest: `2026-08-09T17:30:00+00:00`
 
 ## News Categories
 
@@ -30,10 +30,10 @@
 
 - [macro] Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in 3 Years? (Yahoo Finance)
 - [macro] Beware of Bad Investing Advice on Your Socials -- Like These 3 Money Myths (Yahoo Finance)
-- [macro] Watts Water Technologies Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] W&T Offshore Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Select Water Solutions Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Essential Utilities Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Watts Water Technologies Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] W&T Offshore Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] WPP H1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Warby Parker Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Wheaton Precious Metals Q2 Earnings Call Highlights (Yahoo Finance)
