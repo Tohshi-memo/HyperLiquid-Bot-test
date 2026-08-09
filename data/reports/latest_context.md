@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T13:07:25.246475+00:00`
-- Market context score: `39.93`
-- News risk score: `44.0`
-- Macro risk score: `27.33`
-- Risk-on score: `14.0`
-- Articles: `15`
+- Generated: `2026-08-09T13:11:43.216841+00:00`
+- Market context score: `39.16`
+- News risk score: `44.81`
+- Macro risk score: `28.9`
+- Risk-on score: `13.56`
+- Articles: `14`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -24,12 +24,12 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `4`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `4`
 
 ## Headlines
 
+- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
 - [crypto] Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] State of emergency declared as fast-moving Canada wildfire doubles in size (BBC News)
 - [macro] Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation (BBC News)
 - [macro] Ancient Roman shipwreck discovered off Sicily coast (BBC News)
 - [macro] Israel rejects Trump's 15-point plan for Gaza, Netanyahu says (BBC News)
