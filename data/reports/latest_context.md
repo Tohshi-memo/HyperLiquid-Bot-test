@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T19:22:23.644242+00:00`
+- Generated: `2026-08-09T19:37:25.492787+00:00`
 - Market context score: `61.01`
 - News risk score: `28.25`
 - Macro risk score: `17.22`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8536`
-- Day/swing latest: `2026-08-09T19:15:00+00:00`
+- Day/swing records: `8537`
+- Day/swing latest: `2026-08-09T19:30:00+00:00`
 
 ## News Categories
 
@@ -29,10 +29,10 @@
 ## Headlines
 
 - [macro] Ring Energy Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Gold Royalty Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Nine Energy Service Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Lineage Cell Therapeutics Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Myomo Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Gold Royalty Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Galiano Gold Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Castellum Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Equinox Gold Q2 Earnings Call Highlights (Yahoo Finance)
