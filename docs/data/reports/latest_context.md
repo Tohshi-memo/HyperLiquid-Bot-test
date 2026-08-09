@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T22:52:24.970686+00:00`
+- Generated: `2026-08-09T22:54:54.074250+00:00`
 - Market context score: `73.87`
 - News risk score: `21.8`
 - Macro risk score: `19.48`
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [macro] Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead (Yahoo Finance)
+- [macro] How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ (Yahoo Finance)
 - [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
 - [macro] Apple CEO Tim Cook Just Passed His Successor a Mess (Yahoo Finance)
 - [macro] Medical Facilities Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Element Fleet Management Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Dexterra Group Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Dorel Industries Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Chartwell Retirement Residences Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Doman Building Materials Group Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Dream Industrial Real Estate Invest Trst Q2 Earnings Call Highlights (Yahoo Finance)
