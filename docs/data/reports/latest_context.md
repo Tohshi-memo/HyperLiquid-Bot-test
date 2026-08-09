@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T14:22:34.031761+00:00`
-- Market context score: `40.68`
-- News risk score: `41.57`
-- Macro risk score: `29.14`
-- Risk-on score: `14.29`
-- Articles: `13`
+- Generated: `2026-08-09T14:37:26.732021+00:00`
+- Market context score: `41.29`
+- News risk score: `41.67`
+- Macro risk score: `28.67`
+- Risk-on score: `15.56`
+- Articles: `15`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8516`
-- Day/swing latest: `2026-08-09T14:15:00+00:00`
+- Day/swing records: `8517`
+- Day/swing latest: `2026-08-09T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `4`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [macro] Ancient Roman shipwreck discovered off Sicily coast (BBC News)
 - [commodity] Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility (Energy)
 - [crypto] BIP-110 Bitcoin branch stalls after two blocks as gap widens (Cointelegraph.com News)
-- [crypto] Brazil targets crypto fraud with up to 24-hour transfer hold (Cointelegraph.com News)
-- [crypto] BTCPay restricts remote Lightning access after attackers steal funds (Cointelegraph.com News)
+- [macro] Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week (Yahoo Finance)
