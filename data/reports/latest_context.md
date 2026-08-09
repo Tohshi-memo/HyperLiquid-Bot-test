@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T21:37:26.403148+00:00`
+- Generated: `2026-08-09T21:45:03.187642+00:00`
 - Market context score: `73.4`
 - News risk score: `22.68`
 - Macro risk score: `20.5`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8545`
-- Day/swing latest: `2026-08-09T21:30:00+00:00`
+- Day/swing records: `8546`
+- Day/swing latest: `2026-08-09T21:45:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [macro] Cascades Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Canadian Apartment Properties REIT Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] AirBoss of America Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Altus Group Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Baylin Technologies Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Altus Group Q2 Earnings Call Highlights (Yahoo Finance)
