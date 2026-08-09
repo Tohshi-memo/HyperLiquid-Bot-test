@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-09T05:22:29.785463+00:00`
+- Generated: `2026-08-09T05:37:35.618098+00:00`
 - Market context score: `40.84`
 - News risk score: `40.16`
 - Macro risk score: `33.82`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:784`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8480`
-- Day/swing latest: `2026-08-09T05:15:00+00:00`
+- Day/swing records: `8481`
+- Day/swing latest: `2026-08-09T05:30:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [crypto] Controversial Bitcoin fork BIP-110 mines two blocks, then stops (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Perez Hilton faces long recovery after self-harm livestream (BBC News)
+- [macro] Perez Hilton faces long recovery after reports he self-harmed during livestream (BBC News)
 - [macro] How a schoolteacher's son became Kashmir's first India Test cricketer (BBC News)
 - [macro] Tonnes of rotting food from vast LA warehouse fire creates unbearable stench (BBC News)
 - [macro] Hundreds arrested over French wildfires, but who is to blame? (BBC News)
