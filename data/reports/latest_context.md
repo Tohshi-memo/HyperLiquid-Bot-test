@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T07:52:30.536359+00:00`
-- Market context score: `49.2`
-- News risk score: `40.79`
-- Macro risk score: `35.08`
-- Risk-on score: `34.81`
+- Generated: `2026-08-10T08:02:56.597164+00:00`
+- Market context score: `48.81`
+- News risk score: `40.88`
+- Macro risk score: `37.0`
+- Risk-on score: `34.74`
 - Articles: `25`
 - Polymarket markets: `389`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8585`
-- Day/swing latest: `2026-08-10T07:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
+- macro: articles `9`, risk hits `3`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] UK regulators to prepare tokenized gold framework: Report (Cointelegraph.com News)
 - [macro] Burnham brings forward ban on 'subscription traps' to ease cost of living (BBC News)
 - [commodity] Australian rare earth miner surges as much as 29% after U.S. Department of War investment (Energy)
@@ -37,4 +38,3 @@
 - [crypto] This bitcoin miner rejected BIP-110 despite mining through a pool that supported it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’ (Cointelegraph.com News)
-- [macro] Tech leaders say AI means less work - their staff say they work up to 90 hours a week (BBC News)
