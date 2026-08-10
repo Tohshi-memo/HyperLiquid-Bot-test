@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T23:22:35.903381+00:00`
-- Market context score: `59.45`
-- News risk score: `39.23`
-- Macro risk score: `27.92`
-- Risk-on score: `53.57`
+- Generated: `2026-08-10T23:37:26.519460+00:00`
+- Market context score: `59.32`
+- News risk score: `39.54`
+- Macro risk score: `27.48`
+- Risk-on score: `53.36`
 - Articles: `49`
 - Polymarket markets: `390`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8645`
-- Day/swing latest: `2026-08-10T23:15:00+00:00`
+- Day/swing records: `8646`
+- Day/swing latest: `2026-08-10T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `2`
-- crypto: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `4`
-- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `4`
+- macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `0`
 
 ## Headlines
 
+- [macro] 'I started in my 20s and made £8,000': Why women are often better investors than men (BBC News)
 - [macro] Trump signs order to limit childhood vaccines and split MMR shots (BBC News)
 - [macro] Nvidia gets $500bn from major banks to develop AI data centres (BBC News)
 - [commodity] Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Judge stays CFTC’s case against US soldier over prediction market bets (Cointelegraph.com News)
 - [crypto] Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari (Cointelegraph.com News)
