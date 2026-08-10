@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T07:22:32.729131+00:00`
-- Market context score: `49.35`
-- News risk score: `40.99`
+- Generated: `2026-08-10T07:37:24.604424+00:00`
+- Market context score: `50.04`
+- News risk score: `39.96`
 - Macro risk score: `33.43`
-- Risk-on score: `34.68`
-- Articles: `25`
+- Risk-on score: `35.36`
+- Articles: `26`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8583`
-- Day/swing latest: `2026-08-10T07:15:00+00:00`
+- Day/swing records: `8584`
+- Day/swing latest: `2026-08-10T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
+- [crypto] UK regulators to prepare tokenized gold framework: Report (Cointelegraph.com News)
 - [macro] Burnham brings forward ban on 'subscription traps' to ease cost of living (BBC News)
 - [commodity] Australian rare earth miner surges as much as 29% after U.S. Department of War investment (Energy)
 - [crypto] Robinhood brings crypto trading to UK in AI-powered all-in-one app (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’ (Cointelegraph.com News)
 - [macro] Tech leaders say AI means less work - their staff say they work up to 90 hours a week (BBC News)
-- [commodity] Trump says oil supermajors are making too much money. What will they do with it? (Energy)
