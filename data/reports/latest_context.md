@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T08:37:27.777426+00:00`
+- Generated: `2026-08-10T08:52:30.538756+00:00`
 - Market context score: `49.79`
 - News risk score: `39.92`
 - Macro risk score: `35.08`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8588`
-- Day/swing latest: `2026-08-10T08:30:00+00:00`
+- Day/swing records: `8589`
+- Day/swing latest: `2026-08-10T08:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
 - [commodity] Australian rare earth miner surges after U.S. Department of War investment (Energy)
-- [commodity] Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
 - [crypto] Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] UK regulators to prepare tokenized gold framework: Report (Cointelegraph.com News)
 - [macro] China evacuates one million from homes as massive storm arrives (BBC News)
