@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T06:22:26.469432+00:00`
-- Market context score: `39.22`
-- News risk score: `43.0`
-- Macro risk score: `32.0`
-- Risk-on score: `13.33`
-- Articles: `21`
+- Generated: `2026-08-10T06:37:27.826152+00:00`
+- Market context score: `40.0`
+- News risk score: `42.23`
+- Macro risk score: `30.46`
+- Risk-on score: `13.85`
+- Articles: `22`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8580`
-- Day/swing latest: `2026-08-10T06:15:00+00:00`
+- Day/swing records: `8581`
+- Day/swing latest: `2026-08-10T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `11`, risk hits `3`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
 - [commodity] Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
+- [crypto] This bitcoin miner rejected BIP-110 despite mining through a pool that supported it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’ (Cointelegraph.com News)
 - [macro] Tech leaders say AI means less work - their staff say they work up to 90 hours a week (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures (Cointelegraph.com News)
 - [crypto] XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto’s first quantum attack will look like unexplained breach: Quantus founder (Cointelegraph.com News)
-- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
