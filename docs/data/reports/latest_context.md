@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T06:06:29.066314+00:00`
-- Market context score: `37.65`
-- News risk score: `44.54`
-- Macro risk score: `35.08`
-- Risk-on score: `12.31`
-- Articles: `22`
+- Generated: `2026-08-10T06:22:26.469432+00:00`
+- Market context score: `39.22`
+- News risk score: `43.0`
+- Macro risk score: `32.0`
+- Risk-on score: `13.33`
+- Articles: `21`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8579`
-- Day/swing latest: `2026-08-10T06:00:00+00:00`
+- Day/swing records: `8580`
+- Day/swing latest: `2026-08-10T06:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [commodity] Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
 - [crypto] Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’ (Cointelegraph.com News)
 - [macro] Tech leaders say AI means less work - their staff say they work up to 90 hours a week (BBC News)
 - [commodity] Trump says oil supermajors are making too much money. What will they do with it? (Energy)
