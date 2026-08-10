@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-10T08:05:28.829743+00:00`
+- Generated: `2026-08-10T08:10:33.453110+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `735540.971636` | liquidity: `824320.97436`
-- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `733895.25` | liquidity: `1851274.05373`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `655542.505947` | liquidity: `1360181.35541`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `400124.3779550014` | liquidity: `96140.6559`
-- Israel x Iran ceasefire continues through August 9? | 24h volume: `394513.870384` | liquidity: `127263.11133`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `364182.449` | liquidity: `18256.71433`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `334559.01238199987` | liquidity: `686369.5347`
-- US announces end of Iranian blockade by August 15, 2026? | 24h volume: `330088.28688699985` | liquidity: `84208.3909`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `735540.971636` | liquidity: `824385.98208`
+- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `733895.25` | liquidity: `1850982.34522`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `655542.505947` | liquidity: `1369562.80196`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `400124.3779550014` | liquidity: `95391.3032`
+- Israel x Iran ceasefire continues through August 9? | 24h volume: `394513.870384` | liquidity: `125101.26702`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `364182.449` | liquidity: `19090.54824`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `334559.01238199987` | liquidity: `702535.1841`
+- US announces end of Iranian blockade by August 15, 2026? | 24h volume: `330088.28688699985` | liquidity: `61316.0298`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
