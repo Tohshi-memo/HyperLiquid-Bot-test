@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-10T17:35:32.844726+00:00`
+- Generated: `2026-08-10T17:42:05.983950+00:00`
 - Flow alert score: `21.52`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `738116.335` | liquidity: `1864446.37907`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `715647.8381439998` | liquidity: `361410.2944`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `678369.296` | liquidity: `18517.3967`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `678109.016857` | liquidity: `992366.23475`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `665403.3739439998` | liquidity: `250117.9561`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `537237.8948410002` | liquidity: `358063.8978`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `512971.7639440002` | liquidity: `1196415.99324`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `489221.3320269999` | liquidity: `806376.20952`
+- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `738116.335` | liquidity: `1863547.27907`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `715647.8381439998` | liquidity: `359089.4454`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `678369.296` | liquidity: `17647.58821`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `678109.016857` | liquidity: `997562.0894`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `665403.3739439998` | liquidity: `249769.80684`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `537237.8948410002` | liquidity: `356126.4448`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `512971.7639440002` | liquidity: `1203431.12425`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `489221.3320269999` | liquidity: `809278.99992`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
