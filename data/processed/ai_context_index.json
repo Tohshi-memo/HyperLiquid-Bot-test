@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T06:37:27.826152+00:00",
+  "updated_at": "2026-08-10T06:52:31.946326+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -26,7 +26,7 @@
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 62361,
+        "bytes": 62272,
         "note": "Machine-readable map."
       },
       {
@@ -61,7 +61,7 @@
       },
       {
         "path": "data/reports/latest_hip4_outcome.md",
-        "bytes": 6160,
+        "bytes": 6154,
         "note": "HIP-4 outcome market overview."
       },
       {
@@ -103,22 +103,22 @@
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 4931082,
+        "bytes": 4931126,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 2949362,
+        "bytes": 2949506,
         "note": "Polymarket/flow history."
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 568334,
+        "bytes": 568100,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 46836819,
+        "bytes": 46836820,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -133,17 +133,17 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 15026,
+        "bytes": 15038,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 4033353,
+        "bytes": 4033413,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
         "path": "data/processed/relationship_scan_latest.json",
-        "bytes": 1666810,
+        "bytes": 1666813,
         "note": "Mechanical A/B -> future-return candidate patterns."
       },
       {
@@ -164,10 +164,6 @@
       },
       {
         "path": "data/archive/asset_price_history_2026-06.jsonl.gz",
-        "when_to_read": "Only for longer backtests after a specific rule is selected."
-      },
-      {
-        "path": "data/archive/asset_price_history_2026-08.jsonl.gz",
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
       {
@@ -193,8 +189,7 @@
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
-      "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-08.jsonl.gz"
+      "data/archive/asset_price_history_2026-06.jsonl.gz"
     ],
     "polymarket_outcome_archive_files": [
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
@@ -203,7 +198,6 @@
     "archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
       "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-08.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-06.jsonl.gz"
     ],
@@ -253,7 +247,7 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-08-10T06:37:27.826152+00:00",
+    "generated_at": "2026-08-10T06:52:31.946326+00:00",
     "scores": {
       "news_risk_score": 42.23,
       "macro_risk_score": 30.46,
@@ -498,7 +492,7 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-08-10T06:35:34.655205+00:00",
+      "generated_at": "2026-08-10T06:50:32.021834+00:00",
       "scores": {
         "flow_alert_score": 17.0,
         "flow_alert_level": "baseline"
@@ -518,9 +512,9 @@
       },
       "polymarket": {
         "market_count": 60,
-        "volume_24h": 8743441.47,
-        "lifetime_volume": 440473579.11,
-        "liquidity": 30084078.4,
+        "volume_24h": 8787753.95,
+        "lifetime_volume": 435289779.53,
+        "liquidity": 29931654.76,
         "top_markets": [
           {
             "question": "Strait of Hormuz traffic returns to normal by August 31?",
@@ -529,24 +523,24 @@
             "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 635834.161451,
-            "volume": 11146739.851134008,
-            "liquidity": 1351225.34427,
+            "volume_24h": 628621.6593510001,
+            "volume": 11148040.709034007,
+            "liquidity": 1347387.39447,
             "end_date": "2026-08-31T00:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.0405,
+                "probability": 0.0395,
                 "token_id": "105426373826369935595603860663411604941599130211176020843036778867927711117332"
               },
               {
                 "name": "No",
-                "probability": 0.9595,
+                "probability": 0.9605,
                 "token_id": "90869494087977018607792751230236923002303032923064138180950209430688758061828"
               }
             ],
-            "yes_probability": 0.0405,
-            "no_probability": 0.9595
+            "yes_probability": 0.0395,
+            "no_probability": 0.9605
           },
           {
             "question": "Strait of Hormuz traffic returns to normal by August 15?",
@@ -555,9 +549,9 @@
             "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 498622.31014599995,
-            "volume": 4959234.800783998,
-            "liquidity": 1007932.10991,
+            "volume_24h": 498632.3201459999,
+            "volume": 4959257.800783997,
+            "liquidity": 1009585.95167,
             "end_date": "2026-08-15T00:00:00Z",
             "outcomes": [
               {
@@ -581,9 +575,9 @@
             "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 450807.773,
-            "volume": 655051.5719919999,
-            "liquidity": 1543318.54661,
+            "volume_24h": 450796.763,
+            "volume": 655051.571992,
+            "liquidity": 1541019.59461,
             "end_date": "2028-11-07T00:00:00Z",
             "outcomes": [
               {
@@ -607,9 +601,9 @@
             "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 389771.42516800144,
-            "volume": 7597062.527905003,
-            "liquidity": 98014.3353,
+            "volume_24h": 390525.42516800156,
+            "volume": 7597916.527905025,
+            "liquidity": 98160.3578,
             "end_date": "2026-07-31T23:59:00Z",
             "outcomes": [
               {
@@ -633,9 +627,9 @@
             "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 379082.329023,
-            "volume": 2226642.4540919997,
-            "liquidity": 118800.61062,
+            "volume_24h": 380099.6340230001,
+            "volume": 2227785.1990919993,
+            "liquidity": 121577.8759,
             "end_date": "2026-08-09T23:59:00Z",
             "outcomes": [
               {
@@ -653,15 +647,41 @@
             "no_probability": 0.0015
           },
           {
+            "question": "Will the Iranian regime fall before 2027?",
+            "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+            "event_slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+            "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026",
+            "query": "geopolitics",
+            "impact_category": "geopolitics",
+            "volume_24h": 294100.02955199993,
+            "volume": 24584846.910164986,
+            "liquidity": 816191.4701,
+            "end_date": "2026-12-31T00:00:00Z",
+            "outcomes": [
+              {
+                "name": "Yes",
+                "probability": 0.065,
+                "token_id": "10991849228756847439673778874175365458450913336396982752046655649803657501964"
+              },
+              {
+                "name": "No",
+                "probability": 0.935,
+                "token_id": "106181075047366745139197108801635573283215248045056329679360376976893016488727"
+              }
+            ],
+            "yes_probability": 0.065,
+            "no_probability": 0.935
+          },
+          {
             "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
             "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
             "event_slug": "fed-decision-in-september-762",
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 282349.512376,
-            "volume": 5842642.765449,
-            "liquidity": 777971.51361,
+            "volume_24h": 282773.562551,
+            "volume": 5843066.815624,
+            "liquidity": 777903.43609,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -679,41 +699,15 @@
             "no_probability": 0.9825
           },
           {
-            "question": "Will the Iranian regime fall before 2027?",
-            "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
-            "event_slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
-            "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026",
-            "query": "geopolitics",
-            "impact_category": "geopolitics",
-            "volume_24h": 278978.149552,
-            "volume": 24569725.030165013,
-            "liquidity": 740001.1347,
-            "end_date": "2026-12-31T00:00:00Z",
-            "outcomes": [
-              {
-                "name": "Yes",
-                "probability": 0.075,
-                "token_id": "10991849228756847439673778874175365458450913336396982752046655649803657501964"
-              },
-              {
-                "name": "No",
-                "probability": 0.925,
-                "token_id": "106181075047366745139197108801635573283215248045056329679360376976893016488727"
-              }
-            ],
-            "yes_probability": 0.075,
-            "no_probability": 0.925
-          },
-          {
             "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
             "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
             "event_slug": "fed-decision-in-september-762",
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 268730.9842429999,
-            "volume": 5252017.206430001,
-            "liquidity": 723873.5662,
+            "volume_24h": 270162.4981359997,
+            "volume": 5253559.831430001,
+            "liquidity": 721326.8833,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -737,9 +731,9 @@
             "url": "https://polymarket.com/event/republican-nominee-for-florida-governor",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 258857.81110299996,
-            "volume": 1572708.9014500002,
-            "liquidity": 147820.17863,
+            "volume_24h": 259121.70110299997,
+            "volume": 1572972.7914500004,
+            "liquidity": 148463.48192,
             "end_date": "2026-08-18T00:00:00Z",
             "outcomes": [
               {
@@ -763,9 +757,9 @@
             "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 254668.33685999995,
-            "volume": 884193.4350260001,
-            "liquidity": 69528.248,
+            "volume_24h": 254691.61554700005,
+            "volume": 884216.7137130001,
+            "liquidity": 69919.9473,
             "end_date": "2026-08-31T23:59:00Z",
             "outcomes": [
               {
@@ -784,11 +778,11 @@
           }
         ],
         "health_markets": [],
-        "volume_24h_zscore_7d": -0.87
+        "volume_24h_zscore_7d": -0.85
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-08-10T06:37:27.826152+00:00",
+      "generated_at": "2026-08-10T06:52:31.946326+00:00",
       "outcome_count": 8,
       "side_count": 16,
       "by_underlying": {
@@ -812,7 +806,7 @@
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-08-10T06:37:27.826152+00:00",
+      "generated_at": "2026-08-10T06:52:31.946326+00:00",
       "pattern_count": 88,
       "min_samples": 30,
       "top_patterns": [
@@ -1091,7 +1085,7 @@
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-08-10T06:37:27.826152+00:00",
+      "generated_at": "2026-08-10T06:52:31.946326+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121162,
       "top_patterns": [
@@ -1265,7 +1259,7 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-08-10T06:37:27.826152+00:00",
+      "generated_at": "2026-08-10T06:52:31.946326+00:00",
       "observed_at": "2026-08-10T06:30:00+00:00",
       "asset_count": 1198,
       "top_assets": [
@@ -1846,5 +1840,5 @@
     "read_relationship_scan_when": "Selecting public, mechanically discovered A/B -> future-return candidates for private AI hypothesis review and strategy validation.",
     "read_sector_reactions_when": "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, or 252d after public event conditions."
   },
-  "available_at": "2026-08-10T06:38:28.581042+00:00"
+  "available_at": "2026-08-10T06:53:16.361913+00:00"
 }
