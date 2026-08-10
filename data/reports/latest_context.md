@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T21:52:41.780877+00:00`
-- Market context score: `56.55`
-- News risk score: `41.0`
-- Macro risk score: `31.08`
-- Risk-on score: `49.8`
-- Articles: `49`
+- Generated: `2026-08-10T22:07:29.154696+00:00`
+- Market context score: `59.21`
+- News risk score: `39.82`
+- Macro risk score: `29.21`
+- Risk-on score: `54.01`
+- Articles: `48`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8639`
-- Day/swing latest: `2026-08-10T21:45:00+00:00`
+- Day/swing records: `8640`
+- Day/swing latest: `2026-08-10T22:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `2`
 - crypto: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `8`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.15`, policy hits `0`
+- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war (Energy)
 - [macro] Trump signs order to limit childhood vaccines and split MMR shots (BBC News)
 - [crypto] Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Canada flight cancelled after child refuses to wear seat belt (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari (Cointelegraph.com News)
 - [crypto] UK money laundering suspect bought $100M in Trump crypto business: NYT (Cointelegraph.com News)
 - [commodity] U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal (Energy)
-- [macro] 'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes (BBC News)
