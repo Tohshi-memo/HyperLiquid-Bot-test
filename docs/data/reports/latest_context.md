@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T23:01:23.911424+00:00`
-- Market context score: `58.92`
-- News risk score: `39.41`
-- Macro risk score: `30.12`
-- Risk-on score: `53.38`
-- Articles: `47`
+- Generated: `2026-08-10T23:07:27.623432+00:00`
+- Market context score: `59.14`
+- News risk score: `39.34`
+- Macro risk score: `29.49`
+- Risk-on score: `53.57`
+- Articles: `48`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,14 +24,14 @@
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `2`
 - crypto: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `7`
-- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump signs order to limit childhood vaccines and split MMR shots (BBC News)
 - [macro] Nvidia gets $500bn from major banks to develop AI data centres (BBC News)
 - [commodity] Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war (Energy)
 - [macro] Councils to get more powers to stop vape and betting shops, PM announces (BBC News)
-- [macro] Trump signs order to limit childhood vaccines and split MMR shots (BBC News)
 - [crypto] Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Canada flight cancelled after child refuses to wear seat belt (BBC News)
 - [crypto] Judge stays CFTC’s case against US soldier over prediction market bets (Cointelegraph.com News)
