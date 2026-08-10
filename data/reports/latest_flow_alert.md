@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-10T05:30:25.285121+00:00`
+- Generated: `2026-08-10T05:35:26.832985+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9090379.9`
-- Polymarket volume z-score: `-0.7`
+- Polymarket 24h volume: `8974206.42`
+- Polymarket volume z-score: `-0.76`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `695572.5770229993` | liquidity: `1451488.96359`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `524111.10431399994` | liquidity: `1002163.29619`
-- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `450807.782` | liquidity: `1542704.14521`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `389978.6451680014` | liquidity: `95573.1272`
-- Israel x Iran ceasefire continues through August 9? | 24h volume: `375462.4330230001` | liquidity: `123759.87008`
-- US announces end of Iranian blockade by August 9, 2026? | 24h volume: `335241.84126600064` | liquidity: `90084.96543`
-- Will the Iranian regime fall before 2027? | 24h volume: `267867.94517099997` | liquidity: `758234.3333`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `265044.9771699999` | liquidity: `721048.426`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `648866.012739` | liquidity: `1454703.37281`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `524111.10431399994` | liquidity: `1003142.29619`
+- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `450807.782` | liquidity: `1542697.35921`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `390228.6451679994` | liquidity: `95582.3629`
+- Israel x Iran ceasefire continues through August 9? | 24h volume: `378090.37502300006` | liquidity: `122413.68764`
+- US announces end of Iranian blockade by August 9, 2026? | 24h volume: `334741.84126600006` | liquidity: `88283.97623`
+- Will the Iranian regime fall before 2027? | 24h volume: `267867.945171` | liquidity: `758231.3233`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `267368.11581199965` | liquidity: `721602.4408`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
