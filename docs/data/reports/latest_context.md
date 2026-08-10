@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T08:02:56.597164+00:00`
+- Generated: `2026-08-10T08:07:24.351524+00:00`
 - Market context score: `48.81`
 - News risk score: `40.88`
 - Macro risk score: `37.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `8586`
+- Day/swing latest: `2026-08-10T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
 - [crypto] Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] UK regulators to prepare tokenized gold framework: Report (Cointelegraph.com News)
 - [macro] Burnham brings forward ban on 'subscription traps' to ease cost of living (BBC News)
 - [commodity] Australian rare earth miner surges as much as 29% after U.S. Department of War investment (Energy)
 - [crypto] Robinhood brings crypto trading to UK in AI-powered all-in-one app (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
 - [crypto] This bitcoin miner rejected BIP-110 despite mining through a pool that supported it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’ (Cointelegraph.com News)
