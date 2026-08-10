@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T23:37:26.519460+00:00`
-- Market context score: `59.32`
-- News risk score: `39.54`
-- Macro risk score: `27.48`
-- Risk-on score: `53.36`
-- Articles: `49`
+- Generated: `2026-08-10T23:47:40.116014+00:00`
+- Market context score: `63.15`
+- News risk score: `37.2`
+- Macro risk score: `26.05`
+- Risk-on score: `59.37`
+- Articles: `45`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8646`
-- Day/swing latest: `2026-08-10T23:30:00+00:00`
+- Day/swing records: `8647`
+- Day/swing latest: `2026-08-10T23:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `2`
-- crypto: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `0`
+- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `2`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `4`
+- macro: articles `25`, risk hits `2`, risk headline rate `0.08`, policy hits `0`
 
 ## Headlines
 
 - [macro] 'I started in my 20s and made £8,000': Why women are often better investors than men (BBC News)
 - [macro] Trump signs order to limit childhood vaccines and split MMR shots (BBC News)
-- [macro] Nvidia gets $500bn from major banks to develop AI data centres (BBC News)
+- [macro] Nvidia gets $500bn from major investors to develop AI data centres (BBC News)
 - [commodity] Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war (Energy)
 - [macro] Councils to get more powers to stop vape and betting shops, PM announces (BBC News)
 - [crypto] Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
