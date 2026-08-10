@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-10T03:22:29.394504+00:00`
-- Market context score: `51.36`
-- News risk score: `39.92`
-- Macro risk score: `25.85`
-- Risk-on score: `35.38`
-- Articles: `16`
+- Generated: `2026-08-10T03:37:25.628722+00:00`
+- Market context score: `50.77`
+- News risk score: `40.5`
+- Macro risk score: `27.0`
+- Risk-on score: `35.0`
+- Articles: `15`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:112, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8568`
-- Day/swing latest: `2026-08-10T03:15:00+00:00`
+- Day/swing records: `8569`
+- Day/swing latest: `2026-08-10T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
 - [commodity] Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal (Energy)
 - [crypto] BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9 (Cointelegraph.com News)
 - [crypto] Ex-US defense secretary calls CLARITY Act a ‘national security bill’ (Cointelegraph.com News)
-- [macro] Residents warned to brace for the worst as Canada wildfire rages out of control (BBC News)
 - [macro] You could be missing out on £150 off your energy bill - here's how to check (BBC News)
 - [macro] Evidence that South African special forces murdered top detective shared with BBC (BBC News)
 - [macro] How Kinahan's hearing unfolded inside the courtroom in Dublin (BBC News)
