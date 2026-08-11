@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T17:22:30.607016+00:00`
-- Market context score: `47.98`
-- News risk score: `47.2`
-- Macro risk score: `26.74`
-- Risk-on score: `34.37`
+- Generated: `2026-08-11T17:37:28.810296+00:00`
+- Market context score: `46.07`
+- News risk score: `47.8`
+- Macro risk score: `27.04`
+- Risk-on score: `30.75`
 - Articles: `92`
 - Polymarket markets: `388`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8715`
-- Day/swing latest: `2026-08-11T17:15:00+00:00`
+- Day/swing records: `8716`
+- Day/swing latest: `2026-08-11T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `36`, risk hits `12`, risk headline rate `0.3056`, policy hits `3`
-- macro: articles `53`, risk hits `12`, risk headline rate `0.2075`, policy hits `1`
+- crypto: articles `35`, risk hits `12`, risk headline rate `0.3143`, policy hits `3`
+- macro: articles `54`, risk hits `12`, risk headline rate `0.2037`, policy hits `3`
 
 ## Headlines
 
-- [crypto] EToro reports second quarter crypto loss even as total profit beats estimates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Exclusive-Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says (Yahoo Finance)
-- [macro] Russia releases former US Marine reported in poor health (BBC News)
-- [macro] AXT Slides Before Lumentum and Coherent Report Earnings This Week. (Yahoo Finance)
-- [macro] Manus returns to independence after China blocks Meta acquisition (Yahoo Finance)
-- [macro] Analyst predicts 55% rally for surging stock on $9B Anthropic deal (Yahoo Finance)
-- [macro] Costco’s Stock Has a Problem: It’s Almost Too Good (Yahoo Finance)
-- [macro] Wall St inches lower as tech drags, US-Iran peace optimism fades (Yahoo Finance)
-- [macro] Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch (Yahoo Finance)
-- [macro] Elon Musk Says Memory Is Now AI's Biggest Bottleneck. Here's What That Means for Micron and Sandisk. (Yahoo Finance)
+- [commodity] U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met (Energy)
+- [macro] Broadwind, Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] PSEG (PEG) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Why ASML Holding Stock Rallied Tuesday Morning (Yahoo Finance)
+- [macro] QuantumScape Has Promised a Battery Breakthrough for Years. Is 2026 Finally The Year? (Yahoo Finance)
+- [macro] Why Archer Aviation Stock Just Jumped 9% (Yahoo Finance)
+- [macro] Team, Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls, Oil Rises On Mixed Signals On Iran; Roger Federer Play Dives On This (Live Coverage) (Yahoo Finance)
+- [macro] Bicara Therapeutics Inc. Common Stock Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] Enviri Corporation Q2 2026 Earnings Call Summary (Yahoo Finance)
