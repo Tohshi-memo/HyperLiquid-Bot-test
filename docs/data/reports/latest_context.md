@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T19:37:29.013540+00:00`
-- Market context score: `43.57`
-- News risk score: `49.21`
-- Macro risk score: `33.28`
-- Risk-on score: `28.72`
-- Articles: `67`
+- Generated: `2026-08-11T19:51:19.235176+00:00`
+- Market context score: `43.96`
+- News risk score: `49.0`
+- Macro risk score: `32.67`
+- Risk-on score: `29.18`
+- Articles: `69`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8724`
-- Day/swing latest: `2026-08-11T19:30:00+00:00`
+- Day/swing records: `8725`
+- Day/swing latest: `2026-08-11T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `33`, risk hits `11`, risk headline rate `0.303`, policy hits `4`
-- macro: articles `31`, risk hits `10`, risk headline rate `0.2903`, policy hits `2`
+- crypto: articles `34`, risk hits `11`, risk headline rate `0.2941`, policy hits `4`
+- macro: articles `32`, risk hits `10`, risk headline rate `0.2812`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Following Senate delay, crypto bill has a narrow window to become law (Cointelegraph.com News)
 - [macro] Houthis reportedly kill six in first deadly attack since start of Iran war (BBC News)
 - [macro] Luigi Mangione murder trial to have anonymous jury and overflow seating (BBC News)
 - [commodity] U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met (Energy)
@@ -37,4 +38,3 @@
 - [macro] Former judge removed by Orbán elected Hungarian president (BBC News)
 - [crypto] Strategy CEO says company will resume Bitcoin accumulation this year (Cointelegraph.com News)
 - [macro] Gas station giant gives up on 471 stores (Yahoo Finance)
-- [crypto] ARP Digital secures Dubai VARA broker-dealer license (Cointelegraph.com News)
