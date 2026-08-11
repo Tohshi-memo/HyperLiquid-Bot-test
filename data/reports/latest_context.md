@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T19:22:28.103705+00:00`
+- Generated: `2026-08-11T19:37:29.013540+00:00`
 - Market context score: `43.57`
 - News risk score: `49.21`
 - Macro risk score: `33.28`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8723`
-- Day/swing latest: `2026-08-11T19:15:00+00:00`
+- Day/swing records: `8724`
+- Day/swing latest: `2026-08-11T19:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Houthis reportedly kill six in first deadly attack since start of Iran war (BBC News)
 - [macro] Luigi Mangione murder trial to have anonymous jury and overflow seating (BBC News)
 - [commodity] U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met (Energy)
 - [macro] Rescuers scramble for survivors with 180 dead in Colombia earthquake (BBC News)
@@ -35,6 +36,5 @@
 - [macro] An inflation report Wednesday should be a big deal for the Fed. Here's what to expect (Economy)
 - [macro] Former judge removed by Orbán elected Hungarian president (BBC News)
 - [crypto] Strategy CEO says company will resume Bitcoin accumulation this year (Cointelegraph.com News)
+- [macro] Gas station giant gives up on 471 stores (Yahoo Finance)
 - [crypto] ARP Digital secures Dubai VARA broker-dealer license (Cointelegraph.com News)
-- [crypto] EToro reports second quarter crypto loss even as total profit beats estimates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russia releases former US Marine reported in poor health (BBC News)
