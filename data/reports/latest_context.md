@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T17:37:28.810296+00:00`
+- Generated: `2026-08-11T17:44:46.901756+00:00`
 - Market context score: `46.07`
 - News risk score: `47.8`
 - Macro risk score: `27.04`
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [commodity] U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met (Energy)
+- [macro] SpaceX analyst plots path to bold $100 billion claim (Yahoo Finance)
+- [macro] QumulusAI (QMLS) Signs Nvidia DRW Blackwell Deal: Can Contract Momentum Translate Into Revenue? (Yahoo Finance)
+- [macro] Trump Media Q2 2026 earnings: $238 million net loss on crypto (Yahoo Finance)
+- [macro] Exxon’s (XOM) Profit Missed. So Why Is The Dividend Getting Stronger? (Yahoo Finance)
+- [macro] Nasdaq acquires LeveL Markets ATS in always-on markets push (Yahoo Finance)
+- [macro] Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP (Yahoo Finance)
+- [macro] Could Bitcoin really crash to $20,000? Analyst says watch out for 2027 (Yahoo Finance)
 - [macro] Broadwind, Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
-- [macro] PSEG (PEG) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Why ASML Holding Stock Rallied Tuesday Morning (Yahoo Finance)
-- [macro] QuantumScape Has Promised a Battery Breakthrough for Years. Is 2026 Finally The Year? (Yahoo Finance)
-- [macro] Why Archer Aviation Stock Just Jumped 9% (Yahoo Finance)
 - [macro] Team, Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls, Oil Rises On Mixed Signals On Iran; Roger Federer Play Dives On This (Live Coverage) (Yahoo Finance)
-- [macro] Bicara Therapeutics Inc. Common Stock Q2 2026 Earnings Call Summary (Yahoo Finance)
-- [macro] Enviri Corporation Q2 2026 Earnings Call Summary (Yahoo Finance)
