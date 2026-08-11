@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T06:52:30.503463+00:00`
+- Generated: `2026-08-11T07:07:28.327803+00:00`
 - Market context score: `43.51`
 - News risk score: `39.36`
 - Macro risk score: `24.18`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8673`
-- Day/swing latest: `2026-08-11T06:45:00+00:00`
+- Day/swing records: `8674`
+- Day/swing latest: `2026-08-11T07:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Trump Media reports $238m loss as crypto falls (BBC News)
 - [crypto] South Korea drops Travel Rule threshold for crypto transfers (Cointelegraph.com News)
 - [crypto] BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Payments platform Decta explores stablecoin-enabled treasury settlement (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] U.S. judge ends graft case against Indian billionaire Gautam Adani (Energy)
 - [crypto] Luke Dashjr removed as Bitcoin Improvement Proposal editor (Cointelegraph.com News)
 - [crypto] XRP, ether lead crypto losses as traders eye $70,000 bitcoin next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] White House vows to get CLARITY across ‘finish line’ in September (Cointelegraph.com News)
