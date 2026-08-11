@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T12:02:46.280372+00:00`
-- Market context score: `45.98`
-- News risk score: `46.42`
-- Macro risk score: `31.32`
-- Risk-on score: `30.99`
-- Articles: `66`
+- Generated: `2026-08-11T12:07:37.073066+00:00`
+- Market context score: `48.72`
+- News risk score: `44.7`
+- Macro risk score: `27.17`
+- Risk-on score: `34.05`
+- Articles: `69`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `30`, risk hits `9`, risk headline rate `0.2667`, policy hits `6`
-- macro: articles `33`, risk hits `10`, risk headline rate `0.2424`, policy hits `7`
+- crypto: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `6`
+- macro: articles `35`, risk hits `8`, risk headline rate `0.1714`, policy hits `7`
 
 ## Headlines
 
+- [macro] Councils to get more powers to stop vape and betting shops, PM announces (BBC News)
+- [crypto] MoneyGram expands on Solana with global crypto-to-cash service (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Gold prices today, Tuesday, August 11, 2026: Gold remains over $4,400 as Iran situation worsens (Yahoo Finance)
+- [macro] Eclipse chasers scramble for glasses as stocks run low (BBC News)
 - [macro] US bank Erebor nears $1.5bn funding round at $8bn valuation – report (Yahoo Finance)
+- [macro] Ambiq Micro Stock Rises On Chipmaker's Beat-And-Raise Report (Yahoo Finance)
 - [crypto] Australian watchdog suspends Cryptolink, forcing 96 ATMs offline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fermi Finally Gets an AI Tenant for Its Data-Center Site and the Stock Is Soaring (Yahoo Finance)
 - [macro] US-Iran standoff sends oil up, dents stocks (Yahoo Finance)
 - [macro] Nvidia partners with Wall Street firms on $500B AI financing (Yahoo Finance)
-- [macro] Paysafe debuts PaysafeWallet in Poland (Yahoo Finance)
-- [macro] Revolut secures banking licence in France (Yahoo Finance)
-- [macro] Dow Futures Edge Higher as Oil Prices Ease (Yahoo Finance)
-- [crypto] Ravencoin could roll back four days of transactions after critical block flaw (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Embraer Continues To Outpace Boeing, Airbus. It's In A Buy Zone Now. (Yahoo Finance)
