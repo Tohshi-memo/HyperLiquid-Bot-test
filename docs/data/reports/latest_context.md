@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T09:07:28.558443+00:00`
-- Market context score: `45.69`
-- News risk score: `36.22`
-- Macro risk score: `23.91`
-- Risk-on score: `18.92`
-- Articles: `28`
+- Generated: `2026-08-11T09:11:10.522487+00:00`
+- Market context score: `52.2`
+- News risk score: `40.16`
+- Macro risk score: `31.2`
+- Risk-on score: `39.47`
+- Articles: `41`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `3`
-- macro: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.2174`, policy hits `6`
 
 ## Headlines
 
+- [macro] Mars Bar from 1991 found - and it's 56% bigger than today's (BBC News)
+- [macro] PCAOB swears in Kyle S. Hauptman as board member (Yahoo Finance)
+- [macro] Andersen Group to acquire Andersen Mexico and five other US firms (Yahoo Finance)
+- [macro] Why Is the U.S. Army Buying $54 Billion Worth of Patriot Missiles From Lockheed Martin? (Yahoo Finance)
 - [macro] Wall Street giants hand Nvidia $500bn to fund boom in AI projects (BBC News)
 - [macro] Wall Street giants hand Nvidia $500bn to fund boom in AI projects (BBC News)
-- [commodity] Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade (Energy)
-- [macro] More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts (BBC News)
-- [crypto] Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report (Cointelegraph.com News)
-- [crypto] A $2 trillion asset class is getting a new blockchain rail (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] South Korea drops Travel Rule threshold for crypto transfers (Cointelegraph.com News)
-- [crypto] BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Payments platform Decta explores stablecoin-enabled treasury settlement (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] US-Iran standoff sends oil up, dents stocks (Yahoo Finance)
+- [macro] UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals (Yahoo Finance)
+- [macro] Micron vs. SK Hynix: Which Memory Chip Giant Is the Better Buy? (Yahoo Finance)
+- [macro] Aben Gold starts 2026 drilling at Justin Gold-Tungsten, Yukon (Yahoo Finance)
