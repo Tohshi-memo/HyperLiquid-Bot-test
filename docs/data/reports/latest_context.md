@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T11:07:47.403920+00:00`
-- Market context score: `49.46`
-- News risk score: `45.51`
-- Macro risk score: `27.35`
-- Risk-on score: `36.44`
+- Generated: `2026-08-11T11:10:00.184902+00:00`
+- Market context score: `47.8`
+- News risk score: `47.13`
+- Macro risk score: `30.6`
+- Risk-on score: `35.36`
 - Articles: `63`
 - Polymarket markets: `390`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `6`
-- macro: articles `34`, risk hits `7`, risk headline rate `0.1765`, policy hits `4`
+- macro: articles `34`, risk hits `9`, risk headline rate `0.2353`, policy hits `4`
 
 ## Headlines
 
 - [crypto] Bitcoin-backed lending is entering its institutional era: Two Prime (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Betting on Cancellations? Kalshi Sued by FlightAware Over Unauthorized Data Use (Yahoo Finance)
+- [macro] Multiplex named main contractor for London’s 99 City Road development (Yahoo Finance)
+- [macro] Wesley Batista, son of JBS founder, returns as CEO (Yahoo Finance)
+- [macro] EY to add “agent economics” role to scrutinise AI spending- report (Yahoo Finance)
+- [macro] Anesco secures NIC backing to expand utility-scale solar and storage (Yahoo Finance)
 - [macro] Textile Exchange shares new Materials Matter policies (Yahoo Finance)
 - [crypto] Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant (Cointelegraph.com News)
-- [macro] Purvah Green Power to acquire 1.4GWp portfolio from Renew Solar (Yahoo Finance)
-- [macro] Should You Own Walmart for Its Dividend King Status or Costco for Its Special Dividend? Here's the Answer. (Yahoo Finance)
 - [crypto] Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Covestro joins BMW and Forvia in circular economy research project (Yahoo Finance)
 - [macro] Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia (BBC News)
-- [macro] Morning Bid: Long bond bother (Yahoo Finance)
-- [macro] Is Lam Research, KLA, or Applied Materials the Best Chip Equipment Buy? Jim Cramer Weighs In (Yahoo Finance)
