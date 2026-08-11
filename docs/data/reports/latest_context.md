@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T18:07:38.354403+00:00`
-- Market context score: `46.72`
-- News risk score: `47.11`
-- Macro risk score: `25.72`
-- Risk-on score: `31.1`
-- Articles: `92`
+- Generated: `2026-08-11T18:22:34.803319+00:00`
+- Market context score: `44.73`
+- News risk score: `47.65`
+- Macro risk score: `31.87`
+- Risk-on score: `29.46`
+- Articles: `67`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8718`
-- Day/swing latest: `2026-08-11T18:00:00+00:00`
+- Day/swing records: `8719`
+- Day/swing latest: `2026-08-11T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `35`, risk hits `12`, risk headline rate `0.3143`, policy hits `2`
-- macro: articles `54`, risk hits `11`, risk headline rate `0.1852`, policy hits `3`
+- crypto: articles `35`, risk hits `11`, risk headline rate `0.2857`, policy hits `3`
+- macro: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Strategy CEO says company will resume Bitcoin accumulation this year (Cointelegraph.com News)
 - [commodity] U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met (Energy)
 - [crypto] ARP Digital secures Dubai VARA broker-dealer license (Cointelegraph.com News)
-- [macro] Atlassian and Doximity Just Surged 30% After Earnings: 3 Software Stocks with the Same Setup (Yahoo Finance)
-- [macro] Why Bloom Energy Stock Crashed in July (Yahoo Finance)
-- [macro] LGI Homes (LGIH) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Blackstone Digital (BXDC) Q2 2026 Earnings Call (Yahoo Finance)
-- [macro] Vivid Seats (SEAT) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Walmart (WMT) Bets On Streaming Ads. Can The Stock Catch Up? (Yahoo Finance)
-- [macro] DarioHealth Corp. Q2 2026 Earnings Call Summary (Yahoo Finance)
-- [macro] QumulusAI (QMLS) Signs DRW Blackwell Deal: Can Momentum Translate Into Revenue? (Yahoo Finance)
+- [crypto] EToro reports second quarter crypto loss even as total profit beats estimates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Russia releases former US Marine reported in poor health (BBC News)
+- [crypto] FlightAware sues Kalshi over flight cancellation data (Cointelegraph.com News)
+- [crypto] Coinbase-backed Flowdesk secures full broker-dealer license in Dubai (Cointelegraph.com News)
+- [crypto] Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets (Cointelegraph.com News)
+- [macro] Eclipse chasers scramble for glasses as stocks run low (BBC News)
+- [crypto] Bitcoin drops to one-week low as retail buys gold at highest prices since June (Cointelegraph.com News)
