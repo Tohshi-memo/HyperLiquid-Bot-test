@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T00:07:33.749634+00:00`
-- Market context score: `63.15`
-- News risk score: `37.2`
-- Macro risk score: `26.05`
-- Risk-on score: `59.37`
-- Articles: `45`
+- Generated: `2026-08-11T00:22:32.835594+00:00`
+- Market context score: `62.54`
+- News risk score: `37.33`
+- Macro risk score: `27.05`
+- Risk-on score: `58.5`
+- Articles: `41`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8648`
-- Day/swing latest: `2026-08-11T00:00:00+00:00`
+- Day/swing records: `8649`
+- Day/swing latest: `2026-08-11T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `2`
-- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `4`
-- macro: articles `25`, risk hits `2`, risk headline rate `0.08`, policy hits `0`
+- crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `22`, risk hits `2`, risk headline rate `0.0909`, policy hits `0`
 
 ## Headlines
 
 - [macro] 'I started in my 20s and made £8,000': Why women are often better investors than men (BBC News)
 - [macro] Trump signs order to limit childhood vaccines and split MMR shots (BBC News)
-- [macro] Nvidia gets $500bn from major investors to develop AI data centres (BBC News)
+- [macro] Nvidia gets $500bn from major investors to develop AI infrastructure (BBC News)
 - [commodity] Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war (Energy)
 - [macro] Councils to get more powers to stop vape and betting shops, PM announces (BBC News)
 - [crypto] Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
