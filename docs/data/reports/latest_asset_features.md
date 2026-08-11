@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-08-11T19:51:19.235176+00:00`
-- Observed: `2026-08-11T19:45:00+00:00`
+- Generated: `2026-08-11T20:07:26.228052+00:00`
+- Observed: `2026-08-11T20:00:00+00:00`
 - Assets: `1199`
 
 ## Top Activity
 
-- `@703` unknown price `776.845` 4h `-0.0174` vol `0.0` relationship `market_context_high->@703_24h`
+- `@703` unknown price `776.845` 4h `-0.0457` vol `0.0` relationship `market_context_high->@703_24h`
 - `@591` unknown price `2e-07` 4h `0.0` vol `0.0` relationship `risk_on_high->@591_4h`
 - `@185` unknown price `0.002` 4h `0.0` vol `0.0` relationship `market_context_high->@185_4h`
-- `@219` unknown price `0.029769` 4h `-0.047` vol `0.0` relationship `risk_on_high->@219_4h`
+- `@219` unknown price `0.028841` 4h `-3.1629` vol `0.0` relationship `risk_on_high->@219_4h`
 - `@146` unknown price `1.2e-05` 4h `0.0` vol `0.0` relationship `risk_on_high->@146_4h`
-- `@699` unknown price `0.19775` 4h `2.802` vol `0.0` relationship `risk_on_high->@699_4h`
-- `CRV` crypto_alt price `0.26458` 4h `0.4594` vol `12544263.56` relationship `market_context_high->CRV_24h`
-- `KAITO` crypto_alt price `0.625735` 4h `-3.7997` vol `13794842.66` relationship `risk_on_high->KAITO_4h`
-- `GRASS` crypto_alt price `0.30689` 4h `4.9555` vol `658594.81` relationship `risk_on_high->GRASS_4h`
-- `@80` unknown price `0.00011` 4h `3.9698` vol `0.0` relationship `risk_on_high->@80_4h`
-- `xyz:BOT` equity price `31.638` 4h `6.4589` vol `2034806.68` relationship `market_context_high->xyz:BOT_1h`
+- `CRV` crypto_alt price `0.27073` 4h `2.0583` vol `12546792.08` relationship `market_context_high->CRV_24h`
+- `@699` unknown price `0.198835` 4h `1.8439` vol `0.0` relationship `risk_on_high->@699_4h`
+- `KAITO` crypto_alt price `0.6293` 4h `-2.6951` vol `14345751.26` relationship `risk_on_high->KAITO_4h`
+- `@80` unknown price `0.00011` 4h `3.7736` vol `0.0` relationship `risk_on_high->@80_4h`
+- `xyz:BOT` equity price `31.003` 4h `4.5579` vol `2059472.92` relationship `market_context_high->xyz:BOT_1h`
 - `@44` unknown price `0.00063` 4h `0.0` vol `0.0` relationship `risk_on_high->@44_4h`
-- `BOME` crypto_alt price `0.000774` 4h `1.9763` vol `661663.19` relationship `market_context_high->BOME_24h`
-- `PUMP` crypto_alt price `0.00271` 4h `0.1848` vol `46149042.72` relationship `risk_on_high->PUMP_1h`
-- `GMX` crypto_alt price `6.4769` 4h `0.4155` vol `209059.03` relationship `risk_on_high->GMX_4h`
-- `xyz:SMSN` equity price `172.105` 4h `0.3352` vol `60929222.2` relationship `risk_on_high->xyz:SMSN_1h`
-- `@700` unknown price `0.097689` 4h `-0.5852` vol `0.0` relationship `risk_on_high->@700_4h`
-- `xyz:SHAZ` equity price `56.9955` 4h `3.598` vol `1042138.89` relationship `risk_on_high->xyz:SHAZ_1h`
-- `0G` crypto_alt price `0.161625` 4h `1.8945` vol `476081.1` relationship `risk_on_high->0G_4h`
-- `xyz:CL` commodity price `82.658` 4h `0.1551` vol `245701466.39` relationship `risk_on_high->xyz:CL_4h`
+- `GRASS` crypto_alt price `0.30624` 4h `3.6731` vol `689146.52` relationship `risk_on_high->GRASS_4h`
+- `BOME` crypto_alt price `0.000778` 4h `3.5952` vol `654673.87` relationship `market_context_high->BOME_24h`
+- `PUMP` crypto_alt price `0.002767` 4h `1.2811` vol `45964223.84` relationship `risk_on_high->PUMP_1h`
+- `INJ` crypto_alt price `4.54395` 4h `1.1711` vol `2236503.99` relationship `risk_on_high->INJ_4h`
+- `xyz:SMSN` equity price `172.36` 4h `0.563` vol `60669797.21` relationship `risk_on_high->xyz:SMSN_1h`
+- `GMX` crypto_alt price `6.483` 4h `0.1127` vol `210096.78` relationship `risk_on_high->GMX_4h`
+- `CASHCAT` crypto_alt price `0.153795` 4h `5.934` vol `8253641.93` relationship `none`
+- `@700` unknown price `0.09791` 4h `-0.3603` vol `0.0` relationship `risk_on_high->@700_4h`
+- `@132` unknown price `0.001077` 4h `0.4664` vol `0.0` relationship `risk_on_high->@132_4h`
