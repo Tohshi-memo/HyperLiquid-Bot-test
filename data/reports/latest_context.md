@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-11T19:07:30.296928+00:00`
-- Market context score: `43.72`
-- News risk score: `48.99`
-- Macro risk score: `32.9`
+- Generated: `2026-08-11T19:22:28.103705+00:00`
+- Market context score: `43.57`
+- News risk score: `49.21`
+- Macro risk score: `33.28`
 - Risk-on score: `28.72`
 - Articles: `67`
 - Polymarket markets: `387`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:785`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8722`
-- Day/swing latest: `2026-08-11T19:00:00+00:00`
+- Day/swing records: `8723`
+- Day/swing latest: `2026-08-11T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `33`, risk hits `11`, risk headline rate `0.303`, policy hits `3`
+- crypto: articles `33`, risk hits `11`, risk headline rate `0.303`, policy hits `4`
 - macro: articles `31`, risk hits `10`, risk headline rate `0.2903`, policy hits `2`
 
 ## Headlines
 
+- [macro] Luigi Mangione murder trial to have anonymous jury and overflow seating (BBC News)
 - [commodity] U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met (Energy)
+- [macro] Rescuers scramble for survivors with 180 dead in Colombia earthquake (BBC News)
+- [crypto] Brazil's largest lender Itaú is stepping deeper into the tokenization (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] An inflation report Wednesday should be a big deal for the Fed. Here's what to expect (Economy)
 - [macro] Former judge removed by Orbán elected Hungarian president (BBC News)
 - [crypto] Strategy CEO says company will resume Bitcoin accumulation this year (Cointelegraph.com News)
 - [crypto] ARP Digital secures Dubai VARA broker-dealer license (Cointelegraph.com News)
 - [crypto] EToro reports second quarter crypto loss even as total profit beats estimates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia releases former US Marine reported in poor health (BBC News)
-- [crypto] FlightAware sues Kalshi over flight cancellation data (Cointelegraph.com News)
-- [crypto] Coinbase-backed Flowdesk secures full broker-dealer license in Dubai (Cointelegraph.com News)
-- [crypto] Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets (Cointelegraph.com News)
