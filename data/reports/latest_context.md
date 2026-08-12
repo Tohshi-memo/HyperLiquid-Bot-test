@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T06:07:34.687266+00:00`
-- Market context score: `37.9`
-- News risk score: `52.73`
-- Macro risk score: `33.08`
-- Risk-on score: `19.03`
-- Articles: `40`
+- Generated: `2026-08-12T06:22:28.266377+00:00`
+- Market context score: `36.86`
+- News risk score: `54.0`
+- Macro risk score: `31.52`
+- Risk-on score: `17.2`
+- Articles: `43`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8765`
-- Day/swing latest: `2026-08-12T06:00:00+00:00`
+- Day/swing records: `8766`
+- Day/swing latest: `2026-08-12T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `10`, risk headline rate `0.5333`, policy hits `2`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `1`
+- crypto: articles `16`, risk hits `11`, risk headline rate `0.5625`, policy hits `2`
+- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Harmony considers rollback after suspected exploit inflates ONE supply (Cointelegraph.com News)
 - [crypto] Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship (Energy)
 - [crypto] Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Oil prices rise as Red Sea, Gulf of Oman attacks heighten supply concerns (Energy)
 - [crypto] Dogecoin and BNB lead majors higher as bitcoin slips near $63,700 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CFTC invokes emergency powers to keep Kalshi operating in New York fight (Cointelegraph.com News)
-- [crypto] XRP bridge drained for $200,000 after software mistook fake deposits for real ones (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
