@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T08:22:32.617507+00:00`
-- Market context score: `36.19`
-- News risk score: `54.53`
-- Macro risk score: `30.92`
-- Risk-on score: `15.91`
-- Articles: `38`
+- Generated: `2026-08-12T08:37:31.337562+00:00`
+- Market context score: `35.75`
+- News risk score: `54.95`
+- Macro risk score: `31.77`
+- Risk-on score: `15.64`
+- Articles: `37`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8774`
-- Day/swing latest: `2026-08-12T08:15:00+00:00`
+- Day/swing records: `8775`
+- Day/swing latest: `2026-08-12T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `15`, risk hits `11`, risk headline rate `0.6`, policy hits `1`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `0`
 
 ## Headlines
 
-- [commodity] Brent oil hovers near $90 as Red Sea, Gulf of Oman attacks heighten supply concerns (Energy)
 - [commodity] Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says (Energy)
+- [commodity] Brent oil hovers near $90 as Red Sea, Gulf of Oman attacks heighten supply concerns (Energy)
 - [crypto] Inside the fake crypto startup that fooled North Korean IT workers (Cointelegraph.com News)
 - [macro] Homes near pylons to get £250 a year off energy bills – first sites revealed (BBC News)
 - [macro] At least 15 die as boat sinks in Zimbabwe's Lake Kariba (BBC News)
