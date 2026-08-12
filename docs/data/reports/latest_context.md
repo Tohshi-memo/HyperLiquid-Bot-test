@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T15:22:27.124719+00:00`
-- Market context score: `48.02`
-- News risk score: `51.04`
-- Macro risk score: `27.72`
-- Risk-on score: `38.07`
-- Articles: `89`
+- Generated: `2026-08-12T15:37:31.114162+00:00`
+- Market context score: `46.23`
+- News risk score: `52.58`
+- Macro risk score: `30.72`
+- Risk-on score: `36.52`
+- Articles: `87`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8802`
-- Day/swing latest: `2026-08-12T15:15:00+00:00`
+- Day/swing records: `8803`
+- Day/swing latest: `2026-08-12T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `2`
 - crypto: articles `32`, risk hits `14`, risk headline rate `0.375`, policy hits `6`
-- macro: articles `52`, risk hits `8`, risk headline rate `0.1538`, policy hits `9`
+- macro: articles `50`, risk hits `10`, risk headline rate `0.2`, policy hits `10`
 
 ## Headlines
 
+- [macro] Members of Trump's cabinet remained on decoy plane, after president's quiet exit (BBC News)
+- [commodity] Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim (Energy)
+- [macro] AI’s costly build-out complicates the Fed’s inflation fight (Economy)
+- [macro] Adobe vs. AppLovin: Which Technology Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Jamie Dimon Just Issued a Warning About AI Stocks. History Says the Smartest Investors Are Making This 1 Move. (Yahoo Finance)
+- [macro] GeoPark (GPRK) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Phillips 66 (PSX) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Cencora (COR) Q3 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Wintermute Plans $1B AI Infrastructure Push as It Diversifies Beyond Crypto (Yahoo Finance)
 - [macro] Spotify to add label for AI-generated artists and remove them from recommendations (BBC News)
-- [macro] Archrock (AROC) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] 3 Stocks to Buy After Post-Earnings Crashes (Yahoo Finance)
-- [macro] XRP vs HYPE: Which Beaten-Down Coin Recovers First? (Yahoo Finance)
-- [macro] CAVA Group shares jump as quarterly sales beat, cyclospora fears ease (Yahoo Finance)
-- [macro] SK Hynix and SanDisk Climb 8%, Western Digital Gains 4% as Memory Shortage Deepens (Yahoo Finance)
-- [macro] Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for shareholders (Yahoo Finance)
-- [macro] Microsoft Corporation (MSFT) vs. Meta Platforms, Inc. (META): Two Different Bets Behind Big Tech’s $1 Trillion Lease Bill (Yahoo Finance)
-- [crypto] Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60% (Cointelegraph.com News)
-- [crypto] Miden bets on privacy stablecoins with introduction of USDCx (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
