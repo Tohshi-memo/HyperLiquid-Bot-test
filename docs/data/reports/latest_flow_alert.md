@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-12T11:20:28.715069+00:00`
-- Flow alert score: `24.92`
+- Generated: `2026-08-12T11:25:35.941299+00:00`
+- Flow alert score: `23.96`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13954411.73`
-- Polymarket volume z-score: `1.98`
+- Polymarket 24h volume: `13520855.15`
+- Polymarket volume z-score: `1.74`
 
 ## Top Polymarket Markets
 
-- Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1575149.4306779988` | liquidity: `422382.48874`
-- Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1272412.030378` | liquidity: `402178.65324`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `785323.1622129998` | liquidity: `713510.05625`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `675592.2736280008` | liquidity: `155554.3607`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `574251.8970600001` | liquidity: `673302.25743`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `565460.541001` | liquidity: `472289.7815`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `548124.2120989998` | liquidity: `470341.3198`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `533515.211724` | liquidity: `673277.96749`
+- Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1574248.4506779998` | liquidity: `420573.01063`
+- Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1272412.030378` | liquidity: `395098.65324`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `775591.0425449999` | liquidity: `709992.57059`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `628174.295084` | liquidity: `154512.99611`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `534795.9272760003` | liquidity: `680297.10443`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `528494.613519` | liquidity: `457402.7335`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `527232.6656659999` | liquidity: `503116.4834`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `520537.7862599999` | liquidity: `672144.34301`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
