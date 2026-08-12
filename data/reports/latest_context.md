@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T23:22:26.171149+00:00`
-- Market context score: `41.78`
-- News risk score: `53.26`
-- Macro risk score: `35.99`
-- Risk-on score: `29.19`
-- Articles: `65`
+- Generated: `2026-08-12T23:37:34.934817+00:00`
+- Market context score: `40.78`
+- News risk score: `53.32`
+- Macro risk score: `36.6`
+- Risk-on score: `27.25`
+- Articles: `64`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8833`
-- Day/swing latest: `2026-08-12T23:15:00+00:00`
+- Day/swing records: `8834`
+- Day/swing latest: `2026-08-12T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.6667`, policy hits `2`
 - crypto: articles `27`, risk hits `12`, risk headline rate `0.3704`, policy hits `5`
-- macro: articles `32`, risk hits `9`, risk headline rate `0.2812`, policy hits `5`
+- macro: articles `31`, risk hits `9`, risk headline rate `0.2903`, policy hits `5`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [macro] Thousands of Canadians call for US ambassador's expulsion (BBC News)
 - [macro] Woman pulled alive from rubble 36 hours after Colombia quake (BBC News)
 - [crypto] Securitize falls 20% after earnings miss as tokenization revenue falls short (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] AARP issues urgent call on Medicare drug costs (Yahoo Finance)
 - [crypto] Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Why are 'human fridges' being sold in Japan? (BBC News)
