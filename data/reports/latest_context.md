@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T08:52:31.032749+00:00`
-- Market context score: `36.74`
-- News risk score: `53.99`
-- Macro risk score: `29.84`
-- Risk-on score: `16.29`
-- Articles: `36`
+- Generated: `2026-08-12T08:55:21.909926+00:00`
+- Market context score: `37.9`
+- News risk score: `52.29`
+- Macro risk score: `29.82`
+- Risk-on score: `17.41`
+- Articles: `37`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `11`, risk headline rate `0.6`, policy hits `1`
+- crypto: articles `16`, risk hits `11`, risk headline rate `0.5625`, policy hits `1`
 - macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] One overlooked group has added $1.78 billion of selling pressure to bitcoin market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Brent oil hovers near $90 as Red Sea, Gulf of Oman attacks heighten supply concerns (Energy)
 - [commodity] Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says (Energy)
 - [macro] Singapore and S Korea pull Trader Joe's seasoning over poppy seeds (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship (Energy)
 - [crypto] Harmony considers rollback after suspected exploit inflates ONE supply (Cointelegraph.com News)
-- [crypto] Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
