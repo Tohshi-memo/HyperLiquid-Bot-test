@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T11:07:24.752852+00:00`
-- Market context score: `35.99`
-- News risk score: `57.46`
-- Macro risk score: `39.88`
-- Risk-on score: `21.35`
-- Articles: `55`
+- Generated: `2026-08-12T11:13:29.171487+00:00`
+- Market context score: `38.73`
+- News risk score: `55.16`
+- Macro risk score: `37.79`
+- Risk-on score: `24.69`
+- Articles: `50`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `2`
 - crypto: articles `19`, risk hits `11`, risk headline rate `0.4737`, policy hits `1`
-- macro: articles `32`, risk hits `12`, risk headline rate `0.3125`, policy hits `12`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `9`
 
 ## Headlines
 
 - [commodity] India’s inflation accelerates to 4.45% in July, raising hopes of a rate hike later this year (Energy)
-- [macro] DHL, Vinted expand alliance to grow locker network for pre-owned fashion (Yahoo Finance)
-- [macro] Refined Capital Partners takes majority stake in Never Fully Dressed (Yahoo Finance)
-- [macro] UK’s Halewood sells Crabbie’s to local group Brookfield Drinks (Yahoo Finance)
+- [macro] AI’s costly buildout complicates the Fed’s inflation fight (Economy)
 - [macro] Spotify to add label for AI-generated artists and remove them from recommendations (BBC News)
-- [macro] If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now (Yahoo Finance)
-- [macro] India July inflation accelerates to 4.45%, unlikely to alter RBI rate outlook (Yahoo Finance)
 - [commodity] Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says (Energy)
-- [macro] Morning Bid: Inflation obscures all (Yahoo Finance)
+- [macro] AICPA seeks clearer CAMT rules from Treasury and IRS (Yahoo Finance)
 - [macro] Marc Benioff says experts are wrong about tech job deaths to AI, but backs startup replacing workers with AI (Yahoo Finance)
+- [macro] Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers (Yahoo Finance)
+- [macro] Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach (Yahoo Finance)
+- [macro] Prediction: A $1,000 Investment in IonQ Could Be Worth This Much by 2028 as Revenue Soars 287% and Its Backlog Grows Even Faster (Yahoo Finance)
+- [macro] How the Bond Market Inflated Powerball (Yahoo Finance)
