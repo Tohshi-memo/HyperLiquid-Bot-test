@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T01:07:28.418064+00:00`
-- Market context score: `37.26`
-- News risk score: `53.28`
+- Generated: `2026-08-12T01:22:26.743489+00:00`
+- Market context score: `36.15`
+- News risk score: `55.65`
 - Macro risk score: `31.27`
-- Risk-on score: `17.39`
+- Risk-on score: `16.92`
 - Articles: `47`
 - Polymarket markets: `388`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `8746`
+- Day/swing latest: `2026-08-12T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `12`, risk headline rate `0.5263`, policy hits `2`
+- crypto: articles `19`, risk hits `13`, risk headline rate `0.5789`, policy hits `2`
 - macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Ravencoin hits record low as network exploit puts transactions at risk (Cointelegraph.com News)
 - [macro] Trump's dramatic plane swap hints at personal stakes of Iran war (BBC News)
 - [crypto] SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme (Cointelegraph.com News)
 - [macro] Cristiano Ronaldo marries long-time partner Georgina Rodríguez (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Tokenomics: Why making AI pay is tricky (BBC News)
 - [macro] First 'pounds for pylons' energy bill discount sites revealed (BBC News)
 - [macro] Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat (BBC News)
-- [crypto] Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
