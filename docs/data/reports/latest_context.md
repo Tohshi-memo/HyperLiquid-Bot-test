@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T10:17:14.456064+00:00`
-- Market context score: `46.05`
-- News risk score: `46.01`
-- Macro risk score: `30.72`
-- Risk-on score: `30.56`
+- Generated: `2026-08-12T10:22:26.907231+00:00`
+- Market context score: `43.89`
+- News risk score: `47.61`
+- Macro risk score: `30.73`
+- Risk-on score: `27.13`
 - Articles: `46`
 - Polymarket markets: `390`
 
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `27`, risk hits `7`, risk headline rate `0.1852`, policy hits `7`
+- crypto: articles `17`, risk hits `8`, risk headline rate `0.4118`, policy hits `1`
+- macro: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `5`
 
 ## Headlines
 
+- [crypto] Bank of England to test stablecoin, digital currency use in cross-border finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low (Cointelegraph.com News)
-- [macro] Jenoptik Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Balfour Beatty H1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Everyone Wants “Resilience Over Returns.” Delaying Social Security May Buy More Safety Than Moving to Cash. (Yahoo Finance)
-- [macro] Coherent shares rise after Lumentum earnings boost optical networking outlook (Yahoo Finance)
-- [macro] Best CD rates today, Wednesday, August 12, 2026: Earn up to 4.30% APY (Yahoo Finance)
 - [macro] Tech stocks are getting cheaper even as earnings stay strong: Chart of the Day (Yahoo Finance)
-- [macro] Cleveland Fed's Beth Hammack warns one rate hike won't cut it as inflation swallows workers' wage gains (Yahoo Finance)
+- [macro] Best CD rates today, Wednesday, August 12, 2026: Earn up to 4.30% APY (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Wednesday, August 12, 2026: Fixed rates move higher (Yahoo Finance)
 - [macro] Wisconsin result halts winning streak for Democratic Party's left wing (BBC News)
+- [macro] Sandisk Is Up 429% This Year -- Its $15.5 Billion Stock Buyback Suggests Management Thinks Shares Are Still Cheap (Yahoo Finance)
+- [macro] River AI secures $1.1bn investment for full-stack AI development (Yahoo Finance)
+- [macro] The Stock Market Is Flashing the Same Warning Signal That It Did Before the Dot-Com Bubble. Here's What History Says Comes Next. (Yahoo Finance)
+- [macro] Retire at 60 and You Can Harvest Nearly $100,000 of Gains at 0% Every Single Year. That’s a Decade of Free Resets Before RMDs Ever Start (Yahoo Finance)
