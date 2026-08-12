@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T18:22:35.566310+00:00`
+- Generated: `2026-08-12T18:37:30.741225+00:00`
 - Market context score: `46.21`
 - News risk score: `51.0`
 - Macro risk score: `34.72`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8813`
-- Day/swing latest: `2026-08-12T18:15:00+00:00`
+- Day/swing records: `8814`
+- Day/swing latest: `2026-08-12T18:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices little changed after Red Sea, Gulf of Oman vessel attacks (Energy)
 - [macro] U.S. budget deficit surged in July to highest level since March 2021 (Economy)
 - [crypto] Bitwise cuts 14% of staff while still expecting growth (Cointelegraph.com News)
 - [macro] 'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers (Economy)
@@ -36,5 +37,4 @@
 - [crypto] Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Here are five key takeaways from the July CPI inflation report (Economy)
 - [macro] Discord ordered to suspend livestreams in Brazil (BBC News)
-- [macro] US inflation eases as food and fuel costs cool (BBC News)
 - [macro] US inflation eases as food and fuel costs cool (BBC News)
