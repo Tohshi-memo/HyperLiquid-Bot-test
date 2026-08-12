@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T07:37:27.823119+00:00`
+- Generated: `2026-08-12T07:47:29.598710+00:00`
 - Market context score: `38.3`
 - News risk score: `51.89`
 - Macro risk score: `29.02`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8771`
-- Day/swing latest: `2026-08-12T07:30:00+00:00`
+- Day/swing records: `8772`
+- Day/swing latest: `2026-08-12T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Inside the fake crypto startup that fooled North Korean IT workers (Cointelegraph.com News)
 - [macro] Homes near pylons to get £250 a year off energy bills – first sites revealed (BBC News)
 - [macro] At least 15 die as boat sinks in Zimbabwe's Lake Kariba (BBC News)
 - [crypto] Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] How affordable are Edinburgh's festivals? (BBC News)
