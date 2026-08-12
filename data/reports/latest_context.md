@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T15:37:31.114162+00:00`
+- Generated: `2026-08-12T15:44:53.610238+00:00`
 - Market context score: `46.23`
 - News risk score: `52.58`
 - Macro risk score: `30.72`
@@ -24,7 +24,7 @@
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `2`
 - crypto: articles `32`, risk hits `14`, risk headline rate `0.375`, policy hits `6`
-- macro: articles `50`, risk hits `10`, risk headline rate `0.2`, policy hits `10`
+- macro: articles `50`, risk hits `11`, risk headline rate `0.2`, policy hits `10`
 
 ## Headlines
 
@@ -33,8 +33,8 @@
 - [macro] AI’s costly build-out complicates the Fed’s inflation fight (Economy)
 - [macro] Adobe vs. AppLovin: Which Technology Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [macro] Jamie Dimon Just Issued a Warning About AI Stocks. History Says the Smartest Investors Are Making This 1 Move. (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Advances As Lumentum Soars On AI Demand, Earnings Beat (Live Coverage) (Yahoo Finance)
+- [macro] Does Palantir’s Agentic Moat Finally Justify Its Premium Valuation Multiple? (Yahoo Finance)
 - [macro] GeoPark (GPRK) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] BP p.l.c. (BP) vs. Shell plc (SHEL): Two Oil Majors Cash In on the Iran War, But Tell Different Stories (Yahoo Finance)
 - [macro] Phillips 66 (PSX) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Cencora (COR) Q3 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Wintermute Plans $1B AI Infrastructure Push as It Diversifies Beyond Crypto (Yahoo Finance)
-- [macro] Spotify to add label for AI-generated artists and remove them from recommendations (BBC News)
