@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-12T18:20:30.021970+00:00`
-- Flow alert score: `21.8`
+- Generated: `2026-08-12T18:25:34.610495+00:00`
+- Flow alert score: `21.92`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12835900.29`
-- Polymarket volume z-score: `1.2`
+- Polymarket 24h volume: `12901017.82`
+- Polymarket volume z-score: `1.23`
 
 ## Top Polymarket Markets
 
 - Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1553240.9327719987` | liquidity: `483069.19418`
-- Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1287499.4223270006` | liquidity: `445392.92112`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1109581.080617` | liquidity: `763003.84305`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `979930.115333` | liquidity: `15756.35783`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `880226.1641290002` | liquidity: `267629.973`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `785228.3243819999` | liquidity: `1007758.4986`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `599201.3177259999` | liquidity: `397937.1719`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `560170.4885319998` | liquidity: `638769.03233`
+- Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1287499.4223270006` | liquidity: `443192.81136`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1109581.080617` | liquidity: `761416.22528`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `979930.115333` | liquidity: `17896.62687`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `880226.1641290002` | liquidity: `269580.2843`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `785228.3243819999` | liquidity: `1009378.9416`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `599201.3177259999` | liquidity: `397998.5982`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `560170.4885319998` | liquidity: `638551.38461`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
