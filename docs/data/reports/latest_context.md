@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T18:37:30.741225+00:00`
+- Generated: `2026-08-12T18:41:39.666380+00:00`
 - Market context score: `46.21`
 - News risk score: `51.0`
 - Macro risk score: `34.72`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [commodity] Oil prices little changed after Red Sea, Gulf of Oman vessel attacks (Energy)
 - [macro] U.S. budget deficit surged in July to highest level since March 2021 (Economy)
+- [commodity] Oil prices little changed after Red Sea, Gulf of Oman vessel attacks (Energy)
 - [crypto] Bitwise cuts 14% of staff while still expecting growth (Cointelegraph.com News)
 - [macro] 'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers (Economy)
 - [macro] Trump sued over Truth Social's $100,000 early access service (BBC News)
