@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T14:47:16.061420+00:00`
+- Generated: `2026-08-12T14:52:25.185177+00:00`
 - Market context score: `43.12`
 - News risk score: `55.49`
 - Macro risk score: `33.09`
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [commodity] Oil prices little changed after Red Sea, Gulf of Oman vessel attacks (Energy)
+- [macro] BorgWarner (BWA) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Intel Did Much Worse Than Super Micro Computer But Both Got Punished (Yahoo Finance)
+- [macro] 1 Vanguard ETF That Outperforms the S&P 500 and Still Has Room to Run (Yahoo Finance)
+- [macro] Why Sandisk Stock Popped Today (Yahoo Finance)
+- [macro] GlobalFoundries (GFS) Q2 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] Paramount Skydance Corporation (PSKY) vs. Warner Bros. Discovery, Inc. (WBD): A Deal Stuck in Legal Limbo (Yahoo Finance)
+- [macro] IBD 50 Stocks To Watch: Obesity Drug Giant Eli Lilly Offers New Buy Point (Yahoo Finance)
 - [macro] Operational Traction Restores Investors’ Confidence in Cracker Barrel Old Country Store (CBRL) (Yahoo Finance)
 - [macro] Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4% (Economy)
-- [macro] What Makes Itron (ITRI) a Strong Investment Bet? (Yahoo Finance)
-- [macro] AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro (Yahoo Finance)
-- [macro] Seniors could see a bigger raise in 2027, according to new Social Security COLA estimate (Yahoo Finance)
-- [macro] AI’s costly build-out complicates the Fed’s inflation fight (Economy)
-- [macro] Aerospace Winner Astronics Breaks Out; This SpaceX Supplier Tumbles (Yahoo Finance)
-- [macro] Coinbase, Polymarket, Kalshi Face NYC Prediction Market Investigation (Yahoo Finance)
