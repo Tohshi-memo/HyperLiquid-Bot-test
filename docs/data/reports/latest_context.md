@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T19:07:37.908335+00:00`
+- Generated: `2026-08-12T19:22:31.113416+00:00`
 - Market context score: `46.64`
 - News risk score: `49.59`
 - Macro risk score: `34.72`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8816`
-- Day/swing latest: `2026-08-12T19:00:00+00:00`
+- Day/swing records: `8817`
+- Day/swing latest: `2026-08-12T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Oil prices little changed after Red Sea, Gulf of Oman vessel attacks (Energy)
 - [macro] U.S. budget deficit surged in July to highest level since March 2021 (Economy)
 - [crypto] Kraken adds S&P 500 to funded trading program, commodities to follow (Cointelegraph.com News)
-- [commodity] Oil prices little changed after Red Sea, Gulf of Oman vessel attacks (Energy)
 - [crypto] Bitwise cuts 14% of staff while still expecting growth (Cointelegraph.com News)
 - [macro] 'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers (Economy)
 - [macro] Trump sued over Truth Social's $100,000 early access service (BBC News)
