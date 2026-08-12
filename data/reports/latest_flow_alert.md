@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-12T17:25:30.932281+00:00`
+- Generated: `2026-08-12T17:33:40.589446+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14329678.51`
+- Polymarket 24h volume: `14330346.84`
 - Polymarket volume z-score: `2.02`
 
 ## Top Polymarket Markets
 
-- Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1571391.8914999987` | liquidity: `485441.80399`
-- Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1288143.4140160002` | liquidity: `445229.5025`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1211920.7965699998` | liquidity: `746192.13086`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `979944.115333` | liquidity: `16750.31162`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `878881.9336949999` | liquidity: `252076.9452`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `785333.974382` | liquidity: `1024805.71264`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `619379.33642` | liquidity: `378789.7585`
-- US x Iran Effective Ceasefire by July 31? | 24h volume: `607395.9011219989` | liquidity: `121625.81864`
+- Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1557832.7921589988` | liquidity: `487670.95418`
+- Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | 24h volume: `1287263.6240160002` | liquidity: `444341.77112`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1215368.1865700001` | liquidity: `746443.30397`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `979930.115333` | liquidity: `15769.17346`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `879842.5850039998` | liquidity: `253188.6926`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `785228.324382` | liquidity: `1023967.20188`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `619436.956178` | liquidity: `374353.2096`
+- US x Iran Effective Ceasefire by July 31? | 24h volume: `609108.7627019974` | liquidity: `119143.36524`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
