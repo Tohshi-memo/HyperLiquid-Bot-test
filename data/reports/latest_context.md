@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-12T21:52:25.585165+00:00`
+- Generated: `2026-08-12T21:58:27.527215+00:00`
 - Market context score: `39.59`
 - News risk score: `54.05`
 - Macro risk score: `40.41`
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] ICE plans to equip agents with gloves that can deliver electric shocks (BBC News)
 - [crypto] Hawaii crypto ATM ban to take effect on Oct. 1 (Cointelegraph.com News)
 - [commodity] Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea (Energy)
 - [macro] Members of Trump's cabinet remained on decoy plane, after president's quiet exit (BBC News)
 - [macro] Trump says White House press secretary Karoline Leavitt to leave post (BBC News)
-- [macro] ICE plans to equip agents with gloves that can deliver electric shocks (BBC News)
 - [macro] Woman pulled alive from rubble 36 hours after Colombia quake (BBC News)
 - [crypto] Goldman Sachs to acquire ETF manager NEOS in $2.25B deal (Cointelegraph.com News)
 - [crypto] NYC council announces probe into ‘predatory marketing practices’ on prediction markets (Cointelegraph.com News)
