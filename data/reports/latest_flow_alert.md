@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-13T01:15:31.730168+00:00`
+- Generated: `2026-08-13T01:20:27.538807+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9993661.75`
-- Polymarket volume z-score: `-0.35`
+- Polymarket 24h volume: `9832583.85`
+- Polymarket volume z-score: `-0.44`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1123020.1360970002` | liquidity: `773200.90585`
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `979930.115333` | liquidity: `21806.60347`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `808687.7877180001` | liquidity: `360205.473`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `733346.3716819999` | liquidity: `1021482.51385`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `578748.1913479998` | liquidity: `469893.4549`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `535285.119119` | liquidity: `636036.54195`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `446439.12487600005` | liquidity: `240296.4304`
-- Will Count Binface win the Clacton by-election? | 24h volume: `409739.88559600007` | liquidity: `253497.88875`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1124874.3360970002` | liquidity: `771649.98635`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `979930.115333` | liquidity: `22266.27497`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `809261.3367770002` | liquidity: `358124.9555`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `728815.4516820001` | liquidity: `1021926.09255`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `573705.2713479999` | liquidity: `468217.0864`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `530754.1991189999` | liquidity: `635947.53846`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `451272.458204` | liquidity: `236192.7749`
+- Will Count Binface win the Clacton by-election? | 24h volume: `417161.89016300003` | liquidity: `224949.76101`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
