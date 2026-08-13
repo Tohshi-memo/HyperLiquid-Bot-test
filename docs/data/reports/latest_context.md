@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T12:52:27.774003+00:00`
-- Market context score: `47.91`
-- News risk score: `49.29`
-- Macro risk score: `35.11`
-- Risk-on score: `39.14`
-- Articles: `60`
+- Generated: `2026-08-13T13:07:31.365032+00:00`
+- Market context score: `48.33`
+- News risk score: `50.61`
+- Macro risk score: `31.9`
+- Risk-on score: `39.96`
+- Articles: `73`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8885`
-- Day/swing latest: `2026-08-13T12:45:00+00:00`
+- Day/swing records: `8886`
+- Day/swing latest: `2026-08-13T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `7`
-- macro: articles `34`, risk hits `9`, risk headline rate `0.2353`, policy hits `5`
+- macro: articles `47`, risk hits `11`, risk headline rate `0.2128`, policy hits `5`
 
 ## Headlines
 
-- [macro] Harvey Nichols bought by Sports Direct owner (BBC News)
-- [macro] Wholesale prices were flat in July, below expectations for 0.2% increase (Economy)
 - [commodity] Trump-linked oil venture delays Greenland drilling plans after government warning (Energy)
-- [macro] The Iran war risks bringing the G7's fastest-growing economy to a halt (Economy)
-- [macro] Ondas Q2 2026 earnings: record revenue, raised full-year outlook (Yahoo Finance)
-- [macro] 436,000 sole traders and landlords file first MTD update, says HMRC (Yahoo Finance)
-- [macro] US Treasury reveals America is insolvent and famed economists warn of ‘fiscal catastrophe.’ Is your portfolio prepared? (Yahoo Finance)
-- [macro] Morgan Stanley's Adam Jonas lays out how SpaceX can unlock a long-term bullish stock move (Yahoo Finance)
-- [macro] CPI Card Group (PMTS) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Collegium Pharmaceutical (COLL) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Flock boss admits surveillance firm took too long to act over police abuse (BBC News)
+- [macro] The Fund Mounts Against Alphabet’s (GOOG) Aggressive AI Spending (Yahoo Finance)
+- [crypto] MUFG PoC to bring Japanese government bond repo transactions onchain (Cointelegraph.com News)
+- [macro] Harvey Nichols bought by Sports Direct owner (BBC News)
+- [macro] Liquidity Services (LQDT) Q3 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Unusual Machines (UMAC) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Playtika (PLTK) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Insider Sheds Nearly 53,000 Shares of Consumer Health Stock, Valued at Almost $900,000 (Yahoo Finance)
+- [macro] Sam Altman says he was 'peer-pressured and tricked' into an internship at Goldman Sachs — then turned it down anyway (Yahoo Finance)
