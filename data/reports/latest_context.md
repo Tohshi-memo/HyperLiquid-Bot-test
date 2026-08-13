@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T05:52:25.551888+00:00`
+- Generated: `2026-08-13T06:07:24.125381+00:00`
 - Market context score: `48.78`
 - News risk score: `41.24`
 - Macro risk score: `28.14`
 - Risk-on score: `31.62`
 - Articles: `44`
-- Polymarket markets: `389`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `663`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8858`
-- Day/swing latest: `2026-08-13T05:45:00+00:00`
+- Day/swing records: `8859`
+- Day/swing latest: `2026-08-13T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Metaplanet denies selling bitcoin worth $320 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Japan protests against Putin visit to disputed islands (BBC News)
 - [commodity] Oil rises on worries over supply disruptions as spill near Oman worsens (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer (Cointelegraph.com News)
 - [macro] BTS star V reveals hearing loss battle during livestream (BBC News)
 - [crypto] Speculation on dogecoin is back to October 2025 levels. The price is down 70% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
