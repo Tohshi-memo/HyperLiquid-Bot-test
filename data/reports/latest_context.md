@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T13:52:24.811406+00:00`
-- Market context score: `51.03`
-- News risk score: `46.58`
-- Macro risk score: `28.44`
-- Risk-on score: `41.24`
-- Articles: `73`
+- Generated: `2026-08-13T14:05:03.217785+00:00`
+- Market context score: `51.95`
+- News risk score: `46.15`
+- Macro risk score: `27.74`
+- Risk-on score: `42.67`
+- Articles: `77`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8889`
-- Day/swing latest: `2026-08-13T13:45:00+00:00`
+- Day/swing records: `8890`
+- Day/swing latest: `2026-08-13T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `7`
-- macro: articles `44`, risk hits `8`, risk headline rate `0.1818`, policy hits `2`
+- macro: articles `48`, risk hits `9`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Golar LNG signs $2.5bn agreement for fourth floating LNG vessel (Yahoo Finance)
-- [macro] Water bills set to rise for many after firms permitted extra funding (BBC News)
-- [crypto] Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Inside Latigo Biotherapeutics’ IPO: A Non-Opioid Pain Bet Goes Public (Yahoo Finance)
 - [macro] Harvey Nichols bought by owner of Sports Direct (BBC News)
-- [macro] The Biggest Chip Stocks All Yield Under 1%. Here's Where the Cash Actually Goes. (Yahoo Finance)
-- [macro] My father-in-law wants to give us $1 million to wipe out our mortgage – should I accept or prove I can do it on my own? (Yahoo Finance)
-- [crypto] Figure revenue doubles as blockchain loan marketplace volumes surge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Why this analyst sees another 30% rip in Microsoft stock (Yahoo Finance)
+- [macro] Stocks rise on broad sector strength: AlphaCheck (Yahoo Finance)
+- [macro] MetLife (MET) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] U.S. Budget Deficits Just Surged to $432.3 billion in July While Trump Weighs Brand-New Tax Cuts (Yahoo Finance)
+- [macro] Lettuce prices fell a record 16.4% in July amid cyclospora outbreak (Yahoo Finance)
+- [macro] Household Debt Just Fell for the First Time in 6 Years — Here’s Why That’s Bad News (Yahoo Finance)
+- [macro] KLA Corporation (KLAC) Positioned to Benefit from Semiconductor Chip Complexity (Yahoo Finance)
+- [macro] Metaplanet Denies Bitcoin Sale (Yahoo Finance)
+- [macro] CrowdStrike Holdings (CRWD) Gains as Autonomous AI Agents Go Mainstream (Yahoo Finance)
+- [crypto] Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
