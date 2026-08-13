@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T12:22:24.668189+00:00`
+- Generated: `2026-08-13T12:29:58.568934+00:00`
 - Market context score: `46.52`
 - News risk score: `49.84`
 - Macro risk score: `33.35`
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Artizent, Insurity team up on insurer modernisation work (Yahoo Finance)
-- [crypto] Bullish reports $280 million Q2 net loss as crypto trading slows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The Iran war risks bringing the G7's fastest-growing economy to a halt (Economy)
 - [macro] Water bills set to rise for many after firms permitted extra funding (BBC News)
 - [macro] Ackman unveils six new investments including Netflix, Visa, Mastercard in biggest portfolio overhaul in years (Yahoo Finance)
