@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T00:07:25.302153+00:00`
-- Market context score: `43.8`
-- News risk score: `50.89`
-- Macro risk score: `35.57`
-- Risk-on score: `31.52`
+- Generated: `2026-08-13T00:22:25.577647+00:00`
+- Market context score: `42.95`
+- News risk score: `51.73`
+- Macro risk score: `37.24`
+- Risk-on score: `30.96`
 - Articles: `63`
 - Polymarket markets: `389`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8836`
-- Day/swing latest: `2026-08-13T00:00:00+00:00`
+- Day/swing records: `8837`
+- Day/swing latest: `2026-08-13T00:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `2`
+- commodity: articles `6`, risk hits `8`, risk headline rate `0.8333`, policy hits `2`
 - crypto: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `31`, risk hits `8`, risk headline rate `0.2581`, policy hits `5`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2667`, policy hits `5`
 
 ## Headlines
 
+- [commodity] Japan wholesale inflation eases slightly to 7.2%, undershooting expectations (Energy)
 - [crypto] Arizona crypto ATM law helps 35 scam victims recover $171K (Cointelegraph.com News)
 - [macro] 'If you're not conservative, don't come here': The town making missiles for Trump (BBC News)
 - [macro] Members of Trump's cabinet remained on decoy plane, after president's quiet exit (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Why Japanese firms are being so slow to use AI (BBC News)
 - [macro] Why Japanese firms are being so slow to use AI (BBC News)
 - [macro] Trump says White House press secretary Karoline Leavitt to leave post (BBC News)
-- [macro] Thousands of Canadians call for US ambassador's expulsion (BBC News)
