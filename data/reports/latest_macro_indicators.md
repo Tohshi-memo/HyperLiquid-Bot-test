@@ -2,7 +2,7 @@
 
 Public macro indicators for rates, employment, inflation, dollar, and risk context. These are inputs for analysis, not trade signals.
 
-- Generated: `2026-08-12T23:18:26.038388+00:00`
+- Generated: `2026-08-13T14:18:26.646265+00:00`
 - Indicators: `11`
 
 ## Providers
@@ -24,7 +24,7 @@ Public macro indicators for rates, employment, inflation, dollar, and risk conte
 - `us_unemployment_rate` US Unemployment Rate: `4.1` percent at `2026-07-01` (BLS)
 - `us_core_cpi_u` US Core CPI-U: `337.133` index at `2026-07-01` (BLS)
 - `us_cpi_u` US CPI-U: `333.918` index at `2026-07-01` (BLS)
-- `us_ppi_final_demand` US PPI Final Demand: `157.045` index at `2026-06-01` (BLS)
+- `us_ppi_final_demand` US PPI Final Demand: `156.927` index at `2026-07-01` (BLS)
 - `us_treasury_avg_bill_rate` US Treasury Average Treasury Bills Rate: `3.758` percent at `2026-07-31` (US Treasury Fiscal Data)
 - `us_treasury_avg_bond_rate` US Treasury Average Treasury Bonds Rate: `3.442` percent at `2026-07-31` (US Treasury Fiscal Data)
 - `us_treasury_avg_interest_bearing_debt_rate` US Treasury Average Total Interest-bearing Debt Rate: `3.447` percent at `2026-07-31` (US Treasury Fiscal Data)
