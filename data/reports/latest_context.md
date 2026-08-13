@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T19:37:30.638926+00:00`
+- Generated: `2026-08-13T19:41:16.288186+00:00`
 - Market context score: `43.55`
 - News risk score: `50.64`
 - Macro risk score: `39.59`
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [commodity] Oil prices fall after U.S. says crude exports through Hormuz near 9 million barrels per day (Energy)
 - [crypto] Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea (Cointelegraph.com News)
 - [macro] Romania shuts only nuclear plant as heat causes huge drop in Danube River level (BBC News)
 - [macro] Family of Irish plane crash victim awarded $29m in damages (BBC News)
 - [macro] Conditions on US aircraft carrier at sea for more than 250 days raise alarms (BBC News)
-- [commodity] Oil prices fall as IEA sees lower demand on rising fuel prices (Energy)
 - [macro] Mangione lawyers to meet federal prosecutors amid reports of plea deal (BBC News)
 - [crypto] Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CFTC to join SEC in exploring crypto regulations without CLARITY bill (Cointelegraph.com News)
