@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T18:32:14.116330+00:00`
+- Generated: `2026-08-13T18:37:29.420321+00:00`
 - Market context score: `46.32`
 - News risk score: `49.55`
 - Macro risk score: `36.92`
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Conditions on US aircraft carrier at sea for more than 250 days raise alarms (BBC News)
 - [crypto] Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CFTC to join SEC in exploring crypto regulations without CLARITY bill (Cointelegraph.com News)
 - [commodity] Oil prices fall as investors weigh falling demand against Middle East tensions (Energy)
 - [crypto] Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto group backs Custodia in Supreme Court battle over Fed access (Cointelegraph.com News)
 - [crypto] Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered (Cointelegraph.com News)
-- [macro] Conditions on US aircraft carrier at sea for more than 250 days raise alarms (BBC News)
 - [crypto] Trezor warns 14,000 customers after fulfilment partner suffers data breach (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Top energy plays for the rest of the year... including a 'behind-the-meter' power play (Energy)
 - [macro] Air India to test all pilots for banned substances (BBC News)
