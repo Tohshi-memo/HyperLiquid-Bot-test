@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T18:37:29.420321+00:00`
+- Generated: `2026-08-13T18:52:27.534109+00:00`
 - Market context score: `46.32`
 - News risk score: `49.55`
 - Macro risk score: `36.92`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8908`
-- Day/swing latest: `2026-08-13T18:30:00+00:00`
+- Day/swing records: `8909`
+- Day/swing latest: `2026-08-13T18:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [commodity] Oil prices fall as investors weigh falling demand against Middle East tensions (Energy)
+- [macro] Mangione lawyers to meet federal prosecutors amid reports of plea deal (BBC News)
 - [macro] Conditions on US aircraft carrier at sea for more than 250 days raise alarms (BBC News)
 - [crypto] Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CFTC to join SEC in exploring crypto regulations without CLARITY bill (Cointelegraph.com News)
-- [commodity] Oil prices fall as investors weigh falling demand against Middle East tensions (Energy)
 - [crypto] Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto group backs Custodia in Supreme Court battle over Fed access (Cointelegraph.com News)
 - [crypto] Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered (Cointelegraph.com News)
 - [crypto] Trezor warns 14,000 customers after fulfilment partner suffers data breach (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Top energy plays for the rest of the year... including a 'behind-the-meter' power play (Energy)
-- [macro] Air India to test all pilots for banned substances (BBC News)
