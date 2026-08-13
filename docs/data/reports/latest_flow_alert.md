@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-13T20:35:30.591974+00:00`
+- Generated: `2026-08-13T20:40:32.000434+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8529127.65`
-- Polymarket volume z-score: `-1.05`
+- Polymarket 24h volume: `8697071.07`
+- Polymarket volume z-score: `-0.96`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1155236.0` | liquidity: `22544.94644`
-- Will Count Binface win the Clacton by-election? | 24h volume: `610577.3347880001` | liquidity: `269662.57788`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `487526.20829799894` | liquidity: `430445.6159`
-- Will Nigel Farage win at least 80% of votes in the Clacton parliamentary by-election? | 24h volume: `453024.406423` | liquidity: `209860.0846`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `409061.55064200005` | liquidity: `776239.99212`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `404860.17214900005` | liquidity: `658864.96226`
-- Will Nigel Farage win 60–70% of votes in the Clacton parliamentary by-election? | 24h volume: `383270.7255009998` | liquidity: `78552.13668`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `362264.68621500005` | liquidity: `1124148.21036`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1155236.0` | liquidity: `25189.29458`
+- Will Count Binface win the Clacton by-election? | 24h volume: `607506.0777880001` | liquidity: `274430.32084`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `480473.94363699906` | liquidity: `430716.3901`
+- Will Nigel Farage win at least 80% of votes in the Clacton parliamentary by-election? | 24h volume: `453088.956928` | liquidity: `191672.8013`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `405413.9535010001` | liquidity: `775860.25505`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `404307.73214900005` | liquidity: `663400.45562`
+- Will Nigel Farage win 60–70% of votes in the Clacton parliamentary by-election? | 24h volume: `383557.02122899983` | liquidity: `86573.25567`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `358706.426215` | liquidity: `1125539.95572`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
