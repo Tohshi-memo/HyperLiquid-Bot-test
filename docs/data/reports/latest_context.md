@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T08:07:38.634768+00:00`
-- Market context score: `46.69`
-- News risk score: `41.1`
-- Macro risk score: `24.7`
-- Risk-on score: `25.57`
-- Articles: `43`
+- Generated: `2026-08-13T08:22:32.040682+00:00`
+- Market context score: `42.76`
+- News risk score: `44.37`
+- Macro risk score: `30.25`
+- Risk-on score: `21.7`
+- Articles: `45`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8867`
-- Day/swing latest: `2026-08-13T08:00:00+00:00`
+- Day/swing records: `8868`
+- Day/swing latest: `2026-08-13T08:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `3`
-- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `0`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [macro] UK economy grows between April and June but experts warn of challenges in coming months (BBC News)
+- [macro] Japan PM says Putin's visit to disputed islands 'absolutely unacceptable' (BBC News)
+- [macro] More troops to be sent to West Bank village besieged by Israeli settlers (BBC News)
+- [commodity] Nuclear power plants are being shut down as Europe’s drought becomes an energy crisis (Energy)
 - [commodity] Oil prices fluctuate as investors weigh falling demand against Middle East tensions (Energy)
-- [macro] Economy grew in April to June as sun and World Cup helped some UK businesses (BBC News)
 - [crypto] BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B (Cointelegraph.com News)
 - [macro] Twitch faces backlash over Amazon using content to train AI (BBC News)
 - [macro] Twitch faces backlash over Amazon using content to train AI (BBC News)
 - [crypto] Copper US arm becomes FINRA member, SEC-registered broker-dealer (Cointelegraph.com News)
 - [macro] Indian actor's video with endangered gibbon sparks investigation (BBC News)
-- [macro] Japan protests against Putin visit to disputed islands (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Metaplanet denies selling bitcoin worth $320 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
