@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-13T02:52:32.259261+00:00`
-- Market context score: `43.2`
-- News risk score: `48.25`
-- Macro risk score: `37.0`
-- Risk-on score: `28.5`
-- Articles: `50`
+- Generated: `2026-08-13T03:07:26.135953+00:00`
+- Market context score: `42.49`
+- News risk score: `49.06`
+- Macro risk score: `36.06`
+- Risk-on score: `27.25`
+- Articles: `48`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:786`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8846`
-- Day/swing latest: `2026-08-13T02:45:00+00:00`
+- Day/swing records: `8847`
+- Day/swing latest: `2026-08-13T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.8333`, policy hits `0`
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `4`
-- macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `3`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `1`
+- macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `2`
 
 ## Headlines
 
+- [macro] Twitch faces backlash over Amazon training AI on its users' livestreams (BBC News)
 - [commodity] Oil rises on worries over supply disruptions as spill near Oman worsens (Energy)
 - [macro] Ebola outbreak on track to be deadliest ever, WHO chief says (BBC News)
 - [commodity] Japan wholesale inflation eases slightly to 7.2%, undershooting expectations (Energy)
@@ -37,4 +38,3 @@
 - [macro] 'If you're not conservative, don't come here': The town making missiles for Trump (BBC News)
 - [macro] Members of Trump's cabinet remained on decoy plane, after president's quiet exit (BBC News)
 - [macro] Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News)
-- [crypto] Prediction markets should dial back faulty filings for incentives to boost trading: CFTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
