@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T21:19:29.271476+00:00`
-- Market context score: `38.93`
-- News risk score: `43.65`
-- Macro risk score: `34.7`
-- Risk-on score: `14.25`
-- Articles: `44`
+- Generated: `2026-08-14T21:22:30.801350+00:00`
+- Market context score: `39.36`
+- News risk score: `43.38`
+- Macro risk score: `33.67`
+- Risk-on score: `14.58`
+- Articles: `45`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `2`
-- macro: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `1`
 
 ## Headlines
 
+- [macro] Protein or pickled garlic? What's new in ice cream (BBC News)
 - [crypto] Ireland plans industry standards for illicit crypto use (Cointelegraph.com News)
 - [crypto] Trump-backed World Liberty wins conditional bank charter from federal regulator (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln (Energy)
@@ -37,4 +38,3 @@
 - [macro] Trump asks Supreme Court to allow ballroom work to continue (BBC News)
 - [crypto] Dartmouth endowment’s crypto exposure drops by $2M amid falling prices (Cointelegraph.com News)
 - [crypto] Kraken parent Payward revenue rises 17% as trading volume falls in Q2 (Cointelegraph.com News)
-- [macro] Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule (BBC News)
