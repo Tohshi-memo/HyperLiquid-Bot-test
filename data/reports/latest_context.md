@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T20:07:32.640426+00:00`
+- Generated: `2026-08-14T20:22:29.552443+00:00`
 - Market context score: `36.72`
 - News risk score: `45.94`
 - Macro risk score: `39.34`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9009`
-- Day/swing latest: `2026-08-14T20:00:00+00:00`
+- Day/swing records: `9010`
+- Day/swing latest: `2026-08-14T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln (Energy)
 - [commodity] Oil prices rise as U.S. threatens 'economic isolation' of Iran (Energy)
 - [macro] Temporary ban on sale of disposable BBQs over wildfire risk (BBC News)
 - [macro] Trump asks Supreme Court to allow ballroom work to continue (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win (Cointelegraph.com News)
 - [macro] Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers (BBC News)
-- [macro] UK diplomats no longer get hardship bonus for being posted to Buenos Aires (BBC News)
