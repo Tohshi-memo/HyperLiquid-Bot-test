@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T20:22:29.552443+00:00`
-- Market context score: `36.72`
-- News risk score: `45.94`
-- Macro risk score: `39.34`
-- Risk-on score: `13.03`
+- Generated: `2026-08-14T20:37:27.199468+00:00`
+- Market context score: `36.96`
+- News risk score: `45.88`
+- Macro risk score: `38.18`
+- Risk-on score: `13.07`
 - Articles: `46`
 - Polymarket markets: `388`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9010`
-- Day/swing latest: `2026-08-14T20:15:00+00:00`
+- Day/swing records: `9011`
+- Day/swing latest: `2026-08-14T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `25`, risk hits `8`, risk headline rate `0.28`, policy hits `2`
-- macro: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `1`
+- crypto: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `2`
+- macro: articles `20`, risk hits `8`, risk headline rate `0.4`, policy hits `1`
 
 ## Headlines
 
+- [macro] Dozens injured and thousands evacuated in Croatia wildfire (BBC News)
 - [commodity] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln (Energy)
 - [commodity] Oil prices rise as U.S. threatens 'economic isolation' of Iran (Energy)
 - [macro] Temporary ban on sale of disposable BBQs over wildfire risk (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule (BBC News)
 - [crypto] Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win (Cointelegraph.com News)
-- [macro] Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers (BBC News)
