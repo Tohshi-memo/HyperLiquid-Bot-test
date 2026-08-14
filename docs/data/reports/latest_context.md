@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T01:37:23.715397+00:00`
-- Market context score: `41.83`
-- News risk score: `43.14`
-- Macro risk score: `39.02`
-- Risk-on score: `21.9`
-- Articles: `42`
+- Generated: `2026-08-14T01:52:23.508484+00:00`
+- Market context score: `41.17`
+- News risk score: `43.9`
+- Macro risk score: `39.23`
+- Risk-on score: `21.15`
+- Articles: `40`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8935`
-- Day/swing latest: `2026-08-14T01:30:00+00:00`
+- Day/swing records: `8936`
+- Day/swing latest: `2026-08-14T01:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `4`
-- macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `2`
+- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `4`
+- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] U.S. to use economic tactics on Iran `that have never been seen'; Navy works to relieve troubled carrier Abraham Lincoln (Energy)
 - [crypto] Ethereum Foundation pivots away from Poseidon in post-quantum plan (Cointelegraph.com News)
 - [crypto] U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Conditions on US aircraft carrier at sea for more than 250 days raise alarms (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Engine parts smashed Ryanair window that man's head was sucked out of, report says (BBC News)
 - [crypto] City of Baltimore goes after prediction markets for sports betting (Cointelegraph.com News)
 - [crypto] Tether completes first full financial audit, receives clean KPMG opinion (Cointelegraph.com News)
-- [macro] Palestinians told to leave homes in village where Israeli settlers besieged houses (BBC News)
