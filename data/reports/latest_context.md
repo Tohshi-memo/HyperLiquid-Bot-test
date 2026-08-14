@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T07:22:32.360516+00:00`
+- Generated: `2026-08-14T07:37:32.504614+00:00`
 - Market context score: `41.28`
 - News risk score: `40.7`
 - Macro risk score: `30.18`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8958`
-- Day/swing latest: `2026-08-14T07:15:00+00:00`
+- Day/swing records: `8959`
+- Day/swing latest: `2026-08-14T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln (Energy)
 - [crypto] Cluster of headwinds weigh on bitcoin. XRP teeters near $1 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Unprecedented' rains in Japan kill six people (BBC News)
 - [commodity] Oil moves higher as U.S. threatens 'economic isolation' of Iran (Energy)
@@ -37,4 +38,3 @@
 - [macro] US says dozens of countries helped China dodge Trump's tariffs (BBC News)
 - [macro] US says dozens of countries helped China dodge Trump's tariffs (BBC News)
 - [macro] Indian solar mission's new findings throw light on enduring Sun mysteries (BBC News)
-- [crypto] Figure reports $4.3B in loan marketplace volume as profit nearly triples (Cointelegraph.com News)
