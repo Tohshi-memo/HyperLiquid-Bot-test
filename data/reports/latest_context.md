@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T08:37:26.222088+00:00`
-- Market context score: `41.36`
-- News risk score: `41.12`
-- Macro risk score: `28.04`
-- Risk-on score: `15.0`
-- Articles: `24`
+- Generated: `2026-08-14T08:52:30.803163+00:00`
+- Market context score: `39.41`
+- News risk score: `44.27`
+- Macro risk score: `26.85`
+- Risk-on score: `12.88`
+- Articles: `25`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8963`
-- Day/swing latest: `2026-08-14T08:30:00+00:00`
+- Day/swing records: `8964`
+- Day/swing latest: `2026-08-14T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `12`, risk hits `7`, risk headline rate `0.4167`, policy hits `1`
+- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Live updates: Bitcoin slips below $63,000 as oil, yields climb (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] US says dozens of countries helped China dodge Trump's tariffs (BBC News)
+- [macro] US says dozens of countries helped China dodge Trump's tariffs (BBC News)
 - [macro] Stolen Matisse artworks recovered by police in Brazil (BBC News)
 - [commodity] Oil moves higher as U.S. threatens 'economic isolation' of Iran (Energy)
 - [crypto] Crypto payments barely register among euro area merchants, ECB finds (Cointelegraph.com News)
@@ -35,6 +38,3 @@
 - [crypto] SEC cancels key crypto regulatory meeting (Cointelegraph.com News)
 - [macro] I got an £89 refund – how to cancel and  avoid unwanted subscriptions (BBC News)
 - [commodity] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln (Energy)
-- [crypto] Cluster of headwinds weigh on bitcoin. XRP teeters near $1 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Unprecedented' rains in Japan kill six people (BBC News)
-- [crypto] Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
