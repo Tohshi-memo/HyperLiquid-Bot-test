@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T09:52:28.009587+00:00`
-- Market context score: `36.26`
-- News risk score: `48.62`
-- Macro risk score: `28.04`
-- Risk-on score: `10.0`
-- Articles: `24`
+- Generated: `2026-08-14T10:07:35.698048+00:00`
+- Market context score: `34.9`
+- News risk score: `49.37`
+- Macro risk score: `33.0`
+- Risk-on score: `9.49`
+- Articles: `25`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8968`
-- Day/swing latest: `2026-08-14T09:45:00+00:00`
+- Day/swing records: `8969`
+- Day/swing latest: `2026-08-14T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `9`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `13`, risk hits `9`, risk headline rate `0.4615`, policy hits `1`
+- macro: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [crypto] RedotPay US IPO delayed amid regulatory, legal hurdles: Report (Cointelegraph.com News)
 - [crypto] JPMorgan cut Polymarket banking ties over regulatory concerns: Report (Cointelegraph.com News)
 - [crypto] Live updates: Bitcoin slips below $63,000 as oil, yields climb (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US says dozens of countries helped China dodge Trump's tariffs (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Crypto payments barely register among euro area merchants, ECB finds (Cointelegraph.com News)
 - [macro] Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia (BBC News)
 - [crypto] SEC cancels key crypto regulatory meeting (Cointelegraph.com News)
-- [macro] I got an £89 refund – how to cancel and  avoid unwanted subscriptions (BBC News)
