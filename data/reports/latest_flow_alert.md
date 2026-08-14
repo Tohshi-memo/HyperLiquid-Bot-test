@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-14T20:30:31.366973+00:00`
+- Generated: `2026-08-14T20:35:32.950757+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7416399.75`
-- Polymarket volume z-score: `-1.46`
+- Polymarket 24h volume: `7332436.36`
+- Polymarket volume z-score: `-1.5`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1287016.92` | liquidity: `19695.77927`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `440599.7637979999` | liquidity: `2340203.38488`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `439011.7135829996` | liquidity: `926616.78273`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `339736.66675000003` | liquidity: `1021948.17493`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `281743.31787399994` | liquidity: `646826.3627`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `268075.787533` | liquidity: `657905.653`
-- Will Raphael Warnock win the 2028 US Presidential Election? | 24h volume: `263288.78` | liquidity: `166701.64143`
-- Will Brian Kemp win the 2028 Republican presidential nomination? | 24h volume: `261421.498499` | liquidity: `973594.45151`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1287016.92` | liquidity: `17794.78086`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `440142.9937979999` | liquidity: `2339804.28488`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `438881.8635829996` | liquidity: `925987.69256`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `345898.01675` | liquidity: `1021377.58207`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `281298.4314479999` | liquidity: `648581.7889`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `267766.427533` | liquidity: `654266.7411`
+- Will Raphael Warnock win the 2028 US Presidential Election? | 24h volume: `262788.78` | liquidity: `204224.82919`
+- Will Brian Kemp win the 2028 Republican presidential nomination? | 24h volume: `261422.968499` | liquidity: `974126.16352`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
