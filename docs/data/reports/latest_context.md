@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T01:52:23.508484+00:00`
+- Generated: `2026-08-14T02:07:24.147394+00:00`
 - Market context score: `41.17`
 - News risk score: `43.9`
 - Macro risk score: `39.23`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:113, fx:6, index:25, metal:20, unknown:787`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `8936`
-- Day/swing latest: `2026-08-14T01:45:00+00:00`
+- Day/swing records: `8937`
+- Day/swing latest: `2026-08-14T02:00:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [commodity] U.S. to use economic tactics on Iran `that have never been seen'; Navy works to relieve troubled carrier Abraham Lincoln (Energy)
+- [commodity] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln (Energy)
 - [crypto] Ethereum Foundation pivots away from Poseidon in post-quantum plan (Cointelegraph.com News)
 - [crypto] U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Conditions on US aircraft carrier at sea for more than 250 days raise alarms (BBC News)
