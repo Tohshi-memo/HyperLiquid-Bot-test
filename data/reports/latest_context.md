@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T20:37:27.199468+00:00`
-- Market context score: `36.96`
-- News risk score: `45.88`
-- Macro risk score: `38.18`
-- Risk-on score: `13.07`
-- Articles: `46`
+- Generated: `2026-08-14T20:51:01.550121+00:00`
+- Market context score: `38.93`
+- News risk score: `43.65`
+- Macro risk score: `34.7`
+- Risk-on score: `14.25`
+- Articles: `44`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9011`
-- Day/swing latest: `2026-08-14T20:30:00+00:00`
+- Day/swing records: `9012`
+- Day/swing latest: `2026-08-14T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `2`
-- macro: articles `20`, risk hits `8`, risk headline rate `0.4`, policy hits `1`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
-- [macro] Dozens injured and thousands evacuated in Croatia wildfire (BBC News)
 - [commodity] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln (Energy)
+- [macro] Dozens injured and thousands evacuated in Croatia wildfire (BBC News)
 - [commodity] Oil prices rise as U.S. threatens 'economic isolation' of Iran (Energy)
 - [macro] Temporary ban on sale of disposable BBQs over wildfire risk (BBC News)
 - [macro] Trump asks Supreme Court to allow ballroom work to continue (BBC News)
