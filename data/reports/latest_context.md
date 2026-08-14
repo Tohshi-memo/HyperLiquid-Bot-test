@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-14T11:07:32.826117+00:00`
-- Market context score: `36.81`
-- News risk score: `46.56`
+- Generated: `2026-08-14T11:12:19.206090+00:00`
+- Market context score: `38.85`
+- News risk score: `43.56`
 - Macro risk score: `32.93`
-- Risk-on score: `11.33`
+- Risk-on score: `13.33`
 - Articles: `27`
 - Polymarket markets: `387`
 
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `9`, risk headline rate `0.4`, policy hits `1`
+- crypto: articles `15`, risk hits `8`, risk headline rate `0.3333`, policy hits `1`
 - macro: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Trump family's World Liberty Financial delay plans to sell Maldives resort token (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Stolen Matisse artworks recovered by police in Brazil (BBC News)
 - [crypto] Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’ (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] RedotPay US IPO delayed amid regulatory, legal hurdles: Report (Cointelegraph.com News)
 - [crypto] JPMorgan cut Polymarket banking ties over regulatory concerns: Report (Cointelegraph.com News)
 - [crypto] Live updates: Bitcoin slips below $63,000 as oil, yields climb (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US says dozens of countries helped China dodge Trump's tariffs (BBC News)
