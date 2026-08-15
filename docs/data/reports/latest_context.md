@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T20:58:11.377966+00:00`
-- Market context score: `56.31`
+- Generated: `2026-08-15T21:07:28.032937+00:00`
+- Market context score: `57.28`
 - News risk score: `35.46`
 - Macro risk score: `25.15`
-- Risk-on score: `42.36`
+- Risk-on score: `44.51`
 - Articles: `41`
 - Polymarket markets: `386`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9106`
-- Day/swing latest: `2026-08-15T20:45:00+00:00`
+- Day/swing records: `9107`
+- Day/swing latest: `2026-08-15T21:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [commodity] Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck (Energy)
 - [macro] Morocco detains dozens of migrants trying to cross into Ceuta, reports say (BBC News)
+- [commodity] Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck (Energy)
+- [macro] Why Has Cintas Stock Slipped Despite Record Margins? What to Know Amid a Founder's Vesting (Yahoo Finance)
+- [macro] My two apps made $30M (Yahoo Finance)
 - [macro] What a Cintas CEO Insider Filing Signals as It Pursues UniFirst (Yahoo Finance)
 - [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
 - [macro] The 3% ETF Outperforming 11% Competitors: How SCHD Keeps Beating Covered-Call ETFs (Yahoo Finance)
-- [macro] How a 66-Year-Old Built a $4,600 Monthly Paycheck From Just Two Funds: SCHD and JEPI (Yahoo Finance)
-- [macro] 3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs (Yahoo Finance)
 - [macro] Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia (BBC News)
 - [macro] Liechtenstein changes succession rule to allow women to ascend the throne (BBC News)
 - [macro] Multiple suspects at large after five shot at Virginia State University, police say (BBC News)
