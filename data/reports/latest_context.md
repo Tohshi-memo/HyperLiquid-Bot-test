@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T03:52:53.669470+00:00`
-- Market context score: `37.08`
-- News risk score: `46.18`
-- Macro risk score: `34.17`
-- Risk-on score: `12.08`
-- Articles: `23`
+- Generated: `2026-08-15T04:07:29.645487+00:00`
+- Market context score: `36.31`
+- News risk score: `46.95`
+- Macro risk score: `35.7`
+- Risk-on score: `11.61`
+- Articles: `22`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9040`
-- Day/swing latest: `2026-08-15T03:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `1`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
+- [macro] Temporary ban on disposable BBQs as military deployed to help battle wildfires (BBC News)
 - [crypto] Trump expected to attend White House meeting with crypto CEOs, sources say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Gen Z favors ETFs and trades less than older cohorts: Binance (Cointelegraph.com News)
 - [macro] Protein or pickled garlic? What's new in ice cream (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Dozens injured and thousands evacuated in Croatia wildfire (BBC News)
 - [commodity] Oil prices rise as U.S. threatens 'economic isolation' of Iran (Energy)
 - [macro] Mangione admits killing healthcare CEO and pleads guilty to federal charges (BBC News)
-- [macro] Temporary ban on sale of disposable BBQs over wildfire risk (BBC News)
