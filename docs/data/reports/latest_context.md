@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T20:07:25.867025+00:00`
+- Generated: `2026-08-15T20:22:28.221262+00:00`
 - Market context score: `55.48`
 - News risk score: `36.02`
 - Macro risk score: `27.77`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9103`
-- Day/swing latest: `2026-08-15T20:00:00+00:00`
+- Day/swing records: `9104`
+- Day/swing latest: `2026-08-15T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
 - [macro] Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia (BBC News)
 - [macro] Liechtenstein changes succession rule to allow women to ascend the throne (BBC News)
 - [macro] The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Delaying Social Security Until Age 70 Isn’t Always the Best Choice. Here’s When Claiming Early Wins (Yahoo Finance)
 - [macro] Morocco detains dozens of migrants trying to cross into Ceuta (BBC News)
 - [macro] Firefighters battle wildfire tearing through Belgian nature reserve (BBC News)
-- [crypto] Tokenized stock holders more than double as monthly volume surges (Cointelegraph.com News)
