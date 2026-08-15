@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T19:11:03.178047+00:00`
+- Generated: `2026-08-15T19:22:23.586434+00:00`
 - Market context score: `52.19`
 - News risk score: `36.85`
 - Macro risk score: `28.41`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `9100`
+- Day/swing latest: `2026-08-15T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Part 2: Your Index Fund Is a Bet on AI — Whether You Know It or Not (Yahoo Finance)
+- [macro] XRP Is Trading Near a 52-Week Low of $1. Here's What to Do if XRP Drops Below a Buck. (Yahoo Finance)
 - [macro] Sea Limited Insiders Trimmed Into a Strong Quarter. Here's What to Know (Yahoo Finance)
-- [macro] A Sea Limited President Trimmed His Stake by $4 Million. Here's What to Know (Yahoo Finance)
-- [macro] Bill Ackman makes a bold move to answer investors biggest wish (Yahoo Finance)
 - [macro] Firefighters battle wildfire tearing through Belgian nature reserve (BBC News)
 - [macro] Multiple suspects at large after five shot at Virginia State University, police say (BBC News)
 - [crypto] Tokenized stock holders more than double as monthly volume surges (Cointelegraph.com News)
