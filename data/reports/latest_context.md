@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T22:52:26.346481+00:00`
-- Market context score: `55.92`
-- News risk score: `37.58`
-- Macro risk score: `25.44`
-- Risk-on score: `43.38`
-- Articles: `46`
+- Generated: `2026-08-15T22:55:59.092261+00:00`
+- Market context score: `54.85`
+- News risk score: `37.53`
+- Macro risk score: `25.84`
+- Risk-on score: `41.11`
+- Articles: `45`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -24,11 +24,10 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `32`, risk hits `6`, risk headline rate `0.1875`, policy hits `0`
+- macro: articles `31`, risk hits `6`, risk headline rate `0.1935`, policy hits `0`
 
 ## Headlines
 
-- [macro] Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now? (Yahoo Finance)
 - [macro] Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors (Yahoo Finance)
 - [macro] MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait? (Yahoo Finance)
 - [macro] Historic retailer gets lifeline after warning it could collapse (Yahoo Finance)
@@ -38,3 +37,4 @@
 - [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
 - [macro] Australian state to launch gun buyback after Bondi Beach attack (BBC News)
 - [macro] Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA) (Yahoo Finance)
+- [macro] Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right? (Yahoo Finance)
