@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T08:11:39.796611+00:00`
+- Generated: `2026-08-15T08:22:31.463326+00:00`
 - Market context score: `46.25`
 - News risk score: `35.19`
 - Macro risk score: `23.56`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9056`
-- Day/swing latest: `2026-08-15T08:00:00+00:00`
+- Day/swing records: `9057`
+- Day/swing latest: `2026-08-15T08:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [macro] At least 20 dead after 7.7-magnitude earthquake strikes Indonesia (BBC News)
 - [macro] Tributes paid to Jason Arday after ex-Cambridge professor found dead (BBC News)
-- [macro] At least 14 dead after 7.7-magnitude earthquake strikes Indonesia (BBC News)
 - [macro] Europe's scorched landscapes seen from space after summer heatwaves (BBC News)
 - [macro] Temporary ban on disposable BBQs as military deployed to help battle wildfires (BBC News)
 - [macro] I wish I had been a more rebellious teenager, says Bella Ramsey (BBC News)
