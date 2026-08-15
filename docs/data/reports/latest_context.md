@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T15:07:06.153178+00:00`
-- Market context score: `52.97`
-- News risk score: `33.45`
-- Macro risk score: `31.23`
-- Risk-on score: `35.54`
-- Articles: `36`
+- Generated: `2026-08-15T15:22:32.712809+00:00`
+- Market context score: `50.87`
+- News risk score: `37.3`
+- Macro risk score: `30.16`
+- Risk-on score: `33.71`
+- Articles: `44`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9083`
-- Day/swing latest: `2026-08-15T15:00:00+00:00`
+- Day/swing records: `9084`
+- Day/swing latest: `2026-08-15T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `1`
-- macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `1`
+- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `32`, risk hits `8`, risk headline rate `0.25`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Five injured, one critically, in shooting at Virginia State University (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] South Korea proposes talks to officially end war with North (BBC News)
-- [macro] Nvidia Is Looking to Own Another Layer of the AI Ecosystem (Yahoo Finance)
-- [macro] SpaceX vs. Micron: Which High-Growth Titan Is the Better Buy? (Yahoo Finance)
-- [macro] CMCT (CMCT) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] CSP Inc. (CSPI) Q3 2026 Earnings Call Transcript (Yahoo Finance)
-- [commodity] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations (Energy)
-- [macro] Leave the Kids the Roth, Spend the IRA Yourself: The Inheritance Order Most Families Get Backward. (Yahoo Finance)
-- [macro] The Landlords of the AI Boom Are Up 35% This Year and Their Pricing Power Keeps Climbing (Yahoo Finance)
+- [macro] Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected (Yahoo Finance)
+- [macro] Cathie Wood sells $11.6 million of surging tech stock (Yahoo Finance)
+- [macro] Under 35? Here's the Average Retirement Savings for People Your Age (Yahoo Finance)
+- [macro] Medicare Assumes You Still Earn Your Old Salary. Until One Form Says Otherwise, It Bills Accordingly. (Yahoo Finance)
+- [macro] Suze Orman says AI could force you out of your job before 65 — and retiring early costs you each year (Yahoo Finance)
+- [macro] Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine (Yahoo Finance)
+- [macro] Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know. (Yahoo Finance)
