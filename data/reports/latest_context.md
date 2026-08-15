@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T13:07:26.617234+00:00`
-- Market context score: `42.59`
-- News risk score: `38.07`
-- Macro risk score: `33.79`
-- Risk-on score: `17.33`
-- Articles: `14`
+- Generated: `2026-08-15T13:22:29.420479+00:00`
+- Market context score: `46.85`
+- News risk score: `38.84`
+- Macro risk score: `35.19`
+- Risk-on score: `27.99`
+- Articles: `31`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9076`
-- Day/swing latest: `2026-08-15T13:00:00+00:00`
+- Day/swing records: `9077`
+- Day/swing latest: `2026-08-15T13:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
+- macro: articles `24`, risk hits `8`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations (Energy)
+- [macro] Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin (Yahoo Finance)
 - [crypto] Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] The 5 Biggest Risks Americans Don’t Think About Behind the Data Center Boom (Yahoo Finance)
 - [crypto] Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says (Cointelegraph.com News)
 - [macro] CEO Lip Bu-Tan Just Gave Intel a $10 Million Vote of Confidence (Yahoo Finance)
+- [macro] Block Stock Slumps Despite Earnings Rising by 65% (Yahoo Finance)
+- [macro] Nu Holdings Banks More Than Half the Adults in Brazil (Yahoo Finance)
+- [macro] Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes? (Yahoo Finance)
 - [macro] Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia (BBC News)
-- [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
-- [crypto] Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck (Energy)
-- [macro] Family stranded at sea for 16 hours after jet ski capsized in Thailand (BBC News)
-- [crypto] Kalshi ordered to stop broad range of prediction markets in Washington (Cointelegraph.com News)
-- [macro] South Korea proposes talks to officially end war with North (BBC News)
