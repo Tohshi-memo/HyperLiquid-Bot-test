@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T08:52:30.210228+00:00`
-- Market context score: `45.99`
-- News risk score: `34.74`
-- Macro risk score: `27.12`
-- Risk-on score: `19.56`
-- Articles: `14`
+- Generated: `2026-08-15T09:07:27.932057+00:00`
+- Market context score: `52.82`
+- News risk score: `24.67`
+- Macro risk score: `25.33`
+- Risk-on score: `25.56`
+- Articles: `13`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9059`
-- Day/swing latest: `2026-08-15T08:45:00+00:00`
+- Day/swing records: `9060`
+- Day/swing latest: `2026-08-15T09:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [macro] Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia (BBC News)
 - [crypto] Galaxy lowers CLARITY Act odds to 10% (Cointelegraph.com News)
-- [macro] Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia (BBC News)
 - [macro] Europe's scorched landscapes seen from space after summer heatwaves (BBC News)
 - [macro] Temporary ban on disposable BBQs as military deployed to help battle wildfires (BBC News)
 - [macro] I wish I had been a more rebellious teenager, says Bella Ramsey (BBC News)
