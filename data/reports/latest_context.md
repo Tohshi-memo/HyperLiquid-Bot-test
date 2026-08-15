@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T18:52:27.661840+00:00`
-- Market context score: `51.51`
-- News risk score: `36.55`
-- Macro risk score: `27.83`
-- Risk-on score: `33.63`
-- Articles: `40`
+- Generated: `2026-08-15T19:07:30.397053+00:00`
+- Market context score: `52.19`
+- News risk score: `36.85`
+- Macro risk score: `28.41`
+- Risk-on score: `35.6`
+- Articles: `39`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9098`
-- Day/swing latest: `2026-08-15T18:45:00+00:00`
+- Day/swing records: `9099`
+- Day/swing latest: `2026-08-15T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `4`
+- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `4`
 
 ## Headlines
 
+- [macro] Sea Limited Insiders Trimmed Into a Strong Quarter. Here's What to Know (Yahoo Finance)
+- [macro] A Sea Limited President Trimmed His Stake by $4 Million. Here's What to Know (Yahoo Finance)
 - [macro] Bill Ackman makes a bold move to answer investors biggest wish (Yahoo Finance)
-- [macro] DIVO or JEPI: Which Monthly Dividend Actually Protects Your Principal? (Yahoo Finance)
-- [macro] Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient (Yahoo Finance)
 - [macro] Firefighters battle wildfire tearing through Belgian nature reserve (BBC News)
 - [macro] Multiple suspects at large after five shot at Virginia State University, police say (BBC News)
 - [crypto] Tokenized stock holders more than double as monthly volume surges (Cointelegraph.com News)
