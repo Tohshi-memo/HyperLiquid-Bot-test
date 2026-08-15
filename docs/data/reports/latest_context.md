@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T12:52:55.905516+00:00`
-- Market context score: `41.77`
-- News risk score: `40.5`
-- Macro risk score: `27.0`
-- Risk-on score: `15.0`
-- Articles: `15`
+- Generated: `2026-08-15T12:56:02.471755+00:00`
+- Market context score: `35.82`
+- News risk score: `46.33`
+- Macro risk score: `38.67`
+- Risk-on score: `11.11`
+- Articles: `12`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `8`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 
 ## Headlines
 
+- [macro] Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes? (Yahoo Finance)
 - [macro] Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia (BBC News)
 - [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
-- [macro] Tesla Stock Is Recovering. The 3 Problems Underneath It Are Not. (Yahoo Finance)
-- [macro] SCHD Has a Little-Known International Twin That Pays More, and Almost Nobody Owns It (Yahoo Finance)
-- [macro] SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade (Yahoo Finance)
-- [macro] Why US boomers seriously need to prepare for a stock market crash before it’s too late — 3 red flags and what to do now (Yahoo Finance)
 - [crypto] Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck (Energy)
 - [macro] Family stranded at sea for 16 hours after jet ski capsized in Thailand (BBC News)
 - [crypto] Kalshi ordered to stop broad range of prediction markets in Washington (Cointelegraph.com News)
+- [macro] South Korea proposes talks to officially end war with North (BBC News)
+- [macro] Moment family rescued after 16 hours floating on jet ski off Thailand (BBC News)
+- [crypto] Galaxy lowers CLARITY Act odds to 10% (Cointelegraph.com News)
