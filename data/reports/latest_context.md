@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T21:37:28.443934+00:00`
-- Market context score: `54.65`
-- News risk score: `37.52`
-- Macro risk score: `27.82`
-- Risk-on score: `41.42`
-- Articles: `44`
+- Generated: `2026-08-15T21:52:49.349205+00:00`
+- Market context score: `57.23`
+- News risk score: `37.55`
+- Macro risk score: `26.9`
+- Risk-on score: `46.83`
+- Articles: `46`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9109`
-- Day/swing latest: `2026-08-15T21:30:00+00:00`
+- Day/swing records: `9110`
+- Day/swing latest: `2026-08-15T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `29`, risk hits `6`, risk headline rate `0.2069`, policy hits `4`
+- macro: articles `31`, risk hits `6`, risk headline rate `0.1935`, policy hits `4`
 
 ## Headlines
 
+- [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
+- [macro] Australian state to launch gun buyback after Bondi Beach attack (BBC News)
 - [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
+- [macro] SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In) (Yahoo Finance)
+- [macro] This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What’s It For? (Yahoo Finance)
+- [macro] I’m 61 Years Old With $200,000 Saved for Retirement. What’s My Game Plan? (Yahoo Finance)
 - [macro] Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade (Yahoo Finance)
+- [macro] Breaking: PayPal Is “In Talks to Sell Itself” After Rejecting Stripe’s Initial $60.50 Bid in July (Yahoo Finance)
 - [macro] Jim Cramer Was Happy The Market “Cared” About D-Wave Quantum – But Not How You Think (Yahoo Finance)
 - [macro] Retiring Abroad? You May Not Be Able to Get Social Security Checks in These 9 Countries (Yahoo Finance)
-- [macro] Which Broad Market ETF Wins for Your Portfolio, the iShares ITOT or Schwab's SCHB? (Yahoo Finance)
-- [macro] Qatar denies capturing three Iranian pilots after downing fighter jets (BBC News)
-- [macro] He Won $50,000 at Rodeos After Filing for Social Security. The IRS Asked Whether He Was Having Fun or Running a Business. (Yahoo Finance)
-- [macro] David Tepper cuts AI stock, yet value hits $1.1 billion (Yahoo Finance)
-- [macro] Morocco detains dozens of migrants trying to cross into Ceuta, reports say (BBC News)
-- [commodity] Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck (Energy)
