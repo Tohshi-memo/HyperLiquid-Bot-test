@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T18:37:26.173931+00:00`
+- Generated: `2026-08-15T18:44:17.381745+00:00`
 - Market context score: `51.51`
 - News risk score: `36.55`
 - Macro risk score: `27.83`
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] DIVO or JEPI: Which Monthly Dividend Actually Protects Your Principal? (Yahoo Finance)
 - [macro] Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient (Yahoo Finance)
 - [macro] Which Is the Better Artificial Intelligence ETF, Roundhill's CHAT or Vanguard's VGT? (Yahoo Finance)
-- [macro] Iren Won't Have to Raise Capital for Much Longer After the Horizon 1 Delivery (Yahoo Finance)
 - [macro] Firefighters battle wildfire tearing through Belgian nature reserve (BBC News)
 - [macro] Multiple suspects at large after five shot at Virginia State University, police say (BBC News)
 - [crypto] Tokenized stock holders more than double as monthly volume surges (Cointelegraph.com News)
