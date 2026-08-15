@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T16:52:28.050777+00:00`
-- Market context score: `50.29`
-- News risk score: `39.76`
-- Macro risk score: `31.16`
-- Risk-on score: `34.88`
+- Generated: `2026-08-15T16:58:53.612319+00:00`
+- Market context score: `51.28`
+- News risk score: `38.79`
+- Macro risk score: `29.23`
+- Risk-on score: `35.52`
 - Articles: `43`
 - Polymarket markets: `386`
 
@@ -24,13 +24,13 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `29`, risk hits `8`, risk headline rate `0.2759`, policy hits `1`
+- macro: articles `29`, risk hits `7`, risk headline rate `0.2414`, policy hits `1`
 
 ## Headlines
 
+- [macro] Gold's wild 2026 ride might not be over yet (Yahoo Finance)
 - [macro] Worried About an AI Bubble? These Tech Stocks Are Well-Suited to Survive an AI Bust. (Yahoo Finance)
 - [macro] Warren Buffett Wasn’t the Only Billionaire Buying Alphabet Stock in Q2 (Yahoo Finance)
-- [macro] Claim Social Security After 65 and Medicare Backdates 6 Months. Keep Funding an HSA and the IRS Penalizes Every Dollar. (Yahoo Finance)
 - [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
 - [crypto] Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
