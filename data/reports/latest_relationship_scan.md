@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-08-15T06:55:04.746695+00:00`
+- Generated: `2026-08-15T07:07:31.148072+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`

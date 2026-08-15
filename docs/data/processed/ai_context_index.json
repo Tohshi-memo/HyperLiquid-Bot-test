@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T06:55:04.746695+00:00",
+  "updated_at": "2026-08-15T07:07:31.148072+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -21,12 +21,12 @@
     "first_read": [
       {
         "path": "data/reports/latest_ai_context_index.md",
-        "bytes": 2371,
+        "bytes": 2318,
         "note": "Human-readable map."
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 61717,
+        "bytes": 61422,
         "note": "Machine-readable map."
       },
       {
@@ -36,7 +36,7 @@
       },
       {
         "path": "data/reports/latest_ai_analysis_brief.md",
-        "bytes": 871,
+        "bytes": 870,
         "note": "BTC/ETH/HYPE/SOL compact stats."
       },
       {
@@ -46,7 +46,7 @@
       },
       {
         "path": "data/processed/ai_analysis_pack.json",
-        "bytes": 48256,
+        "bytes": 48259,
         "note": "Compact strategy stats."
       },
       {
@@ -98,17 +98,17 @@
       },
       {
         "path": "data/processed/day_swing_dataset.json",
-        "bytes": 61780345,
+        "bytes": 61787294,
         "note": "Full BTC/ETH/HYPE/SOL feature and label rows."
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 4961111,
+        "bytes": 4961126,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 3025327,
+        "bytes": 3025521,
         "note": "Polymarket/flow history."
       },
       {
@@ -133,12 +133,12 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 15080,
+        "bytes": 15110,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 4045327,
+        "bytes": 4045351,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
@@ -214,12 +214,12 @@
       "metal": 20,
       "unknown": 791
     },
-    "day_swing_records": 9051,
+    "day_swing_records": 9052,
     "day_swing_label_counts": {
-      "1h": 36112,
-      "4h": 35924,
-      "24h": 34972,
-      "72h": 32804
+      "1h": 36116,
+      "4h": 35928,
+      "24h": 34976,
+      "72h": 32808
     },
     "hip4_outcome_count": 8,
     "hip4_side_count": 16,
@@ -247,15 +247,15 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-08-15T06:55:04.746695+00:00",
+    "generated_at": "2026-08-15T07:07:31.148072+00:00",
     "scores": {
-      "news_risk_score": 36.26,
-      "macro_risk_score": 29.94,
-      "risk_on_score": 19.0,
-      "market_context_score": 44.68
+      "news_risk_score": 39.43,
+      "macro_risk_score": 31.7,
+      "risk_on_score": 17.05,
+      "market_context_score": 42.3
     },
     "news": {
-      "article_count": 17,
+      "article_count": 15,
       "risk_keyword_hits": 4,
       "sentiment_score": -1.0
     },
@@ -492,7 +492,7 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-08-15T06:50:27.820502+00:00",
+      "generated_at": "2026-08-15T07:05:30.454541+00:00",
       "scores": {
         "flow_alert_score": 17.0,
         "flow_alert_level": "baseline"
@@ -511,10 +511,10 @@
         "inflow_zscore_7d": 0.0
       },
       "polymarket": {
-        "market_count": 56,
-        "volume_24h": 8592596.26,
-        "lifetime_volume": 300605264.86,
-        "liquidity": 16233783.9,
+        "market_count": 55,
+        "volume_24h": 8834679.55,
+        "lifetime_volume": 309946811.04,
+        "liquidity": 16018514.51,
         "top_markets": [
           {
             "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
@@ -523,9 +523,9 @@
             "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 1621682.43,
-            "volume": 81330398.765266,
-            "liquidity": 19880.6867,
+            "volume_24h": 1874710.43,
+            "volume": 81583426.76526599,
+            "liquidity": 18571.0467,
             "end_date": "2026-06-01T00:00:00Z",
             "outcomes": [
               {
@@ -549,24 +549,24 @@
             "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 593007.0692269999,
-            "volume": 13617056.479841022,
-            "liquidity": 926125.46758,
+            "volume_24h": 595487.3090169999,
+            "volume": 13627236.952280017,
+            "liquidity": 920876.52951,
             "end_date": "2026-08-31T00:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.0155,
+                "probability": 0.0165,
                 "token_id": "105426373826369935595603860663411604941599130211176020843036778867927711117332"
               },
               {
                 "name": "No",
-                "probability": 0.9845,
+                "probability": 0.9835,
                 "token_id": "90869494087977018607792751230236923002303032923064138180950209430688758061828"
               }
             ],
-            "yes_probability": 0.0155,
-            "no_probability": 0.9845
+            "yes_probability": 0.0165,
+            "no_probability": 0.9835
           },
           {
             "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
@@ -575,9 +575,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 370514.0654999999,
+            "volume_24h": 365774.34549999994,
             "volume": 5278972.337384,
-            "liquidity": 1018283.01164,
+            "liquidity": 1018883.5316,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -595,41 +595,15 @@
             "no_probability": 0.9955
           },
           {
-            "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-            "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-            "event_slug": "fed-decision-in-september-762",
-            "url": "https://polymarket.com/event/fed-decision-in-september-762",
-            "query": "macro",
-            "impact_category": "macro",
-            "volume_24h": 277992.0629159999,
-            "volume": 7657725.729425004,
-            "liquidity": 701516.4777,
-            "end_date": "2026-09-16T00:00:00Z",
-            "outcomes": [
-              {
-                "name": "Yes",
-                "probability": 0.745,
-                "token_id": "5615282760875985231868508008056959876238536896643315063916840237042205273721"
-              },
-              {
-                "name": "No",
-                "probability": 0.255,
-                "token_id": "97050921740416192996389806693742575608111328819185493163189880975611314813724"
-              }
-            ],
-            "yes_probability": 0.745,
-            "no_probability": 0.255
-          },
-          {
             "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
             "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
             "event_slug": "fed-decision-in-september-762",
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 273078.061757,
-            "volume": 8642686.165422007,
-            "liquidity": 933520.59306,
+            "volume_24h": 268050.68876399996,
+            "volume": 8643178.578142002,
+            "liquidity": 934899.50947,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -647,15 +621,41 @@
             "no_probability": 0.9885
           },
           {
+            "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+            "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+            "event_slug": "fed-decision-in-september-762",
+            "url": "https://polymarket.com/event/fed-decision-in-september-762",
+            "query": "macro",
+            "impact_category": "macro",
+            "volume_24h": 265486.8991049998,
+            "volume": 7658262.892754003,
+            "liquidity": 546837.9367,
+            "end_date": "2026-09-16T00:00:00Z",
+            "outcomes": [
+              {
+                "name": "Yes",
+                "probability": 0.745,
+                "token_id": "5615282760875985231868508008056959876238536896643315063916840237042205273721"
+              },
+              {
+                "name": "No",
+                "probability": 0.255,
+                "token_id": "97050921740416192996389806693742575608111328819185493163189880975611314813724"
+              }
+            ],
+            "yes_probability": 0.745,
+            "no_probability": 0.255
+          },
+          {
             "question": "Will Brian Kemp win the 2028 Republican presidential nomination?",
             "slug": "will-brian-kemp-win-the-2028-republican-presidential-nomination",
             "event_slug": "republican-presidential-nominee-2028",
             "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 261279.371496,
-            "volume": 17820770.167871,
-            "liquidity": 981524.65467,
+            "volume_24h": 261278.159496,
+            "volume": 17820770.167871002,
+            "liquidity": 970546.72767,
             "end_date": "2028-11-07T00:00:00Z",
             "outcomes": [
               {
@@ -679,9 +679,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 256313.458568,
-            "volume": 7126143.081581996,
-            "liquidity": 700606.2238,
+            "volume_24h": 251185.619665,
+            "volume": 7126143.081581997,
+            "liquidity": 545106.3735,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -699,15 +699,41 @@
             "no_probability": 0.755
           },
           {
+            "question": "Israel x Iran ceasefire continues through August 15?",
+            "slug": "israel-x-iran-ceasefire-continues-through-august-15-20260716224448969-246-815-987-693",
+            "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+            "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+            "query": "geopolitics",
+            "impact_category": "geopolitics",
+            "volume_24h": 234617.32364599957,
+            "volume": 2162930.988081002,
+            "liquidity": 204973.26139,
+            "end_date": "2026-08-15T23:59:00Z",
+            "outcomes": [
+              {
+                "name": "Yes",
+                "probability": 0.9965,
+                "token_id": "77550960228341204288120509394963885549177211314903311399404330431381651171385"
+              },
+              {
+                "name": "No",
+                "probability": 0.0035,
+                "token_id": "31798323952461961650983638405389053740930972138111089234409584277872747279143"
+              }
+            ],
+            "yes_probability": 0.9965,
+            "no_probability": 0.0035
+          },
+          {
             "question": "Will Raphael Warnock win the 2028 US Presidential Election?",
             "slug": "will-person-ae-win-the-2028-us-presidential-election",
             "event_slug": "presidential-election-winner-2028",
             "url": "https://polymarket.com/event/presidential-election-winner-2028",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 233408.379,
-            "volume": 304868.379,
-            "liquidity": 280654.34562,
+            "volume_24h": 232408.379,
+            "volume": 304868.37899999996,
+            "liquidity": 275293.78796,
             "end_date": "2028-11-07T00:00:00Z",
             "outcomes": [
               {
@@ -731,9 +757,9 @@
             "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
             "query": "crypto",
             "impact_category": "crypto",
-            "volume_24h": 224480.67857099994,
-            "volume": 2441689.51842,
-            "liquidity": 118571.4076,
+            "volume_24h": 224548.65857099995,
+            "volume": 2441757.49842,
+            "liquidity": 118565.4076,
             "end_date": "2027-01-01T05:00:00Z",
             "outcomes": [
               {
@@ -749,40 +775,14 @@
             ],
             "yes_probability": 0.008,
             "no_probability": 0.992
-          },
-          {
-            "question": "Will the price of Bitcoin be above $60,000 on August 15?",
-            "slug": "bitcoin-above-60k-on-august-15-2026",
-            "event_slug": "bitcoin-above-on-august-15-2026",
-            "url": "https://polymarket.com/event/bitcoin-above-on-august-15-2026",
-            "query": "crypto",
-            "impact_category": "crypto",
-            "volume_24h": 209698.112104,
-            "volume": 234283.40530899994,
-            "liquidity": 31165.85328,
-            "end_date": "2026-08-15T16:00:00Z",
-            "outcomes": [
-              {
-                "name": "Yes",
-                "probability": 0.9985,
-                "token_id": "111909035052452502081996541964700464241653639043689028474507826040178246663191"
-              },
-              {
-                "name": "No",
-                "probability": 0.0015,
-                "token_id": "94844425264397009979441565376652184062054670449136081029535192752332536332976"
-              }
-            ],
-            "yes_probability": 0.9985,
-            "no_probability": 0.0015
           }
         ],
         "health_markets": [],
-        "volume_24h_zscore_7d": -0.75
+        "volume_24h_zscore_7d": -0.63
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-08-15T06:55:04.746695+00:00",
+      "generated_at": "2026-08-15T07:07:31.148072+00:00",
       "outcome_count": 8,
       "side_count": 16,
       "by_underlying": {
@@ -806,7 +806,7 @@
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-08-15T06:55:04.746695+00:00",
+      "generated_at": "2026-08-15T07:07:31.148072+00:00",
       "pattern_count": 96,
       "min_samples": 30,
       "top_patterns": [
@@ -1085,7 +1085,7 @@
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-08-15T06:55:04.746695+00:00",
+      "generated_at": "2026-08-15T07:07:31.148072+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121111,
       "top_patterns": [
@@ -1259,7 +1259,7 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-08-15T06:55:04.746695+00:00",
+      "generated_at": "2026-08-15T07:07:31.148072+00:00",
       "observed_at": "2026-08-15T06:45:00+00:00",
       "asset_count": 1206,
       "top_assets": [
@@ -1840,5 +1840,5 @@
     "read_relationship_scan_when": "Selecting public, mechanically discovered A/B -> future-return candidates for private AI hypothesis review and strategy validation.",
     "read_sector_reactions_when": "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, or 252d after public event conditions."
   },
-  "available_at": "2026-08-15T06:56:06.960693+00:00"
+  "available_at": "2026-08-15T07:08:22.703764+00:00"
 }
