@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T23:31:38.177842+00:00`
+- Generated: `2026-08-15T23:37:27.979869+00:00`
 - Market context score: `59.14`
 - News risk score: `36.78`
 - Macro risk score: `23.35`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
 - [macro] Snowflake vs. Verizon: Which Technology Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [macro] All You Need to Know about Insurance to Protect Your Income and Wealth (Yahoo Finance)
 - [macro] Curtiss-Wright (CW) Just Raised Guidance Again, So What’s The Catch? (Yahoo Finance)
@@ -36,5 +37,4 @@
 - [macro] MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning? (Yahoo Finance)
 - [macro] Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now? (Yahoo Finance)
 - [macro] MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait? (Yahoo Finance)
-- [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
 - [macro] Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering? (Yahoo Finance)
