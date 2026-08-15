@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T05:22:27.373747+00:00`
+- Generated: `2026-08-15T05:36:56.644073+00:00`
 - Market context score: `36.1`
 - News risk score: `48.02`
 - Macro risk score: `32.96`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9045`
-- Day/swing latest: `2026-08-15T05:15:00+00:00`
+- Day/swing records: `9046`
+- Day/swing latest: `2026-08-15T05:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Europe's scorched landscapes seen from space after summer heatwaves (BBC News)
+- [macro] Five dead after 7.7 magnitude earthquake strikes Indonesia (BBC News)
 - [macro] Temporary ban on disposable BBQs as military deployed to help battle wildfires (BBC News)
 - [macro] BBC seeks to subpoena Trump's family members in Panorama lawsuit (BBC News)
 - [macro] Air India pilot's reported cannabis test: What it can and can't tell investigators (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Gen Z favors ETFs and trades less than older cohorts: Binance (Cointelegraph.com News)
 - [macro] Protein or pickled garlic? What's new in ice cream (BBC News)
 - [crypto] Ireland plans industry standards for illicit crypto use (Cointelegraph.com News)
-- [crypto] Trump-backed World Liberty wins conditional bank charter from federal regulator (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
