@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T19:52:27.792455+00:00`
-- Market context score: `53.7`
-- News risk score: `36.38`
-- Macro risk score: `28.96`
-- Risk-on score: `38.77`
-- Articles: `39`
+- Generated: `2026-08-15T20:02:53.357027+00:00`
+- Market context score: `55.48`
+- News risk score: `36.02`
+- Macro risk score: `27.77`
+- Risk-on score: `41.98`
+- Articles: `41`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9102`
-- Day/swing latest: `2026-08-15T19:45:00+00:00`
+- Day/swing records: `9103`
+- Day/swing latest: `2026-08-15T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `1`
-- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `4`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `4`
 
 ## Headlines
 
+- [macro] Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia (BBC News)
 - [macro] Liechtenstein changes succession rule to allow women to ascend the throne (BBC News)
 - [macro] The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners (Yahoo Finance)
 - [macro] Multiple suspects at large after five shot at Virginia State University, police say (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Morocco detains dozens of migrants trying to cross into Ceuta (BBC News)
 - [macro] Firefighters battle wildfire tearing through Belgian nature reserve (BBC News)
 - [crypto] Tokenized stock holders more than double as monthly volume surges (Cointelegraph.com News)
-- [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
