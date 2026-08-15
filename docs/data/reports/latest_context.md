@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T17:32:28.395110+00:00`
-- Market context score: `50.82`
-- News risk score: `38.52`
-- Macro risk score: `28.46`
-- Risk-on score: `33.98`
-- Articles: `43`
+- Generated: `2026-08-15T17:37:23.955337+00:00`
+- Market context score: `52.32`
+- News risk score: `37.86`
+- Macro risk score: `28.39`
+- Risk-on score: `36.74`
+- Articles: `44`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
 - macro: articles `29`, risk hits `6`, risk headline rate `0.2069`, policy hits `5`
 
 ## Headlines
 
+- [crypto] Tokenized stock holders more than double as monthly volume surges (Cointelegraph.com News)
 - [macro] Jim Cramer reveals 6 AI stocks to watch in 2026 (Yahoo Finance)
 - [macro] Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too. (Yahoo Finance)
 - [macro] Mastercard vs. Visa: One Fintech Giant Has the Stronger Growth Story (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Bill Gates’ Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy? (Yahoo Finance)
 - [macro] A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why (Yahoo Finance)
 - [crypto] Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
