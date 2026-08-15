@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T21:22:26.338267+00:00`
-- Market context score: `56.71`
-- News risk score: `36.59`
-- Macro risk score: `25.47`
-- Risk-on score: `44.33`
-- Articles: `45`
+- Generated: `2026-08-15T21:32:14.444207+00:00`
+- Market context score: `56.6`
+- News risk score: `36.55`
+- Macro risk score: `25.89`
+- Risk-on score: `44.21`
+- Articles: `44`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9108`
-- Day/swing latest: `2026-08-15T21:15:00+00:00`
+- Day/swing records: `9109`
+- Day/swing latest: `2026-08-15T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `30`, risk hits `5`, risk headline rate `0.1667`, policy hits `4`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `4`
 
 ## Headlines
 
+- [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
 - [macro] Which Broad Market ETF Wins for Your Portfolio, the iShares ITOT or Schwab's SCHB? (Yahoo Finance)
 - [macro] Qatar denies capturing three Iranian pilots after downing fighter jets (BBC News)
 - [macro] He Won $50,000 at Rodeos After Filing for Social Security. The IRS Asked Whether He Was Having Fun or Running a Business. (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Why Has Cintas Stock Slipped Despite Record Margins? What to Know Amid a Founder's Vesting (Yahoo Finance)
 - [macro] These 3 ETFs Pay More Than a Rental Property With No Tenants, No Repairs, and No Mortgage (Yahoo Finance)
 - [macro] My two apps made $30M (Yahoo Finance)
-- [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
