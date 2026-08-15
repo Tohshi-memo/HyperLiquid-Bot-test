@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T18:22:24.947582+00:00`
-- Market context score: `53.62`
-- News risk score: `37.91`
-- Macro risk score: `29.46`
-- Risk-on score: `40.07`
-- Articles: `42`
+- Generated: `2026-08-15T18:37:26.173931+00:00`
+- Market context score: `51.51`
+- News risk score: `36.55`
+- Macro risk score: `27.83`
+- Risk-on score: `33.63`
+- Articles: `40`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9096`
-- Day/swing latest: `2026-08-15T18:15:00+00:00`
+- Day/swing records: `9097`
+- Day/swing latest: `2026-08-15T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `5`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `4`
 
 ## Headlines
 
-- [macro] The Mill Reopened and Called Him Back. Returning Could Suspend His Pension Before Social Security Touched a Dollar. (Yahoo Finance)
+- [macro] Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient (Yahoo Finance)
+- [macro] Which Is the Better Artificial Intelligence ETF, Roundhill's CHAT or Vanguard's VGT? (Yahoo Finance)
+- [macro] Iren Won't Have to Raise Capital for Much Longer After the Horizon 1 Delivery (Yahoo Finance)
 - [macro] Firefighters battle wildfire tearing through Belgian nature reserve (BBC News)
-- [macro] SK Hynix Approved $38 Billion of New Memory Fabs That Won't Produce a Chip Before December 2028 (Yahoo Finance)
-- [macro] Health Savings Account Strategy: How to Turn Your 401(k) Into a Tax-Free Retirement Machine (Yahoo Finance)
 - [macro] Multiple suspects at large after five shot at Virginia State University, police say (BBC News)
 - [crypto] Tokenized stock holders more than double as monthly volume surges (Cointelegraph.com News)
 - [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
