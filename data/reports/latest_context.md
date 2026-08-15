@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-15T17:07:26.097059+00:00`
-- Market context score: `50.62`
-- News risk score: `39.54`
-- Macro risk score: `30.98`
-- Risk-on score: `35.35`
-- Articles: `42`
+- Generated: `2026-08-15T17:22:29.137623+00:00`
+- Market context score: `50.97`
+- News risk score: `38.52`
+- Macro risk score: `27.97`
+- Risk-on score: `34.12`
+- Articles: `44`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9091`
-- Day/swing latest: `2026-08-15T17:00:00+00:00`
+- Day/swing records: `9092`
+- Day/swing latest: `2026-08-15T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `5`
+- macro: articles `30`, risk hits `6`, risk headline rate `0.2`, policy hits `5`
 
 ## Headlines
 
-- [macro] Gold's wild 2026 ride might not be over yet (Yahoo Finance)
-- [macro] Worried About an AI Bubble? These Tech Stocks Are Well-Suited to Survive an AI Bust. (Yahoo Finance)
-- [macro] Warren Buffett Wasn’t the Only Billionaire Buying Alphabet Stock in Q2 (Yahoo Finance)
+- [macro] Jim Cramer reveals 6 AI stocks to watch in 2026 (Yahoo Finance)
+- [macro] Mastercard vs. Visa: One Fintech Giant Has the Stronger Growth Story (Yahoo Finance)
+- [macro] Which Is the Better Short-Term Bond ETF, Vanguard's VTES or VanEck's SMB? (Yahoo Finance)
 - [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
 - [crypto] Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
