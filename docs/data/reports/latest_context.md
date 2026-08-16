@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T20:56:05.519389+00:00`
-- Market context score: `55.78`
+- Generated: `2026-08-16T21:07:27.914499+00:00`
+- Market context score: `56.98`
 - News risk score: `38.77`
 - Macro risk score: `18.69`
-- Risk-on score: `41.54`
+- Risk-on score: `44.2`
 - Articles: `41`
 - Polymarket markets: `387`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9201`
-- Day/swing latest: `2026-08-16T20:45:00+00:00`
+- Day/swing records: `9202`
+- Day/swing latest: `2026-08-16T21:00:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,9 @@
 
 ## Headlines
 
+- [macro] BBB Foods Shows a Net Loss but Its Cash Flow Surged. Here's How to Read an Insider's Trade Before Last Week's Earnings (Yahoo Finance)
+- [macro] An Estate Can Pick Its Own Valuation Date. Here’s the Six-Month Do-Over That Cuts the Tax Bill When Markets Fall (Yahoo Finance)
 - [macro] NVIDIA’s $3 Billion Bet on the Power Behind AI (Yahoo Finance)
-- [macro] 1 Major Red Flag AMD Investors Can't Afford to Ignore (Yahoo Finance)
 - [macro] Stellantis’ (STLA) Big Turnaround Bet Hits A North American Snag (Yahoo Finance)
 - [macro] Belgian wildfire doubles in size on third day tearing through nature reserve (BBC News)
 - [macro] Trump envoy Kushner meets Hamas leader to push Gaza peace plan (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Google’s (GOOGL) Latest AI Model Arrives Amid A Bigger Balancing Act (Yahoo Finance)
 - [macro] Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet (Yahoo Finance)
 - [macro] Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax? (Yahoo Finance)
-- [macro] Russia says at least seven killed in largest Ukrainian attack of 2026 (BBC News)
