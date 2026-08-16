@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T07:52:37.334014+00:00`
+- Generated: `2026-08-16T08:07:32.055125+00:00`
 - Market context score: `55.42`
 - News risk score: `28.0`
 - Macro risk score: `32.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9149`
-- Day/swing latest: `2026-08-16T07:45:00+00:00`
+- Day/swing records: `9150`
+- Day/swing latest: `2026-08-16T08:00:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
+- [macro] Hurricane Lala lashes Hawaii with strong winds and torrential rain (BBC News)
 - [macro] Twelve killed as Polish bus veers off Hungarian motorway (BBC News)
-- [macro] Hawaii battles strong winds and rain as Hurricane Lala threat looms (BBC News)
 - [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
 - [macro] Morgan Stanley sends a blunt Tesla message to investors (Yahoo Finance)
 - [macro] BBC seeks to subpoena family members in Panorama lawsuit (BBC News)
