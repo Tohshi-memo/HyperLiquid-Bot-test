@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-16T20:20:29.021661+00:00`
+- Generated: `2026-08-16T20:25:27.302717+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5833793.36`
-- Polymarket volume z-score: `-1.66`
+- Polymarket 24h volume: `5983465.82`
+- Polymarket volume z-score: `-1.6`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1036335.333` | liquidity: `23102.44659`
-- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `280203.48` | liquidity: `1944607.37847`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `265530.57802899985` | liquidity: `827197.06052`
-- Israel x Iran ceasefire continues through August 15? | 24h volume: `225254.507687` | liquidity: `196660.48938`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `221849.76370699998` | liquidity: `93684.5436`
-- Will Iran announce withdrawal from MOU negotiations by August 15? | 24h volume: `221196.805503` | liquidity: `131909.98809`
-- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `207964.578` | liquidity: `412862.5701`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `190914.24` | liquidity: `2165078.61238`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1036335.333` | liquidity: `24357.59851`
+- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `280197.4039999999` | liquidity: `1946607.37847`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `266658.1980290002` | liquidity: `827448.80052`
+- Israel x Iran ceasefire continues through August 15? | 24h volume: `225254.50768699986` | liquidity: `193663.99716`
+- Will Iran announce withdrawal from MOU negotiations by August 15? | 24h volume: `223875.61705900007` | liquidity: `138475.33779`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `218788.99643600002` | liquidity: `99023.0784`
+- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `208580.527` | liquidity: `416293.51755`
+- Will Mike Johnson win the 2028 Republican presidential nomination? | 24h volume: `190677.85` | liquidity: `1030299.17597`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
