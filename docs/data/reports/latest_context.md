@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T00:07:29.364935+00:00`
-- Market context score: `51.12`
-- News risk score: `38.23`
-- Macro risk score: `35.77`
-- Risk-on score: `37.18`
-- Articles: `30`
+- Generated: `2026-08-16T00:22:32.908665+00:00`
+- Market context score: `48.89`
+- News risk score: `39.15`
+- Macro risk score: `37.61`
+- Risk-on score: `33.69`
+- Articles: `31`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9118`
-- Day/swing latest: `2026-08-16T00:00:00+00:00`
+- Day/swing records: `9119`
+- Day/swing latest: `2026-08-16T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `1`
-- macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `0`
+- macro: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `0`
 
 ## Headlines
 
+- [macro] BBC seeks to subpoena Trump's family members in Panorama lawsuit (BBC News)
 - [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
 - [macro] Historic retailer gets lifeline after warning it could collapse (Yahoo Finance)
 - [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck (Energy)
 - [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
 - [macro] Liechtenstein changes succession rule to allow women to ascend the throne (BBC News)
-- [macro] Multiple suspects at large after five shot at Virginia State University, police say (BBC News)
