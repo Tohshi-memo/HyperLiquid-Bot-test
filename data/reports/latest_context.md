@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T23:22:24.337777+00:00`
+- Generated: `2026-08-16T23:31:04.098689+00:00`
 - Market context score: `56.73`
 - News risk score: `40.91`
 - Macro risk score: `18.51`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9211`
-- Day/swing latest: `2026-08-16T23:15:00+00:00`
+- Day/swing records: `9212`
+- Day/swing latest: `2026-08-16T23:30:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] Trump says US to scale back military drills with South Korea after it stayed out of Iran war (BBC News)
 - [macro] 'Ghana was the crime scene' - the country leading the demand for slavery reparations (BBC News)
 - [macro] Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology (Yahoo Finance)
 - [macro] The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support (Yahoo Finance)
-- [macro] Trump says US to scale back military drills with South Korea after it stayed out of Iran war (BBC News)
 - [macro] HIVE reports 74% revenue jump in fiscal Q1 2027 earnings (Yahoo Finance)
 - [macro] Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms (Yahoo Finance)
 - [macro] Thailand has a gun problem - 10 million of them (BBC News)
