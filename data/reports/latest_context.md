@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T19:17:01.242966+00:00`
-- Market context score: `50.17`
-- News risk score: `38.03`
-- Macro risk score: `17.62`
-- Risk-on score: `28.04`
-- Articles: `36`
+- Generated: `2026-08-16T19:22:26.036682+00:00`
+- Market context score: `50.74`
+- News risk score: `38.81`
+- Macro risk score: `19.3`
+- Risk-on score: `30.6`
+- Articles: `35`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -23,10 +23,11 @@
 ## News Categories
 
 - crypto: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `28`, risk hits `1`, risk headline rate `0.0357`, policy hits `7`
+- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `6`
 
 ## Headlines
 
+- [macro] You Can't Escape Inflation in Retirement. Here's How to Beat It. (Yahoo Finance)
 - [macro] Russia says at least seven killed in largest Ukrainian attack of 2026 (BBC News)
 - [macro] Teen suspect in Virginia campus shooting found hiding in closet (BBC News)
 - [macro] One dead, homes swept away after Hurricane Lala lashes Hawaii (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B (Yahoo Finance)
 - [macro] Under Armour’s Turnaround Hits a Wall as North America Demand Craters (Yahoo Finance)
 - [crypto] Crypto investors are looking past market-cap rankings and back to fundamentals (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bending Spoons Beats on Earnings in Its Public Market Debut Quarter. Investors Focus on the Fine Print Instead (Yahoo Finance)
