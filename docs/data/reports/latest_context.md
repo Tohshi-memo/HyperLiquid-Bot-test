@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T14:37:26.075225+00:00`
-- Market context score: `46.87`
-- News risk score: `35.5`
-- Macro risk score: `17.0`
-- Risk-on score: `18.33`
-- Articles: `18`
+- Generated: `2026-08-16T14:43:37.834856+00:00`
+- Market context score: `45.47`
+- News risk score: `37.49`
+- Macro risk score: `20.4`
+- Risk-on score: `18.18`
+- Articles: `17`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -23,17 +23,17 @@
 ## News Categories
 
 - crypto: articles `6`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
+- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `4`
 
 ## Headlines
 
 - [crypto] Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MiCA's cleanup is creating a new scam wave across the European Union (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars — and high fees aren't helping (Yahoo Finance)
-- [macro] Meta to face massive social media addiction trial Tuesday (Yahoo Finance)
-- [macro] Jim Cramer Tells Caller to Average Down on Netflix (NFLX) (Yahoo Finance)
-- [macro] Wendy’s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private (Yahoo Finance)
 - [macro] Four 'extraordinary' Renaissance paintings stolen from Italian museum (BBC News)
 - [crypto] The stablecoin yield clash that won't go away has banks, crypto battling over tradition (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist (BBC News)
 - [crypto] DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says (Cointelegraph.com News)
+- [macro] Thousands displaced by deadly Indonesia earthquake as rescue efforts continue (BBC News)
+- [macro] BBC visits smouldering Kyiv market after Russian strikes (BBC News)
+- [crypto] The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
