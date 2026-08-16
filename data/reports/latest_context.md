@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T11:22:27.795283+00:00`
-- Market context score: `51.71`
-- News risk score: `26.33`
-- Macro risk score: `28.11`
+- Generated: `2026-08-16T11:31:00.523701+00:00`
+- Market context score: `51.83`
+- News risk score: `26.17`
+- Macro risk score: `27.83`
 - Risk-on score: `25.56`
-- Articles: `9`
+- Articles: `10`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9163`
-- Day/swing latest: `2026-08-16T11:15:00+00:00`
+- Day/swing records: `9164`
+- Day/swing latest: `2026-08-16T11:30:00+00:00`
 
 ## News Categories
 
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Ethereum devs to narrow 66 proposals tied to Hegotá upgrade (Cointelegraph.com News)
 - [macro] Twelve killed as Polish bus veers off Hungarian motorway (BBC News)
 - [macro] Five killed as Russia launches fresh aerial attacks across Ukraine (BBC News)
-- [macro] Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week (Yahoo Finance)
 - [macro] Qatar denies capturing three Iranian pilots after downing fighter jets (BBC News)
 - [macro] Hurricane Lala lashes Hawaii with strong winds and torrential rain (BBC News)
 - [macro] Thousands displaced by deadly Indonesia earthquake as rescue efforts continue (BBC News)
