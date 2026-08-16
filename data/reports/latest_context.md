@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T02:52:26.065132+00:00`
+- Generated: `2026-08-16T03:07:29.806242+00:00`
 - Market context score: `46.93`
 - News risk score: `43.0`
 - Macro risk score: `32.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9129`
-- Day/swing latest: `2026-08-16T02:45:00+00:00`
+- Day/swing records: `9130`
+- Day/swing latest: `2026-08-16T03:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] BBC seeks to subpoena Trump's family members in Panorama lawsuit (BBC News)
+- [macro] BBC seeks to subpoena members in Panorama lawsuit (BBC News)
 - [macro] I survived two years as prime minister in a hit new game - then my cabinet deserted me (BBC News)
 - [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
 - [macro] Historic retailer gets lifeline after warning it could collapse (Yahoo Finance)
