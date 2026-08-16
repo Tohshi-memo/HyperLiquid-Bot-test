@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T20:37:24.123529+00:00`
-- Market context score: `53.98`
+- Generated: `2026-08-16T20:52:26.821845+00:00`
+- Market context score: `55.78`
 - News risk score: `38.77`
 - Macro risk score: `18.69`
-- Risk-on score: `37.54`
+- Risk-on score: `41.54`
 - Articles: `41`
 - Polymarket markets: `387`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9200`
-- Day/swing latest: `2026-08-16T20:30:00+00:00`
+- Day/swing records: `9201`
+- Day/swing latest: `2026-08-16T20:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 ## Headlines
 
 - [macro] NVIDIA’s $3 Billion Bet on the Power Behind AI (Yahoo Finance)
+- [macro] 1 Major Red Flag AMD Investors Can't Afford to Ignore (Yahoo Finance)
 - [macro] Stellantis’ (STLA) Big Turnaround Bet Hits A North American Snag (Yahoo Finance)
 - [macro] Belgian wildfire doubles in size on third day tearing through nature reserve (BBC News)
 - [macro] Trump envoy Kushner meets Hamas leader to push Gaza peace plan (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet (Yahoo Finance)
 - [macro] Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax? (Yahoo Finance)
 - [macro] Russia says at least seven killed in largest Ukrainian attack of 2026 (BBC News)
-- [macro] Teen suspect in Virginia campus shooting found hiding in closet (BBC News)
