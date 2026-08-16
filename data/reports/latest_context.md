@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T12:57:13.042286+00:00`
-- Market context score: `44.83`
-- News risk score: `38.31`
-- Macro risk score: `21.85`
-- Risk-on score: `18.0`
+- Generated: `2026-08-16T13:07:32.019799+00:00`
+- Market context score: `39.39`
+- News risk score: `46.14`
+- Macro risk score: `22.51`
+- Risk-on score: `12.78`
 - Articles: `13`
 - Polymarket markets: `386`
 
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9169`
-- Day/swing latest: `2026-08-16T12:45:00+00:00`
+- Day/swing records: `9170`
+- Day/swing latest: `2026-08-16T13:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `4`
+- crypto: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `4`
 
 ## Headlines
 
+- [crypto] The stablecoin yield clash that won't go away has banks, crypto battling over tradition (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist (BBC News)
 - [crypto] DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says (Cointelegraph.com News)
 - [macro] Thousands displaced by deadly Indonesia earthquake as rescue efforts continue (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Ethereum devs to narrow 66 proposals tied to Hegotá upgrade (Cointelegraph.com News)
 - [macro] Twelve killed as Polish bus veers off Hungarian motorway (BBC News)
 - [macro] Five killed as Russia launches fresh aerial attacks across Ukraine (BBC News)
-- [macro] Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week (Yahoo Finance)
