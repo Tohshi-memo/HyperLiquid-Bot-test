@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T12:52:24.645903+00:00`
-- Market context score: `39.6`
-- News risk score: `46.0`
-- Macro risk score: `22.17`
-- Risk-on score: `13.0`
-- Articles: `12`
+- Generated: `2026-08-16T12:57:13.042286+00:00`
+- Market context score: `44.83`
+- News risk score: `38.31`
+- Macro risk score: `21.85`
+- Risk-on score: `18.0`
+- Articles: `13`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -22,11 +22,13 @@
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `4`
 
 ## Headlines
 
+- [macro] Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist (BBC News)
+- [crypto] DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says (Cointelegraph.com News)
 - [macro] Thousands displaced by deadly Indonesia earthquake as rescue efforts continue (BBC News)
 - [macro] BBC visits smouldering Kyiv market after Russian strikes (BBC News)
 - [crypto] The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,5 +37,3 @@
 - [macro] Twelve killed as Polish bus veers off Hungarian motorway (BBC News)
 - [macro] Five killed as Russia launches fresh aerial attacks across Ukraine (BBC News)
 - [macro] Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week (Yahoo Finance)
-- [macro] Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY (Yahoo Finance)
-- [macro] Qatar denies capturing three Iranian pilots after downing fighter jets (BBC News)
