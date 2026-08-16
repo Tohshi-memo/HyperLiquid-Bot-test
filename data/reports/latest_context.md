@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T20:01:10.987439+00:00`
-- Market context score: `53.8`
-- News risk score: `38.85`
-- Macro risk score: `19.29`
-- Risk-on score: `37.42`
-- Articles: `38`
+- Generated: `2026-08-16T20:07:27.698675+00:00`
+- Market context score: `54.22`
+- News risk score: `38.41`
+- Macro risk score: `18.08`
+- Risk-on score: `37.54`
+- Articles: `41`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -23,17 +23,17 @@
 ## News Categories
 
 - crypto: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `30`, risk hits `3`, risk headline rate `0.0667`, policy hits `7`
+- macro: articles `33`, risk hits `3`, risk headline rate `0.0606`, policy hits `6`
 
 ## Headlines
 
+- [macro] Belgian wildfire doubles in size on third day tearing through nature reserve (BBC News)
+- [macro] Trump envoy Kushner meets Hamas leader to push Gaza peace plan (BBC News)
 - [macro] Two dead and hundreds evacuated after twin fires break out on Greek island (BBC News)
+- [macro] Google’s (GOOGL) Latest AI Model Arrives Amid A Bigger Balancing Act (Yahoo Finance)
+- [macro] If You Followed Seth Klarman Into Vaxcyte in May, He Was Already Long Gone (Yahoo Finance)
 - [macro] Dave Ramsey Tells Couple Earning $110,000 They Can Afford a Baby, but One Decision Could Change Everything (Yahoo Finance)
-- [macro] What Three Encompass Health Insiders Selling Signals After a Rate Increase (Yahoo Finance)
 - [macro] Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet (Yahoo Finance)
 - [macro] Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax? (Yahoo Finance)
 - [macro] Russia says at least seven killed in largest Ukrainian attack of 2026 (BBC News)
 - [macro] Teen suspect in Virginia campus shooting found hiding in closet (BBC News)
-- [macro] Oil Majors Reap $93 Billion Windfall From the Iran War (Yahoo Finance)
-- [macro] One dead, homes swept away after Hurricane Lala lashes Hawaii (BBC News)
-- [crypto] The SEC meeting that wasn't: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
