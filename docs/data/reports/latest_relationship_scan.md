@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-08-16T01:52:26.113685+00:00`
+- Generated: `2026-08-16T01:54:31.911437+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -33,8 +33,8 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `market_context_high->commodity_24h` score `6.9802` n `97` status `ready` deltaP `38.8393` edge `0.3285` maxDD `-0.1266`
 - `risk_on_high->commodity_24h` score `5.8461` n `32` status `ready` deltaP `40.9012` edge `0.2145` maxDD `0.0`
 - `risk_on_and_context->commodity_24h` score `5.8461` n `32` status `ready` deltaP `40.9012` edge `0.2145` maxDD `0.0`
-- `risk_on_high->crypto_major_24h` score `3.8933` n `32` status `ready` deltaP `26.1211` edge `0.4406` maxDD `-6.2481`
-- `risk_on_and_context->crypto_major_24h` score `3.8933` n `32` status `ready` deltaP `26.1211` edge `0.4406` maxDD `-6.2481`
+- `risk_on_high->crypto_major_24h` score `3.8941` n `32` status `ready` deltaP `26.1211` edge `0.4407` maxDD `-6.2481`
+- `risk_on_and_context->crypto_major_24h` score `3.8941` n `32` status `ready` deltaP `26.1211` edge `0.4407` maxDD `-6.2481`
 - `news_risk_high->index_24h` score `3.6931` n `36` status `ready` deltaP `30.8492` edge `0.1021` maxDD `0.0`
 - `risk_on_high->commodity_4h` score `3.0557` n `32` status `ready` deltaP `22.3323` edge `0.124` maxDD `-0.1258`
 - `risk_on_and_context->commodity_4h` score `3.0557` n `32` status `ready` deltaP `22.3323` edge `0.124` maxDD `-0.1258`
