@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-16T12:20:29.373334+00:00`
+- Generated: `2026-08-16T12:25:25.432038+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6915807.7`
-- Polymarket volume z-score: `-1.37`
+- Polymarket 24h volume: `7091515.42`
+- Polymarket volume z-score: `-1.29`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1035632.003` | liquidity: `19663.4324`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `360426.16419300024` | liquidity: `874800.70883`
-- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `295052.9340000001` | liquidity: `368382.77068`
-- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `279832.252` | liquidity: `1929852.11896`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `273075.623932` | liquidity: `530030.22872`
-- Israel x Iran ceasefire continues through August 15? | 24h volume: `260279.4286749999` | liquidity: `212700.69759`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `236682.67` | liquidity: `2169542.01815`
-- Will the price of Bitcoin be above $60,000 on August 16? | 24h volume: `220003.20226799886` | liquidity: `87414.62234`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1035632.003` | liquidity: `23440.12863`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `361110.43237300025` | liquidity: `906442.77606`
+- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `294554.5740000001` | liquidity: `395255.38687`
+- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `279784.30449999997` | liquidity: `1943036.89442`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `271491.337432` | liquidity: `542674.78127`
+- Israel x Iran ceasefire continues through August 15? | 24h volume: `260279.4286749999` | liquidity: `212721.78675`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `236682.67` | liquidity: `2169542.00699`
+- Will the price of Bitcoin be above $60,000 on August 16? | 24h volume: `219753.20226799886` | liquidity: `87374.83993`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
