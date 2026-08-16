@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T05:52:27.008651+00:00`
+- Generated: `2026-08-16T06:07:29.783012+00:00`
 - Market context score: `56.2`
 - News risk score: `27.23`
 - Macro risk score: `30.46`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9141`
-- Day/swing latest: `2026-08-16T05:45:00+00:00`
+- Day/swing records: `9142`
+- Day/swing latest: `2026-08-16T06:00:00+00:00`
 
 ## News Categories
 
@@ -30,6 +30,7 @@
 
 - [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
 - [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
+- [macro] Morgan Stanley sends a blunt Tesla message to investors (Yahoo Finance)
 - [macro] BBC seeks to subpoena family members in Panorama lawsuit (BBC News)
 - [macro] I survived two years as prime minister in a hit new game - then my cabinet deserted me (BBC News)
 - [macro] Historic retailer gets lifeline after warning it could collapse (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Qatar denies capturing three Iranian pilots after downing fighter jets (BBC News)
 - [macro] Morocco detains dozens of migrants trying to cross into Ceuta, reports say (BBC News)
 - [commodity] Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck (Energy)
-- [macro] Eleven killed in Israeli strikes on southern Lebanon, authorities say (BBC News)
