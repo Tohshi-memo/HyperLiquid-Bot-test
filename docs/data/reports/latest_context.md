@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T03:52:27.752938+00:00`
-- Market context score: `52.23`
-- News risk score: `37.82`
+- Generated: `2026-08-16T04:04:27.003820+00:00`
+- Market context score: `59.88`
+- News risk score: `26.57`
 - Macro risk score: `29.14`
-- Risk-on score: `36.79`
-- Articles: `18`
+- Risk-on score: `44.29`
+- Articles: `16`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9133`
-- Day/swing latest: `2026-08-16T03:45:00+00:00`
+- Day/swing records: `9134`
+- Day/swing latest: `2026-08-16T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 
 ## Headlines
 
-- [macro] BBC seeks to subpoena members in Panorama lawsuit (BBC News)
-- [macro] I survived two years as prime minister in a hit new game - then my cabinet deserted me (BBC News)
 - [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
+- [macro] BBC seeks to subpoena family members in Panorama lawsuit (BBC News)
+- [macro] I survived two years as prime minister in a hit new game - then my cabinet deserted me (BBC News)
 - [macro] Historic retailer gets lifeline after warning it could collapse (Yahoo Finance)
 - [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
 - [macro] Australian state to launch gun buyback after Bondi Beach attack (BBC News)
