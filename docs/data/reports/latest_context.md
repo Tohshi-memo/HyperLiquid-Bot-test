@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T19:22:26.036682+00:00`
-- Market context score: `50.74`
-- News risk score: `38.81`
-- Macro risk score: `19.3`
-- Risk-on score: `30.6`
-- Articles: `35`
+- Generated: `2026-08-16T19:37:26.395018+00:00`
+- Market context score: `56.75`
+- News risk score: `37.61`
+- Macro risk score: `16.92`
+- Risk-on score: `42.04`
+- Articles: `36`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9195`
-- Day/swing latest: `2026-08-16T19:15:00+00:00`
+- Day/swing records: `9196`
+- Day/swing latest: `2026-08-16T19:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `6`
+- macro: articles `28`, risk hits `1`, risk headline rate `0.0357`, policy hits `6`
 
 ## Headlines
 
-- [macro] You Can't Escape Inflation in Retirement. Here's How to Beat It. (Yahoo Finance)
+- [macro] Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax? (Yahoo Finance)
 - [macro] Russia says at least seven killed in largest Ukrainian attack of 2026 (BBC News)
 - [macro] Teen suspect in Virginia campus shooting found hiding in closet (BBC News)
 - [macro] One dead, homes swept away after Hurricane Lala lashes Hawaii (BBC News)
