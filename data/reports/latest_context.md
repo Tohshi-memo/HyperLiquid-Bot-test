@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T15:37:27.577708+00:00`
+- Generated: `2026-08-16T15:41:22.431213+00:00`
 - Market context score: `47.01`
 - News risk score: `35.78`
 - Macro risk score: `17.16`
@@ -29,7 +29,7 @@
 
 - [macro] Belgian wildfire doubles in size on third day tearing through nature reserve (BBC News)
 - [macro] Teenager arrested in Virginia State University shooting that injured five (BBC News)
-- [macro] I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF. (Yahoo Finance)
+- [macro] He Bought a $300,000 Annuity Inside His IRA for the Tax Deferral. The IRA Was Already Tax-Deferred, but the Fees Were Real. (Yahoo Finance)
 - [macro] 'Spending is leading to earnings': Wall Street strategists see payoff from Big Tech's AI investment (Yahoo Finance)
 - [macro] Russia says at least seven killed in largest Ukrainian attack of 2026 (BBC News)
 - [macro] Changing pubs into homes to be made harder under new rules (BBC News)
