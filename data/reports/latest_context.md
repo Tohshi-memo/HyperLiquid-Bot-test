@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T20:34:03.001036+00:00`
+- Generated: `2026-08-16T20:37:24.123529+00:00`
 - Market context score: `53.98`
 - News risk score: `38.77`
 - Macro risk score: `18.69`
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] NVIDIA’s $3 Billion Bet on the Power Behind AI (Yahoo Finance)
 - [macro] Stellantis’ (STLA) Big Turnaround Bet Hits A North American Snag (Yahoo Finance)
 - [macro] Belgian wildfire doubles in size on third day tearing through nature reserve (BBC News)
 - [macro] Trump envoy Kushner meets Hamas leader to push Gaza peace plan (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax? (Yahoo Finance)
 - [macro] Russia says at least seven killed in largest Ukrainian attack of 2026 (BBC News)
 - [macro] Teen suspect in Virginia campus shooting found hiding in closet (BBC News)
-- [macro] Oil Majors Reap $93 Billion Windfall From the Iran War (Yahoo Finance)
