@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T08:22:26.979504+00:00`
+- Generated: `2026-08-16T08:37:29.931877+00:00`
 - Market context score: `58.42`
 - News risk score: `28.0`
 - Macro risk score: `32.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9151`
-- Day/swing latest: `2026-08-16T08:15:00+00:00`
+- Day/swing records: `9152`
+- Day/swing latest: `2026-08-16T08:30:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] Thousands displaced by deadly Indonesia earthquake as rescue efforts continue (BBC News)
 - [macro] Three killed as Russia launches fresh aerial attacks across Ukraine (BBC News)
 - [macro] Hurricane Lala lashes Hawaii with strong winds and torrential rain (BBC News)
 - [macro] Twelve killed as Polish bus veers off Hungarian motorway (BBC News)
-- [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
 - [macro] Morgan Stanley sends a blunt Tesla message to investors (Yahoo Finance)
 - [macro] BBC seeks to subpoena family members in Panorama lawsuit (BBC News)
 - [macro] I survived two years as prime minister in a hit new game - then my cabinet deserted me (BBC News)
