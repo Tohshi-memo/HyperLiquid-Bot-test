@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-16T15:00:30.935163+00:00`
+- Generated: `2026-08-16T15:05:27.157278+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6702502.49`
-- Polymarket volume z-score: `-1.42`
+- Polymarket 24h volume: `6764836.15`
+- Polymarket volume z-score: `-1.39`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1035632.003` | liquidity: `24346.82047`
-- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `351086.6540000001` | liquidity: `401050.35795`
-- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `279376.2925` | liquidity: `1942363.16618`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `262204.0349000001` | liquidity: `860014.01593`
-- Israel x Iran ceasefire continues through August 15? | 24h volume: `234829.8286749999` | liquidity: `214183.01091`
-- Exact Score: Real Racing Club 0 - 0 Villarreal CF? | 24h volume: `220141.03299699977` | liquidity: `189779.6258`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `217682.67` | liquidity: `2168871.38047`
-- Will Iran announce withdrawal from MOU negotiations by August 15? | 24h volume: `216591.788322` | liquidity: `132035.28094`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1035632.003` | liquidity: `22292.85892`
+- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `351082.6700000001` | liquidity: `401149.53401`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `303436.53918800014` | liquidity: `857939.52629`
+- Will Kim Kardashian win the 2028 US Presidential Election? | 24h volume: `279371.77949999995` | liquidity: `1943544.68265`
+- Israel x Iran ceasefire continues through August 15? | 24h volume: `234531.0229389999` | liquidity: `212763.56091`
+- Exact Score: Real Racing Club 0 - 0 Villarreal CF? | 24h volume: `222259.67049699978` | liquidity: `73328.4515`
+- Will Iran announce withdrawal from MOU negotiations by August 15? | 24h volume: `219500.70198700004` | liquidity: `135479.91474`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `217682.67` | liquidity: `2168871.38013`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
