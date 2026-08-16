@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T22:52:25.177824+00:00`
-- Market context score: `55.13`
-- News risk score: `39.62`
-- Macro risk score: `20.25`
-- Risk-on score: `41.4`
-- Articles: `42`
+- Generated: `2026-08-16T22:54:53.729977+00:00`
+- Market context score: `55.11`
+- News risk score: `39.49`
+- Macro risk score: `20.49`
+- Risk-on score: `41.33`
+- Articles: `41`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -23,17 +23,17 @@
 ## News Categories
 
 - crypto: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `34`, risk hits `5`, risk headline rate `0.1176`, policy hits `2`
+- macro: articles `33`, risk hits `5`, risk headline rate `0.1212`, policy hits `2`
 
 ## Headlines
 
 - [macro] Trump says US to scale back military drills with South Korea after it stayed out of Iran war (BBC News)
-- [macro] HIVE reports 74% revenue jump in fiscal Q1 2027 earnings (Yahoo Finance)
-- [macro] Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges (Yahoo Finance)
 - [macro] Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms (Yahoo Finance)
+- [macro] Wall Street’s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the ‘Smart Money?’ (Yahoo Finance)
 - [macro] Thailand has a gun problem - 10 million of them (BBC News)
 - [macro] US commander says mental health a 'priority' on USS Lincoln (BBC News)
 - [macro] NVIDIA’s $3 Billion Bet on the Power Behind AI (Yahoo Finance)
 - [macro] Stellantis’ (STLA) Big Turnaround Bet Hits A North American Snag (Yahoo Finance)
 - [macro] Belgian wildfire doubles in size on third day tearing through nature reserve (BBC News)
 - [macro] Trump envoy Kushner meets Hamas leader to push Gaza peace plan (BBC News)
+- [macro] Two dead and hundreds evacuated after twin fires break out on Greek island (BBC News)
