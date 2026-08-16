@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T13:37:26.434858+00:00`
-- Market context score: `39.95`
-- News risk score: `44.79`
-- Macro risk score: `20.57`
-- Risk-on score: `12.14`
-- Articles: `11`
+- Generated: `2026-08-16T13:41:03.781739+00:00`
+- Market context score: `40.49`
+- News risk score: `44.25`
+- Macro risk score: `19.5`
+- Risk-on score: `12.5`
+- Articles: `12`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -23,10 +23,11 @@
 ## News Categories
 
 - crypto: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [macro] Four 'extraordinary' Renaissance paintings stolen from Italian museum (BBC News)
 - [crypto] The stablecoin yield clash that won't go away has banks, crypto battling over tradition (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist (BBC News)
 - [crypto] DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Europe's tallest Virgin Mary statue unveiled in rural Poland (BBC News)
 - [crypto] Ethereum devs to narrow 66 proposals tied to Hegotá upgrade (Cointelegraph.com News)
 - [macro] Twelve killed as Polish bus veers off Hungarian motorway (BBC News)
-- [macro] Five killed as Russia launches fresh aerial attacks across Ukraine (BBC News)
