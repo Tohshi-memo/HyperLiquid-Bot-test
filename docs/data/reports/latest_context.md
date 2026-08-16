@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T09:22:31.548327+00:00`
-- Market context score: `55.02`
-- News risk score: `31.33`
-- Macro risk score: `38.67`
-- Risk-on score: `41.11`
-- Articles: `9`
+- Generated: `2026-08-16T09:37:13.042852+00:00`
+- Market context score: `56.38`
+- News risk score: `30.0`
+- Macro risk score: `36.0`
+- Risk-on score: `42.0`
+- Articles: `10`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,15 +17,16 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9155`
-- Day/swing latest: `2026-08-16T09:15:00+00:00`
+- Day/swing records: `9156`
+- Day/swing latest: `2026-08-16T09:30:00+00:00`
 
 ## News Categories
 
-- macro: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
+- macro: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
+- [macro] Qatar denies capturing three Iranian pilots after downing fighter jets (BBC News)
 - [macro] Five killed as Russia launches fresh aerial attacks across Ukraine (BBC News)
 - [macro] Hurricane Lala lashes Hawaii with strong winds and torrential rain (BBC News)
 - [macro] Thousands displaced by deadly Indonesia earthquake as rescue efforts continue (BBC News)
