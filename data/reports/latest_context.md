@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T09:37:13.042852+00:00`
-- Market context score: `56.38`
-- News risk score: `30.0`
-- Macro risk score: `36.0`
-- Risk-on score: `42.0`
-- Articles: `10`
+- Generated: `2026-08-16T09:52:29.832393+00:00`
+- Market context score: `49.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `23.33`
+- Articles: `9`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -17,12 +17,12 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9156`
-- Day/swing latest: `2026-08-16T09:30:00+00:00`
+- Day/swing records: `9157`
+- Day/swing latest: `2026-08-16T09:45:00+00:00`
 
 ## News Categories
 
-- macro: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
+- macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
@@ -35,4 +35,3 @@
 - [macro] BBC seeks to subpoena family members in Panorama lawsuit (BBC News)
 - [macro] I survived two years as prime minister in a hit new game - then my cabinet deserted me (BBC News)
 - [macro] Historic retailer gets lifeline after warning it could collapse (Yahoo Finance)
-- [macro] Australian state to launch gun buyback after Bondi Beach attack (BBC News)
