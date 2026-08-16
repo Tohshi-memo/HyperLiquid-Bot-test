@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-16T04:07:26.659635+00:00`
+- Generated: `2026-08-16T04:22:27.359570+00:00`
 - Market context score: `59.88`
 - News risk score: `26.57`
 - Macro risk score: `29.14`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9134`
-- Day/swing latest: `2026-08-16T04:00:00+00:00`
+- Day/swing records: `9135`
+- Day/swing latest: `2026-08-16T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
 - [macro] Hawaii braces for potential first direct hit by a hurricane in 34 years (BBC News)
 - [macro] BBC seeks to subpoena family members in Panorama lawsuit (BBC News)
 - [macro] I survived two years as prime minister in a hit new game - then my cabinet deserted me (BBC News)
 - [macro] Historic retailer gets lifeline after warning it could collapse (Yahoo Finance)
-- [macro] Rescuers search for survivors of powerful Indonesia earthquake (BBC News)
 - [macro] Australian state to launch gun buyback after Bondi Beach attack (BBC News)
 - [macro] Qatar denies capturing three Iranian pilots after downing fighter jets (BBC News)
 - [macro] Morocco detains dozens of migrants trying to cross into Ceuta, reports say (BBC News)
