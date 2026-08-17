@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T16:07:23.874268+00:00`
-- Market context score: `53.52`
-- News risk score: `42.44`
-- Macro risk score: `24.3`
-- Risk-on score: `41.73`
+- Generated: `2026-08-17T16:11:03.316102+00:00`
+- Market context score: `52.1`
+- News risk score: `43.22`
+- Macro risk score: `25.79`
+- Risk-on score: `39.8`
 - Articles: `78`
 - Polymarket markets: `390`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `8`
-- macro: articles `47`, risk hits `5`, risk headline rate `0.1064`, policy hits `2`
+- macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `4`
 
 ## Headlines
 
 - [macro] Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan (BBC News)
+- [macro] Could Nvidia Be Worth $10 Trillion by 2030? (Yahoo Finance)
+- [macro] Nvidia Could Become the ‘Federal Reserve Of AI,’ Gavin Baker Says: Will ‘Dark GPUs’ Become Its First Test? (Yahoo Finance)
+- [macro] Why Western Digital Stock Popped Today (Yahoo Finance)
+- [macro] Here's the Max Social Security Benefit at Age 62 -- and How to Get It (Yahoo Finance)
 - [macro] SpaceX's biggest investors are finally visible — just as millions more shares unlock: Chart of the Day (Yahoo Finance)
 - [macro] Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply (Yahoo Finance)
 - [macro] Greenhaven Road Capital: Short Term Gain Realized from Liquidia (LQDA), Investment to Be Revisited (Yahoo Finance)
-- [macro] HIVE Digital Technologies Soars 11% on $350M GPU Cloud Contract, Cipher Mining Ticks Up (Yahoo Finance)
-- [macro] AXT Soars Again on Monday to Lead Optics Stocks. Coherent and Lumentum Rally on Indium Phosphide Price Hikes (Yahoo Finance)
 - [macro] Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage) (Yahoo Finance)
 - [macro] AppLovin (APP) Offers Attractive Cash Flow Multiple? (Yahoo Finance)
-- [macro] Super Micro Computer Pulls Back 4%, Dell Falls 3% as DDR5 Patent Fight Hits AI Server Makers (Yahoo Finance)
-- [macro] Investors Are Excited About European Stocks. This Europe ETF is Up 23% in 1 Year. Here's Why. (Yahoo Finance)
