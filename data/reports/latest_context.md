@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T17:07:47.247639+00:00`
-- Market context score: `50.88`
-- News risk score: `45.45`
-- Macro risk score: `25.21`
-- Risk-on score: `38.75`
-- Articles: `76`
+- Generated: `2026-08-17T17:19:36.851827+00:00`
+- Market context score: `49.51`
+- News risk score: `47.14`
+- Macro risk score: `26.43`
+- Risk-on score: `37.6`
+- Articles: `77`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9280`
-- Day/swing latest: `2026-08-17T17:00:00+00:00`
+- Day/swing records: `9281`
+- Day/swing latest: `2026-08-17T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `9`
-- macro: articles `43`, risk hits `4`, risk headline rate `0.093`, policy hits `7`
+- crypto: articles `30`, risk hits `11`, risk headline rate `0.3`, policy hits `9`
+- macro: articles `43`, risk hits `6`, risk headline rate `0.1163`, policy hits `6`
 
 ## Headlines
 
-- [macro] Uber and Zipline partner on drone delivery for Uber Eats (Yahoo Finance)
-- [macro] Nano Nuclear Is Still Under $20. Here's My Case for Why That Won't Last. (Yahoo Finance)
-- [macro] America’s Best Dividend Stock Has A Good Year (Yahoo Finance)
-- [macro] Billionaires Stanley Druckenmiller, Seth Klarman, and David Tepper All Are Loading into Alphabet Stock. Buffett’s Berkshire Is Also Buying. (Yahoo Finance)
-- [macro] Not Micron, Not Sandisk. This AI Stock Will Be the Biggest Beneficiary of the Next Infrastructure Bottleneck (Yahoo Finance)
-- [macro] Micron Stock Claws Back From Lows To A Buy Point (Yahoo Finance)
-- [crypto] BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Nvidia Reportedly Infuses Cash Into Potential AI Infrastructure IPO. Here's Why (Yahoo Finance)
-- [crypto] US Treasury moves forward with rules on GENIUS Act after July deadline (Cointelegraph.com News)
-- [commodity] Oil prices little changed as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
+- [crypto] CFTC seeks public input on AI compute futures contracts as CME eyes October launch (Cointelegraph.com News)
+- [macro] Outdoor Holding (POWW) Q1 2027 Earnings Call Transcript (Yahoo Finance)
+- [macro] Prediction: This AI Stock Could Double in 12 Months (Yahoo Finance)
+- [macro] Nebius's Revenue Is Forecast to Roughly Quadruple Year Over Year. Here's Why Analysts Are Still Debating Whether That's Enough to Justify the Stock. (Yahoo Finance)
+- [macro] Fortinet, IBD Stock Of The Day, Steps Up AI Acquisitions To Build Cloud Platform (Yahoo Finance)
+- [macro] Meet the Newest Stock in the S&P 500. It Soared 424% Since Its 2024 IPO, and It's a Buy Right Now, According to Wall Street (Yahoo Finance)
+- [macro] Stripe Purchase Of AI Firm OpenRouter Unlikely To Derail PayPal Deal (Yahoo Finance)
+- [macro] Freightos Limited Ordinary shares Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] InspireMD, Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] Legends Global Names Aimee Carroll to Head Merchandising (Yahoo Finance)
