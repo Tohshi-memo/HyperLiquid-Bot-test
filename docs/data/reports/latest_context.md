@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T07:36:41.254775+00:00`
-- Market context score: `60.99`
-- News risk score: `29.46`
-- Macro risk score: `19.71`
+- Generated: `2026-08-17T07:52:26.075364+00:00`
+- Market context score: `60.58`
+- News risk score: `30.08`
+- Macro risk score: `20.75`
 - Risk-on score: `45.63`
 - Articles: `24`
 - Polymarket markets: `390`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9243`
-- Day/swing latest: `2026-08-17T07:30:00+00:00`
+- Day/swing records: `9244`
+- Day/swing latest: `2026-08-17T07:45:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `1`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
-- [macro] Changing pubs into homes to be made harder under new rules (BBC News)
+- [commodity] Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry (Energy)
 - [macro] Ukrainian strikes kill six in Russia, acting governor says (BBC News)
+- [macro] Changing pubs into homes to be made harder under new rules (BBC News)
 - [macro] Trump says US to reduce military drills with South Korea after it stayed out of Iran war (BBC News)
 - [crypto] Greenlane’s $70M BERA treasury ends Q2 valued at $16M (Cointelegraph.com News)
 - [crypto] The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +38,3 @@
 - [macro] If Meta loses this trial, Instagram and Facebook could change forever (BBC News)
 - [macro] Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan (BBC News)
 - [crypto] XRP traders bet on a rebound as price slips to $1 and bearish chatter surges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ebola outbreak in DR Congo becomes deadliest in its history (BBC News)
