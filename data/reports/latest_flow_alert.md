@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-17T02:30:26.804061+00:00`
+- Generated: `2026-08-17T02:35:29.683072+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7545700.67`
-- Polymarket volume z-score: `-0.83`
+- Polymarket 24h volume: `7396138.83`
+- Polymarket volume z-score: `-0.89`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1037805.6846` | liquidity: `20507.06246`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `666849.9237069999` | liquidity: `280869.90704`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `260423.2391039996` | liquidity: `874755.45528`
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `235747.39165599993` | liquidity: `369984.53259`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `221965.530324` | liquidity: `229847.2547`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `206191.14387900004` | liquidity: `607926.2163`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `189836.19` | liquidity: `2164994.02607`
-- Bitcoin Up or Down on August 17? | 24h volume: `184510.57227999996` | liquidity: `24793.8319`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1037805.6846` | liquidity: `21353.23778`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `667185.773707` | liquidity: `293670.91106`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `240485.91910399968` | liquidity: `874056.04898`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `236148.93609399995` | liquidity: `369984.32755`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `221945.530324` | liquidity: `231687.3723`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `205930.237333` | liquidity: `604274.8038`
+- Bitcoin Up or Down on August 17? | 24h volume: `184819.76376799995` | liquidity: `23861.8066`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `182053.23159799998` | liquidity: `381864.80388`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
