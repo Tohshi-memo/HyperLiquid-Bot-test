@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T12:22:24.087458+00:00`
-- Market context score: `56.81`
-- News risk score: `38.25`
-- Macro risk score: `28.17`
-- Risk-on score: `46.95`
-- Articles: `60`
+- Generated: `2026-08-17T12:37:30.535387+00:00`
+- Market context score: `55.23`
+- News risk score: `40.02`
+- Macro risk score: `31.14`
+- Risk-on score: `46.08`
+- Articles: `61`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9261`
-- Day/swing latest: `2026-08-17T12:15:00+00:00`
+- Day/swing records: `9262`
+- Day/swing latest: `2026-08-17T12:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `6`
-- macro: articles `38`, risk hits `8`, risk headline rate `0.1842`, policy hits `9`
+- macro: articles `38`, risk hits `9`, risk headline rate `0.2105`, policy hits `9`
 
 ## Headlines
 
+- [commodity] Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires (Energy)
+- [macro] Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan (BBC News)
+- [commodity] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations (Energy)
+- [macro] 4 Very Well-Known High-Yielding Stocks to Load the Boat on Now (2 Yield Over 6%) (Yahoo Finance)
+- [macro] XRP Negative Sentiment Hits a 3-Month High as Price Struggles Near $1 (Yahoo Finance)
 - [crypto] No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Peter Thiel's Thiel Macro buys stake in Vista Energy Q2 2026 (Yahoo Finance)
+- [macro] Why the 'immaculate' stock market might not stay that way long (Yahoo Finance)
 - [macro] Top Zambian opposition figures arrested days after presidential vote (BBC News)
 - [macro] Stellantis weighs closure of Brampton plant in Canada, says Unifor (Yahoo Finance)
-- [macro] Sazerac strikes deal for UK’s Au Vodka (Yahoo Finance)
-- [macro] Embedded insurance gains pace as IKEA enters UK home insurance market (Yahoo Finance)
-- [macro] Ackman’s Biggest Portfolio Overhaul in Years Includes a Return to Netflix (Yahoo Finance)
-- [macro] What History Reveals About Buying the Vanguard S&P 500 ETF in Volatile Markets (Yahoo Finance)
-- [macro] Vanguard taps T. Rowe Price to run portions of key active equity funds (Yahoo Finance)
-- [macro] I’m 50 Years Old Making $150,000, Should My Catch-Up Contributions Go To A Roth Or My Taxable Brokerage? (Yahoo Finance)
-- [macro] Meta trial: States allege Facebook, Instagram addicted kids (Yahoo Finance)
