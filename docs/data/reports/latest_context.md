@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T12:37:30.535387+00:00`
-- Market context score: `55.23`
-- News risk score: `40.02`
-- Macro risk score: `31.14`
-- Risk-on score: `46.08`
-- Articles: `61`
+- Generated: `2026-08-17T12:52:31.192906+00:00`
+- Market context score: `51.38`
+- News risk score: `43.02`
+- Macro risk score: `32.94`
+- Risk-on score: `40.74`
+- Articles: `62`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9262`
-- Day/swing latest: `2026-08-17T12:30:00+00:00`
+- Day/swing records: `9263`
+- Day/swing latest: `2026-08-17T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `6`
-- macro: articles `38`, risk hits `9`, risk headline rate `0.2105`, policy hits `9`
+- crypto: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `6`
+- macro: articles `38`, risk hits `12`, risk headline rate `0.2368`, policy hits `11`
 
 ## Headlines
 
+- [macro] Virgin takes step towards running Channel Tunnel rail services (BBC News)
+- [macro] Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner (BBC News)
 - [commodity] Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires (Energy)
+- [macro] JPMorgan cut Polymarket as banking client over regulatory concerns (Yahoo Finance)
+- [crypto] Harmony plans rollback, wiping 109,000 transactions after ONE exploit (Cointelegraph.com News)
+- [macro] Jasper Therapeutics beats Q2 expectations but shares fall after results (Yahoo Finance)
+- [macro] Accendra Health drops equity issuance plan as CEO succession process advances (Yahoo Finance)
+- [macro] Citius Oncology shares tumble as Q3 revenue misses forecasts despite LYMPHIR launch momentum (Yahoo Finance)
 - [macro] Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan (BBC News)
-- [commodity] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations (Energy)
-- [macro] 4 Very Well-Known High-Yielding Stocks to Load the Boat on Now (2 Yield Over 6%) (Yahoo Finance)
-- [macro] XRP Negative Sentiment Hits a 3-Month High as Price Struggles Near $1 (Yahoo Finance)
-- [crypto] No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Peter Thiel's Thiel Macro buys stake in Vista Energy Q2 2026 (Yahoo Finance)
-- [macro] Why the 'immaculate' stock market might not stay that way long (Yahoo Finance)
-- [macro] Top Zambian opposition figures arrested days after presidential vote (BBC News)
-- [macro] Stellantis weighs closure of Brampton plant in Canada, says Unifor (Yahoo Finance)
+- [macro] LeonaBio beats Q2 loss forecast as Phase 3 ELAINE-3 trial advances (Yahoo Finance)
