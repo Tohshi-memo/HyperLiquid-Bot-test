@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T21:22:29.833836+00:00`
+- Generated: `2026-08-17T21:37:32.658401+00:00`
 - Market context score: `46.66`
 - News risk score: `43.79`
 - Macro risk score: `36.07`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9296`
-- Day/swing latest: `2026-08-17T21:15:00+00:00`
+- Day/swing records: `9297`
+- Day/swing latest: `2026-08-17T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] OCC approves Trump family crypto company for trust charter (Cointelegraph.com News)
 - [commodity] Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
 - [macro] Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal (BBC News)
 - [commodity] Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way' (Energy)
@@ -37,4 +38,3 @@
 - [macro] Trump says US to reduce military drills with South Korea after it stayed out of Iran war (BBC News)
 - [commodity] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations (Energy)
 - [macro] Mushroom murderer Erin Patterson is appealing - here's what you need to know (BBC News)
-- [macro] French PM heckled over wildfire response as blazes continue across Europe (BBC News)
