@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T19:07:30.198286+00:00`
+- Generated: `2026-08-17T19:13:00.754043+00:00`
 - Market context score: `46.83`
 - News risk score: `44.48`
 - Macro risk score: `35.54`
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [commodity] Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
 - [crypto] Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case (BBC News)
 - [crypto] Binance to plan UK relaunch with FCA license application: Report (Cointelegraph.com News)
 - [macro] Trump says US to reduce military drills with South Korea after it stayed out of Iran war (BBC News)
-- [commodity] Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
 - [commodity] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations (Energy)
 - [macro] Mushroom murderer Erin Patterson is appealing - here's what you need to know (BBC News)
 - [macro] French PM heckled over wildfire response as blazes continue across Europe (BBC News)
