@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-17T01:05:27.523291+00:00`
+- Generated: `2026-08-17T01:10:28.948118+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7265831.12`
-- Polymarket volume z-score: `-0.96`
+- Polymarket 24h volume: `7288979.62`
+- Polymarket volume z-score: `-0.95`
 
 ## Top Polymarket Markets
 
-- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1036895.333` | liquidity: `20973.02866`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `638890.3099999999` | liquidity: `271579.39873`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `265470.1774159996` | liquidity: `874909.84194`
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `227098.38160599986` | liquidity: `382748.76773`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `223798.75231900002` | liquidity: `210226.3104`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `206809.90379900005` | liquidity: `599732.1787`
-- Will Iran announce withdrawal from MOU negotiations by August 15? | 24h volume: `203901.75358700004` | liquidity: `150916.72027`
-- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `189836.19` | liquidity: `2163132.13804`
+- Will Adanech Abiebie be the next Prime Minister of Ethiopia? | 24h volume: `1036895.333` | liquidity: `21598.92465`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `644430.591665` | liquidity: `268499.21626`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `265520.7847019996` | liquidity: `874738.3251`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `227353.22010599985` | liquidity: `353566.80389`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `223797.50231900002` | liquidity: `218595.634`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `206709.90379900005` | liquidity: `604826.5397`
+- Will Iran announce withdrawal from MOU negotiations by August 15? | 24h volume: `202279.73358700005` | liquidity: `152035.93977`
+- Strait of Hormuz traffic returns to normal by August 15? | 24h volume: `189836.19` | liquidity: `2164781.59541`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
