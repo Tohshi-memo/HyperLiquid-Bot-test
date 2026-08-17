@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-17T11:30:24.941524+00:00`
+- Generated: `2026-08-17T11:35:28.041547+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8178305.2`
-- Polymarket volume z-score: `-0.46`
+- Polymarket 24h volume: `8206684.89`
+- Polymarket volume z-score: `-0.45`
 
 ## Top Polymarket Markets
 
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `788799.5987429997` | liquidity: `310695.63623`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `655965.160333` | liquidity: `24774.83514`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `340912.62786700006` | liquidity: `507849.9581`
-- US-Iran 60 day negotiation period extended? | 24h volume: `291069.66477199993` | liquidity: `56540.66577`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `246415.5294249997` | liquidity: `799967.2408`
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `245404.80468600005` | liquidity: `131711.6562`
-- Bitcoin Up or Down on August 17? | 24h volume: `243304.44257299975` | liquidity: `25166.0373`
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `220601.2872580009` | liquidity: `339952.49542`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `797993.0187429996` | liquidity: `300426.97978`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `655965.160333` | liquidity: `24679.42398`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `341178.34786700003` | liquidity: `508086.2115`
+- US-Iran 60 day negotiation period extended? | 24h volume: `312631.6651399998` | liquidity: `47688.38862`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `245929.0565689997` | liquidity: `799941.9755`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `245404.80468600005` | liquidity: `131691.1122`
+- Bitcoin Up or Down on August 17? | 24h volume: `244542.1538719997` | liquidity: `24474.5511`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `220601.2872580009` | liquidity: `339828.79516`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
