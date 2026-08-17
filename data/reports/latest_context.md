@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T19:13:00.754043+00:00`
+- Generated: `2026-08-17T19:22:37.178040+00:00`
 - Market context score: `46.83`
 - News risk score: `44.48`
 - Macro risk score: `35.54`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9287`
-- Day/swing latest: `2026-08-17T19:00:00+00:00`
+- Day/swing records: `9288`
+- Day/swing latest: `2026-08-17T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [commodity] Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
+- [commodity] Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
 - [crypto] Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case (BBC News)
 - [crypto] Binance to plan UK relaunch with FCA license application: Report (Cointelegraph.com News)
