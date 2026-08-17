@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T17:19:36.851827+00:00`
-- Market context score: `49.51`
-- News risk score: `47.14`
-- Macro risk score: `26.43`
-- Risk-on score: `37.6`
+- Generated: `2026-08-17T17:22:28.786347+00:00`
+- Market context score: `47.08`
+- News risk score: `48.61`
+- Macro risk score: `29.31`
+- Risk-on score: `34.52`
 - Articles: `77`
 - Polymarket markets: `390`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `30`, risk hits `11`, risk headline rate `0.3`, policy hits `9`
-- macro: articles `43`, risk hits `6`, risk headline rate `0.1163`, policy hits `6`
+- macro: articles `43`, risk hits `9`, risk headline rate `0.1628`, policy hits `8`
 
 ## Headlines
 
 - [crypto] CFTC seeks public input on AI compute futures contracts as CME eyes October launch (Cointelegraph.com News)
+- [macro] Fortinet Sees Surging Hardware, SASE Demand as AI and OT Security Fuel Growth (Yahoo Finance)
 - [macro] Outdoor Holding (POWW) Q1 2027 Earnings Call Transcript (Yahoo Finance)
 - [macro] Prediction: This AI Stock Could Double in 12 Months (Yahoo Finance)
+- [macro] Dole (DOLE) Q2 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] Nebius's Revenue Is Forecast to Roughly Quadruple Year Over Year. Here's Why Analysts Are Still Debating Whether That's Enough to Justify the Stock. (Yahoo Finance)
 - [macro] Fortinet, IBD Stock Of The Day, Steps Up AI Acquisitions To Build Cloud Platform (Yahoo Finance)
-- [macro] Meet the Newest Stock in the S&P 500. It Soared 424% Since Its 2024 IPO, and It's a Buy Right Now, According to Wall Street (Yahoo Finance)
 - [macro] Stripe Purchase Of AI Firm OpenRouter Unlikely To Derail PayPal Deal (Yahoo Finance)
 - [macro] Freightos Limited Ordinary shares Q2 2026 Earnings Call Summary (Yahoo Finance)
 - [macro] InspireMD, Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
-- [macro] Legends Global Names Aimee Carroll to Head Merchandising (Yahoo Finance)
