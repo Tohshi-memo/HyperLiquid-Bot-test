@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T16:50:18.322831+00:00`
+- Generated: `2026-08-17T16:52:47.732653+00:00`
 - Market context score: `49.87`
 - News risk score: `45.52`
 - Macro risk score: `25.3`
@@ -32,8 +32,8 @@
 - [macro] Elon Musk Is $142 Billion Short Of A $1 Trillion Net Worth (Yahoo Finance)
 - [macro] Red Cat Slides 4% on Maritime Autonomy Deal, Ondas Holdings Pulls Back (Yahoo Finance)
 - [macro] What Is the Best Nuclear Reactor Stock You Should Put $1,000 Into in 2026? (Yahoo Finance)
-- [macro] Apple’s $54 billion iPhone machine may be about to break its biggest ritual (Yahoo Finance)
 - [macro] Ray Dalio Has Invested Over $900 Million In This Stock. Should You Buy? (Yahoo Finance)
+- [macro] HIVE stock jumps 13% on Nvidia-linked $350M AI deal (Yahoo Finance)
 - [crypto] US Treasury moves forward with rules on GENIUS Act after July deadline (Cointelegraph.com News)
 - [commodity] Oil prices little changed as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
 - [macro] Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal (BBC News)
