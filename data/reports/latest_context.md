@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T06:52:28.627820+00:00`
-- Market context score: `62.71`
+- Generated: `2026-08-17T07:07:27.187329+00:00`
+- Market context score: `60.99`
 - News risk score: `29.46`
 - Macro risk score: `19.71`
-- Risk-on score: `49.44`
+- Risk-on score: `45.63`
 - Articles: `24`
-- Polymarket markets: `388`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9240`
-- Day/swing latest: `2026-08-17T06:45:00+00:00`
+- Day/swing records: `9241`
+- Day/swing latest: `2026-08-17T07:00:00+00:00`
 
 ## News Categories
 
@@ -27,13 +27,13 @@
 
 ## Headlines
 
+- [macro] Changing pubs into homes to be made harder under new rules (BBC News)
+- [macro] Ukrainian strikes kill six in Russia, acting governor says (BBC News)
 - [macro] Trump says US to reduce military drills with South Korea after it stayed out of Iran war (BBC News)
 - [crypto] Greenlane’s $70M BERA treasury ends Q2 valued at $16M (Cointelegraph.com News)
 - [crypto] The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Aussie rules footy players referred to police as detectives investigate sexual assault (BBC News)
-- [macro] Ukrainian strikes kill six in Russia, acting governor says (BBC News)
+- [macro] Aussie rules footy players under investigation as police probe sexual assault claim (BBC News)
 - [macro] If Meta loses this trial, Instagram and Facebook could change forever (BBC News)
 - [macro] Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan (BBC News)
 - [crypto] XRP traders bet on a rebound as price slips to $1 and bearish chatter surges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ebola outbreak in DR Congo becomes deadliest in its history (BBC News)
-- [macro] Record rains drench South Korean city as landslide kills one (BBC News)
