@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T13:07:27.479459+00:00`
-- Market context score: `54.51`
-- News risk score: `42.11`
-- Macro risk score: `31.4`
-- Risk-on score: `46.33`
+- Generated: `2026-08-17T13:12:04.996516+00:00`
+- Market context score: `55.26`
+- News risk score: `41.37`
+- Macro risk score: `29.93`
+- Risk-on score: `46.82`
 - Articles: `63`
 - Polymarket markets: `390`
 
@@ -24,7 +24,7 @@
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `7`
-- macro: articles `38`, risk hits `8`, risk headline rate `0.2105`, policy hits `9`
+- macro: articles `38`, risk hits `7`, risk headline rate `0.1842`, policy hits `9`
 
 ## Headlines
 
@@ -33,8 +33,8 @@
 - [macro] Ferrero extends M&A spree with Purely Elizabeth (Yahoo Finance)
 - [macro] Seafood groups Nordian Group, Norvelita sold to PE firm (Yahoo Finance)
 - [crypto] Strategy raises $334M through stock sales but buys no Bitcoin (Cointelegraph.com News)
-- [macro] Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Revealed (Yahoo Finance)
 - [macro] Virgin takes step towards running Channel Tunnel rail services (BBC News)
-- [macro] Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage) (Yahoo Finance)
 - [macro] Nvidia Rows Back on $250 Billion OpenAI Pledge and the Stock Rises (Yahoo Finance)
 - [macro] REET vs HAUZ: Which Real Estate ETF Is the Better Buy in 2026? (Yahoo Finance)
+- [macro] Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner (BBC News)
+- [macro] Harvard endowment discloses $2.2 billion SpaceX stake (Yahoo Finance)
