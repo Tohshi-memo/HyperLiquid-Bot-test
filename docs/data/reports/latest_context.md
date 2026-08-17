@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T23:22:28.809494+00:00`
-- Market context score: `46.85`
-- News risk score: `45.67`
-- Macro risk score: `35.02`
-- Risk-on score: `33.68`
+- Generated: `2026-08-17T23:37:26.904913+00:00`
+- Market context score: `47.12`
+- News risk score: `45.5`
+- Macro risk score: `33.49`
+- Risk-on score: `33.57`
 - Articles: `43`
 - Polymarket markets: `390`
 
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9304`
-- Day/swing latest: `2026-08-17T23:15:00+00:00`
+- Day/swing records: `9305`
+- Day/swing latest: `2026-08-17T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `24`, risk hits `11`, risk headline rate `0.3333`, policy hits `6`
-- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `23`, risk hits `11`, risk headline rate `0.3478`, policy hits `5`
+- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
+- [macro] Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma' (BBC News)
 - [macro] To joke or not to joke?: How to write a good out-of-office message (BBC News)
 - [crypto] Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma' (BBC News)
 - [crypto] OCC approves Trump family crypto company for trust charter (Cointelegraph.com News)
 - [macro] Fifa official sacked after Infantino plan criticism (BBC News)
 - [commodity] Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
