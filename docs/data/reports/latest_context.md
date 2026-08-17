@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T14:27:27.196851+00:00`
-- Market context score: `55.49`
-- News risk score: `40.03`
-- Macro risk score: `22.2`
-- Risk-on score: `43.27`
+- Generated: `2026-08-17T14:37:28.359287+00:00`
+- Market context score: `54.24`
+- News risk score: `39.82`
+- Macro risk score: `21.86`
+- Risk-on score: `40.19`
 - Articles: `74`
 - Polymarket markets: `390`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9269`
-- Day/swing latest: `2026-08-17T14:15:00+00:00`
+- Day/swing records: `9270`
+- Day/swing latest: `2026-08-17T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `26`, risk hits `6`, risk headline rate `0.1923`, policy hits `7`
-- macro: articles `44`, risk hits `3`, risk headline rate `0.0682`, policy hits `1`
+- macro: articles `44`, risk hits `3`, risk headline rate `0.0682`, policy hits `0`
 
 ## Headlines
 
 - [macro] Top Zambian opposition figures arrested days after presidential vote (BBC News)
+- [macro] Russian firm ‘asks Kremlin to place Nestlé units in temporary management’ (Yahoo Finance)
+- [macro] Sazerac strikes deal for UK’s Au Vodka (Yahoo Finance)
+- [macro] Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy? (Yahoo Finance)
+- [macro] Dan Loeb, David Einhorn and George Soros All Just Bought the Same Stock and It’s One You Probably Don’t Own (Yahoo Finance)
+- [macro] Nayax (NYAX) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Broadcom Has Taken a Haircut Over 3 Months: One Analyst Expects 72% Returns From Here (Yahoo Finance)
+- [macro] Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks (Yahoo Finance)
+- [macro] Israel’s Largest Crypto Broker Reports Data Breach (Yahoo Finance)
 - [crypto] The Coldcard hack proves reputation is not a security model (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying (Yahoo Finance)
-- [macro] Meta’s Lawyers Say A Loss Could Cost $1.4 Trillion. Trial That Could Determine The Future Of Zuckerberg’s AI Ambitions Is Underway. (Yahoo Finance)
-- [commodity] Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires (Energy)
-- [macro] Bill Ackman's Pershing Square Made Amazon Its Fourth-Largest Holding by Dumping Alphabet. Here's the Thesis Behind the Switch. (Yahoo Finance)
-- [crypto] Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 24/7 Wall St.’s Lumentum Recommendation is Up More than 1000%. Here’s Why the Stock Can Keep Rallying. (Yahoo Finance)
-- [macro] Moving at the speed of pharma digitalisation: driving ROI from AI and digital tools (Yahoo Finance)
-- [macro] Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here’s the Math Behind It: (ready for Vardah) (Yahoo Finance)
