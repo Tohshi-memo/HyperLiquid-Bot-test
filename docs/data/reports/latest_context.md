@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T06:07:23.499051+00:00`
+- Generated: `2026-08-17T06:22:26.161674+00:00`
 - Market context score: `59.27`
 - News risk score: `34.59`
 - Macro risk score: `19.28`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9237`
-- Day/swing latest: `2026-08-17T06:00:00+00:00`
+- Day/swing records: `9238`
+- Day/swing latest: `2026-08-17T06:15:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] Heroes actress Hayden Panettiere dies aged 36 (BBC News)
 - [crypto] Greenlane’s $70M BERA treasury ends Q2 valued at $16M (Cointelegraph.com News)
 - [crypto] The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Aussie rules footy players referred to police as detectives investigate sexual assault (BBC News)
-- [macro] Heroes actress Hayden Panettiere dies aged 36 (BBC News)
 - [macro] Ukrainian strikes kill six in Russia, acting governor says (BBC News)
 - [macro] Trump says US to reduce military drills with South Korea after it stayed out of Iran war (BBC News)
 - [macro] If Meta loses this trial, Instagram and Facebook could change forever (BBC News)
