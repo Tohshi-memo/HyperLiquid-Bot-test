@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T12:52:31.192906+00:00`
-- Market context score: `51.38`
-- News risk score: `43.02`
-- Macro risk score: `32.94`
-- Risk-on score: `40.74`
-- Articles: `62`
+- Generated: `2026-08-17T13:07:27.479459+00:00`
+- Market context score: `54.51`
+- News risk score: `42.11`
+- Macro risk score: `31.4`
+- Risk-on score: `46.33`
+- Articles: `63`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9263`
-- Day/swing latest: `2026-08-17T12:45:00+00:00`
+- Day/swing records: `9264`
+- Day/swing latest: `2026-08-17T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `6`
-- macro: articles `38`, risk hits `12`, risk headline rate `0.2368`, policy hits `11`
+- crypto: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `7`
+- macro: articles `38`, risk hits `8`, risk headline rate `0.2105`, policy hits `9`
 
 ## Headlines
 
+- [commodity] Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer (Energy)
+- [macro] Goldman Sachs warns of consumer spending slowdown as tax refund boost fades (Yahoo Finance)
+- [macro] Ferrero extends M&A spree with Purely Elizabeth (Yahoo Finance)
+- [macro] Seafood groups Nordian Group, Norvelita sold to PE firm (Yahoo Finance)
+- [crypto] Strategy raises $334M through stock sales but buys no Bitcoin (Cointelegraph.com News)
+- [macro] Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Revealed (Yahoo Finance)
 - [macro] Virgin takes step towards running Channel Tunnel rail services (BBC News)
-- [macro] Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner (BBC News)
-- [commodity] Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires (Energy)
-- [macro] JPMorgan cut Polymarket as banking client over regulatory concerns (Yahoo Finance)
-- [crypto] Harmony plans rollback, wiping 109,000 transactions after ONE exploit (Cointelegraph.com News)
-- [macro] Jasper Therapeutics beats Q2 expectations but shares fall after results (Yahoo Finance)
-- [macro] Accendra Health drops equity issuance plan as CEO succession process advances (Yahoo Finance)
-- [macro] Citius Oncology shares tumble as Q3 revenue misses forecasts despite LYMPHIR launch momentum (Yahoo Finance)
-- [macro] Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan (BBC News)
-- [macro] LeonaBio beats Q2 loss forecast as Phase 3 ELAINE-3 trial advances (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage) (Yahoo Finance)
+- [macro] Nvidia Rows Back on $250 Billion OpenAI Pledge and the Stock Rises (Yahoo Finance)
+- [macro] REET vs HAUZ: Which Real Estate ETF Is the Better Buy in 2026? (Yahoo Finance)
