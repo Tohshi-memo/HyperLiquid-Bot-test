@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T12:07:28.043521+00:00`
-- Market context score: `55.55`
-- News risk score: `39.3`
-- Macro risk score: `30.23`
-- Risk-on score: `45.84`
-- Articles: `57`
+- Generated: `2026-08-17T12:14:22.873425+00:00`
+- Market context score: `55.77`
+- News risk score: `39.38`
+- Macro risk score: `29.41`
+- Risk-on score: `46.06`
+- Articles: `59`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `5`
-- macro: articles `37`, risk hits `9`, risk headline rate `0.2162`, policy hits `10`
+- macro: articles `39`, risk hits `9`, risk headline rate `0.2051`, policy hits `10`
 
 ## Headlines
 
+- [macro] Top Zambian opposition figures arrested days after presidential vote (BBC News)
+- [macro] Vanguard taps T. Rowe Price to run portions of key active equity funds (Yahoo Finance)
 - [crypto] Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage) (Yahoo Finance)
+- [macro] The Wealth Company introduces GIFT City fund of fund for NRIs (Yahoo Finance)
 - [commodity] Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires (Energy)
+- [macro] Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More (Yahoo Finance)
 - [macro] Micron stock heats up again, crossing $1,000 (Yahoo Finance)
 - [macro] After Nearly $200 Million in Crypto Losses, Trump Media Will Pivot Away From Bitcoin. Here's What Crypto Investors Need to Know. (Yahoo Finance)
 - [macro] Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner (BBC News)
-- [macro] Sandoz targets industry patent void with $322m Henlius deal (Yahoo Finance)
-- [macro] Citigroup names Adam Clark wealth planning head (Yahoo Finance)
-- [macro] Nvidia cuts OpenAI Ohio data center guarantee to $120 billion (Yahoo Finance)
-- [macro] Caledonia Mining (CMCL) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [crypto] Bitcoin options remain expensive despite summer calm. Here's why it matters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
