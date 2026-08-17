@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-17T14:50:26.909740+00:00`
+- Generated: `2026-08-17T15:05:30.603501+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9154375.58`
+- Polymarket 24h volume: `9157150.41`
 - Polymarket volume z-score: `-0.01`
 
 ## Top Polymarket Markets
 
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `958326.3062289995` | liquidity: `208397.43975`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `655965.160333` | liquidity: `27401.8056`
-- US-Iran 60 day negotiation period extended? | 24h volume: `380862.40108799975` | liquidity: `58348.38898`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `357843.94786700007` | liquidity: `477859.4198`
-- Bitcoin Up or Down on August 17? | 24h volume: `280974.8585829997` | liquidity: `24200.08908`
-- Will the price of Bitcoin be above $62,000 on August 17? | 24h volume: `259118.1213219999` | liquidity: `40612.98296`
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `249943.3741650008` | liquidity: `347819.56431`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `243106.9138689997` | liquidity: `827327.35475`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `979420.2873539996` | liquidity: `195411.6052`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `655965.160333` | liquidity: `26327.47`
+- US-Iran 60 day negotiation period extended? | 24h volume: `386142.12484299974` | liquidity: `59763.96941`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `357862.3478670001` | liquidity: `473956.0018`
+- Bitcoin Up or Down on August 17? | 24h volume: `287963.6537539997` | liquidity: `21288.86523`
+- Will the price of Bitcoin be above $62,000 on August 17? | 24h volume: `259113.1213219999` | liquidity: `51244.11169`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `257923.06359300076` | liquidity: `338754.90436`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `244739.50980700002` | liquidity: `524319.4991`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
