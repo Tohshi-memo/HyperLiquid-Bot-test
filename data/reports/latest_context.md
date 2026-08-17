@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T05:46:58.304271+00:00`
-- Market context score: `62.1`
-- News risk score: `30.33`
+- Generated: `2026-08-17T05:53:00.523145+00:00`
+- Market context score: `63.12`
+- News risk score: `28.83`
 - Macro risk score: `18.67`
-- Risk-on score: `48.44`
-- Articles: `23`
+- Risk-on score: `49.44`
+- Articles: `24`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -22,11 +22,13 @@
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [crypto] The bitcoin futures market has a 'crowded club, tiny exit' problem – and it could cause pain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Aussie rules footy players referred to police as detectives investigate sexual assault (BBC News)
 - [macro] Heroes actress Hayden Panettiere dies aged 36 (BBC News)
 - [macro] Ukrainian strikes kill six in Russia, acting governor says (BBC News)
 - [macro] Trump says US to reduce military drills with South Korea after it stayed out of Iran war (BBC News)
@@ -35,5 +37,3 @@
 - [crypto] XRP traders bet on a rebound as price slips to $1 and bearish chatter surges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ebola outbreak in DR Congo becomes deadliest in its history (BBC News)
 - [macro] Record rains drench South Korean city as landslide kills one (BBC News)
-- [macro] Aussie rules footy players referred to police as detectives investigate sexual assault (BBC News)
-- [crypto] Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
