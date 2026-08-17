@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T22:52:33.292183+00:00`
-- Market context score: `46.37`
-- News risk score: `46.0`
-- Macro risk score: `36.17`
-- Risk-on score: `33.33`
-- Articles: `42`
+- Generated: `2026-08-17T23:07:32.199244+00:00`
+- Market context score: `46.85`
+- News risk score: `45.67`
+- Macro risk score: `35.02`
+- Risk-on score: `33.68`
+- Articles: `43`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9302`
-- Day/swing latest: `2026-08-17T22:45:00+00:00`
+- Day/swing records: `9303`
+- Day/swing latest: `2026-08-17T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `24`, risk hits `11`, risk headline rate `0.3333`, policy hits `6`
-- macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] To joke or not to joke?: How to write a good out-of-office message (BBC News)
 - [crypto] Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma' (BBC News)
 - [crypto] OCC approves Trump family crypto company for trust charter (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way' (Energy)
 - [crypto] Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case (BBC News)
-- [crypto] Binance to plan UK relaunch with FCA license application: Report (Cointelegraph.com News)
