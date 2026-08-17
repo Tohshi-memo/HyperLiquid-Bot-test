@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-08-17T03:07:28.140828+00:00`
-- Observed: `2026-08-17T03:00:00+00:00`
+- Generated: `2026-08-17T03:22:25.808088+00:00`
+- Observed: `2026-08-17T03:15:00+00:00`
 - Assets: `1207`
 
 ## Top Activity
@@ -13,18 +13,18 @@ Individual asset screen for drilling down from class-level signals.
 - `@241` unknown price `0.000312` 4h `0.3215` vol `0.0` relationship `market_context_high->@241_24h`
 - `@282` unknown price `5.27e-05` 4h `0.0` vol `0.0` relationship `market_context_high->@282_24h`
 - `@219` unknown price `0.023147` 4h `0.0043` vol `0.0` relationship `market_context_high->@219_24h`
-- `@44` unknown price `0.00125005` 4h `0.4581` vol `0.0` relationship `market_context_high->@44_4h`
-- `xyz:BOT` equity price `32.1475` 4h `1.5446` vol `247022.23` relationship `market_context_high->xyz:BOT_24h`
-- `xyz:CRWV` equity price `106.685` 4h `0.8889` vol `676149.39` relationship `market_context_high->xyz:CRWV_24h`
+- `@44` unknown price `0.00125035` 4h `0.4459` vol `0.0` relationship `market_context_high->@44_4h`
+- `xyz:BOT` equity price `32.1485` 4h `1.5317` vol `247422.54` relationship `market_context_high->xyz:BOT_24h`
+- `xyz:CRWV` equity price `106.7` 4h `0.8173` vol `673987.42` relationship `market_context_high->xyz:CRWV_24h`
 - `@248` unknown price `232.0` 4h `0.0` vol `0.0` relationship `market_context_high->@248_24h`
-- `xyz:CRCL` equity price `71.911` 4h `0.527` vol `2885118.19` relationship `market_context_high->xyz:CRCL_24h`
-- `CRV` crypto_alt price `0.25061` 4h `0.465` vol `3911765.53` relationship `market_context_high->CRV_24h`
+- `#11031` unknown price `0.132495` 4h `20.862` vol `0.0` relationship `market_context_high->#11031_1h`
+- `CRV` crypto_alt price `0.25104` 4h `1.132` vol `3916774.12` relationship `market_context_high->CRV_24h`
+- `xyz:CRCL` equity price `71.751` 4h `0.2767` vol `2970110.07` relationship `market_context_high->xyz:CRCL_24h`
 - `@591` unknown price `2e-07` 4h `0.0` vol `0.0` relationship `market_context_high->@591_4h`
 - `@51` unknown price `1.0299` 4h `0.0` vol `0.0` relationship `market_context_high->@51_24h`
 - `@298` unknown price `0.003365` 4h `-8.5598` vol `0.0` relationship `market_context_high->@298_24h`
 - `@280` unknown price `262.6` 4h `0.9767` vol `0.0` relationship `market_context_high->@280_24h`
-- `INJ` crypto_alt price `4.14075` 4h `1.7433` vol `901754.5` relationship `market_context_high->INJ_24h`
-- `@263` unknown price `71.831` 4h `0.3191` vol `0.0` relationship `market_context_high->@263_24h`
-- `#11031` unknown price `0.132495` 4h `20.862` vol `0.0` relationship `market_context_high->#11031_1h`
-- `xyz:BX` equity price `144.595` 4h `-0.4886` vol `14235.76` relationship `market_context_high->xyz:BX_24h`
-- `xyz:NCLD` equity price `27.4805` 4h `0.4771` vol `255359.5` relationship `market_context_high->xyz:NCLD_24h`
+- `INJ` crypto_alt price `4.1447` 4h `1.9005` vol `902205.48` relationship `market_context_high->INJ_24h`
+- `@263` unknown price `71.7865` 4h `0.2556` vol `0.0` relationship `market_context_high->@263_24h`
+- `xyz:BX` equity price `144.57` 4h `-0.5127` vol `14143.62` relationship `market_context_high->xyz:BX_24h`
+- `BABY` crypto_alt price `0.009731` 4h `0.9964` vol `71939.52` relationship `market_context_high->BABY_24h`
