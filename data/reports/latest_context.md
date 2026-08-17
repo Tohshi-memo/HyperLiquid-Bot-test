@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T02:37:24.882382+00:00`
+- Generated: `2026-08-17T02:52:26.923579+00:00`
 - Market context score: `63.05`
 - News risk score: `37.29`
 - Macro risk score: `20.57`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9224`
-- Day/swing latest: `2026-08-17T02:30:00+00:00`
+- Day/swing records: `9225`
+- Day/swing latest: `2026-08-17T02:45:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] Trump says US to scale back South Korea military drills after it stayed out of Iran war (BBC News)
 - [macro] Ferrari's first ever electric car sold for record $40m at auction (BBC News)
 - [macro] Ferrari's first ever electric car sold for record $40m at auction (BBC News)
 - [macro] About 100 homes swept away after Hurricane Lala lashes Hawaii (BBC News)
-- [macro] Trump says US to scale back military drills with South Korea after it stayed out of Iran war (BBC News)
 - [crypto] Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest (Cointelegraph.com News)
 - [macro] If Meta loses this trial, Instagram and Facebook could change forever (BBC News)
 - [macro] 'Ghana was the crime scene' - the country leading the demand for slavery reparations (BBC News)
