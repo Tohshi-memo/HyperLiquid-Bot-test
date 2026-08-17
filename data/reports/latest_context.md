@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T17:37:34.323362+00:00`
-- Market context score: `49.93`
-- News risk score: `47.68`
-- Macro risk score: `27.37`
-- Risk-on score: `39.34`
-- Articles: `76`
+- Generated: `2026-08-17T17:51:43.008563+00:00`
+- Market context score: `46.94`
+- News risk score: `48.66`
+- Macro risk score: `28.71`
+- Risk-on score: `34.02`
+- Articles: `74`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9282`
-- Day/swing latest: `2026-08-17T17:30:00+00:00`
+- Day/swing records: `9283`
+- Day/swing latest: `2026-08-17T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `30`, risk hits `11`, risk headline rate `0.3`, policy hits `9`
-- macro: articles `42`, risk hits `6`, risk headline rate `0.119`, policy hits `9`
+- crypto: articles `29`, risk hits `11`, risk headline rate `0.3103`, policy hits `9`
+- macro: articles `41`, risk hits `8`, risk headline rate `0.1707`, policy hits `1`
 
 ## Headlines
 
 - [commodity] Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
-- [macro] Power Semis Soar Monday: Wolfspeed, STMicro and On Semiconductor Rally on Vera Rubin Ramp Signals (Yahoo Finance)
-- [macro] Should You Buy Microsoft Stock Now or Wait for a Dip? (Yahoo Finance)
-- [macro] OpenAI investors must consider latest CFO comments (Yahoo Finance)
-- [macro] Why Carrier Global Stock Could Soon Bounce Back (Yahoo Finance)
-- [macro] These 3 Dividend ETFs Quietly Pay You Every Month and Most Investors Have No Idea (Yahoo Finance)
-- [macro] Synchrony Financial partners with OpenAI for ChatGPT shopping (Yahoo Finance)
-- [crypto] CFTC seeks public input on AI compute futures contracts as CME eyes October launch (Cointelegraph.com News)
-- [macro] 'Fear Gauge' Falls To Year's Low. A Bad Sign For The Stock Market? (Yahoo Finance)
-- [macro] Fortinet, IBD Stock Of The Day, Steps Up AI Acquisitions To Build Cloud Platform (Yahoo Finance)
+- [macro] Klarna Group Drops 7% Before Q2 Earnings, Sezzle Falls 5% as BNPL Names Diverge (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; Energy Stock Clears Entry (Live Coverage) (Yahoo Finance)
+- [macro] SEC guidance removes risk rules from Nvidia $500B AI financing push (Yahoo Finance)
+- [macro] Tributes paid to Hayden Panettiere's 'amazing talent' after actress dies at 36 (BBC News)
+- [macro] SpaceX Stock: Here's A Way To Profit From This Volatile IPO (Yahoo Finance)
+- [macro] Airbnb 'rental arbitrage' lets entrepreneurs earn cash from short-term rentals without owning a single property (Yahoo Finance)
+- [macro] JPMorgan warns a brutal grocery shock could hit boomers, as USDA says prices may jump 12.3%. Is your nest egg ready? (Yahoo Finance)
+- [macro] Nike Falls 3% to a Fresh 52-Week Low as China Weakness Overshadows Its Wholesale Rebound (Yahoo Finance)
+- [macro] SpaceX Rebounds 6% on Monday as Nebius and CoreWeave Look to Rebound From Morning Drops (Yahoo Finance)
