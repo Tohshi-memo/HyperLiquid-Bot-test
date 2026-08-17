@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-17T16:37:36.553242+00:00`
-- Market context score: `51.51`
-- News risk score: `44.29`
-- Macro risk score: `25.37`
-- Risk-on score: `39.23`
+- Generated: `2026-08-17T16:50:18.322831+00:00`
+- Market context score: `49.87`
+- News risk score: `45.52`
+- Macro risk score: `25.3`
+- Risk-on score: `36.59`
 - Articles: `77`
 - Polymarket markets: `390`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9278`
-- Day/swing latest: `2026-08-17T16:30:00+00:00`
+- Day/swing records: `9279`
+- Day/swing latest: `2026-08-17T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `8`
-- macro: articles `45`, risk hits `6`, risk headline rate `0.1111`, policy hits `5`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `9`
+- macro: articles `44`, risk hits `4`, risk headline rate `0.0909`, policy hits `9`
 
 ## Headlines
 
+- [crypto] BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Elon Musk Is $142 Billion Short Of A $1 Trillion Net Worth (Yahoo Finance)
+- [macro] Red Cat Slides 4% on Maritime Autonomy Deal, Ondas Holdings Pulls Back (Yahoo Finance)
+- [macro] What Is the Best Nuclear Reactor Stock You Should Put $1,000 Into in 2026? (Yahoo Finance)
+- [macro] Apple’s $54 billion iPhone machine may be about to break its biggest ritual (Yahoo Finance)
+- [macro] Ray Dalio Has Invested Over $900 Million In This Stock. Should You Buy? (Yahoo Finance)
+- [crypto] US Treasury moves forward with rules on GENIUS Act after July deadline (Cointelegraph.com News)
 - [commodity] Oil prices little changed as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
-- [macro] Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue (BBC News)
-- [macro] Oil Profits Have More Than Doubled. Here’s What Trump Escalating the Iran War Could Mean for XOM and CVX (Yahoo Finance)
-- [macro] On Holding Founder and Co-CEO Caspar Coppetti Buys the Dip (Yahoo Finance)
-- [macro] Prediction: If a Bear Market Is Coming, This ETF Will Be the Biggest Long-Term Winner (Yahoo Finance)
-- [macro] El Pollo Loco Sees Bigger Future Beyond California (Yahoo Finance)
-- [macro] Morgan Stanley's troubling housing forecast is playing out now (Yahoo Finance)
+- [macro] Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal (BBC News)
 - [crypto] Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat (Cointelegraph.com News)
-- [macro] Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies (Yahoo Finance)
-- [macro] Kodiak Gas (KGS) Rides Record Earnings Into A Power Buildout (Yahoo Finance)
