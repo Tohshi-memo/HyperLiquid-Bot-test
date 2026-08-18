@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T18:16:06.288442+00:00`
-- Market context score: `49.54`
-- News risk score: `44.04`
-- Macro risk score: `30.25`
-- Risk-on score: `36.48`
-- Articles: `59`
+- Generated: `2026-08-18T18:23:02.424778+00:00`
+- Market context score: `47.45`
+- News risk score: `43.93`
+- Macro risk score: `31.09`
+- Risk-on score: `32.07`
+- Articles: `57`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `9`, risk headline rate `0.2667`, policy hits `4`
-- macro: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `0`
 
 ## Headlines
 
+- [macro] Global borrowing costs hit fresh highs on oil, AI and inflation (BBC News)
 - [commodity] Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' (Energy)
 - [macro] US mother begged for help before her children's killings, mother-in-law testifies (BBC News)
 - [macro] US announces new sanctions on top ICC figures (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’ (Cointelegraph.com News)
 - [macro] Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK (BBC News)
-- [macro] Disney and ABC sue Trump's media regulator to stop early licence renewal (BBC News)
