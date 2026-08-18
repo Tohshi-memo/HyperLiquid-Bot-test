@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T18:07:55.388520+00:00`
-- Market context score: `49.74`
-- News risk score: `44.0`
-- Macro risk score: `29.67`
-- Risk-on score: `36.67`
-- Articles: `60`
+- Generated: `2026-08-18T18:16:06.288442+00:00`
+- Market context score: `49.54`
+- News risk score: `44.04`
+- Macro risk score: `30.25`
+- Risk-on score: `36.48`
+- Articles: `59`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9378`
-- Day/swing latest: `2026-08-18T18:00:00+00:00`
+- Day/swing records: `9379`
+- Day/swing latest: `2026-08-18T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `9`, risk headline rate `0.2667`, policy hits `4`
-- macro: articles `29`, risk hits `8`, risk headline rate `0.2414`, policy hits `2`
+- macro: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' (Energy)
 - [macro] US mother begged for help before her children's killings, mother-in-law testifies (BBC News)
 - [macro] US announces new sanctions on top ICC figures (BBC News)
 - [crypto] Kraken’s Krak debuts US debit card as Payward broadens financial services push (Cointelegraph.com News)
-- [commodity] Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' (Energy)
 - [macro] Costco launching Medicare Advantage plans with SCAN Group (Yahoo Finance)
 - [macro] Zambia's Hichilema re-elected president as main rival in hiding over alleged threats (BBC News)
 - [crypto] Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
