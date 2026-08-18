@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T11:12:32.119113+00:00`
-- Market context score: `41.28`
-- News risk score: `49.19`
-- Macro risk score: `27.0`
-- Risk-on score: `21.26`
-- Articles: `64`
+- Generated: `2026-08-18T11:22:35.461646+00:00`
+- Market context score: `44.79`
+- News risk score: `47.2`
+- Macro risk score: `24.36`
+- Risk-on score: `26.38`
+- Articles: `65`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9350`
-- Day/swing latest: `2026-08-18T11:00:00+00:00`
+- Day/swing records: `9351`
+- Day/swing latest: `2026-08-18T11:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `0`
-- macro: articles `46`, risk hits `11`, risk headline rate `0.2174`, policy hits `7`
+- crypto: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
+- macro: articles `46`, risk hits `9`, risk headline rate `0.1739`, policy hits `7`
 
 ## Headlines
 
+- [crypto] The 'crack' in the energy market is wider than ever. Bitcoin might feel it. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Peter Schiff says homes are 'a money pit’ which ‘depletes' your wealth. Is it still ‘crazy’ to invest in real estate? (Yahoo Finance)
+- [macro] AuKing Mining signs agreement to acquire Green Exploration (Yahoo Finance)
+- [macro] MAI Capital buys Atlanta RIA Waypoint Wealth Counsel (Yahoo Finance)
+- [macro] World Collective, Denim Deal, and Green Story launch textile DPP pilot (Yahoo Finance)
+- [macro] Aurinkokarhu, FEP JV aim to deliver 3GW of energy projects in Finland (Yahoo Finance)
 - [crypto] South Korea joins more than 30 jurisdictions restricting Polymarket access (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Two Quantum Computing Stocks Are Starting to Pull Ahead of the Pack (Yahoo Finance)
 - [macro] Zambia's Hichilema re-elected president as main rival in hiding over alleged threats (BBC News)
-- [macro] HomeTrust to purchase Blue Ridge Bankshares in all-stock deal (Yahoo Finance)
-- [macro] Consumer Choice Center urges immediate halt and revision of EU PPWR law (Yahoo Finance)
-- [macro] Wetherspoons bans customers playing music from phones in pubs (BBC News)
-- [crypto] Kraken launches US-listed stock trading for EEA customers (Cointelegraph.com News)
-- [macro] Frasers Group tightens grip on Hugo Boss with 47.9% stake (Yahoo Finance)
-- [macro] Trump says ‘prices are dropping fast’ and the ‘only thing’ going up is your 401(k) — but is he right? How to stay ahead (Yahoo Finance)
-- [macro] Doximity Handed Its President 150,000 Options Last Month. Here's What the Latest Filing Signals for Investors (Yahoo Finance)
-- [crypto] Bitcoin pauses at $64,000 as rising yields, oil drag equities lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bonds, stocks jolted as Middle East tensions shatter market calm (Yahoo Finance)
