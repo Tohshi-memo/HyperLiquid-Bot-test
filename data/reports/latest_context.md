@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T00:52:32.109154+00:00`
-- Market context score: `44.1`
+- Generated: `2026-08-18T01:07:26.693545+00:00`
+- Market context score: `41.1`
 - News risk score: `49.7`
 - Macro risk score: `32.77`
-- Risk-on score: `30.12`
+- Risk-on score: `23.45`
 - Articles: `32`
 - Polymarket markets: `390`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9310`
-- Day/swing latest: `2026-08-18T00:45:00+00:00`
+- Day/swing records: `9311`
+- Day/swing latest: `2026-08-18T01:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `15`, risk hits `10`, risk headline rate `0.4667`, policy hits `3`
-- macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
+- macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 
 ## Headlines
 
+- [macro] US-Canada trade talks 'intense' as new tariff deadline looms (BBC News)
 - [macro] Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma' (BBC News)
 - [macro] To joke or not to joke?: How to write a good out-of-office message (BBC News)
 - [crypto] Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal (BBC News)
 - [commodity] Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way' (Energy)
 - [crypto] Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case (BBC News)
