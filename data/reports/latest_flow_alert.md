@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-18T12:25:26.989830+00:00`
+- Generated: `2026-08-18T12:30:29.952589+00:00`
 - Flow alert score: `22.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `890555.564` | liquidity: `23651.33929`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `596851.8667990003` | liquidity: `480455.03645`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `593290.8412620003` | liquidity: `564926.0338`
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `585503.8455709999` | liquidity: `275411.74859`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `490206.471553002` | liquidity: `953947.79742`
-- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `474310.082938` | liquidity: `774843.13021`
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `469896.68782` | liquidity: `137691.7138`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `376800.89323500014` | liquidity: `479442.4272`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `890555.564` | liquidity: `27161.35909`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `596851.8667990003` | liquidity: `481107.46145`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `593290.8412620003` | liquidity: `553890.9561`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `585503.8455709999` | liquidity: `273240.13605`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `490206.471553002` | liquidity: `956750.04963`
+- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `474310.082938` | liquidity: `775489.43935`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `469896.68782` | liquidity: `156254.2637`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `376800.89323500014` | liquidity: `361585.9007`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
