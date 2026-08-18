@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T22:07:29.472114+00:00",
+  "updated_at": "2026-08-18T22:22:26.250407+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -26,12 +26,12 @@
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 62105,
+        "bytes": 62131,
         "note": "Machine-readable map."
       },
       {
         "path": "data/reports/latest_canary_signals.md",
-        "bytes": 2381,
+        "bytes": 2385,
         "note": "Current canary signals."
       },
       {
@@ -46,17 +46,17 @@
       },
       {
         "path": "data/processed/ai_analysis_pack.json",
-        "bytes": 48259,
+        "bytes": 48258,
         "note": "Compact strategy stats."
       },
       {
         "path": "data/reports/latest_asset_universe.md",
-        "bytes": 5738,
+        "bytes": 5727,
         "note": "Asset-class overview."
       },
       {
         "path": "data/reports/latest_asset_features.md",
-        "bytes": 2331,
+        "bytes": 2335,
         "note": "Individual asset screen."
       },
       {
@@ -66,7 +66,7 @@
       },
       {
         "path": "data/reports/latest_relationship_scan.md",
-        "bytes": 3606,
+        "bytes": 3602,
         "note": "Mechanical relationship candidates."
       },
       {
@@ -78,47 +78,47 @@
     "conditional": [
       {
         "path": "data/processed/asset_universe_latest.json",
-        "bytes": 1278984,
+        "bytes": 1278965,
         "note": "Latest all-symbol rows."
       },
       {
         "path": "data/processed/asset_features_latest.json",
-        "bytes": 829642,
+        "bytes": 830036,
         "note": "Individual returns, volume, OI, funding, and best relationship candidates."
       },
       {
         "path": "data/processed/asset_features_all.json",
-        "bytes": 501339,
+        "bytes": 501364,
         "note": "All tradable HyperLiquid assets with compact derived features for private screening."
       },
       {
         "path": "data/processed/asset_price_history.json",
-        "bytes": 12662491,
+        "bytes": 12662666,
         "note": "Active all-symbol 15m price window."
       },
       {
         "path": "data/processed/day_swing_dataset.json",
-        "bytes": 64154852,
+        "bytes": 64161015,
         "note": "Full BTC/ETH/HYPE/SOL feature and label rows."
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 4976352,
+        "bytes": 4976415,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 3081301,
+        "bytes": 3081502,
         "note": "Polymarket/flow history."
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 574307,
+        "bytes": 574377,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 46854280,
+        "bytes": 46854642,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -133,17 +133,17 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 15086,
+        "bytes": 15074,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 4047740,
+        "bytes": 4047752,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
         "path": "data/processed/relationship_scan_latest.json",
-        "bytes": 1667426,
+        "bytes": 1667454,
         "note": "Mechanical A/B -> future-return candidate patterns."
       },
       {
@@ -188,8 +188,8 @@
     "macro_indicator_history_records": 194,
     "asset_price_active_records": 672,
     "asset_price_active_window": {
-      "first_observed_at": "2026-08-11T21:45:00+00:00",
-      "last_observed_at": "2026-08-18T22:00:00+00:00"
+      "first_observed_at": "2026-08-11T22:00:00+00:00",
+      "last_observed_at": "2026-08-18T22:15:00+00:00"
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
@@ -220,11 +220,11 @@
       "metal": 20,
       "unknown": 789
     },
-    "day_swing_records": 9394,
+    "day_swing_records": 9395,
     "day_swing_label_counts": {
-      "1h": 37484,
-      "4h": 37292,
-      "24h": 36344,
+      "1h": 37488,
+      "4h": 37296,
+      "24h": 36348,
       "72h": 34176
     },
     "hip4_outcome_count": 8,
@@ -253,7 +253,7 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-08-18T22:07:29.472114+00:00",
+    "generated_at": "2026-08-18T22:22:26.250407+00:00",
     "scores": {
       "news_risk_score": 44.66,
       "macro_risk_score": 31.32,
@@ -498,9 +498,9 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-08-18T22:05:27.553034+00:00",
+      "generated_at": "2026-08-18T22:20:31.693811+00:00",
       "scores": {
-        "flow_alert_score": 21.6,
+        "flow_alert_score": 21.88,
         "flow_alert_level": "baseline"
       },
       "large_flows": {
@@ -517,10 +517,10 @@
         "inflow_zscore_7d": 0.0
       },
       "polymarket": {
-        "market_count": 57,
-        "volume_24h": 11750222.68,
-        "lifetime_volume": 415507317.0,
-        "liquidity": 22568526.17,
+        "market_count": 56,
+        "volume_24h": 11877687.86,
+        "lifetime_volume": 408621545.76,
+        "liquidity": 23056227.92,
         "top_markets": [
           {
             "question": "Will James Fishback be the Republican nominee for Florida Governor?",
@@ -529,9 +529,9 @@
             "url": "https://polymarket.com/event/republican-nominee-for-florida-governor",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 2440031.9239209997,
-            "volume": 4977753.576706001,
-            "liquidity": 530932.26681,
+            "volume_24h": 2529320.084758,
+            "volume": 5067041.737543002,
+            "liquidity": 1011242.95494,
             "end_date": "2026-08-18T00:00:00Z",
             "outcomes": [
               {
@@ -556,8 +556,8 @@
             "query": "policy",
             "impact_category": "policy",
             "volume_24h": 890606.154,
-            "volume": 30108149.94036401,
-            "liquidity": 27818.33714,
+            "volume": 30108149.940364003,
+            "liquidity": 26745.71077,
             "end_date": "2026-06-01T00:00:00Z",
             "outcomes": [
               {
@@ -575,15 +575,41 @@
             "no_probability": 0.9965
           },
           {
+            "question": "Will Byron Donalds be the Republican nominee for Florida Governor?",
+            "slug": "will-byron-donalds-be-the-republican-nominee-for-florida-governor",
+            "event_slug": "republican-nominee-for-florida-governor",
+            "url": "https://polymarket.com/event/republican-nominee-for-florida-governor",
+            "query": "policy",
+            "impact_category": "policy",
+            "volume_24h": 457909.6223820001,
+            "volume": 1305097.0735850006,
+            "liquidity": 127540.07691,
+            "end_date": "2026-08-18T00:00:00Z",
+            "outcomes": [
+              {
+                "name": "Yes",
+                "probability": 0.991,
+                "token_id": "17336913662936411353227123556466342187939829338475965039559527756381614175446"
+              },
+              {
+                "name": "No",
+                "probability": 0.009,
+                "token_id": "39749646121583252088902287452637238797566153713761549022607845698653055271900"
+              }
+            ],
+            "yes_probability": 0.991,
+            "no_probability": 0.009
+          },
+          {
             "question": "Strait of Hormuz traffic returns to normal by August 31?",
             "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
             "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
             "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 454836.3017050001,
+            "volume_24h": 454402.55170500005,
             "volume": 14841287.399709025,
-            "liquidity": 526517.72115,
+            "liquidity": 532623.56539,
             "end_date": "2026-08-31T00:00:00Z",
             "outcomes": [
               {
@@ -601,56 +627,30 @@
             "no_probability": 0.9925
           },
           {
-            "question": "Will Byron Donalds be the Republican nominee for Florida Governor?",
-            "slug": "will-byron-donalds-be-the-republican-nominee-for-florida-governor",
-            "event_slug": "republican-nominee-for-florida-governor",
-            "url": "https://polymarket.com/event/republican-nominee-for-florida-governor",
-            "query": "policy",
-            "impact_category": "policy",
-            "volume_24h": 377404.32583200006,
-            "volume": 1224591.7770349996,
-            "liquidity": 166114.46711,
-            "end_date": "2026-08-18T00:00:00Z",
-            "outcomes": [
-              {
-                "name": "Yes",
-                "probability": 0.9905,
-                "token_id": "17336913662936411353227123556466342187939829338475965039559527756381614175446"
-              },
-              {
-                "name": "No",
-                "probability": 0.0095,
-                "token_id": "39749646121583252088902287452637238797566153713761549022607845698653055271900"
-              }
-            ],
-            "yes_probability": 0.9905,
-            "no_probability": 0.0095
-          },
-          {
             "question": "Will Russia capture Kostyantynivka by December 31, 2026?",
             "slug": "will-russia-capture-kostyantynivka-by-december-31-2026-936-942-271-276-578-687-312-238-912",
             "event_slug": "will-russia-capture-kostyantynivka-by",
             "url": "https://polymarket.com/event/will-russia-capture-kostyantynivka-by",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 372319.198424,
-            "volume": 2137898.890533999,
-            "liquidity": 125582.63288,
+            "volume_24h": 375382.03842399997,
+            "volume": 2140961.7305340013,
+            "liquidity": 131045.84551,
             "end_date": "2026-12-31T12:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.992,
+                "probability": 0.9955,
                 "token_id": "83552904656813968939383082097054433404653657244784709614448703928529504455469"
               },
               {
                 "name": "No",
-                "probability": 0.008,
+                "probability": 0.0045,
                 "token_id": "47029152085101973226255505664149277121974669906212969183902148537312535402801"
               }
             ],
-            "yes_probability": 0.992,
-            "no_probability": 0.008
+            "yes_probability": 0.9955,
+            "no_probability": 0.0045
           },
           {
             "question": "Will Pablo Marçal win the 2026 Brazilian presidential election?",
@@ -659,24 +659,24 @@
             "url": "https://polymarket.com/event/brazil-presidential-election",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 344254.292253,
-            "volume": 1551491.049845001,
-            "liquidity": 503048.20298,
+            "volume_24h": 343668.06450299994,
+            "volume": 1556179.5398450003,
+            "liquidity": 500343.02291,
             "end_date": "2026-10-04T00:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.0095,
+                "probability": 0.011,
                 "token_id": "72572221736897634802851345220625440437573759789073371714710674805950653460290"
               },
               {
                 "name": "No",
-                "probability": 0.9905,
+                "probability": 0.989,
                 "token_id": "9672782168124372602794464518660472014151020436078017456931499053959813127872"
               }
             ],
-            "yes_probability": 0.0095,
-            "no_probability": 0.9905
+            "yes_probability": 0.011,
+            "no_probability": 0.989
           },
           {
             "question": "Will the US confirm that aliens exist before 2027?",
@@ -686,8 +686,8 @@
             "query": "policy",
             "impact_category": "policy",
             "volume_24h": 324505.5483330001,
-            "volume": 37211198.341763034,
-            "liquidity": 675972.67342,
+            "volume": 37211198.34176301,
+            "liquidity": 755485.41275,
             "end_date": "2026-12-31T00:00:00Z",
             "outcomes": [
               {
@@ -712,8 +712,8 @@
             "query": "macro",
             "impact_category": "macro",
             "volume_24h": 321239.94835799944,
-            "volume": 9523065.610612003,
-            "liquidity": 848353.34556,
+            "volume": 9523065.610612009,
+            "liquidity": 847942.25556,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -737,9 +737,9 @@
             "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 308504.3349090001,
-            "volume": 4158487.7918549995,
-            "liquidity": 644926.3103,
+            "volume_24h": 305730.4349090001,
+            "volume": 4158713.8718549986,
+            "liquidity": 643924.5306,
             "end_date": "2026-09-30T00:00:00Z",
             "outcomes": [
               {
@@ -763,9 +763,9 @@
             "url": "https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 267560.72907299997,
-            "volume": 7382611.368765002,
-            "liquidity": 386913.1751,
+            "volume_24h": 267997.529726,
+            "volume": 7383179.203899002,
+            "liquidity": 386064.4538,
             "end_date": "2026-09-30T00:00:00Z",
             "outcomes": [
               {
@@ -784,11 +784,11 @@
           }
         ],
         "health_markets": [],
-        "volume_24h_zscore_7d": 1.15
+        "volume_24h_zscore_7d": 1.22
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-08-18T22:07:29.472114+00:00",
+      "generated_at": "2026-08-18T22:22:26.250407+00:00",
       "outcome_count": 8,
       "side_count": 16,
       "by_underlying": {
@@ -812,7 +812,7 @@
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-08-18T22:07:29.472114+00:00",
+      "generated_at": "2026-08-18T22:22:26.250407+00:00",
       "pattern_count": 96,
       "min_samples": 30,
       "top_patterns": [
@@ -828,10 +828,10 @@
           "target": "crypto_major",
           "horizon": "24h",
           "baseline_sample_count": 576,
-          "baseline_up_rate_pct": 60.0694,
-          "baseline_avg_return_pct": 0.0688,
-          "delta_probability_pct": 9.1614,
-          "edge_return_pct": 0.2791,
+          "baseline_up_rate_pct": 60.2431,
+          "baseline_avg_return_pct": 0.0699,
+          "delta_probability_pct": 8.9877,
+          "edge_return_pct": 0.278,
           "max_drawdown_pct": -4.9964,
           "longest_loss_streak": 14,
           "stability": {
@@ -840,7 +840,7 @@
             "direction_consistent": true
           },
           "sample_status": "ready",
-          "score": 2.6327
+          "score": 2.6056
         },
         {
           "sample_count": 91,
@@ -855,9 +855,9 @@
           "horizon": "24h",
           "baseline_sample_count": 576,
           "baseline_up_rate_pct": 48.4375,
-          "baseline_avg_return_pct": 0.0305,
+          "baseline_avg_return_pct": 0.0309,
           "delta_probability_pct": 18.5955,
-          "edge_return_pct": 0.2639,
+          "edge_return_pct": 0.2635,
           "max_drawdown_pct": -4.666,
           "longest_loss_streak": 30,
           "stability": {
@@ -866,7 +866,7 @@
             "direction_consistent": false
           },
           "sample_status": "ready",
-          "score": 1.5955
+          "score": 1.5923
         },
         {
           "sample_count": 96,
@@ -906,10 +906,10 @@
           "target": "equity",
           "horizon": "4h",
           "baseline_sample_count": 656,
-          "baseline_up_rate_pct": 60.6707,
-          "baseline_avg_return_pct": 0.0167,
-          "delta_probability_pct": 7.0376,
-          "edge_return_pct": 0.137,
+          "baseline_up_rate_pct": 60.5183,
+          "baseline_avg_return_pct": 0.0157,
+          "delta_probability_pct": 7.19,
+          "edge_return_pct": 0.138,
           "max_drawdown_pct": -2.4411,
           "longest_loss_streak": 14,
           "stability": {
@@ -918,7 +918,7 @@
             "direction_consistent": true
           },
           "sample_status": "ready",
-          "score": 1.1408
+          "score": 1.165
         },
         {
           "sample_count": 96,
@@ -932,10 +932,10 @@
           "target": "metal",
           "horizon": "4h",
           "baseline_sample_count": 656,
-          "baseline_up_rate_pct": 48.3232,
-          "baseline_avg_return_pct": -0.0147,
-          "delta_probability_pct": 16.2601,
-          "edge_return_pct": 0.0327,
+          "baseline_up_rate_pct": 48.1707,
+          "baseline_avg_return_pct": -0.0152,
+          "delta_probability_pct": 16.4126,
+          "edge_return_pct": 0.0332,
           "max_drawdown_pct": -1.273,
           "longest_loss_streak": 10,
           "stability": {
@@ -944,7 +944,7 @@
             "direction_consistent": true
           },
           "sample_status": "ready",
-          "score": 1.0023
+          "score": 1.0205
         }
       ],
       "top_symbol_patterns": [
@@ -962,9 +962,9 @@
           "asset_class": "unknown",
           "horizon": "24h",
           "baseline_sample_count": 576,
-          "baseline_up_rate_pct": 27.7778,
+          "baseline_up_rate_pct": 27.6042,
           "baseline_avg_return_pct": 14.1527,
-          "delta_probability_pct": 28.2662,
+          "delta_probability_pct": 28.4398,
           "edge_return_pct": 32.6369,
           "max_drawdown_pct": 0.0,
           "longest_loss_streak": 40,
@@ -974,7 +974,7 @@
             "direction_consistent": true
           },
           "sample_status": "ready",
-          "score": 391.9041
+          "score": 391.918
         },
         {
           "sample_count": 91,
@@ -991,9 +991,9 @@
           "horizon": "24h",
           "baseline_sample_count": 576,
           "baseline_up_rate_pct": 54.6875,
-          "baseline_avg_return_pct": 17.0168,
+          "baseline_avg_return_pct": 17.0176,
           "delta_probability_pct": -11.8304,
-          "edge_return_pct": 25.1278,
+          "edge_return_pct": 25.127,
           "max_drawdown_pct": -47.3718,
           "longest_loss_streak": 47,
           "stability": {
@@ -1002,7 +1002,7 @@
             "direction_consistent": false
           },
           "sample_status": "ready",
-          "score": 189.2354
+          "score": 189.2292
         },
         {
           "sample_count": 91,
@@ -1018,10 +1018,10 @@
           "asset_class": "unknown",
           "horizon": "24h",
           "baseline_sample_count": 576,
-          "baseline_up_rate_pct": 52.9514,
-          "baseline_avg_return_pct": 1.2839,
-          "delta_probability_pct": 33.8618,
-          "edge_return_pct": 12.8128,
+          "baseline_up_rate_pct": 53.125,
+          "baseline_avg_return_pct": 1.359,
+          "delta_probability_pct": 33.6882,
+          "edge_return_pct": 12.7377,
           "max_drawdown_pct": 0.0,
           "longest_loss_streak": 12,
           "stability": {
@@ -1030,7 +1030,7 @@
             "direction_consistent": true
           },
           "sample_status": "ready",
-          "score": 155.8625
+          "score": 154.9475
         },
         {
           "sample_count": 91,
@@ -1075,9 +1075,9 @@
           "horizon": "24h",
           "baseline_sample_count": 576,
           "baseline_up_rate_pct": 3.125,
-          "baseline_avg_return_pct": -10.2086,
+          "baseline_avg_return_pct": -10.0599,
           "delta_probability_pct": -3.125,
-          "edge_return_pct": 10.2086,
+          "edge_return_pct": 10.0599,
           "max_drawdown_pct": 0.0,
           "longest_loss_streak": 91,
           "stability": {
@@ -1086,12 +1086,12 @@
             "direction_consistent": true
           },
           "sample_status": "ready",
-          "score": 117.7032
+          "score": 115.9188
         }
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-08-18T22:07:29.472114+00:00",
+      "generated_at": "2026-08-18T22:22:26.250407+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121111,
       "top_patterns": [
@@ -1265,8 +1265,8 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-08-18T22:07:29.472114+00:00",
-      "observed_at": "2026-08-18T22:00:00+00:00",
+      "generated_at": "2026-08-18T22:22:26.250407+00:00",
+      "observed_at": "2026-08-18T22:15:00+00:00",
       "asset_count": 1210,
       "top_assets": [
         {
@@ -1285,15 +1285,15 @@
           "day_ntl_vlm": 0.0,
           "open_interest": 0.0,
           "funding": null,
-          "activity_score": 309.5233,
+          "activity_score": 309.5344,
           "best_relationship": {
             "pattern_id": "market_context_high->@190_24h",
             "condition": "market_context_high",
             "horizon": "24h",
-            "score": 391.9041,
+            "score": 391.918,
             "sample_count": 91,
             "edge_return_pct": 32.6369,
-            "delta_probability_pct": 28.2662
+            "delta_probability_pct": 28.4398
           }
         },
         {
@@ -1302,24 +1302,24 @@
           "asset_class": "unknown",
           "market_type": "spot_or_aux",
           "dex": "",
-          "price": 0.0012422,
+          "price": 0.0012028,
           "returns": {
-            "15m": 0.0,
-            "1h": 0.0,
-            "4h": 0.0,
-            "24h": 0.3587
+            "15m": -3.1718,
+            "1h": -3.1718,
+            "4h": -3.1718,
+            "24h": -2.8245
           },
           "day_ntl_vlm": 0.0,
           "open_interest": 0.0,
           "funding": null,
-          "activity_score": 147.6394,
+          "activity_score": 156.0213,
           "best_relationship": {
             "pattern_id": "market_context_high->@44_24h",
             "condition": "market_context_high",
             "horizon": "24h",
-            "score": 189.2354,
+            "score": 189.2292,
             "sample_count": 91,
-            "edge_return_pct": 25.1278,
+            "edge_return_pct": 25.127,
             "delta_probability_pct": -11.8304
           }
         },
@@ -1329,25 +1329,25 @@
           "asset_class": "unknown",
           "market_type": "spot_or_aux",
           "dex": "",
-          "price": 0.31378,
+          "price": 0.319625,
           "returns": {
-            "15m": -0.3003,
-            "1h": -1.6009,
-            "4h": 18.0778,
-            "24h": 39.0407
+            "15m": 1.8628,
+            "1h": -1.8079,
+            "4h": 14.8037,
+            "24h": 41.6244
           },
           "day_ntl_vlm": 0.0,
           "open_interest": 0.0,
           "funding": null,
-          "activity_score": 134.69,
+          "activity_score": 133.958,
           "best_relationship": {
             "pattern_id": "market_context_high->@174_24h",
             "condition": "market_context_high",
             "horizon": "24h",
-            "score": 155.8625,
+            "score": 154.9475,
             "sample_count": 91,
-            "edge_return_pct": 12.8128,
-            "delta_probability_pct": 33.8618
+            "edge_return_pct": 12.7377,
+            "delta_probability_pct": 33.6882
           }
         },
         {
@@ -1393,14 +1393,14 @@
           "day_ntl_vlm": 0.0,
           "open_interest": 0.0,
           "funding": null,
-          "activity_score": 90.1626,
+          "activity_score": 88.735,
           "best_relationship": {
             "pattern_id": "market_context_high->@282_24h",
             "condition": "market_context_high",
             "horizon": "24h",
-            "score": 117.7032,
+            "score": 115.9188,
             "sample_count": 91,
-            "edge_return_pct": 10.2086,
+            "edge_return_pct": 10.0599,
             "delta_probability_pct": -3.125
           }
         },
@@ -1410,24 +1410,24 @@
           "asset_class": "equity",
           "market_type": "hip3_perp",
           "dex": "xyz",
-          "price": 219.62,
+          "price": 219.725,
           "returns": {
-            "15m": 0.171,
-            "1h": -0.1682,
-            "4h": 1.7489,
-            "24h": -13.1336
+            "15m": 0.0478,
+            "1h": -0.1432,
+            "4h": 1.2254,
+            "24h": -12.925
           },
-          "day_ntl_vlm": 53400031.98,
-          "open_interest": 234287.22,
+          "day_ntl_vlm": 53383331.43,
+          "open_interest": 234273.58,
           "funding": 6.25e-06,
-          "activity_score": 74.9416,
+          "activity_score": 74.4396,
           "best_relationship": {
             "pattern_id": "market_context_high->xyz:CBRS_24h",
             "condition": "market_context_high",
             "horizon": "24h",
-            "score": 70.8673,
+            "score": 71.0101,
             "sample_count": 91,
-            "edge_return_pct": 6.1096,
+            "edge_return_pct": 6.1215,
             "delta_probability_pct": 36.403
           }
         },
@@ -1442,19 +1442,19 @@
             "15m": 0.0,
             "1h": 0.0,
             "4h": 0.0,
-            "24h": -10.7804
+            "24h": -11.4846
           },
           "day_ntl_vlm": 0.0,
           "open_interest": 0.0,
           "funding": null,
-          "activity_score": 71.3872,
+          "activity_score": 71.9359,
           "best_relationship": {
             "pattern_id": "market_context_high->@219_24h",
             "condition": "market_context_high",
             "horizon": "24h",
-            "score": 84.8012,
+            "score": 84.8708,
             "sample_count": 91,
-            "edge_return_pct": 7.0536,
+            "edge_return_pct": 7.0594,
             "delta_probability_pct": 25.2385
           }
         },
@@ -1486,57 +1486,57 @@
           }
         },
         {
+          "symbol": "@201",
+          "display_name": "@201",
+          "asset_class": "unknown",
+          "market_type": "spot_or_aux",
+          "dex": "",
+          "price": 1e-07,
+          "returns": {
+            "15m": 0.0,
+            "1h": 0.0,
+            "4h": 11.1111,
+            "24h": 0.0
+          },
+          "day_ntl_vlm": 0.0,
+          "open_interest": 0.0,
+          "funding": null,
+          "activity_score": 51.3226,
+          "best_relationship": {
+            "pattern_id": "market_context_high->@201_24h",
+            "condition": "market_context_high",
+            "horizon": "24h",
+            "score": 59.431,
+            "sample_count": 91,
+            "edge_return_pct": 5.0701,
+            "delta_probability_pct": 28.6229
+          }
+        },
+        {
           "symbol": "BABY",
           "display_name": "BABY",
           "asset_class": "crypto_alt",
           "market_type": "native_perp",
           "dex": "",
-          "price": 0.010327,
+          "price": 0.010302,
           "returns": {
-            "15m": 0.6432,
-            "1h": 0.4279,
-            "4h": 2.2273,
-            "24h": 2.9406
+            "15m": -0.2421,
+            "1h": 0.576,
+            "4h": 1.8085,
+            "24h": 3.0715
           },
-          "day_ntl_vlm": 97082.57,
-          "open_interest": 14664038.0,
+          "day_ntl_vlm": 97605.43,
+          "open_interest": 14622100.0,
           "funding": 1.25e-05,
-          "activity_score": 51.7713,
+          "activity_score": 50.9851,
           "best_relationship": {
             "pattern_id": "market_context_high->BABY_24h",
             "condition": "market_context_high",
             "horizon": "24h",
-            "score": 53.0869,
+            "score": 52.5762,
             "sample_count": 91,
-            "edge_return_pct": 4.4722,
-            "delta_probability_pct": 40.232
-          }
-        },
-        {
-          "symbol": "VVV",
-          "display_name": "VVV",
-          "asset_class": "crypto_alt",
-          "market_type": "native_perp",
-          "dex": "",
-          "price": 13.8685,
-          "returns": {
-            "15m": 0.3292,
-            "1h": 0.8985,
-            "4h": -2.1519,
-            "24h": 4.6956
-          },
-          "day_ntl_vlm": 15552947.56,
-          "open_interest": 1343564.34,
-          "funding": 1.25e-05,
-          "activity_score": 51.4513,
-          "best_relationship": {
-            "pattern_id": "market_context_high->VVV_24h",
-            "condition": "market_context_high",
-            "horizon": "24h",
-            "score": 49.8889,
-            "sample_count": 91,
-            "edge_return_pct": 4.511,
-            "delta_probability_pct": 15.6918
+            "edge_return_pct": 4.4308,
+            "delta_probability_pct": 40.0584
           }
         }
       ]
@@ -1562,201 +1562,201 @@
       "15m": {
         "commodity": {
           "count": 12,
-          "avg_return_pct": 0.0414,
+          "avg_return_pct": -0.0103,
           "median_return_pct": 0.0,
-          "up_pct": 25.0
+          "up_pct": 8.33
         },
         "crypto_alt": {
           "count": 230,
-          "avg_return_pct": 0.0789,
-          "median_return_pct": 0.0386,
-          "up_pct": 56.09
+          "avg_return_pct": 0.04,
+          "median_return_pct": 0.0,
+          "up_pct": 40.0
         },
         "crypto_major": {
           "count": 8,
-          "avg_return_pct": 0.0371,
-          "median_return_pct": 0.0261,
-          "up_pct": 75.0
+          "avg_return_pct": 0.0225,
+          "median_return_pct": 0.032,
+          "up_pct": 62.5
         },
         "equity": {
           "count": 120,
-          "avg_return_pct": 0.029,
-          "median_return_pct": 0.0196,
-          "up_pct": 55.0
+          "avg_return_pct": 0.0814,
+          "median_return_pct": 0.0354,
+          "up_pct": 58.33
         },
         "fx": {
           "count": 6,
-          "avg_return_pct": 0.0016,
+          "avg_return_pct": -0.0018,
           "median_return_pct": 0.0,
-          "up_pct": 33.33
+          "up_pct": 0.0
         },
         "index": {
           "count": 25,
-          "avg_return_pct": 0.0149,
+          "avg_return_pct": 0.0078,
           "median_return_pct": 0.0,
-          "up_pct": 20.0
+          "up_pct": 24.0
         },
         "metal": {
           "count": 20,
-          "avg_return_pct": -0.0135,
+          "avg_return_pct": -0.0485,
           "median_return_pct": 0.0,
-          "up_pct": 10.0
+          "up_pct": 0.0
         },
         "unknown": {
           "count": 789,
-          "avg_return_pct": 2.3141,
+          "avg_return_pct": -0.0639,
           "median_return_pct": 0.0,
-          "up_pct": 7.6
+          "up_pct": 5.96
         }
       },
       "1h": {
         "commodity": {
           "count": 12,
-          "avg_return_pct": 0.0185,
+          "avg_return_pct": 0.0193,
           "median_return_pct": 0.0,
-          "up_pct": 16.67
+          "up_pct": 25.0
         },
         "crypto_alt": {
           "count": 230,
-          "avg_return_pct": 0.0059,
+          "avg_return_pct": 0.0852,
           "median_return_pct": 0.0,
-          "up_pct": 36.52
+          "up_pct": 43.48
         },
         "crypto_major": {
           "count": 8,
-          "avg_return_pct": -0.0376,
-          "median_return_pct": -0.0602,
-          "up_pct": 25.0
+          "avg_return_pct": -0.0061,
+          "median_return_pct": -0.0091,
+          "up_pct": 37.5
         },
         "equity": {
           "count": 120,
-          "avg_return_pct": -0.0445,
-          "median_return_pct": 0.0,
-          "up_pct": 41.67
+          "avg_return_pct": 0.0537,
+          "median_return_pct": 0.0583,
+          "up_pct": 59.17
         },
         "fx": {
           "count": 6,
-          "avg_return_pct": 0.0034,
-          "median_return_pct": 0.0,
-          "up_pct": 16.67
+          "avg_return_pct": -0.006,
+          "median_return_pct": -0.0079,
+          "up_pct": 0.0
         },
         "index": {
           "count": 25,
-          "avg_return_pct": 0.0036,
+          "avg_return_pct": 0.0136,
           "median_return_pct": 0.0,
-          "up_pct": 16.0
+          "up_pct": 20.0
         },
         "metal": {
           "count": 20,
-          "avg_return_pct": -0.0088,
+          "avg_return_pct": -0.0606,
           "median_return_pct": 0.0,
-          "up_pct": 10.0
+          "up_pct": 0.0
         },
         "unknown": {
           "count": 789,
-          "avg_return_pct": 0.1265,
+          "avg_return_pct": 0.7976,
           "median_return_pct": 0.0,
-          "up_pct": 5.96
+          "up_pct": 7.6
         }
       },
       "4h": {
         "commodity": {
           "count": 12,
-          "avg_return_pct": 0.1275,
+          "avg_return_pct": 0.1049,
           "median_return_pct": 0.0,
           "up_pct": 25.0
         },
         "crypto_alt": {
           "count": 230,
-          "avg_return_pct": -0.2947,
-          "median_return_pct": -0.1991,
+          "avg_return_pct": -0.2835,
+          "median_return_pct": -0.1502,
           "up_pct": 20.43
         },
         "crypto_major": {
           "count": 8,
-          "avg_return_pct": -0.0552,
-          "median_return_pct": -0.0169,
+          "avg_return_pct": -0.1371,
+          "median_return_pct": -0.1138,
           "up_pct": 12.5
         },
         "equity": {
           "count": 120,
-          "avg_return_pct": -0.0779,
-          "median_return_pct": 0.0,
-          "up_pct": 39.17
+          "avg_return_pct": -0.1444,
+          "median_return_pct": -0.0041,
+          "up_pct": 34.17
         },
         "fx": {
           "count": 6,
-          "avg_return_pct": -0.0034,
+          "avg_return_pct": -0.0047,
           "median_return_pct": 0.0,
           "up_pct": 16.67
         },
         "index": {
           "count": 25,
-          "avg_return_pct": -0.0005,
+          "avg_return_pct": -0.0281,
           "median_return_pct": 0.0,
-          "up_pct": 12.0
+          "up_pct": 0.0
         },
         "metal": {
           "count": 20,
-          "avg_return_pct": -0.1029,
+          "avg_return_pct": -0.1591,
           "median_return_pct": 0.0,
           "up_pct": 0.0
         },
         "unknown": {
           "count": 789,
-          "avg_return_pct": 0.0072,
+          "avg_return_pct": 0.0383,
           "median_return_pct": 0.0,
-          "up_pct": 5.58
+          "up_pct": 5.32
         }
       },
       "24h": {
         "commodity": {
           "count": 12,
-          "avg_return_pct": 0.2649,
+          "avg_return_pct": 0.2608,
           "median_return_pct": 0.0,
           "up_pct": 25.0
         },
         "crypto_alt": {
           "count": 230,
-          "avg_return_pct": -0.7462,
-          "median_return_pct": -0.3272,
-          "up_pct": 19.57
+          "avg_return_pct": -0.6022,
+          "median_return_pct": -0.2445,
+          "up_pct": 20.87
         },
         "crypto_major": {
           "count": 8,
-          "avg_return_pct": 0.1314,
-          "median_return_pct": -0.0449,
+          "avg_return_pct": 0.1443,
+          "median_return_pct": -0.02,
           "up_pct": 37.5
         },
         "equity": {
           "count": 120,
-          "avg_return_pct": -4.608,
-          "median_return_pct": -3.5245,
-          "up_pct": 9.17
+          "avg_return_pct": -4.5087,
+          "median_return_pct": -3.4527,
+          "up_pct": 10.83
         },
         "fx": {
           "count": 6,
-          "avg_return_pct": -0.0598,
-          "median_return_pct": -0.0173,
+          "avg_return_pct": -0.0621,
+          "median_return_pct": -0.013,
           "up_pct": 16.67
         },
         "index": {
           "count": 25,
-          "avg_return_pct": -0.7104,
+          "avg_return_pct": -0.6938,
           "median_return_pct": 0.0,
           "up_pct": 0.0
         },
         "metal": {
           "count": 20,
-          "avg_return_pct": -0.7815,
+          "avg_return_pct": -0.8211,
           "median_return_pct": 0.0,
           "up_pct": 0.0
         },
         "unknown": {
-          "count": 754,
-          "avg_return_pct": -0.2345,
+          "count": 755,
+          "avg_return_pct": -0.2317,
           "median_return_pct": 0.0,
-          "up_pct": 5.17
+          "up_pct": 5.43
         }
       }
     },
@@ -1765,35 +1765,35 @@
         "signal": "risk_on_score",
         "target": "metal_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.1161,
+        "correlation": -0.1165,
         "strength": "weak_sample_signal"
       },
       {
         "signal": "flow_alert_score",
         "target": "index_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.1149,
+        "correlation": -0.1144,
         "strength": "weak_sample_signal"
       },
       {
         "signal": "flow_alert_score",
         "target": "metal_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.102,
-        "strength": "weak_sample_signal"
-      },
-      {
-        "signal": "flow_alert_score",
-        "target": "unknown_forward_1h_return_pct",
-        "sample_count": 668,
-        "correlation": -0.0925,
+        "correlation": -0.1029,
         "strength": "weak_sample_signal"
       },
       {
         "signal": "polymarket_volume_24h",
         "target": "metal_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.0917,
+        "correlation": -0.0928,
+        "strength": "weak_sample_signal"
+      },
+      {
+        "signal": "flow_alert_score",
+        "target": "unknown_forward_1h_return_pct",
+        "sample_count": 668,
+        "correlation": -0.0918,
         "strength": "weak_sample_signal"
       },
       {
@@ -1807,28 +1807,28 @@
         "signal": "flow_alert_score",
         "target": "equity_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.0869,
+        "correlation": -0.0864,
         "strength": "weak_sample_signal"
       },
       {
         "signal": "news_risk_score",
         "target": "crypto_major_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.0807,
+        "correlation": -0.0806,
         "strength": "weak_sample_signal"
       },
       {
         "signal": "flow_alert_score",
         "target": "crypto_alt_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.079,
+        "correlation": -0.0782,
         "strength": "weak_sample_signal"
       },
       {
         "signal": "polymarket_volume_24h",
         "target": "unknown_forward_1h_return_pct",
         "sample_count": 668,
-        "correlation": -0.0724,
+        "correlation": -0.0722,
         "strength": "weak_sample_signal"
       }
     ]
@@ -1846,5 +1846,5 @@
     "read_relationship_scan_when": "Selecting public, mechanically discovered A/B -> future-return candidates for private AI hypothesis review and strategy validation.",
     "read_sector_reactions_when": "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, or 252d after public event conditions."
   },
-  "available_at": "2026-08-18T22:08:26.522066+00:00"
+  "available_at": "2026-08-18T22:23:27.622535+00:00"
 }
