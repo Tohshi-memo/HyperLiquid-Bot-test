@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-18T15:35:31.670990+00:00`
-- Flow alert score: `23.04`
+- Generated: `2026-08-18T15:40:33.590379+00:00`
+- Flow alert score: `22.88`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12750224.18`
-- Polymarket volume z-score: `1.51`
+- Polymarket 24h volume: `12669493.09`
+- Polymarket volume z-score: `1.47`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `891055.496` | liquidity: `30362.07776`
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `826126.7348699999` | liquidity: `171328.89314`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `631602.4631200003` | liquidity: `527731.369`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `526750.1395110027` | liquidity: `942230.97981`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `494884.8900460002` | liquidity: `645537.77247`
-- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `474145.23293799994` | liquidity: `772668.78733`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `440603.2371880007` | liquidity: `476248.74551`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `366569.3802530001` | liquidity: `465982.1358`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `891055.496` | liquidity: `28968.28933`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `829538.7942349999` | liquidity: `416734.51191`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `631802.4631200003` | liquidity: `582938.6886`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `523297.4295110029` | liquidity: `941845.20497`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `495762.0193800002` | liquidity: `624432.02115`
+- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `474145.23293799994` | liquidity: `770197.59919`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `440033.3371880007` | liquidity: `487295.93551`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `366038.7255180002` | liquidity: `470994.8311`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
