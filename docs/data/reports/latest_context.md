@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T12:16:05.236482+00:00`
-- Market context score: `42.18`
-- News risk score: `50.37`
-- Macro risk score: `28.37`
-- Risk-on score: `24.76`
-- Articles: `70`
+- Generated: `2026-08-18T12:22:27.376327+00:00`
+- Market context score: `45.55`
+- News risk score: `48.89`
+- Macro risk score: `27.51`
+- Risk-on score: `30.68`
+- Articles: `72`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -22,18 +22,18 @@
 
 ## News Categories
 
-- crypto: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
-- macro: articles `51`, risk hits `14`, risk headline rate `0.2549`, policy hits `3`
+- crypto: articles `21`, risk hits `9`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `51`, risk hits `14`, risk headline rate `0.2353`, policy hits `5`
 
 ## Headlines
 
+- [crypto] Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster (BBC News)
-- [macro] ‘Indefensible and ugly’: $20 burritos have Tucker Carlson, JD Vance, Ben Shapiro fighting over America’s inflation woes (Yahoo Finance)
-- [macro] A Doximity Director Moved 7,500 Shares the Day the Stock Popped 33%. Here's What to Know (Yahoo Finance)
-- [macro] Russia says its economy is strong. It just fired a top economist who warned otherwise (Economy)
-- [macro] Is the Vanguard Morningstar Total Stock Market ETF Still the Best Long-Term Core Holding for Most Investors? (Yahoo Finance)
-- [macro] Cellebrite’s (CLBT) Compounding Track Record Demands Enterprise Software Re-Rating (Yahoo Finance)
-- [macro] 3 End-of-Summer Financial Moves That Could Lower Your Tax Bill in 2026 (Yahoo Finance)
-- [macro] Verizon’s Dividend Looks Secure But Investors Should Keep an Eye on Growth (Yahoo Finance)
-- [macro] JPMorgan chief cautions UK chancellor against tougher bank taxes – report (Yahoo Finance)
-- [macro] Paramount seeks $1.88 billion bond in Warner Bros. merger antitrust case (Yahoo Finance)
+- [macro] Financial Firepower Signals Confidence in Copart’s (CPRT) New CEO (Yahoo Finance)
+- [macro] Upstart CEO Outlines AI Lending Growth Push, Targets Profitable Home and Auto Expansion (Yahoo Finance)
+- [macro] Brand Legacy Positions KKR (KKR) for Lasting Advantage (Yahoo Finance)
+- [macro] 11 S&P 500 Stocks Soar To Record Highs In The Blink Of An Eye (Yahoo Finance)
+- [macro] Private-Credit Default Rates Could Be Downplaying Risk, Pitchbook Says (Yahoo Finance)
+- [macro] If You Invested $2,000 in Bloom Energy at Its 52-Week Low Here's How Much You'd Have Now (Yahoo Finance)
+- [macro] Earnings live updates: Klarna stock plunges on trimmed guidance, Home Depot gains (Yahoo Finance)
