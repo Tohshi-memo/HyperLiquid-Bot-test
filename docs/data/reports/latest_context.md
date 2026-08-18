@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T14:07:37.269233+00:00`
-- Market context score: `45.61`
-- News risk score: `47.3`
-- Macro risk score: `28.96`
-- Risk-on score: `30.03`
-- Articles: `78`
+- Generated: `2026-08-18T14:22:41.918820+00:00`
+- Market context score: `46.27`
+- News risk score: `45.47`
+- Macro risk score: `25.41`
+- Risk-on score: `28.59`
+- Articles: `76`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9362`
-- Day/swing latest: `2026-08-18T14:00:00+00:00`
+- Day/swing records: `9363`
+- Day/swing latest: `2026-08-18T14:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `0`
-- macro: articles `53`, risk hits `18`, risk headline rate `0.2453`, policy hits `9`
+- macro: articles `51`, risk hits `14`, risk headline rate `0.1961`, policy hits `7`
 
 ## Headlines
 
-- [macro] Diageo complies with India regulator following rebuke over flavouring (Yahoo Finance)
+- [macro] VNET Group Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Amer Sports Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Hesai Group Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Eltek Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions (Yahoo Finance)
+- [macro] XRP Falls Below $1 For First Time Since 2024 (Yahoo Finance)
+- [macro] Could Planet Fitness (PLNT) Rebound Despite Slower Member Growth? (Yahoo Finance)
 - [macro] Global bond sell-off pressures stocks: AlphaCheck (Yahoo Finance)
 - [macro] Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom? (Yahoo Finance)
-- [macro] Tech Stocks Slide as Global Bond Rout Deepens (Yahoo Finance)
-- [macro] Oil Extends Gains As Hormuz Solution Appears Distant (Yahoo Finance)
-- [macro] Marvell Technology Drops 6% as Rising Treasury Yields Swamp a Bullish UBS AI Note (Yahoo Finance)
 - [crypto] Toyota Finance opens tokenized bonds to retail investors via mobile payment app (Cointelegraph.com News)
-- [macro] Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage) (Yahoo Finance)
-- [macro] New Prediction Market Novig Sees $125 Million In Trading Volumes (Yahoo Finance)
-- [macro] Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes (Yahoo Finance)
