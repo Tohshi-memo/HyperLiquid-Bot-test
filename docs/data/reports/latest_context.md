@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T07:52:26.807642+00:00`
-- Market context score: `45.05`
-- News risk score: `43.69`
-- Macro risk score: `22.31`
-- Risk-on score: `23.21`
+- Generated: `2026-08-18T08:06:55.525831+00:00`
+- Market context score: `43.44`
+- News risk score: `45.27`
+- Macro risk score: `25.46`
+- Risk-on score: `22.15`
 - Articles: `30`
 - Polymarket markets: `391`
 
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9338`
-- Day/swing latest: `2026-08-18T07:45:00+00:00`
+- Day/swing records: `9339`
+- Day/swing latest: `2026-08-18T08:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `11`, risk hits `6`, risk headline rate `0.4545`, policy hits `0`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `1`
+- macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `1`
 
 ## Headlines
 
+- [macro] 'I'm in Barbados': The dos and don'ts of writing an out-of-office reply (BBC News)
+- [macro] Zambia's president wins second term with 60% of the vote (BBC News)
 - [macro] Job vacancies at five-year low as smaller firms scale back recruitment (BBC News)
 - [macro] China censors public mourning as it holds former premier's funeral (BBC News)
 - [macro] Doctors remove 3.1kg stone from man's bladder and claim record (BBC News)
@@ -35,5 +37,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] The bitcoin price level where leveraged bulls could get whacked (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says (BBC News)
-- [crypto] Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
