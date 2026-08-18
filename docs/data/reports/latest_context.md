@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T16:37:31.289915+00:00`
-- Market context score: `47.22`
-- News risk score: `48.66`
-- Macro risk score: `30.91`
-- Risk-on score: `35.47`
-- Articles: `86`
+- Generated: `2026-08-18T16:52:55.414707+00:00`
+- Market context score: `45.32`
+- News risk score: `48.69`
+- Macro risk score: `31.03`
+- Risk-on score: `31.33`
+- Articles: `88`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9372`
-- Day/swing latest: `2026-08-18T16:30:00+00:00`
+- Day/swing records: `9373`
+- Day/swing latest: `2026-08-18T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `31`, risk hits `10`, risk headline rate `0.2903`, policy hits `3`
-- macro: articles `54`, risk hits `20`, risk headline rate `0.2778`, policy hits `3`
+- macro: articles `56`, risk hits `20`, risk headline rate `0.2857`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Ship attack in Hormuz results in one casualty while Trump says strait is 'open and operating' (Energy)
+- [macro] Tech Stocks Pull Nasdaq Composite Down (Yahoo Finance)
+- [macro] Ecopetrol Completes $1.2 Billion Brazilian Oil Deal (Yahoo Finance)
+- [macro] How to Know If You Have Enough to Retire in 2028 -- a Simple Framework (Yahoo Finance)
+- [macro] Iconic seafood chain brings back controversial deal amid closures (Yahoo Finance)
+- [macro] British data group Quantexa explores UK or US IPO, sources say (Yahoo Finance)
+- [macro] Netflix Climbs 4% on Ackman’s Return, Still Down 16% in 2026 (Yahoo Finance)
+- [macro] Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK (BBC News)
+- [macro] What Crypto Market Slowdown? This Sector of the Crypto Market Has Tripled In Value Since 2025. (Yahoo Finance)
 - [macro] Disney and ABC sue Trump's media regulator to stop early licence renewal (BBC News)
-- [crypto] Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play (Cointelegraph.com News)
-- [macro] Ackman just walked away from Google (Yahoo Finance)
-- [macro] Gan Jia Yue named Geely CEO, founder Li Shu Fu resigns (Yahoo Finance)
-- [macro] India’s Minda to invest Rs2.70bn for automotive TFT displays – report (Yahoo Finance)
-- [macro] VGIT vs. IGIB: Which Bond ETF Offers the Better Buy for Income Investors? (Yahoo Finance)
-- [macro] Global borrowing costs hit fresh highs (BBC News)
-- [macro] This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI (Yahoo Finance)
-- [crypto] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ray Dalio Just Compared the AI Boom to 1929 and 2000 — And He’s Got the Numbers to Back It Up (Yahoo Finance)
