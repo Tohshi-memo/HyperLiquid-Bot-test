@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T19:36:15.036163+00:00`
-- Market context score: `43.58`
-- News risk score: `45.3`
-- Macro risk score: `32.52`
-- Risk-on score: `25.16`
+- Generated: `2026-08-18T19:52:39.241908+00:00`
+- Market context score: `43.26`
+- News risk score: `45.58`
+- Macro risk score: `33.75`
+- Risk-on score: `25.15`
 - Articles: `57`
 - Polymarket markets: `390`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9384`
-- Day/swing latest: `2026-08-18T19:30:00+00:00`
+- Day/swing records: `9385`
+- Day/swing latest: `2026-08-18T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `32`, risk hits `10`, risk headline rate `0.2812`, policy hits `4`
-- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `0`
+- crypto: articles `33`, risk hits `10`, risk headline rate `0.2727`, policy hits `5`
+- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate (Cointelegraph.com News)
 - [macro] US announces new sanctions on top ICC figures (BBC News)
 - [crypto] U.S. SEC proposes first major crypto rule in surprise announcement (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Wyoming joins $15 billion LayerZero exodus with state stablecoin move (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Kraken’s Krak debuts US debit card as Payward broadens financial services push (Cointelegraph.com News)
 - [macro] Earthquake rocks Spain's historic Granada, injuring three (BBC News)
 - [macro] Costco launching Medicare Advantage plans with SCAN Group (Yahoo Finance)
-- [macro] Zambia's Hichilema re-elected president as main rival in hiding over alleged threats (BBC News)
