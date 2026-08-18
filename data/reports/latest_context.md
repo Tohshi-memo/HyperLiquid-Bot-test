@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T10:22:26.722858+00:00`
-- Market context score: `41.01`
-- News risk score: `50.61`
-- Macro risk score: `29.74`
-- Risk-on score: `22.89`
-- Articles: `62`
+- Generated: `2026-08-18T10:37:31.673500+00:00`
+- Market context score: `39.48`
+- News risk score: `51.13`
+- Macro risk score: `29.87`
+- Risk-on score: `19.97`
+- Articles: `64`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9347`
-- Day/swing latest: `2026-08-18T10:15:00+00:00`
+- Day/swing records: `9348`
+- Day/swing latest: `2026-08-18T10:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `15`, risk hits `7`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `47`, risk hits `14`, risk headline rate `0.2553`, policy hits `8`
+- macro: articles `49`, risk hits `15`, risk headline rate `0.2653`, policy hits `7`
 
 ## Headlines
 
+- [macro] Beyond marathons and backflips, China's robots face a commercial test (Yahoo Finance)
+- [macro] Reddit Stock Falls Ahead of Joining the S&P 500 (Yahoo Finance)
 - [macro] Russia says its economy is strong. It just fired a top economist who warned otherwise (Economy)
+- [macro] There’s a hidden Roth conversion window that shuts completely in 2028 — most US retirees don’t know it exists. Act now (Yahoo Finance)
+- [macro] Home Depot Posts Higher Sales, Backs Outlook (Yahoo Finance)
+- [macro] He Withdrew $70,000 From His 401(k) and Earned $10,000 Welding. Social Security Counted Only the Smaller Number. (Yahoo Finance)
+- [macro] Why states fought to present a united case against Meta over youth social media harms (Yahoo Finance)
+- [macro] Foresight Solar Fund, Seraphim Space, Georgina Energy, Great Western Mining, Sabien Technology (Yahoo Finance)
+- [macro] Analysis-Canada's pipeline ambitions hinge on uncertain output expansion (Yahoo Finance)
 - [macro] Should You Forget Big Banks and Bet on a Fintech Instead? (Yahoo Finance)
-- [macro] Should You Worry That Another Brinker Executive Sold? Here's What Investors Should Know (Yahoo Finance)
-- [macro] EU packaging rules aim for consistency, but leave small sellers facing complexity (Yahoo Finance)
-- [crypto] Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Best CD rates today, Tuesday, August 18, 2026: Lock in up to 4.15% APY today on a 14-month CD (Yahoo Finance)
-- [macro] Mortgage and refinance rates today, Tuesday, August 18, 2026: Generally higher, yet the 30-year holds (Yahoo Finance)
-- [macro] The bond market is daring the Fed to hike: Chart of the Day (Yahoo Finance)
-- [macro] Gilead Sciences Has Quietly Become One of the Most Underrated Turnaround Stories in Healthcare. Here's Why Wall Street Is Excited. (Yahoo Finance)
-- [macro] A Brinker Director Sold Near the Stock's Peak. Here's What to Know (Yahoo Finance)
