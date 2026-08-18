@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T12:22:27.376327+00:00`
-- Market context score: `45.55`
-- News risk score: `48.89`
-- Macro risk score: `27.51`
-- Risk-on score: `30.68`
-- Articles: `72`
+- Generated: `2026-08-18T12:37:30.531148+00:00`
+- Market context score: `46.49`
+- News risk score: `48.74`
+- Macro risk score: `27.22`
+- Risk-on score: `32.53`
+- Articles: `73`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9355`
-- Day/swing latest: `2026-08-18T12:15:00+00:00`
+- Day/swing records: `9356`
+- Day/swing latest: `2026-08-18T12:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `21`, risk hits `9`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `51`, risk hits `14`, risk headline rate `0.2353`, policy hits `5`
+- macro: articles `52`, risk hits `15`, risk headline rate `0.2308`, policy hits `4`
 
 ## Headlines
 
+- [macro] UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning (BBC News)
+- [macro] Carney's final chance to convince Trump as US-Canada trade deadline looms (BBC News)
+- [macro] Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show (Yahoo Finance)
+- [macro] Dutch seafood group Zalmhuys buys importer BML (Yahoo Finance)
+- [macro] State Farm sends $5 billion dividend to auto policyholders (Yahoo Finance)
 - [crypto] Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Maplebear Chief Accounting Officer Sells 6,103 Shares for Tax Withholding (Yahoo Finance)
+- [macro] Micron Vs. SK Hynix: The Newcomer is a Legitimate Threat (Yahoo Finance)
 - [crypto] Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster (BBC News)
-- [macro] Financial Firepower Signals Confidence in Copart’s (CPRT) New CEO (Yahoo Finance)
-- [macro] Upstart CEO Outlines AI Lending Growth Push, Targets Profitable Home and Auto Expansion (Yahoo Finance)
-- [macro] Brand Legacy Positions KKR (KKR) for Lasting Advantage (Yahoo Finance)
-- [macro] 11 S&P 500 Stocks Soar To Record Highs In The Blink Of An Eye (Yahoo Finance)
-- [macro] Private-Credit Default Rates Could Be Downplaying Risk, Pitchbook Says (Yahoo Finance)
-- [macro] If You Invested $2,000 in Bloom Energy at Its 52-Week Low Here's How Much You'd Have Now (Yahoo Finance)
-- [macro] Earnings live updates: Klarna stock plunges on trimmed guidance, Home Depot gains (Yahoo Finance)
+- [macro] Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO) (Yahoo Finance)
