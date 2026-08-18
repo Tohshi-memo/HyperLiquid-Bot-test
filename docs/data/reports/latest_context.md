@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T03:22:27.546658+00:00`
+- Generated: `2026-08-18T03:37:28.249615+00:00`
 - Market context score: `55.83`
 - News risk score: `45.34`
 - Macro risk score: `33.45`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9320`
-- Day/swing latest: `2026-08-18T03:15:00+00:00`
+- Day/swing records: `9321`
+- Day/swing latest: `2026-08-18T03:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation (Cointelegraph.com News)
 - [macro] Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says (BBC News)
 - [crypto] ‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express (Cointelegraph.com News)
 - [macro] Russia warns UK over supplying drones to Ukraine (BBC News)
@@ -37,4 +38,3 @@
 - [macro] To joke or not to joke?: How to write a good out-of-office message (BBC News)
 - [crypto] Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Norway's king admitted to hospital and put on sick leave (BBC News)
-- [crypto] OCC approves Trump family crypto company for trust charter (Cointelegraph.com News)
