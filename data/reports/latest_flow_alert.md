@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-18T07:20:29.503311+00:00`
+- Generated: `2026-08-18T07:27:34.595498+00:00`
 - Flow alert score: `23.32`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `655235.494351` | liquidity: `371696.12768`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `620666.3973700001` | liquidity: `798344.2519`
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `613374.0005700003` | liquidity: `192790.84088`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `554185.949333` | liquidity: `26715.66393`
-- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `548313.622938` | liquidity: `767668.68003`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `523683.957` | liquidity: `29215.15035`
-- US-Iran 60 day negotiation period extended? | 24h volume: `499920.67785299977` | liquidity: `88512.67725`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `448733.56809600076` | liquidity: `941979.28478`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `655235.494351` | liquidity: `372118.45368`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `620666.3973700001` | liquidity: `796833.3204`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `613374.0005700003` | liquidity: `194538.68214`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `554185.949333` | liquidity: `24219.19765`
+- Will Wes Moore win the 2028 Democratic presidential nomination? | 24h volume: `548313.622938` | liquidity: `767133.66916`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `523683.957` | liquidity: `29151.81516`
+- US-Iran 60 day negotiation period extended? | 24h volume: `499920.67785299977` | liquidity: `87022.53178`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `448733.56809600076` | liquidity: `941301.45425`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
