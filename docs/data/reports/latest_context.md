@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T02:07:25.372766+00:00`
-- Market context score: `43.59`
-- News risk score: `50.12`
-- Macro risk score: `34.07`
-- Risk-on score: `29.84`
+- Generated: `2026-08-18T02:22:27.428704+00:00`
+- Market context score: `54.45`
+- News risk score: `47.62`
+- Macro risk score: `33.12`
+- Risk-on score: `51.5`
 - Articles: `32`
 - Polymarket markets: `390`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9315`
-- Day/swing latest: `2026-08-18T02:00:00+00:00`
+- Day/swing records: `9316`
+- Day/swing latest: `2026-08-18T02:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `13`, risk hits `9`, risk headline rate `0.4615`, policy hits `3`
-- macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `12`, risk hits `7`, risk headline rate `0.4167`, policy hits `3`
+- macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
 
 ## Headlines
 
+- [macro] Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says (BBC News)
 - [crypto] ‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express (Cointelegraph.com News)
 - [macro] Russia warns UK over supplying drones to Ukraine (BBC News)
 - [macro] US-Canada trade talks 'intense' as new tariff deadline looms (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Norway's king admitted to hospital and put on sick leave (BBC News)
 - [crypto] OCC approves Trump family crypto company for trust charter (Cointelegraph.com News)
-- [macro] Fifa official sacked after Infantino plan criticism (BBC News)
