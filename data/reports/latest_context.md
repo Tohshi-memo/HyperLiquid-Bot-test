@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T11:46:12.434982+00:00`
-- Market context score: `44.08`
-- News risk score: `47.75`
-- Macro risk score: `25.95`
-- Risk-on score: `25.86`
-- Articles: `64`
+- Generated: `2026-08-18T11:52:29.653353+00:00`
+- Market context score: `43.62`
+- News risk score: `48.8`
+- Macro risk score: `26.08`
+- Risk-on score: `25.77`
+- Articles: `68`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -23,17 +23,17 @@
 ## News Categories
 
 - crypto: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
-- macro: articles `45`, risk hits `10`, risk headline rate `0.2`, policy hits `7`
+- macro: articles `49`, risk hits `11`, risk headline rate `0.2041`, policy hits `7`
 
 ## Headlines
 
+- [macro] Russia says its economy is strong. It just fired a top economist who warned otherwise (Economy)
 - [macro] UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning (BBC News)
+- [macro] Barclays names Mike Joo and Adeel Khan investment bank co-CEOs (Yahoo Finance)
+- [macro] Dauch Corporation’s (DCH) Costly Path To A Bigger Payoff (Yahoo Finance)
+- [macro] Coca-Cola Is Flying High in 2026: Is its Dividend Still Worth Buying? (Yahoo Finance)
 - [macro] Next Jeep Cherokee to debut Stellantis STLA One platform in US (Yahoo Finance)
+- [macro] Chubb and Travelers: Comparing Dividend Growth in the Insurance Sector (Yahoo Finance)
 - [macro] Home Depot Q2 earnings beat Wall Street's forecast as customers stick to small projects (Yahoo Finance)
-- [macro] S&P 500 futures fall as U.S.-Iran truce expires, yields spike (Yahoo Finance)
-- [macro] Claiming Social Security and Still Working? Above $24,480, the Earnings Limit Takes Back $1 of Every $2 (Yahoo Finance)
-- [macro] History Says Nvidia Is Going to Disappoint Wall Street After Aug. 26 (Yahoo Finance)
-- [crypto] The 'crack' in the energy market is wider than ever. Bitcoin might feel it. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Fiber Growth Collides With Legacy Revenue Pressure At Telephone & Data Systems (TDS) (Yahoo Finance)
-- [macro] On Holding Executive Olivier Buys 65,000 Shares for $2.0 Million (Yahoo Finance)
-- [macro] Peter Schiff says homes are 'a money pit’ which ‘depletes' your wealth. Is it still ‘crazy’ to invest in real estate? (Yahoo Finance)
+- [macro] Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors? (Yahoo Finance)
+- [macro] American States Water Company (AWR): This Quiet Dividend King Keeps Raising the Bar (Yahoo Finance)
