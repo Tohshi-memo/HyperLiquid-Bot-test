@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T15:22:27.892432+00:00`
-- Market context score: `48.57`
-- News risk score: `48.18`
-- Macro risk score: `31.16`
-- Risk-on score: `38.18`
+- Generated: `2026-08-18T15:37:33.495662+00:00`
+- Market context score: `48.45`
+- News risk score: `48.94`
+- Macro risk score: `32.62`
+- Risk-on score: `39.1`
 - Articles: `81`
 - Polymarket markets: `390`
 
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9367`
-- Day/swing latest: `2026-08-18T15:15:00+00:00`
+- Day/swing records: `9368`
+- Day/swing latest: `2026-08-18T15:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `1`
-- macro: articles `52`, risk hits `19`, risk headline rate `0.2885`, policy hits `6`
+- macro: articles `52`, risk hits `20`, risk headline rate `0.3077`, policy hits `7`
 
 ## Headlines
 
-- [crypto] Trump-linked World Liberty says WorldClaw is independent after questions over AI model access (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Home Depot Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Prenetics Global Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Bank-offered SME insurance sees low take up as HSBC UK teams with Gallagher (Yahoo Finance)
-- [macro] Cardinal (CDNL) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Wetherspoons bans customers playing music from phones in pubs (BBC News)
+- [macro] Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal (Yahoo Finance)
+- [macro] Seller concession limits: How much can you ask for? (Yahoo Finance)
+- [macro] This Politician on the House Intelligence Committee’s Cyber Panel Just Bought Three Cybersecurity Stocks (Yahoo Finance)
+- [macro] Nvidia Stock Drops In Broad Market Slide With Earnings In Sight. Is Nvidia A Buy Or Sell Now? (Yahoo Finance)
+- [macro] Vestis (VSTS) Q3 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Billionaire Joel Greenblatt’s 5 Biggest Moves This Quarter Reveal a Surprising Defensive Shift (Yahoo Finance)
+- [crypto] Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring (Yahoo Finance)
 - [macro] Why Bank Of America Is Bullish On Cybersecurity Stocks (Yahoo Finance)
-- [macro] 10-Year Treasury Yield Near Breakout; What You Need To Know (Yahoo Finance)
-- [crypto] Bitcoin miners’ AI pivot pays off, but mining could revive with one twist (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Global bond yields surge as debt fears test bitcoin’s hedge narrative (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
