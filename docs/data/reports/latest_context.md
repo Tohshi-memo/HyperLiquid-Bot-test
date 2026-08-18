@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T11:52:29.653353+00:00`
-- Market context score: `43.62`
-- News risk score: `48.8`
-- Macro risk score: `26.08`
-- Risk-on score: `25.77`
-- Articles: `68`
-- Polymarket markets: `389`
+- Generated: `2026-08-18T12:07:28.957775+00:00`
+- Market context score: `42.11`
+- News risk score: `50.28`
+- Macro risk score: `28.69`
+- Risk-on score: `24.66`
+- Articles: `69`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9353`
-- Day/swing latest: `2026-08-18T11:45:00+00:00`
+- Day/swing records: `9354`
+- Day/swing latest: `2026-08-18T12:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
-- macro: articles `49`, risk hits `11`, risk headline rate `0.2041`, policy hits `7`
+- macro: articles `50`, risk hits `14`, risk headline rate `0.26`, policy hits `3`
 
 ## Headlines
 
+- [macro] ‘Indefensible and ugly’: $20 burritos have Tucker Carlson, JD Vance, Ben Shapiro fighting over America’s inflation woes (Yahoo Finance)
+- [macro] A Doximity Director Moved 7,500 Shares the Day the Stock Popped 33%. Here's What to Know (Yahoo Finance)
 - [macro] Russia says its economy is strong. It just fired a top economist who warned otherwise (Economy)
-- [macro] UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning (BBC News)
-- [macro] Barclays names Mike Joo and Adeel Khan investment bank co-CEOs (Yahoo Finance)
-- [macro] Dauch Corporation’s (DCH) Costly Path To A Bigger Payoff (Yahoo Finance)
-- [macro] Coca-Cola Is Flying High in 2026: Is its Dividend Still Worth Buying? (Yahoo Finance)
-- [macro] Next Jeep Cherokee to debut Stellantis STLA One platform in US (Yahoo Finance)
-- [macro] Chubb and Travelers: Comparing Dividend Growth in the Insurance Sector (Yahoo Finance)
-- [macro] Home Depot Q2 earnings beat Wall Street's forecast as customers stick to small projects (Yahoo Finance)
-- [macro] Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors? (Yahoo Finance)
-- [macro] American States Water Company (AWR): This Quiet Dividend King Keeps Raising the Bar (Yahoo Finance)
+- [macro] Is the Vanguard Morningstar Total Stock Market ETF Still the Best Long-Term Core Holding for Most Investors? (Yahoo Finance)
+- [macro] Cellebrite’s (CLBT) Compounding Track Record Demands Enterprise Software Re-Rating (Yahoo Finance)
+- [macro] 3 End-of-Summer Financial Moves That Could Lower Your Tax Bill in 2026 (Yahoo Finance)
+- [macro] Verizon’s Dividend Looks Secure But Investors Should Keep an Eye on Growth (Yahoo Finance)
+- [macro] JPMorgan chief cautions UK chancellor against tougher bank taxes – report (Yahoo Finance)
+- [macro] Paramount seeks $1.88 billion bond in Warner Bros. merger antitrust case (Yahoo Finance)
+- [macro] Why Colgate-Palmolive Remains an Overlooked Dividend King (Yahoo Finance)
