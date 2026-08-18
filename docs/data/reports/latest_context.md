@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T13:37:26.784467+00:00`
-- Market context score: `46.52`
-- News risk score: `45.88`
-- Macro risk score: `25.18`
-- Risk-on score: `29.4`
+- Generated: `2026-08-18T13:52:32.466277+00:00`
+- Market context score: `45.35`
+- News risk score: `47.61`
+- Macro risk score: `28.64`
+- Risk-on score: `29.58`
 - Articles: `76`
 - Polymarket markets: `390`
 
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9360`
-- Day/swing latest: `2026-08-18T13:30:00+00:00`
+- Day/swing records: `9361`
+- Day/swing latest: `2026-08-18T13:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `24`, risk hits `9`, risk headline rate `0.2917`, policy hits `0`
-- macro: articles `52`, risk hits `13`, risk headline rate `0.1923`, policy hits `5`
+- macro: articles `52`, risk hits `17`, risk headline rate `0.25`, policy hits `5`
 
 ## Headlines
 
-- [macro] Abercrombie & Fitch COO Scott Lipesky Sells 10,000 Shares for $1 Million (Yahoo Finance)
+- [macro] MM to acquire RDM Arnsberg carton board mill in Germany (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage) (Yahoo Finance)
+- [macro] Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes (Yahoo Finance)
+- [macro] Target Is Up 56% and Reports Earnings Aug. 19. This Is the Only Reason I'd Need to Buy. (Yahoo Finance)
+- [macro] Comcast expands Xfinity security offerings to deepen broadband customer ties (Yahoo Finance)
+- [macro] Berkshire’s Biggest Second-Quarter Move Was This Stock. Should You Buy, Sell or Hold? (Yahoo Finance)
+- [macro] Cognex Corp’s (CGNX) Elevated Growth Supported by Cost Discipline and Sales Strength (Yahoo Finance)
+- [macro] Top Foreign Policy Analyst Warns China’s 20% Savings Rate Is Fueling “China Shock 2.0” (Yahoo Finance)
 - [crypto] Citi plans to launch bitcoin custody for institutional clients later this year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] New Investors: 3 Rock-Solid Dividend Stocks to Build Your Portfolio Around (Yahoo Finance)
 - [crypto] Crypto’s easy-money era is ending in a wave of failures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stock Market Sell-Off: History Says This Is the Smartest Investing Move to Make Right Now (Yahoo Finance)
-- [macro] Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration (Yahoo Finance)
-- [macro] Atmus Filtration (ATMU) Posts Record Q2 Sales, Lifts Full-Year Top-Line Guidance (Yahoo Finance)
-- [macro] Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage) (Yahoo Finance)
-- [macro] Wall Street clearly loves Google stock, 13F filings reveal (Yahoo Finance)
-- [macro] Meta Platforms’ (META) Strong Growth Backdrop Highlights Valuation Disconnect (Yahoo Finance)
