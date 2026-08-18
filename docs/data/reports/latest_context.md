@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T20:22:26.975956+00:00`
+- Generated: `2026-08-18T20:36:18.409790+00:00`
 - Market context score: `48.03`
 - News risk score: `45.68`
 - Macro risk score: `32.62`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9387`
-- Day/swing latest: `2026-08-18T20:15:00+00:00`
+- Day/swing records: `9388`
+- Day/swing latest: `2026-08-18T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,9 @@
 
 ## Headlines
 
-- [macro] US announces new sanctions on top ICC figures (BBC News)
 - [macro] Man in Chucky-style mask terrorises Philadelphia residents (BBC News)
+- [macro] US announces new sanctions on top ICC figures (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto (Cointelegraph.com News)
 - [macro] Judge swapped in Trump's defamation case against BBC (BBC News)
 - [crypto] Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Wyoming joins $15 billion LayerZero exodus with state stablecoin move (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' (Energy)
 - [macro] Global borrowing costs hit fresh highs on oil, AI and inflation (BBC News)
-- [macro] Lindsay Clancy begged for help before her children's killings, mother-in-law testifies (BBC News)
