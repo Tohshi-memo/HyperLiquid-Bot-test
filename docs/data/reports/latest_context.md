@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T09:37:30.476213+00:00`
-- Market context score: `40.77`
-- News risk score: `50.32`
-- Macro risk score: `25.95`
-- Risk-on score: `20.68`
-- Articles: `51`
+- Generated: `2026-08-18T09:52:37.281757+00:00`
+- Market context score: `40.58`
+- News risk score: `49.98`
+- Macro risk score: `26.77`
+- Risk-on score: `20.27`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9344`
-- Day/swing latest: `2026-08-18T09:30:00+00:00`
+- Day/swing records: `9345`
+- Day/swing latest: `2026-08-18T09:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `9`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `37`, risk hits `10`, risk headline rate `0.2162`, policy hits `2`
+- crypto: articles `15`, risk hits `9`, risk headline rate `0.4667`, policy hits `0`
+- macro: articles `39`, risk hits `11`, risk headline rate `0.2308`, policy hits `2`
 
 ## Headlines
 
-- [macro] Russia warns UK will pay for supplying drones to Ukraine (BBC News)
-- [macro] US AI infrastructure company Groq raises $350m Series A at $3.5bn valuation (Yahoo Finance)
-- [macro] WhiteWater and partners approve FID for Solitude Pipeline System (Yahoo Finance)
-- [macro] Social Security now poised for big ‘Trump Bump’ in the months ahead — here’s how much extra cash you’ll likely get (Yahoo Finance)
-- [macro] He Put $300,000 Into Real Assets at 64. One Ownership Choice Made Social Security Treat Him as Still Working. (Yahoo Finance)
-- [macro] Dimension Energy raises $857m for US distributed solar portfolio (Yahoo Finance)
-- [macro] Billionaire Izzy Englander Bought SpaceX Before the Lockup Expiration. Does He Know Something Most Investors Don't? (Yahoo Finance)
+- [macro] Wetherspoons bans customers playing music from phones in pubs (BBC News)
 - [macro] Ferguson shipyard to cut a quarter of its workforce (BBC News)
-- [macro] US states call for big changes to Instagram and Facebook as Meta child privacy trial begins (BBC News)
-- [macro] Job vacancies at five-year low as smaller firms scale back recruitment (BBC News)
+- [macro] SIG names Ann-Kristin Erkens new CEO in swift leadership shift (Yahoo Finance)
+- [macro] Chili's Marketing Fueled a 71% Sales Run. Its CMO Cashed In Some Stock (Yahoo Finance)
+- [macro] KPMG and EY secure civil servants training contract in UK (Yahoo Finance)
+- [macro] Ed Yardeni Just Raised His 2026 Price Target on the S&P 500 to 8,400. 3 Ways The Market Can Get There. (Yahoo Finance)
+- [macro] Russia warns UK will pay for supplying drones to Ukraine (BBC News)
+- [crypto] Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis (Cointelegraph.com News)
+- [macro] Gap partners Iconic Brands Nordic for regional push (Yahoo Finance)
+- [macro] Wendy’s (WEN) New Leadership Confronts A Steep Turnaround (Yahoo Finance)
