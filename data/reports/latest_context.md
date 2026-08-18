@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-18T13:22:27.636398+00:00`
-- Market context score: `45.37`
-- News risk score: `48.4`
-- Macro risk score: `29.0`
-- Risk-on score: `30.42`
-- Articles: `75`
+- Generated: `2026-08-18T13:37:26.784467+00:00`
+- Market context score: `46.52`
+- News risk score: `45.88`
+- Macro risk score: `25.18`
+- Risk-on score: `29.4`
+- Articles: `76`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:114, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9359`
-- Day/swing latest: `2026-08-18T13:15:00+00:00`
+- Day/swing records: `9360`
+- Day/swing latest: `2026-08-18T13:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `23`, risk hits `9`, risk headline rate `0.3043`, policy hits `0`
-- macro: articles `52`, risk hits `17`, risk headline rate `0.25`, policy hits `6`
+- crypto: articles `24`, risk hits `9`, risk headline rate `0.2917`, policy hits `0`
+- macro: articles `52`, risk hits `13`, risk headline rate `0.1923`, policy hits `5`
 
 ## Headlines
 
-- [crypto] MoonPay adds Cash App Pay for crypto purchases by US customers (Cointelegraph.com News)
-- [crypto] Cash App's crypto support expands beyond bitcoin and USDC via MoonPay (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] London Company Income Equity Strategy Reduced TE Connectivity Ltd. (TEL) Holdings for Strategic Positioning (Yahoo Finance)
-- [macro] Ferguson shipyard to cut a quarter of its workforce (BBC News)
+- [macro] Abercrombie & Fitch COO Scott Lipesky Sells 10,000 Shares for $1 Million (Yahoo Finance)
+- [crypto] Citi plans to launch bitcoin custody for institutional clients later this year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] New Investors: 3 Rock-Solid Dividend Stocks to Build Your Portfolio Around (Yahoo Finance)
+- [crypto] Crypto’s easy-money era is ending in a wave of failures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Stock Market Sell-Off: History Says This Is the Smartest Investing Move to Make Right Now (Yahoo Finance)
+- [macro] Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration (Yahoo Finance)
+- [macro] Atmus Filtration (ATMU) Posts Record Q2 Sales, Lifts Full-Year Top-Line Guidance (Yahoo Finance)
 - [macro] Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage) (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Job vacancies at five-year low as smaller firms scale back recruitment (BBC News)
-- [macro] September Is Historically the Worst Month for Stocks and These 3 ETFs Pay Up to 9 Percent While You Wait It Out (Yahoo Finance)
-- [macro] Billionaire David Tepper Is Short Apple And Even Bet Against Buffett’s Berkshire Hathaway. What Does He See? (Yahoo Finance)
-- [macro] These Were the Biggest Changes in Berkshire Hathaway's Holdings for Q2 (Yahoo Finance)
+- [macro] Wall Street clearly loves Google stock, 13F filings reveal (Yahoo Finance)
+- [macro] Meta Platforms’ (META) Strong Growth Backdrop Highlights Valuation Disconnect (Yahoo Finance)
