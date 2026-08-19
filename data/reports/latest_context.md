@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T07:22:29.911058+00:00`
-- Market context score: `43.07`
-- News risk score: `42.66`
-- Macro risk score: `33.35`
-- Risk-on score: `22.1`
+- Generated: `2026-08-19T07:37:29.974104+00:00`
+- Market context score: `42.96`
+- News risk score: `43.01`
+- Macro risk score: `31.88`
+- Risk-on score: `21.6`
 - Articles: `37`
 - Polymarket markets: `389`
 
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `9430`
+- Day/swing latest: `2026-08-19T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `1`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `1`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `1`
 
 ## Headlines
 
@@ -35,6 +35,6 @@
 - [crypto] Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Korea shortens war games with US, citing Washington request (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MAYAChain halts network after estimated $1.7M exploit (Cointelegraph.com News)
-- [macro] Families' agonising search for answers as thousands still missing in Gaza (BBC News)
+- [macro] Thai teen found in suitcase died from suffocation, police reveal (BBC News)
