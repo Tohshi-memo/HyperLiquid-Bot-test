@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T09:52:26.657375+00:00`
-- Market context score: `45.36`
-- News risk score: `43.01`
-- Macro risk score: `31.88`
-- Risk-on score: `26.93`
-- Articles: `37`
+- Generated: `2026-08-19T10:07:31.681525+00:00`
+- Market context score: `47.8`
+- News risk score: `43.45`
+- Macro risk score: `32.39`
+- Risk-on score: `32.92`
+- Articles: `49`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9439`
-- Day/swing latest: `2026-08-19T09:45:00+00:00`
+- Day/swing records: `9440`
+- Day/swing latest: `2026-08-19T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `1`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `34`, risk hits `11`, risk headline rate `0.2941`, policy hits `5`
 
 ## Headlines
 
-- [macro] Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing' (BBC News)
-- [crypto] OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
-- [macro] Jump in energy bills drives UK inflation to highest rate for four months (BBC News)
-- [commodity] Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran (Energy)
-- [crypto] Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop (Cointelegraph.com News)
-- [macro] Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told (BBC News)
-- [crypto] Bitcoin ETFs add $189M as August net inflows approach $1B (Cointelegraph.com News)
-- [macro] Alleged sexual assault by local official and businessman sparks outrage in China (BBC News)
+- [crypto] TikTok code includes peer-to-peer payments over messaging: Bloomberg (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility (Yahoo Finance)
+- [macro] Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.15% APY (Yahoo Finance)
+- [crypto] Ripple raises $275 million in senior notes for prime brokerage push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Sprouts Farmers Market Director O'Leary Sells 2,597 Shares for $214,000 -- Should Investors Beware? (Yahoo Finance)
+- [macro] 88% of Nvidia's Portfolio Is Invested in These 3 Artificial Intelligence (AI) Stocks (Yahoo Finance)
+- [macro] An Insider at Hims & Hers Just Filed. Here's What It Says About Buying the Dip (Yahoo Finance)
+- [macro] US charges 17 Iranians over 'massive' cyber theft campaign (BBC News)
+- [macro] Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test (Yahoo Finance)
+- [macro] The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas (Yahoo Finance)
