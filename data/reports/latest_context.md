@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T13:52:24.778067+00:00`
-- Market context score: `46.2`
-- News risk score: `49.59`
-- Macro risk score: `30.95`
-- Risk-on score: `34.02`
-- Articles: `74`
+- Generated: `2026-08-19T14:07:44.423730+00:00`
+- Market context score: `48.04`
+- News risk score: `49.02`
+- Macro risk score: `29.69`
+- Risk-on score: `37.15`
+- Articles: `76`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9454`
-- Day/swing latest: `2026-08-19T13:45:00+00:00`
+- Day/swing records: `9455`
+- Day/swing latest: `2026-08-19T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `4`
-- macro: articles `47`, risk hits `15`, risk headline rate `0.2766`, policy hits `6`
+- macro: articles `49`, risk hits `14`, risk headline rate `0.2449`, policy hits `9`
 
 ## Headlines
 
-- [macro] Janus International (JBI) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Middleby (MIDD) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] SpaceX's Capital Spending Was 2.4 Times Its Revenue Last Quarter. The IPO Left $93.5 Billion to Cover It. (Yahoo Finance)
-- [macro] Ampco-Pittsburgh (AP) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] 3 High-Yielding Dividend Stocks That Have Doubled Their Payouts in 5 Years (Yahoo Finance)
-- [crypto] 200,000 fake AI ‘victims’ deployed to scam bait online fraudsters (Cointelegraph.com News)
-- [crypto] SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce (Cointelegraph.com News)
-- [macro] Wall Street just borrowed $500 billion to build AI — here's what it could mean for your 401(k). Are you ready? (Yahoo Finance)
-- [macro] Gemini’s Cameron Winklevoss Says Bitcoin Is Trading At 50% Discount (Yahoo Finance)
-- [macro] Robinhood CEO Calls On U.S. To Approve Tokenized Stocks (Yahoo Finance)
+- [macro] 15 S&P 500 stocks are up 100% or more this year — here's what they have in common (Yahoo Finance)
+- [macro] Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza (BBC News)
+- [macro] Global bonds rally on signs of support for US Treasury market (Yahoo Finance)
+- [macro] The Smartest Dividend ETF to Buy With $500 Right Now (Yahoo Finance)
+- [macro] Here’s Why MercadoLibre (MELI) Offers Long Runway for Growth? (Yahoo Finance)
+- [macro] QuickLogic (QUIK) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] SpaceX stock in focus after China rocket milestone, share unlock ahead (Yahoo Finance)
+- [macro] Instant View: US Treasury will double some bond buy backs (Yahoo Finance)
+- [macro] Ceragon (CRNT) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises On Treasury Buybacks; Moderna Soars On Cancer Drug News (Live Coverage) (Yahoo Finance)
