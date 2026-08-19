@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T06:37:30.221720+00:00`
+- Generated: `2026-08-19T06:52:25.133277+00:00`
 - Market context score: `42.31`
 - News risk score: `43.77`
 - Macro risk score: `33.28`
 - Risk-on score: `21.33`
 - Articles: `39`
-- Polymarket markets: `388`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9427`
-- Day/swing latest: `2026-08-19T06:30:00+00:00`
+- Day/swing records: `9428`
+- Day/swing latest: `2026-08-19T06:45:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [crypto] Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Jump in energy bills drives UK inflation to highest rate for four months (BBC News)
+- [crypto] Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Korea shortens war games with US, citing Washington request (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
