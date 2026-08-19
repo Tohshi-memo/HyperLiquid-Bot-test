@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T11:45:26.598096+00:00`
-- Market context score: `46.01`
-- News risk score: `49.57`
-- Macro risk score: `32.18`
-- Risk-on score: `34.04`
-- Articles: `65`
+- Generated: `2026-08-19T11:52:29.993254+00:00`
+- Market context score: `49.05`
+- News risk score: `47.35`
+- Macro risk score: `28.3`
+- Risk-on score: `37.44`
+- Articles: `64`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `46`, risk hits `16`, risk headline rate `0.3043`, policy hits `8`
+- macro: articles `45`, risk hits `12`, risk headline rate `0.2444`, policy hits `6`
 
 ## Headlines
 
+- [macro] Moderna, Merck, La-Z-Boy, SK Hynix, and More Stocks That Explain Today’s Market (Yahoo Finance)
+- [macro] Analog Devices Stock Rises as Earnings Beat Expectations. Are AI-Stock Jitters Dissipating? (Yahoo Finance)
+- [macro] Helicopter crashes at Mount Ololokwe in Kenya, killing six people (BBC News)
+- [macro] Oklo Vs. X-Energy: Is the New Nuclear IPO the Better Buy? (Yahoo Finance)
+- [macro] Valens Semiconductor (VLN) Q2 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] Inflation is heating up but don't expect another crisis (BBC News)
 - [commodity] UAE severs trade with Iran after reported missile strike (Energy)
-- [macro] Personetics integrates Plaid open banking data (Yahoo Finance)
-- [macro] 5 of JP Morgan’s Top Stock Picks Pay Big Dividends and One Yields Over 12% (Yahoo Finance)
-- [macro] Sea Limited Director Heng Chen Seng Sells 20,000 Shares for $2.4 Million (Yahoo Finance)
-- [macro] What Every 65-Year-Old Should Know About Social Security (Yahoo Finance)
-- [crypto] Ripple raises $275M for US prime brokerage to meet institutional demand (Cointelegraph.com News)
-- [macro] Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales (Yahoo Finance)
+- [macro] Alibaba (BABA) Cashes Out Of Gaming To Double Down On AI (Yahoo Finance)
 - [macro] Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat (Yahoo Finance)
-- [macro] Dave Ramseys explains 3 serious retirement mistakes Americans make after 55. How many are you making? (Yahoo Finance)
+- [crypto] Ripple raises $275M for US prime brokerage to meet institutional demand (Cointelegraph.com News)
