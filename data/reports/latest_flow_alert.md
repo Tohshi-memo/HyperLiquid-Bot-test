@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-19T16:45:32.794793+00:00`
+- Generated: `2026-08-19T16:50:28.520363+00:00`
 - Flow alert score: `22.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
