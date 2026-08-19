@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T15:19:25.473189+00:00`
-- Market context score: `44.34`
-- News risk score: `51.09`
-- Macro risk score: `31.67`
-- Risk-on score: `31.43`
-- Articles: `79`
+- Generated: `2026-08-19T15:22:24.037547+00:00`
+- Market context score: `45.08`
+- News risk score: `51.43`
+- Macro risk score: `30.42`
+- Risk-on score: `32.87`
+- Articles: `80`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `30`, risk hits `13`, risk headline rate `0.3333`, policy hits `4`
-- macro: articles `48`, risk hits `15`, risk headline rate `0.2917`, policy hits `7`
+- crypto: articles `31`, risk hits `14`, risk headline rate `0.3548`, policy hits `4`
+- macro: articles `48`, risk hits `14`, risk headline rate `0.2708`, policy hits `7`
 
 ## Headlines
 
+- [macro] Jump in energy bills drives UK inflation to highest rate for four months (BBC News)
+- [crypto] Injective receives SEC transfer agent registration for institutional services arm (Cointelegraph.com News)
 - [macro] Trump administration can target Ethiopians for deportation (BBC News)
-- [macro] Micware Targets Software-Defined Vehicles, Spatial Intelligence Growth at Sidoti Conference (Yahoo Finance)
-- [macro] Jack Henry & Associates Q4 Earnings Call Highlights (Yahoo Finance)
-- [macro] Lowe's Companies Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Costco's Cash Pile Keeps Building. Is a Special Dividend Finally Coming This Fall? (Yahoo Finance)
+- [macro] Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022 (Yahoo Finance)
+- [macro] 2 Nuclear Stocks to Buy and What Each One Needs to Go Right (Yahoo Finance)
+- [macro] Marvell Stock Rises as Chip Company Issues Warrant to Google to Buy Stake of $12.2 Billion (Yahoo Finance)
 - [macro] Watch: SpaceX rocket spotted off Christmas Island coast (BBC News)
-- [macro] Oracle Price Prediction: Can Its $638 Billion Backlog Send The Stock Back Toward $250? (Yahoo Finance)
 - [crypto] AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring) (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead (Yahoo Finance)
-- [macro] Stock Market Today: Dow Gathers Steam On Treasury News; Moderna Soars As Bitcoin Rises (Live Coverage) (Yahoo Finance)
