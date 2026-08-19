@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T05:18:57.129571+00:00`
-- Market context score: `39.36`
-- News risk score: `42.62`
-- Macro risk score: `33.41`
-- Risk-on score: `13.85`
-- Articles: `39`
+- Generated: `2026-08-19T05:22:25.362290+00:00`
+- Market context score: `37.85`
+- News risk score: `44.83`
+- Macro risk score: `33.39`
+- Risk-on score: `12.36`
+- Articles: `40`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `1`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `1`
 - macro: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `0`
 
 ## Headlines
 
+- [crypto] MAYAChain halts network after estimated $1.7M exploit (Cointelegraph.com News)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
 - [crypto] Solana leads bitcoin and ether higher while Korean chip stocks slide 7% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US accounting board FASB proposes conditions for stablecoins as cash equivalents (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Five Australian rules footy players suspended amid police investigation (BBC News)
 - [macro] Chinese robotics giant Unitree soars in stock market debut (BBC News)
 - [macro] Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis (BBC News)
-- [macro] Husband and mother-in-law charged over Indian bride's death (BBC News)
