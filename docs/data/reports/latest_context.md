@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T07:52:59.430348+00:00`
-- Market context score: `42.96`
+- Generated: `2026-08-19T08:07:31.229905+00:00`
+- Market context score: `45.36`
 - News risk score: `43.01`
 - Macro risk score: `31.88`
-- Risk-on score: `21.6`
+- Risk-on score: `26.93`
 - Articles: `37`
 - Polymarket markets: `388`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9431`
-- Day/swing latest: `2026-08-19T07:45:00+00:00`
+- Day/swing records: `9432`
+- Day/swing latest: `2026-08-19T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Jump in energy bills drives UK inflation to highest rate for four months (BBC News)
+- [crypto] Bitcoin ETFs add $189M as August net inflows approach $1B (Cointelegraph.com News)
 - [macro] Chinese robotics giant Unitree soars in stock market debut (BBC News)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
-- [macro] Jump in energy bills drives UK inflation to highest rate for four months (BBC News)
 - [commodity] Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran (Energy)
 - [crypto] Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Korea shortens war games with US, citing Washington request (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MAYAChain halts network after estimated $1.7M exploit (Cointelegraph.com News)
-- [macro] Thai teen found in suitcase died from suffocation, police reveal (BBC News)
