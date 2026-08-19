@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-19T14:45:48.638167+00:00`
-- Flow alert score: `22.56`
+- Generated: `2026-08-19T14:50:50.027830+00:00`
+- Flow alert score: `22.64`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12150532.35`
-- Polymarket volume z-score: `1.39`
+- Polymarket 24h volume: `12187096.46`
+- Polymarket volume z-score: `1.41`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1013540.345` | liquidity: `20890.60737`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `608147.3496079997` | liquidity: `950371.75`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `549706.6874540007` | liquidity: `433137.22138`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1013540.345` | liquidity: `20035.44731`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `606367.5896079997` | liquidity: `952265.3009`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `550576.5548700007` | liquidity: `433009.1794`
 - Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `454457.85252300015` | liquidity: `125625.07171`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `412009.21799699997` | liquidity: `1064071.53522`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `379469.204` | liquidity: `1420999.85828`
-- Will Alex Padilla win the 2028 Democratic presidential nomination? | 24h volume: `376523.1` | liquidity: `1484424.66051`
-- Will Alex Padilla win the 2028 US Presidential Election? | 24h volume: `327584.44` | liquidity: `1603149.28257`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `412009.21799699997` | liquidity: `1069623.9481`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `380279.6118880001` | liquidity: `668168.80328`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `379469.204` | liquidity: `1430992.01037`
+- Will Alex Padilla win the 2028 Democratic presidential nomination? | 24h volume: `376523.1` | liquidity: `1493263.69014`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
