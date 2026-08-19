@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T20:37:33.067938+00:00`
-- Market context score: `44.45`
-- News risk score: `52.11`
-- Macro risk score: `31.35`
-- Risk-on score: `32.4`
-- Articles: `79`
+- Generated: `2026-08-19T20:41:23.978069+00:00`
+- Market context score: `44.75`
+- News risk score: `51.86`
+- Macro risk score: `30.8`
+- Risk-on score: `32.66`
+- Articles: `81`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -24,18 +24,18 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `39`, risk hits `17`, risk headline rate `0.359`, policy hits `9`
-- macro: articles `37`, risk hits `11`, risk headline rate `0.2703`, policy hits `1`
+- macro: articles `39`, risk hits `11`, risk headline rate `0.2564`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] U.S. government debt passes $40 trillion mark for the first time (Economy)
 - [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
 - [crypto] Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet (Cointelegraph.com News)
+- [macro] Trump bemoans Fed interest rate policy, says U.S. should be paying much less (Economy)
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
 - [crypto] Trump pushes for CLARITY Act passage alongside crypto leaders (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Trump pushes Congress to move on Clarity Act during White House crypto event (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US long-term borrowing costs ease after government steps in (BBC News)
