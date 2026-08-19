@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T13:16:11.165254+00:00`
-- Market context score: `46.71`
+- Generated: `2026-08-19T13:22:29.647110+00:00`
+- Market context score: `46.49`
 - News risk score: `48.0`
 - Macro risk score: `30.27`
-- Risk-on score: `33.54`
+- Risk-on score: `33.07`
 - Articles: `75`
 - Polymarket markets: `388`
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] JBS revisits bid to take control of Pilgrim’s Pride (Yahoo Finance)
 - [macro] 3 High Yield Mortgage REITs Running Very Different Playbooks (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises Amid Treasury Buybacks; Moderna Soars On Cancer Drug News (Live Coverage) (Yahoo Finance)
 - [macro] Home Depot Just Delivered a Big Vote of Confidence in Its Business (Yahoo Finance)
 - [macro] Six tourists and pilot killed in Kenya helicopter crash (BBC News)
 - [crypto] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Strengthen the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] HireQuest (HQI) Q2 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] Etched raises $700 million at $21 billion valuation (Yahoo Finance)
-- [macro] Director Buys 3,700 Shares of Regional Bank Following 52% Rally (Yahoo Finance)
-- [macro] Alphabet’s (GOOGL) Small Data Deal Hints At A Bigger AI Appetite (Yahoo Finance)
-- [macro] Nvidia’s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity? (Yahoo Finance)
