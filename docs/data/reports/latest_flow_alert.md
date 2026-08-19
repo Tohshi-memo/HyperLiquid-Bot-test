@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-19T12:13:23.616566+00:00`
+- Generated: `2026-08-19T12:15:32.157506+00:00`
 - Flow alert score: `20.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `645556.1665909993` | liquidity: `717403.9259`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `614612.5171880007` | liquidity: `505235.02279`
-- Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `452382.83919000014` | liquidity: `130717.47119`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `399776.76200000005` | liquidity: `21927.72543`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `383926.20999699994` | liquidity: `1052517.58938`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `379423.363` | liquidity: `1411730.09906`
-- Will Alex Padilla win the 2028 Democratic presidential nomination? | 24h volume: `376460.05` | liquidity: `1476646.16874`
-- Will Alex Padilla win the 2028 US Presidential Election? | 24h volume: `327947.581` | liquidity: `1272800.85101`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `645556.1665909993` | liquidity: `735411.2826`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `614612.5171880007` | liquidity: `505491.6997`
+- Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `452382.83919000014` | liquidity: `130521.53103`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `399776.76200000005` | liquidity: `21685.42263`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `383926.20999699994` | liquidity: `1052828.97006`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `379423.363` | liquidity: `1410842.27756`
+- Will Alex Padilla win the 2028 Democratic presidential nomination? | 24h volume: `376460.05` | liquidity: `1475758.70672`
+- Will Alex Padilla win the 2028 US Presidential Election? | 24h volume: `327947.581` | liquidity: `1597170.09132`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
