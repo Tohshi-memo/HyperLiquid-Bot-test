@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T18:52:27.122049+00:00`
-- Market context score: `44.84`
-- News risk score: `52.31`
-- Macro risk score: `31.59`
-- Risk-on score: `33.53`
-- Articles: `75`
+- Generated: `2026-08-19T18:58:06.134166+00:00`
+- Market context score: `45.15`
+- News risk score: `51.85`
+- Macro risk score: `31.55`
+- Risk-on score: `33.82`
+- Articles: `76`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `36`, risk hits `16`, risk headline rate `0.3611`, policy hits `7`
+- crypto: articles `37`, risk hits `16`, risk headline rate `0.3514`, policy hits `7`
 - macro: articles `36`, risk hits `11`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Crypto PAC notches primary wins, but loses $2M Florida race (Cointelegraph.com News)
 - [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
 - [macro] US long-term borrowing costs ease after government steps in (BBC News)
 - [macro] 81-year-old confesses to German cold case murder of US tourist in 1994 (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
 - [macro] South Korea shortens war games with US, citing Washington request (BBC News)
-- [crypto] FalconX, Ethena bring USDe backing assets into $1B institutional credit facility (Cointelegraph.com News)
