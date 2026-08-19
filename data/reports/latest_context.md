@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T19:22:36.169891+00:00`
-- Market context score: `45.15`
-- News risk score: `51.85`
-- Macro risk score: `31.55`
-- Risk-on score: `33.82`
-- Articles: `76`
+- Generated: `2026-08-19T19:34:55.900866+00:00`
+- Market context score: `45.38`
+- News risk score: `51.62`
+- Macro risk score: `31.1`
+- Risk-on score: `33.96`
+- Articles: `77`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9475`
-- Day/swing latest: `2026-08-19T19:15:00+00:00`
+- Day/swing records: `9476`
+- Day/swing latest: `2026-08-19T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `37`, risk hits `16`, risk headline rate `0.3514`, policy hits `7`
-- macro: articles `36`, risk hits `11`, risk headline rate `0.2778`, policy hits `1`
+- macro: articles `37`, risk hits `11`, risk headline rate `0.2703`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] US long-term borrowing costs ease after government steps in (BBC News)
 - [macro] Who is Natalie Harp, Trump's right-hand woman? (BBC News)
 - [crypto] Crypto PAC notches primary wins, but loses $2M Florida race (Cointelegraph.com News)
 - [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
-- [macro] US long-term borrowing costs ease after government steps in (BBC News)
 - [macro] 81-year-old confesses to German cold case murder of US tourist in 1994 (BBC News)
 - [commodity] Diesel in California rises to $7 a gallon as wars in Europe and Middle East strain supply (Energy)
 - [crypto] Crypto campaign fund Fairshake faces $2 million setback in Florida primaries (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
