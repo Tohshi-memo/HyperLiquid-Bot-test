@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T18:07:25.950015+00:00`
-- Market context score: `43.68`
-- News risk score: `54.04`
-- Macro risk score: `32.38`
-- Risk-on score: `32.71`
-- Articles: `100`
+- Generated: `2026-08-19T18:13:07.300335+00:00`
+- Market context score: `44.41`
+- News risk score: `53.0`
+- Macro risk score: `31.41`
+- Risk-on score: `33.09`
+- Articles: `73`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,19 +23,19 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `36`, risk hits `17`, risk headline rate `0.3889`, policy hits `7`
-- macro: articles `61`, risk hits `23`, risk headline rate `0.2787`, policy hits `7`
+- crypto: articles `37`, risk hits `17`, risk headline rate `0.3784`, policy hits `7`
+- macro: articles `33`, risk hits `10`, risk headline rate `0.2727`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Crypto campaign fund Fairshake faces $2 million setback in Florida primaries (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [policy] Minutes of the Federal Open Market Committee, July 28–29, 2026 (FRB: Press Release - All Releases)
 - [commodity] Diesel in California rises to $7 a gallon as wars in Europe and Middle East strain supply (Energy)
-- [macro] 3 Reasons I'd Trust This 5.8%-Yielding Dividend Right Now (Yahoo Finance)
-- [macro] Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales (Yahoo Finance)
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
-- [macro] BofA makes bold call on Cisco stock after earnings (Yahoo Finance)
-- [macro] The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder. (Yahoo Finance)
-- [macro] VGLT vs TLT: Which Bond ETF Is the Better Value? (Yahoo Finance)
-- [macro] 2 Reasons to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell (Yahoo Finance)
 - [macro] South Korea shortens war games with US, citing Washington request (BBC News)
+- [crypto] FalconX, Ethena bring USDe backing assets into $1B institutional credit facility (Cointelegraph.com News)
+- [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
+- [macro] Israel opens up bids for highly-sensitive West Bank settlement project (BBC News)
+- [macro] US retail giant receives $1bn boost from tariff refunds (BBC News)
+- [macro] Retail giant Target receives $1bn boost from tariff refunds (BBC News)
