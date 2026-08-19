@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-19T00:20:27.240786+00:00`
+- Generated: `2026-08-19T00:27:29.563070+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14281260.75`
-- Polymarket volume z-score: `2.32`
+- Polymarket 24h volume: `15564345.59`
+- Polymarket volume z-score: `2.9`
 
 ## Top Polymarket Markets
 
-- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `3882435.6790959993` | liquidity: `3253589.40935`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `890606.154` | liquidity: `19839.22706`
-- Will Byron Donalds be the Republican nominee for Florida Governor? | 24h volume: `646705.4989530002` | liquidity: `1298799.21643`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `556307.3860350003` | liquidity: `542647.26309`
-- Will Jay Collins be the Republican nominee for Florida Governor? | 24h volume: `404431.01833299996` | liquidity: `630801.53529`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `396675.2600129998` | liquidity: `403654.5578`
-- Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `376408.38509` | liquidity: `130641.59865`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `323701.5753590001` | liquidity: `711621.15894`
+- Will James Fishback be the Republican nominee for Florida Governor? | 24h volume: `3879086.0617019995` | liquidity: `3243504.72211`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `890606.154` | liquidity: `16873.76707`
+- Will Byron Donalds be the Republican nominee for Florida Governor? | 24h volume: `646923.7946840002` | liquidity: `1296379.34146`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `556206.1717030003` | liquidity: `843029.84644`
+- Will Jay Collins be the Republican nominee for Florida Governor? | 24h volume: `404431.01833299996` | liquidity: `627892.81802`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `379239.14` | liquidity: `1407717.35023`
+- Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `378044.58509` | liquidity: `114837.19194`
+- Will Alex Padilla win the 2028 Democratic presidential nomination? | 24h volume: `377061.0` | liquidity: `1479344.4956`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
