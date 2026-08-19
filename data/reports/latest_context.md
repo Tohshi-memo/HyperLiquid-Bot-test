@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T04:07:28.888271+00:00`
-- Market context score: `37.75`
-- News risk score: `46.35`
-- Macro risk score: `31.63`
-- Risk-on score: `12.75`
-- Articles: `46`
+- Generated: `2026-08-19T04:22:29.361157+00:00`
+- Market context score: `38.68`
+- News risk score: `44.75`
+- Macro risk score: `31.14`
+- Risk-on score: `13.29`
+- Articles: `44`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9418`
-- Day/swing latest: `2026-08-19T04:00:00+00:00`
+- Day/swing records: `9419`
+- Day/swing latest: `2026-08-19T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `4`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `2`
 - macro: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `0`
 
 ## Headlines
@@ -31,7 +31,7 @@
 - [crypto] US accounting board FASB proposes conditions for stablecoins as cash equivalents (Cointelegraph.com News)
 - [macro] Trump pauses new tariffs on Canada and says countries close to a deal (BBC News)
 - [macro] Trump pauses new tariffs on Canada and says countries close to a deal (BBC News)
-- [macro] South Korea shortens war games with US citing Washington request (BBC News)
+- [macro] South Korea shortens war games with US, citing Washington request (BBC News)
 - [macro] Five Australian rules footy players suspended amid police investigation (BBC News)
 - [macro] Chinese robotics giant Unitree soars in stock market debut (BBC News)
 - [macro] Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis (BBC News)
