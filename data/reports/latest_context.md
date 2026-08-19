@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T20:41:23.978069+00:00`
+- Generated: `2026-08-19T20:52:24.494521+00:00`
 - Market context score: `44.75`
 - News risk score: `51.86`
 - Macro risk score: `30.8`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9480`
-- Day/swing latest: `2026-08-19T20:30:00+00:00`
+- Day/swing records: `9481`
+- Day/swing latest: `2026-08-19T20:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [macro] U.S. government debt passes $40 trillion mark for the first time (Economy)
+- [macro] U.S. government debt passes $40 trillion, more than doubling in a decade (Economy)
 - [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
 - [crypto] Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet (Cointelegraph.com News)
