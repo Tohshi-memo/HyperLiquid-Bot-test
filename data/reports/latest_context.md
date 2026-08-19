@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T03:37:30.140686+00:00`
-- Market context score: `36.85`
-- News risk score: `48.17`
-- Macro risk score: `29.63`
-- Risk-on score: `11.54`
-- Articles: `46`
+- Generated: `2026-08-19T03:52:24.495556+00:00`
+- Market context score: `37.04`
+- News risk score: `48.14`
+- Macro risk score: `29.08`
+- Risk-on score: `11.71`
+- Articles: `47`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9416`
-- Day/swing latest: `2026-08-19T03:30:00+00:00`
+- Day/swing records: `9417`
+- Day/swing latest: `2026-08-19T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `4`
-- macro: articles `29`, risk hits `8`, risk headline rate `0.2414`, policy hits `0`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Five Australian rules footy players suspended amid police investigation (BBC News)
 - [macro] Chinese robotics giant Unitree soars in stock market debut (BBC News)
 - [macro] Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis (BBC News)
 - [macro] Husband and mother-in-law charged over Indian bride's death (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] ‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
 - [macro] Harvard agrees to pay millions after morgue manager sold body parts (BBC News)
-- [macro] The critical tech staying safe by going underground (BBC News)
