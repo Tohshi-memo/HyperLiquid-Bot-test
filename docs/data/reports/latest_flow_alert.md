@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-19T07:35:26.785016+00:00`
-- Flow alert score: `19.56`
+- Generated: `2026-08-19T07:40:26.996896+00:00`
+- Flow alert score: `19.52`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10482098.92`
-- Polymarket volume z-score: `0.64`
+- Polymarket 24h volume: `10445611.5`
+- Polymarket volume z-score: `0.63`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `658170.0580000007` | liquidity: `488701.07881`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `612043.846642999` | liquidity: `810533.2738`
-- Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `444842.9801410002` | liquidity: `140507.122`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `379339.14` | liquidity: `1412384.2922`
-- Will Alex Padilla win the 2028 Democratic presidential nomination? | 24h volume: `377161.0` | liquidity: `1479119.16141`
-- Will Alex Padilla win the 2028 US Presidential Election? | 24h volume: `328017.285` | liquidity: `1275211.33764`
-- Will Jalen Brunson win the 2028 US Presidential Election? | 24h volume: `301313.285` | liquidity: `1812467.11173`
-- Will Donald Trump win the 2028 US Presidential Election? | 24h volume: `280206.644824` | liquidity: `520027.78524`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `658170.0580000007` | liquidity: `517091.43881`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `612043.846642999` | liquidity: `799482.265`
+- Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `444842.9801410002` | liquidity: `140504.12201`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `379339.14` | liquidity: `1414599.53346`
+- Will Alex Padilla win the 2028 Democratic presidential nomination? | 24h volume: `377161.0` | liquidity: `1479054.76377`
+- Will Alex Padilla win the 2028 US Presidential Election? | 24h volume: `328017.285` | liquidity: `1270592.24384`
+- Will Jalen Brunson win the 2028 US Presidential Election? | 24h volume: `301313.285` | liquidity: `1811067.11173`
+- Will Donald Trump win the 2028 US Presidential Election? | 24h volume: `280206.644824` | liquidity: `520594.83462`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
