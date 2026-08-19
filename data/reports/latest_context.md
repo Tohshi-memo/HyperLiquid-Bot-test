@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T11:11:48.265638+00:00`
-- Market context score: `48.29`
-- News risk score: `44.97`
-- Macro risk score: `30.14`
-- Risk-on score: `34.44`
-- Articles: `51`
-- Polymarket markets: `388`
+- Generated: `2026-08-19T11:22:28.513540+00:00`
+- Market context score: `46.77`
+- News risk score: `48.59`
+- Macro risk score: `30.02`
+- Risk-on score: `34.08`
+- Articles: `62`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9444`
-- Day/swing latest: `2026-08-19T11:00:00+00:00`
+- Day/swing records: `9445`
+- Day/swing latest: `2026-08-19T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `35`, risk hits `9`, risk headline rate `0.2571`, policy hits `5`
+- crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `1`
+- macro: articles `44`, risk hits `12`, risk headline rate `0.25`, policy hits `6`
 
 ## Headlines
 
+- [crypto] Fed decision making comes into focus as bitcoin holds steady, bond yields surge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Target Q2 2026 earnings beat: sales up 5.3%, guidance raised (Yahoo Finance)
+- [macro] Scott Galloway Blasts SpaceX as “Crazy Overvalued.” Says the Stock Could Fall 90% From Here (Yahoo Finance)
 - [macro] Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing' (BBC News)
-- [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
-- [macro] SLB wins offshore production restoration contract from BSP (Yahoo Finance)
 - [macro] Dow Jones Futures Fall After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat (Yahoo Finance)
-- [macro] Amer Sports Q2 sales, profit surge on Arc’teryx, Salomon growth (Yahoo Finance)
-- [macro] SpaceX Is Back Trading Near Its Opening-Day Price. History Says Shares Will Be Worth This Much in 1 Year. (Yahoo Finance)
-- [macro] Liberia agrees to accept 1,200 foreign deportees from the US (BBC News)
-- [macro] Target Earnings Double, Guidance Raised Amid Tariff Refunds, But TGT Stock Falls (Yahoo Finance)
-- [macro] The Fund Sold Floor & Decor (FND) as Housing Demand Stayed Weak (Yahoo Finance)
-- [macro] Morning Bid: Bonds out, robots in (Yahoo Finance)
+- [crypto] Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock (Cointelegraph.com News)
+- [macro] Dollar softens as bond market steadies ahead of Fed minutes (Yahoo Finance)
+- [macro] Nu Holdings Added Millions of Customers Again Last Quarter. Is the Stock Priced for That Growth? (Yahoo Finance)
+- [macro] He Worked at a Tribal Casino and Received a Share of Gaming Revenue. Social Security Saw One Check as Pay and the Other as Unearned. (Yahoo Finance)
+- [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
