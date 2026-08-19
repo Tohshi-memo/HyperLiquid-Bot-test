@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T22:52:37.714206+00:00`
-- Market context score: `44.03`
-- News risk score: `52.46`
-- Macro risk score: `32.56`
-- Risk-on score: `32.22`
-- Articles: `75`
+- Generated: `2026-08-19T23:07:25.299715+00:00`
+- Market context score: `43.45`
+- News risk score: `53.21`
+- Macro risk score: `33.08`
+- Risk-on score: `31.76`
+- Articles: `73`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9489`
-- Day/swing latest: `2026-08-19T22:45:00+00:00`
+- Day/swing records: `9490`
+- Day/swing latest: `2026-08-19T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `34`, risk hits `14`, risk headline rate `0.3529`, policy hits `8`
-- macro: articles `38`, risk hits `12`, risk headline rate `0.2895`, policy hits `3`
+- crypto: articles `33`, risk hits `14`, risk headline rate `0.3636`, policy hits `8`
+- macro: articles `37`, risk hits `12`, risk headline rate `0.2973`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza (BBC News)
 - [macro] U.S. government debt passes $40 trillion, more than doubling in a decade (Economy)
 - [macro] US national debt passes $40tn after doubling in a decade (BBC News)
 - [crypto] Bitcoin briefly hits $70,000 for the first time since June. Here is why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza (BBC News)
 - [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
 - [macro] Trump bemoans Fed interest rate policy, says U.S. should be paying much less (Economy)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
