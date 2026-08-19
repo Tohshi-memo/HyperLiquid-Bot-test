@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T11:22:28.513540+00:00`
-- Market context score: `46.77`
-- News risk score: `48.59`
-- Macro risk score: `30.02`
-- Risk-on score: `34.08`
-- Articles: `62`
-- Polymarket markets: `387`
+- Generated: `2026-08-19T11:37:33.844520+00:00`
+- Market context score: `47.31`
+- News risk score: `48.29`
+- Macro risk score: `29.63`
+- Risk-on score: `34.89`
+- Articles: `65`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9445`
-- Day/swing latest: `2026-08-19T11:15:00+00:00`
+- Day/swing records: `9446`
+- Day/swing latest: `2026-08-19T11:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `1`
-- macro: articles `44`, risk hits `12`, risk headline rate `0.25`, policy hits `6`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `46`, risk hits `14`, risk headline rate `0.2609`, policy hits `8`
 
 ## Headlines
 
+- [commodity] UAE severs trade with Iran after reported missile strike (Energy)
+- [macro] Personetics integrates Plaid open banking data (Yahoo Finance)
+- [macro] Sea Limited Director Heng Chen Seng Sells 20,000 Shares for $2.4 Million (Yahoo Finance)
+- [macro] What Every 65-Year-Old Should Know About Social Security (Yahoo Finance)
+- [crypto] Ripple raises $275M for US prime brokerage to meet institutional demand (Cointelegraph.com News)
+- [macro] Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales (Yahoo Finance)
+- [macro] Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat (Yahoo Finance)
+- [macro] Dave Ramseys explains 3 serious retirement mistakes Americans make after 55. How many are you making? (Yahoo Finance)
 - [crypto] Fed decision making comes into focus as bitcoin holds steady, bond yields surge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Target Q2 2026 earnings beat: sales up 5.3%, guidance raised (Yahoo Finance)
-- [macro] Scott Galloway Blasts SpaceX as “Crazy Overvalued.” Says the Stock Could Fall 90% From Here (Yahoo Finance)
-- [macro] Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing' (BBC News)
-- [macro] Dow Jones Futures Fall After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat (Yahoo Finance)
-- [crypto] Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock (Cointelegraph.com News)
-- [macro] Dollar softens as bond market steadies ahead of Fed minutes (Yahoo Finance)
-- [macro] Nu Holdings Added Millions of Customers Again Last Quarter. Is the Stock Priced for That Growth? (Yahoo Finance)
-- [macro] He Worked at a Tribal Casino and Received a Share of Gaming Revenue. Social Security Saw One Check as Pay and the Other as Unearned. (Yahoo Finance)
-- [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
+- [macro] Cerebras Stock Looks Like a Buy Due to an OpenAI Relationship and Surging Revenue (Yahoo Finance)

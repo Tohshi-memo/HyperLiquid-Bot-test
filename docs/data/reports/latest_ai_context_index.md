@@ -2,9 +2,9 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-08-19T11:22:28.513540+00:00`
+- Updated: `2026-08-19T11:37:33.844520+00:00`
 - Asset price active records: `672`
-- Day/swing records: `9445`
+- Day/swing records: `9446`
 - Macro indicators: `11`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
@@ -13,16 +13,16 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (2318 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (61592 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2360 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (874 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/reports/latest_ai_context_index.md` (2371 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (61890 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2366 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (873 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2103 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (48236 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5736 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2358 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (6196 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3611 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (48249 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5747 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2360 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (6202 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3602 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
