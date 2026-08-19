@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T19:08:56.873825+00:00`
+- Generated: `2026-08-19T19:22:36.169891+00:00`
 - Market context score: `45.15`
 - News risk score: `51.85`
 - Macro risk score: `31.55`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9474`
-- Day/swing latest: `2026-08-19T19:00:00+00:00`
+- Day/swing records: `9475`
+- Day/swing latest: `2026-08-19T19:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Who is Natalie Harp, Trump's right-hand woman? (BBC News)
 - [crypto] Crypto PAC notches primary wins, but loses $2M Florida race (Cointelegraph.com News)
 - [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
 - [macro] US long-term borrowing costs ease after government steps in (BBC News)
@@ -38,4 +39,3 @@
 - [policy] Minutes of the Federal Open Market Committee, July 28–29, 2026 (FRB: Press Release - All Releases)
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
-- [macro] South Korea shortens war games with US, citing Washington request (BBC News)
