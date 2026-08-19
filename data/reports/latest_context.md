@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T19:52:31.604475+00:00`
+- Generated: `2026-08-19T19:57:00.850035+00:00`
 - Market context score: `45.17`
 - News risk score: `51.92`
 - Macro risk score: `31.03`
@@ -29,12 +29,12 @@
 
 ## Headlines
 
+- [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
 - [crypto] HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trump pushes Congress to move on Clarity Act during White House crypto event (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US long-term borrowing costs ease after government steps in (BBC News)
 - [macro] Who is Natalie Harp, Trump's right-hand woman? (BBC News)
 - [crypto] Crypto PAC notches primary wins, but loses $2M Florida race (Cointelegraph.com News)
-- [macro] Ecuador intelligence chief and five Americans killed in Kenya helicopter crash (BBC News)
 - [macro] 81-year-old confesses to German cold case murder of US tourist in 1994 (BBC News)
 - [commodity] Diesel in California rises to $7 a gallon as wars in Europe and Middle East strain supply (Energy)
 - [crypto] Crypto campaign fund Fairshake faces $2 million setback in Florida primaries (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
