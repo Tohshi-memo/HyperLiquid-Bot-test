@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T00:07:30.920305+00:00`
-- Market context score: `47.0`
-- News risk score: `43.43`
-- Macro risk score: `28.79`
-- Risk-on score: `29.76`
-- Articles: `56`
-- Polymarket markets: `390`
+- Generated: `2026-08-19T00:22:22.678031+00:00`
+- Market context score: `46.49`
+- News risk score: `43.96`
+- Macro risk score: `28.85`
+- Risk-on score: `29.1`
+- Articles: `54`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:120, fx:6, index:25, metal:20, unknown:789`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9402`
-- Day/swing latest: `2026-08-19T00:00:00+00:00`
+- Day/swing records: `9403`
+- Day/swing latest: `2026-08-19T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `5`
+- crypto: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `5`
 - macro: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [macro] Harvard agrees to pay millions after morgue manager sold body parts (BBC News)
 - [macro] The critical tech staying safe by going underground (BBC News)
 - [macro] 'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted (BBC News)
 - [crypto] Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Meta hooked children on Facebook and Instagram, court hears (BBC News)
 - [macro] Meta hooked children on Facebook and Instagram, court hears (BBC News)
 - [crypto] U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] SEC proposes new crypto rules in absence of CLARITY Act (Cointelegraph.com News)
