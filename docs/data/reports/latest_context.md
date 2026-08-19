@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T17:46:03.476231+00:00`
-- Market context score: `44.5`
-- News risk score: `54.35`
-- Macro risk score: `32.99`
-- Risk-on score: `35.03`
+- Generated: `2026-08-19T17:53:18.741919+00:00`
+- Market context score: `44.63`
+- News risk score: `53.56`
+- Macro risk score: `31.51`
+- Risk-on score: `34.1`
 - Articles: `98`
 - Polymarket markets: `388`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `36`, risk hits `17`, risk headline rate `0.3889`, policy hits `7`
-- macro: articles `61`, risk hits `24`, risk headline rate `0.2951`, policy hits `8`
+- macro: articles `61`, risk hits `22`, risk headline rate `0.2787`, policy hits `6`
 
 ## Headlines
 
 - [macro] South Korea shortens war games with US, citing Washington request (BBC News)
 - [macro] EU approves Mercedes, BMW and Seres joint control of Ionchi (Yahoo Finance)
 - [crypto] FalconX, Ethena bring USDe backing assets into $1B institutional credit facility (Cointelegraph.com News)
+- [macro] What Investors Should Know About Sea Limited COO Gang Ye Selling 50,000 Shares for $5.9 Million (Yahoo Finance)
+- [macro] Can Investing in Bloom Energy Stock Double Your Money? (Yahoo Finance)
 - [macro] SEC Proposes "Regulation Crypto Assets" Framework (Yahoo Finance)
 - [macro] Netflix Is Down, But One Billionaire Thinks the Stock Is a Buy (Yahoo Finance)
-- [macro] Carvana stock drops 10% amid Mark Walter federal investigation (Yahoo Finance)
-- [macro] Ripple Borrows $275 Million at 8.25% to Take On Goldman Sachs. Can It Win? (Yahoo Finance)
 - [macro] US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields (Yahoo Finance)
 - [macro] Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine (Yahoo Finance)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
