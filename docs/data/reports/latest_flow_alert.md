@@ -1,20 +1,20 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-19T10:15:26.503946+00:00`
-- Flow alert score: `19.68`
+- Generated: `2026-08-19T10:20:30.894550+00:00`
+- Flow alert score: `19.64`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10544883.29`
-- Polymarket volume z-score: `0.67`
+- Polymarket 24h volume: `10520547.05`
+- Polymarket volume z-score: `0.66`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `640610.4683770008` | liquidity: `507986.39393`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `604644.9343619985` | liquidity: `783067.7088`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `639872.4011490009` | liquidity: `507986.39393`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `592100.9343619993` | liquidity: `783067.7088`
 - Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `448768.3201400002` | liquidity: `138271.08998`
 - Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `399776.76200000005` | liquidity: `19574.17295`
 - Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `391700.20399699995` | liquidity: `984067.44678`
