@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T17:07:28.102050+00:00`
-- Market context score: `43.08`
-- News risk score: `55.92`
-- Macro risk score: `33.57`
-- Risk-on score: `33.42`
-- Articles: `97`
+- Generated: `2026-08-19T17:13:35.695092+00:00`
+- Market context score: `43.44`
+- News risk score: `55.39`
+- Macro risk score: `33.53`
+- Risk-on score: `33.75`
+- Articles: `98`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,14 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `36`, risk hits `18`, risk headline rate `0.4167`, policy hits `7`
+- crypto: articles `37`, risk hits `18`, risk headline rate `0.4054`, policy hits `7`
 - macro: articles `60`, risk hits `24`, risk headline rate `0.3`, policy hits `10`
 
 ## Headlines
 
+- [macro] US retail giant receives $1bn boost from tariff refunds (BBC News)
+- [macro] Retail giant Target receives $1bn boost from tariff refunds (BBC News)
+- [crypto] OCC head promises final GENIUS rules by November (Cointelegraph.com News)
 - [macro] Nebius (NBIS) Q2 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] ASML Stock Takes A Break After Rebounding (Yahoo Finance)
 - [macro] Should You Buy Tesla Stock While It's Trading Below $400? (Yahoo Finance)
@@ -35,6 +38,3 @@
 - [macro] Moderna and Merck Just Made History With the First mRNA Cancer Vaccine to Succeed in a Phase 3 Trial. Here's What That Means for Investors. (Yahoo Finance)
 - [macro] If a Recession Is Coming, 100 Years of History Says This Is the Best Move Investors Can Make (Yahoo Finance)
 - [macro] Marvell Stock Jumps On Google Chip, Investment Deal (Yahoo Finance)
-- [macro] Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story (Yahoo Finance)
-- [macro] Moderna shares double as cancer vaccine data rekindles investor hopes (Yahoo Finance)
-- [macro] CrowdStrike Stock Likely To Swing On Earnings. This Trade Generates A Return From The Moves. (Yahoo Finance)
