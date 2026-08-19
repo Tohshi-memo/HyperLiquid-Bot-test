@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T10:37:27.425844+00:00`
+- Generated: `2026-08-19T10:43:06.992752+00:00`
 - Market context score: `50.41`
 - News risk score: `43.4`
 - Macro risk score: `29.38`
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [crypto] Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] FASB invites opinion on cash equivalents and digital asset draft rules (Yahoo Finance)
 - [macro] Andersen adds MD to state and local tax practice in San Francisco (Yahoo Finance)
 - [macro] Is This a Buy-the-Dip Opportunity for XRP Right Now? (Yahoo Finance)
-- [macro] Volkswagen open to ceding majority control of India unit – report (Yahoo Finance)
+- [macro] Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test (Yahoo Finance)
 - [crypto] Nexo launches regulated crypto-backed credit in Australia (Cointelegraph.com News)
 - [macro] Apparent human remains found in US reservoir as water levels hit record low (BBC News)
 - [macro] Demand from US data-center boom radiates out through factory supply chains (Yahoo Finance)
-- [macro] Young Americans are expecting to inherit money, assets, but this might not be reality (Yahoo Finance)
 - [macro] The IRS just sent a $43 billion ‘Trump Bump’ to millions of Americans — did you get your check? (Yahoo Finance)
-- [macro] Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test (Yahoo Finance)
+- [macro] Young Americans are expecting to inherit money, assets, but this might not be reality (Yahoo Finance)
