@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-19T11:07:34.867128+00:00`
-- Market context score: `46.84`
-- News risk score: `46.77`
-- Macro risk score: `30.17`
-- Risk-on score: `32.75`
-- Articles: `62`
+- Generated: `2026-08-19T11:11:48.265638+00:00`
+- Market context score: `48.29`
+- News risk score: `44.97`
+- Macro risk score: `30.14`
+- Risk-on score: `34.44`
+- Articles: `51`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
-- macro: articles `45`, risk hits `13`, risk headline rate `0.2667`, policy hits `5`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `35`, risk hits `9`, risk headline rate `0.2571`, policy hits `5`
 
 ## Headlines
 
+- [macro] Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing' (BBC News)
 - [macro] Sacked Ukrainian defence minister calls for presidential election (BBC News)
-- [macro] Lowe's cautious outlook sends stock lower as retailer flags 'pressure' in DIY spending (Yahoo Finance)
 - [macro] SLB wins offshore production restoration contract from BSP (Yahoo Finance)
 - [macro] Dow Jones Futures Fall After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat (Yahoo Finance)
 - [macro] Amer Sports Q2 sales, profit surge on Arc’teryx, Salomon growth (Yahoo Finance)
 - [macro] SpaceX Is Back Trading Near Its Opening-Day Price. History Says Shares Will Be Worth This Much in 1 Year. (Yahoo Finance)
 - [macro] Liberia agrees to accept 1,200 foreign deportees from the US (BBC News)
 - [macro] Target Earnings Double, Guidance Raised Amid Tariff Refunds, But TGT Stock Falls (Yahoo Finance)
-- [macro] CIL-SIML JV secures road contracts worth $224m in India (Yahoo Finance)
-- [macro] Casella Waste Systems (CWST) Offers Durable Potential Beyond Market Concerns (Yahoo Finance)
+- [macro] The Fund Sold Floor & Decor (FND) as Housing Demand Stayed Weak (Yahoo Finance)
+- [macro] Morning Bid: Bonds out, robots in (Yahoo Finance)
