@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-19T09:35:25.696495+00:00`
+- Generated: `2026-08-19T09:40:29.632046+00:00`
 - Flow alert score: `19.96`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -14,7 +14,7 @@
 ## Top Polymarket Markets
 
 - Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `641269.4451380009` | liquidity: `507986.39393`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `604656.0454719985` | liquidity: `785592.5688`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `604656.0454719985` | liquidity: `783310.2088`
 - Will Russia capture Kostyantynivka by December 31, 2026? | 24h volume: `448768.3201400002` | liquidity: `138271.08998`
 - Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `399776.76200000005` | liquidity: `19574.17295`
 - Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `394326.20399699995` | liquidity: `984067.44678`
