@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T23:07:25.179066+00:00`
-- Market context score: `40.68`
-- News risk score: `49.45`
-- Macro risk score: `46.5`
-- Risk-on score: `27.5`
+- Generated: `2026-08-20T23:18:08.268964+00:00`
+- Market context score: `42.41`
+- News risk score: `48.29`
+- Macro risk score: `43.1`
+- Risk-on score: `29.07`
 - Articles: `50`
 - Polymarket markets: `389`
 
@@ -17,18 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9586`
-- Day/swing latest: `2026-08-20T23:00:00+00:00`
+- Day/swing records: `9587`
+- Day/swing latest: `2026-08-20T23:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `2`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `2`
+- commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `3`
+- macro: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `2`
 - policy: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `6`
 
 ## Headlines
 
+- [macro] Why the US economy is ringing alarm bells (BBC News)
+- [macro] How landscape gardening is being electrified (BBC News)
+- [macro] Millennials are struggling to buy a home - but is it actually getting easier? (BBC News)
 - [macro] Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell (BBC News)
 - [macro] Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment (BBC News)
 - [macro] Trump vows tougher economic measures on Iran and supporting countries (BBC News)
@@ -36,6 +39,3 @@
 - [crypto] Bitcoin breaks above 200-day moving average for first time since November (Cointelegraph.com News)
 - [crypto] CFTC chair says agency will move forward on crypto regulation if CLARITY fails (Cointelegraph.com News)
 - [macro] Watch: Fishermen rescued after five days adrift in cool box (BBC News)
-- [macro] Dozens dead after boat capsizes in north-western Nigeria (BBC News)
-- [crypto] Binance opens crypto trading to AI agents with user-set controls (Cointelegraph.com News)
-- [macro] Carney asks Canada's provinces to end US alcohol ban as trade deal nears (BBC News)
