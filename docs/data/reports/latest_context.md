@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T01:52:29.884247+00:00`
+- Generated: `2026-08-20T02:04:52.700938+00:00`
 - Market context score: `47.75`
 - News risk score: `48.17`
 - Macro risk score: `30.02`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9501`
-- Day/swing latest: `2026-08-20T01:45:00+00:00`
+- Day/swing records: `9502`
+- Day/swing latest: `2026-08-20T02:00:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
+- [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
 - [macro] US national debt passes $40tn after doubling in a decade (BBC News)
-- [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
-- [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
 - [macro] Israel opens up bids for highly-sensitive West Bank settlement project (BBC News)
 - [macro] Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza (BBC News)
 - [macro] Canada and US say they are finalising a trade deal, but details remain murky (BBC News)
