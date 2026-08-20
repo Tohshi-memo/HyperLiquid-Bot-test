@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T18:37:29.488409+00:00`
+- Generated: `2026-08-20T18:52:43.443566+00:00`
 - Market context score: `44.57`
 - News risk score: `48.25`
 - Macro risk score: `43.06`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9568`
-- Day/swing latest: `2026-08-20T18:30:00+00:00`
+- Day/swing records: `9569`
+- Day/swing latest: `2026-08-20T18:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Bessent urges US partners to back plans to 'squash' Iran economy (BBC News)
 - [commodity] Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict (Energy)
 - [commodity] Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' (Energy)
 - [commodity] Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure (Energy)
@@ -38,4 +39,3 @@
 - [macro] Como mayor bans 'beasts' in city centre after being hit by bike (BBC News)
 - [macro] Reform UK proposes tax rebates for firms to boost apprenticeships (BBC News)
 - [macro] Bernard Matthews confirms closure of Derby factory (BBC News)
-- [macro] Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked (Economy)
