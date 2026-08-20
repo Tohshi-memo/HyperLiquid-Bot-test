@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T04:49:49.636927+00:00`
+- Generated: `2026-08-20T04:52:29.374034+00:00`
 - Market context score: `53.37`
 - News risk score: `35.57`
 - Macro risk score: `25.97`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Missing teen hiker found dead in Australian bush after eight-day search (BBC News)
 - [macro] Founder of China's Evergrande sentenced to life in prison (BBC News)
 - [crypto] Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Rushed CLARITY Act vote could set legislation back, Gallego warns (Cointelegraph.com News)
@@ -36,6 +37,5 @@
 - [crypto] Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
 - [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
-- [macro] Missing teen hiker found dead in Australian bush after eight-day search (BBC News)
 - [macro] Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza (BBC News)
 - [macro] Canada and US say they are finalising a trade deal (BBC News)
