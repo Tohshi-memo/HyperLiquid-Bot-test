@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-20T04:20:31.080815+00:00`
+- Generated: `2026-08-20T04:25:31.626971+00:00`
 - Flow alert score: `19.8`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1013453.91` | liquidity: `28412.26578`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `997390.0508760001` | liquidity: `1077375.31946`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `488570.0499999999` | liquidity: `1349585.53452`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `486385.077815` | liquidity: `748769.328`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `413279.3255340001` | liquidity: `806315.2603`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `331809.40042800084` | liquidity: `943263.1285`
-- Will Bitcoin reach $75,000 in August? | 24h volume: `269515.827788` | liquidity: `55106.60479`
-- Will Bitcoin reach $120,000 by December 31, 2026? | 24h volume: `247931.7768369999` | liquidity: `37393.6295`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1013453.91` | liquidity: `30193.82256`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `997390.0508760001` | liquidity: `1079522.06958`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `488570.0499999999` | liquidity: `1349447.40451`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `486385.077815` | liquidity: `749159.616`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `413279.3255340001` | liquidity: `810596.8091`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `331809.40042800084` | liquidity: `943092.477`
+- Will Bitcoin reach $75,000 in August? | 24h volume: `269515.827788` | liquidity: `56942.72731`
+- Will Bitcoin reach $120,000 by December 31, 2026? | 24h volume: `247931.7768369999` | liquidity: `37393.9795`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
