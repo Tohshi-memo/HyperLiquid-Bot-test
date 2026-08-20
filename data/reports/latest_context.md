@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T12:22:26.680515+00:00`
-- Market context score: `51.87`
-- News risk score: `45.3`
-- Macro risk score: `28.68`
-- Risk-on score: `42.12`
+- Generated: `2026-08-20T12:37:29.686446+00:00`
+- Market context score: `48.93`
+- News risk score: `47.01`
+- Macro risk score: `32.02`
+- Risk-on score: `38.3`
 - Articles: `61`
 - Polymarket markets: `389`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9543`
-- Day/swing latest: `2026-08-20T12:15:00+00:00`
+- Day/swing records: `9544`
+- Day/swing latest: `2026-08-20T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `39`, risk hits `8`, risk headline rate `0.2051`, policy hits `1`
+- macro: articles `39`, risk hits `10`, risk headline rate `0.2564`, policy hits `2`
 
 ## Headlines
 
-- [macro] Fortescue settles Queensland dispute over Gladstone electrolyser facility (Yahoo Finance)
+- [macro] SK Hynix tentative wage deal pays 60% of bonuses in stock (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage) (Yahoo Finance)
 - [macro] Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings (Yahoo Finance)
-- [macro] Deere Q3 2026 earnings: profit rises as construction offsets farm weakness (Yahoo Finance)
+- [macro] Brookdale Senior Living (BKD) Bets Big On Real Estate While Occupancy Lags (Yahoo Finance)
+- [macro] New Social Security forecast is great (and rare) news for US retirees — how to take full advantage now (Yahoo Finance)
+- [macro] Walmart Posts Weakest Sales Growth in Over Six Years (Yahoo Finance)
+- [macro] SBC Medical (SBC) Q2 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] Is Mercury Systems (MRCY)’s Partnership With Palantir Technologies (PLTR) the Catalyst for a Hardware Turnaround? (Yahoo Finance)
-- [macro] BKV Maps Path to 2.9 GW Power Buildout, CCUS Growth and Contracted Cash Flow (Yahoo Finance)
-- [macro] Here Are Thursday’s Top Wall Street Analyst Research Calls: Alphabet, Analog Devices, Crown Castle, Ebay, EPR Properties, Etsy, Merck & Co., Shopify, TJX Companies, and More (Yahoo Finance)
 - [macro] Bonds Have Done Terribly For Years — Is It Dumb To Buy Them? (Yahoo Finance)
 - [macro] Tax-Planning Tips That Work Best In August (Yahoo Finance)
-- [macro] Feel The Flow With This Water Utility Stock (Yahoo Finance)
-- [macro] This 'Dynamo' Biotech Puts AI-Fueled Breakout In Motion (Yahoo Finance)
