@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T11:53:03.236896+00:00`
-- Market context score: `50.1`
+- Generated: `2026-08-20T11:57:49.963240+00:00`
+- Market context score: `50.7`
 - News risk score: `41.86`
 - Macro risk score: `29.33`
-- Risk-on score: `35.53`
+- Risk-on score: `36.86`
 - Articles: `43`
 - Polymarket markets: `389`
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Danone €1bn takeover of Huel approved by watchdog (BBC News)
 - [crypto] Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Fed liquidity promises, dollar weakness could determine bitcoin's next move (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Illegal 'drip pricing' could add thousands to the cost of your holiday (BBC News)
 - [crypto] Bitcoin ETFs draw $517M in largest one-day inflow since early May (Cointelegraph.com News)
 - [commodity] Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources (Energy)
 - [macro] Carney asks for end to US alcohol ban, province leader says, as trade deal nears (BBC News)
