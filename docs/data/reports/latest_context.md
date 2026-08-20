@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T06:52:28.438723+00:00`
-- Market context score: `56.44`
-- News risk score: `35.25`
-- Macro risk score: `16.2`
-- Risk-on score: `39.09`
-- Articles: `34`
+- Generated: `2026-08-20T07:02:48.329663+00:00`
+- Market context score: `55.19`
+- News risk score: `36.47`
+- Macro risk score: `18.65`
+- Risk-on score: `38.26`
+- Articles: `35`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9521`
-- Day/swing latest: `2026-08-20T06:45:00+00:00`
+- Day/swing records: `9522`
+- Day/swing latest: `2026-08-20T07:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `22`, risk hits `1`, risk headline rate `0.0455`, policy hits `2`
+- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `2`
 
 ## Headlines
 
+- [macro] Travelodge boss steps down after security issues in rooms (BBC News)
 - [macro] At least 12 killed in Kyiv as Ukraine grapples with air defence shortages (BBC News)
 - [macro] Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza (BBC News)
 - [macro] US national debt passes $40tn after doubling in a decade (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] HYPE jumps 20% as Trump signals legal US path for Hyperliquid (Cointelegraph.com News)
 - [macro] Missing teen hiker found dead in Australian bush after eight-day search (BBC News)
-- [crypto] Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
