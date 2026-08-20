@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T05:52:29.975938+00:00`
-- Market context score: `52.66`
-- News risk score: `37.82`
-- Macro risk score: `21.23`
-- Risk-on score: `34.74`
+- Generated: `2026-08-20T05:56:04.831121+00:00`
+- Market context score: `53.88`
+- News risk score: `36.62`
+- Macro risk score: `18.83`
+- Risk-on score: `35.54`
 - Articles: `37`
 - Polymarket markets: `390`
 
@@ -24,7 +24,7 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `2`
+- macro: articles `23`, risk hits `1`, risk headline rate `0.0435`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
@@ -32,7 +32,7 @@
 - [macro] Missing teen hiker found dead in Australian bush after eight-day search (BBC News)
 - [crypto] Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia launches missile strikes on Kyiv and surrounding region, killing at least eight (BBC News)
-- [macro] Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza (BBC News)
+- [macro] Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza (BBC News)
 - [macro] Founder of collapsed Chinese property giant Evergrande sentenced to life in prison (BBC News)
 - [macro] Founder of collapsed Chinese property giant Evergrande sentenced to life in prison (BBC News)
 - [macro] Captured Ukrainian-born soldiers tell BBC why they fought for Russia (BBC News)
