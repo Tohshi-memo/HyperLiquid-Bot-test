@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-20T06:05:32.136542+00:00`
-- Flow alert score: `20.08`
+- Generated: `2026-08-20T06:10:25.911483+00:00`
+- Flow alert score: `20.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11240308.51`
-- Polymarket volume z-score: `0.77`
+- Polymarket 24h volume: `11193676.59`
+- Polymarket volume z-score: `0.75`
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1013453.91` | liquidity: `28618.39931`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1006607.1716450001` | liquidity: `1110162.48777`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `489146.6699999999` | liquidity: `1346776.13096`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `477297.957251` | liquidity: `803634.8697`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `420960.4866090001` | liquidity: `879484.9802`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `333201.2174670008` | liquidity: `952078.5068`
-- Will Bitcoin reach $72,500 in August? | 24h volume: `276175.50850299984` | liquidity: `46496.30556`
-- Will Bitcoin reach $75,000 in August? | 24h volume: `270740.43505699997` | liquidity: `48493.41579`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1013453.91` | liquidity: `27921.62941`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1006402.8077950004` | liquidity: `1100858.64814`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `459575.0499999999` | liquidity: `1339367.38874`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `446752.90035800013` | liquidity: `804446.5847`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `421428.4298280002` | liquidity: `877890.3612`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `333724.55079900083` | liquidity: `954139.1855`
+- Will Bitcoin reach $72,500 in August? | 24h volume: `276260.5385029998` | liquidity: `54284.20896`
+- Will the price of Bitcoin be above $72,000 on August 20? | 24h volume: `269906.76485599997` | liquidity: `31994.85395`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
