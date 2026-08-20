@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T13:22:33.029531+00:00`
-- Market context score: `45.94`
-- News risk score: `52.95`
-- Macro risk score: `31.76`
-- Risk-on score: `36.57`
+- Generated: `2026-08-20T13:37:32.977899+00:00`
+- Market context score: `46.55`
+- News risk score: `51.63`
+- Macro risk score: `31.96`
+- Risk-on score: `36.89`
 - Articles: `71`
 - Polymarket markets: `389`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9547`
-- Day/swing latest: `2026-08-20T13:15:00+00:00`
+- Day/swing records: `9548`
+- Day/swing latest: `2026-08-20T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `21`, risk hits `8`, risk headline rate `0.381`, policy hits `3`
-- macro: articles `48`, risk hits `13`, risk headline rate `0.2708`, policy hits `1`
+- crypto: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `3`
+- macro: articles `46`, risk hits `12`, risk headline rate `0.2609`, policy hits `3`
 
 ## Headlines
 
-- [macro] UK watchdog clears Vandemoortele-Délifrance deal with new proviso (Yahoo Finance)
-- [macro] Omnicell President Sells 6,753 Shares (Yahoo Finance)
+- [crypto] MiCA cracks down on USDT in Europe... but no one else cares (Cointelegraph.com News)
+- [macro] De-alc business Strategic Beverage Services acquires BevZero US assets (Yahoo Finance)
+- [macro] Danone €1bn takeover of Huel approved by watchdog (BBC News)
+- [macro] Prediction: Micron Stock Could Go Parabolic After Aug. 26 (Yahoo Finance)
+- [crypto] Bitdeer signs $400M AI cloud computing deal for Malaysia facility (Cointelegraph.com News)
+- [macro] America Hit $40 Trillion in Debt Months Early, and Your Household Budget Is Already Paying for It (Yahoo Finance)
+- [macro] Time to Accumulate Applied Materials Before Foundry Ramps Hit? (Yahoo Finance)
+- [macro] Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion? (Yahoo Finance)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Castelion raises $1 billion Series C for hypersonic missiles (Yahoo Finance)
 - [macro] Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage) (Yahoo Finance)
-- [macro] Structural Supply Tightening Drives Multi-Year Bull Case for Alcoa Corp. (AA) (Yahoo Finance)
-- [macro] The S&P 500 Returned 10% in the First Half of 2026. Here's What History Says Happens in the Second Half. (Yahoo Finance)
-- [macro] German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home (BBC News)
-- [macro] Plug Power’s (PLUG) Turnaround Math Finally Starts Adding Up (Yahoo Finance)
-- [macro] Could EQT (EQT) Be a Major Winner From LNG and Data Center Power Demand? (Yahoo Finance)
