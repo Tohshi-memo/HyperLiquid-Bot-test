@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T01:22:25.191458+00:00`
-- Market context score: `45.16`
-- News risk score: `51.0`
-- Macro risk score: `29.92`
-- Risk-on score: `32.5`
-- Articles: `60`
+- Generated: `2026-08-20T01:37:26.233641+00:00`
+- Market context score: `47.75`
+- News risk score: `48.17`
+- Macro risk score: `30.02`
+- Risk-on score: `35.91`
+- Articles: `58`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9499`
-- Day/swing latest: `2026-08-20T01:15:00+00:00`
+- Day/swing records: `9500`
+- Day/swing latest: `2026-08-20T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `24`, risk hits `12`, risk headline rate `0.4167`, policy hits `5`
+- crypto: articles `22`, risk hits `9`, risk headline rate `0.3636`, policy hits `5`
 - macro: articles `33`, risk hits `8`, risk headline rate `0.2424`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] US national debt passes $40tn after doubling in a decade (BBC News)
 - [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
 - [macro] Trump threatens 'tremendous economic consequences' on any country helping Iran (BBC News)
 - [macro] Israel opens up bids for highly-sensitive West Bank settlement project (BBC News)
@@ -38,4 +39,3 @@
 - [macro] India's Gen Z are driving up a mega boom in its beauty market (BBC News)
 - [macro] Who is Natalie Harp, Trump's right-hand woman? (BBC News)
 - [macro] I quit my £80,000 job to make ice cream - here's how (BBC News)
-- [macro] U.S. government debt passes $40 trillion, more than doubling in a decade (Economy)
