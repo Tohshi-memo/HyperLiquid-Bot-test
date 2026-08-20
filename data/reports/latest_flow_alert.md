@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-20T15:25:26.825708+00:00`
+- Generated: `2026-08-20T15:30:26.596186+00:00`
 - Flow alert score: `21.84`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1164198.632063` | liquidity: `30817.46068`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `800648.3190149995` | liquidity: `1029555.46713`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `551726.4244079998` | liquidity: `494263.774`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `528565.4271299996` | liquidity: `537230.7279`
-- Will the price of Bitcoin be above $72,000 on August 20? | 24h volume: `479691.00828899984` | liquidity: `16980.7665`
-- Bitcoin Up or Down on August 20? | 24h volume: `390109.18454099994` | liquidity: `158056.99473`
-- Will the price of Bitcoin be above $74,000 on August 20? | 24h volume: `367495.22723900015` | liquidity: `38920.37492`
-- Will the price of Bitcoin be above $70,000 on August 20? | 24h volume: `359762.35084699973` | liquidity: `50352.68762`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1164198.632063` | liquidity: `30502.18872`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `800648.3190149995` | liquidity: `767694.42583`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `551726.4244079998` | liquidity: `489643.5656`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `528565.4271299996` | liquidity: `489490.0682`
+- Will the price of Bitcoin be above $72,000 on August 20? | 24h volume: `479691.00828899984` | liquidity: `19135.01712`
+- Bitcoin Up or Down on August 20? | 24h volume: `390109.18454099994` | liquidity: `158602.40422`
+- Will the price of Bitcoin be above $74,000 on August 20? | 24h volume: `367495.22723900015` | liquidity: `39556.07848`
+- Will the price of Bitcoin be above $70,000 on August 20? | 24h volume: `359762.35084699973` | liquidity: `43937.71018`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
