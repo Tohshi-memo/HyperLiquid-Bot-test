@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T22:52:43.077039+00:00`
-- Market context score: `42.03`
-- News risk score: `48.7`
-- Macro risk score: `45.97`
-- Risk-on score: `29.67`
+- Generated: `2026-08-20T23:07:25.179066+00:00`
+- Market context score: `40.68`
+- News risk score: `49.45`
+- Macro risk score: `46.5`
+- Risk-on score: `27.5`
 - Articles: `50`
 - Polymarket markets: `389`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9585`
-- Day/swing latest: `2026-08-20T22:45:00+00:00`
+- Day/swing records: `9586`
+- Day/swing latest: `2026-08-20T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `2`
-- crypto: articles `21`, risk hits `7`, risk headline rate `0.2381`, policy hits `4`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `2`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `2`
 - policy: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `6`
 
 ## Headlines
 
+- [macro] Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell (BBC News)
 - [macro] Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment (BBC News)
 - [macro] Trump vows tougher economic measures on Iran and supporting countries (BBC News)
 - [macro] Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try (Economy)
@@ -38,4 +39,3 @@
 - [macro] Dozens dead after boat capsizes in north-western Nigeria (BBC News)
 - [crypto] Binance opens crypto trading to AI agents with user-set controls (Cointelegraph.com News)
 - [macro] Carney asks Canada's provinces to end US alcohol ban as trade deal nears (BBC News)
-- [macro] Como mayor hit by electric bike and issues blanket ban in Italian city (BBC News)
