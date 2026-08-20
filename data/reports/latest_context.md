@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-20T16:02:48.873035+00:00`
-- Market context score: `49.87`
-- News risk score: `48.88`
-- Macro risk score: `31.3`
+- Generated: `2026-08-20T16:07:28.765058+00:00`
+- Market context score: `49.76`
+- News risk score: `49.06`
+- Macro risk score: `31.59`
 - Risk-on score: `41.71`
 - Articles: `86`
 - Polymarket markets: `389`
@@ -23,14 +23,14 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `2`
-- crypto: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `3`
+- crypto: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `4`
 - macro: articles `54`, risk hits `13`, risk headline rate `0.2037`, policy hits `7`
 - policy: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
-- [macro] Togo charges two French journalists over incorrect documents, rights group says (BBC News)
 - [commodity] Oil prices rise 3% after Treasury Secretary says U.S. will collapse Iran with economic pressure (Energy)
+- [macro] Togo charges two French journalists over incorrect documents, rights group says (BBC News)
 - [crypto] Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll (Cointelegraph.com News)
 - [crypto] Optimism moves 546.9M OP from future airdrops to ecosystem growth fund (Cointelegraph.com News)
 - [macro] Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding (Yahoo Finance)
