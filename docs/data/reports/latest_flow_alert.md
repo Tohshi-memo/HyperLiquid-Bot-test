@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-20T21:05:29.593914+00:00`
+- Generated: `2026-08-20T21:10:41.920530+00:00`
 - Flow alert score: `18.88`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1617348.4396779998` | liquidity: `892931.48068`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1163962.232063` | liquidity: `30060.39229`
-- NATO x Russia military clash by August 31, 2026? | 24h volume: `652594.6535229997` | liquidity: `94103.53402`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `493380.258703` | liquidity: `654200.8906`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `440253.80829299946` | liquidity: `684896.9134`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `299370.80165899993` | liquidity: `318416.59979`
-- Will Bitcoin reach $75,000 in August? | 24h volume: `275728.84241700004` | liquidity: `37614.15167`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `268121.844468` | liquidity: `636214.60297`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1617348.4396779998` | liquidity: `892855.35832`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `1163962.232063` | liquidity: `31206.39313`
+- NATO x Russia military clash by August 31, 2026? | 24h volume: `652594.6535229997` | liquidity: `97710.26773`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `493380.258703` | liquidity: `662038.5932`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `440253.80829299946` | liquidity: `692747.9324`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `299370.80165899993` | liquidity: `317542.96854`
+- Will Bitcoin reach $75,000 in August? | 24h volume: `275728.84241700004` | liquidity: `38022.94668`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `268121.844468` | liquidity: `636215.00897`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
