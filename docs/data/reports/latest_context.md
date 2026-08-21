@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T19:43:20.272143+00:00`
-- Market context score: `53.53`
+- Generated: `2026-08-21T19:52:26.688179+00:00`
+- Market context score: `53.28`
 - News risk score: `47.54`
 - Macro risk score: `33.42`
-- Risk-on score: `49.49`
+- Risk-on score: `48.94`
 - Articles: `54`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9668`
-- Day/swing latest: `2026-08-21T19:30:00+00:00`
+- Day/swing records: `9669`
+- Day/swing latest: `2026-08-21T19:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Russian double-tap drone strike kills 15 in Ukrainian mall, officials say (BBC News)
 - [commodity] Oil prices are little changed after Iran's president indicates Tehran wants war to end soon (Energy)
 - [macro] One killed in sword attack at Swedish school (BBC News)
+- [crypto] Onchain, in court: What happened in crypto legal news this week (Cointelegraph.com News)
 - [crypto] Bitcoin seeks support near $77K as BTC, gold near 100-day highs (Cointelegraph.com News)
 - [crypto] Pass the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russian double-tap drone strike kills 15 in Ukrainian mall, officials say (BBC News)
 - [macro] Meghan in talks for role in Netflix series The Gentlemen, BBC understands (BBC News)
 - [macro] Two injured in stabbing attack at Canada Sikh temple (BBC News)
 - [commodity] U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May (Energy)
 - [macro] Tupac murder accused told police in 2008 his nephew fired fatal shots (BBC News)
-- [macro] Bessent's bond gambit aimed at calming markets is instead stirring inflation worries (Economy)
