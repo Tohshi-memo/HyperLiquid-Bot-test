@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-21T11:05:27.590685+00:00`
+- Generated: `2026-08-21T11:10:28.452337+00:00`
 - Flow alert score: `21.44`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1569903.9872769986` | liquidity: `987464.30297`
-- NATO x Russia military clash by August 31, 2026? | 24h volume: `1104957.6030700014` | liquidity: `60331.78957`
-- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `887656.71` | liquidity: `25839.54298`
-- Will Bitcoin reach $80,000 in August? | 24h volume: `368688.6989079999` | liquidity: `48258.23245`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `364265.3447809998` | liquidity: `597898.7122`
-- Will Ségolène Royal win the 2027 French presidential election? | 24h volume: `321629.29` | liquidity: `478426.48935`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `298038.741032` | liquidity: `540486.04503`
-- Will Bitcoin reach $100,000 in August? | 24h volume: `283526.710494` | liquidity: `45606.65491`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1569903.9872769986` | liquidity: `990064.87769`
+- NATO x Russia military clash by August 31, 2026? | 24h volume: `1104957.6030700014` | liquidity: `60384.37555`
+- Will Belete Molla be the next Prime Minister of Ethiopia? | 24h volume: `887656.71` | liquidity: `26672.91981`
+- Will Bitcoin reach $80,000 in August? | 24h volume: `368688.6989079999` | liquidity: `54550.46104`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `364265.3447809998` | liquidity: `600045.7711`
+- Will Ségolène Royal win the 2027 French presidential election? | 24h volume: `321629.29` | liquidity: `478423.94453`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `298038.741032` | liquidity: `540485.75161`
+- Will Bitcoin reach $100,000 in August? | 24h volume: `283526.710494` | liquidity: `48196.13003`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
