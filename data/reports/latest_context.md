@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T09:37:38.775239+00:00`
+- Generated: `2026-08-21T09:49:14.619143+00:00`
 - Market context score: `60.61`
 - News risk score: `35.67`
 - Macro risk score: `25.7`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9628`
-- Day/swing latest: `2026-08-21T09:30:00+00:00`
+- Day/swing records: `9629`
+- Day/swing latest: `2026-08-21T09:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Meghan could return to acting once back in UK (BBC News)
+- [macro] UK borrows more than expected in July as Healey prepares for first Budget (BBC News)
 - [crypto] Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran (Energy)
 - [crypto] Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K (Cointelegraph.com News)
-- [macro] UK borrows more than expected in July as Healey prepares for first Budget (BBC News)
 - [macro] Why the US economy is ringing alarm bells (BBC News)
 - [macro] Why the US economy is ringing alarm bells (BBC News)
 - [macro] Here are three key takeaways from the disappointing July jobs report (Economy)
 - [crypto] Strategy sits on $1.4 billion profit on bitcoin holdings as price surges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] 'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran (Energy)
-- [crypto] Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October (Cointelegraph.com News)
