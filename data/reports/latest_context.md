@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T08:52:26.683702+00:00`
+- Generated: `2026-08-21T08:55:39.833176+00:00`
 - Market context score: `59.4`
 - News risk score: `33.14`
 - Macro risk score: `28.19`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] UK borrows more than expected in July as Healey prepares for first Budget (BBC News)
 - [commodity] Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran (Energy)
+- [macro] UK borrows more than expected in July as Healey prepares for first Budget (BBC News)
 - [macro] Why the US economy is ringing alarm bells (BBC News)
 - [macro] Why the US economy is ringing alarm bells (BBC News)
 - [macro] Here are three key takeaways from the disappointing July jobs report (Economy)
