@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T12:07:27.668041+00:00`
-- Market context score: `60.24`
-- News risk score: `35.06`
-- Macro risk score: `24.67`
-- Risk-on score: `50.58`
-- Articles: `48`
+- Generated: `2026-08-21T12:22:36.323889+00:00`
+- Market context score: `59.03`
+- News risk score: `36.95`
+- Macro risk score: `24.64`
+- Risk-on score: `49.48`
+- Articles: `49`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9638`
-- Day/swing latest: `2026-08-21T12:00:00+00:00`
+- Day/swing records: `9639`
+- Day/swing latest: `2026-08-21T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `4`
+- crypto: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `4`
 - macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran (Energy)
 - [crypto] Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’ (Cointelegraph.com News)
 - [macro] Two Mexicans arrested as police uncover big meth lab on South African farm (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin faces $80,000 test as thinner weekend liquidity looms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Royal Mail misses delivery targets again but hails 'encouraging' signs (BBC News)
 - [macro] 'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes (BBC News)
-- [macro] Pakistan ex-PM Imran Khan back in jail after hospital examination (BBC News)
