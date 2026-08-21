@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T18:52:27.292085+00:00`
-- Market context score: `52.59`
-- News risk score: `48.69`
-- Macro risk score: `33.55`
-- Risk-on score: `48.44`
-- Articles: `52`
+- Generated: `2026-08-21T19:07:29.731123+00:00`
+- Market context score: `53.09`
+- News risk score: `48.07`
+- Macro risk score: `33.48`
+- Risk-on score: `48.99`
+- Articles: `53`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9665`
-- Day/swing latest: `2026-08-21T18:45:00+00:00`
+- Day/swing records: `9666`
+- Day/swing latest: `2026-08-21T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `6`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `6`
 - macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Pass the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian double-tap drone strike kills 15 in Ukrainian mall, officials say (BBC News)
 - [macro] Meghan in talks for role in Netflix series The Gentlemen, BBC understands (BBC News)
 - [macro] Two injured in stabbing attack at Canada Sikh temple (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Bessent's bond gambit aimed at calming markets is instead stirring inflation worries (Economy)
 - [macro] US borrowing costs rise as attempts to ease rates prove short-lived (BBC News)
 - [macro] Two teenagers seriously injured after sword attack at Swedish school (BBC News)
-- [commodity] Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays (Energy)

@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-08-21T18:52:27.292085+00:00`
-- Observed: `2026-08-21T18:45:00+00:00`
+- Generated: `2026-08-21T19:07:29.731123+00:00`
+- Observed: `2026-08-21T19:00:00+00:00`
 - Assets: `1215`
 
 ## Top Activity
 
-- `@280` unknown price `268.5` 4h `0.1866` vol `0.0` relationship `market_context_high->@280_4h`
+- `@280` unknown price `2658.0` 4h `891.791` vol `0.0` relationship `market_context_high->@280_4h`
 - `@190` unknown price `0.004721` 4h `-2.0743` vol `0.0` relationship `market_context_high->@190_24h`
 - `@44` unknown price `0.001231` 4h `0.0772` vol `0.0` relationship `market_context_high->@44_24h`
-- `@148` unknown price `0.000369` 4h `110.8571` vol `0.0` relationship `market_context_high->@148_4h`
 - `@117` unknown price `0.0009794` 4h `0.0` vol `0.0` relationship `market_context_high->@117_24h`
-- `@174` unknown price `0.28846` 4h `0.3322` vol `0.0` relationship `market_context_high->@174_24h`
-- `ACE` crypto_alt price `0.2315` 4h `0.3903` vol `914632.58` relationship `market_context_high->ACE_24h`
-- `xyz:CBRS` equity price `197.735` 4h `-1.0434` vol `25456794.89` relationship `market_context_high->xyz:CBRS_24h`
-- `@698` unknown price `0.0454875` 4h `-0.4606` vol `0.0` relationship `market_context_high->@698_24h`
-- `VVV` crypto_alt price `15.4045` 4h `-1.5372` vol `14469649.55` relationship `market_context_high->VVV_24h`
-- `xyz:UNITREE` equity price `100.265` 4h `0.8129` vol `63780455.19` relationship `market_context_high->xyz:UNITREE_24h`
+- `@148` unknown price `0.000369` 4h `110.8571` vol `0.0` relationship `market_context_high->@148_4h`
+- `@174` unknown price `0.288515` 4h `0.8564` vol `0.0` relationship `market_context_high->@174_24h`
+- `ACE` crypto_alt price `0.2366` 4h `2.2914` vol `912433.59` relationship `market_context_high->ACE_24h`
+- `xyz:CBRS` equity price `198.595` 4h `-0.6205` vol `25625289.25` relationship `market_context_high->xyz:CBRS_24h`
+- `@698` unknown price `0.0458795` 4h `-1.192` vol `0.0` relationship `market_context_high->@698_24h`
+- `VVV` crypto_alt price `15.1205` 4h `-3.5282` vol `14875584.35` relationship `market_context_high->VVV_24h`
+- `xyz:UNITREE` equity price `100.22` 4h `0.6073` vol `63686698.68` relationship `market_context_high->xyz:UNITREE_24h`
 - `@127` unknown price `0.024176` 4h `60.2864` vol `0.0` relationship `market_context_high->@127_4h`
-- `para:UNITREE` equity price `100.215` 4h `0.8407` vol `6682212.94` relationship `market_context_high->para:UNITREE_24h`
+- `para:UNITREE` equity price `100.21` 4h `0.6074` vol `6676493.3` relationship `market_context_high->para:UNITREE_24h`
 - `@331` unknown price `539.425` 4h `0.0` vol `0.0` relationship `market_context_high->@331_4h`
-- `ZORA` crypto_alt price `0.006985` 4h `2.63` vol `5140326.52` relationship `market_context_high->ZORA_4h`
-- `para:CRDO` equity price `230.275` 4h `1.2866` vol `415402.88` relationship `market_context_high->para:CRDO_24h`
-- `POL` crypto_alt price `0.088701` 4h `-0.9392` vol `2463812.66` relationship `market_context_high->POL_24h`
+- `ZORA` crypto_alt price `0.006835` 4h `-2.0493` vol `5175393.87` relationship `market_context_high->ZORA_4h`
+- `para:CRDO` equity price `231.205` 4h `2.6984` vol `415587.92` relationship `market_context_high->para:CRDO_24h`
+- `POL` crypto_alt price `0.08901` 4h `-1.7951` vol `2460908.11` relationship `market_context_high->POL_24h`
 - `@248` unknown price `281.1` 4h `-0.4956` vol `0.0` relationship `market_context_high->@248_4h`
-- `xyz:MRNA` equity price `141.145` 4h `-6.3187` vol `68874315.4` relationship `market_context_high->xyz:MRNA_4h`
-- `NIL` crypto_alt price `0.04544` 4h `-0.5276` vol `889235.42` relationship `market_context_high->NIL_24h`
+- `NIL` crypto_alt price `0.045807` 4h `-1.3652` vol `872482.28` relationship `market_context_high->NIL_24h`
+- `GALA` crypto_alt price `0.002069` 4h `2.6799` vol `760568.2` relationship `market_context_high->GALA_4h`
