@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T01:07:23.862160+00:00`
-- Market context score: `47.28`
-- News risk score: `42.4`
-- Macro risk score: `39.03`
-- Risk-on score: `33.4`
+- Generated: `2026-08-21T01:22:33.972521+00:00`
+- Market context score: `47.22`
+- News risk score: `42.68`
+- Macro risk score: `38.3`
+- Risk-on score: `33.21`
 - Articles: `46`
 - Polymarket markets: `388`
 
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9594`
-- Day/swing latest: `2026-08-21T01:00:00+00:00`
+- Day/swing records: `9595`
+- Day/swing latest: `2026-08-21T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `2`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.2143`, policy hits `2`
+- macro: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `2`
 - policy: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `6`
 
 ## Headlines
 
 - [macro] Why Nigeria's one-time political giant may face extinction (BBC News)
+- [macro] How much could Trump's 'economic D-Day' hurt Iran? (BBC News)
 - [macro] How much could Trump's 'economic D-Day' hurt Iran? (BBC News)
 - [macro] Why the US economy is ringing alarm bells (BBC News)
 - [macro] How landscape gardening is being electrified (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment (BBC News)
 - [macro] Trump vows tougher economic measures on Iran and supporting countries (BBC News)
 - [macro] Trump wants to be friends with Kim - but South Korea could pay the price (BBC News)
-- [macro] Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try (Economy)
