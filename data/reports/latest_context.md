@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T09:07:35.159927+00:00`
-- Market context score: `61.52`
-- News risk score: `33.72`
-- Macro risk score: `27.74`
-- Risk-on score: `53.45`
+- Generated: `2026-08-21T09:22:30.302056+00:00`
+- Market context score: `60.48`
+- News risk score: `35.65`
+- Macro risk score: `26.16`
+- Risk-on score: `52.16`
 - Articles: `43`
 - Polymarket markets: `389`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9626`
-- Day/swing latest: `2026-08-21T09:00:00+00:00`
+- Day/swing records: `9627`
+- Day/swing latest: `2026-08-21T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `3`
-- macro: articles `28`, risk hits `6`, risk headline rate `0.2143`, policy hits `1`
+- crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `4`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran (Energy)
 - [crypto] Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K (Cointelegraph.com News)
 - [macro] UK borrows more than expected in July as Healey prepares for first Budget (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Strategy sits on $1.4 billion profit on bitcoin holdings as price surges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] 'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran (Energy)
 - [crypto] Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October (Cointelegraph.com News)
-- [macro] Five missing after fire in Swiss Alpine town (BBC News)
