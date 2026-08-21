@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T12:00:57.497807+00:00`
-- Market context score: `58.9`
-- News risk score: `36.37`
-- Macro risk score: `26.93`
-- Risk-on score: `49.56`
-- Articles: `47`
+- Generated: `2026-08-21T12:07:27.668041+00:00`
+- Market context score: `60.24`
+- News risk score: `35.06`
+- Macro risk score: `24.67`
+- Risk-on score: `50.58`
+- Articles: `48`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,14 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `4`
-- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `0`
+- crypto: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `4`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran (Energy)
+- [crypto] Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’ (Cointelegraph.com News)
+- [macro] Two Mexicans arrested as police uncover big meth lab on South African farm (BBC News)
 - [macro] Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war (BBC News)
 - [crypto] Analysts split on whether Bitcoin's surge past key levels signals a new bull run (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] The hard truth is that the Clarity Act is an anti-crypto bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [macro] Royal Mail misses delivery targets again but hails 'encouraging' signs (BBC News)
 - [macro] 'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes (BBC News)
 - [macro] Pakistan ex-PM Imran Khan back in jail after hospital examination (BBC News)
-- [crypto] Nomura-backed Laser Digital wins Japan's first crypto approval in four years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project (Energy)
