@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T10:19:00.825633+00:00`
-- Market context score: `59.61`
-- News risk score: `35.23`
-- Macro risk score: `26.12`
-- Risk-on score: `49.86`
-- Articles: `44`
+- Generated: `2026-08-21T10:22:26.927406+00:00`
+- Market context score: `58.13`
+- News risk score: `37.73`
+- Macro risk score: `25.63`
+- Risk-on score: `48.5`
+- Articles: `46`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -22,13 +22,15 @@
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `4`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `4`
 - macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
 
 ## Headlines
 
 - [crypto] Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project (Energy)
+- [crypto] Coldcard strengthens seed generation with firmware update (Cointelegraph.com News)
 - [macro] Bodies of two hikers missing for decades found after Swiss glacier melts (BBC News)
 - [macro] Millennials have found it hard to buy homes – but things may be turning a corner (BBC News)
 - [macro] Eight killed in plane crash at remote Alaskan military site, air force says (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran (Energy)
 - [crypto] Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K (Cointelegraph.com News)
-- [macro] Why the US economy is ringing alarm bells (BBC News)
-- [macro] Why the US economy is ringing alarm bells (BBC News)
