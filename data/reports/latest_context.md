@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T05:46:00.500301+00:00`
-- Market context score: `49.8`
-- News risk score: `38.4`
-- Macro risk score: `35.08`
-- Risk-on score: `34.12`
-- Articles: `42`
+- Generated: `2026-08-21T05:52:31.106031+00:00`
+- Market context score: `50.18`
+- News risk score: `37.94`
+- Macro risk score: `35.03`
+- Risk-on score: `34.57`
+- Articles: `43`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,14 @@
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.1818`, policy hits `0`
+- crypto: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Hong Kong's Tiananmen activists guilty in national security trial (BBC News)
+- [crypto] South Korean lawmakers seek expanded FIU powers over unregistered crypto firms (Cointelegraph.com News)
 - [macro] British rapper Yung Filly to face retrial on rape charges in Australia (BBC News)
 - [crypto] Ripple backs an RLUSD credit fund amid XRP's best week in months (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MANTRA token sinks 18% to record low amid blockchain halt (Cointelegraph.com News)
@@ -36,6 +38,4 @@
 - [commodity] 'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran (Energy)
 - [macro] Pakistan ex-PM Imran Khan back in jail after hospital examination (BBC News)
 - [crypto] Capital.com plans UAE spot crypto services after affiliate wins licence (Cointelegraph.com News)
-- [macro] Hong Kong's Tiananmen activists guilty in national security trial (BBC News)
 - [macro] Japan executes man who killed five in Pachinko parlour fire (BBC News)
-- [macro] Bali jails Swiss tourist for insulting sacred Day of Silence (BBC News)
