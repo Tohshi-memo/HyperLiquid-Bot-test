@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-21T19:37:23.817672+00:00`
-- Market context score: `53.09`
-- News risk score: `48.07`
-- Macro risk score: `33.48`
-- Risk-on score: `48.99`
-- Articles: `53`
+- Generated: `2026-08-21T19:43:20.272143+00:00`
+- Market context score: `53.53`
+- News risk score: `47.54`
+- Macro risk score: `33.42`
+- Risk-on score: `49.49`
+- Articles: `54`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,14 @@
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `6`
+- crypto: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `6`
 - macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
 
 ## Headlines
 
-- [commodity] Oil prices little changed after Iran's president indicates Tehran wants war to end soon (Energy)
+- [commodity] Oil prices are little changed after Iran's president indicates Tehran wants war to end soon (Energy)
 - [macro] One killed in sword attack at Swedish school (BBC News)
+- [crypto] Bitcoin seeks support near $77K as BTC, gold near 100-day highs (Cointelegraph.com News)
 - [crypto] Pass the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian double-tap drone strike kills 15 in Ukrainian mall, officials say (BBC News)
 - [macro] Meghan in talks for role in Netflix series The Gentlemen, BBC understands (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May (Energy)
 - [macro] Tupac murder accused told police in 2008 his nephew fired fatal shots (BBC News)
 - [macro] Bessent's bond gambit aimed at calming markets is instead stirring inflation worries (Economy)
-- [macro] US borrowing costs rise as attempts to ease rates prove short-lived (BBC News)
