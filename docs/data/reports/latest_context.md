@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T21:37:23.451840+00:00`
-- Market context score: `38.94`
+- Generated: `2026-08-22T21:41:40.035786+00:00`
+- Market context score: `40.14`
 - News risk score: `59.54`
 - Macro risk score: `34.43`
-- Risk-on score: `27.6`
+- Risk-on score: `30.27`
 - Articles: `31`
 - Polymarket markets: `387`
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Reddit vs. Rigetti Computing: Which High-Growth Stock Is a Better Buy in 2026, the Social Media Giant or Rising Quantum Computing Company? (Yahoo Finance)
+- [macro] Strive Director Pierre Rochard Buys 15,900 Shares After 86% Decline. Is a Rebound Coming? (Yahoo Finance)
 - [macro] Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024 (Yahoo Finance)
 - [macro] American Assets Trust Executive Chairman Rady Buys $1. Million Shares. Is This a Sign for Investors to Buy? (Yahoo Finance)
-- [macro] Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up. (Yahoo Finance)
-- [macro] At 59½ Your 401(k) Quietly Unlocks While You’re Still Working. The In-Service Rollover Nobody in HR Will Ever Mention to You. (Yahoo Finance)
 - [macro] Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse (BBC News)
 - [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
 - [macro] Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis (Yahoo Finance)
