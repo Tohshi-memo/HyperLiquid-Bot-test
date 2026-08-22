@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T17:22:28.076521+00:00`
-- Market context score: `38.98`
-- News risk score: `57.07`
-- Macro risk score: `38.11`
-- Risk-on score: `26.98`
+- Generated: `2026-08-22T17:32:52.253487+00:00`
+- Market context score: `39.51`
+- News risk score: `54.76`
+- Macro risk score: `33.49`
+- Risk-on score: `24.48`
 - Articles: `33`
 - Polymarket markets: `388`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9753`
-- Day/swing latest: `2026-08-22T17:15:00+00:00`
+- Day/swing records: `9754`
+- Day/swing latest: `2026-08-22T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
-- macro: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `5`
+- macro: articles `25`, risk hits `8`, risk headline rate `0.28`, policy hits `5`
 
 ## Headlines
 
+- [macro] Comcast adds new service to internet plans as customers leave (Yahoo Finance)
+- [macro] After Exploding by 18% in One Day, Is XRP a Buy? (Yahoo Finance)
+- [macro] Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole (Yahoo Finance)
+- [macro] CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%. (Yahoo Finance)
 - [macro] Watch: Moment humanoid robot beats Usain Bolt's 100m record (BBC News)
+- [macro] Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters (Yahoo Finance)
 - [macro] US military newspaper editor voices censorship fears after being fired (BBC News)
-- [macro] If You Have $10,000: 3 Dividend ETFs Worth Buying Before September (Yahoo Finance)
-- [macro] Cathie Wood buys $28.1 million of popular tech stock (Yahoo Finance)
 - [macro] Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse (BBC News)
-- [macro] JPMorgan Chase CEO Jamie Dimon Dropped a 9-Word Warning: "Margin Debt Is the Highest It Has Ever Been." Should Investors Be Worried? (Yahoo Finance)
-- [macro] Warren Buffett’s Berkshire makes backdoor SpaceX play (Yahoo Finance)
 - [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
 - [macro] Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive (Yahoo Finance)
-- [macro] Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada (Yahoo Finance)
