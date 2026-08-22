@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T06:37:24.695524+00:00`
-- Market context score: `51.45`
-- News risk score: `43.71`
-- Macro risk score: `43.19`
-- Risk-on score: `45.33`
+- Generated: `2026-08-22T06:52:26.202247+00:00`
+- Market context score: `54.0`
+- News risk score: `41.21`
+- Macro risk score: `38.19`
+- Risk-on score: `47.0`
 - Articles: `21`
 - Polymarket markets: `391`
 
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9711`
-- Day/swing latest: `2026-08-22T06:30:00+00:00`
+- Day/swing records: `9712`
+- Day/swing latest: `2026-08-22T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `11`, risk hits `5`, risk headline rate `0.4545`, policy hits `0`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
+- [macro] Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall (BBC News)
 - [crypto] Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall (BBC News)
 - [crypto] How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Canada says it will match US tariffs 'dollar for dollar' as trade talks break down (BBC News)
 - [macro] 'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters? (BBC News)
