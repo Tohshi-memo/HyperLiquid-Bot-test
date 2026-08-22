@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T17:37:25.141292+00:00`
-- Market context score: `39.51`
-- News risk score: `54.76`
-- Macro risk score: `33.49`
-- Risk-on score: `24.48`
-- Articles: `33`
+- Generated: `2026-08-22T17:52:28.310182+00:00`
+- Market context score: `35.76`
+- News risk score: `62.25`
+- Macro risk score: `39.5`
+- Risk-on score: `24.72`
+- Articles: `30`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9754`
-- Day/swing latest: `2026-08-22T17:30:00+00:00`
+- Day/swing records: `9755`
+- Day/swing latest: `2026-08-22T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
-- macro: articles `25`, risk hits `8`, risk headline rate `0.28`, policy hits `5`
+- crypto: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
+- macro: articles `23`, risk hits `11`, risk headline rate `0.3478`, policy hits `8`
 
 ## Headlines
 
+- [macro] Treasury Yields Have Surged. Is It Finally Time to Buy Bond ETFs? (Yahoo Finance)
+- [macro] Let’s Be Real. For Most Retirees, Only One Great Lake Town Actually Works (Yahoo Finance)
+- [macro] This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. (Yahoo Finance)
 - [macro] Comcast adds new service to internet plans as customers leave (Yahoo Finance)
-- [macro] After Exploding by 18% in One Day, Is XRP a Buy? (Yahoo Finance)
 - [macro] Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole (Yahoo Finance)
-- [macro] CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%. (Yahoo Finance)
 - [macro] Watch: Moment humanoid robot beats Usain Bolt's 100m record (BBC News)
-- [macro] Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters (Yahoo Finance)
 - [macro] US military newspaper editor voices censorship fears after being fired (BBC News)
 - [macro] Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse (BBC News)
 - [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
