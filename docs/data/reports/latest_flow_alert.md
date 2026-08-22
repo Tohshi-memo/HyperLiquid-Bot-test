@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-22T07:20:26.808666+00:00`
-- Flow alert score: `19.6`
+- Generated: `2026-08-22T07:25:28.796672+00:00`
+- Flow alert score: `19.44`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12009712.34`
-- Polymarket volume z-score: `0.65`
+- Polymarket 24h volume: `11905168.21`
+- Polymarket volume z-score: `0.61`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1514314.04808` | liquidity: `822039.61943`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1315771.835545` | liquidity: `1145059.2156`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `693926.1293049996` | liquidity: `970227.0074`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `514121.4466549998` | liquidity: `768621.8323`
-- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `462828.55` | liquidity: `1303608.12827`
-- Will Bitcoin reach $80,000 in August? | 24h volume: `421433.4026779998` | liquidity: `75334.34867`
-- Will Bitcoin reach $100,000 in August? | 24h volume: `371277.86646600004` | liquidity: `85709.63579`
-- Will Ségolène Royal win the 2027 French presidential election? | 24h volume: `309951.156` | liquidity: `475468.55361`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1511542.3603170002` | liquidity: `821580.11583`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1315794.115545` | liquidity: `1145081.12163`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `694378.5085319997` | liquidity: `786017.0308`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `513980.0572249999` | liquidity: `580017.9168`
+- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `462828.55` | liquidity: `1302891.39227`
+- Will Bitcoin reach $80,000 in August? | 24h volume: `401134.8196910002` | liquidity: `75139.63788`
+- Will Bitcoin reach $100,000 in August? | 24h volume: `346849.646466` | liquidity: `85747.76768`
+- Will Ségolène Royal win the 2027 French presidential election? | 24h volume: `309949.375` | liquidity: `476618.54361`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
