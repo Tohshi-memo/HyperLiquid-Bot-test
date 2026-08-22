@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T19:22:27.115431+00:00`
-- Market context score: `34.6`
-- News risk score: `61.22`
-- Macro risk score: `37.63`
-- Risk-on score: `20.58`
-- Articles: `31`
+- Generated: `2026-08-22T19:37:30.036440+00:00`
+- Market context score: `38.94`
+- News risk score: `60.0`
+- Macro risk score: `35.33`
+- Risk-on score: `28.33`
+- Articles: `30`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9761`
-- Day/swing latest: `2026-08-22T19:15:00+00:00`
+- Day/swing records: `9762`
+- Day/swing latest: `2026-08-22T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- macro: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `6`
+- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `5`
 
 ## Headlines
 
+- [macro] My 3 Favorite High-Yield Dividend Stocks to Buy Right Now (Yahoo Finance)
+- [macro] Marvell investors must carefully consider latest Google deal (Yahoo Finance)
+- [macro] New for 2026: Workers 60 to 63 Can Put Away an Extra $11,250. Almost Nobody Does. (Yahoo Finance)
 - [macro] TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy (Yahoo Finance)
-- [macro] Want $10,000 a Year on $100K? The Private-Credit Funds Banks Can’t Compete With Pay 10%+ (Yahoo Finance)
 - [macro] Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports (Yahoo Finance)
-- [macro] Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares? (Yahoo Finance)
-- [macro] This Fund Pays 400% of the S&P’s Dividend and Still Beat Half of Wall Street This Year (Yahoo Finance)
 - [macro] Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse (BBC News)
 - [macro] U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse? (Yahoo Finance)
 - [macro] Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole (Yahoo Finance)
