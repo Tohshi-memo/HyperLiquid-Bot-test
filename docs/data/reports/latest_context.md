@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T00:37:24.621118+00:00`
-- Market context score: `47.33`
-- News risk score: `47.52`
-- Macro risk score: `44.78`
-- Risk-on score: `40.0`
-- Articles: `36`
+- Generated: `2026-08-22T00:52:31.259118+00:00`
+- Market context score: `47.61`
+- News risk score: `47.46`
+- Macro risk score: `42.78`
+- Risk-on score: `39.82`
+- Articles: `34`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9688`
-- Day/swing latest: `2026-08-22T00:30:00+00:00`
+- Day/swing records: `9689`
+- Day/swing latest: `2026-08-22T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `3`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `2`
+- macro: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `2`
 
 ## Headlines
 
+- [macro] 'We have more work to do', says Canada negotiator as US trade deadline looms (BBC News)
 - [macro] Two injured in stabbing attack at Canada Sikh temple (BBC News)
 - [crypto] Crypto advocates join in suing Illinois over digital asset tax (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Canada 'should fight' as US trade deadline looms, Manitoba premier says (BBC News)
 - [macro] One killed in sword attack at Swedish school (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC (Cointelegraph.com News)
