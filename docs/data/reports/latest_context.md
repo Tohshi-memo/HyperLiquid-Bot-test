@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T22:52:27.297834+00:00`
-- Market context score: `41.62`
+- Generated: `2026-08-22T22:57:48.885557+00:00`
+- Market context score: `40.66`
 - News risk score: `57.25`
 - Macro risk score: `30.15`
-- Risk-on score: `30.0`
+- Risk-on score: `27.88`
 - Articles: `28`
 - Polymarket markets: `388`
 
@@ -27,11 +27,11 @@
 
 ## Headlines
 
+- [macro] He Sold Nothing in the 2022 Crash. He Swapped Into a Similar Fund for a Week, Booked $90,000 of Losses, and Hasn’t Paid Capital-Gains Tax Since. (Yahoo Finance)
+- [macro] The Hidden Cost Of Home Insurance (Yahoo Finance)
 - [macro] Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders. (Yahoo Finance)
 - [macro] Up 20% in 1 Day, is Hyperliquid Worth Buying Hand Over Fist Right Now? (Yahoo Finance)
 - [macro] Institutional Investors Are Buying Hyperliquid Strategies. Should You? (Yahoo Finance)
-- [macro] Insider Transaction: Cytokinetics CEO Robert Blum Sells 7,500 Shares for $575,700 (Yahoo Finance)
-- [macro] What Would Alan Greenspan Say About This Stock Market? (Yahoo Finance)
 - [macro] The Gas Turbine Shortage Just Became AI’s Biggest Constraint (Yahoo Finance)
 - [macro] Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse (BBC News)
 - [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
