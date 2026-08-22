@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T03:07:34.847533+00:00`
-- Market context score: `51.01`
-- News risk score: `42.83`
-- Macro risk score: `36.61`
-- Risk-on score: `41.12`
+- Generated: `2026-08-22T03:22:24.901980+00:00`
+- Market context score: `49.4`
+- News risk score: `44.4`
+- Macro risk score: `39.76`
+- Risk-on score: `40.06`
 - Articles: `30`
 - Polymarket markets: `391`
 
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9697`
-- Day/swing latest: `2026-08-22T03:00:00+00:00`
+- Day/swing records: `9698`
+- Day/swing latest: `2026-08-22T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `2`
-- macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `2`
 
 ## Headlines
 
-- [macro] Russian double-tap drone strike kills 16 in Ukrainian mall, officials say (BBC News)
+- [macro] Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall (BBC News)
 - [macro] 'We have more work to do', says Canada negotiator as US trade deadline looms (BBC News)
 - [macro] 'We have more work to do', says Canada negotiator as US trade deadline looms (BBC News)
 - [macro] Two injured in stabbing attack at Canada Sikh temple (BBC News)
