@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T11:37:25.057907+00:00`
-- Market context score: `54.46`
-- News risk score: `49.42`
-- Macro risk score: `28.68`
-- Risk-on score: `51.36`
-- Articles: `13`
+- Generated: `2026-08-22T11:41:03.077070+00:00`
+- Market context score: `54.54`
+- News risk score: `49.0`
+- Macro risk score: `28.17`
+- Risk-on score: `51.0`
+- Articles: `12`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `2`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
 - [macro] Canada says it will match US tariffs 'dollar for dollar' as trade talks break down (BBC News)
 - [commodity] Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' (Energy)
 - [macro] Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike (BBC News)
-- [macro] Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling (Yahoo Finance)
 - [macro] Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say (BBC News)
 - [macro] Sydney Marathon medal mistakenly depicts Munich stadium (BBC News)
 - [crypto] Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Lindsay Clancy suffering 'command hallucination' when she killed children, court hears (BBC News)
 - [macro] 'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters? (BBC News)
+- [macro] 'We have more work to do', says Canada negotiator as US trade deadline looms (BBC News)
