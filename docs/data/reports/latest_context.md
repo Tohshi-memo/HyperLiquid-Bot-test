@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T12:22:26.560824+00:00`
-- Market context score: `59.69`
-- News risk score: `41.19`
-- Macro risk score: `27.8`
-- Risk-on score: `55.71`
+- Generated: `2026-08-22T12:37:30.875284+00:00`
+- Market context score: `61.88`
+- News risk score: `39.05`
+- Macro risk score: `23.51`
+- Risk-on score: `57.14`
 - Articles: `17`
 - Polymarket markets: `390`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9734`
-- Day/swing latest: `2026-08-22T12:15:00+00:00`
+- Day/swing records: `9735`
+- Day/swing latest: `2026-08-22T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
+- macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `0`
 
 ## Headlines
 
+- [macro] Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike (BBC News)
 - [macro] Canada says it will match US tariffs 'dollar for dollar' as trade talks break down (BBC News)
-- [macro] Walmart shoppers must consider one major shift coming to prices (Yahoo Finance)
-- [macro] BlockchAIn Digital Infrastructure Targets AI Data Centers With 65 MW of Contracted Power (Yahoo Finance)
-- [macro] Tempus AI's Diagnostics Chief Filed Stock Sales Spanning a Volatile Week. Here's What Happened (Yahoo Finance)
-- [macro] Palantir, Freeport Break Out, Lead Five Stocks Near Buy Points (Yahoo Finance)
+- [macro] Where Will This Vanguard ETF, Loaded With Nvidia and Broadcom, Be in 10 Years? (Yahoo Finance)
+- [macro] Tempus AI's Accounting Chief Just Reported an Insider Transaction. Here's What Long-Term Investors Should Know (Yahoo Finance)
+- [macro] ‘Always the best time to buy’: Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100 (Yahoo Finance)
+- [macro] Her Annuity Pays $1,580 a Month, Guaranteed for Life. At 73, It Pushed Her Medicare Premium Up Two Brackets. (Yahoo Finance)
+- [macro] Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom (Yahoo Finance)
 - [crypto] Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Millions of US seniors could lose full Social Security COLAs. New proposal may preserve program, but here’s who loses (Yahoo Finance)
 - [commodity] Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' (Energy)
-- [macro] Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike (BBC News)
 - [macro] Robot horse and rider steal the spotlight at Chinese conference (BBC News)
