@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T12:52:27.200328+00:00`
-- Market context score: `51.06`
-- News risk score: `45.5`
-- Macro risk score: `36.17`
-- Risk-on score: `43.33`
+- Generated: `2026-08-22T13:06:06.283635+00:00`
+- Market context score: `58.96`
+- News risk score: `42.17`
+- Macro risk score: `29.5`
+- Risk-on score: `55.56`
 - Articles: `12`
 - Polymarket markets: `390`
 
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9736`
-- Day/swing latest: `2026-08-22T12:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [macro] I’m 44 with $1.3 million in my 401(k) — can I stop contributing and still retire in 15 years? (Yahoo Finance)
 - [macro] Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike (BBC News)
-- [macro] The tax loophole that turns a Trump Account into tax-free millions — do you know how to exploit it? (Yahoo Finance)
 - [macro] Canada says it will match US tariffs 'dollar for dollar' as trade talks break down (BBC News)
 - [crypto] Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' (Energy)
