@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T21:07:27.085012+00:00`
+- Generated: `2026-08-22T21:22:28.050653+00:00`
 - Market context score: `38.94`
 - News risk score: `59.54`
 - Macro risk score: `34.43`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9768`
-- Day/swing latest: `2026-08-22T21:00:00+00:00`
+- Day/swing records: `9769`
+- Day/swing latest: `2026-08-22T21:15:00+00:00`
 
 ## News Categories
 
@@ -32,9 +32,9 @@
 - [macro] American Assets Trust Executive Chairman Rady Buys $1. Million Shares. Is This a Sign for Investors to Buy? (Yahoo Finance)
 - [macro] Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up. (Yahoo Finance)
 - [macro] At 59½ Your 401(k) Quietly Unlocks While You’re Still Working. The In-Service Rollover Nobody in HR Will Ever Mention to You. (Yahoo Finance)
-- [macro] Delek Logistics CFO Buys 1,500 Shares for $75,000. Here's a Closer Look at the Transaction. (Yahoo Finance)
 - [macro] Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse (BBC News)
 - [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
 - [macro] Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis (Yahoo Finance)
 - [macro] Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In? (Yahoo Finance)
 - [macro] Clean Energy Spending Tracking Toward Record $180 Billion in 2026 (Yahoo Finance)
+- [macro] Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports (Yahoo Finance)
