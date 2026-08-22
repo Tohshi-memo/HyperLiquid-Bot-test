@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-22T05:14:02.943366+00:00`
+- Generated: `2026-08-22T05:22:25.303630+00:00`
 - Market context score: `50.66`
 - News risk score: `44.88`
 - Macro risk score: `43.04`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9705`
-- Day/swing latest: `2026-08-22T05:00:00+00:00`
+- Day/swing records: `9706`
+- Day/swing latest: `2026-08-22T05:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall (BBC News)
 - [crypto] How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Canada says it will match US tariffs 'dollar for dollar' as trade talks break down (BBC News)
-- [macro] Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall (BBC News)
 - [macro] 'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters? (BBC News)
 - [macro] 'We have more work to do', says Canada negotiator as US trade deadline looms (BBC News)
 - [macro] As they return to the UK, Harry and Meghan search for a brand that sticks (BBC News)
