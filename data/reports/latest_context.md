@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T06:52:26.125867+00:00`
-- Market context score: `60.97`
-- News risk score: `25.5`
-- Macro risk score: `27.0`
-- Risk-on score: `45.0`
-- Articles: `8`
+- Generated: `2026-08-23T06:57:42.829612+00:00`
+- Market context score: `58.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `43.33`
+- Articles: `12`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -22,15 +22,17 @@
 
 ## News Categories
 
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
 - [macro] Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war (BBC News)
+- [macro] Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war (BBC News)
 - [macro] 'We're not going to run from it': Sydney Marathon laughs off medal error (BBC News)
+- [macro] Mayors to get powers to overrule local councils on planning decisions (BBC News)
+- [macro] Cyber attack shut down small power plant (BBC News)
 - [macro] Girl, 17, killed in Swedish sword attack, police say (BBC News)
 - [macro] Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya? (BBC News)
 - [macro] 91-year-old supermarket chain closes stores, lays off employees (Yahoo Finance)
+- [macro] Struggling households need more help with bills, energy industry says (BBC News)
 - [macro] Syria says Israeli strike near Damascus violation of international law (BBC News)
-- [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
-- [macro] The hotel booking mix-up that could free mushroom murderer (BBC News)
