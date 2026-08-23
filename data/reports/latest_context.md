@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T10:07:35.312935+00:00`
-- Market context score: `54.52`
-- News risk score: `23.0`
-- Macro risk score: `22.0`
-- Risk-on score: `26.67`
-- Articles: `12`
+- Generated: `2026-08-23T10:09:37.093071+00:00`
+- Market context score: `54.91`
+- News risk score: `22.62`
+- Macro risk score: `21.23`
+- Risk-on score: `26.92`
+- Articles: `13`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -22,10 +22,11 @@
 
 ## News Categories
 
-- macro: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `0`
 
 ## Headlines
 
+- [macro] CrossCountry cancels UK services after power cut (BBC News)
 - [macro] Mayors to get powers to overrule local councils on planning decisions (BBC News)
 - [macro] Robots compete in boxing, football and sprinting at World Humanoid Games (BBC News)
 - [macro] Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC (BBC News)
@@ -35,4 +36,3 @@
 - [macro] 'We're not going to run from it': Sydney Marathon laughs off medal error (BBC News)
 - [macro] Iran-linked hackers behind cyber attack that shut down power plant, reports say (BBC News)
 - [macro] Girl, 17, killed in Swedish sword attack, police say (BBC News)
-- [macro] Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing (BBC News)
