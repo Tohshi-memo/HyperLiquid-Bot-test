@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T20:37:31.767122+00:00`
+- Generated: `2026-08-23T20:46:04.632042+00:00`
 - Market context score: `62.36`
 - News risk score: `33.2`
 - Macro risk score: `20.37`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9862`
-- Day/swing latest: `2026-08-23T20:30:00+00:00`
+- Day/swing records: `9863`
+- Day/swing latest: `2026-08-23T20:45:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] UBS revamps S&P 500 target for rest of 2026 (Yahoo Finance)
 - [macro] Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson? (Yahoo Finance)
 - [macro] Trump waves green flag to start IndyCar race through Washington streets (BBC News)
 - [macro] Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years? (Yahoo Finance)
@@ -36,4 +37,3 @@
 - [macro] Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost? (Yahoo Finance)
 - [macro] Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story? (Yahoo Finance)
 - [macro] Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth? (Yahoo Finance)
-- [macro] Your mortgage rate has a growing problem in the bond market (Yahoo Finance)
