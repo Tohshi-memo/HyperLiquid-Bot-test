@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-23T17:00:28.126716+00:00`
+- Generated: `2026-08-23T17:05:32.157443+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6254444.87`
-- Polymarket volume z-score: `-1.96`
+- Polymarket 24h volume: `6286087.79`
+- Polymarket volume z-score: `-1.95`
 
 ## Top Polymarket Markets
 
 - Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `875114.6900000001` | liquidity: `1187636.70753`
-- Will Ethereum dip to $1,000 by December 31, 2026? | 24h volume: `393826.221344` | liquidity: `152017.9286`
+- Will Ethereum dip to $1,000 by December 31, 2026? | 24h volume: `393826.221344` | liquidity: `151942.9286`
 - Will Ethereum dip to $800 by December 31, 2026? | 24h volume: `339352.871657` | liquidity: `122645.0468`
-- Will Bitcoin reach $100,000 in August? | 24h volume: `221757.30829799993` | liquidity: `147019.95059`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `214308.84045999986` | liquidity: `600339.87943`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `209439.959332` | liquidity: `748161.49614`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `195517.323616` | liquidity: `371369.7385`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `186190.14548799995` | liquidity: `463058.29465`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `295370.399853` | liquidity: `618845.4339`
+- Will Bitcoin reach $100,000 in August? | 24h volume: `221630.93829799994` | liquidity: `146925.41925`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `214313.91045999987` | liquidity: `598974.87556`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `209581.011332` | liquidity: `752669.89814`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `195101.323616` | liquidity: `371512.4003`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
