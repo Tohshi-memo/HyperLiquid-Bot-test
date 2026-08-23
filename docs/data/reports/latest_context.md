@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T05:07:26.118826+00:00`
+- Generated: `2026-08-23T05:22:31.242058+00:00`
 - Market context score: `60.97`
 - News risk score: `25.5`
 - Macro risk score: `27.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9800`
-- Day/swing latest: `2026-08-23T05:00:00+00:00`
+- Day/swing records: `9801`
+- Day/swing latest: `2026-08-23T05:15:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 - [macro] Swedish sword attack victim was 17-year-old girl, police say (BBC News)
 - [macro] Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya? (BBC News)
 - [macro] Syria says Israeli strike near Damascus violation of international law (BBC News)
-- [macro] Carney say Trump started trade war with fresh tarrifs 'attack' (BBC News)
+- [macro] Carney says Trump started trade war with fresh tarrifs 'attack' (BBC News)
 - [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
 - [macro] The hotel booking mix-up that could free mushroom murderer (BBC News)
 - [macro] Iconic fast-food fried chicken chain closes over 300 restaurants (Yahoo Finance)
