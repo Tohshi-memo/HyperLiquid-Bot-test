@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T01:37:26.254909+00:00`
-- Market context score: `31.2`
-- News risk score: `66.75`
-- Macro risk score: `19.5`
-- Risk-on score: `10.83`
+- Generated: `2026-08-23T01:52:30.804834+00:00`
+- Market context score: `27.37`
+- News risk score: `70.5`
+- Macro risk score: `27.0`
+- Risk-on score: `8.33`
 - Articles: `11`
-- Polymarket markets: `387`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:230, crypto_major:8, equity:121, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9786`
-- Day/swing latest: `2026-08-23T01:30:00+00:00`
+- Day/swing records: `9787`
+- Day/swing latest: `2026-08-23T01:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Swedish sword attack victim was 17-year-old girl, police say (BBC News)
 - [macro] Syria says Israeli strike near Damascus violation of international law (BBC News)
 - [macro] Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse (BBC News)
 - [macro] Carney faces crucial test after walking away from Trump's deal (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Father leaves 7-year-old son alone on Mount Fuji to continue hike (BBC News)
 - [crypto] Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
