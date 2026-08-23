@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T18:22:26.304548+00:00`
-- Market context score: `60.39`
-- News risk score: `35.82`
-- Macro risk score: `24.47`
-- Risk-on score: `51.47`
+- Generated: `2026-08-23T18:37:24.542594+00:00`
+- Market context score: `58.42`
+- News risk score: `34.65`
+- Macro risk score: `26.63`
+- Risk-on score: `46.92`
 - Articles: `37`
 - Polymarket markets: `389`
 
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9853`
-- Day/swing latest: `2026-08-23T18:15:00+00:00`
+- Day/swing records: `9854`
+- Day/swing latest: `2026-08-23T18:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `33`, risk hits `6`, risk headline rate `0.1515`, policy hits `5`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `32`, risk hits `7`, risk headline rate `0.1875`, policy hits `5`
 
 ## Headlines
 
+- [crypto] Regulation Crypto is here: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] A Grocery Outlet Insider Purchases 8,000 Shares Amid a 40% Stock Decline (Yahoo Finance)
+- [macro] 3 Ways to Maximize Social Security Without Working Longer (Yahoo Finance)
 - [macro] Guinea rubbish landfill collapse kills 30 (BBC News)
 - [macro] Trump waves green flag kicking off high-speed IndyCar race through Washington (BBC News)
+- [macro] 125-year-old mall retail anchor closes discount outlet, cuts 101 jobs (Yahoo Finance)
+- [macro] I Love NuScale Stock for 1 Reason, and It's Not What You Think (Yahoo Finance)
+- [macro] Is Dropbox Stock a Buy as Revenue Grows Under 1% and Insiders Dispose of Shares? (Yahoo Finance)
 - [macro] Target admits it still has big problems to fix (Yahoo Finance)
 - [macro] Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy. (Yahoo Finance)
-- [macro] A Dropbox Executive Sold $1 Million in Stock Last Week. Here's What Long-Term Investors Should Know (Yahoo Finance)
-- [macro] The U.S. National Debt Officially Surpassed $40 Trillion in August: Here's What History Says This Means for the Stock Market (Yahoo Finance)
-- [macro] SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release? (Yahoo Finance)
-- [macro] France links sharp rise in drownings to heatwaves (BBC News)
-- [macro] Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus (Yahoo Finance)
-- [macro] Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy (Yahoo Finance)
