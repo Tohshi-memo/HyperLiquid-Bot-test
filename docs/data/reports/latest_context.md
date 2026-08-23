@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T11:37:28.545591+00:00`
+- Generated: `2026-08-23T11:40:53.632195+00:00`
 - Market context score: `52.17`
 - News risk score: `26.0`
 - Macro risk score: `27.33`
@@ -30,8 +30,8 @@
 - [macro] Dozens of co-ordinated arson attacks hit southern Thailand (BBC News)
 - [macro] Struggling households need more help with bills, energy industry says (BBC News)
 - [macro] Mayors to get powers to overrule local councils on planning decisions (BBC News)
-- [macro] Best CD rates today, Sunday, August 23, 2026: Lock in up to 4.35% APY (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Sunday, August 23, 2026: Higher than last weekend as prime selling season wraps up (Yahoo Finance)
+- [macro] Best CD rates today, Sunday, August 23, 2026: Lock in up to 4.35% APY (Yahoo Finance)
 - [macro] Robots compete in boxing, football and sprinting at World Humanoid Games (BBC News)
 - [macro] Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC (BBC News)
 - [macro] Les used a QR code to download a parking app - but it was a scam (BBC News)
