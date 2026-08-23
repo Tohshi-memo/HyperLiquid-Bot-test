@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T16:22:30.412665+00:00`
-- Market context score: `53.43`
-- News risk score: `37.28`
-- Macro risk score: `27.44`
-- Risk-on score: `38.36`
+- Generated: `2026-08-23T16:37:25.993730+00:00`
+- Market context score: `58.24`
+- News risk score: `35.66`
+- Macro risk score: `24.06`
+- Risk-on score: `46.41`
 - Articles: `33`
 - Polymarket markets: `389`
 
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9845`
-- Day/swing latest: `2026-08-23T16:15:00+00:00`
+- Day/swing records: `9846`
+- Day/swing latest: `2026-08-23T16:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `29`, risk hits `8`, risk headline rate `0.2069`, policy hits `4`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1379`, policy hits `5`
 
 ## Headlines
 
+- [macro] Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch. (Yahoo Finance)
+- [macro] Dropbox's CTO Is Selling on a Plan He Set 15 Months Ago. Here's What to Know (Yahoo Finance)
+- [macro] A Retired Couple Can Pull About $46,700 From Their IRAs This Year and Pay $0 Federal Tax. Most Leave the Free Space Unused. (Yahoo Finance)
 - [macro] Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them (Yahoo Finance)
-- [macro] One of Exxon's Biggest Oil Fields Is Running Out of Room to Grow. Here's Why That's Not a Crisis. (Yahoo Finance)
-- [macro] Iconic bank stock pays Buffett's Berkshire $619M in annual dividends (Yahoo Finance)
-- [macro] Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here’s Why. (Yahoo Finance)
 - [macro] Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus (Yahoo Finance)
 - [macro] Thousands struggling without power in Indiana 12 days after severe storms (BBC News)
 - [crypto] XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
