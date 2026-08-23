@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T17:40:18.224486+00:00`
-- Market context score: `61.59`
-- News risk score: `34.51`
-- Macro risk score: `21.98`
-- Risk-on score: `52.08`
-- Articles: `37`
+- Generated: `2026-08-23T17:52:26.338724+00:00`
+- Market context score: `61.44`
+- News risk score: `34.67`
+- Macro risk score: `22.28`
+- Risk-on score: `52.0`
+- Articles: `36`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9850`
-- Day/swing latest: `2026-08-23T17:30:00+00:00`
+- Day/swing records: `9851`
+- Day/swing latest: `2026-08-23T17:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `33`, risk hits `5`, risk headline rate `0.1212`, policy hits `4`
+- macro: articles `32`, risk hits `5`, risk headline rate `0.125`, policy hits `4`
 
 ## Headlines
 
+- [macro] SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release? (Yahoo Finance)
+- [macro] The Real Cost of Retiring in Myrtle Beach, South Carolina, on $2,500 a Month (Yahoo Finance)
 - [macro] France links sharp rise in drownings to heatwaves (BBC News)
+- [macro] Jim Cramer doubles down on his bold call on memory stocks (Yahoo Finance)
+- [macro] Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know (Yahoo Finance)
 - [macro] Trump arrives at high-speed IndyCar race through Washington's streets (BBC News)
+- [macro] I make $32K/month from 3 simple, boring websites (Yahoo Finance)
+- [macro] Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus (Yahoo Finance)
 - [macro] Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock (Yahoo Finance)
 - [macro] Should You Buy Oracle Stock Before September? The Answer Might Surprise You. (Yahoo Finance)
-- [macro] Bill Ackman's Pershing Square invests $1.1B in fintech giant (Yahoo Finance)
-- [macro] Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy (Yahoo Finance)
-- [macro] An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors. (Yahoo Finance)
-- [macro] Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus (Yahoo Finance)
-- [macro] Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near (Yahoo Finance)
-- [macro] Is This $7 Stock Your Ticket to Becoming a Millionaire? (Yahoo Finance)
