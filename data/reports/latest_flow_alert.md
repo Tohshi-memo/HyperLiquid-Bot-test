@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-23T15:55:23.645123+00:00`
+- Generated: `2026-08-23T16:00:25.737616+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `874975.6900000001` | liquidity: `1191061.05755`
-- Bitcoin Up or Down on August 23? | 24h volume: `404535.94419400004` | liquidity: `12720.3852`
-- Will Ethereum dip to $1,000 by December 31, 2026? | 24h volume: `393809.554679` | liquidity: `151863.0984`
+- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `874975.6900000001` | liquidity: `1190901.61155`
+- Bitcoin Up or Down on August 23? | 24h volume: `404535.94419400004` | liquidity: `12901.12734`
+- Will Ethereum dip to $1,000 by December 31, 2026? | 24h volume: `393809.554679` | liquidity: `151870.5984`
 - Will Ethereum dip to $800 by December 31, 2026? | 24h volume: `339352.871657` | liquidity: `122857.5468`
-- Will Bitcoin reach $100,000 in August? | 24h volume: `236306.94392899997` | liquidity: `168229.23962`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `211701.31295799982` | liquidity: `589786.93594`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `208542.98898300005` | liquidity: `643435.7193`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `206595.15016499997` | liquidity: `747773.65806`
+- Will Bitcoin reach $100,000 in August? | 24h volume: `236306.94392899997` | liquidity: `167724.40118`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `211701.31295799982` | liquidity: `594315.10979`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `208542.98898300005` | liquidity: `641415.3057`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `206595.15016499997` | liquidity: `750441.19521`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
