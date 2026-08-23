@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-23T08:45:23.196564+00:00`
+- Generated: `2026-08-23T08:50:26.447839+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7041148.72`
-- Polymarket volume z-score: `-1.6`
+- Polymarket 24h volume: `6993005.53`
+- Polymarket volume z-score: `-1.62`
 
 ## Top Polymarket Markets
 
-- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `712148.56` | liquidity: `1135022.19446`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `600789.3962429999` | liquidity: `647861.80472`
-- Will Ethereum dip to $1,000 by December 31, 2026? | 24h volume: `395247.40267199994` | liquidity: `143444.6532`
-- Will Ethereum dip to $800 by December 31, 2026? | 24h volume: `339352.871657` | liquidity: `113847.9815`
-- Will Bitcoin reach $100,000 in August? | 24h volume: `247848.63735900001` | liquidity: `76036.57274`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `205462.75600999998` | liquidity: `787497.5391`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `198754.22674999997` | liquidity: `1000083.26689`
-- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `167514.81715499997` | liquidity: `452406.90158`
+- Will Josh Stein win the 2028 Democratic presidential nomination? | 24h volume: `712148.56` | liquidity: `1135140.51637`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `629714.652385` | liquidity: `621039.90218`
+- Will Ethereum dip to $1,000 by December 31, 2026? | 24h volume: `395247.40267199994` | liquidity: `143443.7477`
+- Will Ethereum dip to $800 by December 31, 2026? | 24h volume: `339352.871657` | liquidity: `113847.0879`
+- Will Bitcoin reach $100,000 in August? | 24h volume: `252922.964589` | liquidity: `75738.96221`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `207078.71774799997` | liquidity: `683274.7938`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `188652.777165` | liquidity: `749096.47844`
+- Will Pablo Marçal win the 2026 Brazilian presidential election? | 24h volume: `167514.81715499997` | liquidity: `452643.27107`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
