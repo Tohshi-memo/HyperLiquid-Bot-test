@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T15:22:28.690193+00:00`
+- Generated: `2026-08-23T15:37:25.240935+00:00`
 - Market context score: `73.53`
 - News risk score: `22.37`
 - Macro risk score: `20.39`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9841`
-- Day/swing latest: `2026-08-23T15:15:00+00:00`
+- Day/swing records: `9842`
+- Day/swing latest: `2026-08-23T15:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Jim Cramer holds back support for surging beverage stock (Yahoo Finance)
 - [macro] The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next. (Yahoo Finance)
 - [macro] This is One of the Cheapest Magnificent Seven Stocks Right Now (Yahoo Finance)
 - [macro] France links rise in drownings to heatwaves (BBC News)
@@ -35,5 +36,4 @@
 - [macro] SpaceX Stock: Boom or Bust? (Yahoo Finance)
 - [macro] Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs In Focus (Yahoo Finance)
 - [macro] Luxury auto CEOs say there's a K-shaped economy even at the very top of the market (Yahoo Finance)
-- [macro] Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire (Yahoo Finance)
 - [macro] CrossCountry cancels 'almost all' UK services after power cut (BBC News)
