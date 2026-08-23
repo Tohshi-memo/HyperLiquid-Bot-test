@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T20:46:04.632042+00:00`
+- Generated: `2026-08-23T20:52:21.947178+00:00`
 - Market context score: `62.36`
-- News risk score: `33.2`
-- Macro risk score: `20.37`
-- Risk-on score: `52.1`
-- Articles: `47`
+- News risk score: `33.35`
+- Macro risk score: `20.19`
+- Risk-on score: `52.14`
+- Articles: `48`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,10 +23,12 @@
 ## News Categories
 
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `42`, risk hits `5`, risk headline rate `0.0952`, policy hits `5`
+- macro: articles `43`, risk hits `5`, risk headline rate `0.093`, policy hits `5`
 
 ## Headlines
 
+- [macro] This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That (Yahoo Finance)
+- [macro] If a Bear Market Is Coming, Here's What All of the Smartest Investors Are Doing Right Now (Yahoo Finance)
 - [macro] UBS revamps S&P 500 target for rest of 2026 (Yahoo Finance)
 - [macro] Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson? (Yahoo Finance)
 - [macro] Trump waves green flag to start IndyCar race through Washington streets (BBC News)
@@ -35,5 +37,3 @@
 - [macro] Billionaire Druckenmiller makes cancer stock his #1 buy for a reason (Yahoo Finance)
 - [macro] After Buying Circle Through a 42% Drop, Cathie Wood Says Analysts Cannot Fathom It (Yahoo Finance)
 - [macro] Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost? (Yahoo Finance)
-- [macro] Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story? (Yahoo Finance)
-- [macro] Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth? (Yahoo Finance)
