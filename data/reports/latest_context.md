@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-23T23:22:32.693842+00:00`
+- Generated: `2026-08-23T23:32:12.512844+00:00`
 - Market context score: `57.52`
 - News risk score: `32.87`
 - Macro risk score: `21.4`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9873`
-- Day/swing latest: `2026-08-23T23:15:00+00:00`
+- Day/swing records: `9874`
+- Day/swing latest: `2026-08-23T23:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,9 @@
 
 ## Headlines
 
+- [macro] Gilead’s HIV Business is Surging, but is the Company Too Dependent on One Franchise? (Yahoo Finance)
+- [macro] Pfizer’s Turnaround is Gaining Traction, but Can New Products Offset its Patent Cliff? (Yahoo Finance)
+- [macro] Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over? (Yahoo Finance)
 - [macro] Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead (Yahoo Finance)
 - [macro] A Tax Strategy So Aggressive It Built the World’s Largest Hedge Fund and Made Losing Money the Hottest Product on Wall Street (Yahoo Finance)
 - [macro] Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside? (Yahoo Finance)
@@ -34,6 +37,3 @@
 - [macro] Prediction: Oklo Won't Book Its First Commercial Power Revenue Before 2028 (Yahoo Finance)
 - [macro] Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery? (Yahoo Finance)
 - [macro] The next big oil trade may have nothing to do with oil stocks (Yahoo Finance)
-- [macro] Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable? (Yahoo Finance)
-- [macro] The $70M business behind Ballerina Farm (Yahoo Finance)
-- [macro] Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet? (Yahoo Finance)
