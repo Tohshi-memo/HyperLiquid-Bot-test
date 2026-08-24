@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T00:52:25.910410+00:00`
-- Market context score: `63.81`
-- News risk score: `30.5`
-- Macro risk score: `21.17`
-- Risk-on score: `53.33`
-- Articles: `18`
+- Generated: `2026-08-24T01:07:27.270296+00:00`
+- Market context score: `60.14`
+- News risk score: `34.65`
+- Macro risk score: `26.41`
+- Risk-on score: `50.67`
+- Articles: `17`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -14,19 +14,21 @@
 - Asset universe count: `1217`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
+- Asset classes: `commodity:5, crypto_alt:225, crypto_major:7, equity:8, fx:1, index:4, metal:20, unknown:947`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9878`
-- Day/swing latest: `2026-08-24T00:45:00+00:00`
+- Day/swing records: `9879`
+- Day/swing latest: `2026-08-24T01:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `2`
-- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `2`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices fall as investors await 'toughest' U.S. sanctions on Iran (Energy)
 - [crypto] We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Review launched into how pub and hotel business rates calculated (BBC News)
 - [macro] 'I didn't speak the Queen's English': Why people worry about their accents (BBC News)
@@ -36,4 +38,3 @@
 - [macro] Trump says Canada wants 'benefits' of being US state after trade talks collapse (BBC News)
 - [crypto] Regulation Crypto is here: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Guinea rubbish landfill collapse kills 30 (BBC News)
-- [macro] France links sharp rise in drownings to heatwaves (BBC News)
