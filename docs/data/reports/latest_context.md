@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T09:52:28.457440+00:00`
-- Market context score: `47.41`
-- News risk score: `49.13`
-- Macro risk score: `25.57`
-- Risk-on score: `34.29`
-- Articles: `53`
+- Generated: `2026-08-24T09:58:57.918031+00:00`
+- Market context score: `49.3`
+- News risk score: `47.55`
+- Macro risk score: `24.44`
+- Risk-on score: `36.72`
+- Articles: `54`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.4667`, policy hits `0`
-- macro: articles `36`, risk hits `11`, risk headline rate `0.1944`, policy hits `3`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `1`
+- macro: articles `36`, risk hits `9`, risk headline rate `0.1667`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Fed experiment shows how bitcoin rallies attract new crypto buyers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Boohoo fined $2.7m in France for misleading labelling on website (Yahoo Finance)
+- [macro] 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war (Economy)
+- [macro] My brother just died, and I don't want to work anymore, but I can’t afford to quit. Is a ‘soft retirement’ the solution? (Yahoo Finance)
+- [macro] Should You Buy Dogecoin While It's Below $0.10? The Answer Might Shock You. (Yahoo Finance)
 - [macro] Pubs and hotels could see business rates reformed after review (BBC News)
 - [macro] EQ expands Scottish presence with Innes & Partners deal (Yahoo Finance)
 - [macro] Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom (Yahoo Finance)
-- [macro] Crypto Card Purchases Set New $1 Billion Monthly Record (Yahoo Finance)
-- [macro] ISCA, ICAI partner on responsible AI learning for accountants (Yahoo Finance)
 - [macro] An 83-year-old has $31,000 in credit card debt — her daughter needs to know one thing before paying another bill (Yahoo Finance)
 - [macro] Why gold and silver prices have added $5 trillion in value (Yahoo Finance)
-- [macro] 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war (Economy)
-- [macro] Guinea rubbish landfill collapse kills 31 (BBC News)
-- [macro] Downsizing after retirement often makes no sense — are you locking yourself in for a smaller life than you should? (Yahoo Finance)
