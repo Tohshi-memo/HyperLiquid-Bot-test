@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T13:52:26.768226+00:00`
-- Market context score: `47.82`
-- News risk score: `50.83`
-- Macro risk score: `32.78`
-- Risk-on score: `39.36`
-- Articles: `89`
+- Generated: `2026-08-24T14:07:28.567562+00:00`
+- Market context score: `46.87`
+- News risk score: `50.5`
+- Macro risk score: `33.12`
+- Risk-on score: `37.09`
+- Articles: `91`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9930`
-- Day/swing latest: `2026-08-24T13:45:00+00:00`
+- Day/swing records: `9931`
+- Day/swing latest: `2026-08-24T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `29`, risk hits `9`, risk headline rate `0.3103`, policy hits `4`
-- macro: articles `58`, risk hits `20`, risk headline rate `0.2586`, policy hits `20`
+- crypto: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `4`
+- macro: articles `59`, risk hits `21`, risk headline rate `0.2712`, policy hits `17`
 
 ## Headlines
 
-- [macro] 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war (Economy)
-- [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
-- [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
-- [macro] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse (Yahoo Finance)
-- [macro] Coinbase Has Been Choppy All Year: One Analyst Expects Nearly 80% Gains Ahead Anyway (Yahoo Finance)
-- [macro] The AI Opportunity Qualcomm Investors May Be Underestimating (Yahoo Finance)
-- [crypto] Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K (Cointelegraph.com News)
-- [macro] Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks (Yahoo Finance)
-- [macro] Netflix Has Changed What It Wants To Be Judged On (Yahoo Finance)
-- [macro] Oil falls ahead of US announcement of new sanctions on Iran (Yahoo Finance)
+- [macro] Access to Zambian courts prevented as election petition deadline looms (BBC News)
+- [crypto] Zondacrypto boss seeks leniency for testimony on political ties: Report (Cointelegraph.com News)
+- [macro] SGA Exits Alcon (ALC) as Cataract Demand Slows and Competition Rises (Yahoo Finance)
+- [macro] Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck (Yahoo Finance)
+- [macro] Why SGA Is Betting on Equinix (EQIX) Again as AI Demand Accelerates (Yahoo Finance)
+- [macro] Wendy's CEO Bob Wright outlines turnaround plan after losing No. 2 rank (Yahoo Finance)
+- [macro] Is Salesforce (CRM) an Undervalued AI Opportunity Despite Slower Growth? (Yahoo Finance)
+- [macro] OpenAI’s CFO Just Told Employees the IPO Is Coming in 2027 or Sooner (Yahoo Finance)
+- [macro] Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff? (Yahoo Finance)
+- [macro] Fidelity's Magellan Fund Manager Peter Lynch Was a Stock-Picking Rockstar in the 1980s, Averaging an Annual Return of 29%. Could His Top Rule Then Work for You Now? (Yahoo Finance)
