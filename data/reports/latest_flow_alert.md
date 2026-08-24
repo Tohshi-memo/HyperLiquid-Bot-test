@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-24T14:15:29.834971+00:00`
+- Generated: `2026-08-24T14:20:30.667687+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8497131.65`
-- Polymarket volume z-score: `-0.75`
+- Polymarket 24h volume: `8624017.47`
+- Polymarket volume z-score: `-0.7`
 
 ## Top Polymarket Markets
 
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1882059.052426` | liquidity: `577168.764`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `477747.4459979999` | liquidity: `349102.06368`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `401337.0484769999` | liquidity: `339615.2887`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `308967.080277` | liquidity: `636928.62281`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `251129.5542040001` | liquidity: `107631.58994`
-- US ceasefire against Iran continues through August 31? | 24h volume: `224384.07836600003` | liquidity: `127004.2334`
-- Will the price of Bitcoin be above $72,000 on August 24? | 24h volume: `222191.14956499994` | liquidity: `84136.77947`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `200922.9305` | liquidity: `23974.20517`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1885888.467243` | liquidity: `578704.1881`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `477737.3894979999` | liquidity: `367575.4159`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `429412.48419999995` | liquidity: `371650.0068`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `308815.88521` | liquidity: `638747.25464`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `273227.94821900007` | liquidity: `112294.7399`
+- US ceasefire against Iran continues through August 31? | 24h volume: `224384.07836600003` | liquidity: `129405.5348`
+- Will the price of Bitcoin be above $72,000 on August 24? | 24h volume: `220819.06229300002` | liquidity: `81071.2039`
+- Will the price of Bitcoin be above $74,000 on August 24? | 24h volume: `216408.48895499998` | liquidity: `57364.86391`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
