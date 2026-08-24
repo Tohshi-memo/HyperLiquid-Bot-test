@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T15:52:59.911438+00:00`
-- Market context score: `47.89`
-- News risk score: `50.19`
-- Macro risk score: `33.55`
-- Risk-on score: `39.26`
-- Articles: `94`
-- Polymarket markets: `391`
+- Generated: `2026-08-24T16:08:35.828436+00:00`
+- Market context score: `48.63`
+- News risk score: `50.93`
+- Macro risk score: `36.94`
+- Risk-on score: `42.81`
+- Articles: `92`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9938`
-- Day/swing latest: `2026-08-24T15:45:00+00:00`
+- Day/swing records: `9939`
+- Day/swing latest: `2026-08-24T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `9`, risk headline rate `0.2903`, policy hits `3`
-- macro: articles `61`, risk hits `24`, risk headline rate `0.2951`, policy hits `14`
+- crypto: articles `30`, risk hits `8`, risk headline rate `0.2667`, policy hits `3`
+- macro: articles `60`, risk hits `28`, risk headline rate `0.3333`, policy hits `20`
 
 ## Headlines
 
-- [macro] Should You Buy Marvell Technology Stock Before Aug. 27? (Yahoo Finance)
-- [macro] Billionaire Ron Baron makes $24.9 billion bet on controversial giant (Yahoo Finance)
-- [macro] This Tech Stock Is Being Highly Overlooked in the AI Race (Yahoo Finance)
-- [macro] Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7% (Yahoo Finance)
-- [crypto] Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K (Cointelegraph.com News)
-- [macro] Ford and Stellantis Drop 4% as Trump Sets 50% Auto Tariffs on Canada, General Motors Slips (Yahoo Finance)
-- [macro] 1 New Way to Invest in Cryptocurrency That Could Turn Your Crypto Portfolio Around in 2026 (Yahoo Finance)
-- [macro] Salesforce Earnings Due. Will Sales Growth Reacceleration Theme Hold Up? (Yahoo Finance)
-- [macro] Is UK's Storm Shadow missile a game changer for Ukraine? (BBC News)
-- [macro] Dollar edges up, loonie drops after U.S. announces tariffs (Yahoo Finance)
+- [macro] UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia (BBC News)
+- [commodity] Oil prices fall as investors await 'toughest' U.S. sanctions on Iran (Energy)
+- [macro] This Consumer Staples Giant's Dividend Streak Rivals PepsiCo. Nobody Talks About It. (Yahoo Finance)
+- [macro] Gold and Bitcoin Surge on Treasury Bond Market Fight. Scarce Asset Owners Are This Market’s Big Winners (Yahoo Finance)
+- [macro] Shares dip on pressure from technology; yields and oil fall (Yahoo Finance)
+- [macro] Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges (Yahoo Finance)
+- [macro] Freightos (CRGO) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin (Yahoo Finance)
+- [macro] Nvidia Makes Waves With Poolside Deal, AI Investments (Yahoo Finance)
+- [macro] Vanguard vs. Fidelity: Is VIG or FDVV the Better Buy for Dividend Investors? (Yahoo Finance)
