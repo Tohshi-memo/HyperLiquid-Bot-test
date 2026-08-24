@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T12:37:24.875732+00:00`
-- Market context score: `43.24`
-- News risk score: `54.17`
-- Macro risk score: `35.12`
-- Risk-on score: `32.87`
+- Generated: `2026-08-24T12:52:30.199786+00:00`
+- Market context score: `45.86`
+- News risk score: `51.29`
+- Macro risk score: `29.65`
+- Risk-on score: `34.2`
 - Articles: `85`
-- Polymarket markets: `389`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9925`
-- Day/swing latest: `2026-08-24T12:30:00+00:00`
+- Day/swing records: `9926`
+- Day/swing latest: `2026-08-24T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `25`, risk hits `9`, risk headline rate `0.36`, policy hits `3`
-- macro: articles `58`, risk hits `23`, risk headline rate `0.3103`, policy hits `17`
+- macro: articles `58`, risk hits `18`, risk headline rate `0.2414`, policy hits `7`
 
 ## Headlines
 
+- [macro] 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war (Economy)
+- [macro] Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag (Yahoo Finance)
+- [macro] German ice-cream firm Florida Eis to build new factory (Yahoo Finance)
+- [macro] Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month (Yahoo Finance)
+- [macro] Jade Gas submits TTCBM development plan in Mongolia (Yahoo Finance)
 - [macro] Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said (Economy)
-- [crypto] Strategy raises $2 billion through MSTR sales and creates new USD Cash pool (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue (Yahoo Finance)
-- [macro] Treasury may tap $1 trillion cash account for bond buybacks (Yahoo Finance)
-- [macro] Is Netflix (NFLX) Facing a Growth Slowdown After Its Strong First Quarter? (Yahoo Finance)
-- [macro] New Zealand to introduce bill for under-16s social media ban (BBC News)
-- [macro] Pakistan Sets September 5 Deadline for Crypto Firms to Register (Yahoo Finance)
-- [macro] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse (Yahoo Finance)
-- [macro] AI Isn’t Bullish for Bitcoin, Peter Schiff Warns — It Could Be Its Biggest Threat Yet (Yahoo Finance)
-- [macro] Trip.com (TCOM): China’s Largest Travel Platform Set for Long Term Gains (Yahoo Finance)
+- [macro] Investors May Want To Own Workday Before August 27th (Yahoo Finance)
+- [macro] Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month' (Yahoo Finance)
+- [macro] CrowdStrike May Have A Big Surprise In Store For Investors On August 26th (Yahoo Finance)
+- [macro] Nasdaq (NDAQ) Has Quietly Built a More Durable Business Beyond Trading (Yahoo Finance)
