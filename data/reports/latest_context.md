@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T12:34:09.022161+00:00`
-- Market context score: `42.3`
-- News risk score: `54.67`
-- Macro risk score: `36.12`
-- Risk-on score: `31.58`
+- Generated: `2026-08-24T12:37:24.875732+00:00`
+- Market context score: `43.24`
+- News risk score: `54.17`
+- Macro risk score: `35.12`
+- Risk-on score: `32.87`
 - Articles: `85`
 - Polymarket markets: `389`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `25`, risk hits `9`, risk headline rate `0.36`, policy hits `3`
-- macro: articles `58`, risk hits `25`, risk headline rate `0.3276`, policy hits `17`
+- macro: articles `58`, risk hits `23`, risk headline rate `0.3103`, policy hits `17`
 
 ## Headlines
 
 - [macro] Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said (Economy)
 - [crypto] Strategy raises $2 billion through MSTR sales and creates new USD Cash pool (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue (Yahoo Finance)
+- [macro] Treasury may tap $1 trillion cash account for bond buybacks (Yahoo Finance)
+- [macro] Is Netflix (NFLX) Facing a Growth Slowdown After Its Strong First Quarter? (Yahoo Finance)
 - [macro] New Zealand to introduce bill for under-16s social media ban (BBC News)
+- [macro] Pakistan Sets September 5 Deadline for Crypto Firms to Register (Yahoo Finance)
+- [macro] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse (Yahoo Finance)
+- [macro] AI Isn’t Bullish for Bitcoin, Peter Schiff Warns — It Could Be Its Biggest Threat Yet (Yahoo Finance)
 - [macro] Trip.com (TCOM): China’s Largest Travel Platform Set for Long Term Gains (Yahoo Finance)
-- [macro] Treasury eyes $950B cash account to fund bond buybacks (Yahoo Finance)
-- [macro] Streaming Scale and Global Base Power Netflix’s (NFLX) Next Phase of Monetization (Yahoo Finance)
-- [macro] Here Are My 3 Biggest Concerns Over UPS Stock (Yahoo Finance)
-- [macro] TotalEnergies CEO Just Exposed the $10 Secret That Makes the Hormuz Oil Panic Look Overblown (Yahoo Finance)
-- [macro] Top analyst says investors should consider this overlooked sector (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls Ahead of 'Economic D-Day'; Alibaba Slides On Offering (Live Coverage) (Yahoo Finance)
