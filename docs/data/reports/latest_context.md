@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T03:37:28.606638+00:00`
-- Market context score: `56.33`
-- News risk score: `38.78`
-- Macro risk score: `22.81`
-- Risk-on score: `44.31`
-- Articles: `20`
+- Generated: `2026-08-24T03:52:23.672152+00:00`
+- Market context score: `63.97`
+- News risk score: `23.11`
+- Macro risk score: `21.69`
+- Risk-on score: `47.65`
+- Articles: `19`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9889`
-- Day/swing latest: `2026-08-24T03:30:00+00:00`
+- Day/swing records: `9890`
+- Day/swing latest: `2026-08-24T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
+- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `15`, risk hits `2`, risk headline rate `0.0667`, policy hits `3`
 
 ## Headlines
 
-- [macro] Nearly 3 million Teslas recalled in China over hidden door handles (BBC News)
-- [macro] Nearly 3 million Teslas recalled in China over hidden door handles (BBC News)
 - [commodity] U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures (Energy)
+- [macro] Nearly 3 million Teslas recalled in China over hidden door handles (BBC News)
+- [macro] Nearly 3 million Teslas recalled in China over hidden door handles (BBC News)
 - [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
 - [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
 - [commodity] Oil prices fall as investors await 'toughest' U.S. sanctions on Iran (Energy)
