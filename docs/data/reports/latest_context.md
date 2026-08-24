@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T16:08:35.828436+00:00`
-- Market context score: `48.63`
-- News risk score: `50.93`
-- Macro risk score: `36.94`
-- Risk-on score: `42.81`
-- Articles: `92`
+- Generated: `2026-08-24T16:22:38.237905+00:00`
+- Market context score: `49.21`
+- News risk score: `49.71`
+- Macro risk score: `35.39`
+- Risk-on score: `42.47`
+- Articles: `93`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9939`
-- Day/swing latest: `2026-08-24T16:00:00+00:00`
+- Day/swing records: `9940`
+- Day/swing latest: `2026-08-24T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `30`, risk hits `8`, risk headline rate `0.2667`, policy hits `3`
-- macro: articles `60`, risk hits `28`, risk headline rate `0.3333`, policy hits `20`
+- crypto: articles `31`, risk hits `8`, risk headline rate `0.2581`, policy hits `3`
+- macro: articles `60`, risk hits `24`, risk headline rate `0.3167`, policy hits `18`
 
 ## Headlines
 
+- [macro] Royal Caribbean Is Down 20% From Its 52-Week High. Is the Dip Worth Buying? (Yahoo Finance)
+- [macro] Hickory Tavern Trims Footprint Amid Brand Revitalization (Yahoo Finance)
+- [crypto] Crypto advocacy groups oppose Illinois digital asset tax in court (Cointelegraph.com News)
+- [macro] Microsoft Stock in 2027: My Prediction Is That It Still Beats the Market (Yahoo Finance)
+- [macro] Eli Lilly Has a $100 Billion Revenue Story in the Making, 18% Upside Ahead (Yahoo Finance)
+- [macro] Delta CEO Ed Bastian says AI could boost profits by 50% as airline tests AI-set fares on 3% of tickets (Yahoo Finance)
+- [macro] Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage) (Yahoo Finance)
+- [macro] Walmart Just Cratered Almost 10% in a Week. This Retail CEO Says the Holidays Will Prove Everyone Wrong. (Yahoo Finance)
 - [macro] UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia (BBC News)
 - [commodity] Oil prices fall as investors await 'toughest' U.S. sanctions on Iran (Energy)
-- [macro] This Consumer Staples Giant's Dividend Streak Rivals PepsiCo. Nobody Talks About It. (Yahoo Finance)
-- [macro] Gold and Bitcoin Surge on Treasury Bond Market Fight. Scarce Asset Owners Are This Market’s Big Winners (Yahoo Finance)
-- [macro] Shares dip on pressure from technology; yields and oil fall (Yahoo Finance)
-- [macro] Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges (Yahoo Finance)
-- [macro] Freightos (CRGO) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin (Yahoo Finance)
-- [macro] Nvidia Makes Waves With Poolside Deal, AI Investments (Yahoo Finance)
-- [macro] Vanguard vs. Fidelity: Is VIG or FDVV the Better Buy for Dividend Investors? (Yahoo Finance)
