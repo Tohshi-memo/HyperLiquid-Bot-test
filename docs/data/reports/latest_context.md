@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T15:37:30.768982+00:00`
-- Market context score: `48.0`
-- News risk score: `49.68`
-- Macro risk score: `31.71`
-- Risk-on score: `38.37`
-- Articles: `92`
+- Generated: `2026-08-24T15:52:59.911438+00:00`
+- Market context score: `47.89`
+- News risk score: `50.19`
+- Macro risk score: `33.55`
+- Risk-on score: `39.26`
+- Articles: `94`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9937`
-- Day/swing latest: `2026-08-24T15:30:00+00:00`
+- Day/swing records: `9938`
+- Day/swing latest: `2026-08-24T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `60`, risk hits `22`, risk headline rate `0.2667`, policy hits `11`
+- crypto: articles `31`, risk hits `9`, risk headline rate `0.2903`, policy hits `3`
+- macro: articles `61`, risk hits `24`, risk headline rate `0.2951`, policy hits `14`
 
 ## Headlines
 
-- [macro] IHCL to merge Oriental Hotels under proposed share-swap deal (Yahoo Finance)
-- [macro] CPK chooses T-ROC Global to deploy automated food kiosks (Yahoo Finance)
+- [macro] Should You Buy Marvell Technology Stock Before Aug. 27? (Yahoo Finance)
+- [macro] Billionaire Ron Baron makes $24.9 billion bet on controversial giant (Yahoo Finance)
+- [macro] This Tech Stock Is Being Highly Overlooked in the AI Race (Yahoo Finance)
+- [macro] Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7% (Yahoo Finance)
+- [crypto] Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K (Cointelegraph.com News)
+- [macro] Ford and Stellantis Drop 4% as Trump Sets 50% Auto Tariffs on Canada, General Motors Slips (Yahoo Finance)
+- [macro] 1 New Way to Invest in Cryptocurrency That Could Turn Your Crypto Portfolio Around in 2026 (Yahoo Finance)
+- [macro] Salesforce Earnings Due. Will Sales Growth Reacceleration Theme Hold Up? (Yahoo Finance)
 - [macro] Is UK's Storm Shadow missile a game changer for Ukraine? (BBC News)
-- [macro] Whoever Said Marvell Suffers Customer Concentration Risk Lied (Yahoo Finance)
-- [macro] He Answered Yes to One Question About Sleep Apnea. At 73, Every Medigap Insurer He Called Said No. (Yahoo Finance)
-- [macro] Tesco Ireland extends Freshways partnership in €45m deal (Yahoo Finance)
 - [macro] Dollar edges up, loonie drops after U.S. announces tariffs (Yahoo Finance)
-- [macro] BofA finds AI is creating a credit divide that could reach consumers (Yahoo Finance)
-- [macro] Graduate job vacancies drop by almost 50% in a year, survey suggests (BBC News)
-- [macro] Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks (Yahoo Finance)
