@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-24T18:15:37.198178+00:00`
+- Generated: `2026-08-24T18:20:30.159007+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8931702.82`
-- Polymarket volume z-score: `-0.54`
+- Polymarket 24h volume: `9068031.21`
+- Polymarket volume z-score: `-0.49`
 
 ## Top Polymarket Markets
 
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1840390.5909680002` | liquidity: `489235.8556`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `637074.722496` | liquidity: `315065.62219`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `525804.856337` | liquidity: `526969.91869`
-- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `463308.406666` | liquidity: `2196708.44168`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `390513.400662` | liquidity: `378027.1118`
-- Will the Iranian regime fall before 2027? | 24h volume: `354187.3677759997` | liquidity: `535918.3752`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `300033.343074` | liquidity: `136550.39969`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `275457.753038` | liquidity: `360565.97558`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1950047.1570849998` | liquidity: `448230.3035`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `641429.055829` | liquidity: `319919.29056`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `528469.2463369998` | liquidity: `519898.90146`
+- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `463307.406666` | liquidity: `2198538.44117`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `393593.46826999995` | liquidity: `375380.7757`
+- Will the Iranian regime fall before 2027? | 24h volume: `354224.2494949998` | liquidity: `537218.4793`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `300263.3430740001` | liquidity: `139887.63262`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `275457.7530380001` | liquidity: `358566.17558`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
