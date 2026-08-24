@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T19:52:24.956335+00:00`
+- Generated: `2026-08-24T20:07:29.414139+00:00`
 - Market context score: `50.76`
 - News risk score: `45.01`
 - Macro risk score: `44.17`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9954`
-- Day/swing latest: `2026-08-24T19:45:00+00:00`
+- Day/swing records: `9955`
+- Day/swing latest: `2026-08-24T20:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [crypto] Bernstein sees new USDC growth cycle, sets $140 Circle price target (Cointelegraph.com News)
+- [commodity] Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say (Energy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin nears $80,000, but analysts say the next pullback will be key (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Coinbase-affiliated advocacy group endorses candidates for US midterms (Cointelegraph.com News)
 - [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
 - [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
 - [crypto] Coinbase tokenized stocks go live on Base with Chainlink price feeds (Cointelegraph.com News)
-- [commodity] Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say (Energy)
 - [commodity] Oil prices fall as U.S. rolls out global sanctions focused on Iran (Energy)
 - [crypto] Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M (Cointelegraph.com News)
-- [crypto] Crypto political group details list of U.S. congressional allies its backing this year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia (BBC News)
