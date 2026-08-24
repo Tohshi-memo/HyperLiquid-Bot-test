@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T15:19:48.764602+00:00`
-- Market context score: `50.03`
-- News risk score: `48.71`
-- Macro risk score: `29.78`
-- Risk-on score: `41.35`
+- Generated: `2026-08-24T15:22:28.757300+00:00`
+- Market context score: `49.28`
+- News risk score: `49.2`
+- Macro risk score: `30.74`
+- Risk-on score: `40.45`
 - Articles: `92`
 - Polymarket markets: `390`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `60`, risk hits `19`, risk headline rate `0.2333`, policy hits `12`
+- macro: articles `60`, risk hits `20`, risk headline rate `0.25`, policy hits `11`
 
 ## Headlines
 
 - [macro] Is UK's Storm Shadow missile a game changer for Ukraine? (BBC News)
+- [macro] Tesco Ireland extends Freshways partnership in €45m deal (Yahoo Finance)
+- [macro] Dollar edges up, loonie drops after U.S. announces tariffs (Yahoo Finance)
+- [macro] XPENG Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Graduate job vacancies drop by almost 50% in a year, survey suggests (BBC News)
+- [macro] Pfizer Stock: Wall Street Sees a Rebound, Here’s Our Price Target (Yahoo Finance)
+- [macro] Loose Threads: Arvind, Tonello and Crystal International (Yahoo Finance)
 - [macro] Grant Thornton Australia to join international advisory platform (Yahoo Finance)
-- [macro] Is MP Materials Stock a Buy After Earnings? (Yahoo Finance)
-- [macro] Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties (Yahoo Finance)
-- [macro] Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3% (Yahoo Finance)
-- [macro] Stock Market Today: Dow Up As Trump Says This On Canada; Tech Hit With Micron, Nvidia Drops (Live Coverage) (Yahoo Finance)
-- [macro] Super Micro Sinks 7% as Taiwan Indicts Employees Over Illegal AI Server Exports to China, Dell Slips (Yahoo Finance)
-- [macro] Can Eli Lilly Keep The Margin You Are Now Paying For? (Yahoo Finance)
-- [macro] Steadfast agrees $5.51bn buyout by KKR-led consortium (Yahoo Finance)
+- [macro] Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks (Yahoo Finance)
+- [macro] Alibaba Announces Share Placement to Raise Money for AI Efforts (Yahoo Finance)
