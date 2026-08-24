@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T18:02:08.659438+00:00`
-- Market context score: `53.9`
-- News risk score: `45.34`
-- Macro risk score: `34.52`
-- Risk-on score: `48.88`
+- Generated: `2026-08-24T18:07:28.614118+00:00`
+- Market context score: `53.31`
+- News risk score: `46.23`
+- Macro risk score: `36.18`
+- Risk-on score: `48.95`
 - Articles: `85`
 - Polymarket markets: `391`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `3`
-- macro: articles `54`, risk hits `21`, risk headline rate `0.3148`, policy hits `13`
+- macro: articles `54`, risk hits `22`, risk headline rate `0.3333`, policy hits `17`
 
 ## Headlines
 
 - [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
 - [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
 - [commodity] Oil prices fall as U.S. rolls out global sanctions focused on Iran (Energy)
+- [macro] RUM Group Rallies 7% on $13.7B GPU Contract, Trump Media Ticks Up (Yahoo Finance)
+- [macro] A Record $8.4 Trillion Sits in Money Markets Earning 3.5%, Exactly What Inflation Runs. Real Return: Zero (Yahoo Finance)
 - [crypto] Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M (Cointelegraph.com News)
+- [macro] These 2 Contrarian ETFs Are Buying What Wall Street Hates (Yahoo Finance)
 - [macro] Nebius Group (NBIS) Just Posted 514% Revenue Growth. Can CoreWeave (CRWV)’s Numbers Compete? (Yahoo Finance)
+- [macro] Nebius Group Falls 4% as $5B Convertible Settles, Datadog Drops 3%, Cloudflare Slips (Yahoo Finance)
 - [macro] Where Will Nvidia Stock Be in 5 Years? (Yahoo Finance)
-- [macro] Warren Buffett's Favorite 'Forever' Stock Hits A High After Big Rally (Yahoo Finance)
-- [macro] Berkshire Hathaway (BRK-B)’s Cash Pile Just Shrank for the First Time in Years. Is Greg Abel Finally Spending? (Yahoo Finance)
-- [macro] Bitcoin Surges On Treasury Game-Changer; Strategy Raises $2 Bil (Yahoo Finance)
-- [macro] Snap Rises 4%, Meta Platforms and Alphabet Tick Up, Reddit Slips as the Social Media Trade Splits (Yahoo Finance)
