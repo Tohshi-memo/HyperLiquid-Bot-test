@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T03:07:27.863908+00:00`
+- Generated: `2026-08-24T03:13:10.376882+00:00`
 - Market context score: `56.92`
 - News risk score: `37.39`
 - Macro risk score: `27.11`
 - Risk-on score: `46.09`
 - Articles: `17`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
