@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T02:22:25.980917+00:00`
-- Market context score: `58.06`
-- News risk score: `35.53`
-- Macro risk score: `27.88`
-- Risk-on score: `47.33`
-- Articles: `17`
+- Generated: `2026-08-24T02:37:26.965771+00:00`
+- Market context score: `58.58`
+- News risk score: `34.95`
+- Macro risk score: `26.79`
+- Risk-on score: `47.59`
+- Articles: `18`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9884`
-- Day/swing latest: `2026-08-24T02:15:00+00:00`
+- Day/swing records: `9885`
+- Day/swing latest: `2026-08-24T02:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `2`
 - macro: articles `11`, risk hits `2`, risk headline rate `0.0909`, policy hits `3`
 
 ## Headlines
 
+- [commodity] U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures (Energy)
 - [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
 - [commodity] Oil prices fall as investors await 'toughest' U.S. sanctions on Iran (Energy)
 - [macro] Australian shark attack victim grateful for 'second chance at life' (BBC News)
@@ -36,5 +37,4 @@
 - [macro] 'I didn't speak the Queen's English': Why people worry about their accents (BBC News)
 - [macro] Why students are being paid £2,000 to play computer games (BBC News)
 - [macro] Trump waves green flag to start IndyCar race through Washington streets (BBC News)
-- [macro] Trump says Canada wants 'benefits' of being US state after trade talks collapse (BBC News)
 - [macro] Trump says Canada wants 'benefits' of being US state after trade talks collapse (BBC News)
