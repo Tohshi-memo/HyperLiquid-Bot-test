@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T13:34:54.009429+00:00`
-- Market context score: `48.46`
-- News risk score: `50.01`
-- Macro risk score: `31.2`
-- Risk-on score: `39.48`
-- Articles: `90`
+- Generated: `2026-08-24T13:37:29.134677+00:00`
+- Market context score: `47.59`
+- News risk score: `51.33`
+- Macro risk score: `33.78`
+- Risk-on score: `39.64`
+- Articles: `89`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `29`, risk hits `9`, risk headline rate `0.3103`, policy hits `4`
-- macro: articles `59`, risk hits `19`, risk headline rate `0.2373`, policy hits `17`
+- macro: articles `58`, risk hits `20`, risk headline rate `0.2759`, policy hits `19`
 
 ## Headlines
 
 - [macro] 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war (Economy)
+- [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
+- [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
 - [crypto] Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K (Cointelegraph.com News)
-- [macro] Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said (Economy)
-- [macro] Navios Maritime (NMM) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Sonya Massey's killer Sean Grayson dies in US prison (BBC News)
-- [macro] Alibaba Stock Falls As AI Push Drives $10 Billion Share Sale (Yahoo Finance)
-- [macro] Can AMD (AMD) Win From the Shift Toward More CPU-Heavy AI Data Centers? (Yahoo Finance)
-- [macro] First Majestic Silver vs. MP Materials: Which Metals Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse (Yahoo Finance)
-- [macro] Marvell Could Give Investors A Reason To Celebrate On August 27th (Yahoo Finance)
+- [macro] AB InBev invests in New York Cutwater production (Yahoo Finance)
+- [macro] KLA (KLAC) Gains From Advanced Nodes, HBM and Packaging (Yahoo Finance)
+- [macro] Anthropic Wants Investors to Buy Into a $2 Trillion Dream—But a Wall Street Veteran Says SpaceX’s IPO Offers a Warning for AI Investors (UPDATED) (Yahoo Finance)
+- [macro] Lam Research (LRCX) Sees Strong Growth Extend Into 2027 as AI Spending Accelerates (Yahoo Finance)
+- [macro] Bessent Quietly Built a $950 Billion War Chest Sitting In An Account At The Fed. Now We Know What It’s For (Yahoo Finance)
+- [macro] Mondelez CEO Dirk Van De Put Sells 134,000 Shares for $8.5 Million (Yahoo Finance)
