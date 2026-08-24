@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T07:22:27.025120+00:00`
+- Generated: `2026-08-24T07:37:24.003970+00:00`
 - Market context score: `43.2`
 - News risk score: `50.68`
 - Macro risk score: `27.9`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9904`
-- Day/swing latest: `2026-08-24T07:15:00+00:00`
+- Day/swing records: `9905`
+- Day/swing latest: `2026-08-24T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Pubs and hotels could see business rates reformed after review (BBC News)
 - [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
 - [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
 - [macro] Maradona's 'Hand of God' ball sells for £2.5m (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Banks, regulators join quantum-resistant crypto transfer pilot (Cointelegraph.com News)
 - [macro] China probes use of formaldehyde to keep cabbages fresh (BBC News)
-- [macro] Australian shark attack victim grateful for 'second chance at life' (BBC News)
