@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T02:07:20.184400+00:00`
+- Generated: `2026-08-24T02:22:25.980917+00:00`
 - Market context score: `58.06`
 - News risk score: `35.53`
 - Macro risk score: `27.88`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9883`
-- Day/swing latest: `2026-08-24T02:00:00+00:00`
+- Day/swing records: `9884`
+- Day/swing latest: `2026-08-24T02:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Shein aims for almost $27bn valuation in 1 September stock market debut (BBC News)
+- [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
 - [commodity] Oil prices fall as investors await 'toughest' U.S. sanctions on Iran (Energy)
 - [macro] Australian shark attack victim grateful for 'second chance at life' (BBC News)
 - [crypto] We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest (Cointelegraph.com News)
