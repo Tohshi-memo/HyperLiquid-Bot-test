@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T13:22:28.538107+00:00`
-- Market context score: `46.85`
-- News risk score: `49.84`
-- Macro risk score: `30.12`
-- Risk-on score: `35.36`
-- Articles: `88`
+- Generated: `2026-08-24T13:34:54.009429+00:00`
+- Market context score: `48.46`
+- News risk score: `50.01`
+- Macro risk score: `31.2`
+- Risk-on score: `39.48`
+- Articles: `90`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9928`
-- Day/swing latest: `2026-08-24T13:15:00+00:00`
+- Day/swing records: `9929`
+- Day/swing latest: `2026-08-24T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.3214`, policy hits `4`
-- macro: articles `58`, risk hits `19`, risk headline rate `0.2414`, policy hits `8`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.3103`, policy hits `4`
+- macro: articles `59`, risk hits `19`, risk headline rate `0.2373`, policy hits `17`
 
 ## Headlines
 
-- [macro] Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said (Economy)
-- [macro] Gemini crypto exchange review 2026: Bank-grade security comes at a price (Yahoo Finance)
-- [crypto] Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] KLA Corporation: See What Wall Street Sees (Yahoo Finance)
-- [macro] “That’s a Genius Scam”: George Kamel on a Caller’s Nightmare Car Lease (Yahoo Finance)
 - [macro] 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war (Economy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Tech stocks today: All eyes on Nvidia as Meta trial resumes (Yahoo Finance)
-- [macro] Crypto ETFs Lose Their Bull-Market Halo as Outflows Test Demand (Yahoo Finance)
-- [crypto] New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K (Cointelegraph.com News)
+- [macro] Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said (Economy)
+- [macro] Navios Maritime (NMM) Q2 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] Sonya Massey's killer Sean Grayson dies in US prison (BBC News)
+- [macro] Alibaba Stock Falls As AI Push Drives $10 Billion Share Sale (Yahoo Finance)
+- [macro] Can AMD (AMD) Win From the Shift Toward More CPU-Heavy AI Data Centers? (Yahoo Finance)
+- [macro] First Majestic Silver vs. MP Materials: Which Metals Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse (Yahoo Finance)
+- [macro] Marvell Could Give Investors A Reason To Celebrate On August 27th (Yahoo Finance)
