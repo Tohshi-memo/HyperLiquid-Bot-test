@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-24T08:52:27.237372+00:00`
+- Generated: `2026-08-24T09:00:09.654237+00:00`
 - Market context score: `46.61`
 - News risk score: `47.38`
 - Macro risk score: `25.47`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9910`
-- Day/swing latest: `2026-08-24T08:45:00+00:00`
+- Day/swing records: `9911`
+- Day/swing latest: `2026-08-24T09:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures (Energy)
 - [macro] Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada (BBC News)
 - [macro] Four arrested over boxing champion's murder in South Africa (BBC News)
 - [macro] King of Norway's health has worsened, palace says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Pubs and hotels could see business rates reformed after review (BBC News)
 - [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
 - [macro] Shein aims for almost $27bn valuation in stock market debut (BBC News)
-- [macro] Maradona's 'Hand of God' ball sells for £2.5m (BBC News)
