@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T15:23:18.192154+00:00`
-- Market context score: `47.37`
-- News risk score: `50.0`
-- Macro risk score: `31.69`
-- Risk-on score: `37.23`
-- Articles: `80`
+- Generated: `2026-08-25T15:37:26.972018+00:00`
+- Market context score: `48.09`
+- News risk score: `50.86`
+- Macro risk score: `31.35`
+- Risk-on score: `39.43`
+- Articles: `81`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10031`
-- Day/swing latest: `2026-08-25T15:15:00+00:00`
+- Day/swing records: `10032`
+- Day/swing latest: `2026-08-25T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `32`, risk hits `12`, risk headline rate `0.3125`, policy hits `2`
-- macro: articles `46`, risk hits `15`, risk headline rate `0.2826`, policy hits `1`
+- crypto: articles `33`, risk hits `13`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `46`, risk hits `15`, risk headline rate `0.2609`, policy hits `8`
 
 ## Headlines
 
+- [commodity] Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war (Energy)
+- [macro] CIA chief in Moscow for unannounced talks, US media reports (BBC News)
+- [macro] 2 Big Reasons Not to Claim Social Security at 65 (Yahoo Finance)
+- [macro] AIR Global’s Best-in-Class 1H Performance Amid Disruptions, 2H Recovery – Quarterly Update Report (Yahoo Finance)
+- [crypto] Bitcoin slips from $80K as gold cools with falling US bond yields (Cointelegraph.com News)
+- [macro] Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5% (Yahoo Finance)
+- [macro] Oil Extends Retreat As U.S. Tightens Iran Sanctions (Yahoo Finance)
+- [macro] Visa or Mastercard: One Stock Will Outpace the Other at Record Highs — Here’s Our Pick (Yahoo Finance)
 - [macro] Boeing Lands $131 Bil F-15 Fighter Jet Contract, Analyst Lifts Booz Allen Targets (Yahoo Finance)
 - [macro] Stock Market Today: Nasdaq Holds Support Amid Surprise Economic Data; Nvidia Reverses Higher (Live Coverage) (Yahoo Finance)
-- [macro] Who does Iran trade with and what could Trump's 'economic D-Day' mean? (BBC News)
-- [macro] The Fine Print I Almost Missed on My $25,000 Savings Account (Yahoo Finance)
-- [macro] Buffett Just Made a $37 Billion Bet on This Tech Giant. Should You Buy? (Yahoo Finance)
-- [macro] Levi’s Cybersecurity Breach Puts Apparel Industry Risks in Focus (Yahoo Finance)
-- [macro] Critical Metals Spikes 19%, MP Materials and United States Antimony Lag: Is the European Lithium Merger Driving the Move? (Yahoo Finance)
-- [macro] $1,500 a Month in The Villages: Here’s What That Budget Actually Gets You (Yahoo Finance)
-- [macro] Two unvaccinated people die of measles in Pennsylvania (BBC News)
-- [macro] Bitcoin Tests $80K, Analyst Sees Further Upside. BTC ETFs Form Bases. (Yahoo Finance)
