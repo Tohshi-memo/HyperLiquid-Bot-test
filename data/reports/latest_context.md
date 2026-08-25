@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T03:22:23.059733+00:00`
-- Market context score: `52.4`
-- News risk score: `37.31`
-- Macro risk score: `32.23`
-- Risk-on score: `37.91`
-- Articles: `38`
+- Generated: `2026-08-25T03:37:59.674738+00:00`
+- Market context score: `50.14`
+- News risk score: `37.99`
+- Macro risk score: `32.29`
+- Risk-on score: `33.48`
+- Articles: `37`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9984`
-- Day/swing latest: `2026-08-25T03:15:00+00:00`
+- Day/swing records: `9985`
+- Day/swing latest: `2026-08-25T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `2`
+- crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `2`
 - macro: articles `21`, risk hits `8`, risk headline rate `0.2381`, policy hits `2`
 
 ## Headlines
@@ -36,5 +36,5 @@
 - [macro] UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia (BBC News)
 - [macro] Burnham refuses to rule out tax rises in autumn Budget (BBC News)
 - [crypto] Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 70,000 social and affordable homes to be built across England as part of £39bn plan (BBC News)
+- [macro] More than 70,000 social and affordable homes to be built across England as part of £39bn plan (BBC News)
 - [macro] US removes Syria from list of state sponsors of terrorism (BBC News)
