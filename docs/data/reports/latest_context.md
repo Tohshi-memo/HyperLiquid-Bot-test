@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T22:59:24.115897+00:00`
-- Market context score: `48.57`
-- News risk score: `39.15`
-- Macro risk score: `30.45`
-- Risk-on score: `30.28`
-- Articles: `42`
+- Generated: `2026-08-25T23:07:23.922455+00:00`
+- Market context score: `48.94`
+- News risk score: `38.94`
+- Macro risk score: `29.53`
+- Risk-on score: `30.57`
+- Articles: `43`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10061`
-- Day/swing latest: `2026-08-25T22:45:00+00:00`
+- Day/swing records: `10062`
+- Day/swing latest: `2026-08-25T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `24`, risk hits `9`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
 - [crypto] U.S. state banking associations plan to launch their own nationwide blockchain network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Louis Navellier has blunt message on Nvidia’s reign before earnings (Yahoo Finance)
 - [crypto] Zerohash back for second effort at OCC trust bank charter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission (Energy)
 - [crypto] World Liberty Financial launches USD1 natively on Canton Network (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mass arrests in global crackdown on West African cyber-crime networks (BBC News)
 - [commodity] Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
