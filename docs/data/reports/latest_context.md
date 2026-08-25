@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T12:18:50.858041+00:00`
-- Market context score: `49.04`
-- News risk score: `49.41`
-- Macro risk score: `29.89`
-- Risk-on score: `39.76`
+- Generated: `2026-08-25T12:22:31.832731+00:00`
+- Market context score: `48.06`
+- News risk score: `50.13`
+- Macro risk score: `31.32`
+- Risk-on score: `38.73`
 - Articles: `69`
 - Polymarket markets: `392`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `4`
-- macro: articles `41`, risk hits `13`, risk headline rate `0.2439`, policy hits `5`
+- macro: articles `41`, risk hits `16`, risk headline rate `0.2683`, policy hits `5`
 
 ## Headlines
 
+- [commodity] Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East (Energy)
 - [macro] More than 70,000 social and affordable homes to be built across England over 10 years (BBC News)
 - [crypto] India plans first tokenized bonds using wholesale CBDC: Report (Cointelegraph.com News)
-- [commodity] Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East (Energy)
+- [macro] Gold prices today, Tuesday, August 25, 2026: Gold hits 3-month high this morning (Yahoo Finance)
+- [macro] SEC subpoenas banks over Situational Awareness hedge fund collapse (Yahoo Finance)
 - [crypto] A 3% token move just triggered $36 million in Ethereum DeFi liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Google expands Gemini AI platform for law firms, lawyers (Yahoo Finance)
 - [macro] How Much Do You Really Need Invested to Replace a $120,000 Salary With Dividends? (Yahoo Finance)
 - [macro] Salesforce Faces An Earnings Test As AI Agents Reshape Its Business (Yahoo Finance)
 - [macro] Cybersecurity Stocks Are Priced For Big AI Growth. Earnings Could Bring Fireworks. (Yahoo Finance)
-- [macro] August 27 Could Be a Very Good Day for Autodesk Shareholders (Yahoo Finance)
-- [macro] Morning Minute: Coinbase Puts Tokenized Stocks on Base (Yahoo Finance)
-- [crypto] Shipyard winds down IPFS work after Protocol Labs ends funding (Cointelegraph.com News)
