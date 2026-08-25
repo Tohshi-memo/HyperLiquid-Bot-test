@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T19:37:29.575084+00:00`
-- Market context score: `53.1`
-- News risk score: `39.63`
-- Macro risk score: `28.3`
-- Risk-on score: `39.93`
-- Articles: `59`
+- Generated: `2026-08-25T19:44:20.367892+00:00`
+- Market context score: `52.51`
+- News risk score: `39.17`
+- Macro risk score: `27.49`
+- Risk-on score: `37.93`
+- Articles: `58`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,14 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `32`, risk hits `7`, risk headline rate `0.1875`, policy hits `4`
-- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `4`
+- crypto: articles `31`, risk hits `7`, risk headline rate `0.1935`, policy hits `2`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Mass arrests in global crackdown on West African cyber-crime networks (BBC News)
 - [commodity] Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war (Energy)
 - [commodity] Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [policy] Minutes of the Board's discount rate meetings on July 20 and July 29, 2026 (FRB: Press Release - All Releases)
 - [macro] Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50% (BBC News)
 - [macro] Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail (Economy)
-- [macro] CIA chief travels to Moscow for unannounced talks, US media reports (BBC News)
-- [crypto] Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report (Cointelegraph.com News)
