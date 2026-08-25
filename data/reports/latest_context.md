@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T11:52:29.003127+00:00`
-- Market context score: `46.95`
-- News risk score: `49.99`
-- Macro risk score: `30.9`
-- Risk-on score: `36.0`
-- Articles: `69`
+- Generated: `2026-08-25T12:07:22.019542+00:00`
+- Market context score: `46.37`
+- News risk score: `50.76`
+- Macro risk score: `30.86`
+- Risk-on score: `35.34`
+- Articles: `70`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10017`
-- Day/swing latest: `2026-08-25T11:45:00+00:00`
+- Day/swing records: `10018`
+- Day/swing latest: `2026-08-25T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `4`
-- macro: articles `44`, risk hits `14`, risk headline rate `0.25`, policy hits `9`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `4`
+- macro: articles `43`, risk hits `14`, risk headline rate `0.2558`, policy hits `6`
 
 ## Headlines
 
-- [commodity] Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’ (Energy)
+- [commodity] Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East (Energy)
+- [crypto] A 3% token move just triggered $36 million in Ethereum DeFi liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] More than 70,000 social and affordable homes to be built across England over 10 years (BBC News)
+- [crypto] Shipyard winds down IPFS work after Protocol Labs ends funding (Cointelegraph.com News)
+- [macro] Lockerbie bombing trial postponed days before it was due to start (BBC News)
+- [macro] China warns it will safeguard its interests after US widens sanctions against Iran (BBC News)
+- [macro] Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions' (Yahoo Finance)
+- [macro] Constellation Wealth buys minority stake in Confluence Financial (Yahoo Finance)
+- [macro] For Investors in Their 30s, Here's 1 Glorious Growth ETF to Buy Hand Over Fist and Hold Forever (Yahoo Finance)
 - [crypto] Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Commonwealth Bank unveils payout platform ahead of cheque exit (Yahoo Finance)
-- [macro] Intel’s Skid Continues: One of The Biggest Global Banks Says It Will Provide 130% Returns From Here (Yahoo Finance)
-- [macro] Nvidia Vs. Meta Platforms: Why Wall Street Expects Their Q3 Performance to Lead The Magnificent Seven (Yahoo Finance)
-- [macro] Interview: bunq’s chief evangelist Joe Wilson on absorbing rate cuts and M&A strategy (Yahoo Finance)
-- [macro] Guardant ordered to pay $245m in DNA sequencing patent dispute (Yahoo Finance)
-- [macro] Is Broadcom in Trouble Now That Alphabet Is Getting Chips From Marvell Too? (Yahoo Finance)
-- [macro] UK credit card repayments weaken as balances grow in June: FICO (Yahoo Finance)
-- [macro] Butterball reaches settlement in turkey pricing case (Yahoo Finance)
