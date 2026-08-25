@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T10:07:30.933606+00:00`
-- Market context score: `41.93`
-- News risk score: `54.83`
-- Macro risk score: `35.25`
-- Risk-on score: `30.58`
-- Articles: `55`
+- Generated: `2026-08-25T10:18:37.058153+00:00`
+- Market context score: `40.67`
+- News risk score: `55.77`
+- Macro risk score: `36.07`
+- Risk-on score: `28.88`
+- Articles: `57`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10010`
-- Day/swing latest: `2026-08-25T10:00:00+00:00`
+- Day/swing records: `10011`
+- Day/swing latest: `2026-08-25T10:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `17`, risk hits `9`, risk headline rate `0.4706`, policy hits `4`
-- macro: articles `38`, risk hits `16`, risk headline rate `0.3421`, policy hits `3`
+- macro: articles `40`, risk hits `17`, risk headline rate `0.35`, policy hits `6`
 
 ## Headlines
 
+- [macro] OnlyFans owner paid over $700m before his death (BBC News)
+- [macro] Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning (Yahoo Finance)
+- [macro] Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers (Yahoo Finance)
+- [macro] APC invests in electron beam coating and precision slitting tech for tea packaging (Yahoo Finance)
+- [macro] Block's Chief Legal Officer Reported a Disposition While the Company Builds Out Its Own Bank. Here's What to Know (Yahoo Finance)
+- [macro] Why Retirees Are Dumping Individual Bonds for This ETF and Collecting 4.37% Tax Free (Yahoo Finance)
+- [macro] A Trading Plan Adopted in March Just Moved Block Shares at $80.80. Here's What Changed at the Company in Between (Yahoo Finance)
 - [crypto] Standard Chartered becomes first bank distributor of HKD stablecoin (Cointelegraph.com News)
 - [macro] Sonya Massey's killer Sean Grayson dies in US prison (BBC News)
-- [macro] Deloitte Tax appoints first chief products officer (Yahoo Finance)
-- [macro] US judge rejects First Brands’ plan to repay creditors via litigation (Yahoo Finance)
 - [macro] Coca-Cola's new CEO can boast about something that billionaire Mag 7 members Elon Musk and Mark Zuckerberg can't (Yahoo Finance)
-- [macro] Forget Nvidia. This ETF Could Be the Next Big Winner From the AI Boom (Yahoo Finance)
-- [macro] Where is retail drone delivery heading? (Yahoo Finance)
-- [macro] Andy Jassy Believes AWS Can Hit $1 Trillion in Revenue. Here's When the Math Says It Might Happen. (Yahoo Finance)
-- [macro] Franklin Templeton's Tokenized Treasury Fund Lands on HashKey (Yahoo Finance)
-- [macro] Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks (Yahoo Finance)
