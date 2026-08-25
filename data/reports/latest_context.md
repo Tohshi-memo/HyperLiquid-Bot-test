@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T18:18:31.813682+00:00`
-- Market context score: `53.74`
-- News risk score: `41.36`
-- Macro risk score: `26.39`
-- Risk-on score: `42.09`
-- Articles: `61`
+- Generated: `2026-08-25T18:22:30.403267+00:00`
+- Market context score: `53.87`
+- News risk score: `41.28`
+- Macro risk score: `26.34`
+- Risk-on score: `42.3`
+- Articles: `62`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,19 +23,19 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `34`, risk hits `9`, risk headline rate `0.2353`, policy hits `5`
+- crypto: articles `35`, risk hits `9`, risk headline rate `0.2286`, policy hits `5`
 - macro: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Solana transactions hit record 4.2B as SOL rallies 40% (Cointelegraph.com News)
 - [commodity] Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission (Energy)
+- [commodity] Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war (Energy)
+- [crypto] Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant (Cointelegraph.com News)
+- [crypto] Solana transactions hit record 4.2B as SOL rallies 40% (Cointelegraph.com News)
 - [policy] Minutes of the Board's discount rate meetings on July 20 and July 29, 2026 (FRB: Press Release - All Releases)
 - [macro] Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail (Economy)
 - [macro] CIA chief travels to Moscow for unannounced talks, US media reports (BBC News)
 - [crypto] Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report (Cointelegraph.com News)
 - [macro] Two unvaccinated people die of measles in Pennsylvania (BBC News)
 - [crypto] Bitwise launches self-custodied tokenized stock portfolios with Coinbase (Cointelegraph.com News)
-- [crypto] LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] China needs U.S. dollars but is building a hedge against Washington’s sanctions (Economy)
