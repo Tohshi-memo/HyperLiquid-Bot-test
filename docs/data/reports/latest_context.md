@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T05:22:27.164896+00:00`
-- Market context score: `41.15`
-- News risk score: `41.25`
-- Macro risk score: `28.37`
-- Risk-on score: `14.78`
+- Generated: `2026-08-25T05:26:21.762115+00:00`
+- Market context score: `42.82`
+- News risk score: `43.92`
+- Macro risk score: `29.08`
+- Risk-on score: `21.01`
 - Articles: `35`
 - Polymarket markets: `391`
 
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `0`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `2`
+- macro: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Songs created by AI banned from Australia's music charts (BBC News)
 - [crypto] BNB Chain activates Pasteur hard fork to strengthen bridge security (Cointelegraph.com News)
 - [macro] Iran says it is ready for what US calls 'greatest financial offensive ever' (BBC News)
@@ -37,4 +38,3 @@
 - [macro] How Canada could hit back to hurt the US economy - and Trump (BBC News)
 - [macro] How Canada could hit back to hurt the US economy - and Trump (BBC News)
 - [macro] French tourist dies in Death Valley after car gets stuck in mud (BBC News)
-- [crypto] Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express (Cointelegraph.com News)
