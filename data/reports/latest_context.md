@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T03:52:23.387778+00:00`
-- Market context score: `53.34`
-- News risk score: `34.57`
-- Macro risk score: `25.72`
-- Risk-on score: `35.22`
-- Articles: `37`
+- Generated: `2026-08-25T04:05:03.089504+00:00`
+- Market context score: `51.75`
+- News risk score: `36.92`
+- Macro risk score: `25.7`
+- Risk-on score: `33.65`
+- Articles: `38`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9986`
-- Day/swing latest: `2026-08-25T03:45:00+00:00`
+- Day/swing records: `9987`
+- Day/swing latest: `2026-08-25T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `2`
+- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `2`
 - macro: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] BNB Chain activates Pasteur hard fork to strengthen bridge security (Cointelegraph.com News)
 - [macro] Iran says it is ready for what US calls 'greatest financial offensive ever' (BBC News)
 - [macro] Iran says it is ready for what US calls 'greatest financial offensive ever' (BBC News)
 - [macro] US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express (Cointelegraph.com News)
 - [macro] UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia (BBC News)
 - [macro] Burnham refuses to rule out tax rises in autumn Budget (BBC News)
-- [crypto] Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
