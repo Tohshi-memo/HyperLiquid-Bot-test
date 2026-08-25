@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-25T22:15:28.036128+00:00`
-- Flow alert score: `19.48`
+- Generated: `2026-08-25T22:20:30.830665+00:00`
+- Flow alert score: `19.08`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11479882.29`
-- Polymarket volume z-score: `0.62`
+- Polymarket 24h volume: `11252271.39`
+- Polymarket volume z-score: `0.52`
 
 ## Top Polymarket Markets
 
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1020846.790988` | liquidity: `737364.5605`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `493446.1074459998` | liquidity: `602791.41866`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `481942.1113390001` | liquidity: `481231.4748`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `444959.1706559999` | liquidity: `257161.4045`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `438687.1739219998` | liquidity: `687696.748`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `433895.405528` | liquidity: `95647.0824`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `406154.632988` | liquidity: `520022.296`
-- Will Ralph Norman be the new Republican nominee for Senate in South Carolina? | 24h volume: `379220.73150500003` | liquidity: `74439.5676`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1020758.212044` | liquidity: `736051.4056`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `492075.5433859998` | liquidity: `588248.90124`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `481276.1113390001` | liquidity: `484645.6148`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `474545.9491799999` | liquidity: `87843.67875`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `442635.3246559999` | liquidity: `245012.27949`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `440976.7463449998` | liquidity: `683092.747`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `406138.9829879999` | liquidity: `536540.3832`
+- Will Ralph Norman be the new Republican nominee for Senate in South Carolina? | 24h volume: `382156.902918` | liquidity: `74582.8794`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
