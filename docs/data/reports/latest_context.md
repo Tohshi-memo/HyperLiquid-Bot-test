@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T13:26:04.355904+00:00`
-- Market context score: `43.93`
-- News risk score: `53.35`
-- Macro risk score: `35.2`
-- Risk-on score: `33.75`
-- Articles: `75`
+- Generated: `2026-08-25T13:37:25.849889+00:00`
+- Market context score: `44.03`
+- News risk score: `53.63`
+- Macro risk score: `33.75`
+- Risk-on score: `33.67`
+- Articles: `77`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10023`
-- Day/swing latest: `2026-08-25T13:15:00+00:00`
+- Day/swing records: `10024`
+- Day/swing latest: `2026-08-25T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `11`, risk headline rate `0.3448`, policy hits `2`
-- macro: articles `45`, risk hits `19`, risk headline rate `0.3333`, policy hits `7`
+- crypto: articles `30`, risk hits `13`, risk headline rate `0.3667`, policy hits `2`
+- macro: articles `46`, risk hits `18`, risk headline rate `0.3043`, policy hits `9`
 
 ## Headlines
 
+- [crypto] Hugging Face hack exposes the open-weight AI cybersecurity paradox (Cointelegraph.com News)
 - [commodity] Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war (Energy)
+- [macro] “Give Me Anything But Tech”: Jim Cramer’s Bold Call on the Market’s Next Big Rotation (Yahoo Finance)
+- [macro] Home prices rose 2.1% in June, even as high mortgage rates keep the market 'under pressure' (Yahoo Finance)
+- [macro] Vanguard Growth Index Fund Admiral Shares (VIGAX): What Investors Should Know (Yahoo Finance)
+- [macro] Alibaba’s $10 Billion Stock Sale Was Nearly 3 Times Oversubscribed. Should You Follow the Smart Money? (Yahoo Finance)
+- [macro] Teradyne CEO Gregory Smith Sells 4,000 Shares for $1.7 Million (Yahoo Finance)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up (Yahoo Finance)
-- [macro] Magnum welcomes pruning of Ben & Jerry’s lawsuit (Yahoo Finance)
-- [macro] RingCentral Chief Accounting Officer Sells 5,623 Shares (Yahoo Finance)
-- [macro] Is Oklo the Next Great AI Story -- Or Just Nuclear Hype? (Yahoo Finance)
-- [macro] Gorilla Sinks 11% Despite Guiding 2027 Revenue Up to 29% Above Consensus, Evolv Technologies and Ambarella Tick Up (Yahoo Finance)
 - [macro] Investors shrug off US sanctions plan for Iran, bitcoin powers on (Yahoo Finance)
-- [crypto] Chainalysis-led operation flags 7,700 accounts in child abuse probe (Cointelegraph.com News)
-- [crypto] MiCA revolutionised European crypto, and left Poland licking its wounds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
