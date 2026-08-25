@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T10:18:37.058153+00:00`
-- Market context score: `40.67`
-- News risk score: `55.77`
-- Macro risk score: `36.07`
-- Risk-on score: `28.88`
-- Articles: `57`
+- Generated: `2026-08-25T10:22:26.607605+00:00`
+- Market context score: `41.03`
+- News risk score: `55.71`
+- Macro risk score: `34.97`
+- Risk-on score: `29.22`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,13 @@
 ## News Categories
 
 - crypto: articles `17`, risk hits `9`, risk headline rate `0.4706`, policy hits `4`
-- macro: articles `40`, risk hits `17`, risk headline rate `0.35`, policy hits `6`
+- macro: articles `42`, risk hits `17`, risk headline rate `0.3333`, policy hits `6`
 
 ## Headlines
 
 - [macro] OnlyFans owner paid over $700m before his death (BBC News)
+- [macro] Nvidia faces growth test as Rubin debut meets AI financing scrutiny (Yahoo Finance)
+- [macro] Heidelberger Druckmaschinen Bets on Defense and Energy as Q1 Sales Slide (Yahoo Finance)
 - [macro] Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning (Yahoo Finance)
 - [macro] Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers (Yahoo Finance)
 - [macro] APC invests in electron beam coating and precision slitting tech for tea packaging (Yahoo Finance)
@@ -35,5 +37,3 @@
 - [macro] Why Retirees Are Dumping Individual Bonds for This ETF and Collecting 4.37% Tax Free (Yahoo Finance)
 - [macro] A Trading Plan Adopted in March Just Moved Block Shares at $80.80. Here's What Changed at the Company in Between (Yahoo Finance)
 - [crypto] Standard Chartered becomes first bank distributor of HKD stablecoin (Cointelegraph.com News)
-- [macro] Sonya Massey's killer Sean Grayson dies in US prison (BBC News)
-- [macro] Coca-Cola's new CEO can boast about something that billionaire Mag 7 members Elon Musk and Mark Zuckerberg can't (Yahoo Finance)
