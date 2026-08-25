@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T06:37:44.706313+00:00`
+- Generated: `2026-08-25T06:52:24.076296+00:00`
 - Market context score: `42.2`
 - News risk score: `46.46`
 - Macro risk score: `36.64`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9997`
-- Day/swing latest: `2026-08-25T06:30:00+00:00`
+- Day/swing records: `9998`
+- Day/swing latest: `2026-08-25T06:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Burnham refuses to rule out tax rises in autumn Budget (BBC News)
 - [crypto] Crypto rally spills into dog and cat memecoins as smaller tokens double in a week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran says it is 'fully prepared' to counter widened US economic sanctions (BBC News)
 - [macro] Iran says it is 'fully prepared' to counter widened US economic sanctions (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] US targets Iran’s crypto sector, cites over $100M in oil-linked payments (Cointelegraph.com News)
 - [crypto] Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Drought leaves 'barely any apples' to make cider (BBC News)
-- [macro] Songs created by AI banned from Australia's music charts (BBC News)
