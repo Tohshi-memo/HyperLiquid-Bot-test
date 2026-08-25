@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T13:52:28.671435+00:00`
-- Market context score: `43.89`
-- News risk score: `54.06`
-- Macro risk score: `35.63`
-- Risk-on score: `34.42`
-- Articles: `80`
+- Generated: `2026-08-25T14:07:34.381060+00:00`
+- Market context score: `44.77`
+- News risk score: `53.66`
+- Macro risk score: `37.66`
+- Risk-on score: `36.82`
+- Articles: `79`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10025`
-- Day/swing latest: `2026-08-25T13:45:00+00:00`
+- Day/swing records: `10026`
+- Day/swing latest: `2026-08-25T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `31`, risk hits `13`, risk headline rate `0.3548`, policy hits `2`
-- macro: articles `47`, risk hits `21`, risk headline rate `0.3191`, policy hits `10`
+- crypto: articles `31`, risk hits `12`, risk headline rate `0.3226`, policy hits `2`
+- macro: articles `46`, risk hits `21`, risk headline rate `0.3478`, policy hits `11`
 
 ## Headlines
 
+- [crypto] Arcus launches tokenized perp positions on Robinhood Chain (Cointelegraph.com News)
+- [macro] Royal A-ware buys Dutch butter business (Yahoo Finance)
+- [macro] Investors rotate into tech stocks as inflation concerns ease: AlphaCheck (Yahoo Finance)
+- [macro] Broadcom Vs. Micron: Why They’re So Strong as Capital Shifts to Inference and Agentic AI (Yahoo Finance)
 - [commodity] Oil prices fall as U.S. rolls out global sanctions focused on Iran (Energy)
 - [crypto] Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] AMD upgraded, Five Below downgraded: Wall Street's top analyst calls (Yahoo Finance)
-- [crypto] Hugging Face hack exposes the open-weight AI cybersecurity paradox (Cointelegraph.com News)
-- [commodity] Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war (Energy)
-- [macro] Vnet Group (VNET) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Nvidia’s Groq Chip Will Shape AI Agent Usability (Yahoo Finance)
-- [macro] “Give Me Anything But Tech”: Jim Cramer’s Bold Call on the Market’s Next Big Rotation (Yahoo Finance)
-- [macro] Option Traders Bet On Bitcoin’s Price Topping $82,000 (Yahoo Finance)
-- [macro] Cathie Wood's Ark Innovation Fund Returned 17% Over the Past Year. Is It Still a Buy After Years of Underperformance? (Yahoo Finance)
+- [macro] Cerebras Vs. Nvidia: A Battle Not As Lopsided as You Might Expect (Yahoo Finance)
+- [macro] Stock Market Today (Aug. 25, 2026): S&P 500 futures climb ahead of Nvidia earnings, Fed symposium (Yahoo Finance)
+- [macro] Tom Lee Spots Ethereum ‘Launch Point’ After 30% ETH Surge as 'Decade-Long Rotation Begins' (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage) (Yahoo Finance)
