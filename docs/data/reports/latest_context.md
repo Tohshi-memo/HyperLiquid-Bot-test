@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T16:17:09.342779+00:00`
-- Market context score: `50.62`
-- News risk score: `47.0`
-- Macro risk score: `26.35`
-- Risk-on score: `39.9`
-- Articles: `81`
+- Generated: `2026-08-25T16:22:28.729434+00:00`
+- Market context score: `50.88`
+- News risk score: `46.67`
+- Macro risk score: `25.77`
+- Risk-on score: `39.99`
+- Articles: `82`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `33`, risk hits `12`, risk headline rate `0.303`, policy hits `4`
-- macro: articles `46`, risk hits `9`, risk headline rate `0.1739`, policy hits `6`
+- macro: articles `47`, risk hits `9`, risk headline rate `0.1702`, policy hits `4`
 
 ## Headlines
 
+- [macro] Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail (Economy)
+- [macro] Robinhood Rises 7%, Webull Climbs 4% as a Day Trading Rule Repeal Ignites Retail Crypto Orders (Yahoo Finance)
 - [macro] CIA chief in Moscow for unannounced talks, US media reports (BBC News)
-- [macro] China needs U.S. dollars but is building a hedge against Washington’s sanctions (Economy)
-- [macro] Johnson & Johnson Is Near a Record High. Is There Still Room to Run? (Yahoo Finance)
-- [macro] Long-Term Investors Know Exactly What to Do With Nvidia Before Aug. 26 Earnings Drop (Yahoo Finance)
-- [macro] Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit (Yahoo Finance)
-- [crypto] DGrid AI token jumps 93% after launch as decentralized AI network goes live (Cointelegraph.com News)
-- [macro] Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings (Yahoo Finance)
-- [macro] Dell Technologies vs. UiPath: Which Technology Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] Ultragenyx (RARE) Jumped 7.5% on FDA Approval. Can a $2.7 Million Gene Therapy Become a Commercial Success? (Yahoo Finance)
-- [macro] Vanguard strategist says retirees need 'a complete mind shift' — and shares 4 principles to ease financial anxiety (Yahoo Finance)
+- [macro] Insider Sells 5,200 Shares, After Stock Falls 42% in a Year (Yahoo Finance)
+- [macro] ‘Please don’t do this’: Dave Ramsey says to ditch this one household expense keeping Americans from becoming wealthy (Yahoo Finance)
+- [macro] If I Could Tell All Investors 1 Thing About Buying at Record Highs, It Would Be This (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Leads Charge Amid Canada Tariff News; Bloom Energy Extends Gains (Live Coverage) (Yahoo Finance)
+- [macro] Core Compounders Should Do This With Walmart (Yahoo Finance)
+- [macro] Vanguard's VOO draws $4.3 billion during red week (Yahoo Finance)
+- [macro] Newmont (NEM) Faces Gold Above $4,500. Will Rising Costs Dilute the Windfall? (Yahoo Finance)
