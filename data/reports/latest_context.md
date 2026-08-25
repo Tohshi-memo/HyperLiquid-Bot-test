@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T11:22:30.553264+00:00`
-- Market context score: `49.21`
-- News risk score: `50.64`
-- Macro risk score: `31.31`
-- Risk-on score: `41.73`
-- Articles: `68`
+- Generated: `2026-08-25T11:37:23.967117+00:00`
+- Market context score: `49.1`
+- News risk score: `50.6`
+- Macro risk score: `31.72`
+- Risk-on score: `41.61`
+- Articles: `67`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10015`
-- Day/swing latest: `2026-08-25T11:15:00+00:00`
+- Day/swing records: `10016`
+- Day/swing latest: `2026-08-25T11:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `23`, risk hits `9`, risk headline rate `0.3478`, policy hits `4`
-- macro: articles `45`, risk hits `16`, risk headline rate `0.2667`, policy hits `11`
+- macro: articles `44`, risk hits `16`, risk headline rate `0.2727`, policy hits `11`
 
 ## Headlines
 
@@ -36,4 +36,4 @@
 - [macro] He Gave $100,000 of Stock to Fight a Wealth Tax. The IRS Taxed a Gain He Never Pocketed and More of His Social Security. (Yahoo Finance)
 - [macro] Equinor, Aker BP and Vår Energi launch NCS exploration alliance (Yahoo Finance)
 - [macro] After Burry ditched Alibaba for JD, Alibaba proved his point (Yahoo Finance)
-- [crypto] A bitcoin short squeeze for the ages as futures open interest collapses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Azura launches Azura Private as Stella team comes on board (Yahoo Finance)
