@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T08:22:25.520707+00:00`
+- Generated: `2026-08-25T08:37:52.773302+00:00`
 - Market context score: `43.78`
 - News risk score: `50.94`
 - Macro risk score: `38.25`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10003`
-- Day/swing latest: `2026-08-25T08:15:00+00:00`
+- Day/swing records: `10004`
+- Day/swing latest: `2026-08-25T08:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] More than 70,000 social and affordable homes to be built across England over 10 years (BBC News)
 - [macro] Iran says it is 'fully prepared' to counter widened US economic sanctions (BBC News)
 - [macro] Iran says it is 'fully prepared' to counter widened US economic sanctions (BBC News)
 - [crypto] Business owner faces up to 280 years over $24M crypto Ponzi scheme (Cointelegraph.com News)
@@ -35,6 +36,5 @@
 - [crypto] Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series (BBC News)
 - [crypto] Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B (Cointelegraph.com News)
-- [macro] More than 70,000 social and affordable homes to be built across England over 10 years (BBC News)
 - [crypto] Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Monad proposes wallet upgrade that could survive lost keys and quantum attacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
