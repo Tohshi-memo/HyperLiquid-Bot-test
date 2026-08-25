@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T01:37:25.313416+00:00`
+- Generated: `2026-08-25T01:52:32.441831+00:00`
 - Market context score: `55.32`
 - News risk score: `35.22`
 - Macro risk score: `33.32`
 - Risk-on score: `43.05`
 - Articles: `38`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `9977`
-- Day/swing latest: `2026-08-25T01:30:00+00:00`
+- Day/swing records: `9978`
+- Day/swing latest: `2026-08-25T01:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia (BBC News)
 - [macro] How Canada could hit back to hurt the US economy - and Trump (BBC News)
 - [macro] How Canada could hit back to hurt the US economy - and Trump (BBC News)
 - [macro] 70,000 social and affordable homes to be built across England as part of £39bn plan (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Moment tornado tears through southern France (BBC News)
 - [macro] Nearly three million Teslas recalled in China over hidden door handles (BBC News)
 - [macro] Nearly three million Teslas recalled in China over hidden door handles (BBC News)
-- [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
 - [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
