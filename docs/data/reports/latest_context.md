@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-25T00:22:43.012387+00:00`
-- Market context score: `56.12`
-- News risk score: `38.07`
-- Macro risk score: `41.06`
-- Risk-on score: `50.15`
-- Articles: `42`
+- Generated: `2026-08-25T00:25:12.844236+00:00`
+- Market context score: `57.17`
+- News risk score: `37.15`
+- Macro risk score: `38.33`
+- Risk-on score: `50.67`
+- Articles: `43`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,8 +23,8 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `2`
-- macro: articles `21`, risk hits `11`, risk headline rate `0.381`, policy hits `3`
+- crypto: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `1`
+- macro: articles `23`, risk hits `11`, risk headline rate `0.3478`, policy hits `3`
 
 ## Headlines
 
@@ -35,6 +35,6 @@
 - [macro] Nearly three million Teslas recalled in China over hidden door handles (BBC News)
 - [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
 - [macro] Iran faces 'greatest financial offensive ever', says US treasury secretary (BBC News)
+- [macro] Caste divides make scorching summers harder in a parched corner of India (BBC News)
 - [macro] 'What you see is what you pay' - why some US restaurants are banning tips (BBC News)
 - [macro] New 10p coin enters circulation - will you spot one? (BBC News)
-- [macro] 70,000 social and affordable homes to be built across England as part of £39bn plan (BBC News)
