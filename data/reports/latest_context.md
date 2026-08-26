@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T12:52:25.566357+00:00`
-- Market context score: `46.36`
-- News risk score: `42.91`
-- Macro risk score: `30.53`
-- Risk-on score: `28.57`
-- Articles: `70`
+- Generated: `2026-08-26T13:07:27.741451+00:00`
+- Market context score: `41.94`
+- News risk score: `47.06`
+- Macro risk score: `35.65`
+- Risk-on score: `24.19`
+- Articles: `73`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10116`
-- Day/swing latest: `2026-08-26T12:45:00+00:00`
+- Day/swing records: `10117`
+- Day/swing latest: `2026-08-26T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `23`, risk hits `6`, risk headline rate `0.1739`, policy hits `2`
-- macro: articles `45`, risk hits `12`, risk headline rate `0.2444`, policy hits `12`
+- crypto: articles `25`, risk hits `8`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `46`, risk hits `20`, risk headline rate `0.3478`, policy hits `8`
 
 ## Headlines
 
+- [crypto] Students want crypto classes but learn on social media: OKX survey (Cointelegraph.com News)
+- [crypto] The evidence doesn't support the banks' case against stablecoin rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July (Economy)
+- [macro] US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5% (Yahoo Finance)
+- [macro] Youngest Boomers Just Hit 62: Claim Social Security Now and Grab These 5 Dividend Giants Yielding 6% (Yahoo Finance)
+- [macro] Stock Market Today: Dow Steady On Inflation Data; Nvidia Earnings Due After Close (Live Coverage) (Yahoo Finance)
+- [macro] Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August' (Yahoo Finance)
+- [macro] PCE Inflation Data Sets High Bar For Warsh's Jackson Hole Speech (Live Coverage) (Yahoo Finance)
+- [macro] Leave the Kids the Roth, Spend the IRA Yourself: The Inheritance Order Most Families Get Backward. (Yahoo Finance)
 - [macro] Reform proposes £30 tax rebate for HMRC phone delays (BBC News)
-- [macro] Realty Income Pays a Monthly Dividend. Here's Exactly How Much $30,000 Invested Generates Each Month. (Yahoo Finance)
-- [macro] Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars (Yahoo Finance)
-- [macro] Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say (BBC News)
-- [crypto] Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak (Cointelegraph.com News)
-- [macro] Greg Abel Just Made 3 Moves at Berkshire Hathaway That Bet on the Same Trend (And it's Not AI) (Yahoo Finance)
-- [macro] Stock Spirits gains UK supermarket listing for Sierra RTDs (Yahoo Finance)
-- [macro] Zoom Q2 FY2027 earnings beat but profit outlook disappoints (Yahoo Finance)
-- [macro] Revolut Launches Euro-Pegged EURR Stablecoin (Yahoo Finance)
