@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T21:37:24.189864+00:00`
+- Generated: `2026-08-26T21:52:32.228165+00:00`
 - Market context score: `44.51`
 - News risk score: `37.82`
 - Macro risk score: `24.97`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:124, fx:6, index:25, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10148`
-- Day/swing latest: `2026-08-26T21:30:00+00:00`
+- Day/swing records: `10149`
+- Day/swing latest: `2026-08-26T21:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Meta to pay up to $18bn to settle claims its platforms harm children (BBC News)
-- [crypto] Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Better launches Bitcoin-backed mortgages powered by Coinbase (Cointelegraph.com News)
 - [commodity] Oil prices little changed after Iran says deal reached with Oman to share revenue from Hormuz (Energy)
 - [macro] Parrot eggs hatch after suspected Thai smuggler arrested at South African airport (BBC News)
