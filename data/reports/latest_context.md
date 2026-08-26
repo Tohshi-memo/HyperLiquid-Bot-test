@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T09:22:26.071206+00:00`
+- Generated: `2026-08-26T09:37:24.397664+00:00`
 - Market context score: `48.84`
 - News risk score: `37.48`
 - Macro risk score: `25.04`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10102`
-- Day/swing latest: `2026-08-26T09:15:00+00:00`
+- Day/swing records: `10103`
+- Day/swing latest: `2026-08-26T09:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Household energy bills to hit three-year high as Ofgem announces 4% rise from October (BBC News)
 - [crypto] Japan targets early 2030s launch for blockchain-based stock and bond settlement system (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. crude falls below $80 as oil prices sink on Hormuz deal hopes (Energy)
 - [macro] 'Ironing board' seats to be replaced on Thameslink (BBC News)
 - [crypto] Revolut rolls out euro stablecoin in three European markets (Cointelegraph.com News)
 - [crypto] A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Household energy bills to hit three-year high as Ofgem announces 4% rise from October (BBC News)
 - [crypto] Tornado Cash developer Roman Storm’s retrial delayed to April 2027 (Cointelegraph.com News)
 - [crypto] Bitcoin ETFs tear through 2026 outflows in 7-day hot streak (Cointelegraph.com News)
 - [commodity] Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions (Energy)
