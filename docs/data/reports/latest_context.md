@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T20:22:28.462578+00:00`
-- Market context score: `44.99`
-- News risk score: `37.86`
-- Macro risk score: `24.73`
-- Risk-on score: `19.06`
+- Generated: `2026-08-26T20:37:53.123848+00:00`
+- Market context score: `45.43`
+- News risk score: `37.05`
+- Macro risk score: `24.17`
+- Risk-on score: `19.17`
 - Articles: `46`
-- Polymarket markets: `392`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10143`
-- Day/swing latest: `2026-08-26T20:15:00+00:00`
+- Day/swing records: `10144`
+- Day/swing latest: `2026-08-26T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `4`
-- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `3`
+- crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Better launches Bitcoin-backed mortgages powered by Coinbase (Cointelegraph.com News)
 - [commodity] Oil prices little changed after Iran says deal reached with Oman to share revenue from Hormuz (Energy)
 - [macro] Parrot eggs hatch after suspected Thai smuggler arrested at South African airport (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Chainalysis estimates $457B in taxable crypto activity, says CARF misses most (Cointelegraph.com News)
 - [macro] Meta to pay up to $18bn to settle claims its platforms harm children (BBC News)
 - [macro] 'Ironing board' seats to be replaced on Thameslink (BBC News)
-- [crypto] SEC sends crypto custody rule overhaul to White House for review (Cointelegraph.com News)
