@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T18:22:24.156372+00:00`
-- Market context score: `46.24`
-- News risk score: `37.28`
-- Macro risk score: `21.86`
-- Risk-on score: `20.26`
-- Articles: `53`
+- Generated: `2026-08-26T18:37:36.671635+00:00`
+- Market context score: `46.04`
+- News risk score: `37.17`
+- Macro risk score: `22.63`
+- Risk-on score: `20.03`
+- Articles: `51`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,22 +17,22 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10135`
-- Day/swing latest: `2026-08-26T18:15:00+00:00`
+- Day/swing records: `10136`
+- Day/swing latest: `2026-08-26T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `3`
-- macro: articles `22`, risk hits `2`, risk headline rate `0.0909`, policy hits `3`
+- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `3`
 
 ## Headlines
 
-- [commodity] Oil prices turn positive after Iran says deal reached with Oman to share revenue from Hormuz (Energy)
+- [commodity] Oil prices little changed after Iran says deal reached with Oman to share revenue from Hormuz (Energy)
+- [macro] Two German airport workers die of malaria after 'mosquito arrives on plane' (BBC News)
 - [commodity] Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman (Energy)
 - [crypto] Chainalysis estimates $457B in taxable crypto activity, says CARF misses most (Cointelegraph.com News)
 - [macro] Meta's $18bn settlement a landmark victory for US states (BBC News)
-- [macro] German airport worker dies of malaria after 'mosquito arrives on plane' (BBC News)
 - [macro] 'Ironing board' seats to be replaced on Thameslink (BBC News)
 - [crypto] SEC sends crypto custody rule overhaul to White House for review (Cointelegraph.com News)
 - [crypto] 77% of Americans see crypto in retirement plans as risky: Survey (Cointelegraph.com News)
