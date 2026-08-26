@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T16:52:26.385746+00:00`
-- Market context score: `47.83`
-- News risk score: `42.9`
-- Macro risk score: `24.41`
-- Risk-on score: `29.52`
+- Generated: `2026-08-26T16:56:43.096188+00:00`
+- Market context score: `48.0`
+- News risk score: `42.25`
+- Macro risk score: `23.1`
+- Risk-on score: `28.85`
 - Articles: `76`
 - Polymarket markets: `391`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `30`, risk hits `9`, risk headline rate `0.2333`, policy hits `3`
-- macro: articles `44`, risk hits `7`, risk headline rate `0.1591`, policy hits `5`
+- macro: articles `44`, risk hits `6`, risk headline rate `0.1364`, policy hits `5`
 
 ## Headlines
 
-- [macro] Applied Materials’ China Problem Is Getting Worse (Yahoo Finance)
-- [macro] Vanguard Takes On Fidelity, Charles Schwab With $4 Billion Altruist Deal (Yahoo Finance)
-- [macro] Jamie Dimon Committed JPMorgan to $750 Billion of Housing Investment Through 2035 (Yahoo Finance)
-- [macro] Health Care Roundup: Market Talk (Yahoo Finance)
-- [macro] Lumentum Climbs 4% as the AI Optics Trade Extends a Second Session, Coherent and Applied Optoelectronics Drift (Yahoo Finance)
+- [macro] Prediction: SMCI Stock Will Hit $60 on This Date (Yahoo Finance)
 - [macro] Suze Orman says 41% of workers delay medical care when emergencies hit — and 1 in 4 raid retirement savings (Yahoo Finance)
 - [macro] Spyre Therapeutics Plunges; Why Analysts Aren't Sweating (Yahoo Finance)
+- [macro] Will Bloom Energy Be the Next SpaceX? What the Numbers Actually Say. (Yahoo Finance)
+- [macro] Abercrombie & Fitch Shares Rise 37 Percent on Q2 Sales Beat and Raised 2026 Forecast (Yahoo Finance)
+- [macro] If a Stock Market Crash Is Coming, Here's the 1 Thing You Shouldn't Do, According to History (Yahoo Finance)
 - [crypto] SEC sends crypto custody rule overhaul to White House for review (Cointelegraph.com News)
 - [macro] Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026 (Yahoo Finance)
 - [macro] US inflation remains elevated as GDP growth outlook brightens (Yahoo Finance)
+- [macro] Nvidia Down 1% Ahead Of Report (Live Coverage) (Yahoo Finance)
