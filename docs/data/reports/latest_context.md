@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T05:52:23.479506+00:00`
-- Market context score: `45.74`
-- News risk score: `42.54`
-- Macro risk score: `27.93`
-- Risk-on score: `25.9`
+- Generated: `2026-08-26T06:07:23.277088+00:00`
+- Market context score: `46.5`
+- News risk score: `41.12`
+- Macro risk score: `28.04`
+- Risk-on score: `26.43`
 - Articles: `24`
 - Polymarket markets: `391`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10089`
-- Day/swing latest: `2026-08-26T05:45:00+00:00`
+- Day/swing records: `10090`
+- Day/swing latest: `2026-08-26T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `11`, risk hits `7`, risk headline rate `0.3636`, policy hits `0`
+- crypto: articles `12`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Household energy prices will rise to three-year high (BBC News)
+- [crypto] Wall Street is making it easier for bitcoin whales to ditch self-custody: report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP’s 44% rally brings leverage back, raising risk of sharper pullback (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto greed gauge hits highest since just before October’s $19 billion wipeout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil falls as the U.S. pivots to economic pressure on Iran (Energy)
@@ -37,5 +38,3 @@
 - [macro] Why Tesla has been caught up in a massive car recall in China (BBC News)
 - [macro] Musk's rocket firm SpaceX to build $100bn launch facility (BBC News)
 - [macro] AI gold rush draws crypto firms away from Bitcoin (BBC News)
-- [macro] Firms scramble for battery power in Spain and Portugal (BBC News)
-- [macro] Back to school: How parents can save on costs (BBC News)
