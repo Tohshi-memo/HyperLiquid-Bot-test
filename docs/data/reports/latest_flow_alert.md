@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-26T10:10:29.756408+00:00`
+- Generated: `2026-08-26T10:15:28.656235+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `829368.6542470002` | liquidity: `453144.4714`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `383137.6261969998` | liquidity: `491249.63787`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `380490.20991599985` | liquidity: `69764.45827`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `348520.69853799994` | liquidity: `504729.4695`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `338798.388867` | liquidity: `433320.8631`
-- Will Tucker Carlson win the 2028 Republican presidential nomination? | 24h volume: `301320.522857` | liquidity: `282309.28551`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `295818.1155620001` | liquidity: `460147.5081`
-- Will the U.S. invade Iran before 2027? | 24h volume: `283973.6771959999` | liquidity: `826958.0819`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `829368.6542470002` | liquidity: `452992.8114`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `383137.6261969998` | liquidity: `491420.52095`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `380490.20991599985` | liquidity: `89350.51859`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `348520.69853799994` | liquidity: `494481.6119`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `338798.388867` | liquidity: `414173.4903`
+- Will Tucker Carlson win the 2028 Republican presidential nomination? | 24h volume: `301320.522857` | liquidity: `282558.97553`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `295818.1155620001` | liquidity: `457671.1046`
+- Will the U.S. invade Iran before 2027? | 24h volume: `283973.6771959999` | liquidity: `827633.6519`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
