@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-26T08:45:30.497160+00:00`
-- Flow alert score: `18.0`
+- Generated: `2026-08-26T08:50:23.425593+00:00`
+- Flow alert score: `18.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10578405.57`
-- Polymarket volume z-score: `0.25`
+- Polymarket 24h volume: `10610297.5`
+- Polymarket volume z-score: `0.26`
 
 ## Top Polymarket Markets
 
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1064863.183866` | liquidity: `715717.64`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `852936.6802170003` | liquidity: `417590.3086`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `472280.54789599986` | liquidity: `70386.59091`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `348126.56137999997` | liquidity: `673507.671`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `336952.9416959998` | liquidity: `517271.29471`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `336120.122102` | liquidity: `604973.2715`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `335495.94164900004` | liquidity: `480762.5351`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `326665.81025900005` | liquidity: `106996.3169`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1065056.484867` | liquidity: `723245.9358`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `849069.2860040002` | liquidity: `412691.1012`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `468589.71647299995` | liquidity: `70747.35035`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `352284.42316` | liquidity: `688425.4521`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `337748.991171` | liquidity: `106983.0112`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `337495.131696` | liquidity: `517056.74215`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `336242.857391` | liquidity: `622788.5281`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `333166.360118` | liquidity: `482092.7831`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
