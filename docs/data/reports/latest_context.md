@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T12:46:08.579648+00:00`
-- Market context score: `46.26`
-- News risk score: `42.86`
-- Macro risk score: `30.91`
-- Risk-on score: `28.45`
-- Articles: `69`
-- Polymarket markets: `389`
+- Generated: `2026-08-26T12:52:25.566357+00:00`
+- Market context score: `46.36`
+- News risk score: `42.91`
+- Macro risk score: `30.53`
+- Risk-on score: `28.57`
+- Articles: `70`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `23`, risk hits `6`, risk headline rate `0.1739`, policy hits `2`
-- macro: articles `44`, risk hits `12`, risk headline rate `0.25`, policy hits `11`
+- macro: articles `45`, risk hits `12`, risk headline rate `0.2444`, policy hits `12`
 
 ## Headlines
 
 - [macro] Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July (Economy)
+- [macro] Reform proposes £30 tax rebate for HMRC phone delays (BBC News)
+- [macro] Realty Income Pays a Monthly Dividend. Here's Exactly How Much $30,000 Invested Generates Each Month. (Yahoo Finance)
+- [macro] Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars (Yahoo Finance)
 - [macro] Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say (BBC News)
 - [crypto] Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak (Cointelegraph.com News)
+- [macro] Greg Abel Just Made 3 Moves at Berkshire Hathaway That Bet on the Same Trend (And it's Not AI) (Yahoo Finance)
 - [macro] Stock Spirits gains UK supermarket listing for Sierra RTDs (Yahoo Finance)
-- [macro] Flex LNG (FLNG) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Weibo (WB) Q2 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] Revolut debuts Euro-pegged stablecoin (Yahoo Finance)
-- [commodity] Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock. (Yahoo Finance)
+- [macro] Zoom Q2 FY2027 earnings beat but profit outlook disappoints (Yahoo Finance)
+- [macro] Revolut Launches Euro-Pegged EURR Stablecoin (Yahoo Finance)
