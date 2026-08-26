@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T01:37:24.040842+00:00`
-- Market context score: `55.37`
-- News risk score: `36.22`
-- Macro risk score: `30.0`
-- Risk-on score: `42.74`
-- Articles: `34`
+- Generated: `2026-08-26T01:52:52.807870+00:00`
+- Market context score: `54.72`
+- News risk score: `35.32`
+- Macro risk score: `26.9`
+- Risk-on score: `39.36`
+- Articles: `33`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10072`
-- Day/swing latest: `2026-08-26T01:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `1`
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.2143`, policy hits `1`
+- macro: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Musk's rocket firm SpaceX to build $100bn launch facility (BBC News)
 - [commodity] Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran (Energy)
 - [macro] AI gold rush draws crypto firms away from Bitcoin (BBC News)
 - [macro] Firms scramble for battery power in Spain and Portugal (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Zerohash back for second effort at OCC trust bank charter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission (Energy)
 - [crypto] World Liberty Financial launches USD1 natively on Canton Network (Cointelegraph.com News)
-- [macro] Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50% (BBC News)
