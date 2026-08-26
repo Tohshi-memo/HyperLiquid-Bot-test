@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T05:46:41.861463+00:00`
+- Generated: `2026-08-26T05:52:23.479506+00:00`
 - Market context score: `45.74`
 - News risk score: `42.54`
 - Macro risk score: `27.93`
@@ -38,4 +38,4 @@
 - [macro] Musk's rocket firm SpaceX to build $100bn launch facility (BBC News)
 - [macro] AI gold rush draws crypto firms away from Bitcoin (BBC News)
 - [macro] Firms scramble for battery power in Spain and Portugal (BBC News)
-- [macro] Back to school: How to save on uniform costs (BBC News)
+- [macro] Back to school: How parents can save on costs (BBC News)
