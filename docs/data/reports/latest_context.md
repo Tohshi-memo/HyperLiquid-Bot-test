@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T20:07:46.350046+00:00`
-- Market context score: `44.92`
-- News risk score: `38.07`
-- Macro risk score: `24.26`
-- Risk-on score: `18.92`
+- Generated: `2026-08-26T20:22:28.462578+00:00`
+- Market context score: `44.99`
+- News risk score: `37.86`
+- Macro risk score: `24.73`
+- Risk-on score: `19.06`
 - Articles: `46`
 - Polymarket markets: `392`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10142`
-- Day/swing latest: `2026-08-26T20:00:00+00:00`
+- Day/swing records: `10143`
+- Day/swing latest: `2026-08-26T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `26`, risk hits `9`, risk headline rate `0.2692`, policy hits `4`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `3`
+- crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `4`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Better launches Bitcoin-backed mortgages powered by Coinbase (Cointelegraph.com News)
 - [commodity] Oil prices little changed after Iran says deal reached with Oman to share revenue from Hormuz (Energy)
 - [macro] Parrot eggs hatch after suspected Thai smuggler arrested at South African airport (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Meta to pay up to $18bn to settle claims its platforms harm children (BBC News)
 - [macro] 'Ironing board' seats to be replaced on Thameslink (BBC News)
 - [crypto] SEC sends crypto custody rule overhaul to White House for review (Cointelegraph.com News)
-- [crypto] 77% of Americans see crypto in retirement plans as risky: Survey (Cointelegraph.com News)
