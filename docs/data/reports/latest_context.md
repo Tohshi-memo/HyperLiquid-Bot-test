@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T09:37:24.397664+00:00`
-- Market context score: `48.84`
-- News risk score: `37.48`
-- Macro risk score: `25.04`
-- Risk-on score: `27.43`
-- Articles: `24`
-- Polymarket markets: `391`
+- Generated: `2026-08-26T09:52:28.229629+00:00`
+- Market context score: `50.45`
+- News risk score: `35.73`
+- Macro risk score: `26.47`
+- Risk-on score: `30.06`
+- Articles: `22`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10103`
-- Day/swing latest: `2026-08-26T09:30:00+00:00`
+- Day/swing records: `10104`
+- Day/swing latest: `2026-08-26T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `7`, risk headline rate `0.2857`, policy hits `1`
-- macro: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.2308`, policy hits `1`
+- macro: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] U.S. crude hovers around $80 as oil prices sink on Hormuz deal hopes (Energy)
 - [macro] Household energy bills to hit three-year high as Ofgem announces 4% rise from October (BBC News)
 - [crypto] Japan targets early 2030s launch for blockchain-based stock and bond settlement system (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] U.S. crude falls below $80 as oil prices sink on Hormuz deal hopes (Energy)
 - [macro] 'Ironing board' seats to be replaced on Thameslink (BBC News)
 - [crypto] Revolut rolls out euro stablecoin in three European markets (Cointelegraph.com News)
 - [crypto] A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
