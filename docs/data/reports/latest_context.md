@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T16:08:55.678839+00:00`
-- Market context score: `45.2`
-- News risk score: `44.77`
-- Macro risk score: `26.81`
-- Risk-on score: `26.16`
-- Articles: `70`
+- Generated: `2026-08-26T16:22:30.238666+00:00`
+- Market context score: `45.34`
+- News risk score: `43.81`
+- Macro risk score: `29.06`
+- Risk-on score: `26.51`
+- Articles: `72`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:122, fx:6, index:25, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10126`
-- Day/swing latest: `2026-08-26T16:00:00+00:00`
+- Day/swing records: `10127`
+- Day/swing latest: `2026-08-26T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `11`, risk headline rate `0.2581`, policy hits `3`
-- macro: articles `37`, risk hits `7`, risk headline rate `0.1892`, policy hits `7`
+- crypto: articles `30`, risk hits `8`, risk headline rate `0.2`, policy hits `3`
+- macro: articles `40`, risk hits `9`, risk headline rate `0.225`, policy hits `8`
 
 ## Headlines
 
+- [commodity] Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman (Energy)
+- [crypto] 77% of Americans see crypto in retirement plans as risky: Survey (Cointelegraph.com News)
+- [macro] NYC Grocery Lawsuit Puts Subsidized Retail Space at Risk (Yahoo Finance)
+- [macro] Ford Goes All In on Bronco With Massive Portfolio Refresh Planned (Yahoo Finance)
+- [macro] The Fed's Preferred Inflation Gauge Came In Slightly Hotter Than Expected. Here's What Investors Need to Know (Yahoo Finance)
 - [crypto] Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data (Cointelegraph.com News)
+- [macro] JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth (Yahoo Finance)
 - [commodity] Oil prices turn positive after Iran says deal reached with Oman to share revenue from Hormuz (Energy)
+- [macro] DeFi Development Launches Real-Time Solana Data Platform (Yahoo Finance)
 - [macro] Meta Stock Rises As $18 Billion Social Media Trial Settlement Addresses 'Major Overhang' (Yahoo Finance)
-- [macro] JPMorgan Weighs Stablecoin as Bank Push Accelerates (Yahoo Finance)
-- [macro] Billionaires Are Quietly Loading Up on Amazon While It Trades Like a Value Stock (Yahoo Finance)
-- [macro] Stock Market Today: Dow Eases After Inflation Data; Nvidia Slips Before Earnings, Zoom Tanks (Live Coverage) (Yahoo Finance)
-- [macro] A Leading Hedge Fund Just Placed Massive Bets on Broadcom and Intel Stocks. Should You Follow Suit? (Yahoo Finance)
-- [macro] Micron Technology Has Fantastic News for Memory Stock Investors (Yahoo Finance)
-- [macro] Oil slips as investors focus on Hormuz talks (Yahoo Finance)
-- [crypto] Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
