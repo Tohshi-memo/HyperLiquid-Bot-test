@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T10:48:35.789029+00:00`
-- Market context score: `55.22`
-- News risk score: `31.88`
-- Macro risk score: `23.98`
-- Risk-on score: `36.46`
-- Articles: `48`
+- Generated: `2026-08-26T10:52:34.400491+00:00`
+- Market context score: `52.57`
+- News risk score: `37.21`
+- Macro risk score: `29.05`
+- Risk-on score: `37.0`
+- Articles: `50`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `2`
-- macro: articles `30`, risk hits `3`, risk headline rate `0.1`, policy hits `5`
+- crypto: articles `17`, risk hits `4`, risk headline rate `0.1765`, policy hits `2`
+- macro: articles `31`, risk hits `6`, risk headline rate `0.1935`, policy hits `5`
 
 ## Headlines
 
+- [macro] Seventeed dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border (BBC News)
+- [crypto] Japan weighs blockchain fast lane for securities cash settlement (Cointelegraph.com News)
 - [crypto] Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Strategy cuts net leverage to near zero as cash nearly matches convertible debt (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Nvidia Has Fallen After Four Straight Earnings Beats. Here’s Why It Could Happen Again. (Yahoo Finance)
+- [macro] Morning Bid: Falling oil calms nervy markets (Yahoo Finance)
 - [macro] 'Ironing board' seats to be replaced on Thameslink (BBC News)
-- [macro] JPMorgan softens stance on share-backed loans to target AI-era wealth – report (Yahoo Finance)
-- [macro] Bluefin and Visa launch unified card-present payment acceptance offering (Yahoo Finance)
-- [macro] How Much Do You Need Saved to Get $10K a Month in Retirement Income? (Yahoo Finance)
-- [macro] The Stock Market Is Repeating a Dangerous Pattern Not Seen in 60 Years. History Says Investors Should Buckle Up. (Yahoo Finance)
-- [macro] OpenAI Says Its New Chip Outperforms Nvidia’s Blackwell As Nvidia Prepares Earnings Release (Yahoo Finance)
-- [crypto] Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B (Cointelegraph.com News)
-- [macro] Nearly $4.9T sits in target-date funds — Suze Orman warns you may be ‘far better off’ on your own. Diversify your mix (Yahoo Finance)
+- [macro] CID HoldCo shares soar as speculative momentum continues (Yahoo Finance)
+- [macro] Sadot Group shares surge after secondary offering registration (Yahoo Finance)
+- [macro] Boston Scientific shares fall after cybersecurity incident disrupts operations (Yahoo Finance)
