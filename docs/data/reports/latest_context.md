@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T16:03:40.545184+00:00`
-- Market context score: `48.71`
-- News risk score: `42.35`
-- Macro risk score: `25.26`
-- Risk-on score: `31.32`
-- Articles: `68`
+- Generated: `2026-08-26T16:08:55.678839+00:00`
+- Market context score: `45.2`
+- News risk score: `44.77`
+- Macro risk score: `26.81`
+- Risk-on score: `26.16`
+- Articles: `70`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `30`, risk hits `10`, risk headline rate `0.2333`, policy hits `3`
-- macro: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `5`
+- crypto: articles `31`, risk hits `11`, risk headline rate `0.2581`, policy hits `3`
+- macro: articles `37`, risk hits `7`, risk headline rate `0.1892`, policy hits `7`
 
 ## Headlines
 
+- [crypto] Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data (Cointelegraph.com News)
 - [commodity] Oil prices turn positive after Iran says deal reached with Oman to share revenue from Hormuz (Energy)
+- [macro] Meta Stock Rises As $18 Billion Social Media Trial Settlement Addresses 'Major Overhang' (Yahoo Finance)
+- [macro] JPMorgan Weighs Stablecoin as Bank Push Accelerates (Yahoo Finance)
+- [macro] Billionaires Are Quietly Loading Up on Amazon While It Trades Like a Value Stock (Yahoo Finance)
 - [macro] Stock Market Today: Dow Eases After Inflation Data; Nvidia Slips Before Earnings, Zoom Tanks (Live Coverage) (Yahoo Finance)
 - [macro] A Leading Hedge Fund Just Placed Massive Bets on Broadcom and Intel Stocks. Should You Follow Suit? (Yahoo Finance)
 - [macro] Micron Technology Has Fantastic News for Memory Stock Investors (Yahoo Finance)
-- [macro] Why Intuit Stock Dropped Today (Yahoo Finance)
-- [macro] Gold Has Soared to $4,600. Is It Too Late to Buy This ETF? (Yahoo Finance)
 - [macro] Oil slips as investors focus on Hormuz talks (Yahoo Finance)
 - [crypto] Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Enbridge Buys $600 Million Permian Crude Network (Yahoo Finance)
-- [crypto] Protocol upgrade decouples consensus from execution to solve scaling bottlenecks (Cointelegraph.com News)
