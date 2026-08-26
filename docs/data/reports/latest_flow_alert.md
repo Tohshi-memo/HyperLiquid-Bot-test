@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-26T11:15:26.192168+00:00`
+- Generated: `2026-08-26T11:20:28.922765+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9548637.1`
-- Polymarket volume z-score: `-0.19`
+- Polymarket 24h volume: `9415186.17`
+- Polymarket volume z-score: `-0.25`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `819134.2299070003` | liquidity: `456370.496`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `520811.7784779999` | liquidity: `358891.59434`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `401523.091327` | liquidity: `90945.6728`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `342972.713052` | liquidity: `501909.5922`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `333175.852689` | liquidity: `419722.5661`
-- Will Tucker Carlson win the 2028 Republican presidential nomination? | 24h volume: `301337.484137` | liquidity: `282559.9264`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `293908.246356` | liquidity: `473423.2796`
-- Will the U.S. invade Iran before 2027? | 24h volume: `287104.4583169999` | liquidity: `851285.102`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `811433.1099070003` | liquidity: `455700.154`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `520900.7458309999` | liquidity: `358109.81345`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `398052.11132699996` | liquidity: `88537.9924`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `348799.92539999995` | liquidity: `491217.7594`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `333166.84906399995` | liquidity: `394194.4446`
+- Will Tucker Carlson win the 2028 Republican presidential nomination? | 24h volume: `301337.484137` | liquidity: `282577.9264`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `293808.2463560001` | liquidity: `474242.0696`
+- Will the U.S. invade Iran before 2027? | 24h volume: `282138.4379529998` | liquidity: `851268.3659`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
