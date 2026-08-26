@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-26T04:52:23.610042+00:00`
-- Market context score: `42.2`
-- News risk score: `45.73`
-- Macro risk score: `27.03`
-- Risk-on score: `20.38`
-- Articles: `23`
+- Generated: `2026-08-26T04:55:05.414611+00:00`
+- Market context score: `43.59`
+- News risk score: `43.68`
+- Macro risk score: `26.94`
+- Risk-on score: `21.71`
+- Articles: `24`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `9`, risk hits `7`, risk headline rate `0.4444`, policy hits `0`
+- crypto: articles `10`, risk hits `7`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Crypto greed gauge hits highest since just before October’s $19 billion wipeout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil falls as the U.S. pivots to economic pressure on Iran (Energy)
 - [crypto] US banking groups plan nationwide blockchain network for 2027 (Cointelegraph.com News)
 - [crypto] Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Firms scramble for battery power in Spain and Portugal (BBC News)
 - [macro] Back to school: How to save on uniform costs (BBC News)
 - [macro] Winter energy prices expected to rise to three-year high (BBC News)
-- [crypto] U.S. state banking associations plan to launch their own nationwide blockchain network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
