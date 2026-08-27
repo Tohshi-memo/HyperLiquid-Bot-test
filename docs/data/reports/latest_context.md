@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T06:52:27.249344+00:00`
-- Market context score: `48.97`
-- News risk score: `39.37`
-- Macro risk score: `27.22`
-- Risk-on score: `30.12`
-- Articles: `29`
-- Polymarket markets: `392`
+- Generated: `2026-08-27T07:07:25.185792+00:00`
+- Market context score: `52.84`
+- News risk score: `38.09`
+- Macro risk score: `27.13`
+- Risk-on score: `37.61`
+- Articles: `30`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10185`
-- Day/swing latest: `2026-08-27T06:45:00+00:00`
+- Day/swing records: `10186`
+- Day/swing latest: `2026-08-27T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `2`
+- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `2`
 - macro: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin ETF inflows slow to $232M as BTC holds under $80K (Cointelegraph.com News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Tokenized deposits could raise US credit costs: Dallas Fed economists (Cointelegraph.com News)
 - [commodity] Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait' (Energy)
 - [crypto] Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] StarkWare tests quantum-resistant Bitcoin transaction on mainnet (Cointelegraph.com News)
 - [crypto] Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] At least one dead after car crashes into crowd in northern France (BBC News)
-- [macro] At least 12 dead as wildfires sweep through northern Algeria (BBC News)
-- [crypto] SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch (Cointelegraph.com News)
