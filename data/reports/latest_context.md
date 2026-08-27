@@ -1,40 +1,40 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T14:37:14.036839+00:00`
-- Market context score: `52.79`
-- News risk score: `46.95`
-- Macro risk score: `24.64`
-- Risk-on score: `44.05`
-- Articles: `77`
+- Generated: `2026-08-27T14:52:37.789948+00:00`
+- Market context score: `49.67`
+- News risk score: `50.02`
+- Macro risk score: `27.44`
+- Risk-on score: `40.77`
+- Articles: `78`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
 
-- Asset universe count: `1222`
+- Asset universe count: `1221`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
-- HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
+- Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:791`
+- HIP-3 dexes: `cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10213`
-- Day/swing latest: `2026-08-27T14:30:00+00:00`
+- Day/swing records: `10214`
+- Day/swing latest: `2026-08-27T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.3214`, policy hits `4`
-- macro: articles `47`, risk hits `10`, risk headline rate `0.1702`, policy hits `3`
+- crypto: articles `28`, risk hits `10`, risk headline rate `0.3571`, policy hits `4`
+- macro: articles `48`, risk hits `11`, risk headline rate `0.2083`, policy hits `6`
 
 ## Headlines
 
 - [macro] Fed's Hammack says 'now is the time to act' on raising interest rates (Economy)
 - [macro] Hackers steal data from millions of airport customers (BBC News)
-- [crypto] Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Silence is complicity' - top footballer hits out over Cameroon femicides (BBC News)
-- [macro] Social Security Can Pay $4,152 a Month at Full Retirement Age in 2026. Here’s Who Qualifies for the Maximum (Yahoo Finance)
-- [macro] You Don’t Need a $2 Million Portfolio to Collect $5,900 a Month in Dividends (Yahoo Finance)
-- [macro] The Stock Market Has Been Reaching Record Highs. Here's What History Says Comes Next. (Yahoo Finance)
-- [macro] FormFactor CEO Mike Slessor Sells 16,002 Shares for $2 Million (Yahoo Finance)
-- [macro] Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions (BBC News)
-- [macro] Stock Market Today: Nasdaq Rallies As Nvidia Rips Higher, Edges Near Buy Point (Live Coverage) (Yahoo Finance)
+- [macro] WA Government and YNAC appeal Fortescue compensation ruling (Yahoo Finance)
+- [macro] As Jackson Hole conference kicks off, two Fed officials warn about inflation (Yahoo Finance)
+- [macro] Forgent Power Solutions (FPS) Positioned for Faster Customer Outcomes (Yahoo Finance)
+- [macro] Berglandmilch in talks over “merger” with Austrian rival (Yahoo Finance)
+- [macro] Technological Advancements Fueling Badger Meter’s (BMI) Long-Term Growth Potential (Yahoo Finance)
+- [macro] Is Toast a Good Buy Right Now? (Yahoo Finance)
+- [macro] AirJoule’s (AIRJ) Water Technology Meets A Growing Data Center Crisis (Yahoo Finance)
+- [macro] UiPath Rallies 9% as the Software Bid Broadens Beyond the Earnings Winners, Pegasystems Gains 4% (Yahoo Finance)
