@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T18:52:24.382965+00:00`
-- Market context score: `46.74`
+- Generated: `2026-08-27T19:07:35.584782+00:00`
+- Market context score: `46.21`
 - News risk score: `47.79`
 - Macro risk score: `32.13`
-- Risk-on score: `34.14`
+- Risk-on score: `32.96`
 - Articles: `60`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10230`
-- Day/swing latest: `2026-08-27T18:45:00+00:00`
+- Day/swing records: `10231`
+- Day/swing latest: `2026-08-27T19:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows (Cointelegraph.com News)
 - [crypto] Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children (BBC News)
 - [macro] Allan Little: I met dangerously fanatical Mladić early in Bosnian war (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Fed's Hammack says 'now is the time to act' on raising interest rates (Economy)
 - [crypto] Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets (Cointelegraph.com News)
 - [macro] Two killed in 'domestic violence incident' at school near Berlin (BBC News)
-- [macro] Convicted Bosnian Serb war criminal Mladić dies aged 84 (BBC News)
