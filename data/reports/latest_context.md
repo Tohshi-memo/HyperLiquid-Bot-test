@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T02:37:28.083437+00:00`
-- Market context score: `44.66`
-- News risk score: `37.97`
-- Macro risk score: `21.65`
-- Risk-on score: `17.27`
-- Articles: `34`
+- Generated: `2026-08-27T02:52:25.144680+00:00`
+- Market context score: `44.21`
+- News risk score: `38.44`
+- Macro risk score: `22.56`
+- Risk-on score: `17.0`
+- Articles: `32`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:126, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10168`
-- Day/swing latest: `2026-08-27T02:30:00+00:00`
+- Day/swing records: `10169`
+- Day/swing latest: `2026-08-27T02:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `1`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `1`
 
 ## Headlines
 
+- [macro] At least one dead after car crashes into crowd in northern France (BBC News)
 - [macro] At least 12 dead as wildfires sweep through northern Algeria (BBC News)
 - [crypto] SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch (Cointelegraph.com News)
 - [commodity] Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market (Energy)
-- [macro] At least one dead after car crashes into crowd in northern France (BBC News)
 - [macro] 'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis (BBC News)
 - [macro] Iceland holds knife-edge referendum on EU - and it could be decided on fish (BBC News)
 - [macro] Experts' five tips to make a rented property feel like home (BBC News)
