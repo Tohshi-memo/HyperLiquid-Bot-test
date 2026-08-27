@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T03:52:28.623218+00:00`
-- Market context score: `40.83`
-- News risk score: `43.27`
+- Generated: `2026-08-27T04:07:27.983363+00:00`
+- Market context score: `48.73`
+- News risk score: `38.27`
 - Macro risk score: `22.37`
-- Risk-on score: `13.51`
+- Risk-on score: `26.84`
 - Articles: `28`
 - Polymarket markets: `392`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:126, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10173`
-- Day/swing latest: `2026-08-27T03:45:00+00:00`
+- Day/swing records: `10174`
+- Day/swing latest: `2026-08-27T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
+- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] At least one dead after car crashes into crowd in northern France (BBC News)
 - [macro] At least 12 dead as wildfires sweep through northern Algeria (BBC News)
 - [crypto] SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Experts' five tips to make a rented property feel like home (BBC News)
 - [macro] Plug-in solar panels are coming to a shop near you - here's what to know (BBC News)
 - [macro] Meta's $18bn settlement may hasten reckoning for social media on child safety (BBC News)
-- [macro] How Dolly Parton's business savvy helped her succeed far beyond the charts (BBC News)
