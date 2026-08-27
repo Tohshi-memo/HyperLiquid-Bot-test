@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T10:37:27.555146+00:00`
-- Market context score: `59.67`
-- News risk score: `39.36`
-- Macro risk score: `21.14`
-- Risk-on score: `51.59`
-- Articles: `36`
+- Generated: `2026-08-27T10:52:21.907547+00:00`
+- Market context score: `61.29`
+- News risk score: `37.35`
+- Macro risk score: `19.83`
+- Risk-on score: `53.0`
+- Articles: `41`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10198`
-- Day/swing latest: `2026-08-27T10:30:00+00:00`
+- Day/swing records: `10199`
+- Day/swing latest: `2026-08-27T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `2`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `1`
+- crypto: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode (Cointelegraph.com News)
 - [crypto] Bitcoin steadies above $79,000 as ETF inflows hit longest streak since April (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Tanzania's VP expelled from ruling party for indiscipline as his successor named (BBC News)
 - [macro] Norway's royal family gathers at King Harald's bedside as his condition worsens (BBC News)
+- [macro] What caused the Nepal-Tibet flash floods? (BBC News)
 - [crypto] Bitfinex Securities completes record $50M tokenized capital raise (Cointelegraph.com News)
 - [crypto] Bitfinex Securities raises $50 million in push to offer tokenized nickel trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis (BBC News)
 - [macro] What we know about deadly Nepal-Tibet floods (BBC News)
-- [macro] Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say (BBC News)
-- [macro] Plug-in solar panels are coming to a shop near you - here's what to know (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Bithumb wins 2 suits over mistaken Bitcoin credits: Report (Cointelegraph.com News)
