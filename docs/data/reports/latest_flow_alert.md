@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-27T23:25:28.701329+00:00`
+- Generated: `2026-08-27T23:30:36.817451+00:00`
 - Flow alert score: `20.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `2367524.1036350005` | liquidity: `1044497.3747`
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `1499398.184544` | liquidity: `201856.91683`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `576828.9228430002` | liquidity: `628202.86766`
-- Will Xavier Bertrand win the 2027 French presidential election? | 24h volume: `499814.579642` | liquidity: `91014.97179`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `369740.674835` | liquidity: `150824.66779`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `363747.771702` | liquidity: `380254.92556`
-- Will Jair Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `266682.53` | liquidity: `474894.65051`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `261247.884` | liquidity: `15239.24158`
+- Will the U.S. invade Iran before 2027? | 24h volume: `2367524.1036350005` | liquidity: `1048910.2792`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `1499398.184544` | liquidity: `203507.02399`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `576828.9228430002` | liquidity: `628279.25952`
+- Will Xavier Bertrand win the 2027 French presidential election? | 24h volume: `499814.579642` | liquidity: `91015.12179`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `369740.674835` | liquidity: `150926.66879`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `363747.771702` | liquidity: `381506.68556`
+- Will Jair Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `266682.53` | liquidity: `474904.26051`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `261247.884` | liquidity: `21772.58988`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
