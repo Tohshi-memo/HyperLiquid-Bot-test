@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T04:22:25.717182+00:00`
-- Market context score: `48.94`
-- News risk score: `40.17`
-- Macro risk score: `22.4`
-- Risk-on score: `28.93`
-- Articles: `27`
+- Generated: `2026-08-27T04:37:31.076317+00:00`
+- Market context score: `49.88`
+- News risk score: `38.81`
+- Macro risk score: `23.26`
+- Risk-on score: `30.18`
+- Articles: `28`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:126, fx:6, index:25, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10175`
-- Day/swing latest: `2026-08-27T04:15:00+00:00`
+- Day/swing records: `10176`
+- Day/swing latest: `2026-08-27T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
+- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
 - macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] StarkWare tests quantum-resistant Bitcoin transaction on mainnet (Cointelegraph.com News)
 - [crypto] Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] At least one dead after car crashes into crowd in northern France (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis (BBC News)
 - [macro] Iceland holds knife-edge referendum on EU - and it could be decided on fish (BBC News)
 - [macro] Experts' five tips to make a rented property feel like home (BBC News)
-- [macro] Plug-in solar panels are coming to a shop near you - here's what to know (BBC News)
