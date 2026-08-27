@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T19:37:34.888037+00:00`
+- Generated: `2026-08-27T19:52:26.116931+00:00`
 - Market context score: `44.76`
 - News risk score: `48.76`
 - Macro risk score: `34.41`
 - Risk-on score: `31.43`
 - Articles: `61`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10233`
-- Day/swing latest: `2026-08-27T19:30:00+00:00`
+- Day/swing records: `10234`
+- Day/swing latest: `2026-08-27T19:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen (Cointelegraph.com News)
 - [crypto] Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X (Cointelegraph.com News)
 - [crypto] Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [commodity] Brian Sullivan: Gulf nations are unlikely to agree to a toll plan for Strait of Hormuz safe passage (Energy)
 - [macro] Norwegians lay flowers at palace as King Harald's condition worsens (BBC News)
 - [crypto] Ethena surges as buyback vote, VC unlock overhaul boost token outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Fed's Hammack says 'now is the time to act' on raising interest rates (Economy)
