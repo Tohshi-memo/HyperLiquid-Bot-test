@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T23:07:26.725347+00:00`
-- Market context score: `43.93`
-- News risk score: `43.63`
-- Macro risk score: `35.27`
-- Risk-on score: `25.58`
-- Articles: `50`
-- Polymarket markets: `390`
+- Generated: `2026-08-27T23:22:28.826033+00:00`
+- Market context score: `42.63`
+- News risk score: `45.27`
+- Macro risk score: `36.68`
+- Risk-on score: `24.59`
+- Articles: `52`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10247`
-- Day/swing latest: `2026-08-27T23:00:00+00:00`
+- Day/swing records: `10248`
+- Day/swing latest: `2026-08-27T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `24`, risk hits `8`, risk headline rate `0.3333`, policy hits `4`
+- crypto: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `1`
+- macro: articles `27`, risk hits `11`, risk headline rate `0.3704`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Overcooked? Why robotic pizza makers are failing (BBC News)
+- [macro] Trump signs order to rename Lake Ontario as Lake America (BBC News)
+- [macro] Selena Gomez pushes back against 'absurd' fraud claims (BBC News)
 - [macro] Military veterans told they owe thousands of pounds over clerical error (BBC News)
 - [macro] I was spending £700 a month: How I beat my late-night shopping addiction (BBC News)
 - [macro] What we know about deadly Nepal-Tibet floods (BBC News)
-- [macro] Trump signs order to rename Lake Ontario as Lake America (BBC News)
 - [macro] 'Cowboy builders' targeted in new government clampdown (BBC News)
 - [crypto] Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond (Cointelegraph.com News)
 - [macro] Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children (BBC News)
 - [macro] Sports Direct founder attacks Burnham's 'populist' High Street plans (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen (Cointelegraph.com News)
