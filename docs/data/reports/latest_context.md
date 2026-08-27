@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-27T10:07:29.468803+00:00`
+- Generated: `2026-08-27T10:22:30.139227+00:00`
 - Market context score: `58.7`
 - News risk score: `40.32`
 - Macro risk score: `21.2`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10196`
-- Day/swing latest: `2026-08-27T10:00:00+00:00`
+- Day/swing records: `10197`
+- Day/swing latest: `2026-08-27T10:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Norway's royal family gathers at King Harald's bedside as his condition worsens (BBC News)
 - [crypto] Bitfinex Securities completes record $50M tokenized capital raise (Cointelegraph.com News)
 - [crypto] Bitfinex Securities raises $50 million in push to offer tokenized nickel trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bithumb wins 2 suits over mistaken Bitcoin credits: Report (Cointelegraph.com News)
 - [crypto] BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Nvidia shares surge 8% on earnings beat, lifting technology stocks and bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
