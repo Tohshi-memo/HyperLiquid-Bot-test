@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T15:22:30.264372+00:00`
-- Market context score: `44.38`
-- News risk score: `54.93`
-- Macro risk score: `28.84`
-- Risk-on score: `33.67`
-- Articles: `95`
+- Generated: `2026-08-28T15:37:28.373520+00:00`
+- Market context score: `42.87`
+- News risk score: `56.17`
+- Macro risk score: `31.12`
+- Risk-on score: `32.23`
+- Articles: `94`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10309`
-- Day/swing latest: `2026-08-28T15:15:00+00:00`
+- Day/swing records: `10310`
+- Day/swing latest: `2026-08-28T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `31`, risk hits `15`, risk headline rate `0.4516`, policy hits `4`
-- macro: articles `60`, risk hits `14`, risk headline rate `0.2`, policy hits `5`
+- macro: articles `59`, risk hits `16`, risk headline rate `0.2203`, policy hits `9`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Fed has 'work to do' if price rises don't ease for Americans, Warsh says (BBC News)
-- [macro] Kevin Warsh didn't bring up the $40 trillion national debt or historic deficits in his Jackson Hole speech (Yahoo Finance)
 - [macro] Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank (Economy)
-- [macro] Tradeweb Markets’ (TW) Long-Term Upside Driven by Innovation Track Record and Market Trends (Yahoo Finance)
-- [macro] Cathie Wood buys $17.2 million of beaten-down AI stock (Yahoo Finance)
-- [macro] Toyota's Electrified Vehicles Now Make Up Nearly 52% of Its Quarterly Volume (Yahoo Finance)
-- [macro] Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] MARA and Riot Sink 6% While Bitcoin Holds Near $79,500; Strategy Slips 3% (Yahoo Finance)
+- [macro] Fed has 'work to do' if price rises don't ease for Americans, Warsh says (BBC News)
+- [macro] Fed has 'work to do' if price rises don't ease for Americans, Warsh says (BBC News)
 - [macro] Rate-hike expectations rise on Warsh speech at Jackson Hole (Yahoo Finance)
-- [macro] Frontline Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Ulta Beauty Slips 4% Despite Raised Guidance and Q2 Earnings Beat, e.l.f. Beauty Pulls Back (Yahoo Finance)
+- [macro] Ford (F) and General Motors (GM) Battle for Title of Most “American-Made” Automaker (Yahoo Finance)
+- [macro] Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing (Yahoo Finance)
+- [macro] Fed Chair Warsh Leans Hawkish In Jackson Hole Speech — Markets Approve (Live Coverage) (Yahoo Finance)
+- [macro] Is AerCap Holdings N. A (AER) a Sustainable Growth Opportunity? (Yahoo Finance)
+- [macro] Kevin Warsh didn't bring up the $40 trillion national debt or historic deficits in his Jackson Hole speech (Yahoo Finance)
