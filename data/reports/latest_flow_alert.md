@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-28T14:05:29.037912+00:00`
-- Flow alert score: `17.8`
+- Generated: `2026-08-28T14:10:25.609301+00:00`
+- Flow alert score: `18.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9953297.71`
-- Polymarket volume z-score: `0.2`
+- Polymarket 24h volume: `10056305.95`
+- Polymarket volume z-score: `0.25`
 
 ## Top Polymarket Markets
 
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `874147.3842510005` | liquidity: `218256.69408`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `840856.646067` | liquidity: `443541.32825`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `491105.0` | liquidity: `26207.12638`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `346166.81737000006` | liquidity: `359509.90682`
-- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `345257.842977` | liquidity: `141797.14298`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `335155.3032479998` | liquidity: `290648.7373`
-- Will the U.S. invade Iran before 2027? | 24h volume: `312654.21087899955` | liquidity: `950081.3962`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `250178.07430699572` | liquidity: `288032.9279`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `875486.105681` | liquidity: `220621.28851`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `857353.4729919998` | liquidity: `453758.86308`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `491105.0` | liquidity: `27945.62326`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `426752.530566` | liquidity: `148167.1633`
+- US announces end of Iranian blockade by August 31, 2026? | 24h volume: `345742.20297700004` | liquidity: `139821.39285`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `342155.39771700004` | liquidity: `359484.28782`
+- Will the U.S. invade Iran before 2027? | 24h volume: `316151.79171999986` | liquidity: `947346.4609`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `288015.514307` | liquidity: `288084.3614`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
