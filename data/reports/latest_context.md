@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T16:52:29.204118+00:00`
-- Market context score: `41.14`
-- News risk score: `56.44`
-- Macro risk score: `34.51`
-- Risk-on score: `29.91`
-- Articles: `96`
+- Generated: `2026-08-28T17:07:25.176778+00:00`
+- Market context score: `41.18`
+- News risk score: `56.0`
+- Macro risk score: `32.47`
+- Risk-on score: `28.84`
+- Articles: `94`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10315`
-- Day/swing latest: `2026-08-28T16:45:00+00:00`
+- Day/swing records: `10316`
+- Day/swing latest: `2026-08-28T17:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `31`, risk hits `15`, risk headline rate `0.4194`, policy hits `4`
-- macro: articles `60`, risk hits `21`, risk headline rate `0.2667`, policy hits `11`
+- commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
+- crypto: articles `30`, risk hits `15`, risk headline rate `0.4333`, policy hits `4`
+- macro: articles `60`, risk hits `18`, risk headline rate `0.25`, policy hits `7`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] JPMorgan (JPM) Hiring Bank of America (BAC)’s David Fishman to Lead Tech M&A (Yahoo Finance)
-- [macro] His Annuity Check Was Only $1,400 a Month. It Was Enough to Make 85% of His Social Security Taxable. (Yahoo Finance)
-- [macro] 1 Chart Shows Why You Should Buy Stocks, Not Bonds (Yahoo Finance)
-- [macro] Violence breaks out in Ceuta as migrant crisis continues (BBC News)
-- [macro] Netflix Stock Price Prediction: The Road Back to $100 (Yahoo Finance)
-- [commodity] Treasury moves to sanction UAE branch of Egyptian bank over Iran ties (Energy)
-- [macro] Why The Gap Stock Popped Today (Yahoo Finance)
-- [macro] Walmart (WMT) to Add Apple (AAPL)’s Apple Pay Support in Push for Contactless Payments (Yahoo Finance)
-- [macro] Google vs NVDA: Which Is The Most Profitable Company in America? (Yahoo Finance)
-- [macro] Stock Market Today: Dow Waffles As Warsh Speech Wraps; Microsoft Breaks Out, Amazon Jumps (Live Coverage) (Yahoo Finance)
+- [macro] Stocks Little Changed as Fed’s Warsh Signals Moves to Fight Inflation (Yahoo Finance)
+- [macro] BofA flips on Everpure after months on the sidelines (Yahoo Finance)
+- [macro] Applied Digital Sinks 7%, IREN Tumbles 13% as Data Center Selloff Broadens Past One Name (Yahoo Finance)
+- [macro] Why Danaher (DHR) Remains a Healthcare Compounder to Watch (Yahoo Finance)
+- [macro] Broadcom (AVGO) Nears $70B Debt Financing Deal, Sources Say (Yahoo Finance)
+- [macro] Why Qualcomm (QCOM) Is Moving Beyond Smartphones (Yahoo Finance)
+- [macro] Why Alphabet (GOOGL) Is Proving AI Can Strengthen Its Search Business (Yahoo Finance)
+- [macro] Corteva (CTVA) Faces Near-Term Headwinds, but Its Long-Term Growth Story Remains Intact (Yahoo Finance)
+- [macro] Motorola Solutions (MSI) Faces Near-Term Margin Pressure, but the Long-Term Thesis Holds (Yahoo Finance)
+- [macro] Why Atmos Energy (ATO) Lost Its Investment Appeal (Yahoo Finance)
