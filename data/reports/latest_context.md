@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T07:52:24.771539+00:00`
+- Generated: `2026-08-28T08:07:24.562573+00:00`
 - Market context score: `31.88`
 - News risk score: `54.54`
 - Macro risk score: `30.76`
 - Risk-on score: `6.29`
 - Articles: `31`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10281`
-- Day/swing latest: `2026-08-28T07:45:00+00:00`
+- Day/swing records: `10282`
+- Day/swing latest: `2026-08-28T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Norway's King Harald dies aged 89 (BBC News)
 - [macro] What we know about deadly Nepal-Tibet floods (BBC News)
 - [crypto] Visa works with Upbit parent on stablecoin payments, AI commerce (Cointelegraph.com News)
 - [macro] Sports Direct founder attacks Burnham's 'populist' High Street plans (BBC News)
-- [macro] Norway's King Harald dies aged 89 (BBC News)
 - [commodity] Iran says return to diplomacy 'isn't impossible' — but all Mideast wars must end to reopen Hormuz (Energy)
 - [crypto] Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Solana’s faster disinflation plan leads vote as $800K burn proposal trails (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
