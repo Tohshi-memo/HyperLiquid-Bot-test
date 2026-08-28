@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T08:07:24.562573+00:00`
+- Generated: `2026-08-28T08:22:25.244525+00:00`
 - Market context score: `31.88`
 - News risk score: `54.54`
 - Macro risk score: `30.76`
 - Risk-on score: `6.29`
 - Articles: `31`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10282`
-- Day/swing latest: `2026-08-28T08:00:00+00:00`
+- Day/swing records: `10283`
+- Day/swing latest: `2026-08-28T08:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] 'High risk' of lake breaching and causing second flood, warns China (BBC News)
 - [macro] Norway's King Harald dies aged 89 (BBC News)
 - [macro] What we know about deadly Nepal-Tibet floods (BBC News)
 - [crypto] Visa works with Upbit parent on stablecoin payments, AI commerce (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Solana’s faster disinflation plan leads vote as $800K burn proposal trails (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Selena Gomez pushes back against 'frivolous' fraud claims (BBC News)
 - [macro] Selena Gomez pushes back against 'frivolous' fraud claims (BBC News)
-- [macro] 'High risk' of lake breaching and causing second flood, warns China (BBC News)
