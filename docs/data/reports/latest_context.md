@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T18:07:36.661182+00:00`
-- Market context score: `43.92`
-- News risk score: `55.68`
-- Macro risk score: `31.71`
-- Risk-on score: `34.37`
-- Articles: `92`
+- Generated: `2026-08-28T18:22:24.038316+00:00`
+- Market context score: `44.36`
+- News risk score: `52.86`
+- Macro risk score: `32.42`
+- Risk-on score: `33.24`
+- Articles: `63`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10320`
-- Day/swing latest: `2026-08-28T18:00:00+00:00`
+- Day/swing records: `10321`
+- Day/swing latest: `2026-08-28T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `30`, risk hits `15`, risk headline rate `0.4333`, policy hits `4`
-- macro: articles `58`, risk hits `15`, risk headline rate `0.2241`, policy hits `9`
+- crypto: articles `29`, risk hits `14`, risk headline rate `0.4138`, policy hits `4`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] USA Rare Earth Is Burning Through Cash at $57 Million a Quarter. At That Rate, Here's How Long the Money Lasts. (Yahoo Finance)
-- [macro] The Consumer Staples Sector Is Lagging the S&P 500 in 2026. 1 Value Stock to Buy in August. (Yahoo Finance)
-- [macro] Hims & Hers (HIMS) CEO Says the FTC Doesn’t Understand His Own Company (Yahoo Finance)
+- [macro] Norway mourns King Harald as Haakon VIII ascends throne (BBC News)
+- [commodity] Treasury moves to sanction UAE branch of Egyptian bank over Iran ties (Energy)
 - [crypto] Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs (Cointelegraph.com News)
-- [macro] Marvell Stock Drops As Analysts Weigh In-Line Report (Yahoo Finance)
-- [macro] Johnson & Johnson (NYSE:JNJ) Has A Better Balance Sheet Than The Government, Said Jim Cramer (Yahoo Finance)
 - [macro] Gatwick Airport faced water outage after main burst (BBC News)
-- [macro] Stock Market Today: Dow Waffles After Warsh Speech; Microsoft Breaks Out, Amazon Jumps (Live Coverage) (Yahoo Finance)
 - [macro] Satellite images reveal scale of flood devastation in Nepal villages (BBC News)
-- [macro] The Walt Disney Company (DIS)’s ABC Is Suing the FCC. A Judge Just Told it to Slow Down (Yahoo Finance)
+- [macro] Thieves steal 600-diamond necklace from Vienna museum in broad daylight (BBC News)
+- [macro] Violence breaks out in Ceuta as migrant crisis continues (BBC News)
+- [crypto] Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending (Cointelegraph.com News)
+- [macro] 'A lot of pressure' - SSE Airtricity to increase gas prices by 19% (BBC News)
+- [crypto] Solana vote to double disinflation passes by a hair in dramatic finish (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
