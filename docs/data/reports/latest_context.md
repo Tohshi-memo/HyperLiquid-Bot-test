@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T14:52:27.546876+00:00`
-- Market context score: `37.65`
-- News risk score: `59.11`
-- Macro risk score: `35.75`
-- Risk-on score: `24.86`
-- Articles: `86`
+- Generated: `2026-08-28T15:07:31.644917+00:00`
+- Market context score: `40.67`
+- News risk score: `57.12`
+- Macro risk score: `33.18`
+- Risk-on score: `28.93`
+- Articles: `94`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10307`
-- Day/swing latest: `2026-08-28T14:45:00+00:00`
+- Day/swing records: `10308`
+- Day/swing latest: `2026-08-28T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `30`, risk hits `16`, risk headline rate `0.4667`, policy hits `4`
-- macro: articles `52`, risk hits `20`, risk headline rate `0.3077`, policy hits `9`
+- crypto: articles `31`, risk hits `15`, risk headline rate `0.4516`, policy hits `4`
+- macro: articles `59`, risk hits `20`, risk headline rate `0.2712`, policy hits `6`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank (Economy)
-- [crypto] BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Amber Beverage Group gets extension on debt moratorium (Yahoo Finance)
-- [macro] A Union Just Delayed Alphabet (GOOGL) Google’s $10 Million Purchase of a Bankrupt Airline’s Data (Yahoo Finance)
-- [macro] Ulta Beauty raises full-year outlook after increase in Q2 sales (Yahoo Finance)
-- [macro] Investors In Trump Crypto Ventures Are $4.7 Billion Underwater: Report (Yahoo Finance)
-- [macro] Rubrik Stock Is Falling After Earnings. Why the Reaction Doesn’t Make Sense. (Yahoo Finance)
-- [macro] Marvell Guided to 50% Growth and the Stock Dropped 6%. Every AI Investor Should Read That Warning. (Yahoo Finance)
-- [macro] If the Federal Reserve Hikes Interest Rates in 2026, History Has Good and Bad News for Investors (Yahoo Finance)
-- [macro] Warsh says Fed has 'work to do' if above-target inflation persists (Yahoo Finance)
+- [crypto] Crypto Biz: Bitcoin pumps, Wall Street does the paperwork (Cointelegraph.com News)
+- [macro] Morgan Stanley (MS) is Well Positioned to Benefit from AI Capital Raising (Yahoo Finance)
+- [macro] Cramer Says the Bears Spent Months Lying About Salesforce and Nvidia. One Earnings Report Just Ended It. (Yahoo Finance)
+- [macro] A Retiree With the Average $167,970 401(k) Can Buy About $1,000 a Month for Life. The Average One Buys Nothing and Draws $560. (Yahoo Finance)
+- [macro] Tokio Marine HCC International agrees deal for Direct Commercial (Yahoo Finance)
+- [macro] Rate-hike expectations rise on Warsh speech at Jackson Hole (Yahoo Finance)
+- [macro] Walmart (WMT) and Home Depot (HD) Results Show US Consumers Cut Back but Still Find Room for Splurges (Yahoo Finance)
+- [macro] Massive Installed Base Drives End-Market Stability for Nvidia Corp. (NVDA) (Yahoo Finance)
+- [macro] 2 Stocks Down 26% and 68% to Buy Now and Hold for the Next Decade (Yahoo Finance)
