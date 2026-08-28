@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T07:22:24.273819+00:00`
+- Generated: `2026-08-28T07:37:27.136444+00:00`
 - Market context score: `29.81`
 - News risk score: `57.57`
 - Macro risk score: `30.81`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10279`
-- Day/swing latest: `2026-08-28T07:15:00+00:00`
+- Day/swing records: `10280`
+- Day/swing latest: `2026-08-28T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [commodity] Iran says return to diplomacy 'isn't impossible' — but all Mideast wars must end to reopen Hormuz (Energy)
 - [macro] Norway's King Harald dies aged 89 (BBC News)
+- [commodity] Iran says return to diplomacy 'isn't impossible' — but all Mideast wars must end to reopen Hormuz (Energy)
 - [crypto] Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Solana’s faster disinflation plan leads vote as $800K burn proposal trails (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What we know about deadly Nepal-Tibet floods (BBC News)
