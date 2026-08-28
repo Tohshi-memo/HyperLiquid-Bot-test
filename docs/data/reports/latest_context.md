@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T16:07:32.877847+00:00`
-- Market context score: `37.69`
-- News risk score: `58.83`
-- Macro risk score: `34.73`
-- Risk-on score: `24.33`
-- Articles: `95`
+- Generated: `2026-08-28T16:22:27.109940+00:00`
+- Market context score: `37.72`
+- News risk score: `58.72`
+- Macro risk score: `35.99`
+- Risk-on score: `24.78`
+- Articles: `94`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10312`
-- Day/swing latest: `2026-08-28T16:00:00+00:00`
+- Day/swing records: `10313`
+- Day/swing latest: `2026-08-28T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `32`, risk hits `17`, risk headline rate `0.4688`, policy hits `5`
-- macro: articles `58`, risk hits `22`, risk headline rate `0.2586`, policy hits `13`
+- crypto: articles `31`, risk hits `16`, risk headline rate `0.4516`, policy hits `4`
+- macro: articles `58`, risk hits `22`, risk headline rate `0.2759`, policy hits `14`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
 - [commodity] Treasury moves to sanction UAE branch of Egyptian bank over Iran ties (Energy)
-- [macro] What we know about deadly Nepal-Tibet floods (BBC News)
+- [macro] 'A lot of pressure' - SSE Airtricity to increase gas prices by 19% (BBC News)
+- [crypto] Solana vote to double disinflation passes by a hair in dramatic finish (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank (Economy)
-- [macro] Gatwick Airport faced water outage after main burst (BBC News)
-- [macro] Dollar rises to session high after Warsh comments, set for weekly gain (Yahoo Finance)
-- [macro] Fed chair addresses inflation and says central bank’s job is ‘to deliver stable prices’ (Yahoo Finance)
-- [macro] Equities rise with 2-year yields, dollar as rate hike bets rise following Warsh speech (Yahoo Finance)
-- [macro] Intuit (INTU) Slid on TurboTax Segment’s Underperformance (Yahoo Finance)
-- [macro] Drone Stocks Drop While Broad Market Rises: Unusual Machines Sinks 9%, Ondas Falls 6%, Red Cat Slides 5% (Yahoo Finance)
-- [macro] Why Dycom Industries Stock Is Plummeting This Week (Yahoo Finance)
+- [macro] Stock Market Rises On Nvidia, CrowdStrike, Salesforce, Warsh: Weekly Review (Yahoo Finance)
+- [macro] Fed September Hike Odds Spike to 59% After Warsh’s Hawkish Jackson Hole Speech (Yahoo Finance)
+- [macro] Where Will Netflix Stock Be in 5 Years? (Yahoo Finance)
+- [macro] Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount (Yahoo Finance)
+- [macro] 183-year-old giant tool company closes factory, lays off dozens (Yahoo Finance)
+- [macro] Turning Point Brands Targets 10% Modern Oral Nicotine Share by 2030 (Yahoo Finance)
