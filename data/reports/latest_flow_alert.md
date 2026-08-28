@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-28T23:25:28.460911+00:00`
+- Generated: `2026-08-28T23:30:31.020732+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2259096.3253789977` | liquidity: `358030.3419`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2071804.4730330014` | liquidity: `326122.9506`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1880218.8273969998` | liquidity: `751599.17567`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1170006.8060720002` | liquidity: `876892.76469`
-- Will Pete Hegseth win the 2028 US Presidential Election? | 24h volume: `917857.962` | liquidity: `1670972.57767`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `551181.0635600007` | liquidity: `433120.82751`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `384394.5888149999` | liquidity: `965000.01488`
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `313403.60949599993` | liquidity: `211208.64203`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2259096.3253789977` | liquidity: `358026.3528`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2071804.4730330014` | liquidity: `327046.0108`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1880218.8273969998` | liquidity: `751590.67567`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1170006.8060720002` | liquidity: `876791.08469`
+- Will Pete Hegseth win the 2028 US Presidential Election? | 24h volume: `917857.962` | liquidity: `1672904.10717`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `551181.0635600007` | liquidity: `431721.02751`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `384394.5888149999` | liquidity: `963817.51567`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `313403.60949599993` | liquidity: `211945.32769`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
