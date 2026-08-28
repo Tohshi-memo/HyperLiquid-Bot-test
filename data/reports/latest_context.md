@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-28T21:22:24.835450+00:00`
-- Market context score: `44.14`
-- News risk score: `51.56`
-- Macro risk score: `33.72`
-- Risk-on score: `32.15`
-- Articles: `59`
+- Generated: `2026-08-28T21:27:28.515269+00:00`
+- Market context score: `43.5`
+- News risk score: `52.34`
+- Macro risk score: `34.79`
+- Risk-on score: `31.77`
+- Articles: `60`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,18 +24,18 @@
 
 - commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `23`, risk hits `11`, risk headline rate `0.3913`, policy hits `5`
-- macro: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `4`
+- macro: articles `33`, risk hits `10`, risk headline rate `0.2424`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] 97-year-old woman rescued after Nepali floods looked like 'a warrior' (BBC News)
 - [macro] Right-wing commentator Milo Yiannopoulos detained by ICE (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What we know about deadly Nepal-Tibet floods (BBC News)
 - [macro] Greenland says findings on genocide allegation not final (BBC News)
 - [crypto] Solana validators approve proposal to accelerate SOL disinflation (Cointelegraph.com News)
+- [macro] US plans to cut off military aid to key Middle East ally, BBC told (BBC News)
 - [macro] Norway mourns King Harald as Haakon VIII ascends throne (BBC News)
 - [macro] Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say (BBC News)
 - [commodity] Treasury moves to sanction UAE branch of Egyptian bank over Iran ties (Energy)
-- [crypto] Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs (Cointelegraph.com News)
-- [macro] Gatwick Airport faced water outage after main burst (BBC News)
