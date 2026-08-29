@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T22:07:25.954449+00:00`
+- Generated: `2026-08-29T22:22:28.926101+00:00`
 - Market context score: `67.13`
 - News risk score: `30.24`
 - Macro risk score: `26.21`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10430`
-- Day/swing latest: `2026-08-29T22:00:00+00:00`
+- Day/swing records: `10431`
+- Day/swing latest: `2026-08-29T22:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Sandisk and Kioxia Plan to Invest More Than $31 Billion in Japanese Memory Plants — About 60% of What They Have Spent There in 25 Years. (Yahoo Finance)
 - [macro] Better Consumer Staples ETF: the iShares IYK vs. First Trust's Food and Beverage-Focused FTXG (Yahoo Finance)
 - [macro] Tesla Stock in 2027: Why I Think TSLA Still Has Room to Run (Yahoo Finance)
 - [macro] Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Solar Has Crossed a Critical Economic Tipping Point (Yahoo Finance)
 - [macro] She Retired at 64 With $380,000 in a 401(k) and No Income for Nine Years. She Never Converted a Dollar. Her First RMD Was Taxed at 22%. (Yahoo Finance)
 - [macro] Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income (Yahoo Finance)
-- [crypto] Polygon discloses security flaws fixed in recent hard forks (Cointelegraph.com News)
