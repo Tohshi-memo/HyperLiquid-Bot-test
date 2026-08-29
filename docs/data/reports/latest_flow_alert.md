@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-29T19:05:32.431637+00:00`
+- Generated: `2026-08-29T19:10:33.347341+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -14,12 +14,12 @@
 ## Top Polymarket Markets
 
 - Will Pete Hegseth win the 2028 US Presidential Election? | 24h volume: `1453839.8140000007` | liquidity: `1215741.41766`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1030752.536191` | liquidity: `590450.0881`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `783325.2397619999` | liquidity: `641280.90207`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `557571.112395` | liquidity: `563767.1072`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `521072.40542900003` | liquidity: `546035.29413`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `423094.012228` | liquidity: `922738.47009`
-- Will Pete Hegseth win the 2028 Republican presidential nomination? | 24h volume: `270112.58680299995` | liquidity: `1898451.81838`
-- Will Ted Cruz win the 2028 Republican presidential nomination? | 24h volume: `257518.414437` | liquidity: `680266.30111`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1030752.536191` | liquidity: `590262.6189`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `783325.2397619999` | liquidity: `641356.90207`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `557571.112395` | liquidity: `564319.5421`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `521072.40542900003` | liquidity: `546035.41113`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `423094.012228` | liquidity: `922667.75009`
+- Will Pete Hegseth win the 2028 Republican presidential nomination? | 24h volume: `270112.58680299995` | liquidity: `1898368.62878`
+- Will Ted Cruz win the 2028 Republican presidential nomination? | 24h volume: `257518.414437` | liquidity: `680194.20111`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
