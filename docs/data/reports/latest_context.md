@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T00:37:24.622516+00:00`
-- Market context score: `35.94`
-- News risk score: `55.36`
-- Macro risk score: `42.51`
-- Risk-on score: `20.45`
+- Generated: `2026-08-29T00:52:30.659407+00:00`
+- Market context score: `36.93`
+- News risk score: `54.4`
+- Macro risk score: `40.57`
+- Risk-on score: `21.1`
 - Articles: `44`
 - Polymarket markets: `391`
 
@@ -17,18 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10345`
-- Day/swing latest: `2026-08-29T00:30:00+00:00`
+- Day/swing records: `10346`
+- Day/swing latest: `2026-08-29T00:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `1`
+- commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `13`, risk hits `8`, risk headline rate `0.4615`, policy hits `3`
-- macro: articles `28`, risk hits `13`, risk headline rate `0.3929`, policy hits `3`
+- macro: articles `29`, risk hits `13`, risk headline rate `0.3793`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Right-wing commentator Milo Yiannopoulos detained by ICE (BBC News)
+- [macro] How 'Book Queen' Dolly Parton inspired millions of children with gift of reading (BBC News)
+- [macro] Landlady to 9/11 hijackers reveals their links to alleged Saudi spy (BBC News)
 - [macro] US and Venezuela reach 'historic' oil deal, Trump says (BBC News)
 - [macro] US and Venezuela reach 'historic' oil deal, Trump says (BBC News)
 - [macro] What tariffs will really cost Canadians and Americans (BBC News)
@@ -36,6 +39,3 @@
 - [macro] Footage of Tibet floods isn't being shown in China - and we know little about victims there (BBC News)
 - [macro] Berlin is being blackmailed by hackers, mayor says (BBC News)
 - [crypto] Kalshi takes legal blow in court ruling confirming state powers over prediction markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 97-year-old woman rescued after Nepali floods looked like 'a warrior' (BBC News)
-- [macro] Right-wing commentator Milo Yiannopoulos detained by ICE (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
