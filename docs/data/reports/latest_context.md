@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T06:52:28.793074+00:00`
-- Market context score: `49.45`
-- News risk score: `40.03`
-- Macro risk score: `37.84`
-- Risk-on score: `35.76`
+- Generated: `2026-08-29T07:07:24.520238+00:00`
+- Market context score: `54.59`
+- News risk score: `37.43`
+- Macro risk score: `35.64`
+- Risk-on score: `44.17`
 - Articles: `22`
 - Polymarket markets: `391`
 
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10370`
-- Day/swing latest: `2026-08-29T06:45:00+00:00`
+- Day/swing records: `10371`
+- Day/swing latest: `2026-08-29T07:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `0`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K (Cointelegraph.com News)
 - [macro] Forget Starbucks coffee - Gen Z like their drinks ice cold (BBC News)
 - [crypto] Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Footage of Tibet floods isn't being shown in China - and we know little about victims there (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Somali piracy surges as the impact of the US-Iran war ripples outwards (BBC News)
 - [macro] Close race as Iceland votes on whether to restart talks on joining EU (BBC News)
 - [macro] Right-wing commentator Milo Yiannopoulos detained by ICE (BBC News)
-- [macro] How 'Book Queen' Dolly Parton inspired millions of children with gift of reading (BBC News)
