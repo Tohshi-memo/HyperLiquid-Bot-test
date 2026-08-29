@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T23:22:29.223820+00:00`
+- Generated: `2026-08-29T23:28:54.337077+00:00`
 - Market context score: `66.41`
 - News risk score: `31.3`
 - Macro risk score: `26.94`
@@ -28,6 +28,9 @@
 
 ## Headlines
 
+- [macro] He Won $40,000 Online and Lost Every Dollar Back. He Broke Even Everywhere Except One Line of His Tax Return. (Yahoo Finance)
+- [macro] SpaceX Is Trading Near Its $135 Offering Price. Wall Street Analysts Say This Is What Happens Next. (Yahoo Finance)
+- [macro] ‘This Breakup Saved You Far More Than Moderna Ever Could’: Orman to Woman Dumped After 180% Spike (Yahoo Finance)
 - [macro] Kewaunee Scientific Posts Record $282M Revenue, Maps Fiscal 2027 Growth Investments (Yahoo Finance)
 - [macro] NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why. (Yahoo Finance)
 - [macro] Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil (BBC News)
@@ -35,6 +38,3 @@
 - [macro] How a 78-Year-Old Collects $5,300 a Month From Just Three Tickers: SCHD, HTGC, and NNN (Yahoo Finance)
 - [macro] Chevron vs. Occidental: Which Oil Major's Dividend Is Actually Safer? (Yahoo Finance)
 - [macro] Top EV executive joins the AI boom. Now what? (Yahoo Finance)
-- [macro] Brilliant Earth Sees Fine Jewelry Growth as Showroom Strategy Gains Momentum (Yahoo Finance)
-- [macro] Sandisk and Kioxia Plan to Invest More Than $31 Billion in Japanese Memory Plants — About 60% of What They Have Spent There in 25 Years. (Yahoo Finance)
-- [macro] Better Consumer Staples ETF: the iShares IYK vs. First Trust's Food and Beverage-Focused FTXG (Yahoo Finance)
