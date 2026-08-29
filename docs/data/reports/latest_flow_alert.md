@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-29T03:55:16.908200+00:00`
+- Generated: `2026-08-29T04:00:24.484389+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -9,17 +9,17 @@
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
 - Polymarket 24h volume: `15369188.24`
-- Polymarket volume z-score: `2.51`
+- Polymarket volume z-score: `2.5`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2409711.443297999` | liquidity: `386552.5705`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2157515.458182` | liquidity: `342904.9944`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1855707.408104` | liquidity: `760724.82682`
-- Will Pete Hegseth win the 2028 US Presidential Election? | 24h volume: `1421199.5250000004` | liquidity: `1231349.81229`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1304513.2100720003` | liquidity: `825368.37504`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2409711.443297999` | liquidity: `386614.8689`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2157515.458182` | liquidity: `344528.1038`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1855707.408104` | liquidity: `760492.97567`
+- Will Pete Hegseth win the 2028 US Presidential Election? | 24h volume: `1421199.5250000004` | liquidity: `1230739.46029`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1304513.2100720003` | liquidity: `825153.72898`
 - Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `487730.2104960003` | liquidity: `431513.52006`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `388247.104647` | liquidity: `972719.56092`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `388247.104647` | liquidity: `972436.28379`
 - Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `273079.625668` | liquidity: `283643.24837`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
