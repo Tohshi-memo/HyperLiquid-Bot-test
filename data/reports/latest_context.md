@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T02:37:31.986945+00:00`
+- Generated: `2026-08-29T02:52:23.778011+00:00`
 - Market context score: `38.76`
 - News risk score: `52.88`
 - Macro risk score: `41.09`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10353`
-- Day/swing latest: `2026-08-29T02:30:00+00:00`
+- Day/swing records: `10354`
+- Day/swing latest: `2026-08-29T02:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil (BBC News)
+- [macro] Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil (BBC News)
 - [crypto] Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil (BBC News)
-- [macro] Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil (BBC News)
 - [macro] Somali piracy surges as the impact of the US-Iran war ripples outwards (BBC News)
 - [macro] Close race as Iceland votes on whether to restart talks on joining EU (BBC News)
 - [macro] Right-wing commentator Milo Yiannopoulos detained by ICE (BBC News)
