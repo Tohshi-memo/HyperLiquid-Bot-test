@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T11:52:23.376854+00:00`
+- Generated: `2026-08-29T12:07:27.260210+00:00`
 - Market context score: `66.69`
 - News risk score: `28.71`
 - Macro risk score: `33.43`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10390`
-- Day/swing latest: `2026-08-29T11:45:00+00:00`
+- Day/swing records: `10391`
+- Day/swing latest: `2026-08-29T12:00:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
+- [macro] At least 37 dead and hundreds evacuated after strike on Kyiv warehouse (BBC News)
 - [macro] Barber offers free back-to-school haircuts (BBC News)
-- [macro] At least 27 dead and hundreds evacuated after strike on Kyiv warehouse (BBC News)
 - [crypto] Trump-promoted brand touts GOLD before token collapse (Cointelegraph.com News)
 - [macro] Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills (BBC News)
 - [crypto] Stablecoins not credible for payments at scale, BIS chief says (Cointelegraph.com News)
