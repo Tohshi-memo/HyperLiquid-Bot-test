@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T11:37:26.460197+00:00`
+- Generated: `2026-08-29T11:52:23.376854+00:00`
 - Market context score: `66.69`
 - News risk score: `28.71`
 - Macro risk score: `33.43`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10389`
-- Day/swing latest: `2026-08-29T11:30:00+00:00`
+- Day/swing records: `10390`
+- Day/swing latest: `2026-08-29T11:45:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,9 @@
 
 ## Headlines
 
-- [crypto] Trump-promoted brand touts GOLD before token collapse (Cointelegraph.com News)
+- [macro] Barber offers free back-to-school haircuts (BBC News)
 - [macro] At least 27 dead and hundreds evacuated after strike on Kyiv warehouse (BBC News)
+- [crypto] Trump-promoted brand touts GOLD before token collapse (Cointelegraph.com News)
 - [macro] Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills (BBC News)
 - [crypto] Stablecoins not credible for payments at scale, BIS chief says (Cointelegraph.com News)
 - [macro] Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Forget Starbucks coffee - Gen Z like their drinks ice cold (BBC News)
 - [crypto] Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Footage of Tibet floods isn't being shown in China - and we know little about victims there (BBC News)
-- [macro] Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil (BBC News)
