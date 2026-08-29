@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T02:22:30.293419+00:00`
-- Market context score: `40.56`
+- Generated: `2026-08-29T02:37:31.986945+00:00`
+- Market context score: `38.76`
 - News risk score: `52.88`
 - Macro risk score: `41.09`
-- Risk-on score: `28.1`
+- Risk-on score: `24.1`
 - Articles: `37`
 - Polymarket markets: `391`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10352`
-- Day/swing latest: `2026-08-29T02:15:00+00:00`
+- Day/swing records: `10353`
+- Day/swing latest: `2026-08-29T02:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil (BBC News)
 - [macro] Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil (BBC News)
 - [macro] Somali piracy surges as the impact of the US-Iran war ripples outwards (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Landlady to 9/11 hijackers reveals their links to alleged Saudi spy (BBC News)
 - [macro] What tariffs will really cost Canadians and Americans (BBC News)
 - [macro] Canada poaches dozens of top US researchers for its universities (BBC News)
-- [macro] Footage of Tibet floods isn't being shown in China - and we know little about victims there (BBC News)
