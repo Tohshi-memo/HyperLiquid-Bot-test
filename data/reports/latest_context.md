@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T00:07:28.968770+00:00`
-- Market context score: `37.11`
-- News risk score: `55.33`
-- Macro risk score: `38.98`
-- Risk-on score: `21.69`
+- Generated: `2026-08-29T00:22:26.609302+00:00`
+- Market context score: `35.32`
+- News risk score: `56.55`
+- Macro risk score: `41.41`
+- Risk-on score: `19.67`
 - Articles: `44`
 - Polymarket markets: `391`
 
@@ -17,18 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:127, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10343`
-- Day/swing latest: `2026-08-29T00:00:00+00:00`
+- Day/swing records: `10344`
+- Day/swing latest: `2026-08-29T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `16`, risk hits `10`, risk headline rate `0.5`, policy hits `3`
-- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `3`
+- crypto: articles `14`, risk hits `9`, risk headline rate `0.5`, policy hits `3`
+- macro: articles `27`, risk hits `12`, risk headline rate `0.3704`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] What tariffs will really cost Canadians and Americans (BBC News)
+- [macro] US and Venezuela reach 'historic' oil deal, Trump says (BBC News)
+- [macro] Canada poaches dozens of top US researchers for its universities (BBC News)
 - [macro] Footage of Tibet floods isn't being shown in China - and we know little about victims there (BBC News)
 - [macro] Berlin is being blackmailed by hackers, mayor says (BBC News)
 - [crypto] Kalshi takes legal blow in court ruling confirming state powers over prediction markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,6 +39,3 @@
 - [macro] Right-wing commentator Milo Yiannopoulos detained by ICE (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What we know about deadly Nepal-Tibet floods (BBC News)
-- [macro] Greenland says findings on genocide allegation not final (BBC News)
-- [crypto] Solana validators approve proposal to accelerate SOL disinflation (Cointelegraph.com News)
-- [macro] US plans to cut off military aid to key Middle East ally, BBC told (BBC News)
