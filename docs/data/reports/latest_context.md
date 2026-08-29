@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-29T20:07:24.289339+00:00`
+- Generated: `2026-08-29T20:22:24.975086+00:00`
 - Market context score: `69.34`
 - News risk score: `26.82`
 - Macro risk score: `28.97`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10422`
-- Day/swing latest: `2026-08-29T20:00:00+00:00`
+- Day/swing records: `10423`
+- Day/swing latest: `2026-08-29T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] K, C or E? Why economists can’t agree on the shape of today’s economy (Economy)
+- [macro] At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot (BBC News)
 - [macro] Jim Cramer sends blunt message to investors picking single stocks (Yahoo Finance)
 - [macro] A Harvard Economist Says the Debt Reckoning Is Coming and Names Who Pays for It (Yahoo Finance)
 - [macro] Former Ecuadorian president imprisoned for corruption (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Stellar tokenized RWA market more than quadruples to nearly $4B (Cointelegraph.com News)
 - [macro] Norway's new king remembers 'my dear father' in first speech (BBC News)
 - [macro] Australia usually hosts the world's biggest cuttlefish mating event - not this year (BBC News)
-- [macro] Fundraiser launched to secure crafting shop future (BBC News)
-- [macro] Right-wing commentator Milo Yiannopoulos deported from US to UK (BBC News)
