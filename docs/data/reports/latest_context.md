@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T12:37:24.165770+00:00`
+- Generated: `2026-08-30T12:52:28.577987+00:00`
 - Market context score: `68.16`
 - News risk score: `28.23`
 - Macro risk score: `31.55`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10488`
-- Day/swing latest: `2026-08-30T12:30:00+00:00`
+- Day/swing records: `10489`
+- Day/swing latest: `2026-08-30T12:45:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [crypto] Crypto market makers are cashing in on bitcoin's rally - without betting on direction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Manhunt after shooting at Swiss rave kills woman, 22, and injures five (BBC News)
+- [crypto] Crypto market makers are cashing in on bitcoin's rally - without betting on direction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iceland votes against restarting talks on joining EU (BBC News)
 - [macro] Mortgage and refinance interest rates today, Sunday, August 30, 2026: Purchase rates higher than last week (Yahoo Finance)
 - [macro] Best CD rates today, Sunday, August 30, 2026: Lock in up to 4.30% APY (Yahoo Finance)
