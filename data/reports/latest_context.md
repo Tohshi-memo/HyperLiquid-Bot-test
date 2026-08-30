@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T00:07:30.513287+00:00`
+- Generated: `2026-08-30T00:22:25.056778+00:00`
 - Market context score: `41.69`
 - News risk score: `38.91`
 - Macro risk score: `33.82`
@@ -17,17 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10438`
-- Day/swing latest: `2026-08-30T00:00:00+00:00`
+- Day/swing records: `10439`
+- Day/swing latest: `2026-08-30T00:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
+- [macro] Canada installs large Lake Ontario sign in latest jab at US (BBC News)
 - [crypto] A $1.1 million crypto card hack crashed a neobank's token 49% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil (BBC News)
 - [macro] Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil (BBC News)
@@ -37,4 +37,3 @@
 - [macro] Former Ecuadorian president imprisoned for corruption (BBC News)
 - [crypto] Stellar tokenized RWA market more than quadruples to nearly $4B (Cointelegraph.com News)
 - [macro] Norway's new king remembers 'my dear father' in first speech (BBC News)
-- [macro] Australia usually hosts the world's biggest cuttlefish mating event - not this year (BBC News)
