@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T23:37:24.477189+00:00`
-- Market context score: `64.77`
-- News risk score: `27.08`
-- Macro risk score: `27.56`
-- Risk-on score: `55.0`
-- Articles: `45`
+- Generated: `2026-08-30T23:52:25.524878+00:00`
+- Market context score: `65.68`
+- News risk score: `27.39`
+- Macro risk score: `27.17`
+- Risk-on score: `57.12`
+- Articles: `47`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10532`
-- Day/swing latest: `2026-08-30T23:30:00+00:00`
+- Day/swing records: `10533`
+- Day/swing latest: `2026-08-30T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `39`, risk hits `11`, risk headline rate `0.2564`, policy hits `0`
+- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- macro: articles `40`, risk hits `11`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
-- [macro] 'My parents won't lend me £10k but helped my brother': When families play financial favourites (BBC News)
-- [macro] 'My parents won't lend me £10k but helped my brother': When families play financial favourites (BBC News)
-- [macro] Jim Cramer reveals his 20% rule for winning stocks (Yahoo Finance)
-- [macro] Ripple Is Now Brokering Wall Street Equities. Where Does XRP Fit? (Yahoo Finance)
-- [macro] His Union Health Plan Kept Paying After the Layoff. Medicare’s Clock Started When the Hours Bank Ran Dry. (Yahoo Finance)
+- [macro] 15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon (BBC News)
+- [macro] US strikes Iranian launchers on Larak Island in first known attack in weeks (BBC News)
+- [crypto] Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest (Cointelegraph.com News)
+- [macro] IREN Stock Plunged Last Week. Now Could Be a Good Time to Buy. (Yahoo Finance)
 - [macro] Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran (Yahoo Finance)
-- [macro] Billionaire hedge fund manager bets on ex-Bitcoin miners (Yahoo Finance)
-- [macro] C3.ai vs. Intuit: Which Software Stock Is a Better Investment in 2026 as Both Hover Near 52-Week Lows? (Yahoo Finance)
-- [macro] Delaware Is Quietly Stealing Florida’s Retirees and the Tax Math Explains Why (Yahoo Finance)
-- [macro] SPYI’s 12% Payout Creates a Tax Bill That Could Die With You (Yahoo Finance)
+- [macro] Singapore tackles finances and culture to avert a demographic crisis (Economy)
+- [macro] Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading (Yahoo Finance)
+- [macro] 2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip (Yahoo Finance)
+- [macro] 'My parents won't lend me £10k but helped my brother': When families play financial favourites (BBC News)
+- [macro] 'My parents won't lend me £10k but helped my brother': When families play financial favourites (BBC News)
