@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-30T11:30:26.882630+00:00`
+- Generated: `2026-08-30T11:35:28.335820+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6961720.84`
-- Polymarket volume z-score: `-1.37`
+- Polymarket 24h volume: `6977711.08`
+- Polymarket volume z-score: `-1.36`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `598121.1062180003` | liquidity: `504433.366`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `500511.0194750002` | liquidity: `429867.05077`
-- Will Bitcoin reach $100,000 in August? | 24h volume: `458109.7652089986` | liquidity: `248535.96814`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `449165.239838` | liquidity: `567205.01891`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `379831.93014300015` | liquidity: `486919.7713`
-- Will Ted Cruz win the 2028 Republican presidential nomination? | 24h volume: `363265.570659` | liquidity: `598433.68084`
-- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `301270.0` | liquidity: `29483.75861`
-- Kharg Island no longer under Iranian control by August 31? | 24h volume: `252590.25518100001` | liquidity: `202190.2546`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `603433.6500610003` | liquidity: `503799.5984`
+- Will Bitcoin reach $100,000 in August? | 24h volume: `457988.0052089987` | liquidity: `248536.11745`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `445405.239838` | liquidity: `569028.67762`
+- Will Demeke Mekonnen be the next Prime Minister of Ethiopia? | 24h volume: `401630.0` | liquidity: `26828.43076`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `389863.12947500014` | liquidity: `429378.40612`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `379622.6212000001` | liquidity: `487239.0924`
+- Will Ted Cruz win the 2028 Republican presidential nomination? | 24h volume: `363265.570659` | liquidity: `596860.86564`
+- Kharg Island no longer under Iranian control by August 31? | 24h volume: `252590.25518100001` | liquidity: `200790.0946`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
