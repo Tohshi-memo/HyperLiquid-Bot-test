@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T12:07:23.522347+00:00`
-- Market context score: `69.99`
-- News risk score: `25.92`
-- Macro risk score: `27.42`
+- Generated: `2026-08-30T12:22:24.662790+00:00`
+- Market context score: `69.16`
+- News risk score: `27.17`
+- Macro risk score: `29.5`
 - Risk-on score: `65.56`
 - Articles: `12`
 - Polymarket markets: `390`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10486`
-- Day/swing latest: `2026-08-30T12:00:00+00:00`
+- Day/swing records: `10487`
+- Day/swing latest: `2026-08-30T12:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `2`
+- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `4`
 
 ## Headlines
 
+- [macro] Boat carrying some 270 people capsizes off northern Cyprus (BBC News)
 - [crypto] Crypto market makers are cashing in on bitcoin's rally - without betting on direction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Boat carrying some 270 people capsizes off northern Cyprus, local media report (BBC News)
 - [macro] Manhunt after shooting at Swiss rave kills woman, 22, and injures five (BBC News)
 - [macro] Iceland votes against restarting talks on joining EU (BBC News)
 - [macro] Mortgage and refinance interest rates today, Sunday, August 30, 2026: Purchase rates higher than last week (Yahoo Finance)
+- [macro] Best CD rates today, Sunday, August 30, 2026: Lock in up to 4.30% APY (Yahoo Finance)
 - [crypto] Russia’s Sber eyes USDT loans, questions digital ruble demand (Cointelegraph.com News)
 - [macro] Zambian opposition leader charged with treason (BBC News)
 - [crypto] Real Trump Coins denies launching GOLD token, blames ‘bad actors’ (Cointelegraph.com News)
 - [macro] WhatsApp chat used to send cash for crime and extremism (BBC News)
-- [macro] Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil (BBC News)
