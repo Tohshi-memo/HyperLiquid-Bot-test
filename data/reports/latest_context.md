@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T12:52:28.577987+00:00`
-- Market context score: `68.16`
-- News risk score: `28.23`
-- Macro risk score: `31.55`
+- Generated: `2026-08-30T13:07:26.765646+00:00`
+- Market context score: `68.31`
+- News risk score: `28.0`
+- Macro risk score: `31.17`
 - Risk-on score: `65.0`
-- Articles: `11`
+- Articles: `12`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10489`
-- Day/swing latest: `2026-08-30T12:45:00+00:00`
+- Day/swing records: `10490`
+- Day/swing latest: `2026-08-30T13:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Manhunt after shooting at Swiss rave kills woman, 22, and injures five (BBC News)
 - [crypto] Crypto market makers are cashing in on bitcoin's rally - without betting on direction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iceland votes against restarting talks on joining EU (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Zambian opposition leader charged with treason (BBC News)
 - [crypto] Real Trump Coins denies launching GOLD token, blames ‘bad actors’ (Cointelegraph.com News)
 - [macro] WhatsApp chat used to send cash for crime and extremism (BBC News)
-- [macro] Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil (BBC News)
