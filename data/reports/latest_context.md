@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T20:37:27.571608+00:00`
-- Market context score: `66.31`
+- Generated: `2026-08-30T20:52:25.478781+00:00`
+- Market context score: `68.71`
 - News risk score: `24.31`
 - Macro risk score: `22.17`
-- Risk-on score: `54.04`
+- Risk-on score: `59.37`
 - Articles: `44`
 - Polymarket markets: `391`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10520`
-- Day/swing latest: `2026-08-30T20:30:00+00:00`
+- Day/swing records: `10521`
+- Day/swing latest: `2026-08-30T20:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Taco Bell returns to unexpected market after 14 years (Yahoo Finance)
+- [macro] This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy? (Yahoo Finance)
 - [macro] Leaving Medicare Advantage Takes One Phone Call. Getting the Medigap Policy That Makes Leaving Affordable Can Require Medical Underwriting. (Yahoo Finance)
 - [macro] Eight killed and others missing after ferry capsizes off northern Cyprus (BBC News)
 - [macro] The Roth Conversion That Cost a 62-Year-Old His $9,600 Health Insurance Subsidy (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] Energy Transfer Is Quietly Becoming One of the Biggest Natural Gas Suppliers to AI Data Centers (Yahoo Finance)
 - [macro] The Biggest Risk Facing Tesla Stock Right Now (Yahoo Finance)
 - [macro] The Insanely Obvious Secret Behind This $69K/Month SaaS (Yahoo Finance)
-- [macro] Retirees Who Convert to a Roth in a Down-Market Year Move the Same Shares for Less Tax. Almost Nobody Times It. (Yahoo Finance)
-- [macro] What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors. (Yahoo Finance)
