@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-30T09:20:26.240669+00:00`
+- Generated: `2026-08-30T09:25:26.193042+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7438355.4`
-- Polymarket volume z-score: `-1.18`
+- Polymarket 24h volume: `7235857.11`
+- Polymarket volume z-score: `-1.26`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `787906.9498719992` | liquidity: `522180.4684`
-- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `501707.2829480002` | liquidity: `429210.47737`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `471974.680427` | liquidity: `547448.31896`
-- Will Bitcoin reach $100,000 in August? | 24h volume: `445162.1872089987` | liquidity: `237551.60283`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `405692.3158619999` | liquidity: `512569.9295`
-- Will Ted Cruz win the 2028 Republican presidential nomination? | 24h volume: `361878.704216` | liquidity: `599601.02782`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `254932.211794` | liquidity: `787424.90047`
-- Kharg Island no longer under Iranian control by August 31? | 24h volume: `250026.75518100004` | liquidity: `202394.35151`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `753863.2550939996` | liquidity: `517507.6901`
+- Strait of Hormuz traffic returns to normal by August 31? | 24h volume: `501883.7196150002` | liquidity: `428960.55737`
+- Will Bitcoin reach $100,000 in August? | 24h volume: `458367.0872089987` | liquidity: `247546.60174`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `414717.888612` | liquidity: `549703.79896`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `373674.31271` | liquidity: `512277.7839`
+- Will Ted Cruz win the 2028 Republican presidential nomination? | 24h volume: `361877.634216` | liquidity: `599527.3776`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `255522.351794` | liquidity: `788306.89047`
+- Kharg Island no longer under Iranian control by August 31? | 24h volume: `251355.935181` | liquidity: `202794.17151`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
