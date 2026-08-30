@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T08:22:23.908488+00:00`
-- Market context score: `29.02`
-- News risk score: `58.0`
+- Generated: `2026-08-30T08:37:25.606861+00:00`
+- Market context score: `34.12`
+- News risk score: `50.5`
 - Macro risk score: `32.0`
-- Risk-on score: `3.33`
-- Articles: `9`
+- Risk-on score: `8.33`
+- Articles: `8`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,12 +17,12 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10471`
-- Day/swing latest: `2026-08-30T08:15:00+00:00`
+- Day/swing records: `10472`
+- Day/swing latest: `2026-08-30T08:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
@@ -35,4 +35,3 @@
 - [macro] Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil (BBC News)
 - [macro] Large Lake Ontario sign installed in Canada in latest jab at US (BBC News)
 - [crypto] A $1.1 million crypto card hack crashed a neobank's token 49% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Polygon discloses security flaws fixed in recent hard forks (Cointelegraph.com News)
