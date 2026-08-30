@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T10:37:30.372794+00:00`
+- Generated: `2026-08-30T10:52:25.858921+00:00`
 - Market context score: `40.68`
 - News risk score: `41.57`
 - Macro risk score: `29.14`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10480`
-- Day/swing latest: `2026-08-30T10:30:00+00:00`
+- Day/swing records: `10481`
+- Day/swing latest: `2026-08-30T10:45:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [macro] Manhunt after shooting at Swiss rave kills woman, 22, and injures five (BBC News)
 - [macro] Iceland votes against restarting talks on joining EU (BBC News)
+- [macro] Manhunt after shooting at Swiss rave kills woman, 22, and injures five (BBC News)
 - [crypto] Russia’s Sber eyes USDT loans, questions digital ruble demand (Cointelegraph.com News)
 - [macro] Zambian opposition leader charged with treason (BBC News)
 - [crypto] Real Trump Coins denies launching GOLD token, blames ‘bad actors’ (Cointelegraph.com News)
