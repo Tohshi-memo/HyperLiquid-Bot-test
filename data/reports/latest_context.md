@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T09:07:24.570303+00:00`
-- Market context score: `34.12`
-- News risk score: `50.5`
-- Macro risk score: `32.0`
-- Risk-on score: `8.33`
-- Articles: `8`
-- Polymarket markets: `391`
+- Generated: `2026-08-30T09:22:25.276226+00:00`
+- Market context score: `35.58`
+- News risk score: `49.07`
+- Macro risk score: `29.14`
+- Risk-on score: `9.29`
+- Articles: `9`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10474`
-- Day/swing latest: `2026-08-30T09:00:00+00:00`
+- Day/swing records: `10475`
+- Day/swing latest: `2026-08-30T09:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
 - [macro] Manhunt after shooting at Swiss rave kills woman, 22, and injures five (BBC News)
+- [macro] Zambian opposition leader charged with treason (BBC News)
 - [macro] Iceland on track to reject EU referendum as counting nears end (BBC News)
 - [crypto] Real Trump Coins denies launching GOLD token, blames ‘bad actors’ (Cointelegraph.com News)
 - [macro] WhatsApp chat used to send cash for crime and extremism (BBC News)
