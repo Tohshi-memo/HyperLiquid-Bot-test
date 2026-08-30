@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T20:22:23.188781+00:00`
-- Market context score: `66.27`
-- News risk score: `24.2`
-- Macro risk score: `22.43`
-- Risk-on score: `53.96`
-- Articles: `43`
+- Generated: `2026-08-30T20:37:27.571608+00:00`
+- Market context score: `66.31`
+- News risk score: `24.31`
+- Macro risk score: `22.17`
+- Risk-on score: `54.04`
+- Articles: `44`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10519`
-- Day/swing latest: `2026-08-30T20:15:00+00:00`
+- Day/swing records: `10520`
+- Day/swing latest: `2026-08-30T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `5`
+- macro: articles `37`, risk hits `5`, risk headline rate `0.1351`, policy hits `5`
 
 ## Headlines
 
+- [macro] Leaving Medicare Advantage Takes One Phone Call. Getting the Medigap Policy That Makes Leaving Affordable Can Require Medical Underwriting. (Yahoo Finance)
 - [macro] Eight killed and others missing after ferry capsizes off northern Cyprus (BBC News)
 - [macro] The Roth Conversion That Cost a 62-Year-Old His $9,600 Health Insurance Subsidy (Yahoo Finance)
 - [macro] PayPal just lost its $53 billion safety net (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] The Insanely Obvious Secret Behind This $69K/Month SaaS (Yahoo Finance)
 - [macro] Retirees Who Convert to a Roth in a Down-Market Year Move the Same Shares for Less Tax. Almost Nobody Times It. (Yahoo Finance)
 - [macro] What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors. (Yahoo Finance)
-- [macro] Abercrombie may be back. Will its shoppers stay? (Yahoo Finance)
