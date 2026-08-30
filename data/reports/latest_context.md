@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-30T15:07:28.189176+00:00`
-- Market context score: `69.97`
-- News risk score: `25.5`
-- Macro risk score: `27.0`
-- Risk-on score: `65.0`
-- Articles: `13`
+- Generated: `2026-08-30T15:22:27.229066+00:00`
+- Market context score: `68.65`
+- News risk score: `24.3`
+- Macro risk score: `24.17`
+- Risk-on score: `60.0`
+- Articles: `23`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10498`
-- Day/swing latest: `2026-08-30T15:00:00+00:00`
+- Day/swing records: `10499`
+- Day/swing latest: `2026-08-30T15:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `4`
 
 ## Headlines
 
+- [macro] Solana Just Set an All-Time Record for Blockchain Network Activity. Does That Make Solana a Buy, Sell, or Hold Right Now? (Yahoo Finance)
 - [crypto] From Hawala to Swift: Inside the 1,000-year battle to move money safely (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] The S&P 500 Keeps Hitting Highs — But It’s Just Microsoft and Nvidia Carrying the Entire Market (Yahoo Finance)
+- [macro] Trump’s New Oil Deal With Venezuela Is Insane — U.S. Now Controls 7.1% of Proven Global Reserves (Yahoo Finance)
+- [macro] Digital Euro Adoption Hinges on Speed—Can the ECB Make It Easy Enough to Use? (Yahoo Finance)
+- [macro] Bull Markets Rise, Bear Markets Fall: Here's How I Use Each to Build Wealth (Yahoo Finance)
 - [macro] Iceland votes against restarting EU membership talks (BBC News)
+- [macro] Jim Cramer delivers unmistakable verdict on vital tech giant (Yahoo Finance)
 - [macro] Canada installs large Lake Ontario sign in latest jab at US (BBC News)
 - [macro] Man posed as a 49ers player and convinced 26 women to hand over $1.3 million in romance scam scheme (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Manhunt after shooting at Swiss rave kills woman, 22, and injures five (BBC News)
-- [crypto] Crypto market makers are cashing in on bitcoin's rally - without betting on direction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Russia’s Sber eyes USDT loans, questions digital ruble demand (Cointelegraph.com News)
-- [macro] Zambian opposition leader charged with treason (BBC News)
-- [crypto] Real Trump Coins denies launching GOLD token, blames ‘bad actors’ (Cointelegraph.com News)
