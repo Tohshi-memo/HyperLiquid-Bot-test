@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T00:37:25.881408+00:00`
-- Market context score: `68.17`
-- News risk score: `27.51`
-- Macro risk score: `30.78`
-- Risk-on score: `64.12`
+- Generated: `2026-08-31T00:52:24.878271+00:00`
+- Market context score: `66.97`
+- News risk score: `28.68`
+- Macro risk score: `33.14`
+- Risk-on score: `63.33`
 - Articles: `22`
 - Polymarket markets: `391`
 
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:231, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10536`
-- Day/swing latest: `2026-08-31T00:30:00+00:00`
+- Day/swing records: `10537`
+- Day/swing latest: `2026-08-31T00:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
 
 ## Headlines
 
-- [macro] The US-Canada trade war in 5 charts (BBC News)
+- [commodity] Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island (Energy)
+- [macro] How the US-Canada trade war is being felt on both sides of the border (BBC News)
 - [macro] US strikes Iranian launchers on Larak Island in first known attack in weeks (BBC News)
 - [macro] 15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon (BBC News)
 - [crypto] Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] 'My parents won't lend me £10k but helped my brother': When families play financial favourites (BBC News)
 - [macro] Nepal flood relief vehicles trapped as heavy rain turns roads to mud (BBC News)
 - [macro] Eight killed and others missing after ferry capsizes off northern Cyprus (BBC News)
-- [macro] 'A giant leap forward': Nasa launches powerful new space telescope (BBC News)
