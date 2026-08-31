@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T15:02:51.347884+00:00`
-- Market context score: `47.98`
-- News risk score: `50.34`
-- Macro risk score: `30.9`
-- Risk-on score: `38.58`
+- Generated: `2026-08-31T15:07:29.592045+00:00`
+- Market context score: `49.97`
+- News risk score: `48.45`
+- Macro risk score: `27.54`
+- Risk-on score: `40.14`
 - Articles: `72`
 - Polymarket markets: `389`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `7`
-- macro: articles `45`, risk hits `11`, risk headline rate `0.2222`, policy hits `13`
+- macro: articles `45`, risk hits `10`, risk headline rate `0.2`, policy hits `4`
 
 ## Headlines
 
+- [macro] Tech stocks today: Apple stock slips as Tim Cook prepares to step down (Yahoo Finance)
+- [macro] Micron Technology (MU) Gains Driven by Earnings Upgrades (Yahoo Finance)
+- [macro] Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June (Yahoo Finance)
+- [macro] Building AI Infrastructure: Alpha Compute CEO Brittany Kaiser, Live at Nasdaq (Yahoo Finance)
+- [macro] Dell's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why. (Yahoo Finance)
 - [crypto] Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report (Cointelegraph.com News)
 - [macro] 'She slipped out of my hand' - couple's children missing after ferry capsizes (BBC News)
-- [crypto] NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Prediction market startup Kalshi permanently bans ex-US lawmaker Santos from trading (Yahoo Finance)
-- [macro] Salesforce at $256: Should You Buy It? (Yahoo Finance)
-- [macro] Sony Music, Warner Chappell sue Anthropic over Claude AI training (Yahoo Finance)
-- [macro] The Bull Case for Netflix Stock Is Stronger Than You Think (Yahoo Finance)
-- [macro] Jim Cramer Warns AI Is Making Even “Diversified” Portfolios More Concentrated (Yahoo Finance)
-- [macro] Shankar Ram Liquidates 2,000 UMB Financial Shares (Yahoo Finance)
-- [macro] Bitmine Accelerates Ethereum Purchases To Close Out August (Yahoo Finance)
+- [macro] Jim Cramer Calls This Mining Stock an Inflation Hedge “Just as Good as Crypto” (Yahoo Finance)
+- [macro] Is Costco Stock an Obvious Buy Right Now? (Yahoo Finance)
+- [macro] From Decline to Momentum: Primo Brands’ (PRMB) Impressive Q2 Comeback (Yahoo Finance)
