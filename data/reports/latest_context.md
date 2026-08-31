@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T04:22:26.190345+00:00`
-- Market context score: `45.32`
-- News risk score: `46.1`
-- Macro risk score: `37.96`
-- Risk-on score: `31.76`
+- Generated: `2026-08-31T04:37:31.568777+00:00`
+- Market context score: `39.44`
+- News risk score: `54.38`
+- Macro risk score: `39.5`
+- Risk-on score: `26.25`
 - Articles: `20`
 - Polymarket markets: `391`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10551`
-- Day/swing latest: `2026-08-31T04:15:00+00:00`
+- Day/swing records: `10552`
+- Day/swing latest: `2026-08-31T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `1`
+- macro: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Eight killed and 18 missing after ferry capsizes off northern Cyprus (BBC News)
 - [crypto] Cronos halts network after Tectonic exploit involving estimated $75M (Cointelegraph.com News)
 - [macro] US strikes Iranian launchers on Larak Island in first known attack in weeks (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon (BBC News)
 - [crypto] Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Singapore tackles finances and culture to avert a demographic crisis (Economy)
-- [macro] 'My parents won't lend me £10k but helped my brother': When families play financial favourites (BBC News)
