@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T15:07:29.592045+00:00`
-- Market context score: `49.97`
-- News risk score: `48.45`
-- Macro risk score: `27.54`
-- Risk-on score: `40.14`
-- Articles: `72`
+- Generated: `2026-08-31T15:22:37.444797+00:00`
+- Market context score: `52.04`
+- News risk score: `46.37`
+- Macro risk score: `24.36`
+- Risk-on score: `41.79`
+- Articles: `73`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10592`
-- Day/swing latest: `2026-08-31T15:00:00+00:00`
+- Day/swing records: `10593`
+- Day/swing latest: `2026-08-31T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `7`
-- macro: articles `45`, risk hits `10`, risk headline rate `0.2`, policy hits `4`
+- crypto: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `8`
+- macro: articles `45`, risk hits `7`, risk headline rate `0.1333`, policy hits `5`
 
 ## Headlines
 
-- [macro] Tech stocks today: Apple stock slips as Tim Cook prepares to step down (Yahoo Finance)
-- [macro] Micron Technology (MU) Gains Driven by Earnings Upgrades (Yahoo Finance)
-- [macro] Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June (Yahoo Finance)
-- [macro] Building AI Infrastructure: Alpha Compute CEO Brittany Kaiser, Live at Nasdaq (Yahoo Finance)
-- [macro] Dell's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why. (Yahoo Finance)
-- [crypto] Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report (Cointelegraph.com News)
-- [macro] 'She slipped out of my hand' - couple's children missing after ferry capsizes (BBC News)
-- [macro] Jim Cramer Calls This Mining Stock an Inflation Hedge “Just as Good as Crypto” (Yahoo Finance)
-- [macro] Is Costco Stock an Obvious Buy Right Now? (Yahoo Finance)
-- [macro] From Decline to Momentum: Primo Brands’ (PRMB) Impressive Q2 Comeback (Yahoo Finance)
+- [macro] Knight-Swift Transportation (KNX) is Positioned to Leverage Evolving Freight Market (Yahoo Finance)
+- [crypto] Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder (Cointelegraph.com News)
+- [macro] The Best Dividend Stock for 2027 and Beyond: Procter & Gamble (Yahoo Finance)
+- [macro] So-Young International Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] LexinFintech Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Growth Trajectory and Attractive Valuations Support Henry Schein’s (HSIC) Bullish Thesis (Yahoo Finance)
+- [macro] The Overlooked AI Bet That Could Outperform NVIDIA by 2027 (Yahoo Finance)
+- [macro] Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps (BBC News)
+- [macro] Napco Security (NSSC) Q4 2026 Earnings Call Transcript (Yahoo Finance)
+- [macro] MD Sass Concentrated Value Strategy Exits Intercontinental Exchange (ICE) on Thesis Gap (Yahoo Finance)
