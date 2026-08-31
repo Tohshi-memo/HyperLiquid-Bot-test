@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-31T07:05:25.704707+00:00`
+- Generated: `2026-08-31T07:10:26.209597+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,7 +13,7 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `646304.2849519999` | liquidity: `752232.1592`
+- Will the U.S. invade Iran before 2027? | 24h volume: `646304.2849519999` | liquidity: `751029.0412`
 - Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `609052.7086800004` | liquidity: `493810.6455`
 - Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `496326.77901999996` | liquidity: `669890.72551`
 - Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `450789.3003750001` | liquidity: `419881.9566`
