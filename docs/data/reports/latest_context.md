@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T15:22:37.444797+00:00`
-- Market context score: `52.04`
-- News risk score: `46.37`
-- Macro risk score: `24.36`
-- Risk-on score: `41.79`
-- Articles: `73`
-- Polymarket markets: `389`
+- Generated: `2026-08-31T15:37:31.522541+00:00`
+- Market context score: `51.32`
+- News risk score: `47.76`
+- Macro risk score: `27.02`
+- Risk-on score: `42.36`
+- Articles: `75`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10593`
-- Day/swing latest: `2026-08-31T15:15:00+00:00`
+- Day/swing records: `10594`
+- Day/swing latest: `2026-08-31T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `8`
-- macro: articles `45`, risk hits `7`, risk headline rate `0.1333`, policy hits `5`
+- macro: articles `47`, risk hits `10`, risk headline rate `0.1702`, policy hits `7`
 
 ## Headlines
 
-- [macro] Knight-Swift Transportation (KNX) is Positioned to Leverage Evolving Freight Market (Yahoo Finance)
-- [crypto] Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder (Cointelegraph.com News)
-- [macro] The Best Dividend Stock for 2027 and Beyond: Procter & Gamble (Yahoo Finance)
-- [macro] So-Young International Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] LexinFintech Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Growth Trajectory and Attractive Valuations Support Henry Schein’s (HSIC) Bullish Thesis (Yahoo Finance)
-- [macro] The Overlooked AI Bet That Could Outperform NVIDIA by 2027 (Yahoo Finance)
-- [macro] Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps (BBC News)
-- [macro] Napco Security (NSSC) Q4 2026 Earnings Call Transcript (Yahoo Finance)
-- [macro] MD Sass Concentrated Value Strategy Exits Intercontinental Exchange (ICE) on Thesis Gap (Yahoo Finance)
+- [crypto] Kalshi lays down first lifetime ban for ex-member of Congress George Santos (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] John Galliano exhibition at New York Met cancelled after backlash (BBC News)
+- [macro] Nvidia Stock Teases Buy Zone After Beat-And-Raise Report. Watch These Clues. (Yahoo Finance)
+- [macro] Messi retires from international football (BBC News)
+- [macro] Nvidia Higher As Cathie Wood Loads Up; Is Nvidia A Buy Now? (Yahoo Finance)
+- [macro] 10-Year Treasury Yield Breaks Out, Testing Bessent, Hitting Stocks (Yahoo Finance)
+- [macro] MicroStrategy finally buys Bitcoin after 2 months (Yahoo Finance)
+- [macro] He Had Three Old 401(k)s at 73 and Took One Big RMD From the Largest. The IRS Doesn’t Let 401(k)s Aggregate, and Fined Him on the Other Two. (Yahoo Finance)
+- [macro] FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules (Yahoo Finance)
+- [macro] How Flowserve is Positioned for Long-Term Success in the Nuclear Market (Yahoo Finance)
