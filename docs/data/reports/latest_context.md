@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T10:52:28.411061+00:00`
-- Market context score: `36.02`
-- News risk score: `55.27`
-- Macro risk score: `42.37`
-- Risk-on score: `20.5`
-- Articles: `52`
-- Polymarket markets: `391`
+- Generated: `2026-08-31T11:07:30.478804+00:00`
+- Market context score: `40.06`
+- News risk score: `55.38`
+- Macro risk score: `36.5`
+- Risk-on score: `27.36`
+- Articles: `56`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10577`
-- Day/swing latest: `2026-08-31T10:45:00+00:00`
+- Day/swing records: `10578`
+- Day/swing latest: `2026-08-31T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.4167`, policy hits `3`
-- macro: articles `38`, risk hits `19`, risk headline rate `0.4211`, policy hits `9`
+- crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `4`
+- macro: articles `41`, risk hits `16`, risk headline rate `0.3171`, policy hits `10`
 
 ## Headlines
 
+- [macro] Passengers stranded as strike disrupts flights at Kenya's main airport (BBC News)
+- [macro] Americana Restaurants signs deal to launch Taco Bell in UAE (Yahoo Finance)
+- [macro] ISCA AI Fluency Programme draws over 15,000 enrolments (Yahoo Finance)
+- [macro] BRG appoints Barbara Vanich as MD of Financial Institution Advisory practice (Yahoo Finance)
+- [crypto] Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week (Cointelegraph.com News)
+- [macro] ONEOK to buy Permian assets from Brazos Midstream in $4.425bn deal (Yahoo Finance)
 - [crypto] U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Gold Falls as Hawkish Fed Outlook Keeps Yields Elevated (Yahoo Finance)
 - [macro] ‘I love the inflation!’: Trump shrugs off rising prices — here’s what you can do before inflation eats into your savings (Yahoo Finance)
-- [macro] Teva Pharmaceuticals to acquire BioXcel assets for up to $125m (Yahoo Finance)
-- [macro] 3 super simple hacks that can save you thousands effortlessly — but you need to do them before September ends (Yahoo Finance)
-- [macro] As the Stock Market Sounds an Alarm, Warren Buffett Just Offered a Blunt Warning for Investors (Yahoo Finance)
-- [macro] Warren Buffett Has Recommended This 1 Investment for Decades. History Says It Could Turn $100 per Month Into $225,000. (Yahoo Finance)
-- [macro] Bank of England chief warns new AI models threaten global financial stability (Economy)
-- [macro] South African airline defends low-altitude aerial stunt over packed stadium (BBC News)
-- [macro] Your Social Security Check Can Shrink Without Warning: Medicare, Tax Withholding and a 15% Clawback Letter (Yahoo Finance)
-- [macro] At 67, He Worked 40 Hours on One Bridge Slide. Social Security Kept Paying. His Union Pension Stopped. (Yahoo Finance)
+- [macro] Are The "Magnificent Seven" Stocks Still Worth Buying? (Yahoo Finance)
