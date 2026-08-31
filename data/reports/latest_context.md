@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T19:52:29.244522+00:00`
-- Market context score: `51.3`
-- News risk score: `41.55`
-- Macro risk score: `31.46`
-- Risk-on score: `38.75`
-- Articles: `56`
+- Generated: `2026-08-31T20:07:33.898402+00:00`
+- Market context score: `51.08`
+- News risk score: `41.52`
+- Macro risk score: `31.65`
+- Risk-on score: `38.32`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:129, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10610`
-- Day/swing latest: `2026-08-31T19:45:00+00:00`
+- Day/swing records: `10611`
+- Day/swing latest: `2026-08-31T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `5`
-- macro: articles `29`, risk hits `7`, risk headline rate `0.2069`, policy hits `10`
+- crypto: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `5`
+- macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `9`
 
 ## Headlines
 
-- [commodity] Brent jumps above $90 after flare-up in U.S.-Iran hostilities (Energy)
 - [commodity] Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon (Energy)
+- [commodity] Brent jumps above $90 after flare-up in U.S.-Iran hostilities (Energy)
 - [macro] Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon (BBC News)
 - [macro] Ex-congressman George Santos banned from betting platform for life (BBC News)
 - [macro] US singer D4vd's celebrity lawyers withdraw from murder case (BBC News)
