@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-08-31T13:52:28.749564+00:00`
-- Market context score: `50.68`
+- Generated: `2026-08-31T14:07:34.956396+00:00`
+- Market context score: `49.88`
 - News risk score: `46.73`
 - Macro risk score: `28.09`
-- Risk-on score: `40.48`
+- Risk-on score: `38.69`
 - Articles: `66`
 - Polymarket markets: `389`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:128, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10588`
-- Day/swing latest: `2026-08-31T13:45:00+00:00`
+- Day/swing records: `10589`
+- Day/swing latest: `2026-08-31T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Scotts Miracle-Gro's biggest challenge: Overcoming young homeowners who are OK with dandelions in their lawn (Yahoo Finance)
+- [macro] Martin Marietta Materials (MLM) Stock Pulls Back on Expectations, Fundamentals Intact (Yahoo Finance)
+- [macro] Entegris (ENTG) Surged on Increased Demand (Yahoo Finance)
+- [macro] This Thesis for Marvell Technology Keeps Me Accumulating Amid Tailwinds (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls, Oil Prices Jump As U.S., Iran Exchange New Strikes (Live Coverage) (Yahoo Finance)
+- [macro] GE Vernova Slides 3%, Vertiv Holdings and Eaton Sit Out the Selloff: Is the Rivian CFO Handoff Still Driving the Drawdown? (Yahoo Finance)
+- [macro] Dow falls as US strikes Iran, rate-hike bets jump (Yahoo Finance)
 - [macro] US and Iran trade strikes for first time in weeks (BBC News)
-- [macro] Bank of England chief warns new AI models threaten global financial stability (Economy)
-- [macro] This Dividend King Just Offered a Buy-the-Dip Opportunity (Yahoo Finance)
-- [macro] Intercontinental Exchange Director Sells Shares Worth $216,000 (Yahoo Finance)
-- [macro] Amazon Is Firing on All Cylinders. This is Where The Stock Will Go. (Yahoo Finance)
-- [macro] S&P Global’s (SPGI) Remaining Divisions Showcase Strong Profitability Post Spin-Out (Yahoo Finance)
-- [crypto] Mystery surrounds why an OG burned $1M in Bitcoin (Cointelegraph.com News)
-- [macro] Ripple-backed XRP treasury moves closer to Nasdaq debut (Yahoo Finance)
-- [crypto] Ireland bars crypto from new tax-advantaged investment accounts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Nvidia’s (NVDA) Investment in OpenAI Highlights Circular Financing Concerns (Yahoo Finance)
+- [macro] Deere upgraded, Lumentum initiated: Wall Street's top analyst calls (Yahoo Finance)
+- [macro] Tyler Technologies (TYL) Boosts 2030 Financial Goals After Successful Cloud Transition (Yahoo Finance)
