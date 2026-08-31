@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-31T11:15:28.436870+00:00`
+- Generated: `2026-08-31T11:20:32.771922+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9324802.66`
-- Polymarket volume z-score: `-0.41`
+- Polymarket 24h volume: `9370463.6`
+- Polymarket volume z-score: `-0.39`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1216836.334465` | liquidity: `658341.58976`
-- Will the U.S. invade Iran before 2027? | 24h volume: `646577.461678` | liquidity: `772505.876`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `592426.3651390009` | liquidity: `495720.6867`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `441098.20204099995` | liquidity: `404788.0369`
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `410223.016592` | liquidity: `285011.91004`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `345540.43169900036` | liquidity: `590695.5302`
-- Israel x Iran ceasefire continues through August 31? | 24h volume: `250721.995218` | liquidity: `50480.25637`
-- Trump out as President by August 31? | 24h volume: `225453.69` | liquidity: `343354.50401`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1218086.334465` | liquidity: `658685.15236`
+- Will the U.S. invade Iran before 2027? | 24h volume: `647423.298732` | liquidity: `769815.516`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `593434.4442940011` | liquidity: `487759.2469`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `444262.012041` | liquidity: `403745.9244`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `425045.616592` | liquidity: `283563.22404`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `349201.16483300034` | liquidity: `592846.95849`
+- Israel x Iran ceasefire continues through August 31? | 24h volume: `250721.995218` | liquidity: `52350.8536`
+- Trump out as President by August 31? | 24h volume: `225453.69` | liquidity: `343329.97852`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
