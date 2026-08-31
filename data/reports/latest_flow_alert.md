@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-08-31T11:10:25.960205+00:00`
+- Generated: `2026-08-31T11:15:28.436870+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1216836.334465` | liquidity: `650552.03992`
-- Will the U.S. invade Iran before 2027? | 24h volume: `646577.461678` | liquidity: `748520.8801`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `592426.3651390009` | liquidity: `490220.2974`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `441098.20204099995` | liquidity: `399192.5893`
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `410223.016592` | liquidity: `278517.89696`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `345540.43169900036` | liquidity: `580291.37174`
-- Israel x Iran ceasefire continues through August 31? | 24h volume: `250721.995218` | liquidity: `44709.13476`
-- Trump out as President by August 31? | 24h volume: `225453.69` | liquidity: `336090.70501`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1216836.334465` | liquidity: `658341.58976`
+- Will the U.S. invade Iran before 2027? | 24h volume: `646577.461678` | liquidity: `772505.876`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `592426.3651390009` | liquidity: `495720.6867`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `441098.20204099995` | liquidity: `404788.0369`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `410223.016592` | liquidity: `285011.91004`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `345540.43169900036` | liquidity: `590695.5302`
+- Israel x Iran ceasefire continues through August 31? | 24h volume: `250721.995218` | liquidity: `50480.25637`
+- Trump out as President by August 31? | 24h volume: `225453.69` | liquidity: `343354.50401`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
