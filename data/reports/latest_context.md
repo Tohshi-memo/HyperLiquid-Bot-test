@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T05:52:25.734356+00:00`
-- Market context score: `43.55`
-- News risk score: `37.64`
-- Macro risk score: `28.66`
-- Risk-on score: `17.17`
-- Articles: `38`
+- Generated: `2026-09-01T06:07:29.978507+00:00`
+- Market context score: `43.26`
+- News risk score: `37.93`
+- Macro risk score: `29.23`
+- Risk-on score: `16.98`
+- Articles: `37`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:130, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10649`
-- Day/swing latest: `2026-09-01T05:45:00+00:00`
+- Day/swing records: `10650`
+- Day/swing latest: `2026-09-01T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `6`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Children sleeping on piles of clothes, says charity (BBC News)
 - [macro] Hospitality wants permanent VAT cut, 'not gimmick' (BBC News)
 - [macro] Flock's rapidly expanding AI surveillance network facing growing backlash in US (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban (BBC News)
 - [crypto] BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks (Cointelegraph.com News)
 - [crypto] Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
