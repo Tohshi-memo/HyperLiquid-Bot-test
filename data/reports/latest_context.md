@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T21:18:32.339608+00:00`
+- Generated: `2026-09-01T21:22:26.361005+00:00`
 - Market context score: `42.47`
 - News risk score: `50.23`
 - Macro risk score: `40.33`
@@ -29,8 +29,8 @@
 
 ## Headlines
 
+- [macro] US strikes Iran as state media reports four killed at wedding party (BBC News)
 - [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
-- [macro] US launches more strikes on Iran as state media reports explosions (BBC News)
 - [crypto] Binance expands TradFi push with options on 1,000 US stocks, ETFs (Cointelegraph.com News)
 - [macro] Israel says Hamas security chief captured as strikes kill four during Gaza raid (BBC News)
 - [crypto] UK crime agency froze $13.5M amid probe into Premier League crypto sponsor (Cointelegraph.com News)
