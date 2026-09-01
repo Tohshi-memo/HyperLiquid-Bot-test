@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-01T00:05:29.941340+00:00`
+- Generated: `2026-09-01T00:11:38.280754+00:00`
 - Flow alert score: `17.56`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -15,10 +15,10 @@
 
 - Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1731397.3508220005` | liquidity: `551585.1962`
 - Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1649651.4321689995` | liquidity: `1086997.77284`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1153089.6909159997` | liquidity: `531622.4813`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1153089.6909159997` | liquidity: `530582.5574`
 - Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `662335.0194309998` | liquidity: `750406.92191`
 - Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `411934.9081469999` | liquidity: `290717.08055`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `395907.69108699996` | liquidity: `449410.7158`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `395907.69108699996` | liquidity: `448040.963`
 - Will the U.S. invade Iran before 2027? | 24h volume: `287935.32920100004` | liquidity: `666798.4275`
 - Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `250617.7522350001` | liquidity: `398541.88773`
 
