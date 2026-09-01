@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T17:22:25.369220+00:00`
-- Market context score: `46.74`
-- News risk score: `51.29`
-- Macro risk score: `37.36`
-- Risk-on score: `39.07`
-- Articles: `70`
+- Generated: `2026-09-01T17:37:29.466945+00:00`
+- Market context score: `48.63`
+- News risk score: `49.75`
+- Macro risk score: `33.37`
+- Risk-on score: `40.45`
+- Articles: `84`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10695`
-- Day/swing latest: `2026-09-01T17:15:00+00:00`
+- Day/swing records: `10696`
+- Day/swing latest: `2026-09-01T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `11`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `39`, risk hits `15`, risk headline rate `0.359`, policy hits `4`
+- macro: articles `53`, risk hits `20`, risk headline rate `0.3019`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] FDA Approval Marks A Turning Point For BeOne Medicines (ONC) (Yahoo Finance)
-- [macro] 4 Financial Realities That Impact Millennial Retirement Plans — and How To Handle Them (Yahoo Finance)
-- [macro] Social Security and Side Hustles in 2026: How Much You Can Earn Without Regret (Yahoo Finance)
-- [macro] 5 Reasons Women Should Get a Financial Advisor Now (Yahoo Finance)
-- [macro] 7 Commonly Mishandled Spending Decisions Wealthy People Get Right (Yahoo Finance)
-- [commodity] WTI hits highest level since July following latest U.S. attacks against Iran (Energy)
-- [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
-- [macro] Nvidia Slips As AI Circular Financing Fears Rise Amid $3.5 Billion Deal; Is Nvidia A Buy Now? (Yahoo Finance)
-- [macro] Archer-Daniels-Midland (ADM) Bets Big On Oilseed Crush Capacity (Yahoo Finance)
-- [crypto] BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch (Cointelegraph.com News)
+- [macro] Trump’s ‘Biggest Oil Deal in World History’ Just Created a New Energy Giant — And Wall Street Completely Missed It (Yahoo Finance)
+- [macro] If There Is a Stock Market Crash, Here Are 2 Artificial Intelligence (AI) Stocks I Am Loading Up on (Yahoo Finance)
+- [macro] Lumentum Sets Up After 148% Gain; AI Summer Swoon Yields New Buy Point (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq, Dow Fall As Oil Prices Jump; Taser Maker Flashes This Warning (Live Coverage) (Yahoo Finance)
+- [macro] Dow falls 400 points after U.S. strikes Iran, oil surges (Yahoo Finance)
+- [macro] AI token prices hit record low, pressuring OpenAI and Anthropic (Yahoo Finance)
+- [macro] UGI Corp (UGI) Trades at Just 11x Earnings: Is It a Buy? (Yahoo Finance)
+- [macro] Why RLI Corp (RLI) Remains a Top Specialty Insurance Stock (Yahoo Finance)
+- [macro] JBT Marel (JBTM): A Food Processing Equipment Stock With Consistent Growth (Yahoo Finance)
+- [macro] Treasury Yields Hit 19-Month High As Bond Woes Spread Around The Globe (Yahoo Finance)
