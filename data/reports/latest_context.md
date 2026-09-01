@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T21:22:26.361005+00:00`
-- Market context score: `42.47`
-- News risk score: `50.23`
-- Macro risk score: `40.33`
-- Risk-on score: `29.82`
+- Generated: `2026-09-01T21:37:37.219258+00:00`
+- Market context score: `41.85`
+- News risk score: `49.98`
+- Macro risk score: `39.92`
+- Risk-on score: `28.06`
 - Articles: `60`
 - Polymarket markets: `390`
 
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10710`
-- Day/swing latest: `2026-09-01T21:15:00+00:00`
+- Day/swing records: `10711`
+- Day/swing latest: `2026-09-01T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `11`, risk headline rate `0.2857`, policy hits `4`
+- crypto: articles `28`, risk hits `11`, risk headline rate `0.2857`, policy hits `3`
 - macro: articles `28`, risk hits `12`, risk headline rate `0.3929`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] US strikes Iran as state media reports four killed at wedding party (BBC News)
+- [crypto] Crypto-backed PAC scales back ad spending in Massachusetts primary (Cointelegraph.com News)
 - [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
 - [crypto] Binance expands TradFi push with options on 1,000 US stocks, ETFs (Cointelegraph.com News)
 - [macro] Israel says Hamas security chief captured as strikes kill four during Gaza raid (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur (BBC News)
 - [commodity] The $3 trillion oil market is becoming more accessible than ever: No longer a 'rich man's game' (Energy)
-- [macro] As Michigan Senate race heats up, Vance calls El-Sayed 'evil' (BBC News)
