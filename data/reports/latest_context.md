@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T10:18:59.392459+00:00`
-- Market context score: `48.98`
-- News risk score: `45.62`
-- Macro risk score: `28.96`
-- Risk-on score: `36.09`
-- Articles: `60`
+- Generated: `2026-09-01T10:22:25.251940+00:00`
+- Market context score: `48.42`
+- News risk score: `46.32`
+- Macro risk score: `29.87`
+- Risk-on score: `35.77`
+- Articles: `61`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `3`
-- macro: articles `43`, risk hits `8`, risk headline rate `0.1628`, policy hits `8`
+- macro: articles `44`, risk hits `9`, risk headline rate `0.1818`, policy hits `8`
 
 ## Headlines
 
+- [macro] AI could cause global economic downturn, Andrew Bailey warns G20 (BBC News)
 - [macro] Affirm’s (AFRM) Next Chapter Bets Big On The Card (Yahoo Finance)
 - [macro] History Says This 1 ETF Could Turn $1,000 into $28,289 in 20 Years. Here's the Math. (Yahoo Finance)
 - [macro] Stellantis names Arnaud Belloni as Fiat, Abarth, and Lancia CEO (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [crypto] Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet (Cointelegraph.com News)
 - [macro] Software stocks crushed chips in August. History says September gets tougher: Chart of the Day (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Tuesday, September 1, 2026: Fixed rates move higher following U.S. airstrikes near Hormuz (Yahoo Finance)
-- [macro] Best CD rates today, Tuesday, September 1, 2026: Lock in up to 4.30% APY today with multiple offers (Yahoo Finance)
