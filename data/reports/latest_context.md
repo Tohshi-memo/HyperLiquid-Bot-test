@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T12:52:28.603253+00:00`
-- Market context score: `48.05`
-- News risk score: `48.71`
-- Macro risk score: `35.13`
-- Risk-on score: `38.96`
-- Articles: `70`
+- Generated: `2026-09-01T13:07:26.605477+00:00`
+- Market context score: `48.63`
+- News risk score: `48.36`
+- Macro risk score: `33.87`
+- Risk-on score: `39.47`
+- Articles: `71`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10677`
-- Day/swing latest: `2026-09-01T12:45:00+00:00`
+- Day/swing records: `10678`
+- Day/swing latest: `2026-09-01T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `47`, risk hits `16`, risk headline rate `0.2766`, policy hits `12`
+- macro: articles `47`, risk hits `14`, risk headline rate `0.2553`, policy hits `13`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Zambia's president sworn in for second term while opponent detained (BBC News)
-- [crypto] UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist (Yahoo Finance)
-- [macro] TNR Gold urges shareholders to back its board nominees in proxy fight with dissident investor (Yahoo Finance)
-- [macro] Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda (Yahoo Finance)
-- [macro] Oracle cutting 3,000 India jobs as Microsoft places 500 on PIPs (Yahoo Finance)
-- [commodity] Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard' (Energy)
-- [macro] Ikea cuts prices as customers struggle with rising cost of living (BBC News)
-- [macro] Ikea cuts prices as customers struggle with rising cost of living (BBC News)
-- [macro] Morning Minute: Saylor’s Back Buying Bitcoin (Yahoo Finance)
+- [policy] Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record (FRB: Speeches)
+- [macro] Israel says senior Hamas member seized as strikes kill three during Gaza raid (BBC News)
+- [macro] Australian Vintage “stronger” despite pressure on profits (Yahoo Finance)
+- [macro] Riverwater Sees a Market Overreaction in Stevanato Group (STVN) After Oral GLP-1 Launches (Yahoo Finance)
+- [macro] Commvault CFO Gary Merrill Sells 3,147 Shares (Yahoo Finance)
+- [macro] The Market Keeps Punishing MercadoLibre for Growing Too Fast. Here's Why That's Exactly When to Buy. (Yahoo Finance)
+- [macro] Strategy resumes bitcoin buying after 10-week pause, spends $370M (Yahoo Finance)
+- [macro] Kaiser Aluminum (KALU) Stays Ahead Even If Middle East Capacity Returns Faster (Yahoo Finance)
+- [macro] Amazon Stock Extends Losses After FTC Lawsuit Over Ad Practices (Yahoo Finance)
+- [macro] What Makes NetScout Systems (NTCT) an Undervalued Beneficiary of Digital Transformation? (Yahoo Finance)
