@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T13:52:28.504433+00:00`
-- Market context score: `47.2`
-- News risk score: `49.14`
-- Macro risk score: `35.04`
-- Risk-on score: `37.4`
-- Articles: `80`
+- Generated: `2026-09-01T14:07:43.919790+00:00`
+- Market context score: `47.63`
+- News risk score: `48.41`
+- Macro risk score: `35.25`
+- Risk-on score: `37.82`
+- Articles: `82`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10681`
-- Day/swing latest: `2026-09-01T13:45:00+00:00`
+- Day/swing records: `10682`
+- Day/swing latest: `2026-09-01T14:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `9`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `52`, risk hits `22`, risk headline rate `0.2885`, policy hits `15`
+- commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `26`, risk hits `9`, risk headline rate `0.2308`, policy hits `5`
+- macro: articles `53`, risk hits `22`, risk headline rate `0.3019`, policy hits `14`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Sanmar Group acquires majority stake in AltEons Energy (Yahoo Finance)
 - [macro] Sexual assaults happening almost every day in Ceuta, prosecutors say (BBC News)
+- [macro] Ex-Sainsbury’s CFO joins AG Barr as chair (Yahoo Finance)
+- [macro] The Social Security Rule That Pays Full Benefits Even After You Pass the Earnings Limit (Yahoo Finance)
+- [macro] Stocks slip as 10-year treasury yield hits highest level since January 2025: AlphaCheck (Yahoo Finance)
+- [macro] ‘Your Stock Doesn’t Know Your Name’: Wes Moss on Owning Too Much Apple, Google (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls As Oil Prices, Treasury Yields Jump; Nvidia, Micron Shares Slide (Live Coverage) (Yahoo Finance)
 - [macro] Scotiabank (BNS) Just Blew Past Its Own Profit Target (Yahoo Finance)
-- [macro] CFO Liquidates Nearly 25,000 Shares of Consumer Stock, Valued at More Than $400,000 (Yahoo Finance)
-- [macro] Fed Governor Michael Barr warns of rate hike if inflation stays high (Yahoo Finance)
-- [macro] Two U.S. tech giants power Saudi's AI vision (Yahoo Finance)
-- [macro] The Hidden Costs of The Villages Start With the Golf Cart and Never Really Stop (Yahoo Finance)
-- [macro] Is Consensus Cloud Solutions (CCSI) a Mispriced Legacy Tech with Hidden Appeal? (Yahoo Finance)
-- [macro] UK long-term borrowing costs highest since 1998 ahead of October Budget (BBC News)
-- [crypto] Does the Bitcoin rally mean we haven’t wasted our lives in crypto? (Cointelegraph.com News)
-- [macro] SelectQuote’s (SLQT) Cash Flow Pitch Comes With A Shrinking Top Line (Yahoo Finance)
