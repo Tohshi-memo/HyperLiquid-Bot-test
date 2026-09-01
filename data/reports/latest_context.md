@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T22:37:30.176579+00:00`
-- Market context score: `43.63`
-- News risk score: `44.9`
-- Macro risk score: `37.01`
-- Risk-on score: `26.64`
-- Articles: `52`
+- Generated: `2026-09-01T22:52:24.791668+00:00`
+- Market context score: `44.6`
+- News risk score: `43.7`
+- Macro risk score: `35.2`
+- Risk-on score: `27.09`
+- Articles: `51`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,20 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10715`
-- Day/swing latest: `2026-09-01T22:30:00+00:00`
+- Day/swing records: `10716`
+- Day/swing latest: `2026-09-01T22:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `24`, risk hits `8`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] US strikes Iran as state media reports four killed at wedding party (BBC News)
-- [macro] Ariana Grande ends tour and steps back from public life (BBC News)
+- [macro] Ariana Grande completes tour and steps back from public life (BBC News)
 - [crypto] Crypto-backed PAC scales back ad spending in Massachusetts primary (Cointelegraph.com News)
 - [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
 - [crypto] Binance expands TradFi push with options on 1,000 US stocks, ETFs (Cointelegraph.com News)
