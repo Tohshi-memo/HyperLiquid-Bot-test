@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-01T09:35:28.090337+00:00`
+- Generated: `2026-09-01T09:40:32.834366+00:00`
 - Flow alert score: `17.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1944546.3075650001` | liquidity: `439666.5708`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1802603.6974089995` | liquidity: `954218.88151`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1358779.4739089997` | liquidity: `601435.7786`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `747733.6922459998` | liquidity: `858338.55637`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `428938.85682100017` | liquidity: `537296.0056`
-- Will the U.S. invade Iran before 2027? | 24h volume: `260020.70004999993` | liquidity: `763591.2991`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1944546.3075650001` | liquidity: `504486.1768`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1802603.6974089995` | liquidity: `951046.14593`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1358779.4739089997` | liquidity: `611707.6109`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `747733.6922459998` | liquidity: `858252.31926`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `428938.85682100017` | liquidity: `537669.1089`
+- Will the U.S. invade Iran before 2027? | 24h volume: `260020.70004999993` | liquidity: `768144.8665`
 - Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `259212.11172399996` | liquidity: `419704.25851`
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `230137.08070800005` | liquidity: `470208.6912`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `230137.08070800005` | liquidity: `470129.7932`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
