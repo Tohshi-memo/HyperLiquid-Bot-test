@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T23:25:16.996839+00:00`
+- Generated: `2026-09-01T23:37:31.410721+00:00`
 - Market context score: `44.28`
 - News risk score: `43.94`
 - Macro risk score: `34.73`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10718`
-- Day/swing latest: `2026-09-01T23:15:00+00:00`
+- Day/swing records: `10719`
+- Day/swing latest: `2026-09-01T23:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] Will self-flying planes transform the skies? (BBC News)
+- [macro] Soft launches and late sittings - six ways to get cheaper meals out (BBC News)
 - [macro] US strikes Iran as state media reports four killed at wedding party (BBC News)
 - [macro] Ariana Grande completes tour and steps back from public life (BBC News)
 - [crypto] Crypto-backed PAC scales back ad spending in Massachusetts primary (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] Israel says Hamas security chief captured as strikes kill four during Gaza raid (BBC News)
 - [crypto] UK crime agency froze $13.5M amid probe into Premier League crypto sponsor (Cointelegraph.com News)
 - [macro] Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur (BBC News)
