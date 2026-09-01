@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T18:26:19.013207+00:00`
+- Generated: `2026-09-01T18:37:30.086151+00:00`
 - Market context score: `42.48`
 - News risk score: `53.28`
 - Macro risk score: `38.98`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10699`
-- Day/swing latest: `2026-09-01T18:15:00+00:00`
+- Day/swing records: `10700`
+- Day/swing latest: `2026-09-01T18:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur (BBC News)
 - [commodity] The $3 trillion oil market is becoming more accessible than ever: No longer a 'rich man's game' (Energy)
 - [macro] As Michigan Senate race heats up, Vance calls El-Sayed 'evil' (BBC News)
 - [commodity] U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran (Energy)
@@ -38,4 +39,3 @@
 - [crypto] BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch (Cointelegraph.com News)
 - [macro] UK long-term borrowing costs highest since 1998 ahead of October Budget (BBC News)
 - [macro] Trump says US position on Falklands 'one of many' under review (BBC News)
-- [macro] Pistol in a lake gives hope for French cold case (BBC News)
