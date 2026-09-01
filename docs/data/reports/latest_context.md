@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T20:52:26.960373+00:00`
+- Generated: `2026-09-01T21:07:57.124023+00:00`
 - Market context score: `42.47`
 - News risk score: `50.23`
 - Macro risk score: `40.33`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10709`
-- Day/swing latest: `2026-09-01T20:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
-- [crypto] Binance expands TradFi push with options on 1,000 US stocks, ETFs (Cointelegraph.com News)
+- [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
 - [macro] US launches more strikes on Iran as state media reports explosions (BBC News)
+- [crypto] Binance expands TradFi push with options on 1,000 US stocks, ETFs (Cointelegraph.com News)
 - [macro] Israel says Hamas security chief captured as strikes kill four during Gaza raid (BBC News)
 - [crypto] UK crime agency froze $13.5M amid probe into Premier League crypto sponsor (Cointelegraph.com News)
 - [macro] Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
 - [macro] Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur (BBC News)
 - [commodity] The $3 trillion oil market is becoming more accessible than ever: No longer a 'rich man's game' (Energy)
 - [macro] As Michigan Senate race heats up, Vance calls El-Sayed 'evil' (BBC News)
