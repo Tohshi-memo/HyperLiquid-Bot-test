@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T03:37:26.237204+00:00`
+- Generated: `2026-09-01T03:52:30.175508+00:00`
 - Market context score: `39.58`
 - News risk score: `42.64`
 - Macro risk score: `31.29`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:130, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10640`
-- Day/swing latest: `2026-09-01T03:30:00+00:00`
+- Day/swing records: `10641`
+- Day/swing latest: `2026-09-01T03:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] CME’s share of XRP futures jumps as token rallies 40% in a week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Shein shares slide in long-awaited stock market debut (BBC News)
 - [macro] Shein shares slide in long-awaited stock market debut (BBC News)
 - [macro] What it was like inside court for Tupac Shakur’s murder trial verdict (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil (Energy)
 - [macro] US army secretary resigns after months of tension (BBC News)
 - [commodity] The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game' (Energy)
-- [macro] Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder (BBC News)
