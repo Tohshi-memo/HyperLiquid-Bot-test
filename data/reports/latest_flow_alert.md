@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-01T13:35:26.519144+00:00`
+- Generated: `2026-09-01T13:40:29.865894+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1738572.600385999` | liquidity: `424727.8811`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `957854.403189` | liquidity: `452676.6212`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1738572.600385999` | liquidity: `426690.9161`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `957854.403189` | liquidity: `441751.9752`
 - Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `836428.0000839996` | liquidity: `1111803.2554`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `647193.807037` | liquidity: `943776.26614`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `277736.649032` | liquidity: `417162.64109`
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `254133.69521999997` | liquidity: `374926.43261`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `211695.80766000002` | liquidity: `1891940.19024`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `647193.807037` | liquidity: `944072.06614`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `277736.649032` | liquidity: `418176.07013`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `254133.69521999997` | liquidity: `374954.05015`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `211695.80766000002` | liquidity: `1891427.90489`
 - Will Wes Moore win the 2028 US Presidential Election? | 24h volume: `207934.330653` | liquidity: `263628.01609`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
