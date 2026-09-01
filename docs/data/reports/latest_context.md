@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T15:52:26.919145+00:00`
-- Market context score: `46.35`
-- News risk score: `47.93`
-- Macro risk score: `33.72`
-- Risk-on score: `33.99`
-- Articles: `84`
+- Generated: `2026-09-01T16:07:30.746645+00:00`
+- Market context score: `47.53`
+- News risk score: `48.58`
+- Macro risk score: `34.8`
+- Risk-on score: `37.56`
+- Articles: `78`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10689`
-- Day/swing latest: `2026-09-01T15:45:00+00:00`
+- Day/swing records: `10690`
+- Day/swing latest: `2026-09-01T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `10`, risk headline rate `0.2414`, policy hits `5`
-- macro: articles `52`, risk hits `18`, risk headline rate `0.3077`, policy hits `4`
+- macro: articles `46`, risk hits `15`, risk headline rate `0.3043`, policy hits `9`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [commodity] Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard' (Energy)
 - [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
+- [macro] David Booth Says Picking AI Winners Can Backfire: What About Nvidia? (Yahoo Finance)
+- [macro] Sundar Pichai Says Alphabet's AI Overviews Now Reach 2.5 Billion Monthly Users as Ad Revenue Hit $82 Billion. Does That Scale Justify Spending Up to $205 Billion on AI Infrastructure This Year? (Yahoo Finance)
+- [macro] UK long-term borrowing costs highest since 1998 ahead of October Budget (BBC News)
+- [macro] Swinney to cut number of health boards from 14 to two (BBC News)
+- [macro] Why CVS Stock Rallied Tuesday Morning (Yahoo Finance)
+- [commodity] Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard' (Energy)
+- [macro] Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally (BBC News)
+- [macro] Automotive supplier YFore opens US manufacturing base in Georgia (Yahoo Finance)
 - [macro] Woman killed in Times Square stabbing, suspect shot dead by police (BBC News)
-- [macro] Life is too expensive for too many - PM says (BBC News)
-- [macro] 'We can make this next decade better than the last' (BBC News)
-- [crypto] Citi, Goldman, other global banks and asset managers team up on stablecoin venture (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin stays flat as global bond bear market rages on, pushing JGB to high (Cointelegraph.com News)
-- [macro] Sexual assaults happening almost every day in Ceuta, prosecutors say (BBC News)
-- [macro] Denny’s rival dining chain files for Chapter 11 bankruptcy (Yahoo Finance)
-- [macro] Nvidia Just Gave a $267 Billion Warning That Micron Stock Could Crash Before 2029 Is Over (Yahoo Finance)
