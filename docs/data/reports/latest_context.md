@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T02:52:26.526703+00:00`
-- Market context score: `39.28`
-- News risk score: `45.9`
-- Macro risk score: `33.93`
-- Risk-on score: `16.65`
+- Generated: `2026-09-01T03:07:26.102877+00:00`
+- Market context score: `40.27`
+- News risk score: `44.94`
+- Macro risk score: `32.0`
+- Risk-on score: `17.3`
 - Articles: `39`
 - Polymarket markets: `390`
 
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:130, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10637`
-- Day/swing latest: `2026-09-01T02:45:00+00:00`
+- Day/swing records: `10638`
+- Day/swing latest: `2026-09-01T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `7`, risk headline rate `0.7143`, policy hits `0`
 - crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `0`
 
 ## Headlines
 
 - [macro] Shein shares slide in long-awaited stock market debut (BBC News)
+- [macro] Shein shares slide in long-awaited stock market debut (BBC News)
+- [macro] What it was like inside court for Tupac Shakur’s murder trial verdict (BBC News)
 - [macro] Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously (BBC News)
 - [commodity] Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard' (Energy)
 - [commodity] Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says (Energy)
@@ -36,5 +38,3 @@
 - [macro] US army secretary resigns after months of tension (BBC News)
 - [commodity] The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game' (Energy)
 - [macro] Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder (BBC News)
-- [macro] US Supreme Court clears way for Trump to keep building White House ballroom (BBC News)
-- [macro] Japan Inc is betting big on India as China risks deepen (BBC News)
