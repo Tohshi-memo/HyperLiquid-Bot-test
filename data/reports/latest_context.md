@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-01T21:52:28.413815+00:00`
-- Market context score: `41.85`
-- News risk score: `49.98`
-- Macro risk score: `39.92`
-- Risk-on score: `28.06`
-- Articles: `60`
+- Generated: `2026-09-01T22:07:29.804582+00:00`
+- Market context score: `42.35`
+- News risk score: `48.7`
+- Macro risk score: `40.41`
+- Risk-on score: `28.28`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:131, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10712`
-- Day/swing latest: `2026-09-01T21:45:00+00:00`
+- Day/swing records: `10713`
+- Day/swing latest: `2026-09-01T22:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `11`, risk headline rate `0.2857`, policy hits `3`
-- macro: articles `28`, risk hits `12`, risk headline rate `0.3929`, policy hits `2`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.2692`, policy hits `2`
+- macro: articles `27`, risk hits `12`, risk headline rate `0.4074`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] US strikes Iran as state media reports four killed at wedding party (BBC News)
+- [macro] Ariana Grande ends tour and steps back from public life (BBC News)
 - [crypto] Crypto-backed PAC scales back ad spending in Massachusetts primary (Cointelegraph.com News)
 - [macro] Germany says Russia behind Leipzig airport drone attack (BBC News)
 - [crypto] Binance expands TradFi push with options on 1,000 US stocks, ETFs (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur (BBC News)
-- [commodity] The $3 trillion oil market is becoming more accessible than ever: No longer a 'rich man's game' (Energy)
