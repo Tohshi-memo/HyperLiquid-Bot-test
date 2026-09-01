@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-01T00:15:31.472293+00:00`
-- Flow alert score: `17.56`
+- Generated: `2026-09-01T00:20:28.108626+00:00`
+- Flow alert score: `17.48`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10766865.04`
-- Polymarket volume z-score: `0.14`
+- Polymarket 24h volume: `10714321.81`
+- Polymarket volume z-score: `0.12`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1731397.3508220005` | liquidity: `551585.1962`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1728550.9933860006` | liquidity: `551585.1962`
 - Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1649651.4321689995` | liquidity: `1086997.77284`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1153089.6909159997` | liquidity: `530582.5574`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1152141.2519879998` | liquidity: `530582.5574`
 - Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `662335.0194309998` | liquidity: `750406.92191`
 - Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `411934.9081469999` | liquidity: `290717.08055`
 - Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `395907.69108699996` | liquidity: `448040.963`
-- Will the U.S. invade Iran before 2027? | 24h volume: `287935.32920100004` | liquidity: `666798.4275`
+- Will the U.S. invade Iran before 2027? | 24h volume: `286284.54626100004` | liquidity: `666798.4275`
 - Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `250617.7522350001` | liquidity: `398541.88773`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
