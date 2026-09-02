@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T14:22:27.868427+00:00`
-- Market context score: `40.03`
-- News risk score: `54.8`
-- Macro risk score: `32.94`
-- Risk-on score: `25.45`
-- Articles: `76`
-- Polymarket markets: `389`
+- Generated: `2026-09-02T14:37:35.896444+00:00`
+- Market context score: `38.78`
+- News risk score: `55.18`
+- Macro risk score: `33.71`
+- Risk-on score: `23.27`
+- Articles: `77`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:791`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10778`
-- Day/swing latest: `2026-09-02T14:15:00+00:00`
+- Day/swing records: `10779`
+- Day/swing latest: `2026-09-02T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `5`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `25`, risk hits `13`, risk headline rate `0.4`, policy hits `6`
-- macro: articles `45`, risk hits `14`, risk headline rate `0.2444`, policy hits `7`
+- macro: articles `46`, risk hits `14`, risk headline rate `0.2609`, policy hits `7`
 
 ## Headlines
 
+- [macro] EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany (BBC News)
+- [macro] Private payrolls rose by 38,000 in August, less than expected, ADP reports (Economy)
+- [macro] Range Rover launches first fully electric model (BBC News)
+- [macro] Kazera secures mining right for Sea Concession 2A in Northern Cape (Yahoo Finance)
+- [macro] How CrowdStrike (CRWD) is Defending Against Evolving Threats (Yahoo Finance)
+- [macro] Sundar Pichai’s Credibility Crisis: The AI Model That Never Came (Yahoo Finance)
 - [commodity] Chevron to expand in Venezuela operations, doubling production through $7 billion investment (Energy)
 - [macro] Tiger Woods gets five-year driving ban after reckless driving plea (BBC News)
-- [macro] Ryan acquires Svalner Atlas Advisors in Sweden (Yahoo Finance)
-- [commodity] Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says (Energy)
-- [macro] Warren Buffett's Successor, Greg Abel, Has Over 50% of Berkshire Hathaway's Portfolio Invested in These 3 Top Stocks (Yahoo Finance)
-- [macro] The Future of Website Building with Wix.com (WIX) (Yahoo Finance)
-- [macro] Fed's Williams ties rising bond yields to strong economy, CNBC reports (Yahoo Finance)
-- [macro] Uber Plans Layoffs For 10% Of Workforce In Restructuring. Stock Rises. (Yahoo Finance)
-- [macro] Bond yields still high as investors weigh rate hike risk: AlphaCheck (Yahoo Finance)
-- [macro] 10-year Treasury touches highest level since 2023 as oil prices stay elevated (Yahoo Finance)
+- [macro] Here’s What Weighed on Nu Holdings (NU) in Q2 (Yahoo Finance)
+- [macro] OPEC+ likely to keep oil output policy unchanged on Sunday, sources say (Yahoo Finance)
