@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T21:07:37.552184+00:00`
+- Generated: `2026-09-02T21:22:33.159131+00:00`
 - Market context score: `51.33`
 - News risk score: `41.93`
 - Macro risk score: `26.86`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10805`
-- Day/swing latest: `2026-09-02T21:00:00+00:00`
+- Day/swing records: `10806`
+- Day/swing latest: `2026-09-02T21:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] South African airline behind daring stadium stunt cancels next flyby (BBC News)
 - [crypto] Coinbase launches regulated crypto derivatives in Canada (Cointelegraph.com News)
 - [macro] Uber shuts operations in Nigeria and Uganda with immediate effect (BBC News)
 - [macro] Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Maltese tycoon acquitted of orchestrating murder of renowned journalist (BBC News)
 - [crypto] New Jersey officials petition US Supreme Court over prediction markets (Cointelegraph.com News)
 - [crypto] Wyoming adds Chainlink reserve verification to state-issued stable token (Cointelegraph.com News)
-- [crypto] Crypto made new friends in U.S. primaries, but focus now shifts to general election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
