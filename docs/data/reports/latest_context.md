@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T10:37:29.843422+00:00`
-- Market context score: `40.15`
-- News risk score: `52.93`
-- Macro risk score: `28.09`
-- Risk-on score: `22.31`
-- Articles: `50`
+- Generated: `2026-09-02T10:52:26.364574+00:00`
+- Market context score: `39.18`
+- News risk score: `56.14`
+- Macro risk score: `26.76`
+- Risk-on score: `22.36`
+- Articles: `60`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10763`
-- Day/swing latest: `2026-09-02T10:30:00+00:00`
+- Day/swing records: `10764`
+- Day/swing latest: `2026-09-02T10:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `13`, risk hits `8`, risk headline rate `0.5385`, policy hits `2`
-- macro: articles `34`, risk hits `9`, risk headline rate `0.2059`, policy hits `4`
+- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `14`, risk hits `9`, risk headline rate `0.5714`, policy hits `2`
+- macro: articles `42`, risk hits `10`, risk headline rate `0.2143`, policy hits `0`
 
 ## Headlines
 
-- [macro] Guinea-Bissau referendum approves new constitution that expands president's powers (BBC News)
-- [crypto] Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stahl updates Sensora haptic coatings portfolio for packaging applications (Yahoo Finance)
-- [macro] Thousands still missing as Nepal-Tibet flood relief and recovery intensifies (BBC News)
-- [macro] Warsh's Jackson Hole encore may put Trump's inflation record under a microscope (Yahoo Finance)
-- [macro] This Is the 1 Move Every Long-Term Investor Should Make Right Now, According to History (Yahoo Finance)
-- [macro] US sailors arrive at Thailand's Pattaya after record 250 days at sea (BBC News)
-- [macro] TT Electronics H1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations (BBC News)
-- [macro] Mortgage and refinance interest rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates (Yahoo Finance)
+- [crypto] Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bus crash on Egypt's Red Sea coast kills 22 (BBC News)
+- [commodity] Chevron will expand Venezuela operations, more than doubling production through $7 billion investment (Energy)
+- [macro] Gold price today, Wednesday, September 2, 2026: Gold slips further as military actions escalate in Iran (Yahoo Finance)
+- [macro] ‘Many jobs will disappear forever’: Bill Gates says AI could erase careers. Build a financial firewall before AI strikes (Yahoo Finance)
+- [macro] Construction begins on 347MWdc SunRoper Solar project in Texas, US (Yahoo Finance)
+- [macro] Morning Bid: Bonds boil (Yahoo Finance)
+- [macro] Dow Jones Futures Fall After Oil Prices Slam Market; Dell, Credo, Palo Alto Are Earnings Movers (Yahoo Finance)
+- [macro] Amazon stock just entered the danger zone (Yahoo Finance)
+- [macro] CITGO to invest $310m in Lake Charles Refinery upgrade (Yahoo Finance)
