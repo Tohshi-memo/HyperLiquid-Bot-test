@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T07:22:32.295721+00:00`
-- Market context score: `43.59`
+- Generated: `2026-09-02T07:37:23.665299+00:00`
+- Market context score: `41.34`
 - News risk score: `42.61`
 - Macro risk score: `22.6`
-- Risk-on score: `19.17`
+- Risk-on score: `14.17`
 - Articles: `42`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10750`
-- Day/swing latest: `2026-09-02T07:15:00+00:00`
+- Day/swing records: `10751`
+- Day/swing latest: `2026-09-02T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,8 @@
 
 ## Headlines
 
-- [crypto] XRP ETFs pull in $170 million over eleven days as Goldman tops institutional holders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Why do US troops have history with this Thai city? (BBC News)
 - [commodity] Oil major BP completes search for chair after boardroom upheaval (Energy)
 - [macro] Bus crash on Egypt's Red Sea coast kills 16 (BBC News)
 - [crypto] A China indicator that greases risk-taking in stocks and bitcoin is flashing red (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] South Korea jails care home head for sexually assaulting disabled residents (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Concern more horses being given up over rising costs (BBC News)
-- [crypto] HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B (Cointelegraph.com News)
