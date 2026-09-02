@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T06:11:19.810591+00:00`
-- Market context score: `42.69`
-- News risk score: `45.18`
-- Macro risk score: `21.23`
-- Risk-on score: `18.81`
-- Articles: `38`
-- Polymarket markets: `391`
+- Generated: `2026-09-02T06:22:30.185286+00:00`
+- Market context score: `41.79`
+- News risk score: `46.06`
+- Macro risk score: `22.99`
+- Risk-on score: `18.22`
+- Articles: `39`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `646`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10745`
-- Day/swing latest: `2026-09-02T06:00:00+00:00`
+- Day/swing records: `10746`
+- Day/swing latest: `2026-09-02T06:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `2`
 - macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil major BP completes search for chair after boardroom upheaval (Energy)
 - [commodity] U.S. crude tops $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain (Energy)
 - [macro] South Korea jails disabled care home head for sexually assaulting residents (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] OpenAI says its new 'Astra' AI can build attacks without human help (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] School uniform costs hit families, say charities (BBC News)
 - [macro] Will new uniform rules save parents money? (BBC News)
-- [macro] Iran attacks US bases in Middle East after reports US strike killed five at wedding party (BBC News)
