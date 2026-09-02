@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T23:22:24.774017+00:00`
-- Market context score: `51.57`
-- News risk score: `39.9`
-- Macro risk score: `30.14`
-- Risk-on score: `37.47`
-- Articles: `50`
+- Generated: `2026-09-02T23:32:21.354774+00:00`
+- Market context score: `51.98`
+- News risk score: `39.8`
+- Macro risk score: `28.96`
+- Risk-on score: `37.85`
+- Articles: `52`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10813`
-- Day/swing latest: `2026-09-02T23:15:00+00:00`
+- Day/swing records: `10814`
+- Day/swing latest: `2026-09-02T23:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
+- commodity: articles `6`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `22`, risk hits `8`, risk headline rate `0.2273`, policy hits `2`
-- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `0`
+- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `0`
 
 ## Headlines
 
+- [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
+- [macro] 'I don't even like them': How much should you give to office gift collections? (BBC News)
+- [commodity] PG&E CEO calls on California to pass wildfire reform after the shelved effort crushed the stock (Energy)
 - [macro] Protests in Spain over government's handling of Ceuta migrant crisis (BBC News)
 - [crypto] US officials work with CrowdStrike to fight malware behind crypto theft (Cointelegraph.com News)
 - [crypto] DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [crypto] Coinbase launches regulated crypto derivatives in Canada (Cointelegraph.com News)
 - [macro] Uber shuts operations in Nigeria and Uganda with immediate effect (BBC News)
 - [macro] Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case (BBC News)
-- [crypto] Kraken parent Payward delays IPO to second quarter of 2027 at earliest (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Brent oil price above $95 as Iran retaliates with strikes on U.S. Gulf allies (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
