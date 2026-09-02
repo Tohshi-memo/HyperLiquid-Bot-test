@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T18:52:28.608494+00:00`
-- Market context score: `46.71`
+- Generated: `2026-09-02T19:07:26.074088+00:00`
+- Market context score: `47.35`
 - News risk score: `42.23`
 - Macro risk score: `27.7`
-- Risk-on score: `27.71`
+- Risk-on score: `29.13`
 - Articles: `58`
 - Polymarket markets: `390`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10796`
-- Day/swing latest: `2026-09-02T18:45:00+00:00`
+- Day/swing records: `10797`
+- Day/swing latest: `2026-09-02T19:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] New Jersey officials petition US Supreme Court over prediction markets (Cointelegraph.com News)
 - [crypto] Wyoming adds Chainlink reserve verification to state-issued stable token (Cointelegraph.com News)
 - [crypto] Crypto made new friends in U.S. primaries, but focus now shifts to general election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim (Energy)
@@ -37,4 +38,3 @@
 - [macro] South African airline behind daring  stadium stunt cancels next flyby, regulator says (BBC News)
 - [macro] Uber to cut over 3,000 jobs in major global restructuring (BBC News)
 - [macro] EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany (BBC News)
-- [crypto] Ondo urges SEC, CFTC to bring US stock perpetuals onshore (Cointelegraph.com News)
