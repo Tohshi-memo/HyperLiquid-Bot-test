@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T21:52:32.403447+00:00`
-- Market context score: `51.55`
-- News risk score: `41.72`
-- Macro risk score: `26.84`
-- Risk-on score: `37.71`
-- Articles: `58`
+- Generated: `2026-09-02T22:07:27.028455+00:00`
+- Market context score: `47.39`
+- News risk score: `42.71`
+- Macro risk score: `29.32`
+- Risk-on score: `30.22`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10808`
-- Day/swing latest: `2026-09-02T21:45:00+00:00`
+- Day/swing records: `10809`
+- Day/swing latest: `2026-09-02T22:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `27`, risk hits `11`, risk headline rate `0.2593`, policy hits `4`
-- macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `0`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Protests in Spain over government's handling of Ceuta migrant crisis (BBC News)
 - [crypto] US officials work with CrowdStrike to fight malware behind crypto theft (Cointelegraph.com News)
 - [crypto] DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South African airline behind daring stadium stunt cancels next flyby (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Kraken parent Payward delays IPO to second quarter of 2027 at earliest (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Brent oil price above $95 as Iran retaliates with strikes on U.S. Gulf allies (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Maltese tycoon acquitted of orchestrating murder of renowned journalist (BBC News)
