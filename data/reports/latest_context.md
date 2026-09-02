@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T08:22:30.324031+00:00`
-- Market context score: `41.44`
-- News risk score: `44.62`
-- Macro risk score: `26.13`
-- Risk-on score: `17.43`
+- Generated: `2026-09-02T08:37:34.814916+00:00`
+- Market context score: `43.01`
+- News risk score: `42.41`
+- Macro risk score: `24.58`
+- Risk-on score: `18.46`
 - Articles: `43`
 - Polymarket markets: `390`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10754`
-- Day/swing latest: `2026-09-02T08:15:00+00:00`
+- Day/swing records: `10755`
+- Day/swing latest: `2026-09-02T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `2`
-- macro: articles `28`, risk hits `6`, risk headline rate `0.2143`, policy hits `0`
+- crypto: articles `13`, risk hits `6`, risk headline rate `0.3846`, policy hits `2`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bus crash on Egypt's Red Sea coast kills 16 (BBC News)
 - [commodity] U.S. crude tops $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain (Energy)
 - [crypto] Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August (Cointelegraph.com News)
 - [macro] Guinea-Bissau referendum approves new constitution that expands president's powers (BBC News)
 - [crypto] XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why do US troops have history with this Thai city? (BBC News)
 - [commodity] Oil major BP completes search for chair after boardroom upheaval (Energy)
-- [macro] Bus crash on Egypt's Red Sea coast kills 16 (BBC News)
-- [crypto] A China indicator that greases risk-taking in stocks and bitcoin is flashing red (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Iran attacks US bases in Middle East after reports US strike killed five at wedding party (BBC News)
+- [crypto] A China indicator that supports risk-taking in stocks and bitcoin is flashing red (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Korea jails care home head for sexually assaulting disabled residents (BBC News)
