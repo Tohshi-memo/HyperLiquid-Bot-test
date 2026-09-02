@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-02T20:25:33.718276+00:00`
+- Generated: `2026-09-02T20:30:33.836658+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `1025455.120666` | liquidity: `1785744.79418`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `787479.5592530014` | liquidity: `377081.367`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `653291.4812709994` | liquidity: `428740.8971`
-- Will Tulsi Gabbard win the 2028 US Presidential Election? | 24h volume: `638778.332` | liquidity: `1688569.52367`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `609040.8727620001` | liquidity: `1248670.69897`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `419333.3206509999` | liquidity: `1120301.53181`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `296404.31500000006` | liquidity: `1481386.66465`
-- Will Tropical Storm Saudel make landfall in Japan? | 24h volume: `269835.15790199995` | liquidity: `395970.55317`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `1025455.120666` | liquidity: `1785231.23918`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `787479.5592530014` | liquidity: `384298.8091`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `653291.4812709994` | liquidity: `441390.5243`
+- Will Tulsi Gabbard win the 2028 US Presidential Election? | 24h volume: `638778.332` | liquidity: `1688322.52238`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `609040.8727620001` | liquidity: `1248671.64897`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `419333.3206509999` | liquidity: `1119062.97997`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `296404.31500000006` | liquidity: `1480702.90465`
+- Will Tropical Storm Saudel make landfall in Japan? | 24h volume: `269835.15790199995` | liquidity: `395970.57447`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
