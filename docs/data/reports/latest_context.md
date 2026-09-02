@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T21:22:33.159131+00:00`
-- Market context score: `51.33`
-- News risk score: `41.93`
-- Macro risk score: `26.86`
-- Risk-on score: `37.41`
-- Articles: `57`
+- Generated: `2026-09-02T21:37:29.745606+00:00`
+- Market context score: `50.66`
+- News risk score: `43.14`
+- Macro risk score: `26.82`
+- Risk-on score: `36.91`
+- Articles: `59`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10806`
-- Day/swing latest: `2026-09-02T21:15:00+00:00`
+- Day/swing records: `10807`
+- Day/swing latest: `2026-09-02T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `26`, risk hits `11`, risk headline rate `0.2692`, policy hits `4`
+- crypto: articles `28`, risk hits `12`, risk headline rate `0.2857`, policy hits `4`
 - macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `0`
 
 ## Headlines
 
+- [crypto] US officials work with CrowdStrike to fight malware behind crypto theft (Cointelegraph.com News)
+- [crypto] DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South African airline behind daring stadium stunt cancels next flyby (BBC News)
 - [crypto] Coinbase launches regulated crypto derivatives in Canada (Cointelegraph.com News)
 - [macro] Uber shuts operations in Nigeria and Uganda with immediate effect (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] Brent oil price above $95 as Iran retaliates with strikes on U.S. Gulf allies (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Maltese tycoon acquitted of orchestrating murder of renowned journalist (BBC News)
-- [crypto] New Jersey officials petition US Supreme Court over prediction markets (Cointelegraph.com News)
-- [crypto] Wyoming adds Chainlink reserve verification to state-issued stable token (Cointelegraph.com News)
