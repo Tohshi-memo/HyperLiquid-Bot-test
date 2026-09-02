@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T06:22:30.185286+00:00`
+- Generated: `2026-09-02T06:37:25.134263+00:00`
 - Market context score: `41.79`
 - News risk score: `46.06`
 - Macro risk score: `22.99`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10746`
-- Day/swing latest: `2026-09-02T06:15:00+00:00`
+- Day/swing records: `10747`
+- Day/swing latest: `2026-09-02T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Iran attacks US bases in Middle East after reports US strike killed five at wedding party (BBC News)
 - [commodity] Oil major BP completes search for chair after boardroom upheaval (Energy)
 - [commodity] U.S. crude tops $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain (Energy)
 - [macro] South Korea jails disabled care home head for sexually assaulting residents (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes (Energy)
 - [crypto] OpenAI says its new 'Astra' AI can build attacks without human help (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] School uniform costs hit families, say charities (BBC News)
-- [macro] Will new uniform rules save parents money? (BBC News)
