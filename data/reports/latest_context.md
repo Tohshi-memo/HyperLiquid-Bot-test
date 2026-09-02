@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-02T04:37:24.425857+00:00`
-- Market context score: `37.52`
-- News risk score: `46.33`
+- Generated: `2026-09-02T04:52:25.028737+00:00`
+- Market context score: `34.12`
+- News risk score: `51.33`
 - Macro risk score: `28.67`
-- Risk-on score: `11.11`
+- Risk-on score: `7.78`
 - Articles: `27`
 - Polymarket markets: `391`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:132, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10739`
-- Day/swing latest: `2026-09-02T04:30:00+00:00`
+- Day/swing records: `10740`
+- Day/swing latest: `2026-09-02T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
+- crypto: articles `9`, risk hits `6`, risk headline rate `0.5556`, policy hits `0`
 - macro: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil rises following tit-for-tat strikes by the U.S. and Iran (Energy)
 - [crypto] Core DAO plans emergency hard fork after validators drew excess rewards (Cointelegraph.com News)
 - [macro] Iran retaliates after US strikes kill four at wedding party, state media reports (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group (BBC News)
 - [macro] UK long-term borrowing costs highest since 1998 ahead of October Budget (BBC News)
 - [crypto] SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Range Rover launches first fully electric model (BBC News)
