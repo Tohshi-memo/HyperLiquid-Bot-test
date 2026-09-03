@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T13:07:25.771378+00:00`
-- Market context score: `48.37`
+- Generated: `2026-09-03T13:22:28.364940+00:00`
+- Market context score: `47.94`
 - News risk score: `52.7`
 - Macro risk score: `26.39`
-- Risk-on score: `39.74`
+- Risk-on score: `38.79`
 - Articles: `80`
 - Polymarket markets: `390`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10867`
-- Day/swing latest: `2026-09-03T13:00:00+00:00`
+- Day/swing records: `10868`
+- Day/swing latest: `2026-09-03T13:15:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Stock Market Today: Dow Up On Fed Governor Remarks; Nvidia Rallies On Hugging Face Deal (Live Coverage) (Yahoo Finance)
+- [macro] Vance's Antichrist comments are a 'common belief', his friend tells BBC (BBC News)
 - [macro] Fed Governor Waller indicates he will support holding rates steady at September meeting (Economy)
-- [macro] Snowflake stock skyrockets as enterprise AI adoption powers 'flywheel' across cloud platform business (Yahoo Finance)
+- [macro] Snowflake stock skyrockets on AI-driven Q2 revenue jump (Yahoo Finance)
 - [macro] Major Drilling Group International Q1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Polestar Automotive Holding UK Q2 Earnings Call Highlights (Yahoo Finance)
 - [macro] Hello Group Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Nvidia Buying AI Platform Hugging Face For $12.9 Billion (Yahoo Finance)
+- [macro] Why NetApp Stock Is Falling Despite A Big Earnings Beat (Yahoo Finance)
 - [macro] Genesco Shares Climb After Q2 Earnings Beat as Journeys and Johnston & Murphy Continue to Drive Growth (Yahoo Finance)
-- [crypto] VARA, Securitize sign MoU for tokenization innovation in Dubai (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Berkshire Hathaway’s New CEO Warns Energy Will Be the Biggest Constraint on AI Data Centers (Yahoo Finance)
-- [macro] Feminist activist and journalist Gloria Steinem dies, aged 92 (BBC News)
