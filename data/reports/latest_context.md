@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T18:52:31.531308+00:00`
+- Generated: `2026-09-03T19:07:31.237383+00:00`
 - Market context score: `48.98`
 - News risk score: `47.38`
 - Macro risk score: `27.79`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10890`
-- Day/swing latest: `2026-09-03T18:45:00+00:00`
+- Day/swing records: `10891`
+- Day/swing latest: `2026-09-03T19:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention (Cointelegraph.com News)
 - [macro] Feminist activist and journalist Gloria Steinem dies, aged 92 (BBC News)
 - [crypto] Bybit Pay integrates with Mesh to expand crypto payments (Cointelegraph.com News)
 - [crypto] BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026 (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
 - [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
 - [macro] Palestinian teens killed during settler attack on West Bank village, officials say (BBC News)
-- [crypto] Crypto for Advisors: Why crypto earnings reports can be misleading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
