@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T13:22:28.364940+00:00`
-- Market context score: `47.94`
-- News risk score: `52.7`
-- Macro risk score: `26.39`
-- Risk-on score: `38.79`
-- Articles: `80`
+- Generated: `2026-09-03T13:37:38.066662+00:00`
+- Market context score: `46.48`
+- News risk score: `53.01`
+- Macro risk score: `28.83`
+- Risk-on score: `36.73`
+- Articles: `82`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10868`
-- Day/swing latest: `2026-09-03T13:15:00+00:00`
+- Day/swing records: `10869`
+- Day/swing latest: `2026-09-03T13:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `21`, risk hits `11`, risk headline rate `0.4286`, policy hits `2`
-- macro: articles `56`, risk hits `14`, risk headline rate `0.2143`, policy hits `9`
+- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `22`, risk hits `11`, risk headline rate `0.4091`, policy hits `2`
+- macro: articles `56`, risk hits `17`, risk headline rate `0.25`, policy hits `8`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Stock Market Today: Dow Up On Fed Governor Remarks; Nvidia Rallies On Hugging Face Deal (Live Coverage) (Yahoo Finance)
-- [macro] Vance's Antichrist comments are a 'common belief', his friend tells BBC (BBC News)
 - [macro] Fed Governor Waller indicates he will support holding rates steady at September meeting (Economy)
-- [macro] Snowflake stock skyrockets on AI-driven Q2 revenue jump (Yahoo Finance)
-- [macro] Major Drilling Group International Q1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Polestar Automotive Holding UK Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Hello Group Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Nvidia Buying AI Platform Hugging Face For $12.9 Billion (Yahoo Finance)
-- [macro] Why NetApp Stock Is Falling Despite A Big Earnings Beat (Yahoo Finance)
-- [macro] Genesco Shares Climb After Q2 Earnings Beat as Journeys and Johnston & Murphy Continue to Drive Growth (Yahoo Finance)
+- [crypto] Recovery specialists crack $1B crypto wallet... but find just $10 (Cointelegraph.com News)
+- [commodity] Brent oil price above $96 per barrel after Iran fires missiles at Kuwait (Energy)
+- [macro] Households warned gas price spike could pile fresh pressure on energy bills (BBC News)
+- [macro] Households warned gas price spike could pile fresh pressure on energy bills (BBC News)
+- [macro] Better Buy: XRP vs. Bitcoin (Yahoo Finance)
+- [macro] What Makes DoorDash (DASH) an Attractive Bet Amid AI Disruption Concerns (Yahoo Finance)
+- [macro] A Retiree With the Average $2,081 Check Needs Just $12,514 in Other Income Before the IRS Starts Taxing Social Security. That Line Hasn’t Moved Since 1984. (Yahoo Finance)
+- [macro] We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions? (Yahoo Finance)
+- [macro] Ichor Holdings COO Bruce Ragsdale Sells 10,587 Shares (Yahoo Finance)
