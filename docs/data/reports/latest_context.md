@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T12:22:29.384895+00:00`
-- Market context score: `50.39`
-- News risk score: `49.22`
-- Macro risk score: `24.23`
-- Risk-on score: `40.48`
-- Articles: `64`
+- Generated: `2026-09-03T12:37:27.814230+00:00`
+- Market context score: `46.9`
+- News risk score: `50.7`
+- Macro risk score: `25.59`
+- Risk-on score: `34.48`
+- Articles: `63`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10864`
-- Day/swing latest: `2026-09-03T12:15:00+00:00`
+- Day/swing records: `10865`
+- Day/swing latest: `2026-09-03T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `19`, risk hits `10`, risk headline rate `0.4211`, policy hits `1`
-- macro: articles `43`, risk hits `11`, risk headline rate `0.186`, policy hits `3`
+- crypto: articles `18`, risk hits `10`, risk headline rate `0.4444`, policy hits `1`
+- macro: articles `42`, risk hits `12`, risk headline rate `0.2143`, policy hits `3`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [policy] Waller, The Economic Outlook and Some Comments on My Policy Communication (FRB: Speeches)
+- [macro] Figure Technology CFO Sells 8,000 Shares (Yahoo Finance)
+- [macro] Visa upgrades A2A Protect to stop fraud before money moves (Yahoo Finance)
+- [macro] Moonshot AI confidentially files Hong Kong IPO targeting $3 billion (Yahoo Finance)
+- [macro] Why Super Micro Computer Stock Took Off in August (Yahoo Finance)
+- [macro] 'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets (Economy)
+- [macro] AMD is Quietly Eating Intel’s Lunch (Yahoo Finance)
+- [macro] For all their talk about AI, few companies are quantifying gains (Yahoo Finance)
 - [macro] Embattled Spanish PM insists there were no prior warnings before Ceuta crisis (BBC News)
-- [macro] QSR’s 20 Best Franchise Deals for 2026 (Yahoo Finance)
-- [macro] Fidelity's FIGB vs iShares' IEI: Which Bond ETF Wins? (Yahoo Finance)
-- [macro] Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rises As Treasury Yields Fall; Broadcom Falls On Earnings (Live Coverage) (Yahoo Finance)
-- [macro] Chemours (CC) Enters the AI Cooling Market with New Refrigerants (Yahoo Finance)
-- [macro] Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More (Yahoo Finance)
-- [macro] AppLovin’s Algorithmic Moat Is Vulnerable, Says Investor: Why $1.9B Quarterly Revenue Isn’t Enough to Justify a Buy (Yahoo Finance)
-- [macro] I Think iShares Bitcoin Trust (IBIT) Is the Best Bitcoin ETF to Buy Right Now (Yahoo Finance)
-- [macro] This Manufactured Home Player Is In A Buy Zone With A 5.5% Yield (Yahoo Finance)
+- [macro] Helios Technologies (HLIO) Drives Its Electronics Growth Story Off-Road (Yahoo Finance)
