@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T03:07:28.959536+00:00`
-- Market context score: `61.49`
-- News risk score: `37.27`
-- Macro risk score: `29.78`
-- Risk-on score: `57.15`
-- Articles: `40`
+- Generated: `2026-09-03T03:22:29.871304+00:00`
+- Market context score: `60.55`
+- News risk score: `38.48`
+- Macro risk score: `30.46`
+- Risk-on score: `56.35`
+- Articles: `38`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,19 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10827`
-- Day/swing latest: `2026-09-03T03:00:00+00:00`
+- Day/swing records: `10828`
+- Day/swing latest: `2026-09-03T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.2308`, policy hits `0`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `0`
+- crypto: articles `12`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long' (Energy)
 - [macro] EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany (BBC News)
-- [commodity] Kuwait fends off Iranian attack as Trump says renewed Mideast hostilities will not last 'too long' (Energy)
 - [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
 - [macro] South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing? (Economy)
 - [macro] Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one (BBC News)
