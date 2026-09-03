@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T20:37:31.926252+00:00`
+- Generated: `2026-09-03T20:52:28.830648+00:00`
 - Market context score: `50.02`
 - News risk score: `45.02`
 - Macro risk score: `26.27`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10897`
-- Day/swing latest: `2026-09-03T20:30:00+00:00`
+- Day/swing records: `10898`
+- Day/swing latest: `2026-09-03T20:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer (Economy)
 - [crypto] Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network (Cointelegraph.com News)
 - [commodity] Oil prices little changed after Iran fires missiles at Kuwait (Energy)
@@ -38,4 +39,3 @@
 - [macro] Feminist activist and journalist Gloria Steinem dies, aged 92 (BBC News)
 - [crypto] Bybit Pay integrates with Mesh to expand crypto payments (Cointelegraph.com News)
 - [crypto] BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026 (Cointelegraph.com News)
-- [macro] Nvidia strikes $12.9bn deal to buy AI platform Hugging Face (BBC News)
