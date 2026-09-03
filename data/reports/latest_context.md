@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T01:52:25.063319+00:00`
-- Market context score: `62.11`
+- Generated: `2026-09-03T02:07:29.720786+00:00`
+- Market context score: `62.28`
 - News risk score: `37.13`
-- Macro risk score: `28.0`
-- Risk-on score: `57.74`
-- Articles: `43`
+- Macro risk score: `27.48`
+- Risk-on score: `57.92`
+- Articles: `44`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10822`
-- Day/swing latest: `2026-09-03T01:45:00+00:00`
+- Day/swing records: `10823`
+- Day/swing latest: `2026-09-03T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `13`, risk hits `5`, risk headline rate `0.2308`, policy hits `0`
-- macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `0`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump $1 coin makes him first president on US currency in a century (BBC News)
 - [macro] South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing? (Economy)
 - [macro] Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one (BBC News)
 - [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Why wait? Business grads buying firms to install themselves as CEO (BBC News)
 - [macro] B&Q and Five Guys among firms that paid staff below minimum wage (BBC News)
 - [macro] Protests in Spain over government's handling of Ceuta migrant crisis (BBC News)
-- [crypto] US officials work with CrowdStrike to fight malware behind crypto theft (Cointelegraph.com News)
