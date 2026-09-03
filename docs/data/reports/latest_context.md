@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T12:52:27.741830+00:00`
-- Market context score: `49.96`
-- News risk score: `46.98`
-- Macro risk score: `23.56`
-- Risk-on score: `37.37`
-- Articles: `62`
+- Generated: `2026-09-03T13:07:25.771378+00:00`
+- Market context score: `48.37`
+- News risk score: `52.7`
+- Macro risk score: `26.39`
+- Risk-on score: `39.74`
+- Articles: `80`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10866`
-- Day/swing latest: `2026-09-03T12:45:00+00:00`
+- Day/swing records: `10867`
+- Day/swing latest: `2026-09-03T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `2`
-- macro: articles `41`, risk hits `10`, risk headline rate `0.1707`, policy hits `5`
+- crypto: articles `21`, risk hits `11`, risk headline rate `0.4286`, policy hits `2`
+- macro: articles `56`, risk hits `14`, risk headline rate `0.2143`, policy hits `9`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] B&Q and Five Guys among firms that paid staff below minimum wage (BBC News)
-- [macro] HPE raises fiscal 2026 sales forecast on AI server demand (Yahoo Finance)
-- [macro] Campbell's stock plunges as food maker slashes dividend after sales, profit declines (Yahoo Finance)
-- [macro] Something Is Happening With Alphabet Stock That Wall Street Isn’t Talking About (Yahoo Finance)
-- [macro] Treasuries Yield 4.75%—Does Realty Income’s Monthly Dividend Still Make Sense? (Yahoo Finance)
-- [macro] Chevron Commits $7 Billion to Venezuela to Double Production to 600,000 Barrels a Day (Yahoo Finance)
-- [macro] US business is improving “slowly”, Brown-Forman CEO says (Yahoo Finance)
 - [macro] Fed Governor Waller indicates he will support holding rates steady at September meeting (Economy)
-- [policy] Waller, The Economic Outlook and Some Comments on My Policy Communication (FRB: Speeches)
-- [macro] 'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets (Economy)
+- [macro] Snowflake stock skyrockets as enterprise AI adoption powers 'flywheel' across cloud platform business (Yahoo Finance)
+- [macro] Major Drilling Group International Q1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Polestar Automotive Holding UK Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Hello Group Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Genesco Shares Climb After Q2 Earnings Beat as Journeys and Johnston & Murphy Continue to Drive Growth (Yahoo Finance)
+- [crypto] VARA, Securitize sign MoU for tokenization innovation in Dubai (Cointelegraph.com News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Berkshire Hathaway’s New CEO Warns Energy Will Be the Biggest Constraint on AI Data Centers (Yahoo Finance)
+- [macro] Feminist activist and journalist Gloria Steinem dies, aged 92 (BBC News)
