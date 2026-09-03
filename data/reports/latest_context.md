@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T14:52:37.410370+00:00`
-- Market context score: `48.03`
-- News risk score: `50.13`
-- Macro risk score: `24.53`
-- Risk-on score: `36.1`
-- Articles: `89`
+- Generated: `2026-09-03T15:07:32.546284+00:00`
+- Market context score: `48.6`
+- News risk score: `49.2`
+- Macro risk score: `25.46`
+- Risk-on score: `36.95`
+- Articles: `92`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10874`
-- Day/swing latest: `2026-09-03T14:45:00+00:00`
+- Day/swing records: `10875`
+- Day/swing latest: `2026-09-03T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `23`, risk hits `11`, risk headline rate `0.3913`, policy hits `3`
-- macro: articles `62`, risk hits `12`, risk headline rate `0.1613`, policy hits `10`
+- crypto: articles `25`, risk hits `11`, risk headline rate `0.36`, policy hits `3`
+- macro: articles `63`, risk hits `13`, risk headline rate `0.1746`, policy hits `11`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Palestinian teens killed during settler attack on West Bank village, officials say (BBC News)
+- [crypto] Crypto for Advisors: Why crypto earnings reports can be misleading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Accrual to acquire Puzzle’s accounting firm business and software (Yahoo Finance)
+- [macro] Japanese Yen Extends Gains Versus Weaker U.S. Dollar (Yahoo Finance)
+- [macro] Social Security: See what's really changing in 2027 (Yahoo Finance)
+- [macro] This Fund Bought Moderna Before It Nearly Tripled. See Its 2 New Stock Picks (Yahoo Finance)
 - [crypto] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' (Energy)
-- [macro] Diversified strikes $1.8bn deal for Permian operator Birch (Yahoo Finance)
-- [macro] Amazon.com vs. DraftKings: Which Consumer Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] Ciena Earnings Beat. Why This AI Data Center Play Is Falling. (Yahoo Finance)
-- [macro] Tesla’s Impossible Comeback (Yahoo Finance)
-- [macro] No Trust, No Lawyer, No Form: A Couple With Three Married Kids and Six Grandkids Can Move $456,000 Out of Their Estate Every Single Year (Yahoo Finance)
-- [macro] Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI (Yahoo Finance)
-- [macro] PowerBank Wins NYPA Contract for 1.6 MW SUNY Oneonta Solar Project (Yahoo Finance)
-- [macro] “Schrodinger’s Strait:” Why Hormuz Now Exists in a State of Permanent Uncertainty (Yahoo Finance)
+- [macro] Dell Just Jumped 16% and One Strategist Says That Is the Whole Tech Argument Right Now (Yahoo Finance)
+- [macro] Campbell’s Cuts 13% of Workforce in Effort to Turn Around Struggling Operations (Yahoo Finance)
