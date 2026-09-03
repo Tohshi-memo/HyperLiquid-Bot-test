@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T17:37:28.029477+00:00`
-- Market context score: `48.88`
-- News risk score: `51.62`
-- Macro risk score: `28.11`
-- Risk-on score: `40.61`
-- Articles: `88`
+- Generated: `2026-09-03T17:52:36.018312+00:00`
+- Market context score: `51.0`
+- News risk score: `50.35`
+- Macro risk score: `25.74`
+- Risk-on score: `43.35`
+- Articles: `86`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10885`
-- Day/swing latest: `2026-09-03T17:30:00+00:00`
+- Day/swing records: `10886`
+- Day/swing latest: `2026-09-03T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `26`, risk hits `12`, risk headline rate `0.3846`, policy hits `4`
-- macro: articles `58`, risk hits `16`, risk headline rate `0.2241`, policy hits `12`
+- macro: articles `56`, risk hits `13`, risk headline rate `0.1964`, policy hits `7`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Bybit Pay integrates with Mesh to expand crypto payments (Cointelegraph.com News)
-- [macro] Dow rises 635 points on Fed rate-hold hopes, Sep. 3, 2026 (Yahoo Finance)
-- [macro] Why The Metals Company Stock Soared in August (Yahoo Finance)
-- [macro] Nvidia, Tesla, Robinhood, Snowflake, Ultragenyx, Ciena, and More Stocks That Explain Today’s Market (Yahoo Finance)
-- [macro] CEO Who Just Sold His Data Center Firm to SoftBank for $4 Billion Is Warning of a Late 1990s Moment (Yahoo Finance)
-- [macro] Genesco Inc. Q2 2027 Earnings Call Summary (Yahoo Finance)
-- [crypto] BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026 (Cointelegraph.com News)
-- [macro] Wall Street Nears Record Highs With Help From Mag 7 (Yahoo Finance)
-- [macro] Economist Paul Krugman Says Kevin Warsh "Sounded Utterly Conventional" at Jackson Hole, Despite Promising a Break From Fed Tradition. Does That Continuity Mean Rate Policy Won't Change Much Under Him? (Yahoo Finance)
-- [macro] Amber International Holding Ltd Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] A new wave of VC funds bets on female founders (Yahoo Finance)
+- [macro] I'm Calling It: Bloom Energy's Revenue Guidance Will Keep Surprising Wall Street Through Year-End (Yahoo Finance)
+- [macro] MongoDB missed one number and investors punished the stock (Yahoo Finance)
+- [macro] Bitcoin tops $80,000: 'Crypto winter is close to being over' (Yahoo Finance)
+- [macro] Crude oil nears $97 a barrel, diesel at highest since 2022 (Yahoo Finance)
+- [macro] Jim Cramer Explains Why He Isn’t Ready to Pull the Trigger on Marvell (MRVL) Stock Yet (Yahoo Finance)
+- [macro] Prediction: Pepsi Stock Could Surprise Wall Street in 2027 (Yahoo Finance)
+- [macro] Billionaire sounds alarm on ‘hidden tax’ draining wealth (Yahoo Finance)
+- [macro] Ciena Corporation Q3 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] Jim Cramer is Bullish on Palo Alto (PANW) After Earnings Report (Yahoo Finance)
