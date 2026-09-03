@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T05:52:34.365694+00:00`
-- Market context score: `67.7`
-- News risk score: `31.0`
-- Macro risk score: `19.74`
-- Risk-on score: `61.86`
+- Generated: `2026-09-03T06:07:30.619818+00:00`
+- Market context score: `66.6`
+- News risk score: `32.08`
+- Macro risk score: `21.89`
+- Risk-on score: `61.14`
 - Articles: `38`
 - Polymarket markets: `390`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10838`
-- Day/swing latest: `2026-09-03T05:45:00+00:00`
+- Day/swing records: `10839`
+- Day/swing latest: `2026-09-03T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `25`, risk hits `2`, risk headline rate `0.08`, policy hits `1`
+- macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `1`
 
 ## Headlines
 
-- [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
-- [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
 - [commodity] Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' (Energy)
+- [macro] UN warns of 'supersized' El Nino as countries prepare for impact (BBC News)
+- [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
+- [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
 - [macro] Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage (BBC News)
 - [macro] Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply (BBC News)
 - [crypto] Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hyperscale Data ends Michigan BTC mining as holdings fall 79% (Cointelegraph.com News)
 - [crypto] Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
 - [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
