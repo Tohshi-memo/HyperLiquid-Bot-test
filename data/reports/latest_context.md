@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T02:07:29.720786+00:00`
-- Market context score: `62.28`
-- News risk score: `37.13`
-- Macro risk score: `27.48`
-- Risk-on score: `57.92`
-- Articles: `44`
+- Generated: `2026-09-03T02:22:26.417274+00:00`
+- Market context score: `62.98`
+- News risk score: `36.13`
+- Macro risk score: `26.48`
+- Risk-on score: `58.25`
+- Articles: `42`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10823`
-- Day/swing latest: `2026-09-03T02:00:00+00:00`
+- Day/swing records: `10824`
+- Day/swing latest: `2026-09-03T02:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `6`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `13`, risk hits `5`, risk headline rate `0.2308`, policy hits `0`
 - macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
-- [macro] Trump $1 coin makes him first president on US currency in a century (BBC News)
+- [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
 - [macro] South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing? (Economy)
 - [macro] Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one (BBC News)
 - [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
