@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-03T17:20:32.551996+00:00`
+- Generated: `2026-09-03T17:25:35.448730+00:00`
 - Flow alert score: `24.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,7 +13,7 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1806604.453440002` | liquidity: `349778.9038`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1806604.453440002` | liquidity: `349545.8038`
 - Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `1689297.8432` | liquidity: `2184639.50982`
 - Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `1332242.378711` | liquidity: `2150247.3971`
 - Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1298246.5190220003` | liquidity: `332544.1591`
