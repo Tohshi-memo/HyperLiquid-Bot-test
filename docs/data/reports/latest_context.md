@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T03:52:37.727560+00:00`
-- Market context score: `60.71`
-- News risk score: `38.67`
-- Macro risk score: `28.8`
-- Risk-on score: `56.22`
-- Articles: `36`
+- Generated: `2026-09-03T04:07:26.669414+00:00`
+- Market context score: `61.34`
+- News risk score: `38.05`
+- Macro risk score: `27.56`
+- Risk-on score: `56.63`
+- Articles: `38`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10830`
-- Day/swing latest: `2026-09-03T03:45:00+00:00`
+- Day/swing records: `10831`
+- Day/swing latest: `2026-09-03T04:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
+- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `11`, risk hits `5`, risk headline rate `0.2727`, policy hits `0`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `0`
 
 ## Headlines
 
@@ -32,9 +32,9 @@
 - [commodity] Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long' (Energy)
 - [macro] EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany (BBC News)
 - [macro] South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing? (Economy)
+- [macro] Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal? (BBC News)
 - [macro] Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one (BBC News)
 - [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
+- [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
 - [macro] 'I don't even like them': How much should you give to office gift collections? (BBC News)
-- [macro] How Victoria Beckham turned her fashion firm around and made it profitable (BBC News)
-- [commodity] PG&E CEO calls on California to pass wildfire reform after the shelved effort crushed the stock (Energy)
-- [macro] Why wait? Business grads buying firms to install themselves as CEO (BBC News)
+- [macro] 'I don't even like them': How much should you give to office gift collections? (BBC News)
