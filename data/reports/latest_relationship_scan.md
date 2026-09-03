@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-09-03T01:22:27.989774+00:00`
+- Generated: `2026-09-03T01:25:29.592257+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -25,26 +25,26 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `risk_on_high->equity_24h` score `5.7223` n `107` status `ready` deltaP `25.0909` edge `0.7241` maxDD `-19.828`
-- `risk_on_and_context->equity_24h` score `5.7223` n `107` status `ready` deltaP `25.0909` edge `0.7241` maxDD `-19.828`
+- `risk_on_high->equity_24h` score `5.7247` n `107` status `ready` deltaP `25.0909` edge `0.7243` maxDD `-19.828`
+- `risk_on_and_context->equity_24h` score `5.7247` n `107` status `ready` deltaP `25.0909` edge `0.7243` maxDD `-19.828`
 - `risk_on_high->unknown_4h` score `5.4259` n `107` status `ready` deltaP `18.2386` edge `0.3924` maxDD `-2.2797`
 - `risk_on_and_context->unknown_4h` score `5.4259` n `107` status `ready` deltaP `18.2386` edge `0.3924` maxDD `-2.2797`
 - `market_context_high->unknown_4h` score `3.5066` n `147` status `ready` deltaP `13.9726` edge `0.2686` maxDD `-2.563`
-- `news_risk_high->equity_24h` score `2.7224` n `59` status `ready` deltaP `11.0405` edge `0.4` maxDD `-15.4056`
-- `risk_on_high->crypto_alt_24h` score `2.2904` n `107` status `ready` deltaP `21.2568` edge `0.8423` maxDD `-42.8959`
-- `risk_on_and_context->crypto_alt_24h` score `2.2904` n `107` status `ready` deltaP `21.2568` edge `0.8423` maxDD `-42.8959`
-- `news_risk_high->crypto_alt_24h` score `2.2615` n `59` status `ready` deltaP `21.1776` edge `0.4422` maxDD `-19.4761`
-- `market_context_high->equity_24h` score `2.0649` n `147` status `ready` deltaP `21.0601` edge `0.6052` maxDD `-24.4698`
+- `news_risk_high->equity_24h` score `2.7248` n `59` status `ready` deltaP `11.0405` edge `0.4002` maxDD `-15.4056`
+- `risk_on_high->crypto_alt_24h` score `2.2897` n `107` status `ready` deltaP `21.2568` edge `0.8422` maxDD `-42.8959`
+- `risk_on_and_context->crypto_alt_24h` score `2.2897` n `107` status `ready` deltaP `21.2568` edge `0.8422` maxDD `-42.8959`
+- `news_risk_high->crypto_alt_24h` score `2.2607` n `59` status `ready` deltaP `21.1776` edge `0.4421` maxDD `-19.4761`
+- `market_context_high->equity_24h` score `2.0664` n `147` status `ready` deltaP `21.0601` edge `0.6054` maxDD `-24.4698`
 - `news_risk_high->crypto_major_24h` score `0.9207` n `59` status `ready` deltaP `14.348` edge `0.4194` maxDD `-30.7329`
 - `risk_on_high->crypto_major_24h` score `0.4461` n `107` status `ready` deltaP `20.6841` edge `0.7937` maxDD `-56.9519`
 - `risk_on_and_context->crypto_major_24h` score `0.4461` n `107` status `ready` deltaP `20.6841` edge `0.7937` maxDD `-56.9519`
-- `market_context_high->crypto_alt_24h` score `0.4372` n `147` status `ready` deltaP `15.2742` edge `0.7041` maxDD `-46.3234`
+- `market_context_high->crypto_alt_24h` score `0.4364` n `147` status `ready` deltaP `15.2742` edge `0.704` maxDD `-46.3234`
 - `market_context_high->crypto_major_24h` score `0.2836` n `147` status `ready` deltaP `23.7104` edge `0.8247` maxDD `-61.3797`
 - `news_risk_high->commodity_4h` score `0.2206` n `67` status `ready` deltaP `5.4901` edge `0.0276` maxDD `-0.8733`
 - `risk_on_high->index_1h` score `0.108` n `107` status `ready` deltaP `8.0936` edge `0.0044` maxDD `-0.5605`
 - `risk_on_and_context->index_1h` score `0.108` n `107` status `ready` deltaP `8.0936` edge `0.0044` maxDD `-0.5605`
-- `risk_on_high->index_4h` score `0.0613` n `107` status `ready` deltaP `19.5635` edge `0.0105` maxDD `-3.6448`
-- `risk_on_and_context->index_4h` score `0.0613` n `107` status `ready` deltaP `19.5635` edge `0.0105` maxDD `-3.6448`
+- `risk_on_high->index_4h` score `0.07` n `107` status `ready` deltaP `19.7159` edge `0.0106` maxDD `-3.6448`
+- `risk_on_and_context->index_4h` score `0.07` n `107` status `ready` deltaP `19.7159` edge `0.0106` maxDD `-3.6448`
 
 ## Guardrails
 
