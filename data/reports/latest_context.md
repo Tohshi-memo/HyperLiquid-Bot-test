@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T14:22:33.669503+00:00`
-- Market context score: `48.86`
-- News risk score: `50.77`
-- Macro risk score: `24.27`
-- Risk-on score: `38.39`
+- Generated: `2026-09-03T14:37:31.519735+00:00`
+- Market context score: `47.41`
+- News risk score: `50.49`
+- Macro risk score: `23.65`
+- Risk-on score: `34.7`
 - Articles: `88`
 - Polymarket markets: `390`
 
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10872`
-- Day/swing latest: `2026-09-03T14:15:00+00:00`
+- Day/swing records: `10873`
+- Day/swing latest: `2026-09-03T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `22`, risk hits `11`, risk headline rate `0.4091`, policy hits `2`
-- macro: articles `62`, risk hits `12`, risk headline rate `0.1613`, policy hits `8`
+- crypto: articles `22`, risk hits `11`, risk headline rate `0.4091`, policy hits `3`
+- macro: articles `62`, risk hits `11`, risk headline rate `0.1452`, policy hits `10`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face (Yahoo Finance)
-- [macro] Fed Governor Waller indicates he will support holding rates steady at September meeting (Economy)
-- [macro] Whole Foods CEO bets on smaller stores and the latest Amazon tech to win over shoppers (Yahoo Finance)
-- [macro] Better Stock: Lucid vs. Rivian (Hint: It's All About Shareholder Dilution) (Yahoo Finance)
-- [macro] Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck (Yahoo Finance)
-- [macro] Ermenegildo Zegna H1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Genesco Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Brady Q4 Earnings Call Highlights (Yahoo Finance)
-- [macro] Lands' End Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Amber International Q2 Earnings Call Highlights (Yahoo Finance)
+- [commodity] Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' (Energy)
+- [macro] Ciena Earnings Beat. Why This AI Data Center Play Is Falling. (Yahoo Finance)
+- [macro] Tesla’s Impossible Comeback (Yahoo Finance)
+- [macro] No Trust, No Lawyer, No Form: A Couple With Three Married Kids and Six Grandkids Can Move $456,000 Out of Their Estate Every Single Year (Yahoo Finance)
+- [macro] Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI (Yahoo Finance)
+- [macro] “Schrodinger’s Strait:” Why Hormuz Now Exists in a State of Permanent Uncertainty (Yahoo Finance)
+- [macro] Andvari Associates Strategic Investment in Martin Marietta Materials (MLM) (Yahoo Finance)
+- [macro] Snowflake Soars 23% as AI-Fueled Guidance Raise Tops Estimates, Oracle Advances 3%, Cloudflare Edges Higher (Yahoo Finance)
+- [macro] Binance Founder ‘CZ’ Says Capital Is Returning To Crypto Market (Yahoo Finance)
+- [macro] Palantir CEO just made bet that could reshape defense-tech race (Yahoo Finance)
