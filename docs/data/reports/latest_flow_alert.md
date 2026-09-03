@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-03T01:30:27.009514+00:00`
-- Flow alert score: `18.64`
+- Generated: `2026-09-03T01:35:28.592088+00:00`
+- Flow alert score: `18.48`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11210827.84`
-- Polymarket volume z-score: `0.41`
+- Polymarket 24h volume: `11102884.12`
+- Polymarket volume z-score: `0.37`
 
 ## Top Polymarket Markets
 
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `1682666.3888` | liquidity: `2219323.83492`
-- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `1332078.772139` | liquidity: `1669712.63369`
-- Will Nikki Haley win the 2028 US Presidential Election? | 24h volume: `1156024.652` | liquidity: `2268905.19255`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `899568.0397290005` | liquidity: `565948.4591`
-- Will Elon Musk win the 2028 US Presidential Election? | 24h volume: `812208.6911640001` | liquidity: `1784593.26408`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `718465.0104399998` | liquidity: `660846.2146`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `526082.0102229998` | liquidity: `1246458.34357`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `368342.7617909999` | liquidity: `1138779.66385`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `1682664.811` | liquidity: `2226380.09092`
+- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `1332078.772139` | liquidity: `1670351.05784`
+- Will Nikki Haley win the 2028 US Presidential Election? | 24h volume: `1156024.652` | liquidity: `2268450.70855`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `892239.3979640007` | liquidity: `565823.8918`
+- Will Elon Musk win the 2028 US Presidential Election? | 24h volume: `812203.661164` | liquidity: `1782793.26408`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `718929.0657349996` | liquidity: `660610.5734`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `485456.6952229998` | liquidity: `1251092.24507`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `362634.04179099994` | liquidity: `1143521.16385`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
