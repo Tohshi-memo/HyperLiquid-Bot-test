@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-03T03:37:26.070553+00:00`
+- Generated: `2026-09-03T03:52:37.727560+00:00`
 - Market context score: `60.71`
 - News risk score: `38.67`
 - Macro risk score: `28.8`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10829`
-- Day/swing latest: `2026-09-03T03:30:00+00:00`
+- Day/swing records: `10830`
+- Day/swing latest: `2026-09-03T03:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
 - [commodity] Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long' (Energy)
 - [macro] EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany (BBC News)
-- [macro] Trump $1 coin makes him first living president on US currency in a century (BBC News)
 - [macro] South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing? (Economy)
 - [macro] Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one (BBC News)
 - [macro] Almost half of households do not see benefits of economic growth, report says (BBC News)
