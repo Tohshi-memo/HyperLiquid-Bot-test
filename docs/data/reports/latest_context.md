@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T11:22:28.062952+00:00`
-- Market context score: `57.0`
-- News risk score: `36.08`
-- Macro risk score: `29.83`
-- Risk-on score: `46.19`
-- Articles: `44`
+- Generated: `2026-09-04T11:29:39.022621+00:00`
+- Market context score: `58.58`
+- News risk score: `34.42`
+- Macro risk score: `27.0`
+- Risk-on score: `47.22`
+- Articles: `45`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,13 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `17`, risk hits `4`, risk headline rate `0.1765`, policy hits `1`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.2083`, policy hits `6`
+- crypto: articles `18`, risk hits `4`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `24`, risk hits `5`, risk headline rate `0.1667`, policy hits `4`
 
 ## Headlines
 
+- [macro] UK support for Falkland Islands 'unwavering', Number 10 says (BBC News)
+- [crypto] Trezor says data breach affects another 67K US customers (Cointelegraph.com News)
 - [macro] US diesel prices hit an all-time-high (BBC News)
 - [macro] US diesel prices hit an all-time-high (BBC News)
 - [crypto] South Korean regulators introduce tokenized securities roadmap (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect (BBC News)
 - [crypto] Bitcoin clears $81,000 as privacy coins lead a broad crypto rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] AMC chief criticizes Robinhood’s tokenized stock plan (Cointelegraph.com News)
-- [crypto] IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] South Korea targets February 2027 rollout for full tokenized securities market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
