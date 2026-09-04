@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T14:37:30.492588+00:00`
-- Market context score: `52.14`
-- News risk score: `45.8`
-- Macro risk score: `32.31`
-- Risk-on score: `44.53`
-- Articles: `75`
-- Polymarket markets: `391`
+- Generated: `2026-09-04T14:52:31.671880+00:00`
+- Market context score: `53.23`
+- News risk score: `44.69`
+- Macro risk score: `30.49`
+- Risk-on score: `45.31`
+- Articles: `71`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10969`
-- Day/swing latest: `2026-09-04T14:30:00+00:00`
+- Day/swing records: `10970`
+- Day/swing latest: `2026-09-04T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `1`
-- macro: articles `47`, risk hits `13`, risk headline rate `0.2553`, policy hits `12`
+- macro: articles `43`, risk hits `11`, risk headline rate `0.2093`, policy hits `15`
 
 ## Headlines
 
-- [crypto] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% (Economy)
-- [macro] Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect (BBC News)
-- [macro] The big business of personal protection: How private security became a $50 billion industry (Economy)
-- [crypto] U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Nobody Plans to Retire Alone in Florida. Here’s What It Costs When It Happens (Yahoo Finance)
-- [macro] AMC Rises 6% as CEO Blasts Tokenized Shares, Robinhood Slips (Yahoo Finance)
-- [macro] Bass Oil confirms new oil pay at Bunian 6 in Indonesia (Yahoo Finance)
-- [macro] Here's how 6 Americans became 401(k) millionaires (Yahoo Finance)
-- [macro] Potential Earnings Upside Strengthens RH (RH) (Yahoo Finance)
+- [macro] 'A rare moment of joy': Nepal tunnel rescues give hope for more flood survivors (BBC News)
+- [macro] Surprisingly strong US jobs figures fuel rate rise bets (BBC News)
+- [macro] Podcast: Tenzing eyes “functional” benefits as next phase in UK energy-drinks push (Yahoo Finance)
+- [macro] Qualcomm Lost a Third of Its Value in 3 Months. One Wall Street Pro Sees 140% Upside From Here (Yahoo Finance)
+- [macro] Diamond Hill Bets on BioLife Solutions’ (BLFS) High Switching Cost (Yahoo Finance)
+- [macro] Maryland woman met a man, moved into his home and vowed to invest his $400K — then blew it on casinos and a $55K car (Yahoo Finance)
+- [macro] Diamond Hill Stays Focused on Silvercrest (SAMG) Despite Profitability Pressures (Yahoo Finance)
+- [macro] Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out (Live Coverage) (Yahoo Finance)
+- [macro] Trump Issues Stark Threat To Federal Reserve: “Lower The Rate Or I’ll Stop Trading With Countries With Which We Have A Deficit” (Yahoo Finance)
+- [macro] Azets adds two new directors to debt advisory team (Yahoo Finance)
