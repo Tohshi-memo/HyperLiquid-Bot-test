@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T14:22:26.593150+00:00`
-- Market context score: `53.18`
-- News risk score: `44.27`
-- Macro risk score: `32.35`
-- Risk-on score: `45.57`
-- Articles: `74`
+- Generated: `2026-09-04T14:37:30.492588+00:00`
+- Market context score: `52.14`
+- News risk score: `45.8`
+- Macro risk score: `32.31`
+- Risk-on score: `44.53`
+- Articles: `75`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10968`
-- Day/swing latest: `2026-09-04T14:15:00+00:00`
+- Day/swing records: `10969`
+- Day/swing latest: `2026-09-04T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `23`, risk hits `5`, risk headline rate `0.1739`, policy hits `1`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `1`
 - macro: articles `47`, risk hits `13`, risk headline rate `0.2553`, policy hits `12`
 
 ## Headlines
 
+- [crypto] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% (Economy)
 - [macro] Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect (BBC News)
 - [macro] The big business of personal protection: How private security became a $50 billion industry (Economy)
@@ -37,4 +38,3 @@
 - [macro] Bass Oil confirms new oil pay at Bunian 6 in Indonesia (Yahoo Finance)
 - [macro] Here's how 6 Americans became 401(k) millionaires (Yahoo Finance)
 - [macro] Potential Earnings Upside Strengthens RH (RH) (Yahoo Finance)
-- [macro] Cramer shares 3 moves to protect from rising rates and oil prices (Yahoo Finance)
