@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T15:22:30.349772+00:00`
-- Market context score: `53.85`
-- News risk score: `44.08`
-- Macro risk score: `28.92`
-- Risk-on score: `45.59`
-- Articles: `82`
+- Generated: `2026-09-04T15:37:26.795731+00:00`
+- Market context score: `55.94`
+- News risk score: `41.96`
+- Macro risk score: `27.71`
+- Risk-on score: `48.0`
+- Articles: `79`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10972`
-- Day/swing latest: `2026-09-04T15:15:00+00:00`
+- Day/swing records: `10973`
+- Day/swing latest: `2026-09-04T15:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `1`
-- macro: articles `53`, risk hits `12`, risk headline rate `0.1887`, policy hits `10`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
+- macro: articles `52`, risk hits `10`, risk headline rate `0.1731`, policy hits `11`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [commodity] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries (Energy)
-- [macro] Charles Schwab, Robinhood In Or Near Buy Zones But Interactive Brokers Triggers A Sell Signal (Yahoo Finance)
-- [macro] Meet the Low-Cost ETF That Solves the Vanguard Morningstar Value ETF's Biggest Flaw. Here's Why It's a Magnificent Buy in September. (Yahoo Finance)
-- [macro] GLOBALFOUNDRIES (GFS) Surged on Robust CID Growth and Dividend Announcement (Yahoo Finance)
-- [macro] ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive? (Yahoo Finance)
-- [macro] High Capital Requirements and Operational Challenges Weighed On Chevron Corporation (CVX) (Yahoo Finance)
-- [macro] KNOT Offshore Partners Q2 Earnings Call Highlights (Yahoo Finance)
-- [macro] SanDisk Rises 8%, Micron Gains 5%: Is the NAND Pricing Cycle Still Accelerating? (Yahoo Finance)
-- [macro] A Career Change in 2026 Could Cost More Than You Think — Here’s Why (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Slips On Surprise Jobs Report; Chip Name Extends Losing Streak (Live Coverage) (Yahoo Finance)
+- [macro] Ballard Power (BLDP) Bought GeoPura at an Enterprise Value of About $400M. Can Recurring Revenue Justify the 14% Pro Forma Stake? (Yahoo Finance)
+- [macro] After an 80% Gain on the Year, Is Palo Alto Networks Stock a Buy on Its Recent Pullback as Revenue Surges? (Yahoo Finance)
+- [macro] Energy Fuels (UUUU) Added Rare-Earth Alloy Production for About $243M. Can it Execute a Mine-to-Magnet Strategy? (Yahoo Finance)
+- [macro] Hinge Health Director Kristina Leslie Sells 1,200 Shares for $105,876 (Yahoo Finance)
+- [macro] PG&E (PCG) Sub Says California’s Wildfire Bill Leaves Financing Risk Unresolved. What Protection Is Still Missing? (Yahoo Finance)
+- [macro] Aurora Innovation (AUR) Partners with McLane Company to Launch Driverless Commercial Hauls (Yahoo Finance)
+- [macro] Acquisition Premium Injects Immediate Boost into MGM Resorts International (MGM) Shares (Yahoo Finance)
+- [macro] Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds (Yahoo Finance)
+- [macro] Robust Results and Share Repurchase Authorization Boosted ACV Auctions (ACVA) (Yahoo Finance)
+- [macro] S&P 500 investors may be more exposed to the AI trade than they think (Yahoo Finance)
