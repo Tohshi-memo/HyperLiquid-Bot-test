@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T13:07:27.739359+00:00`
+- Generated: `2026-09-04T13:22:30.946457+00:00`
 - Market context score: `53.6`
 - News risk score: `38.85`
 - Macro risk score: `35.56`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10963`
-- Day/swing latest: `2026-09-04T13:00:00+00:00`
+- Day/swing records: `10964`
+- Day/swing latest: `2026-09-04T13:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Hospitality and education boosts US job creation in August (BBC News)
 - [macro] UK petrol prices hit highest level since Iran war began (BBC News)
 - [macro] Body of world's youngest traditional king returns home to Uganda amid succession row (BBC News)
-- [macro] Hospitality and education boosts US job creation in August (BBC News)
 - [macro] U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% (Economy)
 - [commodity] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries (Energy)
 - [macro] 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC (BBC News)
