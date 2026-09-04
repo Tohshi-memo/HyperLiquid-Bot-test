@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T19:52:27.481157+00:00`
+- Generated: `2026-09-04T20:07:26.522750+00:00`
 - Market context score: `52.01`
 - News risk score: `40.33`
 - Macro risk score: `37.18`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10988`
-- Day/swing latest: `2026-09-04T19:45:00+00:00`
+- Day/swing records: `10989`
+- Day/swing latest: `2026-09-04T20:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Trump's peace envoys to visit Moscow and Kyiv over weekend (BBC News)
 - [macro] UN votes to adopt new world map to reflect Africa's true size (BBC News)
 - [crypto] Pineapple Financial puts $1B in mortgage records on Injective (Cointelegraph.com News)
 - [crypto] FinCEN ties $13B in crypto scams to non-US operations (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Crypto Biz: AI took a back seat when Bitcoin started climbing (Cointelegraph.com News)
 - [macro] U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% (Economy)
 - [macro] Argentine couple to return Nazi-looted painting to rightful owner (BBC News)
-- [crypto] QuFi launches post-quantum verification platform with Bitcoin testnet proof (Cointelegraph.com News)
