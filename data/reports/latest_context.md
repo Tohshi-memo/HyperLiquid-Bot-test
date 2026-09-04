@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T00:37:23.500439+00:00`
-- Market context score: `54.67`
-- News risk score: `36.29`
-- Macro risk score: `23.85`
-- Risk-on score: `38.93`
-- Articles: `44`
+- Generated: `2026-09-04T00:52:25.716497+00:00`
+- Market context score: `54.88`
+- News risk score: `33.77`
+- Macro risk score: `24.3`
+- Risk-on score: `37.44`
+- Articles: `42`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10913`
-- Day/swing latest: `2026-09-04T00:30:00+00:00`
+- Day/swing records: `10914`
+- Day/swing latest: `2026-09-04T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.12`, policy hits `3`
+- crypto: articles `15`, risk hits `4`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.125`, policy hits `3`
 
 ## Headlines
 
-- [macro] Volkswagen board approves plan to cut 100,000 jobs (BBC News)
+- [macro] Volkswagen board approves plan to cut another 50,000 jobs (BBC News)
 - [macro] 'I lost my savings after a job interview scam' (BBC News)
 - [crypto] Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express (Cointelegraph.com News)
 - [macro] Is India's internet boom running into an undersea problem? (BBC News)
