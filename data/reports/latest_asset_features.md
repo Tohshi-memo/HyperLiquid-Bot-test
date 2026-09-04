@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-09-04T13:37:28.191211+00:00`
-- Observed: `2026-09-04T13:30:00+00:00`
+- Generated: `2026-09-04T13:52:30.489765+00:00`
+- Observed: `2026-09-04T13:45:00+00:00`
 - Assets: `1230`
 
 ## Top Activity
 
-- `#12620` unknown price `0.06106` 4h `-87.7892` vol `0.0` relationship `risk_on_high->#12620_4h`
-- `#12880` unknown price `0.3093` 4h `14.5938` vol `0.0` relationship `market_context_high->#12880_24h`
-- `#12610` unknown price `0.930235` 4h `102.595` vol `0.0` relationship `market_context_high->#12610_24h`
-- `#12640` unknown price `0.934085` 4h `36.3887` vol `0.0` relationship `risk_on_high->#12640_24h`
-- `SKR` crypto_alt price `0.020843` 4h `-9.9149` vol `3394814.98` relationship `risk_on_high->SKR_24h`
+- `#12620` unknown price `0.038125` 4h `-5.1381` vol `0.0` relationship `risk_on_high->#12620_4h`
+- `#12880` unknown price `0.3093` 4h `13.4068` vol `0.0` relationship `market_context_high->#12880_24h`
+- `#12610` unknown price `0.47853` 4h `-47.4244` vol `0.0` relationship `market_context_high->#12610_24h`
+- `#12640` unknown price `0.684875` 4h `-25.8677` vol `0.0` relationship `risk_on_high->#12640_24h`
+- `SKR` crypto_alt price `0.020822` 4h `-15.5739` vol `3386481.91` relationship `risk_on_high->SKR_24h`
 - `@198` unknown price `0.3185` 4h `0.0` vol `0.0` relationship `market_context_high->@198_4h`
-- `#12611` unknown price `0.069765` 4h `-87.1006` vol `0.0` relationship `market_context_high->#12611_1h`
-- `PONS` crypto_alt price `0.716575` 4h `3.9893` vol `106231687.61` relationship `market_context_high->PONS_24h`
-- `@698` unknown price `0.031079` 4h `-35.766` vol `0.0` relationship `market_context_high->@698_24h`
-- `@219` unknown price `0.04348` 4h `0.8396` vol `0.0` relationship `market_context_high->@219_24h`
+- `#12611` unknown price `0.52147` 4h `480.5399` vol `0.0` relationship `market_context_high->#12611_1h`
+- `PONS` crypto_alt price `0.724025` 4h `7.2908` vol `106581402.98` relationship `market_context_high->PONS_24h`
+- `@698` unknown price `0.047388` 4h `-3.1831` vol `0.0` relationship `market_context_high->@698_24h`
+- `@219` unknown price `0.043502` 4h `0.3437` vol `0.0` relationship `market_context_high->@219_24h`
 - `@145` unknown price `1.4e-05` 4h `0.0` vol `0.0` relationship `risk_on_high->@145_24h`
-- `#12630` unknown price `0.97354` 4h `0.2988` vol `0.0` relationship `risk_on_high->#12630_4h`
-- `0G` crypto_alt price `0.186215` 4h `-1.4866` vol `497079.7` relationship `risk_on_high->0G_24h`
-- `#12510` unknown price `0.742435` 4h `-10.9876` vol `0.0` relationship `market_context_high->#12510_24h`
-- `#14331` unknown price `0.955135` 4h `31.9785` vol `0.0` relationship `market_context_high->#14331_4h`
-- `ZORA` crypto_alt price `0.00804` 4h `1.3105` vol `649497.99` relationship `risk_on_high->ZORA_24h`
-- `#12151` unknown price `0.75245` 4h `-7.2389` vol `0.0` relationship `risk_on_high->#12151_24h`
-- `#12641` unknown price `0.065915` 4h `-79.0832` vol `0.0` relationship `market_context_high->#12641_1h`
+- `ZORA` crypto_alt price `0.008262` 4h `2.2019` vol `653053.32` relationship `risk_on_high->ZORA_24h`
+- `0G` crypto_alt price `0.18767` 4h `0.0533` vol `496946.26` relationship `risk_on_high->0G_24h`
+- `#12510` unknown price `0.77455` 4h `-6.3365` vol `0.0` relationship `market_context_high->#12510_24h`
+- `#14331` unknown price `0.975605` 4h `40.4334` vol `0.0` relationship `market_context_high->#14331_4h`
+- `#12630` unknown price `0.97064` 4h `-0.3767` vol `0.0` relationship `risk_on_high->#12630_4h`
+- `#12151` unknown price `0.752925` 4h `-7.1746` vol `0.0` relationship `risk_on_high->#12151_24h`
 - `@136` unknown price `0.0058` 4h `0.0` vol `0.0` relationship `risk_on_high->@136_24h`
-- `#12651` unknown price `0.92593` 4h `3.0959` vol `0.0` relationship `risk_on_high->#12651_24h`
+- `#12641` unknown price `0.315125` 4h `313.8486` vol `0.0` relationship `market_context_high->#12641_1h`
+- `#12651` unknown price `0.857115` 4h `-10.1834` vol `0.0` relationship `risk_on_high->#12651_24h`
