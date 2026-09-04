@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T18:07:28.404684+00:00`
-- Market context score: `54.97`
-- News risk score: `45.17`
-- Macro risk score: `33.48`
-- Risk-on score: `50.73`
-- Articles: `79`
+- Generated: `2026-09-04T18:22:33.543160+00:00`
+- Market context score: `51.69`
+- News risk score: `41.65`
+- Macro risk score: `36.76`
+- Risk-on score: `41.7`
+- Articles: `50`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10982`
-- Day/swing latest: `2026-09-04T18:00:00+00:00`
+- Day/swing records: `10983`
+- Day/swing latest: `2026-09-04T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `0`
-- macro: articles `53`, risk hits `18`, risk headline rate `0.283`, policy hits `10`
+- crypto: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `0`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
 - [macro] Women accounted for almost all of job gains in August. Here's why (Economy)
-- [macro] Cramer Says a Wave of 21 Year Olds on Robinhood Is the Only Reason This Market Has Not Cracked (Yahoo Finance)
-- [macro] “Diesel Is the Blood of the Economy”: U.S. Prices Just Hit an All-Time High of $5.848 a Gallon (Yahoo Finance)
-- [macro] Commvault’s (CVLT) AI Recovery Bet Meets A Margin Reality Check (Yahoo Finance)
-- [macro] 3 Top Quantum Computing Stocks to Buy in September (Yahoo Finance)
-- [macro] JPMorgan’s Own Strategist Says the Fed Has Quietly Surrendered on 2% Inflation (Yahoo Finance)
-- [macro] Walt Disney vs. Netflix: Which Media Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] Satya Nadella Has Delivered a More Than 10X Return for Microsoft Shareholders Since Becoming CEO in 2014, a 30% Annualized Growth Rate. Is That Pace Still Achievable From Here? (Yahoo Finance)
-- [macro] REX’s Record 2Q EPS, CCS Project Advances – Quarterly Update Report (Yahoo Finance)
-- [macro] Americold (COLD) Raised $1.1B by Contributing 12 Warehouses to a Joint Venture. Is Deleveraging Worth Ceding 70% of the Economics? (Yahoo Finance)
+- [macro] UN votes to adopt new world map to reflect Africa's true size (BBC News)
+- [macro] Trump calls for interest rate cut after jobs figures raise hike bets (BBC News)
+- [crypto] Crypto Biz: AI took a back seat when Bitcoin started climbing (Cointelegraph.com News)
+- [macro] U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% (Economy)
+- [macro] Argentine couple to return Nazi-looted painting to rightful owner (BBC News)
+- [crypto] QuFi launches post-quantum verification platform with Bitcoin testnet proof (Cointelegraph.com News)
+- [crypto] US law enforcement group moves to ‘neutral’ position on CLARITY Act (Cointelegraph.com News)
+- [macro] Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect (BBC News)
+- [macro] Trump's peace envoys to visit Moscow and Kyiv over weekend (BBC News)
