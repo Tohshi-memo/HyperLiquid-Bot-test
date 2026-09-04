@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T15:52:25.104895+00:00`
-- Market context score: `55.94`
-- News risk score: `41.96`
-- Macro risk score: `27.71`
-- Risk-on score: `48.0`
+- Generated: `2026-09-04T16:07:24.985405+00:00`
+- Market context score: `56.49`
+- News risk score: `40.86`
+- Macro risk score: `25.68`
+- Risk-on score: `47.52`
 - Articles: `79`
 - Polymarket markets: `391`
 
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10974`
-- Day/swing latest: `2026-09-04T15:45:00+00:00`
+- Day/swing records: `10975`
+- Day/swing latest: `2026-09-04T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
-- macro: articles `52`, risk hits `10`, risk headline rate `0.1731`, policy hits `11`
+- macro: articles `52`, risk hits `10`, risk headline rate `0.1538`, policy hits `7`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] Ballard Power (BLDP) Bought GeoPura at an Enterprise Value of About $400M. Can Recurring Revenue Justify the 14% Pro Forma Stake? (Yahoo Finance)
-- [macro] After an 80% Gain on the Year, Is Palo Alto Networks Stock a Buy on Its Recent Pullback as Revenue Surges? (Yahoo Finance)
-- [macro] Energy Fuels (UUUU) Added Rare-Earth Alloy Production for About $243M. Can it Execute a Mine-to-Magnet Strategy? (Yahoo Finance)
-- [macro] Hinge Health Director Kristina Leslie Sells 1,200 Shares for $105,876 (Yahoo Finance)
-- [macro] PG&E (PCG) Sub Says California’s Wildfire Bill Leaves Financing Risk Unresolved. What Protection Is Still Missing? (Yahoo Finance)
-- [macro] Aurora Innovation (AUR) Partners with McLane Company to Launch Driverless Commercial Hauls (Yahoo Finance)
-- [macro] Acquisition Premium Injects Immediate Boost into MGM Resorts International (MGM) Shares (Yahoo Finance)
-- [macro] Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds (Yahoo Finance)
-- [macro] Robust Results and Share Repurchase Authorization Boosted ACV Auctions (ACVA) (Yahoo Finance)
-- [macro] S&P 500 investors may be more exposed to the AI trade than they think (Yahoo Finance)
+- [macro] Russia hits Ukrainian security headquarters in drone attack, Zelensky says (BBC News)
+- [macro] Bitcoin ETFs post best day in 9 months as price hits $82,000 (Yahoo Finance)
+- [macro] Why Nio Stock Dropped This Week (Yahoo Finance)
+- [macro] All Eyes Are on SpaceX's Next Share Unlock on Sept. 9. But These 3 Unstoppable Growth Stocks Are Better Buys Hiding in Plain Sight. (Yahoo Finance)
+- [macro] The U.S. Economy Just Added 162,000 Jobs in August, Blowing Past Estimates: That's Both Good and Bad News for the Stock Market. (Yahoo Finance)
+- [macro] Wall Street Is Misreading Alphabet’s Supposed Achilles Heel (Yahoo Finance)
+- [macro] GPIX Is Paying 8% and Trailing SPY by Just Half a Point. Has Goldman Finally Fixed the Covered-Call ETF? (Yahoo Finance)
+- [macro] Oracle Stock Climbs Ahead Of Earnings After OpenAI Astra Release (Yahoo Finance)
+- [macro] Yen's changing fortunes might finally be spooking the bears (Yahoo Finance)
+- [macro] Algonquin (AQN) is Selling its Chilean Water Stake for $126.5M. Will Simplification Improve Returns? (Yahoo Finance)
