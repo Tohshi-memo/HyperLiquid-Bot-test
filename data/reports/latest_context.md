@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T22:07:25.793896+00:00`
-- Market context score: `52.38`
-- News risk score: `38.08`
-- Macro risk score: `36.78`
-- Risk-on score: `40.24`
-- Articles: `39`
+- Generated: `2026-09-04T22:22:28.634639+00:00`
+- Market context score: `52.93`
+- News risk score: `37.53`
+- Macro risk score: `35.69`
+- Risk-on score: `40.58`
+- Articles: `40`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10997`
-- Day/swing latest: `2026-09-04T22:00:00+00:00`
+- Day/swing records: `10998`
+- Day/swing latest: `2026-09-04T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `2`
+- macro: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Nepal bet nearly everything on hydropower - the floods show why that's a problem (BBC News)
 - [crypto] Surprise nonfarm payrolls print sends Bitcoin back below 80K (Cointelegraph.com News)
 - [macro] Trump's peace envoys to visit Moscow and Kyiv over weekend (BBC News)
 - [macro] UN votes to adopt new world map to reflect Africa's true size (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Women accounted for almost all of job gains in August. Here's why (Economy)
 - [macro] Trump calls for interest rate cut after jobs figures raise hike bets (BBC News)
 - [crypto] Crypto Biz: AI took a back seat when Bitcoin started climbing (Cointelegraph.com News)
-- [macro] U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% (Economy)
