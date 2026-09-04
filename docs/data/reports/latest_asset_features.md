@@ -2,29 +2,29 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-09-04T12:37:27.727150+00:00`
-- Observed: `2026-09-04T12:30:00+00:00`
+- Generated: `2026-09-04T12:52:28.400572+00:00`
+- Observed: `2026-09-04T12:45:00+00:00`
 - Assets: `1230`
 
 ## Top Activity
 
 - `#12620` unknown price `0.00036` 4h `-99.3011` vol `0.0` relationship `risk_on_high->#12620_4h`
-- `#12880` unknown price `0.31122` 4h `14.7038` vol `0.0` relationship `market_context_high->#12880_24h`
-- `#12610` unknown price `0.48477` 4h `-43.0664` vol `0.0` relationship `market_context_high->#12610_24h`
+- `#12880` unknown price `0.3375` 4h `23.8919` vol `0.0` relationship `market_context_high->#12880_24h`
+- `#12610` unknown price `0.476225` 4h `-44.0699` vol `0.0` relationship `market_context_high->#12610_24h`
 - `#12640` unknown price `0.68488` 4h `-25.4739` vol `0.0` relationship `risk_on_high->#12640_24h`
 - `@198` unknown price `0.3185` 4h `0.0` vol `0.0` relationship `market_context_high->@198_4h`
-- `SKR` crypto_alt price `0.020864` 4h `-3.385` vol `3364269.21` relationship `risk_on_high->SKR_24h`
-- `PONS` crypto_alt price `0.699625` 4h `7.9144` vol `90555811.34` relationship `market_context_high->PONS_24h`
-- `@698` unknown price `0.031079` 4h `-36.056` vol `0.0` relationship `market_context_high->@698_24h`
-- `@219` unknown price `0.042539` 4h `0.6507` vol `0.0` relationship `market_context_high->@219_24h`
+- `SKR` crypto_alt price `0.020634` 4h `-6.3623` vol `3368249.81` relationship `risk_on_high->SKR_24h`
+- `PONS` crypto_alt price `0.707215` 4h `5.6901` vol `94203302.28` relationship `market_context_high->PONS_24h`
+- `#12611` unknown price `0.523775` 4h `252.6273` vol `0.0` relationship `market_context_high->#12611_1h`
+- `@698` unknown price `0.0481095` 4h `54.7975` vol `0.0` relationship `market_context_high->@698_24h`
+- `@219` unknown price `0.043394` 4h `1.6824` vol `0.0` relationship `market_context_high->@219_24h`
 - `@145` unknown price `1.4e-05` 4h `0.0` vol `0.0` relationship `risk_on_high->@145_24h`
-- `0G` crypto_alt price `0.18471` 4h `-2.651` vol `480519.52` relationship `risk_on_high->0G_24h`
-- `#12510` unknown price `0.73842` 4h `-8.7119` vol `0.0` relationship `market_context_high->#12510_24h`
-- `#12611` unknown price `0.51523` 4h `246.8745` vol `0.0` relationship `risk_on_high->#12611_4h`
-- `ZORA` crypto_alt price `0.007805` 4h `-1.6631` vol `598803.36` relationship `risk_on_high->ZORA_24h`
-- `#12151` unknown price `0.740565` 4h `-9.1326` vol `0.0` relationship `risk_on_high->#12151_24h`
+- `0G` crypto_alt price `0.1859` 4h `-3.4637` vol `488714.65` relationship `risk_on_high->0G_24h`
+- `#12510` unknown price `0.732075` 4h `-10.9289` vol `0.0` relationship `market_context_high->#12510_24h`
+- `ZORA` crypto_alt price `0.007932` 4h `-1.0602` vol `605153.83` relationship `risk_on_high->ZORA_24h`
+- `#12151` unknown price `0.76027` 4h `-6.7148` vol `0.0` relationship `risk_on_high->#12151_24h`
 - `#12630` unknown price `0.97064` 4h `-0.3317` vol `0.0` relationship `risk_on_high->#12630_4h`
 - `@136` unknown price `0.0058` 4h `0.0` vol `0.0` relationship `risk_on_high->@136_24h`
 - `#12651` unknown price `0.857115` 4h `-9.8267` vol `0.0` relationship `risk_on_high->#12651_24h`
 - `@237` unknown price `9e-05` 4h `0.0` vol `0.0` relationship `risk_on_high->@237_24h`
-- `#12130` unknown price `0.249685` 4h `-19.2807` vol `0.0` relationship `market_context_high->#12130_24h`
+- `#12130` unknown price `0.23088` 4h `-25.8384` vol `0.0` relationship `market_context_high->#12130_24h`
