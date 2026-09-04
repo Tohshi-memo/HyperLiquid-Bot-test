@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-04T15:07:48.714187+00:00`
-- Market context score: `52.57`
-- News risk score: `44.98`
-- Macro risk score: `30.66`
-- Risk-on score: `44.16`
-- Articles: `73`
+- Generated: `2026-09-04T15:22:30.349772+00:00`
+- Market context score: `53.85`
+- News risk score: `44.08`
+- Macro risk score: `28.92`
+- Risk-on score: `45.59`
+- Articles: `82`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:133, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `10971`
-- Day/swing latest: `2026-09-04T15:00:00+00:00`
+- Day/swing records: `10972`
+- Day/swing latest: `2026-09-04T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `1`
-- macro: articles `44`, risk hits `11`, risk headline rate `0.2045`, policy hits `10`
+- macro: articles `53`, risk hits `12`, risk headline rate `0.1887`, policy hits `10`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [policy] Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp. (FRB: Press Release - All Releases)
 - [commodity] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries (Energy)
-- [crypto] AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Meridian Contrarian Fund Cuts California Resources Corp. (CRC) in Anticipation of Downturn (Yahoo Finance)
-- [macro] 2 Stocks Down 8% or More That Are Screaming Buys Right Now (Yahoo Finance)
-- [macro] Stock Market Screens Like This One Capture Shifts In Market Leadership (Yahoo Finance)
-- [macro] PDF Solutions (PDFS): Pioneering Yield Improvement in Semiconductor Manufacturing (Yahoo Finance)
-- [macro] Gilead Keeps Writing Bigger Checks—But Can the Drugs Keep Paying for Them? (Yahoo Finance)
-- [macro] Intuitive Surgical Vs. Stryker: Wall Street Loves Both But One Has a Quiet Advantage That Will Make Investors Money (Yahoo Finance)
-- [macro] Analysing CEVA’s (CEVA) Growth in Neural Processing Markets (Yahoo Finance)
+- [macro] Charles Schwab, Robinhood In Or Near Buy Zones But Interactive Brokers Triggers A Sell Signal (Yahoo Finance)
+- [macro] Meet the Low-Cost ETF That Solves the Vanguard Morningstar Value ETF's Biggest Flaw. Here's Why It's a Magnificent Buy in September. (Yahoo Finance)
+- [macro] GLOBALFOUNDRIES (GFS) Surged on Robust CID Growth and Dividend Announcement (Yahoo Finance)
+- [macro] ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive? (Yahoo Finance)
+- [macro] High Capital Requirements and Operational Challenges Weighed On Chevron Corporation (CVX) (Yahoo Finance)
+- [macro] KNOT Offshore Partners Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] SanDisk Rises 8%, Micron Gains 5%: Is the NAND Pricing Cycle Still Accelerating? (Yahoo Finance)
+- [macro] A Career Change in 2026 Could Cost More Than You Think — Here’s Why (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Slips On Surprise Jobs Report; Chip Name Extends Losing Streak (Live Coverage) (Yahoo Finance)
