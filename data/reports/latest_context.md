@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-05T07:07:23.809370+00:00`
-- Market context score: `75.07`
-- News risk score: `20.5`
-- Macro risk score: `17.0`
-- Risk-on score: `68.33`
+- Generated: `2026-09-05T07:23:03.683829+00:00`
+- Market context score: `75.27`
+- News risk score: `20.31`
+- Macro risk score: `16.62`
+- Risk-on score: `68.46`
 - Articles: `17`
 - Polymarket markets: `393`
 
@@ -17,13 +17,13 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11033`
-- Day/swing latest: `2026-09-05T07:00:00+00:00`
+- Day/swing records: `11034`
+- Day/swing latest: `2026-09-05T07:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `0`
 
 ## Headlines
 
@@ -36,4 +36,4 @@
 - [macro] Is Russia proving better at protecting friends than fighting enemies in West Africa? (BBC News)
 - [macro] How much can Canada fight back in its trade war with the US? (BBC News)
 - [macro] Why are European countries moving their gold out of North America? (BBC News)
-- [macro] Flock says its cameras make US safer - so why are they being sabotaged? (BBC News)
+- [macro] How the Lindsay Clancy trial gripped America - and ultimately fell apart (BBC News)
