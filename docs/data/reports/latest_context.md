@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-05T08:07:30.994099+00:00`
-- Market context score: `66.27`
+- Generated: `2026-09-05T08:22:27.382627+00:00`
+- Market context score: `75.27`
 - News risk score: `20.31`
 - Macro risk score: `16.62`
-- Risk-on score: `48.46`
-- Articles: `16`
+- Risk-on score: `68.46`
+- Articles: `17`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11037`
-- Day/swing latest: `2026-09-05T08:00:00+00:00`
+- Day/swing records: `11038`
+- Day/swing latest: `2026-09-05T08:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026 (Cointelegraph.com News)
 - [macro] Why did USS Lincoln turn up in Thailand looking so rusty? (BBC News)
 - [macro] Lindsay Clancy murder trial has divided US on whether she's victim or criminal (BBC News)
 - [macro] At least two dead in blast at Bolivia military barracks (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Is Russia proving better at protecting friends than fighting enemies in West Africa? (BBC News)
 - [macro] How much can Canada fight back in its trade war with the US? (BBC News)
 - [macro] Why are European countries moving their gold out of North America? (BBC News)
-- [macro] How the Lindsay Clancy trial gripped America - and ultimately fell apart (BBC News)
