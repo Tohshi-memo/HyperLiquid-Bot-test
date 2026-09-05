@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-05T14:37:25.518426+00:00`
-- Market context score: `67.38`
-- News risk score: `24.87`
-- Macro risk score: `23.62`
-- Risk-on score: `57.43`
-- Articles: `44`
+- Generated: `2026-09-05T14:52:26.351139+00:00`
+- Market context score: `64.35`
+- News risk score: `25.83`
+- Macro risk score: `23.84`
+- Risk-on score: `51.59`
+- Articles: `47`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11063`
-- Day/swing latest: `2026-09-05T14:30:00+00:00`
+- Day/swing records: `11064`
+- Day/swing latest: `2026-09-05T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `36`, risk hits `7`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `39`, risk hits `8`, risk headline rate `0.1538`, policy hits `6`
 
 ## Headlines
 
+- [macro] US envoys arrive in Moscow ahead of Ukraine talks (BBC News)
+- [macro] US hits three Iranian oil tankers after saying its warships were targeted (BBC News)
+- [macro] Raytheon Is Winning Billions in Defense Contracts — Should You Buy RTX Stock? (Yahoo Finance)
+- [macro] 3 Dividend Kings Built to Keep Raising Your Income When Rates Rise (Yahoo Finance)
 - [commodity] Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal (Energy)
-- [macro] Nepal bet nearly everything on hydropower - the floods show why that's a problem (BBC News)
-- [macro] Morgan Stanley delivers bold Carvana stock verdict (Yahoo Finance)
-- [macro] 3 Incredible High-Growth Stocks to Buy With $10,000 Right Now (Yahoo Finance)
-- [macro] Bitcoin Just Exploded 40% From Its July Low — Is $100,000 Back on the Table? (Yahoo Finance)
-- [macro] He Took a Military Pension Lump Sum. His Monthly Retired Pay Stayed Lower Until Social Security’s Full Retirement Age. (Yahoo Finance)
-- [macro] CZ Says These 7 Crypto Investments from YZi Labs Will Perform Best (Yahoo Finance)
-- [macro] If You Buy Amazon With $10,000 at a 10% Discount From Its High, Here's What I Predict It Could Be Worth in 10 Years (Yahoo Finance)
-- [macro] What different world maps get right - and what they get wrong (BBC News)
-- [macro] Bloom Energy, Illumina, Everpure Rise On S&P 500 Inclusion (Yahoo Finance)
+- [macro] Roads to Retirement: The Journey Begins (Yahoo Finance)
+- [macro] Most Investors Overpay for AI Hype. Nvidia Is the Exception. (Yahoo Finance)
+- [macro] Annuities have gotten a bad rap. Here's why Jean Chatzky likes them. (Yahoo Finance)
+- [macro] 'They're going to need to hike rates': Wall Street weighs in on Fed's next policy decision after blowout jobs report (Yahoo Finance)
+- [macro] XRP Is Down 50% in a Year and Zcash Is Up 2,361%. Can Zcash Hold $1,000? (Yahoo Finance)
