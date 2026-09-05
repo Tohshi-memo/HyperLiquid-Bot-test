@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-05T22:22:30.496887+00:00`
+- Generated: `2026-09-05T22:37:29.613934+00:00`
 - Market context score: `61.56`
 - News risk score: `36.06`
 - Macro risk score: `26.8`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11094`
-- Day/swing latest: `2026-09-05T22:15:00+00:00`
+- Day/swing records: `11095`
+- Day/swing latest: `2026-09-05T22:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] US and Iran trade retaliatory attacks on ships as conflict flares (BBC News)
 - [macro] AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right? (Yahoo Finance)
 - [macro] AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly Days Away (Yahoo Finance)
 - [macro] Dividends vs. Annuity: Which Turns $930,000 Into More Monthly Income for Life? (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Vanguard's $122 billion fund has warning most holders miss (Yahoo Finance)
 - [macro] Cathie Wood buys surging crypto stock despite latest controversy (Yahoo Finance)
 - [macro] US envoys meet Putin in Moscow for Ukraine talks (BBC News)
-- [macro] Over 55 in California, You Can Sell the House and Take Your 1985 Property-Tax Bill With You to the New One, Anywhere in the State, Up to Three Times (Yahoo Finance)
