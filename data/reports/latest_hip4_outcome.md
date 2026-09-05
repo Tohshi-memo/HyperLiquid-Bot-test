@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-09-05T02:52:28.263778+00:00`
+- Generated: `2026-09-05T03:07:26.047625+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `86`
 - Outcome sides (rows): `172`
@@ -22,14 +22,14 @@
 
 ## Current Implied Probabilities
 
+- Recurring [No] symbol `#14481` underlying `BTC` prob `0.995` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14781` underlying `n/a` prob `0.9945` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#14481` underlying `BTC` prob `0.9934` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [No] symbol `#12281` underlying `n/a` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsContestWinner [template:{shortNameA}] symbol `#15000` underlying `n/a` prob `0.9888` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:Yes] symbol `#14570` underlying `n/a` prob `0.9869` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:Yes] symbol `#14580` underlying `n/a` prob `0.9853` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:Yes] symbol `#14580` underlying `n/a` prob `0.9831` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#14501` underlying `SOL` prob `0.98` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsContestWinner [template:{shortNameB}] symbol `#14991` underlying `n/a` prob `0.98` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#14501` underlying `SOL` prob `0.97` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14771` underlying `n/a` prob `0.9554` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#12171` underlying `n/a` prob `0.9495` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#12101` underlying `n/a` prob `0.9489` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -43,10 +43,10 @@
 - template:sportsTournamentParticipant [No] symbol `#14881` underlying `n/a` prob `0.9143` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#12121` underlying `n/a` prob `0.9115` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14841` underlying `n/a` prob `0.8943` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:No] symbol `#12881` underlying `n/a` prob `0.8912` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14761` underlying `n/a` prob `0.886` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#12161` underlying `n/a` prob `0.872` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:No] symbol `#12881` underlying `n/a` prob `0.8649` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:No] symbol `#15731` underlying `n/a` prob `0.8505` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#14491` underlying `ETH` prob `0.8484` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
@@ -74,7 +74,7 @@
 - template:policyRateNoChange [No] symbol `#12271` underlying `n/a` prob `0.5056` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [Yes] symbol `#12280` underlying `n/a` prob `0.0071` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [No] symbol `#12281` underlying `n/a` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.4972` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.4973` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -102,7 +102,7 @@
 - template:policyRateNoChange [No] symbol `#12271` underlying `n/a` prob `0.5056` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [Yes] symbol `#12280` underlying `n/a` prob `0.0071` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [No] symbol `#12281` underlying `n/a` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.4972` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.4973` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
@@ -110,6 +110,6 @@
 
 ## Request Warnings
 
-- `outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info`
+- `outcomeState: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))`
 
 Public output stores aggregate HIP-4 outcome data only. It is not a trade signal.
