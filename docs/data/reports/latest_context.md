@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-05T10:37:25.460463+00:00`
-- Market context score: `74.83`
-- News risk score: `21.26`
-- Macro risk score: `18.03`
-- Risk-on score: `68.82`
+- Generated: `2026-09-05T10:52:26.277506+00:00`
+- Market context score: `74.71`
+- News risk score: `21.38`
+- Macro risk score: `18.25`
+- Risk-on score: `68.75`
 - Articles: `20`
 - Polymarket markets: `393`
 
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:792`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11047`
-- Day/swing latest: `2026-09-05T10:30:00+00:00`
+- Day/swing records: `11048`
+- Day/swing latest: `2026-09-05T10:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `4`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Poland upholds crypto bill veto as Zondacrypto scandal widens (Cointelegraph.com News)
 - [macro] Trump envoys arrive in Moscow ahead of Ukraine talks, reports say (BBC News)
 - [macro] Lindsay Clancy murder trial has divided US on whether she's victim or criminal (BBC News)
 - [macro] Best CD rates today, Saturday, September 5, 2026: Lock in up to 4.35% APY with an 18-month CD (Yahoo Finance)
@@ -36,4 +37,3 @@
 - [macro] At least two dead in blast at Bolivia military barracks (BBC News)
 - [crypto] Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026 (Cointelegraph.com News)
 - [macro] Tate brothers officially indicted with trafficking and sex crimes in Romania (BBC News)
-- [macro] Why did USS Lincoln turn up in Thailand looking so rusty? (BBC News)
