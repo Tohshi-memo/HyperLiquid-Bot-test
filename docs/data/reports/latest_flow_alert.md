@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-05T18:05:27.754240+00:00`
+- Generated: `2026-09-05T18:10:28.235183+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8220349.15`
-- Polymarket volume z-score: `-0.85`
+- Polymarket 24h volume: `7249271.75`
+- Polymarket volume z-score: `-1.11`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1904843.373852` | liquidity: `3377373.72696`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1423020.236` | liquidity: `926740.93833`
-- Israel closes its airspace by September 30? | 24h volume: `606443.1760809999` | liquidity: `101247.5754`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `502420.29864000005` | liquidity: `699210.524`
-- Russia x Ukraine ceasefire agreement by October 31, 2026? | 24h volume: `431831.7482180001` | liquidity: `68936.8758`
-- Iran leadership change by September 30? | 24h volume: `317346.585934` | liquidity: `158992.48833`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `316654.181077` | liquidity: `731519.0836`
-- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `230645.0` | liquidity: `1241690.65234`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1748363.513852` | liquidity: `3378252.92695`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `794489.0940000002` | liquidity: `925615.86654`
+- Israel closes its airspace by September 30? | 24h volume: `606339.458807` | liquidity: `101076.5443`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `503873.875765` | liquidity: `690567.3315`
+- Russia x Ukraine ceasefire agreement by October 31, 2026? | 24h volume: `436969.6067549999` | liquidity: `66745.2986`
+- Iran leadership change by September 30? | 24h volume: `317346.585934` | liquidity: `160984.48537`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `315341.48901799996` | liquidity: `727076.1217`
+- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `230645.0` | liquidity: `1243900.1392`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
