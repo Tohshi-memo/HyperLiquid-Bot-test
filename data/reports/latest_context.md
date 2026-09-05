@@ -1,34 +1,34 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-05T10:52:26.277506+00:00`
-- Market context score: `74.71`
-- News risk score: `21.38`
-- Macro risk score: `18.25`
-- Risk-on score: `68.75`
-- Articles: `20`
+- Generated: `2026-09-05T11:07:27.866699+00:00`
+- Market context score: `74.53`
+- News risk score: `21.58`
+- Macro risk score: `18.63`
+- Risk-on score: `68.67`
+- Articles: `19`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
 
-- Asset universe count: `1230`
+- Asset universe count: `1231`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:792`
+- Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:793`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11048`
-- Day/swing latest: `2026-09-05T10:45:00+00:00`
+- Day/swing records: `11049`
+- Day/swing latest: `2026-09-05T11:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `4`
+- macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `4`
 
 ## Headlines
 
+- [macro] US envoys arrive in Moscow ahead of Ukraine talks (BBC News)
 - [crypto] Poland upholds crypto bill veto as Zondacrypto scandal widens (Cointelegraph.com News)
-- [macro] Trump envoys arrive in Moscow ahead of Ukraine talks, reports say (BBC News)
 - [macro] Lindsay Clancy murder trial has divided US on whether she's victim or criminal (BBC News)
 - [macro] Best CD rates today, Saturday, September 5, 2026: Lock in up to 4.35% APY with an 18-month CD (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Saturday, September 5, 2026: Rates roll back across the board; ARM volatility continues (Yahoo Finance)
