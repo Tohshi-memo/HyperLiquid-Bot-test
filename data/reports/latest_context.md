@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-05T12:37:28.129047+00:00`
-- Market context score: `72.11`
-- News risk score: `23.62`
-- Macro risk score: `23.04`
+- Generated: `2026-09-05T12:52:28.511576+00:00`
+- Market context score: `72.52`
+- News risk score: `23.0`
+- Macro risk score: `22.0`
 - Risk-on score: `66.67`
 - Articles: `24`
 - Polymarket markets: `394`
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11055`
-- Day/swing latest: `2026-09-05T12:30:00+00:00`
+- Day/swing records: `11056`
+- Day/swing latest: `2026-09-05T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `1`
+- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [macro] SoFi Raised Its Revenue Guidance and the Stock Fell 10%. Here's What the Market Missed. (Yahoo Finance)
 - [macro] OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model? (Yahoo Finance)
 - [macro] US envoys arrive in Moscow ahead of Ukraine talks (BBC News)
 - [commodity] This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom (Energy)
-- [macro] All It Takes Is $10,000 Invested in This Dividend Stock to Generate Over $241 in Yearly Dividends (Yahoo Finance)
 - [commodity] Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal (Energy)
 - [macro] From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise (Economy)
 - [crypto] British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
