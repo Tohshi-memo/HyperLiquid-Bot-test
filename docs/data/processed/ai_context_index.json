@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T09:22:26.009240+00:00",
+  "updated_at": "2026-09-05T09:29:25.711099+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -26,7 +26,7 @@
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 61672,
+        "bytes": 61687,
         "note": "Machine-readable map."
       },
       {
@@ -61,7 +61,7 @@
       },
       {
         "path": "data/reports/latest_hip4_outcome.md",
-        "bytes": 10386,
+        "bytes": 827,
         "note": "HIP-4 outcome market overview."
       },
       {
@@ -103,22 +103,22 @@
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 5069245,
+        "bytes": 5069296,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 3220341,
+        "bytes": 3220342,
         "note": "Polymarket/flow history."
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 572731,
+        "bytes": 572801,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 46828512,
+        "bytes": 46828357,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -133,12 +133,12 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 162683,
+        "bytes": 721,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 20612630,
+        "bytes": 20607620,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
@@ -167,10 +167,6 @@
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
       {
-        "path": "data/archive/asset_price_history_2026-08.jsonl.gz",
-        "when_to_read": "Only for longer backtests after a specific rule is selected."
-      },
-      {
         "path": "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
@@ -193,8 +189,7 @@
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
-      "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-08.jsonl.gz"
+      "data/archive/asset_price_history_2026-06.jsonl.gz"
     ],
     "polymarket_outcome_archive_files": [
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
@@ -203,7 +198,6 @@
     "archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
       "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-08.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-06.jsonl.gz"
     ],
@@ -227,25 +221,17 @@
       "24h": 42940,
       "72h": 40764
     },
-    "hip4_outcome_count": 81,
-    "hip4_side_count": 162,
+    "hip4_outcome_count": 0,
+    "hip4_side_count": 0,
     "hip4_outcome_history_records": 720,
-    "hip4_outcome_by_underlying": {
-      "unknown": 77,
-      "BTC": 1,
-      "ETH": 1,
-      "SOL": 1,
-      "HYPE": 1
-    },
-    "hip4_outcome_by_class": {
-      "unknown": 69,
-      "fallback": 5,
-      "priceBinary": 4,
-      "namedOutcome": 3
-    },
-    "hip4_outcome_request_errors": [],
+    "hip4_outcome_by_underlying": {},
+    "hip4_outcome_by_class": {},
+    "hip4_outcome_request_errors": [
+      "outcomeMeta: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info",
+      "allMids: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
+    ],
     "hip4_outcome_request_warnings": [
-      "outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info"
+      "outcomeAssetCtxs: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
     ],
     "relationship_pattern_count": 96,
     "relationship_min_samples": 30,
@@ -254,7 +240,7 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-09-05T09:22:26.009240+00:00",
+    "generated_at": "2026-09-05T09:29:25.711099+00:00",
     "scores": {
       "news_risk_score": 20.0,
       "macro_risk_score": 16.0,
@@ -499,9 +485,9 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-09-05T09:20:24.433362+00:00",
+      "generated_at": "2026-09-05T09:25:29.904588+00:00",
       "scores": {
-        "flow_alert_score": 22.32,
+        "flow_alert_score": 22.16,
         "flow_alert_level": "baseline"
       },
       "large_flows": {
@@ -518,10 +504,10 @@
         "inflow_zscore_7d": 0.0
       },
       "polymarket": {
-        "market_count": 51,
-        "volume_24h": 16159991.62,
-        "lifetime_volume": 479354126.76,
-        "liquidity": 23709554.53,
+        "market_count": 49,
+        "volume_24h": 16030265.84,
+        "lifetime_volume": 476705859.24,
+        "liquidity": 23079575.76,
         "top_markets": [
           {
             "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -530,9 +516,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 4986062.137858005,
-            "volume": 29312275.001992002,
-            "liquidity": 4331816.35333,
+            "volume_24h": 4938801.517769005,
+            "volume": 29312922.953324992,
+            "liquidity": 4279686.9594,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -557,8 +543,8 @@
             "query": "macro",
             "impact_category": "macro",
             "volume_24h": 1569280.9840000004,
-            "volume": 12258416.766784996,
-            "liquidity": 1598112.86964,
+            "volume": 12258416.766785005,
+            "liquidity": 1595377.96643,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -582,9 +568,9 @@
             "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
             "query": "crypto",
             "impact_category": "crypto",
-            "volume_24h": 1460100.8855650004,
-            "volume": 13985834.759264983,
-            "liquidity": 839312.4258,
+            "volume_24h": 1460182.9394130001,
+            "volume": 13986034.759265013,
+            "liquidity": 847189.667,
             "end_date": "2027-01-01T05:00:00Z",
             "outcomes": [
               {
@@ -608,9 +594,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 1246895.048253,
-            "volume": 22891375.719812997,
-            "liquidity": 602750.514,
+            "volume_24h": 1257702.398602,
+            "volume": 22905685.493480004,
+            "liquidity": 593861.135,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -634,9 +620,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 751218.2024980002,
-            "volume": 18422273.375522997,
-            "liquidity": 505218.8096,
+            "volume_24h": 747385.6631940003,
+            "volume": 18422292.98336498,
+            "liquidity": 515799.9367,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -660,24 +646,24 @@
             "url": "https://polymarket.com/event/israel-closes-its-airspace-by",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 485924.7187939997,
-            "volume": 917599.3910030014,
-            "liquidity": 73871.2265,
+            "volume_24h": 507007.81130500004,
+            "volume": 939026.8435140003,
+            "liquidity": 74504.5563,
             "end_date": "2026-10-01T03:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.665,
+                "probability": 0.655,
                 "token_id": "101040420236481079077393026772174192261262803877417817462744147440746788606483"
               },
               {
                 "name": "No",
-                "probability": 0.335,
+                "probability": 0.345,
                 "token_id": "113115102429687063022899186163791494032794866907263639710901400810753815113311"
               }
             ],
-            "yes_probability": 0.665,
-            "no_probability": 0.335
+            "yes_probability": 0.655,
+            "no_probability": 0.345
           },
           {
             "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
@@ -686,24 +672,24 @@
             "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 365202.4870369996,
-            "volume": 1382411.2847669998,
-            "liquidity": 45977.3862,
+            "volume_24h": 367907.59516199963,
+            "volume": 1385116.3928919996,
+            "liquidity": 45985.8061,
             "end_date": "2026-11-01T03:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.155,
+                "probability": 0.165,
                 "token_id": "10861802947610899379330568332287100318869035186187733531205554992019689450318"
               },
               {
                 "name": "No",
-                "probability": 0.845,
+                "probability": 0.835,
                 "token_id": "39319769648132414476170103739900770633009012502056309868976886150530270219889"
               }
             ],
-            "yes_probability": 0.155,
-            "no_probability": 0.845
+            "yes_probability": 0.165,
+            "no_probability": 0.835
           },
           {
             "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
@@ -712,9 +698,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-september-762",
             "query": "macro",
             "impact_category": "macro",
-            "volume_24h": 362580.73483800003,
-            "volume": 13336222.223610008,
-            "liquidity": 1441714.1827,
+            "volume_24h": 361857.914838,
+            "volume": 13336222.22361,
+            "liquidity": 1441679.72536,
             "end_date": "2026-09-16T00:00:00Z",
             "outcomes": [
               {
@@ -739,8 +725,8 @@
             "query": "policy",
             "impact_category": "policy",
             "volume_24h": 358798.24739200005,
-            "volume": 3720321.6727280007,
-            "liquidity": 246651.62357,
+            "volume": 3720321.672728,
+            "liquidity": 249029.33926,
             "end_date": "2026-10-04T00:00:00Z",
             "outcomes": [
               {
@@ -764,57 +750,47 @@
             "url": "https://polymarket.com/event/brazil-presidential-election",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 340097.3452120001,
-            "volume": 4071330.5498120007,
-            "liquidity": 314556.61049,
+            "volume_24h": 342441.9595250001,
+            "volume": 4073675.1641249997,
+            "liquidity": 315392.25064,
             "end_date": "2026-10-04T00:00:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.0165,
+                "probability": 0.0155,
                 "token_id": "61078489744701316174218443335134825688547680779921710765642429680039972907213"
               },
               {
                 "name": "No",
-                "probability": 0.9835,
+                "probability": 0.9845,
                 "token_id": "55702511089357054967370685294383563985787421290055635794639010983168945589146"
               }
             ],
-            "yes_probability": 0.0165,
-            "no_probability": 0.9835
+            "yes_probability": 0.0155,
+            "no_probability": 0.9845
           }
         ],
         "health_markets": [],
-        "volume_24h_zscore_7d": 1.33
+        "volume_24h_zscore_7d": 1.29
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-09-05T09:22:26.009240+00:00",
-      "outcome_count": 81,
-      "side_count": 162,
-      "by_underlying": {
-        "unknown": 77,
-        "BTC": 1,
-        "ETH": 1,
-        "SOL": 1,
-        "HYPE": 1
-      },
-      "by_class": {
-        "unknown": 69,
-        "fallback": 5,
-        "priceBinary": 4,
-        "namedOutcome": 3
-      },
-      "by_status": {
-        "unknown": 81
-      },
-      "request_errors": [],
+      "generated_at": "2026-09-05T09:29:25.711099+00:00",
+      "outcome_count": 0,
+      "side_count": 0,
+      "by_underlying": {},
+      "by_class": {},
+      "by_status": {},
+      "request_errors": [
+        "outcomeMeta: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info",
+        "allMids: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
+      ],
       "request_warnings": [
-        "outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info"
+        "outcomeAssetCtxs: 502 Server Error: Bad Gateway for url: https://api.hyperliquid.xyz/info"
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-09-05T09:22:26.009240+00:00",
+      "generated_at": "2026-09-05T09:29:25.711099+00:00",
       "pattern_count": 96,
       "min_samples": 30,
       "top_patterns": [
@@ -1093,7 +1069,7 @@
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-09-05T09:22:26.009240+00:00",
+      "generated_at": "2026-09-05T09:29:25.711099+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121060,
       "top_patterns": [
@@ -1267,7 +1243,7 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-09-05T09:22:26.009240+00:00",
+      "generated_at": "2026-09-05T09:29:25.711099+00:00",
       "observed_at": "2026-09-05T09:15:00+00:00",
       "asset_count": 1230,
       "top_assets": [
@@ -1848,5 +1824,5 @@
     "read_relationship_scan_when": "Selecting public, mechanically discovered A/B -> future-return candidates for private AI hypothesis review and strategy validation.",
     "read_sector_reactions_when": "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, or 252d after public event conditions."
   },
-  "available_at": "2026-09-05T09:23:24.397162+00:00"
+  "available_at": "2026-09-05T09:30:03.247339+00:00"
 }
