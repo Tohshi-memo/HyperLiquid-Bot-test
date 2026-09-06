@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-06T01:52:23.727641+00:00`
-- Market context score: `40.24`
-- News risk score: `50.73`
-- Macro risk score: `32.13`
-- Risk-on score: `22.18`
-- Articles: `15`
+- Generated: `2026-09-06T02:07:27.612534+00:00`
+- Market context score: `40.96`
+- News risk score: `50.01`
+- Macro risk score: `30.71`
+- Risk-on score: `22.62`
+- Articles: `16`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11108`
-- Day/swing latest: `2026-09-06T01:45:00+00:00`
+- Day/swing records: `11109`
+- Day/swing latest: `2026-09-06T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `12`, risk hits `5`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `13`, risk hits `5`, risk headline rate `0.2308`, policy hits `2`
 
 ## Headlines
 
+- [macro] Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home (BBC News)
 - [macro] US envoys meet Putin in Moscow for Ukraine talks (BBC News)
 - [macro] 'He was a lifeline' - Families at a loss after Haitian caregivers let go in US (BBC News)
 - [macro] From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise (Economy)
@@ -37,4 +38,3 @@
 - [macro] TV presenter among 11 sentenced to death in Egypt drugs case (BBC News)
 - [macro] Prince William to attend King Harald's funeral in Norway (BBC News)
 - [macro] Trump turns up the heat on Warsh as Fed rate hike looms (Economy)
-- [crypto] Why crypto experts say buying and holding bitcoin easily beats trying to time the market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
