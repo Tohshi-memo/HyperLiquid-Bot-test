@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-06T19:52:22.026877+00:00`
-- Market context score: `63.56`
-- News risk score: `26.57`
-- Macro risk score: `28.15`
-- Risk-on score: `52.1`
-- Articles: `41`
+- Generated: `2026-09-06T20:07:26.798575+00:00`
+- Market context score: `68.53`
+- News risk score: `27.44`
+- Macro risk score: `30.38`
+- Risk-on score: `64.71`
+- Articles: `40`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11179`
-- Day/swing latest: `2026-09-06T19:45:00+00:00`
+- Day/swing records: `11180`
+- Day/swing latest: `2026-09-06T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `34`, risk hits `8`, risk headline rate `0.2059`, policy hits `7`
+- macro: articles `33`, risk hits `9`, risk headline rate `0.2424`, policy hits `7`
 
 ## Headlines
 
+- [macro] Could $10,000 Invested in Nvidia Today Make You a Millionaire? (Yahoo Finance)
+- [macro] The Inheritance That Went Backward: They Gave Mom the Stock They’d Someday Inherit and Eighteen Months Later It Came Back With Thirty Years of Capital Gains Wiped Off the Books (Yahoo Finance)
 - [commodity] U.S. Energy Secretary Wright says Iran nuclear deal may never happen (Energy)
+- [macro] Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-Raise Quarter (Yahoo Finance)
+- [macro] Chevron Stayed in Venezuela for 20 Years While Rivals Left. Here's Why Its CEO Says Patience Pays Off. (Yahoo Finance)
+- [macro] Being Forced Out of a Medicare Advantage Plan Was a 1% Event for Years. In 2026 It Hit 10%. The 2027 Letters Must Arrive by October 2. (Yahoo Finance)
 - [macro] Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants (Yahoo Finance)
 - [macro] German far-right set for big win in eastern state, projections show (BBC News)
-- [macro] The U.S. National Debt Just Surpassed $40 Trillion. Here's What This Means for Your Portfolio in 2026 and Beyond. (Yahoo Finance)
-- [macro] Trump’s Financial Disclosure Reveals a Personal Stake in Musk’s SpaceX (SPCX) (Yahoo Finance)
-- [macro] Adobe ends an 18-year era as AI pressure mounts (Yahoo Finance)
-- [macro] NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks (Yahoo Finance)
-- [macro] Should You Forget High-Yield Dividend ETFs and Buy a Dividend Growth ETF Instead? (Yahoo Finance)
-- [macro] Bond Traders Brace for More Swings at Both Ends of US Yield Curve (Yahoo Finance)
-- [macro] Prediction: Snowflake's Product Revenue Passes $8 Billion in Fiscal 2028 (Yahoo Finance)
+- [macro] Goodyear (GT)’s Turnaround is Still Burning Through Cash, Not Just Rubber (Yahoo Finance)
+- [macro] Big Institutions are Quietly Buying Into Blackstone (BX) and KKR’s Wealth Funds (Yahoo Finance)
