@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-06T06:52:25.961870+00:00`
+- Generated: `2026-09-06T07:07:24.820114+00:00`
 - Market context score: `51.79`
 - News risk score: `26.08`
 - Macro risk score: `27.77`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11127`
-- Day/swing latest: `2026-09-06T06:45:00+00:00`
+- Day/swing records: `11128`
+- Day/swing latest: `2026-09-06T07:00:00+00:00`
 
 ## News Categories
 
@@ -26,8 +26,8 @@
 
 ## Headlines
 
-- [macro] Why a famous Montreal sandwich shop has been forced to swap its soda (BBC News)
 - [macro] Volcano eruption triggers flight suspensions at Indonesia's main airport (BBC News)
+- [macro] Why a famous Montreal sandwich shop has been forced to swap its soda (BBC News)
 - [macro] TV presenter among 11 sentenced to death in Egypt drugs case (BBC News)
 - [macro] US envoys set for Ukraine talks after meeting Putin in Russia (BBC News)
 - [macro] Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home (BBC News)
