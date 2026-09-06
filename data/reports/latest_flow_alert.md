@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-06T11:55:26.270506+00:00`
+- Generated: `2026-09-06T12:00:30.495664+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5284679.62`
+- Polymarket 24h volume: `5256451.75`
 - Polymarket volume z-score: `-1.6`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `622794.2146599999` | liquidity: `3196014.79083`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `319855.6082090001` | liquidity: `466429.695`
-- Iran leadership change by September 30? | 24h volume: `267649.945247` | liquidity: `130344.79007`
-- US announces end of Iranian blockade by September 14, 2026? | 24h volume: `244483.88822299882` | liquidity: `137348.85347`
-- Israel closes its airspace by September 30? | 24h volume: `243269.82863299997` | liquidity: `112769.1249`
-- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `232060.415` | liquidity: `1244790.05685`
-- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `230383.0` | liquidity: `1263739.01805`
-- Putin out as President of Russia by September 30, 2026? | 24h volume: `184597.762483` | liquidity: `102208.71101`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `624035.6663269999` | liquidity: `3195093.89739`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `326028.6008700001` | liquidity: `486224.4891`
+- Iran leadership change by September 30? | 24h volume: `267477.359042` | liquidity: `136037.82423`
+- US announces end of Iranian blockade by September 14, 2026? | 24h volume: `244483.88822299894` | liquidity: `134899.66409`
+- Israel closes its airspace by September 30? | 24h volume: `243243.348664` | liquidity: `110887.5768`
+- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `232060.415` | liquidity: `1247448.65982`
+- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `230383.0` | liquidity: `1263480.87481`
+- Putin out as President of Russia by September 30, 2026? | 24h volume: `197055.60781600003` | liquidity: `104488.09965`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
