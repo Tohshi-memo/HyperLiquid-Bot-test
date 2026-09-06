@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-06T09:15:25.893754+00:00`
+- Generated: `2026-09-06T09:20:34.506587+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1358595.065995` | liquidity: `3196604.37064`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `887743.774` | liquidity: `895315.40622`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `311993.5691920001` | liquidity: `596557.3985`
-- Israel closes its airspace by September 30? | 24h volume: `286898.8765939999` | liquidity: `107225.0884`
-- Iran leadership change by September 30? | 24h volume: `269755.057499` | liquidity: `200609.40285`
-- US announces end of Iranian blockade by September 14, 2026? | 24h volume: `246303.8263899998` | liquidity: `150959.27334`
-- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `232060.415` | liquidity: `1241137.04654`
-- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `230383.0` | liquidity: `1263418.35285`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1358595.065995` | liquidity: `3196606.12064`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `887743.774` | liquidity: `894803.59622`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `311993.5691920001` | liquidity: `593194.8827`
+- Israel closes its airspace by September 30? | 24h volume: `286898.8765939999` | liquidity: `104811.3755`
+- Iran leadership change by September 30? | 24h volume: `269755.057499` | liquidity: `200830.28285`
+- US announces end of Iranian blockade by September 14, 2026? | 24h volume: `246303.8263899998` | liquidity: `151502.60423`
+- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `232060.415` | liquidity: `1247245.91512`
+- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `230383.0` | liquidity: `1266276.0372`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
