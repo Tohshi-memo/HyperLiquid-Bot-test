@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-06T17:22:26.479233+00:00`
-- Market context score: `73.74`
-- News risk score: `22.12`
-- Macro risk score: `19.94`
-- Risk-on score: `67.86`
+- Generated: `2026-09-06T17:37:27.416512+00:00`
+- Market context score: `67.65`
+- News risk score: `24.72`
+- Macro risk score: `24.99`
+- Risk-on score: `58.43`
 - Articles: `33`
 - Polymarket markets: `390`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:795`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11169`
-- Day/swing latest: `2026-09-06T17:15:00+00:00`
+- Day/swing records: `11170`
+- Day/swing latest: `2026-09-06T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `4`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1481`, policy hits `6`
 
 ## Headlines
 
+- [macro] 2 Superior Growth Stocks to Buy and Hold for 10 Years (Yahoo Finance)
+- [macro] Overlooked EV stock surges despite buyers abandoning zero-emission cars (Yahoo Finance)
 - [macro] German far-right set for big win in eastern state - projections (BBC News)
+- [macro] The Stock Market Just Entered Its Worst Month of the Year. History Says This Is What Investors Should Do. (Yahoo Finance)
+- [macro] Iran warns of 'faster, heavier, more painful response' to US attacks (BBC News)
 - [macro] Dozens feared trapped in collapsed building in Delhi (BBC News)
 - [macro] Where Will SCHD Stock Be in 5 Years? (Yahoo Finance)
 - [macro] Global dining leader closing 261 restaurants, steakhouse chain (Yahoo Finance)
 - [macro] Minister to meet Jaguar Land Rover boss as thousands of job cuts expected (BBC News)
 - [macro] Nvidia’s Profits Could Rival a Country’s GDP by 2029 (Yahoo Finance)
-- [macro] What to Invest in for the Next 5 Years: My Prediction Is Boring, and That's the Point (Yahoo Finance)
-- [commodity] U.S. Energy Secretary Wright says Iran nuclear deal may never happen (Energy)
-- [macro] 2 Ways Elon Musk Can Make SpaceX Win the New Space Race (Yahoo Finance)
-- [macro] Forget the "Magnificent Seven." This Payments Stock Could Be the Better Long-Term Bet. (Yahoo Finance)
