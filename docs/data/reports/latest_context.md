@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-06T14:37:32.826344+00:00`
+- Generated: `2026-09-06T14:52:25.531907+00:00`
 - Market context score: `65.22`
 - News risk score: `21.33`
 - Macro risk score: `18.67`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:794`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11158`
-- Day/swing latest: `2026-09-06T14:30:00+00:00`
+- Day/swing records: `11159`
+- Day/swing latest: `2026-09-06T14:45:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] The Next Year Will Define Vaxcyte’s (PCVX) Vaccine Gamble (Yahoo Finance)
+- [macro] Primerica’s (PRI) Investment Boom Masks A Shrinking Sales Force (Yahoo Finance)
 - [macro] Dozens feared trapped in collapsed building in Delhi (BBC News)
 - [crypto] Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
