@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-06T20:15:25.975534+00:00`
+- Generated: `2026-09-06T20:20:28.333205+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `651756.8356610001` | liquidity: `3047034.23804`
-- Will AfD win an absolute majority of seats in Sachsen-Anhalt? | 24h volume: `566572.202362` | liquidity: `113703.51097`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `498069.35699999996` | liquidity: `736656.45048`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `325467.290324` | liquidity: `876158.8577`
-- Will China invade Taiwan by end of 2026? | 24h volume: `291384.558761` | liquidity: `432431.16168`
-- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `230188.0` | liquidity: `1264708.58065`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `208652.67647900005` | liquidity: `1128563.62608`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `189778.14228899998` | liquidity: `903400.3627`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `651756.8356610001` | liquidity: `3047126.22921`
+- Will AfD win an absolute majority of seats in Sachsen-Anhalt? | 24h volume: `566572.202362` | liquidity: `109669.26366`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `498069.35699999996` | liquidity: `736148.14048`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `325467.290324` | liquidity: `869202.8346`
+- Will China invade Taiwan by end of 2026? | 24h volume: `291384.558761` | liquidity: `432508.9984`
+- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `230188.0` | liquidity: `1264544.85977`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `208652.67647900005` | liquidity: `1128494.74608`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `189778.14228899998` | liquidity: `900891.4835`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
