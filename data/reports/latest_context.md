@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-06T23:22:30.325622+00:00`
-- Market context score: `59.62`
-- News risk score: `28.3`
-- Macro risk score: `28.39`
-- Risk-on score: `44.88`
+- Generated: `2026-09-06T23:37:28.050438+00:00`
+- Market context score: `58.4`
+- News risk score: `29.38`
+- Macro risk score: `30.66`
+- Risk-on score: `43.95`
 - Articles: `48`
 - Polymarket markets: `391`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11193`
-- Day/swing latest: `2026-09-06T23:15:00+00:00`
+- Day/swing records: `11194`
+- Day/swing latest: `2026-09-06T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `42`, risk hits `12`, risk headline rate `0.2381`, policy hits `2`
+- macro: articles `42`, risk hits `14`, risk headline rate `0.2857`, policy hits `1`
 
 ## Headlines
 
+- [macro] Warren Buffett has a stark message for stock market investors (Yahoo Finance)
 - [macro] The £70 refund letter that isn't a scam (BBC News)
 - [macro] The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs' (BBC News)
+- [macro] Workday (WDAY)’s AI Push is Easing Investor Fears, but its Own Guidance Tells a More Cautious Story (Yahoo Finance)
+- [macro] Solstice (SOLS) and Element Solutions (ESI) Call Off Their $14.5 Billion Combination (Yahoo Finance)
 - [macro] Germany's far-right AfD set for big win in eastern state, just short of majority (BBC News)
 - [macro] India's high-stakes exam system faces a crisis of trust (BBC News)
+- [macro] Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot (Yahoo Finance)
 - [macro] Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029 (Yahoo Finance)
 - [macro] Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S. (Yahoo Finance)
-- [macro] Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves (Yahoo Finance)
-- [macro] OpenAI Cuts Cursor Off from its Models Now That Musk’s SpaceX (SPCX) Owns It (Yahoo Finance)
-- [macro] Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet (Yahoo Finance)
-- [macro] Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals (Yahoo Finance)
