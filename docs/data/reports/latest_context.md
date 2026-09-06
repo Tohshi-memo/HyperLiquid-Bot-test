@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-06T18:07:26.525167+00:00`
-- Market context score: `72.15`
-- News risk score: `23.85`
-- Macro risk score: `23.23`
-- Risk-on score: `67.04`
-- Articles: `32`
+- Generated: `2026-09-06T18:14:45.548027+00:00`
+- Market context score: `69.63`
+- News risk score: `23.73`
+- Macro risk score: `23.06`
+- Risk-on score: `61.26`
+- Articles: `38`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `26`, risk hits `4`, risk headline rate `0.1154`, policy hits `6`
+- macro: articles `32`, risk hits `5`, risk headline rate `0.125`, policy hits `6`
 
 ## Headlines
 
 - [macro] German far-right set for big win in eastern state - projections (BBC News)
+- [macro] McDonald’s India Drama Erupts While Wall Street Targets 24% Stock Rally (Yahoo Finance)
+- [macro] NuScale Power Stock Will Spike 23.7% Over the Next 11 Months According to This Wall Street Analyst (Yahoo Finance)
 - [macro] September Is Historically the Worst Month for Stocks. A Pattern From 2000 Says This Could Happen Next. (Yahoo Finance)
 - [macro] Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy. (Yahoo Finance)
 - [macro] Scott Galloway issues grim SpaceX stock price forecast (Yahoo Finance)
 - [macro] I make $25K/month from one simple website (Yahoo Finance)
 - [macro] Why SoundHound AI Stock Rocketed 16.8% Higher in August (Yahoo Finance)
 - [macro] 2 Superior Growth Stocks to Buy and Hold for 10 Years (Yahoo Finance)
-- [macro] Iran warns of 'faster, heavier, more painful response' to US attacks (BBC News)
-- [macro] Dozens feared trapped in collapsed building in Delhi (BBC News)
-- [macro] Minister to meet Jaguar Land Rover boss as thousands of job cuts expected (BBC News)
+- [macro] Overlooked EV stock surges despite buyers abandoning zero-emission cars (Yahoo Finance)
