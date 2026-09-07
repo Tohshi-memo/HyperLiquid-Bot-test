@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T18:52:27.661111+00:00`
-- Market context score: `46.09`
-- News risk score: `45.25`
-- Macro risk score: `24.43`
-- Risk-on score: `27.63`
+- Generated: `2026-09-07T19:07:29.912135+00:00`
+- Market context score: `45.2`
+- News risk score: `44.83`
+- Macro risk score: `24.91`
+- Risk-on score: `25.49`
 - Articles: `50`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11269`
-- Day/swing latest: `2026-09-07T18:45:00+00:00`
+- Day/swing records: `11270`
+- Day/swing latest: `2026-09-07T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `27`, risk hits `13`, risk headline rate `0.4074`, policy hits `6`
-- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
+- crypto: articles `28`, risk hits `13`, risk headline rate `0.3929`, policy hits `6`
+- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ (Cointelegraph.com News)
 - [crypto] Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention (Cointelegraph.com News)
 - [macro] Investigators begin work on why cargo plane overran Miami runway (BBC News)
 - [macro] Investigators begin work on why cargo plane overran Miami runway (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Next wins key appeal to overturn £30m equal pay ruling (BBC News)
 - [macro] Tanzanian President Samia's husband dies in hospital (BBC News)
 - [macro] Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs (BBC News)
-- [crypto] Bitcoin chips away at weekend upside as $80K hangs in the balance (Cointelegraph.com News)
