@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T01:37:23.759656+00:00`
+- Generated: `2026-09-07T01:52:30.734764+00:00`
 - Market context score: `53.15`
 - News risk score: `27.54`
 - Macro risk score: `30.84`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11201`
-- Day/swing latest: `2026-09-07T01:30:00+00:00`
+- Day/swing records: `11202`
+- Day/swing latest: `2026-09-07T01:45:00+00:00`
 
 ## News Categories
 
@@ -32,7 +32,7 @@
 - [macro] Five dead after Amazon cargo plane crashes at Miami airport (BBC News)
 - [crypto] ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Austria's Islamic headscarf ban in force as under-14s go back to school (BBC News)
-- [macro] Chancellor to unveil growth plan with £150m fund for northern firms (BBC News)
+- [macro] Chancellor to say UK economy 'turning a corner' despite debt concerns (BBC News)
 - [macro] The £70 refund letter that isn't a scam (BBC News)
 - [macro] The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs' (BBC News)
 - [macro] Germany's far-right AfD set for big win in eastern state, just short of majority (BBC News)
