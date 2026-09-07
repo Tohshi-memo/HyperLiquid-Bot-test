@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T15:20:00.718017+00:00`
-- Market context score: `43.3`
-- News risk score: `51.84`
-- Macro risk score: `25.04`
-- Risk-on score: `27.24`
+- Generated: `2026-09-07T15:22:49.288891+00:00`
+- Market context score: `42.41`
+- News risk score: `52.41`
+- Macro risk score: `26.17`
+- Risk-on score: `26.17`
 - Articles: `79`
 - Polymarket markets: `391`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `26`, risk hits `14`, risk headline rate `0.4231`, policy hits `4`
-- macro: articles `50`, risk hits `7`, risk headline rate `0.14`, policy hits `10`
+- macro: articles `50`, risk hits `8`, risk headline rate `0.16`, policy hits `10`
 
 ## Headlines
 
+- [macro] CFO Reduces Holdings of Financial Stock by More Than 61,000 Shares, Following 33% Rally (Yahoo Finance)
+- [macro] Loss of Costco deal helps push beverage brand into Chapter 11 (Yahoo Finance)
+- [macro] Caterpillar's Power Generation Backlog Just Hit $72 Billion. The Construction Cycle Barely Matters Anymore. (Yahoo Finance)
 - [macro] These 2 AI Power Stocks Jumped While the S&P 500 Fell (Yahoo Finance)
 - [macro] Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage (Yahoo Finance)
-- [macro] Airbnb vs. Shopify: Which Consumer Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner (Yahoo Finance)
+- [macro] Bernie Sanders Wants to Ban Superintelligence. What It Means for Microsoft and Amazon (Yahoo Finance)
 - [macro] Jaguar Land Rover to cut 4,000 jobs over next two years (BBC News)
 - [macro] Burundians rush to leave Kenya ahead of crackdown on unregistered traders (BBC News)
 - [macro] Why Active Owners Are Betting on Jack in the Box (JACK) (Yahoo Finance)
-- [macro] Hyundai India to invest Rs450bn, launch 26 models by 2030 – report (Yahoo Finance)
-- [commodity] Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit (Energy)
-- [macro] Roblox Has Collapsed 47% This Year: Is It Time to Switch to Take-Two or GameStop? (Yahoo Finance)
-- [macro] Has Nike's Stock Bottomed Out? (Yahoo Finance)
