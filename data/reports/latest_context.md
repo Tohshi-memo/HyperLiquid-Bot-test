@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T22:22:30.665459+00:00`
-- Market context score: `44.25`
-- News risk score: `42.58`
-- Macro risk score: `26.62`
-- Risk-on score: `22.13`
-- Articles: `39`
+- Generated: `2026-09-07T22:37:23.587871+00:00`
+- Market context score: `43.97`
+- News risk score: `43.0`
+- Macro risk score: `26.72`
+- Risk-on score: `21.89`
+- Articles: `36`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11283`
-- Day/swing latest: `2026-09-07T22:15:00+00:00`
+- Day/swing records: `11284`
+- Day/swing latest: `2026-09-07T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `21`, risk hits `9`, risk headline rate `0.381`, policy hits `3`
+- crypto: articles `18`, risk hits `8`, risk headline rate `0.3889`, policy hits `3`
 - macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
+- [macro] Flight recorders recovered from 'devastating' Amazon cargo plane crash (BBC News)
 - [macro] Palestinian parents fear for children's lives at school as settler attacks grow (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] UK financial watchdog weighs lifting prediction markets ban: Report (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Investigators begin work on why cargo plane overran Miami runway (BBC News)
 - [crypto] Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares (Cointelegraph.com News)
 - [commodity] Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit (Energy)
-- [crypto] Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC (Cointelegraph.com News)
