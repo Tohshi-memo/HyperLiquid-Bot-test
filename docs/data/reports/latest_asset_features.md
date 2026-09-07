@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-09-07T10:07:28.864134+00:00`
-- Observed: `2026-09-07T10:00:00+00:00`
+- Generated: `2026-09-07T10:22:30.922341+00:00`
+- Observed: `2026-09-07T10:15:00+00:00`
 - Assets: `1234`
 
 ## Top Activity
@@ -17,14 +17,14 @@ Individual asset screen for drilling down from class-level signals.
 - `#15260` unknown price `0.706` 4h `0.5698` vol `0.0` relationship `risk_on_high->#15260_24h`
 - `#15230` unknown price `0.5` 4h `0.0` vol `0.0` relationship `risk_on_high->#15230_24h`
 - `@144` unknown price `0.000235` 4h `0.8584` vol `0.0` relationship `risk_on_high->@144_24h`
-- `#12130` unknown price `0.20878` 4h `-12.7557` vol `0.0` relationship `risk_on_high->#12130_24h`
 - `#16510` unknown price `0.098915` 4h `0.0` vol `0.0` relationship `risk_on_high->#16510_4h`
+- `#12130` unknown price `0.208635` 4h `-12.7342` vol `0.0` relationship `risk_on_high->#12130_24h`
 - `#16520` unknown price `0.25001` 4h `324.898` vol `0.0` relationship `risk_on_high->#16520_4h`
-- `#12120` unknown price `0.094855` 4h `-9.4852` vol `0.0` relationship `risk_on_high->#12120_24h`
-- `#12140` unknown price `0.48987` 4h `-3.4853` vol `0.0` relationship `risk_on_high->#12140_24h`
-- `#14890` unknown price `0.06682` 4h `0.2701` vol `0.0` relationship `risk_on_high->#14890_24h`
+- `#12120` unknown price `0.0955` 4h `-8.6387` vol `0.0` relationship `risk_on_high->#12120_24h`
+- `#12140` unknown price `0.489175` 4h `-4.2692` vol `0.0` relationship `risk_on_high->#12140_24h`
+- `#14890` unknown price `0.065585` 4h `-3.7143` vol `0.0` relationship `risk_on_high->#14890_24h`
 - `#16490` unknown price `0.385` 4h `27.2433` vol `0.0` relationship `risk_on_high->#16490_4h`
 - `@248` unknown price `281.9` 4h `1.1936` vol `0.0` relationship `risk_on_high->@248_4h`
-- `#12090` unknown price `0.4325` 4h `-2.7008` vol `0.0` relationship `risk_on_high->#12090_24h`
-- `ARB` crypto_alt price `0.16565` 4h `-3.3716` vol `50935092.33` relationship `risk_on_high->ARB_24h`
+- `#12090` unknown price `0.432695` 4h `-2.6733` vol `0.0` relationship `risk_on_high->#12090_24h`
+- `ARB` crypto_alt price `0.16605` 4h `-3.5938` vol `50833976.18` relationship `risk_on_high->ARB_24h`
 - `#16571` unknown price `0.974995` 4h `0.0` vol `0.0` relationship `risk_on_high->#16571_24h`
