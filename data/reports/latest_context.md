@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T00:23:05.583808+00:00`
-- Market context score: `48.95`
+- Generated: `2026-09-07T00:37:26.893775+00:00`
+- Market context score: `53.45`
 - News risk score: `28.71`
 - Macro risk score: `33.19`
-- Risk-on score: `23.33`
+- Risk-on score: `33.33`
 - Articles: `21`
 - Polymarket markets: `391`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11197`
-- Day/swing latest: `2026-09-07T00:15:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [crypto] ‘White hats’ take 4000 BTC from Liquid, ETFs see best week of 2026: Hodler’s Digest (Cointelegraph.com News)
+- [crypto] ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Austria's Islamic headscarf ban in force as under-14s go back to school (BBC News)
 - [macro] Chancellor to unveil growth plan with £150m fund for northern firms (BBC News)
 - [macro] The £70 refund letter that isn't a scam (BBC News)
