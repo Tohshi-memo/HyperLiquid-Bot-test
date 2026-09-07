@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-07T09:40:29.543820+00:00`
+- Generated: `2026-09-07T09:45:58.662356+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6685818.13`
-- Polymarket volume z-score: `-1.07`
+- Polymarket 24h volume: `6414224.37`
+- Polymarket volume z-score: `-1.14`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `528472.254997` | liquidity: `2917405.51459`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `392440.5489999998` | liquidity: `770582.23515`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `310973.5144590002` | liquidity: `569393.8594`
-- Will China invade Taiwan by end of 2026? | 24h volume: `300566.6951910001` | liquidity: `459342.46841`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `236372.52172700004` | liquidity: `1153156.88236`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `226558.65033500013` | liquidity: `592181.7624`
-- Israel closes its airspace by September 30? | 24h volume: `170672.44085500002` | liquidity: `99621.446`
-- Israel x Iran ceasefire continues through September 30? | 24h volume: `166503.93058700004` | liquidity: `72204.0768`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `526216.254997` | liquidity: `2917406.83458`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `387440.549` | liquidity: `770482.23515`
+- Will China invade Taiwan by end of 2026? | 24h volume: `300606.695191` | liquidity: `461750.38174`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `294393.71059000003` | liquidity: `506857.0331`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `234396.421727` | liquidity: `1153426.17066`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `218519.89686199997` | liquidity: `532011.4655`
+- Israel closes its airspace by September 30? | 24h volume: `172095.768459` | liquidity: `99668.3077`
+- Israel x Iran ceasefire continues through September 30? | 24h volume: `166605.08000999998` | liquidity: `71930.7945`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
