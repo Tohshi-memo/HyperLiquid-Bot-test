@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T14:37:33.229660+00:00`
-- Market context score: `43.96`
-- News risk score: `51.24`
-- Macro risk score: `23.79`
-- Risk-on score: `27.72`
+- Generated: `2026-09-07T14:52:25.380707+00:00`
+- Market context score: `42.69`
+- News risk score: `52.49`
+- Macro risk score: `26.29`
+- Risk-on score: `26.89`
 - Articles: `74`
 - Polymarket markets: `391`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `11253`
+- Day/swing latest: `2026-09-07T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `26`, risk hits `14`, risk headline rate `0.4231`, policy hits `4`
-- macro: articles `46`, risk hits `6`, risk headline rate `0.1304`, policy hits `10`
+- macro: articles `46`, risk hits `8`, risk headline rate `0.1739`, policy hits `10`
 
 ## Headlines
 
+- [macro] ISCA partnership model to help smaller accounting practices expand (Yahoo Finance)
 - [macro] Why Jaguar Land Rover has decided change is needed (BBC News)
+- [macro] Prediction: Intel Stock Is Up Big in 2026. But the Best May Still Be Ahead (Yahoo Finance)
+- [macro] Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar? (Yahoo Finance)
+- [macro] Elizabeth Warren's 2026 bill threatens private equity execs with 6 years in prison over hospital patient deaths (Yahoo Finance)
+- [macro] How Energy Security, Load Growth and Infrastructure Arbitrage Could Reshape America's Power Market (Yahoo Finance)
+- [macro] bk plus acquires chartered accountancy practice Joshua Leigh & Co (Yahoo Finance)
+- [macro] Taiwan Semiconductor Manufacturing Company (TSM) Raises Guidance as Demand for Advanced Chips Soars (Yahoo Finance)
 - [commodity] Gasoline prices, over $4 per gallon, hit record high for Labor Day (Energy)
-- [macro] EQT to acquire majority stake in McGill and Partners for $2bn (Yahoo Finance)
 - [macro] Jaguar Land Rover to cut 4,000 jobs over next two years (BBC News)
-- [macro] Cathie Wood buys $3.5 million of surging tech stock (Yahoo Finance)
-- [crypto] Stablecoin wallets challenge traditional bank accounts as main consumer money hub (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Kavango appoints Jasper Musadaidzwa as CEO and executive director (Yahoo Finance)
-- [macro] UK tribunal rules in Next’s favour on equal pay dispute (Yahoo Finance)
-- [macro] Nvidia’s (NVDA) Strong Results Reinforce Long Term Outlook (Yahoo Finance)
-- [macro] Germany's far-right AfD says 'democracy demands' parties work with them after state election win (BBC News)
