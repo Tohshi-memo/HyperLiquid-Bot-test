@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T02:22:24.630514+00:00`
-- Market context score: `53.12`
-- News risk score: `27.57`
-- Macro risk score: `30.9`
-- Risk-on score: `30.78`
-- Articles: `20`
+- Generated: `2026-09-07T02:37:24.159341+00:00`
+- Market context score: `51.52`
+- News risk score: `28.71`
+- Macro risk score: `33.19`
+- Risk-on score: `29.05`
+- Articles: `21`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11204`
-- Day/swing latest: `2026-09-07T02:15:00+00:00`
+- Day/swing records: `11205`
+- Day/swing latest: `2026-09-07T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `1`
 
 ## Headlines
 
+- [macro] China to pump $54bn into state banks and insurers to boost economy (BBC News)
 - [macro] Five dead after Amazon cargo plane crashes at Miami airport (BBC News)
 - [macro] Five dead after Amazon cargo plane crashes at Miami airport (BBC News)
 - [crypto] ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs' (BBC News)
 - [macro] Germany's far-right AfD set for big win in eastern state, just short of majority (BBC News)
 - [macro] India's high-stakes exam system faces a crisis of trust (BBC News)
-- [macro] Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain (BBC News)
