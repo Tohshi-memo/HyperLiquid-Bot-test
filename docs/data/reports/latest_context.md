@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T09:37:30.740534+00:00`
-- Market context score: `46.94`
-- News risk score: `46.87`
-- Macro risk score: `22.38`
-- Risk-on score: `30.12`
+- Generated: `2026-09-07T09:43:59.772082+00:00`
+- Market context score: `45.76`
+- News risk score: `46.63`
+- Macro risk score: `22.0`
+- Risk-on score: `27.15`
 - Articles: `65`
 - Polymarket markets: `391`
 
@@ -24,17 +24,17 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `7`, risk headline rate `0.3846`, policy hits `2`
-- macro: articles `51`, risk hits `7`, risk headline rate `0.1373`, policy hits `4`
+- macro: articles `51`, risk hits `7`, risk headline rate `0.1373`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Jaguar Land Rover to cut 4,000 jobs (BBC News)
-- [macro] ABG renames Girona unit and assigns flexible packaging development role (Yahoo Finance)
-- [macro] There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy in September. (Yahoo Finance)
-- [macro] Billionaire Bill Ackman Sells Alphabet Stock and Buys a Mega-Cap Stock Down 42% From Its High (Yahoo Finance)
-- [macro] If the Fed Hikes Interest Rates This Month, History Says This Is the Smartest ETF to Buy Right Now (Yahoo Finance)
+- [macro] Where Will Tesla Be in 5 Years? (Yahoo Finance)
+- [crypto] Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Walt Disney mortgaged his house and sold his car to fund Snow White — his wife said she 'never felt secure' (Yahoo Finance)
+- [macro] Mondelēz shifts European biscuit packaging from plastic trays to paper (Yahoo Finance)
+- [macro] A Once-in-a-Decade Opportunity: 1 Magnificent S&P 500 Stock Down 41% to Buy Right Now (Yahoo Finance)
+- [macro] China’s Foreign Exchange Reserves Continue to Climb (Yahoo Finance)
 - [macro] Baidu Just Gained Shanghai and Shenzhen Stock Connect Access. Is It Now a Better AI Bet Than Alibaba? (Yahoo Finance)
 - [macro] Israeli strikes in southern Lebanese village kill nine (BBC News)
 - [macro] Nova (NVMI) Just Blew Past $250M In Quarterly Sales (Yahoo Finance)
-- [macro] Germany's far-right AfD hails big victory in east, but falls short of majority (BBC News)
