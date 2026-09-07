@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-07T00:37:26.893775+00:00`
-- Market context score: `53.45`
-- News risk score: `28.71`
-- Macro risk score: `33.19`
-- Risk-on score: `33.33`
-- Articles: `21`
+- Generated: `2026-09-07T00:52:23.798990+00:00`
+- Market context score: `53.19`
+- News risk score: `27.48`
+- Macro risk score: `30.73`
+- Risk-on score: `30.78`
+- Articles: `23`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:796`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `11198`
+- Day/swing latest: `2026-09-07T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `1`
+- macro: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [macro] Five dead after Amazon cargo plane crashes at Miami airport (BBC News)
+- [macro] Five dead after Amazon cargo plane crashes at Miami airport (BBC News)
 - [crypto] ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Austria's Islamic headscarf ban in force as under-14s go back to school (BBC News)
 - [macro] Chancellor to unveil growth plan with £150m fund for northern firms (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Germany's far-right AfD set for big win in eastern state, just short of majority (BBC News)
 - [macro] India's high-stakes exam system faces a crisis of trust (BBC News)
 - [macro] Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain (BBC News)
-- [macro] Zelensky says he expects war to continue into winter after talks with US envoys (BBC News)
-- [macro] Video shows damaged Amazon cargo plane after crash (BBC News)
