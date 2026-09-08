@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T11:07:27.589577+00:00`
-- Market context score: `50.87`
-- News risk score: `41.08`
-- Macro risk score: `25.76`
-- Risk-on score: `35.24`
-- Articles: `66`
+- Generated: `2026-09-08T11:22:27.408671+00:00`
+- Market context score: `48.39`
+- News risk score: `43.49`
+- Macro risk score: `25.69`
+- Risk-on score: `31.75`
+- Articles: `69`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11333`
-- Day/swing latest: `2026-09-08T11:00:00+00:00`
+- Day/swing records: `11334`
+- Day/swing latest: `2026-09-08T11:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `2`
-- macro: articles `45`, risk hits `12`, risk headline rate `0.2`, policy hits `7`
+- commodity: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `46`, risk hits `12`, risk headline rate `0.2174`, policy hits `4`
 
 ## Headlines
 
-- [macro] 'JLR job cuts a cause for uncertainty and worry' (BBC News)
-- [macro] Investigation after female staff at Eiffel Tower replaced by men for religious visit (BBC News)
-- [macro] U.S. Treasury Yields Rise, Dollar Falls in European Trade (Yahoo Finance)
-- [crypto] Cronos executes controversial blockchain rollback to recover crypto worth $111 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Morning Bid: Yen at work (Yahoo Finance)
-- [macro] Walmart Has Gone Practically Nowhere, While Target Is Up 68%. But Only 1 of These Dividend Kings Is a Buy in September. (Yahoo Finance)
-- [macro] Alphabet vs. Meta Platforms: Which "Magnificent Seven" Titan Has More Room to Run in September? (Yahoo Finance)
-- [crypto] Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] U.S. Small Business Confidence Edged Lower Last Month (Yahoo Finance)
-- [macro] Exclusive: CATL execs say energy storage industry ‘has to catch up’ – Part 1 (Yahoo Finance)
+- [macro] Gold prices today, Tuesday, September 8, 2026: Gold moves lower following fresh escalations with Iran (Yahoo Finance)
+- [macro] Argentina targets oil company operating in Falklands (BBC News)
+- [crypto] How Curve's soft liquidation model lets borrowers survive market drawdowns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Boston Scientific ‘Unlikely to Meet’ Earnings Guidance After Cyberattack. Stock Falls. (Yahoo Finance)
+- [macro] Nvidia’s $12.9 Billion Hugging Face Bet Comes With One Huge Risk (Yahoo Finance)
+- [macro] Bloom Energy Is Joining the S&P 500: Is the Stock Still a Buy After Its Massive Run? (Yahoo Finance)
+- [macro] Intel, Amgen, Novartis, Bloom Energy, and More Stocks That Explain Today’s Market (Yahoo Finance)
+- [macro] How much to invest in Nike stock to earn $1,000 in annual dividends (Yahoo Finance)
+- [macro] Old Mutual H1 Earnings Call Highlights (Yahoo Finance)
+- [macro] How should companies address marijuana use by employees? Ask Johnny (Yahoo Finance)
