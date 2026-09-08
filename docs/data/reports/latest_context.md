@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T10:07:28.420522+00:00`
-- Market context score: `48.1`
-- News risk score: `37.55`
-- Macro risk score: `27.54`
-- Risk-on score: `26.78`
-- Articles: `53`
+- Generated: `2026-09-08T10:22:30.123931+00:00`
+- Market context score: `46.73`
+- News risk score: `40.61`
+- Macro risk score: `27.29`
+- Risk-on score: `26.22`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11329`
-- Day/swing latest: `2026-09-08T10:00:00+00:00`
+- Day/swing records: `11330`
+- Day/swing latest: `2026-09-08T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `2`
-- macro: articles `35`, risk hits `11`, risk headline rate `0.2571`, policy hits `0`
+- crypto: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `2`
+- macro: articles `39`, risk hits `11`, risk headline rate `0.2308`, policy hits `6`
 
 ## Headlines
 
-- [crypto] Robinhood chain to generate $160M in annual fees by 2028: Bernstein (Cointelegraph.com News)
-- [crypto] Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] New Bitcoin whales spark sell-side risk as unrealized gains hit $9B (Cointelegraph.com News)
-- [crypto] Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] DBS targets Gen Z in Singapore with new credit and debit card offerings (Yahoo Finance)
-- [macro] If a Stock Market Crash Is Coming, Investors Will Want to Own This Dividend King (Yahoo Finance)
-- [macro] Why Nutanix Stock Ascended in August (Yahoo Finance)
-- [macro] UK's third-biggest taxpayer to leave for Greece (BBC News)
-- [macro] Five killed in Miami plane crash were in two vehicles on ground, investigators say (BBC News)
-- [macro] Mistral secures $3.5bn in Series D, reaching $24bn valuation (Yahoo Finance)
+- [macro] Kenya moves to register frightened Burundians as tension over foreign traders rises (BBC News)
+- [crypto] Uzbekistan begins government bond-backed stablecoin payment pilot (Cointelegraph.com News)
+- [macro] He Sold the Season-Ticket Rights He’d Held for 20 Years. Medicare Raised His Premium Two Years Later. (Yahoo Finance)
+- [crypto] Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’ (Cointelegraph.com News)
+- [macro] Cone Denim to exit China production, shift focus to Mexico platform (Yahoo Finance)
+- [macro] Funding Circle H1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Why investors are looking to Africa’s packaging industry for growth (Yahoo Finance)
+- [macro] Best CD rates today, Tuesday, September 8, 2026: Lock in up to 4.35% APY (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Tuesday, September 8, 2026: Rates down to start holiday-shortened week (Yahoo Finance)
+- [macro] A Vaxcyte Executive Just Cashed Options Struck at $5.35. Here's What Long-Term Investors Should Know (Yahoo Finance)
