@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T15:07:31.641841+00:00`
-- Market context score: `47.68`
-- News risk score: `45.44`
-- Macro risk score: `33.99`
-- Risk-on score: `34.94`
-- Articles: `95`
+- Generated: `2026-09-08T15:22:27.271607+00:00`
+- Market context score: `47.98`
+- News risk score: `45.59`
+- Macro risk score: `34.34`
+- Risk-on score: `35.88`
+- Articles: `96`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `11349`
+- Day/swing latest: `2026-09-08T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `33`, risk hits `6`, risk headline rate `0.1818`, policy hits `5`
-- macro: articles `58`, risk hits `25`, risk headline rate `0.3103`, policy hits `8`
+- macro: articles `59`, risk hits `27`, risk headline rate `0.322`, policy hits `5`
 
 ## Headlines
 
-- [macro] In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers (BBC News)
-- [macro] Deloitte Romania expands management team with three new directors (Yahoo Finance)
+- [commodity] Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities (Energy)
 - [macro] Heathrow and Gatwick among airports hit by air traffic control problems (BBC News)
-- [macro] TD Synnex (SNX) Shares Jump Over 50% on Cloud Growth and AI Infrastructure Demand (Yahoo Finance)
-- [macro] Cathie Wood Just Went Bargain Hunting. Here Are the 3 AI Stocks She Bought. (Yahoo Finance)
-- [macro] Zoetis (ZTS) Shares Drop After Earnings Revision (Yahoo Finance)
-- [macro] Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028 (Yahoo Finance)
-- [macro] Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs (BBC News)
-- [macro] Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs (BBC News)
-- [macro] Shift Away from Defensive Plays Hits Verizon Communications (VZ) (Yahoo Finance)
+- [macro] Borrowers expecting mortgage rates to drop have hopes dashed (BBC News)
+- [macro] Ukrainian TV channel building hit by Russian drone as five killed in Kyiv (BBC News)
+- [macro] Jensen Huang just sent Wall Street a message about AGI (Yahoo Finance)
+- [macro] Sudan's healthcare system on brink of collapse after cuts, medical charity warns (BBC News)
+- [macro] Consumers more worried about personal finances and jobs, New York Fed report shows (Yahoo Finance)
+- [macro] Could Apple Face a $17 Billion Child Safety Settlement Like Meta? (Yahoo Finance)
+- [macro] ‘Are you going to get money back to the American people?’ asks Senator Warren on tariff refund checks. Here’s the answer (Yahoo Finance)
+- [macro] Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH (Yahoo Finance)
