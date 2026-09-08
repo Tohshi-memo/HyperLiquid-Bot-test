@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T13:07:28.605161+00:00`
-- Market context score: `44.52`
-- News risk score: `46.2`
-- Macro risk score: `33.87`
-- Risk-on score: `28.51`
-- Articles: `75`
+- Generated: `2026-09-08T13:22:26.636507+00:00`
+- Market context score: `45.07`
+- News risk score: `45.48`
+- Macro risk score: `33.71`
+- Risk-on score: `29.08`
+- Articles: `78`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11341`
-- Day/swing latest: `2026-09-08T13:00:00+00:00`
+- Day/swing records: `11342`
+- Day/swing latest: `2026-09-08T13:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `3`
-- macro: articles `47`, risk hits `21`, risk headline rate `0.3404`, policy hits `8`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `3`
+- macro: articles `48`, risk hits `20`, risk headline rate `0.3125`, policy hits `11`
 
 ## Headlines
 
+- [macro] Borrowers expecting mortgage rates to drop have hopes dashed (BBC News)
+- [crypto] Ethereum makes quantum resistance a top priority with a 2029 deadline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Brent crude oil near $98 after Iran's Houthi allies attack multiple Saudi energy facilities (Energy)
 - [crypto] Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More (Yahoo Finance)
-- [crypto] Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares (Cointelegraph.com News)
-- [macro] Robinhood strikes prediction markets deal with Crypto.com (Yahoo Finance)
-- [macro] Quantum Computing Stocks: IonQ Hosts Investor Day With SkyWater Deal In Focus (Yahoo Finance)
-- [macro] I Think Apple is Getting Re-Rated to $400 So I’m Buying Again and Again (Yahoo Finance)
-- [crypto] Mexico quadruple homicide tied to alleged Bitcoin robbery attempt (Cointelegraph.com News)
-- [macro] Stock Market Today: Dow Slides 400 Points On Continued U.S.-Iran Attacks; Oil Prices Jump Again (Live Coverage) (Yahoo Finance)
-- [macro] AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor (Yahoo Finance)
-- [commodity] Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities (Energy)
+- [macro] McKesson Eyes $2.25B Precision Medicine Deal as Oncology Growth Accelerates (Yahoo Finance)
+- [macro] Hormuz disruptions hitting small businesses hardest, UN trade agency warns (Yahoo Finance)
+- [macro] Nvidia Is Worth $5 Trillion. But This Could Be the Next Big Catalyst for the Stock (Yahoo Finance)
+- [macro] Nike and This Retail Giant Will No Longer Be Part of This Prestigious S&P Index (Yahoo Finance)
+- [macro] Artisan Sold Insulet (PODD) Due to Competition Concerns (Yahoo Finance)
