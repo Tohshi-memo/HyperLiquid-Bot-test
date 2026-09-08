@@ -1,40 +1,40 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T15:52:26.168081+00:00`
-- Market context score: `48.06`
+- Generated: `2026-09-08T16:07:32.168349+00:00`
+- Market context score: `49.12`
 - News risk score: `46.8`
-- Macro risk score: `34.08`
-- Risk-on score: `36.97`
-- Articles: `96`
-- Polymarket markets: `393`
+- Macro risk score: `34.67`
+- Risk-on score: `39.56`
+- Articles: `98`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1235`
+- Asset universe count: `1236`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
+- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11351`
-- Day/swing latest: `2026-09-08T15:45:00+00:00`
+- Day/swing records: `11352`
+- Day/swing latest: `2026-09-08T16:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `33`, risk hits `7`, risk headline rate `0.2121`, policy hits `5`
-- macro: articles `59`, risk hits `27`, risk headline rate `0.322`, policy hits `4`
+- commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `1`
+- crypto: articles `34`, risk hits `7`, risk headline rate `0.2059`, policy hits `5`
+- macro: articles `59`, risk hits `26`, risk headline rate `0.339`, policy hits `3`
 
 ## Headlines
 
+- [macro] Heathrow and Gatwick among airports hit by air traffic control problems (BBC News)
+- [commodity] Jim Cramer wants to buy more FedEx Freight once this 1 thing happens (Energy)
+- [macro] SpaceX trades 11% above its $135 IPO price as analysts target $280 — but one investor warns valuation is 'beyond silly' (Yahoo Finance)
+- [macro] History Shows the Investors Who Make This 1 Move During Bear Markets Build the Most Wealth (Yahoo Finance)
+- [macro] Why Intel Stock Rallied Tuesday Morning (Yahoo Finance)
+- [macro] Strong Results Lifted Garrett Motion (GTX) in Q2 (Yahoo Finance)
+- [macro] Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock (Yahoo Finance)
 - [crypto] Bitcoin faces key support test at $78.3K as US crude oil hits three-month high (Cointelegraph.com News)
 - [macro] The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales (Yahoo Finance)
-- [macro] In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers (BBC News)
-- [macro] If I Could Invest $500 in Just 1 ETF in September, Here's What I'd Buy (Yahoo Finance)
-- [macro] Citi makes outrageous call on Ciena stock after earnings (Yahoo Finance)
-- [commodity] Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities (Energy)
-- [macro] Why D-Wave Quantum Stock Popped Today (Yahoo Finance)
-- [macro] Robinhood Lands Crypto.com Deal, Underwriting Job For Oura. Goldman Hikes Target. (Yahoo Finance)
-- [macro] GE Aerospace To Buy Key Industry Castings Supplier CPP For Nearly $12 Billion (Yahoo Finance)
-- [macro] Heathrow and Gatwick among airports hit by air traffic control problems (BBC News)
+- [macro] Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout (Yahoo Finance)
