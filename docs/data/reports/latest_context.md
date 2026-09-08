@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T02:52:29.893567+00:00`
-- Market context score: `48.74`
-- News risk score: `36.46`
-- Macro risk score: `24.21`
-- Risk-on score: `26.01`
-- Articles: `32`
+- Generated: `2026-09-08T03:07:31.912097+00:00`
+- Market context score: `48.43`
+- News risk score: `36.76`
+- Macro risk score: `24.81`
+- Risk-on score: `25.82`
+- Articles: `31`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11301`
-- Day/swing latest: `2026-09-08T02:45:00+00:00`
+- Day/swing records: `11302`
+- Day/swing latest: `2026-09-08T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `2`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [macro] China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade (Economy)
 - [commodity] Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz (Energy)
 - [commodity] Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict (Energy)
 - [macro] Ukraine's chief prosecutor resigns over call centre corruption scandal (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Eiffel Tower shut by staff protest after female workers moved for religious visit (BBC News)
 - [macro] A food safety officer has become a social media star in India - why? (BBC News)
 - [macro] 'I performed on stage to get my first job' - the firms turning recruitment into competitions (BBC News)
-- [macro] AI cancer cures slowed by chip shortage, says UK's biggest tech boss (BBC News)
 - [macro] AI cancer cures slowed by chip shortage, says UK's biggest tech boss (BBC News)
