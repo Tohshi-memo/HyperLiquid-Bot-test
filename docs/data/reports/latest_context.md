@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T12:07:28.350679+00:00`
-- Market context score: `43.14`
+- Generated: `2026-09-08T12:22:25.846521+00:00`
+- Market context score: `44.29`
 - News risk score: `45.82`
 - Macro risk score: `31.26`
-- Risk-on score: `24.13`
+- Risk-on score: `26.7`
 - Articles: `71`
 - Polymarket markets: `392`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11337`
-- Day/swing latest: `2026-09-08T12:00:00+00:00`
+- Day/swing records: `11338`
+- Day/swing latest: `2026-09-08T12:15:00+00:00`
 
 ## News Categories
 
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [commodity] Iran Foreign Ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz (Energy)
+- [macro] Blackstone explores stake in India’s IIFL Finance – report (Yahoo Finance)
+- [macro] UST completes majority takeover of Italdesign from Audi (Yahoo Finance)
 - [macro] Borrowers expecting mortgage rates to drop have hopes dashed (BBC News)
 - [macro] WaFd and EverBank Financial agree on $3.9bn reverse merger (Yahoo Finance)
+- [macro] Gas prices hit record high for Labor Day weekend 2026 (Yahoo Finance)
 - [macro] Schroders and ttb wealth securities to build HNW offering in Thailand (Yahoo Finance)
+- [macro] 3 Financial Stocks You Could Buy Today and Not Think About Until 2030 (Yahoo Finance)
 - [commodity] Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities (Energy)
-- [macro] MiniMed (MMED) Q1 2027 Earnings Call Transcript (Yahoo Finance)
-- [macro] Medtronic (MDT) Q1 2027 Earnings Call Transcript (Yahoo Finance)
 - [macro] The stock market's hot streak hints at more good times ahead (Yahoo Finance)
-- [macro] Why Wall Street’s Breakup Fantasy Doesn’t Work for Netflix (Yahoo Finance)
-- [macro] Investigation after female staff at Eiffel Tower replaced by men for religious visit (BBC News)
