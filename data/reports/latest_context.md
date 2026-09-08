@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T17:22:33.212404+00:00`
-- Market context score: `51.16`
-- News risk score: `44.95`
-- Macro risk score: `33.23`
-- Risk-on score: `41.98`
-- Articles: `97`
+- Generated: `2026-09-08T17:37:30.593677+00:00`
+- Market context score: `51.17`
+- News risk score: `45.28`
+- Macro risk score: `33.82`
+- Risk-on score: `42.49`
+- Articles: `96`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11357`
-- Day/swing latest: `2026-09-08T17:15:00+00:00`
+- Day/swing records: `11358`
+- Day/swing latest: `2026-09-08T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `1`
 - crypto: articles `33`, risk hits `6`, risk headline rate `0.1818`, policy hits `4`
-- macro: articles `59`, risk hits `25`, risk headline rate `0.322`, policy hits `2`
+- macro: articles `58`, risk hits `25`, risk headline rate `0.3276`, policy hits `3`
 
 ## Headlines
 
+- [macro] Fourteen go on trial over deadliest Channel small boats disaster (BBC News)
+- [macro] Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit (Yahoo Finance)
+- [macro] Consumers more worried about personal finances and jobs, New York Fed report shows (Yahoo Finance)
+- [macro] UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating (Yahoo Finance)
 - [macro] Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day (Yahoo Finance)
 - [macro] Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens (Economy)
 - [macro] Bitcoin analyst spots 2015 signal that preceded 9,800% rally (Yahoo Finance)
 - [macro] Ukrainian TV channel building hit by Russian drone as five killed in Kyiv (BBC News)
-- [macro] Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14% (Yahoo Finance)
-- [macro] Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!) (Yahoo Finance)
 - [crypto] Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal (Cointelegraph.com News)
 - [macro] TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally (Yahoo Finance)
-- [macro] Qualcomm and Amazon ink deal for custom data center chips (Yahoo Finance)
-- [macro] United Natural Foods, Inc. Q4 2026 Earnings Call Summary (Yahoo Finance)
