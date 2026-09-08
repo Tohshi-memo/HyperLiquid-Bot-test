@@ -1,24 +1,24 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T07:37:28.226599+00:00`
+- Generated: `2026-09-08T07:52:31.303515+00:00`
 - Market context score: `51.06`
 - News risk score: `33.47`
 - Macro risk score: `27.78`
 - Risk-on score: `30.0`
 - Articles: `32`
-- Polymarket markets: `390`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `629`
 
-- Asset universe count: `1235`
+- Asset universe count: `1212`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
-- HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
+- Asset classes: `commodity:11, crypto_alt:232, crypto_major:8, equity:123, fx:5, index:20, metal:18, unknown:795`
+- HIP-3 dexes: `abcd, cash, flx, hyna, io, mkts, para, vntl, xyz`
 
-- Day/swing records: `11319`
-- Day/swing latest: `2026-09-08T07:30:00+00:00`
+- Day/swing records: `11320`
+- Day/swing latest: `2026-09-08T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] The firms turning recruitment into X Factor-style competitions (BBC News)
 - [crypto] Swiss stablecoin sandbox enters testing phase, adds two new partners (Cointelegraph.com News)
 - [macro] Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens (Economy)
 - [crypto] Bit2Me sets up specialized unit to help law enforcement track down crypto assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin’s golden cross is here (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz (Energy)
-- [crypto] Australia says it removed 45 crypto, remittance registrations over the past year (Cointelegraph.com News)
