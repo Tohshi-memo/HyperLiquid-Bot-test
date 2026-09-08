@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-08T01:00:27.557495+00:00`
+- Generated: `2026-09-08T01:05:31.129299+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1157423.340666` | liquidity: `2144776.79592`
-- Israel closes its airspace by September 30? | 24h volume: `835161.5630780002` | liquidity: `296798.78846`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `663843.962177` | liquidity: `753715.956`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `447785.5300530002` | liquidity: `702135.9187`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `271125.993328` | liquidity: `1116733.52508`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `256360.10000000003` | liquidity: `1022076.13385`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1157423.340666` | liquidity: `2136992.45852`
+- Israel closes its airspace by September 30? | 24h volume: `835161.5630780002` | liquidity: `296610.17405`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `663843.962177` | liquidity: `753510.2551`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `447785.5300530002` | liquidity: `703925.6619`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `271125.993328` | liquidity: `1104989.46908`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `256360.10000000003` | liquidity: `1020367.09789`
 - Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `161604.81382799998` | liquidity: `53112.1147`
-- US-Iran Final Nuclear Deal by December 31, 2026? | 24h volume: `140188.08525499998` | liquidity: `276909.7887`
+- US-Iran Final Nuclear Deal by December 31, 2026? | 24h volume: `140188.08525499998` | liquidity: `276909.7821`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
