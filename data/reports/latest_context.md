@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-08T00:37:26.281260+00:00`
+- Generated: `2026-09-08T00:52:25.033789+00:00`
 - Market context score: `48.84`
 - News risk score: `37.25`
 - Macro risk score: `22.68`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:232, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11292`
-- Day/swing latest: `2026-09-08T00:30:00+00:00`
+- Day/swing records: `11293`
+- Day/swing latest: `2026-09-08T00:45:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Trump threatens to stop sale of Canadian Bombardier jets in US (BBC News)
+- [macro] Trump threatens to stop sale of Canadian Bombardier jets in US (BBC News)
 - [macro] Eiffel Tower shut by staff protest after female workers moved for religious visit (BBC News)
 - [macro] A food safety officer has become a social media star in India - why? (BBC News)
-- [macro] Trump threatens to stop sale of Canadian Bombardier jets in US (BBC News)
-- [macro] Trump threatens to stop sale of Canadian Bombardier jets in US (BBC News)
 - [macro] 'I performed on stage to get my first job' - the firms turning recruitment into competitions (BBC News)
 - [macro] AI cancer cures slowed by chip shortage, says UK's biggest tech boss (BBC News)
 - [macro] AI cancer cures slowed by chip shortage, says UK's biggest tech boss (BBC News)
