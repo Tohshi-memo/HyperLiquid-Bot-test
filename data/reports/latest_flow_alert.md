@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-08T06:25:27.475935+00:00`
+- Generated: `2026-09-08T06:30:32.444630+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7499102.27`
-- Polymarket volume z-score: `-0.69`
+- Polymarket 24h volume: `7450491.61`
+- Polymarket volume z-score: `-0.7`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1228881.213747` | liquidity: `2137777.49406`
-- Israel closes its airspace by September 30? | 24h volume: `825019.1429490002` | liquidity: `220335.75244`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `646501.5829339998` | liquidity: `781760.4612`
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `580483.688` | liquidity: `1183359.48403`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `440033.9562319999` | liquidity: `770492.8571`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `298466.492` | liquidity: `984976.48737`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `296050.529864` | liquidity: `1073514.61318`
-- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `186658.69532399997` | liquidity: `26513.2359`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1229177.3187469998` | liquidity: `2136571.11288`
+- Israel closes its airspace by September 30? | 24h volume: `822816.4624619997` | liquidity: `217723.87677`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `643714.3223529998` | liquidity: `766873.337`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `580483.688` | liquidity: `1185151.49202`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `437321.96034700004` | liquidity: `764030.0347`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `308337.482` | liquidity: `985042.72739`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `267617.166531` | liquidity: `1073514.81214`
+- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `186669.80532400002` | liquidity: `26480.4692`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
