@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T22:52:30.216084+00:00`
+- Generated: `2026-09-09T23:07:30.160583+00:00`
 - Market context score: `40.76`
 - News risk score: `46.75`
 - Macro risk score: `43.32`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11474`
-- Day/swing latest: `2026-09-09T22:45:00+00:00`
+- Day/swing records: `11475`
+- Day/swing latest: `2026-09-09T23:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] The one thing you need to do to succeed - according to top bosses (BBC News)
 - [macro] Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Spanish intelligence warned of Ceuta mass crossing plans before surge (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Apple's new boss starts with big gamble on costly first folding iPhone (BBC News)
 - [commodity] Trump says oil and gas prices won't fall until 'right after' midterm election (Energy)
 - [commodity] Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf (Energy)
-- [crypto] Consensys to split into MetaMask and institutional blockchain company (Cointelegraph.com News)
