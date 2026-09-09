@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T02:52:30.175880+00:00`
-- Market context score: `40.08`
-- News risk score: `45.13`
-- Macro risk score: `43.47`
-- Risk-on score: `21.39`
-- Articles: `34`
+- Generated: `2026-09-09T03:07:26.522874+00:00`
+- Market context score: `43.2`
+- News risk score: `43.44`
+- Macro risk score: `40.1`
+- Risk-on score: `25.61`
+- Articles: `35`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,23 +17,23 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11395`
-- Day/swing latest: `2026-09-09T02:45:00+00:00`
+- Day/swing records: `11396`
+- Day/swing latest: `2026-09-09T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `23`, risk hits `15`, risk headline rate `0.5217`, policy hits `2`
+- macro: articles `24`, risk hits `14`, risk headline rate `0.4583`, policy hits `2`
 
 ## Headlines
 
+- [macro] US slaps import ban on Canadian alcohol, motorbikes and other goods (BBC News)
+- [macro] US slaps import ban on Canadian alcohol, motorbikes and other goods (BBC News)
+- [macro] More flight delays expected after hundreds cancelled by air traffic control glitch (BBC News)
 - [macro] UK announces sanctions on West Bank settlements prompting furious Israeli response (BBC News)
-- [macro] US slaps import ban on Canadian alcohol and other goods (BBC News)
-- [macro] US slaps import ban on Canadian alcohol and other goods (BBC News)
 - [commodity] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries (Energy)
 - [macro] Meta continues to run ads promoting child sexual abuse material in India - report (BBC News)
-- [macro] More flight delays expected after hundreds cancelled by air traffic control glitch (BBC News)
 - [macro] Hegseth is shaking up the Pentagon as the US wages war - but at what cost? (BBC News)
 - [macro] 'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on (BBC News)
 - [macro] Should promotion depend on how workers use AI? (BBC News)
