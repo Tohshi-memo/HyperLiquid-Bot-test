@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T18:37:24.814315+00:00`
+- Generated: `2026-09-09T18:46:07.514036+00:00`
 - Market context score: `37.0`
 - News risk score: `52.69`
 - Macro risk score: `38.24`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11457`
-- Day/swing latest: `2026-09-09T18:30:00+00:00`
+- Day/swing records: `11458`
+- Day/swing latest: `2026-09-09T18:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf (Energy)
+- [macro] Apple's unveils its first folding iPhone (BBC News)
 - [macro] Air traffic failure was avoidable, says transport secretary (BBC News)
 - [crypto] TRM Labs doubles valuation to $2B in Series C expansion (Cointelegraph.com News)
 - [macro] Google picks Finland for its largest single investment in Europe (BBC News)
 - [macro] Oil hits $100 a barrel for first time since July after US and Houthi strikes (BBC News)
-- [commodity] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf (Energy)
 - [crypto] U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction (Cointelegraph.com News)
 - [macro] Watch: Norway bids farewell to King Harald (BBC News)
 - [macro] Mother demands answers, weeks after black woman found hanging from Mississippi tree (BBC News)
 - [macro] Europe's royalty pay respects to King Harald V in Norway (BBC News)
-- [crypto] Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar (Cointelegraph.com News)
