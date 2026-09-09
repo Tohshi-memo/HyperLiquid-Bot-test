@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T03:07:26.522874+00:00`
-- Market context score: `43.2`
-- News risk score: `43.44`
-- Macro risk score: `40.1`
+- Generated: `2026-09-09T03:22:27.154769+00:00`
+- Market context score: `43.49`
+- News risk score: `43.01`
+- Macro risk score: `39.38`
 - Risk-on score: `25.61`
 - Articles: `35`
 - Polymarket markets: `393`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:797`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11396`
-- Day/swing latest: `2026-09-09T03:00:00+00:00`
+- Day/swing records: `11397`
+- Day/swing latest: `2026-09-09T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `24`, risk hits `14`, risk headline rate `0.4583`, policy hits `2`
+- macro: articles `24`, risk hits `14`, risk headline rate `0.4583`, policy hits `0`
 
 ## Headlines
 
+- [macro] Hong Kong's first post-colonial leader dies aged 89 (BBC News)
 - [macro] US slaps import ban on Canadian alcohol, motorbikes and other goods (BBC News)
 - [macro] US slaps import ban on Canadian alcohol, motorbikes and other goods (BBC News)
 - [macro] More flight delays expected after hundreds cancelled by air traffic control glitch (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Hegseth is shaking up the Pentagon as the US wages war - but at what cost? (BBC News)
 - [macro] 'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on (BBC News)
 - [macro] Should promotion depend on how workers use AI? (BBC News)
-- [macro] I'm 27 and I've already written my will - here's why (BBC News)
