@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T18:07:26.370760+00:00`
-- Market context score: `40.13`
-- News risk score: `51.22`
-- Macro risk score: `33.75`
-- Risk-on score: `22.96`
-- Articles: `91`
+- Generated: `2026-09-09T18:22:28.291616+00:00`
+- Market context score: `37.69`
+- News risk score: `51.55`
+- Macro risk score: `37.11`
+- Risk-on score: `19.08`
+- Articles: `65`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11455`
-- Day/swing latest: `2026-09-09T18:00:00+00:00`
+- Day/swing records: `11456`
+- Day/swing latest: `2026-09-09T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `38`, risk hits `16`, risk headline rate `0.3158`, policy hits `3`
-- macro: articles `52`, risk hits `22`, risk headline rate `0.3269`, policy hits `2`
+- crypto: articles `37`, risk hits `16`, risk headline rate `0.3243`, policy hits `3`
+- macro: articles `27`, risk hits `12`, risk headline rate `0.3704`, policy hits `1`
 
 ## Headlines
 
-- [macro] Brent crude oil rises above $100 a barrel as Middle East conflict intensifies (Yahoo Finance)
-- [macro] SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady (Yahoo Finance)
-- [macro] The New Hunter Biden Meme Coin Is Down 98% Since Launch. Here's What Crypto Investors Need to Know. (Yahoo Finance)
-- [macro] Amazon raises £4.25 billion in debut sterling bond sale for AI (Yahoo Finance)
-- [macro] Bill Ackman Bets Big on Uber Stock. Should You Follow Him? (Yahoo Finance)
-- [macro] Palantir Changed The Number It Wants You To Judge It By (Yahoo Finance)
+- [macro] Air traffic failure was avoidable, says Transport Secretary (BBC News)
 - [crypto] TRM Labs doubles valuation to $2B in Series C expansion (Cointelegraph.com News)
-- [macro] Apple Unveils iPhone 18 Handsets, Touts AI Capabilities (Yahoo Finance)
-- [macro] Jim Cramer Prefers CoreWeave (CRWV) Over IREN (IREN) (Yahoo Finance)
-- [macro] Gasoline prices are 'highest ever for this time of year': Chart of the Day (Yahoo Finance)
+- [macro] Google picks Finland for its largest single investment in Europe (BBC News)
+- [macro] Oil hits $100 a barrel for first time since July after US and Houthi strikes (BBC News)
+- [commodity] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf (Energy)
+- [crypto] U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction (Cointelegraph.com News)
+- [macro] Watch: Norway bids farewell to King Harald (BBC News)
+- [macro] Mother demands answers, weeks after black woman found hanging from Mississippi tree (BBC News)
+- [macro] Europe's royalty pay respects to King Harald V in Norway (BBC News)
+- [crypto] Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar (Cointelegraph.com News)
