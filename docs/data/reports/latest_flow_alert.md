@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-09T04:20:26.427257+00:00`
+- Generated: `2026-09-09T04:25:27.131533+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6896317.56`
-- Polymarket volume z-score: `-0.75`
+- Polymarket 24h volume: `6771446.87`
+- Polymarket volume z-score: `-0.77`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `623499.8778289997` | liquidity: `618427.3994`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `424735.374243` | liquidity: `2004155.20916`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `285417.63079200004` | liquidity: `440441.5985`
-- US x Iran Effective Ceasefire by September 4? | 24h volume: `263633.81327400013` | liquidity: `51242.4554`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `240570.37572899996` | liquidity: `1034383.40162`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `239397.82156700004` | liquidity: `428447.2091`
-- Will Eric Trump win the 2028 Republican presidential nomination? | 24h volume: `237204.526` | liquidity: `1765619.77723`
-- Will United Russia (ER) win the most seats in the next Russian parliamentary election? | 24h volume: `223726.94312600003` | liquidity: `141223.54903`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `622408.6221659997` | liquidity: `621677.1143`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `416886.568993` | liquidity: `2004316.80109`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `285253.84118300007` | liquidity: `440400.5657`
+- US x Iran Effective Ceasefire by September 4? | 24h volume: `263239.3379140001` | liquidity: `53778.1594`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `239397.82156699998` | liquidity: `425011.7626`
+- Will Eric Trump win the 2028 Republican presidential nomination? | 24h volume: `237276.236` | liquidity: `1765745.06615`
+- Will United Russia (ER) win the most seats in the next Russian parliamentary election? | 24h volume: `223726.94312600003` | liquidity: `141223.56903`
+- Israel closes its airspace by September 30? | 24h volume: `198435.27250500006` | liquidity: `186960.90178`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
