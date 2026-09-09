@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T18:22:28.291616+00:00`
-- Market context score: `37.69`
-- News risk score: `51.55`
-- Macro risk score: `37.11`
-- Risk-on score: `19.08`
-- Articles: `65`
+- Generated: `2026-09-09T18:37:24.814315+00:00`
+- Market context score: `37.0`
+- News risk score: `52.69`
+- Macro risk score: `38.24`
+- Risk-on score: `18.94`
+- Articles: `67`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11456`
-- Day/swing latest: `2026-09-09T18:15:00+00:00`
+- Day/swing records: `11457`
+- Day/swing latest: `2026-09-09T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `37`, risk hits `16`, risk headline rate `0.3243`, policy hits `3`
-- macro: articles `27`, risk hits `12`, risk headline rate `0.3704`, policy hits `1`
+- macro: articles `29`, risk hits `14`, risk headline rate `0.3793`, policy hits `5`
 
 ## Headlines
 
-- [macro] Air traffic failure was avoidable, says Transport Secretary (BBC News)
+- [macro] Air traffic failure was avoidable, says transport secretary (BBC News)
 - [crypto] TRM Labs doubles valuation to $2B in Series C expansion (Cointelegraph.com News)
 - [macro] Google picks Finland for its largest single investment in Europe (BBC News)
 - [macro] Oil hits $100 a barrel for first time since July after US and Houthi strikes (BBC News)
