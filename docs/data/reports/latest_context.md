@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T06:52:26.457859+00:00`
+- Generated: `2026-09-09T07:07:26.038492+00:00`
 - Market context score: `42.82`
 - News risk score: `43.0`
 - Macro risk score: `32.0`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11411`
-- Day/swing latest: `2026-09-09T06:45:00+00:00`
+- Day/swing records: `11412`
+- Day/swing latest: `2026-09-09T07:00:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [macro] South Park creators rename show 'South America' in apparent dig at Trump (BBC News)
 - [crypto] Gemini receives Singapore payment license for crypto services (Cointelegraph.com News)
 - [crypto] Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Cowboy builder tore my home apart and disappeared off the face of the earth with £14k (BBC News)
+- [macro] Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k (BBC News)
 - [crypto] Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
