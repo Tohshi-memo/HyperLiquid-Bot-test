@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T22:07:26.399484+00:00`
-- Market context score: `38.86`
-- News risk score: `48.85`
-- Macro risk score: `44.36`
-- Risk-on score: `22.15`
-- Articles: `60`
+- Generated: `2026-09-09T22:22:32.778506+00:00`
+- Market context score: `39.9`
+- News risk score: `48.12`
+- Macro risk score: `43.29`
+- Risk-on score: `23.44`
+- Articles: `58`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11471`
-- Day/swing latest: `2026-09-09T22:00:00+00:00`
+- Day/swing records: `11472`
+- Day/swing latest: `2026-09-09T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `33`, risk hits `10`, risk headline rate `0.2121`, policy hits `2`
-- macro: articles `25`, risk hits `14`, risk headline rate `0.48`, policy hits `1`
+- crypto: articles `32`, risk hits `10`, risk headline rate `0.2188`, policy hits `2`
+- macro: articles `24`, risk hits `13`, risk headline rate `0.4583`, policy hits `1`
 
 ## Headlines
 
+- [macro] Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Spanish intelligence warned of Ceuta mass crossing plans before surge (BBC News)
 - [macro] Two die at Moldovan border as Russia-Ukraine drone war rages (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Trump says oil and gas prices won't fall until 'right after' midterm election (Energy)
 - [commodity] Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf (Energy)
 - [crypto] Consensys to split into MetaMask and institutional blockchain company (Cointelegraph.com News)
-- [macro] Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show (BBC News)
