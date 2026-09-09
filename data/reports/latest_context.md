@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T10:07:30.051250+00:00`
-- Market context score: `44.25`
-- News risk score: `43.88`
-- Macro risk score: `29.14`
-- Risk-on score: `24.18`
-- Articles: `34`
+- Generated: `2026-09-09T10:22:26.730671+00:00`
+- Market context score: `45.1`
+- News risk score: `44.25`
+- Macro risk score: `31.67`
+- Risk-on score: `27.33`
+- Articles: `45`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11424`
-- Day/swing latest: `2026-09-09T10:00:00+00:00`
+- Day/swing records: `11425`
+- Day/swing latest: `2026-09-09T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `0`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `5`
 
 ## Headlines
 
-- [crypto] Iran eases currency controls to let traders bring earnings home in crypto: FT (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Antropic researcher believes more than 10% chance AI 'could kill all humans' (BBC News)
-- [macro] Learner drivers still waiting 20 weeks to book tests (BBC News)
-- [crypto] Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Oil hits $100 a barrel for first time since July after US and Houthi strikes (BBC News)
-- [commodity] Brent crude tops $100 as U.S.-Iran tit-for-tat strikes stoke oil supply worries (Energy)
 - [macro] US to ban imports of some Canadian alcohol, dairy goods and motorbikes (BBC News)
 - [macro] US to ban imports of some Canadian alcohol, dairy goods and motorbikes (BBC News)
-- [macro] U.S. reveals import ban on slew of Canadian goods as trade war escalates (Economy)
-- [macro] Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement (BBC News)
+- [crypto] Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market (Cointelegraph.com News)
+- [crypto] Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down (Cointelegraph.com News)
+- [macro] JSW, Volkswagen sign non-binding MoU for 51:49 India JV – report (Yahoo Finance)
+- [macro] IonQ Investor Day Unveils Superion Roadmap, SkyWater-Powered Growth Strategy (Yahoo Finance)
+- [macro] The Gym Group H1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Energean H1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys (Yahoo Finance)
+- [macro] Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise (Yahoo Finance)
