@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T18:46:07.514036+00:00`
-- Market context score: `37.0`
-- News risk score: `52.69`
-- Macro risk score: `38.24`
-- Risk-on score: `18.94`
-- Articles: `67`
+- Generated: `2026-09-09T18:52:34.317638+00:00`
+- Market context score: `36.33`
+- News risk score: `53.5`
+- Macro risk score: `39.37`
+- Risk-on score: `18.55`
+- Articles: `68`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -24,12 +24,12 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `37`, risk hits `16`, risk headline rate `0.3243`, policy hits `3`
-- macro: articles `29`, risk hits `14`, risk headline rate `0.3793`, policy hits `5`
+- macro: articles `30`, risk hits `15`, risk headline rate `0.4`, policy hits `5`
 
 ## Headlines
 
 - [commodity] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf (Energy)
-- [macro] Apple's unveils its first folding iPhone (BBC News)
+- [macro] Apple unveils its first folding iPhone (BBC News)
 - [macro] Air traffic failure was avoidable, says transport secretary (BBC News)
 - [crypto] TRM Labs doubles valuation to $2B in Series C expansion (Cointelegraph.com News)
 - [macro] Google picks Finland for its largest single investment in Europe (BBC News)
