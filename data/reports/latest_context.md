@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T06:20:25.357840+00:00`
-- Market context score: `45.15`
-- News risk score: `39.05`
-- Macro risk score: `34.11`
-- Risk-on score: `23.96`
+- Generated: `2026-09-09T06:23:06.934081+00:00`
+- Market context score: `43.84`
+- News risk score: `41.5`
+- Macro risk score: `32.0`
+- Risk-on score: `22.33`
 - Articles: `28`
 - Polymarket markets: `393`
 
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `0`
+- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
+- macro: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Singaporean man pleads guilty in US to massive crypto heist (BBC News)
 - [macro] South Park creators rename show 'South America' in apparent dig at Trump (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US strikes Iranian oil tankers as Tehran targets American base in Jordan (BBC News)
-- [macro] Hong Kong's first leader after British handover dies (BBC News)
