@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-09T01:05:30.145080+00:00`
+- Generated: `2026-09-09T01:10:29.460105+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7118149.06`
+- Polymarket 24h volume: `7088573.89`
 - Polymarket volume z-score: `-0.72`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `626552.9499499998` | liquidity: `757553.9495`
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `580718.33` | liquidity: `1188339.09062`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `493527.49707400013` | liquidity: `1924896.77474`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `290240.5819290001` | liquidity: `412753.8812`
-- US x Iran Effective Ceasefire by September 4? | 24h volume: `244942.39046499995` | liquidity: `54542.5346`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `243325.21650500002` | liquidity: `425194.6399`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `242524.405729` | liquidity: `1038599.62254`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `238675.09064600008` | liquidity: `221614.4774`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `626324.6638139995` | liquidity: `754833.4337`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `580718.33` | liquidity: `1189717.55682`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `412784.501074` | liquidity: `1924951.88559`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `290240.58192900004` | liquidity: `410737.2812`
+- US x Iran Effective Ceasefire by September 4? | 24h volume: `250372.2184600001` | liquidity: `57658.1274`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `243325.21650499996` | liquidity: `425262.0843`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `242524.405729` | liquidity: `1038585.39884`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `238690.260646` | liquidity: `221639.544`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
