@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T10:22:26.730671+00:00`
-- Market context score: `45.1`
-- News risk score: `44.25`
-- Macro risk score: `31.67`
-- Risk-on score: `27.33`
-- Articles: `45`
-- Polymarket markets: `392`
+- Generated: `2026-09-09T10:37:25.342668+00:00`
+- Market context score: `44.11`
+- News risk score: `46.85`
+- Macro risk score: `35.38`
+- Risk-on score: `28.73`
+- Articles: `48`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11425`
-- Day/swing latest: `2026-09-09T10:15:00+00:00`
+- Day/swing records: `11426`
+- Day/swing latest: `2026-09-09T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `5`
+- macro: articles `32`, risk hits `14`, risk headline rate `0.3438`, policy hits `5`
 
 ## Headlines
 
+- [macro] Smithfield Foods forecasts Q3 loss for fresh-pork arm (Yahoo Finance)
 - [macro] US to ban imports of some Canadian alcohol, dairy goods and motorbikes (BBC News)
 - [macro] US to ban imports of some Canadian alcohol, dairy goods and motorbikes (BBC News)
-- [crypto] Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market (Cointelegraph.com News)
-- [crypto] Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down (Cointelegraph.com News)
-- [macro] JSW, Volkswagen sign non-binding MoU for 51:49 India JV – report (Yahoo Finance)
-- [macro] IonQ Investor Day Unveils Superion Roadmap, SkyWater-Powered Growth Strategy (Yahoo Finance)
-- [macro] The Gym Group H1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Energean H1 Earnings Call Highlights (Yahoo Finance)
-- [macro] Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys (Yahoo Finance)
-- [macro] Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise (Yahoo Finance)
+- [macro] Billionaire Israel Englander Is Doubling Down on These 2 Outstanding Dividend Stocks. Should You? (Yahoo Finance)
+- [macro] TSMC’s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines (Yahoo Finance)
+- [macro] Argentina's corn exports set for record, as war in Ukraine, European heat wave reshape trade (Yahoo Finance)
+- [macro] Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi (Yahoo Finance)
+- [macro] Sterling Rises as Markets Raise BOE Rate Hike Expectations (Yahoo Finance)
+- [macro] AI infrastructure bets drive venture debt toward record levels (Yahoo Finance)
+- [macro] Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due (Yahoo Finance)
