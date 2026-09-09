@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T14:37:32.323055+00:00`
-- Market context score: `43.86`
-- News risk score: `49.86`
-- Macro risk score: `34.95`
-- Risk-on score: `30.55`
+- Generated: `2026-09-09T14:52:30.346421+00:00`
+- Market context score: `45.99`
+- News risk score: `47.51`
+- Macro risk score: `30.31`
+- Risk-on score: `31.56`
 - Articles: `88`
 - Polymarket markets: `391`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11442`
-- Day/swing latest: `2026-09-09T14:30:00+00:00`
+- Day/swing records: `11443`
+- Day/swing latest: `2026-09-09T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `33`, risk hits `11`, risk headline rate `0.2727`, policy hits `1`
-- macro: articles `54`, risk hits `27`, risk headline rate `0.3704`, policy hits `4`
+- macro: articles `54`, risk hits `21`, risk headline rate `0.2963`, policy hits `3`
 
 ## Headlines
 
-- [macro] Prediction: $2,304 Invested in Nvidia Today Will Be Worth Triple That Amount in 5 Years (Yahoo Finance)
-- [macro] Alphabet (GOOG) Exit: Monetizing Derivative Gains and Securing Returns (Yahoo Finance)
-- [macro] Analog Devices to acquire Alif Semiconductor for $1.35 billion (Yahoo Finance)
-- [macro] CEO Buys $250,000 Worth of Regional Bank Stock (Yahoo Finance)
-- [macro] ‘Unholy developments’: Jim Cramer warns interest rates are unlikely to drop — bolster your portfolio before a reckoning (Yahoo Finance)
-- [macro] Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be the Top Performers to End 2026 (Yahoo Finance)
-- [macro] AXA partners with Publicis Sapient to scale AI agent deployment (Yahoo Finance)
-- [macro] Meta stock surges with Wall Street bullish on new AI agent (Yahoo Finance)
-- [macro] Stock Market Today: Dow Off 350 Points As Oil Surges; Chevron Shares Move Past A Buy Point (Live Coverage) (Yahoo Finance)
-- [macro] How Large Does Your Portfolio Need to Be to Generate $12,500 a Month? (Yahoo Finance)
+- [macro] “Being Too Prudent Is Actually Reckless”: Cramer as the Safe Bond Fund Loses Money Over 5 Years (Yahoo Finance)
+- [macro] Alphyn Capital on Its Special-Situation Investment: AnaptysBio (ANAB) (Yahoo Finance)
+- [macro] What is the 'Lean FIRE' movement, and how can it help you reach financial independence? (Yahoo Finance)
+- [macro] Should You Grab Nebius In Anticipation of Full Capacity Pricing? (Yahoo Finance)
+- [macro] Evaluating Visa’s (V)Long-Term Moat (Yahoo Finance)
+- [macro] Saipem wins Osman Gazi FPU commissioning contract in Türkiye (Yahoo Finance)
+- [macro] Morrisons partners with Instaleap to streamline online order fulfilment (Yahoo Finance)
+- [macro] Prediction: This Could Be the Next AI Stock to Join the $5 Trillion Club (Yahoo Finance)
+- [macro] 2 Dividend Stocks Built to Hold Up When Markets Don't (Yahoo Finance)
+- [macro] Analyzing Amazon’s (AMZN) Reinvestment Flywheel in the AI Era (Yahoo Finance)
