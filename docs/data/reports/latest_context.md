@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T11:37:26.641128+00:00`
-- Market context score: `44.15`
-- News risk score: `49.84`
-- Macro risk score: `35.94`
-- Risk-on score: `31.55`
-- Articles: `62`
+- Generated: `2026-09-09T11:52:43.645478+00:00`
+- Market context score: `41.72`
+- News risk score: `52.03`
+- Macro risk score: `35.82`
+- Risk-on score: `27.94`
+- Articles: `65`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11430`
-- Day/swing latest: `2026-09-09T11:30:00+00:00`
+- Day/swing records: `11431`
+- Day/swing latest: `2026-09-09T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `0`
-- macro: articles `42`, risk hits `21`, risk headline rate `0.381`, policy hits `6`
+- crypto: articles `20`, risk hits `8`, risk headline rate `0.35`, policy hits `0`
+- macro: articles `44`, risk hits `22`, risk headline rate `0.3864`, policy hits `5`
 
 ## Headlines
 
+- [macro] Petrol prices rise by 5p over a week as Iran war sends oil higher (BBC News)
+- [macro] Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due (Yahoo Finance)
+- [crypto] U.S. Bank takes next step towards launching its stablecoin with cross-border payment test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] ARM mortgage demand rises as 30-year fixed rate hits 14-month high (Yahoo Finance)
+- [macro] St. James’s Place names Justin Onuekwusi CEO of investments (Yahoo Finance)
+- [macro] Jim Cramer says investors are too focused on AI stocks (Yahoo Finance)
+- [macro] This AI Chipmaker Looks Like a Bargain With AI Revenue Set to Double Again Next Year (Yahoo Finance)
 - [macro] Learner drivers still waiting 20 weeks to book tests (BBC News)
+- [macro] A Virginia woman's inbox exploded with 600+ emails — scammers were hiding a $1,200 fraudulent purchase (Yahoo Finance)
 - [macro] N Korea has built two-storey uranium enrichment facility, says watchdog (BBC News)
-- [macro] U.S. reveals import ban on slew of Canadian goods as trade war escalates (Economy)
-- [macro] Bitcoin and ethereum prices today, Wednesday, September 9, 2026: Ongoing escalations in the Middle East are keeping a lid on crypto (Yahoo Finance)
-- [crypto] OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Wall Street's newest crypto fund comes with a staking feature to boost returns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] More flights delayed after hundreds cancelled by air traffic control glitch (BBC News)
-- [macro] “Unparalleled opportunity”: Sandoz embarks on ambitious biosimilar growth strategy (Yahoo Finance)
-- [macro] First copper-gold concentrate produced at Eldorado’s Skouries site (Yahoo Finance)
-- [crypto] Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties (Cointelegraph.com News)
