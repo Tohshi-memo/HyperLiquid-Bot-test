@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T15:52:30.933848+00:00`
-- Market context score: `46.86`
-- News risk score: `50.74`
-- Macro risk score: `35.16`
-- Risk-on score: `38.04`
-- Articles: `93`
+- Generated: `2026-09-09T16:07:32.877598+00:00`
+- Market context score: `46.17`
+- News risk score: `49.35`
+- Macro risk score: `31.37`
+- Risk-on score: `33.9`
+- Articles: `94`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11446`
-- Day/swing latest: `2026-09-09T15:45:00+00:00`
+- Day/swing records: `11447`
+- Day/swing latest: `2026-09-09T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `38`, risk hits `14`, risk headline rate `0.2895`, policy hits `2`
-- macro: articles `54`, risk hits `24`, risk headline rate `0.3519`, policy hits `4`
+- crypto: articles `40`, risk hits `16`, risk headline rate `0.3`, policy hits `3`
+- macro: articles `53`, risk hits `19`, risk headline rate `0.283`, policy hits `3`
 
 ## Headlines
 
+- [crypto] U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Two die at Moldovan border as Russia-Ukraine drone war rages (BBC News)
+- [crypto] Hunter Biden’s laptop controversy gets a memecoin afterlife (Cointelegraph.com News)
+- [crypto] Trade groups seek to block Illinois crypto tax before January effective date (Cointelegraph.com News)
 - [crypto] Tether pushes into private credit with $400 million fund with Fasanara (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] A Long-Term Bullish Trade Might Be The Ticket For This Stock (Yahoo Finance)
 - [commodity] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf (Energy)
-- [macro] Anthropic researcher believes more than 10% chance AI 'could kill all humans' (BBC News)
-- [crypto] Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3% (Yahoo Finance)
-- [macro] U.S. reveals import ban on slew of Canadian goods as trade war escalates (Economy)
-- [macro] Treasury Yields Rise Despite Record $6B Debt Buyback (Yahoo Finance)
-- [crypto] Consensys to split MetaMask into its own firm while staying silent on IPO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Is SpaceX a Top Artificial Intelligence (AI) Stock Pick in September? (Yahoo Finance)
-- [macro] Brent crude oil rises above $100 a barrel as Middle East conflict intensifies (Yahoo Finance)
+- [macro] NuScale Power: 1 Catalyst That Will Make or Break This Nuclear Stock (Yahoo Finance)
+- [macro] Why Corning Stock Keeps Going Up (Yahoo Finance)
+- [macro] Amazon and Oracle Are Extremely Anxious About The Upcoming Fed Meeting (Yahoo Finance)
