@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T04:07:28.397757+00:00`
+- Generated: `2026-09-09T04:22:27.071402+00:00`
 - Market context score: `41.22`
 - News risk score: `38.54`
 - Macro risk score: `38.09`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11400`
-- Day/swing latest: `2026-09-09T04:00:00+00:00`
+- Day/swing records: `11401`
+- Day/swing latest: `2026-09-09T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Malone Lam pleads guilty in $245M crypto theft conspiracy (Cointelegraph.com News)
 - [macro] Singaporean man pleads guilty in US to massive crypto heist (BBC News)
 - [macro] Hong Kong's first post-colonial leader dies aged 89 (BBC News)
 - [macro] US slaps import ban on Canadian alcohol, motorbikes and other goods (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries (Energy)
 - [macro] Meta continues to run ads promoting child sexual abuse material in India - report (BBC News)
 - [macro] Hegseth is shaking up the Pentagon as the US wages war - but at what cost? (BBC News)
-- [macro] 'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on (BBC News)
