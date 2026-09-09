@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T05:52:25.217794+00:00`
-- Market context score: `43.58`
-- News risk score: `40.0`
-- Macro risk score: `36.0`
-- Risk-on score: `22.0`
-- Articles: `29`
+- Generated: `2026-09-09T06:07:27.374975+00:00`
+- Market context score: `45.15`
+- News risk score: `39.05`
+- Macro risk score: `34.11`
+- Risk-on score: `23.96`
+- Articles: `28`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11407`
-- Day/swing latest: `2026-09-09T05:45:00+00:00`
+- Day/swing records: `11408`
+- Day/swing latest: `2026-09-09T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `0`
+- macro: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Singaporean man pleads guilty in US to massive crypto heist (BBC News)
+- [macro] South Park creators rename show 'South America' in apparent dig at Trump (BBC News)
 - [crypto] Gemini receives Singapore payment license for crypto services (Cointelegraph.com News)
 - [crypto] Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Cowboy builder tore my home apart and disappeared off the face of the earth with £14k (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US strikes Iranian oil tankers as Tehran targets American base in Jordan (BBC News)
 - [macro] Hong Kong's first leader after British handover dies (BBC News)
-- [crypto] Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy (Cointelegraph.com News)
-- [macro] US slaps import ban on Canadian alcohol, motorbikes and other goods (BBC News)
