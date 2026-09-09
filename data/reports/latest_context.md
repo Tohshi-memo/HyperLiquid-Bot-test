@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-09T17:22:31.549537+00:00`
-- Market context score: `44.85`
-- News risk score: `48.96`
-- Macro risk score: `30.59`
-- Risk-on score: `30.34`
-- Articles: `93`
+- Generated: `2026-09-09T17:37:27.536059+00:00`
+- Market context score: `40.48`
+- News risk score: `50.46`
+- Macro risk score: `32.97`
+- Risk-on score: `22.8`
+- Articles: `94`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11452`
-- Day/swing latest: `2026-09-09T17:15:00+00:00`
+- Day/swing records: `11453`
+- Day/swing latest: `2026-09-09T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `40`, risk hits `16`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `52`, risk hits `18`, risk headline rate `0.2692`, policy hits `3`
+- crypto: articles `39`, risk hits `16`, risk headline rate `0.3077`, policy hits `3`
+- macro: articles `54`, risk hits `21`, risk headline rate `0.3148`, policy hits `2`
 
 ## Headlines
 
-- [macro] Google picks Finland for its largest single investment in Europe (BBC News)
-- [macro] Johnson & Johnson Eyes High-End MedTech Growth as Cardiovascular Takes Center Stage (Yahoo Finance)
-- [macro] Optical Cable Q3 Earnings Call Highlights (Yahoo Finance)
-- [macro] Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back (Yahoo Finance)
-- [macro] Verizon and Corning Just Signed an 80 Million Mile Fiber Deal to Wire the AI Boom (Yahoo Finance)
-- [macro] Oracle’s Disruptive Nature is Very Compelling (Yahoo Finance)
-- [macro] J.Jill, Inc. Q2 2026 Earnings Call Summary (Yahoo Finance)
-- [macro] Oil hits $100 a barrel for first time since July after US and Houthi strikes (BBC News)
-- [commodity] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf (Energy)
-- [crypto] U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction (Cointelegraph.com News)
+- [crypto] TRM Labs doubles valuation to $2B in Series C expansion (Cointelegraph.com News)
+- [macro] Jim Cramer Prefers CoreWeave (CRWV) Over IREN (IREN) (Yahoo Finance)
+- [macro] Gasoline prices are 'highest ever for this time of year': Chart of the Day (Yahoo Finance)
+- [macro] Jack Dorsey's Block makes major move to become a U.S. crypto bank (Yahoo Finance)
+- [macro] Abel reversed Buffett's two biggest convictions in six months (Yahoo Finance)
+- [macro] Ripple Engineer Questions FXRP Bridge Security as Flare Co-Founder Pushes Back (Yahoo Finance)
+- [macro] Why China’s rise needs to be taken with a pinch of salt (Yahoo Finance)
+- [macro] Jim Cramer on Alphabet (GOOGL): “I Don’t Care Where It Went, I Care Where It’s Going” (Yahoo Finance)
+- [macro] Aave Nears $1B Milestone for V4 Deposits (Yahoo Finance)
+- [macro] If You Had Bought $10,000 of Apple Stock When Tim Cook Became CEO, Here's What You'd Have Today (Yahoo Finance)
