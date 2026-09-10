@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T15:52:35.991054+00:00`
-- Market context score: `43.1`
-- News risk score: `55.35`
-- Macro risk score: `33.47`
-- Risk-on score: `32.94`
-- Articles: `75`
+- Generated: `2026-09-10T16:07:32.478495+00:00`
+- Market context score: `40.79`
+- News risk score: `57.72`
+- Macro risk score: `33.96`
+- Risk-on score: `29.98`
+- Articles: `80`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:135, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11542`
-- Day/swing latest: `2026-09-10T15:45:00+00:00`
+- Day/swing records: `11543`
+- Day/swing latest: `2026-09-10T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `32`, risk hits `16`, risk headline rate `0.4062`, policy hits `7`
-- macro: articles `41`, risk hits `15`, risk headline rate `0.2683`, policy hits `8`
+- crypto: articles `33`, risk hits `19`, risk headline rate `0.4545`, policy hits `4`
+- macro: articles `45`, risk hits `16`, risk headline rate `0.2889`, policy hits `8`
 
 ## Headlines
 
-- [macro] Coinbase CEO Says Bitcoin Could Hit $400,000 by 2030 — Here’s Why (Yahoo Finance)
-- [macro] Nasdaq Pours Millions Into Crypto Platform Partnership For Tokenized Trading (Yahoo Finance)
-- [macro] Veteran analyst says buy Vertiv despite huge gains already (Yahoo Finance)
-- [macro] Cathie Wood Buys Meta, Sells Alphabet. Is She Buying High and Selling Low? (Yahoo Finance)
-- [macro] Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies (Yahoo Finance)
-- [macro] FTG Bets That Investors Overreact. Here Is How to Tell If the Thesis Is Working (Yahoo Finance)
-- [macro] Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends. (Yahoo Finance)
-- [macro] 18 WTW agents quit in 44 minutes, walked next door to competitor Lockton — and allegedly took $5 million in clients (Yahoo Finance)
-- [macro] The Surprising Pockmarks On Cooper's Earnings That Caused Its Stock To Dive (Yahoo Finance)
-- [macro] Stock Market Today: Dow Slides As Oil Rocks Higher; Sandisk Slumps As SpaceX Rises (Live Coverage) (Yahoo Finance)
+- [macro] SpaceX shares higher as data center overhaul, budding UK defense deal in focus (Yahoo Finance)
+- [macro] Expedia CEO: Despite record-high gas prices, 'people are still traveling' (Yahoo Finance)
+- [macro] Oil, gas and borrowing costs surge as fears over Middle East escalate (BBC News)
+- [crypto] Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Traders Are Paying More to Bet on Oracle Than to Protect Against It. Here’s Why That Is Backwards (Yahoo Finance)
+- [macro] Where Will Rocket Lab Stock Be by This Time Next Year? (Yahoo Finance)
+- [macro] Why Designer Brands Stock Was Moving Higher Today (Yahoo Finance)
+- [crypto] EU finance groups push to remove tokenized securities cap (Cointelegraph.com News)
+- [macro] Bitcoin Selling Pressure Drops to Historic Lows Amid Rebound (Yahoo Finance)
+- [macro] Trump administration proposes waiving grace period for H-1B holders after job loss (Yahoo Finance)
