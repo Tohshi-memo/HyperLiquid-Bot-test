@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-10T23:00:24.452215+00:00`
+- Generated: `2026-09-10T23:05:32.870852+00:00`
 - Flow alert score: `21.28`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1793032.1252970004` | liquidity: `552177.1111`
-- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `1646408.73` | liquidity: `401002.34356`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1606716.5259590002` | liquidity: `640516.0032`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `973614.7073550001` | liquidity: `1371512.40118`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `671371.149` | liquidity: `1429990.13801`
-- Will Karim Bouamrane win the 2027 French presidential election? | 24h volume: `516079.36` | liquidity: `589838.11958`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `489780.319126` | liquidity: `906654.66743`
-- LAPTOP FDV above $1B one day after launch? | 24h volume: `445106.475972` | liquidity: `194412.31739`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1793032.1252970004` | liquidity: `544616.9799`
+- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `1646408.73` | liquidity: `394228.66706`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1606716.5259590002` | liquidity: `635193.2314`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `973614.7073550001` | liquidity: `1367767.11629`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `671371.149` | liquidity: `1419132.70283`
+- Will Karim Bouamrane win the 2027 French presidential election? | 24h volume: `516079.36` | liquidity: `580861.62336`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `489780.319126` | liquidity: `893083.22907`
+- LAPTOP FDV above $1B one day after launch? | 24h volume: `445106.475972` | liquidity: `193302.44043`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
