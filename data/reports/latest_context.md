@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T15:03:15.872212+00:00`
-- Market context score: `45.31`
-- News risk score: `54.85`
-- Macro risk score: `33.94`
-- Risk-on score: `37.61`
-- Articles: `76`
+- Generated: `2026-09-10T15:07:32.024111+00:00`
+- Market context score: `45.26`
+- News risk score: `55.28`
+- Macro risk score: `34.81`
+- Risk-on score: `38.18`
+- Articles: `77`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `31`, risk hits `15`, risk headline rate `0.3871`, policy hits `7`
-- macro: articles `43`, risk hits `17`, risk headline rate `0.2558`, policy hits `16`
+- macro: articles `44`, risk hits `18`, risk headline rate `0.2727`, policy hits `16`
 
 ## Headlines
 
+- [macro] Oil, gas and borrowing costs surge as fears over Middle East escalate (BBC News)
 - [crypto] Crypto for Advisors: Hyperliquid and the future of finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war (Energy)
 - [crypto] Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Why Did Sandisk Stock Slump Today? (Yahoo Finance)
 - [macro] The Thing to Watch With AXTQ Is Not AXT. It Is How Long You Hold It (Yahoo Finance)
 - [macro] Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7% (Yahoo Finance)
-- [macro] US explores access to Venezuela’s mineral sector (Yahoo Finance)
