@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T13:07:28.609588+00:00`
-- Market context score: `41.56`
-- News risk score: `51.01`
-- Macro risk score: `33.45`
-- Risk-on score: `25.84`
-- Articles: `53`
+- Generated: `2026-09-10T13:22:30.118304+00:00`
+- Market context score: `42.21`
+- News risk score: `54.38`
+- Macro risk score: `32.07`
+- Risk-on score: `29.61`
+- Articles: `72`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11531`
-- Day/swing latest: `2026-09-10T13:00:00+00:00`
+- Day/swing records: `11532`
+- Day/swing latest: `2026-09-10T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `13`, risk headline rate `0.4167`, policy hits `6`
-- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `2`
+- crypto: articles `25`, risk hits `13`, risk headline rate `0.4`, policy hits `6`
+- macro: articles `45`, risk hits `14`, risk headline rate `0.2444`, policy hits `8`
 
 ## Headlines
 
 - [commodity] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war (Energy)
-- [crypto] Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Wealthy investors seek oil and gas assets, but bargains are scarce (Energy)
-- [macro] Sector-Wide Demand Pushes Caterpillar (CAT) Shares Higher (Yahoo Finance)
-- [macro] ASML, TSMC Target 40% High-NA Productivity Gain. The Catch Is a 2033 Timeline (Yahoo Finance)
-- [macro] Coinbase and Moov partner to bring stablecoins to community banks (Yahoo Finance)
-- [macro] Wholesale prices rose 0.4% in August, as expected (Economy)
-- [macro] Billionaire Stanley Druckenmiller Has Sold Micron, Broadcom, and Intel. Here's the Biggest AI Chip Designer Left in His Portfolio. (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls After Surprise Inflation Data; Nvidia Chipmaker Slides On Sales (Live Coverage) (Yahoo Finance)
-- [macro] Forget Overvalued Tech: Build an AI Fortress Portfolio With These 5 Dividend Aristocrats (Yahoo Finance)
+- [macro] Royal family rift after popular TV news presenter chosen to succeed Ugandan king (BBC News)
+- [macro] Bank of America says rising bond yields aren't a threat to AI trade yet (Yahoo Finance)
+- [macro] AeroVironment Rises 5% on First International LOCUST Laser Order, Unusual Machines Holds Steady, Ondas Slips (Yahoo Finance)
+- [macro] Why a 3 ETF Portfolio May Be All Most Retirees Need (Yahoo Finance)
+- [macro] If an AI Bubble Burst Is Coming, History Says This 1 Investing Move Is Crucial Right Now (Yahoo Finance)
+- [macro] Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO (Yahoo Finance)
+- [macro] Citigroup (C) Gains on Turnaround Momentum (Yahoo Finance)
+- [macro] US producer prices increase as expected in August (Yahoo Finance)
+- [macro] ServiceNow Maps AI Control Tower Strategy as Agents, Security Drive Growth (Yahoo Finance)
