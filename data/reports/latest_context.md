@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T06:52:28.156869+00:00`
+- Generated: `2026-09-10T07:07:29.799698+00:00`
 - Market context score: `38.6`
 - News risk score: `47.54`
 - Macro risk score: `45.14`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11506`
-- Day/swing latest: `2026-09-10T06:45:00+00:00`
+- Day/swing records: `11507`
+- Day/swing latest: `2026-09-10T07:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Trump pledges $5,000 to every American if Republicans win November elections (BBC News)
+- [macro] Trump says every adult American would get $5,000 if Republicans win midterms (BBC News)
 - [macro] Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry (BBC News)
 - [crypto] Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
