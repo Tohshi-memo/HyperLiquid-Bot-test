@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T11:22:24.027354+00:00`
+- Generated: `2026-09-10T11:37:35.063917+00:00`
 - Market context score: `47.1`
 - News risk score: `44.27`
 - Macro risk score: `28.97`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11524`
-- Day/swing latest: `2026-09-10T11:15:00+00:00`
+- Day/swing records: `11525`
+- Day/swing latest: `2026-09-10T11:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] At least 20 dead after fire on cargo ship in eastern China, state media report (BBC News)
 - [crypto] Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin traders dial down bullish plays ahead of U.S. inflation data (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] England's mayors to be given power to introduce tourist tax (BBC News)
-- [macro] At least 20 dead after fire on cargo ship in eastern China, state media report (BBC News)
 - [macro] Royal family rift after popular TV news presenter chosen to succeed Ugandan king (BBC News)
 - [macro] Iran war won't end until after crucial November elections, says Trump (BBC News)
 - [crypto] Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
