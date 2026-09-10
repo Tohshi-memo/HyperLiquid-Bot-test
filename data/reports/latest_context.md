@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T23:22:28.961888+00:00`
+- Generated: `2026-09-10T23:37:27.081501+00:00`
 - Market context score: `31.22`
 - News risk score: `59.97`
 - Macro risk score: `42.17`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11572`
-- Day/swing latest: `2026-09-10T23:15:00+00:00`
+- Day/swing records: `11573`
+- Day/swing latest: `2026-09-10T23:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express (Cointelegraph.com News)
 - [macro] Can Europe recharge its battery industry? (BBC News)
 - [macro] I asked my husband to pay into my pension when we had a child - here's why (BBC News)
 - [macro] Are interest rates on the way up again? (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Coach crash kills several people in Swiss Alps (BBC News)
 - [crypto] New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Man jailed after threatening to kill son's teacher in French village (BBC News)
-- [crypto] ESMA warns growing crypto ties could amplify risks to traditional finance (Cointelegraph.com News)
