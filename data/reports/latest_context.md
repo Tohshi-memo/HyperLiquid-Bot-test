@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T15:22:31.994230+00:00`
-- Market context score: `39.36`
-- News risk score: `59.8`
-- Macro risk score: `42.19`
-- Risk-on score: `31.68`
-- Articles: `76`
+- Generated: `2026-09-10T15:37:34.683659+00:00`
+- Market context score: `40.59`
+- News risk score: `56.45`
+- Macro risk score: `35.53`
+- Risk-on score: `29.08`
+- Articles: `75`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:135, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11540`
-- Day/swing latest: `2026-09-10T15:15:00+00:00`
+- Day/swing records: `11541`
+- Day/swing latest: `2026-09-10T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `32`, risk hits `16`, risk headline rate `0.4062`, policy hits `7`
-- macro: articles `42`, risk hits `24`, risk headline rate `0.4048`, policy hits `14`
+- macro: articles `41`, risk hits `16`, risk headline rate `0.2927`, policy hits `13`
 
 ## Headlines
 
+- [macro] 18 WTW agents quit in 44 minutes, walked next door to competitor Lockton — and allegedly took $5 million in clients (Yahoo Finance)
+- [macro] The Surprising Pockmarks On Cooper's Earnings That Caused Its Stock To Dive (Yahoo Finance)
+- [macro] Stock Market Today: Dow Slides As Oil Rocks Higher; Sandisk Slumps As SpaceX Rises (Live Coverage) (Yahoo Finance)
+- [macro] Oracle set to report as Street weighs capex risk against cloud growth (Yahoo Finance)
+- [macro] Cummins Sells the Power Solutions That Keep Data Centers Running. Does That Make the Stock a Buy? (Yahoo Finance)
+- [macro] Fed Rate Hike Odds Rise to 61% After PPI Comes in Hotter than Expected (Yahoo Finance)
 - [macro] Oil, gas and borrowing costs surge as fears over Middle East escalate (BBC News)
+- [macro] 'We intend to be disruptive': Robinhood CEO details big investment bank ambitions after Oura IPO win (Yahoo Finance)
+- [macro] Is Michael Burry Waving a White Flag? ‘Big Short’ Investor Reduces Bearish Bets on NVDA, CRWV (Yahoo Finance)
 - [crypto] Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Odfjell secures $518m contract for Deepsea Bergen from Vår Energi (Yahoo Finance)
-- [macro] ‘I Am the House Now,’ Bessent Warns — But Bond Traders Keep Raising Yields Anyway (Yahoo Finance)
-- [macro] Inflation Is About to Hit Hard as Diesel Prices Soar to Record Near $6 a Gallon (Yahoo Finance)
-- [macro] Dell's AI Server Orders Reached $61 Billion in the Second Quarter, and the Pipeline Keeps Growing (Yahoo Finance)
-- [macro] SoFi Stock Is Down More Than 40%. Here’s Why I’m Not Selling. (Yahoo Finance)
-- [macro] Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges (Yahoo Finance)
-- [crypto] Crypto for Advisors: Hyperliquid and the future of finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Rich Dad' Robert Kiyosaki is $1.2 billion in debt — on purpose. Here's why. (Yahoo Finance)
