@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T05:52:27.734473+00:00`
+- Generated: `2026-09-10T06:06:06.515699+00:00`
 - Market context score: `41.46`
 - News risk score: `49.13`
 - Macro risk score: `48.34`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11502`
-- Day/swing latest: `2026-09-10T05:45:00+00:00`
+- Day/swing records: `11503`
+- Day/swing latest: `2026-09-10T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Oil reverses course to slip, but Brent stays above $100 a barrel on Mideast worries (Energy)
+- [macro] Iran war won't end until after crucial November elections, says Trump (BBC News)
 - [crypto] Trezor, BitBox warn users about fake hardware wallet security alerts (Cointelegraph.com News)
 - [crypto] Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia outpacing Ukraine's air defences with daily use of new jet-powered drones (BBC News)
-- [macro] Iran war won't end until after crucial November elections, says Trump (BBC News)
 - [macro] Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry (BBC News)
 - [macro] Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention (BBC News)
 - [crypto] US sanctions Xinbi scam marketplace, restrains $52M in crypto (Cointelegraph.com News)
 - [macro] Watch: Do Republicans blame Trump for high oil prices? (BBC News)
-- [commodity] Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers (Energy)
