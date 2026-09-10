@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T05:22:27.679973+00:00`
-- Market context score: `43.29`
-- News risk score: `45.56`
-- Macro risk score: `51.91`
-- Risk-on score: `32.06`
+- Generated: `2026-09-10T05:37:29.368648+00:00`
+- Market context score: `45.09`
+- News risk score: `43.8`
+- Macro risk score: `48.38`
+- Risk-on score: `33.24`
 - Articles: `23`
 - Polymarket markets: `391`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11500`
-- Day/swing latest: `2026-09-10T05:15:00+00:00`
+- Day/swing records: `11501`
+- Day/swing latest: `2026-09-10T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `14`, risk hits `8`, risk headline rate `0.5714`, policy hits `1`
+- macro: articles `14`, risk hits `7`, risk headline rate `0.5`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia outpacing Ukraine's air defences with daily use of new jet-powered drones (BBC News)
 - [macro] Iran war won't end until after crucial November elections, says Trump (BBC News)
 - [macro] Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry (BBC News)
+- [macro] Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention (BBC News)
 - [crypto] US sanctions Xinbi scam marketplace, restrains $52M in crypto (Cointelegraph.com News)
 - [macro] Watch: Do Republicans blame Trump for high oil prices? (BBC News)
 - [commodity] Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers (Energy)
 - [macro] Tax banks to give some households energy bill cut, unions tell Burnham (BBC News)
-- [macro] AI is becoming harder to control – can humans stay in charge? (BBC News)
-- [macro] The one thing you need to do to succeed - according to top bosses (BBC News)
