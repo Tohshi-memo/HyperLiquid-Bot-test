@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T12:37:31.797628+00:00`
-- Market context score: `43.42`
-- News risk score: `51.08`
-- Macro risk score: `31.77`
-- Risk-on score: `29.4`
+- Generated: `2026-09-10T12:52:32.451565+00:00`
+- Market context score: `43.85`
+- News risk score: `50.41`
+- Macro risk score: `34.25`
+- Risk-on score: `30.72`
 - Articles: `53`
 - Polymarket markets: `391`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11529`
-- Day/swing latest: `2026-09-10T12:30:00+00:00`
+- Day/swing records: `11530`
+- Day/swing latest: `2026-09-10T12:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `14`, risk headline rate `0.4348`, policy hits `4`
-- macro: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `5`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `23`, risk hits `12`, risk headline rate `0.3913`, policy hits `6`
+- macro: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `8`
 
 ## Headlines
 
+- [commodity] Wealthy investors seek oil and gas assets, but bargains are scarce (Energy)
 - [commodity] U.S. crude oil tops $100 per barrel as market braces for prolonged Iran war (Energy)
+- [macro] Wholesale prices rose 0.4% in August, as expected (Economy)
+- [macro] Sauer Brands offloads spice business to Watkins (Yahoo Finance)
 - [macro] England's mayors to get power to impose tourist tax (BBC News)
-- [macro] The AI investment boom won't last forever, Goldman Sachs chief economist Jan Hatzius warns (Yahoo Finance)
-- [macro] Twenty-five dead after fire on cargo ship in eastern China (BBC News)
-- [macro] The Stock Market Is Triggering a Warning That Warren Buffett Calls "Playing With Fire." Here's What History Says Comes Next. (Yahoo Finance)
-- [macro] Gas Turbine And Grid Backlog Powers GE Vernova (GEV) (Yahoo Finance)
-- [macro] Which Is the Better Healthcare ETF: Fidelity's Low-Cost FHLC or First Trust's High-Conviction FBT? (Yahoo Finance)
-- [macro] Vince Reports Q2 Gains, Raises Outlook (Yahoo Finance)
-- [macro] Lam Research (LRCX) Benefits From Memory Expansion (Yahoo Finance)
-- [macro] Nike memo reassures executives it remains in S&P 500 (Yahoo Finance)
+- [macro] ECB raises interest rates again amid Iran war inflation pressure (Yahoo Finance)
+- [macro] New Fed Chair Kevin Warsh Sparked a "Credibility Shock" on Wall Street After His Latest Rate Decision. 3 Reasons Investors Should Care (Yahoo Finance)
+- [macro] Why Analysts Are Bearish On This Tesla Energy Rival (Yahoo Finance)
+- [macro] Intel May Raise Chip Prices 10% and the Stock Took Off. Why Most Analysts Still Refuse to Buy. (Yahoo Finance)
+- [macro] Prediction: Apple Stock Could Be Headed for a Big Move After Yesterday’s Event (Yahoo Finance)
