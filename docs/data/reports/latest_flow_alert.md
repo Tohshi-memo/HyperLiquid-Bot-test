@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-10T07:55:31.934536+00:00`
-- Flow alert score: `19.84`
+- Generated: `2026-09-10T08:00:37.736014+00:00`
+- Flow alert score: `19.8`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12988989.72`
-- Polymarket volume z-score: `0.71`
+- Polymarket 24h volume: `12941114.53`
+- Polymarket volume z-score: `0.7`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1408852.2834280005` | liquidity: `596403.9214`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1153529.161817` | liquidity: `684961.8347`
-- LAPTOP FDV above $1B one day after launch? | 24h volume: `1126972.083900001` | liquidity: `29838.9765`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `891740.2894349999` | liquidity: `1259093.22146`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `778745.5037429993` | liquidity: `764118.9681`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `713641.418` | liquidity: `1175475.38975`
-- LAPTOP FDV above $500M one day after launch? | 24h volume: `659912.6676480005` | liquidity: `31790.7249`
-- US x Iran Effective Ceasefire by September 4? | 24h volume: `506588.15060099954` | liquidity: `62056.7516`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1400918.5430170004` | liquidity: `561498.1026`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1153522.761817` | liquidity: `683399.0347`
+- LAPTOP FDV above $1B one day after launch? | 24h volume: `1125762.0302620004` | liquidity: `27697.1788`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `882696.789435` | liquidity: `1307063.71131`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `778680.7974309999` | liquidity: `760986.6692`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `713696.772` | liquidity: `1174567.41536`
+- LAPTOP FDV above $500M one day after launch? | 24h volume: `659954.7734540008` | liquidity: `34871.1862`
+- US x Iran Effective Ceasefire by September 4? | 24h volume: `506888.12203599914` | liquidity: `55652.8535`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
