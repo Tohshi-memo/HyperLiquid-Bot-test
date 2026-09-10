@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T19:22:35.494469+00:00`
+- Generated: `2026-09-10T19:37:33.008303+00:00`
 - Market context score: `35.52`
 - News risk score: `60.41`
 - Macro risk score: `41.73`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:135, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11556`
-- Day/swing latest: `2026-09-10T19:15:00+00:00`
+- Day/swing records: `11557`
+- Day/swing latest: `2026-09-10T19:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [commodity] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war (Energy)
 - [macro] Friday's CPI inflation report is even more important than usual. Here's what to expect (Economy)
 - [macro] More than 20 children killed in DR Congo school fire (BBC News)
 - [crypto] Why a new SEC plan could ease a legal headache for tokenized securities (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war (Energy)
 - [macro] Yemen's Houthis reportedly seize strategic Red Sea port of Mokha (BBC News)
 - [crypto] UK House of Lords backs mandatory digital asset strategy over Labour position (Cointelegraph.com News)
 - [macro] Oil, gas and borrowing costs surge as fears over Middle East escalate (BBC News)
