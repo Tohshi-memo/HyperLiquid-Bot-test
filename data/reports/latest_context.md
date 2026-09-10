@@ -1,40 +1,40 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T17:07:30.599420+00:00`
-- Market context score: `41.7`
-- News risk score: `57.87`
-- Macro risk score: `30.17`
-- Risk-on score: `30.7`
-- Articles: `87`
+- Generated: `2026-09-10T17:22:32.863491+00:00`
+- Market context score: `40.75`
+- News risk score: `57.41`
+- Macro risk score: `30.42`
+- Risk-on score: `28.31`
+- Articles: `88`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1238`
+- Asset universe count: `1239`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:135, fx:6, index:26, metal:20, unknown:798`
+- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:135, fx:6, index:26, metal:20, unknown:799`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11547`
-- Day/swing latest: `2026-09-10T17:00:00+00:00`
+- Day/swing records: `11548`
+- Day/swing latest: `2026-09-10T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `36`, risk hits `22`, risk headline rate `0.5`, policy hits `4`
-- macro: articles `49`, risk hits `13`, risk headline rate `0.2245`, policy hits `8`
+- crypto: articles `37`, risk hits `22`, risk headline rate `0.4865`, policy hits `4`
+- macro: articles `49`, risk hits `13`, risk headline rate `0.2245`, policy hits `9`
 
 ## Headlines
 
+- [commodity] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war (Energy)
+- [crypto] OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] CPI Data Prediction Market Preview: Traders Brace for a Razor-Thin Call (Yahoo Finance)
+- [macro] Six Days After Cramer Warned Nuclear Is Too Hard to Build, Google Signed Its First Nuclear Deal Ever (Yahoo Finance)
+- [macro] The Lovesac Company Q2 2027 Earnings Call Summary (Yahoo Finance)
 - [crypto] Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Labour mayors in England vow to cap tourist tax at 5% (BBC News)
-- [macro] The likelihood of a Fed interest rate hike next week just got a lot higher (Economy)
-- [macro] GFL (GFL) Closes the SECURE Waste Infrastructure Acquisition With 75M New Shares and a US$1B Term Loan. Can Scale Offset Dilution and Leverage? (Yahoo Finance)
-- [macro] Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing? (Yahoo Finance)
-- [macro] Grocery chain closes its only store in town, leaving locals behind (Yahoo Finance)
-- [macro] Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips (Yahoo Finance)
-- [macro] OpenAI Picked Broadcom for Its First Custom AI Chip. The Race for Number Two Just Got Dangerous. (Yahoo Finance)
-- [crypto] Liquid Network resumes block production after $320M exploit (Cointelegraph.com News)
-- [macro] MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage? (Yahoo Finance)
+- [macro] 3 Stocks Powering the AI Boom That Are Not Named Nvidia (Yahoo Finance)
+- [macro] Vince Holding Corp. Q2 2026 Earnings Call Summary (Yahoo Finance)
+- [macro] CoreWeave Sinks 5% Despite Burry Pulling In His AI Short, Oracle Eases Into Earnings, Cloudflare Holds Steady (Yahoo Finance)
+- [macro] Prediction: ServiceNow Will be Worth This in 2028 (Yahoo Finance)
