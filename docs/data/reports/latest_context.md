@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T16:37:34.296665+00:00`
-- Market context score: `43.61`
-- News risk score: `55.7`
-- Macro risk score: `29.71`
-- Risk-on score: `32.95`
-- Articles: `83`
-- Polymarket markets: `393`
+- Generated: `2026-09-10T16:52:31.160416+00:00`
+- Market context score: `42.83`
+- News risk score: `56.36`
+- Macro risk score: `29.64`
+- Risk-on score: `31.74`
+- Articles: `85`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:135, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11545`
-- Day/swing latest: `2026-09-10T16:30:00+00:00`
+- Day/swing records: `11546`
+- Day/swing latest: `2026-09-10T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `20`, risk headline rate `0.4571`, policy hits `4`
-- macro: articles `46`, risk hits `11`, risk headline rate `0.2174`, policy hits `7`
+- crypto: articles `36`, risk hits `21`, risk headline rate `0.4722`, policy hits `4`
+- macro: articles `47`, risk hits `11`, risk headline rate `0.2128`, policy hits `8`
 
 ## Headlines
 
+- [crypto] Liquid Network resumes block production after $320M exploit (Cointelegraph.com News)
+- [macro] Eli Lilly Stock Has Become a Trillion-Dollar Giant. Is It Too Late to Buy? (Yahoo Finance)
+- [macro] Want to Make a Fortune From the AI Power Boom? Buy These 2 Industrial Stocks (Yahoo Finance)
+- [macro] Why Signet Jewelers Stock Pulled Back Today (Yahoo Finance)
+- [macro] Hexagon, Weyerhaeuser Ink Geothermal Development Deal for Pacific Northwest (Yahoo Finance)
+- [macro] Culp (CULP) Q1 2027 Earnings Call Transcript (Yahoo Finance)
+- [macro] Lesaka (LSAK) Q4 2026 Earnings Call Transcript (Yahoo Finance)
 - [macro] Big Bond Buyback, Decline in Home Sales and More of Today’s Top Money News (Yahoo Finance)
 - [macro] Robinhood CEO Vlad Tenev open to burying the hatchet with AMC CEO Adam Aron after public feud (Yahoo Finance)
-- [macro] Amgen vs. Moderna: Which Healthcare Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [macro] Credo (CRDO) Reports 115% Revenue Growth but Lower GAAP Gross Margin. Can AI Connectivity Scale Without Further Margin Compression? (Yahoo Finance)
-- [macro] SentinelOne CEO Tomer Weingarten Sells 38,759 Shares for Tax Withholding (Yahoo Finance)
-- [macro] Institutional Investors Are Loading Up on Madrigal Pharmaceuticals Stock. Should You? (Yahoo Finance)
-- [macro] Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage) (Yahoo Finance)
-- [macro] With PCOV, the Number That Matters Is Not the Yield. It Is What the Yield Costs (Yahoo Finance)
-- [macro] AI Agents Are About to Start Spending Your Money. 5 Stocks Sitting in the Line of Fire. (Yahoo Finance)
-- [macro] Shell (SHEL) Signs Deal to Take Full Ownership of Tri Star and Add 320 Sites (Yahoo Finance)
