@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T11:16:06.494241+00:00`
-- Market context score: `48.99`
-- News risk score: `41.86`
-- Macro risk score: `27.41`
-- Risk-on score: `32.34`
-- Articles: `36`
+- Generated: `2026-09-10T11:22:24.027354+00:00`
+- Market context score: `47.1`
+- News risk score: `44.27`
+- Macro risk score: `28.97`
+- Risk-on score: `30.77`
+- Articles: `35`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `9`, risk headline rate `0.3529`, policy hits `2`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
+- crypto: articles `18`, risk hits `10`, risk headline rate `0.3889`, policy hits `2`
+- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin traders dial down bullish plays ahead of U.S. inflation data (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] England's mayors to be given power to introduce tourist tax (BBC News)
 - [macro] At least 20 dead after fire on cargo ship in eastern China, state media report (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Treasury Secretary Bessent urges CLARITY Act passage after Senate returns (Cointelegraph.com News)
 - [crypto] Hunter Biden denies profiting from memecoin after his LAPTOP crashes (Cointelegraph.com News)
 - [macro] Trump says every adult American will get $5,000 if Republicans win midterms (BBC News)
-- [macro] Primark finally set to launch home deliveries (BBC News)
