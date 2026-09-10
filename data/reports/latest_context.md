@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-10T13:52:30.184375+00:00`
-- Market context score: `41.96`
-- News risk score: `55.41`
-- Macro risk score: `32.27`
-- Risk-on score: `30.02`
+- Generated: `2026-09-10T14:07:35.543162+00:00`
+- Market context score: `46.36`
+- News risk score: `52.7`
+- Macro risk score: `28.13`
+- Risk-on score: `35.93`
 - Articles: `73`
 - Polymarket markets: `392`
 
@@ -14,27 +14,27 @@
 - Asset universe count: `1238`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:134, fx:6, index:26, metal:20, unknown:799`
+- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:135, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11534`
-- Day/swing latest: `2026-09-10T13:45:00+00:00`
+- Day/swing records: `11535`
+- Day/swing latest: `2026-09-10T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `14`, risk headline rate `0.4231`, policy hits `6`
-- macro: articles `45`, risk hits `15`, risk headline rate `0.2667`, policy hits `4`
+- crypto: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `6`
+- macro: articles `44`, risk hits `15`, risk headline rate `0.1818`, policy hits `7`
 
 ## Headlines
 
-- [crypto] Coinbase, Moov to provide stablecoin infrastructure for US community banks (Cointelegraph.com News)
-- [macro] Air traffic chaos and compensation: 'Shutdown cost us more than £1,000' (BBC News)
 - [commodity] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war (Energy)
-- [macro] Why Procore (PCOR) Could Turn AI Fears Into a Long-Term Growth Opportunity (Yahoo Finance)
-- [macro] Wholesale prices rose 0.4% in August, as expected (Economy)
-- [macro] Trump says every adult American will get $5,000 if Republicans win midterms (BBC News)
-- [macro] Is LightPath (LPTH) a Hidden Winner in Missile Defense and Space? (Yahoo Finance)
-- [macro] Nasdaq invests $100 million in Kraken parent Payward for tokenized stocks (Yahoo Finance)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Prosper Stars & Stripes Covered Innodata (INOD) Short Position in Q2 (Yahoo Finance)
+- [crypto] Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Treasury yields rise as investors raise bets on Fed rate hike: AlphaCheck (Yahoo Finance)
+- [macro] Risk complexity rises as enterprise oversight remains uneven, study finds (Yahoo Finance)
+- [macro] US “clear protein” drinks firm Protein2o names new CEO (Yahoo Finance)
+- [macro] Here’s What Fuels Park Aerospace (PKE) Earnings Power (Yahoo Finance)
+- [macro] Meta upgraded, Nvidia initiated: Wall Street's top analyst calls (Yahoo Finance)
+- [macro] From Acquisition Mistakes to AI Disruption: Why TechTarget (TTGT) Became a Short Target (Yahoo Finance)
+- [macro] Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future (Yahoo Finance)
+- [macro] Got $5,000? 3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now. (Yahoo Finance)
