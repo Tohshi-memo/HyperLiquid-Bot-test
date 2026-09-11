@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-11T16:05:31.939062+00:00`
+- Generated: `2026-09-11T16:10:28.761645+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `27165875.3`
-- Polymarket volume z-score: `3.68`
+- Polymarket 24h volume: `27452544.52`
+- Polymarket volume z-score: `3.73`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `4878744.353986018` | liquidity: `879367.0976`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `4180228.367488995` | liquidity: `1174827.1316`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2383961.699433` | liquidity: `1864764.13645`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1828957.042325` | liquidity: `1529156.30022`
-- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `1646349.357` | liquidity: `412969.78552`
-- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1260923.0` | liquidity: `1269829.56018`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `694818.527` | liquidity: `3079006.66694`
-- Will Stephen A. Smith win the 2028 Democratic presidential nomination? | 24h volume: `602993.42` | liquidity: `1886415.88855`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `4914161.282314006` | liquidity: `841100.9127`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `4185086.668522994` | liquidity: `1189074.0346`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2392127.346433` | liquidity: `1893150.69816`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1828104.742325` | liquidity: `1496076.25633`
+- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `1646381.087` | liquidity: `414352.85934`
+- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1260925.541` | liquidity: `1269852.06018`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `761874.417` | liquidity: `3011430.45394`
+- Will Stephen A. Smith win the 2028 Democratic presidential nomination? | 24h volume: `602993.42` | liquidity: `1886415.85355`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
