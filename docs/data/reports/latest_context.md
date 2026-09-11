@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T12:52:40.276608+00:00`
+- Generated: `2026-09-11T13:07:26.232504+00:00`
 - Market context score: `42.95`
 - News risk score: `49.75`
 - Macro risk score: `34.12`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11626`
-- Day/swing latest: `2026-09-11T12:45:00+00:00`
+- Day/swing records: `11627`
+- Day/swing latest: `2026-09-11T13:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Inflation persisted in August, potentially locking in a Fed interest rate hike (Economy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US inflation holds steady as diesel prices pass $6 a gallon (BBC News)
 - [crypto] Bitcoin ETF outflows accelerate as investors pull $449M in three days (Cointelegraph.com News)
 - [crypto] Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] UniCredit seeks infrastructure partner for crypto trading, custody: Report (Cointelegraph.com News)
 - [macro] Israel says it has destroyed major underground Hezbollah base (BBC News)
 - [commodity] U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy (Energy)
-- [crypto] Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
