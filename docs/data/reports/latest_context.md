@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T19:22:34.187812+00:00`
+- Generated: `2026-09-11T19:37:31.512715+00:00`
 - Market context score: `36.76`
 - News risk score: `54.55`
 - Macro risk score: `39.28`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:826`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11652`
-- Day/swing latest: `2026-09-11T19:15:00+00:00`
+- Day/swing records: `11653`
+- Day/swing latest: `2026-09-11T19:30:00+00:00`
 
 ## News Categories
 
@@ -30,6 +30,7 @@
 ## Headlines
 
 - [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks (Energy)
+- [commodity] Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise (Energy)
 - [crypto] Hyperliquid’s biggest risk is regulation, says Ran Neuner (Cointelegraph.com News)
 - [commodity] Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point (Energy)
 - [macro] Hong Kong's Tiananmen activists sentenced to up to seven years in prison (BBC News)
@@ -37,5 +38,4 @@
 - [commodity] I went to Caracas for Venezuela’s new oil deals. Here’s what stood out (Energy)
 - [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
 - [macro] Consumer outlook plunges in September as inflation outlook worsens (Economy)
-- [commodity] U.S. crude oil falls back below $100 but heads to weekly gain (Energy)
 - [macro] How global trade and oil prices could be hit by Houthi advance (BBC News)
