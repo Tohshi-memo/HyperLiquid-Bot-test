@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T05:52:25.516113+00:00`
+- Generated: `2026-09-11T06:07:25.316315+00:00`
 - Market context score: `34.34`
-- News risk score: `50.29`
-- Macro risk score: `39.14`
-- Risk-on score: `11.33`
-- Articles: `28`
+- News risk score: `50.86`
+- Macro risk score: `36.38`
+- Risk-on score: `10.78`
+- Articles: `26`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,15 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11598`
-- Day/swing latest: `2026-09-11T05:45:00+00:00`
+- Day/swing records: `11599`
+- Day/swing latest: `2026-09-11T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `6`
+- crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `5`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `5`
-- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
@@ -35,7 +34,7 @@
 - [crypto] Ripple puts AI agents inside its $1 billion corporate treasury bet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Brevo login flaw enabled phishing email targeting 347K Trezor subscribers (Cointelegraph.com News)
 - [macro] 'Islam is being hijacked': Brother of Muslim first responder killed in 9/11 (BBC News)
-- [macro] 'Driving a limo', 'getting ready for school'- Americans remember what they were doing on 9/11 (BBC News)
+- [macro] 'It was heartbreaking'- Americans remember what they were doing on 9/11 (BBC News)
 - [macro] Coach crash kills several people in Swiss Alps (BBC News)
 - [macro] Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas (BBC News)
 - [crypto] Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express (Cointelegraph.com News)
