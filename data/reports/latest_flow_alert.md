@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-11T01:45:32.147601+00:00`
+- Generated: `2026-09-11T01:50:33.146932+00:00`
 - Flow alert score: `21.76`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1868632.5295689998` | liquidity: `470433.6199`
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1653770.153928` | liquidity: `527614.0945`
-- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `1646408.73` | liquidity: `412445.61376`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1119100.279272` | liquidity: `1231643.37597`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `606366.549` | liquidity: `1454013.5556`
-- Will Karim Bouamrane win the 2027 French presidential election? | 24h volume: `516433.36` | liquidity: `614385.31835`
-- Will Tom Cotton win the 2028 Republican presidential nomination? | 24h volume: `496000.0` | liquidity: `118318.37124`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `469326.5874090001` | liquidity: `922121.13046`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1868632.5295689998` | liquidity: `467790.878`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `1653770.153928` | liquidity: `486478.0107`
+- Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `1646408.73` | liquidity: `409772.68876`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1119100.279272` | liquidity: `1229577.71332`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `606366.549` | liquidity: `1454163.5376`
+- Will Karim Bouamrane win the 2027 French presidential election? | 24h volume: `516433.36` | liquidity: `615537.53705`
+- Will Tom Cotton win the 2028 Republican presidential nomination? | 24h volume: `496000.0` | liquidity: `118396.90124`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `469326.5874090001` | liquidity: `919072.62407`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
