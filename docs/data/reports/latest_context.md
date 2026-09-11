@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T18:07:28.337447+00:00`
-- Market context score: `38.36`
-- News risk score: `58.58`
-- Macro risk score: `39.5`
-- Risk-on score: `27.42`
-- Articles: `75`
+- Generated: `2026-09-11T18:22:39.991092+00:00`
+- Market context score: `38.62`
+- News risk score: `54.14`
+- Macro risk score: `36.86`
+- Risk-on score: `23.24`
+- Articles: `54`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,25 +17,25 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:808`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11647`
-- Day/swing latest: `2026-09-11T18:00:00+00:00`
+- Day/swing records: `11648`
+- Day/swing latest: `2026-09-11T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `9`
-- macro: articles `41`, risk hits `14`, risk headline rate `0.2683`, policy hits `18`
+- crypto: articles `25`, risk hits `14`, risk headline rate `0.44`, policy hits `9`
+- macro: articles `22`, risk hits `4`, risk headline rate `0.1364`, policy hits `6`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] CoreWeave Is My Top IPO Pick Right Now: Over 75% of Its Revenue Is Locked In Through Contracts (Yahoo Finance)
-- [macro] Why Treasury’s $6 billion bond buyback didn’t lower mortgage rates (Yahoo Finance)
-- [macro] US consumer prices accelerate in August, push Fed closer to rate hike (Yahoo Finance)
-- [macro] ‘The Largest IPO Ever, Surpassing SpaceX’: Anthropic Is Up Next (Yahoo Finance)
-- [macro] Affirm Rallies 5% as Midweek Selloff Unwinds; Klarna and PayPal Tick Up (Yahoo Finance)
-- [macro] Is gold really a hedge against inflation? (Yahoo Finance)
 - [commodity] Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point (Energy)
 - [macro] Hong Kong's Tiananmen activists sentenced to up to seven years in prison (BBC News)
 - [crypto] The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage) (Yahoo Finance)
+- [commodity] I went to Caracas for Venezuela’s new oil deals. Here’s what stood out (Energy)
+- [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
+- [macro] Consumer outlook plunges in September as inflation outlook worsens (Economy)
+- [commodity] U.S. crude oil falls back below $100 but heads to weekly gain (Energy)
+- [macro] How global trade and oil prices could be hit by Houthi advance (BBC News)
+- [crypto] Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin (Cointelegraph.com News)
+- [crypto] Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields (Cointelegraph.com News)
