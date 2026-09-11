@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T11:22:32.092729+00:00`
+- Generated: `2026-09-11T11:33:43.176679+00:00`
 - Market context score: `45.67`
 - News risk score: `45.89`
 - Macro risk score: `30.47`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11620`
-- Day/swing latest: `2026-09-11T11:15:00+00:00`
+- Day/swing records: `11621`
+- Day/swing latest: `2026-09-11T11:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy (Energy)
+- [crypto] Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Bitcoin sinks to $77,000 as CPI lands with hike odds near 70% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market (Energy)
 - [crypto] Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’ (Cointelegraph.com News)
