@@ -1,35 +1,36 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T21:37:30.805111+00:00`
-- Market context score: `36.2`
-- News risk score: `55.5`
-- Macro risk score: `43.69`
-- Risk-on score: `21.6`
-- Articles: `50`
+- Generated: `2026-09-11T21:52:30.226473+00:00`
+- Market context score: `35.06`
+- News risk score: `55.61`
+- Macro risk score: `46.59`
+- Risk-on score: `20.26`
+- Articles: `49`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1267`
+- Asset universe count: `1273`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:826`
+- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:832`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11661`
-- Day/swing latest: `2026-09-11T21:30:00+00:00`
+- Day/swing records: `11662`
+- Day/swing latest: `2026-09-11T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `9`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `13`, risk headline rate `0.4167`, policy hits `8`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `5`
+- crypto: articles `23`, risk hits `12`, risk headline rate `0.3913`, policy hits `8`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `6`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
 - [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq (Energy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
 - [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
 - [crypto] Bitcoin Suisse to shift up to half of Swiss jobs abroad (Cointelegraph.com News)
@@ -37,5 +38,4 @@
 - [commodity] Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise (Energy)
 - [crypto] Hyperliquid’s biggest risk is regulation, says Ran Neuner (Cointelegraph.com News)
 - [commodity] Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point (Energy)
-- [macro] Hong Kong's Tiananmen activists sentenced to up to seven years in prison (BBC News)
-- [crypto] The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] 172-year-old bank sees 400% upside for 'federal bank' token (Yahoo Finance)
