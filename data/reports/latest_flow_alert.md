@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-11T16:40:28.613921+00:00`
+- Generated: `2026-09-11T16:45:32.101478+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,14 +8,14 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `25552183.44`
-- Polymarket volume z-score: `3.28`
+- Polymarket 24h volume: `25380677.21`
+- Polymarket volume z-score: `3.23`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `4921510.382051017` | liquidity: `815590.0527`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `4123065.2851040005` | liquidity: `1204692.6781`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2392384.7864329997` | liquidity: `1891154.31827`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `4916577.694918018` | liquidity: `813600.0527`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `4118121.907470001` | liquidity: `1204692.6781`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2392239.7864329997` | liquidity: `1891154.31827`
 - Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1845342.27538` | liquidity: `1498273.26764`
 - Will Abigail Spanberger win the 2028 Democratic presidential nomination? | 24h volume: `1646381.087` | liquidity: `413659.02424`
 - Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1260925.541` | liquidity: `1267845.63223`
