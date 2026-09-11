@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T21:21:55.661196+00:00`
+- Generated: `2026-09-11T21:37:30.805111+00:00`
 - Market context score: `36.2`
 - News risk score: `55.5`
 - Macro risk score: `43.69`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:826`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11660`
-- Day/swing latest: `2026-09-11T21:15:00+00:00`
+- Day/swing records: `11661`
+- Day/swing latest: `2026-09-11T21:30:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks (Energy)
+- [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq (Energy)
 - [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
 - [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
 - [crypto] Bitcoin Suisse to shift up to half of Swiss jobs abroad (Cointelegraph.com News)
