@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T21:07:26.272618+00:00`
+- Generated: `2026-09-11T21:21:55.661196+00:00`
 - Market context score: `36.2`
 - News risk score: `55.5`
 - Macro risk score: `43.69`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:826`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11659`
-- Day/swing latest: `2026-09-11T21:00:00+00:00`
+- Day/swing records: `11660`
+- Day/swing latest: `2026-09-11T21:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,9 @@
 
 ## Headlines
 
-- [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
 - [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks (Energy)
+- [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
+- [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
 - [crypto] Bitcoin Suisse to shift up to half of Swiss jobs abroad (Cointelegraph.com News)
 - [macro] Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war (BBC News)
 - [commodity] Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise (Energy)
@@ -38,4 +39,3 @@
 - [commodity] Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point (Energy)
 - [macro] Hong Kong's Tiananmen activists sentenced to up to seven years in prison (BBC News)
 - [crypto] The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] I went to Caracas for Venezuela’s new oil deals. Here’s what stood out (Energy)
