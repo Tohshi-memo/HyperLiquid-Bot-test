@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T10:07:29.850483+00:00`
-- Market context score: `43.53`
-- News risk score: `42.69`
-- Macro risk score: `30.45`
-- Risk-on score: `22.05`
+- Generated: `2026-09-11T10:22:30.265868+00:00`
+- Market context score: `44.29`
+- News risk score: `41.41`
+- Macro risk score: `30.35`
+- Risk-on score: `22.64`
 - Articles: `38`
 - Polymarket markets: `393`
 
@@ -17,21 +17,21 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11615`
-- Day/swing latest: `2026-09-11T10:00:00+00:00`
+- Day/swing records: `11616`
+- Day/swing latest: `2026-09-11T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `23`, risk hits `4`, risk headline rate `0.1304`, policy hits `5`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `5`
+- macro: articles `22`, risk hits `4`, risk headline rate `0.1364`, policy hits `4`
 
 ## Headlines
 
-- [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
 - [macro] AI boom helps drive surprise UK growth in July (BBC News)
+- [crypto] Bitcoin pulls back as another golden cross fails to deliver (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
 - [crypto] Anthropic says Claude used for cyberattacks and surveillance (Cointelegraph.com News)
-- [macro] Yemen's Houthis seize strategic Red Sea port of Mokha (BBC News)
 - [macro] Alstom to build new battery-electric train fleet (BBC News)
 - [macro] Five dead and dozens injured in coach crash in Swiss Alps (BBC News)
 - [commodity] Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point (Energy)
