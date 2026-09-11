@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T23:37:30.060111+00:00`
+- Generated: `2026-09-11T23:52:26.404539+00:00`
 - Market context score: `36.22`
 - News risk score: `49.2`
 - Macro risk score: `43.4`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:836`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11669`
-- Day/swing latest: `2026-09-11T23:30:00+00:00`
+- Day/swing records: `11670`
+- Day/swing latest: `2026-09-11T23:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Arrest made over the death of black woman found hanged from tree (BBC News)
 - [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
 - [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq (Energy)
@@ -38,4 +39,3 @@
 - [macro] Tragic death of woman who testified against father in notorious mafia murder of mother (BBC News)
 - [crypto] Bitcoin Suisse to shift up to half of Swiss jobs abroad (Cointelegraph.com News)
 - [macro] Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war (BBC News)
-- [commodity] Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise (Energy)
