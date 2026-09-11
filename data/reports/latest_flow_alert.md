@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-11T21:45:28.511263+00:00`
+- Generated: `2026-09-11T21:50:32.531911+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `5970815.773028035` | liquidity: `830265.7947`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `4881864.767376999` | liquidity: `1306193.7809`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `3745612.33142` | liquidity: `1437826.63646`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `2416462.0763379997` | liquidity: `1271438.58985`
-- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1260950.381` | liquidity: `1277055.83159`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `5970815.773028035` | liquidity: `831099.4287`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `4881864.767376999` | liquidity: `1310670.9025`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `3745612.33142` | liquidity: `1437839.42143`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `2416462.0763379997` | liquidity: `1271429.34357`
+- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1260950.381` | liquidity: `1277579.55659`
 - Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `689959.1180000001` | liquidity: `3803929.40079`
 - Will Stephen A. Smith win the 2028 Democratic presidential nomination? | 24h volume: `602993.42` | liquidity: `1886658.17257`
-- Will Tom Cotton win the 2028 Republican presidential nomination? | 24h volume: `496000.0` | liquidity: `155772.55095`
+- Will Tom Cotton win the 2028 Republican presidential nomination? | 24h volume: `496000.0` | liquidity: `153722.72095`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
