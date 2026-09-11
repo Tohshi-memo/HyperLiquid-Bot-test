@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-11T11:37:26.190835+00:00`
-- Market context score: `45.42`
-- News risk score: `46.0`
-- Macro risk score: `31.17`
-- Risk-on score: `29.33`
-- Articles: `42`
+- Generated: `2026-09-11T11:52:26.656891+00:00`
+- Market context score: `49.07`
+- News risk score: `44.02`
+- Macro risk score: `28.57`
+- Risk-on score: `34.78`
+- Articles: `43`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:798`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11621`
-- Day/swing latest: `2026-09-11T11:30:00+00:00`
+- Day/swing records: `11622`
+- Day/swing latest: `2026-09-11T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `9`, risk headline rate `0.3889`, policy hits `6`
-- macro: articles `19`, risk hits `2`, risk headline rate `0.0526`, policy hits `4`
+- crypto: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `6`
+- macro: articles `19`, risk hits `0`, risk headline rate `0.0`, policy hits `4`
 
 ## Headlines
 
+- [crypto] UniCredit seeks infrastructure partner for crypto trading, custody: Report (Cointelegraph.com News)
+- [macro] Israel says it has destroyed major underground Hezbollah base (BBC News)
 - [commodity] U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy (Energy)
 - [crypto] Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Bitcoin sinks below $77,000 ahead of U.S. CPI report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Alstom to build new battery-electric train fleet (BBC News)
 - [crypto] Bitcoin recovers toward $77,300 as zcash leverage unwinds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Buddhist monk arrested in suspected $3m embezzlement scandal (BBC News)
-- [crypto] Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028 (Cointelegraph.com News)
-- [commodity] Oil prices fall sharply after double-digit weekly gains above $100 (Energy)
