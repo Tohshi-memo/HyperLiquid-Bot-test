@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-12T22:07:31.098575+00:00`
-- Market context score: `62.72`
-- News risk score: `30.7`
-- Macro risk score: `26.95`
-- Risk-on score: `53.26`
-- Articles: `45`
+- Generated: `2026-09-12T22:22:25.911262+00:00`
+- Market context score: `64.42`
+- News risk score: `29.0`
+- Macro risk score: `23.36`
+- Risk-on score: `54.24`
+- Articles: `44`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11759`
-- Day/swing latest: `2026-09-12T22:00:00+00:00`
+- Day/swing records: `11760`
+- Day/swing latest: `2026-09-12T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `3`
-- macro: articles `30`, risk hits `8`, risk headline rate `0.1667`, policy hits `3`
+- crypto: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `3`
+- macro: articles `30`, risk hits `4`, risk headline rate `0.1`, policy hits `2`
 
 ## Headlines
 
+- [macro] ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains (Yahoo Finance)
+- [macro] Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy (Yahoo Finance)
+- [macro] Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage (Yahoo Finance)
+- [macro] Premium Offices Pull Ahead as Owners Rethink Workplaces (Yahoo Finance)
+- [macro] Office Expenses Outgrew Revenue Each Year Since 2021 (Yahoo Finance)
 - [macro] Prologis Plans 1M SF Chicago Logistics Development (Yahoo Finance)
+- [macro] Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar (Yahoo Finance)
 - [macro] Longpoint Buys $195M Miami-Dade Industrial Portfolio (Yahoo Finance)
-- [macro] Bank Multifamily Delinquencies Dip as Credit Losses Rise (Yahoo Finance)
-- [macro] Berkshire Buys Limekiln’s MF1 Stake, Takes Full Control (Yahoo Finance)
-- [macro] Apartment Construction Times Ease but Stay Elevated (Yahoo Finance)
+- [macro] The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sight, and Wall Street Isn’t Paying Attention (Yahoo Finance)
 - [macro] Trump's comments on a united Ireland may have targeted audience across the Atlantic (BBC News)
-- [macro] Anthropic boss Dario Amodei calls for AI development to slow down (BBC News)
-- [crypto] OpenAI IPO won't happen this year, says Sam Altman (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves (BBC News)
