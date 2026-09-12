@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-12T19:22:26.844370+00:00`
-- Market context score: `63.03`
+- Generated: `2026-09-12T19:28:42.590845+00:00`
+- Market context score: `62.6`
 - News risk score: `32.82`
 - Macro risk score: `28.72`
-- Risk-on score: `56.42`
+- Risk-on score: `55.47`
 - Articles: `47`
 - Polymarket markets: `392`
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play (Yahoo Finance)
 - [macro] Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference (Yahoo Finance)
 - [macro] WisdomTree COO Lilien Jarrett Sells 30,000 Shares for $737,000 (Yahoo Finance)
 - [crypto] Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How Concerned Should Income Investors Be About Pfizer's Dividend? (Yahoo Finance)
 - [macro] The ETF Built to Bet Against XRP Price Has a New Launch Date (Yahoo Finance)
-- [macro] GameStop Billionaire Ryan Cohen Buys 1 Million Shares for $20 Million. What This Large Purchase Means for GME (Yahoo Finance)
 - [macro] 'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves (BBC News)
 - [macro] Anthropic boss Dario Amodei calls for AI development to slow down (BBC News)
 - [macro] Bulgaria investigates fire at weapons  site that owner calls sabotage (BBC News)
