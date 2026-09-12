@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-12T00:07:28.346913+00:00`
+- Generated: `2026-09-12T00:22:37.842360+00:00`
 - Market context score: `35.6`
 - News risk score: `49.83`
 - Macro risk score: `44.63`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:838`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11671`
-- Day/swing latest: `2026-09-12T00:00:00+00:00`
+- Day/swing records: `11672`
+- Day/swing latest: `2026-09-12T00:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [crypto] Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Arrest made over the death of black woman found hanged from tree (BBC News)
+- [crypto] Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
 - [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
