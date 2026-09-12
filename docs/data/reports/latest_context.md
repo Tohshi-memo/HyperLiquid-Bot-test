@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-12T06:22:30.513528+00:00`
-- Market context score: `45.25`
-- News risk score: `33.21`
-- Macro risk score: `41.36`
-- Risk-on score: `22.0`
-- Articles: `14`
+- Generated: `2026-09-12T06:28:32.401997+00:00`
+- Market context score: `46.5`
+- News risk score: `31.91`
+- Macro risk score: `38.82`
+- Risk-on score: `22.73`
+- Articles: `15`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `8`, risk hits `3`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `9`, risk hits `3`, risk headline rate `0.2222`, policy hits `3`
 
 ## Headlines
 
+- [macro] Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC (BBC News)
 - [macro] Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq (BBC News)
 - [macro] Death toll from Philippines ferry fire climbs to 35, with dozens still missing (BBC News)
 - [macro] Arrest made over the death of black woman found hanged from tree in Mississippi (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Passenger train derails in France leaving at least 44 injured (BBC News)
 - [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
-- [macro] Tragic death of woman who testified against father in notorious mafia murder of mother (BBC News)
