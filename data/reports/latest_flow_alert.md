@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-12T15:00:28.620046+00:00`
+- Generated: `2026-09-12T15:05:32.620825+00:00`
 - Flow alert score: `19.28`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `4076747.8520189957` | liquidity: `691301.1087`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2963722.409088` | liquidity: `717388.6821`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2460070.7328899996` | liquidity: `2870567.61591`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `2153413.8626439995` | liquidity: `1371062.767`
-- Bab el-Mandeb Strait effectively closed by September 15? | 24h volume: `441674.82074` | liquidity: `82413.27932`
-- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `120685.98575`
-- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `331725.592334` | liquidity: `372720.21542`
-- Will the U.S. invade Iran before 2027? | 24h volume: `223382.0068809999` | liquidity: `575371.735`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `4076747.8520189957` | liquidity: `681365.3001`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2963722.409088` | liquidity: `726565.2727`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `2460070.7328899996` | liquidity: `2926470.48639`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `2153413.8626439995` | liquidity: `1426642.44272`
+- Bab el-Mandeb Strait effectively closed by September 15? | 24h volume: `441674.82074` | liquidity: `81013.53932`
+- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `119922.52864`
+- Will Romeu Zema win the 2026 Brazilian presidential election? | 24h volume: `331725.592334` | liquidity: `378089.74542`
+- Will the U.S. invade Iran before 2027? | 24h volume: `223382.0068809999` | liquidity: `575394.1794`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
