@@ -2,9 +2,9 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-09-12T11:52:27.257070+00:00`
+- Updated: `2026-09-12T12:07:32.355385+00:00`
 - Asset price active records: `672`
-- Day/swing records: `11718`
+- Day/swing records: `11719`
 - Macro indicators: `11`
 - Flow-alert history records: `8640`
 - Correlation status: `ready`
@@ -14,15 +14,15 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2379 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (61918 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2395 bytes): Current canary signals.
+- `data/processed/ai_context_index.json` (61910 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2396 bytes): Current canary signals.
 - `data/reports/latest_ai_analysis_brief.md` (873 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2102 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (48223 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5658 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2124 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10320 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3551 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (48232 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5660 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2128 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (10317 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3555 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
