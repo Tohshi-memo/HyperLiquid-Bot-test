@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-12T07:52:25.033356+00:00`
-- Market context score: `59.11`
-- News risk score: `28.76`
-- Macro risk score: `32.15`
-- Risk-on score: `45.56`
-- Articles: `11`
+- Generated: `2026-09-12T08:07:26.731898+00:00`
+- Market context score: `48.21`
+- News risk score: `30.23`
+- Macro risk score: `35.46`
+- Risk-on score: `23.85`
+- Articles: `15`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11702`
-- Day/swing latest: `2026-09-12T07:45:00+00:00`
+- Day/swing records: `11703`
+- Day/swing latest: `2026-09-12T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.125`, policy hits `3`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `3`
 
 ## Headlines
 
+- [macro] Trump to meet Irish leader Micheál Martin during visit (BBC News)
 - [macro] Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC (BBC News)
 - [macro] Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq (BBC News)
 - [macro] Death toll from Philippines ferry fire climbs to 35, with dozens still missing (BBC News)
 - [macro] Arrest made over the death of black woman found hanged from tree in Mississippi (BBC News)
+- [macro] Firefighters say this antioxidant helped them - their union warns it could be risky (BBC News)
+- [macro] 'Never, ever forget' - America marks 25th anniversary of 9/11 attacks (BBC News)
+- [macro] Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe (BBC News)
 - [crypto] Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane (BBC News)
-- [commodity] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Passenger train derails in France leaving at least 44 injured (BBC News)
-- [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
+- [macro] When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all (BBC News)
