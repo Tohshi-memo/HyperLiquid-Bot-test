@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-12T12:52:25.113299+00:00`
-- Market context score: `47.89`
-- News risk score: `30.31`
-- Macro risk score: `35.85`
-- Risk-on score: `23.33`
-- Articles: `13`
+- Generated: `2026-09-12T13:07:28.734253+00:00`
+- Market context score: `68.21`
+- News risk score: `28.15`
+- Macro risk score: `31.41`
+- Risk-on score: `65.0`
+- Articles: `17`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11722`
-- Day/swing latest: `2026-09-12T12:45:00+00:00`
+- Day/swing records: `11723`
+- Day/swing latest: `2026-09-12T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `14`, risk hits `6`, risk headline rate `0.2143`, policy hits `4`
 
 ## Headlines
 
-- [macro] Inflation is outpacing wage growth again, squeezing Americans’ paychecks (Economy)
-- [commodity] Oil's roundtrip back to $100. Why China could determine what happens next (Energy)
-- [macro] September Has Historically Been a Difficult Month for Bitcoin. This Is the Most Likely Scenario for What Happens Next. (Yahoo Finance)
-- [macro] Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq (BBC News)
-- [commodity] Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace (Energy)
+- [macro] Passenger train derails in France leaving at least 44 injured (BBC News)
+- [macro] Record heatwaves in France set to make champagne stronger (BBC News)
 - [macro] A united Ireland would be 'fantastic' says Trump during Irish visit (BBC News)
-- [crypto] Bitcoin activity, passports exposed after Revolut falls for fake government request (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders (BBC News)
-- [macro] Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial (BBC News)
-- [macro] Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC (BBC News)
+- [macro] 3 Agentic AI Stocks to Own Before AI Changes the World as We Know It (Yahoo Finance)
+- [macro] Inflation is outpacing wage growth again, squeezing Americans’ paychecks (Economy)
+- [macro] Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys (Yahoo Finance)
+- [macro] 5 easy ways US boomers fry their nest egg and retire poor (even with big savings) — are you making the same mistakes? (Yahoo Finance)
+- [macro] Destination XL’s (DXLG) Profit Surge Can’t Outrun Its Traffic Problem (Yahoo Finance)
+- [commodity] Oil's roundtrip back to $100. Why China could determine what happens next (Energy)
+- [macro] Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq (BBC News)
