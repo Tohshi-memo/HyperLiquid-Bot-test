@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-09-12T23:22:27.076191+00:00`
+- Generated: `2026-09-12T23:37:29.071504+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `192`
 - Outcome sides (rows): `384`
@@ -70,11 +70,11 @@
 - template:priceTouch [template:No] symbol `#12171` underlying `n/a` prob `0.976` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [Yes] symbol `#12260` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [No] symbol `#12261` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateNoChange [Yes] symbol `#12270` underlying `n/a` prob `0.2112` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateNoChange [No] symbol `#12271` underlying `n/a` prob `0.7888` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateNoChange [Yes] symbol `#12270` underlying `n/a` prob `0.2127` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateNoChange [No] symbol `#12271` underlying `n/a` prob `0.7873` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [Yes] symbol `#12280` underlying `n/a` prob `0.0045` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [No] symbol `#12281` underlying `n/a` prob `0.9955` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.7817` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.782` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -98,11 +98,11 @@
 - template:priceTouch [template:No] symbol `#12171` underlying `n/a` prob `0.976` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [Yes] symbol `#12260` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [No] symbol `#12261` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateNoChange [Yes] symbol `#12270` underlying `n/a` prob `0.2112` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateNoChange [No] symbol `#12271` underlying `n/a` prob `0.7888` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateNoChange [Yes] symbol `#12270` underlying `n/a` prob `0.2127` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateNoChange [No] symbol `#12271` underlying `n/a` prob `0.7873` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [Yes] symbol `#12280` underlying `n/a` prob `0.0045` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [No] symbol `#12281` underlying `n/a` prob `0.9955` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.7817` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:policyRateIncrease [Yes] symbol `#12290` underlying `n/a` prob `0.782` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
