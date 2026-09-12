@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-12T05:07:24.847763+00:00`
-- Market context score: `38.41`
-- News risk score: `43.03`
-- Macro risk score: `42.88`
-- Risk-on score: `15.67`
+- Generated: `2026-09-12T05:22:29.268147+00:00`
+- Market context score: `43.16`
+- News risk score: `35.38`
+- Macro risk score: `45.57`
+- Risk-on score: `20.77`
 - Articles: `17`
 - Polymarket markets: `392`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:26, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11691`
-- Day/swing latest: `2026-09-12T05:00:00+00:00`
+- Day/swing records: `11692`
+- Day/swing latest: `2026-09-12T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `4`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `4`
 
 ## Headlines
 
+- [macro] Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq (BBC News)
 - [macro] Death toll from Philippines ferry fire climbs to 35, with dozens still missing (BBC News)
 - [macro] Arrest made over the death of black woman found hanged from tree in Mississippi (BBC News)
 - [crypto] Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Passenger train derails in France leaving at least 44 injured (BBC News)
 - [macro] Six Nigerians accused of romance scams to be extradited to the US (BBC News)
 - [macro] Tragic death of woman who testified against father in notorious mafia murder of mother (BBC News)
-- [crypto] Bitcoin Suisse to shift up to half of Swiss jobs abroad (Cointelegraph.com News)
