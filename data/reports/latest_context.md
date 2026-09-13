@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-13T14:37:28.734399+00:00`
+- Generated: `2026-09-13T14:52:29.429801+00:00`
 - Market context score: `60.13`
 - News risk score: `38.76`
 - Macro risk score: `34.94`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11820`
-- Day/swing latest: `2026-09-13T14:30:00+00:00`
+- Day/swing records: `11821`
+- Day/swing latest: `2026-09-13T14:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question. (Yahoo Finance)
+- [macro] Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown (Yahoo Finance)
 - [macro] Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists (BBC News)
 - [macro] Legendary Canadian boxer George Chuvalo dies aged 89 (BBC News)
 - [commodity] Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran war reshapes Brics ties but also exposes divisions (BBC News)
-- [macro] AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News)
