@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-13T11:22:30.304363+00:00`
-- Market context score: `59.88`
-- News risk score: `26.57`
-- Macro risk score: `29.14`
-- Risk-on score: `44.29`
-- Articles: `9`
+- Generated: `2026-09-13T11:37:25.769936+00:00`
+- Market context score: `57.15`
+- News risk score: `29.25`
+- Macro risk score: `34.5`
+- Risk-on score: `42.5`
+- Articles: `10`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11807`
-- Day/swing latest: `2026-09-13T11:15:00+00:00`
+- Day/swing records: `11808`
+- Day/swing latest: `2026-09-13T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [macro] Iran war reshapes Brics ties but also exposes divisons (BBC News)
 - [macro] AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News)
 - [macro] AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News)
 - [crypto] Anthropic chief urges slowdown in AI development to safer pace (Cointelegraph.com News)
