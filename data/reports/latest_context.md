@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-13T18:22:27.729889+00:00`
-- Market context score: `57.8`
+- Generated: `2026-09-13T18:37:26.531315+00:00`
+- Market context score: `56.94`
 - News risk score: `35.33`
 - Macro risk score: `32.7`
-- Risk-on score: `48.4`
+- Risk-on score: `46.5`
 - Articles: `41`
 - Polymarket markets: `394`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:842`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11835`
-- Day/swing latest: `2026-09-13T18:15:00+00:00`
+- Day/swing records: `11836`
+- Day/swing latest: `2026-09-13T18:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,9 @@
 
 ## Headlines
 
+- [macro] Questions mount over what an AI 'slowdown' would look like (BBC News)
 - [macro] Trump doubles down on united Ireland comments on day two of visit (BBC News)
+- [macro] Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown (Yahoo Finance)
 - [macro] Trump downplays warnings of AI risks, citing rivalry with China (BBC News)
 - [macro] McDonald's Yields 3%, the Highest in Over 6 Years. Is the Dow Dividend Stock a Value Trap or Too Cheap to Ignore? (Yahoo Finance)
 - [macro] Barclays resets Oracle stock price target (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal (Yahoo Finance)
 - [macro] Korn Ferry (KFY) Expands Global Standing With AMS Acquisition (Yahoo Finance)
 - [crypto] Quantum-proof blockchain: why math, not machines, holds the key (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks? (Yahoo Finance)
-- [macro] Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM) (Yahoo Finance)
