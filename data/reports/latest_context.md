@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-13T08:07:28.618049+00:00`
+- Generated: `2026-09-13T08:22:25.966042+00:00`
 - Market context score: `65.84`
 - News risk score: `20.73`
 - Macro risk score: `17.45`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `11799`
+- Day/swing latest: `2026-09-13T08:15:00+00:00`
 
 ## News Categories
 
@@ -27,7 +27,7 @@
 
 ## Headlines
 
-- [macro] One dead, 102 rescued from Indonesian ferry that went missing in Java Sea (BBC News)
+- [macro] Six dead, 97 rescued from Indonesian ferry that went missing in Java Sea (BBC News)
 - [macro] AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News)
 - [macro] They lost their jobs after posting about Charlie Kirk, but some have no regrets (BBC News)
 - [macro] Russians seek answers over hundreds missing after Ukraine's 2024 incursion (BBC News)
