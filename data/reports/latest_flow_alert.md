@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-13T06:55:27.555592+00:00`
+- Generated: `2026-09-13T07:00:30.926269+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2024244.5713520024` | liquidity: `1289791.8974`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1073732.470232` | liquidity: `1073731.7195`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1060213.6721000005` | liquidity: `1354169.859`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1034056.08731` | liquidity: `2882003.74897`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2024244.5713520024` | liquidity: `1289626.3575`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1073732.470232` | liquidity: `1069879.7052`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `1060213.6721000005` | liquidity: `1354019.699`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1034056.08731` | liquidity: `2881487.35333`
 - Bab el-Mandeb Strait effectively closed by September 15? | 24h volume: `437372.661973` | liquidity: `83540.4466`
-- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `123297.30491`
-- Will Abigail Spanberger win the 2028 US Presidential Election? | 24h volume: `326344.06` | liquidity: `1471825.50712`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `296406.92000000004` | liquidity: `4435158.60689`
+- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `122917.4226`
+- Will Abigail Spanberger win the 2028 US Presidential Election? | 24h volume: `326344.06` | liquidity: `1472260.11156`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `296406.92000000004` | liquidity: `4442388.11698`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
