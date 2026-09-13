@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-13T09:52:27.261173+00:00`
-- Market context score: `59.88`
-- News risk score: `26.57`
-- Macro risk score: `29.14`
-- Risk-on score: `44.29`
-- Articles: `8`
+- Generated: `2026-09-13T10:07:30.659530+00:00`
+- Market context score: `58.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `43.33`
+- Articles: `7`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11801`
-- Day/swing latest: `2026-09-13T09:45:00+00:00`
+- Day/swing records: `11802`
+- Day/swing latest: `2026-09-13T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
@@ -35,4 +35,3 @@
 - [macro] AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News)
 - [macro] They lost their jobs after posting about Charlie Kirk, but some have no regrets (BBC News)
 - [macro] Russians seek answers over hundreds missing after Ukraine's 2024 incursion (BBC News)
-- [macro] Best friends for decades - until a DNA test revealed they were sisters (BBC News)
