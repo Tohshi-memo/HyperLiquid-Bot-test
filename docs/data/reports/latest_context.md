@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-13T13:22:25.885868+00:00`
+- Generated: `2026-09-13T13:37:26.814005+00:00`
 - Market context score: `55.3`
 - News risk score: `43.36`
 - Macro risk score: `44.27`
 - Risk-on score: `54.0`
 - Articles: `11`
-- Polymarket markets: `393`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11815`
-- Day/swing latest: `2026-09-13T13:15:00+00:00`
+- Day/swing records: `11816`
+- Day/swing latest: `2026-09-13T13:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Six dead, 130 missing after Indonesian ferry capsizes in Java Sea (BBC News)
 - [crypto] Fed rate hike is about Wall Street, not inflation, says economist (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Six dead, 130 missing after Indonesian ferry capsizes in Java Sea (BBC News)
 - [crypto] Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran war reshapes Brics ties but also exposes divisions (BBC News)
 - [macro] AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News)
