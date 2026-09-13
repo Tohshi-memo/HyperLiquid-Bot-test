@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-13T01:45:30.151461+00:00`
+- Generated: `2026-09-13T01:50:31.689979+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2117845.831171003` | liquidity: `992227.8781`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1181117.0403950005` | liquidity: `876805.0808`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1042811.24231` | liquidity: `2757357.13168`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2117845.831171003` | liquidity: `993338.7686`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1181117.0403950005` | liquidity: `861526.89`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1042811.24231` | liquidity: `2756055.14768`
 - Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `864119.5221920005` | liquidity: `1453629.52355`
-- Bab el-Mandeb Strait effectively closed by September 15? | 24h volume: `434924.49311499996` | liquidity: `76420.74549`
-- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `127513.1259`
-- Will Abigail Spanberger win the 2028 US Presidential Election? | 24h volume: `326344.06` | liquidity: `1471667.92809`
+- Bab el-Mandeb Strait effectively closed by September 15? | 24h volume: `434924.49311499996` | liquidity: `76421.39049`
+- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `126863.6221`
+- Will Abigail Spanberger win the 2028 US Presidential Election? | 24h volume: `326344.06` | liquidity: `1471668.16355`
 - Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `305106.92000000004` | liquidity: `4296594.43489`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
