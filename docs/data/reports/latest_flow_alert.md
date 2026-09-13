@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-13T00:40:28.587748+00:00`
+- Generated: `2026-09-13T00:45:32.309358+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2138063.3417650023` | liquidity: `1038583.4008`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1192214.5569250004` | liquidity: `957078.3991`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2138063.3417650023` | liquidity: `1039982.8629`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1192214.5569250004` | liquidity: `969765.7157`
 - Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1054635.769638` | liquidity: `2745142.56148`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `866692.8294250004` | liquidity: `1431658.42191`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `866692.8294250004` | liquidity: `1431706.18191`
 - Bab el-Mandeb Strait effectively closed by September 15? | 24h volume: `434924.49311499996` | liquidity: `76417.39049`
-- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `123969.02591`
+- Will François Baroin win the 2027 French presidential election? | 24h volume: `395816.15` | liquidity: `123472.07997`
 - Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `358006.92` | liquidity: `4297475.81747`
-- Will Abigail Spanberger win the 2028 US Presidential Election? | 24h volume: `326344.06` | liquidity: `1462775.20471`
+- Will Abigail Spanberger win the 2028 US Presidential Election? | 24h volume: `326344.06` | liquidity: `1468096.82483`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
