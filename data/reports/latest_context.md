@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-13T07:37:29.800135+00:00`
-- Market context score: `64.25`
-- News risk score: `22.29`
-- Macro risk score: `20.57`
-- Risk-on score: `47.14`
-- Articles: `9`
+- Generated: `2026-09-13T07:52:25.372557+00:00`
+- Market context score: `65.22`
+- News risk score: `21.33`
+- Macro risk score: `18.67`
+- Risk-on score: `47.78`
+- Articles: `11`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:840`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11797`
-- Day/swing latest: `2026-09-13T07:30:00+00:00`
+- Day/swing records: `11798`
+- Day/swing latest: `2026-09-13T07:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] One dead, 102 rescued from Indonesian ferry that went missing in Java Sea (BBC News)
 - [macro] They lost their jobs after posting about Charlie Kirk, but some have no regrets (BBC News)
+- [macro] Russians seek answers over hundreds missing after Ukraine's 2024 incursion (BBC News)
 - [macro] Best friends for decades - until a DNA test revealed they were sisters (BBC News)
 - [macro] Trump's comments on a united Ireland may have targeted audience across the Atlantic (BBC News)
 - [macro] Afghan woman deported from US in first use of 'alien terrorist' court (BBC News)
@@ -35,4 +37,3 @@
 - [crypto] OpenAI IPO won't happen this year, says Sam Altman (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves (BBC News)
-- [macro] Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat (BBC News)
