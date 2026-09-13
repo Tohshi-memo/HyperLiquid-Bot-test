@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-09-13T01:07:26.113887+00:00`
+- Generated: `2026-09-13T01:22:33.424449+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `192`
 - Outcome sides (rows): `384`
@@ -29,10 +29,10 @@
 - template:sportsTournamentParticipant [No] symbol `#14781` underlying `n/a` prob `0.9899` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [No] symbol `#26461` underlying `n/a` prob `0.9875` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#12111` underlying `n/a` prob `0.9851` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:sportsContestParticipant2 [No] symbol `#27741` underlying `n/a` prob `0.98` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring Named Outcome [Yes] symbol `#26470` underlying `n/a` prob `0.9799` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#12171` underlying `n/a` prob `0.9769` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#12101` underlying `n/a` prob `0.9763` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:sportsContestParticipant2 [No] symbol `#27741` underlying `n/a` prob `0.975` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14771` underlying `n/a` prob `0.9737` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#12121` underlying `n/a` prob `0.966` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsContestParticipant2 [No] symbol `#25341` underlying `n/a` prob `0.9551` price_source `allMids` vol24h `0.0` oi `0.0`
