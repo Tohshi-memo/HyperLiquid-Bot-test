@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T00:07:27.428501+00:00`
-- Market context score: `55.43`
-- News risk score: `38.94`
-- Macro risk score: `33.3`
-- Risk-on score: `46.42`
-- Articles: `44`
+- Generated: `2026-09-14T00:22:27.474247+00:00`
+- Market context score: `50.57`
+- News risk score: `35.99`
+- Macro risk score: `29.75`
+- Risk-on score: `31.78`
+- Articles: `23`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:842`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11858`
-- Day/swing latest: `2026-09-14T00:00:00+00:00`
+- Day/swing records: `11859`
+- Day/swing latest: `2026-09-14T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `5`, risk hits `2`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `37`, risk hits `13`, risk headline rate `0.2973`, policy hits `8`
+- macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
-- [macro] Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead (Yahoo Finance)
-- [macro] Prediction: ServiceNow's AI Business Triples Before 2029 (Yahoo Finance)
 - [macro] How to protect your laptop, phone and bike from thieves at uni (BBC News)
-- [macro] Jim Cramer says one 28-year-old tech giant is a terrific buy (Yahoo Finance)
-- [macro] Planet Labs' 2026 Outlook: Government Contracts Power Revenue Growth (Yahoo Finance)
-- [macro] Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike (Yahoo Finance)
-- [macro] 2 Monster Stocks to Buy and Hold for at Least the Next 5 Years (Yahoo Finance)
-- [macro] They Skipped Long-Term Care Insurance Because Dad Was Only 58. At 76, After a Stroke, No Carrier Would Write It at All (Yahoo Finance)
 - [macro] Gloomy forecast for tenants as rent rises set to speed up (BBC News)
-- [macro] Canadian CRE Investors Shrug Off Trade War, Spend $9B On U.S. Assets (Yahoo Finance)
+- [commodity] Oil prices rise after Saudi Arabia shut down critical pipeline that bypasses Strait of Hormuz (Energy)
+- [macro] Swedish party blocs tied after Sunday vote, projections say (BBC News)
+- [macro] 'Culture shift' needed in how UK does business, PM urges (BBC News)
+- [macro] Trump says he will remove all Irish whiskey tariffs as he ends two-day visit (BBC News)
+- [macro] Trump says he will remove all Irish whiskey tariffs as he ends two-day visit (BBC News)
+- [macro] Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station (BBC News)
+- [macro] Trump downplays warnings of AI risks, citing rivalry with China (BBC News)
+- [macro] Trump downplays warnings of AI risks, citing rivalry with China (BBC News)
