@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T16:07:35.697070+00:00`
-- Market context score: `53.1`
-- News risk score: `42.75`
-- Macro risk score: `32.06`
-- Risk-on score: `44.0`
-- Articles: `77`
+- Generated: `2026-09-14T16:22:31.373972+00:00`
+- Market context score: `52.32`
+- News risk score: `43.37`
+- Macro risk score: `33.44`
+- Risk-on score: `43.31`
+- Articles: `78`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:896`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11920`
-- Day/swing latest: `2026-09-14T16:00:00+00:00`
+- Day/swing records: `11921`
+- Day/swing latest: `2026-09-14T16:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `28`, risk hits `4`, risk headline rate `0.1429`, policy hits `6`
-- macro: articles `43`, risk hits `12`, risk headline rate `0.2326`, policy hits `8`
+- commodity: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `0`
+- crypto: articles `28`, risk hits `4`, risk headline rate `0.1429`, policy hits `5`
+- macro: articles `43`, risk hits `14`, risk headline rate `0.2791`, policy hits `6`
 
 ## Headlines
 
-- [crypto] Bipartisan group of state attorneys general oppose Clarity Act over federal preemption worry (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz (Energy)
+- [commodity] Trump says Ukraine and Russia agreed not to hit energy targets (Energy)
+- [macro] The next AI boom could be hiding in cybersecurity (Yahoo Finance)
+- [macro] Prediction: Meta Stock Has More Upside Than Its Valuation Suggests (Yahoo Finance)
+- [macro] Anthropic Just Asked the AI Industry to Slow Down. Nothing in It Asks Anyone to Buy Fewer Nvidia Chips. (Yahoo Finance)
+- [macro] Bloom Energy Falls 8% as AI Power Bid Unwinds Days Before Bloom’s S&P 500 Add; FuelCell Energy Drops 5%, Plug Power Dips (Yahoo Finance)
+- [crypto] A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury (Cointelegraph.com News)
+- [macro] Producer Of Strategic Metal Soars 43% On Pentagon Deals (Yahoo Finance)
 - [macro] Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day (Yahoo Finance)
-- [commodity] Prediction market traders think gas prices will hit new highs for the year (Energy)
-- [macro] YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project (Yahoo Finance)
-- [macro] Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here’s What We Found When We Ran the Numbers. (Yahoo Finance)
-- [macro] Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher (Yahoo Finance)
-- [macro] Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week (Yahoo Finance)
-- [macro] JEPQ and QYLD Both Sell Nasdaq Calls for Income, Yet Only One Has Protected Its Share Price (Yahoo Finance)
-- [macro] Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain (Yahoo Finance)
