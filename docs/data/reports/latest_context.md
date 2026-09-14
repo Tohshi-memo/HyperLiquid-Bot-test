@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T12:37:31.112437+00:00`
-- Market context score: `46.92`
-- News risk score: `47.82`
-- Macro risk score: `39.91`
-- Risk-on score: `37.5`
-- Articles: `64`
+- Generated: `2026-09-14T12:52:29.354724+00:00`
+- Market context score: `45.44`
+- News risk score: `48.04`
+- Macro risk score: `41.81`
+- Risk-on score: `35.11`
+- Articles: `61`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:896`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11907`
-- Day/swing latest: `2026-09-14T12:30:00+00:00`
+- Day/swing records: `11908`
+- Day/swing latest: `2026-09-14T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `2`
 - crypto: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `4`
-- macro: articles `39`, risk hits `16`, risk headline rate `0.359`, policy hits `11`
+- macro: articles `36`, risk hits `18`, risk headline rate `0.3889`, policy hits `11`
 
 ## Headlines
 
+- [commodity] Brent crude tops $109 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz (Energy)
 - [commodity] Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record (Energy)
+- [macro] If You're Still Holding NuScale, Here's 1 Catalyst That Might Make You Sell (Yahoo Finance)
+- [macro] Michael Dell's DFO Management nears $7.7B Baldwin Insurance deal (Yahoo Finance)
+- [macro] 10-year treasury yield rises as oil prices jump (Yahoo Finance)
+- [macro] Royal Caribbean Cruises vs. Walmart: Which Consumer Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [commodity] Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz (Energy)
+- [macro] The UPS Dividend Yield Is Unusually High and That Is Not the Compliment It Sounds Like (Yahoo Finance)
+- [macro] $10,000 Invested in SCHD a Decade Ago Would Be Worth This Much Today (Yahoo Finance)
 - [macro] Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station (BBC News)
-- [macro] Why These 2 CEOs Just Bought Millions in Their Own Stocks (Yahoo Finance)
-- [macro] This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now (Yahoo Finance)
-- [macro] Dow Jones Futures Fall, Techs Tumble As Oil Prices Rise, Anthropic Leads AI Slowdown Call (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls On Rising Oil; Nvidia Sells Off On AI Warning (Live Coverage) (Yahoo Finance)
-- [macro] These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache (Yahoo Finance)
-- [crypto] Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
