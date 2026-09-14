@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T13:52:40.971629+00:00`
+- Generated: `2026-09-14T14:01:18.086050+00:00`
 - Market context score: `46.73`
 - News risk score: `45.66`
 - Macro risk score: `40.55`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:896`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `11912`
+- Day/swing latest: `2026-09-14T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [commodity] Brent crude tops $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz (Energy)
+- [commodity] Brent crude tops $109 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz (Energy)
 - [macro] Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck (Yahoo Finance)
 - [macro] Dominion, NextEra propose $1 billion-a-year Virginia supplier program (Yahoo Finance)
 - [macro] US Pentagon triggers alarm for 150M+ American drivers after massive ID breach — is your identity exposed? Do this now (Yahoo Finance)
