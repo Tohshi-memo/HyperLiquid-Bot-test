@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T06:52:32.969707+00:00`
+- Generated: `2026-09-14T07:06:35.331704+00:00`
 - Market context score: `37.99`
 - News risk score: `44.46`
 - Macro risk score: `34.68`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:896`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11884`
-- Day/swing latest: `2026-09-14T06:45:00+00:00`
+- Day/swing records: `11885`
+- Day/swing latest: `2026-09-14T07:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies (Energy)
 - [macro] MPs and Lords call for new law to address AI threat to human rights (BBC News)
 - [macro] Hyrox athlete sparks debate for continuing race after soiling herself (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station (BBC News)
 - [commodity] Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand (Energy)
 - [crypto] US Republicans send ‘final’ CLARITY Act offer to Democrats (Cointelegraph.com News)
-- [commodity] Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall (Energy)
