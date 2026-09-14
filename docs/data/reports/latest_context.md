@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T02:37:26.705685+00:00`
+- Generated: `2026-09-14T02:52:32.416564+00:00`
 - Market context score: `36.45`
 - News risk score: `46.71`
 - Macro risk score: `33.43`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:896`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11868`
-- Day/swing latest: `2026-09-14T02:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Amazon pauses operations with cargo carrier after fatal Miami crash (BBC News)
+- [macro] Amazon pauses work with cargo firm after fatal crash (BBC News)
 - [macro] Swedish left-wing bloc narrowly ahead with election too close to call (BBC News)
 - [crypto] Revolut attackers threaten daily customer data leaks (Cointelegraph.com News)
 - [crypto] Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest (Cointelegraph.com News)
