@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T17:22:34.666397+00:00`
-- Market context score: `53.12`
-- News risk score: `44.18`
-- Macro risk score: `34.26`
-- Risk-on score: `46.07`
+- Generated: `2026-09-14T17:37:26.834964+00:00`
+- Market context score: `52.99`
+- News risk score: `44.75`
+- Macro risk score: `35.41`
+- Risk-on score: `46.71`
 - Articles: `79`
 - Polymarket markets: `393`
 
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:910`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11925`
-- Day/swing latest: `2026-09-14T17:15:00+00:00`
+- Day/swing records: `11926`
+- Day/swing latest: `2026-09-14T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `7`, risk hits `6`, risk headline rate `0.8571`, policy hits `0`
 - crypto: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `5`
-- macro: articles `45`, risk hits `12`, risk headline rate `0.2222`, policy hits `14`
+- macro: articles `45`, risk hits `13`, risk headline rate `0.2444`, policy hits `14`
 
 ## Headlines
 
+- [macro] Should You Buy Costco Stock Before Sept. 24? (Yahoo Finance)
+- [macro] Carney, locked in US trade war, pitches Canada to global investment titans (Yahoo Finance)
+- [macro] RingCentral's Chief Accounting Officer Sells 4,172 Company Shares Amid a 119% One-Year Stock Surge (Yahoo Finance)
+- [macro] Market Indexes Drop as Chip Stocks Take the Weekend's News Badly (Yahoo Finance)
+- [macro] Cass: TL rates jump 11% in August, freight shipments turn positive (Yahoo Finance)
+- [macro] Northern Air Cargo names permanent CEO (Yahoo Finance)
 - [macro] Spot Bitcoin ETFs Lose $463M Amid ‘Difficult’ Time for Markets (Yahoo Finance)
 - [macro] RF Industries, Ltd. Q3 2026 Earnings Call Summary (Yahoo Finance)
 - [macro] DeFi Development Expands Solana Treasury to 2.39M SOL (Yahoo Finance)
 - [commodity] Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz (Energy)
-- [macro] Johnson & Johnson Targets Double-Digit Growth as STELARA Faces Biosimilar Competition (Yahoo Finance)
-- [macro] Why CrowdStrike Stock Rocketed Higher Today (Yahoo Finance)
-- [macro] This Bull Call Spread In Oil Provides A Hedge Against Stocks And Bonds (Yahoo Finance)
-- [macro] Manhattan Multifamily Rents Lead Nation as Sales Prices Drop (Yahoo Finance)
-- [macro] Oracle Stock Falls After Ellison Scraps Plan To Sell Up To $7.5 Billion In Stock (Yahoo Finance)
-- [macro] Stock Market Today: Dow Tries For A Gain, Trump Hits Out At AI Fears; This Fuel Play Clears Entry (Live Coverage) (Yahoo Finance)
