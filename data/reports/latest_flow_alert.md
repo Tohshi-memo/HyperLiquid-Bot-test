@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-14T09:10:34.256339+00:00`
+- Generated: `2026-09-14T09:15:33.896806+00:00`
 - Flow alert score: `18.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14899763.18`
+- Polymarket 24h volume: `14908790.28`
 - Polymarket volume z-score: `0.31`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2394813.294032` | liquidity: `1052090.1134`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1979723.1512550001` | liquidity: `1296475.8302`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1916880.264983` | liquidity: `3575966.75444`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `943145.0632450003` | liquidity: `335681.3134`
-- Will Magdalena Andersson be the next Prime Minister of Sweden? | 24h volume: `708593.9661570005` | liquidity: `42072.4436`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `682056.62` | liquidity: `4875010.55062`
-- Will Ulf Kristersson be the next Prime Minister of Sweden? | 24h volume: `577967.8610910001` | liquidity: `71777.0242`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `567486.3376380001` | liquidity: `1510264.65846`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `2386554.8116560015` | liquidity: `1051312.2607`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1975484.6183949998` | liquidity: `1291738.2003`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `1917142.6479829997` | liquidity: `3555957.46894`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `948128.6877100007` | liquidity: `337897.6427`
+- Will Magdalena Andersson be the next Prime Minister of Sweden? | 24h volume: `708055.1680700002` | liquidity: `42294.508`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `686056.62` | liquidity: `4854968.70357`
+- Will Ulf Kristersson be the next Prime Minister of Sweden? | 24h volume: `576385.7436560005` | liquidity: `75898.53`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `562264.772209` | liquidity: `1493067.85288`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
