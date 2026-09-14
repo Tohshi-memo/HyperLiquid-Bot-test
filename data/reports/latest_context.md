@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-14T10:52:29.812831+00:00`
-- Market context score: `44.81`
-- News risk score: `49.16`
-- Macro risk score: `36.88`
-- Risk-on score: `32.81`
-- Articles: `62`
+- Generated: `2026-09-14T11:07:30.976376+00:00`
+- Market context score: `47.03`
+- News risk score: `48.14`
+- Macro risk score: `35.73`
+- Risk-on score: `36.45`
+- Articles: `60`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:896`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11900`
-- Day/swing latest: `2026-09-14T10:45:00+00:00`
+- Day/swing records: `11901`
+- Day/swing latest: `2026-09-14T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `2`
 - crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `42`, risk hits `14`, risk headline rate `0.3095`, policy hits `11`
+- macro: articles `40`, risk hits `12`, risk headline rate `0.275`, policy hits `12`
 
 ## Headlines
 
 - [commodity] India's inflation rises to 4.82% in August, marginally exceeding forecasts (Energy)
+- [macro] Retired Surgeon Wanted to Leave His Kids as Much as Possible. Picking the Wrong Account Cost His Heirs Hundreds of Thousands of Dollars. (Yahoo Finance)
+- [macro] Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead (Yahoo Finance)
+- [macro] C3.ai vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] I owe $13,000 on my car, but it suddenly needs a new $9,000 engine — I can’t afford that. What am I supposed to do now? (Yahoo Finance)
+- [macro] This Memory Sector Sleeper Stock Nears a Profitability Turning Point (Yahoo Finance)
 - [macro] Morning Bid: Go slow AI (Yahoo Finance)
 - [macro] If You'd Invested $5,000 in the S&P 500 at the Great Recession Bottom, Here's What You'd Have Today (Yahoo Finance)
 - [macro] Ford Motor vs. Tesla: Which Automotive Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] 4 Simple ETFs Built for Long-Term Buy-and-Hold Investors (Yahoo Finance)
 - [macro] My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal (Yahoo Finance)
-- [macro] Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next? (Yahoo Finance)
-- [macro] Canada Clears Tokenized Bank Deposits Without Creating a New Crypto Rulebook (Yahoo Finance)
-- [macro] Berkshire Hathaway (BRKB) Stock Is the Financial Stock I'd Still Want to Own in 2036, and Not Because of Warren Buffett (Yahoo Finance)
-- [macro] AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock (Yahoo Finance)
