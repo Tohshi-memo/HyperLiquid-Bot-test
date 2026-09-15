@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T18:07:32.580882+00:00`
-- Market context score: `36.58`
-- News risk score: `58.19`
-- Macro risk score: `37.97`
-- Risk-on score: `22.56`
-- Articles: `73`
+- Generated: `2026-09-15T18:22:36.141822+00:00`
+- Market context score: `32.56`
+- News risk score: `54.98`
+- Macro risk score: `43.56`
+- Risk-on score: `13.02`
+- Articles: `48`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T18:00:00+00:00`
+- Day/swing latest: `2026-09-15T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `26`, risk hits `12`, risk headline rate `0.4231`, policy hits `2`
-- macro: articles `42`, risk hits `18`, risk headline rate `0.3333`, policy hits `4`
+- macro: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `0`
 
 ## Headlines
 
@@ -32,9 +32,9 @@
 - [commodity] U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure (Energy)
 - [macro] Canada is a 'safe harbour' for global finance, Carney says (BBC News)
 - [crypto] Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official (Cointelegraph.com News)
-- [macro] Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady (Yahoo Finance)
-- [macro] Retirees Who Spend From the Wrong Account First Run Out About Three Years Sooner. Here’s the Order That Adds Six Figures (Yahoo Finance)
-- [macro] Can you have two of the same credit card? (Yahoo Finance)
-- [macro] Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades (Yahoo Finance)
 - [macro] British woman abducted in Malawi, police say (BBC News)
-- [macro] Trustpilot Gets a One-Star Review From Investors (Yahoo Finance)
+- [macro] Warning of space arms race as US confirms weapons in Earth's orbit (BBC News)
+- [commodity] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC (Energy)
+- [crypto] Binance adds 11 US-listed ETFs to wealth management offering (Cointelegraph.com News)
+- [macro] Suspected sabotage causes major Netherlands rail disruption (BBC News)
+- [macro] Two sailors missing after tanker attacked in Strait of Hormuz, Oman says (BBC News)
