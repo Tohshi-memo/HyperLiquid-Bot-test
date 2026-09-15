@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T09:37:26.078252+00:00`
-- Market context score: `47.76`
-- News risk score: `39.22`
-- Macro risk score: `29.52`
-- Risk-on score: `28.17`
-- Articles: `49`
+- Generated: `2026-09-15T09:52:31.051055+00:00`
+- Market context score: `47.8`
+- News risk score: `39.83`
+- Macro risk score: `29.7`
+- Risk-on score: `28.86`
+- Articles: `55`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -17,24 +17,24 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:910`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11990`
-- Day/swing latest: `2026-09-15T09:30:00+00:00`
+- Day/swing records: `11991`
+- Day/swing latest: `2026-09-15T09:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `2`
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `27`, risk hits `6`, risk headline rate `0.1481`, policy hits `3`
+- commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
+- crypto: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `31`, risk hits `9`, risk headline rate `0.1613`, policy hits `7`
 
 ## Headlines
 
+- [commodity] Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war (Energy)
 - [macro] Suspected sabotage causes major Netherlands rail disruption (BBC News)
+- [crypto] Ethereum, Base wallet standards talks fail, Ethlabs researcher says (Cointelegraph.com News)
+- [macro] What a $10,000 Investment in Amazon Now Would Be Worth if Its Anthropic Stake Gets Marked at $2 Trillion (Yahoo Finance)
+- [macro] Ameresco’s (AMRC) Data Center Boom Masks A Cash Flow Problem (Yahoo Finance)
+- [macro] Jim Cramer Says Lululemon (LULU) is in “No Man’s Land” After Another Brutal Quarter (Yahoo Finance)
+- [macro] Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. (Yahoo Finance)
 - [crypto] Hong Kong crypto exchange CoinEx to cease operations after 9 years in business (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Musk’s X Corp and SpaceXAI drop antitrust claims against Apple (Yahoo Finance)
-- [macro] ACCA, EY urge action on sustainability reporting (Yahoo Finance)
-- [macro] The Best 3 Nuclear Energy Stocks to Buy and Hold for 2030 and Beyond (Yahoo Finance)
-- [macro] Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms (Yahoo Finance)
-- [macro] Nato jets down drone that entered Lithuanian airspace (BBC News)
-- [macro] You've saved $2 million for retirement — but these 5 traps could be quietly devouring your nest egg (Yahoo Finance)
-- [macro] State pension likely to top £13,000 a year as UK wage growth slows to 3.9% (BBC News)
-- [macro] Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards (BBC News)
+- [crypto] Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant (Cointelegraph.com News)
+- [macro] US Stock Futures Fall Ahead of Fed Meeting as Oil and Treasury Yields Rise: Dow Jones, S&P, Nasdaq, Wall Street (Yahoo Finance)
