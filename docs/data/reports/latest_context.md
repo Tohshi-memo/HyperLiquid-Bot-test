@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T20:22:35.290769+00:00`
+- Generated: `2026-09-15T20:37:27.875640+00:00`
 - Market context score: `36.29`
 - News risk score: `51.05`
 - Macro risk score: `39.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T20:15:00+00:00`
+- Day/swing latest: `2026-09-15T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Iran war has led to US munitions shortfalls, Pentagon inspector confirms (BBC News)
 - [crypto] Crypto stocks sink after Senate rejects Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US borrowing costs hit highest level since 2007 (BBC News)
-- [macro] Iran war has led to US munitions shortfalls, Pentagon inspector confirms (BBC News)
 - [crypto] Crypto industry reacts after Clarity Act fails Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure (Energy)
 - [crypto] Crypto Clarity Act flames out in failed U.S. Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
