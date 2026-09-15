@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T19:22:27.610820+00:00`
+- Generated: `2026-09-15T19:37:32.122896+00:00`
 - Market context score: `36.0`
 - News risk score: `51.37`
 - Macro risk score: `39.82`
 - Risk-on score: `16.2`
 - Articles: `53`
-- Polymarket markets: `392`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T19:15:00+00:00`
+- Day/swing latest: `2026-09-15T19:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] US borrowing costs hit highest level since 2007 (BBC News)
 - [macro] Iran war has led to US munitions shortfalls, Pentagon inspector confirms (BBC News)
 - [crypto] Crypto industry reacts after Clarity Act fails Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure (Energy)
-- [macro] US borrowing costs hit highest level since 2007 (BBC News)
 - [crypto] Crypto Clarity Act flames out in failed U.S. Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nigeria arrests alleged Mexican drug kingpin at international airport (BBC News)
 - [crypto] US Senate fails to advance CLARITY Act (Cointelegraph.com News)
