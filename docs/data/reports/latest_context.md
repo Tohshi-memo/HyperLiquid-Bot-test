@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T22:07:30.470713+00:00`
-- Market context score: `35.12`
-- News risk score: `48.11`
-- Macro risk score: `40.31`
-- Risk-on score: `11.68`
-- Articles: `48`
+- Generated: `2026-09-15T22:22:33.354670+00:00`
+- Market context score: `35.64`
+- News risk score: `47.75`
+- Macro risk score: `39.11`
+- Risk-on score: `12.07`
+- Articles: `49`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T22:00:00+00:00`
+- Day/swing latest: `2026-09-15T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `2`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `0`
 
 ## Headlines
 
+- [macro] Nvidia boss says AI 'doesn't need new laws' as safety concerns grow (BBC News)
 - [crypto] There were many conductors in the derailment of the crypto industry's Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Carney courts foreign money pitching Canada as 'safe harbour' at investment summit (BBC News)
 - [crypto] BIS paper finds major gap in Bitcoin onchain transfer estimates (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Crypto stocks sink after Senate rejects Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US borrowing costs hit highest level since 2007 (BBC News)
-- [crypto] Crypto industry reacts after Clarity Act fails Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
