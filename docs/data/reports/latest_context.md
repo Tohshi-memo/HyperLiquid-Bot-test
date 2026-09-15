@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T15:22:32.291499+00:00`
-- Market context score: `43.76`
-- News risk score: `49.65`
-- Macro risk score: `30.85`
-- Risk-on score: `28.61`
-- Articles: `77`
+- Generated: `2026-09-15T15:37:30.674691+00:00`
+- Market context score: `42.26`
+- News risk score: `51.55`
+- Macro risk score: `32.5`
+- Risk-on score: `27.5`
+- Articles: `75`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T15:15:00+00:00`
+- Day/swing latest: `2026-09-15T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `1`
-- macro: articles `44`, risk hits `13`, risk headline rate `0.2045`, policy hits `11`
+- crypto: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `44`, risk hits `14`, risk headline rate `0.2273`, policy hits `13`
 
 ## Headlines
 
+- [macro] Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand (Yahoo Finance)
+- [crypto] ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address (Cointelegraph.com News)
+- [macro] Carnival vs. Uber Technologies: Which Consumer Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Home Buying Becomes a Luxury as 10-Year Treasuries Push Mortgage Rates to 7.17% (Yahoo Finance)
+- [macro] Western Digital (WDC): The Fund’s Top Relative Contributor (Yahoo Finance)
+- [macro] Is First Citizens BancShares (FCNCA) an Undervalued Opportunity? (Yahoo Finance)
 - [macro] Meta launches Meta One subscriptions as it seeks to better monetize AI spending (Yahoo Finance)
-- [macro] Bloom Energy vs. NANO Nuclear Energy: Which Stock Is a Better Buy in 2026? (Yahoo Finance)
 - [commodity] U.S. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage (Energy)
-- [macro] After $664 billion backlog, Oracle sends shocking message to staff (Yahoo Finance)
-- [macro] Nobull Taps Former Foot Locker President Frank Bracken as President (Yahoo Finance)
 - [macro] Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq (Yahoo Finance)
 - [macro] British woman abducted in Malawi, police say (BBC News)
-- [macro] Jim Cramer Questions TJX After Marmaxx Stumbles (Yahoo Finance)
-- [macro] Citi’s 11%+ RoTCE Target Signals Stronger Capital Efficiency (Yahoo Finance)
-- [macro] Stock Market Today: Dow Dives As Yields Jump; Nvidia Up But This Biotech Play Flashes Sell Signal (Live Coverage) (Yahoo Finance)
