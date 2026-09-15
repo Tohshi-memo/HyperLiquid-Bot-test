@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-15T14:50:35.098801+00:00`
-- Flow alert score: `23.56`
+- Generated: `2026-09-15T14:55:35.385286+00:00`
+- Flow alert score: `23.76`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `26945097.38`
-- Polymarket volume z-score: `1.64`
+- Polymarket 24h volume: `27348448.24`
+- Polymarket volume z-score: `1.69`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `6035376.787747005` | liquidity: `773218.6224`
-- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `5063385.613550002` | liquidity: `3203414.80606`
-- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `4059894.2776760007` | liquidity: `1918493.44247`
-- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `3686540.3109090007` | liquidity: `999437.9953`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1376317.811808` | liquidity: `395758.4178`
-- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `719667.63` | liquidity: `5733604.95485`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `458418.6000150001` | liquidity: `362178.39579`
-- US x Iran Effective Ceasefire by September 4? | 24h volume: `404534.5941310001` | liquidity: `76391.5215`
+- Will there be no change in Fed interest rates after the September 2026 meeting? | 24h volume: `5944319.970991998` | liquidity: `719206.5378`
+- Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? | 24h volume: `5034403.314717001` | liquidity: `3228149.88149`
+- Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `4057604.9929140005` | liquidity: `1942510.79478`
+- Will the Fed increase interest rates by 25 bps after the September 2026 meeting? | 24h volume: `3635886.1841690005` | liquidity: `943229.7756`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `1509372.1567930006` | liquidity: `419141.9002`
+- Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? | 24h volume: `776707.63` | liquidity: `5757044.80866`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `457938.6900150001` | liquidity: `363116.67746`
+- US x Iran Effective Ceasefire by September 4? | 24h volume: `402999.71413100004` | liquidity: `78726.10111`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
