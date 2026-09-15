@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T17:37:27.918906+00:00`
-- Market context score: `41.05`
-- News risk score: `53.91`
-- Macro risk score: `36.26`
-- Risk-on score: `28.22`
+- Generated: `2026-09-15T17:52:36.633784+00:00`
+- Market context score: `38.93`
+- News risk score: `55.37`
+- Macro risk score: `37.99`
+- Risk-on score: `25.4`
 - Articles: `72`
 - Polymarket markets: `392`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T17:30:00+00:00`
+- Day/swing latest: `2026-09-15T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `1`
-- macro: articles `41`, risk hits `17`, risk headline rate `0.2927`, policy hits `6`
+- crypto: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `1`
+- macro: articles `42`, risk hits `18`, risk headline rate `0.3333`, policy hits `5`
 
 ## Headlines
 
+- [macro] British woman abducted in Malawi, police say (BBC News)
+- [commodity] U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure (Energy)
+- [macro] Warning of space arms race as US confirms weapons in Earth's orbit (BBC News)
 - [commodity] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC (Energy)
-- [crypto] Binance adds 11 US-listed ETFs to wealth management offering (Cointelegraph.com News)
-- [macro] Jim Cramer Validates Caller’s $1,400 Micron (MU) Thesis, Doubles Down on Charitable Trust Position (Yahoo Finance)
-- [macro] Oil prices surge past $108 as Saudi pipeline shutdown continues (Yahoo Finance)
-- [macro] What American Eagle’s (AEO) Q2 Numbers Say Beyond the Tariff Refund Boost (Yahoo Finance)
-- [macro] IBD Stock Of The Day Scorpio Tankers Sails Toward Buy Point As Oil-Needy World Seeks Its Services (Yahoo Finance)
-- [macro] “SpaceX Has To Buy It. Period. End Of Story.” Cramer’s Answer For Tesla, Down 19.97% This Year. (Yahoo Finance)
-- [macro] Why Meta’s $2.4 Billion Legal Tab Could Explode Into a National Regulatory Nightmare (Yahoo Finance)
-- [macro] United Natural Foods’ (UNFI) Path to Profitability–What Lies Ahead (Yahoo Finance)
-- [macro] Imperial Petroleum (IMPP) Posts Robust Q2 Topline Growth Despite Soft Fleet Utilization (Yahoo Finance)
+- [macro] Warren Buffett sends stark warning to stock market investors (Yahoo Finance)
+- [macro] One Magnificent Seven Stock Could Outperform the Rest in 2026 (Yahoo Finance)
+- [macro] AI Selloff Is ‘Panic,’ Meta May Be The Best Stock To Buy, Joseph Carlson Says (Yahoo Finance)
+- [macro] Oil jumps more than $3 as Saudi loadings halt, Libya outages stoke supply fears (Yahoo Finance)
+- [macro] Cloudflare Hits Highs Amid Agentic AI Boom; Nears Pivot (Yahoo Finance)
+- [macro] Jim Cramer on Arista (ANET) CEO: “She Is Money and the Company’s Fantastic” (Yahoo Finance)
