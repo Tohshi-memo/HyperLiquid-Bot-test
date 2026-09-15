@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T19:07:30.857506+00:00`
+- Generated: `2026-09-15T19:22:27.610820+00:00`
 - Market context score: `36.0`
 - News risk score: `51.37`
 - Macro risk score: `39.82`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T19:00:00+00:00`
+- Day/swing latest: `2026-09-15T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,8 @@
 
 ## Headlines
 
-- [crypto] Clarity Act fails in Senate: Here is how the crypto industry is reacting (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Iran war has led to US munitions shortfalls, Pentagon inspector confirms (BBC News)
+- [crypto] Crypto industry reacts after Clarity Act fails Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure (Energy)
 - [macro] US borrowing costs hit highest level since 2007 (BBC News)
 - [crypto] Crypto Clarity Act flames out in failed U.S. Senate vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC (Energy)
 - [crypto] Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South African president vows justice as more women's bodies found near Johannesburg (BBC News)
-- [macro] Canada is a 'safe harbour' for global finance, Carney says (BBC News)
