@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T04:07:23.720917+00:00`
+- Generated: `2026-09-15T04:22:30.159649+00:00`
 - Market context score: `44.47`
 - News risk score: `45.13`
 - Macro risk score: `32.05`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:910`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11968`
-- Day/swing latest: `2026-09-15T04:00:00+00:00`
+- Day/swing records: `11969`
+- Day/swing latest: `2026-09-15T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Democrats send counteroffer to Republicans over Clarity Act provisions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Welsh actor Matthew Rhys makes Emmy Awards history with double win (BBC News)
 - [macro] Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards (BBC News)
 - [commodity] Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war (Energy)
@@ -37,4 +38,3 @@
 - [macro] China tightens travel restrictions for citizens (BBC News)
 - [crypto] Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI regulation faces political deadlock as calls grow for Congress to act (BBC News)
-- [macro] Nato jets down drone that entered Lithuanian airspace (BBC News)
