@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T17:07:50.674237+00:00`
-- Market context score: `36.36`
-- News risk score: `55.07`
-- Macro risk score: `36.34`
-- Risk-on score: `18.81`
-- Articles: `76`
+- Generated: `2026-09-15T17:22:30.225939+00:00`
+- Market context score: `40.72`
+- News risk score: `52.61`
+- Macro risk score: `33.65`
+- Risk-on score: `25.4`
+- Articles: `72`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T17:00:00+00:00`
+- Day/swing latest: `2026-09-15T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `27`, risk hits `11`, risk headline rate `0.3704`, policy hits `1`
-- macro: articles `44`, risk hits `18`, risk headline rate `0.2955`, policy hits `8`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `1`
+- macro: articles `41`, risk hits `14`, risk headline rate `0.2439`, policy hits `6`
 
 ## Headlines
 
+- [macro] United Natural Foods’ (UNFI) Path to Profitability–What Lies Ahead (Yahoo Finance)
+- [macro] The Fastest-Growing AI Stock Looks Like a Brilliant Buy (It's Also a Nvidia Investment) (Yahoo Finance)
+- [macro] Imperial Petroleum (IMPP) Posts Robust Q2 Topline Growth Despite Soft Fleet Utilization (Yahoo Finance)
 - [commodity] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC (Energy)
+- [macro] Home Depot Sees Broad Strength as Pro Sales, Delivery and AI Drive Share Gains (Yahoo Finance)
+- [macro] Forgent Power Solutions Q4 Earnings Call Highlights (Yahoo Finance)
 - [commodity] U.S. crude oil tops $106 as market awaits updates on Saudi pipeline outage (Energy)
-- [macro] Suspected sabotage causes major Netherlands rail disruption (BBC News)
-- [macro] Lovesac (LOVE) Target Cut by Canaccord, Analysts See 40% Upside (Yahoo Finance)
-- [macro] He Took Social Security at 62 to ‘Let the IRA Grow.’ It Grew Into a $24,000 RMD at 73, Taxed in the Bracket Social Security Had Already Filled (Yahoo Finance)
-- [macro] H&R Block (HRB) Uses AI to Drive Value (Yahoo Finance)
-- [macro] PBE vs. RSPH: Is a Biotech ETF or Equal-Weight Healthcare ETF the Better Choice for Investors? (Yahoo Finance)
-- [macro] Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases (Yahoo Finance)
-- [macro] Alibaba’s (BABA) Short-Term Capex Drag Creates a 30% Valuation Discount (Yahoo Finance)
-- [macro] Zumiez (ZUMZ) Falls on Weak Results and Lower Outlook, But Is the Selloff Overdone? (Yahoo Finance)
+- [macro] Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy? (Yahoo Finance)
+- [macro] Vera Bradley, Inc. Q2 2027 Earnings Call Summary (Yahoo Finance)
+- [macro] Econergy Expands European Base, Acquires French Wind Energy Platform (Yahoo Finance)
