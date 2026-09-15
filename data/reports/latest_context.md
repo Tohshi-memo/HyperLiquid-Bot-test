@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T14:07:32.805866+00:00`
-- Market context score: `41.49`
-- News risk score: `50.55`
-- Macro risk score: `33.96`
-- Risk-on score: `25.5`
-- Articles: `73`
+- Generated: `2026-09-15T14:22:35.981622+00:00`
+- Market context score: `43.04`
+- News risk score: `50.7`
+- Macro risk score: `33.02`
+- Risk-on score: `28.73`
+- Articles: `77`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -14,27 +14,27 @@
 - Asset universe count: `1352`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:910`
+- Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:137, fx:6, index:27, metal:20, unknown:909`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T14:00:00+00:00`
+- Day/swing latest: `2026-09-15T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `0`
-- macro: articles `42`, risk hits `17`, risk headline rate `0.2619`, policy hits `7`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `1`
+- macro: articles `44`, risk hits `16`, risk headline rate `0.25`, policy hits `7`
 
 ## Headlines
 
-- [macro] 10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck (Yahoo Finance)
 - [commodity] Oil prices rise as market awaits updates on Saudi pipeline outage (Energy)
-- [macro] French bank Crédit Agricole invests in rosé maker Miraval (Yahoo Finance)
-- [macro] Musk hints (again) at possible SpaceX, Tesla merger (Yahoo Finance)
-- [macro] Valvoline (VVV) Strengthens from Strong Execution (Yahoo Finance)
-- [macro] Elon Musk's $1 Trillion Pay Package Needs Tesla to Hit an $8.5 Trillion Market Cap. Here's What That Means for Shareholders. (Yahoo Finance)
-- [macro] Investor Cathie Wood Sells Crypto Stocks As Prices Rally (Yahoo Finance)
-- [crypto] A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] More than 100,000 people in Japan are now aged 100 or older (BBC News)
-- [macro] Canada is a 'safe harbour' for global finance, Carney says (BBC News)
+- [crypto] European Central Bank calls for merchants to participate in digital euro pilot (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Inside Broyhill’s Bearish Exit of Accenture (ACN) (Yahoo Finance)
+- [macro] Waystar Surges As Medical Software Maker Reportedly Mulls A Sale (Yahoo Finance)
+- [macro] Wisconsin Butter Workers Authorized a Strike With Pension Contributions on the Line. Those Dollars Won’t Show Up on Social Security. (Yahoo Finance)
+- [macro] Mauser Packaging Solutions combines US and Canadian operations (Yahoo Finance)
+- [macro] MindWalk (HYFT) Q1 2027 Earnings Call Transcript (Yahoo Finance)
+- [macro] 10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck (Yahoo Finance)
+- [macro] A Strong Rebound Case of IQVIA Holdings (IQV) (Yahoo Finance)
