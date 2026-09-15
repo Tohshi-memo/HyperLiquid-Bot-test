@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T08:22:29.739912+00:00`
-- Market context score: `48.95`
-- News risk score: `38.56`
-- Macro risk score: `30.59`
-- Risk-on score: `30.67`
-- Articles: `42`
+- Generated: `2026-09-15T08:37:27.080757+00:00`
+- Market context score: `49.27`
+- News risk score: `38.2`
+- Macro risk score: `30.54`
+- Risk-on score: `31.07`
+- Articles: `43`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:233, crypto_major:8, equity:136, fx:6, index:27, metal:20, unknown:910`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `11985`
-- Day/swing latest: `2026-09-15T08:15:00+00:00`
+- Day/swing records: `11986`
+- Day/swing latest: `2026-09-15T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.8333`, policy hits `2`
-- crypto: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
+- crypto: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
 - macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Solana more than triples transaction size limit with mainnet upgrade (Cointelegraph.com News)
 - [macro] State pension likely to rise by £488 a year in April (BBC News)
 - [commodity] Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia (Energy)
 - [macro] China tightens travel restrictions for citizens (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] XRP Ledger is one vote away from starting its next big payments upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer (Cointelegraph.com News)
-- [commodity] Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets (Energy)
