@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T13:07:27.689922+00:00`
+- Generated: `2026-09-15T13:22:33.329299+00:00`
 - Market context score: `45.36`
 - News risk score: `48.25`
 - Macro risk score: `36.17`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T13:00:00+00:00`
+- Day/swing latest: `2026-09-15T13:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Two sailors missing after tanker attacked in Strait of Hormuz, Oman says (BBC News)
+- [macro] Colombian ex-foreign minister charged over nanny's lie detector test (BBC News)
+- [macro] U.S. seizes $61 million in crypto from Iranian oil sales on Binance (Yahoo Finance)
+- [macro] Stock Market Today: Dow Falls As Yields, Oil Prices Rise Ahead Of Fed Meeting; Nvidia Set To Rebound (Live Coverage) (Yahoo Finance)
 - [macro] Bosch aims to double sales in its heavy-duty commercial vehicle business (Yahoo Finance)
-- [macro] One Retail REIT Cut Its Dividend in 2020 but Crushed Its Peer Since. Which Is Roth Ready? (Yahoo Finance)
-- [macro] Boomers and Retirees Can Load IRAs With 4 Quality Ultra-High-Yield Dividend Giants (One Yields 12.3%) (Yahoo Finance)
-- [macro] Health Care Roundup: Market Talk (Yahoo Finance)
+- [macro] Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote (Yahoo Finance)
 - [macro] Suspected sabotage causes major Netherlands rail disruption (BBC News)
 - [macro] Broadcom’s Real Constraint Isn’t Demand. It’s Supply. (Yahoo Finance)
 - [macro] 10-year Treasury yield hits highest level since 2007 (Yahoo Finance)
-- [macro] Stock Market Today: Dow Falls As Yields, Oil Prices Rise Ahead Of Fed Meeting; Nvidia Set To Rebound (Live Coverage) (Yahoo Finance)
 - [macro] Oil prices climb as attacks, pipeline outage deepen Saudi supply concerns (Yahoo Finance)
-- [macro] Kiyosaki warns Americans about nightmare robbery ‘you didn’t know happened’ — and it’s draining your wallet monthly (Yahoo Finance)
