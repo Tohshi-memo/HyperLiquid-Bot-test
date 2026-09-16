@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T16:52:35.118288+00:00`
-- Market context score: `51.33`
-- News risk score: `45.64`
-- Macro risk score: `26.77`
-- Risk-on score: `40.51`
-- Articles: `87`
+- Generated: `2026-09-16T17:07:41.147880+00:00`
+- Market context score: `50.76`
+- News risk score: `46.84`
+- Macro risk score: `29.02`
+- Risk-on score: `41.11`
+- Articles: `90`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T16:45:00+00:00`
+- Day/swing latest: `2026-09-16T17:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `7`
-- macro: articles `50`, risk hits `9`, risk headline rate `0.16`, policy hits `10`
+- macro: articles `51`, risk hits `10`, risk headline rate `0.1765`, policy hits `14`
 
 ## Headlines
 
-- [macro] Why Marvell Stock Rallied Today (Yahoo Finance)
-- [macro] Australia’s infrastructure puts steel supply under pressure (Yahoo Finance)
-- [macro] SMCI Has Something Nvidia Doesn’t. Here’s Why That Matters (Yahoo Finance)
-- [macro] Raymond James Adds Retirement Plan Option for Small Business Owners (Yahoo Finance)
+- [commodity] Continental Resources to develop massive oil patch in Venezuela (Energy)
+- [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
+- [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
+- [commodity] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Energy)
+- [macro] Constellation Energy vs. Vistra: 2 Very Different Bets on the Same AI Power Boom. Here's Which One I'd Buy. (Yahoo Finance)
+- [macro] Prediction: Dell's AI Server Backlog Makes It a Sneaky Way to Play the Nvidia Supercycle (Yahoo Finance)
+- [macro] Guardant Health Nears Buy Point As Sales Outlook Brightens (Yahoo Finance)
 - [crypto] U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage (Yahoo Finance)
 - [macro] Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones (Yahoo Finance)
-- [macro] The Fed Will Be Hawkish. The S&P 500 May Prefer It. (Live Coverage) (Yahoo Finance)
-- [macro] AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown (Yahoo Finance)
-- [crypto] Anchorage expands institutional custody to Etherlink, tokenized uranium (Cointelegraph.com News)
