@@ -2,31 +2,31 @@
 
 These are early-warning indicators for cross-market relationships. They are hypotheses to test, not trade signals by themselves.
 
-- Updated: `2026-09-16T18:22:32.395877+00:00`
+- Updated: `2026-09-16T18:37:32.938676+00:00`
 - Correlation status: `ready`
 - Asset price records: `672`
 - Minimum samples for correlation: `24`
 
 ## Current Signals
 
-- polymarket_volume_spike: score `2.86` - Polymarket crypto volume is unusually high.
+- polymarket_volume_spike: score `2.83` - Polymarket crypto volume is unusually high.
 
 ## Class Returns
 
-- 15m: commodity avg `-0.0004` n `12`; crypto_alt avg `-0.516` n `234`; crypto_major avg `-0.3589` n `8`; equity avg `-0.4132` n `137`; fx avg `0.0073` n `6`; index avg `-0.0424` n `27`; metal avg `-0.1487` n `20`; unknown avg `0.5035` n `907`
-- 1h: commodity avg `-0.0531` n `12`; crypto_alt avg `0.8616` n `234`; crypto_major avg `0.9474` n `8`; equity avg `0.0557` n `137`; fx avg `-0.0265` n `6`; index avg `0.0004` n `27`; metal avg `-0.1425` n `20`; unknown avg `43.07` n `899`
-- 4h: commodity avg `-0.3109` n `12`; crypto_alt avg `0.8135` n `234`; crypto_major avg `0.941` n `8`; equity avg `0.0009` n `137`; fx avg `-0.0557` n `6`; index avg `0.0089` n `27`; metal avg `-0.1305` n `20`; unknown avg `2.3613` n `893`
-- 24h: commodity avg `-0.5998` n `12`; crypto_alt avg `-1.9359` n `234`; crypto_major avg `-1.3208` n `8`; equity avg `1.0472` n `137`; fx avg `-0.0029` n `6`; index avg `0.222` n `27`; metal avg `-0.0019` n `20`; unknown avg `0.233` n `799`
+- 15m: commodity avg `0.0368` n `12`; crypto_alt avg `-0.9405` n `234`; crypto_major avg `-0.9233` n `8`; equity avg `-0.5337` n `137`; fx avg `0.023` n `6`; index avg `-0.1458` n `27`; metal avg `-0.2688` n `20`; unknown avg `10.6583` n `917`
+- 1h: commodity avg `0.0305` n `12`; crypto_alt avg `0.1355` n `234`; crypto_major avg `0.2634` n `8`; equity avg `-0.4554` n `137`; fx avg `-0.0039` n `6`; index avg `-0.1458` n `27`; metal avg `-0.4242` n `20`; unknown avg `11.1057` n `899`
+- 4h: commodity avg `-0.222` n `12`; crypto_alt avg `-0.1907` n `234`; crypto_major avg `-0.0513` n `8`; equity avg `-0.5852` n `137`; fx avg `-0.0444` n `6`; index avg `-0.1265` n `27`; metal avg `-0.446` n `20`; unknown avg `-0.0402` n `893`
+- 24h: commodity avg `-0.622` n `12`; crypto_alt avg `-2.3249` n `234`; crypto_major avg `-1.6655` n `8`; equity avg `0.7003` n `137`; fx avg `0.0178` n `6`; index avg `0.0777` n `27`; metal avg `-0.2265` n `20`; unknown avg `4.4368` n `799`
 
 ## Correlations
 
-- flow_alert_score -> index_forward_1h_return_pct: corr `0.1353`, n `668`, weak_sample_signal
-- polymarket_volume_24h -> commodity_forward_1h_return_pct: corr `-0.1317`, n `668`, weak_sample_signal
-- flow_alert_score -> equity_forward_1h_return_pct: corr `0.1265`, n `668`, weak_sample_signal
-- market_context_score -> index_forward_1h_return_pct: corr `-0.1218`, n `668`, weak_sample_signal
-- polymarket_volume_24h -> equity_forward_1h_return_pct: corr `0.12`, n `668`, weak_sample_signal
-- polymarket_volume_24h -> metal_forward_1h_return_pct: corr `0.117`, n `668`, weak_sample_signal
-- polymarket_volume_24h -> index_forward_1h_return_pct: corr `0.1138`, n `668`, weak_sample_signal
-- risk_on_score -> index_forward_1h_return_pct: corr `-0.1127`, n `668`, weak_sample_signal
-- risk_on_score -> commodity_forward_1h_return_pct: corr `0.1083`, n `668`, weak_sample_signal
-- flow_alert_score -> commodity_forward_1h_return_pct: corr `-0.1073`, n `668`, weak_sample_signal
+- polymarket_volume_24h -> commodity_forward_1h_return_pct: corr `-0.1305`, n `668`, weak_sample_signal
+- flow_alert_score -> index_forward_1h_return_pct: corr `0.128`, n `668`, weak_sample_signal
+- flow_alert_score -> equity_forward_1h_return_pct: corr `0.1231`, n `668`, weak_sample_signal
+- market_context_score -> index_forward_1h_return_pct: corr `-0.1211`, n `668`, weak_sample_signal
+- risk_on_score -> index_forward_1h_return_pct: corr `-0.1132`, n `668`, weak_sample_signal
+- polymarket_volume_24h -> equity_forward_1h_return_pct: corr `0.1131`, n `668`, weak_sample_signal
+- risk_on_score -> commodity_forward_1h_return_pct: corr `0.1084`, n `668`, weak_sample_signal
+- flow_alert_score -> commodity_forward_1h_return_pct: corr `-0.1069`, n `668`, weak_sample_signal
+- polymarket_volume_24h -> index_forward_1h_return_pct: corr `0.1008`, n `668`, weak_sample_signal
+- polymarket_volume_24h -> metal_forward_1h_return_pct: corr `0.0955`, n `668`, weak_sample_signal

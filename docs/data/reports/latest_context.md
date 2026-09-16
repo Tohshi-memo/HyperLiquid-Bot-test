@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T18:22:32.395877+00:00`
+- Generated: `2026-09-16T18:37:32.938676+00:00`
 - Market context score: `39.88`
 - News risk score: `46.09`
 - Macro risk score: `31.27`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T18:15:00+00:00`
+- Day/swing latest: `2026-09-16T18:30:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,9 @@
 
 ## Headlines
 
-- [commodity] Continental Resources to develop massive oil patch in Venezuela (Energy)
+- [macro] Photos show widespread damage at US sites from Iranian attacks (BBC News)
 - [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
+- [commodity] Continental Resources to develop massive oil patch in Venezuela (Energy)
 - [crypto] US House tax committee advances crypto tax overhaul in 38–5 vote (Cointelegraph.com News)
 - [policy] Federal Reserve issues FOMC statement (FRB: Press Release - All Releases)
 - [policy] Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting (FRB: Press Release - All Releases)
@@ -38,4 +39,3 @@
 - [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
 - [commodity] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Energy)
 - [crypto] Celsius sues BitMEX for $495 million over 2020 crash liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household (Economy)
