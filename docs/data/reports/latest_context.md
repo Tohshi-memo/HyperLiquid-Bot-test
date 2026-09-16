@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T09:37:32.331971+00:00`
-- Market context score: `43.67`
-- News risk score: `36.28`
-- Macro risk score: `33.43`
-- Risk-on score: `18.08`
-- Articles: `38`
-- Polymarket markets: `394`
+- Generated: `2026-09-16T09:52:28.712013+00:00`
+- Market context score: `44.74`
+- News risk score: `35.18`
+- Macro risk score: `31.9`
+- Risk-on score: `18.96`
+- Articles: `41`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T09:30:00+00:00`
+- Day/swing latest: `2026-09-16T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `1`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `0`
+- crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `1`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `0`
 
 ## Headlines
 
+- [macro] Journalist and pilot among three killed after news helicopter crashes in LA (BBC News)
+- [macro] At least 20 killed after war-damaged Gaza building collapses (BBC News)
+- [crypto] Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] All support acts on Ed Sheeran's US tour quit after Macklemore dropped (BBC News)
+- [macro] EU chief opens door for Canada to become 'associate member' (BBC News)
+- [macro] Athletes can't stretch their legs in container beds at Japan's Asian Games, official says (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but should trust AI firms (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but should trust AI firms (BBC News)
 - [macro] Petrol and diesel price rises push UK inflation higher (BBC News)
 - [crypto] ECB seeks online merchants for 2027 digital euro pilot (Cointelegraph.com News)
-- [macro] New job fresh out of uni? Here's how we survived the first few days (BBC News)
-- [macro] Saudi Arabia says it shot down Houthi drone south of Mecca (BBC News)
-- [crypto] Ethereum, Base give up on common wallet standard after months of talks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] At least 12 killed after war-damaged Gaza building collapses (BBC News)
-- [macro] UK inflation jumps to 3.1% as energy costs soar (Economy)
