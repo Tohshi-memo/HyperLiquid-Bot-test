@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T00:07:24.718279+00:00`
+- Generated: `2026-09-16T00:22:30.785480+00:00`
 - Market context score: `37.67`
 - News risk score: `45.19`
 - Macro risk score: `36.16`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T00:00:00+00:00`
+- Day/swing latest: `2026-09-16T00:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] OpenAI boss says world 'right to be afraid' but 'should trust' AI firms (BBC News)
 - [macro] UK in talks about joining global defence bank led by Canada (BBC News)
 - [macro] Why doomsday warnings are not the only threat to the AI juggernaut (BBC News)
 - [macro] Why de-dollarization discussions are more talk, less action (Economy)
@@ -36,5 +37,4 @@
 - [macro] We are all new job starters - here's how we got through the first few days (BBC News)
 - [macro] Complaints to watchdog about water firms jump 84% (BBC News)
 - [macro] Five takeaways from Canada's push to woo the world's richest investors (BBC News)
-- [macro] Nvidia boss says AI 'doesn't need new laws' as safety concerns grow (BBC News)
 - [crypto] Inside the last-minute political breakdown that doomed the Clarity Act vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
