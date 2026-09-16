@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-15T23:52:27.540854+00:00`
-- Market context score: `38.86`
-- News risk score: `43.81`
-- Macro risk score: `34.69`
-- Risk-on score: `14.23`
+- Generated: `2026-09-16T00:07:24.718279+00:00`
+- Market context score: `37.67`
+- News risk score: `45.19`
+- Macro risk score: `36.16`
+- Risk-on score: `13.31`
 - Articles: `46`
 - Polymarket markets: `393`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-15T23:45:00+00:00`
+- Day/swing latest: `2026-09-16T00:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] UK in talks about joining global defence bank led by Canada (BBC News)
+- [macro] Why doomsday warnings are not the only threat to the AI juggernaut (BBC News)
 - [macro] Why de-dollarization discussions are more talk, less action (Economy)
 - [macro] AI app ads promoting 'objectification of women' banned by watchdog (BBC News)
 - [macro] The extreme engineering of aircraft windows (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Five takeaways from Canada's push to woo the world's richest investors (BBC News)
 - [macro] Nvidia boss says AI 'doesn't need new laws' as safety concerns grow (BBC News)
 - [crypto] Inside the last-minute political breakdown that doomed the Clarity Act vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] BIS paper finds major gap in Bitcoin onchain transfer estimates (Cointelegraph.com News)
-- [macro] All support acts on Ed Sheeran's US tour quit after Macklemore dropped (BBC News)
