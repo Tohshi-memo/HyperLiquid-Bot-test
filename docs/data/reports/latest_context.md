@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T17:37:39.113808+00:00`
-- Market context score: `44.17`
-- News risk score: `49.33`
-- Macro risk score: `31.99`
-- Risk-on score: `29.67`
-- Articles: `90`
-- Polymarket markets: `396`
+- Generated: `2026-09-16T17:52:34.696250+00:00`
+- Market context score: `38.91`
+- News risk score: `50.9`
+- Macro risk score: `35.06`
+- Risk-on score: `20.47`
+- Articles: `82`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T17:30:00+00:00`
+- Day/swing latest: `2026-09-16T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `35`, risk hits `11`, risk headline rate `0.2857`, policy hits `7`
-- macro: articles `50`, risk hits `12`, risk headline rate `0.22`, policy hits `18`
+- macro: articles `42`, risk hits `12`, risk headline rate `0.2619`, policy hits `19`
 
 ## Headlines
 
 - [commodity] Continental Resources to develop massive oil patch in Venezuela (Energy)
-- [crypto] Celsius sues BitMEX for $495 million over 2020 crash liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household (Economy)
 - [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
 - [commodity] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Energy)
-- [macro] Former Advisor Gets 7 Years for $10M Fraud (Yahoo Finance)
-- [macro] Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say (BBC News)
-- [macro] $250,000 Sitting in SPAXX Pays State Tax on Most of Its Interest While FDLXX Holders Pay Almost None (Yahoo Finance)
-- [macro] Solana Price Prediction: What Could SOL Be Worth Before Q4? (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Jam (Live Coverage) (Yahoo Finance)
+- [macro] Only 11 of 237 Active Dividend Funds Beat SCHD’s Index (Yahoo Finance)
+- [crypto] Celsius sues BitMEX for $495 million over 2020 crash liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] US DFC approves $500 million in guarantees to boost US exports to emerging markets (Yahoo Finance)
+- [macro] The Fed Has a Chance to Help the Long Treasury Market. Will it Deliver? (Yahoo Finance)
+- [macro] Palantir, Microsoft’s biggest warning gets real for AI stocks (Yahoo Finance)
+- [macro] Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household (Economy)
+- [macro] Chevron Doesn’t Need Oil to Hit New Highs. Here’s What Could Drive the Stock Instead (Yahoo Finance)
