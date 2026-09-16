@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T02:37:27.307144+00:00`
-- Market context score: `41.96`
-- News risk score: `38.27`
-- Macro risk score: `35.53`
-- Risk-on score: `16.76`
-- Articles: `37`
+- Generated: `2026-09-16T02:52:25.828719+00:00`
+- Market context score: `42.49`
+- News risk score: `37.74`
+- Macro risk score: `34.48`
+- Risk-on score: `17.1`
+- Articles: `38`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T02:30:00+00:00`
+- Day/swing latest: `2026-09-16T02:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `1`
-- macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `0`
+- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
@@ -33,8 +33,8 @@
 - [macro] All support acts on Ed Sheeran's US tour quit after Macklemore dropped (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but 'should trust' AI firms (BBC News)
 - [macro] UK in talks about joining global defence bank led by Canada (BBC News)
+- [macro] Do you feel guilty when calling in sick at work? This might be why... (BBC News)
 - [macro] Why doomsday warnings are not the only threat to the AI juggernaut (BBC News)
 - [macro] Why de-dollarization discussions are more talk, less action (Economy)
 - [macro] AI app ads promoting 'objectification of women' banned by watchdog (BBC News)
 - [macro] The extreme engineering of aircraft windows (BBC News)
-- [macro] We are all new job starters - here's how we got through the first few days (BBC News)
