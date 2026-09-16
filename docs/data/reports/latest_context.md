@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T21:07:33.413170+00:00`
-- Market context score: `40.85`
-- News risk score: `45.41`
-- Macro risk score: `27.85`
-- Risk-on score: `17.43`
-- Articles: `65`
+- Generated: `2026-09-16T21:22:26.222423+00:00`
+- Market context score: `40.83`
+- News risk score: `45.66`
+- Macro risk score: `27.78`
+- Risk-on score: `17.56`
+- Articles: `66`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T21:00:00+00:00`
+- Day/swing latest: `2026-09-16T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `35`, risk hits `12`, risk headline rate `0.2857`, policy hits `9`
-- macro: articles `24`, risk hits `5`, risk headline rate `0.1667`, policy hits `4`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.16`, policy hits `6`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `6`
 
 ## Headlines
 
+- [macro] US interest rates raised for first time in three years (BBC News)
 - [crypto] CLARITY Act could get another shot during lame-duck session, policy advocate says (Cointelegraph.com News)
 - [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
 - [commodity] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Energy)
@@ -38,4 +39,3 @@
 - [crypto] UK FCA sets crypto authorization guidance ahead of September application window (Cointelegraph.com News)
 - [macro] Trump chief of staff Susie Wiles announces she's cancer-free (BBC News)
 - [crypto] Revolut hackers demand $3 million in Monero, threaten to sell customer data (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
