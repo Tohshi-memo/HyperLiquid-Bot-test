@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T19:52:26.520348+00:00`
+- Generated: `2026-09-16T20:07:28.213320+00:00`
 - Market context score: `40.88`
 - News risk score: `45.26`
 - Macro risk score: `28.26`
 - Risk-on score: `17.53`
 - Articles: `65`
-- Polymarket markets: `396`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T19:45:00+00:00`
+- Day/swing latest: `2026-09-16T20:00:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [commodity] Continental Resources to develop massive oil patch in Venezuela (Energy)
+- [commodity] Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] UK FCA sets crypto authorization guidance ahead of September application window (Cointelegraph.com News)
 - [crypto] Revolut hackers demand $3 million in Monero, threaten to sell customer data (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
