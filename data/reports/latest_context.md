@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T06:22:28.177571+00:00`
-- Market context score: `44.32`
-- News risk score: `34.07`
-- Macro risk score: `37.71`
-- Risk-on score: `19.29`
-- Articles: `35`
+- Generated: `2026-09-16T06:25:31.951408+00:00`
+- Market context score: `44.92`
+- News risk score: `33.49`
+- Macro risk score: `36.55`
+- Risk-on score: `19.68`
+- Articles: `36`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -24,11 +24,12 @@
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
-- macro: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `0`
 
 ## Headlines
 
 - [macro] UK inflation jumps to 3.1% as energy costs soar (Economy)
+- [macro] US limits visas for South African officials over alleged anti-white discrimination (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but should trust AI firms (BBC News)
 - [crypto] Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Crypto longs worth $570 million wiped out as Clarity Act fails (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin ETFs shed $450M in biggest outflow since June (Cointelegraph.com News)
 - [macro] How rising bond yields impact American consumers (BBC News)
-- [crypto] XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
