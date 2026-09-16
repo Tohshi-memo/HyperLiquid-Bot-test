@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T10:22:27.179356+00:00`
-- Market context score: `47.77`
+- Generated: `2026-09-16T10:37:26.862622+00:00`
+- Market context score: `46.15`
 - News risk score: `38.86`
-- Macro risk score: `33.77`
-- Risk-on score: `29.5`
-- Articles: `55`
+- Macro risk score: `33.61`
+- Risk-on score: `25.84`
+- Articles: `58`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T10:15:00+00:00`
+- Day/swing latest: `2026-09-16T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `1`
-- macro: articles `37`, risk hits `12`, risk headline rate `0.2973`, policy hits `10`
+- crypto: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `1`
+- macro: articles `38`, risk hits `12`, risk headline rate `0.2895`, policy hits `11`
 
 ## Headlines
 
+- [macro] Petrol and diesel price rises push UK inflation higher (BBC News)
+- [crypto] Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] EU chief opens door for Canada to become 'associate member' (BBC News)
+- [crypto] Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report (Cointelegraph.com News)
+- [macro] One Wall Street Analyst Just Said Tesla Stock Could Be Worth $840: Time to Buy? (Yahoo Finance)
+- [macro] Bond market woes likely a factor for Fed, but intervention seen as unlikely (Yahoo Finance)
 - [macro] Are you 5 years from retirement? Do these 5 things now — or risk running out of cash (Yahoo Finance)
+- [macro] Greg Abel Has Run Berkshire Hathaway for Most of a Year. Here's What He Has Actually Changed. (Yahoo Finance)
 - [macro] Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens (Yahoo Finance)
-- [macro] Barratt Redrow H2 Earnings Call Highlights (Yahoo Finance)
-- [macro] Dollar General Sees Shopper Pressure Persisting, Bets on Value and Delivery Growth (Yahoo Finance)
-- [macro] OpenAI boss says world 'right to be afraid' but should trust AI firms (BBC News)
-- [macro] OpenAI boss says world 'right to be afraid' but should trust AI firms (BBC News)
-- [macro] 3 Semiconductor Stocks to Buy Before AI Demand Explodes in September (Yahoo Finance)
-- [macro] Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day (Yahoo Finance)
-- [macro] Best CD rates today, Wednesday, September 16, 2026: Earn up to 4.40% APY with Happen Bank (Yahoo Finance)
-- [macro] Mortgage and refinance rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision (Yahoo Finance)
+- [macro] Workers at German auto supplier Bosch call for EU action to stem job losses (Yahoo Finance)
