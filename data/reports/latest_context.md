@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T13:07:33.806122+00:00`
-- Market context score: `47.32`
-- News risk score: `48.72`
-- Macro risk score: `28.7`
-- Risk-on score: `34.92`
+- Generated: `2026-09-16T13:22:32.373172+00:00`
+- Market context score: `45.68`
+- News risk score: `49.67`
+- Macro risk score: `30.48`
+- Risk-on score: `32.74`
 - Articles: `81`
 - Polymarket markets: `395`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T13:00:00+00:00`
+- Day/swing latest: `2026-09-16T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `5`
-- macro: articles `49`, risk hits `12`, risk headline rate `0.1837`, policy hits `12`
+- macro: articles `49`, risk hits `13`, risk headline rate `0.2041`, policy hits `14`
 
 ## Headlines
 
+- [macro] Prediction: This Is What a $5,000 Investment in Broadcom Will Be Worth by 2028 (Yahoo Finance)
 - [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
+- [macro] The 10-Year Treasury Broke 5% and Long Bond Holders Are Not Getting Rescued (Yahoo Finance)
+- [macro] Oscar Health's Big ACA Gamble Is Paying Off. Here's The Caveat. (Yahoo Finance)
+- [macro] Geron Eyes High End of 2026 RYTELO Revenue Guidance as Community Adoption Expands (Yahoo Finance)
+- [macro] Ispire Technology Q4 Earnings Call Highlights (Yahoo Finance)
 - [crypto] A stolen coin can be returned. A leaked identity cannot. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Burnham rejects 'tax and spend socialist' comments (BBC News)
 - [macro] Stock Market Today: Dow Rises Ahead Of Likely Fed Hike, Warsh Comments; Intel, SK Hynix Jump (Live Coverage) (Yahoo Finance)
-- [macro] NuScale Power Just Solved a Major Engineering Hurdle: Is the Stock a Buy? (Yahoo Finance)
 - [macro] Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next (Yahoo Finance)
-- [macro] Axon Stock Hit By $1 Billion Convertible Amid Cash Flow Squeeze (Yahoo Finance)
-- [macro] JPMorgan Chase Stock Is Beating Nu This Year, but Only One of Them Had Positive Free Cash Flow Last Year (Yahoo Finance)
-- [macro] Elon Musk Is Worth $900 Billion, But That Could Change In A Day (Yahoo Finance)
-- [macro] Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat (Yahoo Finance)
