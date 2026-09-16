@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T17:07:41.147880+00:00`
-- Market context score: `50.76`
-- News risk score: `46.84`
-- Macro risk score: `29.02`
-- Risk-on score: `41.11`
-- Articles: `90`
-- Polymarket markets: `395`
+- Generated: `2026-09-16T17:22:33.471042+00:00`
+- Market context score: `47.23`
+- News risk score: `48.04`
+- Macro risk score: `31.24`
+- Risk-on score: `35.11`
+- Articles: `89`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T17:00:00+00:00`
+- Day/swing latest: `2026-09-16T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `7`
-- macro: articles `51`, risk hits `10`, risk headline rate `0.1765`, policy hits `14`
+- macro: articles `50`, risk hits `11`, risk headline rate `0.2`, policy hits `19`
 
 ## Headlines
 
+- [macro] Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say (BBC News)
 - [commodity] Continental Resources to develop massive oil patch in Venezuela (Energy)
+- [macro] $250,000 Sitting in SPAXX Pays State Tax on Most of Its Interest While FDLXX Holders Pay Almost None (Yahoo Finance)
+- [macro] Solana Price Prediction: What Could SOL Be Worth Before Q4? (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Jam (Live Coverage) (Yahoo Finance)
+- [macro] Wall Street bets on a rate hike, but the Fed decision could be a close call (Yahoo Finance)
+- [macro] Five Below's 2026 Outlook: Proven Store Expansion Strategy Targets Long-Term Growth (Yahoo Finance)
+- [macro] Don't freak out says Jim Cramer as he sends scary 2026 market verdict (Yahoo Finance)
 - [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
-- [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
-- [commodity] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Energy)
-- [macro] Constellation Energy vs. Vistra: 2 Very Different Bets on the Same AI Power Boom. Here's Which One I'd Buy. (Yahoo Finance)
-- [macro] Prediction: Dell's AI Server Backlog Makes It a Sneaky Way to Play the Nvidia Supercycle (Yahoo Finance)
-- [macro] Guardant Health Nears Buy Point As Sales Outlook Brightens (Yahoo Finance)
-- [crypto] U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage (Yahoo Finance)
-- [macro] Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones (Yahoo Finance)
+- [macro] S&P 500 Trucking Stock Craters On CFO's Warning (Yahoo Finance)
