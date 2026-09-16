@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T16:07:31.050831+00:00`
-- Market context score: `50.42`
-- News risk score: `45.81`
-- Macro risk score: `26.26`
-- Risk-on score: `38.42`
-- Articles: `86`
+- Generated: `2026-09-16T16:22:45.625313+00:00`
+- Market context score: `50.76`
+- News risk score: `46.21`
+- Macro risk score: `27.9`
+- Risk-on score: `40.13`
+- Articles: `87`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T16:00:00+00:00`
+- Day/swing latest: `2026-09-16T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `33`, risk hits `10`, risk headline rate `0.2727`, policy hits `7`
-- macro: articles `50`, risk hits `8`, risk headline rate `0.14`, policy hits `11`
+- crypto: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `7`
+- macro: articles `50`, risk hits `11`, risk headline rate `0.18`, policy hits `10`
 
 ## Headlines
 
-- [crypto] Coinbase faces greater fallout from CLARITY Act setback: Saxo (Cointelegraph.com News)
-- [macro] I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share. (Yahoo Finance)
-- [macro] Celsius Lead Director Hal Kravitz Buys 12,000 Shares for $336,000. What Does This Mean for Investors? (Yahoo Finance)
-- [macro] Credo’s $236 Million Adjusted Profit Came With Just $83 Million in Free Cash Flow (Yahoo Finance)
-- [macro] Content Creators Are Seeking Equity Over Brand Deals (Yahoo Finance)
-- [macro] Westlake’s (WLK) Second Quarter Turned Two Straight Losses Into Profit (Yahoo Finance)
-- [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
-- [macro] Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his assassination (BBC News)
-- [crypto] Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds (Cointelegraph.com News)
-- [macro] Kinetik’s (KNTK) Record Quarter Sets Up A Bigger 2027 Bet (Yahoo Finance)
+- [crypto] Anchorage expands institutional custody to Etherlink, tokenized uranium (Cointelegraph.com News)
+- [macro] UBS resets Palantir stock price target for the rest of 2026 (Yahoo Finance)
+- [macro] American Airlines Sees Strong Demand, but Fuel Spike Threatens Profit Outlook (Yahoo Finance)
+- [macro] Dollarama Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] CareTrust REIT’s (CTRE) $400M Bet Extends A Record Year (Yahoo Finance)
+- [macro] Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio (Yahoo Finance)
+- [macro] How Long Could the Benchmark Treasury Yield Stay Above 5%? (Yahoo Finance)
+- [macro] Robust US retail sales underscore economy's resilience; inflation pressures building (Yahoo Finance)
+- [macro] Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage) (Yahoo Finance)
