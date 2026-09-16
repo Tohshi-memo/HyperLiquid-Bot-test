@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T02:22:30.040845+00:00`
-- Market context score: `42.59`
-- News risk score: `37.83`
-- Macro risk score: `33.53`
-- Risk-on score: `17.04`
-- Articles: `38`
+- Generated: `2026-09-16T02:37:27.307144+00:00`
+- Market context score: `41.96`
+- News risk score: `38.27`
+- Macro risk score: `35.53`
+- Risk-on score: `16.76`
+- Articles: `37`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T02:15:00+00:00`
+- Day/swing latest: `2026-09-16T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `1`
+- macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto industry turns to US regulators after CLARITY setback (Cointelegraph.com News)
 - [macro] Indonesia's new finance minister faces an uphill battle on fiscal credibility (Economy)
 - [macro] All support acts on Ed Sheeran's US tour quit after Macklemore dropped (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but 'should trust' AI firms (BBC News)
@@ -37,4 +38,3 @@
 - [macro] AI app ads promoting 'objectification of women' banned by watchdog (BBC News)
 - [macro] The extreme engineering of aircraft windows (BBC News)
 - [macro] We are all new job starters - here's how we got through the first few days (BBC News)
-- [macro] Complaints to watchdog about water firms jump 84% (BBC News)
