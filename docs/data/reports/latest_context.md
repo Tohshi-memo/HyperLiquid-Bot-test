@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T01:52:30.612215+00:00`
-- Market context score: `39.95`
-- News risk score: `41.08`
-- Macro risk score: `36.73`
-- Risk-on score: `15.12`
-- Articles: `40`
+- Generated: `2026-09-16T02:07:29.519352+00:00`
+- Market context score: `40.36`
+- News risk score: `40.82`
+- Macro risk score: `35.72`
+- Risk-on score: `15.44`
+- Articles: `41`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T01:45:00+00:00`
+- Day/swing latest: `2026-09-16T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `2`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `0`
 
 ## Headlines
 
+- [macro] Indonesia's new finance minister faces an uphill battle on fiscal credibility (Economy)
 - [macro] All support acts on Ed Sheeran's US tour quit after Macklemore dropped (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but 'should trust' AI firms (BBC News)
 - [macro] UK in talks about joining global defence bank led by Canada (BBC News)
@@ -37,4 +38,3 @@
 - [macro] The extreme engineering of aircraft windows (BBC News)
 - [macro] We are all new job starters - here's how we got through the first few days (BBC News)
 - [macro] Complaints to watchdog about water firms jump 84% (BBC News)
-- [macro] Five takeaways from Canada's push to woo the world's richest investors (BBC News)
