@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T12:37:28.423647+00:00`
-- Market context score: `46.69`
-- News risk score: `47.97`
-- Macro risk score: `31.63`
-- Risk-on score: `33.99`
-- Articles: `76`
+- Generated: `2026-09-16T12:52:33.012160+00:00`
+- Market context score: `46.09`
+- News risk score: `50.18`
+- Macro risk score: `30.55`
+- Risk-on score: `34.11`
+- Articles: `79`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T12:30:00+00:00`
+- Day/swing latest: `2026-09-16T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `3`
-- macro: articles `46`, risk hits `13`, risk headline rate `0.2174`, policy hits `18`
+- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `5`
+- macro: articles `48`, risk hits `13`, risk headline rate `0.2083`, policy hits `13`
 
 ## Headlines
 
 - [macro] EU chief backs plan for Canada to become 'associate member' (BBC News)
+- [crypto] Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure (Cointelegraph.com News)
+- [macro] Prediction: $1,000 Invested in Oracle Stock Could Be Worth This Much by 2030 (Yahoo Finance)
+- [macro] India’s NPCI to introduce 0.4% fee on high-value UPI payments (Yahoo Finance)
+- [macro] Someone Made A Big Mistake About OpenAI’s $1.5 Trillion Value (Yahoo Finance)
+- [macro] Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much? (Yahoo Finance)
+- [macro] What Will $5,000 Invested in Tesla Stock Be Worth in 5 Years? (Yahoo Finance)
+- [macro] Liberty Capital (GLIBK) Acquires Quintillion in $360M Synergistic Deal (Yahoo Finance)
 - [macro] Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say (BBC News)
-- [macro] Petrol and diesel price rises push UK inflation higher (BBC News)
-- [macro] Indonesian vehicle sales surge 32% in August (Yahoo Finance)
-- [macro] Bond market woes likely a factor for Fed, but intervention seen as unlikely (Yahoo Finance)
-- [macro] Here Are Wednesday’s Top Wall Street Analyst Research Calls: Airbnb, Booking Holdings, Credicorp, Dutch Bros, Expedia, Hartford Financial Services, Group, Meritage Homes, Patchex, Yum! Brands, and More (Yahoo Finance)
-- [commodity] Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim (Energy)
-- [macro] Oracle CFO Hilary Maxson addresses layoffs at first company meeting (Yahoo Finance)
-- [macro] Oscar Health Lowers Medical Cost Outlook. Here's The Caveat. (Yahoo Finance)
-- [macro] Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage? (Yahoo Finance)
+- [macro] Can the Cox Acquisition Reverse Charter Communications’ (CHTR) Broadband Growth Concerns? (Yahoo Finance)
