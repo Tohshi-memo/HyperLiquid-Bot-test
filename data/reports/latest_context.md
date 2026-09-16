@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T23:07:27.093336+00:00`
-- Market context score: `42.25`
-- News risk score: `41.83`
-- Macro risk score: `29.22`
-- Risk-on score: `18.04`
-- Articles: `52`
+- Generated: `2026-09-16T23:22:31.356905+00:00`
+- Market context score: `43.87`
+- News risk score: `44.09`
+- Macro risk score: `32.2`
+- Risk-on score: `24.66`
+- Articles: `53`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T23:00:00+00:00`
+- Day/swing latest: `2026-09-16T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `6`
-- macro: articles `23`, risk hits `5`, risk headline rate `0.1739`, policy hits `8`
+- crypto: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `5`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `10`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `6`
 
 ## Headlines
 
+- [macro] Would you buy branded clothing from your favourite tech firm? (BBC News)
+- [macro] I sent 200 DMs to companies - it was awkward but I got a job (BBC News)
+- [macro] Interest rates hold expected but Bank of England facing tough choices (BBC News)
 - [macro] US interest rates raised for first time in three years (BBC News)
 - [macro] US interest rates raised for first time in three years (BBC News)
 - [macro] Handbags, jewels, watches: Inside Singapore's dirty money auction (BBC News)
@@ -36,6 +39,3 @@
 - [crypto] CLARITY Act could get another shot during lame-duck session, policy advocate says (Cointelegraph.com News)
 - [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
 - [commodity] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Energy)
-- [commodity] Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela (Energy)
-- [macro] US House votes to hold billionaire Epstein associate Leon Black in contempt (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
