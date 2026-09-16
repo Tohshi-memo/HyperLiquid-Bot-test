@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T07:07:26.555526+00:00`
+- Generated: `2026-09-16T07:22:32.940254+00:00`
 - Market context score: `44.44`
 - News risk score: `35.33`
 - Macro risk score: `32.68`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T07:00:00+00:00`
+- Day/swing latest: `2026-09-16T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] UK inflation jumps to 3.1% as energy costs soar (Economy)
+- [commodity] UK inflation jumps to 3.1% as energy costs soar (Energy)
 - [macro] Three killed after LA news helicopter crashes while covering deadly bus collision (BBC News)
 - [macro] Complaints to watchdog about water firms soar (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but should trust AI firms (BBC News)
 - [macro] OpenAI boss says world 'right to be afraid' but should trust AI firms (BBC News)
 - [crypto] Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK inflation jumps to 3.1% as energy costs soar (Economy)
-- [commodity] UK inflation jumps to 3.1% as energy costs soar (Energy)
 - [crypto] AI has been a ‘net negative’ for crypto: Phemex CEO (Cointelegraph.com News)
 - [commodity] Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim (Energy)
 - [macro] US limits visas for South African officials over alleged anti-white discrimination (BBC News)
