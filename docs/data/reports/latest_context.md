@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T22:22:26.521066+00:00`
+- Generated: `2026-09-16T22:24:53.283376+00:00`
 - Market context score: `39.41`
 - News risk score: `47.0`
 - Macro risk score: `29.0`
@@ -31,6 +31,7 @@
 
 - [macro] US interest rates raised for first time in three years (BBC News)
 - [macro] US interest rates raised for first time in three years (BBC News)
+- [macro] Handbags, jewels, watches: Inside Singapore's dirty money auction (BBC News)
 - [macro] Watch: Leaked photos reveal extensive damage at US bases in Gulf (BBC News)
 - [crypto] CLARITY Act could get another shot during lame-duck session, policy advocate says (Cointelegraph.com News)
 - [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
@@ -38,4 +39,3 @@
 - [commodity] Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela (Energy)
 - [macro] US House votes to hold billionaire Epstein associate Leon Black in contempt (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] UK FCA sets crypto authorization guidance ahead of September application window (Cointelegraph.com News)
