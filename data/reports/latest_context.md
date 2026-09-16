@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T17:22:33.471042+00:00`
-- Market context score: `47.23`
-- News risk score: `48.04`
-- Macro risk score: `31.24`
-- Risk-on score: `35.11`
-- Articles: `89`
+- Generated: `2026-09-16T17:37:39.113808+00:00`
+- Market context score: `44.17`
+- News risk score: `49.33`
+- Macro risk score: `31.99`
+- Risk-on score: `29.67`
+- Articles: `90`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T17:15:00+00:00`
+- Day/swing latest: `2026-09-16T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `7`
-- macro: articles `50`, risk hits `11`, risk headline rate `0.2`, policy hits `19`
+- crypto: articles `35`, risk hits `11`, risk headline rate `0.2857`, policy hits `7`
+- macro: articles `50`, risk hits `12`, risk headline rate `0.22`, policy hits `18`
 
 ## Headlines
 
-- [macro] Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say (BBC News)
 - [commodity] Continental Resources to develop massive oil patch in Venezuela (Energy)
+- [crypto] Celsius sues BitMEX for $495 million over 2020 crash liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household (Economy)
+- [macro] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Economy)
+- [commodity] 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices (Energy)
+- [macro] Former Advisor Gets 7 Years for $10M Fraud (Yahoo Finance)
+- [macro] Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say (BBC News)
 - [macro] $250,000 Sitting in SPAXX Pays State Tax on Most of Its Interest While FDLXX Holders Pay Almost None (Yahoo Finance)
 - [macro] Solana Price Prediction: What Could SOL Be Worth Before Q4? (Yahoo Finance)
 - [macro] Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Jam (Live Coverage) (Yahoo Finance)
-- [macro] Wall Street bets on a rate hike, but the Fed decision could be a close call (Yahoo Finance)
-- [macro] Five Below's 2026 Outlook: Proven Store Expansion Strategy Targets Long-Term Growth (Yahoo Finance)
-- [macro] Don't freak out says Jim Cramer as he sends scary 2026 market verdict (Yahoo Finance)
-- [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
-- [macro] S&P 500 Trucking Stock Craters On CFO's Warning (Yahoo Finance)
