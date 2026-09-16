@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T12:00:25.256053+00:00`
-- Market context score: `45.74`
-- News risk score: `47.35`
-- Macro risk score: `33.02`
-- Risk-on score: `31.87`
-- Articles: `77`
+- Generated: `2026-09-16T12:07:34.222424+00:00`
+- Market context score: `44.96`
+- News risk score: `47.99`
+- Macro risk score: `31.87`
+- Risk-on score: `30.25`
+- Articles: `76`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -23,18 +23,18 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `3`
-- macro: articles `48`, risk hits `16`, risk headline rate `0.25`, policy hits `17`
+- crypto: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `3`
+- macro: articles `46`, risk hits `13`, risk headline rate `0.2391`, policy hits `12`
 
 ## Headlines
 
+- [commodity] Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim (Energy)
+- [macro] Oracle CFO Hilary Maxson addresses layoffs at first company meeting (Yahoo Finance)
+- [macro] PepsiCo cuts jobs at US bottling plant (Yahoo Finance)
+- [crypto] Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Palantir’s Investment Case is Very Simple Now (Yahoo Finance)
+- [macro] 3 Stocks With Below-Average Yields and Above-Average Dividend Growth. Why That Trade-Off Wins Long Term (Yahoo Finance)
 - [macro] Philippines' Duterte seen in person at International Criminal Court for first time (BBC News)
-- [macro] Revolut gains Colombian banking licence and files for Swiss approval (Yahoo Finance)
 - [crypto] Zcash holders back 25-second blocks, vote to keep ZEC halving schedule (Cointelegraph.com News)
-- [crypto] Circle launches Arc mainnet with USDC as native gas token (Cointelegraph.com News)
 - [macro] Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage? (Yahoo Finance)
-- [macro] Cemetery plot prices jumped 65% from 2018 to 2024, and now people are trying to flip them for profit (Yahoo Finance)
-- [macro] The New Crypto Bull Market Could Be Coming. I Predict That These 3 Coins Will Lead It. (Yahoo Finance)
-- [macro] Stock futures rise ahead of Fed interest rate decision Sept. 2026 (Yahoo Finance)
-- [macro] Medigap Plan N Costs Less Than Plan G Every Month. The Savings Ride on One Bill Some Doctors Are Legally Allowed to Send (Yahoo Finance)
-- [macro] Co-investment and directs to eclipse primary funds, buyers say (Yahoo Finance)
+- [macro] Here’s how many Americans have $500K saved for retirement — and it’s more than you might think. Are you in this group? (Yahoo Finance)
