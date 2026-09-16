@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-16T14:07:31.497769+00:00`
-- Market context score: `50.04`
-- News risk score: `45.35`
-- Macro risk score: `24.73`
-- Risk-on score: `36.61`
-- Articles: `83`
+- Generated: `2026-09-16T14:22:40.693995+00:00`
+- Market context score: `47.49`
+- News risk score: `45.63`
+- Macro risk score: `25.36`
+- Risk-on score: `31.43`
+- Articles: `84`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-16T14:00:00+00:00`
+- Day/swing latest: `2026-09-16T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `32`, risk hits `10`, risk headline rate `0.2812`, policy hits `5`
-- macro: articles `48`, risk hits `7`, risk headline rate `0.125`, policy hits `10`
+- macro: articles `49`, risk hits `8`, risk headline rate `0.1429`, policy hits `10`
 
 ## Headlines
 
+- [macro] Burnham rejects 'tax and spend socialist' comments (BBC News)
 - [commodity] Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days (Energy)
-- [crypto] Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] A LatAm telecom operator is putting part of its finances on Avalanche (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US limits visas for South African officials over alleged anti-white discrimination (BBC News)
-- [macro] Minerals 260 to raise $178m for Bullabulling Gold Project in WA (Yahoo Finance)
-- [macro] The Entertainer selects THG Commerce for digital overhaul (Yahoo Finance)
-- [macro] Abercrombie's 2026 Outlook: Omnichannel Strategy Drives Disciplined Growth (Yahoo Finance)
-- [macro] This Quiet Utility Has a Multi-Decade Dividend Growth Streak -- Here's Why Almost Nobody Talks About It (Yahoo Finance)
-- [macro] Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me” (Yahoo Finance)
-- [macro] Stock Market Today: Dow Wavers Ahead Of Likely Fed Rate Increase; Nvidia, Intel, SK Hynix Rally (Live Coverage) (Yahoo Finance)
+- [macro] ACME Solar commissions solar and BESS capacity in Rajasthan, India (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq, S&P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage) (Yahoo Finance)
+- [macro] Real REMAX Group's 2026 Outlook: Scaling Agent Network to Drive Higher Ancillary Service Revenue (Yahoo Finance)
+- [macro] 10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck (Yahoo Finance)
+- [macro] Ray Dalio’s Fund Was Buying These 2 AI Stocks (Yahoo Finance)
+- [macro] Fewer and Fewer S&P 500 Stocks Yield Over 4%. Here's My Top Pick to Buy Now. (Yahoo Finance)
+- [macro] First Au proposes all-scrip takeover of Javelin Minerals (Yahoo Finance)
+- [macro] US homebuilder sentiment drops to 12-month low in September (Yahoo Finance)
