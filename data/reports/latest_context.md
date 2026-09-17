@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T07:52:30.475625+00:00`
-- Market context score: `44.78`
-- News risk score: `45.69`
-- Macro risk score: `36.35`
-- Risk-on score: `29.6`
+- Generated: `2026-09-17T08:07:28.431257+00:00`
+- Market context score: `45.39`
+- News risk score: `44.59`
+- Macro risk score: `37.15`
+- Risk-on score: `30.33`
 - Articles: `34`
 - Polymarket markets: `391`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T07:45:00+00:00`
+- Day/swing latest: `2026-09-17T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `8`
+- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `5`
+- macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `8`
 
 ## Headlines
 
+- [commodity] Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes (Energy)
+- [crypto] Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK inflation jumps to 3.1% as energy costs soar (Economy)
 - [commodity] UK inflation jumps to 3.1% as energy costs soar (Energy)
 - [crypto] U.S. diesel prices hit record high as bitcoin and gold struggle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] BitMEX faces Celsius lawsuit ahead of exchange closure (Cointelegraph.com News)
 - [crypto] OpenAI discloses 6 new cases of ‘misaligned’ AI behavior (Cointelegraph.com News)
-- [commodity] Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report (Energy)
-- [macro] Bank of England set to defy Fed’s rate-hike lead, despite rising inflation (Economy)
