@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T19:37:29.936354+00:00`
-- Market context score: `38.4`
-- News risk score: `56.17`
-- Macro risk score: `43.07`
-- Risk-on score: `26.83`
-- Articles: `56`
+- Generated: `2026-09-17T19:52:29.496626+00:00`
+- Market context score: `38.9`
+- News risk score: `55.84`
+- Macro risk score: `41.91`
+- Risk-on score: `27.19`
+- Articles: `57`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T19:30:00+00:00`
+- Day/swing latest: `2026-09-17T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.8`, policy hits `0`
 - crypto: articles `32`, risk hits `16`, risk headline rate `0.4062`, policy hits `11`
-- macro: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `5`
+- macro: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `5`
 
 ## Headlines
 
+- [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
 - [crypto] CFTC expands regulatory relief for passive trading software providers (Cointelegraph.com News)
 - [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
 - [crypto] Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [crypto] Is there any chance left to save the CLARITY Act? (Cointelegraph.com News)
 - [macro] Warm words on Canada's EU 'associate membership' but no guarantees (BBC News)
-- [crypto] Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike (Cointelegraph.com News)
