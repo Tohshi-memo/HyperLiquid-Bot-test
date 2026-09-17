@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T17:07:36.865172+00:00`
-- Market context score: `42.48`
-- News risk score: `55.76`
-- Macro risk score: `35.83`
-- Risk-on score: `32.8`
-- Articles: `83`
-- Polymarket markets: `390`
+- Generated: `2026-09-17T17:22:33.306473+00:00`
+- Market context score: `43.19`
+- News risk score: `54.84`
+- Macro risk score: `34.18`
+- Risk-on score: `32.98`
+- Articles: `82`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T17:00:00+00:00`
+- Day/swing latest: `2026-09-17T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `6`, risk headline rate `0.8333`, policy hits `0`
 - crypto: articles `31`, risk hits `14`, risk headline rate `0.3871`, policy hits `11`
-- macro: articles `46`, risk hits `15`, risk headline rate `0.2609`, policy hits `14`
+- macro: articles `45`, risk hits `14`, risk headline rate `0.2444`, policy hits `9`
 
 ## Headlines
 
+- [macro] BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up? (Yahoo Finance)
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
+- [macro] Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2% (Yahoo Finance)
+- [macro] Dell’s AI Backlog Surge Positions Stock for $600+ as Server Revenue Doubles (Yahoo Finance)
 - [crypto] Is there any chance left to save the CLARITY Act? (Cointelegraph.com News)
+- [macro] Chasing ASML’s Dominance: Canon and Nikon Are Doing Something The Market Misses (Yahoo Finance)
+- [macro] Gestamp sees India joining its top five markets – report (Yahoo Finance)
+- [macro] airBaltic Is Shrinking. Ryanair Is Moving In. (Yahoo Finance)
+- [macro] Aon’s $17 Billion USI Deal: What Hedge Fund Sentiment Says About AON and KKR (Yahoo Finance)
 - [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [macro] Stock Market Today: Nasdaq Charges Higher As AI Leaders Mount A Rally; Salesforce Extends Losses (Live Coverage) (Yahoo Finance)
-- [macro] The SEC and CFTC Say They Will Write Crypto Rules Without Congress. What Atkins and Selig Can Actually Do for XRP and Bitcoin. (Yahoo Finance)
-- [macro] Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains (Yahoo Finance)
-- [macro] CEO Claims Investors Got It Wrong on $30 Billion Shortfall as ON Stock Plummets 9% (Yahoo Finance)
-- [macro] Meta (META) Overhauls Instagram and Facebook for Teens after its $17 Billion Settlement (Yahoo Finance)
-- [macro] 3 Financial Stocks Whose Dividends Survived the Last Recession Intact (Yahoo Finance)
-- [macro] Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs? (Yahoo Finance)
