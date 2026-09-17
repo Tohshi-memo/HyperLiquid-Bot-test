@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T21:37:26.771712+00:00`
+- Generated: `2026-09-17T21:52:30.568071+00:00`
 - Market context score: `35.49`
 - News risk score: `57.27`
 - Macro risk score: `41.39`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T21:30:00+00:00`
+- Day/swing latest: `2026-09-17T21:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,9 @@
 
 ## Headlines
 
-- [crypto] The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (BBC News)
+- [crypto] The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] UN experts say grounds to believe US committed war crimes in Iran strikes (BBC News)
 - [macro] Why Canadians are ready for closer ties with Europe (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] CFTC expands regulatory relief for passive trading software providers (Cointelegraph.com News)
 - [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
 - [crypto] Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] SEC opens door to tokenized U.S. stock trading. Here’s who could benefit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
