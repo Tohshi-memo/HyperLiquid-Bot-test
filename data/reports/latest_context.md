@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T12:22:23.935628+00:00`
-- Market context score: `46.54`
-- News risk score: `48.96`
-- Macro risk score: `33.56`
-- Risk-on score: `35.22`
-- Articles: `65`
+- Generated: `2026-09-17T12:37:30.383245+00:00`
+- Market context score: `40.95`
+- News risk score: `53.03`
+- Macro risk score: `37.33`
+- Risk-on score: `27.67`
+- Articles: `61`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T12:15:00+00:00`
+- Day/swing latest: `2026-09-17T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `10`
-- macro: articles `41`, risk hits `10`, risk headline rate `0.2195`, policy hits `11`
+- crypto: articles `19`, risk hits `8`, risk headline rate `0.3684`, policy hits `10`
+- macro: articles `38`, risk hits `12`, risk headline rate `0.2632`, policy hits `16`
 
 ## Headlines
 
+- [commodity] U.S. oil falls below $100 as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit (Energy)
+- [macro] Swedish PM Kristersson resigns after election loss (BBC News)
+- [macro] Bank of England defies Fed’s rate-hike lead, leaving rates unchanged (Economy)
+- [commodity] Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes (Energy)
+- [macro] Amundi picks 9.9% stake in asset manager ICG (Yahoo Finance)
 - [macro] Thousands of Barclays staff call for back-to-office rule reversal (BBC News)
-- [macro] Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff (Yahoo Finance)
-- [macro] Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points (Yahoo Finance)
 - [macro] Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage) (Yahoo Finance)
-- [macro] Nebius Stock Jumps On Cloud Computing Price Hikes (Yahoo Finance)
-- [macro] Ninth woman's body found as South African police investigate string of deaths (BBC News)
-- [macro] Advanced Micro Devices vs. Texas Instruments: Which Tech Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] Prediction: Tesla Stock Will Be Worth This Much in 2031 (Yahoo Finance)
-- [macro] Most Arguments In Favor of Buying Meta Now Miss One Powerful Catalyst (Yahoo Finance)
-- [macro] The Hidden Tax Reporting Trap That Could Cost Your Restaurant Thousands (Yahoo Finance)
+- [macro] Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points (Yahoo Finance)
+- [macro] Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk (Yahoo Finance)
+- [macro] Abercrombie & Fitch Chief HR Officer Sells 5,000 Shares (Yahoo Finance)
