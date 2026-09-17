@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T13:37:32.440366+00:00`
-- Market context score: `38.92`
-- News risk score: `58.43`
-- Macro risk score: `38.38`
-- Risk-on score: `28.11`
-- Articles: `77`
+- Generated: `2026-09-17T13:52:29.030292+00:00`
+- Market context score: `36.89`
+- News risk score: `60.79`
+- Macro risk score: `40.53`
+- Risk-on score: `26.41`
+- Articles: `76`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T13:30:00+00:00`
+- Day/swing latest: `2026-09-17T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `11`, risk headline rate `0.4167`, policy hits `13`
-- macro: articles `48`, risk hits `16`, risk headline rate `0.2917`, policy hits `15`
+- crypto: articles `27`, risk hits `13`, risk headline rate `0.4444`, policy hits `13`
+- macro: articles `44`, risk hits `17`, risk headline rate `0.3182`, policy hits `16`
 
 ## Headlines
 
-- [crypto] Bitcoin treasury firms can outperform BTC... but is the risk worth taking? (Cointelegraph.com News)
-- [macro] Allianz Partners, Waymo team up on European robotaxi insurance (Yahoo Finance)
-- [macro] Nebius Stock Jumps On Cloud Computing Price Hikes (Yahoo Finance)
-- [macro] Want $1,500 In Passive Income? Invest $5,000 In Each of These 4 Dividend Stocks (Yahoo Finance)
+- [commodity] Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes (Energy)
+- [macro] Ninth woman's body found as South African police investigate string of deaths (BBC News)
+- [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
+- [macro] SEC, Aware Super and Birdwood to build 1.86GWh battery in Victoria (Yahoo Finance)
+- [crypto] OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO (Cointelegraph.com News)
+- [macro] Insider Waves Goodbye to 4,250 Shares of Retailer, Valued at $1.1 Million (Yahoo Finance)
+- [macro] 7 Words From Warren Buffett That Could Change How Every Investor Thinks About Market Downturns (Yahoo Finance)
+- [macro] CleanSpark Climbs 5% as Bitcoin Miners Outrun the Coin; Strategy Rises 4% (Yahoo Finance)
 - [macro] Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage) (Yahoo Finance)
-- [macro] SEC issues innovation exemption for tokenized stock trading (Yahoo Finance)
-- [macro] US single-family housing starts rebound in August; building permits fall (Yahoo Finance)
-- [macro] Barclays staff push back at plans to reduce work-from-home days (BBC News)
-- [macro] Oil prices fall as Saudi Arabia reroutes crude through Oman (Yahoo Finance)
-- [macro] Think It’s Too Late to Buy Marathon and Valero? Here’s Why Analysts Say Wait Instead (Yahoo Finance)
+- [crypto] SEC grants temporary exemption for tokenized US stock trading (Cointelegraph.com News)
