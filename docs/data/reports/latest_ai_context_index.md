@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-09-17T18:07:39.458420+00:00`
+- Updated: `2026-09-17T18:22:31.184333+00:00`
 - Asset price active records: `672`
 - Day/swing records: `12000`
 - Macro indicators: `11`
@@ -14,15 +14,15 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2373 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (61976 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2377 bytes): Current canary signals.
+- `data/processed/ai_context_index.json` (62103 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2369 bytes): Current canary signals.
 - `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2094 bytes): Macro rates, employment, inflation, dollar, and risk overview.
 - `data/processed/ai_analysis_pack.json` (48214 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5690 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2125 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10320 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3546 bytes): Mechanical relationship candidates.
+- `data/reports/latest_asset_universe.md` (5682 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2121 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (10317 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3536 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
@@ -30,11 +30,11 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 - commodity: `12`
 - crypto_alt: `234`
 - crypto_major: `8`
-- equity: `138`
+- equity: `140`
 - fx: `6`
 - index: `26`
 - metal: `20`
-- unknown: `923`
+- unknown: `921`
 
 ## Canary Snapshot
 
