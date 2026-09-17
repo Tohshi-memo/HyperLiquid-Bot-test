@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T20:07:31.801607+00:00`
-- Market context score: `38.56`
-- News risk score: `56.21`
-- Macro risk score: `41.97`
-- Risk-on score: `26.8`
-- Articles: `56`
+- Generated: `2026-09-17T20:22:28.980767+00:00`
+- Market context score: `40.19`
+- News risk score: `54.33`
+- Macro risk score: `39.18`
+- Risk-on score: `27.78`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T20:00:00+00:00`
+- Day/swing latest: `2026-09-17T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.8`, policy hits `0`
 - crypto: articles `31`, risk hits `16`, risk headline rate `0.4194`, policy hits `11`
-- macro: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `5`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `5`
 
 ## Headlines
 
+- [macro] Why Canadians are ready for closer ties with Europe (BBC News)
 - [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
 - [crypto] CFTC expands regulatory relief for passive trading software providers (Cointelegraph.com News)
 - [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
@@ -37,4 +38,3 @@
 - [macro] Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting (BBC News)
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [crypto] Is there any chance left to save the CLARITY Act? (Cointelegraph.com News)
-- [macro] Warm words on Canada's EU 'associate membership' but no guarantees (BBC News)
