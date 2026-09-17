@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T15:37:27.794874+00:00`
-- Market context score: `44.11`
-- News risk score: `54.45`
-- Macro risk score: `32.07`
-- Risk-on score: `33.89`
-- Articles: `83`
+- Generated: `2026-09-17T15:52:29.211133+00:00`
+- Market context score: `44.65`
+- News risk score: `55.01`
+- Macro risk score: `33.13`
+- Risk-on score: `35.97`
+- Articles: `84`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T15:30:00+00:00`
+- Day/swing latest: `2026-09-17T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `13`, risk headline rate `0.4`, policy hits `12`
-- macro: articles `48`, risk hits `11`, risk headline rate `0.1875`, policy hits `14`
+- macro: articles `49`, risk hits `12`, risk headline rate `0.2041`, policy hits `14`
 
 ## Headlines
 
+- [macro] North American Gold ETF Buying Jumped From $71 Million to $7.7 Billion in One Month. Can GLDM Hold Up? (Yahoo Finance)
+- [macro] Which Account Goes First? The Question Every Couple With $1.4 Million Should Answer Before 65 (Yahoo Finance)
+- [macro] The Overlooked Semiconductor Stock Poised to Lead in the AI Race (Yahoo Finance)
+- [macro] SEC Clears Path For Tokenized Stock Trading. These Stocks Rally. (Yahoo Finance)
+- [macro] Portfolio manager favors AI & value 'barbell' stock strategy (Yahoo Finance)
+- [macro] Nike (NKE) Is Down 40% YTD: Will the Turnaround Strategy Work? (Yahoo Finance)
+- [macro] Why Did SSR Mining Stock Pop Today? (Yahoo Finance)
+- [macro] Average auto loan interest rates by credit score in 2026 (Yahoo Finance)
+- [macro] Apple iPhone 18 Pro Sales Helped By Carrier Promotions (Yahoo Finance)
 - [macro] Novartis (NVS) and Ionis (IONS)’ Big Cholesterol Bet Comes Up Short in Late-Stage Trial (Yahoo Finance)
-- [macro] DNO raises Capricorn takeover offer to $396m cash deal (Yahoo Finance)
-- [macro] Meta Stock Climbs On Muse AI Excitement. Here's The Next Potential Catalyst. (Yahoo Finance)
-- [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [macro] Michael Burry Disclosed Put Options Worth an Estimated $1.1 Billion Against Nvidia and Palantir Before Closing His Hedge Fund. Was That Bearish Bet Ahead of Its Time? (Yahoo Finance)
-- [macro] Adaptive raises $30m in funding for agentic construction accounting (Yahoo Finance)
-- [crypto] UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Chuck E. Cheese rival hits new low as customers pull back (Yahoo Finance)
-- [crypto] U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Second-chance car loans: What they are and how to get one (Yahoo Finance)
