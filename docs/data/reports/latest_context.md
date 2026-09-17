@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T13:52:29.030292+00:00`
-- Market context score: `36.89`
-- News risk score: `60.79`
-- Macro risk score: `40.53`
-- Risk-on score: `26.41`
-- Articles: `76`
+- Generated: `2026-09-17T14:07:31.078048+00:00`
+- Market context score: `40.28`
+- News risk score: `59.62`
+- Macro risk score: `38.25`
+- Risk-on score: `32.08`
+- Articles: `75`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T13:45:00+00:00`
+- Day/swing latest: `2026-09-17T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `13`, risk headline rate `0.4444`, policy hits `13`
-- macro: articles `44`, risk hits `17`, risk headline rate `0.3182`, policy hits `16`
+- macro: articles `43`, risk hits `16`, risk headline rate `0.2791`, policy hits `14`
 
 ## Headlines
 
+- [macro] Interest rates held but Bank signals rise if energy prices stay high (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Cargill invests in Thailand featuring automation, AI (Yahoo Finance)
+- [macro] What happens if you never buy a house? What renters are gaining — and giving up. (Yahoo Finance)
+- [macro] Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls (Yahoo Finance)
 - [commodity] Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes (Energy)
+- [macro] Arm’s CEO Says Demand Is ‘Off the Charts.’ The Problem Is Nobody Can Build Chips Fast Enough (Yahoo Finance)
+- [macro] Stock Market Today (Sept. 17, 2026): Dow surges after Fed rate hike decision (Yahoo Finance)
+- [macro] 10-year Treasury yield eases, oil falls to $100: AlphaCheck (Yahoo Finance)
 - [macro] Ninth woman's body found as South African police investigate string of deaths (BBC News)
-- [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [macro] SEC, Aware Super and Birdwood to build 1.86GWh battery in Victoria (Yahoo Finance)
-- [crypto] OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO (Cointelegraph.com News)
-- [macro] Insider Waves Goodbye to 4,250 Shares of Retailer, Valued at $1.1 Million (Yahoo Finance)
-- [macro] 7 Words From Warren Buffett That Could Change How Every Investor Thinks About Market Downturns (Yahoo Finance)
-- [macro] CleanSpark Climbs 5% as Bitcoin Miners Outrun the Coin; Strategy Rises 4% (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage) (Yahoo Finance)
-- [crypto] SEC grants temporary exemption for tokenized US stock trading (Cointelegraph.com News)
