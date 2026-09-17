@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T05:52:31.896702+00:00`
-- Market context score: `42.76`
-- News risk score: `44.9`
-- Macro risk score: `37.41`
-- Risk-on score: `24.85`
-- Articles: `36`
+- Generated: `2026-09-17T06:07:26.323998+00:00`
+- Market context score: `38.73`
+- News risk score: `49.09`
+- Macro risk score: `37.15`
+- Risk-on score: `19.33`
+- Articles: `34`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T05:45:00+00:00`
+- Day/swing latest: `2026-09-17T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `8`
+- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `5`
 - macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `8`
-- policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `6`
 
 ## Headlines
 
+- [macro] Interest rates hold expected but Bank of England facing tough choices (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] BitMEX faces Celsius lawsuit ahead of exchange closure (Cointelegraph.com News)
+- [crypto] OpenAI discloses 6 new cases of ‘misaligned’ AI behavior (Cointelegraph.com News)
 - [commodity] Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report (Energy)
 - [macro] Bank of England set to defy Fed’s rate-hike lead, despite rising inflation (Economy)
 - [macro] International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown (BBC News)
 - [macro] Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter (BBC News)
 - [macro] Assad regime planned US journalist's kidnap for weeks, BBC finds (BBC News)
 - [crypto] Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Goldman pivots, now forecasts Fed rate hike in October (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] OpenAI reveals six more safety issues and unveils plan to disclose incidents (BBC News)
-- [crypto] Bitcoin absorbs Fed rate hike as officials see more tightening (Cointelegraph.com News)
-- [commodity] Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit (Energy)
