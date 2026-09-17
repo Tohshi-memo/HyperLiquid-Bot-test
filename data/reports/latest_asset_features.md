@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-09-16T23:52:25.363845+00:00`
-- Observed: `2026-09-16T23:45:00+00:00`
+- Generated: `2026-09-17T00:07:27.244583+00:00`
+- Observed: `2026-09-17T00:00:00+00:00`
 - Assets: `1365`
 
 ## Top Activity
@@ -11,13 +11,13 @@ Individual asset screen for drilling down from class-level signals.
 - `@308` unknown price `2550.505` 4h `0.0` vol `0.0` relationship `market_context_high->@308_24h`
 - `#14780` unknown price `0.014955` 4h `-0.3` vol `0.0` relationship `news_risk_high->#14780_24h`
 - `@241` unknown price `0.001239` 4h `0.0` vol `0.0` relationship `risk_on_high->@241_24h`
-- `#12301` unknown price `0.043655` 4h `2.5247` vol `0.0` relationship `news_risk_high->#12301_24h`
+- `#12301` unknown price `0.04222` 4h `-3.265` vol `0.0` relationship `news_risk_high->#12301_24h`
 - `@273` unknown price `78.0` 4h `0.0` vol `0.0` relationship `news_risk_high->@273_24h`
-- `@174` unknown price `0.34478` 4h `-2.4819` vol `0.0` relationship `news_risk_high->@174_24h`
+- `@174` unknown price `0.345155` 4h `-3.0994` vol `0.0` relationship `news_risk_high->@174_24h`
 - `@282` unknown price `0.000123` 4h `-0.4049` vol `0.0` relationship `news_risk_high->@282_24h`
 - `@152` unknown price `0.875` 4h `-40.0685` vol `0.0` relationship `news_risk_high->@152_24h`
-- `#29020` unknown price `0.060005` 4h `-57.1393` vol `0.0` relationship `market_context_high->#29020_24h`
-- `#12110` unknown price `0.004945` 4h `-1.1988` vol `0.0` relationship `risk_on_high->#12110_24h`
+- `#29020` unknown price `0.060005` 4h `-49.9958` vol `0.0` relationship `market_context_high->#29020_24h`
+- `#12110` unknown price `0.00492` 4h `-1.6983` vol `0.0` relationship `risk_on_high->#12110_24h`
 - `#25531` unknown price `0.490005` 4h `0.0` vol `0.0` relationship `risk_on_high->#25531_24h`
 - `@109` unknown price `0.000349` 4h `0.0` vol `0.0` relationship `news_risk_high->@109_24h`
 - `#25541` unknown price `0.5` 4h `0.0` vol `0.0` relationship `risk_on_high->#25541_24h`
