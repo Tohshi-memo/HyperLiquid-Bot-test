@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-17T01:00:29.371934+00:00`
+- Generated: `2026-09-17T01:05:32.035729+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948101.914376` | liquidity: `1329401.8996`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `908483.3272710001` | liquidity: `529540.6734`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `839551.6055759998` | liquidity: `503099.1617`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `815765.7114889999` | liquidity: `456090.27526`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `657258.778956` | liquidity: `394964.3576`
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `429798.59932800004` | liquidity: `223284.3487`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `379375.364414` | liquidity: `316374.98478`
+- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948101.914376` | liquidity: `1329402.97625`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `908483.3272710001` | liquidity: `531883.3884`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `839551.6055759998` | liquidity: `410321.4183`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `815765.7114889999` | liquidity: `458767.98942`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `657258.778956` | liquidity: `306135.7939`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `429798.59932800004` | liquidity: `223265.1094`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `379375.364414` | liquidity: `318174.83478`
 - US x Iran Effective Ceasefire by September 4? | 24h volume: `311298.22966799996` | liquidity: `489010.42885`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
