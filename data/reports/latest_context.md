@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T00:37:29.130153+00:00`
+- Generated: `2026-09-17T00:52:05.663359+00:00`
 - Market context score: `47.55`
 - News risk score: `38.11`
 - Macro risk score: `32.59`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T00:30:00+00:00`
+- Day/swing latest: `2026-09-17T00:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] US interest rates raised for first time in three years (BBC News)
+- [macro] US interest rates raised for first time in three years (BBC News)
 - [macro] EU chief backs plan for Canada to become 'associate member' (BBC News)
 - [crypto] US lawmakers advance bill to lock Trump’s Bitcoin reserve into law (Cointelegraph.com News)
 - [macro] Snapchat 'willing to implement' daily time limits for teens, boss tells BBC (BBC News)
@@ -36,6 +38,4 @@
 - [macro] Would you buy branded clothing from your favourite tech firm? (BBC News)
 - [macro] I sent 200 DMs to companies - it was awkward but I got a job (BBC News)
 - [macro] Interest rates hold expected but Bank of England facing tough choices (BBC News)
-- [macro] US interest rates raised for first time in three years (BBC News)
-- [macro] US interest rates raised for first time in three years (BBC News)
 - [macro] Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction (BBC News)
