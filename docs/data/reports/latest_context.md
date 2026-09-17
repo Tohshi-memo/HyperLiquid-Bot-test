@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T17:52:33.601372+00:00`
-- Market context score: `40.17`
-- News risk score: `57.06`
-- Macro risk score: `38.51`
-- Risk-on score: `29.79`
-- Articles: `84`
-- Polymarket markets: `389`
+- Generated: `2026-09-17T18:07:39.458420+00:00`
+- Market context score: `39.66`
+- News risk score: `55.3`
+- Macro risk score: `44.4`
+- Risk-on score: `29.37`
+- Articles: `57`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T17:45:00+00:00`
+- Day/swing latest: `2026-09-17T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `6`, risk headline rate `0.8333`, policy hits `0`
-- crypto: articles `31`, risk hits `14`, risk headline rate `0.3871`, policy hits `11`
-- macro: articles `47`, risk hits `17`, risk headline rate `0.3191`, policy hits `15`
+- crypto: articles `30`, risk hits `13`, risk headline rate `0.3667`, policy hits `11`
+- macro: articles `21`, risk hits `8`, risk headline rate `0.381`, policy hits `5`
 
 ## Headlines
 
-- [macro] AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher (Yahoo Finance)
-- [macro] BillionToOne CEO Liquidates Entire Directly-Held Stake in the Company for $3 Million (Yahoo Finance)
 - [crypto] WisdomTree, MoonPay team up to expand US access to tokenized money market fund (Cointelegraph.com News)
-- [macro] 2 Cybersecurity Stocks That Will Rule 2027 (Yahoo Finance)
-- [macro] Generac Lands $2.4 Billion Generator Deal With Amazon (Yahoo Finance)
-- [macro] Price Prediction: As AI Backlog Soars, Oracle Set for 50% Upside (Yahoo Finance)
-- [macro] How does the Fed interest rate affect car loans? (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage) (Yahoo Finance)
-- [macro] Access to credit is tightening — here’s what it means for your next auto loan (Yahoo Finance)
-- [macro] Takeda Pharmaceutical (TAK) Gets Priority Review. Can Zasocitinib Win in Psoriasis? (Yahoo Finance)
+- [macro] Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting (BBC News)
+- [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
+- [crypto] Is there any chance left to save the CLARITY Act? (Cointelegraph.com News)
+- [macro] Warm words on Canada's EU 'associate membership' but no guarantees (BBC News)
+- [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
+- [crypto] Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike (Cointelegraph.com News)
+- [crypto] Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing (Cointelegraph.com News)
+- [crypto] UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] UN experts say grounds to believe US committed war crimes in Iran strikes (BBC News)
