@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T14:22:35.271094+00:00`
-- Market context score: `41.23`
-- News risk score: `58.24`
-- Macro risk score: `35.43`
-- Risk-on score: `31.96`
+- Generated: `2026-09-17T14:37:31.660844+00:00`
+- Market context score: `42.18`
+- News risk score: `57.12`
+- Macro risk score: `33.36`
+- Risk-on score: `32.34`
 - Articles: `80`
 - Polymarket markets: `390`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T14:15:00+00:00`
+- Day/swing latest: `2026-09-17T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `13`, risk headline rate `0.4444`, policy hits `13`
-- macro: articles `48`, risk hits `16`, risk headline rate `0.2292`, policy hits `17`
+- macro: articles `48`, risk hits `14`, risk headline rate `0.2083`, policy hits `13`
 
 ## Headlines
 
+- [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
 - [macro] Barclays workers ask for more money to return to the office (BBC News)
+- [macro] What to Watch: HQDG (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage) (Yahoo Finance)
+- [macro] Starbucks Weighing $3 Billion Japan Deal: Reports (Yahoo Finance)
+- [macro] Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher (Yahoo Finance)
 - [macro] Home contract signings drop 4.7% from last year amid higher mortgage rates (Yahoo Finance)
 - [macro] Unilever accused of “double standards” for workers post McCormick merger (Yahoo Finance)
-- [macro] Snap Advances 3% as Specs Glasses Add Salesforce and NVIDIA Enterprise Tools; Meta Holds Steady (Yahoo Finance)
-- [macro] Energy markets grapple with Iran war uncertainty: 'We simply don't know how to model the endgame' (Yahoo Finance)
-- [macro] Jim Cramer delivers unmistakable 2026 must-buy call on AI stock (Yahoo Finance)
-- [macro] Ciena Stock Climbs On Three-Year, 30% Revenue Growth Outlook (Yahoo Finance)
-- [macro] ConocoPhillips Sold 43,000 South Texas Acres for $1.2 Billion. At 63, a Landowner Can Keep Getting Oil Royalties Without Social Security Calling Them Work. (Yahoo Finance)
-- [macro] Interest rates held but Bank signals rise if energy prices stay high (BBC News)
-- [macro] Prediction: ExxonMobil's Low-Carbon Bets Finally Show Up in Guidance by 2027 (Yahoo Finance)
+- [macro] The Waltons Are Getting Richer (Yahoo Finance)
+- [macro] Can you use a personal loan to buy a car? (Yahoo Finance)
