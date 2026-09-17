@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T23:22:41.929662+00:00`
-- Market context score: `35.3`
-- News risk score: `56.58`
-- Macro risk score: `41.93`
-- Risk-on score: `19.84`
-- Articles: `47`
+- Generated: `2026-09-17T23:38:03.521523+00:00`
+- Market context score: `35.83`
+- News risk score: `56.21`
+- Macro risk score: `40.69`
+- Risk-on score: `20.24`
+- Articles: `48`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T23:15:00+00:00`
+- Day/swing latest: `2026-09-17T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `25`, risk hits `15`, risk headline rate `0.48`, policy hits `4`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `5`
+- macro: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `5`
 
 ## Headlines
 
+- [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [macro] Early Bowie music available to stream for first time (BBC News)
 - [macro] Why we bought our first home with a 100% mortgage - despite the risks (BBC News)
 - [macro] The virtual worlds where robots are trained (BBC News)
+- [macro] Healey to ask EU finance ministers to let UK into industry scheme (BBC News)
 - [crypto] Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (BBC News)
 - [crypto] The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] UN experts say grounds to believe US committed war crimes in Iran strikes (BBC News)
-- [macro] Why Canadians are ready for closer ties with Europe (BBC News)
