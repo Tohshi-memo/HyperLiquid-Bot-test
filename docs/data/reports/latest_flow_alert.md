@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-17T07:45:32.404163+00:00`
+- Generated: `2026-09-17T07:50:35.010792+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `966182.6407319997` | liquidity: `482808.1004`
-- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948170.648322` | liquidity: `1319195.34399`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `825243.8784390005` | liquidity: `571184.7929`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `672251.633789` | liquidity: `383743.3299`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `666998.1601719997` | liquidity: `312499.28733`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `336517.246017` | liquidity: `337746.22844`
-- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `290548.719` | liquidity: `433539.66046`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `284000.89135` | liquidity: `323199.25893`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `966182.6407319997` | liquidity: `487332.998`
+- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948170.648322` | liquidity: `1319272.24399`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `825243.8784390005` | liquidity: `569649.081`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `672251.633789` | liquidity: `388740.2534`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `666998.1601719997` | liquidity: `315300.99625`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `336517.246017` | liquidity: `338442.42594`
+- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `290548.719` | liquidity: `454101.48667`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `284000.89135` | liquidity: `324125.395`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
