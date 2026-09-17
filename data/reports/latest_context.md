@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T17:22:33.306473+00:00`
-- Market context score: `43.19`
-- News risk score: `54.84`
-- Macro risk score: `34.18`
-- Risk-on score: `32.98`
-- Articles: `82`
+- Generated: `2026-09-17T17:37:30.605599+00:00`
+- Market context score: `41.0`
+- News risk score: `56.73`
+- Macro risk score: `37.84`
+- Risk-on score: `31.08`
+- Articles: `83`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T17:15:00+00:00`
+- Day/swing latest: `2026-09-17T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `6`, risk headline rate `0.8333`, policy hits `0`
 - crypto: articles `31`, risk hits `14`, risk headline rate `0.3871`, policy hits `11`
-- macro: articles `45`, risk hits `14`, risk headline rate `0.2444`, policy hits `9`
+- macro: articles `46`, risk hits `16`, risk headline rate `0.3043`, policy hits `13`
 
 ## Headlines
 
-- [macro] BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up? (Yahoo Finance)
-- [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
-- [macro] Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2% (Yahoo Finance)
-- [macro] Dell’s AI Backlog Surge Positions Stock for $600+ as Server Revenue Doubles (Yahoo Finance)
-- [crypto] Is there any chance left to save the CLARITY Act? (Cointelegraph.com News)
-- [macro] Chasing ASML’s Dominance: Canon and Nikon Are Doing Something The Market Misses (Yahoo Finance)
-- [macro] Gestamp sees India joining its top five markets – report (Yahoo Finance)
-- [macro] airBaltic Is Shrinking. Ryanair Is Moving In. (Yahoo Finance)
-- [macro] Aon’s $17 Billion USI Deal: What Hedge Fund Sentiment Says About AON and KKR (Yahoo Finance)
-- [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
+- [macro] Box's 2026 Outlook: AI-Driven Workflow Adoption Solidifies Enterprise Competitive Moat (Yahoo Finance)
+- [macro] How does the Fed interest rate affect car loans? (Yahoo Finance)
+- [macro] Pinterest Director Benjamin Silbermann Sells 93,750 Shares for $1.8 Million (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage) (Yahoo Finance)
+- [macro] Elon Musk sends strong message to SpaceX and Tesla investors (Yahoo Finance)
+- [macro] Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz (Yahoo Finance)
+- [macro] Roundtable Secures 10-Year, $1 Billion Agreement, Bringing its AI/DeFi Media Operating System to Global Scale and Profitability (Yahoo Finance)
+- [macro] Access to credit is tightening — here’s what it means for your next auto loan (Yahoo Finance)
+- [macro] Takeda Pharmaceutical (TAK) Gets Priority Review. Can Zasocitinib Win in Psoriasis? (Yahoo Finance)
+- [macro] Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting (BBC News)
