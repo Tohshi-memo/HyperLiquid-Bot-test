@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T12:52:29.443886+00:00`
-- Market context score: `39.29`
-- News risk score: `54.86`
-- Macro risk score: `45.24`
-- Risk-on score: `28.52`
-- Articles: `56`
+- Generated: `2026-09-17T13:07:28.868716+00:00`
+- Market context score: `40.64`
+- News risk score: `53.66`
+- Macro risk score: `38.67`
+- Risk-on score: `28.01`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T12:45:00+00:00`
+- Day/swing latest: `2026-09-17T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `8`, risk headline rate `0.35`, policy hits `10`
-- macro: articles `31`, risk hits `14`, risk headline rate `0.3871`, policy hits `12`
+- crypto: articles `22`, risk hits `10`, risk headline rate `0.4091`, policy hits `10`
+- macro: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `7`
 
 ## Headlines
 
+- [macro] Ninth woman's body found as South African police investigate string of deaths (BBC News)
+- [crypto] SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] S&P Global to acquire blockchain security platform OpenZeppelin (Cointelegraph.com News)
 - [commodity] Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela (Energy)
+- [macro] Despite Hype, Broadcom Keeps Edging Sideways and Down: This Wall Street Analyst Says It Will Provide 75% Returns Soon (Yahoo Finance)
+- [macro] History Says This Is the Amount of Yearly Dividend Income a $7,500 Investment in Realty Income Stock Could Generate by 2030 (Yahoo Finance)
 - [commodity] U.S. oil falls below $100 as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [macro] Swedish PM Kristersson resigns after election loss (BBC News)
-- [macro] Interest rates held but Bank signals rise if energy prices stay high (BBC News)
-- [crypto] Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher (Cointelegraph.com News)
-- [macro] The Biggest Catalyst for Alphabet Stock May Not Be Search (Yahoo Finance)
-- [macro] ‘The benefits are kind of going away’: Rewards cards rules make it harder to get your money’s worth — how you still can (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage) (Yahoo Finance)
-- [macro] Bank of England defies Fed’s rate-hike lead, leaving rates unchanged (Economy)
-- [macro] 'Oil market is a hot mess,' says analyst as supply shock keeps prices near $100: Chart of the Day (Yahoo Finance)
+- [macro] Unilever accused of “double standards” for workers post McCormick merger (Yahoo Finance)
+- [macro] Peter Schiff says the 7.76 cents of metal inside every nickel makes it a better bet than U.S. Treasuries (Yahoo Finance)
+- [macro] Dave Ramsey Tells Couple With $60K in Debt: “Get Married This Weekend” (Yahoo Finance)
