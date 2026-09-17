@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T19:07:09.631316+00:00`
+- Generated: `2026-09-17T19:22:35.697781+00:00`
 - Market context score: `38.76`
 - News risk score: `56.44`
 - Macro risk score: `45.45`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T19:00:00+00:00`
+- Day/swing latest: `2026-09-17T19:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [crypto] Kevin O’Leary says Congress will revisit CLARITY early next year as crypto tax bill advances (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SEC opens door to tokenized U.S. stock trading. Here’s who could benefit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] WisdomTree, MoonPay team up to expand US access to tokenized money market fund (Cointelegraph.com News)
 - [macro] Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting (BBC News)
