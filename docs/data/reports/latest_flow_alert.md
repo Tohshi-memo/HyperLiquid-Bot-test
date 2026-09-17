@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-17T10:45:31.205580+00:00`
+- Generated: `2026-09-17T10:50:31.326074+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1129599.584754` | liquidity: `313995.2942`
-- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948402.513322` | liquidity: `1285767.27653`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `873582.4147920004` | liquidity: `519563.8569`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `797154.649675` | liquidity: `298601.8348`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `636351.3506349998` | liquidity: `330525.76543`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `374332.373216` | liquidity: `310376.65683`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `324451.062559` | liquidity: `267962.25956`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `312699.44808400003` | liquidity: `219091.88606`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1129599.584754` | liquidity: `316820.0528`
+- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948402.513322` | liquidity: `1285716.84076`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `873582.4147920004` | liquidity: `535627.7243`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `797154.649675` | liquidity: `298267.5422`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `636351.3506349998` | liquidity: `390099.78622`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `374332.373216` | liquidity: `322249.09427`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `324451.062559` | liquidity: `281863.39772`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `312699.44808400003` | liquidity: `243757.58466`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
