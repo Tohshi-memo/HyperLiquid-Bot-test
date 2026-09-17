@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T05:37:31.089508+00:00`
+- Generated: `2026-09-17T05:42:33.131578+00:00`
 - Market context score: `42.76`
 - News risk score: `44.9`
 - Macro risk score: `37.41`
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [commodity] Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report (Energy)
 - [macro] Bank of England set to defy Fed’s rate-hike lead, despite rising inflation (Economy)
 - [macro] International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown (BBC News)
 - [macro] Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter (BBC News)
 - [macro] Assad regime planned US journalist's kidnap for weeks, BBC finds (BBC News)
 - [crypto] Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Goldman pivots, now forecasts Fed rate hike in October (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report (Energy)
 - [macro] OpenAI reveals six more safety issues and unveils plan to disclose incidents (BBC News)
 - [crypto] Bitcoin absorbs Fed rate hike as officials see more tightening (Cointelegraph.com News)
 - [commodity] Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit (Energy)
