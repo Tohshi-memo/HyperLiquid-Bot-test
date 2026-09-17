@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T04:52:31.994420+00:00`
-- Market context score: `40.56`
-- News risk score: `45.81`
+- Generated: `2026-09-17T05:07:31.248839+00:00`
+- Market context score: `37.77`
+- News risk score: `49.9`
 - Macro risk score: `41.64`
-- Risk-on score: `22.32`
+- Risk-on score: `19.59`
 - Articles: `35`
 - Polymarket markets: `391`
 
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T04:45:00+00:00`
+- Day/swing latest: `2026-09-17T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `7`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `8`
 - macro: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `8`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `6`
 
 ## Headlines
 
 - [crypto] Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Goldman pivots, now forecasts Fed hike in October (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Goldman pivots, now forecasts Fed rate hike in October (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report (Energy)
 - [macro] OpenAI reveals six more safety issues and unveils plan to disclose incidents (BBC News)
 - [crypto] Bitcoin absorbs Fed rate hike as officials see more tightening (Cointelegraph.com News)
