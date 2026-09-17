@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T14:37:31.660844+00:00`
-- Market context score: `42.18`
-- News risk score: `57.12`
-- Macro risk score: `33.36`
-- Risk-on score: `32.34`
+- Generated: `2026-09-17T14:52:31.604438+00:00`
+- Market context score: `43.56`
+- News risk score: `55.07`
+- Macro risk score: `32.73`
+- Risk-on score: `33.45`
 - Articles: `80`
 - Polymarket markets: `390`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T14:30:00+00:00`
+- Day/swing latest: `2026-09-17T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `13`, risk headline rate `0.4444`, policy hits `13`
-- macro: articles `48`, risk hits `14`, risk headline rate `0.2083`, policy hits `13`
+- crypto: articles `27`, risk hits `12`, risk headline rate `0.4074`, policy hits `11`
+- macro: articles `48`, risk hits `14`, risk headline rate `0.2083`, policy hits `11`
 
 ## Headlines
 
 - [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [macro] Barclays workers ask for more money to return to the office (BBC News)
-- [macro] What to Watch: HQDG (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage) (Yahoo Finance)
-- [macro] Starbucks Weighing $3 Billion Japan Deal: Reports (Yahoo Finance)
-- [macro] Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher (Yahoo Finance)
-- [macro] Home contract signings drop 4.7% from last year amid higher mortgage rates (Yahoo Finance)
-- [macro] Unilever accused of “double standards” for workers post McCormick merger (Yahoo Finance)
-- [macro] The Waltons Are Getting Richer (Yahoo Finance)
-- [macro] Can you use a personal loan to buy a car? (Yahoo Finance)
+- [crypto] Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Southwest (LUV) Finally Joins the Lounge Business it Long Rejected (Yahoo Finance)
+- [macro] Medtronic (MDT) Raises its Outlook Again as Heart Device Demand Keeps Climbing (Yahoo Finance)
+- [macro] Here’s Why Why Baron Capital Bought Alexandria (ARE) (Yahoo Finance)
+- [macro] The Next $100 Billion of Netflix’s Value Could Come From Here, 98% Upside Ahead (Yahoo Finance)
+- [macro] OpenAI Fires Back at Apple (AAPL) (Yahoo Finance)
+- [macro] Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD. (Yahoo Finance)
+- [macro] CEO Liquidates $2.6 Million Worth of Financial Services Stock (Yahoo Finance)
+- [macro] Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner (Yahoo Finance)
