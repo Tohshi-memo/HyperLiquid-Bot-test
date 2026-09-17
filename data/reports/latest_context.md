@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T13:07:28.868716+00:00`
-- Market context score: `40.64`
-- News risk score: `53.66`
-- Macro risk score: `38.67`
-- Risk-on score: `28.01`
-- Articles: `54`
+- Generated: `2026-09-17T13:22:27.019243+00:00`
+- Market context score: `37.73`
+- News risk score: `57.35`
+- Macro risk score: `38.74`
+- Risk-on score: `24.69`
+- Articles: `75`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T13:00:00+00:00`
+- Day/swing latest: `2026-09-17T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `10`, risk headline rate `0.4091`, policy hits `10`
-- macro: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `7`
+- crypto: articles `23`, risk hits `10`, risk headline rate `0.3913`, policy hits `10`
+- macro: articles `47`, risk hits `17`, risk headline rate `0.3191`, policy hits `12`
 
 ## Headlines
 
-- [macro] Ninth woman's body found as South African police investigate string of deaths (BBC News)
-- [crypto] SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] S&P Global to acquire blockchain security platform OpenZeppelin (Cointelegraph.com News)
-- [commodity] Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela (Energy)
-- [macro] Despite Hype, Broadcom Keeps Edging Sideways and Down: This Wall Street Analyst Says It Will Provide 75% Returns Soon (Yahoo Finance)
-- [macro] History Says This Is the Amount of Yearly Dividend Income a $7,500 Investment in Realty Income Stock Could Generate by 2030 (Yahoo Finance)
+- [macro] Barclays staff push back at plans to reduce work-from-home days (BBC News)
+- [crypto] Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. oil falls below $100 as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [macro] Unilever accused of “double standards” for workers post McCormick merger (Yahoo Finance)
-- [macro] Peter Schiff says the 7.76 cents of metal inside every nickel makes it a better bet than U.S. Treasuries (Yahoo Finance)
-- [macro] Dave Ramsey Tells Couple With $60K in Debt: “Get Married This Weekend” (Yahoo Finance)
+- [macro] The Year Her Husband Died, She Converted $300,000 to a Roth. It Was the Last Return She’d Ever File as Married, and the Cheapest Tax Bill of Her Life (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage) (Yahoo Finance)
+- [macro] Bank ETF FTXO Delivered a 20% Return Over the Last Year. Here's Why I'd Choose IYF Instead. (Yahoo Finance)
+- [macro] Cummins Sees Truck Demand Rebound, Data-Center Power Orders Stretching to 2028 (Yahoo Finance)
+- [macro] Innate Pharma Q2 Earnings Call Highlights (Yahoo Finance)
+- [macro] Ninth woman's body found as South African police investigate string of deaths (BBC News)
+- [macro] What to Watch: AIMG (Yahoo Finance)
