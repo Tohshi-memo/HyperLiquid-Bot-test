@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T09:22:26.526917+00:00`
+- Generated: `2026-09-17T09:37:31.561375+00:00`
 - Market context score: `43.04`
 - News risk score: `49.7`
 - Macro risk score: `41.56`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T09:15:00+00:00`
+- Day/swing latest: `2026-09-17T09:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] EU announces plan to restrict social media access for under-15s (BBC News)
+- [macro] River home to 500 crocodiles chosen as Olympic rowing venue (BBC News)
 - [crypto] Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger (Cointelegraph.com News)
 - [commodity] Trump gains a tariff weapon against China and India. Will he use it? (Energy)
 - [crypto] Bitcoin faces 2022 parallels as federal reserve resumes rate hikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft (BBC News)
 - [commodity] Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes (Energy)
 - [crypto] Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK inflation jumps to 3.1% as energy costs soar (Economy)
