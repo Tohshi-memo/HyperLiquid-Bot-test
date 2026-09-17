@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T08:22:28.892363+00:00`
-- Market context score: `45.19`
-- News risk score: `44.89`
-- Macro risk score: `37.65`
-- Risk-on score: `30.33`
-- Articles: `31`
+- Generated: `2026-09-17T08:37:28.693797+00:00`
+- Market context score: `43.56`
+- News risk score: `46.42`
+- Macro risk score: `40.78`
+- Risk-on score: `29.17`
+- Articles: `33`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T08:15:00+00:00`
+- Day/swing latest: `2026-09-17T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `5`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `8`
+- macro: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `8`
 
 ## Headlines
 
+- [macro] EU announces plan to restrict social media access for children (BBC News)
+- [macro] Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft (BBC News)
+- [macro] Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft (BBC News)
 - [commodity] Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes (Energy)
 - [crypto] Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK inflation jumps to 3.1% as energy costs soar (Economy)
 - [commodity] UK inflation jumps to 3.1% as energy costs soar (Energy)
 - [crypto] U.S. diesel prices hit record high as bitcoin and gold struggle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC (BBC News)
+- [macro] Abducted South African journalist found dead with gunshot wounds (BBC News)
 - [macro] Interest rates hold expected but Bank of England facing tough choices (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] BitMEX faces Celsius lawsuit ahead of exchange closure (Cointelegraph.com News)
-- [crypto] OpenAI discloses 6 new cases of ‘misaligned’ AI behavior (Cointelegraph.com News)
