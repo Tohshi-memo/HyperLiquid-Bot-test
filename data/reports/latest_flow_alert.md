@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-17T03:40:28.141632+00:00`
+- Generated: `2026-09-17T03:45:29.510195+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10514953.41`
-- Polymarket volume z-score: `-1.16`
+- Polymarket 24h volume: `10555538.61`
+- Polymarket volume z-score: `-1.15`
 
 ## Top Polymarket Markets
 
-- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948106.286138` | liquidity: `1330164.58433`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `895464.1270229996` | liquidity: `540671.7769`
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `878161.7218380005` | liquidity: `542760.9835`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `780660.68969` | liquidity: `336136.09009`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `660672.257023` | liquidity: `507009.234`
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `439056.089328` | liquidity: `270261.9278`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `330331.901265` | liquidity: `315244.91922`
-- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `286802.296` | liquidity: `466649.98972`
+- Will Elon Musk win the 2028 Republican presidential nomination? | 24h volume: `948137.41727` | liquidity: `1330034.58433`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `895530.460104` | liquidity: `541256.3638`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `878153.5616630004` | liquidity: `537990.046`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `786269.6730359998` | liquidity: `335568.41249`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `663252.025285` | liquidity: `501689.1067`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `439042.089328` | liquidity: `270261.9278`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `330331.901265` | liquidity: `314752.41847`
+- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `286802.29600000003` | liquidity: `455170.54765`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
