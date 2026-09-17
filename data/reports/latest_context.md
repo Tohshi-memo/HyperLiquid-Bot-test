@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T06:23:02.370674+00:00`
-- Market context score: `38.73`
-- News risk score: `49.09`
-- Macro risk score: `37.15`
-- Risk-on score: `19.33`
+- Generated: `2026-09-17T06:37:30.146956+00:00`
+- Market context score: `40.01`
+- News risk score: `47.84`
+- Macro risk score: `34.65`
+- Risk-on score: `20.17`
 - Articles: `34`
 - Polymarket markets: `391`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T06:15:00+00:00`
+- Day/swing latest: `2026-09-17T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.8`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `5`
-- macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `8`
+- macro: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `8`
 
 ## Headlines
 
+- [macro] Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC (BBC News)
 - [macro] Interest rates hold expected but Bank of England facing tough choices (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] BitMEX faces Celsius lawsuit ahead of exchange closure (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown (BBC News)
 - [macro] Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter (BBC News)
 - [macro] Assad regime planned US journalist's kidnap for weeks, BBC finds (BBC News)
-- [crypto] Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
