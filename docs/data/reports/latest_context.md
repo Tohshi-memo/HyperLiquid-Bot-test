@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T20:22:28.980767+00:00`
-- Market context score: `40.19`
+- Generated: `2026-09-17T20:37:29.678602+00:00`
+- Market context score: `39.21`
 - News risk score: `54.33`
 - Macro risk score: `39.18`
-- Risk-on score: `27.78`
+- Risk-on score: `25.59`
 - Articles: `54`
 - Polymarket markets: `389`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T20:15:00+00:00`
+- Day/swing latest: `2026-09-17T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] UN experts say grounds to believe US committed war crimes in Iran strikes (BBC News)
 - [macro] Why Canadians are ready for closer ties with Europe (BBC News)
 - [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
 - [crypto] CFTC expands regulatory relief for passive trading software providers (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] WisdomTree, MoonPay team up to expand US access to tokenized money market fund (Cointelegraph.com News)
 - [macro] Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting (BBC News)
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
-- [crypto] Is there any chance left to save the CLARITY Act? (Cointelegraph.com News)
