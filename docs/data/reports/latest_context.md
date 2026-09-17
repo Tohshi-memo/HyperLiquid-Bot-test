@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T01:52:29.793449+00:00`
-- Market context score: `46.86`
-- News risk score: `38.65`
-- Macro risk score: `33.44`
-- Risk-on score: `27.19`
-- Articles: `46`
+- Generated: `2026-09-17T02:07:35.160161+00:00`
+- Market context score: `45.19`
+- News risk score: `40.38`
+- Macro risk score: `35.73`
+- Risk-on score: `25.79`
+- Articles: `44`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T01:45:00+00:00`
+- Day/swing latest: `2026-09-17T02:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `5`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `9`
+- commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
+- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `5`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `9`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `6`
 
 ## Headlines
 
+- [commodity] Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit (Energy)
 - [macro] US interest rates raised for first time in three years (BBC News)
 - [macro] US interest rates raised for first time in three years (BBC News)
 - [macro] EU chief backs plan for Canada to become 'associate member' (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Would you buy branded clothing from your favourite tech firm? (BBC News)
 - [macro] I sent 200 DMs to companies - it was awkward but I got a job (BBC News)
 - [macro] Interest rates hold expected but Bank of England facing tough choices (BBC News)
-- [macro] Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction (BBC News)
