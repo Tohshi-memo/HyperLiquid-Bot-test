@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T15:07:31.226253+00:00`
-- Market context score: `43.23`
-- News risk score: `56.06`
-- Macro risk score: `34.08`
-- Risk-on score: `34.05`
+- Generated: `2026-09-17T15:17:50.337850+00:00`
+- Market context score: `44.4`
+- News risk score: `55.21`
+- Macro risk score: `33.58`
+- Risk-on score: `35.76`
 - Articles: `82`
-- Polymarket markets: `389`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T15:00:00+00:00`
+- Day/swing latest: `2026-09-17T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `13`, risk headline rate `0.4138`, policy hits `12`
-- macro: articles `48`, risk hits `15`, risk headline rate `0.2292`, policy hits `12`
+- crypto: articles `30`, risk hits `13`, risk headline rate `0.4`, policy hits `12`
+- macro: articles `47`, risk hits `12`, risk headline rate `0.2128`, policy hits `13`
 
 ## Headlines
 
-- [crypto] U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack (Energy)
-- [crypto] Crypto for Advisors: Beyond bitcoin and ether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Lahontan Gold signs agreement to acquire Emergent Metals (Yahoo Finance)
-- [macro] AI Server Stocks Rally as the Hardware Bid Broadens: Hewlett Packard Enterprise Jumps 9%, Super Micro Climbs 6%, Dell Rises 3% (Yahoo Finance)
-- [macro] SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles (Yahoo Finance)
-- [crypto] Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] German distiller Berentzen in talks to sell to Sazerac (Yahoo Finance)
-- [macro] Only 1 of These 2 BDCs Keeps Raising Its Monthly Payout. Here’s Which Belongs in Your Roth IRA. (Yahoo Finance)
-- [macro] What’s the average car loan length? (Yahoo Finance)
+- [crypto] UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Second-chance car loans: What they are and how to get one (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Leads Charge After Fed Day; Nvidia, Amazon Rise (Live Coverage) (Yahoo Finance)
+- [macro] What to Watch: PJSM (Yahoo Finance)
+- [macro] The Palantir Question Nobody Can Answer Yet: How Big Can This Get? (Yahoo Finance)
+- [macro] Azets appoints new corporate finance partner in UK (Yahoo Finance)
+- [macro] VinFast (VFS)-Backed Taxi Firm GSM Plots a US and European Push ahead of its Hong Kong IPO (Yahoo Finance)
+- [macro] Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework (Yahoo Finance)
