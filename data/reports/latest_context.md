@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T22:52:35.173538+00:00`
-- Market context score: `34.78`
-- News risk score: `49.76`
-- Macro risk score: `45.44`
-- Risk-on score: `14.25`
-- Articles: `43`
+- Generated: `2026-09-18T23:07:28.568206+00:00`
+- Market context score: `34.48`
+- News risk score: `49.79`
+- Macro risk score: `46.09`
+- Risk-on score: `13.86`
+- Articles: `42`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T22:45:00+00:00`
+- Day/swing latest: `2026-09-18T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `0`
-- macro: articles `21`, risk hits `11`, risk headline rate `0.381`, policy hits `2`
+- macro: articles `20`, risk hits `11`, risk headline rate `0.4`, policy hits `1`
 - policy: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
-- [macro] US and Denmark reach deal over Greenland after Trump annexation threats (BBC News)
 - [macro] Trump says he is banning CNN and Politico from White House (BBC News)
+- [macro] US and Denmark reach deal over Greenland after Trump annexation threats (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Watch: Trump says ban on some news outlets is 'because they're fake news' (BBC News)
 - [macro] At least 21 killed after vehicle loaded with explosives rams Pakistan mosque (BBC News)
