@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T11:52:27.290192+00:00`
-- Market context score: `47.33`
-- News risk score: `43.74`
-- Macro risk score: `32.41`
-- Risk-on score: `32.14`
-- Articles: `37`
+- Generated: `2026-09-18T12:07:30.323770+00:00`
+- Market context score: `49.84`
+- News risk score: `42.36`
+- Macro risk score: `30.96`
+- Risk-on score: `36.01`
+- Articles: `40`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T11:45:00+00:00`
+- Day/swing latest: `2026-09-18T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `5`
+- crypto: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `5`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.1333`, policy hits `6`
 
 ## Headlines
 
+- [commodity] UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report (Energy)
+- [macro] Police begin operation to move migrants from Ceuta beaches (BBC News)
+- [macro] Dozens of suspected illegal miners die in Nigerian custody (BBC News)
+- [crypto] HYPE hits record above $90 as Hyperliquid launches manual borrowing (Cointelegraph.com News)
+- [macro] Lindsay Clancy holdout juror had no doubt she deliberately killed her children (BBC News)
 - [macro] Brewdog's unpaid workers to receive nothing after takeover deal (BBC News)
 - [macro] At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque (BBC News)
 - [crypto] Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028 (Cointelegraph.com News)
 - [crypto] XRP on the brink of a golden cross as focus switches to altcoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Three dead and eight injured in Philippines school shooting (BBC News)
-- [crypto] Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross (Cointelegraph.com News)
-- [macro] We bought our £242,000 home without a deposit - here's how (BBC News)
-- [macro] Dozens of suspected illegal miners die in Nigerian custody (BBC News)
-- [crypto] Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
