@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T10:07:32.700988+00:00`
-- Market context score: `44.95`
-- News risk score: `48.18`
-- Macro risk score: `34.54`
-- Risk-on score: `31.4`
-- Articles: `33`
+- Generated: `2026-09-18T10:22:29.563363+00:00`
+- Market context score: `43.7`
+- News risk score: `50.02`
+- Macro risk score: `35.16`
+- Risk-on score: `30.42`
+- Articles: `34`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T10:00:00+00:00`
+- Day/swing latest: `2026-09-18T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `17`, risk hits `8`, risk headline rate `0.4118`, policy hits `3`
+- crypto: articles `18`, risk hits `9`, risk headline rate `0.4444`, policy hits `4`
 - macro: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Three dead and eight injured in Philippines school shooting (BBC News)
 - [crypto] Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Stablecoin payments firm dtcpay closes $25M round with SBI backing (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Why Japan’s markets flipped the usual script after central bank rate hike (Economy)
 - [crypto] SBI Group backs payments firm dtcpay in $25 million funding round (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Japan raises interest rate to new 31-year high to curb rising prices (BBC News)
-- [macro] Healey to ask EU finance ministers to let UK into Made in Europe scheme (BBC News)
