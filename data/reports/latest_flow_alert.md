@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-18T15:40:31.145424+00:00`
+- Generated: `2026-09-18T15:45:31.655654+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `782570.0412970006` | liquidity: `829988.8289`
-- Will François Ruffin win the 2027 French presidential election? | 24h volume: `569120.3358329999` | liquidity: `152872.04386`
-- Will China invade Taiwan by end of 2026? | 24h volume: `529430.9064849999` | liquidity: `567256.9107`
-- Will the price of Bitcoin be above $80,000 on September 18? | 24h volume: `393920.59646100015` | liquidity: `13404.23114`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `327533.21584` | liquidity: `343367.8655`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `315037.567472` | liquidity: `346044.85458`
-- Will the price of Bitcoin be above $82,000 on September 18? | 24h volume: `272325.8675059999` | liquidity: `24462.39407`
-- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `268837.636964` | liquidity: `191376.35114`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `782570.0412970006` | liquidity: `827989.6063`
+- Will François Ruffin win the 2027 French presidential election? | 24h volume: `569120.3358329999` | liquidity: `153022.42386`
+- Will China invade Taiwan by end of 2026? | 24h volume: `529430.9064849999` | liquidity: `566950.79111`
+- Will the price of Bitcoin be above $80,000 on September 18? | 24h volume: `393920.59646100015` | liquidity: `12834.85452`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `327533.21584` | liquidity: `343280.227`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `315037.567472` | liquidity: `345635.95565`
+- Will the price of Bitcoin be above $82,000 on September 18? | 24h volume: `272325.8675059999` | liquidity: `34042.30571`
+- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `268837.636964` | liquidity: `575298.49016`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
