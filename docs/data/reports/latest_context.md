@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T17:37:32.916900+00:00`
-- Market context score: `45.37`
-- News risk score: `49.62`
-- Macro risk score: `35.63`
-- Risk-on score: `33.96`
-- Articles: `77`
+- Generated: `2026-09-18T17:51:43.151390+00:00`
+- Market context score: `45.14`
+- News risk score: `49.95`
+- Macro risk score: `35.38`
+- Risk-on score: `33.64`
+- Articles: `76`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T17:30:00+00:00`
+- Day/swing latest: `2026-09-18T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `5`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `4`
 - macro: articles `47`, risk hits `14`, risk headline rate `0.2128`, policy hits `15`
 - policy: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `4`
 
@@ -38,4 +38,4 @@
 - [macro] Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks (BBC News)
 - [macro] Jim Cramer Says Selling Arm Holdings (ARM) Early Was a “Big Mistake” (Yahoo Finance)
 - [macro] Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage) (Yahoo Finance)
-- [macro] Cerity Partners Enters Iowa with $2B Gilbert & Cook (Yahoo Finance)
+- [macro] Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years? (Yahoo Finance)
