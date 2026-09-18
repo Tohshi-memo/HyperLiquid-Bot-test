@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T06:08:08.625826+00:00`
-- Market context score: `32.38`
-- News risk score: `61.15`
-- Macro risk score: `37.76`
-- Risk-on score: `15.64`
-- Articles: `28`
+- Generated: `2026-09-18T06:22:35.675886+00:00`
+- Market context score: `33.7`
+- News risk score: `59.22`
+- Macro risk score: `37.66`
+- Risk-on score: `16.89`
+- Articles: `29`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T06:00:00+00:00`
+- Day/swing latest: `2026-09-18T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `15`, risk hits `12`, risk headline rate `0.6667`, policy hits `3`
+- crypto: articles `16`, risk hits `12`, risk headline rate `0.625`, policy hits `3`
 - macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Solana speeds up blocks by 17%, but transaction capacity stays the same (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] World launches self-custodial ‘super app’ World Money (Cointelegraph.com News)
 - [commodity] UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report (Energy)
 - [crypto] Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Japan raises interest rate to new 31-year high to curb rising prices (BBC News)
