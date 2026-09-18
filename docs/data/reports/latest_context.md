@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T11:37:32.610224+00:00`
-- Market context score: `45.84`
-- News risk score: `46.9`
-- Macro risk score: `36.01`
-- Risk-on score: `32.84`
-- Articles: `38`
+- Generated: `2026-09-18T11:52:27.290192+00:00`
+- Market context score: `47.33`
+- News risk score: `43.74`
+- Macro risk score: `32.41`
+- Risk-on score: `32.14`
+- Articles: `37`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,21 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T11:30:00+00:00`
+- Day/swing latest: `2026-09-18T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.3636`, policy hits `5`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `5`
+- crypto: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `5`
+- macro: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `5`
 
 ## Headlines
 
-- [macro] At least 16 killed in attack on mosque in Pakistan (BBC News)
+- [macro] Brewdog's unpaid workers to receive nothing after takeover deal (BBC News)
+- [macro] At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque (BBC News)
 - [crypto] Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028 (Cointelegraph.com News)
 - [crypto] XRP on the brink of a golden cross as focus switches to altcoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Three dead and eight injured in Philippines school shooting (BBC News)
-- [macro] Brewdog's unpaid workers to receive nothing after takeover deal (BBC News)
 - [crypto] Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross (Cointelegraph.com News)
 - [macro] We bought our £242,000 home without a deposit - here's how (BBC News)
 - [macro] Dozens of suspected illegal miners die in Nigerian custody (BBC News)
