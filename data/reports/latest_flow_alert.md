@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-18T02:45:30.769431+00:00`
+- Generated: `2026-09-18T02:50:32.837528+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `530983.096289` | liquidity: `825238.3591`
-- Will China invade Taiwan by end of 2026? | 24h volume: `516449.1259900001` | liquidity: `526097.09371`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `514470.98535700014` | liquidity: `589439.3746`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `464854.82052` | liquidity: `881952.1085`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `387774.0954500001` | liquidity: `470239.87274`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `352551.7892390002` | liquidity: `497979.6311`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `270661.865999` | liquidity: `409724.96915`
-- Will the U.S. invade Iran before 2027? | 24h volume: `269563.623597` | liquidity: `708261.8654`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `530983.096289` | liquidity: `824940.3605`
+- Will China invade Taiwan by end of 2026? | 24h volume: `516449.1259900001` | liquidity: `525177.30417`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `514470.98535700014` | liquidity: `609720.2714`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `464854.82052` | liquidity: `881929.6085`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `387774.0954500001` | liquidity: `470308.47574`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `352551.7892390002` | liquidity: `497977.1895`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `270661.865999` | liquidity: `409652.46915`
+- Will the U.S. invade Iran before 2027? | 24h volume: `269563.623597` | liquidity: `710024.4567`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
