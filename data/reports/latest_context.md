@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T11:07:27.810796+00:00`
-- Market context score: `45.09`
-- News risk score: `49.16`
-- Macro risk score: `37.26`
-- Risk-on score: `33.56`
+- Generated: `2026-09-18T11:22:28.022260+00:00`
+- Market context score: `45.07`
+- News risk score: `48.89`
+- Macro risk score: `38.44`
+- Risk-on score: `33.73`
 - Articles: `38`
 - Polymarket markets: `390`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T11:00:00+00:00`
+- Day/swing latest: `2026-09-18T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `20`, risk hits `9`, risk headline rate `0.4`, policy hits `5`
-- macro: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `5`
+- crypto: articles `21`, risk hits `9`, risk headline rate `0.381`, policy hits `5`
+- macro: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `5`
 
 ## Headlines
 
+- [crypto] XRP on the brink of a golden cross as focus switches to altcoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Three dead and eight injured in Philippines school shooting (BBC News)
 - [crypto] Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross (Cointelegraph.com News)
 - [macro] We bought our £242,000 home without a deposit - here's how (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Stablecoin payments firm dtcpay closes $25M round with SBI backing (Cointelegraph.com News)
-- [crypto] Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment (Cointelegraph.com News)
