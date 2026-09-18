@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T02:52:27.758157+00:00`
-- Market context score: `37.36`
-- News risk score: `57.0`
-- Macro risk score: `41.67`
-- Risk-on score: `24.67`
+- Generated: `2026-09-18T03:07:32.030458+00:00`
+- Market context score: `34.95`
+- News risk score: `58.34`
+- Macro risk score: `40.75`
+- Risk-on score: `20.11`
 - Articles: `30`
 - Polymarket markets: `391`
 
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T02:45:00+00:00`
+- Day/swing latest: `2026-09-18T03:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `15`, risk hits `11`, risk headline rate `0.5333`, policy hits `3`
-- macro: articles `12`, risk hits `5`, risk headline rate `0.4167`, policy hits `0`
+- commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
+- crypto: articles `14`, risk hits `11`, risk headline rate `0.5714`, policy hits `4`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bank of Japan raises interest rates by 25 basis points. Bitcoin rises against yen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report (Energy)
+- [macro] Japan raises interest rate to new 31-year high to curb rising prices (BBC News)
 - [commodity] Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes (Energy)
 - [crypto] US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments (Cointelegraph.com News)
 - [macro] Canadians dream of Europe as Carney floats longshot plan for living and working in EU (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] North Korea drives onchain malware surge, CoinEx shuts: Asia Express (Cointelegraph.com News)
 - [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
 - [macro] Early Bowie music available to stream for first time (BBC News)
-- [macro] Why we bought our first home with a 100% mortgage - despite the risks (BBC News)
-- [macro] The virtual worlds where robots are trained (BBC News)
-- [macro] Healey to ask EU finance ministers to let UK into industry scheme (BBC News)
