@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T22:07:31.791182+00:00`
-- Market context score: `35.5`
-- News risk score: `51.22`
-- Macro risk score: `46.37`
-- Risk-on score: `17.43`
+- Generated: `2026-09-18T22:22:31.040666+00:00`
+- Market context score: `36.35`
+- News risk score: `49.7`
+- Macro risk score: `46.86`
+- Risk-on score: `18.23`
 - Articles: `46`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T22:00:00+00:00`
+- Day/swing latest: `2026-09-18T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `2`
-- macro: articles `21`, risk hits `11`, risk headline rate `0.381`, policy hits `2`
+- crypto: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
+- macro: articles `22`, risk hits `12`, risk headline rate `0.4091`, policy hits `2`
 - policy: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
+- [macro] US and Denmark reach deal over Greenland's security (BBC News)
 - [macro] Trump says he is banning CNN and Politico from White House (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Watch: Trump says ban on some news outlets is 'because they're fake news' (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Binance launches 24/7 FX perps with weekend pricing system (Cointelegraph.com News)
 - [macro] Is the Kennedy Center losing 'hundreds of millions of dollars'? (BBC News)
 - [macro] Russian hybrid attacks against Europe intensifying, says Macron (BBC News)
-- [macro] 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran (BBC News)
