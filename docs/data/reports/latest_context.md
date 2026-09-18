@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T03:37:35.094771+00:00`
-- Market context score: `33.57`
-- News risk score: `60.37`
-- Macro risk score: `40.84`
-- Risk-on score: `18.79`
-- Articles: `29`
-- Polymarket markets: `390`
+- Generated: `2026-09-18T03:52:33.875563+00:00`
+- Market context score: `34.95`
+- News risk score: `58.34`
+- Macro risk score: `40.75`
+- Risk-on score: `20.11`
+- Articles: `30`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T03:30:00+00:00`
+- Day/swing latest: `2026-09-18T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `13`, risk hits `11`, risk headline rate `0.6154`, policy hits `4`
+- crypto: articles `14`, risk hits `11`, risk headline rate `0.5714`, policy hits `4`
 - macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
+- [crypto] World launches self-custodial ‘super app’ World Money (Cointelegraph.com News)
 - [commodity] UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report (Energy)
 - [crypto] Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Japan raises interest rate to new 31-year high to curb rising prices (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [crypto] North Korea drives onchain malware surge, CoinEx shuts: Asia Express (Cointelegraph.com News)
 - [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
-- [macro] Early Bowie music available to stream for first time (BBC News)
