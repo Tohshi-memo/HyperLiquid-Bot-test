@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T06:52:25.694375+00:00`
-- Market context score: `35.8`
-- News risk score: `58.66`
-- Macro risk score: `34.88`
-- Risk-on score: `20.05`
-- Articles: `26`
+- Generated: `2026-09-18T07:07:27.800260+00:00`
+- Market context score: `37.15`
+- News risk score: `56.67`
+- Macro risk score: `34.78`
+- Risk-on score: `21.33`
+- Articles: `27`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T06:45:00+00:00`
+- Day/swing latest: `2026-09-18T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `14`, risk hits `11`, risk headline rate `0.6429`, policy hits `3`
+- crypto: articles `15`, risk hits `11`, risk headline rate `0.6`, policy hits `3`
 - macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
 
 ## Headlines
 
+- [macro] Healey to ask EU finance ministers to let UK into Made in Europe scheme (BBC News)
+- [crypto] Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Solana speeds up blocks by 17%, but transaction capacity stays the same (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Ether and XRP ETFs post outflows as bitcoin moves above $77,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack (Cointelegraph.com News)
 - [crypto] World launches self-custodial ‘super app’ World Money (Cointelegraph.com News)
-- [commodity] UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report (Energy)
-- [crypto] Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)

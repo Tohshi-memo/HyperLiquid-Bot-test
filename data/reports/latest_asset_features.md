@@ -2,19 +2,19 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-09-18T06:52:25.694375+00:00`
-- Observed: `2026-09-18T06:45:00+00:00`
+- Generated: `2026-09-18T07:07:27.800260+00:00`
+- Observed: `2026-09-18T07:00:00+00:00`
 - Assets: `1375`
 
 ## Top Activity
 
 - `@241` unknown price `0.001395` 4h `26.8182` vol `0.0` relationship `risk_on_high->@241_24h`
-- `#29101` unknown price `0.015865` 4h `-65.174` vol `0.0` relationship `news_risk_high->#29101_1h`
-- `#29041` unknown price `0.01065` 4h `-59.985` vol `0.0` relationship `news_risk_high->#29041_1h`
+- `#29101` unknown price `0.015865` 4h `-63.5078` vol `0.0` relationship `news_risk_high->#29101_1h`
+- `#29041` unknown price `0.01065` 4h `-59.2032` vol `0.0` relationship `news_risk_high->#29041_1h`
 - `#33301` unknown price `0.009305` 4h `0.0` vol `0.0` relationship `news_risk_high->#33301_1h`
-- `#29140` unknown price `0.204665` 4h `50.1743` vol `0.0` relationship `news_risk_high->#29140_4h`
-- `#33290` unknown price `0.110005` 4h `0.0` vol `0.0` relationship `news_risk_high->#33290_1h`
+- `#29140` unknown price `0.199225` 4h `43.5184` vol `0.0` relationship `news_risk_high->#29140_4h`
 - `#25531` unknown price `0.485005` 4h `0.0` vol `0.0` relationship `risk_on_high->#25531_24h`
+- `#33290` unknown price `0.110005` 4h `0.0` vol `0.0` relationship `news_risk_high->#33290_1h`
 - `#25541` unknown price `0.5` 4h `0.0` vol `0.0` relationship `risk_on_high->#25541_24h`
 - `#12110` unknown price `0.005005` 4h `7.5188` vol `0.0` relationship `risk_on_high->#12110_24h`
 - `#25521` unknown price `0.490005` 4h `0.0` vol `0.0` relationship `risk_on_high->#25521_24h`
@@ -27,4 +27,4 @@ Individual asset screen for drilling down from class-level signals.
 - `#25571` unknown price `0.5` 4h `0.0` vol `0.0` relationship `risk_on_high->#25571_24h`
 - `#25561` unknown price `0.5` 4h `0.0` vol `0.0` relationship `risk_on_high->#25561_24h`
 - `#24940` unknown price `0.420955` 4h `0.0` vol `0.0` relationship `risk_on_high->#24940_24h`
-- `#29061` unknown price `0.03443` 4h `-82.7115` vol `0.0` relationship `news_risk_high->#29061_1h`
+- `FIL` crypto_alt price `0.87183` 4h `1.9053` vol `1281183.1` relationship `risk_on_high->FIL_24h`
