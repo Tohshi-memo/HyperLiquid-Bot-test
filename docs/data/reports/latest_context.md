@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-17T23:52:32.093535+00:00`
-- Market context score: `35.29`
-- News risk score: `56.89`
-- Macro risk score: `40.75`
-- Risk-on score: `19.64`
-- Articles: `47`
+- Generated: `2026-09-18T00:07:33.348817+00:00`
+- Market context score: `35.45`
+- News risk score: `57.65`
+- Macro risk score: `40.8`
+- Risk-on score: `20.65`
+- Articles: `46`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-17T23:45:00+00:00`
+- Day/swing latest: `2026-09-18T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `24`, risk hits `15`, risk headline rate `0.5`, policy hits `4`
+- crypto: articles `23`, risk hits `14`, risk headline rate `0.5217`, policy hits `4`
 - macro: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `5`
 
 ## Headlines
 
+- [crypto] North Korea drives onchain malware surge, CoinEx shuts: Asia Express (Cointelegraph.com News)
 - [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [macro] Early Bowie music available to stream for first time (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (BBC News)
 - [crypto] The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
