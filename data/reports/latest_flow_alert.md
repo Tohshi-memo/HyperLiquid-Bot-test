@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-18T18:50:27.346109+00:00`
+- Generated: `2026-09-18T18:55:37.924640+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7879381.64`
-- Polymarket volume z-score: `-1.12`
+- Polymarket 24h volume: `7623487.91`
+- Polymarket volume z-score: `-1.15`
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `1177470.3690280004` | liquidity: `754693.5289`
-- Will François Ruffin win the 2027 French presidential election? | 24h volume: `569343.6823329999` | liquidity: `136629.92247`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `376519.006598` | liquidity: `471073.30764`
-- Will the U.S. invade Iran before 2027? | 24h volume: `333069.673622` | liquidity: `663601.4876`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `281677.194014` | liquidity: `383349.6688`
-- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `265751.682901` | liquidity: `553339.22978`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `265391.3697680001` | liquidity: `503937.52451`
-- Will Ethereum reach $4,000 in September? | 24h volume: `256669.860852` | liquidity: `156185.60523`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `1191493.5154510003` | liquidity: `748936.2633`
+- Will François Ruffin win the 2027 French presidential election? | 24h volume: `569344.3443329999` | liquidity: `133639.79173`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `353519.006598` | liquidity: `472291.04264`
+- Will the U.S. invade Iran before 2027? | 24h volume: `333269.673622` | liquidity: `663733.382`
+- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `265743.35623900004` | liquidity: `543429.22978`
+- Will Ethereum reach $4,000 in September? | 24h volume: `262642.373412` | liquidity: `156285.12227`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `258898.50684800008` | liquidity: `378987.316`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `242811.37548200003` | liquidity: `503455.1631`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
