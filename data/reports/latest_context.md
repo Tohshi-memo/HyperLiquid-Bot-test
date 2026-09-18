@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T01:37:28.779340+00:00`
-- Market context score: `39.84`
-- News risk score: `53.7`
-- Macro risk score: `40.94`
-- Risk-on score: `27.11`
+- Generated: `2026-09-18T01:52:31.770061+00:00`
+- Market context score: `36.22`
+- News risk score: `55.98`
+- Macro risk score: `42.51`
+- Risk-on score: `21.59`
 - Articles: `33`
 - Polymarket markets: `391`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T01:30:00+00:00`
+- Day/swing latest: `2026-09-18T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `15`, risk hits `9`, risk headline rate `0.4667`, policy hits `3`
-- macro: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `2`
+- crypto: articles `16`, risk hits `11`, risk headline rate `0.5`, policy hits `3`
+- macro: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes (Energy)
+- [crypto] US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments (Cointelegraph.com News)
 - [macro] Canadians dream of Europe as Carney floats longshot plan for living and working in EU (BBC News)
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [crypto] North Korea drives onchain malware surge, CoinEx shuts: Asia Express (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Why we bought our first home with a 100% mortgage - despite the risks (BBC News)
 - [macro] The virtual worlds where robots are trained (BBC News)
 - [macro] Healey to ask EU finance ministers to let UK into industry scheme (BBC News)
-- [crypto] Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (BBC News)
