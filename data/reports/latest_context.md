@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T09:52:26.603542+00:00`
+- Generated: `2026-09-18T10:07:32.700988+00:00`
 - Market context score: `44.95`
 - News risk score: `48.18`
 - Macro risk score: `34.54`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T09:45:00+00:00`
+- Day/swing latest: `2026-09-18T10:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [macro] Three dead and eight injured in Philippines school shooting (BBC News)
 - [crypto] Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Three dead, eight injured in Philippines school shooting (BBC News)
 - [crypto] Stablecoin payments firm dtcpay closes $25M round with SBI backing (Cointelegraph.com News)
 - [crypto] Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment (Cointelegraph.com News)
 - [crypto] Bitcoin cycle bottom may already be in at $58K, says analyst James Check (Cointelegraph.com News)
