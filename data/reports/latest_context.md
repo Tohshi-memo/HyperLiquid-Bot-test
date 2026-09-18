@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T07:22:36.778994+00:00`
-- Market context score: `35.27`
-- News risk score: `58.68`
-- Macro risk score: `38.65`
-- Risk-on score: `20.31`
-- Articles: `28`
+- Generated: `2026-09-18T07:38:40.590074+00:00`
+- Market context score: `37.81`
+- News risk score: `56.93`
+- Macro risk score: `41.16`
+- Risk-on score: `25.43`
+- Articles: `29`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T07:15:00+00:00`
+- Day/swing latest: `2026-09-18T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `15`, risk hits `11`, risk headline rate `0.6`, policy hits `3`
-- macro: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `2`
+- crypto: articles `15`, risk hits `9`, risk headline rate `0.5333`, policy hits `3`
+- macro: articles `11`, risk hits `5`, risk headline rate `0.3636`, policy hits `2`
 
 ## Headlines
 
+- [crypto] SBI Group backs payments firm dtcpay in $25 million funding round (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why Japanese stocks rose as government bond yields and the yen fell after rate hike (Economy)
 - [macro] Japan raises interest rate to new 31-year high to curb rising prices (BBC News)
 - [macro] Healey to ask EU finance ministers to let UK into Made in Europe scheme (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Zcash targets November for NU7 mainnet upgrade with 25-second blocks (Cointelegraph.com News)
-- [crypto] Ether and XRP ETFs post outflows as bitcoin moves above $77,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
