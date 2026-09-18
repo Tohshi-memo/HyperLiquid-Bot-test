@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T16:37:29.895713+00:00`
-- Market context score: `40.9`
-- News risk score: `52.51`
-- Macro risk score: `38.29`
-- Risk-on score: `27.47`
-- Articles: `70`
+- Generated: `2026-09-18T16:52:40.278761+00:00`
+- Market context score: `40.01`
+- News risk score: `52.24`
+- Macro risk score: `39.62`
+- Risk-on score: `25.76`
+- Articles: `69`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T16:30:00+00:00`
+- Day/swing latest: `2026-09-18T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `5`
-- macro: articles `37`, risk hits `12`, risk headline rate `0.2432`, policy hits `10`
+- crypto: articles `25`, risk hits `8`, risk headline rate `0.28`, policy hits `5`
+- macro: articles `38`, risk hits `12`, risk headline rate `0.2632`, policy hits `12`
 - policy: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
-- [macro] JPMorgan says one asset class could soon beat gold (Yahoo Finance)
-- [macro] Micron Just Built One Memory Stick That Replaces Four. Is MU Stock a Buy? (Yahoo Finance)
-- [macro] Global AI Infrastructure Spending Will Hit $31.6 Trillion by 2050. This Is the Stock That Could Benefit the Most (Yahoo Finance)
-- [macro] The Oil Fund Beating USO by Harvesting Roll Yield Faces Its Biggest Test Yet (Yahoo Finance)
-- [macro] Insider Buy: Planet Fitness Director Acquires Shares Valued at Nearly $120,000 (Yahoo Finance)
+- [macro] 1 Incredible Reason to Buy Costco Stock Before It Reports Earnings on Sept. 24. (Yahoo Finance)
+- [macro] Expect Today's Earnings Drivers to Sour, Goldman Strategists Warn (Yahoo Finance)
+- [macro] The CFTC Just Sent Its Crypto Rules to the White House. What’s in the Filing, and How Quickly Could It Move? (Yahoo Finance)
+- [macro] Boeing selloff overdone despite CEO's production comments, BofA says (Yahoo Finance)
+- [macro] The Bond Market Will Keep Driving Stocks—At Least Until Earnings Season (Yahoo Finance)
+- [macro] Jim Cramer Says to Wait For Corning (GLW) to Fall Further (Yahoo Finance)
+- [macro] Portfolio Fit: UCBG (Yahoo Finance)
 - [macro] Darden Restaurants, Costco In Earnings Spotlight, Along With This IT Distributor (Yahoo Finance)
 - [commodity] Oil prices little changed as market assesses disruption from Saudi pipeline closure (Energy)
 - [macro] Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage) (Yahoo Finance)
-- [crypto] CFTC submits crypto market regulation plan for White House review (Cointelegraph.com News)
-- [macro] Is Verizon Stock Cheap, Or Is Its Cash Already Spoken For? (Yahoo Finance)
