@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T14:27:32.005641+00:00`
-- Market context score: `49.97`
-- News risk score: `44.86`
-- Macro risk score: `32.58`
-- Risk-on score: `39.0`
-- Articles: `63`
+- Generated: `2026-09-18T14:37:31.720021+00:00`
+- Market context score: `47.59`
+- News risk score: `45.95`
+- Macro risk score: `35.17`
+- Risk-on score: `35.63`
+- Articles: `62`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T14:15:00+00:00`
+- Day/swing latest: `2026-09-18T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `7`
-- macro: articles `33`, risk hits `8`, risk headline rate `0.1818`, policy hits `7`
+- macro: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `9`
 - policy: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] Flight chaos caused by 'millisecond' software defect, report says (BBC News)
+- [macro] 2 Growth Stocks I Plan to Buy if the Stock Market Crashes (Yahoo Finance)
 - [macro] Xeinadin appoints John Dwyer as new chairman (Yahoo Finance)
+- [macro] One of These Dividend Aristocrats Pays More. The Other Compounds Faster. Which Is Roth Ready? (Yahoo Finance)
+- [macro] These Huge Mortgage REIT Yields Are Really a Bet on Interest Rates (Yahoo Finance)
 - [macro] S&P 500 wavers after best one-day rally in six weeks: AlphaCheck (Yahoo Finance)
+- [macro] Coca-Cola Stock Is Up 9,234% Since Warren Buffett’s Famous 1988 Bet. Here’s How Much He Would Have Made If He Bet On Pepsi Instead. (Yahoo Finance)
 - [macro] Betting Against Banks With FAZ? You’re Actually Shorting Insurers and Brokers (Yahoo Finance)
-- [macro] GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] Could Anthropic's IPO Top SpaceX's $75 Billion? (Yahoo Finance)
-- [macro] Juanita’s Foods to house production at new plant (Yahoo Finance)
 - [crypto] Banks double on EU MiCA crypto provider list as share hits 23% (Cointelegraph.com News)
 - [macro] What Makes Ryan Specialty Holdings (RYAN) an Attractive Opportunity? (Yahoo Finance)
-- [macro] Russian hybrid attacks against Europe intensifying, says Macron (BBC News)
