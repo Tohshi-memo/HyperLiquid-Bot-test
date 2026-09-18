@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T18:22:35.205565+00:00`
-- Market context score: `38.43`
-- News risk score: `48.43`
-- Macro risk score: `44.82`
-- Risk-on score: `21.01`
-- Articles: `47`
+- Generated: `2026-09-18T18:37:36.445139+00:00`
+- Market context score: `37.72`
+- News risk score: `49.26`
+- Macro risk score: `46.01`
+- Risk-on score: `20.57`
+- Articles: `48`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T18:15:00+00:00`
+- Day/swing latest: `2026-09-18T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `4`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.2778`, policy hits `6`
+- macro: articles `19`, risk hits `9`, risk headline rate `0.3158`, policy hits `6`
 - policy: articles `4`, risk hits `5`, risk headline rate `1.0`, policy hits `4`
 
 ## Headlines
 
 - [macro] Russian hybrid attacks against Europe intensifying, says Macron (BBC News)
+- [macro] 'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war (BBC News)
 - [crypto] Crypto stocks rebound after CLARITY Act selloff (Cointelegraph.com News)
 - [macro] At least 21 killed after vehicle loaded with explosives rams Pakistan mosque (BBC News)
 - [macro] Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' (BBC News)
@@ -38,4 +39,3 @@
 - [commodity] Oil prices little changed as market assesses disruption from Saudi pipeline closure (Energy)
 - [crypto] CFTC submits crypto market regulation plan for White House review (Cointelegraph.com News)
 - [macro] Flight chaos caused by 'millisecond' software defect, report says (BBC News)
-- [macro] Dozens of suspected illegal miners die in Nigerian custody (BBC News)
