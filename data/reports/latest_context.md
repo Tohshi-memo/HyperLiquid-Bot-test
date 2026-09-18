@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T01:22:28.003519+00:00`
-- Market context score: `35.11`
-- News risk score: `58.0`
-- Macro risk score: `41.44`
-- Risk-on score: `20.44`
-- Articles: `36`
+- Generated: `2026-09-18T01:37:28.779340+00:00`
+- Market context score: `39.84`
+- News risk score: `53.7`
+- Macro risk score: `40.94`
+- Risk-on score: `27.11`
+- Articles: `33`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T01:15:00+00:00`
+- Day/swing latest: `2026-09-18T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `18`, risk hits `12`, risk headline rate `0.5556`, policy hits `4`
+- crypto: articles `15`, risk hits `9`, risk headline rate `0.4667`, policy hits `3`
 - macro: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `2`
 
 ## Headlines
 
+- [macro] Canadians dream of Europe as Carney floats longshot plan for living and working in EU (BBC News)
 - [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [crypto] North Korea drives onchain malware surge, CoinEx shuts: Asia Express (Cointelegraph.com News)
 - [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Healey to ask EU finance ministers to let UK into industry scheme (BBC News)
 - [crypto] Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (BBC News)
-- [crypto] The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
