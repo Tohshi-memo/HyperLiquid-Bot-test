@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T20:18:14.165262+00:00`
+- Generated: `2026-09-18T20:22:28.256840+00:00`
 - Market context score: `37.19`
 - News risk score: `49.17`
 - Macro risk score: `47.11`
@@ -30,6 +30,7 @@
 ## Headlines
 
 - [macro] Donald Trump says he is banning CNN and Politico from White House (BBC News)
+- [macro] At least 21 killed after vehicle loaded with explosives rams Pakistan mosque (BBC News)
 - [crypto] Coinbase files to bring single-stock perpetual futures to US market (Cointelegraph.com News)
 - [commodity] Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared (Energy)
 - [crypto] Binance launches 24/7 FX perps with weekend pricing system (Cointelegraph.com News)
@@ -37,5 +38,4 @@
 - [macro] Russian hybrid attacks against Europe intensifying, says Macron (BBC News)
 - [macro] 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran (BBC News)
 - [crypto] Crypto stocks rebound after CLARITY Act selloff (Cointelegraph.com News)
-- [macro] At least 21 killed after vehicle loaded with explosives rams Pakistan mosque (BBC News)
 - [macro] Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' (BBC News)
