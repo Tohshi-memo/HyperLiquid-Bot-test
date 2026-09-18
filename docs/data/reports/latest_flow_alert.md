@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-18T12:45:35.131010+00:00`
+- Generated: `2026-09-18T12:50:28.272475+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `716688.7836220001` | liquidity: `721476.2007`
-- Will François Ruffin win the 2027 French presidential election? | 24h volume: `566378.4258329999` | liquidity: `137770.60328`
-- Will China invade Taiwan by end of 2026? | 24h volume: `537759.9002109999` | liquidity: `627789.59072`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `459536.849779` | liquidity: `862691.5659`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `333374.486404` | liquidity: `502247.76287`
-- Will the U.S. invade Iran before 2027? | 24h volume: `309311.990486` | liquidity: `779125.7918`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `306347.120886` | liquidity: `414057.8349`
-- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `257954.912021` | liquidity: `160263.1693`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `716688.7836220001` | liquidity: `720954.1774`
+- Will François Ruffin win the 2027 French presidential election? | 24h volume: `566378.4258329999` | liquidity: `137903.76531`
+- Will China invade Taiwan by end of 2026? | 24h volume: `537759.9002109999` | liquidity: `626086.55213`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `459536.849779` | liquidity: `816908.7735`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `333374.486404` | liquidity: `503710.00578`
+- Will the U.S. invade Iran before 2027? | 24h volume: `309311.990486` | liquidity: `779170.6398`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `306347.120886` | liquidity: `441474.1651`
+- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `257954.912021` | liquidity: `160026.9179`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
