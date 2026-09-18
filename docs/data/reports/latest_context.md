@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T00:52:27.502723+00:00`
-- Market context score: `34.26`
-- News risk score: `57.85`
-- Macro risk score: `39.76`
-- Risk-on score: `17.77`
-- Articles: `40`
+- Generated: `2026-09-18T01:07:29.942507+00:00`
+- Market context score: `34.84`
+- News risk score: `56.64`
+- Macro risk score: `41.37`
+- Risk-on score: `18.65`
+- Articles: `37`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T00:45:00+00:00`
+- Day/swing latest: `2026-09-18T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `21`, risk hits `14`, risk headline rate `0.5714`, policy hits `4`
-- macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `2`
+- crypto: articles `19`, risk hits `12`, risk headline rate `0.5263`, policy hits `4`
+- macro: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `2`
 
 ## Headlines
 
+- [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [crypto] North Korea drives onchain malware surge, CoinEx shuts: Asia Express (Cointelegraph.com News)
 - [macro] This Olympic river has 500 crocodiles in it - but that's not the main concern (BBC News)
-- [commodity] How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start (Energy)
 - [macro] Early Bowie music available to stream for first time (BBC News)
 - [macro] Why we bought our first home with a 100% mortgage - despite the risks (BBC News)
 - [macro] The virtual worlds where robots are trained (BBC News)
