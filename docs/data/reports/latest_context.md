@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-18T10:22:29.563363+00:00`
-- Market context score: `43.7`
-- News risk score: `50.02`
-- Macro risk score: `35.16`
-- Risk-on score: `30.42`
-- Articles: `34`
-- Polymarket markets: `391`
+- Generated: `2026-09-18T10:37:30.590605+00:00`
+- Market context score: `43.0`
+- News risk score: `50.45`
+- Macro risk score: `38.04`
+- Risk-on score: `30.31`
+- Articles: `36`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-18T10:15:00+00:00`
+- Day/swing latest: `2026-09-18T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `18`, risk hits `9`, risk headline rate `0.4444`, policy hits `4`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `4`
+- crypto: articles `19`, risk hits `9`, risk headline rate `0.4211`, policy hits `5`
+- macro: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] At least 16 killed in attack on mosque in Pakistan (BBC News)
 - [crypto] Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Three dead and eight injured in Philippines school shooting (BBC News)
 - [crypto] Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Bitcoin cycle bottom may already be in at $58K, says analyst James Check (Cointelegraph.com News)
 - [commodity] Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100 (Energy)
 - [macro] Why Japan’s markets flipped the usual script after central bank rate hike (Economy)
-- [crypto] SBI Group backs payments firm dtcpay in $25 million funding round (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Japan raises interest rate to new 31-year high to curb rising prices (BBC News)
