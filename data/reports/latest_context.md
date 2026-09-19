@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T19:07:29.457118+00:00`
-- Market context score: `52.68`
-- News risk score: `39.7`
-- Macro risk score: `26.06`
-- Risk-on score: `38.22`
-- Articles: `44`
+- Generated: `2026-09-19T19:22:36.114501+00:00`
+- Market context score: `53.34`
+- News risk score: `40.28`
+- Macro risk score: `25.14`
+- Risk-on score: `39.82`
+- Articles: `48`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T19:00:00+00:00`
+- Day/swing latest: `2026-09-19T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `33`, risk hits `8`, risk headline rate `0.2121`, policy hits `3`
+- macro: articles `37`, risk hits `8`, risk headline rate `0.1892`, policy hits `4`
 
 ## Headlines
 
-- [macro] Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act (Yahoo Finance)
-- [macro] Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle (Yahoo Finance)
-- [crypto] Kalshi joins Coinbase with filing for US stock perpetual futures (Cointelegraph.com News)
-- [macro] Is Annaly Capital's 13% Dividend Safe Through a Full Rate Cycle? (Yahoo Finance)
-- [macro] CrowdStrike CEO sends strong six-word message on AI cyber safety (Yahoo Finance)
-- [macro] Sempra (SRE) Just Locked In Two Decades of LNG Demand (Yahoo Finance)
-- [macro] They Signed the House Over to Their Daughter but Kept the Right to Sell It or Take It Back. That One Clause Kept the Nursing Home Bill Off the House and Handed Her a Clean Basis Too (Yahoo Finance)
-- [macro] AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak (Yahoo Finance)
-- [macro] $949 million fraud verdict costs CVS a business in Chapter 11 (Yahoo Finance)
-- [macro] Boeing Isn't Perfect -- but It's Still a Compelling Value Buy Right Now (Yahoo Finance)
+- [macro] Journalists denied White House access after Trump banned some media outlets (BBC News)
+- [macro] Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport (BBC News)
+- [commodity] Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies (Energy)
+- [macro] Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center (Yahoo Finance)
+- [macro] Bank of Nova Scotia Sees Commercial Growth as Digital, Fee Strategy Gains Traction (Yahoo Finance)
+- [macro] It’s almost impossible to sell a condo unit these days: ‘I feel trapped’ (Yahoo Finance)
+- [macro] Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark (Yahoo Finance)
+- [macro] Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide (Yahoo Finance)
+- [macro] Forget Buying All Seven: The "Magnificent Seven" Stock Most Likely to Double by 2028 (Yahoo Finance)
+- [macro] Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed (Yahoo Finance)
