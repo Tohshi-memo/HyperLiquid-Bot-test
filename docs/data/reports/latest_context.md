@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T10:37:29.734264+00:00`
+- Generated: `2026-09-19T10:52:27.881216+00:00`
 - Market context score: `29.9`
 - News risk score: `56.04`
 - Macro risk score: `41.74`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T10:30:00+00:00`
+- Day/swing latest: `2026-09-19T10:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 ## Headlines
 
 - [macro] Millions without power as Cuba hit by latest major blackout (BBC News)
-- [macro] Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend (Yahoo Finance)
+- [macro] Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD (Yahoo Finance)
 - [crypto] Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M (Cointelegraph.com News)
 - [macro] Deadly shark attack prompts rare kill order in Western Australia (BBC News)
 - [crypto] Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report (Cointelegraph.com News)
