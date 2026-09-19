@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T20:22:28.111077+00:00`
-- Market context score: `56.42`
+- Generated: `2026-09-19T20:37:30.420055+00:00`
+- Market context score: `55.65`
 - News risk score: `38.82`
 - Macro risk score: `21.73`
-- Risk-on score: `44.15`
+- Risk-on score: `42.44`
 - Articles: `49`
 - Polymarket markets: `389`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T20:15:00+00:00`
+- Day/swing latest: `2026-09-19T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis? (Yahoo Finance)
+- [macro] Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project (Yahoo Finance)
+- [macro] IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics (Yahoo Finance)
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
+- [macro] Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It (Yahoo Finance)
+- [macro] Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit (Yahoo Finance)
+- [macro] If You'd Invested $1,000 in VGT 10 Years Ago, Here's How Much You'd Have Today (Yahoo Finance)
+- [macro] Equinix Sees AI Driving Data Center Demand, Interconnection Growth (Yahoo Finance)
 - [macro] SpaceX Stock Has Gone Nowhere Since Its First Day of Trading (Yahoo Finance)
 - [macro] Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate (Yahoo Finance)
-- [macro] Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time (Yahoo Finance)
-- [macro] eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines (Yahoo Finance)
-- [macro] Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear (Yahoo Finance)
-- [macro] Jim Cramer on Seanergy Maritime (SHIP): “I’d Be a Buyer” (Yahoo Finance)
-- [macro] Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH) (Yahoo Finance)
-- [macro] Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High? (Yahoo Finance)
-- [macro] Jim Cramer Says “Buy Reddit” (RDDT) (Yahoo Finance)
