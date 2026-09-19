@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T14:07:28.375363+00:00`
-- Market context score: `47.75`
-- News risk score: `47.55`
-- Macro risk score: `29.92`
-- Risk-on score: `35.35`
+- Generated: `2026-09-19T14:22:25.954775+00:00`
+- Market context score: `47.02`
+- News risk score: `47.89`
+- Macro risk score: `30.48`
+- Risk-on score: `34.21`
 - Articles: `45`
 - Polymarket markets: `389`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T14:00:00+00:00`
+- Day/swing latest: `2026-09-19T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `5`, risk headline rate `0.4286`, policy hits `0`
-- macro: articles `37`, risk hits `12`, risk headline rate `0.2973`, policy hits `1`
+- macro: articles `37`, risk hits `12`, risk headline rate `0.2973`, policy hits `3`
 
 ## Headlines
 
+- [macro] Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors. (Yahoo Finance)
+- [macro] IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning (Yahoo Finance)
+- [macro] Keysight Technologies Sees AI Data-Center Boom, Targets 6G and Defense Growth (Yahoo Finance)
+- [macro] Texas Data Centers ‘Dug Their Own Grave,’ Gov Says. At 63, a Rancher Can Lease His Land and Give Social Security More Time to Grow. (Yahoo Finance)
 - [crypto] 'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Schwab Treasury ETF vs SPDR Corporate Bond ETF. Which Bond Fund Is the Better Insurance Policy for Your Portfolio? (Yahoo Finance)
+- [macro] Has AGNC's Monthly Dividend Made Up for What Its Share Price Did? (Yahoo Finance)
 - [commodity] Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies (Energy)
 - [macro] Google's Gemini AI hacked three companies in security test (BBC News)
 - [crypto] Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Is Arm Holdings Still a Hidden Winner of the AI Chip Race? (Yahoo Finance)
-- [macro] MarsCoin Trader Turns $2.4K Into $680K Without Selling a Single Token: Here’s How (Yahoo Finance)
-- [macro] I Wouldn't Touch This 6.3%-Yielding Dividend Stock Right Now, Even Though Everyone Else Is Buying It. (Yahoo Finance)
-- [macro] Jim Cramer has a strong message for AI investors (Yahoo Finance)
-- [macro] Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why (Yahoo Finance)
-- [macro] What History Says About Owning Berkshire Hathaway Through a Recession (Yahoo Finance)
