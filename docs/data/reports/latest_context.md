@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T11:07:30.046509+00:00`
-- Market context score: `29.59`
-- News risk score: `56.25`
-- Macro risk score: `42.25`
-- Risk-on score: `7.0`
-- Articles: `12`
+- Generated: `2026-09-19T11:22:30.454292+00:00`
+- Market context score: `17.43`
+- News risk score: `79.33`
+- Macro risk score: `43.67`
+- Risk-on score: `0`
+- Articles: `10`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T11:00:00+00:00`
+- Day/swing latest: `2026-09-19T11:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `10`, risk hits `5`, risk headline rate `0.4`, policy hits `4`
+- crypto: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- macro: articles `9`, risk hits `5`, risk headline rate `0.4444`, policy hits `4`
 
 ## Headlines
 
 - [macro] US and Denmark reach deal over Greenland after Trump annexation threats (BBC News)
 - [macro] Millions without power as Cuba hit by latest major blackout (BBC News)
-- [macro] Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend (Yahoo Finance)
 - [macro] Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD (Yahoo Finance)
-- [crypto] Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M (Cointelegraph.com News)
+- [macro] Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend (Yahoo Finance)
 - [macro] Deadly shark attack prompts rare kill order in Western Australia (BBC News)
 - [crypto] Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report (Cointelegraph.com News)
 - [macro] Trump says he is banning CNN and Politico from White House (BBC News)
 - [macro] Google's Gemini AI hacked three companies in security test (BBC News)
 - [macro] Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks (BBC News)
+- [macro] Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished (BBC News)
