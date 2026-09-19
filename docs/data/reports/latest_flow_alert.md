@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-19T01:50:31.133055+00:00`
+- Generated: `2026-09-19T01:56:05.714961+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11180434.64`
+- Polymarket 24h volume: `11162451.94`
 - Polymarket volume z-score: `-0.68`
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2325792.2201220016` | liquidity: `494097.4282`
-- Will François Ruffin win the 2027 French presidential election? | 24h volume: `570369.2708329998` | liquidity: `150520.5735`
-- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `552768.1413200003` | liquidity: `212742.22899`
-- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `401291.05999999994` | liquidity: `539148.51156`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `392646.0482399999` | liquidity: `466461.55219`
-- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `371448.699836` | liquidity: `412907.21955`
-- Will the U.S. invade Iran before 2027? | 24h volume: `344381.16999799997` | liquidity: `811941.3169`
-- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `338774.58460000006` | liquidity: `237874.85929`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2327258.5917240013` | liquidity: `501329.0049`
+- Will François Ruffin win the 2027 French presidential election? | 24h volume: `570275.3308329999` | liquidity: `150649.63126`
+- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `552768.1413200002` | liquidity: `213772.73325`
+- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `401291.0599999999` | liquidity: `531681.42505`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `392645.04224000004` | liquidity: `466431.92157`
+- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `378964.29983599996` | liquidity: `413991.06821`
+- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `338774.58459999994` | liquidity: `244310.6775`
+- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `330118.397213` | liquidity: `338532.83755`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
