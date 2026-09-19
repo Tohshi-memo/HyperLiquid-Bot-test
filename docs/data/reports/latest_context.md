@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T10:22:31.106319+00:00`
-- Market context score: `28.73`
-- News risk score: `57.29`
-- Macro risk score: `44.14`
-- Risk-on score: `6.67`
-- Articles: `14`
+- Generated: `2026-09-19T10:37:29.734264+00:00`
+- Market context score: `29.9`
+- News risk score: `56.04`
+- Macro risk score: `41.74`
+- Risk-on score: `7.31`
+- Articles: `15`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T10:15:00+00:00`
+- Day/swing latest: `2026-09-19T10:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `5`
+- macro: articles `13`, risk hits `6`, risk headline rate `0.3846`, policy hits `5`
 
 ## Headlines
 
+- [macro] Millions without power as Cuba hit by latest major blackout (BBC News)
 - [macro] Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend (Yahoo Finance)
 - [crypto] Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Google's Gemini AI hacked three companies in security test (BBC News)
 - [macro] Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks (BBC News)
 - [macro] Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished (BBC News)
-- [macro] I found love at an Irish matchmaking festival - and I want others to do the same (BBC News)
