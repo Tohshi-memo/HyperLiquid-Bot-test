@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T21:52:29.388248+00:00`
-- Market context score: `54.14`
+- Generated: `2026-09-19T22:07:32.505317+00:00`
+- Market context score: `53.84`
 - News risk score: `40.45`
 - Macro risk score: `24.5`
-- Risk-on score: `41.5`
+- Risk-on score: `40.83`
 - Articles: `50`
 - Polymarket markets: `389`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T21:45:00+00:00`
+- Day/swing latest: `2026-09-19T22:00:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation (Yahoo Finance)
 - [macro] Employer Health Costs Are Projected to Jump 8.2%. At 65, Moving to Medicare Means Her HSA Contributions Have to Stop (Yahoo Finance)
 - [macro] Cathie Wood Never Sold Ark's Core Stake in Tesla Despite the Stock Trailing Every Other Magnificent Seven Name in 2026. Here's Why Her Multi-Year Conviction Hasn't Wavered. (Yahoo Finance)
 - [macro] Cathie Wood sends bullish Bitcoin response to 'dead cat' warning (Yahoo Finance)
 - [macro] Fossil fuel emissions set to fall in after oil shock (Yahoo Finance)
-- [macro] BNY Sees Cross-Selling and AI Investments Fueling Its Next Growth Phase (Yahoo Finance)
 - [macro] Trump says US will form 'AI Force' and appoint an artificial intelligence tsar (BBC News)
 - [macro] Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project (Yahoo Finance)
 - [macro] IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics (Yahoo Finance)
