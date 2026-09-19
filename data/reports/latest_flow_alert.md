@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-19T12:25:30.201994+00:00`
+- Generated: `2026-09-19T12:30:33.970087+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10897845.99`
-- Polymarket volume z-score: `-0.62`
+- Polymarket 24h volume: `10829186.07`
+- Polymarket volume z-score: `-0.63`
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2563832.391933` | liquidity: `578831.5729`
-- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `558772.7325820001` | liquidity: `281525.03202`
-- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `496213.1216690001` | liquidity: `573500.57346`
-- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `457785.6629999999` | liquidity: `507925.75223`
-- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `438845.23849799926` | liquidity: `367850.50878`
-- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `380860.0282169999` | liquidity: `317667.12496`
-- Iran leadership change by September 30? | 24h volume: `355123.964129` | liquidity: `276189.10034`
-- Will Ethereum reach $4,000 in September? | 24h volume: `307968.20632899995` | liquidity: `139478.49812`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2559262.020136` | liquidity: `578232.5757`
+- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `560318.5663770002` | liquidity: `281802.03228`
+- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `497708.25966899993` | liquidity: `578132.3622`
+- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `459280.801` | liquidity: `508915.80082`
+- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `442358.1231849992` | liquidity: `359235.47319`
+- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `382587.18097499997` | liquidity: `306623.28198`
+- Iran leadership change by September 30? | 24h volume: `355123.964129` | liquidity: `275296.30247`
+- Will Ethereum reach $4,000 in September? | 24h volume: `307968.20632899995` | liquidity: `139444.63792`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
