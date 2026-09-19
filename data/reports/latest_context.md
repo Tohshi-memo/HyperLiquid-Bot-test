@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T23:37:26.715460+00:00`
-- Market context score: `54.22`
-- News risk score: `41.46`
-- Macro risk score: `25.05`
-- Risk-on score: `42.73`
-- Articles: `53`
+- Generated: `2026-09-19T23:52:27.050573+00:00`
+- Market context score: `57.17`
+- News risk score: `37.64`
+- Macro risk score: `25.39`
+- Risk-on score: `46.19`
+- Articles: `51`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T23:30:00+00:00`
+- Day/swing latest: `2026-09-19T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `42`, risk hits `9`, risk headline rate `0.1905`, policy hits `3`
+- crypto: articles `9`, risk hits `4`, risk headline rate `0.2222`, policy hits `1`
+- macro: articles `41`, risk hits `9`, risk headline rate `0.1951`, policy hits `3`
 
 ## Headlines
 
+- [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
 - [macro] Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math. (Yahoo Finance)
+- [macro] A Zcash ETF Launched in August Now Accounts for a Third of All Crypto ETF Trading (Yahoo Finance)
+- [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
 - [macro] Mum's viral barefoot race sparks debate over India's education crisis (BBC News)
 - [macro] A 63-Year-Old Inherited $118,000 of Savings Bonds From Her Father and Owes Tax on 30 Years of Interest He Never Reported (Yahoo Finance)
 - [macro] Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record (Yahoo Finance)
 - [macro] Why a Doctor Who Owns Her Practice Can Get Under 30% While Her Salaried Colleague Pays 37% Plus Payroll Tax (Yahoo Finance)
-- [macro] 80-year-old discount fashion chain closing 120 stores (Yahoo Finance)
 - [macro] Not all AI workers think the tech could kill everyone (BBC News)
 - [macro] 'I don't even know if my parents are alive' - the war heroes jailed 25 years ago (BBC News)
-- [macro] Our head teacher was an abuser. We joined forces to get justice - now we're married (BBC News)
-- [macro] Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' (BBC News)
