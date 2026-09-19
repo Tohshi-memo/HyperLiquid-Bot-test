@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T21:08:11.489702+00:00`
+- Generated: `2026-09-19T21:22:27.415837+00:00`
 - Market context score: `54.66`
 - News risk score: `39.9`
 - Macro risk score: `23.78`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T21:00:00+00:00`
+- Day/swing latest: `2026-09-19T21:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] BNY Sees Cross-Selling and AI Investments Fueling Its Next Growth Phase (Yahoo Finance)
 - [macro] How to Earn $600 a Month From the Pipeline Stocks Powering AI Data Centers (Yahoo Finance)
 - [macro] Should Investors Be Worried About an AI Bubble? Here's What History Says. (Yahoo Finance)
 - [macro] The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for Long-Term Investors. (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
 - [macro] Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It (Yahoo Finance)
 - [macro] Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit (Yahoo Finance)
-- [macro] If You'd Invested $1,000 in VGT 10 Years Ago, Here's How Much You'd Have Today (Yahoo Finance)
