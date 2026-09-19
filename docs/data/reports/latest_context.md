@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T11:37:25.639490+00:00`
+- Generated: `2026-09-19T11:52:28.667550+00:00`
 - Market context score: `17.43`
 - News risk score: `79.33`
 - Macro risk score: `43.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T11:30:00+00:00`
+- Day/swing latest: `2026-09-19T11:45:00+00:00`
 
 ## News Categories
 
@@ -27,11 +27,11 @@
 
 ## Headlines
 
+- [macro] Shark attack prompts rare kill order in Western Australia as victim named (BBC News)
 - [macro] US and Denmark reach deal over Greenland after Trump annexation threats (BBC News)
 - [macro] Millions without power as Cuba hit by latest major blackout (BBC News)
 - [macro] Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD (Yahoo Finance)
 - [macro] Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend (Yahoo Finance)
-- [macro] Deadly shark attack prompts rare kill order in Western Australia (BBC News)
 - [crypto] Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report (Cointelegraph.com News)
 - [macro] Trump says he is banning CNN and Politico from White House (BBC News)
 - [macro] Google's Gemini AI hacked three companies in security test (BBC News)
