@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-19T18:10:31.984274+00:00`
+- Generated: `2026-09-19T18:15:27.047113+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,7 +13,7 @@
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2193753.971162001` | liquidity: `413185.3565`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2193753.971162001` | liquidity: `413182.8565`
 - Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `588022.602836` | liquidity: `441523.51973`
 - Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `565461.4903490003` | liquidity: `154450.23174`
 - Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `502179.3984999999` | liquidity: `507605.3919`
