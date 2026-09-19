@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T23:29:47.392018+00:00`
-- Market context score: `54.89`
-- News risk score: `40.65`
-- Macro risk score: `23.92`
-- Risk-on score: `43.12`
-- Articles: `52`
+- Generated: `2026-09-19T23:37:26.715460+00:00`
+- Market context score: `54.22`
+- News risk score: `41.46`
+- Macro risk score: `25.05`
+- Risk-on score: `42.73`
+- Articles: `53`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T23:15:00+00:00`
+- Day/swing latest: `2026-09-19T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `41`, risk hits `8`, risk headline rate `0.1707`, policy hits `3`
+- macro: articles `42`, risk hits `9`, risk headline rate `0.1905`, policy hits `3`
 
 ## Headlines
 
+- [macro] Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math. (Yahoo Finance)
+- [macro] Mum's viral barefoot race sparks debate over India's education crisis (BBC News)
 - [macro] A 63-Year-Old Inherited $118,000 of Savings Bonds From Her Father and Owes Tax on 30 Years of Interest He Never Reported (Yahoo Finance)
 - [macro] Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record (Yahoo Finance)
 - [macro] Why a Doctor Who Owns Her Practice Can Get Under 30% While Her Salaried Colleague Pays 37% Plus Payroll Tax (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] 'I don't even know if my parents are alive' - the war heroes jailed 25 years ago (BBC News)
 - [macro] Our head teacher was an abuser. We joined forces to get justice - now we're married (BBC News)
 - [macro] Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' (BBC News)
-- [macro] IRS has hidden fix for retirees who missed Sept. 15 deadline (Yahoo Finance)
-- [macro] Trump says US will form 'AI Force' and appoint an artificial intelligence tsar (BBC News)
