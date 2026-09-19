@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T04:22:26.008319+00:00`
-- Market context score: `44.69`
-- News risk score: `32.86`
-- Macro risk score: `41.51`
-- Risk-on score: `20.53`
-- Articles: `23`
+- Generated: `2026-09-19T04:37:28.784561+00:00`
+- Market context score: `43.91`
+- News risk score: `33.62`
+- Macro risk score: `43.04`
+- Risk-on score: `20.0`
+- Articles: `24`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T04:15:00+00:00`
+- Day/swing latest: `2026-09-19T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `18`, risk hits `10`, risk headline rate `0.4444`, policy hits `1`
+- macro: articles `19`, risk hits `11`, risk headline rate `0.4737`, policy hits `1`
 
 ## Headlines
 
+- [macro] Google's Gemini AI hacked three companies in security test (BBC News)
+- [macro] Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks (BBC News)
 - [macro] Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished (BBC News)
 - [macro] Trump says he is banning CNN and Politico from White House (BBC News)
 - [macro] I found love at an Irish matchmaking festival - and I want others to do the same (BBC News)
@@ -36,5 +38,3 @@
 - [macro] A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents (BBC News)
 - [macro] US and Denmark reach deal over Greenland after Trump annexation threats (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Watch: Trump says ban on some news outlets is 'because they're fake news' (BBC News)
-- [macro] At least 21 killed after vehicle loaded with explosives rams Pakistan mosque (BBC News)
