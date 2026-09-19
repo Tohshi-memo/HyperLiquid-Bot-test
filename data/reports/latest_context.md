@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T10:07:27.753871+00:00`
-- Market context score: `17.32`
-- News risk score: `79.36`
-- Macro risk score: `44.27`
-- Risk-on score: `0`
-- Articles: `11`
+- Generated: `2026-09-19T10:22:31.106319+00:00`
+- Market context score: `28.73`
+- News risk score: `57.29`
+- Macro risk score: `44.14`
+- Risk-on score: `6.67`
+- Articles: `14`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T10:00:00+00:00`
+- Day/swing latest: `2026-09-19T10:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- macro: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
+- macro: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `5`
 
 ## Headlines
 
+- [macro] Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend (Yahoo Finance)
+- [crypto] Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M (Cointelegraph.com News)
 - [macro] Deadly shark attack prompts rare kill order in Western Australia (BBC News)
 - [crypto] Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report (Cointelegraph.com News)
 - [macro] Trump says he is banning CNN and Politico from White House (BBC News)
@@ -34,6 +37,3 @@
 - [macro] Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks (BBC News)
 - [macro] Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished (BBC News)
 - [macro] I found love at an Irish matchmaking festival - and I want others to do the same (BBC News)
-- [macro] Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt (BBC News)
-- [macro] Grim discoveries of murdered women spark fear in South Africa (BBC News)
-- [macro] A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents (BBC News)
