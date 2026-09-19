@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T05:22:30.420459+00:00`
+- Generated: `2026-09-19T05:37:31.035620+00:00`
 - Market context score: `42.78`
 - News risk score: `34.79`
 - Macro risk score: `45.32`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T05:15:00+00:00`
+- Day/swing latest: `2026-09-19T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Trump says he is banning CNN and Politico from White House (BBC News)
 - [macro] Google's Gemini AI hacked three companies in security test (BBC News)
 - [macro] Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks (BBC News)
 - [macro] Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished (BBC News)
-- [macro] Trump says he is banning CNN and Politico from White House (BBC News)
 - [macro] I found love at an Irish matchmaking festival - and I want others to do the same (BBC News)
 - [macro] Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt (BBC News)
 - [macro] Grim discoveries of murdered women spark fear in South Africa (BBC News)
