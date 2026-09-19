@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-19T23:20:29.584487+00:00`
+- Generated: `2026-09-19T23:25:35.611745+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9425791.55`
-- Polymarket volume z-score: `-0.76`
+- Polymarket 24h volume: `9145652.06`
+- Polymarket volume z-score: `-0.79`
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2451771.984466` | liquidity: `538701.3728`
-- Will Greg Abbott win the 2028 Republican presidential nomination? | 24h volume: `611511.925` | liquidity: `1079586.80237`
-- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `600166.9410000001` | liquidity: `323885.6649`
-- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `599079.039475` | liquidity: `301094.13632`
-- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `596458.556644` | liquidity: `206352.26413`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `578826.878501` | liquidity: `355945.89464`
-- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `406855.43638400006` | liquidity: `275208.26166`
-- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `348469.42299999995` | liquidity: `454262.05453`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2444070.583497999` | liquidity: `537191.7362`
+- Will Greg Abbott win the 2028 Republican presidential nomination? | 24h volume: `611511.925` | liquidity: `1108372.12237`
+- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `599067.5794749999` | liquidity: `328518.05197`
+- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `596358.5566439999` | liquidity: `233322.49337`
+- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `593532.0810000001` | liquidity: `351247.5689`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `578652.958501` | liquidity: `353857.74156`
+- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `407133.38638399995` | liquidity: `301548.09706`
+- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `342782.733` | liquidity: `464904.67775`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
