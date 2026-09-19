@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-19T13:37:33.740084+00:00`
-- Market context score: `48.75`
-- News risk score: `44.58`
-- Macro risk score: `28.87`
-- Risk-on score: `34.66`
-- Articles: `36`
+- Generated: `2026-09-19T13:52:25.933297+00:00`
+- Market context score: `50.09`
+- News risk score: `43.49`
+- Macro risk score: `32.71`
+- Risk-on score: `38.16`
+- Articles: `37`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-19T13:30:00+00:00`
+- Day/swing latest: `2026-09-19T13:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `2`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `30`, risk hits `11`, risk headline rate `0.3333`, policy hits `5`
 
 ## Headlines
 
-- [macro] Renting in The Villages Costs Less Than Owning and the Owners Are Starting to Notice (Yahoo Finance)
-- [macro] Is Markel the New Berkshire Hathaway Blueprint for Value Investors Post-Buffett? (Yahoo Finance)
-- [macro] History Says This Investment Strategy Can Build a $1 Million Portfolio. Here's How. (Yahoo Finance)
-- [macro] Motorola Solutions Eyes Defense, Drone Security Growth as Silvus Scales (Yahoo Finance)
-- [macro] What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years? (Yahoo Finance)
-- [macro] Every New Reactor Needs Fuel: 3 Uranium Stocks Positioned for the Nuclear Buildout (Yahoo Finance)
-- [macro] Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness' (Economy)
-- [macro] Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell (Yahoo Finance)
-- [macro] Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch? (Yahoo Finance)
-- [macro] Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module (Yahoo Finance)
+- [commodity] Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies (Energy)
+- [macro] Google's Gemini AI hacked three companies in security test (BBC News)
+- [crypto] Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Is Arm Holdings Still a Hidden Winner of the AI Chip Race? (Yahoo Finance)
+- [macro] I Wouldn't Touch This 6.3%-Yielding Dividend Stock Right Now, Even Though Everyone Else Is Buying It. (Yahoo Finance)
+- [macro] Jim Cramer has a strong message for AI investors (Yahoo Finance)
+- [macro] Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why (Yahoo Finance)
+- [macro] What History Says About Owning Berkshire Hathaway Through a Recession (Yahoo Finance)
+- [macro] High-Yield Dividend Stocks Throw Off Serious Income. Where You Hold Them Matters (Yahoo Finance)
+- [macro] Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks (Yahoo Finance)
