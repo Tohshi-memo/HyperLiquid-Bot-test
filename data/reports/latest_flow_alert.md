@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-18T23:55:28.187006+00:00`
+- Generated: `2026-09-19T00:00:37.529640+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `1552358.7188949995` | liquidity: `1007481.9132`
-- Will François Ruffin win the 2027 French presidential election? | 24h volume: `570333.1573329999` | liquidity: `148634.94629`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `390951.8082399999` | liquidity: `469164.23515`
-- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `366617.6257560002` | liquidity: `396568.65626`
-- Will the U.S. invade Iran before 2027? | 24h volume: `339204.9659859999` | liquidity: `809351.7305`
-- Will Ethereum reach $4,000 in September? | 24h volume: `329948.889361` | liquidity: `97511.56666`
-- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `325032.30839` | liquidity: `303925.48764`
-- Iran leadership change by September 30? | 24h volume: `302576.95770299993` | liquidity: `129071.50929`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `1552358.7188949995` | liquidity: `1006674.943`
+- Will François Ruffin win the 2027 French presidential election? | 24h volume: `570333.1573329999` | liquidity: `146199.14629`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `390951.8082399999` | liquidity: `469158.82078`
+- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `366617.6257560002` | liquidity: `368616.92128`
+- Will the U.S. invade Iran before 2027? | 24h volume: `339204.9659859999` | liquidity: `806236.6788`
+- Will Ethereum reach $4,000 in September? | 24h volume: `329948.889361` | liquidity: `97513.62385`
+- Will WTI Crude Oil (WTI) hit (LOW) $95 in September? | 24h volume: `325032.30839` | liquidity: `338890.49428`
+- Iran leadership change by September 30? | 24h volume: `302576.95770299993` | liquidity: `128125.55055`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
