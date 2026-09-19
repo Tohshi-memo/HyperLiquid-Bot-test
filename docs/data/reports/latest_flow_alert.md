@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-19T20:10:27.989772+00:00`
+- Generated: `2026-09-19T20:15:29.406007+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8132816.1`
-- Polymarket volume z-score: `-0.91`
+- Polymarket 24h volume: `8219328.57`
+- Polymarket volume z-score: `-0.9`
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2361046.119864999` | liquidity: `376017.0501`
-- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `599816.785142` | liquidity: `262665.97682`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `567992.7639190002` | liquidity: `248082.71405`
-- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `475288.549` | liquidity: `504212.29552`
-- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `435036.3889329998` | liquidity: `148707.85681`
-- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `396069.21128199995` | liquidity: `226824.53064`
-- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `395631.013` | liquidity: `444757.95512`
-- Iran leadership change by September 30? | 24h volume: `348718.152238` | liquidity: `120890.73719`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `2367209.056530001` | liquidity: `455466.724`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `664314.6736529999` | liquidity: `274070.84676`
+- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `591100.249017` | liquidity: `286830.20152`
+- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `473383.9089999999` | liquidity: `534245.21219`
+- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `433938.6272599998` | liquidity: `203653.927`
+- Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election? | 24h volume: `393839.5129999999` | liquidity: `450298.63912`
+- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `386775.22728199983` | liquidity: `259431.53913`
+- Iran leadership change by September 30? | 24h volume: `348718.15223800007` | liquidity: `126670.27687`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
