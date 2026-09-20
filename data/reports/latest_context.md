@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T21:29:40.610938+00:00`
-- Market context score: `60.93`
+- Generated: `2026-09-20T21:37:25.684960+00:00`
+- Market context score: `60.61`
 - News risk score: `36.5`
 - Macro risk score: `24.89`
-- Risk-on score: `53.4`
+- Risk-on score: `52.68`
 - Articles: `43`
 - Polymarket markets: `388`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T21:15:00+00:00`
+- Day/swing latest: `2026-09-20T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week (Yahoo Finance)
+- [macro] Should You Buy SpaceX Stock Before Its Next Earnings Report? (Yahoo Finance)
 - [macro] Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece (BBC News)
+- [macro] Jersey Mike’s (JMKE) Owns the Sub Business. Winning Over Younger Diners is the Next Fight (Yahoo Finance)
+- [macro] Bally’s (BALY)’s Casino Building Spree Triggers a ‘Going Concern’ Warning (Yahoo Finance)
+- [macro] MDA Space (MDA) Bets on Homegrown Innovation with New LaunchPad Ventures Program (Yahoo Finance)
 - [macro] Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue? (Yahoo Finance)
 - [macro] What Lies Ahead for Marcus & Millichap (MMI) Following These Multifamily Asset Sales (Yahoo Finance)
-- [macro] Interactive Brokers Stock Turned $10,000 Into About $110,000 in a Decade. The Customer Base Grew Even Faster. (Yahoo Finance)
 - [macro] Medical Properties Trust (MPT) Receives $371M. Will Debt Reduction Outweigh Lost Rent? (Yahoo Finance)
 - [macro] Willis Lease Finance (WLFC) Bets on Malaysia for Next Phase of Global Expansion (Yahoo Finance)
-- [macro] 2 Superior AI Infrastructure Stocks to Buy and Hold for 10 Years (Yahoo Finance)
-- [macro] Semtech’s (SMTC) LoRa Plus Expansion Is Bigger Than Two New Chips (Yahoo Finance)
-- [macro] Chord Energy (CHRD) Signs $550 Million Marcellus Sale. Is Greater Focus Worth it? (Yahoo Finance)
-- [macro] LuxExperience (LUXE) Reports NET-A-PORTER and MR PORTER Growth. Are Customers Returning? (Yahoo Finance)
