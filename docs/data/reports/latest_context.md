@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T18:55:08.043317+00:00`
-- Market context score: `57.28`
-- News risk score: `37.05`
-- Macro risk score: `20.11`
-- Risk-on score: `43.96`
-- Articles: `40`
+- Generated: `2026-09-20T19:07:32.213054+00:00`
+- Market context score: `57.03`
+- News risk score: `38.61`
+- Macro risk score: `21.73`
+- Risk-on score: `45.33`
+- Articles: `43`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T18:45:00+00:00`
+- Day/swing latest: `2026-09-20T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `0`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [macro] I Own Constellation for the Nuclear Fleet, Not the AI Headlines. Here's Why That Matters Now. (Yahoo Finance)
+- [macro] SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns? (Yahoo Finance)
+- [macro] LifeMD (LFMD) Secures AT&T Partnership. Can Free Memberships Produce Paying Patients? (Yahoo Finance)
 - [macro] The World's Top Energy Watchdog Made the Bull Case for AI Power Stocks. Here's the Number That Matters. (Yahoo Finance)
-- [macro] After nearly 50 years, convenience store chain sells every location (Yahoo Finance)
 - [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
 - [macro] Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure? (Yahoo Finance)
 - [macro] Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up? (Yahoo Finance)
 - [macro] RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix? (Yahoo Finance)
 - [macro] Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove? (Yahoo Finance)
 - [macro] Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas (Yahoo Finance)
-- [macro] Chevron CEO sends a strong message on oil price and the economy (Yahoo Finance)
-- [macro] Bloom Energy (BE) Unveils a New Power Play for the AI Boom (Yahoo Finance)
