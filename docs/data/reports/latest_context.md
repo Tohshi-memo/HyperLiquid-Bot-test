@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T23:37:26.118195+00:00`
-- Market context score: `60.09`
-- News risk score: `35.18`
-- Macro risk score: `23.35`
-- Risk-on score: `49.83`
-- Articles: `41`
+- Generated: `2026-09-20T23:52:25.979129+00:00`
+- Market context score: `61.85`
+- News risk score: `32.36`
+- Macro risk score: `21.73`
+- Risk-on score: `50.76`
+- Articles: `42`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T23:30:00+00:00`
+- Day/swing latest: `2026-09-20T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `36`, risk hits `7`, risk headline rate `0.1944`, policy hits `0`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `36`, risk hits `6`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest (Cointelegraph.com News)
+- [macro] Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves (Yahoo Finance)
+- [macro] Still Working at 73? The IRS Lets You Skip RMDs on Your Current Employer’s 401(k) but Not on the IRA You Rolled Your Last One Into (Yahoo Finance)
+- [macro] Casey’s (CASY) Beats on Profit, but a Soft Sales Number Sends the Stock Tumbling (Yahoo Finance)
+- [macro] Prediction: Nvidia's Revenue Growth Will Drive Shares to $400 Next Year (Yahoo Finance)
+- [macro] Signet Jewelers (SIG) Swings to a Profit and Signs a Credit Deal Worth $1 Billion (Yahoo Finance)
+- [macro] Jersey Mike’s (JMKE) Posts its First Public Earnings, and the Numbers Back Up the Growth Story (Yahoo Finance)
+- [macro] The Semaglutide Cliff vs. a 10x Multiple: Is Novo Nordisk (NVO) a Value Trap or a Bargain? (Yahoo Finance)
+- [macro] Chewy (CHWY) Beats on Profit Even as Pet Spending Stays Soft (Yahoo Finance)
 - [macro] Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas (Yahoo Finance)
-- [macro] Cramer sends unmistakable verdict on BlackBerry before earnings (Yahoo Finance)
-- [macro] Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant (Yahoo Finance)
-- [macro] Palantir Nearly Doubled Its Revenue. Its Stock Stood Still. Is It Time to Buy the Stock? (Yahoo Finance)
-- [macro] Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout (Yahoo Finance)
-- [macro] Will you get £13,000 a year when you stop working? Here's how to check (BBC News)
-- [macro] Paramount (PSKY) Turns California’s Own Words Against it in Warner Bros. (WBD) Bond Fight (Yahoo Finance)
-- [macro] Stellantis (STLA) Recalls 200,000 More Jeeps, its Latest Entry in a Record Recall Year (Yahoo Finance)
-- [macro] Starbucks (SBUX)’s New Chai Recipe has its Most Loyal Customers Revolting (Yahoo Finance)
-- [macro] Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line (Yahoo Finance)
