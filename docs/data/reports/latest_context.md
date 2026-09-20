@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T00:08:02.100042+00:00`
-- Market context score: `53.67`
-- News risk score: `40.05`
-- Macro risk score: `25.47`
-- Risk-on score: `40.48`
-- Articles: `49`
+- Generated: `2026-09-20T00:22:25.837918+00:00`
+- Market context score: `34.25`
+- News risk score: `48.43`
+- Macro risk score: `42.32`
+- Risk-on score: `10.77`
+- Articles: `19`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T00:00:00+00:00`
+- Day/swing latest: `2026-09-20T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `7`, risk hits `4`, risk headline rate `0.2857`, policy hits `1`
-- macro: articles `41`, risk hits `9`, risk headline rate `0.1951`, policy hits `3`
+- crypto: articles `6`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `12`, risk hits `7`, risk headline rate `0.5`, policy hits `1`
 
 ## Headlines
 
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
-- [macro] I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today. (Yahoo Finance)
-- [macro] Bitcoin ETFs Now Own 6.29% of Every Bitcoin. What Happens When They Hit 10%? (Yahoo Finance)
-- [macro] Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math. (Yahoo Finance)
-- [macro] A Zcash ETF Launched in August Now Accounts for a Third of All Crypto ETF Trading (Yahoo Finance)
 - [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
 - [macro] Mum's viral barefoot race sparks debate over India's education crisis (BBC News)
-- [macro] A 63-Year-Old Inherited $118,000 of Savings Bonds From Her Father and Owes Tax on 30 Years of Interest He Never Reported (Yahoo Finance)
 - [macro] Not all AI workers think the tech could kill everyone (BBC News)
 - [macro] 'I don't even know if my parents are alive' - the war heroes jailed 25 years ago (BBC News)
+- [macro] Our head teacher was an abuser. We joined forces to get justice - now we're married (BBC News)
+- [macro] Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' (BBC News)
+- [macro] Trump says US will form 'AI Force' and appoint an artificial intelligence tsar (BBC News)
+- [crypto] REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive (Cointelegraph.com News)
+- [macro] Journalists denied White House access after Trump banned some media outlets (BBC News)
