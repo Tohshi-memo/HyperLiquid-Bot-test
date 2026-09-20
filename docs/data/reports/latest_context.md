@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T00:22:25.837918+00:00`
-- Market context score: `34.25`
-- News risk score: `48.43`
-- Macro risk score: `42.32`
-- Risk-on score: `10.77`
-- Articles: `19`
+- Generated: `2026-09-20T00:37:26.616423+00:00`
+- Market context score: `35.31`
+- News risk score: `47.36`
+- Macro risk score: `40.21`
+- Risk-on score: `11.43`
+- Articles: `20`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T00:15:00+00:00`
+- Day/swing latest: `2026-09-20T00:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `12`, risk hits `7`, risk headline rate `0.5`, policy hits `1`
+- macro: articles `13`, risk hits `7`, risk headline rate `0.4615`, policy hits `1`
 
 ## Headlines
 
+- [macro] Ed Sheeran addresses Macklemore controversy at Philadelphia show (BBC News)
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
 - [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
 - [macro] Mum's viral barefoot race sparks debate over India's education crisis (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' (BBC News)
 - [macro] Trump says US will form 'AI Force' and appoint an artificial intelligence tsar (BBC News)
 - [crypto] REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive (Cointelegraph.com News)
-- [macro] Journalists denied White House access after Trump banned some media outlets (BBC News)
