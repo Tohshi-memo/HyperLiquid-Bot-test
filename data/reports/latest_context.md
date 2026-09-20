@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T22:22:31.007692+00:00`
+- Generated: `2026-09-20T22:37:27.319124+00:00`
 - Market context score: `59.69`
 - News risk score: `35.38`
 - Macro risk score: `22.77`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T22:15:00+00:00`
+- Day/swing latest: `2026-09-20T22:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,8 @@
 
 ## Headlines
 
-- [macro] Dow Jones Futures: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas (Yahoo Finance)
+- [macro] Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas (Yahoo Finance)
+- [macro] 3 Things You Need to Know Before Buying IonQ Stock (Yahoo Finance)
 - [macro] Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line (Yahoo Finance)
 - [macro] Jim Cramer on Iron Mountain (IRM): “It’s Been an Incredible Stock” (Yahoo Finance)
 - [macro] Two Years In, Starbucks (SBUX)’s CEO Niccol has Won Back Customers. Now Wall Street Wants Margins (Yahoo Finance)
@@ -37,4 +38,3 @@
 - [macro] Nokia (NOK) Gets a Buy Rating, But Q2 Operating Loss Raises Questions (Yahoo Finance)
 - [macro] The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34 of the Last 41. (Yahoo Finance)
 - [macro] ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips (Yahoo Finance)
-- [macro] The Ultimate Dividend Growth stock to Buy With $1,000 Right Now. (Yahoo Finance)
