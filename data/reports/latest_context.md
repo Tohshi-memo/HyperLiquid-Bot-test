@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T14:22:26.369626+00:00`
+- Generated: `2026-09-20T14:37:31.317005+00:00`
 - Market context score: `54.03`
 - News risk score: `38.31`
 - Macro risk score: `16.62`
 - Risk-on score: `36.46`
 - Articles: `18`
-- Polymarket markets: `389`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T14:15:00+00:00`
+- Day/swing latest: `2026-09-20T14:30:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 ## Headlines
 
 - [commodity] U.S. urges Americans to reconsider Middle East travel as Iran tensions rise (Energy)
+- [macro] Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House) (Yahoo Finance)
 - [macro] Lib Dems vow to end 'computer says no' economy to boost growth (BBC News)
-- [macro] Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount (Yahoo Finance)
 - [macro] Trump says his planned triumphal arch will double as a military complex to store ammunition (BBC News)
 - [crypto] Trump says US will form ‘AI Force’ and appoint AI czar: Reports (Cointelegraph.com News)
 - [crypto] Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
