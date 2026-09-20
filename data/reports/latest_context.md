@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T15:22:30.437644+00:00`
-- Market context score: `63.98`
-- News risk score: `36.58`
-- Macro risk score: `18.96`
-- Risk-on score: `58.0`
-- Articles: `26`
+- Generated: `2026-09-20T15:37:28.761176+00:00`
+- Market context score: `56.4`
+- News risk score: `35.34`
+- Macro risk score: `16.33`
+- Risk-on score: `39.13`
+- Articles: `29`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T15:15:00+00:00`
+- Day/swing latest: `2026-09-20T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `2`
+- macro: articles `22`, risk hits `1`, risk headline rate `0.0455`, policy hits `4`
 
 ## Headlines
 
+- [macro] The Caterpillar Correction Shouldn't Last Much Longer (Yahoo Finance)
+- [macro] Dollar General CEO raises major red flag about consumers (Yahoo Finance)
+- [macro] UBS Sees Phillips 66 (PSX) Blazing Past its Record High (Yahoo Finance)
+- [macro] Why Kinder Morgan Stock’s Payout Ratio Rebound to 77% Matters for Future Raises (Yahoo Finance)
+- [macro] You Can Soon Get Pre-IPO Exposure on Binance Wallet, But There's A Catch (Yahoo Finance)
+- [macro] Baker Hughes (BKR) Raises 2026 Guidance. But Investors Aren’t Impressed (Yahoo Finance)
+- [macro] Marathon Petroleum (MPC) Could Smash its All-Time High, UBS Says (Yahoo Finance)
+- [macro] The S&P 500 Is Approaching a Valuation Not Seen in 26 Years, and History Suggests a Crash Could Follow (Yahoo Finance)
 - [crypto] Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Delta's Non-Main-Cabin Revenue Hits 61% in 2026 -- Why It Matters for Earnings (Yahoo Finance)
 - [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
-- [macro] Ask These 2 Questions to Make Sure Your Roth Conversion Doesn't End Up Backfiring (Yahoo Finance)
-- [macro] OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. (Yahoo Finance)
-- [macro] Oracle CEO sends AI wake-up call to employees (Yahoo Finance)
-- [macro] Kraft Heinz Stock’s Dividend Held at $0.40 While Its Payout Ratio Turned Negative Again. (Yahoo Finance)
-- [commodity] U.S. urges Americans to reconsider Middle East travel as Iran tensions rise (Energy)
-- [macro] Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House) (Yahoo Finance)
-- [macro] Lib Dems vow to end 'computer says no' economy to boost growth (BBC News)
