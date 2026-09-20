@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T04:37:32.710452+00:00`
+- Generated: `2026-09-20T04:52:34.347915+00:00`
 - Market context score: `31.89`
 - News risk score: `53.04`
 - Macro risk score: `36.74`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T04:30:00+00:00`
+- Day/swing latest: `2026-09-20T04:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert (BBC News)
 - [macro] Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show (BBC News)
+- [macro] Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert (BBC News)
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
 - [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
 - [macro] Mum's viral barefoot race sparks debate over India's education crisis (BBC News)
