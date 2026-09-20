@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T06:07:52.324882+00:00`
+- Generated: `2026-09-20T06:22:47.405544+00:00`
 - Market context score: `32.29`
 - News risk score: `52.58`
 - Macro risk score: `35.89`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:234, crypto_major:8, equity:140, fx:6, index:26, metal:20, unknown:945`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-09-20T06:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia (BBC News)
-- [macro] Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show (BBC News)
+- [macro] Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show (BBC News)
 - [macro] France’s wine production nears a 70-year low, leaving winemakers with tough choices (Economy)
 - [macro] Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show (BBC News)
 - [macro] Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert (BBC News)
