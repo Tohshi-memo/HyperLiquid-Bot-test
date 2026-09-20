@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T23:22:31.808356+00:00`
-- Market context score: `59.59`
+- Generated: `2026-09-20T23:29:55.588586+00:00`
+- Market context score: `60.09`
 - News risk score: `35.18`
 - Macro risk score: `23.35`
-- Risk-on score: `48.72`
+- Risk-on score: `49.83`
 - Articles: `41`
 - Polymarket markets: `388`
 
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [macro] Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas (Yahoo Finance)
+- [macro] Cramer sends unmistakable verdict on BlackBerry before earnings (Yahoo Finance)
+- [macro] Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant (Yahoo Finance)
+- [macro] Palantir Nearly Doubled Its Revenue. Its Stock Stood Still. Is It Time to Buy the Stock? (Yahoo Finance)
 - [macro] Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout (Yahoo Finance)
-- [macro] Meet the Vanguard ETF That Increased Its SpaceX Holding by 39% in 1 Month and Shows No Signs of Slowing Down (Yahoo Finance)
-- [macro] They’ve Deeded a Slice of the Duplex to Each of Their Three Kids Every January Since 2019. The Rent Follows the Deed, and Not One Gift Has Ever Crossed the Line Where the IRS Wants a Form (Yahoo Finance)
 - [macro] Will you get £13,000 a year when you stop working? Here's how to check (BBC News)
 - [macro] Paramount (PSKY) Turns California’s Own Words Against it in Warner Bros. (WBD) Bond Fight (Yahoo Finance)
 - [macro] Stellantis (STLA) Recalls 200,000 More Jeeps, its Latest Entry in a Record Recall Year (Yahoo Finance)
 - [macro] Starbucks (SBUX)’s New Chai Recipe has its Most Loyal Customers Revolting (Yahoo Finance)
 - [macro] Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line (Yahoo Finance)
-- [macro] Jim Cramer on Iron Mountain (IRM): “It’s Been an Incredible Stock” (Yahoo Finance)
