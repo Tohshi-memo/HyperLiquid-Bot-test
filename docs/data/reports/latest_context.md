@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T15:07:30.094536+00:00`
-- Market context score: `55.64`
-- News risk score: `35.73`
-- Macro risk score: `17.45`
-- Risk-on score: `38.18`
-- Articles: `17`
+- Generated: `2026-09-20T15:22:30.437644+00:00`
+- Market context score: `63.98`
+- News risk score: `36.58`
+- Macro risk score: `18.96`
+- Risk-on score: `58.0`
+- Articles: `26`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T15:00:00+00:00`
+- Day/swing latest: `2026-09-20T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `2`
 
 ## Headlines
 
 - [crypto] Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Delta's Non-Main-Cabin Revenue Hits 61% in 2026 -- Why It Matters for Earnings (Yahoo Finance)
 - [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
+- [macro] Ask These 2 Questions to Make Sure Your Roth Conversion Doesn't End Up Backfiring (Yahoo Finance)
+- [macro] OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. (Yahoo Finance)
+- [macro] Oracle CEO sends AI wake-up call to employees (Yahoo Finance)
+- [macro] Kraft Heinz Stock’s Dividend Held at $0.40 While Its Payout Ratio Turned Negative Again. (Yahoo Finance)
 - [commodity] U.S. urges Americans to reconsider Middle East travel as Iran tensions rise (Energy)
+- [macro] Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House) (Yahoo Finance)
 - [macro] Lib Dems vow to end 'computer says no' economy to boost growth (BBC News)
-- [macro] Trump says his planned triumphal arch will double as a military complex to store ammunition (BBC News)
-- [crypto] Trump says US will form ‘AI Force’ and appoint AI czar: Reports (Cointelegraph.com News)
-- [crypto] Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto traders braced for a total wipeout this week but Bitcoin had other plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Billionaire Man United owner loses moral high ground after tax exile, Labour chair says (BBC News)
-- [macro] Chiltern Railways renationalised after 30 years (BBC News)
