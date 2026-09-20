@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T08:37:32.760151+00:00`
+- Generated: `2026-09-20T08:52:28.814732+00:00`
 - Market context score: `59.06`
 - News risk score: `27.38`
 - Macro risk score: `30.75`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T08:30:00+00:00`
+- Day/swing latest: `2026-09-20T08:45:00+00:00`
 
 ## News Categories
 
@@ -27,9 +27,9 @@
 
 ## Headlines
 
+- [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says (BBC News)
 - [macro] German elections under way which could decide fate of Chancellor Merz (BBC News)
 - [crypto] Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal (Cointelegraph.com News)
-- [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia (BBC News)
 - [macro] Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show (BBC News)
 - [macro] France’s wine production nears a 70-year low, leaving winemakers with tough choices (Economy)
 - [macro] Ed Sheeran admits 'mistakes' at first show since Macklemore controversy (BBC News)
