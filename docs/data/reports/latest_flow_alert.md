@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-20T06:10:27.214677+00:00`
+- Generated: `2026-09-20T06:15:31.382596+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10041510.37`
-- Polymarket volume z-score: `-0.68`
+- Polymarket 24h volume: `9890802.37`
+- Polymarket volume z-score: `-0.7`
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `1606046.3404560038` | liquidity: `477073.5939`
-- Will Greg Abbott win the 2028 Republican presidential nomination? | 24h volume: `611518.506` | liquidity: `1108945.53791`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `554908.910147` | liquidity: `423771.96284`
-- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `513002.16700000025` | liquidity: `255865.76392`
-- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `503711.0147330002` | liquidity: `227229.27274`
-- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `425024.88474600017` | liquidity: `119604.07024`
-- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `357472.05283800024` | liquidity: `196287.5924`
-- Will the U.S. invade Iran before 2027? | 24h volume: `331929.35866499995` | liquidity: `648081.0693`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `1617661.729424001` | liquidity: `463481.2966`
+- Will Greg Abbott win the 2028 Republican presidential nomination? | 24h volume: `611518.506` | liquidity: `1108952.57543`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `554833.430147` | liquidity: `415353.14565`
+- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `492216.42473299993` | liquidity: `244435.46646`
+- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `434108.0054350002` | liquidity: `115008.29093`
+- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `418631.256` | liquidity: `256819.49127`
+- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `357422.462838` | liquidity: `202429.12775`
+- Will the U.S. invade Iran before 2027? | 24h volume: `331774.778665` | liquidity: `647921.2924`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
