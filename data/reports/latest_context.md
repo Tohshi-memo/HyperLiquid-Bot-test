@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T10:37:33.937306+00:00`
+- Generated: `2026-09-20T10:52:30.030190+00:00`
 - Market context score: `43.76`
 - News risk score: `49.88`
 - Macro risk score: `30.75`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T10:30:00+00:00`
+- Day/swing latest: `2026-09-20T10:45:00+00:00`
 
 ## News Categories
 
@@ -27,9 +27,9 @@
 
 ## Headlines
 
+- [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says (BBC News)
 - [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
 - [crypto] Grayscale’s Zcash ETF files for 3-for-1 forward share split (Cointelegraph.com News)
-- [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says (BBC News)
 - [macro] German elections under way which could decide fate of Chancellor Merz (BBC News)
 - [crypto] Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal (Cointelegraph.com News)
 - [macro] Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show (BBC News)
