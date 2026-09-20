@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-20T20:45:34.687585+00:00`
+- Generated: `2026-09-20T20:50:34.678944+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `5873079.916274003` | liquidity: `788460.17166`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `1321097.434` | liquidity: `496900.12699`
-- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `1257521.3119470002` | liquidity: `256661.64884`
-- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `801173.2271809999` | liquidity: `342250.29948`
-- Will Greg Abbott win the 2028 Republican presidential nomination? | 24h volume: `618765.724` | liquidity: `1212599.29895`
-- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `546491.766507` | liquidity: `519725.57299`
-- Will Phil Murphy win the 2028 Democratic presidential nomination? | 24h volume: `457955.988` | liquidity: `2488879.56532`
-- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `424268.57999999996` | liquidity: `598795.49219`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `5873079.916274003` | liquidity: `779769.34743`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `1321097.434` | liquidity: `497739.13254`
+- Will New People (NL) gain the most seats in the next Russian parliamentary election? | 24h volume: `1257521.3119470002` | liquidity: `256534.35236`
+- Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? | 24h volume: `801173.2271809999` | liquidity: `339992.31318`
+- Will Greg Abbott win the 2028 Republican presidential nomination? | 24h volume: `618765.724` | liquidity: `1211535.49895`
+- Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election? | 24h volume: `546491.766507` | liquidity: `518583.52029`
+- Will Phil Murphy win the 2028 Democratic presidential nomination? | 24h volume: `457955.988` | liquidity: `2488480.06532`
+- Will Yabloko gain the most seats in the next Russian parliamentary election? | 24h volume: `424268.57999999996` | liquidity: `598700.23649`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
