@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T19:37:29.041092+00:00`
-- Market context score: `57.71`
-- News risk score: `38.74`
+- Generated: `2026-09-20T19:52:28.308130+00:00`
+- Market context score: `55.76`
+- News risk score: `41.49`
 - Macro risk score: `21.47`
-- Risk-on score: `46.84`
-- Articles: `44`
-- Polymarket markets: `388`
+- Risk-on score: `44.84`
+- Articles: `43`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T19:30:00+00:00`
+- Day/swing latest: `2026-09-20T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `37`, risk hits `6`, risk headline rate `0.1622`, policy hits `0`
 
 ## Headlines
 
+- [macro] Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix (Yahoo Finance)
+- [macro] Bloom Energy’s “Time-to-Power” Moat (Yahoo Finance)
 - [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
-- [macro] Main Street Capital Went Public at $15 a Share. $10,000 Invested Then Now Collects About $177 a Month in Regular Dividends. (Yahoo Finance)
-- [macro] He Converted $120,000 to a Roth in December and Paid the Tax in April. The IRS Charged an Underpayment Penalty Back to the Previous April, for Income He Hadn’t Earned Yet. One Form Erases It (Yahoo Finance)
 - [macro] Sister of Pakistan's ex-PM Imran Khan arrested (BBC News)
 - [macro] Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit (Yahoo Finance)
 - [macro] Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns? (Yahoo Finance)
