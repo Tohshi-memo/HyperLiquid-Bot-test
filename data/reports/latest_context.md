@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T14:52:26.317772+00:00`
-- Market context score: `53.6`
-- News risk score: `38.73`
+- Generated: `2026-09-20T15:07:30.094536+00:00`
+- Market context score: `55.64`
+- News risk score: `35.73`
 - Macro risk score: `17.45`
-- Risk-on score: `36.18`
-- Articles: `16`
+- Risk-on score: `38.18`
+- Articles: `17`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T14:45:00+00:00`
+- Day/swing latest: `2026-09-20T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
 - [commodity] U.S. urges Americans to reconsider Middle East travel as Iran tensions rise (Energy)
 - [macro] Lib Dems vow to end 'computer says no' economy to boost growth (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Crypto traders braced for a total wipeout this week but Bitcoin had other plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Billionaire Man United owner loses moral high ground after tax exile, Labour chair says (BBC News)
 - [macro] Chiltern Railways renationalised after 30 years (BBC News)
-- [macro] Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says (BBC News)
