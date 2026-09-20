@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T20:07:28.107560+00:00`
+- Generated: `2026-09-20T20:22:30.577447+00:00`
 - Market context score: `54.15`
 - News risk score: `43.07`
 - Macro risk score: `24.63`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T20:00:00+00:00`
+- Day/swing latest: `2026-09-20T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
+- [macro] Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity? (Yahoo Finance)
 - [macro] Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost? (Yahoo Finance)
+- [macro] Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto Investors Need to Know. (Yahoo Finance)
 - [macro] Sabre (SABR) Prices $1.35B of Secured Notes. Is the Breathing Room Worth the Cost? (Yahoo Finance)
 - [macro] Brookfield Business (BBUC) Joins Reliance Deal. What Returns Can it Capture? (Yahoo Finance)
 - [macro] Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix (Yahoo Finance)
-- [macro] Bloom Energy’s “Time-to-Power” Moat (Yahoo Finance)
-- [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
 - [macro] Sister of Pakistan's ex-PM Imran Khan arrested (BBC News)
-- [macro] Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit (Yahoo Finance)
 - [macro] Hormuz Crisis to Push Global Coal Demand to Record High (Yahoo Finance)
-- [macro] Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns? (Yahoo Finance)
+- [macro] Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit (Yahoo Finance)
