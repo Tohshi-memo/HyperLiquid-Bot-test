@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T19:22:28.249773+00:00`
+- Generated: `2026-09-20T19:37:29.041092+00:00`
 - Market context score: `57.71`
 - News risk score: `38.74`
 - Macro risk score: `21.47`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T19:15:00+00:00`
+- Day/swing latest: `2026-09-20T19:30:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 ## Headlines
 
 - [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
+- [macro] Main Street Capital Went Public at $15 a Share. $10,000 Invested Then Now Collects About $177 a Month in Regular Dividends. (Yahoo Finance)
+- [macro] He Converted $120,000 to a Roth in December and Paid the Tax in April. The IRS Charged an Underpayment Penalty Back to the Previous April, for Income He Hadn’t Earned Yet. One Form Erases It (Yahoo Finance)
 - [macro] Sister of Pakistan's ex-PM Imran Khan arrested (BBC News)
-- [macro] Why the White House's Push to Control Bond Markets Is Destined to Disappoint Investors (Yahoo Finance)
-- [macro] Stanley Black & Decker Targets Margin Gains as DEWALT Takes Share (Yahoo Finance)
 - [macro] Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit (Yahoo Finance)
 - [macro] Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns? (Yahoo Finance)
 - [macro] Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds? (Yahoo Finance)
