@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T09:22:32.448777+00:00`
-- Market context score: `43.12`
-- News risk score: `50.5`
-- Macro risk score: `32.0`
-- Risk-on score: `28.33`
-- Articles: `17`
+- Generated: `2026-09-20T09:37:26.120846+00:00`
+- Market context score: `43.76`
+- News risk score: `49.88`
+- Macro risk score: `30.75`
+- Risk-on score: `28.75`
+- Articles: `18`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T09:15:00+00:00`
+- Day/swing latest: `2026-09-20T09:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
 
 ## Headlines
 
+- [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
 - [crypto] Grayscale’s Zcash ETF files for 3-for-1 forward share split (Cointelegraph.com News)
 - [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says (BBC News)
 - [macro] German elections under way which could decide fate of Chancellor Merz (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Ed Sheeran admits 'mistakes' at first show since Macklemore controversy (BBC News)
 - [macro] Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert (BBC News)
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
-- [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
