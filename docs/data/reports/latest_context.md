@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T13:52:26.998584+00:00`
+- Generated: `2026-09-20T14:07:26.373881+00:00`
 - Market context score: `53.6`
 - News risk score: `38.73`
 - Macro risk score: `17.45`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T13:45:00+00:00`
+- Day/swing latest: `2026-09-20T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Lib Dems vow to end 'computer says no' economy to boost growth (BBC News)
 - [commodity] U.S. urges Americans to reconsider Middle East travel as Iran tensions rise (Energy)
 - [crypto] Trump says US will form ‘AI Force’ and appoint AI czar: Reports (Cointelegraph.com News)
 - [crypto] Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto traders braced for a total wipeout this week but Bitcoin had other plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Billionaire Man United owner loses moral high ground after tax exile, Labour chair says (BBC News)
-- [macro] Lib Dems vow to end 'computer says no' economy to boost growth (BBC News)
 - [macro] Chiltern Railways renationalised after 30 years (BBC News)
 - [macro] Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says (BBC News)
 - [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
