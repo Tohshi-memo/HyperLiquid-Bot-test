@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T09:07:27.783570+00:00`
-- Market context score: `58.42`
-- News risk score: `28.0`
+- Generated: `2026-09-20T09:22:32.448777+00:00`
+- Market context score: `43.12`
+- News risk score: `50.5`
 - Macro risk score: `32.0`
-- Risk-on score: `43.33`
-- Articles: `16`
+- Risk-on score: `28.33`
+- Articles: `17`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T09:00:00+00:00`
+- Day/swing latest: `2026-09-20T09:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Grayscale’s Zcash ETF files for 3-for-1 forward share split (Cointelegraph.com News)
 - [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says (BBC News)
 - [macro] German elections under way which could decide fate of Chancellor Merz (BBC News)
 - [crypto] Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert (BBC News)
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
 - [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
-- [macro] Mum's viral barefoot race sparks debate over India's education crisis (BBC News)
