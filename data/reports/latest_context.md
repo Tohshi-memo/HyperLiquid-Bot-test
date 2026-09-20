@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T07:52:29.382972+00:00`
-- Market context score: `58.42`
-- News risk score: `28.0`
-- Macro risk score: `32.0`
-- Risk-on score: `43.33`
-- Articles: `15`
+- Generated: `2026-09-20T08:07:27.769254+00:00`
+- Market context score: `59.06`
+- News risk score: `27.38`
+- Macro risk score: `30.75`
+- Risk-on score: `43.75`
+- Articles: `17`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,14 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T07:45:00+00:00`
+- Day/swing latest: `2026-09-20T08:00:00+00:00`
 
 ## News Categories
 
-- macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
 
 ## Headlines
 
+- [macro] German elections under way which could decide fate of Chancellor Merz (BBC News)
+- [crypto] Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal (Cointelegraph.com News)
 - [macro] Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia (BBC News)
 - [macro] Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show (BBC News)
 - [macro] France’s wine production nears a 70-year low, leaving winemakers with tough choices (Economy)
@@ -34,5 +37,3 @@
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
 - [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
 - [macro] Mum's viral barefoot race sparks debate over India's education crisis (BBC News)
-- [macro] 80-year-old discount fashion chain closing 120 stores (Yahoo Finance)
-- [macro] Not all AI workers think the tech could kill everyone (BBC News)
