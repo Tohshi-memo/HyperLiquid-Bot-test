@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T14:37:31.317005+00:00`
-- Market context score: `54.03`
-- News risk score: `38.31`
-- Macro risk score: `16.62`
-- Risk-on score: `36.46`
-- Articles: `18`
+- Generated: `2026-09-20T14:52:26.317772+00:00`
+- Market context score: `53.6`
+- News risk score: `38.73`
+- Macro risk score: `17.45`
+- Risk-on score: `36.18`
+- Articles: `16`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T14:30:00+00:00`
+- Day/swing latest: `2026-09-20T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `0`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
 - [commodity] U.S. urges Americans to reconsider Middle East travel as Iran tensions rise (Energy)
-- [macro] Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House) (Yahoo Finance)
 - [macro] Lib Dems vow to end 'computer says no' economy to boost growth (BBC News)
 - [macro] Trump says his planned triumphal arch will double as a military complex to store ammunition (BBC News)
 - [crypto] Trump says US will form ‘AI Force’ and appoint AI czar: Reports (Cointelegraph.com News)
