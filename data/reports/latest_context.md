@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T15:37:28.761176+00:00`
-- Market context score: `56.4`
-- News risk score: `35.34`
-- Macro risk score: `16.33`
-- Risk-on score: `39.13`
-- Articles: `29`
+- Generated: `2026-09-20T15:52:29.678410+00:00`
+- Market context score: `64.94`
+- News risk score: `35.58`
+- Macro risk score: `17.02`
+- Risk-on score: `58.57`
+- Articles: `34`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T15:30:00+00:00`
+- Day/swing latest: `2026-09-20T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `22`, risk hits `1`, risk headline rate `0.0455`, policy hits `4`
+- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `2`
 
 ## Headlines
 
+- [macro] Joby Aviation Stock Is Down 54% This Year. Here's Why I'd Buy It Before 2027. (Yahoo Finance)
+- [macro] NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia (Yahoo Finance)
+- [macro] Why $5 gasoline is about to force a major holiday shift (Yahoo Finance)
+- [macro] BMO Capital Bets on a Rebound for Enbridge (ENB) (Yahoo Finance)
+- [macro] This Analyst Has a $450 Price Target on SpaceX Stock. Does That Make it a Buy? (Yahoo Finance)
+- [macro] Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas (Yahoo Finance)
+- [macro] NextEra’s Nuclear Bet Just Got a $1.9 Billion Boost (Yahoo Finance)
+- [macro] Morgan Stanley Sees Shell (SHEL) Hitting New Highs (Yahoo Finance)
 - [macro] The Caterpillar Correction Shouldn't Last Much Longer (Yahoo Finance)
-- [macro] Dollar General CEO raises major red flag about consumers (Yahoo Finance)
-- [macro] UBS Sees Phillips 66 (PSX) Blazing Past its Record High (Yahoo Finance)
-- [macro] Why Kinder Morgan Stock’s Payout Ratio Rebound to 77% Matters for Future Raises (Yahoo Finance)
-- [macro] You Can Soon Get Pre-IPO Exposure on Binance Wallet, But There's A Catch (Yahoo Finance)
-- [macro] Baker Hughes (BKR) Raises 2026 Guidance. But Investors Aren’t Impressed (Yahoo Finance)
-- [macro] Marathon Petroleum (MPC) Could Smash its All-Time High, UBS Says (Yahoo Finance)
-- [macro] The S&P 500 Is Approaching a Valuation Not Seen in 26 Years, and History Suggests a Crash Could Follow (Yahoo Finance)
-- [crypto] Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
+- [macro] Chevron (CVX) Supercharges its Venezuela Bet with More Oil Rigs (Yahoo Finance)
