@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T04:22:24.403533+00:00`
-- Market context score: `30.86`
-- News risk score: `54.07`
-- Macro risk score: `38.79`
-- Risk-on score: `6.67`
-- Articles: `14`
+- Generated: `2026-09-20T04:37:32.710452+00:00`
+- Market context score: `31.89`
+- News risk score: `53.04`
+- Macro risk score: `36.74`
+- Risk-on score: `7.31`
+- Articles: `15`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T04:15:00+00:00`
+- Day/swing latest: `2026-09-20T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `11`, risk hits `5`, risk headline rate `0.4545`, policy hits `0`
+- macro: articles `12`, risk hits `5`, risk headline rate `0.4167`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert (BBC News)
 - [macro] Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show (BBC News)
 - [macro] Houthis say they targeted Saudi capital with ballistic missiles (BBC News)
 - [macro] Cultural treasures are being destroyed by war, and people want justice (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'I don't even know if my parents are alive' - the war heroes jailed 25 years ago (BBC News)
 - [macro] Our head teacher was an abuser. We joined forces to get justice - now we're married (BBC News)
 - [macro] Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' (BBC News)
-- [macro] Trump says US will form 'AI Force' and appoint an artificial intelligence tsar (BBC News)
