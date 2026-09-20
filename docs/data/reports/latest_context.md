@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T12:07:25.815330+00:00`
-- Market context score: `50.26`
-- News risk score: `43.5`
+- Generated: `2026-09-20T12:16:26.771454+00:00`
+- Market context score: `53.32`
+- News risk score: `39.0`
 - Macro risk score: `18.0`
-- Risk-on score: `33.0`
-- Articles: `14`
+- Risk-on score: `36.0`
+- Articles: `15`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T12:00:00+00:00`
+- Day/swing latest: `2026-09-20T12:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Trump says US will form ‘AI Force’ and appoint AI czar: Reports (Cointelegraph.com News)
 - [crypto] Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto traders braced for a total wipeout this week but Bitcoin had other plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Billionaire Man United owner loses moral high ground after tax exile, Labour chair says (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Ed Davey calls for immediate 10p cut to fuel duty (BBC News)
 - [crypto] Grayscale’s Zcash ETF files for 3-for-1 forward share split (Cointelegraph.com News)
 - [macro] German elections under way which could decide fate of Chancellor Merz (BBC News)
-- [crypto] Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal (Cointelegraph.com News)
