@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T17:22:27.254837+00:00`
-- Market context score: `63.0`
-- News risk score: `37.8`
-- Macro risk score: `20.11`
-- Risk-on score: `57.3`
-- Articles: `43`
+- Generated: `2026-09-20T17:37:28.011038+00:00`
+- Market context score: `64.68`
+- News risk score: `36.0`
+- Macro risk score: `17.0`
+- Risk-on score: `58.33`
+- Articles: `42`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T17:15:00+00:00`
+- Day/swing latest: `2026-09-20T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `36`, risk hits `5`, risk headline rate `0.1389`, policy hits `0`
+- macro: articles `35`, risk hits `3`, risk headline rate `0.0857`, policy hits `0`
 
 ## Headlines
 
+- [macro] A seven-year standoff over Venezuelan gold nears its end (Yahoo Finance)
+- [macro] Is This Cryptocurrency Still a Millionaire Maker? (Yahoo Finance)
+- [macro] Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas (Yahoo Finance)
+- [macro] Can You Afford Your New Student Loan Bill? Do This Before Choosing a Repayment Plan (Yahoo Finance)
+- [macro] 5 Ordinary Habits That Will Build Extraordinary Wealth, According to Dave Ramsey (Yahoo Finance)
+- [macro] Home and Auto Insurance Costs Are Rising — 6 Ways To Keep Your Budget on Track (Yahoo Finance)
 - [macro] German Chancellor Merz vows to stay on despite 'disaster' in state election (BBC News)
-- [macro] If You Invest $10,000 in This Bond ETF Today, Here's What History Says It Could Deliver in 20 Years (Yahoo Finance)
-- [macro] Chevron CEO sends a strong message on oil price and the economy (Yahoo Finance)
 - [macro] Bloom Energy (BE) Unveils a New Power Play for the AI Boom (Yahoo Finance)
 - [macro] Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away (Yahoo Finance)
-- [macro] Prediction: Even With the $1,999 Price Tag, Apple's Foldable iPhone Duo Will Be a Hit and Apple Will Join Nvidia in the $5 Trillion Club. (Yahoo Finance)
-- [macro] Trump says his planned triumphal arch will double as a military complex to store ammunition (BBC News)
-- [macro] BMO Sees Phillips 66 (PSX) Breaking into New Highs (Yahoo Finance)
-- [macro] Jim Cramer sends strong signal to Apple stock investors (Yahoo Finance)
-- [macro] Centrus Energy (LEU) Lands New HALEU Deal with Antares (Yahoo Finance)
+- [macro] Trump says triumphal arch will be military complex with drones and snipers (BBC News)
