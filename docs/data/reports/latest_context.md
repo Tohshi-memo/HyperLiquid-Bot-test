@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-20T16:37:26.645652+00:00`
-- Market context score: `63.97`
-- News risk score: `36.92`
-- Macro risk score: `18.97`
-- Risk-on score: `58.29`
-- Articles: `41`
+- Generated: `2026-09-20T16:52:31.350676+00:00`
+- Market context score: `63.83`
+- News risk score: `36.99`
+- Macro risk score: `18.49`
+- Risk-on score: `57.84`
+- Articles: `43`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-20T16:30:00+00:00`
+- Day/swing latest: `2026-09-20T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `34`, risk hits `3`, risk headline rate `0.0882`, policy hits `5`
+- macro: articles `36`, risk hits `4`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away (Yahoo Finance)
+- [macro] Prediction: Even With the $1,999 Price Tag, Apple's Foldable iPhone Duo Will Be a Hit and Apple Will Join Nvidia in the $5 Trillion Club. (Yahoo Finance)
 - [macro] Trump says his planned triumphal arch will double as a military complex to store ammunition (BBC News)
+- [macro] BMO Sees Phillips 66 (PSX) Breaking into New Highs (Yahoo Finance)
+- [macro] Jim Cramer sends strong signal to Apple stock investors (Yahoo Finance)
+- [macro] Centrus Energy (LEU) Lands New HALEU Deal with Antares (Yahoo Finance)
+- [macro] Jensen Huang Just Announced Fantastic News for Nvidia Shareholders (Yahoo Finance)
+- [macro] Definium’s LSD Pill Clears a Second Anxiety Trial, and the Psychedelics Sector Is Watching (Yahoo Finance)
 - [macro] I'm Watching PG&E Closely, but Here's Why I Haven't Bought the Dip (Yahoo Finance)
-- [macro] California Resources (CRC) Sells Uinta Assets for $90 Million (Yahoo Finance)
-- [macro] Musk Says NVIDIA (NVDA) AI Chips Are Headed to Space With SpaceX (SPCX) Next Year (Yahoo Finance)
-- [macro] 3 Reasons CRISPR Therapeutics Stock Is Still a Buy After a Rocky 2026 (Yahoo Finance)
-- [macro] The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse (Yahoo Finance)
-- [macro] The Family Gave Away Half of Dad’s $200,000 and Used the Other Half to Pay the Nursing Home Through the Penalty. Medicaid Allowed It, and the Strategy Has a Name (Yahoo Finance)
-- [macro] Analyst: Meta Needs Just 115 Million Users to Ignite a $28 Billion AI Gold Rush — But It’s Not Likely to Happen (Yahoo Finance)
-- [macro] Targa Resources (TRGP) Gets a Fresh Vote of Confidence from TD Cowen (Yahoo Finance)
-- [macro] Morgan Stanley Sees Marathon Petroleum (MPC) Breaking into New Highs (Yahoo Finance)
+- [macro] Transocean (RIG) Scores an $80 Million Deepwater Contract in Africa (Yahoo Finance)
