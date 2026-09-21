@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-21T13:40:32.424256+00:00`
+- Generated: `2026-09-21T13:45:30.443941+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8051870.72`
-- Polymarket volume z-score: `-0.95`
+- Polymarket 24h volume: `8155607.51`
+- Polymarket volume z-score: `-0.94`
 
 ## Top Polymarket Markets
 
-- Will the US confirm that aliens exist before 2027? | 24h volume: `291954.939987` | liquidity: `955838.58928`
-- Will the price of Bitcoin be above $84,000 on September 21? | 24h volume: `273807.08868` | liquidity: `21886.18162`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `262944.065402` | liquidity: `272151.6743`
-- Will United Russia win fewer than 280 seats in the next Russian State Duma election? | 24h volume: `262524.2110520001` | liquidity: `180074.15104`
-- Russia Elections: United Russia Wins Every Region? | 24h volume: `252310.3113190001` | liquidity: `37617.11728`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `239275.13990799998` | liquidity: `354114.5901`
-- Will the price of Bitcoin be above $82,000 on September 21? | 24h volume: `208572.37024599992` | liquidity: `32224.81075`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `207414.18011` | liquidity: `302013.03982`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `291917.769987` | liquidity: `965848.761`
+- Will the price of Bitcoin be above $84,000 on September 21? | 24h volume: `275078.9109980001` | liquidity: `21903.88359`
+- Will United Russia win fewer than 280 seats in the next Russian State Duma election? | 24h volume: `267724.41105200007` | liquidity: `178354.75989`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `262944.065402` | liquidity: `268467.24208`
+- Russia Elections: United Russia Wins Every Region? | 24h volume: `255814.39117400005` | liquidity: `34837.66943`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `239225.13990799998` | liquidity: `401837.2652`
+- Will the price of Bitcoin be above $86,000 on September 21? | 24h volume: `213900.05235799993` | liquidity: `31771.10669`
+- Will the price of Bitcoin be above $82,000 on September 21? | 24h volume: `213127.27383599995` | liquidity: `32592.18826`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
