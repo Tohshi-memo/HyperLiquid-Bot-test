@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-21T11:00:30.290060+00:00`
+- Generated: `2026-09-21T11:05:30.680295+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `7915681.488285993` | liquidity: `957295.00948`
-- Will Bitcoin reach $85,000 in September? | 24h volume: `294424.60997299996` | liquidity: `112692.83065`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `291779.277218` | liquidity: `970091.19453`
-- Russia Elections: United Russia Wins Every Region? | 24h volume: `251040.90626100003` | liquidity: `32357.23271`
-- Will the price of Bitcoin be above $84,000 on September 21? | 24h volume: `245173.7794110001` | liquidity: `20914.15527`
-- Will United Russia win fewer than 280 seats in the next Russian State Duma election? | 24h volume: `232249.93235800008` | liquidity: `178853.35406`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `207803.314` | liquidity: `293391.51587`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `199145.614805` | liquidity: `316275.46766`
+- Will United Russia (ER) gain the most seats in the next Russian parliamentary election? | 24h volume: `7915681.488285993` | liquidity: `960888.26653`
+- Will Bitcoin reach $85,000 in September? | 24h volume: `294424.60997299996` | liquidity: `212454.94184`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `291779.277218` | liquidity: `972540.16666`
+- Russia Elections: United Russia Wins Every Region? | 24h volume: `251040.90626100003` | liquidity: `34825.32805`
+- Will the price of Bitcoin be above $84,000 on September 21? | 24h volume: `245173.7794110001` | liquidity: `19666.06578`
+- Will United Russia win fewer than 280 seats in the next Russian State Duma election? | 24h volume: `232249.93235800008` | liquidity: `179771.19208`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `207803.314` | liquidity: `295623.09683`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `199145.614805` | liquidity: `320072.82869`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
