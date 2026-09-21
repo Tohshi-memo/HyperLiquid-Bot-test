@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T02:07:31.152683+00:00`
-- Market context score: `53.35`
-- News risk score: `24.53`
-- Macro risk score: `24.69`
-- Risk-on score: `26.36`
-- Articles: `14`
+- Generated: `2026-09-21T02:22:26.945130+00:00`
+- Market context score: `49.58`
+- News risk score: `28.17`
+- Macro risk score: `32.02`
+- Risk-on score: `23.85`
+- Articles: `16`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T02:00:00+00:00`
+- Day/swing latest: `2026-09-21T02:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil falls as crude flows remain 'surprisingly strong' (Energy)
 - [crypto] North Korean fake recruiters infect 30K devices, steal $10.7M in crypto (Cointelegraph.com News)
 - [macro] Why Japan’s markets flipped the usual script after central bank rate hike (Economy)
 - [macro] Nvidia boss rejects AI extinction fears as 'doomsday narratives' (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece (BBC News)
 - [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
 - [macro] Sister of Pakistan's ex-PM Imran Khan arrested (BBC News)
-- [macro] Chevron CEO sends a strong message on oil price and the economy (Yahoo Finance)
-- [macro] Trump says triumphal arch will be military complex with drones and snipers (BBC News)
+- [macro] T-Mobile and Verizon face a new broadband rival (Yahoo Finance)
