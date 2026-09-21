@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T14:07:39.184256+00:00`
-- Market context score: `46.85`
-- News risk score: `47.98`
-- Macro risk score: `30.81`
-- Risk-on score: `34.04`
-- Articles: `81`
+- Generated: `2026-09-21T14:21:34.786525+00:00`
+- Market context score: `48.44`
+- News risk score: `45.82`
+- Macro risk score: `26.99`
+- Risk-on score: `34.3`
+- Articles: `82`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T14:00:00+00:00`
+- Day/swing latest: `2026-09-21T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `5`
-- macro: articles `52`, risk hits `13`, risk headline rate `0.1923`, policy hits `17`
+- macro: articles `53`, risk hits `11`, risk headline rate `0.1698`, policy hits `3`
 
 ## Headlines
 
-- [macro] Strategy Buys $75 Million of Bitcoin As Price Rallies (Yahoo Finance)
-- [macro] Warner Bros. Discovery Jumps 7%, Paramount Skydance Climbs 5% as Antitrust Settlement Talks Advance; Netflix Sits Out the Rally (Yahoo Finance)
-- [macro] Paramount, Warner Bros shares rally on reports of merger settlement talks advancing (Yahoo Finance)
-- [macro] Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last? (Yahoo Finance)
-- [macro] Why Is Ethereum Up Today? It Just Broke Above $2,672, Opening the Door to $3,000 (Yahoo Finance)
-- [macro] The “Super Roth” the Ultra-Wealthy Use to Compound Wealth Tax-Free, and Pass It to Their Kids Without Estate Tax (Yahoo Finance)
-- [macro] AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up (Yahoo Finance)
-- [macro] Michael Saylor's Strategy jumps as the company says it bought more bitcoin (Yahoo Finance)
-- [macro] Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions (Yahoo Finance)
-- [macro] Merz vows to keep coalition together for Germany's 'democratic future' (BBC News)
+- [commodity] Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences (Energy)
+- [macro] Stock Market Today: Dow Rallies As Nvidia Nears Entry; Oil Dips On Iran Hopes (Live Coverage) (Yahoo Finance)
+- [macro] RWE to develop 400MW battery system at Moerdijk power station (Yahoo Finance)
+- [commodity] U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
+- [macro] Oura publicly files for initial public offering, looks to raise $2.2 billion (Yahoo Finance)
+- [macro] Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here? (Yahoo Finance)
+- [macro] Warning Of A Big Sell Off (Yahoo Finance)
+- [macro] Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges (Yahoo Finance)
+- [macro] Here’s What Lifted BrightSpring Health Services (BTSG) (Yahoo Finance)
+- [macro] Why Is Solana Rising Today? It’s Leading the Major Cryptos This Month with a 20% Rally to $115 (Yahoo Finance)
