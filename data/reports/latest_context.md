@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T13:22:32.137818+00:00`
-- Market context score: `47.54`
-- News risk score: `46.34`
-- Macro risk score: `27.66`
-- Risk-on score: `33.0`
-- Articles: `77`
+- Generated: `2026-09-21T13:37:28.306769+00:00`
+- Market context score: `47.16`
+- News risk score: `46.14`
+- Macro risk score: `28.2`
+- Risk-on score: `32.19`
+- Articles: `80`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T13:15:00+00:00`
+- Day/swing latest: `2026-09-21T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `5`
-- macro: articles `48`, risk hits `10`, risk headline rate `0.1458`, policy hits `12`
+- crypto: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `5`
+- macro: articles `50`, risk hits `11`, risk headline rate `0.16`, policy hits `12`
 
 ## Headlines
 
+- [crypto] Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH (Cointelegraph.com News)
+- [macro] Aggressive Store Additions Challenge Black Rock Coffee Bar’s (BRCB) Long-Term Expansion Thesis (Yahoo Finance)
+- [macro] Clorox vs. Kimberly-Clark: Which Household Staples Dividend Is Safer (Yahoo Finance)
+- [macro] Short Seller Reports Drag Ensign Group (ENSG) Down (Yahoo Finance)
+- [macro] Should You Be Bullish on Fastly (FSLY)? (Yahoo Finance)
+- [macro] BillionToOne SVP Sells 1,416 Shares (Yahoo Finance)
+- [macro] Below-Expected Earnings Pressured Shake Shack (SHAK) in Q2 (Yahoo Finance)
 - [macro] Is Archer Aviation Stock a No-Brainer Buy While It's Trading Near $5? (Yahoo Finance)
 - [crypto] Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Anthropic’s IPO Could Be the Biggest in History. Here’s What SpaceX Taught Us About Buying It. (Yahoo Finance)
-- [macro] Oracle’s Co-CEOs Deliver Explosive Growth, but Stock Plunges 50% in Their First Year (Yahoo Finance)
-- [macro] Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion. (Yahoo Finance)
-- [macro] The resilient stock market is flashing warning signs (Yahoo Finance)
-- [macro] Why Is Hyperliquid Up Today? (Yahoo Finance)
-- [macro] UBS lifts palladium forecasts as supply squeeze bites (Yahoo Finance)
-- [macro] Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage) (Yahoo Finance)
-- [crypto] Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC (Cointelegraph.com News)
+- [macro] Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 (Yahoo Finance)
