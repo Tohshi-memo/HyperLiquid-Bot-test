@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T19:22:28.234357+00:00`
-- Market context score: `43.23`
-- News risk score: `48.08`
-- Macro risk score: `39.88`
-- Risk-on score: `29.5`
+- Generated: `2026-09-21T19:37:31.763051+00:00`
+- Market context score: `43.34`
+- News risk score: `48.11`
+- Macro risk score: `39.11`
+- Risk-on score: `29.48`
 - Articles: `58`
 - Polymarket markets: `390`
 
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T19:15:00+00:00`
+- Day/swing latest: `2026-09-21T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `5`
-- macro: articles `27`, risk hits `11`, risk headline rate `0.3333`, policy hits `9`
+- crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `5`
+- macro: articles `28`, risk hits `11`, risk headline rate `0.3214`, policy hits `9`
 
 ## Headlines
 
+- [commodity] U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN (Energy)
 - [crypto] Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose (BBC News)
 - [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
-- [commodity] Oil prices tumble back below $100 after Trump says he's open to talking to Iran (Energy)
 - [crypto] Ondo lets institutions convert stocks directly into tokenized shares (Cointelegraph.com News)
 - [crypto] Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again (Cointelegraph.com News)
 - [macro] First UK charges brought over 1994 Rwanda genocide (BBC News)
