@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-21T20:50:34.535294+00:00`
+- Generated: `2026-09-21T20:55:33.153034+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9028237.53`
+- Polymarket 24h volume: `9063324.14`
 - Polymarket volume z-score: `-0.77`
 
 ## Top Polymarket Markets
 
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681867.59` | liquidity: `612112.2608`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `435857.07123799995` | liquidity: `407978.8075`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `345104.2016599999` | liquidity: `825267.90756`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `304922.84610900003` | liquidity: `564943.6129`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `282261.67733200005` | liquidity: `295731.01215`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `279101.64271800005` | liquidity: `293361.93595`
-- Will the U.S. invade Iran before 2027? | 24h volume: `253916.57064500003` | liquidity: `847986.8339`
-- Will Xi Jinping visit US by September 23? | 24h volume: `231103.814858` | liquidity: `40601.16211`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681873.913` | liquidity: `612721.50895`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `444422.97396199976` | liquidity: `403397.5515`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `345151.6938099999` | liquidity: `828417.6968`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `304891.886109` | liquidity: `563719.8723`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `283531.84733200003` | liquidity: `303777.93523`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `278667.12626899977` | liquidity: `278297.01007`
+- Will the U.S. invade Iran before 2027? | 24h volume: `253921.5706450001` | liquidity: `851447.1121`
+- Will Xi Jinping visit US by September 23? | 24h volume: `230688.02041399994` | liquidity: `38442.77563`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
