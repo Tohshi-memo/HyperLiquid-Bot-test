@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T13:07:30.026944+00:00`
-- Market context score: `47.52`
-- News risk score: `45.67`
-- Macro risk score: `28.07`
-- Risk-on score: `32.54`
-- Articles: `78`
+- Generated: `2026-09-21T13:22:32.137818+00:00`
+- Market context score: `47.54`
+- News risk score: `46.34`
+- Macro risk score: `27.66`
+- Risk-on score: `33.0`
+- Articles: `77`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T13:00:00+00:00`
+- Day/swing latest: `2026-09-21T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `4`
-- macro: articles `51`, risk hits `12`, risk headline rate `0.1569`, policy hits `13`
+- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `5`
+- macro: articles `48`, risk hits `10`, risk headline rate `0.1458`, policy hits `12`
 
 ## Headlines
 
-- [macro] Interview: Revolut chief banking officer Sid Jajodia on growth, margins and  IPO plans (Yahoo Finance)
-- [macro] Barilla to shake-up domestic pasta production (Yahoo Finance)
-- [macro] Priority Technology Holdings going private in $1.6 billion deal (Yahoo Finance)
+- [macro] Is Archer Aviation Stock a No-Brainer Buy While It's Trading Near $5? (Yahoo Finance)
+- [crypto] Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Anthropic’s IPO Could Be the Biggest in History. Here’s What SpaceX Taught Us About Buying It. (Yahoo Finance)
+- [macro] Oracle’s Co-CEOs Deliver Explosive Growth, but Stock Plunges 50% in Their First Year (Yahoo Finance)
+- [macro] Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion. (Yahoo Finance)
+- [macro] The resilient stock market is flashing warning signs (Yahoo Finance)
+- [macro] Why Is Hyperliquid Up Today? (Yahoo Finance)
+- [macro] UBS lifts palladium forecasts as supply squeeze bites (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage) (Yahoo Finance)
 - [crypto] Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC (Cointelegraph.com News)
-- [macro] Chili’s Turnaround Clears Way for New Restaurant Growth (Yahoo Finance)
-- [macro] Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4% (Yahoo Finance)
-- [macro] Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6% (Yahoo Finance)
-- [macro] SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns (Yahoo Finance)
-- [macro] Veeco Instruments (VECO): Results Far Exceed Expectations Amid Memory Capacity Boom (Yahoo Finance)
-- [macro] This Strategy Sees Value in Methanex (MEOH) Despite a Near-Term Cash Flow Pullback (Yahoo Finance)
