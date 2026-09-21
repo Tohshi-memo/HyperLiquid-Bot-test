@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T17:37:32.668267+00:00`
-- Market context score: `45.42`
-- News risk score: `49.65`
-- Macro risk score: `35.37`
-- Risk-on score: `34.01`
-- Articles: `83`
+- Generated: `2026-09-21T17:52:30.690862+00:00`
+- Market context score: `45.6`
+- News risk score: `48.59`
+- Macro risk score: `33.29`
+- Risk-on score: `32.71`
+- Articles: `82`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T17:30:00+00:00`
+- Day/swing latest: `2026-09-21T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `5`
-- macro: articles `53`, risk hits `19`, risk headline rate `0.3019`, policy hits `10`
+- macro: articles `52`, risk hits `16`, risk headline rate `0.2692`, policy hits `9`
 
 ## Headlines
 
-- [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
-- [macro] Brazil to use Uruguay's surplus of beef export quota to China, Lula says (Yahoo Finance)
-- [macro] Market Indexes Rally as Oil Retreats and Chip Stocks Surge (Yahoo Finance)
-- [macro] SoftBank Borrows Even More Money for OpenAI (Yahoo Finance)
-- [macro] Musk's SpaceX $100B day reveals a volatile baseline (Yahoo Finance)
-- [macro] Two charged with woman's murder as South Africa police investigate eight other body finds (BBC News)
-- [macro] Prediction: Berkshire Hathaway's Operating Earnings Will Top $48 Billion in 2026 (Yahoo Finance)
-- [macro] Elon Musk's X sues influencers over alleged payout fraud (Yahoo Finance)
-- [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
 - [macro] First UK charges brought over 1994 Rwanda genocide (BBC News)
+- [macro] Behind the Ticker: Crossmark's Values-Based ETFs (Yahoo Finance)
+- [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
+- [macro] The Stock Market Is Flashing a Rare Warning Signal. Here's How History Says Investors Should Prepare. (Yahoo Finance)
+- [macro] Microsoft and Anthropic dominate Nscale's $103B IPO contract backlog (Yahoo Finance)
+- [macro] Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years (Yahoo Finance)
+- [macro] Arm’s Shift From Royalties to Silicon Manufacturing Could Reshape Chip Economics (Yahoo Finance)
+- [macro] Halliburton Signs Deals to Expand Venezuela Energy Presence (Yahoo Finance)
+- [macro] Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out. (Yahoo Finance)
+- [macro] Brazil to use Uruguay's surplus of beef export quota to China, Lula says (Yahoo Finance)
