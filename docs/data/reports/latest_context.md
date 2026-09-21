@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T18:22:32.206100+00:00`
-- Market context score: `43.81`
-- News risk score: `47.7`
-- Macro risk score: `37.89`
+- Generated: `2026-09-21T18:37:28.632385+00:00`
+- Market context score: `43.64`
+- News risk score: `47.95`
+- Macro risk score: `38.31`
 - Risk-on score: `29.72`
 - Articles: `59`
 - Polymarket markets: `389`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T18:15:00+00:00`
+- Day/swing latest: `2026-09-21T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `5`
-- macro: articles `29`, risk hits `11`, risk headline rate `0.3103`, policy hits `7`
+- macro: articles `29`, risk hits `11`, risk headline rate `0.3103`, policy hits `9`
 
 ## Headlines
 
-- [crypto] Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT (Cointelegraph.com News)
 - [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
+- [crypto] Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT (Cointelegraph.com News)
 - [macro] First UK charges brought over 1994 Rwanda genocide (BBC News)
 - [macro] Two charged with woman's murder as South Africa police investigate eight other body finds (BBC News)
 - [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
