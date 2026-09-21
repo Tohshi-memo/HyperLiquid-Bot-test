@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-21T22:20:31.853456+00:00`
+- Generated: `2026-09-21T22:25:34.721626+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9158192.74`
+- Polymarket 24h volume: `9148689.84`
 - Polymarket volume z-score: `-0.74`
 
 ## Top Polymarket Markets
 
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681865.009` | liquidity: `613050.43201`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `433643.38113199966` | liquidity: `441940.7939`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `345151.6938099999` | liquidity: `825780.13294`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `305227.8410080001` | liquidity: `574459.3192`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `286174.7524399998` | liquidity: `306000.83841`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `283532.854332` | liquidity: `311526.0623`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `259537.28378599999` | liquidity: `382354.1467`
-- Will the U.S. invade Iran before 2027? | 24h volume: `253271.37472800002` | liquidity: `803553.6053`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681865.009` | liquidity: `619308.95938`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `409193.0738579999` | liquidity: `446405.1089`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `345151.6938099999` | liquidity: `795080.4512`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `305221.781008` | liquidity: `571608.1611`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `291104.14244` | liquidity: `334374.62597`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `283532.854332` | liquidity: `313588.70047`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `264222.244242` | liquidity: `379104.5487`
+- Will the U.S. invade Iran before 2027? | 24h volume: `254229.67472799998` | liquidity: `802696.749`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
