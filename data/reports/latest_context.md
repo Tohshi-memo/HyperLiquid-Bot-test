@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T09:22:30.772897+00:00`
-- Market context score: `41.61`
-- News risk score: `45.87`
-- Macro risk score: `26.44`
-- Risk-on score: `18.96`
-- Articles: `53`
+- Generated: `2026-09-21T09:37:31.849426+00:00`
+- Market context score: `41.42`
+- News risk score: `45.75`
+- Macro risk score: `27.19`
+- Risk-on score: `18.72`
+- Articles: `51`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T09:15:00+00:00`
+- Day/swing latest: `2026-09-21T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `2`
-- macro: articles `37`, risk hits `7`, risk headline rate `0.1622`, policy hits `2`
+- macro: articles `35`, risk hits `7`, risk headline rate `0.1714`, policy hits `2`
 
 ## Headlines
 
-- [macro] Saffery to recruit 144 trainees across UK and Dublin offices (Yahoo Finance)
+- [macro] Anthropic and Accenture pledge $2bn for embedded AI safety evaluation (Yahoo Finance)
+- [macro] Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem (Yahoo Finance)
+- [macro] Three arrested in South Africa over one of nine women's bodies found (BBC News)
 - [crypto] Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now? (Yahoo Finance)
 - [macro] Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund (Yahoo Finance)
@@ -36,5 +38,3 @@
 - [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
 - [commodity] Oil falls as crude flows remain 'surprisingly strong' (Energy)
 - [crypto] Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Will you get £13,000 a year when you stop working? Here's how to check (BBC News)
-- [crypto] Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
