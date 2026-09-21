@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T16:22:34.301198+00:00`
-- Market context score: `46.7`
-- News risk score: `49.02`
-- Macro risk score: `31.72`
-- Risk-on score: `34.92`
-- Articles: `82`
+- Generated: `2026-09-21T16:38:09.409578+00:00`
+- Market context score: `47.9`
+- News risk score: `47.6`
+- Macro risk score: `30.36`
+- Risk-on score: `35.88`
+- Articles: `81`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T16:15:00+00:00`
+- Day/swing latest: `2026-09-21T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `5`
-- macro: articles `51`, risk hits `13`, risk headline rate `0.2353`, policy hits `12`
+- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `5`
+- macro: articles `52`, risk hits `12`, risk headline rate `0.2115`, policy hits `12`
 
 ## Headlines
 
+- [macro] First UK charges brought over 1994 Rwanda genocide (BBC News)
+- [macro] London Fashion Week 2026: The five trends we'll see in spring (BBC News)
+- [macro] AMD stock soars to new record as semiconductors bounce: Chart of the Day (Yahoo Finance)
+- [macro] Nebius Stock Is Down Over 20% From Its High. Is Now the Time to Buy? (Yahoo Finance)
+- [macro] Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push (Yahoo Finance)
+- [macro] Why Novo Nordisk Stock Just Crashed (Yahoo Finance)
+- [macro] Stock Market Today: Dow Up As Boeing, Nvidia Pop; Bessent Touts This China AI Move (Live Coverage) (Yahoo Finance)
+- [macro] From $24 to $109: Intel’s Comeback Is Real. The Price Tag Is Now the Problem (Yahoo Finance)
 - [crypto] Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] CNN, MS NOW and Politico file lawsuit against Trump's White House ban (BBC News)
-- [macro] 3 Stocks Under $6 to Buy in the Fall (Yahoo Finance)
-- [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
-- [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
-- [macro] Why Direxion Daily Semiconductor Bull 3X ETF Just Popped (Yahoo Finance)
-- [macro] Why Meta Platforms Stock Skyrocketed Today (Yahoo Finance)
-- [macro] Neocloud Nscale, Rival Of CoreWeave And Nebius, Files For IPO (Yahoo Finance)
-- [macro] Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi (Yahoo Finance)
-- [macro] Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right? (Yahoo Finance)
