@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T20:22:26.143023+00:00`
-- Market context score: `43.52`
-- News risk score: `46.83`
-- Macro risk score: `39.7`
-- Risk-on score: `29.04`
-- Articles: `54`
+- Generated: `2026-09-21T20:38:05.351667+00:00`
+- Market context score: `44.31`
+- News risk score: `45.92`
+- Macro risk score: `38.36`
+- Risk-on score: `29.5`
+- Articles: `53`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T20:15:00+00:00`
+- Day/swing latest: `2026-09-21T20:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `5`
 - macro: articles `23`, risk hits `10`, risk headline rate `0.3478`, policy hits `1`
 
 ## Headlines
 
+- [macro] Millions urged to evacuate as powerful Typhoon Dujuan hits Japan (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
 - [crypto] Ondo lets institutions convert stocks directly into tokenized shares (Cointelegraph.com News)
 - [crypto] Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again (Cointelegraph.com News)
-- [macro] First UK charges brought over 1994 Rwanda genocide (BBC News)
