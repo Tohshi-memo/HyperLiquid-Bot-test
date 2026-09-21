@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T06:37:27.937209+00:00`
-- Market context score: `47.65`
-- News risk score: `31.88`
-- Macro risk score: `28.25`
-- Risk-on score: `21.25`
-- Articles: `20`
+- Generated: `2026-09-21T06:52:34.553687+00:00`
+- Market context score: `44.7`
+- News risk score: `36.21`
+- Macro risk score: `28.19`
+- Risk-on score: `18.33`
+- Articles: `21`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T06:30:00+00:00`
+- Day/swing latest: `2026-09-21T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 - macro: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bank of Korea launches 24-hour won settlement pilot for foreign investors (Cointelegraph.com News)
 - [macro] Nvidia boss rejects AI extinction fears as 'doomsday narratives' (BBC News)
 - [crypto] Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil falls as crude flows remain 'surprisingly strong' (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Hana Bank taps Euroclear blockchain for $100M bond issuance: Report (Cointelegraph.com News)
 - [commodity] Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting (Energy)
 - [crypto] Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC (BBC News)
