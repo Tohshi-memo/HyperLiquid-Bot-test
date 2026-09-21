@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T07:07:32.873717+00:00`
+- Generated: `2026-09-21T07:16:14.021774+00:00`
 - Market context score: `44.7`
 - News risk score: `36.21`
 - Macro risk score: `28.19`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T07:00:00+00:00`
+- Day/swing latest: `2026-09-21T07:15:00+00:00`
 
 ## News Categories
 
@@ -34,7 +34,7 @@
 - [macro] Nvidia boss rejects AI extinction fears as 'doomsday narratives' (BBC News)
 - [crypto] Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US and China discuss AI safety plan ahead of Trump-Xi summit (BBC News)
+- [macro] US and China discuss AI safety plan ahead of Trump-Xi summit (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin reclaims 50-week moving average as analysts eye end of bear market (Cointelegraph.com News)
 - [crypto] Hana Bank taps Euroclear blockchain for $100M bond issuance: Report (Cointelegraph.com News)
-- [commodity] Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting (Energy)
