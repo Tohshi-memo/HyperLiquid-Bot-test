@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T20:38:05.351667+00:00`
-- Market context score: `44.31`
-- News risk score: `45.92`
-- Macro risk score: `38.36`
-- Risk-on score: `29.5`
-- Articles: `53`
+- Generated: `2026-09-21T20:52:36.522201+00:00`
+- Market context score: `43.55`
+- News risk score: `46.19`
+- Macro risk score: `39.4`
+- Risk-on score: `28.45`
+- Articles: `52`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T20:30:00+00:00`
+- Day/swing latest: `2026-09-21T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `5`
-- macro: articles `23`, risk hits `10`, risk headline rate `0.3478`, policy hits `1`
+- macro: articles `22`, risk hits `10`, risk headline rate `0.3636`, policy hits `1`
 
 ## Headlines
 
+- [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
+- [crypto] Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Saudi Arabia exits China-backed mBridge CBDC project: FT (Cointelegraph.com News)
 - [macro] Millions urged to evacuate as powerful Typhoon Dujuan hits Japan (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
@@ -35,6 +38,3 @@
 - [commodity] U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN (Energy)
 - [crypto] Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose (BBC News)
-- [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
-- [crypto] Ondo lets institutions convert stocks directly into tokenized shares (Cointelegraph.com News)
-- [crypto] Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again (Cointelegraph.com News)
