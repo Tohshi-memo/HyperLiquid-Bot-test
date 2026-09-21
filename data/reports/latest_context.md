@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T11:37:33.417811+00:00`
-- Market context score: `42.37`
-- News risk score: `46.62`
-- Macro risk score: `27.98`
-- Risk-on score: `21.88`
+- Generated: `2026-09-21T11:52:29.864309+00:00`
+- Market context score: `41.18`
+- News risk score: `47.85`
+- Macro risk score: `29.08`
+- Risk-on score: `20.68`
 - Articles: `64`
 - Polymarket markets: `389`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T11:30:00+00:00`
+- Day/swing latest: `2026-09-21T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `2`
-- macro: articles `39`, risk hits `8`, risk headline rate `0.1538`, policy hits `12`
+- crypto: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `40`, risk hits `9`, risk headline rate `0.175`, policy hits `12`
 
 ## Headlines
 
-- [crypto] Bitcoin's 44% gain in third quarter teases full-blown crypto bull run (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Perp futures linked to 'bitcoin VIX' debut on Hyperliquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] ECB launches Pontes to settle tokenized assets without stablecoins (Cointelegraph.com News)
-- [macro] Sazerac tables Berentzen takeover bid (Yahoo Finance)
-- [macro] Does CuriosityStream Stock's 12% Dividend Make It a Buy? (Yahoo Finance)
-- [crypto] ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
+- [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
+- [macro] CATL develops US-specific battery despite trade restrictions – report (Yahoo Finance)
 - [macro] CNN, MS NOW and Politico to file lawsuit against Trump's White House ban (BBC News)
-- [macro] 5 easy ways US boomers become poor in retirement (after having a fairly fat nest egg) — are you making these mistakes? (Yahoo Finance)
-- [macro] Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison (Yahoo Finance)
-- [macro] Another aspect of Montgomery: it might make human brokers more valuable (Yahoo Finance)
+- [macro] Bank7 to acquire Century Financial Services in $137.3m deal (Yahoo Finance)
+- [macro] Why Is XRP Up Today? $300 Million in Shorts Liquidated as Bitcoin Surpasses $84,000 (Yahoo Finance)
+- [crypto] Bitcoin's 44% gain in third quarter teases full-blown crypto bull run (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] “Who Can Imagine What Action One Might Take”: Musk’s Latest Non-Answer Sends Tesla and SpaceX Higher (Yahoo Finance)
+- [crypto] Perp futures linked to 'bitcoin VIX' debut on Hyperliquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] ‘I just want out’: Billionaire Jeffrey Gundlach says you should have ‘almost nothing’ in AI stocks — what to buy instead (Yahoo Finance)
