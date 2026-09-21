@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T06:22:26.211738+00:00`
+- Generated: `2026-09-21T06:37:27.937209+00:00`
 - Market context score: `47.65`
 - News risk score: `31.88`
 - Macro risk score: `28.25`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T06:15:00+00:00`
+- Day/swing latest: `2026-09-21T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Nvidia boss rejects AI extinction fears as 'doomsday narratives' (BBC News)
 - [crypto] Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil falls as crude flows remain 'surprisingly strong' (Energy)
 - [macro] US and China discuss AI safety plan ahead of Trump-Xi summit (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting (Energy)
 - [crypto] Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC (BBC News)
-- [crypto] Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
