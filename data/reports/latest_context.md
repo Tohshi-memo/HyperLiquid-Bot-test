@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T15:22:28.919167+00:00`
-- Market context score: `46.73`
-- News risk score: `49.1`
-- Macro risk score: `32.92`
-- Risk-on score: `35.52`
+- Generated: `2026-09-21T15:37:32.136275+00:00`
+- Market context score: `48.17`
+- News risk score: `48.07`
+- Macro risk score: `30.85`
+- Risk-on score: `37.08`
 - Articles: `87`
 - Polymarket markets: `388`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T15:15:00+00:00`
+- Day/swing latest: `2026-09-21T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `5`
-- macro: articles `55`, risk hits `16`, risk headline rate `0.2727`, policy hits `7`
+- macro: articles `55`, risk hits `14`, risk headline rate `0.2364`, policy hits `7`
 
 ## Headlines
 
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
+- [macro] Xhaka under investigation over Covid-19 certificate (BBC News)
+- [macro] Paramount settles with US states in big step towards closing Warner Bros merger, source says (Yahoo Finance)
 - [macro] Cyber insurance gap leaves UK property businesses dangerously exposed: GlobalData (Yahoo Finance)
+- [macro] Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act – Corrected (Yahoo Finance)
 - [macro] Will Tilray Brands Stock Take Off Before the End of 2026? (Yahoo Finance)
+- [macro] Hugging Face Proves These Two AI Hyperscalers Were Best Protected Against AI Threats (Yahoo Finance)
 - [commodity] Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
 - [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
-- [macro] SEC audit rule rollback puts $400m in accounting fees at risk – report (Yahoo Finance)
-- [crypto] Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight (Cointelegraph.com News)
-- [macro] Wegovy Maker Novo Promises New Drugs to Boost Sales, but Investors Are Wary (Yahoo Finance)
-- [macro] Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage) (Yahoo Finance)
