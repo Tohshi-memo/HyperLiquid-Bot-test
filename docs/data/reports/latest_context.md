@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T20:52:36.522201+00:00`
+- Generated: `2026-09-21T21:07:30.728624+00:00`
 - Market context score: `43.55`
 - News risk score: `46.19`
 - Macro risk score: `39.4`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T20:45:00+00:00`
+- Day/swing latest: `2026-09-21T21:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros (BBC News)
+- [macro] Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros (BBC News)
 - [crypto] Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Saudi Arabia exits China-backed mBridge CBDC project: FT (Cointelegraph.com News)
 - [macro] Millions urged to evacuate as powerful Typhoon Dujuan hits Japan (BBC News)
