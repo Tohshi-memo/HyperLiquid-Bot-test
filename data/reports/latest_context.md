@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T14:52:29.795532+00:00`
-- Market context score: `51.99`
-- News risk score: `44.94`
-- Macro risk score: `25.15`
-- Risk-on score: `40.75`
-- Articles: `82`
+- Generated: `2026-09-21T15:07:38.711316+00:00`
+- Market context score: `50.03`
+- News risk score: `46.63`
+- Macro risk score: `27.19`
+- Risk-on score: `38.61`
+- Articles: `86`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T14:45:00+00:00`
+- Day/swing latest: `2026-09-21T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `5`
-- macro: articles `53`, risk hits `9`, risk headline rate `0.1321`, policy hits `5`
+- crypto: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `5`
+- macro: articles `55`, risk hits `12`, risk headline rate `0.1818`, policy hits `2`
 
 ## Headlines
 
 - [commodity] Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
-- [macro] Bank of America says buy tumbling shares of aviation giant (Yahoo Finance)
-- [macro] Should You be Bullish on American Healthcare REIT (AHR)? (Yahoo Finance)
-- [macro] Larvotto begins gold and antimony concentrate output at Hillgrove (Yahoo Finance)
-- [macro] Bitcoin and ethereum prices today, Monday, September 21, 2026: Crypto prices hit highest levels in 8 months (Yahoo Finance)
-- [macro] Tom Lee Says Institutions Are Still Underweight Crypto After Latest BitMine ETH Buy (Yahoo Finance)
-- [macro] Why Is BNB Up Today? It’s Back Above $100 Billion and Up 12% This Month (Yahoo Finance)
-- [macro] CNN, MS NOW and Politico to file lawsuit against Trump's White House ban (BBC News)
-- [macro] Baron Capital Sees Blackstone Mortgage Trust (BXMT) as a Compelling Opportunity (Yahoo Finance)
-- [macro] Nvidia vs. Eli Lilly: I’d Choose This Stock for the Next Decade (Yahoo Finance)
+- [crypto] ECB plans to buy tokenized bonds with its own funds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
+- [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
+- [macro] Jade to assess deeper gas potential at Mongolia’s TTCBM project (Yahoo Finance)
+- [crypto] Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Why Novo Stock Is Tumbling After Drugmaker Unveils Ambitious Growth Plan (Yahoo Finance)
+- [macro] History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO) in September (Yahoo Finance)
+- [macro] Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk (Yahoo Finance)
+- [macro] Forget Tech Billionaires. Economists Say Car Dealers Are the Number One Source of Top 1% Pass-Through Business Income (Yahoo Finance)
