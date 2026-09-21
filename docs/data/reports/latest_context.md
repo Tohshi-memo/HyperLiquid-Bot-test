@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T16:53:06.668548+00:00`
-- Market context score: `46.87`
-- News risk score: `48.7`
-- Macro risk score: `32.5`
-- Risk-on score: `35.34`
-- Articles: `82`
+- Generated: `2026-09-21T17:07:30.485272+00:00`
+- Market context score: `48.41`
+- News risk score: `46.97`
+- Macro risk score: `30.01`
+- Risk-on score: `36.35`
+- Articles: `83`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T16:45:00+00:00`
+- Day/swing latest: `2026-09-21T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `5`
-- macro: articles `53`, risk hits `14`, risk headline rate `0.2453`, policy hits `13`
+- crypto: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `5`
+- macro: articles `53`, risk hits `13`, risk headline rate `0.2075`, policy hits `11`
 
 ## Headlines
 
-- [commodity] Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
-- [crypto] Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’ (Cointelegraph.com News)
-- [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
-- [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
-- [macro] Repeated air traffic control failures leave us in worrying territory (BBC News)
-- [macro] Oil Shipping Costs Explode 258% Higher in 2 Months. Here’s Why Everything Is About to Get More Expensive (Yahoo Finance)
+- [macro] Two charged with woman's murder as South Africa police investigate eight other body finds (BBC News)
+- [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
 - [macro] First UK charges brought over 1994 Rwanda genocide (BBC News)
-- [macro] Google & Apple hunt for crypto talent (Yahoo Finance)
-- [macro] Takeaways for banks from Walmart's about-face on Apple and Google wallets (Yahoo Finance)
-- [macro] AI Leader AMD Breaks Out Past New Buy Point With This Bullish Signal (Yahoo Finance)
+- [crypto] Circle launches Bitcoin-backed USDC borrowing for institutional clients (Cointelegraph.com News)
+- [macro] Merz vows to keep coalition together for Germany's 'democratic future' (BBC News)
+- [macro] Watch: Timelapse shows typhoon barrelling towards Japan (BBC News)
+- [macro] Stock Market Signals a Rare Historical Pattern: Are Investors Prepared for What Comes Next? (Yahoo Finance)
+- [macro] Chewy vs. Coupang: Which E-Commerce Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4% (Yahoo Finance)
+- [macro] Cord Meyer Breaks Ground on $100M Queens Housing Project (Yahoo Finance)
