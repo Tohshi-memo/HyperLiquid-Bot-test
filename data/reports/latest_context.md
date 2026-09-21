@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T04:37:26.896150+00:00`
-- Market context score: `41.75`
-- News risk score: `38.85`
-- Macro risk score: `35.38`
-- Risk-on score: `16.73`
-- Articles: `16`
+- Generated: `2026-09-21T04:52:24.647840+00:00`
+- Market context score: `45.48`
+- News risk score: `34.31`
+- Macro risk score: `31.47`
+- Risk-on score: `19.71`
+- Articles: `17`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T04:30:00+00:00`
+- Day/swing latest: `2026-09-21T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `2`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `8`, risk hits `3`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil falls as crude flows remain 'surprisingly strong' (Energy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] Bitcoin reclaims 50-week moving average: Is the bear market over? (Cointelegraph.com News)
 - [crypto] Hana Bank taps Euroclear blockchain for $100M bond issuance: Report (Cointelegraph.com News)
 - [commodity] Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting (Energy)
 - [crypto] Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC (BBC News)
 - [crypto] Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
-- [commodity] Oil falls as crude flows remain 'surprisingly strong' (Energy)
 - [crypto] North Korean fake recruiters infect 30K devices, steal $10.7M in crypto (Cointelegraph.com News)
-- [macro] Why Japan’s markets flipped the usual script after central bank rate hike (Economy)
-- [macro] Nvidia boss rejects AI extinction fears as 'doomsday narratives' (BBC News)
