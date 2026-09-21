@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T15:07:38.711316+00:00`
-- Market context score: `50.03`
-- News risk score: `46.63`
-- Macro risk score: `27.19`
-- Risk-on score: `38.61`
-- Articles: `86`
+- Generated: `2026-09-21T15:22:28.919167+00:00`
+- Market context score: `46.73`
+- News risk score: `49.1`
+- Macro risk score: `32.92`
+- Risk-on score: `35.52`
+- Articles: `87`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T15:00:00+00:00`
+- Day/swing latest: `2026-09-21T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `5`
-- macro: articles `55`, risk hits `12`, risk headline rate `0.1818`, policy hits `2`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `5`
+- macro: articles `55`, risk hits `16`, risk headline rate `0.2727`, policy hits `7`
 
 ## Headlines
 
-- [commodity] Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
-- [crypto] ECB plans to buy tokenized bonds with its own funds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
-- [macro] Jade to assess deeper gas potential at Mongolia’s TTCBM project (Yahoo Finance)
-- [crypto] Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Why Novo Stock Is Tumbling After Drugmaker Unveils Ambitious Growth Plan (Yahoo Finance)
-- [macro] History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO) in September (Yahoo Finance)
-- [macro] Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk (Yahoo Finance)
-- [macro] Forget Tech Billionaires. Economists Say Car Dealers Are the Number One Source of Top 1% Pass-Through Business Income (Yahoo Finance)
+- [macro] Cyber insurance gap leaves UK property businesses dangerously exposed: GlobalData (Yahoo Finance)
+- [macro] Will Tilray Brands Stock Take Off Before the End of 2026? (Yahoo Finance)
+- [commodity] Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
+- [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
+- [macro] SEC audit rule rollback puts $400m in accounting fees at risk – report (Yahoo Finance)
+- [crypto] Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight (Cointelegraph.com News)
+- [macro] Wegovy Maker Novo Promises New Drugs to Boost Sales, but Investors Are Wary (Yahoo Finance)
+- [macro] Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage) (Yahoo Finance)
