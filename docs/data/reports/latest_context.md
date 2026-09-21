@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T19:52:36.271627+00:00`
-- Market context score: `43.72`
-- News risk score: `47.11`
-- Macro risk score: `38.75`
-- Risk-on score: `29.37`
-- Articles: `55`
+- Generated: `2026-09-21T20:09:22.134847+00:00`
+- Market context score: `43.52`
+- News risk score: `46.83`
+- Macro risk score: `39.7`
+- Risk-on score: `29.04`
+- Articles: `54`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T19:45:00+00:00`
+- Day/swing latest: `2026-09-21T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `5`
-- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `5`
+- crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `5`
+- macro: articles `23`, risk hits `10`, risk headline rate `0.3478`, policy hits `1`
 
 ## Headlines
 
+- [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
+- [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN (Energy)
 - [crypto] Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Ondo lets institutions convert stocks directly into tokenized shares (Cointelegraph.com News)
 - [crypto] Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again (Cointelegraph.com News)
 - [macro] First UK charges brought over 1994 Rwanda genocide (BBC News)
-- [macro] Two charged with woman's murder as South Africa police investigate eight other body finds (BBC News)
-- [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
-- [crypto] Circle launches Bitcoin-backed USDC borrowing for institutional clients (Cointelegraph.com News)
