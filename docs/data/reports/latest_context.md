@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T15:37:32.136275+00:00`
-- Market context score: `48.17`
-- News risk score: `48.07`
-- Macro risk score: `30.85`
-- Risk-on score: `37.08`
-- Articles: `87`
-- Polymarket markets: `388`
+- Generated: `2026-09-21T15:52:31.874182+00:00`
+- Market context score: `46.41`
+- News risk score: `48.75`
+- Macro risk score: `32.08`
+- Risk-on score: `34.19`
+- Articles: `85`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T15:30:00+00:00`
+- Day/swing latest: `2026-09-21T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `5`
-- macro: articles `55`, risk hits `14`, risk headline rate `0.2364`, policy hits `7`
+- macro: articles `53`, risk hits `14`, risk headline rate `0.2453`, policy hits `12`
 
 ## Headlines
 
+- [macro] Beijing unveils blueprint for biomedical dominance by 2030 (Yahoo Finance)
+- [macro] The Investing Playbook for Retirees Who Can't Afford to Lose (Yahoo Finance)
+- [macro] Bank of America hikes S&P 500 target after Al trade cracks (Yahoo Finance)
+- [macro] Ackman Bets $1 Billion on Netflix Redemption After $400 Million 2022 Loss (Yahoo Finance)
+- [macro] Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right? (Yahoo Finance)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
 - [macro] Xhaka under investigation over Covid-19 certificate (BBC News)
-- [macro] Paramount settles with US states in big step towards closing Warner Bros merger, source says (Yahoo Finance)
-- [macro] Cyber insurance gap leaves UK property businesses dangerously exposed: GlobalData (Yahoo Finance)
 - [macro] Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act – Corrected (Yahoo Finance)
-- [macro] Will Tilray Brands Stock Take Off Before the End of 2026? (Yahoo Finance)
-- [macro] Hugging Face Proves These Two AI Hyperscalers Were Best Protected Against AI Threats (Yahoo Finance)
 - [commodity] Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran (Energy)
-- [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
