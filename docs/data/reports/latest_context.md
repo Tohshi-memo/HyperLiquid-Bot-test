@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T01:07:25.712799+00:00`
-- Market context score: `53.81`
-- News risk score: `24.07`
-- Macro risk score: `23.79`
-- Risk-on score: `26.67`
-- Articles: `14`
+- Generated: `2026-09-21T01:22:27.866299+00:00`
+- Market context score: `51.9`
+- News risk score: `25.92`
+- Macro risk score: `27.51`
+- Risk-on score: `25.38`
+- Articles: `15`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T01:00:00+00:00`
+- Day/swing latest: `2026-09-21T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `11`, risk hits `3`, risk headline rate `0.1818`, policy hits `2`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
@@ -35,6 +35,6 @@
 - [macro] Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece (BBC News)
 - [macro] German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News)
 - [macro] Sister of Pakistan's ex-PM Imran Khan arrested (BBC News)
+- [macro] Chevron CEO sends a strong message on oil price and the economy (Yahoo Finance)
 - [macro] Trump says triumphal arch will be military complex with drones and snipers (BBC News)
 - [macro] Dollar General CEO raises major red flag about consumers (Yahoo Finance)
-- [crypto] Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
