@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T10:22:33.841617+00:00`
-- Market context score: `40.7`
-- News risk score: `48.86`
-- Macro risk score: `30.16`
-- Risk-on score: `20.87`
-- Articles: `54`
+- Generated: `2026-09-21T10:37:27.495767+00:00`
+- Market context score: `41.02`
+- News risk score: `47.96`
+- Macro risk score: `31.13`
+- Risk-on score: `21.18`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-21T10:15:00+00:00`
+- Day/swing latest: `2026-09-21T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `2`
-- macro: articles `36`, risk hits `8`, risk headline rate `0.1944`, policy hits `10`
+- crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `2`
+- macro: articles `37`, risk hits `9`, risk headline rate `0.2162`, policy hits `10`
 
 ## Headlines
 
+- [macro] Three arrested in South Africa over one of nine women's bodies found (BBC News)
+- [crypto] Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Seven Ethiopian rebel groups form new alliance (BBC News)
+- [macro] What are my rights if my flight is cancelled or delayed? (BBC News)
+- [crypto] BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week (Cointelegraph.com News)
 - [crypto] X sues its own users for running a fake bitcoin news bot farm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference (Yahoo Finance)
+- [macro] Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] Telix to acquire ITM in deal worth up to $2.35bn (Yahoo Finance)
+- [macro] Frank Gardner: Inside a camp for Yemeni refugees who have fled to Djibouti (BBC News)
 - [macro] Inside a camp for Yemeni refugees who have fled to Djibouti (BBC News)
-- [macro] Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week (Yahoo Finance)
-- [macro] Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY (Yahoo Finance)
-- [macro] HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential (Yahoo Finance)
-- [macro] Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY (Yahoo Finance)
-- [macro] Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower (Yahoo Finance)
-- [macro] Accenture Shares Climb in Premarket Trading on AI Safety Partnership with Anthropic (Yahoo Finance)
-- [macro] Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG (Yahoo Finance)
