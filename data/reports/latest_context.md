@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-21T07:16:14.021774+00:00`
-- Market context score: `44.7`
-- News risk score: `36.21`
-- Macro risk score: `28.19`
+- Generated: `2026-09-21T07:22:29.277338+00:00`
+- Market context score: `44.77`
+- News risk score: `36.1`
+- Macro risk score: `28.0`
 - Risk-on score: `18.33`
-- Articles: `21`
+- Articles: `25`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -24,17 +24,17 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `2`
 
 ## Headlines
 
 - [commodity] Oil falls as crude flows remain 'surprisingly strong' (Energy)
-- [macro] 'No surprises' as results emerge in Russian parliamentary election (BBC News)
+- [macro] Presley Gerber, Cindy Crawford's son, dies aged 27 (BBC News)
 - [crypto] Bank of Korea launches 24-hour won settlement pilot for foreign investors (Cointelegraph.com News)
 - [macro] Nvidia boss rejects AI extinction fears as 'doomsday narratives' (BBC News)
 - [crypto] Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Lindsay Clancy's ex-husband explains why he forgave her over children's killings (BBC News)
 - [macro] US and China discuss AI safety plan ahead of Trump-Xi summit (BBC News)
 - [macro] US and China discuss AI safety plan ahead of Trump-Xi summit (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin reclaims 50-week moving average as analysts eye end of bear market (Cointelegraph.com News)
-- [crypto] Hana Bank taps Euroclear blockchain for $100M bond issuance: Report (Cointelegraph.com News)
