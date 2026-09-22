@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T02:22:30.604484+00:00`
-- Market context score: `45.76`
-- News risk score: `39.75`
-- Macro risk score: `33.0`
-- Risk-on score: `25.5`
+- Generated: `2026-09-22T02:37:27.512921+00:00`
+- Market context score: `45.47`
+- News risk score: `37.86`
+- Macro risk score: `30.95`
+- Risk-on score: `22.48`
 - Articles: `32`
 - Polymarket markets: `390`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T02:15:00+00:00`
+- Day/swing latest: `2026-09-22T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
+- macro: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg (Cointelegraph.com News)
 - [commodity] All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC (Energy)
 - [macro] Flights at major US airports delayed after cable cut by construction workers (BBC News)
 - [macro] CNN, MS NOW and Politico file lawsuit against Trump's White House ban (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Saudi Arabia exits China-backed mBridge CBDC project: FT (Cointelegraph.com News)
 - [macro] Millions urged to evacuate as powerful Typhoon Dujuan hits Japan (BBC News)
-- [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
