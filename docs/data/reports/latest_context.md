@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T16:37:41.757093+00:00`
-- Market context score: `49.59`
-- News risk score: `49.37`
-- Macro risk score: `26.37`
-- Risk-on score: `39.64`
-- Articles: `87`
+- Generated: `2026-09-22T16:52:34.550700+00:00`
+- Market context score: `48.55`
+- News risk score: `48.75`
+- Macro risk score: `25.14`
+- Risk-on score: `36.34`
+- Articles: `88`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T16:30:00+00:00`
+- Day/swing latest: `2026-09-22T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `28`, risk hits `12`, risk headline rate `0.3571`, policy hits `2`
-- macro: articles `54`, risk hits `10`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `55`, risk hits `9`, risk headline rate `0.1455`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 
 ## Headlines
 
-- [macro] 'We screwed up': Doordash admits underpaying New York workers (BBC News)
-- [commodity] Oil little changed after Trump tells UN that Iran will make a deal after midterm elections (Energy)
-- [macro] Should Dividend Investors Buy Pfizer Stock for Its High Yield or Invest in Eli Lilly for Its Dividend Growth? (Yahoo Finance)
-- [crypto] Zcash gets first European ETP following US ETF launch (Cointelegraph.com News)
-- [macro] U.S. M2 Money Supply Recently Grew at the Fastest Pace Seen in 3 Years. It Could Be an Ominous Sign With Inflation at 3.4%. (Yahoo Finance)
-- [macro] Down 47%, Is This a Generational Buying Opportunity to Load Up on Dutch Bros Stock? (Yahoo Finance)
 - [macro] Davey promises tax cuts for millions if UK rejoins EU single market (BBC News)
-- [macro] Microsoft Scores Positive Reviews On AI Momentum (Yahoo Finance)
-- [commodity] Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on (Energy)
-- [crypto] Bitcoin price seeks $86K as new support after oil dips below $90 (Cointelegraph.com News)
+- [macro] 'We screwed up': Doordash admits underpaying New York workers (BBC News)
+- [macro] Why Crane Co. (CR) Was Among Gabelli’s Top Q2 Performers (Yahoo Finance)
+- [macro] Why Gorman-Rupp Co. (GRC) Was a Top Performer for Gabelli in Q2 (Yahoo Finance)
+- [macro] A Wells Fargo Analyst Noticed He Stopped Watching Netflix, Then Told Clients to Sell (Yahoo Finance)
+- [macro] Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout (Yahoo Finance)
+- [macro] Why Brinker International Stock Jumped Today (Yahoo Finance)
+- [macro] CoreWeave Has the Ingredients for a Monster Rally. Here’s Our Price Target (Yahoo Finance)
+- [macro] Berkshire Hathaway Raises Stake In This Ramshackle Homebuilder (Yahoo Finance)
+- [commodity] Oil little changed after Trump tells UN that Iran will make a deal after midterm elections (Energy)
