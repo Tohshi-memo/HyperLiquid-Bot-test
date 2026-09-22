@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T14:37:36.192425+00:00`
-- Market context score: `47.92`
-- News risk score: `49.46`
-- Macro risk score: `29.5`
-- Risk-on score: `37.18`
-- Articles: `80`
+- Generated: `2026-09-22T14:52:31.439914+00:00`
+- Market context score: `48.98`
+- News risk score: `48.37`
+- Macro risk score: `27.44`
+- Risk-on score: `37.83`
+- Articles: `81`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T14:30:00+00:00`
+- Day/swing latest: `2026-09-22T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `28`, risk hits `11`, risk headline rate `0.3214`, policy hits `2`
-- macro: articles `48`, risk hits `16`, risk headline rate `0.2083`, policy hits `7`
+- macro: articles `49`, risk hits `12`, risk headline rate `0.1837`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Autopsy shows Hayden Panettiere died from a drug overdose (BBC News)
+- [macro] Why Scorpio Tankers Stock Dropped Today (Yahoo Finance)
+- [macro] These 2 Companies Are Quietly Powering the AI Boom. No, It's Not Nvidia or Palantir. (Yahoo Finance)
+- [macro] Trump Accounts could help lower-income families most. Few have signed up. (Yahoo Finance)
 - [crypto] European central banks push to expand stablecoin yield ban to crypto lending and staking (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Father admits causing death of his son in Cyprus hotel fall (BBC News)
-- [macro] Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious (BBC News)
-- [policy] Jefferson, Discount Window Modernization and Treasury Market Functioning (FRB: Speeches)
-- [macro] AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally (Yahoo Finance)
-- [macro] Veteran BBC Africa correspondent Mark Doyle dies (BBC News)
-- [macro] Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years (Yahoo Finance)
-- [macro] Scaramucci Says Bitcoin Doesn’t Need the Clarity Act. He Says Bessent’s Bond Move Is What’s Really Driving the Rally. (Yahoo Finance)
-- [macro] Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2 (Yahoo Finance)
-- [macro] Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2 (Yahoo Finance)
+- [macro] How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground (Yahoo Finance)
+- [macro] GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares (Yahoo Finance)
+- [macro] This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths (Yahoo Finance)
+- [macro] Strong Results Lifted CTS Corporation (CTS) in Q2 (Yahoo Finance)
