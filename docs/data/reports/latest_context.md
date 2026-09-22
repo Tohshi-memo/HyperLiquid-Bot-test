@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T15:37:30.739132+00:00`
-- Market context score: `51.61`
+- Generated: `2026-09-22T15:52:41.489531+00:00`
+- Market context score: `51.23`
 - News risk score: `46.54`
 - Macro risk score: `23.9`
-- Risk-on score: `40.79`
+- Risk-on score: `39.94`
 - Articles: `84`
 - Polymarket markets: `390`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T15:30:00+00:00`
+- Day/swing latest: `2026-09-22T15:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices (BBC News)
+- [macro] Analyst Says Sandisk to Hit $2,400 as NAND Flash Becomes Critical AI Infrastructure (Yahoo Finance)
+- [macro] Warner Bros., Paramount stocks jump, but there’s a twist (Yahoo Finance)
+- [crypto] ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins (Cointelegraph.com News)
+- [macro] Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first (Yahoo Finance)
+- [macro] Circle Stock Spikes As Binance Takes $100 Million Slice (Yahoo Finance)
 - [commodity] Oil little changed after Trump tells UN that Iran will make a deal after midterm elections (Energy)
+- [macro] Stock Market Today: Dow Slips But Apple Touches A Buy Point; Homebuilder, Retailer Funds Shine (Live Coverage) (Yahoo Finance)
+- [macro] Maximus’ (MMS) Tech Capabilities and Beaten-Down Valuation Point to M&A Upside (Yahoo Finance)
 - [crypto] Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] AIG names Sierra Signorelli CEO for Americas and global insurance (Yahoo Finance)
-- [macro] Autopsy shows Hayden Panettiere died from a drug overdose (BBC News)
-- [macro] Homes or Stocks? US Households Now Lean on Stocks Like Never Before (Yahoo Finance)
-- [macro] Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction (Yahoo Finance)
-- [macro] Saudi Arabia restarts East-West oil pipeline, sources say (Yahoo Finance)
-- [macro] What Makes Berkshire Hathaway (BRK-B) a Strong Investment? (Yahoo Finance)
-- [macro] ICON Public Limited Company’s (ICLR) Shrinking Moat Warranted an Early Departure (Yahoo Finance)
-- [macro] Meta Muse AI may throw gas on the labor displacement problem — but it's not all doom and gloom (Yahoo Finance)
