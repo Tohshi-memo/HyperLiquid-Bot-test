@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T01:37:27.951964+00:00`
-- Market context score: `43.36`
-- News risk score: `42.11`
-- Macro risk score: `37.71`
-- Risk-on score: `23.93`
-- Articles: `33`
+- Generated: `2026-09-22T01:52:28.030107+00:00`
+- Market context score: `43.95`
+- News risk score: `41.52`
+- Macro risk score: `36.55`
+- Risk-on score: `24.32`
+- Articles: `34`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T01:30:00+00:00`
+- Day/swing latest: `2026-09-22T01:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
 
 ## Headlines
 
+- [commodity] All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC (Energy)
 - [macro] Flights at major US airports delayed after cable cut by construction workers (BBC News)
 - [macro] CNN, MS NOW and Politico file lawsuit against Trump's White House ban (BBC News)
 - [macro] I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Saudi Arabia exits China-backed mBridge CBDC project: FT (Cointelegraph.com News)
 - [macro] Millions urged to evacuate as powerful Typhoon Dujuan hits Japan (BBC News)
 - [macro] Airlines criticise air traffic control as second glitch causes more disruption (BBC News)
-- [macro] Airlines criticise air traffic control as second glitch causes more disruption in UK (BBC News)
