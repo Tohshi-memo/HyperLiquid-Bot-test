@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T06:22:34.434782+00:00`
-- Market context score: `39.73`
-- News risk score: `41.25`
+- Generated: `2026-09-22T06:37:32.286754+00:00`
+- Market context score: `37.18`
+- News risk score: `45.0`
 - Macro risk score: `36.0`
-- Risk-on score: `14.5`
+- Risk-on score: `12.0`
 - Articles: `27`
 - Polymarket markets: `390`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T06:15:00+00:00`
+- Day/swing latest: `2026-09-22T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `12`, risk hits `6`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Four dead after powerful Typhoon Dujuan lashes Japan (BBC News)
 - [commodity] Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning (Energy)
 - [commodity] All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC (Energy)
@@ -37,4 +38,3 @@
 - [macro] Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly (BBC News)
 - [crypto] Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Cardano joins Solana, XRP Ledger in race to power AI agent payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Trueo prediction market moves from Base to Ethereum (Cointelegraph.com News)
