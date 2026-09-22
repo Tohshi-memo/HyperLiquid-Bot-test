@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T22:37:32.862092+00:00`
+- Generated: `2026-09-22T22:52:28.257846+00:00`
 - Market context score: `38.36`
 - News risk score: `52.71`
 - Macro risk score: `34.99`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T22:30:00+00:00`
+- Day/swing latest: `2026-09-22T22:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Watch: Threats, deals and passionate speeches at UNGA event (BBC News)
 - [macro] Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines (BBC News)
 - [macro] US to build two military bases in Greenland under new deal with Denmark (BBC News)
 - [crypto] Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] How Ceuta, football and Israel are shaping Morocco's election (BBC News)
 - [crypto] Republican senator calls for probe into US presidents’ sons, citing crypto ventures (Cointelegraph.com News)
 - [macro] Trump says he would back ban on diesel exports (BBC News)
-- [crypto] Crypto market structure can't wait for shot at post-election Clarity Act surge: White House (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
