@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T15:22:35.607884+00:00`
-- Market context score: `52.88`
-- News risk score: `44.61`
-- Macro risk score: `22.25`
-- Risk-on score: `41.36`
-- Articles: `82`
+- Generated: `2026-09-22T15:37:30.739132+00:00`
+- Market context score: `51.61`
+- News risk score: `46.54`
+- Macro risk score: `23.9`
+- Risk-on score: `40.79`
+- Articles: `84`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T15:15:00+00:00`
+- Day/swing latest: `2026-09-22T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `27`, risk hits `10`, risk headline rate `0.2963`, policy hits `2`
-- macro: articles `51`, risk hits `6`, risk headline rate `0.098`, policy hits `3`
+- crypto: articles `28`, risk hits `11`, risk headline rate `0.3214`, policy hits `2`
+- macro: articles `52`, risk hits `8`, risk headline rate `0.1346`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 
 ## Headlines
 
 - [commodity] Oil little changed after Trump tells UN that Iran will make a deal after midterm elections (Energy)
+- [crypto] Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] AIG names Sierra Signorelli CEO for Americas and global insurance (Yahoo Finance)
 - [macro] Autopsy shows Hayden Panettiere died from a drug overdose (BBC News)
+- [macro] Homes or Stocks? US Households Now Lean on Stocks Like Never Before (Yahoo Finance)
+- [macro] Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction (Yahoo Finance)
+- [macro] Saudi Arabia restarts East-West oil pipeline, sources say (Yahoo Finance)
+- [macro] What Makes Berkshire Hathaway (BRK-B) a Strong Investment? (Yahoo Finance)
+- [macro] ICON Public Limited Company’s (ICLR) Shrinking Moat Warranted an Early Departure (Yahoo Finance)
 - [macro] Meta Muse AI may throw gas on the labor displacement problem — but it's not all doom and gloom (Yahoo Finance)
-- [macro] ‘Primal Scream From Commercial Real Estate’: A CEO Says $1 Trillion in Property Debt Now Faces Refinancing at Nearly Double Its Original Rate, Adding an Estimated $600,000 a Year in Interest on a Typical Building (Yahoo Finance)
-- [macro] Marram Exits PayPal Holdings (PYPL) Due to Thesis Breakdown (Yahoo Finance)
-- [macro] Why On Holding Stock Popped Today (Yahoo Finance)
-- [macro] Silver Beech’s Investment Thesis for Arthur J. Gallagher (AJG) (Yahoo Finance)
-- [macro] Bitcoin ETFs Attract Nearly $1 Billion As Crypto Rally Strengthens (Yahoo Finance)
-- [macro] This Fund Trimmed Matson (MATX) on Strength (Yahoo Finance)
-- [macro] Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC) (Yahoo Finance)
