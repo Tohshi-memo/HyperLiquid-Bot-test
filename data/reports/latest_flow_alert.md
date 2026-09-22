@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-22T05:35:27.191175+00:00`
+- Generated: `2026-09-22T05:40:37.015423+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9701132.38`
+- Polymarket 24h volume: `9761538.62`
 - Polymarket volume z-score: `-0.61`
 
 ## Top Polymarket Markets
 
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681872.3` | liquidity: `634890.72277`
-- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `424320.16634300014` | liquidity: `48908.5332`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `413481.1333019998` | liquidity: `558568.3454`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `345302.6774530001` | liquidity: `586355.349`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `340132.1499719999` | liquidity: `883303.68126`
-- Trump out as President by September 30? | 24h volume: `294854.110172` | liquidity: `250317.97477`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `293819.71743300057` | liquidity: `413375.799`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `270515.65737` | liquidity: `338035.72296`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681872.3` | liquidity: `634008.18527`
+- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `424320.16634300014` | liquidity: `48287.9332`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `412278.03843699984` | liquidity: `574186.9558`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `345270.0574530001` | liquidity: `582133.0823`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `320059.8284720001` | liquidity: `885462.70526`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `296249.45571100054` | liquidity: `419241.0875`
+- Trump out as President by September 30? | 24h volume: `294854.110172` | liquidity: `250176.40079`
+- Will the U.S. invade Iran before 2027? | 24h volume: `267825.55881299987` | liquidity: `967392.441`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
