@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-22T16:40:35.357476+00:00`
+- Generated: `2026-09-22T16:45:44.713685+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `688927.0933369999` | liquidity: `750436.9137`
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `682250.809` | liquidity: `657333.52058`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `484150.0` | liquidity: `1548278.6039`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `380190.697114` | liquidity: `357110.9058`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `312533.46445500053` | liquidity: `315979.3441`
-- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `306344.19491900003` | liquidity: `46841.0457`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `292791.7157330001` | liquidity: `474316.8432`
-- Trump out as President by September 30? | 24h volume: `287723.093011` | liquidity: `215033.60556`
+- Will the U.S. invade Iran before 2027? | 24h volume: `688927.0933369999` | liquidity: `752324.0262`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `682250.809` | liquidity: `659011.6015`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `484150.0` | liquidity: `1546813.2039`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `380190.697114` | liquidity: `363151.7477`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `312533.46445500053` | liquidity: `318380.369`
+- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `306344.19491900003` | liquidity: `46844.4168`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `292791.7157330001` | liquidity: `475395.6146`
+- Trump out as President by September 30? | 24h volume: `287723.093011` | liquidity: `216434.58679`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
