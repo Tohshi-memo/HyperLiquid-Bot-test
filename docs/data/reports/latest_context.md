@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T13:07:30.284049+00:00`
-- Market context score: `47.28`
-- News risk score: `47.77`
-- Macro risk score: `27.67`
-- Risk-on score: `33.64`
-- Articles: `79`
+- Generated: `2026-09-22T13:22:32.663989+00:00`
+- Market context score: `43.89`
+- News risk score: `50.43`
+- Macro risk score: `30.74`
+- Risk-on score: `29.52`
+- Articles: `80`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T13:00:00+00:00`
+- Day/swing latest: `2026-09-22T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `1`
-- macro: articles `50`, risk hits `15`, risk headline rate `0.22`, policy hits `2`
+- crypto: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `50`, risk hits `18`, risk headline rate `0.28`, policy hits `1`
 
 ## Headlines
 
 - [macro] Sri Lanka court convicts 15 men over deadly Easter Sunday bombings (BBC News)
-- [commodity] Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure (Energy)
-- [macro] Developing El Niño becomes strongest on record weeks before expected peak (BBC News)
-- [macro] Strategy's Stock Has Soared 40% in the Past Month as It's Buying Bitcoins Again (Yahoo Finance)
-- [macro] DoorDash Chief Business Officer Keith Yandell Sells 2,184 Shares (Yahoo Finance)
-- [macro] Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030 (Yahoo Finance)
-- [macro] David Einhorn says young Americans are too ‘impatient’ to buy homes. With mortgages near 7%, is he wildly out of touch? (Yahoo Finance)
-- [macro] Apple May Return to Servers With Its Own AI Chips. Nvidia Could Still Get Paid (Yahoo Finance)
-- [commodity] Oil prices fall after report Saudi Arabia aims to restart critical pipeline this week (Energy)
-- [macro] BMW CEO sees risk of cheap Chinese cars in Europe but opposes tariffs (Yahoo Finance)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins (Cointelegraph.com News)
+- [commodity] Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war (Energy)
+- [macro] Bounty Oil & Gas agrees deal for Liberia deepwater block (Yahoo Finance)
+- [macro] The Clock Is Ticking on GameStop’s eBay Acquisition Play as Warrants Near Expiration (Yahoo Finance)
+- [macro] What Makes Prologis (PLD) a Strong Investment? (Yahoo Finance)
+- [macro] Cybin Shareholders Weigh Helus Pharma Rebrand, Eight-Member Board (Yahoo Finance)
+- [macro] Ramit Sethi warns couple earning $112K with no mortgage they'll go broke if they keep spending 108% of their income (Yahoo Finance)
+- [macro] Equinix (EQIX) Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise AI (Yahoo Finance)
