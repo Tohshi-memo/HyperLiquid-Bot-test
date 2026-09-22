@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T04:22:32.465641+00:00`
-- Market context score: `40.7`
-- News risk score: `40.3`
-- Macro risk score: `34.11`
-- Risk-on score: `15.13`
-- Articles: `31`
-- Polymarket markets: `390`
+- Generated: `2026-09-22T04:37:27.198695+00:00`
+- Market context score: `39.67`
+- News risk score: `41.02`
+- Macro risk score: `37.26`
+- Risk-on score: `14.66`
+- Articles: `32`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T04:15:00+00:00`
+- Day/swing latest: `2026-09-22T04:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `17`, risk hits `8`, risk headline rate `0.3529`, policy hits `0`
+- commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
+- macro: articles `16`, risk hits `8`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning (Energy)
 - [crypto] Cardano joins Solana, XRP Ledger in race to power AI agent payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trueo prediction market moves from Base to Ethereum (Cointelegraph.com News)
 - [crypto] Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Flights at major US airports delayed after cable cut by construction workers (BBC News)
 - [macro] CNN, MS NOW and Politico file lawsuit against Trump's White House ban (BBC News)
 - [macro] I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance (BBC News)
-- [macro] Vet prescription fees capped under rule changes (BBC News)
-- [macro] Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros (BBC News)
