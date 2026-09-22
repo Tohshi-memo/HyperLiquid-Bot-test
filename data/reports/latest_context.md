@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T23:37:32.456591+00:00`
+- Generated: `2026-09-22T23:52:36.644487+00:00`
 - Market context score: `38.56`
 - News risk score: `51.63`
 - Macro risk score: `34.34`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T23:30:00+00:00`
+- Day/swing latest: `2026-09-22T23:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says (Energy)
 - [macro] US judge blocks deportation of DoorDash driver shot by ICE (BBC News)
 - [macro] 'I don't have a buoyancy aid': Living without the Bank of Mum and Dad (BBC News)
 - [macro] Europe's car makers are in crisis. Will the threat of war rescue them? (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines (BBC News)
 - [macro] US to build two military bases in Greenland under new deal with Denmark (BBC News)
 - [crypto] Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] New EU industry rules would damage UK, warns Burnham (BBC News)
