@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T13:52:29.182905+00:00`
-- Market context score: `46.51`
-- News risk score: `47.85`
-- Macro risk score: `29.74`
-- Risk-on score: `32.78`
+- Generated: `2026-09-22T14:07:37.861081+00:00`
+- Market context score: `46.65`
+- News risk score: `48.82`
+- Macro risk score: `31.55`
+- Risk-on score: `34.59`
 - Articles: `79`
 - Polymarket markets: `390`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T13:45:00+00:00`
+- Day/swing latest: `2026-09-22T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `1`
-- macro: articles `48`, risk hits `15`, risk headline rate `0.25`, policy hits `5`
+- macro: articles `48`, risk hits `19`, risk headline rate `0.2708`, policy hits `6`
 
 ## Headlines
 
-- [macro] Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC (BBC News)
-- [macro] Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly (BBC News)
-- [macro] Bridge Green, Hartree sign eight-year lithium agreement (Yahoo Finance)
-- [commodity] Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war (Energy)
-- [macro] The Fed Just Raised Interest Rates for the First Time Since 2023. Here's What That Could Mean for the Price of Silver (Yahoo Finance)
-- [crypto] Big Questions: Does Satoshi actually own 1.1 million Bitcoin? (Cointelegraph.com News)
-- [macro] Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level (Yahoo Finance)
 - [commodity] Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure (Energy)
-- [macro] Binance Investigated By U.S. For Potential Sanctions Violations (Yahoo Finance)
 - [macro] Sri Lanka court convicts 15 men over deadly Easter Sunday bombings (BBC News)
+- [macro] Canadian retail tech company Thri5 secures seed funding (Yahoo Finance)
+- [macro] Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC (BBC News)
+- [macro] How Large Does Your Portfolio Need to Be to Generate $9,300 a Month From Three Income Buckets? (Yahoo Finance)
+- [macro] Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall. (Yahoo Finance)
+- [macro] Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck (Yahoo Finance)
+- [macro] Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage) (Yahoo Finance)
+- [macro] Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly (BBC News)
+- [macro] Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models (Yahoo Finance)
