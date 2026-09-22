@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T03:22:32.482136+00:00`
-- Market context score: `42.79`
-- News risk score: `37.5`
-- Macro risk score: `33.0`
-- Risk-on score: `17.0`
+- Generated: `2026-09-22T03:37:25.718713+00:00`
+- Market context score: `40.0`
+- News risk score: `41.33`
+- Macro risk score: `34.11`
+- Risk-on score: `14.45`
 - Articles: `30`
 - Polymarket markets: `389`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T03:15:00+00:00`
+- Day/swing latest: `2026-09-22T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `17`, risk hits `8`, risk headline rate `0.3529`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks (Cointelegraph.com News)
 - [crypto] Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg (Cointelegraph.com News)
 - [commodity] All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC (Energy)
 - [macro] Flights at major US airports delayed after cable cut by construction workers (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros (BBC News)
 - [crypto] Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Saudi Arabia exits China-backed mBridge CBDC project: FT (Cointelegraph.com News)
-- [macro] Millions urged to evacuate as powerful Typhoon Dujuan hits Japan (BBC News)
