@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T13:37:32.896603+00:00`
-- Market context score: `45.99`
-- News risk score: `48.76`
-- Macro risk score: `28.47`
-- Risk-on score: `31.92`
-- Articles: `81`
+- Generated: `2026-09-22T13:52:29.182905+00:00`
+- Market context score: `46.51`
+- News risk score: `47.85`
+- Macro risk score: `29.74`
+- Risk-on score: `32.78`
+- Articles: `79`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T13:30:00+00:00`
+- Day/swing latest: `2026-09-22T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `1`
-- macro: articles `50`, risk hits `15`, risk headline rate `0.24`, policy hits `1`
+- crypto: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `1`
+- macro: articles `48`, risk hits `15`, risk headline rate `0.25`, policy hits `5`
 
 ## Headlines
 
-- [commodity] Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war (Energy)
 - [macro] Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC (BBC News)
+- [macro] Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly (BBC News)
+- [macro] Bridge Green, Hartree sign eight-year lithium agreement (Yahoo Finance)
+- [commodity] Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war (Energy)
+- [macro] The Fed Just Raised Interest Rates for the First Time Since 2023. Here's What That Could Mean for the Price of Silver (Yahoo Finance)
 - [crypto] Big Questions: Does Satoshi actually own 1.1 million Bitcoin? (Cointelegraph.com News)
+- [macro] Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level (Yahoo Finance)
 - [commodity] Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure (Energy)
-- [macro] Kali Metals, JX Advanced Metals sign MoU for Southern Lachlan (Yahoo Finance)
-- [macro] Müller in talks to acquire dairy peer Vogtlandmilch (Yahoo Finance)
+- [macro] Binance Investigated By U.S. For Potential Sanctions Violations (Yahoo Finance)
 - [macro] Sri Lanka court convicts 15 men over deadly Easter Sunday bombings (BBC News)
-- [macro] Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious (BBC News)
-- [crypto] ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
