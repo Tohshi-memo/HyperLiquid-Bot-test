@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-22T23:20:34.200930+00:00`
+- Generated: `2026-09-22T23:25:32.175564+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8658372.34`
+- Polymarket 24h volume: `8678136.58`
 - Polymarket volume z-score: `-0.58`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `667178.0016150002` | liquidity: `786693.4538`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `528762.06371` | liquidity: `319015.33529`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `483150.0` | liquidity: `1570476.87149`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `466054.14567400014` | liquidity: `360148.5827`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `418785.424999` | liquidity: `389605.1128`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `411863.4275760001` | liquidity: `85444.7813`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `317400.97454599995` | liquidity: `507242.6227`
-- Trump out as President by September 30? | 24h volume: `295644.487748` | liquidity: `201647.74366`
+- Will the U.S. invade Iran before 2027? | 24h volume: `667069.3416150003` | liquidity: `786563.7343`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `528762.06371` | liquidity: `319016.21611`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `483150.0` | liquidity: `1571949.06149`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `467389.9356740001` | liquidity: `359382.0811`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `418785.424999` | liquidity: `399756.0327`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `411113.4275760001` | liquidity: `94468.2401`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `317386.97297299997` | liquidity: `507511.9827`
+- Trump out as President by September 30? | 24h volume: `304423.14774799993` | liquidity: `200757.17394`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
