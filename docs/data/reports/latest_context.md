@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T05:52:27.132637+00:00`
+- Generated: `2026-09-22T06:07:33.368915+00:00`
 - Market context score: `39.17`
 - News risk score: `41.51`
 - Macro risk score: `38.25`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T05:45:00+00:00`
+- Day/swing latest: `2026-09-22T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Four dead after powerful Typhoon Dujuan lashes Japan (BBC News)
+- [commodity] Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning (Energy)
 - [commodity] All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto (Cointelegraph.com News)
 - [crypto] Elon Musk's X brings bitcoin and stock trading closer to the timeline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly (BBC News)
 - [crypto] Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning (Energy)
 - [crypto] Cardano joins Solana, XRP Ledger in race to power AI agent payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trueo prediction market moves from Base to Ethereum (Cointelegraph.com News)
-- [crypto] Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks (Cointelegraph.com News)
