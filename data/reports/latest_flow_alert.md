@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-22T19:20:34.205884+00:00`
+- Generated: `2026-09-22T19:25:36.027303+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10179463.44`
-- Polymarket volume z-score: `-0.43`
+- Polymarket 24h volume: `10061192.48`
+- Polymarket volume z-score: `-0.44`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `715003.973932` | liquidity: `894481.5389`
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681785.679` | liquidity: `677222.39625`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `571924.519651` | liquidity: `387701.13082`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `483150.0` | liquidity: `1573287.56743`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `402478.4754270001` | liquidity: `395817.1004`
-- US x Iran diplomatic meeting by September 30, 2026? | 24h volume: `372618.60389200016` | liquidity: `91434.78886`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `348669.60188100004` | liquidity: `303678.8095`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `346852.291001` | liquidity: `479564.8011`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `681784.678` | liquidity: `676971.55625`
+- Will the U.S. invade Iran before 2027? | 24h volume: `673022.754786` | liquidity: `894323.0052`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `589575.434332` | liquidity: `389801.91439`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `483150.0` | liquidity: `1571859.15743`
+- US x Iran diplomatic meeting by September 30, 2026? | 24h volume: `419228.9561920002` | liquidity: `92936.26527`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `413888.70542700007` | liquidity: `396754.2905`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `349348.16872200003` | liquidity: `304095.0579`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `347008.970247` | liquidity: `498678.2812`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
