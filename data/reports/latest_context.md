@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T01:22:32.175759+00:00`
-- Market context score: `43.15`
-- News risk score: `42.02`
-- Macro risk score: `39.27`
-- Risk-on score: `23.99`
-- Articles: `35`
+- Generated: `2026-09-22T01:37:27.951964+00:00`
+- Market context score: `43.36`
+- News risk score: `42.11`
+- Macro risk score: `37.71`
+- Risk-on score: `23.93`
+- Articles: `33`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T01:15:00+00:00`
+- Day/swing latest: `2026-09-22T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
-- macro: articles `20`, risk hits `10`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `0`
 
 ## Headlines
 
-- [macro] CNN, MS NOW and Politico file lawsuit against Trump's White House ban (BBC News)
 - [macro] Flights at major US airports delayed after cable cut by construction workers (BBC News)
+- [macro] CNN, MS NOW and Politico file lawsuit against Trump's White House ban (BBC News)
 - [macro] I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance (BBC News)
 - [macro] Vet prescription fees capped under rule changes (BBC News)
 - [macro] Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros (BBC News)
