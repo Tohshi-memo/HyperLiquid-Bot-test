@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T04:07:32.568778+00:00`
-- Market context score: `39.17`
-- News risk score: `42.55`
+- Generated: `2026-09-22T04:22:32.465641+00:00`
+- Market context score: `40.7`
+- News risk score: `40.3`
 - Macro risk score: `34.11`
-- Risk-on score: `13.63`
-- Articles: `29`
-- Polymarket markets: `389`
+- Risk-on score: `15.13`
+- Articles: `31`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T04:00:00+00:00`
+- Day/swing latest: `2026-09-22T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `17`, risk hits `8`, risk headline rate `0.3529`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Cardano joins Solana, XRP Ledger in race to power AI agent payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Trueo prediction market moves from Base to Ethereum (Cointelegraph.com News)
 - [crypto] Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks (Cointelegraph.com News)
 - [crypto] Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg (Cointelegraph.com News)
 - [commodity] All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC (Energy)
@@ -36,5 +38,3 @@
 - [macro] I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance (BBC News)
 - [macro] Vet prescription fees capped under rule changes (BBC News)
 - [macro] Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros (BBC News)
-- [crypto] Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Saudi Arabia exits China-backed mBridge CBDC project: FT (Cointelegraph.com News)
