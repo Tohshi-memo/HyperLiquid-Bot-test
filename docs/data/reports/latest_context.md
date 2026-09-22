@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T10:07:30.412069+00:00`
-- Market context score: `54.31`
-- News risk score: `34.96`
-- Macro risk score: `25.55`
-- Risk-on score: `37.64`
-- Articles: `47`
+- Generated: `2026-09-22T10:22:35.559524+00:00`
+- Market context score: `49.29`
+- News risk score: `42.5`
+- Macro risk score: `26.5`
+- Risk-on score: `33.2`
+- Articles: `61`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T10:00:00+00:00`
+- Day/swing latest: `2026-09-22T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
-- macro: articles `28`, risk hits `5`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `1`
+- macro: articles `39`, risk hits `8`, risk headline rate `0.1538`, policy hits `5`
 
 ## Headlines
 
+- [crypto] Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Corporate bond buyers get picky with flood of AI debt (Yahoo Finance)
+- [macro] Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment (Yahoo Finance)
+- [macro] PureTech Health H1 Earnings Call Highlights (Yahoo Finance)
+- [macro] Lloyds Banking Group Maps 2030 Growth Plan as U.K. Consumers Stay Resilient (Yahoo Finance)
+- [macro] Luceco H1 Earnings Call Highlights (Yahoo Finance)
 - [macro] Sri Lankan court to deliver verdict on deadly Easter bombings (BBC News)
-- [crypto] Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally (Cointelegraph.com News)
-- [macro] Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth (Yahoo Finance)
-- [crypto] Animoca Brands delays IPO plans, suspends merger talks with Currenc (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Legendre UK named main contractor for Phoenix House redevelopment (Yahoo Finance)
-- [macro] Clearwater Paper refinances credit facilities with new loan package (Yahoo Finance)
-- [macro] Should You Invest $1,000 in SCHD Right Now? (Yahoo Finance)
-- [commodity] U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route (Energy)
-- [macro] British man missing after diving into Lake Como to rescue teenager (BBC News)
-- [macro] Why AMD's new $1 trillion valuation makes perfect sense (Yahoo Finance)
+- [crypto] Crypto metric signals altseason as Bitcoin market-cap share stalls below 60% (Cointelegraph.com News)
+- [macro] Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7% (Yahoo Finance)
