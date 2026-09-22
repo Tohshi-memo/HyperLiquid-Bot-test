@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-22T14:20:39.418991+00:00`
+- Generated: `2026-09-22T14:25:43.215165+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9577241.2`
-- Polymarket volume z-score: `-0.55`
+- Polymarket 24h volume: `9652735.74`
+- Polymarket volume z-score: `-0.54`
 
 ## Top Polymarket Markets
 
-- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `682447.6` | liquidity: `612070.81037`
-- Will the U.S. invade Iran before 2027? | 24h volume: `531177.2930429995` | liquidity: `900126.9356`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `392658.36612` | liquidity: `269589.1077`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `363259.424953` | liquidity: `388366.6648`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `321087.06` | liquidity: `1670286.63493`
-- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `307649.25895700004` | liquidity: `50222.1477`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `304049.9489280005` | liquidity: `301462.7454`
-- Trump out as President by September 30? | 24h volume: `292819.358344` | liquidity: `213116.81545`
+- Will Glenn Youngkin win the 2028 US Presidential Election? | 24h volume: `682553.6` | liquidity: `612367.62259`
+- Will the U.S. invade Iran before 2027? | 24h volume: `525613.506377` | liquidity: `898466.0747`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `392648.162038` | liquidity: `278864.8876`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `363115.124953` | liquidity: `390051.1248`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `344087.06` | liquidity: `1647309.63493`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `311684.10392799985` | liquidity: `298785.6813`
+- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `307649.25895700004` | liquidity: `48973.9831`
+- Trump out as President by September 30? | 24h volume: `292813.358344` | liquidity: `217153.28522`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
