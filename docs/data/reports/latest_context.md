@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T11:07:37.670922+00:00`
-- Market context score: `45.9`
-- News risk score: `48.17`
-- Macro risk score: `34.76`
-- Risk-on score: `33.6`
-- Articles: `57`
+- Generated: `2026-09-23T11:22:27.269860+00:00`
+- Market context score: `48.53`
+- News risk score: `49.03`
+- Macro risk score: `29.86`
+- Risk-on score: `38.31`
+- Articles: `70`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T11:00:00+00:00`
+- Day/swing latest: `2026-09-23T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
 - crypto: articles `22`, risk hits `10`, risk headline rate `0.3182`, policy hits `2`
-- macro: articles `30`, risk hits `11`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `43`, risk hits `9`, risk headline rate `0.2093`, policy hits `8`
 
 ## Headlines
 
+- [macro] Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79 (BBC News)
+- [macro] Kingfisher lifts full-year guidance after first-half profit rise (Yahoo Finance)
+- [macro] Gold price today, Wednesday, September 23, 2026: Gold holds as investors weigh China, Iran relations (Yahoo Finance)
+- [macro] Jim Cramer Says Don’t Own a Single Bond Until Your 40s (Yahoo Finance)
+- [macro] Analysis-There's a reason Trump is the only one talking about 1% rates (Yahoo Finance)
+- [macro] Is PENN Entertainment (PENN) Stock a Buy After Its Latest Multi-Million Dollar Bet? (Yahoo Finance)
+- [macro] Agilent Technologies Sees Growth From China, Replacement Cycles and Lab Automation (Yahoo Finance)
 - [macro] What's at stake when Trump and Xi meet in the US? (BBC News)
 - [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
-- [macro] Off sick? You need to phone your boss, back-to-work adviser says (BBC News)
-- [macro] Is Medical Properties Trust (MPT) Finally Fixing Its Balance Sheet? (Yahoo Finance)
-- [macro] Where Will Cardano (ADA) Be in 3 Years? (Yahoo Finance)
-- [macro] Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals (Yahoo Finance)
-- [macro] Can Applied Aerospace (AADX) Turn Record Backlog Into Real Profit? (Yahoo Finance)
-- [commodity] Zelenskyy says Ukraine ready for ‘energy ceasefire’, calls for trilateral meeting with Putin, Trump (Energy)
-- [macro] Retiring at 55: How a CFP® Is Actually Investing for It (Yahoo Finance)
-- [macro] Bitcoin Is Down Just 1.2% for 2026 After Clearing $86,000. Can It End the Year Green? (Yahoo Finance)
+- [macro] Global Lithium signs $237m SID with Titan Australia Mining (Yahoo Finance)
