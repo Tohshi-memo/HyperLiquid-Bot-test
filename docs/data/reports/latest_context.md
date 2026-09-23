@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T10:22:33.238010+00:00`
-- Market context score: `41.48`
-- News risk score: `46.88`
-- Macro risk score: `31.19`
-- Risk-on score: `21.32`
-- Articles: `53`
+- Generated: `2026-09-23T10:37:28.161325+00:00`
+- Market context score: `44.79`
+- News risk score: `47.54`
+- Macro risk score: `32.92`
+- Risk-on score: `29.9`
+- Articles: `58`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T10:15:00+00:00`
+- Day/swing latest: `2026-09-23T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
-- crypto: articles `20`, risk hits `10`, risk headline rate `0.35`, policy hits `2`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `4`
+- crypto: articles `22`, risk hits `10`, risk headline rate `0.3182`, policy hits `2`
+- macro: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `4`
 
 ## Headlines
 
-- [macro] Prediction: This Is What a $5,000 Investment in Micron Technology Will Be Worth by 2028 (Yahoo Finance)
-- [crypto] CFTC chair pushes tokenization as SEC opens door to onchain stocks (Cointelegraph.com News)
-- [crypto] Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis (Cointelegraph.com News)
-- [macro] D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap? (Yahoo Finance)
-- [macro] Kalshi Rejects Wash Trading Claims as Report Flags Unusual Activity in Ethereum Perpetuals Market (Yahoo Finance)
-- [macro] GSK Targets £40B Sales as Oncology Push and £1.9B Savings Plan Take Shape (Yahoo Finance)
-- [macro] Ceres Power H1 Earnings Call Highlights (Yahoo Finance)
-- [macro] The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day (Yahoo Finance)
-- [macro] Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall (Yahoo Finance)
-- [macro] Best CD rates today, Wednesday, September 23, 2026: Earn up to 4.40% APY with Happen Bank (Yahoo Finance)
+- [commodity] Zelenskyy says Ukraine ready for ‘energy ceasefire’, calls for trilateral meeting with Putin, Trump (Energy)
+- [macro] Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals (Yahoo Finance)
+- [crypto] Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Is BioCryst’s (BCRX) Newest Approval Bigger Than It Looks? (Yahoo Finance)
+- [crypto] BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Oil holds near two-week lows while diesel cracks hit record peak (Yahoo Finance)
+- [macro] 2 Stocks to Buy Hand Over Fist if a Stock Market Crash Is Coming (Yahoo Finance)
+- [macro] Investing $275 Monthly in SCHD Could Build Serious Passive Income Over 20 Years (Yahoo Finance)
+- [macro] Why Is Northwest Bancshares (NWBI) Betting Big On A New Home? (Yahoo Finance)
+- [macro] BoomRay and Novartis Pharma sign $900m deal for radioligand therapy (Yahoo Finance)
