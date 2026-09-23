@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T14:37:29.922068+00:00`
-- Market context score: `53.5`
-- News risk score: `46.67`
-- Macro risk score: `28.02`
-- Risk-on score: `46.67`
-- Articles: `82`
+- Generated: `2026-09-23T14:52:31.304879+00:00`
+- Market context score: `52.4`
+- News risk score: `47.48`
+- Macro risk score: `29.65`
+- Risk-on score: `45.52`
+- Articles: `84`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T14:30:00+00:00`
+- Day/swing latest: `2026-09-23T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `5`, risk headline rate `0.5`, policy hits `2`
 - crypto: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `4`
-- macro: articles `46`, risk hits `11`, risk headline rate `0.1957`, policy hits `4`
+- macro: articles `48`, risk hits `11`, risk headline rate `0.2292`, policy hits `5`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Alphabet’s Spark Agentic AI Will Beat Meta’s Muse in the Long Run (Yahoo Finance)
-- [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
-- [macro] Crosta Mollica merges with Nestlé pizza spin-off in Europe (Yahoo Finance)
-- [macro] Hormel Foods vs General Mills: One Dividend Rests on Solid Cash, the Other on Fumes (Yahoo Finance)
-- [macro] TotalEnergies, AMNI take FID on Nigeria’s Ima gas field (Yahoo Finance)
-- [macro] Is Stagwell’s (STGW) AI Bet Enough To Change The Story? (Yahoo Finance)
-- [macro] Cameco vs. MP Materials: Does Uranium or Rare Earths Make a Better Stock Buy in 2026? (Yahoo Finance)
-- [macro] Nasdaq rally hasn't stopped these tech stocks from flashing warning signs (Yahoo Finance)
-- [macro] Strong Earnings, FDA Approval, and Takeover Interest Drive Lantheus Holdings’ (LNTH) Rally (Yahoo Finance)
-- [macro] Fed's Barr says further rate hikes will likely be needed (Yahoo Finance)
+- [commodity] Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening (Energy)
+- [macro] The Street is Finally Going Bullish on Salesforce and I Keep Buying (Yahoo Finance)
+- [commodity] Zelenskyy says Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting with Putin, Trump (Energy)
+- [macro] Supply Constraints Weighed on Fabrinet (FN) (Yahoo Finance)
+- [macro] Uber: Insider Buying and Selling Activity to Watch Amid Panic After Tesla Cybercab Rollout (Yahoo Finance)
+- [macro] Employees use AI, but many say they don’t know why (Yahoo Finance)
+- [commodity] Oil prices rise after five-day losing streak (Energy)
+- [macro] Value Investing Legend Seth Klarman’s New Non-AI Picks (Yahoo Finance)
+- [macro] Cardinal Infrastructure Group’s (CDNL) Long-Term Growth Opportunity Remains Intact (Yahoo Finance)
+- [macro] ‘This Is the Pain That Comes With Bringing Inflation Down’: Economist Says Higher Rates Are Here to Stay (Yahoo Finance)
