@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-23T07:45:26.539514+00:00`
+- Generated: `2026-09-23T07:50:36.802010+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `569796.9177100002` | liquidity: `1259326.6858`
-- Will the US confirm that aliens exist by September 30? | 24h volume: `533330.24581` | liquidity: `308779.56564`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `492183.3323300001` | liquidity: `385214.4141`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `483155.04` | liquidity: `1572277.60756`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `414756.7447530002` | liquidity: `121210.6339`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `408773.40702700004` | liquidity: `549958.926`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `297679.93689400004` | liquidity: `688225.9571`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `288873.66565299995` | liquidity: `982350.76726`
+- Will the U.S. invade Iran before 2027? | 24h volume: `569796.9177100002` | liquidity: `1261594.3643`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `533330.24581` | liquidity: `308903.97673`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `492183.3323300001` | liquidity: `384919.5434`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `483155.04` | liquidity: `1572278.05256`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `414756.7447530002` | liquidity: `119833.1943`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `408773.40702700004` | liquidity: `548647.0966`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `297679.93689400004` | liquidity: `688186.674`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `288873.66565299995` | liquidity: `980612.41888`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
