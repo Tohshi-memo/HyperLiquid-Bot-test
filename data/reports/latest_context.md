@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T17:07:30.964170+00:00`
-- Market context score: `46.57`
-- News risk score: `49.1`
-- Macro risk score: `34.4`
-- Risk-on score: `35.73`
-- Articles: `80`
+- Generated: `2026-09-23T17:19:51.557548+00:00`
+- Market context score: `46.86`
+- News risk score: `47.38`
+- Macro risk score: `32.55`
+- Risk-on score: `34.22`
+- Articles: `82`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T17:00:00+00:00`
+- Day/swing latest: `2026-09-23T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `2`
-- crypto: articles `31`, risk hits `10`, risk headline rate `0.2581`, policy hits `4`
-- macro: articles `43`, risk hits `18`, risk headline rate `0.3256`, policy hits `10`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `4`
+- macro: articles `47`, risk hits `16`, risk headline rate `0.2979`, policy hits `7`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Creatio commits $300m to scale financial AI (Yahoo Finance)
+- [macro] Meta’s Muse Just Put Instacart’s Grocery Empire on Notice (Yahoo Finance)
+- [macro] Rachel Cruze flags critical retirement mistake people make in their 20s (Yahoo Finance)
+- [macro] Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus (Yahoo Finance)
+- [macro] What Freight Operators Should Actually Be Watching (Yahoo Finance)
+- [macro] Diesel Export Ban? Why It Could Backfire Fast (Yahoo Finance)
+- [macro] Diesel Prices Could Push More Capacity Out in Q4 (Yahoo Finance)
 - [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
+- [macro] Trucking Insurance Fraud: Is Your Fleet Really Covered? (Yahoo Finance)
 - [macro] Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage) (Yahoo Finance)
-- [macro] Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases (Yahoo Finance)
-- [macro] Cathie Wood Just Bought This Quantum Computing Stock. Should You Follow Her In? (Yahoo Finance)
-- [macro] Banco Bradesco Executive Buys 79,782 Shares for $1.4 Million. Is the Brazilian Bank a Buy? (Yahoo Finance)
-- [macro] Trump reveals millions of dollars' worth of share deals in big tech and AI (BBC News)
-- [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
-- [macro] 10-Year Treasury Yield Jumps As Markets Bet On Two Fed Rate Hikes. Bessent Won't Fight It. (Yahoo Finance)
-- [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
-- [crypto] Bitwise launches first Lighter ETP amid Hyperliquid rivalry (Cointelegraph.com News)
