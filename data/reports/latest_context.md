@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T17:52:29.639806+00:00`
-- Market context score: `46.89`
-- News risk score: `48.03`
-- Macro risk score: `32.34`
-- Risk-on score: `34.77`
-- Articles: `76`
+- Generated: `2026-09-23T18:07:42.262096+00:00`
+- Market context score: `48.94`
+- News risk score: `42.71`
+- Macro risk score: `31.14`
+- Risk-on score: `34.35`
+- Articles: `55`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T17:45:00+00:00`
+- Day/swing latest: `2026-09-23T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `2`
-- crypto: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `1`
-- macro: articles `43`, risk hits `15`, risk headline rate `0.3023`, policy hits `7`
+- crypto: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
+- [macro] Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico (BBC News)
 - [macro] Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing (BBC News)
-- [macro] Chili’s to open dozens more US locations. See where it plans to expand (Yahoo Finance)
-- [macro] Not Intel. Not Nvidia. This Chip Giant Holds an Unbreakable Moat in Next-Gen Data Centers. (Yahoo Finance)
-- [macro] Canaan (CAN) Sold Crypto to Buy Back Stock. Can It Offset Weak Mining-Equipment Demand? (Yahoo Finance)
 - [macro] Iran's president tells Trump it will never 'bend the knee' (BBC News)
-- [macro] Amazon's AWS Backlog Climbed to $496 Billion as Its Cloud Margin Reached 39%. The Stock Is Primed to Skyrocket as a Result. (Yahoo Finance)
-- [macro] Twin Bridge targets up to $600M for debut secondaries fund (Yahoo Finance)
-- [macro] Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus (Yahoo Finance)
-- [macro] What Freight Operators Should Actually Be Watching (Yahoo Finance)
-- [macro] Diesel Export Ban? Why It Could Backfire Fast (Yahoo Finance)
+- [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
+- [macro] Trump reveals millions of dollars' worth of share deals in big tech and AI (BBC News)
+- [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
+- [crypto] Bitwise launches first Lighter ETP amid Hyperliquid rivalry (Cointelegraph.com News)
+- [crypto] NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users (Cointelegraph.com News)
