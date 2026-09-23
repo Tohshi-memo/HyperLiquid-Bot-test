@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T13:07:28.810623+00:00`
-- Market context score: `55.58`
-- News risk score: `43.81`
-- Macro risk score: `23.97`
-- Risk-on score: `47.33`
-- Articles: `79`
+- Generated: `2026-09-23T13:22:30.617403+00:00`
+- Market context score: `53.8`
+- News risk score: `45.29`
+- Macro risk score: `26.86`
+- Risk-on score: `45.73`
+- Articles: `78`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T13:00:00+00:00`
+- Day/swing latest: `2026-09-23T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
 - crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `2`
-- macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `2`
+- macro: articles `46`, risk hits `10`, risk headline rate `0.1739`, policy hits `3`
 
 ## Headlines
 
-- [crypto] Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] MoonPay to buy North Capital in all-stock deal worth over $60M (Cointelegraph.com News)
-- [crypto] Stablecoin cross-border flows surge 78%, defying crypto bear market (Cointelegraph.com News)
-- [crypto] MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Verisk Analytics (VRSK) Positions Well for Long-Term Expansion (Yahoo Finance)
-- [macro] GM’s CarPlay U-Turn: A Three-Year Bet Against Buyer Preference Finally Reverses (Yahoo Finance)
-- [macro] Here’s Why The Fund Trimmed Ross Stores (ROST) in Q2 (Yahoo Finance)
-- [macro] Omada Health President Wei-Li Shao Sells 9,418 Shares for $236,000 (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage) (Yahoo Finance)
-- [macro] How to Invest in Stocks in 2026: Go Beyond Index Funds and Buy These 3 Names (Yahoo Finance)
+- [macro] Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79 (BBC News)
+- [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
+- [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
+- [macro] Micron vs. Sandisk: Which AI Memory Stock Has More Room to Run? (Yahoo Finance)
+- [macro] Oil holds near two-week lows while diesel cracks hit record (Yahoo Finance)
+- [macro] One of These S&P 500 Funds Has Trailed for 10 Years. Its Fans Say That’s the Point. (Yahoo Finance)
+- [macro] Zcash Surges 72% in a Month After Paradigm Reveals ZEC Holdings. Is It Too Late to Buy? (Yahoo Finance)
+- [macro] General Mills Bets on New Products, Marketing to Drive Turnaround (Yahoo Finance)
+- [macro] González Byass promotes Murillo to top job (Yahoo Finance)
+- [macro] Space investment more than doubled to $23 billion in year to June, report says (Yahoo Finance)
