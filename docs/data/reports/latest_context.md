@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-22T23:52:36.644487+00:00`
-- Market context score: `38.56`
+- Generated: `2026-09-23T00:07:34.428713+00:00`
+- Market context score: `38.26`
 - News risk score: `51.63`
 - Macro risk score: `34.34`
-- Risk-on score: `20.04`
+- Risk-on score: `19.38`
 - Articles: `55`
 - Polymarket markets: `390`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:234, crypto_major:8, equity:140, fx:6, index:26, metal:20, unknown:947`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-09-22T23:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says (Energy)
 - [macro] US judge blocks deportation of DoorDash driver shot by ICE (BBC News)
 - [macro] 'I don't have a buoyancy aid': Living without the Bank of Mum and Dad (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Watch: Threats, deals and passionate speeches at UNGA event (BBC News)
 - [macro] Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines (BBC News)
 - [macro] US to build two military bases in Greenland under new deal with Denmark (BBC News)
-- [crypto] Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
