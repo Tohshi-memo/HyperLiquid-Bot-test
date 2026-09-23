@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T21:37:31.619978+00:00`
-- Market context score: `40.08`
-- News risk score: `51.13`
-- Macro risk score: `38.26`
-- Risk-on score: `24.47`
-- Articles: `55`
+- Generated: `2026-09-23T21:52:31.149065+00:00`
+- Market context score: `40.44`
+- News risk score: `50.93`
+- Macro risk score: `37.36`
+- Risk-on score: `24.76`
+- Articles: `56`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T21:30:00+00:00`
+- Day/swing latest: `2026-09-23T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.5`, policy hits `2`
 - crypto: articles `28`, risk hits `11`, risk headline rate `0.3571`, policy hits `1`
-- macro: articles `20`, risk hits `9`, risk headline rate `0.4`, policy hits `1`
+- macro: articles `21`, risk hits `9`, risk headline rate `0.381`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: The arms race in space explained (BBC News)
 - [macro] Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction (BBC News)
 - [macro] Lidl banned from selling copycat Birkenstock sandals, Dutch court rules (BBC News)
 - [macro] UK survivor of Canadian poison seller says he exploited her despair (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions (Energy)
 - [macro] Bentley unveils its first fully electric car (BBC News)
-- [commodity] Oil prices rise, snap five day losing streak as Iran vows it will not surrender (Energy)
