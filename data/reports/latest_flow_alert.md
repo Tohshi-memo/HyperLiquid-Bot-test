@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-23T15:35:33.451660+00:00`
+- Generated: `2026-09-23T15:40:34.004111+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7443506.74`
-- Polymarket volume z-score: `-0.79`
+- Polymarket 24h volume: `7227451.52`
+- Polymarket volume z-score: `-0.85`
 
 ## Top Polymarket Markets
 
-- Will the US confirm that aliens exist by September 30? | 24h volume: `564920.0624650001` | liquidity: `314171.8887`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `362095.32467099995` | liquidity: `306120.5812`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `354173.4422889999` | liquidity: `359082.754`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `328156.31152` | liquidity: `974041.10844`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `322462.02532` | liquidity: `313720.2578`
-- Will the price of Bitcoin be above $84,000 on September 23? | 24h volume: `272340.193046` | liquidity: `8976.85273`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `232131.31851700004` | liquidity: `100618.7148`
-- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `213868.23486100006` | liquidity: `95211.4176`
+- Will the US confirm that aliens exist by September 30? | 24h volume: `578436.902465` | liquidity: `314171.8887`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `367410.1809379999` | liquidity: `388951.787`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `362562.024747` | liquidity: `305123.6307`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `324278.8434160001` | liquidity: `307722.1934`
+- Will the price of Bitcoin be above $84,000 on September 23? | 24h volume: `279109.49025` | liquidity: `9429.00671`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `278202.37152` | liquidity: `973946.46739`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `236258.29764200005` | liquidity: `102163.9448`
+- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `213410.56486100005` | liquidity: `95959.8089`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
