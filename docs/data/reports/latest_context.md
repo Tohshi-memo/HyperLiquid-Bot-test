@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T18:07:42.262096+00:00`
+- Generated: `2026-09-23T18:22:28.278243+00:00`
 - Market context score: `48.94`
 - News risk score: `42.71`
 - Macro risk score: `31.14`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T18:00:00+00:00`
+- Day/swing latest: `2026-09-23T18:15:00+00:00`
 
 ## News Categories
 
@@ -29,11 +29,11 @@
 
 ## Headlines
 
-- [crypto] White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Iran's president tells Trump it will never 'bend the knee' (BBC News)
 - [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
+- [crypto] White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico (BBC News)
 - [macro] Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing (BBC News)
-- [macro] Iran's president tells Trump it will never 'bend the knee' (BBC News)
 - [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
 - [macro] Trump reveals millions of dollars' worth of share deals in big tech and AI (BBC News)
 - [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
