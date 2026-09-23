@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T02:52:30.488979+00:00`
+- Generated: `2026-09-23T03:08:04.267478+00:00`
 - Market context score: `34.4`
 - News risk score: `53.5`
 - Macro risk score: `36.76`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T02:45:00+00:00`
+- Day/swing latest: `2026-09-23T03:00:00+00:00`
 
 ## News Categories
 
@@ -30,6 +30,7 @@
 ## Headlines
 
 - [macro] Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines (BBC News)
+- [macro] Will Trump's AI rebrand as 'super intelligence' catch on? (BBC News)
 - [commodity] Oil falls after U.S. and Iran talk for hours at UN meeting (Energy)
 - [crypto] CFTC issues warning over risky prediction market ‘mention’ contracts (Cointelegraph.com News)
 - [crypto] U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] 'I don't have a buoyancy aid': Living without the Bank of Mum and Dad (BBC News)
 - [macro] Europe's car makers are in crisis. Will the threat of war rescue them? (BBC News)
 - [macro] Will a switch to light speed cut power use at data centres? (BBC News)
-- [macro] IMF tells advanced economies to 'bring debt down' as borrowing costs rise (BBC News)
