@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T04:37:35.025162+00:00`
-- Market context score: `35.0`
-- News risk score: `51.96`
-- Macro risk score: `38.74`
-- Risk-on score: `14.06`
-- Articles: `37`
+- Generated: `2026-09-23T04:52:38.646615+00:00`
+- Market context score: `34.44`
+- News risk score: `51.95`
+- Macro risk score: `42.12`
+- Risk-on score: `14.09`
+- Articles: `35`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T04:30:00+00:00`
+- Day/swing latest: `2026-09-23T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `11`, risk hits `6`, risk headline rate `0.4545`, policy hits `0`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `0`
+- macro: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
 - [commodity] Oil falls after U.S. and Iran talk for hours at UN meeting (Energy)
+- [crypto] AI potential to drive crypto demand remains ‘underappreciated’: BlackRock (Cointelegraph.com News)
 - [crypto] Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] OpenAI, Anthropic to brief UN Security Council on AI risks: Reports (Cointelegraph.com News)
 - [macro] Will Trump's AI rebrand to 'super intelligence' catch on? (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] CFTC issues warning over risky prediction market ‘mention’ contracts (Cointelegraph.com News)
 - [crypto] U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says (Energy)
-- [macro] US judge blocks deportation of DoorDash driver shot by ICE (BBC News)
