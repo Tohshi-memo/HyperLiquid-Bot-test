@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T10:07:27.946056+00:00`
-- Market context score: `42.2`
-- News risk score: `44.54`
-- Macro risk score: `34.56`
-- Risk-on score: `22.22`
-- Articles: `39`
-- Polymarket markets: `391`
+- Generated: `2026-09-23T10:22:33.238010+00:00`
+- Market context score: `41.48`
+- News risk score: `46.88`
+- Macro risk score: `31.19`
+- Risk-on score: `21.32`
+- Articles: `53`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T10:00:00+00:00`
+- Day/swing latest: `2026-09-23T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
-- crypto: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `20`, risk hits `10`, risk headline rate `0.35`, policy hits `2`
+- macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `4`
 
 ## Headlines
 
-- [macro] UK economy will grow by less than expected next year, OECD says (BBC News)
-- [crypto] FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices mixed after U.S. and Iran talk for hours at UN meeting (Energy)
-- [macro] Trump meets US-backed Venezuelan president for first time since Maduro seized (BBC News)
-- [crypto] Raiffeisen to offer crypto trading across 11 European markets via Bitpanda (Cointelegraph.com News)
-- [crypto] AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening (Energy)
-- [macro] UK and US warned to take action on spiralling debt costs by IMF (BBC News)
-- [crypto] BitMEX ends crypto trading, keeps withdrawals open after closure (Cointelegraph.com News)
-- [crypto] Zcash’s November upgrade could freeze funds in legacy Sprout pool (Cointelegraph.com News)
+- [macro] Prediction: This Is What a $5,000 Investment in Micron Technology Will Be Worth by 2028 (Yahoo Finance)
+- [crypto] CFTC chair pushes tokenization as SEC opens door to onchain stocks (Cointelegraph.com News)
+- [crypto] Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis (Cointelegraph.com News)
+- [macro] D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap? (Yahoo Finance)
+- [macro] Kalshi Rejects Wash Trading Claims as Report Flags Unusual Activity in Ethereum Perpetuals Market (Yahoo Finance)
+- [macro] GSK Targets £40B Sales as Oncology Push and £1.9B Savings Plan Take Shape (Yahoo Finance)
+- [macro] Ceres Power H1 Earnings Call Highlights (Yahoo Finance)
+- [macro] The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day (Yahoo Finance)
+- [macro] Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall (Yahoo Finance)
+- [macro] Best CD rates today, Wednesday, September 23, 2026: Earn up to 4.40% APY with Happen Bank (Yahoo Finance)
