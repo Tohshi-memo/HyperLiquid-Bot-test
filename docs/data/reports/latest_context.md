@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T14:07:46.476576+00:00`
-- Market context score: `48.9`
-- News risk score: `47.8`
-- Macro risk score: `30.29`
-- Risk-on score: `38.26`
+- Generated: `2026-09-23T14:22:37.779028+00:00`
+- Market context score: `47.62`
+- News risk score: `48.92`
+- Macro risk score: `32.33`
+- Risk-on score: `37.12`
 - Articles: `82`
 - Polymarket markets: `390`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T14:00:00+00:00`
+- Day/swing latest: `2026-09-23T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `5`, risk headline rate `0.5`, policy hits `2`
-- crypto: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `2`
-- macro: articles `46`, risk hits `14`, risk headline rate `0.2391`, policy hits `4`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `4`
+- macro: articles `46`, risk hits `17`, risk headline rate `0.2609`, policy hits `6`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
 - [commodity] Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening (Energy)
 - [policy] Barr, A Long-Term View on the Costs of Shelter (FRB: Speeches)
 - [macro] Eleven killed in mass shooting at house in South Africa (BBC News)
-- [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
-- [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
-- [macro] Intel Skyrocketed 30% Higher in 1 Month: Here’s What to Do Now (Yahoo Finance)
-- [crypto] ESMA to prioritize EU-wide AI and tokenization supervision in 2027 (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] She Was 74 When Her 66-Year-Old Husband Died. Rolling His $350,000 IRA Into Her Own Name Started Withdrawals Immediately. Leaving It in His Name Would Have Bought Her Seven Years (Yahoo Finance)
-- [macro] Is Protolabs’ (PRLB) Next Chapter Hinged on an Unseen Gamble? (Yahoo Finance)
+- [macro] Proposed distribution tax reforms risk harming growth, ICAEW warns (Yahoo Finance)
+- [macro] Can DoubleVerify’s (DV) AI Push Still Matter With A Buyout Pending? (Yahoo Finance)
+- [macro] AI Boom Is ‘Dot-Com and Subprime All Merged in One,’ Former Fidelity Manager Tells Steve Eisman (Yahoo Finance)
+- [macro] Crude Futures Pick Up After String of Losses (Yahoo Finance)
+- [macro] Why Polaris Capital Continues Watching Alibaba (BABA) Amid AI Opportunity and China Market Challenges (Yahoo Finance)
+- [macro] DataSnipper launches Alwin platform for audit and finance workflows (Yahoo Finance)
