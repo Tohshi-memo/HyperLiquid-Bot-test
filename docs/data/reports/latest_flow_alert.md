@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-23T23:00:29.331440+00:00`
+- Generated: `2026-09-23T23:05:31.684072+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6358667.13`
-- Polymarket volume z-score: `-1.37`
+- Polymarket 24h volume: `6306606.43`
+- Polymarket volume z-score: `-1.39`
 
 ## Top Polymarket Markets
 
-- Kharg Island no longer under Iranian control by September 30? | 24h volume: `476733.8325370001` | liquidity: `152636.22686`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `388848.22988500004` | liquidity: `371978.6697`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `358189.6058640001` | liquidity: `468790.3248`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `284907.859125` | liquidity: `978571.04439`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `203977.39377900003` | liquidity: `476743.34201`
-- Will the U.S. invade Iran before 2027? | 24h volume: `193267.837271` | liquidity: `1224784.2643`
-- Will Nithya Raman win the 2026 Los Angeles mayoral election? | 24h volume: `192660.40430199998` | liquidity: `130171.33712`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `190839.641502` | liquidity: `384344.00184`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `476733.8325370001` | liquidity: `152358.59685`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `388848.22988500004` | liquidity: `364507.0307`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `358189.6058640001` | liquidity: `474332.1762`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `284907.859125` | liquidity: `978718.4254`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `203977.39377900003` | liquidity: `480545.79743`
+- Will the U.S. invade Iran before 2027? | 24h volume: `193267.837271` | liquidity: `1125546.828`
+- Will Nithya Raman win the 2026 Los Angeles mayoral election? | 24h volume: `192660.40430199998` | liquidity: `132681.07338`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `190839.641502` | liquidity: `408422.5821`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
