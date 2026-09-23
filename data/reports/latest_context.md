@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T20:22:49.496837+00:00`
-- Market context score: `45.46`
-- News risk score: `48.21`
-- Macro risk score: `33.08`
-- Risk-on score: `32.01`
+- Generated: `2026-09-23T20:34:03.965766+00:00`
+- Market context score: `46.52`
+- News risk score: `47.0`
+- Macro risk score: `31.72`
+- Risk-on score: `32.82`
 - Articles: `58`
 - Polymarket markets: `389`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T20:15:00+00:00`
+- Day/swing latest: `2026-09-23T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.5`, policy hits `2`
-- crypto: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `1`
+- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `1`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] US lawmakers from gaming states urge SCOTUS to take up Kalshi case (Cointelegraph.com News)
 - [macro] Here's what happens to the economy when Treasury yields soar like they are now (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions (Energy)
@@ -38,4 +39,3 @@
 - [crypto] Trump reveals up to $100K Strategy stock purchase in ethics filing (Cointelegraph.com News)
 - [crypto] Kalshi says it is not being investigated by the CFTC over trading activity (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
