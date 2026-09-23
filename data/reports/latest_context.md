@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T14:22:37.779028+00:00`
-- Market context score: `47.62`
-- News risk score: `48.92`
-- Macro risk score: `32.33`
-- Risk-on score: `37.12`
+- Generated: `2026-09-23T14:37:29.922068+00:00`
+- Market context score: `53.5`
+- News risk score: `46.67`
+- Macro risk score: `28.02`
+- Risk-on score: `46.67`
 - Articles: `82`
 - Polymarket markets: `390`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T14:15:00+00:00`
+- Day/swing latest: `2026-09-23T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `5`, risk headline rate `0.5`, policy hits `2`
 - crypto: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `4`
-- macro: articles `46`, risk hits `17`, risk headline rate `0.2609`, policy hits `6`
+- macro: articles `46`, risk hits `11`, risk headline rate `0.1957`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Alphabet’s Spark Agentic AI Will Beat Meta’s Muse in the Long Run (Yahoo Finance)
 - [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
-- [commodity] Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening (Energy)
-- [policy] Barr, A Long-Term View on the Costs of Shelter (FRB: Speeches)
-- [macro] Eleven killed in mass shooting at house in South Africa (BBC News)
-- [macro] Proposed distribution tax reforms risk harming growth, ICAEW warns (Yahoo Finance)
-- [macro] Can DoubleVerify’s (DV) AI Push Still Matter With A Buyout Pending? (Yahoo Finance)
-- [macro] AI Boom Is ‘Dot-Com and Subprime All Merged in One,’ Former Fidelity Manager Tells Steve Eisman (Yahoo Finance)
-- [macro] Crude Futures Pick Up After String of Losses (Yahoo Finance)
-- [macro] Why Polaris Capital Continues Watching Alibaba (BABA) Amid AI Opportunity and China Market Challenges (Yahoo Finance)
-- [macro] DataSnipper launches Alwin platform for audit and finance workflows (Yahoo Finance)
+- [macro] Crosta Mollica merges with Nestlé pizza spin-off in Europe (Yahoo Finance)
+- [macro] Hormel Foods vs General Mills: One Dividend Rests on Solid Cash, the Other on Fumes (Yahoo Finance)
+- [macro] TotalEnergies, AMNI take FID on Nigeria’s Ima gas field (Yahoo Finance)
+- [macro] Is Stagwell’s (STGW) AI Bet Enough To Change The Story? (Yahoo Finance)
+- [macro] Cameco vs. MP Materials: Does Uranium or Rare Earths Make a Better Stock Buy in 2026? (Yahoo Finance)
+- [macro] Nasdaq rally hasn't stopped these tech stocks from flashing warning signs (Yahoo Finance)
+- [macro] Strong Earnings, FDA Approval, and Takeover Interest Drive Lantheus Holdings’ (LNTH) Rally (Yahoo Finance)
+- [macro] Fed's Barr says further rate hikes will likely be needed (Yahoo Finance)
