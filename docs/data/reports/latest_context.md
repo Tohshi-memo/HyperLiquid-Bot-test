@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T12:07:44.986384+00:00`
-- Market context score: `49.45`
-- News risk score: `47.56`
-- Macro risk score: `31.23`
-- Risk-on score: `39.62`
-- Articles: `72`
+- Generated: `2026-09-23T12:20:14.243167+00:00`
+- Market context score: `52.89`
+- News risk score: `44.38`
+- Macro risk score: `28.45`
+- Risk-on score: `43.55`
+- Articles: `71`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T12:00:00+00:00`
+- Day/swing latest: `2026-09-23T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
-- crypto: articles `23`, risk hits `9`, risk headline rate `0.2609`, policy hits `2`
-- macro: articles `44`, risk hits `11`, risk headline rate `0.25`, policy hits `4`
+- crypto: articles `22`, risk hits `7`, risk headline rate `0.2273`, policy hits `2`
+- macro: articles `44`, risk hits `9`, risk headline rate `0.2045`, policy hits `2`
 
 ## Headlines
 
+- [macro] McDonald's bets on hand-breaded chicken, AI drive-thrus to fend off Burger King (Yahoo Finance)
+- [macro] 3 Dividend Stocks Trading Cheap Enough to Buy Meaningful Stakes for Under $1,000 (Yahoo Finance)
+- [macro] CD&R, Warburg Pincus in talks to buy Canaccord’s UK wealth arm – report (Yahoo Finance)
+- [macro] Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals (Yahoo Finance)
 - [commodity] Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening (Energy)
+- [macro] The Real Reason Uber Won’t Complete Its Grab Takeover (Yahoo Finance)
 - [macro] Yee-Yeong to lead Barclays private bank in Singapore and Asia (Yahoo Finance)
 - [macro] Nvidia’s Last Quarter Was Nearly Perfect. One Number in the Fine Print Wasn’t. (Yahoo Finance)
 - [macro] Oil holds near two-week lows while diesel cracks hit record peak (Yahoo Finance)
-- [commodity] Trump administration is examining whether a diesel export ban is feasible, Treasury secretary says (Energy)
-- [macro] Julius Baer names Pamela Tseng Asia COO (Yahoo Finance)
-- [commodity] Zelenskyy says Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting with Putin, Trump (Energy)
-- [macro] Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals (Yahoo Finance)
-- [macro] Reddit (RDDT) Has Strong Financials. Are User Trends the Bigger Risk? (Yahoo Finance)
-- [macro] Analysts Think 6 S&P 500 Stocks Are Grossly Overvalued (Yahoo Finance)
+- [macro] Casey’s General Stores (CASY) Beat Estimates, So Why Did Wall Street Cut Its Targets? (Yahoo Finance)
