@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T13:52:37.762902+00:00`
-- Market context score: `49.68`
-- News risk score: `47.4`
-- Macro risk score: `29.47`
-- Risk-on score: `39.33`
-- Articles: `81`
+- Generated: `2026-09-23T14:07:46.476576+00:00`
+- Market context score: `48.9`
+- News risk score: `47.8`
+- Macro risk score: `30.29`
+- Risk-on score: `38.26`
+- Articles: `82`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T13:45:00+00:00`
+- Day/swing latest: `2026-09-23T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `5`, risk headline rate `0.5`, policy hits `2`
 - crypto: articles `29`, risk hits `10`, risk headline rate `0.2759`, policy hits `2`
-- macro: articles `46`, risk hits `13`, risk headline rate `0.2174`, policy hits `4`
+- macro: articles `46`, risk hits `14`, risk headline rate `0.2391`, policy hits `4`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
+- [commodity] Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening (Energy)
+- [policy] Barr, A Long-Term View on the Costs of Shelter (FRB: Speeches)
 - [macro] Eleven killed in mass shooting at house in South Africa (BBC News)
 - [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
+- [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
+- [macro] Intel Skyrocketed 30% Higher in 1 Month: Here’s What to Do Now (Yahoo Finance)
 - [crypto] ESMA to prioritize EU-wide AI and tokenization supervision in 2027 (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] She Was 74 When Her 66-Year-Old Husband Died. Rolling His $350,000 IRA Into Her Own Name Started Withdrawals Immediately. Leaving It in His Name Would Have Bought Her Seven Years (Yahoo Finance)
 - [macro] Is Protolabs’ (PRLB) Next Chapter Hinged on an Unseen Gamble? (Yahoo Finance)
-- [macro] Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing (BBC News)
-- [macro] KPOT selects Deliverect to manage third-party orders (Yahoo Finance)
-- [macro] Prediction: The Cheapest Mega Cap in the AI Trade, Alphabet Could Hit $600 in 2027 (Yahoo Finance)
-- [crypto] Winners and losers of the SEC’s new tokenized stocks rules (Cointelegraph.com News)
