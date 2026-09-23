@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T16:52:37.728980+00:00`
-- Market context score: `50.04`
-- News risk score: `46.72`
-- Macro risk score: `29.73`
-- Risk-on score: `39.66`
-- Articles: `82`
+- Generated: `2026-09-23T17:07:30.964170+00:00`
+- Market context score: `46.57`
+- News risk score: `49.1`
+- Macro risk score: `34.4`
+- Risk-on score: `35.73`
+- Articles: `80`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T16:45:00+00:00`
+- Day/swing latest: `2026-09-23T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `2`
 - crypto: articles `31`, risk hits `10`, risk headline rate `0.2581`, policy hits `4`
-- macro: articles `45`, risk hits `13`, risk headline rate `0.2444`, policy hits `7`
+- macro: articles `43`, risk hits `18`, risk headline rate `0.3256`, policy hits `10`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
+- [macro] Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage) (Yahoo Finance)
+- [macro] Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases (Yahoo Finance)
+- [macro] Cathie Wood Just Bought This Quantum Computing Stock. Should You Follow Her In? (Yahoo Finance)
+- [macro] Banco Bradesco Executive Buys 79,782 Shares for $1.4 Million. Is the Brazilian Bank a Buy? (Yahoo Finance)
 - [macro] Trump reveals millions of dollars' worth of share deals in big tech and AI (BBC News)
 - [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
-- [macro] NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks (Yahoo Finance)
+- [macro] 10-Year Treasury Yield Jumps As Markets Bet On Two Fed Rate Hikes. Bessent Won't Fight It. (Yahoo Finance)
 - [commodity] Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale (Energy)
 - [crypto] Bitwise launches first Lighter ETP amid Hyperliquid rivalry (Cointelegraph.com News)
-- [macro] How to Protect Your Life Savings From AI Scams and Cyber Threats (Yahoo Finance)
-- [macro] I Speculated That Stanley Druckenmiller's Tesla Buy Was About FSD. Billionaire Investor Ron Baron Just Confirmed My Thesis. (Yahoo Finance)
-- [macro] Renishaw Rides the AI Chip Boom to Record Results (Yahoo Finance)
-- [macro] Here's A Way To Cut Risk On This Top-Performing Stock (Yahoo Finance)
-- [macro] Oil up almost 2% as Iran's president vows to never surrender (Yahoo Finance)
