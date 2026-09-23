@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T11:37:34.997843+00:00`
-- Market context score: `51.11`
-- News risk score: `47.09`
-- Macro risk score: `27.52`
-- Risk-on score: `41.52`
+- Generated: `2026-09-23T11:52:31.170653+00:00`
+- Market context score: `49.05`
+- News risk score: `48.93`
+- Macro risk score: `31.2`
+- Risk-on score: `39.88`
 - Articles: `73`
 - Polymarket markets: `390`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T11:30:00+00:00`
+- Day/swing latest: `2026-09-23T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
 - crypto: articles `24`, risk hits `10`, risk headline rate `0.2917`, policy hits `2`
-- macro: articles `44`, risk hits `8`, risk headline rate `0.1818`, policy hits `4`
+- macro: articles `44`, risk hits `11`, risk headline rate `0.25`, policy hits `4`
 
 ## Headlines
 
-- [crypto] Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] The S&P 500 has a 'breadth' problem. Crypto doesn’t. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] CA ANZ backs GAA’s push to align sustainability and financial reporting (Yahoo Finance)
-- [macro] Crosta Mollica merges with Nestlé pizza spin-off in Europe (Yahoo Finance)
-- [macro] Cadence CEO Anirudh Devgan Sells 3,779 Shares for $1.1 Million (Yahoo Finance)
-- [macro] PTTEP and Valeura reach FID on Bussabong gas project phase one (Yahoo Finance)
-- [macro] Silver price today, Wednesday, September 23, 2026:  Silver prices settle ahead of key U.S.-China summit (Yahoo Finance)
-- [macro] Elon Musk Is Teasing a Tesla-SpaceX Merger Again. Terafab Shows Why AI Could Be the Logic (Yahoo Finance)
-- [macro] Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79 (BBC News)
+- [commodity] Trump administration is examining whether a diesel export ban is feasible, Treasury secretary says (Energy)
+- [commodity] Zelenskyy says Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting with Putin, Trump (Energy)
+- [macro] Canada’s TD Bank pledges C$25m for AI (Yahoo Finance)
+- [macro] Bitcoin and ethereum prices today, Wednesday, September 23, 2026: Crypto prices open near 8-month highs. Is the crypto winter over? (Yahoo Finance)
+- [macro] Beta Wealth establishes new tax and accounting practice (Yahoo Finance)
 - [macro] Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals (Yahoo Finance)
+- [macro] This Stock That’s Climbed 14,000% Since Its IPO Is the Newest Member of the $1 Trillion Club. Is It Still a Buy? (Yahoo Finance)
+- [macro] A 70-year-old owes $200,000 in parent student loans for his kids — experts warn against draining retirement to pay it (Yahoo Finance)
+- [macro] Consumers turn a critical eye toward how retailers set prices (Yahoo Finance)
+- [crypto] Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
