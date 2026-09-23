@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T04:22:29.230056+00:00`
+- Generated: `2026-09-23T04:37:35.025162+00:00`
 - Market context score: `35.0`
 - News risk score: `51.96`
 - Macro risk score: `38.74`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T04:15:00+00:00`
+- Day/swing latest: `2026-09-23T04:30:00+00:00`
 
 ## News Categories
 
@@ -29,12 +29,12 @@
 
 ## Headlines
 
+- [commodity] Oil falls after U.S. and Iran talk for hours at UN meeting (Energy)
 - [crypto] Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] OpenAI, Anthropic to brief UN Security Council on AI risks: Reports (Cointelegraph.com News)
 - [macro] Will Trump's AI rebrand to 'super intelligence' catch on? (BBC News)
 - [commodity] South Korean solar stocks jump as curbs on Chinese sector expected to remain in place (Energy)
 - [macro] Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines (BBC News)
-- [commodity] Oil falls after U.S. and Iran talk for hours at UN meeting (Energy)
 - [crypto] CFTC issues warning over risky prediction market ‘mention’ contracts (Cointelegraph.com News)
 - [crypto] U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says (Energy)
