@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T15:37:35.733327+00:00`
-- Market context score: `52.99`
-- News risk score: `45.89`
-- Macro risk score: `28.21`
-- Risk-on score: `44.94`
-- Articles: `85`
+- Generated: `2026-09-23T15:52:33.705358+00:00`
+- Market context score: `51.54`
+- News risk score: `46.64`
+- Macro risk score: `29.6`
+- Risk-on score: `42.88`
+- Articles: `86`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T15:30:00+00:00`
+- Day/swing latest: `2026-09-23T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `2`
 - crypto: articles `31`, risk hits `10`, risk headline rate `0.2581`, policy hits `4`
-- macro: articles `48`, risk hits `11`, risk headline rate `0.2292`, policy hits `1`
+- macro: articles `49`, risk hits `15`, risk headline rate `0.2449`, policy hits `5`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: How toxic smog from wildfires is making Indonesians sick (BBC News)
+- [macro] Poland accuses Russian military helicopter of violating its airspace (BBC News)
+- [macro] Eli Lilly Vs. Pfizer in 2027: One Is a Much Better Place to Park Your Pharmaceutical Capital Next Year (Yahoo Finance)
+- [macro] ARM Vs. AMD: Who Is Going to Win the Agentic AI CPU Revival War? (Yahoo Finance)
+- [macro] Prediction: This Out-of-Favor Dividend Stock Could Have Significant Upside (Yahoo Finance)
+- [macro] She Cashed Out Her Father’s $220,000 IRA the Year She Inherited It, on Top of Her $90,000 Salary. Spreading It Across the Full Window Would Have Kept Nearly All of It Out of the Top Brackets She Paid (Yahoo Finance)
+- [macro] What's the Significance of the 10-Year Treasury Yield? Here's Why It Matters to Stock and Bond Investors (Yahoo Finance)
+- [macro] Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage) (Yahoo Finance)
+- [macro] 10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike (Yahoo Finance)
 - [crypto] Inside the FBI’s little-known annual crypto crime gathering (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Southern Company or Duke Energy: Only One Offers the Combination of Yield, Growth, and Safety You Need (Yahoo Finance)
-- [macro] 3 Things Smart Investors Know About the Nuclear Power Comeback (Yahoo Finance)
-- [macro] Cerebras Systems vs. Nebius Group N.V.: Which AI Hardware Stock Is a Better Buy in 2026? (Yahoo Finance)
-- [macro] The hidden opportunity beyond the S&P 500’s mega-caps (Yahoo Finance)
-- [macro] Home Depot (HD) is Positioned to benefit from Housing Market Recovery (Yahoo Finance)
-- [macro] Michael Burry Says SpaceX Isn't Worth $1 Trillion. Its AI Business Could Prove Him Wrong. (Yahoo Finance)
-- [macro] NYSE Teams Up With Blockchain.com to Offer Tokenized Stocks (Yahoo Finance)
-- [macro] Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum (Yahoo Finance)
-- [macro] Goldman Sachs' interest rate prediction hinges on oil prices (Yahoo Finance)
