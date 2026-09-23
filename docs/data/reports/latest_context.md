@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T12:37:31.987986+00:00`
-- Market context score: `54.04`
-- News risk score: `44.25`
-- Macro risk score: `24.62`
-- Risk-on score: `44.53`
-- Articles: `74`
+- Generated: `2026-09-23T12:52:29.734902+00:00`
+- Market context score: `54.64`
+- News risk score: `43.93`
+- Macro risk score: `24.05`
+- Risk-on score: `45.38`
+- Articles: `75`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T12:30:00+00:00`
+- Day/swing latest: `2026-09-23T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
 - crypto: articles `23`, risk hits `8`, risk headline rate `0.2609`, policy hits `2`
-- macro: articles `46`, risk hits `6`, risk headline rate `0.1304`, policy hits `3`
+- macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `2`
 
 ## Headlines
 
+- [macro] Dramatic eviction of woman aged 87 highlights Spain's housing shortage (BBC News)
 - [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
+- [macro] Diageo brings in former Britvic, Tesco executive Joanne Wilson as CFO (Yahoo Finance)
 - [macro] Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico (BBC News)
 - [crypto] EU watchdogs warn quantum computers could pick crypto’s locks (Cointelegraph.com News)
 - [macro] Dolly Parton's manager accuses her nephew of threats and intimidation (BBC News)
+- [macro] CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon (Yahoo Finance)
+- [macro] Ulta Beauty CEO Kecia Steelman Sells 2,000 Shares for $1.1 Million (Yahoo Finance)
+- [macro] History Says This Is the Smartest Bond ETF to Buy With $1,000 Right Now (Yahoo Finance)
 - [macro] Verizon Seen Leading 2027 Spectrum Auction, With SpaceX Lurking (Yahoo Finance)
-- [macro] Is XRP a Buy Right Now at $1.50? (Yahoo Finance)
-- [macro] e.l.f. Beauty Insider Mandy Fields Sells $1.7 Million in Stock (Yahoo Finance)
-- [macro] Amazon rehiring laid-off workers for AI and cloud roles (Yahoo Finance)
-- [macro] Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage) (Yahoo Finance)
-- [macro] Cracker Barrel Q4 fiscal 2026 earnings beat Wall Street estimates (Yahoo Finance)
