@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T12:52:29.734902+00:00`
-- Market context score: `54.64`
-- News risk score: `43.93`
-- Macro risk score: `24.05`
-- Risk-on score: `45.38`
-- Articles: `75`
+- Generated: `2026-09-23T13:07:28.810623+00:00`
+- Market context score: `55.58`
+- News risk score: `43.81`
+- Macro risk score: `23.97`
+- Risk-on score: `47.33`
+- Articles: `79`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T12:45:00+00:00`
+- Day/swing latest: `2026-09-23T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
-- crypto: articles `23`, risk hits `8`, risk headline rate `0.2609`, policy hits `2`
+- crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `2`
 - macro: articles `47`, risk hits `6`, risk headline rate `0.1277`, policy hits `2`
 
 ## Headlines
 
-- [macro] Dramatic eviction of woman aged 87 highlights Spain's housing shortage (BBC News)
-- [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
-- [macro] Diageo brings in former Britvic, Tesco executive Joanne Wilson as CFO (Yahoo Finance)
-- [macro] Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico (BBC News)
-- [crypto] EU watchdogs warn quantum computers could pick crypto’s locks (Cointelegraph.com News)
-- [macro] Dolly Parton's manager accuses her nephew of threats and intimidation (BBC News)
-- [macro] CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon (Yahoo Finance)
-- [macro] Ulta Beauty CEO Kecia Steelman Sells 2,000 Shares for $1.1 Million (Yahoo Finance)
-- [macro] History Says This Is the Smartest Bond ETF to Buy With $1,000 Right Now (Yahoo Finance)
-- [macro] Verizon Seen Leading 2027 Spectrum Auction, With SpaceX Lurking (Yahoo Finance)
+- [crypto] Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] MoonPay to buy North Capital in all-stock deal worth over $60M (Cointelegraph.com News)
+- [crypto] Stablecoin cross-border flows surge 78%, defying crypto bear market (Cointelegraph.com News)
+- [crypto] MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Verisk Analytics (VRSK) Positions Well for Long-Term Expansion (Yahoo Finance)
+- [macro] GM’s CarPlay U-Turn: A Three-Year Bet Against Buyer Preference Finally Reverses (Yahoo Finance)
+- [macro] Here’s Why The Fund Trimmed Ross Stores (ROST) in Q2 (Yahoo Finance)
+- [macro] Omada Health President Wei-Li Shao Sells 9,418 Shares for $236,000 (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage) (Yahoo Finance)
+- [macro] How to Invest in Stocks in 2026: Go Beyond Index Funds and Buy These 3 Names (Yahoo Finance)
