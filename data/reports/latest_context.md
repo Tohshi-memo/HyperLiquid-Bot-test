@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T07:07:31.813768+00:00`
-- Market context score: `37.39`
-- News risk score: `49.12`
-- Macro risk score: `37.88`
-- Risk-on score: `16.67`
-- Articles: `40`
+- Generated: `2026-09-23T07:22:30.115402+00:00`
+- Market context score: `36.86`
+- News risk score: `49.65`
+- Macro risk score: `38.92`
+- Risk-on score: `16.33`
+- Articles: `39`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T07:00:00+00:00`
+- Day/swing latest: `2026-09-23T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `1`
 - crypto: articles `15`, risk hits `8`, risk headline rate `0.4`, policy hits `1`
-- macro: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `0`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil falls after U.S. and Iran talk for hours at UN meeting (Energy)
 - [macro] Eleven killed in mass shooting at house in South Africa (BBC News)
 - [macro] Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing (BBC News)
 - [macro] US and Iran hold first talks since June after Trump's 'annihilation' threat (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms (Energy)
 - [crypto] US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report (Cointelegraph.com News)
-- [commodity] Oil falls after U.S. and Iran talk for hours at UN meeting (Energy)
 - [crypto] Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says (Cointelegraph.com News)
 - [crypto] Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin's on a streak it hasn't hit since 2012 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
