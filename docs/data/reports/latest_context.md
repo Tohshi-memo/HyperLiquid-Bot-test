@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T19:37:28.319902+00:00`
-- Market context score: `45.64`
-- News risk score: `47.75`
-- Macro risk score: `31.64`
-- Risk-on score: `31.47`
-- Articles: `61`
-- Polymarket markets: `390`
+- Generated: `2026-09-23T19:52:41.268563+00:00`
+- Market context score: `46.0`
+- News risk score: `47.64`
+- Macro risk score: `33.02`
+- Risk-on score: `32.7`
+- Articles: `60`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T19:30:00+00:00`
+- Day/swing latest: `2026-09-23T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `7`, risk headline rate `0.5`, policy hits `2`
-- crypto: articles `31`, risk hits `11`, risk headline rate `0.3226`, policy hits `2`
-- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `0`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `1`
+- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Here's what happens to the economy when Treasury yields soar like they are now (Economy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions (Energy)
 - [macro] Bentley unveils its first fully electric car (BBC News)
 - [commodity] Oil prices rise, snap five day losing streak as Iran vows it will not surrender (Energy)
@@ -37,5 +39,3 @@
 - [crypto] Kalshi says it is not being investigated by the CFTC over trading activity (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
-- [crypto] US stablecoin adoption could surge with bank-like protections: Visa survey (Cointelegraph.com News)
-- [macro] Iran's president tells Trump it will never 'bend the knee' (BBC News)
