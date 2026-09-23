@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T12:23:10.839272+00:00`
-- Market context score: `53.74`
-- News risk score: `43.58`
-- Macro risk score: `26.71`
-- Risk-on score: `44.1`
-- Articles: `71`
+- Generated: `2026-09-23T12:37:31.987986+00:00`
+- Market context score: `54.04`
+- News risk score: `44.25`
+- Macro risk score: `24.62`
+- Risk-on score: `44.53`
+- Articles: `74`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T12:15:00+00:00`
+- Day/swing latest: `2026-09-23T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `2`
-- crypto: articles `22`, risk hits `7`, risk headline rate `0.2273`, policy hits `2`
-- macro: articles `44`, risk hits `8`, risk headline rate `0.1591`, policy hits `4`
+- crypto: articles `23`, risk hits `8`, risk headline rate `0.2609`, policy hits `2`
+- macro: articles `46`, risk hits `6`, risk headline rate `0.1304`, policy hits `3`
 
 ## Headlines
 
-- [macro] Stock Market Today: Dow Falls After Nasdaq's Record Highs; Micron, Sandisk Hit New Buy Points (Live Coverage) (Yahoo Finance)
+- [macro] UK warned over ballooning debt costs and slower growth ahead of Budget (BBC News)
+- [macro] Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico (BBC News)
+- [crypto] EU watchdogs warn quantum computers could pick crypto’s locks (Cointelegraph.com News)
+- [macro] Dolly Parton's manager accuses her nephew of threats and intimidation (BBC News)
+- [macro] Verizon Seen Leading 2027 Spectrum Auction, With SpaceX Lurking (Yahoo Finance)
+- [macro] Is XRP a Buy Right Now at $1.50? (Yahoo Finance)
+- [macro] e.l.f. Beauty Insider Mandy Fields Sells $1.7 Million in Stock (Yahoo Finance)
+- [macro] Amazon rehiring laid-off workers for AI and cloud roles (Yahoo Finance)
+- [macro] Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage) (Yahoo Finance)
 - [macro] Cracker Barrel Q4 fiscal 2026 earnings beat Wall Street estimates (Yahoo Finance)
-- [macro] McDonald’s Plans $8.5 Billion in Franchisee Support Under New Growth Strategy (Yahoo Finance)
-- [macro] Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals (Yahoo Finance)
-- [macro] Long-Term Treasury Yields Are Surging. History Says That Might Actually Be Good News for Stocks. (Yahoo Finance)
-- [macro] The Insurance Blind Spot in Your Restaurant’s Growth (Yahoo Finance)
-- [macro] McDonald's bets on hand-breaded chicken, AI drive-thrus to fend off Burger King (Yahoo Finance)
-- [macro] The Next QSR Value War Won’t Be Won on Price Alone (Yahoo Finance)
-- [macro] Verizon to invest $70 million in AI training effort (Yahoo Finance)
-- [macro] Four AI Stars Rev Up As Analysts Raise Profit Targets; Micron Clears Early Buy Point (Yahoo Finance)
