@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T15:22:32.862557+00:00`
-- Market context score: `50.19`
-- News risk score: `47.7`
-- Macro risk score: `28.8`
-- Risk-on score: `40.48`
+- Generated: `2026-09-23T15:37:35.733327+00:00`
+- Market context score: `52.99`
+- News risk score: `45.89`
+- Macro risk score: `28.21`
+- Risk-on score: `44.94`
 - Articles: `85`
 - Polymarket markets: `390`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T15:15:00+00:00`
+- Day/swing latest: `2026-09-23T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `2`
-- crypto: articles `31`, risk hits `11`, risk headline rate `0.2903`, policy hits `4`
-- macro: articles `48`, risk hits `11`, risk headline rate `0.2292`, policy hits `3`
+- crypto: articles `31`, risk hits `10`, risk headline rate `0.2581`, policy hits `4`
+- macro: articles `48`, risk hits `11`, risk headline rate `0.2292`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Inside the FBI’s little-known annual crypto crime gathering (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Southern Company or Duke Energy: Only One Offers the Combination of Yield, Growth, and Safety You Need (Yahoo Finance)
+- [macro] 3 Things Smart Investors Know About the Nuclear Power Comeback (Yahoo Finance)
+- [macro] Cerebras Systems vs. Nebius Group N.V.: Which AI Hardware Stock Is a Better Buy in 2026? (Yahoo Finance)
+- [macro] The hidden opportunity beyond the S&P 500’s mega-caps (Yahoo Finance)
+- [macro] Home Depot (HD) is Positioned to benefit from Housing Market Recovery (Yahoo Finance)
+- [macro] Michael Burry Says SpaceX Isn't Worth $1 Trillion. Its AI Business Could Prove Him Wrong. (Yahoo Finance)
+- [macro] NYSE Teams Up With Blockchain.com to Offer Tokenized Stocks (Yahoo Finance)
+- [macro] Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum (Yahoo Finance)
 - [macro] Goldman Sachs' interest rate prediction hinges on oil prices (Yahoo Finance)
-- [crypto] Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Microsoft Stock Gets Another Upgrade, Price-Target Hike (Yahoo Finance)
-- [macro] What Makes Abbott Laboratories (ABT) an Attractive Opportunity? (Yahoo Finance)
-- [macro] Treasury Bills vs. Dividend Stocks: Which Belongs in Your Retirement Portfolio? (Yahoo Finance)
-- [macro] Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. (Yahoo Finance)
-- [macro] Americans Fear of Losing Their Job Is Highest in 13 Years (Yahoo Finance)
-- [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
-- [macro] Moscow Exchange Launches XRP Futures in Rubles. What’s Behind the Timing? (Yahoo Finance)
-- [macro] Nth Cycle signs $1bn recycled minerals supply deal with Glencore (Yahoo Finance)
