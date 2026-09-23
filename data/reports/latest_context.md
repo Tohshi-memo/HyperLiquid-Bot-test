@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-23T18:37:33.652079+00:00`
+- Generated: `2026-09-23T18:52:43.153560+00:00`
 - Market context score: `49.06`
 - News risk score: `44.11`
 - Macro risk score: `31.12`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-23T18:30:00+00:00`
+- Day/swing latest: `2026-09-23T18:45:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
 - [crypto] US stablecoin adoption could surge with bank-like protections: Visa survey (Cointelegraph.com News)
 - [macro] Iran's president tells Trump it will never 'bend the knee' (BBC News)
-- [macro] Harvey Weinstein sentenced to 15 years in prison for sexual assault (BBC News)
 - [crypto] White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico (BBC News)
 - [macro] Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing (BBC News)
