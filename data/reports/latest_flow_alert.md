@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-24T16:20:35.320740+00:00`
+- Generated: `2026-09-24T16:25:35.167554+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7098339.85`
-- Polymarket volume z-score: `-0.93`
+- Polymarket 24h volume: `7061701.69`
+- Polymarket volume z-score: `-0.94`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `452347.79600300005` | liquidity: `471604.89765`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `445409.78609799995` | liquidity: `438567.8837`
-- Kharg Island no longer under Iranian control by September 30? | 24h volume: `430465.342733` | liquidity: `150480.26128`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `400004.41` | liquidity: `1162585.78103`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `330165.88998100016` | liquidity: `266750.4695`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `325696.904566` | liquidity: `402555.56042`
-- Putin out as President of Russia by September 30, 2026? | 24h volume: `215761.098` | liquidity: `140559.78774`
-- US x Iran ceasefire continues through September 30? | 24h volume: `212223.27379199996` | liquidity: `123484.9627`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `485886.3920879999` | liquidity: `374912.0026`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `449700.68600299995` | liquidity: `482433.50887`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `400004.41` | liquidity: `1162508.68437`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `398689.396756` | liquidity: `268555.7404`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `337110.294566` | liquidity: `436113.89977`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `260173.52119599996` | liquidity: `150821.89128`
+- US x Iran ceasefire continues through September 30? | 24h volume: `211303.071772` | liquidity: `123720.1496`
+- Will the U.S. invade Iran before 2027? | 24h volume: `182847.14127999998` | liquidity: `993465.9818`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
