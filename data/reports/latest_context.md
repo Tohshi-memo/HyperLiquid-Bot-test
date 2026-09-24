@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T07:37:31.923854+00:00`
-- Market context score: `34.33`
-- News risk score: `51.04`
-- Macro risk score: `32.37`
-- Risk-on score: `9.4`
-- Articles: `35`
+- Generated: `2026-09-24T07:52:34.898273+00:00`
+- Market context score: `34.77`
+- News risk score: `50.71`
+- Macro risk score: `31.61`
+- Risk-on score: `9.81`
+- Articles: `37`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T07:30:00+00:00`
+- Day/swing latest: `2026-09-24T07:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `4`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `6`
 
 ## Headlines
 
+- [macro] Global debt tops $365 trillion as economists sound alarm over 'vicious cycle' (Economy)
+- [macro] Switzerland keeps interest rates at 0% — but markets are betting it can’t avoid the global hiking cycle much longer (Economy)
+- [commodity] Oil prices rise as investors seek progress on U.S.-Iran talks (Energy)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
 - [commodity] Tehran criticizes Canada for not condemning Trump's threat to destroy Iran (Energy)
@@ -35,6 +38,3 @@
 - [macro] France's fresh budget battle threatens to topple another government (Economy)
 - [crypto] A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare (Cointelegraph.com News)
-- [crypto] US weighs overseas push for dollar-backed stablecoins: Bloomberg (Cointelegraph.com News)
-- [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
