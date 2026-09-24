@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T17:07:28.284850+00:00`
-- Market context score: `35.69`
-- News risk score: `51.75`
-- Macro risk score: `39.25`
-- Risk-on score: `15.62`
-- Articles: `53`
+- Generated: `2026-09-24T17:22:37.313166+00:00`
+- Market context score: `33.98`
+- News risk score: `54.5`
+- Macro risk score: `40.02`
+- Risk-on score: `14.43`
+- Articles: `55`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T17:00:00+00:00`
+- Day/swing latest: `2026-09-24T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `30`, risk hits `14`, risk headline rate `0.3667`, policy hits `4`
+- crypto: articles `32`, risk hits `16`, risk headline rate `0.4062`, policy hits `7`
 - macro: articles `19`, risk hits `8`, risk headline rate `0.3158`, policy hits `5`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Crypto treasury model loses its edge as stock premiums fade: DWF (Cointelegraph.com News)
+- [crypto] Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC (Cointelegraph.com News)
 - [commodity] Oil prices rise but gain capped on report phased opening of Hormuz Strait under discussion (Energy)
 - [macro] White House restores access to media outlets banned by Trump after judge's order (BBC News)
 - [macro] Greek PM urges UK PM to return Elgin Marbles permanently (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Crypto casino Duelbits goes offline after $7 million hot wallet hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
-- [macro] Reported assaults on Britain's rail services rise by more than a third (BBC News)
-- [macro] Ethiopia's army says it has repelled attacks in first comment on fresh fighting (BBC News)
