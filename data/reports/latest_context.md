@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T00:07:26.882523+00:00`
-- Market context score: `42.57`
+- Generated: `2026-09-24T00:22:30.681669+00:00`
+- Market context score: `43.12`
 - News risk score: `49.95`
 - Macro risk score: `30.06`
-- Risk-on score: `25.92`
+- Risk-on score: `27.13`
 - Articles: `57`
 - Polymarket markets: `389`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T00:00:00+00:00`
+- Day/swing latest: `2026-09-24T00:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [macro] Risking their lives to find food and water in Russian-occupied city (BBC News)
+- [macro] Residents eating garden weeds in Russian-occupied city cut off from food and water (BBC News)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] 'Make women feel seen': Why the Dutch have a new word for labia (BBC News)
