@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T12:37:26.139647+00:00`
-- Market context score: `31.27`
-- News risk score: `55.21`
-- Macro risk score: `36.55`
-- Risk-on score: `7.68`
-- Articles: `44`
+- Generated: `2026-09-24T12:52:44.598134+00:00`
+- Market context score: `30.3`
+- News risk score: `55.89`
+- Macro risk score: `38.87`
+- Risk-on score: `6.98`
+- Articles: `42`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T12:30:00+00:00`
+- Day/swing latest: `2026-09-24T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `23`, risk hits `16`, risk headline rate `0.5217`, policy hits `5`
-- macro: articles `19`, risk hits `8`, risk headline rate `0.3158`, policy hits `5`
+- macro: articles `17`, risk hits `8`, risk headline rate `0.3529`, policy hits `5`
 
 ## Headlines
 
+- [macro] Reported assaults on Britain's rail services rise substantially (BBC News)
 - [crypto] Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices rise as investors seek progress on U.S.-Iran talks (Energy)
 - [crypto] EU's financial regulator to make AI and tokenization a supervisory priority in 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Reported assaults on Britain's rail services rise substantially (BBC News)
 - [crypto] HIFI raises $37M to expand stablecoin payments, tokenized markets (Cointelegraph.com News)
 - [macro] Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat (BBC News)
 - [macro] Switzerland is keeping rates at 0% — for now (Economy)
