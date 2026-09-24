@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T21:37:28.822651+00:00`
-- Market context score: `30.49`
+- Generated: `2026-09-24T21:52:31.861975+00:00`
+- Market context score: `31.48`
 - News risk score: `61.05`
 - Macro risk score: `49.39`
-- Risk-on score: `15.73`
+- Risk-on score: `17.93`
 - Articles: `59`
 - Polymarket markets: `389`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T21:30:00+00:00`
+- Day/swing latest: `2026-09-24T21:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,9 @@
 
 ## Headlines
 
-- [macro] Netanyahu defends Israeli military actions in Middle East in UN speech (BBC News)
+- [crypto] CFTC updates guidance on tokenized assets, blockchain records after failed vote (Cointelegraph.com News)
+- [macro] Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed (Economy)
+- [macro] Netanyahu defends Israeli military as delegates walk out before UN speech (BBC News)
 - [commodity] Senate narrowly votes down resolution calling for end to Iran war (Energy)
 - [crypto] Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs (Cointelegraph.com News)
 - [crypto] Someone was trying to sell Ondo Finance after founder Nathan Allman's death (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,5 +39,3 @@
 - [crypto] U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] DoubleZero brings dedicated fiber market data to Hyperliquid traders (Cointelegraph.com News)
 - [crypto] The stock token debate, and the gap nobody can close alone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Italy ministers agree to ban burqa and niqab in school and cap foreigners in class (BBC News)
