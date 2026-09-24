@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T18:22:29.825947+00:00`
-- Market context score: `30.84`
-- News risk score: `58.2`
-- Macro risk score: `42.86`
-- Risk-on score: `11.65`
+- Generated: `2026-09-24T18:37:31.349116+00:00`
+- Market context score: `30.72`
+- News risk score: `58.64`
+- Macro risk score: `42.3`
+- Risk-on score: `11.54`
 - Articles: `56`
 - Polymarket markets: `389`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T18:15:00+00:00`
+- Day/swing latest: `2026-09-24T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `31`, risk hits `17`, risk headline rate `0.4516`, policy hits `7`
+- crypto: articles `30`, risk hits `17`, risk headline rate `0.4667`, policy hits `7`
 - macro: articles `20`, risk hits `9`, risk headline rate `0.35`, policy hits `5`
-- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
+- policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `4`
 
 ## Headlines
 
+- [policy] Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act (FRB: Press Release - All Releases)
 - [macro] Why Australia chose the world's biggest political stage to reveal OpenAI hack (BBC News)
 - [macro] Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout (BBC News)
 - [macro] White House restores access to media outlets banned by Trump after judge's order (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC (Cointelegraph.com News)
 - [macro] Greek PM urges UK PM to return Elgin Marbles permanently (BBC News)
 - [macro] Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat (BBC News)
-- [crypto] SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail (Cointelegraph.com News)
