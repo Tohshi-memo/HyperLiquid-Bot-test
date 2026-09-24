@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T04:22:30.860827+00:00`
-- Market context score: `34.73`
-- News risk score: `56.77`
-- Macro risk score: `34.84`
-- Risk-on score: `16.05`
-- Articles: `43`
+- Generated: `2026-09-24T04:37:29.732078+00:00`
+- Market context score: `32.9`
+- News risk score: `59.08`
+- Macro risk score: `35.66`
+- Risk-on score: `14.24`
+- Articles: `41`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T04:15:00+00:00`
+- Day/swing latest: `2026-09-24T04:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `12`, risk hits `8`, risk headline rate `0.5833`, policy hits `2`
+- commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `11`, risk hits `8`, risk headline rate `0.6364`, policy hits `2`
 - macro: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `4`
 
 ## Headlines
 
+- [commodity] Oil falls on report Asia will import highest volume of crude since start of Iran war (Energy)
 - [crypto] Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn (Economy)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] Here's what happens to the economy when Treasury yields soar like they are now (Economy)
-- [commodity] Oil falls on report Asia will import highest volume of crude since start of Iran war (Energy)
 - [crypto] Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity (Cointelegraph.com News)
 - [macro] They were labelled 'pervert glasses'. Will a camera-free version transform their image? (BBC News)
 - [macro] They were labelled 'pervert glasses'. Will a camera-free version transform their image? (BBC News)
