@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T14:52:34.205724+00:00`
-- Market context score: `34.95`
-- News risk score: `53.61`
-- Macro risk score: `41.14`
-- Risk-on score: `16.26`
-- Articles: `49`
+- Generated: `2026-09-24T15:07:39.334673+00:00`
+- Market context score: `34.5`
+- News risk score: `54.24`
+- Macro risk score: `40.29`
+- Risk-on score: `15.47`
+- Articles: `52`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T14:45:00+00:00`
+- Day/swing latest: `2026-09-24T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `27`, risk hits `15`, risk headline rate `0.4074`, policy hits `7`
-- macro: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `5`
+- crypto: articles `29`, risk hits `16`, risk headline rate `0.4138`, policy hits `7`
+- macro: articles `19`, risk hits `8`, risk headline rate `0.3158`, policy hits `5`
+- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] UK’s largest banks complete world’s first interbank transactions using tokenized deposits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [policy] Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank (FRB: Press Release - All Releases)
+- [macro] White House 'repeatedly violated' court order to restore press access, say media outlets (BBC News)
+- [crypto] Crypto for Advisors:The hidden costs of holding your own bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] European stablecoin issuer Qivalis sees transformation of global trade finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 105-year-old investigated for crimes at Nazi PoW camp in Germany (BBC News)
 - [macro] Here's what happens to the economy when Treasury yields soar like they are now (Economy)
 - [commodity] Big business warns Trump against diesel export ban in joint letter (Energy)
-- [macro] Some reporters denied White House access despite judge overturning Trump media ban (BBC News)
 - [macro] Why did an OpenAI system hack Australia's health system - and can it be stopped in the future? (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] IBM opens beta Swift ledger link for 24/7 tokenized deposits (Cointelegraph.com News)
-- [macro] Reported assaults on Britain's rail services rise by more than a third (BBC News)
-- [crypto] Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand (Cointelegraph.com News)
