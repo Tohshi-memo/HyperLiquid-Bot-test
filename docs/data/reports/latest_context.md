@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T00:52:33.637551+00:00`
-- Market context score: `43.73`
-- News risk score: `48.49`
-- Macro risk score: `31.14`
-- Risk-on score: `27.66`
+- Generated: `2026-09-24T01:07:27.907118+00:00`
+- Market context score: `39.93`
+- News risk score: `50.67`
+- Macro risk score: `29.78`
+- Risk-on score: `20.56`
 - Articles: `54`
 - Polymarket markets: `389`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T00:45:00+00:00`
+- Day/swing latest: `2026-09-24T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `1`
-- crypto: articles `21`, risk hits `8`, risk headline rate `0.381`, policy hits `1`
-- macro: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `4`
+- crypto: articles `18`, risk hits `8`, risk headline rate `0.4444`, policy hits `1`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity (Cointelegraph.com News)
+- [macro] They were labelled 'pervert glasses'. Will a camera-free version transform their image? (BBC News)
+- [macro] They were labelled 'pervert glasses'. Will a camera-free version transform their image? (BBC News)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
+- [macro] In Amish country, nurses go door to door to stop deadly spread of measles (BBC News)
 - [macro] Residents eating garden weeds in Russian-occupied city cut off from food and water (BBC News)
 - [macro] 'Make women feel seen': Why the Dutch have a new word for labia (BBC News)
 - [macro] Indians are discovering the thrill of shopping without paying (BBC News)
 - [macro] How the oil capital of the US welcomed a solar power boom (BBC News)
-- [macro] 'Proteinflation': Meet the people paying up to £100 for a bag of protein (BBC News)
-- [macro] A red carpet and military flyover - How Trump welcomed Xi (BBC News)
-- [macro] OpenAI and Anthropic bosses push UN for global terms on AI (BBC News)
-- [macro] AI superpower ambitions take centre stage as Trump and Xi meet (BBC News)
