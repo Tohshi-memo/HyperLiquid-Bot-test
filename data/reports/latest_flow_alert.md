@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-24T05:40:31.987976+00:00`
+- Generated: `2026-09-24T05:45:32.440492+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Kharg Island no longer under Iranian control by September 30? | 24h volume: `477570.5225370001` | liquidity: `211354.9537`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `431666.393372` | liquidity: `496783.4204`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `357128.87829200015` | liquidity: `656713.2947`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `477570.5225370001` | liquidity: `211554.9537`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `431666.393372` | liquidity: `503967.7964`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `357128.87829200015` | liquidity: `663743.1921`
 - Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `321995.113779` | liquidity: `372523.28345`
-- Will the U.S. invade Iran before 2027? | 24h volume: `196854.78468199997` | liquidity: `1085214.4052`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `195319.631502` | liquidity: `395894.26953`
-- Will Nithya Raman win the 2026 Los Angeles mayoral election? | 24h volume: `195047.073444` | liquidity: `149437.76033`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `164597.071595` | liquidity: `357556.7759`
+- Will the U.S. invade Iran before 2027? | 24h volume: `196854.78468199997` | liquidity: `1085368.8052`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `195319.631502` | liquidity: `394441.30764`
+- Will Nithya Raman win the 2026 Los Angeles mayoral election? | 24h volume: `195047.073444` | liquidity: `148151.33528`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `164597.071595` | liquidity: `357423.7471`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
