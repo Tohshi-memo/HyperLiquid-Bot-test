@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T20:37:32.275246+00:00`
-- Market context score: `30.52`
-- News risk score: `61.07`
-- Macro risk score: `50.17`
-- Risk-on score: `16.12`
+- Generated: `2026-09-24T20:46:48.166492+00:00`
+- Market context score: `30.37`
+- News risk score: `61.55`
+- Macro risk score: `49.55`
+- Risk-on score: `15.96`
 - Articles: `62`
 - Polymarket markets: `389`
 
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T20:30:00+00:00`
+- Day/swing latest: `2026-09-24T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `35`, risk hits `16`, risk headline rate `0.4`, policy hits `7`
-- macro: articles `22`, risk hits `15`, risk headline rate `0.5`, policy hits `7`
+- crypto: articles `36`, risk hits `18`, risk headline rate `0.4167`, policy hits `8`
+- macro: articles `21`, risk hits `13`, risk headline rate `0.4762`, policy hits `7`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `4`
 
 ## Headlines
 
 - [commodity] Senate narrowly votes down resolution calling for end to Iran war (Energy)
+- [crypto] Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs (Cointelegraph.com News)
 - [crypto] Someone was trying to sell Ondo Finance after founder Nathan Allman's death (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Italy ministers agree to ban burqa and niqab in school and cap foreigners in class (BBC News)
 - [commodity] Oil prices pull back from session highs after report of talks for phased reopening of Strait of Hormuz (Energy)
-- [macro] Priest killed and four injured in knife attack at Polish abbey (BBC News)
