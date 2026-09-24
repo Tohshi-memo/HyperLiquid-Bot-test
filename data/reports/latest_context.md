@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T16:37:29.511732+00:00`
-- Market context score: `34.82`
-- News risk score: `52.87`
-- Macro risk score: `40.25`
-- Risk-on score: `15.01`
-- Articles: `54`
+- Generated: `2026-09-24T16:52:35.208151+00:00`
+- Market context score: `36.35`
+- News risk score: `51.56`
+- Macro risk score: `37.12`
+- Risk-on score: `16.11`
+- Articles: `53`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T16:30:00+00:00`
+- Day/swing latest: `2026-09-24T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `32`, risk hits `15`, risk headline rate `0.375`, policy hits `4`
-- macro: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `5`
-- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
+- crypto: articles `31`, risk hits `15`, risk headline rate `0.3871`, policy hits `4`
+- macro: articles `19`, risk hits `8`, risk headline rate `0.3158`, policy hits `5`
 
 ## Headlines
 
 - [macro] White House restores access to media outlets banned by Trump after judge's order (BBC News)
+- [macro] Greek PM urges UK PM to return Elgin Marbles permanently (BBC News)
 - [commodity] Oil prices rise sharply after Houthis fire missiles at Saudi Arabia (Energy)
 - [macro] Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat (BBC News)
 - [crypto] SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail (Cointelegraph.com News)
@@ -38,4 +38,3 @@
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
 - [macro] Reported assaults on Britain's rail services rise by more than a third (BBC News)
 - [macro] Ethiopia's army says it has repelled attacks in first comment on fresh fighting (BBC News)
-- [crypto] New York sues Polymarket over alleged illegal gambling business (Cointelegraph.com News)
