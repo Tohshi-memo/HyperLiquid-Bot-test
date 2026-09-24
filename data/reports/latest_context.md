@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T06:22:31.235808+00:00`
-- Market context score: `29.96`
-- News risk score: `56.89`
-- Macro risk score: `35.57`
-- Risk-on score: `5.83`
-- Articles: `42`
+- Generated: `2026-09-24T06:37:31.450254+00:00`
+- Market context score: `31.27`
+- News risk score: `55.07`
+- Macro risk score: `35.49`
+- Risk-on score: `7.18`
+- Articles: `43`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T06:15:00+00:00`
+- Day/swing latest: `2026-09-24T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `12`, risk hits `8`, risk headline rate `0.5833`, policy hits `2`
+- crypto: articles `13`, risk hits `8`, risk headline rate `0.5385`, policy hits `2`
 - macro: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Trump administration weighs a global stablecoin plan to cement dollar's dominance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] France's fresh budget battle threatens to topple another government (Economy)
 - [commodity] Tehran takes aim at Canada for not condemning Trump's threat to destroy Iran (Energy)
 - [crypto] A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
 - [commodity] Oil falls on report Asia will import highest volume of crude since start of Iran war (Energy)
 - [crypto] Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn (Economy)
