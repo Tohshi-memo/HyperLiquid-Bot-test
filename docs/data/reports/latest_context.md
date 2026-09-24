@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T12:52:44.598134+00:00`
+- Generated: `2026-09-24T13:07:31.410828+00:00`
 - Market context score: `30.3`
 - News risk score: `55.89`
 - Macro risk score: `38.87`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T12:45:00+00:00`
+- Day/swing latest: `2026-09-24T13:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Reported assaults on Britain's rail services rise substantially (BBC News)
 - [crypto] Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices rise as investors seek progress on U.S.-Iran talks (Energy)
@@ -37,4 +38,3 @@
 - [macro] Switzerland is keeping rates at 0% — for now (Economy)
 - [crypto] Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Litecoin token has its moment as network activity booms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Era of pure crypto exchanges is ending, Bybit CEO says (Cointelegraph.com News)
