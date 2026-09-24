@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T06:37:31.450254+00:00`
+- Generated: `2026-09-24T06:42:52.099299+00:00`
 - Market context score: `31.27`
 - News risk score: `55.07`
 - Macro risk score: `35.49`
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Tehran criticizes Canada for not condemning Trump's threat to destroy Iran (Energy)
 - [crypto] Trump administration weighs a global stablecoin plan to cement dollar's dominance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] France's fresh budget battle threatens to topple another government (Economy)
-- [commodity] Tehran takes aim at Canada for not condemning Trump's threat to destroy Iran (Energy)
 - [crypto] A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare (Cointelegraph.com News)
