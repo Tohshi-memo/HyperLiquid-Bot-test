@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-24T22:05:31.930563+00:00`
+- Generated: `2026-09-24T22:10:35.405138+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7092002.98`
-- Polymarket volume z-score: `-0.92`
+- Polymarket 24h volume: `7116912.94`
+- Polymarket volume z-score: `-0.91`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `472316.34850400005` | liquidity: `500801.71692`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `455438.683079` | liquidity: `441302.2678`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `400004.41` | liquidity: `1164877.43279`
-- Will Israel win on 2026-09-24? | 24h volume: `377524.6928939999` | liquidity: `241183.0827`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `318580.77958400006` | liquidity: `348929.9556`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `265909.68820100004` | liquidity: `428248.92785`
-- Will Austria win on 2026-09-24? | 24h volume: `257405.45343200004` | liquidity: `315706.46055`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `218618.604912` | liquidity: `376781.5537`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `472316.34850400005` | liquidity: `501774.21692`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `455043.59561700054` | liquidity: `428014.5734`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `400004.41` | liquidity: `1165209.34658`
+- Will Israel win on 2026-09-24? | 24h volume: `377486.23135500035` | liquidity: `223609.1749`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `318578.09529800015` | liquidity: `345742.1345`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `275909.68820100004` | liquidity: `428799.52785`
+- Will Austria win on 2026-09-24? | 24h volume: `261213.53343200008` | liquidity: `295797.90467`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `218618.60491199998` | liquidity: `355916.9526`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
