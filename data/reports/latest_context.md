@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T23:22:28.837877+00:00`
-- Market context score: `32.91`
-- News risk score: `57.85`
-- Macro risk score: `51.28`
-- Risk-on score: `19.13`
-- Articles: `59`
+- Generated: `2026-09-24T23:34:57.843583+00:00`
+- Market context score: `31.41`
+- News risk score: `60.1`
+- Macro risk score: `52.46`
+- Risk-on score: `18.15`
+- Articles: `56`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T23:15:00+00:00`
+- Day/swing latest: `2026-09-24T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `33`, risk hits `12`, risk headline rate `0.3333`, policy hits `7`
-- macro: articles `21`, risk hits `14`, risk headline rate `0.5238`, policy hits `6`
+- crypto: articles `31`, risk hits `13`, risk headline rate `0.3871`, policy hits `7`
+- macro: articles `20`, risk hits `14`, risk headline rate `0.55`, policy hits `4`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `4`
 
 ## Headlines
 
+- [macro] Netanyahu defends Israeli military action as delegates walk out before UN speech (BBC News)
+- [crypto] Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express (Cointelegraph.com News)
 - [macro] Hundreds of thousands expected in Paris for Pope's visit (BBC News)
 - [macro] X-planes: Are they needed in the new era of drones? (BBC News)
 - [macro] 'We're all broke': Would you chase a friend for £5? (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Fed proposes new capital, redemption rules for stablecoin issuers (Cointelegraph.com News)
 - [crypto] Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitget confirms $351M security breach, suspends withdrawals (Cointelegraph.com News)
-- [crypto] CFTC updates guidance on tokenized assets, blockchain records after failed vote (Cointelegraph.com News)
-- [macro] Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed (Economy)
