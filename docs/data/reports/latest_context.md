@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T05:07:35.572490+00:00`
-- Market context score: `33.13`
-- News risk score: `58.68`
-- Macro risk score: `36.26`
-- Risk-on score: `14.64`
-- Articles: `42`
+- Generated: `2026-09-24T05:22:31.942836+00:00`
+- Market context score: `33.42`
+- News risk score: `58.54`
+- Macro risk score: `35.49`
+- Risk-on score: `14.87`
+- Articles: `43`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T05:00:00+00:00`
+- Day/swing latest: `2026-09-24T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `9`, risk headline rate `0.6154`, policy hits `2`
-- macro: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `4`
+- macro: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `4`
 
 ## Headlines
 
+- [macro] France faces a fresh budget battle that threatens to topple another government as debt costs spiral (Economy)
 - [crypto] Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare (Cointelegraph.com News)
 - [crypto] US weighs overseas push for dollar-backed stablecoins: Bloomberg (Cointelegraph.com News)
 - [macro] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News)
@@ -37,4 +38,3 @@
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] Here's what happens to the economy when Treasury yields soar like they are now (Economy)
-- [crypto] Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity (Cointelegraph.com News)
