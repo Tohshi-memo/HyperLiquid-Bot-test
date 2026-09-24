@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T08:37:28.756207+00:00`
-- Market context score: `33.03`
-- News risk score: `53.28`
-- Macro risk score: `31.72`
-- Risk-on score: `8.15`
-- Articles: `36`
+- Generated: `2026-09-24T08:52:28.889735+00:00`
+- Market context score: `32.26`
+- News risk score: `54.0`
+- Macro risk score: `33.2`
+- Risk-on score: `7.62`
+- Articles: `37`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T08:30:00+00:00`
+- Day/swing latest: `2026-09-24T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `9`, risk hits `6`, risk headline rate `0.5556`, policy hits `1`
-- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `6`
+- crypto: articles `9`, risk hits `7`, risk headline rate `0.5556`, policy hits `1`
+- macro: articles `26`, risk hits `9`, risk headline rate `0.2692`, policy hits `6`
 
 ## Headlines
 
+- [macro] Europe's car makers are in crisis. Will the threat of war rescue them? (BBC News)
+- [commodity] Oil prices rise sharply as investors seek progress on U.S.-Iran talks (Energy)
+- [crypto] Australia says OpenAI agent hacked government site before Altman warning (Cointelegraph.com News)
 - [macro] Global debt tops $365 trillion as economists sound alarm over 'vicious cycle' (Economy)
 - [macro] Switzerland is keeping rates at 0% — for now (Economy)
-- [commodity] Oil prices rise as investors seek progress on U.S.-Iran talks (Energy)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
 - [commodity] Tehran criticizes Canada for not condemning Trump's threat to destroy Iran (Energy)
 - [crypto] Trump administration weighs a global stablecoin plan to cement dollar's dominance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] France's fresh budget battle threatens to topple another government (Economy)
-- [crypto] A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
