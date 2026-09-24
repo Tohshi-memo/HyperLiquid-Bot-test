@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T07:52:34.898273+00:00`
+- Generated: `2026-09-24T08:07:38.194714+00:00`
 - Market context score: `34.77`
 - News risk score: `50.71`
 - Macro risk score: `31.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T07:45:00+00:00`
+- Day/swing latest: `2026-09-24T08:00:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Global debt tops $365 trillion as economists sound alarm over 'vicious cycle' (Economy)
-- [macro] Switzerland keeps interest rates at 0% — but markets are betting it can’t avoid the global hiking cycle much longer (Economy)
+- [macro] Switzerland is keeping rates at 0% — for now (Economy)
 - [commodity] Oil prices rise as investors seek progress on U.S.-Iran talks (Energy)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
 - [macro] Rogue OpenAI agent 'infiltrated' Australian government website in world first (BBC News)
