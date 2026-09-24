@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-24T02:37:30.728955+00:00`
-- Market context score: `39.17`
-- News risk score: `51.03`
-- Macro risk score: `30.94`
-- Risk-on score: `19.59`
-- Articles: `49`
+- Generated: `2026-09-24T02:52:27.096359+00:00`
+- Market context score: `40.75`
+- News risk score: `48.85`
+- Macro risk score: `31.59`
+- Risk-on score: `21.52`
+- Articles: `46`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-24T02:30:00+00:00`
+- Day/swing latest: `2026-09-24T02:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `6`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.4667`, policy hits `1`
+- commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
+- crypto: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `1`
 - macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `4`
 
 ## Headlines
 
+- [macro] Here's what happens to the economy when Treasury yields soar like they are now (Economy)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [macro] OpenAI agent 'infiltrated' Australian government website, PM says (BBC News)
 - [commodity] Oil falls on report Asia will import highest volume of crude since start of Iran war (Energy)
@@ -37,4 +38,3 @@
 - [macro] In Amish country, nurses go door to door to stop deadly spread of measles (BBC News)
 - [macro] Residents eating garden weeds in Russian-occupied city cut off from food and water (BBC News)
 - [macro] 'Make women feel seen': Why the Dutch have a new word for labia (BBC News)
-- [macro] Indians are discovering the thrill of shopping without paying (BBC News)
