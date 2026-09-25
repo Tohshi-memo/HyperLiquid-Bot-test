@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T07:07:30.889856+00:00`
-- Market context score: `38.13`
-- News risk score: `53.92`
-- Macro risk score: `40.55`
-- Risk-on score: `23.37`
+- Generated: `2026-09-25T07:22:32.084380+00:00`
+- Market context score: `39.19`
+- News risk score: `51.89`
+- Macro risk score: `38.62`
+- Risk-on score: `23.27`
 - Articles: `38`
 - Polymarket markets: `389`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T07:00:00+00:00`
+- Day/swing latest: `2026-09-25T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `19`, risk hits `10`, risk headline rate `0.4737`, policy hits `5`
-- macro: articles `14`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
+- crypto: articles `20`, risk hits `10`, risk headline rate `0.45`, policy hits `5`
+- macro: articles `13`, risk hits `5`, risk headline rate `0.2308`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner (BBC News)
 - [macro] US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner (BBC News)
 - [commodity] Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government (Energy)
@@ -37,4 +38,3 @@
 - [macro] Farmers down 240 million litres of milk after heat (BBC News)
 - [crypto] Australian PM warns of AI’s ‘furious pace’ after agent breached government site (Cointelegraph.com News)
 - [macro] Scam hotel booking sent family to Wetherspoon pub (BBC News)
-- [crypto] Researchers propose Zcash-style private Bitcoin transfers without a soft fork (Cointelegraph.com News)
