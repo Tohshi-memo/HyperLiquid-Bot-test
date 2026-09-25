@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T16:37:31.097387+00:00`
-- Market context score: `46.38`
-- News risk score: `46.34`
-- Macro risk score: `30.64`
-- Risk-on score: `31.56`
-- Articles: `50`
+- Generated: `2026-09-25T16:52:34.087564+00:00`
+- Market context score: `47.23`
+- News risk score: `46.57`
+- Macro risk score: `30.51`
+- Risk-on score: `33.57`
+- Articles: `51`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T16:30:00+00:00`
+- Day/swing latest: `2026-09-25T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `1`
-- macro: articles `25`, risk hits `11`, risk headline rate `0.28`, policy hits `3`
+- crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `2`
+- macro: articles `26`, risk hits `11`, risk headline rate `0.2692`, policy hits `3`
 
 ## Headlines
 
+- [macro] Supreme Court revives controversial US data system for citizenship checks (BBC News)
+- [crypto] Strategy seeks shareholder approval for daily preferred stock dividends (Cointelegraph.com News)
 - [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
 - [macro] Sir David Beckham nets £38.5m after World Cup ad deals (BBC News)
 - [crypto] Crypto Biz: Wall Street and crypto fight for the same turf (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Pope warns against 'losing humanity' to AI machines (BBC News)
 - [commodity] Oil prices fall after Iran asks U.S. to return to failed memorandum of understanding from June (Energy)
 - [macro] Internet restricted after fighting breaks out in Ethiopia's Tigray region (BBC News)
-- [crypto] Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tokenization is moving faster than Washington (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
