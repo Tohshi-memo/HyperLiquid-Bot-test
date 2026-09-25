@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T20:22:28.037524+00:00`
-- Market context score: `39.04`
-- News risk score: `52.75`
-- Macro risk score: `38.79`
-- Risk-on score: `23.74`
-- Articles: `51`
+- Generated: `2026-09-25T20:37:31.691389+00:00`
+- Market context score: `38.31`
+- News risk score: `54.42`
+- Macro risk score: `39.23`
+- Risk-on score: `23.68`
+- Articles: `52`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T20:15:00+00:00`
+- Day/swing latest: `2026-09-25T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `2`
-- macro: articles `25`, risk hits `13`, risk headline rate `0.36`, policy hits `3`
+- crypto: articles `23`, risk hits `10`, risk headline rate `0.4348`, policy hits `2`
+- macro: articles `24`, risk hits `11`, risk headline rate `0.3333`, policy hits `3`
+- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [policy] Federal Reserve Board announces approval of application by Peoples Bancorp Inc. (FRB: Press Release - All Releases)
+- [crypto] Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails (Cointelegraph.com News)
 - [macro] Russia targeting 'ordinary life' with attacks on data centres, Zelensky says (BBC News)
 - [crypto] Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] The market's new 'super-cycle' hedges for world whipsawed by supply shocks and inflation (Energy)
@@ -36,5 +39,3 @@
 - [crypto] Tether says it had ‘limited’ exposure to bank linked to $84M US seizure (Cointelegraph.com News)
 - [commodity] Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Media outlets banned by Trump resume White House coverage after judge's order (BBC News)
-- [crypto] Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide (Cointelegraph.com News)
