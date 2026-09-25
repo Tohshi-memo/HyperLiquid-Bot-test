@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T17:07:31.409981+00:00`
+- Generated: `2026-09-25T17:22:30.186512+00:00`
 - Market context score: `48.01`
 - News risk score: `45.05`
 - Macro risk score: `31.18`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T17:00:00+00:00`
+- Day/swing latest: `2026-09-25T17:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Supreme Court revives controversial US data system for citizenship checks (BBC News)
+- [macro] Internet restricted after fighting breaks out in Ethiopia's Tigray region (BBC News)
 - [crypto] Strategy seeks shareholder approval for daily preferred stock dividends (Cointelegraph.com News)
 - [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
 - [macro] Sir David Beckham nets £38.5m after World Cup ad deals (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Senior Kazakh officials detained after 14 service members swept out to sea (BBC News)
 - [macro] Pope warns against 'losing humanity' to AI machines (BBC News)
 - [commodity] Oil prices fall after Iran asks U.S. to return to failed memorandum of understanding from June (Energy)
-- [macro] Internet restricted after fighting breaks out in Ethiopia's Tigray region (BBC News)
