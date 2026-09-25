@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T20:37:31.691389+00:00`
-- Market context score: `38.31`
+- Generated: `2026-09-25T20:52:29.938452+00:00`
+- Market context score: `39.43`
 - News risk score: `54.42`
 - Macro risk score: `39.23`
-- Risk-on score: `23.68`
+- Risk-on score: `26.18`
 - Articles: `52`
-- Polymarket markets: `388`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T20:30:00+00:00`
+- Day/swing latest: `2026-09-25T20:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says (BBC News)
+- [crypto] OG.com seeks CFTC approval for single-stock perpetual futures (Cointelegraph.com News)
 - [policy] Federal Reserve Board announces approval of application by Peoples Bancorp Inc. (FRB: Press Release - All Releases)
 - [crypto] Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails (Cointelegraph.com News)
-- [macro] Russia targeting 'ordinary life' with attacks on data centres, Zelensky says (BBC News)
 - [crypto] Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] The market's new 'super-cycle' hedges for world whipsawed by supply shocks and inflation (Energy)
 - [commodity] U.S. crude oil falls nearly 8% for the week after Tehran and Washington hold talks at the U.N. (Energy)
 - [macro] Supreme Court allows Trump to use controversial database to check voter citizenship (BBC News)
 - [crypto] Tether says it had ‘limited’ exposure to bank linked to $84M US seizure (Cointelegraph.com News)
 - [commodity] Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
