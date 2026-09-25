@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T18:52:37.773835+00:00`
-- Market context score: `41.15`
-- News risk score: `51.53`
-- Macro risk score: `38.44`
-- Risk-on score: `27.26`
-- Articles: `50`
+- Generated: `2026-09-25T19:07:29.081176+00:00`
+- Market context score: `39.78`
+- News risk score: `52.9`
+- Macro risk score: `38.41`
+- Risk-on score: `25.35`
+- Articles: `51`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T18:45:00+00:00`
+- Day/swing latest: `2026-09-25T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `23`, risk hits `9`, risk headline rate `0.3913`, policy hits `2`
+- crypto: articles `24`, risk hits `10`, risk headline rate `0.4167`, policy hits `2`
 - macro: articles `23`, risk hits `12`, risk headline rate `0.3478`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Tether says it had ‘limited’ exposure to bank linked to $84M US seizure (Cointelegraph.com News)
 - [commodity] Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] The market's new 'super-cycle' hedges for world whipsawed by supply shocks and inflation (Energy)
@@ -37,4 +38,3 @@
 - [commodity] Oil prices fall after Iran asks U.S. to return to failed memorandum of understanding from June (Energy)
 - [crypto] Bitget clarifies $388M in assets affected by security breach (Cointelegraph.com News)
 - [macro] Internet restricted after fighting breaks out in Ethiopia's Tigray region (BBC News)
-- [crypto] Strategy seeks shareholder approval for daily preferred stock dividends (Cointelegraph.com News)
