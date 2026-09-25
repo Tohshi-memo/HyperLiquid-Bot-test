@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-25T18:40:34.071159+00:00`
+- Generated: `2026-09-25T18:45:35.482130+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5500776.89`
-- Polymarket volume z-score: `-1.32`
+- Polymarket 24h volume: `5520535.32`
+- Polymarket volume z-score: `-1.31`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `840496.4766750002` | liquidity: `375670.108`
-- Will Mitch Landrieu win the 2028 Democratic presidential nomination? | 24h volume: `679938.3259999998` | liquidity: `932253.1412`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `475465.094001` | liquidity: `299852.04163`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `210015.471183` | liquidity: `417009.8527`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `209950.69235899998` | liquidity: `63685.2658`
-- Kharg Island no longer under Iranian control by September 30? | 24h volume: `196025.06813800003` | liquidity: `189956.38626`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `187168.52489800003` | liquidity: `469870.63736`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `184041.98301800003` | liquidity: `326303.3645`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `840840.4966750001` | liquidity: `375626.84203`
+- Will Mitch Landrieu win the 2028 Democratic presidential nomination? | 24h volume: `679947.7299999997` | liquidity: `933789.64943`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `465932.427334` | liquidity: `299076.73003`
+- Will the U.S. invade Iran before 2027? | 24h volume: `236413.177479` | liquidity: `952058.5886`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `211504.78988499998` | liquidity: `71256.3605`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `209994.14975399998` | liquidity: `428032.7362`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `196025.06813800003` | liquidity: `190018.83967`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `187168.52489800003` | liquidity: `469734.45414`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
