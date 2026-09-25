@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T22:07:32.274526+00:00`
-- Market context score: `37.73`
-- News risk score: `54.93`
-- Macro risk score: `41.33`
-- Risk-on score: `23.61`
-- Articles: `47`
+- Generated: `2026-09-25T22:22:28.982816+00:00`
+- Market context score: `36.85`
+- News risk score: `56.32`
+- Macro risk score: `41.27`
+- Risk-on score: `22.83`
+- Articles: `48`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T22:00:00+00:00`
+- Day/swing latest: `2026-09-25T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `20`, risk hits `9`, risk headline rate `0.45`, policy hits `2`
+- crypto: articles `21`, risk hits `10`, risk headline rate `0.4762`, policy hits `2`
 - macro: articles `22`, risk hits `11`, risk headline rate `0.3636`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says (BBC News)
 - [crypto] OG.com seeks CFTC approval for single-stock perpetual futures (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] The market's new 'super-cycle' hedges for world whipsawed by supply shocks and inflation (Energy)
 - [commodity] U.S. crude oil falls nearly 8% for the week after Tehran and Washington hold talks at the U.N. (Energy)
-- [macro] Supreme Court allows Trump to use controversial database to check voter citizenship (BBC News)
