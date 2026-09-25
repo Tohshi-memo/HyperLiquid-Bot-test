@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-25T07:55:35.880351+00:00`
+- Generated: `2026-09-25T08:00:32.220989+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7806944.33`
+- Polymarket 24h volume: `7803461.23`
 - Polymarket volume z-score: `-0.65`
 
 ## Top Polymarket Markets
 
-- Will Mitch Landrieu win the 2028 Democratic presidential nomination? | 24h volume: `567076.0699999998` | liquidity: `926538.82868`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `458810.5586180004` | liquidity: `667797.654`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `413241.46995800006` | liquidity: `532946.90404`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `407515.27906800003` | liquidity: `335050.01307`
-- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `1165537.00165`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `381950.38433800003` | liquidity: `524754.75636`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `279035.1923390001` | liquidity: `634091.8461`
-- US x Iran ceasefire continues through September 30? | 24h volume: `218151.45245600003` | liquidity: `134200.3671`
+- Will Mitch Landrieu win the 2028 Democratic presidential nomination? | 24h volume: `567076.0699999998` | liquidity: `925275.66668`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `458798.8289310002` | liquidity: `644628.8771`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `413170.34995800006` | liquidity: `532947.08404`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `408457.28306800005` | liquidity: `346106.07451`
+- Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `1166937.20165`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `381950.38433800003` | liquidity: `524895.59535`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `279356.7074910001` | liquidity: `611344.0314`
+- US x Iran ceasefire continues through September 30? | 24h volume: `218168.38102800003` | liquidity: `141163.6483`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
