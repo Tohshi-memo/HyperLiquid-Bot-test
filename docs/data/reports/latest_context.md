@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T10:52:31.194762+00:00`
-- Market context score: `44.62`
-- News risk score: `44.27`
-- Macro risk score: `28.28`
-- Risk-on score: `25.0`
-- Articles: `39`
+- Generated: `2026-09-25T11:07:31.449965+00:00`
+- Market context score: `44.27`
+- News risk score: `44.62`
+- Macro risk score: `28.97`
+- Risk-on score: `24.78`
+- Articles: `38`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T10:45:00+00:00`
+- Day/swing latest: `2026-09-25T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `1`
-- macro: articles `21`, risk hits `8`, risk headline rate `0.2381`, policy hits `2`
+- macro: articles `20`, risk hits `8`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [macro] UK diesel price close to all-time high (BBC News)
 - [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
 - [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
 - [macro] China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows (Economy)
@@ -37,4 +38,3 @@
 - [macro] Hundreds of thousands expected in Paris for Pope's visit (BBC News)
 - [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
 - [macro] Robbie Williams' surprise singalong after Peru gig cancelled (BBC News)
-- [crypto] Bitcoin ETFs have erased a $5.8 billion hole (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
