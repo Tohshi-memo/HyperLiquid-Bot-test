@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T05:52:30.589768+00:00`
-- Market context score: `33.07`
-- News risk score: `57.0`
-- Macro risk score: `48.75`
-- Risk-on score: `17.81`
-- Articles: `40`
+- Generated: `2026-09-25T06:07:28.344451+00:00`
+- Market context score: `35.52`
+- News risk score: `55.62`
+- Macro risk score: `45.95`
+- Risk-on score: `21.05`
+- Articles: `38`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T05:45:00+00:00`
+- Day/swing latest: `2026-09-25T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `5`, risk headline rate `0.8`, policy hits `0`
 - crypto: articles `20`, risk hits `10`, risk headline rate `0.45`, policy hits `5`
-- macro: articles `14`, risk hits `9`, risk headline rate `0.5`, policy hits `2`
+- macro: articles `12`, risk hits `7`, risk headline rate `0.4167`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government (Energy)
+- [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
+- [macro] Trump and Xi toast new chapter in friendship at White House state dinner (BBC News)
 - [commodity] Iran says it's up to U.S. to end war as China presses for de-escalation (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [commodity] Virginia tech CEO, Russian national charged with hiding firm's Russian ties from U.S. government (Energy)
-- [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
 - [crypto] Australian PM warns of AI’s ‘furious pace’ after agent breached government site (Cointelegraph.com News)
 - [crypto] Researchers propose Zcash-style private Bitcoin transfers without a soft fork (Cointelegraph.com News)
 - [crypto] Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Xi got Trump's red carpet welcome - but not everything he wanted (BBC News)
 - [macro] Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed (Economy)
-- [crypto] Block brings Bitcoin Lightning payments to x402 for AI agents (Cointelegraph.com News)
