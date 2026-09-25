@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T14:52:31.990342+00:00`
+- Generated: `2026-09-25T15:07:31.910864+00:00`
 - Market context score: `42.53`
 - News risk score: `50.19`
 - Macro risk score: `34.55`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:12, crypto_alt:234, crypto_major:8, equity:141, fx:6, index:26, metal:20, unknown:964`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T14:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Pope warns against 'losing humanity' to AI machines (BBC News)
 - [commodity] Oil prices fall after Iran asks U.S. to return to failed memorandum of understanding from June (Energy)
 - [macro] Internet restricted after fighting breaks out in Ethiopia's Tigray region (BBC News)
 - [crypto] Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +37,4 @@
 - [macro] Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti (BBC News)
 - [macro] Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti (BBC News)
 - [crypto] Strategy proposes daily dividends to bring STRC back toward $100 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Special agents' blood and urine test results stolen in FBI hack (BBC News)
 - [macro] Special agents' blood and urine test results stolen in FBI hack (BBC News)
