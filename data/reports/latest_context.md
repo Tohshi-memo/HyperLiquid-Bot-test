@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T05:37:26.489399+00:00`
-- Market context score: `32.82`
-- News risk score: `57.29`
-- Macro risk score: `49.28`
-- Risk-on score: `17.7`
-- Articles: `38`
+- Generated: `2026-09-25T05:52:30.589768+00:00`
+- Market context score: `33.07`
+- News risk score: `57.0`
+- Macro risk score: `48.75`
+- Risk-on score: `17.81`
+- Articles: `40`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T05:30:00+00:00`
+- Day/swing latest: `2026-09-25T05:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `5`, risk hits `5`, risk headline rate `0.8`, policy hits `0`
 - crypto: articles `20`, risk hits `10`, risk headline rate `0.45`, policy hits `5`
 - macro: articles `14`, risk hits `9`, risk headline rate `0.5`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Iran says it's up to U.S. to end war as China presses for de-escalation (Energy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [commodity] Virginia tech CEO, Russian national charged with hiding firm's Russian ties from U.S. government (Energy)
 - [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
 - [crypto] Australian PM warns of AI’s ‘furious pace’ after agent breached government site (Cointelegraph.com News)
 - [crypto] Researchers propose Zcash-style private Bitcoin transfers without a soft fork (Cointelegraph.com News)
@@ -36,6 +39,3 @@
 - [macro] Xi got Trump's red carpet welcome - but not everything he wanted (BBC News)
 - [macro] Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed (Economy)
 - [crypto] Block brings Bitcoin Lightning payments to x402 for AI agents (Cointelegraph.com News)
-- [macro] Media outlets banned by Trump denied access to White House dinner despite judge's order (BBC News)
-- [macro] Netanyahu defends Israeli military action as delegates walk out before UN speech (BBC News)
-- [crypto] Bitget CEO suspects North Korea behind $352M hack, citing IP clues (Cointelegraph.com News)
