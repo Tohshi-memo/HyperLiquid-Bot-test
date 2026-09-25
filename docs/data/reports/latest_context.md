@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T01:07:32.378051+00:00`
+- Generated: `2026-09-25T01:22:28.700828+00:00`
 - Market context score: `30.2`
 - News risk score: `60.23`
 - Macro risk score: `51.42`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T01:00:00+00:00`
+- Day/swing latest: `2026-09-25T01:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Media outlets banned by Trump denied access to White House dinner despite judge's order (BBC News)
 - [macro] Netanyahu defends Israeli military action as delegates walk out before UN speech (BBC News)
 - [crypto] Bitget CEO suspects North Korea behind $352M hack, citing IP clues (Cointelegraph.com News)
 - [macro] From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'We're all broke': Would you chase a friend for £5? (BBC News)
 - [crypto] New York sues Polymarket, alleging it is running an illegal gambling operation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Fed proposes new capital, redemption rules for stablecoin issuers (Cointelegraph.com News)
