@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T05:22:27.978330+00:00`
+- Generated: `2026-09-25T05:37:26.489399+00:00`
 - Market context score: `32.82`
 - News risk score: `57.29`
 - Macro risk score: `49.28`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T05:15:00+00:00`
+- Day/swing latest: `2026-09-25T05:30:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 ## Headlines
 
 - [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
-- [crypto] Australia PM warns of AI’s ‘furious pace’ after agent breached government site (Cointelegraph.com News)
+- [crypto] Australian PM warns of AI’s ‘furious pace’ after agent breached government site (Cointelegraph.com News)
 - [crypto] Researchers propose Zcash-style private Bitcoin transfers without a soft fork (Cointelegraph.com News)
 - [crypto] Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Xi got Trump's red carpet welcome - but not everything he wanted (BBC News)
