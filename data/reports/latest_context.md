@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T12:52:35.241447+00:00`
+- Generated: `2026-09-25T13:02:08.054442+00:00`
 - Market context score: `49.53`
 - News risk score: `40.46`
 - Macro risk score: `30.69`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T12:45:00+00:00`
+- Day/swing latest: `2026-09-25T13:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
 - [crypto] CoinMarketCap buys CoinGlass to expand crypto derivatives data (Cointelegraph.com News)
 - [macro] Pope warns against 'losing humanity' to AI machines (BBC News)
 - [commodity] Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks (Energy)
@@ -37,4 +38,3 @@
 - [macro] Netanyahu defends Israeli military action as delegates walk out before UN speech (BBC News)
 - [crypto] Bitcoin holders are cashing out, just not the way they did at prior market tops (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] IBIT options price trading more calmly after Bitcoin rebound (Cointelegraph.com News)
-- [macro] Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed (Economy)
