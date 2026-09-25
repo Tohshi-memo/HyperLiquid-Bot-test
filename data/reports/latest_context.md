@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T12:22:41.864748+00:00`
-- Market context score: `48.14`
+- Generated: `2026-09-25T12:37:29.028299+00:00`
+- Market context score: `48.89`
 - News risk score: `39.81`
 - Macro risk score: `28.9`
-- Risk-on score: `29.29`
+- Risk-on score: `30.96`
 - Articles: `40`
 - Polymarket markets: `389`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T12:15:00+00:00`
+- Day/swing latest: `2026-09-25T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] SlowMist has yet to confirm crypto theft from iPhone Safari attack (Cointelegraph.com News)
 - [crypto] Bond volatility surges while bitcoin and Wall Street stay calm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Netanyahu defends Israeli military action as delegates walk out before UN speech (BBC News)
 - [crypto] Bitcoin holders are cashing out, just not the way they did at prior market tops (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +37,4 @@
 - [macro] Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed (Economy)
 - [macro] Jay-Z rape accuser says her allegation was false (BBC News)
 - [macro] UK diesel price close to all-time high (BBC News)
-- [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
 - [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
