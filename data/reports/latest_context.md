@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T01:22:28.700828+00:00`
-- Market context score: `30.2`
-- News risk score: `60.23`
-- Macro risk score: `51.42`
-- Risk-on score: `15.18`
+- Generated: `2026-09-25T01:37:29.483801+00:00`
+- Market context score: `29.2`
+- News risk score: `61.46`
+- Macro risk score: `52.36`
+- Risk-on score: `14.36`
 - Articles: `52`
 - Polymarket markets: `389`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T01:15:00+00:00`
+- Day/swing latest: `2026-09-25T01:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `12`, risk headline rate `0.4231`, policy hits `7`
+- commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `25`, risk hits `12`, risk headline rate `0.44`, policy hits `7`
 - macro: articles `21`, risk hits `14`, risk headline rate `0.5238`, policy hits `4`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `4`
 
 ## Headlines
 
+- [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
 - [macro] Media outlets banned by Trump denied access to White House dinner despite judge's order (BBC News)
 - [macro] Netanyahu defends Israeli military action as delegates walk out before UN speech (BBC News)
 - [crypto] Bitget CEO suspects North Korea behind $352M hack, citing IP clues (Cointelegraph.com News)
 - [macro] From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema (BBC News)
-- [crypto] Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express (Cointelegraph.com News)
+- [crypto] Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express (Cointelegraph.com News)
 - [macro] Hundreds of thousands expected in Paris for Pope's visit (BBC News)
 - [macro] X-planes: Are they needed in the new era of drones? (BBC News)
 - [macro] 'We're all broke': Would you chase a friend for £5? (BBC News)
 - [crypto] New York sues Polymarket, alleging it is running an illegal gambling operation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
