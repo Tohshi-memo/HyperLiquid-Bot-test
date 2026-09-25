@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T20:07:27.559305+00:00`
+- Generated: `2026-09-25T20:22:28.037524+00:00`
 - Market context score: `39.04`
 - News risk score: `52.75`
 - Macro risk score: `38.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T20:00:00+00:00`
+- Day/swing latest: `2026-09-25T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Russia targeting 'ordinary life' with attacks on data centres, Zelensky says (BBC News)
 - [crypto] Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] The market's new 'super-cycle' hedges for world whipsawed by supply shocks and inflation (Energy)
 - [commodity] U.S. crude oil falls nearly 8% for the week after Tehran and Washington hold talks at the U.N. (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Media outlets banned by Trump resume White House coverage after judge's order (BBC News)
 - [crypto] Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide (Cointelegraph.com News)
-- [macro] Trump's plans for massive arch move ahead (BBC News)
