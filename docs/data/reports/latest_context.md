@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-25T08:52:32.242187+00:00`
-- Market context score: `40.42`
-- News risk score: `49.85`
-- Macro risk score: `35.78`
-- Risk-on score: `23.21`
-- Articles: `36`
+- Generated: `2026-09-25T09:07:34.909441+00:00`
+- Market context score: `38.01`
+- News risk score: `52.04`
+- Macro risk score: `34.56`
+- Risk-on score: `19.24`
+- Articles: `39`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-25T08:45:00+00:00`
+- Day/swing latest: `2026-09-25T09:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `4`
-- macro: articles `17`, risk hits `8`, risk headline rate `0.2941`, policy hits `2`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `18`, risk hits `9`, risk headline rate `0.5`, policy hits `4`
+- macro: articles `18`, risk hits `9`, risk headline rate `0.3333`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks (Energy)
+- [crypto] KelpDAO sues LayerZero for the largest exploit 2026 has seen so far (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Hundreds of thousands expected in Paris for Pope's visit (BBC News)
+- [crypto] KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit (Cointelegraph.com News)
 - [macro] Europe's car makers are in crisis. Will the threat of war rescue them? (BBC News)
 - [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
 - [macro] Trump and Xi exchange warm words at state dinner but little progress on key issues (BBC News)
 - [crypto] Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B (Cointelegraph.com News)
 - [crypto] Samourai Wallet co-founder faces new transfer after 30-day ordeal (Cointelegraph.com News)
 - [crypto] Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Africa's richest man, Ethiopia and Djibouti to build $660m fuel pipeline (BBC News)
-- [macro] Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti (BBC News)
-- [commodity] Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government (Energy)
-- [commodity] Oil falls amid optimism over potential diplomatic solution to the Iran conflict (Energy)
