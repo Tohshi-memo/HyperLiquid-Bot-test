@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-26T08:25:26.780780+00:00`
+- Generated: `2026-09-26T08:30:30.927367+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7761937.52`
-- Polymarket volume z-score: `-0.46`
+- Polymarket 24h volume: `7835858.32`
+- Polymarket volume z-score: `-0.43`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `1017712.1046470001` | liquidity: `510036.93499`
-- Will the U.S. invade Iran before 2027? | 24h volume: `750554.1887630001` | liquidity: `781973.1211`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `330122.880981` | liquidity: `298860.6984`
-- Kharg Island no longer under Iranian control by September 30? | 24h volume: `322900.704988` | liquidity: `150136.34402`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `307769.95518100023` | liquidity: `542935.8631`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `294958.64335300005` | liquidity: `121801.30578`
-- US x Iran ceasefire continues through September 30? | 24h volume: `250473.41279299994` | liquidity: `167599.0464`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `236322.955` | liquidity: `741983.16522`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `1017528.771314` | liquidity: `508532.98999`
+- Will the U.S. invade Iran before 2027? | 24h volume: `750275.5287629999` | liquidity: `781575.352`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `330136.57451500004` | liquidity: `289618.9105`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `323848.70498800004` | liquidity: `149486.76402`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `308190.06518100016` | liquidity: `547987.0999`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `291163.8859900001` | liquidity: `121373.92626`
+- US x Iran ceasefire continues through September 30? | 24h volume: `250853.09169499995` | liquidity: `166644.5774`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `236322.955` | liquidity: `740483.1617`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
