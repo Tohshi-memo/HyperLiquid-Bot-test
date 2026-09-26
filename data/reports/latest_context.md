@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T01:08:06.323498+00:00`
+- Generated: `2026-09-26T01:22:27.938445+00:00`
 - Market context score: `34.73`
 - News risk score: `58.12`
 - Macro risk score: `38.17`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T01:00:00+00:00`
+- Day/swing latest: `2026-09-26T01:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
 - [macro] OpenAI investigating 'dozens' of instances of agents acting improperly (BBC News)
 - [macro] Are Ethiopians marching back to war in Tigray? (BBC News)
 - [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The treasured 'eternal snow' on this tropical island is about to disappear forever (BBC News)
 - [crypto] Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
