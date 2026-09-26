@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T09:57:51.449198+00:00`
-- Market context score: `26.11`
-- News risk score: `60.86`
-- Macro risk score: `37.71`
-- Risk-on score: `1.43`
-- Articles: `20`
+- Generated: `2026-09-26T10:07:29.010717+00:00`
+- Market context score: `26.98`
+- News risk score: `60.0`
+- Macro risk score: `36.0`
+- Risk-on score: `2.0`
+- Articles: `21`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T09:45:00+00:00`
+- Day/swing latest: `2026-09-26T10:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- macro: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `0`
+- macro: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
+- [macro] Could an iced coffee freeze you out of the job market? (BBC News)
+- [macro] One dead and five missing after explosion destroys building close to Acropolis in Athens (BBC News)
 - [crypto] SEC Commissioner Hester Peirce to leave post on Oct. 2 (Cointelegraph.com News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
 - [crypto] CFTC sues Cash FX, alleges $950M crypto-linked forex scheme (Cointelegraph.com News)
@@ -35,5 +37,3 @@
 - [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
 - [crypto] Solana’s 150-millisecond settlement upgrade reaches second public test network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Brazil's Lula bans online gambling ahead of presidential election (BBC News)
