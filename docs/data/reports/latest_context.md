@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T07:07:32.499093+00:00`
-- Market context score: `35.12`
-- News risk score: `55.82`
-- Macro risk score: `42.24`
-- Risk-on score: `18.92`
+- Generated: `2026-09-26T07:23:02.579932+00:00`
+- Market context score: `32.52`
+- News risk score: `59.2`
+- Macro risk score: `44.0`
+- Risk-on score: `16.67`
 - Articles: `25`
 - Polymarket markets: `388`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T07:00:00+00:00`
+- Day/swing latest: `2026-09-26T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `1`
+- crypto: articles `9`, risk hits `5`, risk headline rate `0.5556`, policy hits `0`
+- macro: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] CFTC sues Cash FX, alleges $950M crypto-linked forex scheme (Cointelegraph.com News)
 - [macro] Disaster declared as heavy rains spark Bangkok flooding (BBC News)
 - [macro] White House bars CNN from travelling with Trump on Air Force One (BBC News)
 - [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
@@ -38,4 +39,3 @@
 - [macro] OpenAI bots meddled with multiple US government agency sites (BBC News)
 - [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
 - [macro] Watch: Karaoke and butterflies - US cities celebrate Dolly Parton Day (BBC News)
-- [macro] Are Ethiopians marching back to war in Tigray? (BBC News)
