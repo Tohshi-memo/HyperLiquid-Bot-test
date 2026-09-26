@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T04:07:25.366090+00:00`
+- Generated: `2026-09-26T04:22:29.808023+00:00`
 - Market context score: `35.39`
 - News risk score: `56.91`
 - Macro risk score: `40.39`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T04:00:00+00:00`
+- Day/swing latest: `2026-09-26T04:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
+- [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] OpenAI bots meddled with multiple US government agency sites (BBC News)
 - [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
 - [macro] Are Ethiopians marching back to war in Tigray? (BBC News)
