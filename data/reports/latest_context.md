@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T09:07:32.922073+00:00`
-- Market context score: `29.67`
-- News risk score: `55.14`
-- Macro risk score: `41.01`
-- Risk-on score: `5.77`
-- Articles: `19`
+- Generated: `2026-09-26T09:22:37.107590+00:00`
+- Market context score: `26.11`
+- News risk score: `60.86`
+- Macro risk score: `37.71`
+- Risk-on score: `1.43`
+- Articles: `20`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T09:00:00+00:00`
+- Day/swing latest: `2026-09-26T09:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
+- crypto: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
+- macro: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `0`
 
 ## Headlines
 
+- [crypto] SEC Commissioner Hester Peirce to leave post on Oct. 2 (Cointelegraph.com News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
 - [crypto] CFTC sues Cash FX, alleges $950M crypto-linked forex scheme (Cointelegraph.com News)
 - [macro] Bangkok declares disaster as heavy rains spark flooding (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Brazil's Lula bans online gambling ahead of presidential election (BBC News)
-- [macro] OpenAI bots meddled with multiple US government agency sites (BBC News)
