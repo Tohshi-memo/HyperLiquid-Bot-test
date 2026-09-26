@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T13:52:29.309294+00:00`
-- Market context score: `38.37`
-- News risk score: `45.5`
+- Generated: `2026-09-26T14:07:31.129279+00:00`
+- Market context score: `36.67`
+- News risk score: `48.0`
 - Macro risk score: `27.0`
-- Risk-on score: `11.67`
-- Articles: `21`
+- Risk-on score: `10.0`
+- Articles: `22`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T13:45:00+00:00`
+- Day/swing latest: `2026-09-26T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
+- crypto: articles `10`, risk hits `5`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Huge crowds greet Pope in Paris for open-air Mass (BBC News)
 - [crypto] Kalshi loses appeal, setting up potential Supreme Court case (Cointelegraph.com News)
 - [crypto] Binance deal gives Circle a boost in stablecoin race with Tether, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Republic of Ireland confirm rescheduled news conference before controversial Israel game (BBC News)
-- [macro] Could an iced coffee freeze you out of the job market? (BBC News)
