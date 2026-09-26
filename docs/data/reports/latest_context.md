@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T14:52:25.764173+00:00`
+- Generated: `2026-09-26T15:07:27.650835+00:00`
 - Market context score: `35.14`
 - News risk score: `49.5`
 - Macro risk score: `30.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T14:45:00+00:00`
+- Day/swing latest: `2026-09-26T15:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles (Energy)
 - [crypto] Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Huge crowds greet Pope in Paris for open-air Mass (BBC News)
 - [crypto] Kalshi loses appeal, setting up potential Supreme Court case (Cointelegraph.com News)
 - [crypto] Binance deal gives Circle a boost in stablecoin race with Tether, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] British national among six dead in building explosion close to Acropolis in Athens (BBC News)
-- [commodity] Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Republic of Ireland confirm rescheduled news conference before controversial Israel game (BBC News)
