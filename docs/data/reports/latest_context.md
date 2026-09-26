@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T08:37:27.521838+00:00`
-- Market context score: `29.02`
-- News risk score: `55.5`
-- Macro risk score: `42.0`
-- Risk-on score: `5.0`
-- Articles: `18`
+- Generated: `2026-09-26T08:52:28.616360+00:00`
+- Market context score: `29.67`
+- News risk score: `55.14`
+- Macro risk score: `41.01`
+- Risk-on score: `5.77`
+- Articles: `19`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T08:30:00+00:00`
+- Day/swing latest: `2026-09-26T08:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
 
 ## Headlines
 
@@ -35,5 +35,5 @@
 - [crypto] Solana’s 150-millisecond settlement upgrade reaches second public test network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Brazil's Lula bans online gambling ahead of presidential election (BBC News)
 - [macro] OpenAI bots meddled with multiple US government agency sites (BBC News)
-- [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
