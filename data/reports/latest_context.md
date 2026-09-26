@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T17:52:28.530078+00:00`
+- Generated: `2026-09-26T17:59:46.586018+00:00`
 - Market context score: `31.57`
 - News risk score: `53.0`
 - Macro risk score: `37.0`
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Trump rejects Iran deal to reopen Strait of Hormuz in seven days (BBC News)
-- [macro] Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris (BBC News)
+- [macro] Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris (BBC News)
 - [commodity] Westwood Holdings CEO Brian Casey on Y'all Street and an ETF tracking the AI power ecosystem (Energy)
 - [macro] German town bans 'stumbling stone' memorials to Nazi victims (BBC News)
 - [macro] Brazil's Lula bans online gambling ahead of presidential election (BBC News)
