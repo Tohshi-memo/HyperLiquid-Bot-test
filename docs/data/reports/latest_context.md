@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T06:22:25.188111+00:00`
-- Market context score: `33.32`
-- News risk score: `57.2`
-- Macro risk score: `41.13`
-- Risk-on score: `15.65`
-- Articles: `28`
+- Generated: `2026-09-26T06:37:30.776243+00:00`
+- Market context score: `32.89`
+- News risk score: `56.94`
+- Macro risk score: `44.69`
+- Risk-on score: `15.84`
+- Articles: `27`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T06:15:00+00:00`
+- Day/swing latest: `2026-09-26T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `6`, risk headline rate `0.5455`, policy hits `0`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
+- crypto: articles `10`, risk hits `5`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Disaster declared as heavy rains spark Bangkok flooding (BBC News)
 - [macro] White House bars CNN from travelling with Trump on Air Force One (BBC News)
 - [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
 - [crypto] Solana’s 150-millisecond settlement upgrade reaches second public test network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
 - [macro] Are Ethiopians marching back to war in Tigray? (BBC News)
 - [macro] South African white genocide does not exist, new ambassador to US tells BBC (BBC News)
-- [macro] As Merz scrambles for support, Germany's identity crisis is laid bare (BBC News)
