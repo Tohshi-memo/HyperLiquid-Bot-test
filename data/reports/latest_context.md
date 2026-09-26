@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T03:52:26.729927+00:00`
-- Market context score: `33.58`
-- News risk score: `59.5`
-- Macro risk score: `40.67`
-- Risk-on score: `18.0`
-- Articles: `30`
-- Polymarket markets: `388`
+- Generated: `2026-09-26T04:07:25.366090+00:00`
+- Market context score: `35.39`
+- News risk score: `56.91`
+- Macro risk score: `40.39`
+- Risk-on score: `19.75`
+- Articles: `29`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T03:45:00+00:00`
+- Day/swing latest: `2026-09-26T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `6`, risk headline rate `0.6`, policy hits `1`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
+- crypto: articles `11`, risk hits `6`, risk headline rate `0.5455`, policy hits `1`
+- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
 - [macro] OpenAI bots meddled with multiple US government agency sites (BBC News)
 - [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach (BBC News)
 - [crypto] U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The treasured 'eternal snow' on this tropical island is about to disappear forever (BBC News)
-- [crypto] Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
