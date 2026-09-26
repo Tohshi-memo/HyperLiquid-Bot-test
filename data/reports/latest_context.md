@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T21:07:30.812753+00:00`
-- Market context score: `40.68`
-- News risk score: `41.57`
-- Macro risk score: `29.14`
-- Risk-on score: `14.29`
-- Articles: `20`
+- Generated: `2026-09-26T21:22:26.619966+00:00`
+- Market context score: `41.26`
+- News risk score: `41.0`
+- Macro risk score: `28.0`
+- Risk-on score: `14.67`
+- Articles: `21`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T21:00:00+00:00`
+- Day/swing latest: `2026-09-26T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 
 ## Headlines
 
+- [macro] Mother of woman found hanging in tree shocked as police say body was staged (BBC News)
+- [macro] Republic of Ireland to wear black armbands for Israel game (BBC News)
 - [macro] Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris (BBC News)
 - [macro] White House bars CNN from travelling with Trump on Air Force One (BBC News)
 - [macro] Tenth woman's body found in South Africa suburb as police probe killings (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] Westwood Holdings CEO Brian Casey on Y'all Street and an ETF tracking the AI power ecosystem (Energy)
 - [macro] German town bans 'stumbling stone' memorials to Nazi victims (BBC News)
 - [macro] Brazil's Lula bans online gambling ahead of presidential election (BBC News)
-- [macro] Watch: Bangkok declared flood disaster zone (BBC News)
-- [macro] Security lapses at Utah campus where Charlie Kirk was killed, review says (BBC News)
