@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T12:22:26.756403+00:00`
-- Market context score: `35.39`
-- News risk score: `49.56`
-- Macro risk score: `29.83`
+- Generated: `2026-09-26T12:37:29.831548+00:00`
+- Market context score: `35.97`
+- News risk score: `48.68`
+- Macro risk score: `28.36`
 - Risk-on score: `9.55`
 - Articles: `17`
-- Polymarket markets: `388`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T12:15:00+00:00`
+- Day/swing latest: `2026-09-26T12:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Fed requests comment on two proposals for stablecoin issuers under GENIUS Act (Cointelegraph.com News)
 - [macro] Republic of Ireland news conference delayed before controversial Israel game (BBC News)
 - [macro] At least two dead after explosion destroys building close to Acropolis in Athens (BBC News)
 - [macro] Could an iced coffee freeze you out of the job market? (BBC News)
