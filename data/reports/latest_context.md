@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T21:37:28.299364+00:00`
+- Generated: `2026-09-26T21:52:30.052635+00:00`
 - Market context score: `39.86`
 - News risk score: `42.38`
 - Macro risk score: `30.75`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T21:30:00+00:00`
+- Day/swing latest: `2026-09-26T21:45:00+00:00`
 
 ## News Categories
 
@@ -32,7 +32,7 @@
 - [macro] Republic of Ireland to wear black armbands for Israel game (BBC News)
 - [macro] Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris (BBC News)
 - [macro] White House bars CNN from travelling with Trump on Air Force One (BBC News)
-- [macro] Tenth woman's body found in South Africa suburb as police probe killings (BBC News)
+- [macro] Tenth woman's body found in South Africa as police probe killings (BBC News)
 - [macro] Trump rejects Iran deal to reopen Strait of Hormuz in seven days (BBC News)
 - [macro] Nor'easter storm brings coastal flooding as New York and New Jersey declare emergency (BBC News)
 - [commodity] Westwood Holdings CEO Brian Casey on Y'all Street and an ETF tracking the AI power ecosystem (Energy)
