@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-26T15:35:28.624066+00:00`
+- Generated: `2026-09-26T15:40:26.101288+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7976459.78`
-- Polymarket volume z-score: `-0.36`
+- Polymarket 24h volume: `7884653.27`
+- Polymarket volume z-score: `-0.39`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `1331321.882372` | liquidity: `623342.73709`
-- Will the U.S. invade Iran before 2027? | 24h volume: `787367.987859` | liquidity: `687646.3982`
-- US x Iran ceasefire continues through September 30? | 24h volume: `474737.210042` | liquidity: `180495.6812`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `399389.9833980001` | liquidity: `450947.9286`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `323021.74062699993` | liquidity: `117907.40583`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `278460.311329` | liquidity: `873320.65396`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `268671.0624579999` | liquidity: `555334.9684`
-- Kharg Island no longer under Iranian control by September 30? | 24h volume: `231793.090346` | liquidity: `150929.65704`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `1331071.882372` | liquidity: `627716.66709`
+- Will the U.S. invade Iran before 2027? | 24h volume: `787373.8178590001` | liquidity: `688076.1786`
+- US x Iran ceasefire continues through September 30? | 24h volume: `477907.354208` | liquidity: `177581.2821`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `399407.3733980001` | liquidity: `450743.9166`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `320505.69504699996` | liquidity: `117307.24312`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `278184.28132899996` | liquidity: `863006.64723`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `236073.75422300003` | liquidity: `555231.977`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `231793.090346` | liquidity: `150929.51704`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
