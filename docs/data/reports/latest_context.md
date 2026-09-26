@@ -1,35 +1,35 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T02:07:32.459845+00:00`
-- Market context score: `34.07`
-- News risk score: `57.89`
-- Macro risk score: `36.91`
-- Risk-on score: `16.31`
-- Articles: `41`
+- Generated: `2026-09-26T02:22:27.245528+00:00`
+- Market context score: `35.27`
+- News risk score: `56.0`
+- Macro risk score: `36.33`
+- Risk-on score: `17.16`
+- Articles: `40`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1411`
+- Asset universe count: `1412`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:12, crypto_alt:234, crypto_major:8, equity:141, fx:6, index:26, metal:20, unknown:964`
+- Asset classes: `commodity:12, crypto_alt:234, crypto_major:8, equity:141, fx:6, index:26, metal:20, unknown:965`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T02:00:00+00:00`
+- Day/swing latest: `2026-09-26T02:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `9`, risk headline rate `0.6`, policy hits `2`
+- crypto: articles `14`, risk hits `8`, risk headline rate `0.5714`, policy hits `1`
 - macro: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] OpenAI investigating 'dozens' of instances of agents acting improperly (BBC News)
+- [macro] OpenAI bots meddled with multiple US government agency sites (BBC News)
 - [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
 - [macro] Are Ethiopians marching back to war in Tigray? (BBC News)
 - [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
