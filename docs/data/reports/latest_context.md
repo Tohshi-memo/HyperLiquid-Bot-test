@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T03:37:26.352567+00:00`
-- Market context score: `35.94`
-- News risk score: `56.34`
-- Macro risk score: `39.28`
-- Risk-on score: `20.06`
-- Articles: `32`
+- Generated: `2026-09-26T03:52:26.729927+00:00`
+- Market context score: `33.58`
+- News risk score: `59.5`
+- Macro risk score: `40.67`
+- Risk-on score: `18.0`
+- Articles: `30`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,21 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T03:30:00+00:00`
+- Day/swing latest: `2026-09-26T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `6`, risk headline rate `0.5455`, policy hits `1`
-- macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `0`
+- crypto: articles `10`, risk hits `6`, risk headline rate `0.6`, policy hits `1`
+- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
 - [macro] OpenAI bots meddled with multiple US government agency sites (BBC News)
 - [macro] Black woman found hanging from tree was dead before body was 'staged', police say (BBC News)
 - [macro] Are Ethiopians marching back to war in Tigray? (BBC News)
-- [macro] Iran offers US deal to reopen Strait of Hormuz in seven days (BBC News)
 - [macro] South African white genocide does not exist, new ambassador to US tells BBC (BBC News)
 - [macro] As Merz scrambles for support, Germany's identity crisis is laid bare (BBC News)
 - [macro] Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach (BBC News)
