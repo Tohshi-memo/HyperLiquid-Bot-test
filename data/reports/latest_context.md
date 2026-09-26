@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-26T15:37:34.567852+00:00`
-- Market context score: `35.14`
-- News risk score: `49.5`
-- Macro risk score: `30.0`
-- Risk-on score: `9.0`
-- Articles: `20`
+- Generated: `2026-09-26T15:52:34.482460+00:00`
+- Market context score: `31.57`
+- News risk score: `53.0`
+- Macro risk score: `37.0`
+- Risk-on score: `6.67`
+- Articles: `22`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-26T15:30:00+00:00`
+- Day/swing latest: `2026-09-26T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `10`, risk hits `5`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `11`, risk hits `5`, risk headline rate `0.4545`, policy hits `0`
 
 ## Headlines
 
+- [macro] German town bans 'stumbling stone' memorials to Nazi victims (BBC News)
+- [macro] Brazil's Lula bans online gambling ahead of presidential election (BBC News)
+- [macro] Watch: Bangkok declared flood disaster zone (BBC News)
 - [macro] Security lapses at Utah campus where Charlie Kirk was killed, review says (BBC News)
 - [commodity] Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles (Energy)
 - [crypto] Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [crypto] Kalshi loses appeal, setting up potential Supreme Court case (Cointelegraph.com News)
 - [crypto] Binance deal gives Circle a boost in stablecoin race with Tether, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] British national among six dead in building explosion close to Acropolis in Athens (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
