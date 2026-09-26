@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-26T14:50:27.848299+00:00`
+- Generated: `2026-09-26T14:55:28.273333+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8695119.8`
-- Polymarket volume z-score: `-0.14`
+- Polymarket 24h volume: `8632883.74`
+- Polymarket volume z-score: `-0.16`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `1327047.097372` | liquidity: `631177.63042`
-- Will the U.S. invade Iran before 2027? | 24h volume: `779076.844985` | liquidity: `694474.1516`
-- US x Iran ceasefire continues through September 30? | 24h volume: `460943.93175000005` | liquidity: `168877.3665`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `397791.9964880001` | liquidity: `446122.8106`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `322318.3334009999` | liquidity: `115244.21648`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `278460.31132900005` | liquidity: `872623.1119`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `269398.8277529999` | liquidity: `562245.9205`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `236322.955` | liquidity: `743133.64447`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `1331751.882372` | liquidity: `624743.00687`
+- Will the U.S. invade Iran before 2027? | 24h volume: `779377.4217499999` | liquidity: `695794.7271`
+- US x Iran ceasefire continues through September 30? | 24h volume: `476382.73261999997` | liquidity: `152156.7601`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `397791.9964880001` | liquidity: `444675.7832`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `316409.1510049999` | liquidity: `115597.45281`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `278460.311329` | liquidity: `873259.74464`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `269222.3553989999` | liquidity: `563410.701`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `236332.96` | liquidity: `745332.00579`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
