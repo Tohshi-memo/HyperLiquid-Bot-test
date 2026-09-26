@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-26T18:25:30.266525+00:00`
+- Generated: `2026-09-26T18:30:30.391685+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5771526.52`
-- Polymarket volume z-score: `-1.04`
+- Polymarket 24h volume: `5587902.65`
+- Polymarket volume z-score: `-1.1`
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `965288.935909` | liquidity: `580718.63173`
-- Will the U.S. invade Iran before 2027? | 24h volume: `777269.4875950002` | liquidity: `710910.1672`
-- US x Iran ceasefire continues through September 30? | 24h volume: `440032.758928` | liquidity: `159014.732`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `312290.04808800004` | liquidity: `423917.3345`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `277958.01927` | liquidity: `871042.81948`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `276659.74612100003` | liquidity: `121722.13207`
-- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `230631.11605200003` | liquidity: `92906.63412`
-- Will the Iranian regime fall by September 30? | 24h volume: `195721.292084` | liquidity: `253611.68719`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `893887.920009` | liquidity: `568244.31524`
+- Will the U.S. invade Iran before 2027? | 24h volume: `777292.7600050002` | liquidity: `701953.778`
+- US x Iran ceasefire continues through September 30? | 24h volume: `441037.25532600004` | liquidity: `149124.3624`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `310051.318088` | liquidity: `419142.1598`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `277967.175798` | liquidity: `858662.76166`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `272824.996121` | liquidity: `113077.26772`
+- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `230631.11605200003` | liquidity: `84380.98747`
+- Will the Iranian regime fall by September 30? | 24h volume: `195721.292084` | liquidity: `232061.04167`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
