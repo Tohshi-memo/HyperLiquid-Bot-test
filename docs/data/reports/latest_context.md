@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T08:37:25.802652+00:00`
-- Market context score: `52.82`
-- News risk score: `24.67`
-- Macro risk score: `25.33`
-- Risk-on score: `25.56`
-- Articles: `10`
+- Generated: `2026-09-27T08:52:26.937144+00:00`
+- Market context score: `53.5`
+- News risk score: `24.0`
+- Macro risk score: `24.0`
+- Risk-on score: `26.0`
+- Articles: `11`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T08:30:00+00:00`
+- Day/swing latest: `2026-09-27T08:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Two mass shootings in South Africa leave 27 dead (BBC News)
 - [macro] Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News)
 - [crypto] Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy (Cointelegraph.com News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Faisal Islam: The two big decisions the chancellor must make (BBC News)
 - [macro] Young people in China are fangirling over a professor who gets their anxiety (BBC News)
 - [macro] Are claims of a white genocide in South Africa real? (BBC News)
-- [macro] Mother of woman found hanging in tree shocked as police say body was staged (BBC News)
