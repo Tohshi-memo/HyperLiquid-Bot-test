@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T16:25:35.005459+00:00`
+- Generated: `2026-09-27T16:30:30.078092+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,16 +8,15 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `1360106.27`
-- Polymarket volume z-score: `-1.94`
+- Polymarket 24h volume: `1254159.12`
+- Polymarket volume z-score: `-1.97`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `437022.31508200004` | liquidity: `166333.4318`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `256729.29218` | liquidity: `506590.95421`
-- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `227308.494981` | liquidity: `110257.89258`
-- Will the U.S. invade Iran before 2027? | 24h volume: `180592.65035699995` | liquidity: `813238.9973`
-- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `153988.32` | liquidity: `285289.31469`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `104465.19466699996` | liquidity: `121020.60909`
+- US x Iran ceasefire continues through September 30? | 24h volume: `430079.6150819999` | liquidity: `149847.7633`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `259127.777196` | liquidity: `485466.23983`
+- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `227379.22498099998` | liquidity: `100628.83212`
+- Will the U.S. invade Iran before 2027? | 24h volume: `183584.17976899998` | liquidity: `798330.7388`
+- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `153988.32` | liquidity: `255964.79088`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
