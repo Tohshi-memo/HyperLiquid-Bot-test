@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T13:07:33.317683+00:00`
+- Generated: `2026-09-27T13:22:26.905883+00:00`
 - Market context score: `44.32`
 - News risk score: `36.75`
 - Macro risk score: `27.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T13:00:00+00:00`
+- Day/swing latest: `2026-09-27T13:15:00+00:00`
 
 ## News Categories
 
@@ -27,7 +27,7 @@
 
 ## Headlines
 
-- [crypto] Australia asks OpenAI, Anthropic chiefs to Senate inquiry on health-data hack: Report (Cointelegraph.com News)
+- [crypto] Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report (Cointelegraph.com News)
 - [macro] Ten climbers missing after avalanche hits Himalayan base camp (BBC News)
 - [macro] Nor'easter brings flooding as New York and New Jersey declare emergency (BBC News)
 - [crypto] How months of work on the Clarity Act all fell apart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
