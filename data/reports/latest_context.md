@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T20:52:26.955109+00:00`
-- Market context score: `49.19`
-- News risk score: `31.98`
-- Macro risk score: `17.45`
-- Risk-on score: `20.68`
-- Articles: `15`
+- Generated: `2026-09-27T21:07:29.943045+00:00`
+- Market context score: `46.87`
+- News risk score: `34.25`
+- Macro risk score: `22.0`
+- Risk-on score: `19.17`
+- Articles: `16`
 - Polymarket markets: `385`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T20:45:00+00:00`
+- Day/swing latest: `2026-09-27T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: BBC reports from the front-line of an escalating war in Yemen (BBC News)
 - [macro] Watch: The ups and downs of SpaceX's 13 Starship test flights (BBC News)
 - [macro] Embattled Serbian president resigns, paving way for early elections (BBC News)
 - [macro] Pope says 'scourge' of abuse must be rooted out as he visits Lourdes (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Switzerland rejects stricter interpretation of its neutrality (BBC News)
 - [macro] Venezuela releases dozens of political prisoners as election calls grow (BBC News)
 - [crypto] Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Two mass shootings in South Africa leave 27 dead (BBC News)
