@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T06:52:25.507396+00:00`
+- Generated: `2026-09-27T07:07:30.153522+00:00`
 - Market context score: `54.06`
 - News risk score: `23.45`
 - Macro risk score: `22.91`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T06:45:00+00:00`
+- Day/swing latest: `2026-09-27T07:00:00+00:00`
 
 ## News Categories
 
@@ -26,10 +26,10 @@
 
 ## Headlines
 
+- [macro] Iran waiting for official US response after Trump rejects Hormuz deal, minister says (BBC News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
 - [macro] Nor'easter brings flooding as New York and New Jersey declare emergency (BBC News)
 - [macro] Four killed in helicopter crash near Montreal (BBC News)
-- [macro] Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal (BBC News)
 - [macro] Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too (BBC News)
 - [macro] Young people in China are fangirling over a professor who gets their anxiety (BBC News)
 - [macro] Are claims of a white genocide in South Africa real? (BBC News)
