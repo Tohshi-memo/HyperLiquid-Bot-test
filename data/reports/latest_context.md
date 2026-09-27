@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T16:52:27.602324+00:00`
-- Market context score: `44.32`
-- News risk score: `36.0`
-- Macro risk score: `30.0`
-- Risk-on score: `18.0`
-- Articles: `15`
+- Generated: `2026-09-27T17:07:25.221323+00:00`
+- Market context score: `45.15`
+- News risk score: `35.18`
+- Macro risk score: `28.36`
+- Risk-on score: `18.55`
+- Articles: `16`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T16:45:00+00:00`
+- Day/swing latest: `2026-09-27T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
-- [macro] Ten climbers missing after avalanche hits Himalayan base camp (BBC News)
+- [macro] Two bodies found after avalanche hits Himalayan climbing group (BBC News)
+- [macro] Woman charged with stealing from patients and staff at hospitals across Ontario (BBC News)
 - [commodity] Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table (Energy)
 - [macro] Switzerland rejects stricter interpretation of its neutrality (BBC News)
 - [macro] Venezuela releases dozens of political prisoners as election calls grow (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report (Cointelegraph.com News)
 - [macro] One dead as nor'easter storm pummels New York and New Jersey (BBC News)
 - [crypto] How months of work on the Clarity Act all fell apart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Scourge' of abuse must be rooted out, says Pope during Lourdes visit (BBC News)
