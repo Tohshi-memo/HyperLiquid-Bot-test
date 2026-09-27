@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T12:22:29.043573+00:00`
+- Generated: `2026-09-27T12:37:32.266454+00:00`
 - Market context score: `50.88`
 - News risk score: `26.57`
 - Macro risk score: `29.14`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T12:15:00+00:00`
+- Day/swing latest: `2026-09-27T12:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Nor'easter brings flooding as New York and New Jersey declare emergency (BBC News)
 - [crypto] How months of work on the Clarity Act all fell apart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit (BBC News)
 - [macro] Andy Burnham refuses to back third runway at Heathrow (BBC News)
@@ -35,5 +36,4 @@
 - [macro] Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News)
 - [crypto] Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy (Cointelegraph.com News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
-- [macro] Nor'easter brings flooding as New York and New Jersey declare emergency (BBC News)
 - [macro] Four killed in helicopter crash near Montreal (BBC News)
