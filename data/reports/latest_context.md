@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T07:37:28.036395+00:00`
-- Market context score: `54.06`
-- News risk score: `23.45`
-- Macro risk score: `22.91`
-- Risk-on score: `26.36`
-- Articles: `12`
+- Generated: `2026-09-27T07:52:26.968785+00:00`
+- Market context score: `50.44`
+- News risk score: `27.0`
+- Macro risk score: `30.0`
+- Risk-on score: `24.0`
+- Articles: `11`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T07:30:00+00:00`
+- Day/swing latest: `2026-09-27T07:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [macro] Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News)
 - [crypto] Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy (Cointelegraph.com News)
-- [macro] Iran waiting for official US response after Trump rejects Hormuz deal, minister says (BBC News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
 - [macro] Nor'easter brings flooding as New York and New Jersey declare emergency (BBC News)
 - [macro] Four killed in helicopter crash near Montreal (BBC News)
