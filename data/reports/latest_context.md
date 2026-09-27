@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T18:37:26.924696+00:00`
+- Generated: `2026-09-27T18:52:27.361530+00:00`
 - Market context score: `45.15`
 - News risk score: `35.18`
 - Macro risk score: `28.36`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T18:30:00+00:00`
+- Day/swing latest: `2026-09-27T18:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [commodity] Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table (Energy)
 - [macro] Two bodies found after avalanche hits Himalayan climbing group (BBC News)
 - [macro] Woman charged with stealing from patients and staff at hospitals across Ontario (BBC News)
-- [commodity] Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table (Energy)
 - [macro] Switzerland rejects stricter interpretation of its neutrality (BBC News)
 - [macro] Venezuela releases dozens of political prisoners as election calls grow (BBC News)
 - [crypto] Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
