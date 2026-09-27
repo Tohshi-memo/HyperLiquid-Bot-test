@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T10:07:28.428872+00:00`
+- Generated: `2026-09-27T10:22:30.046648+00:00`
 - Market context score: `50.88`
 - News risk score: `26.57`
 - Macro risk score: `29.14`
 - Risk-on score: `24.29`
-- Articles: `8`
+- Articles: `9`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T10:00:00+00:00`
+- Day/swing latest: `2026-09-27T10:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
 - [macro] Two mass shootings in South Africa leave 27 dead (BBC News)
+- [crypto] Riot Platforms repays $200M credit facility, releases collateral (Cointelegraph.com News)
 - [macro] Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News)
 - [crypto] Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy (Cointelegraph.com News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
