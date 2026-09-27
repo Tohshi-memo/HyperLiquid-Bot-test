@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T19:37:40.243824+00:00`
-- Market context score: `43.62`
-- News risk score: `37.43`
-- Macro risk score: `28.36`
-- Risk-on score: `17.05`
-- Articles: `15`
+- Generated: `2026-09-27T19:52:37.203145+00:00`
+- Market context score: `45.85`
+- News risk score: `35.25`
+- Macro risk score: `24.0`
+- Risk-on score: `18.5`
+- Articles: `14`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T19:30:00+00:00`
+- Day/swing latest: `2026-09-27T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] Pope says 'scourge' of abuse must be rooted out as he visits Lourdes (BBC News)
 - [commodity] Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table (Energy)
 - [macro] Two bodies found after avalanche hits Himalayan climbing group (BBC News)
 - [macro] Woman charged with stealing from patients and staff at hospitals across Ontario (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Two mass shootings in South Africa leave 27 dead (BBC News)
 - [crypto] Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report (Cointelegraph.com News)
 - [macro] One dead as nor'easter storm pummels New York and New Jersey (BBC News)
-- [crypto] How months of work on the Clarity Act all fell apart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
