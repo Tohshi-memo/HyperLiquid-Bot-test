@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T03:37:31.389554+00:00`
-- Market context score: `50.44`
-- News risk score: `27.0`
-- Macro risk score: `30.0`
-- Risk-on score: `24.0`
-- Articles: `10`
+- Generated: `2026-09-27T03:52:27.657917+00:00`
+- Market context score: `55.8`
+- News risk score: `21.75`
+- Macro risk score: `19.5`
+- Risk-on score: `27.5`
+- Articles: `8`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T03:30:00+00:00`
+- Day/swing latest: `2026-09-27T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
@@ -35,5 +35,3 @@
 - [macro] White House bars CNN from travelling with Trump on Air Force One (BBC News)
 - [macro] Tenth woman's body found as South Africa police probe killings (BBC News)
 - [commodity] Westwood Holdings CEO Brian Casey on Y'all Street and an ETF tracking the AI power ecosystem (Energy)
-- [macro] German town bans 'stumbling stone' memorials to Nazi victims (BBC News)
-- [macro] Brazil's Lula bans online gambling ahead of presidential election (BBC News)
