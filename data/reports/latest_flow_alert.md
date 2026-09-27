@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T14:20:34.014481+00:00`
+- Generated: `2026-09-27T14:25:32.866979+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `1872098.91`
-- Polymarket volume z-score: `-1.86`
+- Polymarket 24h volume: `1826040.04`
+- Polymarket volume z-score: `-1.87`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `273505.8286620002` | liquidity: `157045.0178`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `246546.43753999998` | liquidity: `454237.32141`
+- US x Iran ceasefire continues through September 30? | 24h volume: `273780.2437710002` | liquidity: `157116.4577`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `246850.92854` | liquidity: `452223.20995`
 - Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `227240.501141` | liquidity: `109531.50151`
-- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `206416.763334` | liquidity: `299873.13937`
-- Will the U.S. invade Iran before 2027? | 24h volume: `193125.15046899996` | liquidity: `783341.1896`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `137712.32607199994` | liquidity: `871901.67151`
-- Will the price of Bitcoin be above $84,000 on September 27? | 24h volume: `119912.47105499996` | liquidity: `36808.89739`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `110694.83156499997` | liquidity: `111706.93469`
+- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `206416.763334` | liquidity: `298388.72937`
+- Will the U.S. invade Iran before 2027? | 24h volume: `193095.15046899996` | liquidity: `787437.3606`
+- Will the price of Bitcoin be above $84,000 on September 27? | 24h volume: `123776.88449599997` | liquidity: `24407.08604`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `109038.17340599996` | liquidity: `113435.31161`
+- Will the price of Bitcoin be above $82,000 on September 27? | 24h volume: `99763.46606100001` | liquidity: `65369.64026`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
