@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T08:25:27.806756+00:00`
+- Generated: `2026-09-27T08:30:30.351436+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `3833630.34`
-- Polymarket volume z-score: `-1.43`
+- Polymarket 24h volume: `3854835.57`
+- Polymarket volume z-score: `-1.42`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `472164.362836` | liquidity: `170561.2223`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `401288.32647100004` | liquidity: `674120.20949`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `260503.251613` | liquidity: `843696.17042`
-- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `228380.61409700004` | liquidity: `72226.95878`
-- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `222224.778668` | liquidity: `271038.62682`
-- Will the U.S. invade Iran before 2027? | 24h volume: `216979.08684399992` | liquidity: `856803.9646`
-- Will the Iranian regime fall by September 30? | 24h volume: `198299.61485299998` | liquidity: `252839.24196`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `155625.009502` | liquidity: `648478.07059`
+- US x Iran ceasefire continues through September 30? | 24h volume: `478516.4339330001` | liquidity: `167798.6196`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `401185.84609300003` | liquidity: `674095.79075`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `260508.25161299997` | liquidity: `843482.93108`
+- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `228319.122347` | liquidity: `73876.41878`
+- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `222868.778668` | liquidity: `271149.07222`
+- Will the U.S. invade Iran before 2027? | 24h volume: `216977.74684399995` | liquidity: `859033.5084`
+- Will the Iranian regime fall by September 30? | 24h volume: `198299.61485299998` | liquidity: `206958.07316`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `157614.989502` | liquidity: `648461.07059`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
