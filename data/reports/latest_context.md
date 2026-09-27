@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T14:37:25.360179+00:00`
-- Market context score: `44.32`
-- News risk score: `36.0`
-- Macro risk score: `30.0`
-- Risk-on score: `18.0`
-- Articles: `15`
+- Generated: `2026-09-27T14:53:22.617500+00:00`
+- Market context score: `43.3`
+- News risk score: `37.0`
+- Macro risk score: `32.0`
+- Risk-on score: `17.33`
+- Articles: `14`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T14:30:00+00:00`
+- Day/swing latest: `2026-09-27T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
