@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T20:10:28.230638+00:00`
+- Generated: `2026-09-27T20:15:31.011809+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,15 +8,16 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `1287894.57`
-- Polymarket volume z-score: `-1.87`
+- Polymarket 24h volume: `1443076.31`
+- Polymarket volume z-score: `-1.82`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `444891.15255800006` | liquidity: `130609.3135`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `269446.01965900004` | liquidity: `522599.55805`
-- Will Israel win on 2026-09-27? | 24h volume: `247126.99842300004` | liquidity: `57348.58191`
-- Will the U.S. invade Iran before 2027? | 24h volume: `172132.07895899998` | liquidity: `798076.8555`
-- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `154298.32` | liquidity: `259522.05592`
+- US x Iran ceasefire continues through September 30? | 24h volume: `445299.094579` | liquidity: `151027.7559`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `269446.0196589999` | liquidity: `544851.75978`
+- Will Israel win on 2026-09-27? | 24h volume: `250433.2349100002` | liquidity: `54702.63126`
+- Will the U.S. invade Iran before 2027? | 24h volume: `172698.68895899996` | liquidity: `811064.9824`
+- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `154298.32` | liquidity: `290154.66216`
+- Will Republic of Ireland win on 2026-09-27? | 24h volume: `150900.9562530001` | liquidity: `63967.62688`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
