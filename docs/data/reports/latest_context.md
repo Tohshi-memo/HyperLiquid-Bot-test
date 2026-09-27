@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T13:22:26.905883+00:00`
-- Market context score: `44.32`
-- News risk score: `36.75`
-- Macro risk score: `27.0`
-- Risk-on score: `17.5`
-- Articles: `12`
-- Polymarket markets: `387`
+- Generated: `2026-09-27T13:37:29.528437+00:00`
+- Market context score: `41.77`
+- News risk score: `39.25`
+- Macro risk score: `32.0`
+- Risk-on score: `15.83`
+- Articles: `13`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T13:15:00+00:00`
+- Day/swing latest: `2026-09-27T13:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
@@ -35,5 +35,5 @@
 - [macro] Andy Burnham refuses to back third runway at Heathrow (BBC News)
 - [macro] Two mass shootings in South Africa leave 27 dead (BBC News)
 - [crypto] Riot Platforms repays $200M credit facility, releases collateral (Cointelegraph.com News)
+- [macro] Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back (BBC News)
 - [macro] Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News)
-- [crypto] Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy (Cointelegraph.com News)
