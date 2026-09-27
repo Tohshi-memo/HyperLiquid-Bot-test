@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T12:37:32.266454+00:00`
-- Market context score: `50.88`
-- News risk score: `26.57`
-- Macro risk score: `29.14`
-- Risk-on score: `24.29`
-- Articles: `10`
+- Generated: `2026-09-27T12:52:28.680928+00:00`
+- Market context score: `51.97`
+- News risk score: `25.5`
+- Macro risk score: `27.0`
+- Risk-on score: `25.0`
+- Articles: `11`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T12:30:00+00:00`
+- Day/swing latest: `2026-09-27T12:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Ten climbers missing after avalanche hits Himalayan base camp (BBC News)
 - [macro] Nor'easter brings flooding as New York and New Jersey declare emergency (BBC News)
 - [crypto] How months of work on the Clarity Act all fell apart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News)
 - [crypto] Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy (Cointelegraph.com News)
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
-- [macro] Four killed in helicopter crash near Montreal (BBC News)
