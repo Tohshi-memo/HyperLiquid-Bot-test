@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T10:52:29.676933+00:00`
-- Market context score: `50.88`
-- News risk score: `26.57`
-- Macro risk score: `29.14`
-- Risk-on score: `24.29`
-- Articles: `9`
+- Generated: `2026-09-27T11:07:24.785215+00:00`
+- Market context score: `47.38`
+- News risk score: `30.0`
+- Macro risk score: `36.0`
+- Risk-on score: `22.0`
+- Articles: `7`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T10:45:00+00:00`
+- Day/swing latest: `2026-09-27T11:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
@@ -34,5 +34,3 @@
 - [macro] Bangkok roads submerged as flood disaster declared (BBC News)
 - [macro] Nor'easter brings flooding as New York and New Jersey declare emergency (BBC News)
 - [macro] Four killed in helicopter crash near Montreal (BBC News)
-- [macro] Killer Christa Pike is to be executed within days - but her defence say she's a victim too (BBC News)
-- [macro] Faisal Islam: The two big decisions the chancellor must make (BBC News)
