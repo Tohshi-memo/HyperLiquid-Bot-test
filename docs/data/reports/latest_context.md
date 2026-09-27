@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T11:52:26.775189+00:00`
+- Generated: `2026-09-27T12:07:26.969804+00:00`
 - Market context score: `50.88`
 - News risk score: `26.57`
 - Macro risk score: `29.14`
 - Risk-on score: `24.29`
-- Articles: `9`
+- Articles: `10`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T11:45:00+00:00`
+- Day/swing latest: `2026-09-27T12:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] How months of work on the Clarity Act all fell apart (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit (BBC News)
 - [macro] Andy Burnham refuses to back third runway at Heathrow (BBC News)
 - [macro] Two mass shootings in South Africa leave 27 dead (BBC News)
