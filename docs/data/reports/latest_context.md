@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T11:22:29.761739+00:00`
-- Market context score: `47.38`
-- News risk score: `30.0`
-- Macro risk score: `36.0`
-- Risk-on score: `22.0`
-- Articles: `7`
+- Generated: `2026-09-27T11:37:31.183041+00:00`
+- Market context score: `49.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `23.33`
+- Articles: `8`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T11:15:00+00:00`
+- Day/swing latest: `2026-09-27T11:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
+- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Andy Burnham refuses to back third runway at Heathrow (BBC News)
 - [macro] Two mass shootings in South Africa leave 27 dead (BBC News)
 - [crypto] Riot Platforms repays $200M credit facility, releases collateral (Cointelegraph.com News)
 - [macro] Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News)
