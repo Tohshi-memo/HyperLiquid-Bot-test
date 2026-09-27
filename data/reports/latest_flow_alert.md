@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T10:05:30.547934+00:00`
+- Generated: `2026-09-27T10:10:31.726109+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `3441025.26`
+- Polymarket 24h volume: `3425605.37`
 - Polymarket volume z-score: `-1.51`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `471000.637226` | liquidity: `169908.148`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `246741.624968` | liquidity: `919350.0473`
-- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `228293.049633` | liquidity: `91440.66027`
+- US x Iran ceasefire continues through September 30? | 24h volume: `447149.93452899996` | liquidity: `169289.058`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `246747.85548099995` | liquidity: `912952.10337`
+- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `228293.04963299996` | liquidity: `91420.03827`
 - Will the Iranian regime fall by September 30? | 24h volume: `222047.284853` | liquidity: `227169.98791`
-- Will the U.S. invade Iran before 2027? | 24h volume: `212636.90936299993` | liquidity: `881108.4052`
-- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `205878.625334` | liquidity: `285493.40861`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `199482.655959` | liquidity: `665149.07487`
+- Will the U.S. invade Iran before 2027? | 24h volume: `212636.90936299993` | liquidity: `877886.2968`
+- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `205878.625334` | liquidity: `285493.90861`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `194719.995959` | liquidity: `667148.87487`
 - Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `157614.989502` | liquidity: `642327.13115`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
