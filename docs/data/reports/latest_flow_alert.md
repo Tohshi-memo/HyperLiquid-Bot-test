@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T19:00:29.388296+00:00`
+- Generated: `2026-09-27T19:05:28.639548+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,10 +13,10 @@
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `442638.0175519999` | liquidity: `161706.6104`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `268423.92465900007` | liquidity: `486887.33304`
-- Will the U.S. invade Iran before 2027? | 24h volume: `182170.62800699996` | liquidity: `812116.1881`
-- Will Israel win on 2026-09-27? | 24h volume: `177637.40258200007` | liquidity: `39043.7604`
-- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `153648.32` | liquidity: `288155.55684`
+- US x Iran ceasefire continues through September 30? | 24h volume: `442638.0175519999` | liquidity: `159508.3029`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `268423.92465900007` | liquidity: `544124.80274`
+- Will the U.S. invade Iran before 2027? | 24h volume: `182170.62800699996` | liquidity: `806579.5045`
+- Will Israel win on 2026-09-27? | 24h volume: `177637.40258200007` | liquidity: `37464.5434`
+- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `153648.32` | liquidity: `286726.60585`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
