@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T22:30:32.083745+00:00`
+- Generated: `2026-09-27T22:35:31.797280+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `393743.549799` | liquidity: `139390.5222`
+- US x Iran ceasefire continues through September 30? | 24h volume: `393743.549799` | liquidity: `137153.093`
 - Will Israel win on 2026-09-27? | 24h volume: `254728.26124500003` | liquidity: `288327.83392`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `251170.5042909986` | liquidity: `542992.04421`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `251170.5042909986` | liquidity: `542592.44421`
 - Will Republic of Ireland win on 2026-09-27? | 24h volume: `163417.08758600007` | liquidity: `359051.48614`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `110524.35978599999` | liquidity: `627295.495`
-- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `105375.374149` | liquidity: `121720.39033`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `105172.273864` | liquidity: `525614.5697`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `102739.543783` | liquidity: `107421.8269`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `110524.35978599999` | liquidity: `590109.865`
+- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `105375.374149` | liquidity: `118943.38627`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `105172.273864` | liquidity: `537548.2324`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `102739.543783` | liquidity: `107899.84272`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
