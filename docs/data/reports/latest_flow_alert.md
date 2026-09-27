@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-27T10:10:31.726109+00:00`
+- Generated: `2026-09-27T10:15:37.197739+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `447149.93452899996` | liquidity: `169289.058`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `246747.85548099995` | liquidity: `912952.10337`
-- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `228293.04963299996` | liquidity: `91420.03827`
+- US x Iran ceasefire continues through September 30? | 24h volume: `447149.93452899996` | liquidity: `171421.5848`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `246747.85548099995` | liquidity: `866257.84442`
+- Bab el-Mandeb Strait effectively closed by September 30? | 24h volume: `228293.04963299996` | liquidity: `93219.77827`
 - Will the Iranian regime fall by September 30? | 24h volume: `222047.284853` | liquidity: `227169.98791`
 - Will the U.S. invade Iran before 2027? | 24h volume: `212636.90936299993` | liquidity: `877886.2968`
-- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `205878.625334` | liquidity: `285493.90861`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `194719.995959` | liquidity: `667148.87487`
+- Will Christine Lagarde win the 2027 French presidential election? | 24h volume: `205878.625334` | liquidity: `283694.05861`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `194719.995959` | liquidity: `665098.97487`
 - Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `157614.989502` | liquidity: `642327.13115`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
