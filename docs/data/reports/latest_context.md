@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T06:22:26.993750+00:00`
-- Market context score: `51.52`
-- News risk score: `38.0`
-- Macro risk score: `22.0`
-- Risk-on score: `32.67`
-- Articles: `27`
+- Generated: `2026-09-28T06:37:32.258528+00:00`
+- Market context score: `50.18`
+- News risk score: `39.32`
+- Macro risk score: `24.63`
+- Risk-on score: `31.79`
+- Articles: `28`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T06:15:00+00:00`
+- Day/swing latest: `2026-09-28T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: Madonna and Taylor Swift win big at the MTV VMAs (BBC News)
 - [crypto] California's Newsom signs memecoin ban and calls it 'The Opposite of Trump' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea weighs crypto market makers after JPYC trades at 4 times peg (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork (Cointelegraph.com News)
 - [macro] China posts weakest industrial profit growth this year, expanding 4.2% in August (Economy)
 - [crypto] Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Avanti West Coast services to be nationalised from March (BBC News)
