@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T19:22:32.433303+00:00`
+- Generated: `2026-09-28T19:37:32.007939+00:00`
 - Market context score: `48.35`
 - News risk score: `42.08`
 - Macro risk score: `25.31`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T19:15:00+00:00`
+- Day/swing latest: `2026-09-28T19:30:00+00:00`
 
 ## News Categories
 
@@ -29,10 +29,10 @@
 
 ## Headlines
 
+- [macro] Stand-up comic released after being convicted of insulting Erdoğan (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US SEC follows CFTC in staff guidance for crypto (Cointelegraph.com News)
 - [macro] What a US diesel export ban could mean for you (BBC News)
-- [macro] Stand-up comic set for release after being convicted of insulting Erdoğan (BBC News)
 - [macro] US prosecutors reopen case of alleged gang rape at Cornell University (BBC News)
 - [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
 - [crypto] Bybit accepts Franklin Templeton tokenized funds as trading collateral (Cointelegraph.com News)
