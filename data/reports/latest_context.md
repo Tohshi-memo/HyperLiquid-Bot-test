@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T15:07:32.803457+00:00`
+- Generated: `2026-09-28T15:22:32.069741+00:00`
 - Market context score: `55.44`
 - News risk score: `34.72`
 - Macro risk score: `20.1`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T15:00:00+00:00`
+- Day/swing latest: `2026-09-28T15:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
 - [crypto] Bitget CEO says $388M hack exploited third-party security vulnerability (Cointelegraph.com News)
 - [macro] What is the Budget and what could be in it? (BBC News)
 - [crypto] MiCA focus shifts from rulemaking to supervision, ESMA chair says (Cointelegraph.com News)
-- [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Altseason is coming — and traders are more discerning this time (Cointelegraph.com News)
 - [commodity] Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens (Energy)
