@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-28T18:50:31.376360+00:00`
-- Flow alert score: `18.28`
+- Generated: `2026-09-28T18:55:39.632112+00:00`
+- Flow alert score: `18.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7375926.05`
-- Polymarket volume z-score: `0.32`
+- Polymarket 24h volume: `7335015.44`
+- Polymarket volume z-score: `0.31`
 
 ## Top Polymarket Markets
 
-- Will Georgia win on 2026-09-28? | 24h volume: `406775.22339500015` | liquidity: `612767.8811`
-- Will Ukraine win on 2026-09-28? | 24h volume: `249088.56907100006` | liquidity: `394697.77061`
-- Georgia vs. Ukraine: O/U 0.5 | 24h volume: `245749.54040699988` | liquidity: `300622.62133`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `245457.18431299995` | liquidity: `418703.5343`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `245339.64304400005` | liquidity: `352382.6029`
-- US x Iran ceasefire continues through September 30? | 24h volume: `224129.620882` | liquidity: `139344.09904`
-- Will Georgia vs. Ukraine end in a draw? | 24h volume: `218245.62801700004` | liquidity: `500068.06388`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `204459.808359` | liquidity: `79911.57391`
+- Will Georgia win on 2026-09-28? | 24h volume: `406760.7500610001` | liquidity: `605210.3392`
+- Will Ukraine win on 2026-09-28? | 24h volume: `248795.92283099992` | liquidity: `394559.18933`
+- Georgia vs. Ukraine: O/U 0.5 | 24h volume: `246019.06040699987` | liquidity: `300353.37085`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `245478.92344400004` | liquidity: `437799.315`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `245255.76951400004` | liquidity: `308646.9866`
+- Will Georgia vs. Ukraine end in a draw? | 24h volume: `240036.12801700007` | liquidity: `478911.44168`
+- US x Iran ceasefire continues through September 30? | 24h volume: `230476.168396` | liquidity: `146518.07837`
+- Will Bitcoin reach $92,500 in September? | 24h volume: `195917.68937` | liquidity: `91466.38983`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
