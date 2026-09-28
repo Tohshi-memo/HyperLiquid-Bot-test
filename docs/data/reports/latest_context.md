@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T23:07:31.637442+00:00`
-- Market context score: `42.0`
-- News risk score: `45.35`
-- Macro risk score: `29.96`
-- Risk-on score: `20.73`
-- Articles: `43`
+- Generated: `2026-09-28T23:22:37.360800+00:00`
+- Market context score: `40.75`
+- News risk score: `46.41`
+- Macro risk score: `31.6`
+- Risk-on score: `19.45`
+- Articles: `44`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T23:00:00+00:00`
+- Day/swing latest: `2026-09-28T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `11`, risk headline rate `0.3889`, policy hits `2`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `0`
+- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Warning more homes will be uninsurable due to flood risk (BBC News)
+- [macro] Unis are offering degrees in content creation for £30,000. But are they worth it? (BBC News)
 - [commodity] Jim Cramer says these stocks can win even as oil and bond yields squeeze the market (Energy)
 - [macro] French PM warns against escalation of school protests after 164 arrested (BBC News)
 - [macro] Why UK diesel prices have hit an all-time high (BBC News)
@@ -37,5 +39,3 @@
 - [macro] UK tries to stop Trump's diesel export ban (BBC News)
 - [crypto] Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report (Cointelegraph.com News)
 - [macro] Stand-up comic released after being convicted of insulting Erdoğan (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] US SEC follows CFTC in staff guidance for crypto (Cointelegraph.com News)
