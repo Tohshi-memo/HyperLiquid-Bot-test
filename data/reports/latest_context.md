@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T05:07:34.657208+00:00`
-- Market context score: `45.59`
-- News risk score: `36.75`
-- Macro risk score: `19.5`
-- Risk-on score: `17.5`
-- Articles: `22`
+- Generated: `2026-09-28T05:22:26.665366+00:00`
+- Market context score: `46.02`
+- News risk score: `36.33`
+- Macro risk score: `18.67`
+- Risk-on score: `17.78`
+- Articles: `24`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T05:00:00+00:00`
+- Day/swing latest: `2026-09-28T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
+- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
 
 ## Headlines
 
+- [macro] How waste food helps families through the week (BBC News)
+- [macro] Uni student living at home 'wasn't ready' to move away (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork (Cointelegraph.com News)
 - [macro] China posts weakest industrial profit growth this year, expanding 4.2% in August (Economy)
@@ -36,5 +38,3 @@
 - [crypto] Newsom signs California ban on public officials issuing memecoins (Cointelegraph.com News)
 - [macro] Taylor Swift and Charli XCX among stars to light up VMAs red carpet (BBC News)
 - [crypto] Zano rolls blockchain back a month after Gateway Address exploit (Cointelegraph.com News)
-- [macro] Watch: Shipwreck uncovered on Nantucket island during nor'easter storm (BBC News)
-- [crypto] THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest (Cointelegraph.com News)
