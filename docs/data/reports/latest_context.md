@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T08:07:29.465992+00:00`
+- Generated: `2026-09-28T08:22:30.458037+00:00`
 - Market context score: `53.81`
 - News risk score: `35.25`
 - Macro risk score: `19.5`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T08:00:00+00:00`
+- Day/swing latest: `2026-09-28T08:15:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
+- [macro] You need £17,000 for a first home - here's how to save it (BBC News)
 - [crypto] RedotPay completes financial audit as it presses ahead with U.S. IPO plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] You need £17,000 for a first home - here are 4 ways to do it (BBC News)
 - [macro] Why the PM could finally drop the triple lock pension pledge (BBC News)
 - [macro] Healey to promise 'new age of industrialisation' for UK in conference speech (BBC News)
 - [macro] Two mass shootings in South Africa leave 28 dead (BBC News)
