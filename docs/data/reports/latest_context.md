@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T20:22:33.088100+00:00`
-- Market context score: `48.8`
+- Generated: `2026-09-28T20:37:49.800705+00:00`
+- Market context score: `47.71`
 - News risk score: `40.62`
 - Macro risk score: `26.81`
-- Risk-on score: `30.64`
+- Risk-on score: `28.22`
 - Articles: `52`
 - Polymarket markets: `389`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T20:15:00+00:00`
+- Day/swing latest: `2026-09-28T20:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report (Cointelegraph.com News)
 - [macro] Stand-up comic released after being convicted of insulting Erdoğan (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US SEC follows CFTC in staff guidance for crypto (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
 - [crypto] Bybit accepts Franklin Templeton tokenized funds as trading collateral (Cointelegraph.com News)
 - [crypto] Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Aldi boss says some of rivals' loyalty discounts 'dupe' customers (BBC News)
