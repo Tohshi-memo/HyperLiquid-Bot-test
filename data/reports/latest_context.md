@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T19:07:31.415432+00:00`
+- Generated: `2026-09-28T19:22:32.433303+00:00`
 - Market context score: `48.35`
 - News risk score: `42.08`
 - Macro risk score: `25.31`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T19:00:00+00:00`
+- Day/swing latest: `2026-09-28T19:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US SEC follows CFTC in staff guidance for crypto (Cointelegraph.com News)
 - [macro] What a US diesel export ban could mean for you (BBC News)
 - [macro] Stand-up comic set for release after being convicted of insulting Erdoğan (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Aldi boss says some of rivals' loyalty discounts 'dupe' customers (BBC News)
 - [macro] Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News)
-- [policy] Cook, An Update on AI and the Economy (FRB: Speeches)
