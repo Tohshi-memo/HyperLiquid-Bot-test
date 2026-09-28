@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T13:22:28.591314+00:00`
-- Market context score: `52.98`
-- News risk score: `35.81`
-- Macro risk score: `21.23`
-- Risk-on score: `33.78`
-- Articles: `38`
+- Generated: `2026-09-28T13:37:35.759480+00:00`
+- Market context score: `53.35`
+- News risk score: `35.27`
+- Macro risk score: `21.21`
+- Risk-on score: `34.13`
+- Articles: `39`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T13:15:00+00:00`
+- Day/swing latest: `2026-09-28T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `1`
+- crypto: articles `25`, risk hits `8`, risk headline rate `0.28`, policy hits `1`
 - macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Altseason is coming — and traders are more discerning this time (Cointelegraph.com News)
 - [commodity] Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens (Energy)
 - [crypto] AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Avanti West Coast services to be nationalised from March (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [crypto] THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why UK diesel prices have hit an all-time high (BBC News)
-- [crypto] Traders aren't panicking yet despite cooling crypto sentiment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
