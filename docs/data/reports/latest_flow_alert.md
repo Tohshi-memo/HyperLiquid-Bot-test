@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-28T14:40:31.658057+00:00`
+- Generated: `2026-09-28T14:45:35.778494+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `323746.077546` | liquidity: `172098.60694`
+- US x Iran ceasefire continues through September 30? | 24h volume: `323746.077546` | liquidity: `168223.76422`
 - Bitcoin all time high by September 30, 2026? | 24h volume: `192790.434` | liquidity: `398582.96043`
-- Will the price of Bitcoin be above $76,000 on September 28? | 24h volume: `183926.996426` | liquidity: `36617.78617`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `181034.508555` | liquidity: `118601.4962`
-- Will Bitcoin reach $92,500 in September? | 24h volume: `178111.77180299998` | liquidity: `98650.20717`
-- Will Bitcoin reach $130,000 by December 31, 2026? | 24h volume: `176148.47001699999` | liquidity: `161075.19258`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `173257.165632` | liquidity: `354397.7785`
-- Will the price of Bitcoin be above $86,000 on September 28? | 24h volume: `172886.988649` | liquidity: `54416.35741`
+- Will the price of Bitcoin be above $76,000 on September 28? | 24h volume: `183926.996426` | liquidity: `27977.78617`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `181034.508555` | liquidity: `119430.8911`
+- Will Bitcoin reach $92,500 in September? | 24h volume: `178111.77180299998` | liquidity: `88775.17386`
+- Will Bitcoin reach $130,000 by December 31, 2026? | 24h volume: `176148.47001699999` | liquidity: `127822.80101`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `173257.165632` | liquidity: `334942.0269`
+- Will the price of Bitcoin be above $86,000 on September 28? | 24h volume: `172886.988649` | liquidity: `43066.06101`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
