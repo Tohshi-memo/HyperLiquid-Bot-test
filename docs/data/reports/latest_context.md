@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T04:52:27.711343+00:00`
-- Market context score: `40.72`
-- News risk score: `44.03`
-- Macro risk score: `19.06`
-- Risk-on score: `12.65`
-- Articles: `21`
+- Generated: `2026-09-28T05:07:34.657208+00:00`
+- Market context score: `45.59`
+- News risk score: `36.75`
+- Macro risk score: `19.5`
+- Risk-on score: `17.5`
+- Articles: `22`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T04:45:00+00:00`
+- Day/swing latest: `2026-09-28T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `0`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork (Cointelegraph.com News)
 - [macro] China posts weakest industrial profit growth this year, expanding 4.2% in August (Economy)
 - [crypto] Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Avanti West Coast services to be nationalised from March (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Zano rolls blockchain back a month after Gateway Address exploit (Cointelegraph.com News)
 - [macro] Watch: Shipwreck uncovered on Nantucket island during nor'easter storm (BBC News)
 - [crypto] THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest (Cointelegraph.com News)
-- [macro] One dead as nor'easter storm pummels New York and New Jersey (BBC News)
-- [macro] News media must stay relevant or 'society will struggle', says World News Day boss (BBC News)
