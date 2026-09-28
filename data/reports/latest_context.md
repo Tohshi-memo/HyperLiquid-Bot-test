@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T10:07:31.587491+00:00`
-- Market context score: `57.15`
-- News risk score: `33.0`
+- Generated: `2026-09-28T10:22:32.016549+00:00`
+- Market context score: `57.59`
+- News risk score: `32.34`
 - Macro risk score: `19.5`
-- Risk-on score: `40.0`
-- Articles: `32`
+- Risk-on score: `40.44`
+- Articles: `33`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T10:00:00+00:00`
+- Day/swing latest: `2026-09-28T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
 - macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
 
 ## Headlines
 
 - [crypto] Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Hong Kong regulators expand financial reporting oversight to licensed crypto firms (Cointelegraph.com News)
 - [crypto] Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin bears pay to bet on further declines as futures positions near yearly lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Tourism tax needs to be more flexible in Wales, warns expert (BBC News)
 - [crypto] Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025 (Cointelegraph.com News)
 - [commodity] Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens (Energy)
-- [macro] You need £17,000 for a first home - here's how to save it (BBC News)
