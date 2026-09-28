@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T23:37:24.917072+00:00`
-- Market context score: `40.13`
-- News risk score: `47.21`
-- Macro risk score: `31.62`
-- Risk-on score: `18.77`
-- Articles: `43`
+- Generated: `2026-09-28T23:52:33.279943+00:00`
+- Market context score: `40.63`
+- News risk score: `47.02`
+- Macro risk score: `30.25`
+- Risk-on score: `19.21`
+- Articles: `45`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T23:30:00+00:00`
+- Day/swing latest: `2026-09-28T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `17`, risk hits `11`, risk headline rate `0.4118`, policy hits `2`
-- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `0`
+- macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Hurricane Polo unleashes threatening winds as it approaches Mexico (BBC News)
+- [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
 - [macro] Warning more homes will be uninsurable due to flood risk (BBC News)
 - [macro] Unis are offering degrees in content creation for £30,000. But are they worth it? (BBC News)
 - [commodity] Jim Cramer says these stocks can win even as oil and bond yields squeeze the market (Energy)
@@ -37,5 +39,3 @@
 - [macro] UK diesel price hits all-time high, the RAC says (BBC News)
 - [crypto] Canadian ‘crypto king’ set to represent himself at fraud trial (Cointelegraph.com News)
 - [macro] UK tries to stop Trump's diesel export ban (BBC News)
-- [crypto] Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report (Cointelegraph.com News)
-- [macro] Stand-up comic released after being convicted of insulting Erdoğan (BBC News)
