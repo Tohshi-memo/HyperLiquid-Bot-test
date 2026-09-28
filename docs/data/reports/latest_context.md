@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T07:07:26.643781+00:00`
+- Generated: `2026-09-28T07:22:36.442620+00:00`
 - Market context score: `51.79`
 - News risk score: `37.74`
 - Macro risk score: `21.47`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T07:00:00+00:00`
+- Day/swing latest: `2026-09-28T07:15:00+00:00`
 
 ## News Categories
 
@@ -27,13 +27,13 @@
 
 ## Headlines
 
+- [macro] Healey to promise 'new age of industrialisation' for UK in conference speech (BBC News)
+- [macro] Why the PM could finally drop the triple lock pension pledge (BBC News)
 - [macro] Two mass shootings in South Africa leave 28 dead (BBC News)
 - [macro] Watch: Madonna and Taylor Swift win big at the MTV VMAs (BBC News)
 - [crypto] California's Newsom signs memecoin ban and calls it 'The Opposite of Trump' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea weighs crypto market makers after JPYC trades at 4 times peg (Cointelegraph.com News)
-- [macro] How much is in your savings account? (BBC News)
 - [macro] Tourism tax needs to be more flexible in Wales, warns expert (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork (Cointelegraph.com News)
-- [macro] China posts weakest industrial profit growth this year, expanding 4.2% in August (Economy)
