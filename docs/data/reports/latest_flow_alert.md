@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-28T03:55:34.059099+00:00`
+- Generated: `2026-09-28T04:00:40.338464+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `353307.18062000006` | liquidity: `145124.9699`
+- US x Iran ceasefire continues through September 30? | 24h volume: `353307.18062000006` | liquidity: `145058.4939`
 - Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `294682.2303459999` | liquidity: `516526.19953`
-- Will Bitcoin reach $130,000 by December 31, 2026? | 24h volume: `182803.20554400003` | liquidity: `192829.80019`
-- Will Bitcoin reach $92,500 in September? | 24h volume: `157311.91953300004` | liquidity: `154632.29068`
-- China Open, Qualification: Carol Zhao vs Vivian Wolff | 24h volume: `153176.311495` | liquidity: `79364.2069`
+- Will Bitcoin reach $130,000 by December 31, 2026? | 24h volume: `182803.20554400003` | liquidity: `192819.82019`
+- Will Bitcoin reach $92,500 in September? | 24h volume: `157311.91953300004` | liquidity: `154809.12423`
+- China Open, Qualification: Carol Zhao vs Vivian Wolff | 24h volume: `153176.311495` | liquidity: `74444.7649`
 - Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `127014.500638` | liquidity: `54213.6885`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `123083.60570900001` | liquidity: `567377.2969`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `105809.172029` | liquidity: `116729.85119`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `123083.60570900001` | liquidity: `558744.4569`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `105809.172029` | liquidity: `116752.45254`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
