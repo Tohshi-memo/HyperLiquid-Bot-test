@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T11:22:28.943252+00:00`
-- Market context score: `55.49`
-- News risk score: `33.84`
-- Macro risk score: `20.0`
-- Risk-on score: `37.22`
-- Articles: `34`
+- Generated: `2026-09-28T11:37:30.791619+00:00`
+- Market context score: `55.96`
+- News risk score: `33.0`
+- Macro risk score: `20.57`
+- Risk-on score: `37.78`
+- Articles: `35`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T11:15:00+00:00`
+- Day/swing latest: `2026-09-28T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `0`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
+- crypto: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
+- macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Traders aren't panicking yet despite cooling crypto sentiment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Mexico's Pacific coast braces for Hurricane Polo (BBC News)
 - [crypto] Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain (Cointelegraph.com News)
+- [crypto] Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK diesel price hits all-time high (BBC News)
 - [macro] Tourism tax needs to be more flexible in Wales, warns expert (BBC News)
 - [crypto] Bitcoin falls to $83,000 while altcoins unwind Friday's rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hong Kong regulators expand financial reporting oversight to licensed crypto firms (Cointelegraph.com News)
 - [crypto] Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin bears pay to bet on further declines as futures positions near yearly lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP (Cointelegraph.com News)
-- [macro] Avanti West Coast services to be nationalised from March (BBC News)
