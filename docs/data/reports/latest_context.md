@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T12:07:29.279247+00:00`
-- Market context score: `55.89`
-- News risk score: `33.25`
+- Generated: `2026-09-28T12:22:30.333230+00:00`
+- Market context score: `54.0`
+- News risk score: `34.86`
 - Macro risk score: `20.0`
-- Risk-on score: `37.61`
-- Articles: `35`
+- Risk-on score: `34.76`
+- Articles: `36`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T12:00:00+00:00`
+- Day/swing latest: `2026-09-28T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
+- [crypto] THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why UK diesel prices have hit an all-time high (BBC News)
 - [crypto] Traders aren't panicking yet despite cooling crypto sentiment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mexico's Pacific coast braces for Hurricane Polo (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin falls to $83,000 while altcoins unwind Friday's rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK diesel price hits all-time high, RAC says (BBC News)
-- [crypto] Hong Kong regulators expand financial reporting oversight to licensed crypto firms (Cointelegraph.com News)
