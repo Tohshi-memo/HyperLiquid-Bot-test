@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T13:37:35.759480+00:00`
+- Generated: `2026-09-28T13:52:31.915763+00:00`
 - Market context score: `53.35`
 - News risk score: `35.27`
 - Macro risk score: `21.21`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T13:30:00+00:00`
+- Day/swing latest: `2026-09-28T13:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Altseason is coming — and traders are more discerning this time (Cointelegraph.com News)
 - [commodity] Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens (Energy)
 - [crypto] AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666 (Cointelegraph.com News)
 - [crypto] Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week (Cointelegraph.com News)
-- [crypto] THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Why UK diesel prices have hit an all-time high (BBC News)
