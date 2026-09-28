@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T14:22:34.064495+00:00`
-- Market context score: `53.89`
-- News risk score: `34.73`
-- Macro risk score: `20.61`
-- Risk-on score: `34.64`
+- Generated: `2026-09-28T14:37:31.697323+00:00`
+- Market context score: `55.61`
+- News risk score: `33.17`
+- Macro risk score: `20.11`
+- Risk-on score: `36.97`
 - Articles: `41`
 - Polymarket markets: `389`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T14:15:00+00:00`
+- Day/swing latest: `2026-09-28T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `1`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
+- crypto: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `1`
+- macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
 
 ## Headlines
 
+- [macro] What is the Budget and what could be in it? (BBC News)
 - [crypto] MiCA focus shifts from rulemaking to supervision, ESMA chair says (Cointelegraph.com News)
 - [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Avanti West Coast services to be nationalised from March (BBC News)
 - [macro] Plan for controversial Sydney data centre scrapped after push-back (BBC News)
 - [crypto] Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666 (Cointelegraph.com News)
-- [crypto] Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
