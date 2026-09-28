@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T08:22:30.458037+00:00`
-- Market context score: `53.81`
-- News risk score: `35.25`
-- Macro risk score: `19.5`
-- Risk-on score: `34.5`
-- Articles: `26`
+- Generated: `2026-09-28T08:37:32.191849+00:00`
+- Market context score: `53.89`
+- News risk score: `35.27`
+- Macro risk score: `22.0`
+- Risk-on score: `35.63`
+- Articles: `29`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T08:15:00+00:00`
+- Day/swing latest: `2026-09-28T08:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025 (Cointelegraph.com News)
+- [commodity] Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens (Energy)
 - [macro] You need £17,000 for a first home - here's how to save it (BBC News)
+- [macro] Trump-Xi summit: What wasn't said might matter the most (BBC News)
 - [crypto] RedotPay completes financial audit as it presses ahead with U.S. IPO plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why the PM could finally drop the triple lock pension pledge (BBC News)
 - [macro] Healey to promise 'new age of industrialisation' for UK in conference speech (BBC News)
 - [macro] Two mass shootings in South Africa leave 28 dead (BBC News)
 - [macro] Watch: Madonna and Taylor Swift win big at the MTV VMAs (BBC News)
 - [crypto] California's Newsom signs memecoin ban and calls it 'The Opposite of Trump' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] South Korea weighs crypto market makers after JPYC trades at 4 times peg (Cointelegraph.com News)
-- [macro] Tourism tax needs to be more flexible in Wales, warns expert (BBC News)
