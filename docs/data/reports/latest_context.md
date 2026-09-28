@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T05:37:30.307782+00:00`
-- Market context score: `46.02`
-- News risk score: `36.33`
+- Generated: `2026-09-28T05:52:30.658788+00:00`
+- Market context score: `47.48`
+- News risk score: `34.19`
 - Macro risk score: `18.67`
-- Risk-on score: `17.78`
-- Articles: `24`
+- Risk-on score: `19.21`
+- Articles: `25`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T05:30:00+00:00`
+- Day/swing latest: `2026-09-28T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 - macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
 
 ## Headlines
 
+- [crypto] South Korea weighs crypto market makers after JPYC trades at 4 times peg (Cointelegraph.com News)
 - [macro] How much is in your savings account? (BBC News)
 - [macro] How waste food helps families through the week (BBC News)
 - [macro] Uni student living at home 'wasn't ready' to move away (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Avanti West Coast services to be nationalised from March (BBC News)
 - [crypto] Newsom signs California ban on public officials issuing memecoins (Cointelegraph.com News)
-- [macro] Taylor Swift and Charli XCX among stars to light up VMAs red carpet (BBC News)
