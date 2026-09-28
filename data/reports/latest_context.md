@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T09:37:31.859430+00:00`
-- Market context score: `56.95`
-- News risk score: `31.39`
+- Generated: `2026-09-28T09:52:28.469076+00:00`
+- Market context score: `58.67`
+- News risk score: `30.75`
 - Macro risk score: `19.5`
-- Risk-on score: `38.21`
-- Articles: `30`
+- Risk-on score: `41.5`
+- Articles: `31`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T09:30:00+00:00`
+- Day/swing latest: `2026-09-28T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
+- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 - macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin bears pay to bet on further declines as futures positions near yearly lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP (Cointelegraph.com News)
 - [macro] Avanti West Coast services to be nationalised from March (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens (Energy)
 - [macro] You need £17,000 for a first home - here's how to save it (BBC News)
 - [macro] Trump-Xi summit: What wasn't said might matter the most (BBC News)
-- [crypto] RedotPay completes financial audit as it presses ahead with U.S. IPO plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
