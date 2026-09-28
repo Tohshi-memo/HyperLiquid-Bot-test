@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T16:22:33.618887+00:00`
-- Market context score: `53.77`
-- News risk score: `36.51`
-- Macro risk score: `23.17`
-- Risk-on score: `36.86`
-- Articles: `43`
-- Polymarket markets: `389`
+- Generated: `2026-09-28T16:37:31.892771+00:00`
+- Market context score: `54.2`
+- News risk score: `36.25`
+- Macro risk score: `22.56`
+- Risk-on score: `37.35`
+- Articles: `45`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T16:15:00+00:00`
+- Day/swing latest: `2026-09-28T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `10`, risk headline rate `0.2692`, policy hits `1`
-- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `27`, risk hits `10`, risk headline rate `0.2593`, policy hits `1`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
+- [macro] Remains of dozens of suspected kidnap victims found in Nigerian forests (BBC News)
+- [crypto] The restaking gold rush is over, and top protocols are barely making a profit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Four bodies found after avalanche hits Himalayan climbing group (BBC News)
 - [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
@@ -36,5 +38,3 @@
 - [macro] What is the Budget and what could be in it? (BBC News)
 - [crypto] MiCA focus shifts from rulemaking to supervision, ESMA chair says (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Altseason is coming — and traders are more discerning this time (Cointelegraph.com News)
-- [commodity] Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens (Energy)
