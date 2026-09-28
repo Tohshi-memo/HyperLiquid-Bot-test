@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-28T02:40:29.677941+00:00`
+- Generated: `2026-09-28T02:45:31.436368+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `4053694.21`
-- Polymarket volume z-score: `-1.05`
+- Polymarket 24h volume: `4025268.29`
+- Polymarket volume z-score: `-1.06`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `347577.26445200003` | liquidity: `132518.2899`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `247833.37734599854` | liquidity: `516010.91166`
-- Will Bitcoin reach $130,000 by December 31, 2026? | 24h volume: `182808.785544` | liquidity: `192432.01602`
-- Will Bitcoin reach $92,500 in September? | 24h volume: `154779.809533` | liquidity: `154279.90484`
-- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `127024.494925` | liquidity: `53528.71`
-- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `125084.82614900001` | liquidity: `129340.84546`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `119836.17633` | liquidity: `579297.5431`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `103787.397245` | liquidity: `135048.51981`
+- US x Iran ceasefire continues through September 30? | 24h volume: `347713.03299900005` | liquidity: `139900.3423`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `247828.37734599848` | liquidity: `516259.24266`
+- Will Bitcoin reach $130,000 by December 31, 2026? | 24h volume: `182803.20554399997` | liquidity: `192777.08682`
+- Will Bitcoin reach $92,500 in September? | 24h volume: `155845.329533` | liquidity: `145239.91622`
+- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `127024.494925` | liquidity: `52559.99`
+- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `125084.82614900001` | liquidity: `128264.45654`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `120424.95397800002` | liquidity: `573966.1188`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `103788.43889499998` | liquidity: `134968.47143`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
