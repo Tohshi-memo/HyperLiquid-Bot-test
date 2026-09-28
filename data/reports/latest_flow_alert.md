@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-28T01:05:29.606082+00:00`
+- Generated: `2026-09-28T01:11:03.670606+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `3233104.01`
-- Polymarket volume z-score: `-1.29`
+- Polymarket 24h volume: `3380297.34`
+- Polymarket volume z-score: `-1.25`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through September 30? | 24h volume: `361070.521564` | liquidity: `131217.6488`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `244804.11334599854` | liquidity: `518391.32451`
-- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `125114.826149` | liquidity: `123807.79874`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `114179.535628` | liquidity: `620515.0425`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `112493.56771999996` | liquidity: `754853.8122`
-- Will Bitcoin reach $92,500 in September? | 24h volume: `112413.181511` | liquidity: `98700.34149`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `107234.349359` | liquidity: `128301.69178`
-- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `101060.78` | liquidity: `344440.44855`
+- US x Iran ceasefire continues through September 30? | 24h volume: `354117.526014` | liquidity: `135913.6406`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `244804.11334599854` | liquidity: `517404.32451`
+- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `125114.826149` | liquidity: `124327.30339`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `114188.359158` | liquidity: `579221.9917`
+- Will Bitcoin reach $92,500 in September? | 24h volume: `113210.87381900001` | liquidity: `96850.28343`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `112452.02925699997` | liquidity: `699997.6792`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `107443.32935900001` | liquidity: `127797.37227`
+- Will Augusto Cury win the 2026 Brazilian presidential election? | 24h volume: `101060.78` | liquidity: `343190.34855`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
