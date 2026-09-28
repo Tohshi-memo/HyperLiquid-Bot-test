@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T01:07:30.704588+00:00`
-- Market context score: `64.8`
-- News risk score: `21.75`
+- Generated: `2026-09-28T01:22:31.909523+00:00`
+- Market context score: `45.59`
+- News risk score: `36.75`
 - Macro risk score: `19.5`
-- Risk-on score: `47.5`
-- Articles: `18`
+- Risk-on score: `17.5`
+- Articles: `19`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T01:00:00+00:00`
+- Day/swing latest: `2026-09-28T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Zano rolls blockchain back a month after Gateway Address exploit (Cointelegraph.com News)
 - [crypto] THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest (Cointelegraph.com News)
 - [macro] One dead as nor'easter storm pummels New York and New Jersey (BBC News)
 - [macro] News media must stay relevant or 'society will struggle', says World News Day boss (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Inside Yemen's front-line city as Houthis battle for control (BBC News)
 - [macro] Watch: BBC reports from the front-line of an escalating war in Yemen (BBC News)
 - [macro] Watch: The ups and downs of SpaceX's 13 Starship test flights (BBC News)
-- [macro] Embattled Serbian president resigns, paving way for early elections (BBC News)
