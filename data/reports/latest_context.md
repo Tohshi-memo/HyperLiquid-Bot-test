@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T16:52:28.952969+00:00`
-- Market context score: `53.98`
-- News risk score: `36.46`
-- Macro risk score: `22.57`
-- Risk-on score: `37.05`
-- Articles: `44`
+- Generated: `2026-09-28T17:04:08.784821+00:00`
+- Market context score: `54.38`
+- News risk score: `36.23`
+- Macro risk score: `22.02`
+- Risk-on score: `37.53`
+- Articles: `46`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T16:45:00+00:00`
+- Day/swing latest: `2026-09-28T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `10`, risk headline rate `0.2692`, policy hits `1`
-- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
+- crypto: articles `27`, risk hits `10`, risk headline rate `0.2593`, policy hits `1`
+- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
+- [crypto] Crypto PAC spends $11M to oppose Sherrod Brown in Ohio (Cointelegraph.com News)
+- [macro] UK needs plan in case of 'unprecedented' AI job losses, says minister (BBC News)
 - [macro] Remains of dozens of suspected kidnap victims found in Nigerian forests (BBC News)
 - [crypto] The restaking gold rush is over, and top protocols are barely making a profit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Four bodies found after avalanche hits Himalayan climbing group (BBC News)
-- [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
 - [macro] Seoul summons Ukraine envoy over North Korean prisoner-of-war row (BBC News)
 - [crypto] Bitget CEO says $388M hack exploited third-party security vulnerability (Cointelegraph.com News)
 - [macro] What is the Budget and what could be in it? (BBC News)
-- [crypto] MiCA focus shifts from rulemaking to supervision, ESMA chair says (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
