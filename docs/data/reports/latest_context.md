@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-27T23:52:33.536002+00:00`
+- Generated: `2026-09-28T00:07:31.202525+00:00`
 - Market context score: `45.59`
 - News risk score: `36.75`
 - Macro risk score: `19.5`
 - Risk-on score: `17.5`
 - Articles: `19`
-- Polymarket markets: `386`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-27T23:45:00+00:00`
+- Day/swing latest: `2026-09-28T00:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest (Cointelegraph.com News)
 - [macro] One dead as nor'easter storm pummels New York and New Jersey (BBC News)
 - [macro] News media must stay relevant or 'society will struggle', says World News Day boss (BBC News)
 - [macro] You need £17,000 for a first home - here's how to do it (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Watch: BBC reports from the front-line of an escalating war in Yemen (BBC News)
 - [macro] Watch: The ups and downs of SpaceX's 13 Starship test flights (BBC News)
 - [macro] Embattled Serbian president resigns, paving way for early elections (BBC News)
-- [macro] Pope says 'scourge' of abuse must be rooted out as he visits Lourdes (BBC News)
