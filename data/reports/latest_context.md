@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T22:07:28.316477+00:00`
-- Market context score: `43.14`
-- News risk score: `45.61`
-- Macro risk score: `29.22`
-- Risk-on score: `23.19`
+- Generated: `2026-09-28T22:22:25.202180+00:00`
+- Market context score: `40.5`
+- News risk score: `47.28`
+- Macro risk score: `30.84`
+- Risk-on score: `19.35`
 - Articles: `47`
 - Polymarket markets: `389`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T22:00:00+00:00`
+- Day/swing latest: `2026-09-28T22:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `12`, risk headline rate `0.381`, policy hits `2`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `20`, risk hits `12`, risk headline rate `0.4`, policy hits `2`
 - macro: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Jim Cramer says these stocks can win even as oil and bond yields squeeze the market (Energy)
 - [macro] French PM warns against escalation of school protests after 164 arrested (BBC News)
 - [macro] Why UK diesel prices have hit an all-time high (BBC News)
 - [macro] UK diesel price hits all-time high, the RAC says (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Stand-up comic released after being convicted of insulting Erdoğan (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] US SEC follows CFTC in staff guidance for crypto (Cointelegraph.com News)
-- [macro] Stuck between superpowers: How Australia navigates the China-US rivalry (BBC News)
