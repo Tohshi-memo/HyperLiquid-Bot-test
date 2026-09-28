@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T12:22:30.333230+00:00`
-- Market context score: `54.0`
-- News risk score: `34.86`
+- Generated: `2026-09-28T12:37:28.214230+00:00`
+- Market context score: `52.23`
+- News risk score: `35.7`
 - Macro risk score: `20.0`
-- Risk-on score: `34.76`
-- Articles: `36`
+- Risk-on score: `31.54`
+- Articles: `38`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T12:15:00+00:00`
+- Day/swing latest: `2026-09-28T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `0`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [crypto] THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why UK diesel prices have hit an all-time high (BBC News)
 - [crypto] Traders aren't panicking yet despite cooling crypto sentiment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tourism tax needs to be more flexible in Wales, warns expert (BBC News)
 - [crypto] Bitcoin falls to $83,000 while altcoins unwind Friday's rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK diesel price hits all-time high, RAC says (BBC News)
