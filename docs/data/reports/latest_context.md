@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T17:04:08.784821+00:00`
-- Market context score: `54.38`
-- News risk score: `36.23`
-- Macro risk score: `22.02`
-- Risk-on score: `37.53`
-- Articles: `46`
-- Polymarket markets: `390`
+- Generated: `2026-09-28T17:07:32.919475+00:00`
+- Market context score: `52.4`
+- News risk score: `37.74`
+- Macro risk score: `24.53`
+- Risk-on score: `35.37`
+- Articles: `47`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -24,10 +24,11 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `10`, risk headline rate `0.2593`, policy hits `1`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
 
 ## Headlines
 
+- [macro] UK tries to stop Trump's diesel export ban (BBC News)
 - [macro] Best thing we can offer young people is a job, not benefits, says chancellor (BBC News)
 - [crypto] Crypto PAC spends $11M to oppose Sherrod Brown in Ohio (Cointelegraph.com News)
 - [macro] UK needs plan in case of 'unprecedented' AI job losses, says minister (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Four bodies found after avalanche hits Himalayan climbing group (BBC News)
 - [macro] Seoul summons Ukraine envoy over North Korean prisoner-of-war row (BBC News)
 - [crypto] Bitget CEO says $388M hack exploited third-party security vulnerability (Cointelegraph.com News)
-- [macro] What is the Budget and what could be in it? (BBC News)
