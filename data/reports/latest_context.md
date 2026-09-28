@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-28T04:07:31.801694+00:00`
+- Generated: `2026-09-28T04:22:28.150829+00:00`
 - Market context score: `40.92`
 - News risk score: `43.83`
 - Macro risk score: `18.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-28T04:00:00+00:00`
+- Day/swing latest: `2026-09-28T04:15:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 
 - [macro] China posts weakest industrial profit growth this year, expanding 4.2% in August (Economy)
 - [crypto] Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Avanti West Coast services to be nationalised next year (BBC News)
+- [macro] Avanti West Coast services to be nationalised from March (BBC News)
 - [crypto] Newsom signs California ban on public officials issuing memecoins (Cointelegraph.com News)
 - [macro] Taylor Swift and Charli XCX among stars to light up VMAs red carpet (BBC News)
 - [crypto] Zano rolls blockchain back a month after Gateway Address exploit (Cointelegraph.com News)
