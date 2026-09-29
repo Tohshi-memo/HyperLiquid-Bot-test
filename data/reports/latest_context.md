@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T03:07:34.061161+00:00`
+- Generated: `2026-09-29T03:22:32.041231+00:00`
 - Market context score: `44.02`
 - News risk score: `41.98`
 - Macro risk score: `26.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T03:00:00+00:00`
+- Day/swing latest: `2026-09-29T03:15:00+00:00`
 
 ## News Categories
 
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [commodity] Oil extends gains as Middle East supply concerns persist (Energy)
 - [macro] Tennessee governor declines to halt execution of state's lone woman on death row (BBC News)
 - [crypto] Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents (Cointelegraph.com News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
-- [commodity] Oil extends gains as Middle East supply concerns persist (Energy)
 - [crypto] NEAR Intents says it blocked $50M tied to Bitget hackers (Cointelegraph.com News)
 - [macro] Sign before praying: A new conversion law is affecting churchgoers in Indian state (BBC News)
 - [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
