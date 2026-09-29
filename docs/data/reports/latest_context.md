@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T04:07:27.172743+00:00`
-- Market context score: `40.33`
-- News risk score: `42.96`
-- Macro risk score: `27.58`
-- Risk-on score: `14.09`
-- Articles: `43`
+- Generated: `2026-09-29T04:22:28.420084+00:00`
+- Market context score: `35.67`
+- News risk score: `52.36`
+- Macro risk score: `32.5`
+- Risk-on score: `13.53`
+- Articles: `46`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T04:00:00+00:00`
+- Day/swing latest: `2026-09-29T04:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `5`, risk headline rate `0.3636`, policy hits `1`
-- macro: articles `29`, risk hits `6`, risk headline rate `0.2069`, policy hits `0`
+- commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
+- crypto: articles `12`, risk hits `7`, risk headline rate `0.5`, policy hits `1`
+- macro: articles `30`, risk hits `10`, risk headline rate `0.2667`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] US ban on Canadian alcohol and dairy comes into effect as trade war drags on (BBC News)
+- [macro] US ban on Canadian alcohol and dairy comes into effect as trade war drags on (BBC News)
 - [macro] New York Times executive fatally shot allegedly by elderly in-laws (BBC News)
+- [commodity] U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high (Energy)
+- [crypto] Coinbase gets CFTC approval for US derivatives clearinghouse (Cointelegraph.com News)
 - [macro] Argentina threatens legal action against UK over Falkland Islands oil exploration (BBC News)
 - [commodity] Oil extends gains as Middle East supply concerns persist (Energy)
 - [macro] Tennessee governor declines to halt execution of state's lone woman on death row (BBC News)
 - [crypto] Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents (Cointelegraph.com News)
-- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
-- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
-- [macro] Lost songs from iconic Australian rockstar found in garage (BBC News)
-- [macro] Evicted Spanish pensioner can move back home, lawyer says (BBC News)
-- [crypto] NEAR Intents says it blocked $50M tied to Bitget hackers (Cointelegraph.com News)
