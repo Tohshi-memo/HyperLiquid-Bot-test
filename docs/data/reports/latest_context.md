@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T11:23:08.406351+00:00`
-- Market context score: `42.22`
-- News risk score: `46.22`
-- Macro risk score: `36.21`
-- Risk-on score: `24.31`
-- Articles: `44`
+- Generated: `2026-09-29T11:37:30.052099+00:00`
+- Market context score: `43.82`
+- News risk score: `45.67`
+- Macro risk score: `36.19`
+- Risk-on score: `27.38`
+- Articles: `45`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:12, crypto_alt:234, crypto_major:8, equity:141, fx:6, index:26, metal:20, unknown:967`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-09-29T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `1`
 - macro: articles `23`, risk hits `10`, risk headline rate `0.3478`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin beats gold, surge to $100,000 in play (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Evicted Spanish pensioner can move back home, lawyer says (BBC News)
 - [crypto] Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6 (Cointelegraph.com News)
 - [macro] Hurricane Polo makes landfall on Mexico's Pacific coast (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Blockchain.com targets $500 million IPO this year at up to $6 billion valuation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high (Cointelegraph.com News)
-- [crypto] Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim (Cointelegraph.com News)
