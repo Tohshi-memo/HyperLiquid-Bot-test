@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T19:52:31.392337+00:00`
-- Market context score: `52.9`
-- News risk score: `37.75`
-- Macro risk score: `29.96`
-- Risk-on score: `38.54`
-- Articles: `58`
+- Generated: `2026-09-29T20:02:42.962547+00:00`
+- Market context score: `51.63`
+- News risk score: `38.54`
+- Macro risk score: `31.09`
+- Risk-on score: `36.81`
+- Articles: `60`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T19:45:00+00:00`
+- Day/swing latest: `2026-09-29T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `22`, risk hits `4`, risk headline rate `0.1364`, policy hits `3`
+- crypto: articles `23`, risk hits `4`, risk headline rate `0.1304`, policy hits `3`
 - macro: articles `31`, risk hits `12`, risk headline rate `0.2903`, policy hits `0`
-- policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- policy: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [policy] Agencies publish resolution plan feedback letters for 15 banking organizations (FRB: Press Release - All Releases)
+- [crypto] Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks (Cointelegraph.com News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Estonia blames Russia for arson at defence company supplying Ukraine (BBC News)
 - [macro] OpenAI agents get rebrand - as 'dots' - while safety worries delay new model (BBC News)
 - [macro] Soho House venue under investigation for food safety (BBC News)
@@ -36,6 +39,3 @@
 - [commodity] Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports (Energy)
 - [crypto] Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] New York Times executive fatally shot by elderly in-laws, police say (BBC News)
-- [macro] Burnham vows to end existing pension triple lock in 2030 to help fund care (BBC News)
-- [macro] Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed (BBC News)
-- [macro] Oura pulls $15bn stock market listing days after announcement (BBC News)
