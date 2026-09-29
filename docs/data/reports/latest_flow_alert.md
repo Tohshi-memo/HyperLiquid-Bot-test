@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-29T10:25:32.879641+00:00`
-- Flow alert score: `17.88`
+- Generated: `2026-09-29T10:30:34.625451+00:00`
+- Flow alert score: `17.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6912689.5`
-- Polymarket volume z-score: `0.22`
+- Polymarket 24h volume: `6818663.46`
+- Polymarket volume z-score: `0.18`
 
 ## Top Polymarket Markets
 
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `278793.4439890001` | liquidity: `81572.57905`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `219839.5432210001` | liquidity: `526701.2594`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `209081.254941` | liquidity: `882219.0906`
-- Trump renames AI by September 30? | 24h volume: `192239.90589700002` | liquidity: `36380.2521`
-- Will the U.S. invade Iran before 2027? | 24h volume: `184273.61248200003` | liquidity: `1057470.8903`
-- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `180547.59169700003` | liquidity: `101496.8513`
-- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `179635.508099` | liquidity: `172152.4308`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `178397.02769399984` | liquidity: `509466.52392`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `279632.2344990001` | liquidity: `99225.65`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `212084.174941` | liquidity: `880068.17392`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `189280.01245100008` | liquidity: `518278.5252`
+- Will the U.S. invade Iran before 2027? | 24h volume: `184350.86201799999` | liquidity: `1026511.4635`
+- Trump renames AI by September 30? | 24h volume: `184228.651683` | liquidity: `35408.3784`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `182373.74886499986` | liquidity: `510786.18432`
+- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `180595.42169700004` | liquidity: `104249.9736`
+- US-Iran Final Nuclear Deal by September 30, 2026? | 24h volume: `179635.508099` | liquidity: `172353.2608`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
