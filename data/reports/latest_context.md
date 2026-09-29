@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T09:22:31.482662+00:00`
+- Generated: `2026-09-29T09:37:31.589337+00:00`
 - Market context score: `32.43`
 - News risk score: `54.64`
 - Macro risk score: `40.02`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T09:15:00+00:00`
+- Day/swing latest: `2026-09-29T09:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices flat as Middle East supply concerns persist (Energy)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [crypto] Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +37,4 @@
 - [macro] How an alleged rape sent an Indian university into turmoil and emptied hostels (BBC News)
 - [macro] Hurricane Polo makes landfall on Mexico's Pacific coast (BBC News)
 - [macro] Burkina Faso's junta leader opens major gold refinery to keep mining profits at home (BBC News)
-- [commodity] Oil prices rise as Middle East supply concerns persist (Energy)
 - [macro] UK tries to stop Trump's diesel export ban (BBC News)
