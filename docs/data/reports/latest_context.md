@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T06:22:29.518554+00:00`
-- Market context score: `34.85`
-- News risk score: `52.46`
-- Macro risk score: `35.77`
-- Risk-on score: `13.02`
+- Generated: `2026-09-29T06:37:35.279087+00:00`
+- Market context score: `32.66`
+- News risk score: `54.96`
+- Macro risk score: `36.69`
+- Risk-on score: `10.64`
 - Articles: `36`
 - Polymarket markets: `389`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T06:15:00+00:00`
+- Day/swing latest: `2026-09-29T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `23`, risk hits `9`, risk headline rate `0.3043`, policy hits `0`
+- crypto: articles `11`, risk hits `7`, risk headline rate `0.5455`, policy hits `0`
+- macro: articles `22`, risk hits `9`, risk headline rate `0.3182`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Near Intents blocks $50 million in Bitget hacker swaps, here's what happened (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: Luxury units uncovered inside an Indonesian prison (BBC News)
 - [commodity] Oil extends gains as Middle East supply concerns persist (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [crypto] Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US ban on Canadian alcohol and dairy comes into effect as trade war drags on (BBC News)
 - [macro] US ban on Canadian alcohol and dairy comes into effect as trade war drags on (BBC News)
