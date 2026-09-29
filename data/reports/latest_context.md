@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T09:37:31.589337+00:00`
-- Market context score: `32.43`
-- News risk score: `54.64`
-- Macro risk score: `40.02`
-- Risk-on score: `11.11`
+- Generated: `2026-09-29T09:52:45.994957+00:00`
+- Market context score: `36.23`
+- News risk score: `51.96`
+- Macro risk score: `38.74`
+- Risk-on score: `16.79`
 - Articles: `37`
 - Polymarket markets: `389`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T09:30:00+00:00`
+- Day/swing latest: `2026-09-29T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `24`, risk hits `11`, risk headline rate `0.375`, policy hits `0`
+- crypto: articles `11`, risk hits `6`, risk headline rate `0.4545`, policy hits `1`
+- macro: articles `23`, risk hits `10`, risk headline rate `0.3478`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin is on track to shatter a major decade-long streak as September gains surge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Warning more homes will be uninsurable due to flood risk (BBC News)
 - [commodity] Oil prices flat as Middle East supply concerns persist (Energy)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] BitMine could hit its 5% Ether supply target within weeks — then what? (Cointelegraph.com News)
 - [macro] How an alleged rape sent an Indian university into turmoil and emptied hostels (BBC News)
 - [macro] Hurricane Polo makes landfall on Mexico's Pacific coast (BBC News)
-- [macro] Burkina Faso's junta leader opens major gold refinery to keep mining profits at home (BBC News)
-- [macro] UK tries to stop Trump's diesel export ban (BBC News)
