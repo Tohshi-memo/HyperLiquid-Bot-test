@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T16:52:28.781089+00:00`
-- Market context score: `45.98`
-- News risk score: `42.32`
-- Macro risk score: `39.18`
-- Risk-on score: `30.5`
-- Articles: `51`
+- Generated: `2026-09-29T17:07:32.078243+00:00`
+- Market context score: `46.69`
+- News risk score: `41.93`
+- Macro risk score: `37.42`
+- Risk-on score: `31.07`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T16:45:00+00:00`
+- Day/swing latest: `2026-09-29T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `23`, risk hits `5`, risk headline rate `0.1739`, policy hits `3`
-- macro: articles `24`, risk hits `14`, risk headline rate `0.4583`, policy hits `0`
+- macro: articles `26`, risk hits `14`, risk headline rate `0.4231`, policy hits `0`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Eiffel Tower chief to quit after female staff replaced by men during religious visit (BBC News)
 - [macro] Faisal Islam: Triple lock move is significant, but it's a gamble (BBC News)
 - [policy] Barr, Economic Conditions and Monetary Policy (FRB: Speeches)
 - [crypto] Bitcoin gives back gains as long-term holder supply keeps $85K out of reach (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Ethereum users get another way to pay privately as zk.money returns after three years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Dutch police arrest suspected member of group that claimed FBI hack (BBC News)
 - [macro] Burnham says public body will invest in electricity grid (BBC News)
-- [policy] Bowman, Opening Remarks (FRB: Speeches)
