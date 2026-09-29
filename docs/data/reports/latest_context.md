@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T08:07:28.342314+00:00`
+- Generated: `2026-09-29T08:22:37.024108+00:00`
 - Market context score: `34.46`
 - News risk score: `52.26`
 - Macro risk score: `35.4`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T08:00:00+00:00`
+- Day/swing latest: `2026-09-29T08:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
+- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] Hurricane Polo makes landfall on Mexico's Pacific coast (BBC News)
 - [commodity] Oil prices rise as Middle East supply concerns persist (Energy)
 - [macro] UK tries to stop Trump's diesel export ban (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Near Intents blocks $50 million in Bitget hacker swaps, here's what happened (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: Bangkok locals create floating market during floods (BBC News)
 - [macro] Malaysia begins controversial repatriation of asylum seekers to Myanmar (BBC News)
-- [macro] Watch: Luxury units uncovered inside an Indonesian prison (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
