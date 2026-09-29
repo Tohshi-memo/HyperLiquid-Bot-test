@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T02:22:26.972380+00:00`
+- Generated: `2026-09-29T02:37:31.579633+00:00`
 - Market context score: `39.64`
 - News risk score: `47.05`
 - Macro risk score: `28.08`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T02:15:00+00:00`
+- Day/swing latest: `2026-09-29T02:30:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Tennessee governor declines to halt execution of state's lone woman on death row (BBC News)
+- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
+- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [commodity] Oil extends gains as Middle East supply concerns persist (Energy)
-- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
-- [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [crypto] NEAR Intents says it blocked $50M tied to Bitget hackers (Cointelegraph.com News)
 - [macro] Sign before praying: A new conversion law is affecting churchgoers in Indian state (BBC News)
 - [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
 - [macro] US prosecutors reopen case of alleged gang rape at Cornell University (BBC News)
 - [macro] Journalist to be crowned king in Uganda after bitter succession dispute (BBC News)
 - [macro] Hurricane Polo unleashes threatening winds as it approaches Mexico (BBC News)
-- [macro] Warning more homes will be uninsurable due to flood risk (BBC News)
