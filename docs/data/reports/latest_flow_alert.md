@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-29T05:05:29.801871+00:00`
-- Flow alert score: `19.24`
+- Generated: `2026-09-29T05:10:30.667078+00:00`
+- Flow alert score: `19.2`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7656222.88`
-- Polymarket volume z-score: `0.56`
+- Polymarket 24h volume: `7645366.84`
+- Polymarket volume z-score: `0.55`
 
 ## Top Polymarket Markets
 
-- China Open, Qualification: Jiaqi Wang vs Zhuoxuan Bai | 24h volume: `362900.506258` | liquidity: `67598.358`
-- China Open, Qualification: Harriet Dart vs Yexin Ma | 24h volume: `250991.435289` | liquidity: `129519.69393`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `249955.64208900003` | liquidity: `102881.28679`
-- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `227123.664959` | liquidity: `117391.5598`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `213413.66325500008` | liquidity: `679062.5819`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `210855.086209` | liquidity: `806119.59103`
-- US x Iran ceasefire continues through September 30? | 24h volume: `204395.54949000006` | liquidity: `166484.09249`
-- Trump renames AI by September 30? | 24h volume: `189273.000872` | liquidity: `49849.7808`
+- China Open, Qualification: Jiaqi Wang vs Zhuoxuan Bai | 24h volume: `371581.4057319999` | liquidity: `74948.07334`
+- China Open, Qualification: Marco Trungelliti vs Alex Molcan | 24h volume: `253398.723844` | liquidity: `238185.5477`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `243671.19208900005` | liquidity: `96773.3789`
+- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `227147.17846999998` | liquidity: `118633.5203`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `213472.7874580001` | liquidity: `678427.964`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `211011.746209` | liquidity: `806071.93083`
+- US x Iran ceasefire continues through September 30? | 24h volume: `204386.73949000007` | liquidity: `168483.37169`
+- Trump renames AI by September 30? | 24h volume: `193868.483395` | liquidity: `48392.2054`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
