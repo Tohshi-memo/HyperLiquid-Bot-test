@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T13:52:34.033242+00:00`
+- Generated: `2026-09-29T14:07:29.238506+00:00`
 - Market context score: `45.05`
 - News risk score: `45.36`
 - Macro risk score: `37.46`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T13:45:00+00:00`
+- Day/swing latest: `2026-09-29T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports (Energy)
 - [macro] Spain announces new housing measures after protests over 87-year-old woman's eviction (BBC News)
 - [macro] US ban on Canadian alcohol and dairy takes effect as trade war drags on (BBC News)
 - [macro] US ban on Canadian alcohol and dairy takes effect as trade war drags on (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Estonia blames Russia for arson at defence company supplying Ukraine (BBC News)
 - [macro] Man charged over AI image of crocodile in Singapore reservoir (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
