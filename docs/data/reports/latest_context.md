@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T22:07:34.714736+00:00`
-- Market context score: `53.8`
-- News risk score: `34.62`
-- Macro risk score: `27.07`
-- Risk-on score: `36.81`
-- Articles: `58`
+- Generated: `2026-09-29T22:22:32.699542+00:00`
+- Market context score: `52.57`
+- News risk score: `34.42`
+- Macro risk score: `26.67`
+- Risk-on score: `33.73`
+- Articles: `55`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T22:00:00+00:00`
+- Day/swing latest: `2026-09-29T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `20`, risk hits `3`, risk headline rate `0.1`, policy hits `2`
+- crypto: articles `17`, risk hits `3`, risk headline rate `0.1176`, policy hits `0`
 - macro: articles `32`, risk hits `10`, risk headline rate `0.2188`, policy hits `0`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
-- [macro] OpenAI agents get rebrand - as 'dots' - while safety worries delay new model (BBC News)
 - [macro] Former American Idol contestant and pastor found guilty of murdering wife (BBC News)
+- [macro] OpenAI agents get rebrand - as 'dots' - while safety worries delay new model (BBC News)
 - [macro] More than 400 detained as France student protests escalate (BBC News)
 - [macro] Fires and blockades as students stage school protests across France (BBC News)
 - [macro] Trump rules out joint US-China venture to develop AI (BBC News)
