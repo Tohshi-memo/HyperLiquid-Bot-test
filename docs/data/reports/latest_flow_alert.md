@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-29T15:30:34.649899+00:00`
+- Generated: `2026-09-29T15:35:35.456561+00:00`
 - Flow alert score: `18.56`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `578329.7716369999` | liquidity: `1244228.60404`
-- Will the U.S. invade Iran before 2027? | 24h volume: `366765.233988` | liquidity: `835548.8644`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `279109.98345000006` | liquidity: `57085.14422`
-- Trump renames AI by September 30? | 24h volume: `253620.41771200002` | liquidity: `13489.5266`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `219519.515432` | liquidity: `859136.93382`
-- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `218710.736509` | liquidity: `72449.2514`
-- Will the price of Bitcoin be above $86,000 on September 29? | 24h volume: `218540.080055` | liquidity: `44190.77386`
-- Will the price of Bitcoin be above $82,000 on September 29? | 24h volume: `205722.549062` | liquidity: `52882.02986`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `578329.7716369999` | liquidity: `1244879.10404`
+- Will the U.S. invade Iran before 2027? | 24h volume: `366765.233988` | liquidity: `838691.5357`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `279109.98345000006` | liquidity: `71653.82318`
+- Trump renames AI by September 30? | 24h volume: `253620.41771200002` | liquidity: `16352.0794`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `219519.515432` | liquidity: `864082.72188`
+- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `218710.736509` | liquidity: `97563.1838`
+- Will the price of Bitcoin be above $86,000 on September 29? | 24h volume: `218540.080055` | liquidity: `82382.7471`
+- Will the price of Bitcoin be above $82,000 on September 29? | 24h volume: `205722.549062` | liquidity: `49197.57267`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
