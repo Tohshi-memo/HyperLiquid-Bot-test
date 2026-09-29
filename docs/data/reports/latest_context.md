@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T08:22:37.024108+00:00`
-- Market context score: `34.46`
-- News risk score: `52.26`
-- Macro risk score: `35.4`
-- Risk-on score: `11.86`
+- Generated: `2026-09-29T08:37:28.931093+00:00`
+- Market context score: `32.12`
+- News risk score: `55.38`
+- Macro risk score: `36.64`
+- Risk-on score: `9.78`
 - Articles: `39`
 - Polymarket markets: `389`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T08:15:00+00:00`
+- Day/swing latest: `2026-09-29T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `10`, risk hits `5`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `0`
+- crypto: articles `9`, risk hits `5`, risk headline rate `0.5556`, policy hits `0`
+- macro: articles `27`, risk hits `11`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
+- [macro] How a rape rumour sent an Indian university into turmoil and emptied hostels (BBC News)
 - [macro] Hurricane Polo makes landfall on Mexico's Pacific coast (BBC News)
+- [macro] Burkina Faso's junta leader opens major gold refinery to keep mining profits at home (BBC News)
 - [commodity] Oil prices rise as Middle East supply concerns persist (Energy)
 - [macro] UK tries to stop Trump's diesel export ban (BBC News)
-- [macro] Want to become an influencer? There's a £30,000 degree for that (BBC News)
+- [macro] I paid £30,000 for an 'influencer' degree. Here's why (BBC News)
 - [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
 - [crypto] Near Intents blocks $50 million in Bitget hacker swaps, here's what happened (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Watch: Bangkok locals create floating market during floods (BBC News)
-- [macro] Malaysia begins controversial repatriation of asylum seekers to Myanmar (BBC News)
