@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-29T03:50:34.657329+00:00`
-- Flow alert score: `18.2`
+- Generated: `2026-09-29T03:55:36.790955+00:00`
+- Flow alert score: `18.36`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7147387.63`
-- Polymarket volume z-score: `0.3`
+- Polymarket 24h volume: `7229068.62`
+- Polymarket volume z-score: `0.34`
 
 ## Top Polymarket Markets
 
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `253156.83969900006` | liquidity: `91041.29989`
-- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `229579.79894399998` | liquidity: `110051.1063`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `210855.086209` | liquidity: `817270.86078`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `206090.7887860001` | liquidity: `540367.3872`
-- US x Iran ceasefire continues through September 30? | 24h volume: `204944.7329690001` | liquidity: `165183.13285`
-- Trump renames AI by September 30? | 24h volume: `187384.6335569999` | liquidity: `53130.7184`
-- Kharg Island no longer under Iranian control by September 30? | 24h volume: `185736.841` | liquidity: `185654.81189`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `184926.2519689999` | liquidity: `493595.88725`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `249453.09415800008` | liquidity: `88345.38875`
+- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `231322.158944` | liquidity: `110776.6634`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `210855.086209` | liquidity: `808657.51295`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `208273.6390250001` | liquidity: `545677.9887`
+- US x Iran ceasefire continues through September 30? | 24h volume: `205337.32877000005` | liquidity: `168462.29263`
+- Trump renames AI by September 30? | 24h volume: `190473.90226999993` | liquidity: `53373.8375`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `185736.841` | liquidity: `185054.87189`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `184926.25196899986` | liquidity: `495584.75539`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
