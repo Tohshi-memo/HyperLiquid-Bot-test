@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T23:39:57.059099+00:00`
-- Market context score: `53.03`
-- News risk score: `32.7`
-- Macro risk score: `26.39`
-- Risk-on score: `33.21`
-- Articles: `57`
+- Generated: `2026-09-29T23:52:29.961429+00:00`
+- Market context score: `53.1`
+- News risk score: `32.79`
+- Macro risk score: `26.07`
+- Risk-on score: `33.31`
+- Articles: `58`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T23:30:00+00:00`
+- Day/swing latest: `2026-09-29T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `14`, risk hits `2`, risk headline rate `0.0714`, policy hits `0`
-- macro: articles `37`, risk hits `11`, risk headline rate `0.2162`, policy hits `0`
+- macro: articles `38`, risk hits `11`, risk headline rate `0.2105`, policy hits `0`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [macro] OpenAI unveils AI assistant 'dots' while safety worries delay new model (BBC News)
+- [macro] Ukraine's prized steel industry left in ruins by Russian missile campaign (BBC News)
+- [macro] Chinese AI tool told researchers how to make bioweapons (BBC News)
 - [macro] Chinese AI tool told researchers how to make bioweapons (BBC News)
 - [macro] The start-ups hoping to return battery making to the US (BBC News)
 - [macro] 'I like proving people wrong': The women taking up DIY and plumbing (BBC News)
@@ -36,6 +39,3 @@
 - [macro] Household energy bills forecast to see biggest rise in four years (BBC News)
 - [crypto] Robinhood adds AI agents, perps and weekend trading in push to win active traders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Africa to clean up high-risk areas after 12 women killed (BBC News)
-- [macro] Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries (BBC News)
-- [macro] Former American Idol contestant and pastor found guilty of murdering wife (BBC News)
-- [macro] OpenAI agents get rebrand - as 'dots' - while safety worries delay new model (BBC News)
