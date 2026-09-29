@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-29T07:05:33.667027+00:00`
-- Flow alert score: `19.8`
+- Generated: `2026-09-29T07:10:38.204221+00:00`
+- Flow alert score: `19.48`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7920028.31`
-- Polymarket volume z-score: `0.7`
+- Polymarket 24h volume: `7752569.74`
+- Polymarket volume z-score: `0.62`
 
 ## Top Polymarket Markets
 
-- China Open, Qualification: Elvina Kalieva vs Han Shi | 24h volume: `438269.88459300005` | liquidity: `105005.4219`
-- China Open, Qualification: Jiaqi Wang vs Zhuoxuan Bai | 24h volume: `420886.40807699994` | liquidity: `72571.50621`
-- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `257035.22633900004` | liquidity: `101625.59704`
-- China Open, Qualification: Marina Bassols Ribera vs Xiaodi You | 24h volume: `239461.37983300004` | liquidity: `83938.61056`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `212563.7991520001` | liquidity: `742531.1085`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `210891.69108` | liquidity: `896258.38281`
-- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `200360.24591399994` | liquidity: `129900.0047`
-- Trump renames AI by September 30? | 24h volume: `194571.89641400005` | liquidity: `49652.0938`
+- China Open, Qualification: Elvina Kalieva vs Han Shi | 24h volume: `454392.2364060003` | liquidity: `108498.1675`
+- China Open, Qualification: Jiaqi Wang vs Zhuoxuan Bai | 24h volume: `423415.78807699995` | liquidity: `77031.05934`
+- US announces end of Iranian blockade by September 30, 2026? | 24h volume: `255730.139605` | liquidity: `100770.51902`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `212571.04552900008` | liquidity: `611251.4022`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `210891.69108` | liquidity: `897029.91031`
+- US announces end of Iranian blockade by October 31, 2026? | 24h volume: `199390.91258199996` | liquidity: `130574.6794`
+- Trump renames AI by September 30? | 24h volume: `195230.360434` | liquidity: `50694.5953`
+- Kharg Island no longer under Iranian control by September 30? | 24h volume: `185434.61299999998` | liquidity: `189901.36537`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
