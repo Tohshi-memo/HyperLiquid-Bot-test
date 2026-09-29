@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T08:37:28.931093+00:00`
-- Market context score: `32.12`
-- News risk score: `55.38`
-- Macro risk score: `36.64`
-- Risk-on score: `9.78`
-- Articles: `39`
+- Generated: `2026-09-29T08:43:53.250512+00:00`
+- Market context score: `33.18`
+- News risk score: `53.77`
+- Macro risk score: `38.41`
+- Risk-on score: `11.43`
+- Articles: `36`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -23,14 +23,14 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `9`, risk hits `5`, risk headline rate `0.5556`, policy hits `0`
-- macro: articles `27`, risk hits `11`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `8`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `25`, risk hits `11`, risk headline rate `0.36`, policy hits `0`
 
 ## Headlines
 
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
-- [macro] How a rape rumour sent an Indian university into turmoil and emptied hostels (BBC News)
+- [macro] How an alleged rape sent an Indian university into turmoil and emptied hostels (BBC News)
 - [macro] Hurricane Polo makes landfall on Mexico's Pacific coast (BBC News)
 - [macro] Burkina Faso's junta leader opens major gold refinery to keep mining profits at home (BBC News)
 - [commodity] Oil prices rise as Middle East supply concerns persist (Energy)
