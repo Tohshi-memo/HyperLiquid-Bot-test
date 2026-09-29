@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T13:37:35.050602+00:00`
+- Generated: `2026-09-29T13:52:34.033242+00:00`
 - Market context score: `45.05`
 - News risk score: `45.36`
 - Macro risk score: `37.46`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T13:30:00+00:00`
+- Day/swing latest: `2026-09-29T13:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,9 @@
 
 ## Headlines
 
+- [macro] Spain announces new housing measures after protests over 87-year-old woman's eviction (BBC News)
+- [macro] US ban on Canadian alcohol and dairy takes effect as trade war drags on (BBC News)
+- [macro] US ban on Canadian alcohol and dairy takes effect as trade war drags on (BBC News)
 - [crypto] Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’ (Cointelegraph.com News)
 - [macro] Malaysia begins controversial repatriation of asylum seekers to Myanmar (BBC News)
 - [macro] Journalist crowned king in Uganda after bitter succession dispute (BBC News)
@@ -35,6 +38,3 @@
 - [macro] Man charged over AI image of crocodile in Singapore reservoir (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
-- [macro] 'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail (BBC News)
-- [crypto] Bitcoin ETF inflows leave institutional demand unclear: CoinShares (Cointelegraph.com News)
-- [macro] Israeli settlers attack West Bank village and block Palestinian family's return home (BBC News)
