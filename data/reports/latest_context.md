@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T02:37:31.579633+00:00`
-- Market context score: `39.64`
-- News risk score: `47.05`
+- Generated: `2026-09-29T02:52:40.559668+00:00`
+- Market context score: `43.17`
+- News risk score: `42.96`
 - Macro risk score: `28.08`
-- Risk-on score: `16.2`
+- Risk-on score: `20.6`
 - Articles: `42`
 - Polymarket markets: `389`
 
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T02:30:00+00:00`
+- Day/swing latest: `2026-09-29T02:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `8`, risk headline rate `0.4545`, policy hits `1`
+- crypto: articles `11`, risk hits `5`, risk headline rate `0.3636`, policy hits `1`
 - macro: articles `28`, risk hits `6`, risk headline rate `0.2143`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] Tennessee governor declines to halt execution of state's lone woman on death row (BBC News)
+- [crypto] Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents (Cointelegraph.com News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [commodity] Oil extends gains as Middle East supply concerns persist (Energy)
@@ -38,4 +39,3 @@
 - [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
 - [macro] US prosecutors reopen case of alleged gang rape at Cornell University (BBC News)
 - [macro] Journalist to be crowned king in Uganda after bitter succession dispute (BBC News)
-- [macro] Hurricane Polo unleashes threatening winds as it approaches Mexico (BBC News)
