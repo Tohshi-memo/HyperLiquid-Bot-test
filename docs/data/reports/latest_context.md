@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T17:22:32.326855+00:00`
-- Market context score: `47.6`
-- News risk score: `41.83`
-- Macro risk score: `37.39`
-- Risk-on score: `33.0`
-- Articles: `54`
+- Generated: `2026-09-29T17:37:35.511383+00:00`
+- Market context score: `47.61`
+- News risk score: `41.89`
+- Macro risk score: `36.64`
+- Risk-on score: `32.8`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T17:15:00+00:00`
+- Day/swing latest: `2026-09-29T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `24`, risk hits `5`, risk headline rate `0.1667`, policy hits `3`
-- macro: articles `26`, risk hits `14`, risk headline rate `0.4231`, policy hits `0`
+- crypto: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `3`
+- macro: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `0`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
 - [crypto] Bitwise launches first US spot NEAR ETF after token’s recent surge (Cointelegraph.com News)
+- [macro] First female prime minister named in Morocco after winning elections (BBC News)
 - [macro] Eiffel Tower chief to quit after female staff replaced by men during religious visit (BBC News)
 - [macro] Faisal Islam: Triple lock move is significant, but it's a gamble (BBC News)
 - [policy] Barr, Economic Conditions and Monetary Policy (FRB: Speeches)
@@ -38,4 +39,3 @@
 - [crypto] Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach (Cointelegraph.com News)
 - [macro] Trump rules out joint US-China venture to develop AI (BBC News)
 - [crypto] Ethereum users get another way to pay privately as zk.money returns after three years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Dutch police arrest suspected member of group that claimed FBI hack (BBC News)
