@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T22:52:30.563677+00:00`
-- Market context score: `51.78`
-- News risk score: `34.64`
-- Macro risk score: `26.68`
-- Risk-on score: `32.17`
-- Articles: `53`
+- Generated: `2026-09-29T23:07:29.425681+00:00`
+- Market context score: `51.94`
+- News risk score: `34.51`
+- Macro risk score: `26.67`
+- Risk-on score: `32.42`
+- Articles: `54`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T22:45:00+00:00`
+- Day/swing latest: `2026-09-29T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.1333`, policy hits `0`
+- crypto: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
 - macro: articles `32`, risk hits `10`, risk headline rate `0.2188`, policy hits `0`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Robinhood adds AI agents, perps and weekend trading in push to win active traders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Africa to clean up high-risk areas after 12 women killed (BBC News)
 - [macro] Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries (BBC News)
 - [macro] Former American Idol contestant and pastor found guilty of murdering wife (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Trump rules out joint US-China venture to develop AI (BBC News)
 - [macro] US prosecutors reopen case of alleged gang rape at Cornell University (BBC News)
 - [macro] Journalist crowned king in Uganda after bitter succession dispute (BBC News)
-- [policy] Agencies publish resolution plan feedback letters for 15 banking organizations (FRB: Press Release - All Releases)
