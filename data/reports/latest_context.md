@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T14:37:42.633798+00:00`
+- Generated: `2026-09-29T14:52:31.371065+00:00`
 - Market context score: `43.91`
 - News risk score: `46.47`
 - Macro risk score: `39.69`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T14:30:00+00:00`
+- Day/swing latest: `2026-09-29T14:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Shell backs $23 billion LNG Canada expansion in boost to Carney's ‘energy superpower’ push (Energy)
 - [commodity] Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports (Energy)
 - [macro] US prosecutors reopen case of alleged gang rape at Cornell University (BBC News)
 - [crypto] Democrats killed the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’ (Cointelegraph.com News)
 - [macro] Malaysia begins controversial repatriation of asylum seekers to Myanmar (BBC News)
 - [macro] Journalist crowned king in Uganda after bitter succession dispute (BBC News)
-- [macro] Estonia blames Russia for arson at defence company supplying Ukraine (BBC News)
