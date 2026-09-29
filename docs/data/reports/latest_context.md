@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T14:07:29.238506+00:00`
-- Market context score: `45.05`
-- News risk score: `45.36`
-- Macro risk score: `37.46`
-- Risk-on score: `30.34`
+- Generated: `2026-09-29T14:22:30.347447+00:00`
+- Market context score: `44.73`
+- News risk score: `45.6`
+- Macro risk score: `38.92`
+- Risk-on score: `30.38`
 - Articles: `49`
 - Polymarket markets: `389`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T14:00:00+00:00`
+- Day/swing latest: `2026-09-29T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `1`
-- macro: articles `24`, risk hits `12`, risk headline rate `0.375`, policy hits `0`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `3`
+- macro: articles `23`, risk hits `12`, risk headline rate `0.3913`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Democrats killed the Clarity Act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports (Energy)
 - [macro] Spain announces new housing measures after protests over 87-year-old woman's eviction (BBC News)
 - [macro] US ban on Canadian alcohol and dairy takes effect as trade war drags on (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Journalist crowned king in Uganda after bitter succession dispute (BBC News)
 - [macro] Estonia blames Russia for arson at defence company supplying Ukraine (BBC News)
 - [macro] Man charged over AI image of crocodile in Singapore reservoir (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
