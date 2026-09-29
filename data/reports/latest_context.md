@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-29T08:52:32.265059+00:00`
-- Market context score: `33.18`
-- News risk score: `53.77`
-- Macro risk score: `38.41`
-- Risk-on score: `11.43`
-- Articles: `36`
+- Generated: `2026-09-29T09:07:38.994173+00:00`
+- Market context score: `32.43`
+- News risk score: `54.64`
+- Macro risk score: `40.02`
+- Risk-on score: `11.11`
+- Articles: `37`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-29T08:45:00+00:00`
+- Day/swing latest: `2026-09-29T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `8`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `25`, risk hits `11`, risk headline rate `0.36`, policy hits `0`
+- crypto: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
+- macro: articles `24`, risk hits `11`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Evicted Spanish pensioner can move back home, lawyer says (BBC News)
+- [crypto] BitMine could hit its 5% Ether supply target within weeks — then what? (Cointelegraph.com News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] OpenAI scraps rollout of new model over safety concerns (BBC News)
 - [macro] How an alleged rape sent an Indian university into turmoil and emptied hostels (BBC News)
@@ -35,6 +38,3 @@
 - [macro] Burkina Faso's junta leader opens major gold refinery to keep mining profits at home (BBC News)
 - [commodity] Oil prices rise as Middle East supply concerns persist (Energy)
 - [macro] UK tries to stop Trump's diesel export ban (BBC News)
-- [macro] I paid £30,000 for an 'influencer' degree. Here's why (BBC News)
-- [macro] Burnham to unveil public body to invest in electricity grid (BBC News)
-- [crypto] Near Intents blocks $50 million in Bitget hacker swaps, here's what happened (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
