@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T12:37:33.276810+00:00`
+- Generated: `2026-09-30T12:52:30.983942+00:00`
 - Market context score: `52.78`
 - News risk score: `38.92`
 - Macro risk score: `27.38`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T12:30:00+00:00`
+- Day/swing latest: `2026-09-30T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `9`, risk headline rate `0.2308`, policy hits `1`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.2308`, policy hits `1`
 - macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `2`
 
 ## Headlines
 
+- [macro] Russia launches largest attack on Ukraine energy infrastructure since spring (BBC News)
 - [macro] Botswana condemned for slaughtering elephants for independence celebrations (BBC News)
 - [crypto] FCA opens crypto authorization window ahead of 2027 UK regime (Cointelegraph.com News)
-- [macro] Russia launches largest attack on Ukraine energy infrastructure since spring (BBC News)
 - [macro] Greggs to shut four factories and cut 740 jobs (BBC News)
 - [macro] Last UK and US troops leave Iraq as anti-Islamic State mission ends (BBC News)
 - [macro] Africa's richest man launches Kenya oil refinery despite land protests (BBC News)
