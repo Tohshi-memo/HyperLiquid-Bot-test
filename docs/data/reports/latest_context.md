@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T11:52:28.434828+00:00`
-- Market context score: `53.43`
-- News risk score: `37.83`
-- Macro risk score: `26.68`
-- Risk-on score: `38.53`
-- Articles: `48`
+- Generated: `2026-09-30T12:07:28.138558+00:00`
+- Market context score: `52.56`
+- News risk score: `38.98`
+- Macro risk score: `28.0`
+- Risk-on score: `38.08`
+- Articles: `50`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T11:45:00+00:00`
+- Day/swing latest: `2026-09-30T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `26`, risk hits `9`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
+- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `2`
 
 ## Headlines
 
+- [macro] Russia launches largest attack on Ukraine energy infrastructure since spring (BBC News)
 - [macro] Greggs to shut four factories and cut 740 jobs (BBC News)
+- [macro] Last UK and US troops leave Iraq as anti-Islamic State mission ends (BBC News)
 - [macro] Africa's richest man launches Kenya oil refinery despite land protests (BBC News)
 - [macro] Africa's richest man launches Kenya oil refinery despite land protests (BBC News)
 - [crypto] Altcoin exchange deposit count jumps 160% in 2 weeks (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Couple describes relief at rescue after whale destroys their yacht (BBC News)
 - [crypto] A single market worth protecting: Getting the MiCA review right (Cointelegraph.com News)
-- [crypto] The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’ (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Household energy bills forecast to see biggest rise in four years (BBC News)
