@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T21:37:39.252098+00:00`
-- Market context score: `46.21`
-- News risk score: `41.29`
-- Macro risk score: `29.98`
-- Risk-on score: `26.67`
-- Articles: `52`
+- Generated: `2026-09-30T21:52:28.762424+00:00`
+- Market context score: `46.98`
+- News risk score: `40.23`
+- Macro risk score: `28.86`
+- Risk-on score: `27.05`
+- Articles: `50`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T21:30:00+00:00`
+- Day/swing latest: `2026-09-30T21:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `0`
+- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
-- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [macro] Flydubai passenger describes putting attacker in chokehold after cockpit stabbing (BBC News)
+- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [crypto] Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2 (Cointelegraph.com News)
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
