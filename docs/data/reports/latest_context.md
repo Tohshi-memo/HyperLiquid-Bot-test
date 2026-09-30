@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T17:37:34.388287+00:00`
-- Market context score: `48.52`
-- News risk score: `40.19`
-- Macro risk score: `25.97`
-- Risk-on score: `29.34`
-- Articles: `54`
+- Generated: `2026-09-30T17:52:35.043370+00:00`
+- Market context score: `48.34`
+- News risk score: `40.34`
+- Macro risk score: `25.99`
+- Risk-on score: `29.08`
+- Articles: `53`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T17:30:00+00:00`
+- Day/swing latest: `2026-09-30T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `31`, risk hits `11`, risk headline rate `0.2581`, policy hits `1`
+- crypto: articles `30`, risk hits `11`, risk headline rate `0.2667`, policy hits `1`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [crypto] Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel (Cointelegraph.com News)
 - [crypto] Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Six smugglers jailed for manslaughter over worst Channel small boats disaster (BBC News)
 - [macro] UK-France 'one in, one out' migrant scheme scrapped (BBC News)
 - [crypto] Bitget ‘gradually back to usual’ as protection fund reaches $309M (Cointelegraph.com News)
-- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [crypto] Open USD takes on Tether, Circle with a different stablecoin model that's 'building money' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Execution of US murderer Christa Pike halted shortly before it was due to happen (BBC News)
 - [crypto] U.S. CFTC  seeks event contract definitions that may defy states' gambling claims (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
