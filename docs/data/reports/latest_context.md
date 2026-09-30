@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T00:37:26.796768+00:00`
-- Market context score: `53.66`
-- News risk score: `32.01`
-- Macro risk score: `25.0`
-- Risk-on score: `33.51`
-- Articles: `56`
+- Generated: `2026-09-30T00:52:30.833649+00:00`
+- Market context score: `53.38`
+- News risk score: `31.09`
+- Macro risk score: `24.17`
+- Risk-on score: `31.79`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T00:30:00+00:00`
+- Day/swing latest: `2026-09-30T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `13`, risk hits `2`, risk headline rate `0.0769`, policy hits `0`
-- macro: articles `37`, risk hits `10`, risk headline rate `0.1892`, policy hits `0`
+- macro: articles `35`, risk hits `8`, risk headline rate `0.1714`, policy hits `0`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Trump accord calls for tech firms to ‘self police’ their own frontier AI (Cointelegraph.com News)
 - [macro] OpenAI unveils AI assistant 'dots' while safety worries delay new model (BBC News)
 - [macro] Ukraine's prized steel industry left in ruins by Russian missile campaign (BBC News)
 - [macro] Chinese AI tool told researchers how to make bioweapons (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Huel ad banned for suggesting its products could replace all conventional food (BBC News)
 - [macro] Household energy bills forecast to see biggest rise in four years (BBC News)
 - [crypto] Robinhood adds AI agents, perps and weekend trading in push to win active traders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] South Africa to clean up high-risk areas after 12 women killed (BBC News)
