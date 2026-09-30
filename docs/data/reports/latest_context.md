@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T07:37:29.359962+00:00`
-- Market context score: `58.38`
-- News risk score: `27.92`
-- Macro risk score: `25.7`
-- Risk-on score: `40.8`
-- Articles: `38`
+- Generated: `2026-09-30T07:52:37.600751+00:00`
+- Market context score: `58.23`
+- News risk score: `28.14`
+- Macro risk score: `25.72`
+- Risk-on score: `40.65`
+- Articles: `37`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T07:30:00+00:00`
+- Day/swing latest: `2026-09-30T07:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `2`, risk headline rate `0.0667`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `14`, risk hits `2`, risk headline rate `0.0714`, policy hits `0`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `2`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Meet the people switching careers to DIY and plumbing (BBC News)
-- [commodity] Oil prices climb as Trump denies offering Iran sanctions relief; Qatar pushes for peace talks (Energy)
+- [commodity] Trump denies offering Iran sanctions relief; Qatar pushes for peace talks (Energy)
+- [macro] People troll my DIY but they just spur me on (BBC News)
 - [crypto] Bitcoin bulls have one price level to defend (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] European stablecoin issuer AllUnity launches USD stablecoin USDAU (Cointelegraph.com News)
 - [macro] Somali pirates killed oil tanker crew before rescue, official tells BBC (BBC News)
