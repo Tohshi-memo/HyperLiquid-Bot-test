@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T04:37:39.791033+00:00`
-- Market context score: `55.09`
-- News risk score: `28.37`
-- Macro risk score: `21.13`
-- Risk-on score: `32.14`
+- Generated: `2026-09-30T04:52:25.383683+00:00`
+- Market context score: `57.96`
+- News risk score: `27.55`
+- Macro risk score: `21.09`
+- Risk-on score: `37.8`
 - Articles: `45`
 - Polymarket markets: `389`
 
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T04:30:00+00:00`
+- Day/swing latest: `2026-09-30T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
-- macro: articles `31`, risk hits `3`, risk headline rate `0.0968`, policy hits `0`
-- policy: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `1`
+- crypto: articles `12`, risk hits `2`, risk headline rate `0.0833`, policy hits `0`
+- macro: articles `30`, risk hits `3`, risk headline rate `0.1`, policy hits `0`
+- policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Illinois draft crypto tax rules detail DeFi, stablecoin treatment (Cointelegraph.com News)
 - [macro] Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea (BBC News)
 - [macro] Three takeaways from Trump's 'Super Intelligence' summit (BBC News)
 - [macro] Three takeaways from Trump's 'Super Intelligence' summit (BBC News)
@@ -37,5 +39,3 @@
 - [macro] Watch: Moment a government building collapses into a river in Nepal amid floods (BBC News)
 - [crypto] Binance Pay lets visitors spend USDT at PayPay merchants in Japan (Cointelegraph.com News)
 - [crypto] Trump accord calls for tech firms to ‘self police’ their own frontier AI (Cointelegraph.com News)
-- [macro] OpenAI unveils AI assistant 'dots' while safety worries delay new model (BBC News)
-- [macro] US Supreme Court denies Christa Pike's last-ditch bid to halt execution (BBC News)
