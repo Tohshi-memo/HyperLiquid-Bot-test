@@ -1,7 +1,7 @@
 # Latest Day Swing Dataset
 
-- Updated: `2026-09-30T17:22:31.859783+00:00`
-- Latest observed: `2026-09-30T17:15:00+00:00`
+- Updated: `2026-09-30T17:37:34.388287+00:00`
+- Latest observed: `2026-09-30T17:30:00+00:00`
 - Records: `12000`
 - Symbols: `BTC, ETH, HYPE, SOL`
 - Intervals: `15m, 1h, 4h`
@@ -14,10 +14,10 @@
 
 ## Latest Prices
 
-- BTC: `84079.5`
-- ETH: `2686.05`
-- HYPE: `90.122`
-- SOL: `119.565`
+- BTC: `83910.5`
+- ETH: `2677.15`
+- HYPE: `89.1195`
+- SOL: `118.915`
 
 ## Label Progress
 
@@ -28,7 +28,7 @@
 
 ## Quick Features
 
-- BTC: 1h rsi `57.19`, 1h return_12 `0.8892`
-- ETH: 1h rsi `53.88`, 1h return_12 `0.3924`
-- HYPE: 1h rsi `69.89`, 1h return_12 `4.8345`
-- SOL: 1h rsi `52.03`, 1h return_12 `0.4368`
+- BTC: 1h rsi `55.63`, 1h return_12 `0.7008`
+- ETH: 1h rsi `51.37`, 1h return_12 `0.0673`
+- HYPE: 1h rsi `63.9`, 1h return_12 `3.6934`
+- SOL: 1h rsi `49.37`, 1h return_12 `-0.1092`
