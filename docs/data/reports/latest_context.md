@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T18:52:32.829473+00:00`
+- Generated: `2026-09-30T19:07:51.842232+00:00`
 - Market context score: `47.92`
 - News risk score: `41.73`
 - Macro risk score: `27.94`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T18:45:00+00:00`
+- Day/swing latest: `2026-09-30T19:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [crypto] Base completes Cobalt upgrade, adds new tools for tokenized assets (Cointelegraph.com News)
+- [crypto] Bloomberg brings onchain stablecoin data to its Terminal (Cointelegraph.com News)
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
 - [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [crypto] Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] UK-France 'one in, one out' migrant scheme scrapped (BBC News)
 - [crypto] Bitget ‘gradually back to usual’ as protection fund reaches $309M (Cointelegraph.com News)
 - [crypto] Open USD takes on Tether, Circle with a different stablecoin model that's 'building money' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Execution of US murderer Christa Pike halted shortly before it was due to happen (BBC News)
-- [crypto] U.S. CFTC  seeks event contract definitions that may defy states' gambling claims (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
