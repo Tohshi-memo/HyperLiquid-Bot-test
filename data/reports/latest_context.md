@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T14:07:35.071426+00:00`
+- Generated: `2026-09-30T14:22:29.481832+00:00`
 - Market context score: `50.39`
 - News risk score: `42.82`
 - Macro risk score: `28.87`
 - Risk-on score: `36.81`
 - Articles: `57`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T14:00:00+00:00`
+- Day/swing latest: `2026-09-30T14:15:00+00:00`
 
 ## News Categories
 
@@ -38,4 +38,4 @@
 - [crypto] Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [policy] Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements (FRB: Press Release - All Releases)
 - [macro] Russia launches largest attack on Ukraine energy infrastructure since spring (BBC News)
-- [macro] Botswana condemned for slaughtering elephants for independence celebrations (BBC News)
+- [macro] Botswana condemned for slaughtering 23 elephants for independence celebrations (BBC News)
