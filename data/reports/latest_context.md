@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T06:07:27.740468+00:00`
+- Generated: `2026-09-30T06:22:29.758604+00:00`
 - Market context score: `59.42`
 - News risk score: `27.07`
 - Macro risk score: `22.71`
 - Risk-on score: `41.26`
 - Articles: `41`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T06:00:00+00:00`
+- Day/swing latest: `2026-09-30T06:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kalshi in advanced talks to raise new funding at $40B valuation: Reuters (Cointelegraph.com News)
 - [macro] Household energy bills forecast to see biggest rise in four years (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Girl has multiple surgeries to control infections after strike in Gaza (BBC News)
 - [macro] 'Backpack' declared Alaska's Fat Bear Week winner (BBC News)
 - [crypto] Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Illinois draft crypto tax rules detail DeFi, stablecoin treatment (Cointelegraph.com News)
