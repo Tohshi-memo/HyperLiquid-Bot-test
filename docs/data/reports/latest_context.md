@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T06:52:32.605732+00:00`
-- Market context score: `59.42`
-- News risk score: `27.07`
-- Macro risk score: `22.71`
-- Risk-on score: `41.26`
+- Generated: `2026-09-30T07:07:31.935626+00:00`
+- Market context score: `60.49`
+- News risk score: `25.87`
+- Macro risk score: `21.23`
+- Risk-on score: `42.07`
 - Articles: `41`
 - Polymarket markets: `390`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T06:45:00+00:00`
+- Day/swing latest: `2026-09-30T07:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `2`, risk headline rate `0.0769`, policy hits `0`
+- crypto: articles `15`, risk hits `2`, risk headline rate `0.0667`, policy hits `0`
 - macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `0`
-- policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin bulls have one price level to defend (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] European stablecoin issuer AllUnity launches USD stablecoin USDAU (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kalshi in advanced talks to raise new funding at $40B valuation: Reuters (Cointelegraph.com News)
@@ -37,5 +38,3 @@
 - [crypto] XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] OpenAI unveils AI assistant 'dots' while safety worries delay new model (BBC News)
 - [macro] Girl has multiple surgeries to control infections after strike in Gaza (BBC News)
-- [macro] 'Backpack' declared Alaska's Fat Bear Week winner (BBC News)
-- [crypto] Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
