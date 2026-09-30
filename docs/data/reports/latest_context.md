@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T20:37:34.691472+00:00`
-- Market context score: `47.52`
-- News risk score: `40.27`
-- Macro risk score: `27.34`
-- Risk-on score: `27.7`
-- Articles: `53`
+- Generated: `2026-09-30T20:46:15.918286+00:00`
+- Market context score: `47.3`
+- News risk score: `40.33`
+- Macro risk score: `27.96`
+- Risk-on score: `27.5`
+- Articles: `52`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T20:30:00+00:00`
+- Day/swing latest: `2026-09-30T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
+- macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Senators clinch construction permitting deal before election jet-set (Energy)
@@ -36,6 +37,5 @@
 - [crypto] Crypto advocacy group announces picks for US Congress as midterms loom (Cointelegraph.com News)
 - [crypto] Base completes Cobalt upgrade, adds new tools for tokenized assets (Cointelegraph.com News)
 - [crypto] Bloomberg brings onchain stablecoin data to its Terminal (Cointelegraph.com News)
-- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [crypto] Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel (Cointelegraph.com News)
 - [crypto] Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
