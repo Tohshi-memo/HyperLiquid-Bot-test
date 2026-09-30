@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T19:22:29.247523+00:00`
+- Generated: `2026-09-30T19:37:37.945144+00:00`
 - Market context score: `48.11`
 - News risk score: `41.56`
 - Macro risk score: `27.93`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T19:15:00+00:00`
+- Day/swing latest: `2026-09-30T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `11`, risk headline rate `0.2667`, policy hits `1`
-- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
-- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
+- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
+- policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [policy] Cook, The Dual Mandate in Rural America (FRB: Speeches)
 - [crypto] Crypto advocacy group announces picks for US Congress as midterms loom (Cointelegraph.com News)
 - [crypto] Base completes Cobalt upgrade, adds new tools for tokenized assets (Cointelegraph.com News)
 - [crypto] Bloomberg brings onchain stablecoin data to its Terminal (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Six smugglers jailed for manslaughter over worst Channel small boats disaster (BBC News)
 - [macro] UK-France 'one in, one out' migrant scheme scrapped (BBC News)
-- [crypto] Bitget ‘gradually back to usual’ as protection fund reaches $309M (Cointelegraph.com News)
