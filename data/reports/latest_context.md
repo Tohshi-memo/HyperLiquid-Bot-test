@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T13:52:33.559739+00:00`
-- Market context score: `51.5`
-- News risk score: `41.62`
-- Macro risk score: `26.23`
-- Risk-on score: `37.28`
-- Articles: `56`
-- Polymarket markets: `389`
+- Generated: `2026-09-30T14:07:35.071426+00:00`
+- Market context score: `50.39`
+- News risk score: `42.82`
+- Macro risk score: `28.87`
+- Risk-on score: `36.81`
+- Articles: `57`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T13:45:00+00:00`
+- Day/swing latest: `2026-09-30T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `12`, risk headline rate `0.2759`, policy hits `1`
-- macro: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `2`
+- crypto: articles `30`, risk hits `12`, risk headline rate `0.2667`, policy hits `1`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `2`
+- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Clock's ticking: UK's crypto regulatory application window opens with February deadline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Regulating AI 'not the right place to start' says Bailey (BBC News)
 - [crypto] Could THORChain face prosecution over stolen Bitget funds? (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Dozens hurt and hundreds arrested in wave of French school protests (BBC News)
 - [crypto] Singapore crypto activity grows 55% as broader region contracts (Cointelegraph.com News)
 - [crypto] Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [policy] Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements (FRB: Press Release - All Releases)
 - [macro] Russia launches largest attack on Ukraine energy infrastructure since spring (BBC News)
-- [macro] What we know about the Dubai-Israel plane incident after reported stabbing (BBC News)
 - [macro] Botswana condemned for slaughtering elephants for independence celebrations (BBC News)
-- [crypto] FCA opens crypto authorization window ahead of 2027 UK regime (Cointelegraph.com News)
-- [macro] Greggs to shut four factories and cut 740 jobs (BBC News)
