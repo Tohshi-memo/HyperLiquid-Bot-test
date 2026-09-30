@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T04:07:27.748482+00:00`
-- Market context score: `54.82`
-- News risk score: `28.1`
-- Macro risk score: `21.1`
-- Risk-on score: `31.31`
+- Generated: `2026-09-30T04:22:31.842016+00:00`
+- Market context score: `54.71`
+- News risk score: `28.33`
+- Macro risk score: `20.87`
+- Risk-on score: `31.16`
 - Articles: `47`
 - Polymarket markets: `389`
 
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T04:00:00+00:00`
+- Day/swing latest: `2026-09-30T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `2`, risk headline rate `0.0833`, policy hits `0`
-- macro: articles `31`, risk hits `3`, risk headline rate `0.0968`, policy hits `0`
+- crypto: articles `11`, risk hits `2`, risk headline rate `0.0909`, policy hits `0`
+- macro: articles `32`, risk hits `3`, risk headline rate `0.0938`, policy hits `0`
 - policy: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
@@ -37,5 +37,5 @@
 - [crypto] Binance Pay lets visitors spend USDT at PayPay merchants in Japan (Cointelegraph.com News)
 - [crypto] Trump accord calls for tech firms to ‘self police’ their own frontier AI (Cointelegraph.com News)
 - [macro] OpenAI unveils AI assistant 'dots' while safety worries delay new model (BBC News)
+- [macro] US Supreme Court denies Christa Pike's last-ditch bid to halt execution (BBC News)
 - [macro] Ukraine's prized steel industry left in ruins by Russian missile campaign (BBC News)
-- [macro] Chinese AI tool told researchers how to make bioweapons (BBC News)
