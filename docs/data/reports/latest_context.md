@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T02:29:19.596238+00:00`
-- Market context score: `55.41`
-- News risk score: `29.27`
-- Macro risk score: `22.25`
-- Risk-on score: `34.03`
-- Articles: `48`
+- Generated: `2026-09-30T02:37:36.586711+00:00`
+- Market context score: `55.55`
+- News risk score: `29.17`
+- Macro risk score: `22.24`
+- Risk-on score: `34.26`
+- Articles: `49`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T02:15:00+00:00`
+- Day/swing latest: `2026-09-30T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `11`, risk hits `2`, risk headline rate `0.0909`, policy hits `0`
+- crypto: articles `12`, risk hits `2`, risk headline rate `0.0833`, policy hits `0`
 - macro: articles `31`, risk hits `4`, risk headline rate `0.129`, policy hits `0`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Binance Pay lets visitors spend USDT at PayPay merchants in Japan (Cointelegraph.com News)
 - [crypto] Trump accord calls for tech firms to ‘self police’ their own frontier AI (Cointelegraph.com News)
 - [macro] OpenAI unveils AI assistant 'dots' while safety worries delay new model (BBC News)
 - [macro] Ukraine's prized steel industry left in ruins by Russian missile campaign (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'I like proving people wrong': The women taking up DIY and plumbing (BBC News)
 - [macro] Huel ad banned for suggesting its products could replace all conventional food (BBC News)
 - [macro] Household energy bills forecast to see biggest rise in four years (BBC News)
-- [crypto] Robinhood adds AI agents, perps and weekend trading in push to win active traders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
