@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T13:22:32.212542+00:00`
-- Market context score: `51.27`
-- News risk score: `41.55`
-- Macro risk score: `28.34`
-- Risk-on score: `37.5`
-- Articles: `56`
-- Polymarket markets: `390`
+- Generated: `2026-09-30T13:37:36.388302+00:00`
+- Market context score: `50.39`
+- News risk score: `42.95`
+- Macro risk score: `28.32`
+- Risk-on score: `36.72`
+- Articles: `57`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T13:15:00+00:00`
+- Day/swing latest: `2026-09-30T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `11`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `29`, risk hits `12`, risk headline rate `0.2759`, policy hits `1`
 - macro: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Could THORChain face prosecution over stolen Bitget funds? (Cointelegraph.com News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Dozens hurt and hundreds arrested in wave of French school protests (BBC News)
 - [crypto] Singapore crypto activity grows 55% as broader region contracts (Cointelegraph.com News)
 - [crypto] Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,5 +39,3 @@
 - [macro] What we know about the Dubai-Israel plane incident after reported stabbing (BBC News)
 - [macro] Botswana condemned for slaughtering elephants for independence celebrations (BBC News)
 - [crypto] FCA opens crypto authorization window ahead of 2027 UK regime (Cointelegraph.com News)
-- [macro] Greggs to shut four factories and cut 740 jobs (BBC News)
-- [macro] Last UK and US troops leave Iraq as anti-Islamic State mission ends (BBC News)
