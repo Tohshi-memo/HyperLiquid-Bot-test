@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T17:52:35.043370+00:00`
-- Market context score: `48.34`
-- News risk score: `40.34`
-- Macro risk score: `25.99`
-- Risk-on score: `29.08`
+- Generated: `2026-09-30T18:07:32.272861+00:00`
+- Market context score: `47.92`
+- News risk score: `41.73`
+- Macro risk score: `27.94`
+- Risk-on score: `30.06`
 - Articles: `53`
 - Polymarket markets: `390`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T17:45:00+00:00`
+- Day/swing latest: `2026-09-30T18:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `30`, risk hits `11`, risk headline rate `0.2667`, policy hits `1`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `29`, risk hits `11`, risk headline rate `0.2759`, policy hits `1`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
 - [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [crypto] Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel (Cointelegraph.com News)
 - [crypto] Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] Open USD takes on Tether, Circle with a different stablecoin model that's 'building money' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Execution of US murderer Christa Pike halted shortly before it was due to happen (BBC News)
 - [crypto] U.S. CFTC  seeks event contract definitions that may defy states' gambling claims (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Passengers describe stabbing on Israel-bound plane (BBC News)
