@@ -2,7 +2,7 @@
 
 Public macro indicators for rates, employment, inflation, dollar, and risk context. These are inputs for analysis, not trade signals.
 
-- Generated: `2026-09-29T23:18:36.573119+00:00`
+- Generated: `2026-09-30T14:18:40.661668+00:00`
 - Indicators: `11`
 
 ## Providers
@@ -13,9 +13,9 @@ Public macro indicators for rates, employment, inflation, dollar, and risk conte
 
 ## Upcoming Releases
 
-- `us_pce` US Personal Income and Outlays / PCE: `August 2026` scheduled `2026-09-30T08:30:00-04:00` / UTC `2026-09-30T12:30:00+00:00` (BEA, official)
-- `us_gdp` US Gross Domestic Product: `Q2 2026 third estimate` scheduled `2026-09-30T08:30:00-04:00` / UTC `2026-09-30T12:30:00+00:00` (BEA, official)
 - `fomc_policy_decision` FOMC Policy Decision: `October 27-28, 2026` scheduled `2026-10-28T14:00:00-04:00` / UTC `2026-10-28T18:00:00+00:00` (Federal Reserve, official)
+- `us_pce` US Personal Income and Outlays / PCE: `September 2026` scheduled `2026-10-29T08:30:00-04:00` / UTC `2026-10-29T12:30:00+00:00` (BEA, official)
+- `us_gdp` US Gross Domestic Product: `Q3 2026 advance estimate` scheduled `2026-10-29T08:30:00-04:00` / UTC `2026-10-29T12:30:00+00:00` (BEA, official)
 
 ## Indicators
 
