@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-09-30T04:50:31.833979+00:00`
+- Generated: `2026-09-30T04:55:33.766330+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10298359.4`
-- Polymarket volume z-score: `2.16`
+- Polymarket 24h volume: `10732432.75`
+- Polymarket volume z-score: `2.4`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `705554.0434280002` | liquidity: `395476.6133`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `615957.7124240003` | liquidity: `747065.0905`
-- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `571042.252376` | liquidity: `1108056.89076`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `467983.423834` | liquidity: `521983.80684`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `459029.76251699997` | liquidity: `859114.93318`
-- China Open: Karen Khachanov vs Felix Auger-Aliassime | 24h volume: `449029.49331299996` | liquidity: `222480.13282`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `395426.1446579999` | liquidity: `349481.0151`
-- Will Manuel Bompard win the 2027 French presidential election? | 24h volume: `349999.83999999997` | liquidity: `243047.96552`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `704902.5534280002` | liquidity: `396226.1633`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `616071.712424` | liquidity: `749425.4042`
+- Strait of Hormuz traffic returns to normal by September 30? | 24h volume: `571042.2523759999` | liquidity: `1108056.89076`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `467944.419834` | liquidity: `520532.80684`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `459191.76251699997` | liquidity: `782636.38846`
+- China Open: Karen Khachanov vs Felix Auger-Aliassime | 24h volume: `456426.30749899993` | liquidity: `222426.59086`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `395514.474658` | liquidity: `351488.2751`
+- China Open: Maya Joint vs Sinja Kraus | 24h volume: `388832.0081180001` | liquidity: `141284.2138`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
