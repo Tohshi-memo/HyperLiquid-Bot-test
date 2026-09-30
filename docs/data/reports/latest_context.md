@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T09:07:29.691956+00:00`
+- Generated: `2026-09-30T09:22:36.938348+00:00`
 - Market context score: `60.4`
 - News risk score: `28.88`
 - Macro risk score: `26.52`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T09:00:00+00:00`
+- Day/swing latest: `2026-09-30T09:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Household energy bills forecast to see biggest rise in four years (BBC News)
 - [macro] Israel-bound flight diverted after fight between pilots (BBC News)
 - [macro] Greggs to shut four factories and cut 740 jobs (BBC News)
 - [crypto] OpenAI seeks $30 in funding at whopping $1.4 trillion valuation after delaying IPO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] How European investors can now buy bitcoin without taking on U.S. dollar risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Africa's richest man to launch Kenya oil refinery despite land protests (BBC News)
 - [macro] Africa's richest man to launch Kenya oil refinery despite land protests (BBC News)
-- [commodity] Trump denies offering Iran sanctions relief; Qatar pushes for peace talks (Energy)
