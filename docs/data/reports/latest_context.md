@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T21:22:38.330426+00:00`
+- Generated: `2026-09-30T21:37:39.252098+00:00`
 - Market context score: `46.21`
 - News risk score: `41.29`
 - Macro risk score: `29.98`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T21:15:00+00:00`
+- Day/swing latest: `2026-09-30T21:30:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [macro] Flydubai passenger describes putting attacker in chokehold after cockpit stabbing (BBC News)
 - [crypto] Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2 (Cointelegraph.com News)
-- [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Senators clinch construction permitting deal before election jet-set (Energy)
