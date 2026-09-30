@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T08:52:29.585413+00:00`
+- Generated: `2026-09-30T08:59:16.243175+00:00`
 - Market context score: `60.02`
 - News risk score: `28.95`
 - Macro risk score: `27.65`
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Israel-bound flight diverted after fight between pilots (BBC News)
 - [crypto] OpenAI seeks $30 in funding at whopping $1.4 trillion valuation after delaying IPO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Crackdown on South Africa's unsafe streets ordered by president to keep women safe (BBC News)
 - [crypto] Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] How European investors can now buy bitcoin without taking on U.S. dollar risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Africa's richest man to launch Kenya oil refinery despite land protests (BBC News)
 - [macro] Africa's richest man to launch Kenya oil refinery despite land protests (BBC News)
-- [macro] Israel-bound flight diverted after fight between pilots (BBC News)
 - [commodity] Trump denies offering Iran sanctions relief; Qatar pushes for peace talks (Energy)
 - [macro] People troll my DIY but they just spur me on (BBC News)
 - [crypto] Bitcoin bulls have one price level to defend (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
