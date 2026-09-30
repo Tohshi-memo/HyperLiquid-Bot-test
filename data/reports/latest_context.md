@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-09-30T19:07:51.842232+00:00`
-- Market context score: `47.92`
-- News risk score: `41.73`
-- Macro risk score: `27.94`
-- Risk-on score: `30.06`
-- Articles: `53`
+- Generated: `2026-09-30T19:22:29.247523+00:00`
+- Market context score: `48.11`
+- News risk score: `41.56`
+- Macro risk score: `27.93`
+- Risk-on score: `30.33`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-09-30T19:00:00+00:00`
+- Day/swing latest: `2026-09-30T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `11`, risk headline rate `0.2759`, policy hits `1`
+- crypto: articles `30`, risk hits `11`, risk headline rate `0.2667`, policy hits `1`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Crypto advocacy group announces picks for US Congress as midterms loom (Cointelegraph.com News)
 - [crypto] Base completes Cobalt upgrade, adds new tools for tokenized assets (Cointelegraph.com News)
 - [crypto] Bloomberg brings onchain stablecoin data to its Terminal (Cointelegraph.com News)
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
@@ -38,4 +39,3 @@
 - [macro] Six smugglers jailed for manslaughter over worst Channel small boats disaster (BBC News)
 - [macro] UK-France 'one in, one out' migrant scheme scrapped (BBC News)
 - [crypto] Bitget ‘gradually back to usual’ as protection fund reaches $309M (Cointelegraph.com News)
-- [crypto] Open USD takes on Tether, Circle with a different stablecoin model that's 'building money' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
