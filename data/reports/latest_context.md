@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T19:37:27.607109+00:00`
+- Generated: `2026-10-01T19:52:36.192838+00:00`
 - Market context score: `35.97`
 - News risk score: `51.4`
 - Macro risk score: `32.09`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T19:30:00+00:00`
+- Day/swing latest: `2026-10-01T19:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Putin warns West that Russia is ready to use every weapon to protect Kaliningrad (BBC News)
 - [commodity] Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East (Energy)
 - [macro] What happened in the failed execution of Christa Pike - and what next? (BBC News)
 - [macro] Christa Pike in critical condition after surviving two lethal injections, lawyer says (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Another Trump memecoin dinner advertised for token's top investors (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review (Cointelegraph.com News)
 - [macro] PM warned Rosebank oil field could breach West Bank sanctions (BBC News)
-- [macro] HMRC urged to scrutinise tax implications of Man City case (BBC News)
