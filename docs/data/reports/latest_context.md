@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T09:07:27.897982+00:00`
-- Market context score: `28.85`
-- News risk score: `58.45`
-- Macro risk score: `32.64`
-- Risk-on score: `3.57`
-- Articles: `37`
-- Polymarket markets: `391`
+- Generated: `2026-10-01T09:22:29.622394+00:00`
+- Market context score: `28.52`
+- News risk score: `59.25`
+- Macro risk score: `31.25`
+- Risk-on score: `3.0`
+- Articles: `40`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T09:00:00+00:00`
+- Day/swing latest: `2026-10-01T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `9`, risk hits `7`, risk headline rate `0.6667`, policy hits `1`
-- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `1`
+- crypto: articles `10`, risk hits `8`, risk headline rate `0.7`, policy hits `1`
+- macro: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives (Cointelegraph.com News)
 - [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude back above $100 (Energy)
 - [macro] Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says (BBC News)
 - [macro] 'We're still cold paying £300 a month energy bills' (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Energy bills are rising by £60 a year - here's what you can do about it (BBC News)
 - [macro] Employers should teach primary-age children about work, says Milburn (BBC News)
 - [crypto] MetaMask security incident forces Ethereum staking exits, no funds at risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Africa's richest man launches Kenya oil refinery despite land protests (BBC News)
