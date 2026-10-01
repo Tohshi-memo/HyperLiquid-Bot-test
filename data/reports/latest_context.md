@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T22:22:28.965872+00:00`
-- Market context score: `33.43`
-- News risk score: `53.37`
-- Macro risk score: `31.44`
-- Risk-on score: `9.0`
-- Articles: `52`
+- Generated: `2026-10-01T22:37:29.946114+00:00`
+- Market context score: `34.24`
+- News risk score: `52.06`
+- Macro risk score: `31.47`
+- Risk-on score: `9.71`
+- Articles: `51`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T22:15:00+00:00`
+- Day/swing latest: `2026-10-01T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `22`, risk hits `13`, risk headline rate `0.5`, policy hits `3`
+- crypto: articles `21`, risk hits `12`, risk headline rate `0.4762`, policy hits `3`
 - macro: articles `22`, risk hits `10`, risk headline rate `0.3182`, policy hits `0`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Christa Pike in critical condition after surviving two lethal injections, lawyer says (BBC News)
 - [macro] US says Europe should ready fuel supplies as Trump threatens diesel ban (BBC News)
 - [crypto] Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury (Cointelegraph.com News)
 - [crypto] Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims (Cointelegraph.com News)
 - [macro] What's gone wrong at Nike? How the world's sportswear giant lost its mojo (BBC News)
-- [macro] Christa Pike in critical condition after surviving two lethal injections, lawyer says (BBC News)
 - [commodity] Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit (Energy)
 - [macro] Renee Good: Family of US woman killed by ICE agent sues Trump officials (BBC News)
 - [crypto] SEC proposes new crypto custody rules for investment advisers and funds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
