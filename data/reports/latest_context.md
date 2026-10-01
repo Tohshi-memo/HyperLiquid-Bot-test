@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T10:22:29.845408+00:00`
+- Generated: `2026-10-01T10:37:34.882519+00:00`
 - Market context score: `34.53`
 - News risk score: `53.57`
 - Macro risk score: `30.39`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T10:15:00+00:00`
+- Day/swing latest: `2026-10-01T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Travelodge failed sex assault victim 'at every stage' (BBC News)
 - [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude back above $100 (Energy)
 - [macro] Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash (BBC News)
 - [macro] Pension tops £16,000 a year after 4.7% increase (BBC News)
@@ -37,4 +38,3 @@
 - [macro] US death row inmate survives execution attempt after two lethal injections (BBC News)
 - [crypto] Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives (Cointelegraph.com News)
-- [macro] 'We're still cold paying £300 a month energy bills' (BBC News)
