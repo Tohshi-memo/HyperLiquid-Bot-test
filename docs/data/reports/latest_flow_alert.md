@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-01T03:10:31.817098+00:00`
+- Generated: `2026-10-01T03:15:33.708381+00:00`
 - Flow alert score: `20.52`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -14,12 +14,12 @@
 ## Top Polymarket Markets
 
 - Will Ethereum reach $4,000 in September? | 24h volume: `1201606.282294` | liquidity: `870118.82459`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `684249.8488340005` | liquidity: `387052.5514`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `684249.8488340005` | liquidity: `383882.5514`
 - Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `541380.9005090002` | liquidity: `455510.7501`
 - Will Bitcoin reach $100,000 in September? | 24h volume: `348675.255` | liquidity: `222462.86576`
 - Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `312292.22275` | liquidity: `461566.93884`
-- Will Bitcoin dip to $82,500 in September? | 24h volume: `271378.46435` | liquidity: `77254.97886`
+- Will Bitcoin dip to $82,500 in September? | 24h volume: `271378.46435` | liquidity: `77135.34165`
 - Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `254657.83283600002` | liquidity: `904855.99763`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `226256.219683` | liquidity: `876749.7283`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `226256.219683` | liquidity: `872887.9676`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
