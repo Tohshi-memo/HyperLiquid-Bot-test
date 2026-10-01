@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T00:07:30.044922+00:00`
+- Generated: `2026-10-01T00:12:43.899225+00:00`
 - Market context score: `46.04`
 - News risk score: `34.88`
 - Macro risk score: `26.52`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies (BBC News)
 - [macro] US Supreme Court allows execution of Christa Pike to go ahead (BBC News)
 - [macro] The children dying in India's remote tribal heartland (BBC News)
 - [macro] China has cracked down on AI relationships. Is it ahead of the game? (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Vape prices to rise as new tax takes effect (BBC News)
 - [macro] Energy bills are going up - here's what you can do about it (BBC News)
 - [macro] Energy bills are going up - here's what you can do about it (BBC News)
-- [commodity] Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline (Energy)
