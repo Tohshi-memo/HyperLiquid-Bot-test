@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T13:09:00.856991+00:00`
+- Generated: `2026-10-01T13:22:29.008550+00:00`
 - Market context score: `40.79`
 - News risk score: `44.73`
 - Macro risk score: `28.28`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T13:00:00+00:00`
+- Day/swing latest: `2026-10-01T13:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,9 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude near $100 (Energy)
 - [macro] Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What happened in failed execution of Christa Pike - and what next? (BBC News)
 - [macro] Explosions heard in Ethiopia's capital after drone flights banned (BBC News)
 - [macro] Kanye West's Russia shows officially cancelled after weeks of uncertainty (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Illinois agrees to six-month delay of crypto tax as industry continues court battle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Travelodge failed sex assault victim 'at every stage' (BBC News)
 - [macro] Cornell case highlights 'draining' maze for victims to report campus sex assaults (BBC News)
-- [macro] Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names (BBC News)
-- [macro] Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names (BBC News)
