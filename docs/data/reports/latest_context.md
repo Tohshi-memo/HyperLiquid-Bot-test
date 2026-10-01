@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T19:01:15.576387+00:00`
-- Market context score: `34.54`
-- News risk score: `53.66`
-- Macro risk score: `33.32`
-- Risk-on score: `12.44`
-- Articles: `57`
+- Generated: `2026-10-01T19:07:33.332888+00:00`
+- Market context score: `36.72`
+- News risk score: `50.66`
+- Macro risk score: `31.42`
+- Risk-on score: `14.03`
+- Articles: `53`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,19 +23,19 @@
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `24`, risk hits `13`, risk headline rate `0.4583`, policy hits `2`
-- macro: articles `26`, risk hits `13`, risk headline rate `0.3462`, policy hits `1`
+- crypto: articles `23`, risk hits `12`, risk headline rate `0.4348`, policy hits `2`
+- macro: articles `23`, risk hits `11`, risk headline rate `0.3043`, policy hits `1`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Christa Pike is in 'critical condition' after failed execution, her lawyers say (BBC News)
+- [commodity] Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East (Energy)
 - [policy] Bowman, Modernizing Financial Regulation: Initial Observations from eSLR (FRB: Speeches)
-- [macro] Christa Pike is alive and receiving 'life-saving care' in hospital, her lawyers say (BBC News)
 - [macro] Netanyahu says Flydubai attacker had 'Islamist radical indoctrination' (BBC News)
 - [crypto] Another Trump memecoin dinner advertised for token's top investors (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review (Cointelegraph.com News)
 - [macro] PM warned Rosebank oil field could breach West Bank sanctions (BBC News)
-- [commodity] Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East (Energy)
 - [macro] Fires break out at French schools as students protest nationwide (BBC News)
 - [macro] HMRC urged to scrutinise tax implications of Man City case (BBC News)
 - [macro] Thames Water apologises after £145,000 customer billing mistake (BBC News)
