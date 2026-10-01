@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-01T00:15:32.616184+00:00`
+- Generated: `2026-10-01T00:20:38.001754+00:00`
 - Flow alert score: `19.88`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `707925.9205710005` | liquidity: `287665.9126`
-- Will Ethereum reach $4,000 in September? | 24h volume: `694449.172294` | liquidity: `150809.71437`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `550988.2883400003` | liquidity: `343505.8188`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `505959.462836` | liquidity: `924546.60542`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `308274.95275` | liquidity: `471473.64716`
-- Will Bitcoin reach $100,000 in September? | 24h volume: `282468.335` | liquidity: `160282.33372`
-- Will Bitcoin dip to $82,500 in September? | 24h volume: `265554.872366` | liquidity: `37161.92176`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `224659.80056400003` | liquidity: `577189.81255`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `707925.9205710005` | liquidity: `278673.187`
+- Will Ethereum reach $4,000 in September? | 24h volume: `694449.172294` | liquidity: `124569.43809`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `550988.2883400003` | liquidity: `341040.0548`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `505959.462836` | liquidity: `920261.29542`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `308274.95275` | liquidity: `467988.39489`
+- Will Bitcoin reach $100,000 in September? | 24h volume: `282468.335` | liquidity: `122633.85837`
+- Will Bitcoin dip to $82,500 in September? | 24h volume: `265554.872366` | liquidity: `46146.44327`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `224659.80056400003` | liquidity: `573980.88859`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
