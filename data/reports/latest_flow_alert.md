@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-01T05:35:36.118642+00:00`
-- Flow alert score: `19.88`
+- Generated: `2026-10-01T05:40:38.750367+00:00`
+- Flow alert score: `20.2`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8246284.71`
-- Polymarket volume z-score: `0.72`
+- Polymarket 24h volume: `8423094.7`
+- Polymarket volume z-score: `0.8`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `682881.623114` | liquidity: `414047.0761`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `548808.097555` | liquidity: `501125.2058`
-- China Open: Qinwen Zheng vs Han Shi | 24h volume: `414039.35818700003` | liquidity: `146411.757`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `367127.989` | liquidity: `312766.17877`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `324819.81275` | liquidity: `462929.86341`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `260867.81883600005` | liquidity: `890570.11707`
-- China Open: Alex Molcan vs Arthur Rinderknech | 24h volume: `232388.06968500002` | liquidity: `73288.9212`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `230654.493467` | liquidity: `567942.37884`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `685059.4466440005` | liquidity: `399564.213`
+- China Open: Qinwen Zheng vs Han Shi | 24h volume: `651246.8464559999` | liquidity: `133198.7996`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `550008.0975550001` | liquidity: `487902.4909`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `367127.98900000006` | liquidity: `313001.67177`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `323973.69275` | liquidity: `462929.86341`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `280867.81883600005` | liquidity: `890570.11707`
+- China Open: Yulia Starodubtseva vs Alina Charaeva | 24h volume: `238798.49533500004` | liquidity: `123726.9468`
+- China Open: Alex Molcan vs Arthur Rinderknech | 24h volume: `232470.84968499994` | liquidity: `73538.9212`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
