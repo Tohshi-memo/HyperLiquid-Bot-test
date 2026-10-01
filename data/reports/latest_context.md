@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T04:37:34.155148+00:00`
-- Market context score: `40.83`
-- News risk score: `41.08`
-- Macro risk score: `31.02`
-- Risk-on score: `14.91`
-- Articles: `33`
+- Generated: `2026-10-01T04:52:26.828943+00:00`
+- Market context score: `41.22`
+- News risk score: `40.69`
+- Macro risk score: `30.24`
+- Risk-on score: `15.17`
+- Articles: `34`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T04:30:00+00:00`
+- Day/swing latest: `2026-10-01T04:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
 - macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] UK Prime Minister Burnham says Iran 'played a part' in British air base incident (Energy)
 - [macro] US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer (BBC News)
 - [crypto] Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI boom could trigger market shocks, Bank of England boss warns (BBC News)
@@ -38,4 +39,3 @@
 - [macro] What we know about stabbing on Flydubai flight to Israel (BBC News)
 - [crypto] CFTC seeks to define event contracts as swaps amid prediction market fight (Cointelegraph.com News)
 - [macro] California bans child marriage, a practice still legal in 32 US states (BBC News)
-- [crypto] MetaMask exits Ethereum validators amid undisclosed security incident (Cointelegraph.com News)
