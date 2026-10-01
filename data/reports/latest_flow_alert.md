@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-01T10:45:35.756967+00:00`
+- Generated: `2026-10-01T10:50:38.500946+00:00`
 - Flow alert score: `20.44`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `767151.8049670001` | liquidity: `346851.6941`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `590386.4801060001` | liquidity: `352461.5944`
-- China Open: Juncheng Shang vs Sebastian Baez | 24h volume: `581877.3308060003` | liquidity: `812115.34533`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `378950.576008` | liquidity: `506090.1004`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `366578.0570000001` | liquidity: `303613.27824`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `767151.8049670001` | liquidity: `352312.5941`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `590386.4801060001` | liquidity: `336234.5984`
+- China Open: Juncheng Shang vs Sebastian Baez | 24h volume: `581877.3308060003` | liquidity: `831797.08462`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `378950.576008` | liquidity: `506085.5118`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `366578.0570000001` | liquidity: `314098.53272`
 - Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `331256.6425` | liquidity: `538583.37241`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `314406.24800499994` | liquidity: `975332.11997`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `256445.68331699987` | liquidity: `590560.54972`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `314406.24800499994` | liquidity: `976775.11997`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `256445.68331699987` | liquidity: `590790.17606`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
