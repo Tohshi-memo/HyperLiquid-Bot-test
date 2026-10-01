@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T04:22:29.104503+00:00`
-- Market context score: `41.67`
-- News risk score: `39.84`
-- Macro risk score: `31.0`
-- Risk-on score: `15.73`
-- Articles: `34`
+- Generated: `2026-10-01T04:37:34.155148+00:00`
+- Market context score: `40.83`
+- News risk score: `41.08`
+- Macro risk score: `31.02`
+- Risk-on score: `14.91`
+- Articles: `33`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T04:15:00+00:00`
+- Day/swing latest: `2026-10-01T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
 - macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer (BBC News)
+- [crypto] Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI boom could trigger market shocks, Bank of England boss warns (BBC News)
 - [macro] Plummeting Israel flight like 'rollercoaster', says passenger (BBC News)
 - [commodity] South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation (Energy)
