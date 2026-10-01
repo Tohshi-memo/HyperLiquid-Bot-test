@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T00:12:43.899225+00:00`
+- Generated: `2026-10-01T00:22:28.837286+00:00`
 - Market context score: `46.04`
 - News risk score: `34.88`
 - Macro risk score: `26.52`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T00:00:00+00:00`
+- Day/swing latest: `2026-10-01T00:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [macro] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies (BBC News)
 - [macro] US Supreme Court allows execution of Christa Pike to go ahead (BBC News)
+- [macro] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies (BBC News)
 - [macro] The children dying in India's remote tribal heartland (BBC News)
 - [macro] China has cracked down on AI relationships. Is it ahead of the game? (BBC News)
 - [macro] Tiny image sparks big backlash in Nikon photo contest (BBC News)
