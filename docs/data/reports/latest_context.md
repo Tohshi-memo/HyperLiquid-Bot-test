@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T05:52:30.717854+00:00`
-- Market context score: `32.92`
-- News risk score: `52.66`
-- Macro risk score: `31.18`
-- Risk-on score: `7.18`
-- Articles: `35`
+- Generated: `2026-10-01T06:07:29.413362+00:00`
+- Market context score: `34.98`
+- News risk score: `49.79`
+- Macro risk score: `30.45`
+- Risk-on score: `9.07`
+- Articles: `37`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T05:45:00+00:00`
+- Day/swing latest: `2026-10-01T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `6`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `9`, risk hits `6`, risk headline rate `0.5556`, policy hits `0`
-- macro: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `1`
+- crypto: articles `10`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation (Energy)
 - [macro] US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer (BBC News)
 - [macro] Fuel prices leave people asking 'what can we do?' (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto hacks top $768M in September, worst month of 2026 (Cointelegraph.com News)
 - [crypto] Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] AI boom could trigger market shocks, Bank of England boss warns (BBC News)
