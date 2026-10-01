@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T07:22:32.435441+00:00`
-- Market context score: `28.14`
-- News risk score: `59.13`
-- Macro risk score: `34.01`
-- Risk-on score: `3.1`
-- Articles: `38`
+- Generated: `2026-10-01T07:37:32.731553+00:00`
+- Market context score: `29.39`
+- News risk score: `56.92`
+- Macro risk score: `35.57`
+- Risk-on score: `4.59`
+- Articles: `37`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T07:15:00+00:00`
+- Day/swing latest: `2026-10-01T07:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `6`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `9`, risk hits `7`, risk headline rate `0.6667`, policy hits `1`
+- commodity: articles `5`, risk hits `4`, risk headline rate `0.6`, policy hits `0`
+- crypto: articles `10`, risk hits `7`, risk headline rate `0.6`, policy hits `1`
 - macro: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `1`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil prices rise despite improved Middle East crude exports easing supply worries (Energy)
+- [macro] Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says (BBC News)
+- [crypto] Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43% (Cointelegraph.com News)
 - [macro] Energy bills are rising by £60 a year - here's what you can do about it (BBC News)
 - [macro] Energy bills are rising by £60 a year - here's what you can do about it (BBC News)
 - [macro] Employers should teach primary-age children about work, says Milburn (BBC News)
@@ -36,6 +38,3 @@
 - [macro] Africa's richest man launches Kenya oil refinery despite land protests (BBC News)
 - [macro] Africa's richest man launches Kenya oil refinery despite land protests (BBC News)
 - [macro] US death row inmate survives execution attempt after two lethal injections (BBC News)
-- [macro] Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says (BBC News)
-- [crypto] Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
