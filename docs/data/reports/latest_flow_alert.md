@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-01T03:05:28.291474+00:00`
-- Flow alert score: `20.6`
+- Generated: `2026-10-01T03:10:31.817098+00:00`
+- Flow alert score: `20.52`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8599568.73`
-- Polymarket volume z-score: `0.9`
+- Polymarket 24h volume: `8557176.71`
+- Polymarket volume z-score: `0.88`
 
 ## Top Polymarket Markets
 
-- Will Ethereum reach $4,000 in September? | 24h volume: `1201606.282294` | liquidity: `870118.81891`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `683887.9888340004` | liquidity: `370785.7314`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `542222.1804240001` | liquidity: `455483.776`
+- Will Ethereum reach $4,000 in September? | 24h volume: `1201606.282294` | liquidity: `870118.82459`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `684249.8488340005` | liquidity: `387052.5514`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `541380.9005090002` | liquidity: `455510.7501`
 - Will Bitcoin reach $100,000 in September? | 24h volume: `348675.255` | liquidity: `222462.86576`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `312302.25275` | liquidity: `461603.89668`
-- Will Bitcoin dip to $82,500 in September? | 24h volume: `268070.53435000003` | liquidity: `57453.47204`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `254667.842836` | liquidity: `904856.09763`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `226247.64825300005` | liquidity: `876095.9666`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `312292.22275` | liquidity: `461566.93884`
+- Will Bitcoin dip to $82,500 in September? | 24h volume: `271378.46435` | liquidity: `77254.97886`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `254657.83283600002` | liquidity: `904855.99763`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `226256.219683` | liquidity: `876749.7283`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
