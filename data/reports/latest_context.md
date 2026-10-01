@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T22:07:30.694091+00:00`
-- Market context score: `34.45`
-- News risk score: `52.37`
-- Macro risk score: `29.44`
-- Risk-on score: `9.67`
+- Generated: `2026-10-01T22:22:28.965872+00:00`
+- Market context score: `33.43`
+- News risk score: `53.37`
+- Macro risk score: `31.44`
+- Risk-on score: `9.0`
 - Articles: `52`
 - Polymarket markets: `390`
 
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T22:00:00+00:00`
+- Day/swing latest: `2026-10-01T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
 - crypto: articles `22`, risk hits `13`, risk headline rate `0.5`, policy hits `3`
-- macro: articles `22`, risk hits `9`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `22`, risk hits `10`, risk headline rate `0.3182`, policy hits `0`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [macro] UK in talks with EU partners over fuel reserves after Trump diesel threat (BBC News)
+- [macro] US says Europe should ready fuel supplies as Trump threatens diesel ban (BBC News)
 - [crypto] Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury (Cointelegraph.com News)
 - [crypto] Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims (Cointelegraph.com News)
 - [macro] What's gone wrong at Nike? How the world's sportswear giant lost its mojo (BBC News)
