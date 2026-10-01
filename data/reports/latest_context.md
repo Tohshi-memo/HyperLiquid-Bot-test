@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T15:52:37.343141+00:00`
-- Market context score: `36.11`
-- News risk score: `50.9`
-- Macro risk score: `31.79`
-- Risk-on score: `13.01`
-- Articles: `50`
+- Generated: `2026-10-01T16:07:38.150741+00:00`
+- Market context score: `34.44`
+- News risk score: `53.43`
+- Macro risk score: `31.77`
+- Risk-on score: `11.43`
+- Articles: `52`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T15:45:00+00:00`
+- Day/swing latest: `2026-10-01T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `22`, risk hits `13`, risk headline rate `0.4545`, policy hits `1`
+- crypto: articles `24`, risk hits `15`, risk headline rate `0.5`, policy hits `1`
 - macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs (Cointelegraph.com News)
+- [crypto] NEAR Intents suffers $3.8M exploit after assistance with Bitget breach (Cointelegraph.com News)
+- [macro] Tennessee halts executions after death row inmate Christa Pike survives hers (BBC News)
 - [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude above $100 (Energy)
 - [macro] Netanyahu says flight attacker 'underwent Islamist radical indoctrination' (BBC News)
 - [macro] Is it time to ditch premium bonds? (BBC News)
@@ -36,6 +39,3 @@
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
 - [macro] Explosions heard in Ethiopia's capital after drone flights banned (BBC News)
 - [macro] Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight? (BBC News)
-- [crypto] Crypto for Advisors: The CLARITY Act failed, but the rules came anyway (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russian dissident Garry Kasparov says US warned him of danger to his life (BBC News)
