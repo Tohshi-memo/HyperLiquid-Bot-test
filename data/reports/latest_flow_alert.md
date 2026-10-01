@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-01T11:55:28.927375+00:00`
-- Flow alert score: `19.76`
+- Generated: `2026-10-01T12:00:51.502278+00:00`
+- Flow alert score: `20.16`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8237559.63`
-- Polymarket volume z-score: `0.69`
+- Polymarket 24h volume: `8450445.92`
+- Polymarket volume z-score: `0.79`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `742715.68702` | liquidity: `297314.0735`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `573473.3516830001` | liquidity: `260602.3907`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `379024.164822` | liquidity: `516834.3514`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `366587.86600000004` | liquidity: `315298.36957`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `326648.7325` | liquidity: `536101.47915`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `313394.959005` | liquidity: `973111.05047`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `256340.38435899993` | liquidity: `566304.74887`
-- China Open: Tallon Griekspoor vs Andrey Rublev | 24h volume: `253008.71852000005` | liquidity: `298282.1673`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `663429.5774959998` | liquidity: `299324.9824`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `568779.5254979999` | liquidity: `259177.5653`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `379073.114822` | liquidity: `518648.4696`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `366587.86600000004` | liquidity: `300147.29444`
+- China Open: Tallon Griekspoor vs Andrey Rublev | 24h volume: `318329.34021900006` | liquidity: `200532.5675`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `315618.7925` | liquidity: `532195.67677`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `312500.309005` | liquidity: `973014.84387`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `257182.61435899994` | liquidity: `469619.19424`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
