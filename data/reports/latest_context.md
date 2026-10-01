@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T01:37:34.235090+00:00`
+- Generated: `2026-10-01T01:52:30.089078+00:00`
 - Market context score: `46.08`
 - News risk score: `34.93`
 - Macro risk score: `25.45`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T01:30:00+00:00`
+- Day/swing latest: `2026-10-01T01:45:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] US Supreme Court allows execution of Christa Pike to go ahead (BBC News)
 - [crypto] CFTC seeks to define event contracts as swaps amid prediction market fight (Cointelegraph.com News)
 - [macro] California bans child marriage, a practice still legal in 32 US states (BBC News)
-- [macro] US Supreme Court allows execution of Christa Pike to go ahead (BBC News)
 - [crypto] MetaMask exits Ethereum validators amid undisclosed security incident (Cointelegraph.com News)
 - [macro] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies (BBC News)
 - [macro] The children dying in India's remote tribal heartland (BBC News)
