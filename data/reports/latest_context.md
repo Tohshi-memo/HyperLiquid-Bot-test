@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T13:33:58.081347+00:00`
-- Market context score: `40.79`
-- News risk score: `44.73`
-- Macro risk score: `28.28`
-- Risk-on score: `16.87`
-- Articles: `40`
+- Generated: `2026-10-01T13:37:32.686527+00:00`
+- Market context score: `40.13`
+- News risk score: `45.63`
+- Macro risk score: `28.25`
+- Risk-on score: `16.15`
+- Articles: `42`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,13 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `17`, risk hits `8`, risk headline rate `0.4118`, policy hits `1`
+- crypto: articles `19`, risk hits `9`, risk headline rate `0.4211`, policy hits `1`
 - macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [crypto] LATAM stablecoin liquidity may depend on few providers, investor says (Cointelegraph.com News)
+- [crypto] Stablecoins can drain from banks and nations at lightning speed (Cointelegraph.com News)
 - [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude near $100 (Energy)
 - [macro] Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Kanye West's Russia shows officially cancelled after weeks of uncertainty (BBC News)
 - [crypto] Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Illinois agrees to six-month delay of crypto tax as industry continues court battle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Travelodge failed sex assault victim 'at every stage' (BBC News)
-- [macro] Cornell case highlights 'draining' maze for victims to report campus sex assaults (BBC News)
