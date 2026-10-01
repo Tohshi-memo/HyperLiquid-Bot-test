@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T14:07:30.975907+00:00`
-- Market context score: `38.68`
-- News risk score: `48.1`
-- Macro risk score: `28.09`
-- Risk-on score: `14.95`
-- Articles: `47`
-- Polymarket markets: `391`
+- Generated: `2026-10-01T14:22:36.462863+00:00`
+- Market context score: `36.63`
+- News risk score: `50.56`
+- Macro risk score: `29.65`
+- Risk-on score: `13.08`
+- Articles: `49`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T14:00:00+00:00`
+- Day/swing latest: `2026-10-01T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `20`, risk hits `11`, risk headline rate `0.45`, policy hits `1`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `0`
+- crypto: articles `21`, risk hits `13`, risk headline rate `0.4762`, policy hits `1`
+- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Russian dissident Garry Kasparov says US warned him of danger to his life (BBC News)
 - [policy] Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI (FRB: Speeches)
 - [macro] Flydubai passenger describes hugging his children as plane nosedived during attack (BBC News)
 - [commodity] South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation (Energy)
@@ -37,5 +39,3 @@
 - [crypto] Stablecoins can drain from banks and nations at lightning speed (Cointelegraph.com News)
 - [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude near $100 (Energy)
 - [macro] Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] What happened in failed execution of Christa Pike - and what next? (BBC News)
