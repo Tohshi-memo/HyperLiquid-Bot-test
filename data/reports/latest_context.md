@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T15:07:33.120201+00:00`
+- Generated: `2026-10-01T15:22:36.879444+00:00`
 - Market context score: `36.11`
 - News risk score: `50.9`
 - Macro risk score: `31.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T15:00:00+00:00`
+- Day/swing latest: `2026-10-01T15:15:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,9 @@
 
 ## Headlines
 
-- [macro] Explosions heard in Ethiopia's capital after drone flights banned (BBC News)
+- [commodity] UK Prime Minister Burnham says Iran 'played a part' in British air base incident (Energy)
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
+- [macro] Explosions heard in Ethiopia's capital after drone flights banned (BBC News)
 - [macro] Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight? (BBC News)
 - [crypto] Crypto for Advisors: The CLARITY Act failed, but the rules came anyway (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [policy] Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI (FRB: Speeches)
 - [macro] Flydubai passenger describes hugging his children as plane nosedived during attack (BBC News)
 - [commodity] South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation (Energy)
-- [crypto] Bitget’s $388M hack pushes Q3 crypto security losses past $1B (Cointelegraph.com News)
