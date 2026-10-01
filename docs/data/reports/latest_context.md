@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T22:52:27.210034+00:00`
-- Market context score: `32.87`
-- News risk score: `53.85`
-- Macro risk score: `31.53`
-- Risk-on score: `8.21`
-- Articles: `49`
+- Generated: `2026-10-01T23:07:27.928763+00:00`
+- Market context score: `31.51`
+- News risk score: `55.77`
+- Macro risk score: `32.25`
+- Risk-on score: `7.08`
+- Articles: `50`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T22:45:00+00:00`
+- Day/swing latest: `2026-10-01T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `19`, risk hits `12`, risk headline rate `0.5263`, policy hits `3`
-- macro: articles `22`, risk hits `10`, risk headline rate `0.3182`, policy hits `0`
+- crypto: articles `18`, risk hits `12`, risk headline rate `0.5556`, policy hits `3`
+- macro: articles `24`, risk hits `11`, risk headline rate `0.3333`, policy hits `0`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [commodity] South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation (Energy)
+- [macro] 'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions (BBC News)
+- [macro] The wealthy Cuban Americans ready and waiting for Havana to fall (BBC News)
+- [macro] What happened in the failed execution of Christa Pike - and what next? (BBC News)
 - [macro] Christa Pike in critical condition after surviving two lethal injections, lawyer says (BBC News)
 - [macro] US says Europe should ready fuel supplies as Trump threatens diesel ban (BBC News)
 - [crypto] Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury (Cointelegraph.com News)
 - [crypto] Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims (Cointelegraph.com News)
 - [macro] What's gone wrong at Nike? How the world's sportswear giant lost its mojo (BBC News)
 - [commodity] Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit (Energy)
-- [macro] Renee Good: Family of US woman killed by ICE agent sues Trump officials (BBC News)
-- [crypto] SEC proposes new crypto custody rules for investment advisers and funds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Netanyahu says Flydubai attacker had 'Islamist radical indoctrination' (BBC News)
