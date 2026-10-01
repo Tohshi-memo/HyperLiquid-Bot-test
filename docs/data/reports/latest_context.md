@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T15:37:31.747399+00:00`
+- Generated: `2026-10-01T15:52:37.343141+00:00`
 - Market context score: `36.11`
 - News risk score: `50.9`
 - Macro risk score: `31.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T15:30:00+00:00`
+- Day/swing latest: `2026-10-01T15:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude above $100 (Energy)
+- [macro] Netanyahu says flight attacker 'underwent Islamist radical indoctrination' (BBC News)
 - [macro] Is it time to ditch premium bonds? (BBC News)
 - [commodity] UK Prime Minister Burnham says Iran 'played a part' in British air base incident (Energy)
 - [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
@@ -37,5 +39,3 @@
 - [crypto] Crypto for Advisors: The CLARITY Act failed, but the rules came anyway (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian dissident Garry Kasparov says US warned him of danger to his life (BBC News)
-- [policy] Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI (FRB: Speeches)
-- [macro] Flydubai passenger describes hugging his children as plane nosedived during attack (BBC News)
