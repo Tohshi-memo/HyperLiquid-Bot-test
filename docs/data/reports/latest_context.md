@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T00:22:28.837286+00:00`
-- Market context score: `46.04`
-- News risk score: `34.88`
-- Macro risk score: `26.52`
-- Risk-on score: `19.56`
-- Articles: `42`
+- Generated: `2026-10-01T00:37:41.992729+00:00`
+- Market context score: `44.42`
+- News risk score: `37.36`
+- Macro risk score: `26.5`
+- Risk-on score: `18.06`
+- Articles: `43`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T00:15:00+00:00`
+- Day/swing latest: `2026-10-01T00:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `1`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
 - [macro] US Supreme Court allows execution of Christa Pike to go ahead (BBC News)
+- [crypto] MetaMask exits Lido validators as it investigates security incident (Cointelegraph.com News)
 - [macro] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies (BBC News)
 - [macro] The children dying in India's remote tribal heartland (BBC News)
 - [macro] China has cracked down on AI relationships. Is it ahead of the game? (BBC News)
@@ -37,5 +38,4 @@
 - [macro] Putin shows no sign of stopping the war as Russia doubles down on Ukraine (BBC News)
 - [macro] The AI telling farmers when to harvest (BBC News)
 - [macro] Vape prices to rise as new tax takes effect (BBC News)
-- [macro] Energy bills are going up - here's what you can do about it (BBC News)
 - [macro] Energy bills are going up - here's what you can do about it (BBC News)
