@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T00:37:41.992729+00:00`
+- Generated: `2026-10-01T00:52:29.706096+00:00`
 - Market context score: `44.42`
 - News risk score: `37.36`
 - Macro risk score: `26.5`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T00:30:00+00:00`
+- Day/swing latest: `2026-10-01T00:45:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 ## Headlines
 
 - [macro] US Supreme Court allows execution of Christa Pike to go ahead (BBC News)
-- [crypto] MetaMask exits Lido validators as it investigates security incident (Cointelegraph.com News)
+- [crypto] MetaMask exits Ethereum validators as it investigates security incident (Cointelegraph.com News)
 - [macro] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies (BBC News)
 - [macro] The children dying in India's remote tribal heartland (BBC News)
 - [macro] China has cracked down on AI relationships. Is it ahead of the game? (BBC News)
