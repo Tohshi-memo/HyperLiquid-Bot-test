@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-01T16:22:30.563580+00:00`
-- Market context score: `35.71`
-- News risk score: `51.56`
-- Macro risk score: `31.77`
-- Risk-on score: `12.68`
-- Articles: `52`
+- Generated: `2026-10-01T16:37:33.302925+00:00`
+- Market context score: `36.06`
+- News risk score: `51.47`
+- Macro risk score: `31.09`
+- Risk-on score: `13.12`
+- Articles: `53`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-01T16:15:00+00:00`
+- Day/swing latest: `2026-10-01T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `24`, risk hits `13`, risk headline rate `0.4583`, policy hits `1`
-- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `0`
+- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Fires break out at French schools as students protest nationwide (BBC News)
+- [macro] Algeria introduces death penalty for arsonists after deadly wildfires (BBC News)
 - [crypto] New York, Wyoming regulators sign pact to coordinate crypto oversight (Cointelegraph.com News)
 - [macro] 'We must keep going' says charity hit by fuel prices (BBC News)
 - [crypto] Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [commodity] Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude above $100 (Energy)
 - [macro] Netanyahu says flight attacker 'underwent Islamist radical indoctrination' (BBC News)
 - [macro] Is it time to ditch premium bonds? (BBC News)
-- [commodity] UK Prime Minister Burnham says Iran 'played a part' in British air base incident (Energy)
-- [commodity] Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained (Energy)
