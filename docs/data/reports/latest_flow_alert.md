@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-02T05:50:30.752435+00:00`
-- Flow alert score: `24.28`
+- Generated: `2026-10-02T05:56:11.655097+00:00`
+- Flow alert score: `23.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10991436.92`
-- Polymarket volume z-score: `1.82`
+- Polymarket 24h volume: `10677568.4`
+- Polymarket volume z-score: `1.68`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `803933.796434` | liquidity: `946506.8678`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `573815.9139040001` | liquidity: `657533.83644`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `564423.102209` | liquidity: `374324.2156`
-- Will the U.S. invade Iran before 2027? | 24h volume: `529726.948422` | liquidity: `977181.4044`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `507156.644` | liquidity: `299722.24342`
-- China Open: Viktorija Golubic vs Peyton Stearns | 24h volume: `427228.57192399976` | liquidity: `783023.04549`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `355711.890676` | liquidity: `2078623.2434`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `349248.664337` | liquidity: `828922.2622`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `803596.6512820001` | liquidity: `950027.5606`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `589003.133904` | liquidity: `657332.09144`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `564607.792209` | liquidity: `374286.8756`
+- Will the U.S. invade Iran before 2027? | 24h volume: `529800.2817559999` | liquidity: `977179.9705`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `507156.644` | liquidity: `294211.49342`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `354275.087547` | liquidity: `2078132.5963`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `349248.664337` | liquidity: `828453.2622`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `337305.20273399993` | liquidity: `443584.70643`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
