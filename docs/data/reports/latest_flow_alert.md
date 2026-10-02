@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-02T13:50:29.515359+00:00`
+- Generated: `2026-10-02T13:55:36.746836+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13219556.01`
-- Polymarket volume z-score: `2.46`
+- Polymarket 24h volume: `13705569.62`
+- Polymarket volume z-score: `2.65`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1080883.8793129995` | liquidity: `646651.0322`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `775867.797774` | liquidity: `703886.91734`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `722307.084017` | liquidity: `709560.7372`
-- China Open: Hubert Hurkacz vs Arthur Gea | 24h volume: `712303.1474840001` | liquidity: `141047.2025`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `700002.7945979994` | liquidity: `530423.36825`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `615177.1327769998` | liquidity: `256509.8853`
-- Will the U.S. invade Iran before 2027? | 24h volume: `556905.106549` | liquidity: `927283.5456`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `549383.914261` | liquidity: `310495.34793`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1118604.7550850003` | liquidity: `672229.9025`
+- China Open: Hubert Hurkacz vs Arthur Gea | 24h volume: `917337.0694630009` | liquidity: `189470.11366`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `772210.537774` | liquidity: `708752.40868`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `701950.2158509996` | liquidity: `519396.28581`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `696616.612006` | liquidity: `708982.8445`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `633680.2062019999` | liquidity: `268580.7114`
+- Will the U.S. invade Iran before 2027? | 24h volume: `561853.240068` | liquidity: `918580.8317`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `549883.914261` | liquidity: `310730.54278`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
