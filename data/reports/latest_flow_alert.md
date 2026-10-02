@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-02T17:05:35.903979+00:00`
-- Flow alert score: `23.68`
+- Generated: `2026-10-02T17:10:32.393178+00:00`
+- Flow alert score: `22.96`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11618816.4`
-- Polymarket volume z-score: `1.67`
+- Polymarket 24h volume: `11151718.63`
+- Polymarket volume z-score: `1.49`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1207060.709845` | liquidity: `615033.0011`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `757507.2351139999` | liquidity: `808728.75056`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `749893.1792449994` | liquidity: `632979.75265`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `699564.2243700001` | liquidity: `315323.5774`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `694782.7042099998` | liquidity: `778407.1988`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `591780.514511` | liquidity: `447484.81389`
-- Will the U.S. invade Iran before 2027? | 24h volume: `458511.29604600003` | liquidity: `934049.8562`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `427325.1235050002` | liquidity: `898362.19256`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1204817.4931320006` | liquidity: `618307.8887`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `757507.235114` | liquidity: `818736.80256`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `737532.3670879997` | liquidity: `632826.6341`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `690917.556744` | liquidity: `771789.1693`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `662769.741036` | liquidity: `324450.4676`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `591780.5145110001` | liquidity: `446833.27389`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `427325.12350500014` | liquidity: `902673.97496`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `416620.642417` | liquidity: `798118.02425`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
