@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T05:22:34.190224+00:00`
-- Market context score: `25.55`
-- News risk score: `63.44`
-- Macro risk score: `34.88`
-- Risk-on score: `1.3`
-- Articles: `47`
-- Polymarket markets: `392`
+- Generated: `2026-10-02T05:37:24.458516+00:00`
+- Market context score: `24.17`
+- News risk score: `65.45`
+- Macro risk score: `35.06`
+- Risk-on score: `0`
+- Articles: `45`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T05:15:00+00:00`
+- Day/swing latest: `2026-10-02T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `14`, risk hits `11`, risk headline rate `0.7143`, policy hits `1`
+- crypto: articles `13`, risk hits `11`, risk headline rate `0.7692`, policy hits `1`
 - macro: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `0`
-- policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US pressures Europe over diesel reserves as Trump threatens export ban (BBC News)
+- [macro] US pressures Europe over diesel reserves as Trump threatens export ban (BBC News)
 - [crypto] South Korea advances tokenized securities rules ahead of 2027 rollout (Cointelegraph.com News)
 - [crypto] Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback (Cointelegraph.com News)
 - [macro] Australia says platforms like Steam and Roblox have 'significant' child safety gaps (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Ethereum’s zkAPI brings privacy-preserving API payments to mainnet (Cointelegraph.com News)
 - [macro] Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row (BBC News)
 - [macro] NY's governor appoints special prosecutor in Cornell frat rape investigation (BBC News)
-- [macro] What happened in the failed execution of Christa Pike - and what next? (BBC News)
-- [crypto] NEAR Intents says its identified the hacker, gives 48-hour ultimatum (Cointelegraph.com News)
