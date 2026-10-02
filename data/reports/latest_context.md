@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T15:52:34.134497+00:00`
+- Generated: `2026-10-02T16:07:34.657984+00:00`
 - Market context score: `40.34`
 - News risk score: `47.5`
 - Macro risk score: `40.4`
 - Risk-on score: `22.8`
 - Articles: `50`
-- Polymarket markets: `393`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T15:45:00+00:00`
+- Day/swing latest: `2026-10-02T16:00:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [macro] UK diesel price tops £2 a litre as G7 countries agree to release 100 million barrels of oil (BBC News)
 - [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
+- [macro] UK diesel price tops £2 a litre as G7 countries agree to release 100 million barrels of oil (BBC News)
 - [crypto] Crypto’s billions are back, but the premiums aren’t (Cointelegraph.com News)
 - [crypto] Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower (Cointelegraph.com News)
 - [macro] Intensified Russian strikes are tearing Kyiv apart, warns mayor (BBC News)
