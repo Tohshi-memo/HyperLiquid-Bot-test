@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T11:37:26.566067+00:00`
-- Market context score: `41.96`
-- News risk score: `46.88`
-- Macro risk score: `37.14`
-- Risk-on score: `24.65`
-- Articles: `42`
+- Generated: `2026-10-02T11:52:26.742909+00:00`
+- Market context score: `42.29`
+- News risk score: `46.01`
+- Macro risk score: `37.89`
+- Risk-on score: `24.91`
+- Articles: `40`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T11:30:00+00:00`
+- Day/swing latest: `2026-10-02T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `20`, risk hits `8`, risk headline rate `0.35`, policy hits `1`
-- macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `0`
+- crypto: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `0`
 
 ## Headlines
 
+- [crypto] BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B (Cointelegraph.com News)
 - [crypto] Cboe wants to turn VIX into a never-ending trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump wants South Korea in on Alaska LNG. Here’s why Seoul is cautious (Energy)
-- [crypto] Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live updates: Bitcoin rises, re-taking $86,000 ahead of key U.S. jobs data (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK diesel price hits £2 a litre as US calls for EU to release more stocks (BBC News)
 - [macro] Christa Pike in critical condition after surviving two lethal injections, lawyer says (BBC News)
 - [crypto] Bitcoin treasuries may struggle to match Strategy, says Ammous (Cointelegraph.com News)
 - [crypto] Crypto traders are in risk-on mode as bitcoin dominance nears return to 60% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain (Cointelegraph.com News)
 - [macro] Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates (BBC News)
-- [macro] A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now (BBC News)
