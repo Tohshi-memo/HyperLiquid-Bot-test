@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T01:07:33.304956+00:00`
-- Market context score: `28.41`
-- News risk score: `58.68`
-- Macro risk score: `35.39`
-- Risk-on score: `3.84`
-- Articles: `43`
+- Generated: `2026-10-02T01:22:36.574360+00:00`
+- Market context score: `27.21`
+- News risk score: `60.65`
+- Macro risk score: `35.85`
+- Risk-on score: `3.0`
+- Articles: `46`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T01:00:00+00:00`
+- Day/swing latest: `2026-10-02T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `16`, risk hits `12`, risk headline rate `0.625`, policy hits `1`
-- macro: articles `19`, risk hits `11`, risk headline rate `0.4211`, policy hits `0`
+- crypto: articles `17`, risk hits `13`, risk headline rate `0.6471`, policy hits `1`
+- macro: articles `21`, risk hits `12`, risk headline rate `0.4286`, policy hits `0`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] SEC moves to clear custody hurdle for advisers offering crypto (Cointelegraph.com News)
+- [macro] OpenAI fires three workers over mishandling 'sensitive information' (BBC News)
+- [macro] Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery (BBC News)
 - [macro] What's gone wrong at Nike? How the world's sportswear giant lost its mojo (BBC News)
 - [crypto] China warns foreign spies about crypto, Singapore dominates Asia: Asia Express (Cointelegraph.com News)
 - [commodity] South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation (Energy)
@@ -36,6 +39,3 @@
 - [macro] The wealthy Cuban Americans ready and waiting for Havana to fall (BBC News)
 - [macro] What happened in the failed execution of Christa Pike - and what next? (BBC News)
 - [macro] Christa Pike in critical condition after surviving two lethal injections, lawyer says (BBC News)
-- [macro] US says Europe should ready fuel supplies as Trump threatens diesel ban (BBC News)
-- [crypto] Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury (Cointelegraph.com News)
-- [crypto] Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims (Cointelegraph.com News)
