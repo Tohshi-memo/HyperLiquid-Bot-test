@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T05:07:34.617033+00:00`
-- Market context score: `27.18`
-- News risk score: `60.83`
-- Macro risk score: `34.93`
-- Risk-on score: `2.73`
-- Articles: `45`
+- Generated: `2026-10-02T05:22:34.190224+00:00`
+- Market context score: `25.55`
+- News risk score: `63.44`
+- Macro risk score: `34.88`
+- Risk-on score: `1.3`
+- Articles: `47`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T05:00:00+00:00`
+- Day/swing latest: `2026-10-02T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `12`, risk hits `9`, risk headline rate `0.6667`, policy hits `1`
+- crypto: articles `14`, risk hits `11`, risk headline rate `0.7143`, policy hits `1`
 - macro: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `0`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] South Korea advances tokenized securities rules ahead of 2027 rollout (Cointelegraph.com News)
+- [crypto] Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback (Cointelegraph.com News)
 - [macro] Australia says platforms like Steam and Roblox have 'significant' child safety gaps (BBC News)
 - [crypto] Core Lightning warns attackers are targeting unpatched Bitcoin nodes (Cointelegraph.com News)
 - [commodity] U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call (Energy)
@@ -37,5 +39,3 @@
 - [macro] NY's governor appoints special prosecutor in Cornell frat rape investigation (BBC News)
 - [macro] What happened in the failed execution of Christa Pike - and what next? (BBC News)
 - [crypto] NEAR Intents says its identified the hacker, gives 48-hour ultimatum (Cointelegraph.com News)
-- [macro] OpenAI fires workers for mishandling 'sensitive information' (BBC News)
-- [macro] OpenAI fires workers for mishandling 'sensitive information' (BBC News)
