@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-10-02T06:37:29.098538+00:00`
+- Generated: `2026-10-02T06:52:26.321193+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `259`
 - Outcome sides (rows): `518`
@@ -36,7 +36,7 @@
 - template:binaryPrice [template:Yes] symbol `#75250` underlying `n/a` prob `0.9504` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:Yes] symbol `#75260` underlying `n/a` prob `0.9504` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:Yes] symbol `#75270` underlying `n/a` prob `0.9499` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:Yes] symbol `#56290` underlying `n/a` prob `0.9489` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:Yes] symbol `#56290` underlying `n/a` prob `0.9463` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsContestParticipant2 [No] symbol `#74571` underlying `n/a` prob `0.9446` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:Yes] symbol `#72650` underlying `n/a` prob `0.9399` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:Yes] symbol `#72660` underlying `n/a` prob `0.9399` price_source `allMids` vol24h `0.0` oi `0.0`
