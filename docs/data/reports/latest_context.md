@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T13:22:32.540918+00:00`
-- Market context score: `44.66`
-- News risk score: `44.28`
-- Macro risk score: `33.96`
-- Risk-on score: `27.25`
-- Articles: `46`
+- Generated: `2026-10-02T13:37:34.894703+00:00`
+- Market context score: `43.42`
+- News risk score: `45.57`
+- Macro risk score: `37.07`
+- Risk-on score: `26.76`
+- Articles: `47`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T13:15:00+00:00`
+- Day/swing latest: `2026-10-02T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `2`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `0`
+- crypto: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `2`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
-- [crypto] America at a crossroads: Commissioner Peirce’s parting challenge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil prices fall on report of potential diesel, crude stock release; Brent back below $100 (Energy)
+- [crypto] Furious debate about THORChain vs NEAR shows idealism has limits (Cointelegraph.com News)
 - [macro] US jobs market sees sharp slowdown in September (BBC News)
+- [crypto] America at a crossroads: Commissioner Peirce’s parting challenge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2% (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] School protests send shivers down French government's spine (BBC News)
 - [crypto] U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Circle urges EU to revise stablecoin reserve rules in MiCA review (Cointelegraph.com News)
-- [commodity] Oil prices fall on report of potential diesel, crude stock release; Brent back below $100 (Energy)
 - [macro] Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight? (BBC News)
-- [crypto] BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B (Cointelegraph.com News)
-- [crypto] Cboe wants to turn VIX into a never-ending trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
