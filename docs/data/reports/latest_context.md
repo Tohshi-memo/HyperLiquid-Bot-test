@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T22:52:29.335770+00:00`
-- Market context score: `41.05`
-- News risk score: `44.62`
-- Macro risk score: `37.88`
-- Risk-on score: `21.0`
-- Articles: `40`
-- Polymarket markets: `392`
+- Generated: `2026-10-02T23:07:25.700441+00:00`
+- Market context score: `41.11`
+- News risk score: `46.24`
+- Macro risk score: `38.45`
+- Risk-on score: `22.7`
+- Articles: `42`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,13 +18,14 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T22:45:00+00:00`
+- Day/swing latest: `2026-10-02T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `2`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `1`
 - macro: articles `17`, risk hits `8`, risk headline rate `0.3529`, policy hits `1`
+- policy: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `6`
 
 ## Headlines
 
@@ -32,9 +33,9 @@
 - [macro] Riot police clash with students as education protests rage in France (BBC News)
 - [macro] Hawaii's iconic 550-year-old Hōlei Sea Arch collapses (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [policy] Federal Reserve Board announces approval of application by Fleur Capital Corporation (FRB: Press Release - All Releases)
 - [crypto] European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO (Cointelegraph.com News)
 - [macro] US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say (BBC News)
 - [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
 - [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
 - [commodity] Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis (Energy)
-- [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
