@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T19:37:49.959050+00:00`
+- Generated: `2026-10-02T19:52:31.699583+00:00`
 - Market context score: `41.72`
 - News risk score: `47.02`
 - Macro risk score: `40.32`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T19:30:00+00:00`
+- Day/swing latest: `2026-10-02T19:45:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
 - [commodity] Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis (Energy)
+- [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
 - [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
 - [crypto] $4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report (Cointelegraph.com News)
 - [crypto] Blast to wind down Ethereum L2 after costs outpace revenue (Cointelegraph.com News)
