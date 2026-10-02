@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T20:52:28.248396+00:00`
-- Market context score: `41.14`
-- News risk score: `47.19`
-- Macro risk score: `40.06`
-- Risk-on score: `24.18`
-- Articles: `49`
+- Generated: `2026-10-02T21:07:32.406880+00:00`
+- Market context score: `42.47`
+- News risk score: `46.21`
+- Macro risk score: `38.6`
+- Risk-on score: `25.77`
+- Articles: `48`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T20:45:00+00:00`
+- Day/swing latest: `2026-10-02T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `2`
-- macro: articles `18`, risk hits `8`, risk headline rate `0.3889`, policy hits `1`
+- macro: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `1`
 - policy: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `6`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [policy] Federal Reserve Board announces approval of application by Fleur Capital Corporation (FRB: Press Release - All Releases)
 - [crypto] European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO (Cointelegraph.com News)
 - [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] $4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report (Cointelegraph.com News)
 - [crypto] Blast to wind down Ethereum L2 after costs outpace revenue (Cointelegraph.com News)
 - [macro] Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor (BBC News)
-- [macro] Riot police clash with students as education protests rage in France (BBC News)
