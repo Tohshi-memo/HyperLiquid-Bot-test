@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T20:22:35.195340+00:00`
-- Market context score: `38.76`
-- News risk score: `48.13`
-- Macro risk score: `42.05`
-- Risk-on score: `20.43`
-- Articles: `49`
+- Generated: `2026-10-02T20:37:34.459089+00:00`
+- Market context score: `38.47`
+- News risk score: `48.44`
+- Macro risk score: `42.1`
+- Risk-on score: `20.08`
+- Articles: `48`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T20:15:00+00:00`
+- Day/swing latest: `2026-10-02T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `2`
+- crypto: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `2`
 - macro: articles `19`, risk hits `9`, risk headline rate `0.4211`, policy hits `1`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `4`
 
 ## Headlines
 
+- [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
 - [commodity] Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis (Energy)
 - [policy] Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O (FRB: Press Release - All Releases)
-- [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
 - [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
 - [crypto] $4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report (Cointelegraph.com News)
 - [crypto] Blast to wind down Ethereum L2 after costs outpace revenue (Cointelegraph.com News)
