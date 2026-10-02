@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T09:52:28.212173+00:00`
+- Generated: `2026-10-02T10:07:28.914068+00:00`
 - Market context score: `34.47`
 - News risk score: `56.04`
 - Macro risk score: `41.47`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T09:45:00+00:00`
+- Day/swing latest: `2026-10-02T10:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates (BBC News)
 - [crypto] Bitcoin reaches for $87K as short liquidations top $120M (Cointelegraph.com News)
 - [commodity] U.S. urges Europe to ‘immediately’ release diesel reserves as Iran war fuels record prices (Energy)
 - [commodity] Oil prices fall over 3% on report of potential diesel, crude stock release; Brent back below $100 (Energy)
@@ -37,4 +38,3 @@
 - [macro] 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot (BBC News)
 - [macro] US pressures Europe to release diesel reserves as Trump threatens export ban (BBC News)
 - [macro] Watch: Emotional pilot recounts moment of Flydubai attack (BBC News)
-- [crypto] Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
