@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T08:07:29.252921+00:00`
-- Market context score: `28.79`
-- News risk score: `61.03`
-- Macro risk score: `37.44`
-- Risk-on score: `7.44`
-- Articles: `41`
+- Generated: `2026-10-02T08:23:03.831282+00:00`
+- Market context score: `30.98`
+- News risk score: `57.48`
+- Macro risk score: `38.34`
+- Risk-on score: `9.64`
+- Articles: `40`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T08:00:00+00:00`
+- Day/swing latest: `2026-10-02T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `12`, risk hits `9`, risk headline rate `0.6667`, policy hits `1`
-- macro: articles `24`, risk hits `10`, risk headline rate `0.4167`, policy hits `0`
+- crypto: articles `12`, risk hits `8`, risk headline rate `0.5833`, policy hits `1`
+- macro: articles `23`, risk hits `10`, risk headline rate `0.4348`, policy hits `0`
 
 ## Headlines
 
-- [macro] Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates (BBC News)
-- [commodity] U.S. urges Europe to ‘immediately’ release diesel reserves as Iran war fuels record prices (Energy)
+- [macro] OpenAI fires workers for 'mishandling sensitive information' (BBC News)
+- [macro] OpenAI fires workers for 'mishandling sensitive information' (BBC News)
 - [macro] 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot (BBC News)
 - [macro] US pressures Europe to release diesel reserves as Trump threatens export ban (BBC News)
 - [macro] US pressures Europe to release diesel reserves as Trump threatens export ban (BBC News)
+- [crypto] Bitcoin tops $86,000 ahead of U.S. jobs report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates (BBC News)
+- [commodity] U.S. urges Europe to ‘immediately’ release diesel reserves as Iran war fuels record prices (Energy)
 - [commodity] U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Japan's first mayor to take maternity leave lands on TIME100 Next list (BBC News)
-- [crypto] South Korea crypto exchange profits fall 78% in H1 amid trading slump (Cointelegraph.com News)
-- [crypto] South Korea advances tokenized securities rules ahead of 2027 rollout (Cointelegraph.com News)
