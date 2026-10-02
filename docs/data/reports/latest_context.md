@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T13:52:31.559225+00:00`
-- Market context score: `43.84`
-- News risk score: `45.31`
-- Macro risk score: `36.06`
-- Risk-on score: `27.08`
-- Articles: `48`
+- Generated: `2026-10-02T14:07:37.344548+00:00`
+- Market context score: `45.61`
+- News risk score: `43.7`
+- Macro risk score: `36.1`
+- Risk-on score: `29.67`
+- Articles: `47`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,21 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T13:45:00+00:00`
+- Day/swing latest: `2026-10-02T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `2`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `2`
 - macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `1`
 
 ## Headlines
 
+- [macro] US jobs market sees sharp slowdown in September (BBC News)
 - [macro] Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2% (Economy)
 - [macro] Why UK diesel prices have breached the £2 per litre mark (BBC News)
 - [commodity] Oil prices fall on report of potential diesel, crude stock release; Brent back below $100 (Energy)
 - [crypto] Furious debate about THORChain vs NEAR shows idealism has limits (Cointelegraph.com News)
-- [macro] US jobs market sees sharp slowdown in September (BBC News)
 - [crypto] America at a crossroads: Commissioner Peirce’s parting challenge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] School protests send shivers down French government's spine (BBC News)
