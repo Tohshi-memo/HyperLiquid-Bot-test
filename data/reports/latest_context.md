@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T14:22:30.295006+00:00`
+- Generated: `2026-10-02T14:37:27.104664+00:00`
 - Market context score: `43.84`
 - News risk score: `43.7`
 - Macro risk score: `37.07`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T14:15:00+00:00`
+- Day/swing latest: `2026-10-02T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] US jobs market sees sharp slowdown ahead of midterm elections (BBC News)
 - [commodity] Trump says Europe will release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
 - [crypto] ‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens (Cointelegraph.com News)
 - [macro] I've seen nearly 500 executions - but never one like Christa Pike's (BBC News)
-- [macro] US jobs market sees sharp slowdown in September (BBC News)
 - [macro] Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2% (Economy)
 - [macro] Why UK diesel prices have breached the £2 per litre mark (BBC News)
 - [commodity] Oil prices fall on report of potential diesel, crude stock release; Brent back below $100 (Energy)
