@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T15:06:16.024154+00:00`
-- Market context score: `42.56`
-- News risk score: `44.72`
-- Macro risk score: `38.04`
-- Risk-on score: `24.5`
-- Articles: `49`
+- Generated: `2026-10-02T15:22:46.463068+00:00`
+- Market context score: `43.41`
+- News risk score: `43.75`
+- Macro risk score: `36.58`
+- Risk-on score: `25.0`
+- Articles: `48`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T15:00:00+00:00`
+- Day/swing latest: `2026-10-02T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
-- macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `1`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
 - [macro] What happened in the failed execution of Christa Pike - and what next? (BBC News)
 - [policy] Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc. (FRB: Press Release - All Releases)
-- [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
 - [macro] US jobs market sees sharp slowdown ahead of midterm elections (BBC News)
 - [crypto] ‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens (Cointelegraph.com News)
 - [macro] I've seen nearly 500 executions - but never one like Christa Pike's (BBC News)
