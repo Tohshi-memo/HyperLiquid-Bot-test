@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T16:37:28.378579+00:00`
+- Generated: `2026-10-02T16:52:36.699086+00:00`
 - Market context score: `42.0`
 - News risk score: `45.42`
 - Macro risk score: `39.35`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T16:30:00+00:00`
+- Day/swing latest: `2026-10-02T16:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor (BBC News)
 - [macro] Riot police clash with students as education protests rage in France (BBC News)
 - [crypto] 71% of UK finance leaders expect tokenization to reshape financial services: Lloyds (Cointelegraph.com News)
 - [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
 - [macro] Men are losing ground in the labor market. Here's why (Economy)
 - [macro] Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates (BBC News)
-- [macro] Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor (BBC News)
-- [macro] UK diesel price tops £2 a litre as G7 countries agree to release 100 million barrels of oil (BBC News)
+- [macro] UK diesel prices top £2 a litre for first time, RAC says (BBC News)
 - [crypto] Crypto’s billions are back, but the premiums aren’t (Cointelegraph.com News)
+- [macro] Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87 (BBC News)
 - [crypto] Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower (Cointelegraph.com News)
-- [macro] Intensified Russian strikes are tearing Kyiv apart, warns mayor (BBC News)
