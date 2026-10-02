@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T01:22:36.574360+00:00`
-- Market context score: `27.21`
-- News risk score: `60.65`
-- Macro risk score: `35.85`
-- Risk-on score: `3.0`
-- Articles: `46`
+- Generated: `2026-10-02T01:37:30.698668+00:00`
+- Market context score: `27.59`
+- News risk score: `59.76`
+- Macro risk score: `35.92`
+- Risk-on score: `3.13`
+- Articles: `43`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T01:15:00+00:00`
+- Day/swing latest: `2026-10-02T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `17`, risk hits `13`, risk headline rate `0.6471`, policy hits `1`
+- crypto: articles `14`, risk hits `10`, risk headline rate `0.6429`, policy hits `1`
 - macro: articles `21`, risk hits `12`, risk headline rate `0.4286`, policy hits `0`
 - policy: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [crypto] SEC moves to clear custody hurdle for advisers offering crypto (Cointelegraph.com News)
 - [macro] OpenAI fires three workers over mishandling 'sensitive information' (BBC News)
+- [crypto] SEC moves to clear custody hurdle for advisers offering crypto (Cointelegraph.com News)
 - [macro] Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery (BBC News)
 - [macro] What's gone wrong at Nike? How the world's sportswear giant lost its mojo (BBC News)
 - [crypto] China warns foreign spies about crypto, Singapore dominates Asia: Asia Express (Cointelegraph.com News)
