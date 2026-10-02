@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T18:07:38.042959+00:00`
+- Generated: `2026-10-02T18:22:28.853644+00:00`
 - Market context score: `42.33`
 - News risk score: `46.57`
 - Macro risk score: `41.65`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T18:00:00+00:00`
+- Day/swing latest: `2026-10-02T18:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies (Energy)
 - [macro] Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor (BBC News)
 - [macro] Riot police clash with students as education protests rage in France (BBC News)
 - [macro] Men are losing ground in the labor market. Here's why (Economy)
@@ -38,4 +39,3 @@
 - [commodity] Oil prices mixed as G7 nations to release diesel stocks (Energy)
 - [crypto] Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] 71% of UK finance leaders expect tokenization to reshape financial services: Lloyds (Cointelegraph.com News)
