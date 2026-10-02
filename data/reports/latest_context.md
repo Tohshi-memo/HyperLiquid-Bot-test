@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-02T03:52:38.728548+00:00`
-- Market context score: `29.12`
-- News risk score: `58.6`
-- Macro risk score: `33.61`
-- Risk-on score: `4.68`
+- Generated: `2026-10-02T04:07:26.564059+00:00`
+- Market context score: `30.4`
+- News risk score: `56.88`
+- Macro risk score: `33.04`
+- Risk-on score: `5.83`
 - Articles: `48`
-- Polymarket markets: `392`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-02T03:45:00+00:00`
+- Day/swing latest: `2026-10-02T04:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `13`, risk hits `8`, risk headline rate `0.6154`, policy hits `1`
+- commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `12`, risk hits `7`, risk headline rate `0.5833`, policy hits `1`
 - macro: articles `30`, risk hits `14`, risk headline rate `0.3667`, policy hits `0`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [commodity] U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call (Energy)
 - [crypto] Ethereum’s zkAPI brings privacy-preserving API payments to mainnet (Cointelegraph.com News)
 - [macro] Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row (BBC News)
 - [macro] NY's governor appoints special prosecutor in Cornell frat rape investigation (BBC News)
@@ -38,4 +39,3 @@
 - [macro] OpenAI fires workers for mishandling 'sensitive information' (BBC News)
 - [macro] OpenAI fires workers for mishandling 'sensitive information' (BBC News)
 - [macro] Cornell students voice frustration at public hearing over rape case (BBC News)
-- [crypto] SEC moves to clear custody hurdle for advisers offering crypto (Cointelegraph.com News)
