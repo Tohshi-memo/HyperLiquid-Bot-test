@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T16:37:32.771544+00:00`
-- Market context score: `37.52`
-- News risk score: `43.0`
-- Macro risk score: `42.0`
-- Risk-on score: `13.33`
-- Articles: `21`
-- Polymarket markets: `393`
+- Generated: `2026-10-03T16:52:29.109048+00:00`
+- Market context score: `40.58`
+- News risk score: `40.0`
+- Macro risk score: `36.0`
+- Risk-on score: `15.33`
+- Articles: `19`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T16:30:00+00:00`
+- Day/swing latest: `2026-10-03T16:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
-- macro: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
@@ -35,5 +35,5 @@
 - [crypto] Cathie Wood says smart investors need to start watching where AI agents spend money (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] Why has Brazil accused the US of election interference? (BBC News)
-- [macro] Protesters across Spain demand action over housing crisis (BBC News)
+- [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
 - [crypto] Crypto's Sisyphean struggle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
