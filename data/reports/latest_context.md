@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T10:22:26.712849+00:00`
-- Market context score: `31.57`
-- News risk score: `53.0`
-- Macro risk score: `37.0`
-- Risk-on score: `6.67`
-- Articles: `14`
+- Generated: `2026-10-03T10:37:26.516750+00:00`
+- Market context score: `32.55`
+- News risk score: `52.04`
+- Macro risk score: `35.08`
+- Risk-on score: `7.31`
+- Articles: `15`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T10:15:00+00:00`
+- Day/swing latest: `2026-10-03T10:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `12`, risk hits `5`, risk headline rate `0.4167`, policy hits `0`
+- macro: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `0`
 
 ## Headlines
 
+- [macro] UK-Iranian dual national bailed after RAF Fairford incident arrest (BBC News)
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] Russia strikes second major bridge in Kyiv, mayor says (BBC News)
 - [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Trump is expected to appoint Jay Clayton as new AI czar: Reports (Cointelegraph.com News)
 - [macro] G7 to release millions of barrels of oil and diesel after Trump threat (BBC News)
 - [macro] G7 to release millions of barrels of oil and diesel after Trump threat (BBC News)
-- [macro] EV drivers love their cars, but some passengers feel sick - this could be why (BBC News)
