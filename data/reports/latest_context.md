@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T14:22:30.902900+00:00`
-- Market context score: `34.12`
-- News risk score: `48.0`
-- Macro risk score: `42.0`
-- Risk-on score: `10.0`
-- Articles: `18`
+- Generated: `2026-10-03T14:37:28.475583+00:00`
+- Market context score: `31.06`
+- News risk score: `51.0`
+- Macro risk score: `48.0`
+- Risk-on score: `8.0`
+- Articles: `16`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T14:15:00+00:00`
+- Day/swing latest: `2026-10-03T14:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `10`, risk hits `6`, risk headline rate `0.6`, policy hits `0`
 
 ## Headlines
 
+- [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] Why has Brazil accused the US of election interference? (BBC News)
 - [macro] Protesters across Spain demand action over housing crisis (BBC News)
 - [crypto] Crypto's Sisyphean struggle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,6 +35,5 @@
 - [macro] Russia hits second major bridge in Ukraine's capital Kyiv (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter (Cointelegraph.com News)
-- [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] UK-Iranian dual national bailed after RAF Fairford incident arrest (BBC News)
 - [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
