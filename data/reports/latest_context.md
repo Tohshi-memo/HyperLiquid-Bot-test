@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T11:07:31.178930+00:00`
-- Market context score: `31.57`
-- News risk score: `53.0`
-- Macro risk score: `37.0`
-- Risk-on score: `6.67`
-- Articles: `14`
+- Generated: `2026-10-03T11:22:25.010311+00:00`
+- Market context score: `30.41`
+- News risk score: `54.14`
+- Macro risk score: `39.27`
+- Risk-on score: `5.91`
+- Articles: `13`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T11:00:00+00:00`
+- Day/swing latest: `2026-10-03T11:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `12`, risk hits `5`, risk headline rate `0.4167`, policy hits `0`
+- macro: articles `11`, risk hits `5`, risk headline rate `0.4545`, policy hits `0`
 
 ## Headlines
 
-- [macro] UK-Iranian dual national bailed after RAF Fairford incident arrest (BBC News)
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
+- [macro] UK-Iranian dual national bailed after RAF Fairford incident arrest (BBC News)
 - [macro] Russia strikes second major bridge in Kyiv, mayor says (BBC News)
 - [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
 - [macro] Suppliers pile pressure on government over energy bills (BBC News)
