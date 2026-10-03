@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T13:22:26.768816+00:00`
+- Generated: `2026-10-03T13:37:25.287916+00:00`
 - Market context score: `32.73`
 - News risk score: `49.36`
 - Macro risk score: `44.73`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T13:15:00+00:00`
+- Day/swing latest: `2026-10-03T13:30:00+00:00`
 
 ## News Categories
 
@@ -27,11 +27,11 @@
 
 ## Headlines
 
+- [macro] Protesters across Spain demand action over housing crisis (BBC News)
 - [crypto] Crypto's Sisyphean struggle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BlackRock offers a glimpse of how tokenization may change your investment portfolio (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia hits second major bridge in Ukraine's capital Kyiv (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Protesters across Spain demand action over housing crisis (BBC News)
 - [crypto] NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter (Cointelegraph.com News)
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] UK-Iranian dual national bailed after RAF Fairford incident arrest (BBC News)
