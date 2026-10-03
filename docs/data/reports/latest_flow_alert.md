@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-03T06:20:31.619093+00:00`
+- Generated: `2026-10-03T06:25:34.226720+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14794099.56`
-- Polymarket volume z-score: `2.43`
+- Polymarket 24h volume: `15047377.51`
+- Polymarket volume z-score: `2.51`
 
 ## Top Polymarket Markets
 
-- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `1890368.952482` | liquidity: `1179833.5346`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `979529.330187` | liquidity: `754206.9235`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `968887.3184960004` | liquidity: `713702.9343`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `784941.2800319996` | liquidity: `514814.27097`
-- China Open: Alex de Minaur vs Quentin Halys | 24h volume: `684353.7618020003` | liquidity: `176163.8`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `500966.41444499994` | liquidity: `2337894.3702`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `492949.57994299993` | liquidity: `444874.9447`
-- China Open: Katie Volynets vs Elise Mertens | 24h volume: `466123.01725699985` | liquidity: `209658.07928`
+- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `1889604.5124819998` | liquidity: `266305.0677`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `978828.1757689997` | liquidity: `754814.6324`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `968893.3422010001` | liquidity: `710458.3113`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `784887.3463429997` | liquidity: `514980.50621`
+- China Open: Alex de Minaur vs Quentin Halys | 24h volume: `733756.1218020001` | liquidity: `170406.4583`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `500966.41444499994` | liquidity: `2337795.3059`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `493012.2466099998` | liquidity: `441682.039`
+- China Open: Katie Volynets vs Elise Mertens | 24h volume: `468123.45725699986` | liquidity: `191595.23136`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
