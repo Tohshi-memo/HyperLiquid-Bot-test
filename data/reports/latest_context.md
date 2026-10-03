@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T09:52:25.775935+00:00`
-- Market context score: `30.41`
-- News risk score: `54.14`
-- Macro risk score: `39.27`
-- Risk-on score: `5.91`
-- Articles: `13`
+- Generated: `2026-10-03T10:07:28.813248+00:00`
+- Market context score: `31.57`
+- News risk score: `53.0`
+- Macro risk score: `37.0`
+- Risk-on score: `6.67`
+- Articles: `14`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T09:45:00+00:00`
+- Day/swing latest: `2026-10-03T10:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `11`, risk hits `5`, risk headline rate `0.4545`, policy hits `0`
+- macro: articles `12`, risk hits `5`, risk headline rate `0.4167`, policy hits `0`
 
 ## Headlines
 
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
-- [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
-- [macro] Kim wins Asian Games gold to secure military exemption (BBC News)
 - [macro] Russia strikes second major bridge in Kyiv, mayor says (BBC News)
+- [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
+- [macro] Suppliers pile pressure on government over energy bills (BBC News)
+- [macro] Kim wins Asian Games gold to secure military exemption (BBC News)
 - [macro] Joker persona helps Cong 'feel the fear' in opponents (BBC News)
 - [crypto] Trump is expected to appoint Jay Clayton as new AI czar: Reports (Cointelegraph.com News)
 - [macro] G7 to release millions of barrels of oil and diesel after Trump threat (BBC News)
 - [macro] G7 to release millions of barrels of oil and diesel after Trump threat (BBC News)
-- [macro] Why electric cars might be making some passengers feel sick (BBC News)
-- [macro] Cornell frat house rape accuser 'under siege' online, says lawyer (BBC News)
+- [macro] EV drivers love their cars, but some passengers feel sick - this could be why (BBC News)
