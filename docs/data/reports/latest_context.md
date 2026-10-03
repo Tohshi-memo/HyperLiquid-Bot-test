@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T09:37:28.050288+00:00`
+- Generated: `2026-10-03T09:52:25.775935+00:00`
 - Market context score: `30.41`
 - News risk score: `54.14`
 - Macro risk score: `39.27`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T09:30:00+00:00`
+- Day/swing latest: `2026-10-03T09:45:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
+- [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
 - [macro] Kim wins Asian Games gold to secure military exemption (BBC News)
 - [macro] Russia strikes second major bridge in Kyiv, mayor says (BBC News)
 - [macro] Joker persona helps Cong 'feel the fear' in opponents (BBC News)
