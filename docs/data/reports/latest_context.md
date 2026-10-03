@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T06:07:27.084750+00:00`
-- Market context score: `42.73`
-- News risk score: `45.5`
-- Macro risk score: `30.5`
-- Risk-on score: `22.67`
-- Articles: `20`
+- Generated: `2026-10-03T06:22:27.323144+00:00`
+- Market context score: `41.37`
+- News risk score: `46.8`
+- Macro risk score: `33.13`
+- Risk-on score: `21.75`
+- Articles: `21`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T06:00:00+00:00`
+- Day/swing latest: `2026-10-03T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `4`
 
 ## Headlines
 
+- [macro] Russia strikes second major bridge in Kyiv, mayor says (BBC News)
 - [macro] G7 to release millions of barrels of oil and diesel after Trump threat (BBC News)
 - [macro] G7 to release millions of barrels of oil and diesel after Trump threat (BBC News)
 - [macro] Cornell frat house rape accuser 'under siege' online, says lawyer (BBC News)
@@ -38,4 +39,3 @@
 - [macro] US road rage killer's sentence quashed because AI video of victim was shown in court (BBC News)
 - [macro] The vanishing world of India's street magicians (BBC News)
 - [crypto] Bank group sues U.S. regulator over granting crypto trust charters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Riot police clash with students as education protests rage in France (BBC News)
