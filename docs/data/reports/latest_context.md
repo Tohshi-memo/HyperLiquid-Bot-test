@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T23:52:26.126602+00:00`
-- Market context score: `43.77`
-- News risk score: `35.68`
-- Macro risk score: `34.5`
-- Risk-on score: `18.21`
-- Articles: `15`
+- Generated: `2026-10-03T23:55:17.957282+00:00`
+- Market context score: `45.05`
+- News risk score: `34.43`
+- Macro risk score: `32.0`
+- Risk-on score: `19.05`
+- Articles: `16`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
-- macro: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
+- macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
 - [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
+- [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
 - [macro] Why Canada is preparing for a (long shot) US invasion (BBC News)
 - [macro] Medical plane with 6 on board missing off Massachusetts coast (BBC News)
 - [macro] Tennessee prison chief to resign after Christa Pike's failed execution (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Crypto job postings triple to over 1,200 in September, but applications fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Cathie Wood says smart investors need to start watching where AI agents spend money (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
-- [macro] Why has Brazil accused the US of election interference? (BBC News)
