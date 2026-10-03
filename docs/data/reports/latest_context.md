@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T17:54:36.112823+00:00`
+- Generated: `2026-10-03T18:07:36.657326+00:00`
 - Market context score: `40.58`
 - News risk score: `40.0`
 - Macro risk score: `36.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T17:45:00+00:00`
+- Day/swing latest: `2026-10-03T18:00:00+00:00`
 
 ## News Categories
 
@@ -27,11 +27,11 @@
 
 ## Headlines
 
+- [macro] Medical plane with 6 on board missing off Massachusetts coast (BBC News)
 - [macro] Tennessee prison chief to resign after Christa Pike's failed execution (BBC News)
 - [macro] Russia hits second major bridge in Ukraine's capital Kyiv (BBC News)
 - [crypto] Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto job postings triple to over 1,200 in September, but applications fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Medical plane with 6 on board missing off Massachusetts coast (BBC News)
 - [crypto] Cathie Wood says smart investors need to start watching where AI agents spend money (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] Why has Brazil accused the US of election interference? (BBC News)
