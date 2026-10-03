@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T13:52:32.022868+00:00`
-- Market context score: `32.73`
-- News risk score: `49.36`
-- Macro risk score: `44.73`
-- Risk-on score: `9.09`
-- Articles: `17`
+- Generated: `2026-10-03T14:07:32.964772+00:00`
+- Market context score: `34.12`
+- News risk score: `48.0`
+- Macro risk score: `42.0`
+- Risk-on score: `10.0`
+- Articles: `18`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T13:45:00+00:00`
+- Day/swing latest: `2026-10-03T14:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `11`, risk hits `6`, risk headline rate `0.5455`, policy hits `0`
+- macro: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `0`
 
 ## Headlines
 
+- [macro] Why has Brazil accused the US of election interference? (BBC News)
 - [macro] Protesters across Spain demand action over housing crisis (BBC News)
 - [crypto] Crypto's Sisyphean struggle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BlackRock offers a glimpse of how tokenization may change your investment portfolio (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +37,3 @@
 - [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] UK-Iranian dual national bailed after RAF Fairford incident arrest (BBC News)
 - [crypto] Community banks sue OCC over trust bank charters of crypto firms (Cointelegraph.com News)
-- [macro] Suppliers pile pressure on government over energy bills (BBC News)
