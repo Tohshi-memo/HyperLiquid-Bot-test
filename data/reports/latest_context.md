@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T16:07:26.647508+00:00`
+- Generated: `2026-10-03T16:22:25.368741+00:00`
 - Market context score: `36.13`
 - News risk score: `44.36`
 - Macro risk score: `44.73`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T16:00:00+00:00`
+- Day/swing latest: `2026-10-03T16:15:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Russia hits second major bridge in Ukraine's capital Kyiv (BBC News)
 - [crypto] Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto job postings triple to over 1,200 in September, but applications fall (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Medical plane with 6 on board missing off Massachusetts coast (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Protesters across Spain demand action over housing crisis (BBC News)
 - [crypto] Crypto's Sisyphean struggle (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BlackRock offers a glimpse of how tokenization may change your investment portfolio (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russia hits second major bridge in Ukraine's capital Kyiv (BBC News)
