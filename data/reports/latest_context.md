@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T00:07:31.384476+00:00`
-- Market context score: `38.19`
-- News risk score: `49.76`
-- Macro risk score: `41.09`
-- Risk-on score: `20.18`
-- Articles: `37`
+- Generated: `2026-10-03T00:22:32.098518+00:00`
+- Market context score: `40.68`
+- News risk score: `47.55`
+- Macro risk score: `35.75`
+- Risk-on score: `21.83`
+- Articles: `42`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T00:00:00+00:00`
+- Day/swing latest: `2026-10-03T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `16`, risk hits `8`, risk headline rate `0.375`, policy hits `1`
+- macro: articles `21`, risk hits `8`, risk headline rate `0.2857`, policy hits `1`
 - policy: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `6`
 
 ## Headlines
 
+- [macro] The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News)
+- [macro] Cornell frat house rape accuser 'under siege' online, says lawyer (BBC News)
+- [macro] Could El Niño mean there are no Atlantic hurricanes this year? (BBC News)
+- [macro] Women given shorts at Oktoberfest to prevent upskirting (BBC News)
+- [macro] US road rage killer's sentence quashed because AI video of victim was shown in court (BBC News)
+- [macro] The vanishing world of India's street magicians (BBC News)
 - [crypto] Bank group sues U.S. regulator over granting crypto trust charters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Riot police clash with students as education protests rage in France (BBC News)
 - [macro] Hawaii's iconic 550-year-old Hōlei Sea Arch collapses (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [policy] Federal Reserve Board announces approval of application by Fleur Capital Corporation (FRB: Press Release - All Releases)
-- [crypto] European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO (Cointelegraph.com News)
-- [macro] US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say (BBC News)
-- [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
-- [macro] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC News)
-- [commodity] Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis (Energy)
