@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-03T07:37:29.253384+00:00`
-- Market context score: `48.76`
-- News risk score: `38.83`
-- Macro risk score: `30.63`
-- Risk-on score: `30.5`
-- Articles: `19`
+- Generated: `2026-10-03T07:52:29.483447+00:00`
+- Market context score: `47.41`
+- News risk score: `40.12`
+- Macro risk score: `33.25`
+- Risk-on score: `29.58`
+- Articles: `20`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-03T07:30:00+00:00`
+- Day/swing latest: `2026-10-03T07:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `4`
 
 ## Headlines
 
+- [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
 - [macro] Russia strikes second major bridge in Kyiv, mayor says (BBC News)
 - [crypto] Trump is expected to appoint Jay Clayton as new AI czar: Reports (Cointelegraph.com News)
 - [macro] G7 to release millions of barrels of oil and diesel after Trump threat (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Could El Niño mean there are no Atlantic hurricanes this year? (BBC News)
 - [macro] Women given shorts at Oktoberfest to prevent upskirting (BBC News)
 - [macro] US road rage killer's sentence quashed because AI video of victim was shown in court (BBC News)
-- [macro] The vanishing world of India's street magicians (BBC News)
