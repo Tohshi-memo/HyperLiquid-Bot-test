@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-04T15:50:28.018958+00:00`
-- Flow alert score: `17.24`
+- Generated: `2026-10-04T15:57:44.544615+00:00`
+- Flow alert score: `17.48`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8898266.21`
-- Polymarket volume z-score: `0.06`
+- Polymarket 24h volume: `9069284.08`
+- Polymarket volume z-score: `0.12`
 
 ## Top Polymarket Markets
 
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `807018.8341670001` | liquidity: `671163.66461`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `614747.8499189998` | liquidity: `532802.90388`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `554148.1911699994` | liquidity: `367576.9079`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `476327.73245800013` | liquidity: `327958.62177`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `446237.184` | liquidity: `432587.71171`
-- Will the price of Bitcoin be above $74,000 on October 4? | 24h volume: `406547.152` | liquidity: `68069.68676`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `377704.847664` | liquidity: `2533606.0481`
-- China Open: Karolina Muchova vs Liudmila Samsonova | 24h volume: `347404.9584070001` | liquidity: `285535.3556`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `809034.0541670002` | liquidity: `683994.30532`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `612771.7548319998` | liquidity: `505649.71471`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `552297.1338449995` | liquidity: `368227.6335`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `476080.66245800024` | liquidity: `327425.54557`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `446262.174` | liquidity: `433298.222`
+- Will the price of Bitcoin be above $74,000 on October 4? | 24h volume: `419547.152` | liquidity: `68068.90281`
+- China Open: Karolina Muchova vs Liudmila Samsonova | 24h volume: `390096.17309100006` | liquidity: `283966.7329`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `377706.47766399995` | liquidity: `2527596.251`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
