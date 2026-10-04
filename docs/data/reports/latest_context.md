@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T06:22:31.650043+00:00`
-- Market context score: `58.42`
-- News risk score: `28.0`
-- Macro risk score: `32.0`
-- Risk-on score: `43.33`
+- Generated: `2026-10-04T06:37:26.039554+00:00`
+- Market context score: `63.52`
+- News risk score: `23.0`
+- Macro risk score: `22.0`
+- Risk-on score: `46.67`
 - Articles: `6`
 - Polymarket markets: `390`
 
@@ -18,15 +18,15 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T06:15:00+00:00`
+- Day/swing latest: `2026-10-04T06:30:00+00:00`
 
 ## News Categories
 
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
-- [macro] Flydubai co-pilot attacked captain with axe, UAE official says (BBC News)
+- [macro] Australia investigating Flydubai co-pilot's links to country (BBC News)
 - [macro] Debris found from plane that went missing off US coast (BBC News)
 - [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
 - [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
