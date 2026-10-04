@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T23:37:30.875546+00:00`
+- Generated: `2026-10-04T23:52:26.995595+00:00`
 - Market context score: `41.41`
 - News risk score: `42.29`
 - Macro risk score: `22.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T23:30:00+00:00`
+- Day/swing latest: `2026-10-04T23:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck (BBC News)
 - [macro] Rescuers suspend search for survivors after plane went missing off US coast (BBC News)
 - [macro] The job interview question you don't have to answer (BBC News)
-- [macro] Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck (BBC News)
 - [crypto] Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest (Cointelegraph.com News)
 - [commodity] All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East (Energy)
 - [macro] What to know about Brazil's election as Lula and Flávio Bolsonaro face off (BBC News)
