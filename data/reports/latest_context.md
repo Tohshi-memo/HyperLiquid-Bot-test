@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T23:07:28.293177+00:00`
+- Generated: `2026-10-04T23:22:35.793739+00:00`
 - Market context score: `40.39`
 - News risk score: `43.29`
 - Macro risk score: `24.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T23:00:00+00:00`
+- Day/swing latest: `2026-10-04T23:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck (BBC News)
 - [crypto] Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest (Cointelegraph.com News)
 - [commodity] All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East (Energy)
-- [macro] Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck (BBC News)
 - [macro] What to know about Brazil's election as Lula and Flávio Bolsonaro face off (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] There's an election next month: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
