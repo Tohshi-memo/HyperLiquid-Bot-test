@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T20:22:27.166500+00:00`
+- Generated: `2026-10-04T20:37:30.505662+00:00`
 - Market context score: `43.46`
 - News risk score: `38.46`
 - Macro risk score: `26.9`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T20:15:00+00:00`
+- Day/swing latest: `2026-10-04T20:30:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [macro] What to know about Brazil's election as Lula and Flávio Bolsonaro face off (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] There's an election next month: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Indian police accused of sexual harassment against journalists at protest (BBC News)
+- [macro] Indian police accused of sexually harassing journalists at protest (BBC News)
 - [macro] Yemen's government announces all-out war to reclaim land from Houthis (BBC News)
 - [macro] Christa Pike's prognosis still unclear after failed execution, lawyer says (BBC News)
 - [macro] US Marine arrested over murder of woman in Okinawa, Japan (BBC News)
