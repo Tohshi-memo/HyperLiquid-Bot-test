@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T12:22:31.161741+00:00`
+- Generated: `2026-10-04T12:37:25.001506+00:00`
 - Market context score: `58.77`
 - News risk score: `28.24`
 - Macro risk score: `31.92`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T12:15:00+00:00`
+- Day/swing latest: `2026-10-04T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
 - [commodity] More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz (Energy)
+- [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
 - [macro] What to know about Brazil's election pitting Lula against Flávio Bolsonaro (BBC News)
 - [crypto] El Salvador receives $138 million from IMF after Bitcoin waivers granted (Cointelegraph.com News)
 - [crypto] Russia’s Finance Ministry pays wages in digital rubles for first time (Cointelegraph.com News)
