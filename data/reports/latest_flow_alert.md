@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-04T23:05:36.289242+00:00`
+- Generated: `2026-10-04T23:10:30.411651+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -9,7 +9,7 @@
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
 - Polymarket 24h volume: `19433208.35`
-- Polymarket volume z-score: `4.35`
+- Polymarket volume z-score: `4.33`
 
 ## Top Polymarket Markets
 
