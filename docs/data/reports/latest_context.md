@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T20:07:25.139666+00:00`
+- Generated: `2026-10-04T20:22:27.166500+00:00`
 - Market context score: `43.46`
 - News risk score: `38.46`
 - Macro risk score: `26.9`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T20:00:00+00:00`
+- Day/swing latest: `2026-10-04T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] What to know about Brazil's election as Lula and Flávio Bolsonaro face off (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] There's an election next month: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Indian police accused of sexual harassment against journalists at protest (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Watch: What we know about Russian strikes on Kyiv bridges (BBC News)
 - [crypto] Crypto poured years into new products. The next challenge is keeping users (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trump taps intel chief Jay Clayton to lead new Super Intelligence Force (Cointelegraph.com News)
-- [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
