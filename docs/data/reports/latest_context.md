@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T12:07:29.369066+00:00`
-- Market context score: `59.88`
-- News risk score: `26.57`
-- Macro risk score: `29.14`
+- Generated: `2026-10-04T12:22:31.161741+00:00`
+- Market context score: `58.77`
+- News risk score: `28.24`
+- Macro risk score: `31.92`
 - Risk-on score: `44.29`
 - Articles: `9`
 - Polymarket markets: `390`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T12:00:00+00:00`
+- Day/swing latest: `2026-10-04T12:15:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
 - [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
+- [commodity] More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz (Energy)
 - [macro] What to know about Brazil's election pitting Lula against Flávio Bolsonaro (BBC News)
 - [crypto] El Salvador receives $138 million from IMF after Bitcoin waivers granted (Cointelegraph.com News)
 - [crypto] Russia’s Finance Ministry pays wages in digital rubles for first time (Cointelegraph.com News)
@@ -35,4 +37,3 @@
 - [macro] Rare tornado whips through small Australian town (BBC News)
 - [macro] Debris found from plane that went missing off US coast (BBC News)
 - [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
-- [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
