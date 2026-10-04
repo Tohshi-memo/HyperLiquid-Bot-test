@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T16:07:32.070626+00:00`
+- Generated: `2026-10-04T16:22:26.786970+00:00`
 - Market context score: `45.36`
 - News risk score: `37.33`
 - Macro risk score: `20.33`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T16:00:00+00:00`
+- Day/swing latest: `2026-10-04T16:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Indian police accused of sexual harassment against journalists at protest (BBC News)
 - [macro] US Marine arrested over murder of woman in Okinawa, Japan (BBC News)
 - [macro] Watch: What we know about Russian strikes on Kyiv bridges (BBC News)
 - [macro] Yemen announces military campaign to reclaim land from Iran-backed Houthis (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Japan adds Garantex to list of Russia sanctions over Ukraine war (Cointelegraph.com News)
 - [commodity] More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz (Energy)
-- [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
