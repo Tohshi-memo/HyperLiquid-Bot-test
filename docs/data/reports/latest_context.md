@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T05:45:24.809679+00:00`
-- Market context score: `59.88`
-- News risk score: `26.57`
-- Macro risk score: `29.14`
-- Risk-on score: `44.29`
-- Articles: `7`
+- Generated: `2026-10-04T05:53:25.284442+00:00`
+- Market context score: `58.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `43.33`
+- Articles: `6`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -22,7 +22,7 @@
 
 ## News Categories
 
-- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
@@ -32,4 +32,3 @@
 - [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
 - [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
 - [macro] Why Canada is preparing for a (long shot) US invasion (BBC News)
-- [macro] Tennessee prison chief to resign after Christa Pike's failed execution (BBC News)
