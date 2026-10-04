@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-04T21:55:24.666710+00:00`
+- Generated: `2026-10-04T22:00:32.081896+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14690524.22`
-- Polymarket volume z-score: `2.46`
+- Polymarket 24h volume: `15932065.97`
+- Polymarket volume z-score: `2.99`
 
 ## Top Polymarket Markets
 
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1470937.4705619998` | liquidity: `413239.55127`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1390745.5605750005` | liquidity: `582012.5699`
-- Will Lula win the most votes in the first round of the 2026 Brazil presidential election? | 24h volume: `1139594.0510120005` | liquidity: `199751.2943`
-- Will Flavio Bolsonaro win the most votes in the first round of the 2026 Brazil presidential election? | 24h volume: `972100.9113119994` | liquidity: `186369.34854`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `915788.2621670002` | liquidity: `848406.15825`
-- Will Republic of Ireland win on 2026-10-04? | 24h volume: `628695.1324210007` | liquidity: `819044.9852`
-- Will Flávio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? | 24h volume: `601987.4545369998` | liquidity: `110291.32117`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `585316.351` | liquidity: `270581.29549`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1735219.1850609996` | liquidity: `353120.39345`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1613057.1472300005` | liquidity: `566165.9984`
+- Will Lula win the most votes in the first round of the 2026 Brazil presidential election? | 24h volume: `1417900.482116001` | liquidity: `261854.26727`
+- Will Flavio Bolsonaro win the most votes in the first round of the 2026 Brazil presidential election? | 24h volume: `1118702.1623769992` | liquidity: `224209.9971`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `964079.1721670002` | liquidity: `918381.10218`
+- Will Flávio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? | 24h volume: `703832.7472509998` | liquidity: `93964.16017`
+- Will Republic of Ireland win on 2026-10-04? | 24h volume: `625636.8728550001` | liquidity: `819044.9852`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `615305.492` | liquidity: `275721.52639`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
