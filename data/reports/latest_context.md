@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T12:52:27.872805+00:00`
-- Market context score: `48.68`
-- News risk score: `43.07`
-- Macro risk score: `31.64`
-- Risk-on score: `34.29`
-- Articles: `10`
+- Generated: `2026-10-04T13:07:24.904907+00:00`
+- Market context score: `34.67`
+- News risk score: `50.44`
+- Macro risk score: `31.42`
+- Risk-on score: `9.29`
+- Articles: `11`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T12:45:00+00:00`
+- Day/swing latest: `2026-10-04T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
-- crypto: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Japan adds Garantex to list of Russia sanctions over Ukraine war (Cointelegraph.com News)
 - [commodity] More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz (Energy)
 - [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Australia investigating Flydubai co-pilot's links to country (BBC News)
 - [macro] Rare tornado whips through small Australian town (BBC News)
 - [macro] Debris found from plane that went missing off US coast (BBC News)
-- [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
