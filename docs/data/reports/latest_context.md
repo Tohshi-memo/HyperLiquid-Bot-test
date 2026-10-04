@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T00:07:27.117716+00:00`
+- Generated: `2026-10-04T00:22:25.003070+00:00`
 - Market context score: `58.42`
 - News risk score: `28.0`
 - Macro risk score: `32.0`
 - Risk-on score: `43.33`
-- Articles: `15`
+- Articles: `14`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T00:00:00+00:00`
+- Day/swing latest: `2026-10-04T00:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
-- [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
 - [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
+- [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
 - [macro] Why Canada is preparing for a (long shot) US invasion (BBC News)
 - [macro] Medical plane with 6 on board missing off Massachusetts coast (BBC News)
 - [macro] Tennessee prison chief to resign after Christa Pike's failed execution (BBC News)
