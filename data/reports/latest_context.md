@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T10:52:24.884177+00:00`
+- Generated: `2026-10-04T11:07:25.834448+00:00`
 - Market context score: `61.82`
 - News risk score: `24.67`
 - Macro risk score: `25.33`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T10:45:00+00:00`
+- Day/swing latest: `2026-10-04T11:00:00+00:00`
 
 ## News Categories
 
@@ -27,11 +27,11 @@
 
 ## Headlines
 
+- [macro] What to know about Brazil's election pitting Lula against Flávio Bolsonaro (BBC News)
 - [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
 - [crypto] El Salvador receives $138 million from IMF after Bitcoin waivers granted (Cointelegraph.com News)
 - [crypto] Russia’s Finance Ministry pays wages in digital rubles for first time (Cointelegraph.com News)
 - [macro] Australia investigating Flydubai co-pilot's links to country (BBC News)
-- [macro] What to know about Brazil's election pitting Lula against Flávio Bolsonaro (BBC News)
 - [macro] Rare tornado whips through small Australian town (BBC News)
 - [macro] Debris found from plane that went missing off US coast (BBC News)
 - [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
