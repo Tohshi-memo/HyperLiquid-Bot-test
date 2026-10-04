@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T16:52:27.722128+00:00`
+- Generated: `2026-10-04T17:07:30.279136+00:00`
 - Market context score: `42.68`
 - News risk score: `39.94`
 - Macro risk score: `25.56`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T16:45:00+00:00`
+- Day/swing latest: `2026-10-04T17:00:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Indian police accused of sexual harassment against journalists at protest (BBC News)
 - [macro] Yemen's government announces all-out war to reclaim land from Houthis (BBC News)
 - [macro] Christa Pike's prognosis still unclear after failed execution, lawyer says (BBC News)
-- [macro] Indian police accused of sexual harassment against journalists at protest (BBC News)
 - [macro] US Marine arrested over murder of woman in Okinawa, Japan (BBC News)
 - [macro] Watch: What we know about Russian strikes on Kyiv bridges (BBC News)
 - [crypto] Crypto poured years into new products. The next challenge is keeping users (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
