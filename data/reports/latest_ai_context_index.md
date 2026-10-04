@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-10-04T18:52:30.601899+00:00`
+- Updated: `2026-10-04T19:07:42.156738+00:00`
 - Asset price active records: `672`
 - Day/swing records: `12000`
 - Macro indicators: `11`
@@ -15,14 +15,14 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 - `data/reports/latest_ai_context_index.md` (2374 bytes): Human-readable map.
 - `data/processed/ai_context_index.json` (61712 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2362 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (875 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/reports/latest_canary_signals.md` (2360 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (874 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2099 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (50445 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5645 bytes): Asset-class overview.
+- `data/processed/ai_analysis_pack.json` (50449 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5642 bytes): Asset-class overview.
 - `data/reports/latest_asset_features.md` (2219 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10646 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3559 bytes): Mechanical relationship candidates.
+- `data/reports/latest_hip4_outcome.md` (10669 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3560 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
