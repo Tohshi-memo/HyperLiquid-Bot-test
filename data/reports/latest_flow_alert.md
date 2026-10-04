@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-04T16:45:26.875753+00:00`
+- Generated: `2026-10-04T16:50:27.965713+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `811954.7641670003` | liquidity: `679947.10497`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `625836.1552179998` | liquidity: `500515.00618`
-- China Open: Karolina Muchova vs Liudmila Samsonova | 24h volume: `620318.1238180002` | liquidity: `186744.24892`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `604153.5479779994` | liquidity: `386582.6556`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `471550.3779820002` | liquidity: `336123.39209`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `445857.674` | liquidity: `432015.06496`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `444074.2910079999` | liquidity: `2005737.0832`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `381978.972863` | liquidity: `2340955.7075`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `811954.7641670003` | liquidity: `664305.26929`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `625836.1552179998` | liquidity: `492287.57725`
+- China Open: Karolina Muchova vs Liudmila Samsonova | 24h volume: `620318.1238180002` | liquidity: `173008.71675`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `604153.5479779994` | liquidity: `380422.4537`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `471550.3779820002` | liquidity: `333843.31749`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `445857.674` | liquidity: `431927.37547`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `444074.2910079999` | liquidity: `2004199.9351`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `381978.972863` | liquidity: `2272791.2497`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
