@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T03:37:24.240442+00:00`
+- Generated: `2026-10-04T03:52:33.713150+00:00`
 - Market context score: `59.88`
 - News risk score: `26.57`
 - Macro risk score: `29.14`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T03:30:00+00:00`
+- Day/swing latest: `2026-10-04T03:45:00+00:00`
 
 ## News Categories
 
@@ -27,11 +27,11 @@
 
 ## Headlines
 
+- [macro] Debris found from plane that went missing off US coast (BBC News)
 - [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
 - [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
 - [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
 - [macro] Why Canada is preparing for a (long shot) US invasion (BBC News)
-- [macro] Medical plane with 6 on board missing off Massachusetts coast (BBC News)
 - [macro] Tennessee prison chief to resign after Christa Pike's failed execution (BBC News)
 - [macro] Russia hits second major bridge in Ukraine's capital Kyiv (BBC News)
 - [crypto] Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
