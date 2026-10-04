@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T08:52:28.187239+00:00`
-- Market context score: `65.22`
-- News risk score: `21.33`
-- Macro risk score: `18.67`
-- Risk-on score: `47.78`
-- Articles: `10`
+- Generated: `2026-10-04T09:07:29.587351+00:00`
+- Market context score: `62.5`
+- News risk score: `24.0`
+- Macro risk score: `24.0`
+- Risk-on score: `46.0`
+- Articles: `11`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T08:45:00+00:00`
+- Day/swing latest: `2026-10-04T09:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
 - [crypto] Russia’s Finance Ministry pays wages in digital rubles for first time (Cointelegraph.com News)
 - [macro] Australia investigating Flydubai co-pilot's links to country (BBC News)
 - [macro] What to know about Brazil's election pitting Lula against Flávio Bolsonaro (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
 - [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
 - [macro] Why Canada is preparing for a (long shot) US invasion (BBC News)
-- [macro] US father and son arrested after 'gas station heroin' deaths (BBC News)
