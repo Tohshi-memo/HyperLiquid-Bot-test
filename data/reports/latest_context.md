@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T04:07:28.247699+00:00`
-- Market context score: `59.88`
-- News risk score: `26.57`
-- Macro risk score: `29.14`
-- Risk-on score: `44.29`
-- Articles: `7`
+- Generated: `2026-10-04T04:22:25.989970+00:00`
+- Market context score: `63.52`
+- News risk score: `23.0`
+- Macro risk score: `22.0`
+- Risk-on score: `46.67`
+- Articles: `6`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T04:00:00+00:00`
+- Day/swing latest: `2026-10-04T04:15:00+00:00`
 
 ## News Categories
 
-- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
@@ -32,4 +32,3 @@
 - [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
 - [macro] Why Canada is preparing for a (long shot) US invasion (BBC News)
 - [macro] Tennessee prison chief to resign after Christa Pike's failed execution (BBC News)
-- [macro] Russia hits second major bridge in Ukraine's capital Kyiv (BBC News)
