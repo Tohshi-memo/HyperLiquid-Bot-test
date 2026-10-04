@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T23:22:35.793739+00:00`
-- Market context score: `40.39`
-- News risk score: `43.29`
-- Macro risk score: `24.0`
-- Risk-on score: `13.14`
-- Articles: `17`
+- Generated: `2026-10-04T23:37:30.875546+00:00`
+- Market context score: `41.41`
+- News risk score: `42.29`
+- Macro risk score: `22.0`
+- Risk-on score: `13.81`
+- Articles: `19`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T23:15:00+00:00`
+- Day/swing latest: `2026-10-04T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
+- [macro] Rescuers suspend search for survivors after plane went missing off US coast (BBC News)
+- [macro] The job interview question you don't have to answer (BBC News)
 - [macro] Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck (BBC News)
 - [crypto] Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest (Cointelegraph.com News)
 - [commodity] All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East (Energy)
@@ -36,5 +38,3 @@
 - [crypto] There's an election next month: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Indian police accused of sexually harassing journalists at protest (BBC News)
 - [macro] Yemen's government announces all-out war to reclaim land from Houthis (BBC News)
-- [macro] Christa Pike's prognosis still unclear after failed execution, lawyer says (BBC News)
-- [macro] US Marine arrested over murder of woman in Okinawa, Japan (BBC News)
