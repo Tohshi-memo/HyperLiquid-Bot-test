@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T07:22:31.129364+00:00`
+- Generated: `2026-10-04T07:37:24.799587+00:00`
 - Market context score: `63.52`
 - News risk score: `23.0`
 - Macro risk score: `22.0`
 - Risk-on score: `46.67`
-- Articles: `6`
+- Articles: `7`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,14 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T07:15:00+00:00`
+- Day/swing latest: `2026-10-04T07:30:00+00:00`
 
 ## News Categories
 
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Russia’s Finance Ministry pays wages in digital rubles for first time (Cointelegraph.com News)
 - [macro] Australia investigating Flydubai co-pilot's links to country (BBC News)
 - [macro] Debris found from plane that went missing off US coast (BBC News)
 - [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
