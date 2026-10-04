@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T11:37:29.165259+00:00`
-- Market context score: `60.97`
-- News risk score: `25.5`
-- Macro risk score: `27.0`
-- Risk-on score: `45.0`
-- Articles: `10`
+- Generated: `2026-10-04T11:52:32.900964+00:00`
+- Market context score: `59.88`
+- News risk score: `26.57`
+- Macro risk score: `29.14`
+- Risk-on score: `44.29`
+- Articles: `9`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T11:30:00+00:00`
+- Day/swing latest: `2026-10-04T11:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
@@ -36,4 +36,3 @@
 - [macro] Debris found from plane that went missing off US coast (BBC News)
 - [macro] 'Anger in the streets': Tens of thousands protest in Spain over housing crisis (BBC News)
 - [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
-- [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
