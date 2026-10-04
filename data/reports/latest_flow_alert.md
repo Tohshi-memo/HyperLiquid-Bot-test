@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-04T01:00:30.359948+00:00`
+- Generated: `2026-10-04T01:05:31.929921+00:00`
 - Flow alert score: `18.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `1976934.1569510002` | liquidity: `1273672.9991`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `446915.4110710002` | liquidity: `422019.30737`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `443896.1854800001` | liquidity: `361668.9828`
-- Will Indiana enact a data center moratorium by December 31, 2028? | 24h volume: `333901.187666` | liquidity: `134220.3586`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `309723.513002` | liquidity: `1077638.61174`
-- Will the price of Bitcoin be above $74,000 on October 4? | 24h volume: `292677.658` | liquidity: `119025.87738`
-- Will the U.S. invade Iran before 2027? | 24h volume: `286463.708403` | liquidity: `1010047.2675`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `278507.5189029999` | liquidity: `834779.49772`
+- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `1976934.1569510002` | liquidity: `1273107.4003`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `446915.4110710002` | liquidity: `421895.48015`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `443896.1854800001` | liquidity: `354997.7876`
+- Will Indiana enact a data center moratorium by December 31, 2028? | 24h volume: `333901.187666` | liquidity: `131373.872`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `309723.513002` | liquidity: `1071242.53561`
+- Will the price of Bitcoin be above $74,000 on October 4? | 24h volume: `292677.658` | liquidity: `119008.87394`
+- Will the U.S. invade Iran before 2027? | 24h volume: `286463.708403` | liquidity: `1006991.5562`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `278507.5189029999` | liquidity: `833241.46261`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
