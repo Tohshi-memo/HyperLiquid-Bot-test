@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T11:21:16.544141+00:00`
-- Market context score: `61.82`
-- News risk score: `24.67`
-- Macro risk score: `25.33`
-- Risk-on score: `45.56`
-- Articles: `11`
+- Generated: `2026-10-04T11:37:29.165259+00:00`
+- Market context score: `60.97`
+- News risk score: `25.5`
+- Macro risk score: `27.0`
+- Risk-on score: `45.0`
+- Articles: `10`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T11:15:00+00:00`
+- Day/swing latest: `2026-10-04T11:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
-- [macro] What to know about Brazil's election pitting Lula against Flávio Bolsonaro (BBC News)
 - [macro] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit (BBC News)
+- [macro] What to know about Brazil's election pitting Lula against Flávio Bolsonaro (BBC News)
 - [crypto] El Salvador receives $138 million from IMF after Bitcoin waivers granted (Cointelegraph.com News)
 - [crypto] Russia’s Finance Ministry pays wages in digital rubles for first time (Cointelegraph.com News)
 - [macro] Australia investigating Flydubai co-pilot's links to country (BBC News)
