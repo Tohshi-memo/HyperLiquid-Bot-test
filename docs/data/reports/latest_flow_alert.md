@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-04T19:40:34.964603+00:00`
+- Generated: `2026-10-04T19:45:32.487699+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8172710.85`
-- Polymarket volume z-score: `-0.3`
+- Polymarket 24h volume: `8135860.0`
+- Polymarket volume z-score: `-0.32`
 
 ## Top Polymarket Markets
 
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `864719.9441670004` | liquidity: `689381.53296`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `717746.8856610002` | liquidity: `395407.96895`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `659629.9844179999` | liquidity: `331380.8368`
-- Will Republic of Ireland win on 2026-10-04? | 24h volume: `452438.85824099975` | liquidity: `90045.2297`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `444969.641008` | liquidity: `1691688.5773`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `443102.774` | liquidity: `435876.51996`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `407872.8722189999` | liquidity: `312157.1165`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `392437.84333500004` | liquidity: `599472.44976`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `884798.4571670002` | liquidity: `672324.55057`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `722644.3962559999` | liquidity: `382989.57521`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `665692.7335209998` | liquidity: `315997.2246`
+- Will Republic of Ireland win on 2026-10-04? | 24h volume: `506148.85091000004` | liquidity: `96762.1658`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `443102.774` | liquidity: `436025.06996`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `442723.663865` | liquidity: `1700654.9114`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `408759.30896899995` | liquidity: `307063.74369`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `392387.84333500004` | liquidity: `598130.51976`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
