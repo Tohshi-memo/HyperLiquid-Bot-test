@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-04T07:52:34.711066+00:00`
-- Market context score: `64.8`
-- News risk score: `21.75`
-- Macro risk score: `19.5`
-- Risk-on score: `47.5`
-- Articles: `9`
+- Generated: `2026-10-04T08:07:28.924631+00:00`
+- Market context score: `65.22`
+- News risk score: `21.33`
+- Macro risk score: `18.67`
+- Risk-on score: `47.78`
+- Articles: `10`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-04T07:45:00+00:00`
+- Day/swing latest: `2026-10-04T08:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
@@ -36,3 +36,4 @@
 - [macro] Cornell president says university 'must do better' after frat house rape allegations (BBC News)
 - [macro] Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News)
 - [macro] Why Canada is preparing for a (long shot) US invasion (BBC News)
+- [macro] US father and son arrested after 'gas station heroin' deaths (BBC News)
