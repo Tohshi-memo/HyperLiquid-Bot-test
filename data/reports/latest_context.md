@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T05:22:34.348124+00:00`
+- Generated: `2026-10-05T05:37:27.000085+00:00`
 - Market context score: `68.88`
 - News risk score: `30.87`
 - Macro risk score: `13.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T05:15:00+00:00`
+- Day/swing latest: `2026-10-05T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Supporters of jailed ex-PM Imran Khan march to Pakistan capital (BBC News)
 - [macro] The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Zcash’s 25-second blocks go live on public testnet ahead of schedule (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] All six passengers presumed dead after plane went missing off US coast (BBC News)
-- [macro] Supporters of jailed ex-PM Imran Khan march to Pakistan capital (BBC News)
