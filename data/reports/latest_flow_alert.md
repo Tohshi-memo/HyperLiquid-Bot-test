@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-05T07:50:30.497428+00:00`
-- Flow alert score: `21.08`
+- Generated: `2026-10-05T07:55:36.766157+00:00`
+- Flow alert score: `21.16`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12756390.84`
-- Polymarket volume z-score: `1.02`
+- Polymarket 24h volume: `12831703.45`
+- Polymarket volume z-score: `1.04`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2249570.5345030013` | liquidity: `700801.0738`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2070037.793850998` | liquidity: `449175.74011`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1029517.9680000001` | liquidity: `125665.12524`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `411449.5675679999` | liquidity: `1674378.4888`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `369827.177026` | liquidity: `1713279.0869`
-- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `368108.6795` | liquidity: `902377.4504`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `330862.667111` | liquidity: `721355.8661`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `320301.7113430002` | liquidity: `314727.57042`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2251299.940302001` | liquidity: `720276.4857`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2069071.559120998` | liquidity: `449030.02136`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1029517.9680000001` | liquidity: `125615.79867`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `411458.4054759999` | liquidity: `1676867.9745`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `369842.20702599996` | liquidity: `1718035.5799`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `368134.2395` | liquidity: `955118.06043`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `331443.564679` | liquidity: `711468.6041`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `319239.0875720001` | liquidity: `316592.63687`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
