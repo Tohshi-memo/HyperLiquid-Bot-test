@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T13:22:39.220595+00:00`
+- Generated: `2026-10-05T13:37:28.956507+00:00`
 - Market context score: `53.31`
 - News risk score: `39.49`
 - Macro risk score: `24.97`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T13:15:00+00:00`
+- Day/swing latest: `2026-10-05T13:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [crypto] Strategy opts for bigger spending on STRC buybacks over BTC purchases (Cointelegraph.com News)
 - [macro] No10 insists UK military base RAF Fairford is safe after US withdraws bombers (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis (Cointelegraph.com News)
-- [crypto] Strategy opts for bigger spending on STRC buybacks over BTC purchases (Cointelegraph.com News)
 - [crypto] Too big to pause: Could an AI slowdown crash the economy? (Cointelegraph.com News)
 - [macro] Teenager's hand blown off during confrontation between France school protesters and police (BBC News)
 - [crypto] Metaplanet reveals net income strategy to fuel Bitcoin accumulation (Cointelegraph.com News)
