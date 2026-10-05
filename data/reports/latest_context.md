@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T03:37:32.602988+00:00`
-- Market context score: `59.72`
-- News risk score: `29.73`
+- Generated: `2026-10-05T03:52:26.460963+00:00`
+- Market context score: `71.01`
+- News risk score: `26.35`
 - Macro risk score: `17.45`
-- Risk-on score: `42.18`
-- Articles: `16`
-- Polymarket markets: `395`
+- Risk-on score: `64.43`
+- Articles: `19`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T03:30:00+00:00`
+- Day/swing latest: `2026-10-05T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 - macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Zcash activates NU7 on testnet ahead of November mainnet target (Cointelegraph.com News)
+- [crypto] OKX, NYSE parent file to launch tokenized US stock platform (Cointelegraph.com News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
 - [macro] Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round (BBC News)
 - [crypto] Safe investor asks Swiss watchdog to intervene in governance dispute (Cointelegraph.com News)
@@ -35,6 +38,3 @@
 - [commodity] Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more' (Energy)
 - [crypto] Zcash gets a Washington lobbyist to push crypto policy (Cointelegraph.com News)
 - [macro] Rescuers suspend search for survivors after plane went missing off US coast (BBC News)
-- [macro] The job interview question you don't have to answer (BBC News)
-- [crypto] Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest (Cointelegraph.com News)
-- [commodity] All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East (Energy)
