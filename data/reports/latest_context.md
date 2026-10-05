@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T12:07:41.209456+00:00`
-- Market context score: `53.15`
-- News risk score: `37.79`
-- Macro risk score: `23.68`
-- Risk-on score: `36.75`
-- Articles: `48`
+- Generated: `2026-10-05T12:22:40.004824+00:00`
+- Market context score: `53.26`
+- News risk score: `37.83`
+- Macro risk score: `23.27`
+- Risk-on score: `36.87`
+- Articles: `49`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T12:00:00+00:00`
+- Day/swing latest: `2026-10-05T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `2`
-- macro: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `2`
+- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `2`
 
 ## Headlines
 
+- [macro] No10 insists UK military base RAF Fairford is safe after US withdraws bombers (BBC News)
+- [macro] Georgia officials hunt for suspect in shooting that killed two and injured 35 (BBC News)
 - [macro] Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say (BBC News)
 - [crypto] SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Indian singer Anuv Jain on finding success without the Bollywood boost (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] Saudi Aramco chief says replenishing global oil stockpiles could take two years (Energy)
 - [crypto] Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin resilience tested as U.S. dollar climbs to 18-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Shadow chancellor to unveil Tory plans to cut taxes and regulations (BBC News)
-- [crypto] Live updates: Bitcoin above $86,000 as traders price out an October Fed hike (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
