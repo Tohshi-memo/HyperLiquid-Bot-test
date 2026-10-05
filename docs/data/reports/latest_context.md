@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T01:22:27.573968+00:00`
+- Generated: `2026-10-05T01:37:27.010390+00:00`
 - Market context score: `60.97`
 - News risk score: `28.0`
 - Macro risk score: `17.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T01:15:00+00:00`
+- Day/swing latest: `2026-10-05T01:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Trump announces 'Super Intelligence Force' to oversee AI policy (BBC News)
 - [commodity] Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more' (Energy)
 - [crypto] Zcash gets a Washington lobbyist to push crypto policy (Cointelegraph.com News)
 - [macro] Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East (Energy)
 - [macro] What to know about Brazil's election as Lula and Flávio Bolsonaro face off (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] There's an election next month: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
