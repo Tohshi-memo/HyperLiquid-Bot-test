@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T01:52:32.836025+00:00`
-- Market context score: `60.15`
-- News risk score: `29.31`
+- Generated: `2026-10-05T02:07:27.739189+00:00`
+- Market context score: `58.62`
+- News risk score: `31.56`
 - Macro risk score: `16.62`
-- Risk-on score: `42.46`
-- Articles: `18`
+- Risk-on score: `40.96`
+- Articles: `17`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T01:45:00+00:00`
+- Day/swing latest: `2026-10-05T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
 
 ## Headlines
 
-- [macro] How India became dangerously addicted to Chinese imports (BBC News)
 - [macro] Trump announces 'Super Intelligence Force' to oversee AI policy (BBC News)
+- [macro] How India became dangerously addicted to Chinese imports (BBC News)
 - [commodity] Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more' (Energy)
 - [crypto] Zcash gets a Washington lobbyist to push crypto policy (Cointelegraph.com News)
 - [macro] Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round (BBC News)
