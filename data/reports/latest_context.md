@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T09:37:29.998896+00:00`
-- Market context score: `57.13`
-- News risk score: `35.23`
-- Macro risk score: `19.7`
-- Risk-on score: `41.93`
+- Generated: `2026-10-05T09:52:30.803554+00:00`
+- Market context score: `55.52`
+- News risk score: `36.81`
+- Macro risk score: `22.86`
+- Risk-on score: `40.88`
 - Articles: `36`
 - Polymarket markets: `393`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T09:30:00+00:00`
+- Day/swing latest: `2026-10-05T09:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `0`
 - macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Saudi Aramco chief says replenishing global oil stockpiles could take two years (Energy)
 - [crypto] Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
@@ -37,4 +38,3 @@
 - [macro] How Spain's housing crisis has resulted in an early general election (BBC News)
 - [crypto] Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank (Cointelegraph.com News)
 - [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
-- [macro] 'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa (BBC News)
