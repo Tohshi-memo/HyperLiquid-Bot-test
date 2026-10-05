@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T00:07:32.856642+00:00`
-- Market context score: `41.41`
-- News risk score: `42.29`
-- Macro risk score: `22.0`
-- Risk-on score: `13.81`
-- Articles: `19`
+- Generated: `2026-10-05T00:22:27.752049+00:00`
+- Market context score: `43.72`
+- News risk score: `40.01`
+- Macro risk score: `17.45`
+- Risk-on score: `15.32`
+- Articles: `18`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T00:00:00+00:00`
+- Day/swing latest: `2026-10-05T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `0`
-- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
-- [macro] Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck (BBC News)
+- [macro] Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round (BBC News)
 - [macro] Rescuers suspend search for survivors after plane went missing off US coast (BBC News)
 - [macro] The job interview question you don't have to answer (BBC News)
 - [crypto] Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest (Cointelegraph.com News)
