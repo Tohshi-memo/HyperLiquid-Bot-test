@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-05T13:10:36.407631+00:00`
-- Flow alert score: `24.0`
+- Generated: `2026-10-05T13:15:39.480278+00:00`
+- Flow alert score: `24.28`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `15097342.33`
-- Polymarket volume z-score: `1.75`
+- Polymarket 24h volume: `15296037.68`
+- Polymarket volume z-score: `1.82`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2304352.1858050013` | liquidity: `1146929.9798`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2236054.3180249976` | liquidity: `663600.99716`
-- China Open: Novak Djokovic vs Daniil Medvedev | 24h volume: `1911220.6961170007` | liquidity: `114141.4898`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1268363.729` | liquidity: `204095.12678`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `491480.60337299993` | liquidity: `1700098.5907`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `354074.4305` | liquidity: `483284.97259`
-- Will the U.S. invade Iran before 2027? | 24h volume: `353185.377619` | liquidity: `1076883.3646`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `346194.308844` | liquidity: `756869.8705`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2299581.0504800016` | liquidity: `1091790.0608`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2237664.521870996` | liquidity: `667106.4251`
+- China Open: Novak Djokovic vs Daniil Medvedev | 24h volume: `2091507.5663390013` | liquidity: `121815.6166`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1268363.729` | liquidity: `386264.40146`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `491480.60337299993` | liquidity: `1708221.1783`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `354074.4305` | liquidity: `478464.97259`
+- Will the U.S. invade Iran before 2027? | 24h volume: `353338.28761899995` | liquidity: `1080384.3616`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `346404.34884399996` | liquidity: `759422.8469`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
