@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-05T11:05:36.491022+00:00`
-- Flow alert score: `21.24`
+- Generated: `2026-10-05T11:10:31.904459+00:00`
+- Flow alert score: `20.76`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12996142.84`
-- Polymarket volume z-score: `1.06`
+- Polymarket 24h volume: `12646720.47`
+- Polymarket volume z-score: `0.94`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2247216.9937190013` | liquidity: `899184.3247`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2078285.2634059973` | liquidity: `566711.66881`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1132800.271` | liquidity: `129002.70619`
-- China Open: Alex de Minaur vs Hubert Hurkacz | 24h volume: `508789.4777830003` | liquidity: `321331.98918`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `489608.3769` | liquidity: `1639003.4238`
-- Will the U.S. invade Iran before 2027? | 24h volume: `377968.894678` | liquidity: `1040440.5237`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `331746.089938` | liquidity: `734614.5276`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `321122.5121790001` | liquidity: `327596.25835`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2304125.7354780007` | liquidity: `951587.9311`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2083990.430610999` | liquidity: `580322.22824`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1132736.271` | liquidity: `167917.26819`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `489818.93172799994` | liquidity: `1652797.1728`
+- Will the U.S. invade Iran before 2027? | 24h volume: `386016.847619` | liquidity: `1099726.729`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `331610.38599000004` | liquidity: `734205.7804`
+- Will Renan Santos win the 2026 Brazilian presidential election? | 24h volume: `321101.37999999995` | liquidity: `952241.89666`
+- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `267407.87500099995` | liquidity: `27851.1672`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
