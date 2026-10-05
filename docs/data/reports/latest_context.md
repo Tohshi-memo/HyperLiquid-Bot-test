@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T11:22:24.783929+00:00`
-- Market context score: `53.06`
-- News risk score: `37.98`
-- Macro risk score: `27.01`
-- Risk-on score: `37.96`
-- Articles: `42`
+- Generated: `2026-10-05T11:37:37.426932+00:00`
+- Market context score: `53.31`
+- News risk score: `37.88`
+- Macro risk score: `26.33`
+- Risk-on score: `38.17`
+- Articles: `43`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T11:15:00+00:00`
+- Day/swing latest: `2026-10-05T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `2`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `2`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
 
 ## Headlines
 
@@ -33,7 +33,7 @@
 - [macro] Nobel Prize awarded for showing how nerve cells shape feelings (BBC News)
 - [commodity] Saudi Aramco chief says replenishing global oil stockpiles could take two years (Energy)
 - [crypto] Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] U.S. dollar climbs to 18-month high as bitcoin holds firm around $86,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin resilience tested as U.S. dollar climbs to 18-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Shadow chancellor to unveil Tory plans to cut taxes and regulations (BBC News)
 - [crypto] Live updates: Bitcoin above $86,000 as traders price out an October Fed hike (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
