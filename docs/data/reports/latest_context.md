@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T11:07:34.964471+00:00`
-- Market context score: `55.85`
-- News risk score: `33.92`
-- Macro risk score: `25.83`
-- Risk-on score: `40.29`
-- Articles: `41`
+- Generated: `2026-10-05T11:22:24.783929+00:00`
+- Market context score: `53.06`
+- News risk score: `37.98`
+- Macro risk score: `27.01`
+- Risk-on score: `37.96`
+- Articles: `42`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T11:00:00+00:00`
+- Day/swing latest: `2026-10-05T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `1`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `2`
+- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `2`
 
 ## Headlines
 
+- [crypto] SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nobel Prize awarded for showing how nerve cells shape feelings (BBC News)
 - [commodity] Saudi Aramco chief says replenishing global oil stockpiles could take two years (Energy)
 - [crypto] Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Live updates: Bitcoin above $86,000 as traders price out an October Fed hike (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
 - [crypto] Cardano's ADA leads gains in narrow range-bound market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
-- [macro] Supporters of jailed ex-PM Imran Khan begin march in Pakistan (BBC News)
