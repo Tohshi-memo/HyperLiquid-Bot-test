@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T06:52:26.867266+00:00`
-- Market context score: `60.99`
-- News risk score: `32.7`
-- Macro risk score: `16.68`
-- Risk-on score: `47.23`
-- Articles: `27`
-- Polymarket markets: `394`
+- Generated: `2026-10-05T07:07:36.109169+00:00`
+- Market context score: `63.2`
+- News risk score: `31.66`
+- Macro risk score: `16.64`
+- Risk-on score: `51.25`
+- Articles: `28`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T06:45:00+00:00`
+- Day/swing latest: `2026-10-05T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `1`
 
 ## Headlines
 
 - [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
+- [crypto] Bitcoin is about to get a major bullish signal it hasn't had in over a year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
@@ -37,4 +38,3 @@
 - [macro] The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
-- [macro] Watch: How Brazil's dramatic election unfolded (BBC News)
