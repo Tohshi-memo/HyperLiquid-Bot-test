@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T15:52:33.873354+00:00`
-- Market context score: `50.77`
-- News risk score: `41.2`
-- Macro risk score: `27.5`
-- Risk-on score: `35.78`
+- Generated: `2026-10-05T16:07:30.873351+00:00`
+- Market context score: `48.99`
+- News risk score: `42.7`
+- Macro risk score: `28.0`
+- Risk-on score: `33.27`
 - Articles: `50`
 - Polymarket markets: `393`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T15:45:00+00:00`
+- Day/swing latest: `2026-10-05T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `8`, risk headline rate `0.28`, policy hits `6`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `2`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `6`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `2`
 
 ## Headlines
 
+- [crypto] U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea (BBC News)
 - [crypto] Bitcoin price fails to break higher after best weekly close in eight months (Cointelegraph.com News)
 - [macro] Yemeni government forces say they have 'secured' Bab al-Mandab Strait (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Strategy opts for bigger spending on STRC buybacks over BTC purchases (Cointelegraph.com News)
 - [macro] No10 insists UK military base RAF Fairford is safe after US withdraws bombers (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis (Cointelegraph.com News)
