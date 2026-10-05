@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T20:14:11.303952+00:00`
-- Market context score: `40.48`
-- News risk score: `49.21`
-- Macro risk score: `32.45`
-- Risk-on score: `21.55`
-- Articles: `49`
+- Generated: `2026-10-05T21:25:28.838799+00:00`
+- Market context score: `41.68`
+- News risk score: `48.5`
+- Macro risk score: `33.93`
+- Risk-on score: `24.18`
+- Articles: `47`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T20:00:00+00:00`
+- Day/swing latest: `2026-10-05T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `27`, risk hits `17`, risk headline rate `0.4074`, policy hits `8`
-- macro: articles `20`, risk hits `5`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `26`, risk hits `16`, risk headline rate `0.3846`, policy hits `8`
+- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `1`
+- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
 - [macro] Trump says 'threat' led US to pull bombers from RAF Fairford (BBC News)
+- [macro] France braces for national day of school protests after injuries and mass arrests (BBC News)
+- [crypto] FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns (Cointelegraph.com News)
+- [policy] Federal Reserve Board announces approval of application by Isabella Bank Corporation (FRB: Press Release - All Releases)
 - [macro] US 'watching closely' after plague researcher dies in Russia, Rubio says (BBC News)
 - [crypto] Modern Treasury seeks US trust bank charter for digital asset custody (Cointelegraph.com News)
 - [macro] Spain PM pins hopes on housing crisis to help win snap election (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Advocacy group pushes back on banks’ lawsuit against OCC over charters (Cointelegraph.com News)
-- [crypto] S&P Global brings risk assessments to growing crypto lending vault sector (Cointelegraph.com News)
-- [macro] Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway (BBC News)
-- [crypto] CFTC joins SEC in proposing crypto framework after failed CLARITY vote (Cointelegraph.com News)
