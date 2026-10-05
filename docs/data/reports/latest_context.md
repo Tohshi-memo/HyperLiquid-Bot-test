@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T08:52:29.340057+00:00`
-- Market context score: `64.7`
-- News risk score: `30.78`
-- Macro risk score: `16.61`
-- Risk-on score: `53.83`
-- Articles: `29`
+- Generated: `2026-10-05T09:07:28.817099+00:00`
+- Market context score: `60.56`
+- News risk score: `33.46`
+- Macro risk score: `16.9`
+- Risk-on score: `46.98`
+- Articles: `32`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T08:45:00+00:00`
+- Day/swing latest: `2026-10-05T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `1`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `2`
 
 ## Headlines
 
+- [macro] Why has Spain's PM called a snap election? (BBC News)
+- [macro] Average five-year mortgage rate hits 6% for first time in three years (BBC News)
+- [crypto] Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank (Cointelegraph.com News)
 - [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
 - [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Bitcoin is about to get a major bullish signal it hasn't had in over a year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum investors are stuck in a two-week staking exit line. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
-- [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
-- [macro] Supporters of jailed ex-PM Imran Khan march to Pakistan capital (BBC News)
-- [macro] The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances (Economy)
