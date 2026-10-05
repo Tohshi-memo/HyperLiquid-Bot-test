@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-05T14:50:32.487954+00:00`
-- Flow alert score: `20.2`
+- Generated: `2026-10-05T14:55:43.384920+00:00`
+- Flow alert score: `20.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12428716.27`
-- Polymarket volume z-score: `0.8`
+- Polymarket 24h volume: `12571818.47`
+- Polymarket volume z-score: `0.85`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2322291.2137700017` | liquidity: `1102834.4554`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2202223.269728997` | liquidity: `668437.27945`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `491281.828201` | liquidity: `1663782.0604`
-- China Open: Coco Gauff vs Xinran Sun | 24h volume: `379770.93033499987` | liquidity: `273322.9195`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `350144.535493` | liquidity: `770431.847`
-- Will the U.S. invade Iran before 2027? | 24h volume: `332793.884429` | liquidity: `1114841.5061`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `298925.237563` | liquidity: `342842.24042`
-- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `267752.48336899997` | liquidity: `28177.486`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2313483.5523620015` | liquidity: `1113709.065`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2211454.8242469965` | liquidity: `665419.75852`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `532802.947742` | liquidity: `1668173.204`
+- China Open: Coco Gauff vs Xinran Sun | 24h volume: `423216.78761299996` | liquidity: `225027.8052`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `350221.414382` | liquidity: `765156.35`
+- Will the U.S. invade Iran before 2027? | 24h volume: `333335.286782` | liquidity: `1111658.8339`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `298947.198347` | liquidity: `311207.88152`
+- Will Ethereum dip to $2,250 by December 31, 2026? | 24h volume: `267752.48336899997` | liquidity: `28175.312`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
