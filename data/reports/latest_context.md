@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T12:52:33.465524+00:00`
-- Market context score: `53.07`
-- News risk score: `39.72`
-- Macro risk score: `25.03`
-- Risk-on score: `38.72`
-- Articles: `51`
+- Generated: `2026-10-05T13:07:27.954746+00:00`
+- Market context score: `53.31`
+- News risk score: `39.49`
+- Macro risk score: `24.97`
+- Risk-on score: `39.02`
+- Articles: `52`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T12:45:00+00:00`
+- Day/swing latest: `2026-10-05T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.2692`, policy hits `5`
+- crypto: articles `27`, risk hits `8`, risk headline rate `0.2593`, policy hits `5`
 - macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `2`
 
 ## Headlines
 
+- [crypto] China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis (Cointelegraph.com News)
 - [macro] No10 insists UK military base RAF Fairford is safe after US withdraws bombers (BBC News)
 - [crypto] Strategy opts for bigger spending on STRC buybacks over BTC purchases (Cointelegraph.com News)
 - [crypto] Too big to pause: Could an AI slowdown crash the economy? (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Georgia officials hunt for suspect in shooting that killed two and injured 35 (BBC News)
 - [macro] Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say (BBC News)
 - [crypto] SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Indian singer Anuv Jain on finding success without the Bollywood boost (BBC News)
