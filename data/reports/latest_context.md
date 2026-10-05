@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T07:52:32.817501+00:00`
-- Market context score: `63.2`
-- News risk score: `31.66`
-- Macro risk score: `16.64`
-- Risk-on score: `51.25`
-- Articles: `28`
+- Generated: `2026-10-05T08:07:31.466802+00:00`
+- Market context score: `64.7`
+- News risk score: `30.78`
+- Macro risk score: `16.61`
+- Risk-on score: `53.83`
+- Articles: `29`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T07:45:00+00:00`
+- Day/swing latest: `2026-10-05T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M (Cointelegraph.com News)
 - [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
 - [crypto] Bitcoin is about to get a major bullish signal it hasn't had in over a year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
 - [macro] Supporters of jailed ex-PM Imran Khan march to Pakistan capital (BBC News)
 - [macro] The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances (Economy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
