@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T17:07:28.148732+00:00`
-- Market context score: `49.4`
-- News risk score: `41.63`
-- Macro risk score: `28.77`
-- Risk-on score: `33.57`
-- Articles: `47`
+- Generated: `2026-10-05T17:22:28.573103+00:00`
+- Market context score: `49.69`
+- News risk score: `41.31`
+- Macro risk score: `28.69`
+- Risk-on score: `33.92`
+- Articles: `48`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T17:00:00+00:00`
+- Day/swing latest: `2026-10-05T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `24`, risk hits `10`, risk headline rate `0.2917`, policy hits `7`
+- crypto: articles `25`, risk hits `10`, risk headline rate `0.28`, policy hits `7`
 - macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `1`
 
 ## Headlines
 
+- [crypto] More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017 (Cointelegraph.com News)
 - [macro] Teenager's hand blown off during confrontation between France school protesters and police (BBC News)
 - [commodity] Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more' (Energy)
@@ -37,4 +38,3 @@
 - [crypto] U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea (BBC News)
 - [crypto] Bitcoin price fails to break higher after best weekly close in eight months (Cointelegraph.com News)
-- [macro] Yemeni government forces say they have 'secured' Bab al-Mandab Strait (BBC News)
