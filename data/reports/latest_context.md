@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T09:52:30.803554+00:00`
+- Generated: `2026-10-05T10:07:31.162047+00:00`
 - Market context score: `55.52`
 - News risk score: `36.81`
 - Macro risk score: `22.86`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T09:45:00+00:00`
+- Day/swing latest: `2026-10-05T10:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Trump chooses top spy boss to run new AI taskforce (BBC News)
+- [macro] Trump chooses top spy boss to run new AI taskforce (BBC News)
+- [macro] Average five-year mortgage rate hits 6% for first time in three years (BBC News)
 - [commodity] Saudi Aramco chief says replenishing global oil stockpiles could take two years (Energy)
 - [crypto] Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
 - [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
-- [macro] Average five-year mortgage rate hits 6% for first time in three years (BBC News)
 - [crypto] BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [macro] How Spain's housing crisis has resulted in an early general election (BBC News)
-- [crypto] Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank (Cointelegraph.com News)
-- [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
