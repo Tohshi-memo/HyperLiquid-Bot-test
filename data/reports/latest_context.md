@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T04:52:27.862066+00:00`
-- Market context score: `68.44`
-- News risk score: `31.5`
-- Macro risk score: `12.0`
-- Risk-on score: `61.0`
-- Articles: `19`
+- Generated: `2026-10-05T05:07:31.436266+00:00`
+- Market context score: `68.88`
+- News risk score: `30.87`
+- Macro risk score: `13.0`
+- Risk-on score: `61.82`
+- Articles: `25`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T04:45:00+00:00`
+- Day/swing latest: `2026-10-05T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances (Economy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
+- [macro] Watch: How Brazil's dramatic election unfolded (BBC News)
+- [macro] France closes up to 500 schools Monday over student protests (BBC News)
 - [crypto] Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Zcash’s 25-second blocks go live on public testnet ahead of schedule (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Zcash activates NU7 on testnet ahead of November mainnet target (Cointelegraph.com News)
-- [crypto] OKX, NYSE parent file to launch tokenized US stock platform (Cointelegraph.com News)
-- [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
-- [macro] Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round (BBC News)
-- [crypto] Safe investor asks Swiss watchdog to intervene in governance dispute (Cointelegraph.com News)
-- [macro] How India became dangerously addicted to Chinese imports (BBC News)
+- [macro] All six passengers presumed dead after plane went missing off US coast (BBC News)
+- [macro] Supporters of jailed ex-PM Imran Khan march to Pakistan capital (BBC News)
