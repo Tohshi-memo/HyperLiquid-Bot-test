@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T07:37:27.757904+00:00`
+- Generated: `2026-10-05T07:52:32.817501+00:00`
 - Market context score: `63.2`
 - News risk score: `31.66`
 - Macro risk score: `16.64`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T07:30:00+00:00`
+- Day/swing latest: `2026-10-05T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
-- [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
 - [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
+- [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
 - [crypto] Bitcoin is about to get a major bullish signal it hasn't had in over a year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Ethereum investors are stuck in a two-week staking exit line. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
