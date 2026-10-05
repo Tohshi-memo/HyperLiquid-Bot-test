@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T23:07:32.997481+00:00`
-- Market context score: `43.09`
-- News risk score: `46.79`
-- Macro risk score: `28.11`
-- Risk-on score: `23.66`
-- Articles: `36`
+- Generated: `2026-10-05T23:22:34.507513+00:00`
+- Market context score: `45.52`
+- News risk score: `43.37`
+- Macro risk score: `26.87`
+- Risk-on score: `25.71`
+- Articles: `35`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T23:00:00+00:00`
+- Day/swing latest: `2026-10-05T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `20`, risk hits `14`, risk headline rate `0.45`, policy hits `6`
-- macro: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `18`, risk hits `12`, risk headline rate `0.3889`, policy hits `5`
+- macro: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Right-wing Flávio Bolsonaro wins first round of Brazil election (BBC News)
+- [macro] Five reasons India's stock market is sinking even when its economy is growing (BBC News)
 - [macro] We're saving £100 a month into pensions for our toddler and baby - here's why (BBC News)
 - [macro] Trump says 'threat' led US to pull bombers from RAF Fairford (BBC News)
 - [crypto] Crypto PAC announces support for 32 House candidates in US midterms (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [crypto] FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns (Cointelegraph.com News)
 - [policy] Federal Reserve Board announces approval of application by Isabella Bank Corporation (FRB: Press Release - All Releases)
 - [crypto] Modern Treasury seeks US trust bank charter for digital asset custody (Cointelegraph.com News)
-- [macro] Spain PM pins hopes on housing crisis to help win snap election (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
