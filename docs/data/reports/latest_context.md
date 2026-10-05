@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T17:52:32.175580+00:00`
-- Market context score: `50.37`
-- News risk score: `41.31`
-- Macro risk score: `28.69`
-- Risk-on score: `35.43`
-- Articles: `48`
+- Generated: `2026-10-05T18:07:45.992007+00:00`
+- Market context score: `47.92`
+- News risk score: `44.12`
+- Macro risk score: `28.54`
+- Risk-on score: `32.32`
+- Articles: `50`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T17:45:00+00:00`
+- Day/swing latest: `2026-10-05T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `25`, risk hits `10`, risk headline rate `0.28`, policy hits `7`
+- crypto: articles `27`, risk hits `13`, risk headline rate `0.3333`, policy hits `7`
 - macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `1`
 
 ## Headlines
 
+- [crypto] S&P Global brings risk assessments to growing crypto lending vault sector (Cointelegraph.com News)
 - [macro] Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway (BBC News)
+- [crypto] CFTC joins SEC in proposing crypto framework after failed CLARITY vote (Cointelegraph.com News)
 - [macro] Shadow chancellor vows to cut at least one tax in every Tory budget (BBC News)
 - [crypto] More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017 (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [commodity] Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more' (Energy)
 - [macro] No10 insists UK military base RAF Fairford is safe after US withdraws bombers (BBC News)
 - [macro] Pentagon stops using Anthropic AI tools after blacklisting company, BBC told (BBC News)
-- [macro] Pentagon stops using Anthropic AI tools after blacklisting company, BBC told (BBC News)
-- [crypto] U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
