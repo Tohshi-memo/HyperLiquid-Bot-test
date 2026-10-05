@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T06:37:29.232942+00:00`
-- Market context score: `68.04`
-- News risk score: `32.1`
-- Macro risk score: `13.0`
-- Risk-on score: `61.0`
-- Articles: `25`
+- Generated: `2026-10-05T06:52:26.867266+00:00`
+- Market context score: `60.99`
+- News risk score: `32.7`
+- Macro risk score: `16.68`
+- Risk-on score: `47.23`
+- Articles: `27`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T06:30:00+00:00`
+- Day/swing latest: `2026-10-05T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `13`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `1`
 
 ## Headlines
 
+- [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
+- [crypto] Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
 - [macro] Watch: How Brazil's dramatic election unfolded (BBC News)
-- [macro] France closes up to 500 schools Monday over student protests (BBC News)
-- [crypto] Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
