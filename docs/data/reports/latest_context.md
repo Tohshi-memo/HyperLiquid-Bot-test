@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T08:22:39.243707+00:00`
+- Generated: `2026-10-05T08:37:38.536345+00:00`
 - Market context score: `64.7`
 - News risk score: `30.78`
 - Macro risk score: `16.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T08:15:00+00:00`
+- Day/swing latest: `2026-10-05T08:30:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
-- [crypto] Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M (Cointelegraph.com News)
 - [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
+- [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
+- [crypto] Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M (Cointelegraph.com News)
 - [crypto] Bitcoin is about to get a major bullish signal it hasn't had in over a year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum investors are stuck in a two-week staking exit line. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ethiopian rebel forces withdraw from Tigray regional capital (BBC News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
 - [macro] Trump unveils 'Super Intelligence Force' to oversee AI policy (BBC News)
 - [macro] Supporters of jailed ex-PM Imran Khan march to Pakistan capital (BBC News)
