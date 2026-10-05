@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T16:22:31.946632+00:00`
-- Market context score: `49.17`
-- News risk score: `42.65`
-- Macro risk score: `27.43`
-- Risk-on score: `33.44`
-- Articles: `51`
+- Generated: `2026-10-05T16:37:29.811273+00:00`
+- Market context score: `50.09`
+- News risk score: `41.2`
+- Macro risk score: `27.5`
+- Risk-on score: `34.27`
+- Articles: `50`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T16:15:00+00:00`
+- Day/swing latest: `2026-10-05T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `6`
+- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `6`
 - macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `2`
 
 ## Headlines
 
+- [macro] Teenager's hand blown off during confrontation between France school protesters and police (BBC News)
 - [commodity] Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more' (Energy)
 - [macro] No10 insists UK military base RAF Fairford is safe after US withdraws bombers (BBC News)
 - [macro] Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea (BBC News)
 - [crypto] Bitcoin price fails to break higher after best weekly close in eight months (Cointelegraph.com News)
 - [macro] Yemeni government forces say they have 'secured' Bab al-Mandab Strait (BBC News)
-- [macro] Teenager's hand blown off during confrontation between France school protesters and police (BBC News)
 - [crypto] Metaplanet reveals net income strategy to fuel Bitcoin accumulation (Cointelegraph.com News)
