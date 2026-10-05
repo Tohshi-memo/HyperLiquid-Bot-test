@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T13:52:32.047869+00:00`
+- Generated: `2026-10-05T14:07:32.888621+00:00`
 - Market context score: `53.39`
 - News risk score: `39.27`
 - Macro risk score: `25.37`
 - Risk-on score: `39.17`
 - Articles: `52`
-- Polymarket markets: `394`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T13:45:00+00:00`
+- Day/swing latest: `2026-10-05T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Metaplanet reveals net income strategy to fuel Bitcoin accumulation (Cointelegraph.com News)
 - [crypto] Stripe to expand stablecoin cards to over 100 countries by the end of the year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Strategy opts for bigger spending on STRC buybacks over BTC purchases (Cointelegraph.com News)
 - [macro] No10 insists UK military base RAF Fairford is safe after US withdraws bombers (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Bombs preventing rescue of kidnapped youths, Nigerian police say (BBC News)
 - [crypto] Too big to pause: Could an AI slowdown crash the economy? (Cointelegraph.com News)
 - [macro] Teenager's hand blown off during confrontation between France school protesters and police (BBC News)
-- [crypto] Metaplanet reveals net income strategy to fuel Bitcoin accumulation (Cointelegraph.com News)
 - [crypto] An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
