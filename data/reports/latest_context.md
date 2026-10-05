@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T10:07:31.162047+00:00`
-- Market context score: `55.52`
-- News risk score: `36.81`
-- Macro risk score: `22.86`
-- Risk-on score: `40.88`
-- Articles: `36`
+- Generated: `2026-10-05T10:22:28.646347+00:00`
+- Market context score: `54.43`
+- News risk score: `37.63`
+- Macro risk score: `25.98`
+- Risk-on score: `40.31`
+- Articles: `37`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T10:00:00+00:00`
+- Day/swing latest: `2026-10-05T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `0`
-- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `2`
+- crypto: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `0`
+- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid (Cointelegraph.com News)
+- [macro] Nobel Prize awarded for showing how nerve cells shape feelings (BBC News)
 - [macro] Trump chooses top spy boss to run new AI taskforce (BBC News)
 - [macro] Trump chooses top spy boss to run new AI taskforce (BBC News)
 - [macro] Average five-year mortgage rate hits 6% for first time in three years (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US air force removes all bombers from British military base RAF Fairford (BBC News)
 - [macro] BT agrees rescue deal to buy broadband operator TalkTalk (BBC News)
-- [crypto] BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week (Cointelegraph.com News)
-- [macro] How Spain's housing crisis has resulted in an early general election (BBC News)
