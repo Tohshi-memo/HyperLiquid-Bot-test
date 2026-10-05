@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-05T00:37:24.908288+00:00`
-- Market context score: `43.72`
-- News risk score: `40.01`
-- Macro risk score: `17.45`
-- Risk-on score: `15.32`
-- Articles: `18`
+- Generated: `2026-10-05T00:52:31.201778+00:00`
+- Market context score: `48.33`
+- News risk score: `33.36`
+- Macro risk score: `17.0`
+- Risk-on score: `19.76`
+- Articles: `19`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-05T00:30:00+00:00`
+- Day/swing latest: `2026-10-05T00:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `0`
+- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 - macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more' (Energy)
+- [crypto] Zcash gets a Washington lobbyist to push crypto policy (Cointelegraph.com News)
 - [macro] Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round (BBC News)
 - [macro] Rescuers suspend search for survivors after plane went missing off US coast (BBC News)
 - [macro] The job interview question you don't have to answer (BBC News)
@@ -36,5 +38,3 @@
 - [macro] What to know about Brazil's election as Lula and Flávio Bolsonaro face off (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] There's an election next month: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Indian police accused of sexually harassing journalists at protest (BBC News)
-- [macro] Yemen's government announces all-out war to reclaim land from Houthis (BBC News)
