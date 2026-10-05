@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-05T10:35:29.153519+00:00`
-- Flow alert score: `20.76`
+- Generated: `2026-10-05T10:40:29.663634+00:00`
+- Flow alert score: `21.16`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12607891.58`
-- Polymarket volume z-score: `0.94`
+- Polymarket 24h volume: `12924774.74`
+- Polymarket volume z-score: `1.04`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2241851.992474002` | liquidity: `916816.6508`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2035229.251249998` | liquidity: `576336.1589`
-- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1127790.93` | liquidity: `138319.36369`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `489597.48755799996` | liquidity: `1661620.6859`
-- China Open: Alex de Minaur vs Hubert Hurkacz | 24h volume: `407483.55046900007` | liquidity: `331111.87268`
-- Will the U.S. invade Iran before 2027? | 24h volume: `378182.965854` | liquidity: `1113268.7541`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `332805.60223300004` | liquidity: `744676.0458`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `324006.13008000015` | liquidity: `328283.01151`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2241121.218025001` | liquidity: `907578.3755`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `2070019.3168239985` | liquidity: `575776.55902`
+- Will Geraldo Alckmin win the 2026 Brazilian presidential election? | 24h volume: `1127730.771` | liquidity: `135693.64179`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `489589.7575579999` | liquidity: `1659422.4749`
+- China Open: Alex de Minaur vs Hubert Hurkacz | 24h volume: `472369.2061830003` | liquidity: `393967.5191`
+- Will the U.S. invade Iran before 2027? | 24h volume: `378179.444678` | liquidity: `1112452.1265`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `332685.636863` | liquidity: `744846.9526`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `322338.43654900015` | liquidity: `329093.02618`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
