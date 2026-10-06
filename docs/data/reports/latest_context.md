@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T22:22:42.574417+00:00`
-- Market context score: `41.53`
-- News risk score: `47.28`
-- Macro risk score: `36.06`
-- Risk-on score: `23.62`
-- Articles: `51`
+- Generated: `2026-10-06T22:37:26.678343+00:00`
+- Market context score: `39.9`
+- News risk score: `47.86`
+- Macro risk score: `35.22`
+- Risk-on score: `20.16`
+- Articles: `50`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T22:15:00+00:00`
+- Day/swing latest: `2026-10-06T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `2`
-- macro: articles `23`, risk hits `9`, risk headline rate `0.3913`, policy hits `0`
+- crypto: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `2`
+- macro: articles `24`, risk hits `9`, risk headline rate `0.375`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo (BBC News)
 - [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
 - [macro] Watch: Riot police clash with school protesters and use tear gas in France (BBC News)
 - [crypto] Conduit sues Tether over allegedly freezing $2.8M without explanation (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] White House defends Trump comment to let Iran 'take out' LA and San Diego (BBC News)
 - [crypto] UK names 6 banks to lead first digitally native government bond (Cointelegraph.com News)
 - [macro] What can I do to protect myself after 'Asos hacked' message? (BBC News)
-- [macro] Amazon wins global rights to stream Emmys in six-year deal (BBC News)
