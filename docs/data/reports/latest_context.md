@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T06:07:36.832845+00:00`
-- Market context score: `41.45`
-- News risk score: `46.09`
-- Macro risk score: `29.3`
-- Risk-on score: `19.88`
+- Generated: `2026-10-06T06:22:31.260438+00:00`
+- Market context score: `39.51`
+- News risk score: `47.67`
+- Macro risk score: `32.46`
+- Risk-on score: `18.1`
 - Articles: `33`
 - Polymarket markets: `393`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T06:00:00+00:00`
+- Day/swing latest: `2026-10-06T06:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `14`, risk hits `8`, risk headline rate `0.4286`, policy hits `1`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] OpenAI admits response to Australian government hacks 'not good enough' (BBC News)
 - [macro] OpenAI admits response to Australian government hacks 'not good enough' (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin keeps getting rejected at $87,000 as stocks hover near records (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Yemeni military says it has 'secured' Red Sea waterway (BBC News)
 - [macro] Trump says 'threat' led US to pull bombers from RAF Fairford (BBC News)
-- [crypto] Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
