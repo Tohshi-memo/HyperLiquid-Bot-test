@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T04:52:30.429066+00:00`
-- Market context score: `39.44`
-- News risk score: `49.25`
-- Macro risk score: `29.08`
-- Risk-on score: `18.0`
+- Generated: `2026-10-06T05:07:26.731024+00:00`
+- Market context score: `43.16`
+- News risk score: `44.52`
+- Macro risk score: `25.39`
+- Risk-on score: `20.88`
 - Articles: `36`
 - Polymarket markets: `393`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T04:45:00+00:00`
+- Day/swing latest: `2026-10-06T05:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `12`, risk headline rate `0.5`, policy hits `2`
-- macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `0`
+- crypto: articles `16`, risk hits `10`, risk headline rate `0.4375`, policy hits `1`
+- macro: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Watch: Moment Indonesian sneaker shop is torn apart by explosion (BBC News)
+- [crypto] U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin keeps getting rejected at $87,000 as stocks hover near records (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Yemeni military says it has 'secured' Red Sea waterway (BBC News)
@@ -36,5 +38,3 @@
 - [macro] World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5% (Economy)
 - [crypto] Rain seeks US trust bank charter days after OCC sued over crypto charters (Cointelegraph.com News)
 - [crypto] OKX eyes emerging markets with yield-offering stablecoin savings and payments app (Cointelegraph.com News)
-- [macro] Separatist party projected to win Quebec election, adding new test to Canada's unity (BBC News)
-- [macro] Samoa leader apologises for Nazi salute after video from 2007 emerges (BBC News)
