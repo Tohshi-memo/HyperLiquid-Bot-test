@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T15:37:31.227579+00:00`
-- Market context score: `36.76`
-- News risk score: `51.12`
-- Macro risk score: `39.67`
-- Risk-on score: `17.62`
-- Articles: `63`
+- Generated: `2026-10-06T15:52:29.819964+00:00`
+- Market context score: `38.99`
+- News risk score: `48.23`
+- Macro risk score: `38.87`
+- Risk-on score: `19.83`
+- Articles: `62`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T15:30:00+00:00`
+- Day/swing latest: `2026-10-06T15:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `0`
+- commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `29`, risk hits `15`, risk headline rate `0.4828`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year (Economy)
+- [macro] Kenya confirms its first Ebola death as outbreak spreads (BBC News)
+- [commodity] High diesel prices may put 'another squeeze' on the consumer, economist says (Energy)
 - [crypto] Ripple expands Brevan Howard deal with prime brokerage services (Cointelegraph.com News)
 - [crypto] OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: At the scene of student protests in Lille (BBC News)
-- [macro] Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year (Economy)
 - [policy] Bowman, Modernizing the Regulatory and Supervisory Landscape (FRB: Speeches)
 - [macro] AfD candidate elected speaker of German regional parliament for first time (BBC News)
 - [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
 - [macro] White House defends Trump comment to let Iran 'take out' LA and San Diego (BBC News)
-- [crypto] Ethereum’s Glamsterdam upgrade launches on Sepolia testnet (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
