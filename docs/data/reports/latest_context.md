@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T11:52:33.318118+00:00`
+- Generated: `2026-10-06T12:07:32.870278+00:00`
 - Market context score: `39.77`
 - News risk score: `47.6`
 - Macro risk score: `33.3`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T11:45:00+00:00`
+- Day/swing latest: `2026-10-06T12:00:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Ship sinks and crew missing after Black Sea drone attack (BBC News)
 - [macro] Kenya confirms its first Ebola death as outbreak spreads (BBC News)
 - [macro] Separatist party projected to win Quebec election, adding new test to Canada's unity (BBC News)
 - [crypto] The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Ghost particles' from space telescope wins physics Nobel (BBC News)
 - [macro] ASOS app users receive push notifications apparently sent by hackers (BBC News)
-- [macro] Ship sinks and crew missing after Black Sea drone attack (BBC News)
 - [crypto] Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Smaller altcoins shine as bitcoin stills trades around $85,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hong Kong officials double down on end-2026 deadline for crypto licensing bill (Cointelegraph.com News)
