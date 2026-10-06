@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T20:07:28.535751+00:00`
-- Market context score: `43.01`
-- News risk score: `47.69`
-- Macro risk score: `34.1`
-- Risk-on score: `26.5`
-- Articles: `62`
+- Generated: `2026-10-06T20:22:26.134189+00:00`
+- Market context score: `42.53`
+- News risk score: `48.0`
+- Macro risk score: `34.83`
+- Risk-on score: `25.97`
+- Articles: `60`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T20:00:00+00:00`
+- Day/swing latest: `2026-10-06T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `31`, risk hits `9`, risk headline rate `0.2903`, policy hits `2`
-- macro: articles `26`, risk hits `10`, risk headline rate `0.3846`, policy hits `0`
+- crypto: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.4`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
+- [macro] White House defends Trump comment to let Iran 'take out' LA and San Diego (BBC News)
 - [crypto] UK names 6 banks to lead first digitally native government bond (Cointelegraph.com News)
 - [macro] What can I do to protect myself after 'Asos hacked' message? (BBC News)
 - [macro] Amazon wins global rights to stream Emmys in six-year deal (BBC News)
@@ -37,5 +39,3 @@
 - [macro] Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments (BBC News)
 - [macro] Tear gas in Paris and Marseille as school protests grow across France (BBC News)
 - [crypto] Bill aims at stopping US lawmaker bets on their own elections ahead of midterms (Cointelegraph.com News)
-- [macro] Asos confirms hackers sent 'unauthorised' notification to app users (BBC News)
-- [macro] Roll-out begins for passport-free airport e-gates (BBC News)
