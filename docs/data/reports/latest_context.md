@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T21:22:34.560533+00:00`
-- Market context score: `40.71`
-- News risk score: `48.62`
-- Macro risk score: `35.64`
-- Risk-on score: `22.77`
-- Articles: `57`
+- Generated: `2026-10-06T21:37:40.989990+00:00`
+- Market context score: `41.57`
+- News risk score: `47.25`
+- Macro risk score: `35.65`
+- Risk-on score: `23.52`
+- Articles: `56`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T21:15:00+00:00`
+- Day/swing latest: `2026-10-06T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.3214`, policy hits `2`
+- crypto: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `2`
 - macro: articles `26`, risk hits `10`, risk headline rate `0.3846`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Watch: Riot police clash with school protesters and use tear gas in France (BBC News)
 - [macro] US death row inmate Christa Pike conscious after failed execution, lawyers say (BBC News)
 - [crypto] Conduit sues Tether over allegedly freezing $2.8M without explanation (Cointelegraph.com News)
 - [crypto] Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] UK names 6 banks to lead first digitally native government bond (Cointelegraph.com News)
 - [macro] What can I do to protect myself after 'Asos hacked' message? (BBC News)
 - [macro] Amazon wins global rights to stream Emmys in six-year deal (BBC News)
-- [macro] From films to streaming prices - how the Warner Bros deal could affect you (BBC News)
