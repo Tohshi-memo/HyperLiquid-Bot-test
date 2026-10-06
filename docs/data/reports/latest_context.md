@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T23:37:35.833538+00:00`
-- Market context score: `39.95`
-- News risk score: `49.08`
-- Macro risk score: `35.74`
-- Risk-on score: `21.5`
-- Articles: `51`
+- Generated: `2026-10-06T23:52:29.831423+00:00`
+- Market context score: `39.54`
+- News risk score: `49.79`
+- Macro risk score: `36.17`
+- Risk-on score: `21.35`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T23:30:00+00:00`
+- Day/swing latest: `2026-10-06T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `2`
-- macro: articles `26`, risk hits `11`, risk headline rate `0.3846`, policy hits `0`
+- macro: articles `28`, risk hits `12`, risk headline rate `0.3929`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
+- [macro] A beautiful Himalayan bird is changing its voice due to human activity, research shows (BBC News)
 - [macro] Froyo's made a comeback. But at £12 a tub will it last? (BBC News)
 - [macro] Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' (BBC News)
 - [macro] UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor (BBC News)
 - [macro] Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo (BBC News)
-- [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
 - [macro] Watch: Riot police clash with school protesters and use tear gas in France (BBC News)
 - [crypto] Conduit sues Tether over allegedly freezing $2.8M without explanation (Cointelegraph.com News)
 - [crypto] Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
