@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T16:15:02.997992+00:00`
+- Generated: `2026-10-06T16:22:30.681098+00:00`
 - Market context score: `42.42`
 - News risk score: `45.87`
 - Macro risk score: `37.86`
 - Risk-on score: `25.09`
 - Articles: `61`
-- Polymarket markets: `389`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks (Energy)
 - [macro] Kenya confirms its first Ebola death as outbreak spreads (BBC News)
 - [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
 - [macro] Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year (Economy)
@@ -38,4 +39,3 @@
 - [macro] Watch: At the scene of student protests in Lille (BBC News)
 - [policy] Bowman, Modernizing the Regulatory and Supervisory Landscape (FRB: Speeches)
 - [macro] AfD candidate elected speaker of German regional parliament for first time (BBC News)
-- [macro] White House defends Trump comment to let Iran 'take out' LA and San Diego (BBC News)
