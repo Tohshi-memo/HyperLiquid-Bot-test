@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T03:37:23.977901+00:00`
-- Market context score: `40.16`
-- News risk score: `47.58`
-- Macro risk score: `25.7`
-- Risk-on score: `16.9`
-- Articles: `33`
+- Generated: `2026-10-06T03:52:29.204104+00:00`
+- Market context score: `37.7`
+- News risk score: `50.71`
+- Macro risk score: `25.57`
+- Risk-on score: `14.05`
+- Articles: `35`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T03:30:00+00:00`
+- Day/swing latest: `2026-10-06T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `12`, risk hits `11`, risk headline rate `0.5`, policy hits `2`
+- crypto: articles `14`, risk hits `13`, risk headline rate `0.5714`, policy hits `2`
 - macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Rain seeks US trust bank charter days after OCC sued over crypto charters (Cointelegraph.com News)
+- [crypto] OKX eyes emerging markets with yield-offering stablecoin savings and payments app (Cointelegraph.com News)
 - [macro] Separatist party projected to win Quebec election, adding new test to Canada's unity (BBC News)
 - [macro] Samoa leader apologises for Nazi salute after video from 2007 emerges (BBC News)
 - [macro] Fort Hood shooter to be executed by firing squad, in first since World War Two (BBC News)
@@ -37,5 +39,3 @@
 - [macro] Yemeni military says it has 'secured' Red Sea waterway (BBC News)
 - [macro] A simple guide to the US midterms (BBC News)
 - [macro] UK MPs call for investigation after Lutnick-Epstein whistleblower dies (BBC News)
-- [macro] Right-wing Flávio Bolsonaro wins first round of Brazil election (BBC News)
-- [macro] Five reasons India's stock market is sinking even when its economy is growing (BBC News)
