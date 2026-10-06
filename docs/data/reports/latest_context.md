@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T04:37:32.110955+00:00`
-- Market context score: `35.61`
-- News risk score: `52.54`
-- Macro risk score: `29.21`
-- Risk-on score: `12.3`
-- Articles: `34`
+- Generated: `2026-10-06T04:52:30.429066+00:00`
+- Market context score: `39.44`
+- News risk score: `49.25`
+- Macro risk score: `29.08`
+- Risk-on score: `18.0`
+- Articles: `36`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T04:30:00+00:00`
+- Day/swing latest: `2026-10-06T04:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `12`, risk headline rate `0.5714`, policy hits `2`
+- crypto: articles `16`, risk hits `12`, risk headline rate `0.5`, policy hits `2`
 - macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin keeps getting rejected at $87,000 as stocks hover near records (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Yemeni military says it has 'secured' Red Sea waterway (BBC News)
 - [macro] Trump says 'threat' led US to pull bombers from RAF Fairford (BBC News)
 - [crypto] Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] OKX eyes emerging markets with yield-offering stablecoin savings and payments app (Cointelegraph.com News)
 - [macro] Separatist party projected to win Quebec election, adding new test to Canada's unity (BBC News)
 - [macro] Samoa leader apologises for Nazi salute after video from 2007 emerges (BBC News)
-- [macro] Fort Hood shooter to be executed by firing squad, in first since World War Two (BBC News)
-- [macro] Trump says he will stop using taxpayer funds for ads after bipartisan pushback (BBC News)
