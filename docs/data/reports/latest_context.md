@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T23:07:25.509130+00:00`
-- Market context score: `40.35`
-- News risk score: `48.61`
-- Macro risk score: `35.72`
-- Risk-on score: `21.98`
-- Articles: `52`
-- Polymarket markets: `390`
+- Generated: `2026-10-06T23:22:33.179952+00:00`
+- Market context score: `40.65`
+- News risk score: `48.47`
+- Macro risk score: `34.94`
+- Risk-on score: `22.23`
+- Articles: `53`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T23:00:00+00:00`
+- Day/swing latest: `2026-10-06T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `2`
-- macro: articles `26`, risk hits `11`, risk headline rate `0.3846`, policy hits `0`
+- macro: articles `27`, risk hits `11`, risk headline rate `0.3704`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] Froyo's made a comeback. But at £12 a tub will it last? (BBC News)
+- [macro] Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' (BBC News)
 - [macro] UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor (BBC News)
 - [macro] Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo (BBC News)
 - [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
-- [macro] White House defends Trump comment to let Iran 'take out' LA and San Diego (BBC News)
