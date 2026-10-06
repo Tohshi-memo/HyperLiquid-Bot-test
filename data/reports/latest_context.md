@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T21:37:40.989990+00:00`
-- Market context score: `41.57`
-- News risk score: `47.25`
-- Macro risk score: `35.65`
-- Risk-on score: `23.52`
-- Articles: `56`
+- Generated: `2026-10-06T21:53:11.582043+00:00`
+- Market context score: `42.34`
+- News risk score: `46.34`
+- Macro risk score: `34.34`
+- Risk-on score: `23.97`
+- Articles: `55`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T21:30:00+00:00`
+- Day/swing latest: `2026-10-06T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `2`
-- macro: articles `26`, risk hits `10`, risk headline rate `0.3846`, policy hits `0`
+- macro: articles `25`, risk hits `9`, risk headline rate `0.36`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say (BBC News)
 - [macro] Watch: Riot police clash with school protesters and use tear gas in France (BBC News)
-- [macro] US death row inmate Christa Pike conscious after failed execution, lawyers say (BBC News)
 - [crypto] Conduit sues Tether over allegedly freezing $2.8M without explanation (Cointelegraph.com News)
 - [crypto] Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
