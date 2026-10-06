@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T05:37:27.120367+00:00`
+- Generated: `2026-10-06T05:52:27.876870+00:00`
 - Market context score: `40.5`
 - News risk score: `48.1`
 - Macro risk score: `26.9`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T05:30:00+00:00`
+- Day/swing latest: `2026-10-06T05:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `10`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `14`, risk hits `9`, risk headline rate `0.5`, policy hits `1`
 - macro: articles `17`, risk hits `4`, risk headline rate `0.1765`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto (Cointelegraph.com News)
 - [macro] Watch: Moment Indonesian sneaker shop is torn apart by explosion (BBC News)
 - [crypto] U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5% (Economy)
 - [crypto] Rain seeks US trust bank charter days after OCC sued over crypto charters (Cointelegraph.com News)
-- [crypto] OKX eyes emerging markets with yield-offering stablecoin savings and payments app (Cointelegraph.com News)
