@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-06T02:20:35.094751+00:00`
-- Flow alert score: `18.28`
+- Generated: `2026-10-06T02:25:36.659540+00:00`
+- Flow alert score: `18.2`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11293330.23`
-- Polymarket volume z-score: `0.32`
+- Polymarket 24h volume: `11220300.59`
+- Polymarket volume z-score: `0.3`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1595759.1987589996` | liquidity: `1142854.2977`
-- Bitcoin Up or Down on October 5? | 24h volume: `1438885.4174159998` | liquidity: `316272.58009`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1068469.3673850005` | liquidity: `656966.57169`
-- Will the U.S. invade Iran before 2027? | 24h volume: `510626.525207` | liquidity: `1095159.9878`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `353061.2757560001` | liquidity: `638999.1178`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `346665.7783429999` | liquidity: `108742.9541`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `338583.291097` | liquidity: `460433.51272`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `335826.549502` | liquidity: `839439.80481`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1601904.518758` | liquidity: `1142286.5014`
+- Bitcoin Up or Down on October 5? | 24h volume: `1438854.4025529996` | liquidity: `316271.09253`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1067549.0329360007` | liquidity: `697349.12963`
+- Will the U.S. invade Iran before 2027? | 24h volume: `510464.591874` | liquidity: `1095153.6388`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `350299.61741899996` | liquidity: `109359.2031`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `340831.40431600006` | liquidity: `638950.2922`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `338583.291097` | liquidity: `461346.62117`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `335726.549502` | liquidity: `839439.80481`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
