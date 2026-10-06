@@ -151,7 +151,7 @@ function flowTone(score) {
 function formatDate(value) {
   if (!value) return "--";
   const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return value;
+  if (Number.isNaN(date.getTime())) return "--";
   return date.toLocaleString("en-US", { month: "short", day: "2-digit", hour: "2-digit", minute: "2-digit" });
 }
 
@@ -409,7 +409,7 @@ function renderPolymarket(context, flow) {
           <span>liquidity ${fmtNumber(market.liquidity, 0)}</span>
         </div>
         <div class="meta-line">
-          <span>end ${formatDate(endDate)}</span>
+          <span>end ${escapeHtml(formatDate(endDate))}</span>
           <span>${escapeHtml(market.impact_category || market.query || market.slug || "")}</span>
         </div>
         ${renderPolymarketAction(market)}
@@ -440,7 +440,7 @@ function renderHealthPolymarket(context, flow) {
           <span>liquidity ${fmtNumber(market.liquidity, 0)}</span>
         </div>
         <div class="meta-line">
-          <span>end ${formatDate(endDate)}</span>
+          <span>end ${escapeHtml(formatDate(endDate))}</span>
           <span>${escapeHtml(market.impact_category || market.query || market.slug || "")}</span>
         </div>
         ${renderPolymarketAction(market)}
@@ -527,7 +527,7 @@ function renderPolymarketPeopleList() {
         <div class="meta-line">
           <span>${escapeHtml(row.outcome_name || "Outcome")}</span>
           <span>${escapeHtml(row.impact_category || "")}</span>
-          <span>${formatDate(row.observed_at)}</span>
+          <span>${escapeHtml(formatDate(row.observed_at))}</span>
         </div>
         <div class="meta-line">
           <span>24h vol ${fmtNumber(row.volume_24h, 0)}</span>
@@ -640,22 +640,34 @@ function mergeMarkets(primary, secondary) {
   return [...map.values()];
 }
 
+function safeHeadlineUrl(value) {
+  if (typeof value !== "string") return null;
+  try {
+    // No base URL: relative and protocol-relative feed links are ambiguous.
+    const url = new URL(value);
+    if (url.protocol !== "https:" && url.protocol !== "http:") return null;
+    return url.href;
+  } catch {
+    return null;
+  }
+}
+
 function renderHeadlines(context) {
   const node = document.getElementById("headlinesList");
   if (!node) return;
   const headlines = Array.isArray(context?.news?.top_headlines) ? context.news.top_headlines : [];
   node.innerHTML = headlines.slice(0, 8).map((item) => {
     const title = escapeHtml(item.title || "Untitled headline");
-    const href = item.url ? escapeHtml(item.url) : "";
+    const href = safeHeadlineUrl(item.url);
     const titleHtml = href
-      ? `<a href="${href}" target="_blank" rel="noopener noreferrer">${title}</a>`
+      ? `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${title}</a>`
       : title;
     return `
       <article class="item-card">
         <strong>${titleHtml}</strong>
         <div class="meta-line">
           <span>${escapeHtml([item.category, item.source || "unknown source"].filter(Boolean).join(" / "))}</span>
-          <span>${formatDate(item.published_at)}</span>
+          <span>${escapeHtml(formatDate(item.published_at))}</span>
         </div>
       </article>
     `;
@@ -708,7 +720,7 @@ function renderMacroIndicators(macro) {
   const releaseHtml = releaseRows.slice(0, 6).map((row) => `
     <div class="detail-row">
       <span>${escapeHtml(row.name || row.key)}</span>
-      <strong>${formatDate(row.scheduled_for || row.scheduled_utc)}</strong>
+      <strong>${escapeHtml(formatDate(row.scheduled_for || row.scheduled_utc))}</strong>
       <small>${escapeHtml([row.reference_period, row.source, row.calendar_status].filter(Boolean).join(" / "))}</small>
     </div>
   `).join("");
@@ -737,7 +749,7 @@ function renderSectorReactions(sectorReactions) {
       </div>
       <div class="meta-line">
         <span>price ${fmtNumber(row.price, 2)}</span>
-        <span>${formatDate(row.date)}</span>
+        <span>${escapeHtml(formatDate(row.date))}</span>
       </div>
     </article>
   `).join("");
