@@ -1,24 +1,24 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T14:07:42.117082+00:00`
-- Market context score: `35.77`
+- Generated: `2026-10-06T14:22:38.525218+00:00`
+- Market context score: `35.58`
 - News risk score: `51.98`
 - Macro risk score: `41.46`
-- Risk-on score: `16.83`
+- Risk-on score: `16.39`
 - Articles: `59`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1538`
+- Asset universe count: `1540`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1080`
+- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1082`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T14:00:00+00:00`
+- Day/swing latest: `2026-10-06T14:15:00+00:00`
 
 ## News Categories
 
@@ -34,7 +34,7 @@
 - [macro] Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments (BBC News)
 - [macro] Russia responds to US help offer after death of plague researcher (BBC News)
 - [crypto] OKX exchange raises fresh capital at $25B valuation (Cointelegraph.com News)
+- [macro] US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86 (BBC News)
 - [crypto] Capital starting to rotate back to crypto from AI: Raoul Pal (Cointelegraph.com News)
 - [commodity] Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks (Energy)
 - [macro] Kenya confirms its first Ebola death as outbreak spreads (BBC News)
-- [macro] Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year (Economy)
