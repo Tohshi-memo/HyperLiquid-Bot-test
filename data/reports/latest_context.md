@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T00:37:29.453760+00:00`
+- Generated: `2026-10-06T00:52:38.444520+00:00`
 - Market context score: `44.92`
 - News risk score: `43.29`
 - Macro risk score: `28.03`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T00:30:00+00:00`
+- Day/swing latest: `2026-10-06T00:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Yemeni military says it has 'secured' Red Sea waterway (BBC News)
 - [macro] Right-wing Flávio Bolsonaro wins first round of Brazil election (BBC News)
 - [macro] Five reasons India's stock market is sinking even when its economy is growing (BBC News)
 - [macro] We're saving £100 a month into pensions for our toddler and baby - here's why (BBC News)
@@ -38,4 +39,3 @@
 - [macro] France braces for national day of school protests after injuries and mass arrests (BBC News)
 - [crypto] FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns (Cointelegraph.com News)
 - [policy] Federal Reserve Board announces approval of application by Isabella Bank Corporation (FRB: Press Release - All Releases)
-- [crypto] Modern Treasury seeks US trust bank charter for digital asset custody (Cointelegraph.com News)
