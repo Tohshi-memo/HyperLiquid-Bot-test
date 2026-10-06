@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T10:07:31.975415+00:00`
-- Market context score: `40.62`
-- News risk score: `46.76`
-- Macro risk score: `30.35`
-- Risk-on score: `18.99`
-- Articles: `44`
+- Generated: `2026-10-06T10:22:28.252837+00:00`
+- Market context score: `41.67`
+- News risk score: `45.85`
+- Macro risk score: `29.08`
+- Risk-on score: `20.09`
+- Articles: `47`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T10:00:00+00:00`
+- Day/swing latest: `2026-10-06T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `0`
-- macro: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `1`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `0`
+- macro: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins (Cointelegraph.com News)
-- [macro] ASOS app users receive notifications from hackers in apparent breach (BBC News)
-- [macro] Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks (BBC News)
 - [macro] Kenya confirms its first Ebola death as outbreak spreads (BBC News)
+- [crypto] Hong Kong officials double down on end-2026 deadline for crypto licensing bill (Cointelegraph.com News)
+- [macro] Nigeria mourns 32 killed as military plane crashes into swamp (BBC News)
+- [macro] 'Ghost particles' from space telescope wins physics Nobel (BBC News)
+- [macro] Indian opposition MPs detained in protest against election chief (BBC News)
+- [crypto] Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins (Cointelegraph.com News)
+- [macro] ASOS app users receive push notifications apparently sent by hackers (BBC News)
+- [macro] Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks (BBC News)
 - [crypto] U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ondo opens private markets with tokenized pre-IPO AI exposure (Cointelegraph.com News)
-- [crypto] Solana Foundation targets settlement in seconds with DvP launch (Cointelegraph.com News)
-- [macro] Nigeria mourns 32 killed as military plane crashes into swamp (BBC News)
-- [crypto] OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Separatist party projected to win Quebec election, adding new test to Canada's unity (BBC News)
