@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T18:37:33.978964+00:00`
+- Generated: `2026-10-06T18:52:48.641071+00:00`
 - Market context score: `41.29`
 - News risk score: `48.81`
 - Macro risk score: `38.24`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T18:30:00+00:00`
+- Day/swing latest: `2026-10-06T18:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] From films to streaming prices - how the Warner Bros deal could affect you (BBC News)
 - [crypto] Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast (Cointelegraph.com News)
 - [macro] Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments (BBC News)
 - [crypto] Bill aims at stopping US lawmaker bets on their own elections ahead of midterms (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Bitcoin grinds toward $87K as US equities hit new record highs (Cointelegraph.com News)
 - [commodity] High diesel prices may put 'another squeeze' on the consumer, economist says (Energy)
 - [crypto] Securitize stock jumps 8% amid South Korea tokenization push (Cointelegraph.com News)
-- [crypto] Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
