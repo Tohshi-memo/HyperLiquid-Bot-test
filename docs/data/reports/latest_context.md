@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T05:52:27.876870+00:00`
-- Market context score: `40.5`
-- News risk score: `48.1`
-- Macro risk score: `26.9`
-- Risk-on score: `18.56`
-- Articles: `32`
+- Generated: `2026-10-06T06:07:36.832845+00:00`
+- Market context score: `41.45`
+- News risk score: `46.09`
+- Macro risk score: `29.3`
+- Risk-on score: `19.88`
+- Articles: `33`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T05:45:00+00:00`
+- Day/swing latest: `2026-10-06T06:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `9`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `17`, risk hits `4`, risk headline rate `0.1765`, policy hits `0`
+- crypto: articles `14`, risk hits `8`, risk headline rate `0.4286`, policy hits `1`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] OpenAI admits response to Australian government hacks 'not good enough' (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto (Cointelegraph.com News)
 - [macro] Watch: Moment Indonesian sneaker shop is torn apart by explosion (BBC News)
 - [crypto] U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Yemeni military says it has 'secured' Red Sea waterway (BBC News)
 - [macro] Trump says 'threat' led US to pull bombers from RAF Fairford (BBC News)
 - [crypto] Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5% (Economy)
-- [crypto] Rain seeks US trust bank charter days after OCC sued over crypto charters (Cointelegraph.com News)
