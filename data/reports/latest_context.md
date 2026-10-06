@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T17:22:38.266540+00:00`
+- Generated: `2026-10-06T17:37:35.428035+00:00`
 - Market context score: `41.33`
-- News risk score: `47.47`
-- Macro risk score: `37.86`
-- Risk-on score: `24.02`
+- News risk score: `48.79`
+- Macro risk score: `38.25`
+- Risk-on score: `25.28`
 - Articles: `61`
 - Polymarket markets: `389`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T17:15:00+00:00`
+- Day/swing latest: `2026-10-06T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `28`, risk hits `13`, risk headline rate `0.4643`, policy hits `1`
+- crypto: articles `29`, risk hits `8`, risk headline rate `0.2759`, policy hits `0`
+- macro: articles `27`, risk hits `13`, risk headline rate `0.4815`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin grinds toward $87K as US equities hit new record highs (Cointelegraph.com News)
 - [commodity] High diesel prices may put 'another squeeze' on the consumer, economist says (Energy)
 - [crypto] Securitize stock jumps 8% amid South Korea tokenization push (Cointelegraph.com News)
 - [crypto] Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] White House defends Trump comment to let Iran 'take out' LA and San Diego (BBC News)
 - [commodity] Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks (Energy)
 - [macro] Kenya confirms its first Ebola death as outbreak spreads (BBC News)
-- [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
