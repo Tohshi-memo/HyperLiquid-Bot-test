@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T21:04:12.505490+00:00`
-- Market context score: `39.91`
-- News risk score: `49.91`
-- Macro risk score: `35.62`
-- Risk-on score: `22.07`
-- Articles: `58`
+- Generated: `2026-10-06T21:07:41.477019+00:00`
+- Market context score: `40.17`
+- News risk score: `49.64`
+- Macro risk score: `35.61`
+- Risk-on score: `22.41`
+- Articles: `59`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,14 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `29`, risk hits `10`, risk headline rate `0.3448`, policy hits `2`
+- crypto: articles `30`, risk hits `10`, risk headline rate `0.3333`, policy hits `2`
 - macro: articles `26`, risk hits `10`, risk headline rate `0.3846`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] US death row inmate Christa Pike conscious after failed execution, lawyers say (BBC News)
+- [crypto] Conduit sues Tether over allegedly freezing $2.8M without explanation (Cointelegraph.com News)
 - [crypto] Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
@@ -38,4 +39,3 @@
 - [macro] What can I do to protect myself after 'Asos hacked' message? (BBC News)
 - [macro] Amazon wins global rights to stream Emmys in six-year deal (BBC News)
 - [macro] From films to streaming prices - how the Warner Bros deal could affect you (BBC News)
-- [crypto] Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast (Cointelegraph.com News)
