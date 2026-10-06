@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T16:52:41.965705+00:00`
-- Market context score: `41.05`
+- Generated: `2026-10-06T17:07:36.540262+00:00`
+- Market context score: `42.27`
 - News risk score: `45.98`
 - Macro risk score: `37.87`
-- Risk-on score: `22.12`
+- Risk-on score: `24.85`
 - Articles: `60`
 - Polymarket markets: `389`
 
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1082`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-10-06T17:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Separatist party projected to win Quebec election, adding new test to Canada's unity (BBC News)
 - [crypto] Crypto is expanding the boundaries of what can be priced (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] ECB policymaker warns of fragmentation without digital euro (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Kenya confirms its first Ebola death as outbreak spreads (BBC News)
 - [macro] Paramount takes over Warner Bros in $110bn Hollywood merger (BBC News)
 - [macro] Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year (Economy)
-- [crypto] Ripple expands Brevan Howard deal with prime brokerage services (Cointelegraph.com News)
