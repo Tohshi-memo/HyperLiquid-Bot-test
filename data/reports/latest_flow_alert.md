@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-07T18:40:28.867712+00:00`
+- Generated: `2026-10-07T18:45:46.258826+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `886137.705265` | liquidity: `427643.3388`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `691315.2170000001` | liquidity: `278825.07335`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `638342.623962` | liquidity: `653620.81608`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `443566.72721999994` | liquidity: `120609.5994`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `434704.815` | liquidity: `769720.61026`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `395099.4485659998` | liquidity: `800767.85347`
-- Will the U.S. invade Iran before 2027? | 24h volume: `303965.4352490001` | liquidity: `903429.5284`
-- Bitcoin Up or Down on October 5? | 24h volume: `302975.282006` | liquidity: `547066.16831`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `886137.705265` | liquidity: `425988.92644`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `691315.2170000001` | liquidity: `275844.83235`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `638342.623962` | liquidity: `653634.40134`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `443566.72721999994` | liquidity: `121058.5371`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `434704.815` | liquidity: `768689.85936`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `395099.4485659998` | liquidity: `796472.75998`
+- Will the U.S. invade Iran before 2027? | 24h volume: `303965.4352490001` | liquidity: `891464.4539`
+- Bitcoin Up or Down on October 5? | 24h volume: `302975.282006` | liquidity: `597016.96804`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
