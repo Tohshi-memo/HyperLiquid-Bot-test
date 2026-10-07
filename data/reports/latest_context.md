@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T05:52:29.053447+00:00`
-- Market context score: `35.87`
-- News risk score: `50.5`
-- Macro risk score: `35.68`
-- Risk-on score: `13.61`
-- Articles: `36`
+- Generated: `2026-10-07T06:07:31.419992+00:00`
+- Market context score: `35.67`
+- News risk score: `50.56`
+- Macro risk score: `35.93`
+- Risk-on score: `13.31`
+- Articles: `35`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T05:45:00+00:00`
+- Day/swing latest: `2026-10-07T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `11`, risk hits `6`, risk headline rate `0.4545`, policy hits `2`
-- macro: articles `23`, risk hits `11`, risk headline rate `0.3478`, policy hits `3`
+- crypto: articles `11`, risk hits `6`, risk headline rate `0.4545`, policy hits `1`
+- macro: articles `22`, risk hits `11`, risk headline rate `0.3636`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery (Energy)
 - [macro] India’s central bank hikes rates for the first time since 2023 as inflation risks build (Economy)
 - [macro] Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Former Australian bishop jailed for sexually abusing young men (BBC News)
 - [crypto] Cardano gives token issuers power to freeze, seize and restrict assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
