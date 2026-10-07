@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-07T02:25:32.795029+00:00`
+- Generated: `2026-10-07T02:30:40.931301+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `427136.2149060002` | liquidity: `94756.2617`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `377229.8935670001` | liquidity: `835923.43762`
-- Bitcoin Up or Down on October 5? | 24h volume: `373541.268385` | liquidity: `229122.62553`
-- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `105730.19398`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `339922.7858809999` | liquidity: `1273496.2085`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `292922.45423100004` | liquidity: `2313715.9782`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `291834.047793` | liquidity: `2110588.7226`
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `280590.6872` | liquidity: `1087212.37508`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `427136.2149060002` | liquidity: `85950.4414`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `377229.8935670001` | liquidity: `834025.60635`
+- Bitcoin Up or Down on October 5? | 24h volume: `373541.268385` | liquidity: `229121.85491`
+- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `105730.31398`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `339922.7858809999` | liquidity: `1231749.1385`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `292922.45423100004` | liquidity: `2312130.4358`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `291834.047793` | liquidity: `2134348.2324`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `280590.6872` | liquidity: `1086912.91508`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
