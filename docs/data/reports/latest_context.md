@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T08:07:32.948796+00:00`
-- Market context score: `46.53`
-- News risk score: `38.28`
-- Macro risk score: `29.9`
-- Risk-on score: `24.79`
-- Articles: `33`
+- Generated: `2026-10-07T08:22:37.219323+00:00`
+- Market context score: `47.79`
+- News risk score: `36.75`
+- Macro risk score: `28.57`
+- Risk-on score: `25.81`
+- Articles: `32`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1082`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-10-07T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `3`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
+- macro: articles `17`, risk hits `6`, risk headline rate `0.2353`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Russia clears first crypto exchanges, custodians under new law (Cointelegraph.com News)
 - [macro] Jaguar unveils new electric car after 'woke' ridicule (BBC News)
 - [crypto] Down but not out. Bitcoin's stair-step bullish trajectory is still intact (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery (Energy)
-- [macro] India’s central bank hikes rates for the first time since 2023 as inflation risks build (Economy)
