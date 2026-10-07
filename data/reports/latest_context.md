@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T12:07:28.300353+00:00`
+- Generated: `2026-10-07T12:22:31.116437+00:00`
 - Market context score: `45.48`
 - News risk score: `42.59`
 - Macro risk score: `32.98`
 - Risk-on score: `27.26`
 - Articles: `51`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T12:00:00+00:00`
+- Day/swing latest: `2026-10-07T12:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
+- [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
+- [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
 - [macro] ICE came to town and left behind weakened economies (Economy)
 - [crypto] Swift blockchain ledger requires key internal layers, Taurus co-founder warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] India’s central bank hikes rates for the first time since 2023 as inflation risks build (Economy)
 - [macro] Chemistry Nobel awarded for solving mystery of life's asymmetry (BBC News)
 - [macro] Ex-bankers jailed for rigging rates have convictions quashed (BBC News)
 - [crypto] Crypto card access doesn’t match global demand, Tangem says (Cointelegraph.com News)
-- [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
 - [crypto] Here’s what bitcoin needs to break above $87,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump to speak to Putin about plague lab worker's death in Russia (BBC News)
-- [macro] Royal Mail plans to cut 2,500 jobs (BBC News)
