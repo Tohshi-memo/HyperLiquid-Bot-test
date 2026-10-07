@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T00:52:30.530756+00:00`
-- Market context score: `43.9`
-- News risk score: `46.0`
-- Macro risk score: `33.67`
-- Risk-on score: `26.89`
-- Articles: `51`
+- Generated: `2026-10-07T01:08:07.482662+00:00`
+- Market context score: `42.08`
+- News risk score: `48.23`
+- Macro risk score: `33.75`
+- Risk-on score: `24.77`
+- Articles: `47`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T00:45:00+00:00`
+- Day/swing latest: `2026-10-07T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `2`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `2`
 - macro: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
 - [crypto] Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses (Cointelegraph.com News)
 - [macro] From 'woke' ridicule to real car - new electric Jaguar unveiled (BBC News)
-- [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
 - [macro] A beautiful Himalayan bird is changing its voice due to human activity, research shows (BBC News)
 - [macro] Froyo's made a comeback. But at £12 a tub will it last? (BBC News)
 - [macro] Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' (BBC News)
