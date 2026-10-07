@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-07T19:55:37.187987+00:00`
+- Generated: `2026-10-07T20:00:33.864797+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9523502.14`
-- Polymarket volume z-score: `-0.35`
+- Polymarket 24h volume: `9446338.42`
+- Polymarket volume z-score: `-0.37`
 
 ## Top Polymarket Markets
 
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `886603.705265` | liquidity: `428489.51219`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `691315.2170000001` | liquidity: `276614.68417`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `630084.374608` | liquidity: `652579.29891`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `432774.15810099995` | liquidity: `126720.9083`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `389321.8017769997` | liquidity: `763121.75493`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `384269.815` | liquidity: `824240.38956`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `377421.07375` | liquidity: `270553.7929`
-- Will the U.S. invade Iran before 2027? | 24h volume: `298830.28525300004` | liquidity: `767058.1374`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `886603.705265` | liquidity: `428737.95414`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `691315.2170000001` | liquidity: `274155.54423`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `630154.374608` | liquidity: `652260.80195`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `389022.7321079999` | liquidity: `762471.51981`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `384269.815` | liquidity: `824181.97772`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `377629.71375000005` | liquidity: `259928.32957`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `368574.37332400004` | liquidity: `134096.0183`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `309271.37659` | liquidity: `2299447.8568`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
