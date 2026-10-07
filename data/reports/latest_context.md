@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T18:07:33.227290+00:00`
-- Market context score: `42.96`
-- News risk score: `46.64`
-- Macro risk score: `36.76`
-- Risk-on score: `26.52`
+- Generated: `2026-10-07T18:22:30.346194+00:00`
+- Market context score: `44.1`
+- News risk score: `45.53`
+- Macro risk score: `34.54`
+- Risk-on score: `27.26`
 - Articles: `59`
 - Polymarket markets: `389`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T18:00:00+00:00`
+- Day/swing latest: `2026-10-07T18:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
+- commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `32`, risk hits `9`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `6`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `6`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 (Economy)
+- [commodity] Oil prices fall as IEA members agree to prioritize release of diesel stocks (Energy)
+- [macro] Children killed while they slept as Russian missile kills 19 in block of flats (BBC News)
+- [commodity] Trump’s diesel order exposes White House limits to counter surging fuel prices (Energy)
 - [crypto] Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps (Cointelegraph.com News)
 - [policy] Minutes of the Federal Open Market Committee, September 15-16, 2026 (FRB: Press Release - All Releases)
 - [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
 - [crypto] Sui tunnels hit 40.6M TPS in live AI agent test (Cointelegraph.com News)
 - [macro] Canada suspends plans to expand assisted dying to people with mental illness (BBC News)
 - [macro] Boots sold in £7bn deal to Canadian billionaire family (BBC News)
-- [crypto] Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization (Cointelegraph.com News)
-- [macro] Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 (Economy)
-- [crypto] House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill (Cointelegraph.com News)
