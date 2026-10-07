@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-07T06:45:37.997219+00:00`
+- Generated: `2026-10-07T06:50:32.218596+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `884707.8486` | liquidity: `453260.46818`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `504265.13135900017` | liquidity: `122936.9792`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `424668.384366` | liquidity: `2295590.639`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `884707.8486` | liquidity: `454986.42551`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `504265.13135900017` | liquidity: `123207.9457`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `424668.384366` | liquidity: `2284264.937`
 - Bitcoin Up or Down on October 5? | 24h volume: `388625.115987` | liquidity: `329769.14459`
-- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `105002.32882`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `349119.89112400013` | liquidity: `912439.21782`
-- China Open: Iva Jovic vs Iga Swiatek | 24h volume: `342980.54244200006` | liquidity: `251699.74152`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `336096.52121800004` | liquidity: `1249007.8382`
+- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `105671.05667`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `349119.89112400013` | liquidity: `935912.91249`
+- China Open: Iva Jovic vs Iga Swiatek | 24h volume: `342980.54244200006` | liquidity: `313257.73124`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `336096.52121800004` | liquidity: `1270905.8312`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
