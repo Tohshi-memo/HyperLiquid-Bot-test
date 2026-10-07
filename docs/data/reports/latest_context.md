@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T10:07:30.182654+00:00`
-- Market context score: `46.4`
-- News risk score: `38.38`
-- Macro risk score: `30.12`
-- Risk-on score: `24.67`
-- Articles: `40`
+- Generated: `2026-10-07T10:22:33.630391+00:00`
+- Market context score: `46.79`
+- News risk score: `38.69`
+- Macro risk score: `29.1`
+- Risk-on score: `25.42`
+- Articles: `46`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T10:00:00+00:00`
+- Day/swing latest: `2026-10-07T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.2381`, policy hits `3`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `0`
+- macro: articles `26`, risk hits `8`, risk headline rate `0.2308`, policy hits `3`
 
 ## Headlines
 
+- [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
+- [macro] Chemistry Nobel awarded for solving mystery of life's asymmetry (BBC News)
+- [macro] How did Christa Pike survive execution attempt - and what happens next? (BBC News)
+- [macro] Trump to speak to Putin about plague lab worker's death in Russia (BBC News)
+- [crypto] ‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec (Cointelegraph.com News)
+- [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
 - [macro] Royal Mail plans to cut 2,500 head office jobs (BBC News)
 - [macro] What can I do to protect myself after 'Asos hacked' message? (BBC News)
+- [macro] Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations (BBC News)
 - [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
-- [crypto] Crypto liquidations hit $550M as Bitcoin price dips below $84K (Cointelegraph.com News)
-- [macro] California pair charged with abusing at least 14 surrogate-born children (BBC News)
-- [commodity] Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse (Energy)
-- [crypto] Rain is seeking a national trust bank charter to bypass third-party banks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin ETFs rebound with $119M inflow as Ether extends losses (Cointelegraph.com News)
-- [commodity] Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery (Energy)
-- [crypto] Robinhood adds bitcoin worth $25 million to its balance sheet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
