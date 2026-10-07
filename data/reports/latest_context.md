@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T02:07:29.779364+00:00`
-- Market context score: `40.9`
-- News risk score: `50.25`
-- Macro risk score: `35.39`
-- Risk-on score: `24.47`
-- Articles: `43`
+- Generated: `2026-10-07T02:23:03.471774+00:00`
+- Market context score: `40.46`
+- News risk score: `50.98`
+- Macro risk score: `35.87`
+- Risk-on score: `24.29`
+- Articles: `45`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T02:00:00+00:00`
+- Day/swing latest: `2026-10-07T02:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `2`
 - macro: articles `24`, risk hits `10`, risk headline rate `0.375`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister (Energy)
+- [commodity] Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery (Energy)
 - [macro] Fort Hood shooter to be executed by firing squad - a first for US military since World War Two (BBC News)
 - [macro] From 'woke' ridicule to real car - new electric Jaguar unveiled (BBC News)
 - [crypto] Bitcoin.de trading remains halted as German regulator rejects MiCA application (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] A beautiful Himalayan bird is changing its voice due to human activity, research shows (BBC News)
 - [macro] Froyo's made a comeback. But at £12 a tub will it last? (BBC News)
 - [macro] Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' (BBC News)
-- [macro] UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor (BBC News)
-- [macro] Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo (BBC News)
