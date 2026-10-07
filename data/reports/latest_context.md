@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T16:07:30.039364+00:00`
+- Generated: `2026-10-07T16:22:32.890122+00:00`
 - Market context score: `45.39`
 - News risk score: `45.15`
 - Macro risk score: `35.97`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T16:00:00+00:00`
+- Day/swing latest: `2026-10-07T16:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 (Economy)
+- [crypto] House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill (Cointelegraph.com News)
+- [macro] Israelis demand accountability over 7 October failures three years after attacks (BBC News)
 - [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
 - [macro] Boots sold in £7bn deal to Canadian billionaire family (BBC News)
-- [macro] Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 (Economy)
 - [crypto] Coinbase brings global crypto derivatives liquidity to US with Deribit integration (Cointelegraph.com News)
 - [crypto] Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves (Cointelegraph.com News)
 - [crypto] Crypto Long & Short: Zcash and the case for privacy in the age of AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky condemns 'vile' large-scale Russian attacks that killed 24 (BBC News)
-- [macro] Trump to speak to Putin about plague lab worker's death in Russia (BBC News)
-- [crypto] Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
