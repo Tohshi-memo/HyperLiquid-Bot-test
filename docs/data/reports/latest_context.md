@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T13:56:54.119131+00:00`
-- Market context score: `44.9`
-- News risk score: `45.08`
-- Macro risk score: `34.48`
-- Risk-on score: `28.66`
-- Articles: `56`
+- Generated: `2026-10-07T14:07:40.892114+00:00`
+- Market context score: `45.17`
+- News risk score: `44.97`
+- Macro risk score: `33.75`
+- Risk-on score: `28.89`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T13:45:00+00:00`
+- Day/swing latest: `2026-10-07T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `1`
 - crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `2`
-- macro: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `5`
+- macro: articles `26`, risk hits `9`, risk headline rate `0.2692`, policy hits `5`
 
 ## Headlines
 
+- [macro] Boots sold in $8.9bn deal to Canadian billionaire family (BBC News)
 - [macro] Ex-bankers jailed for rigging rates have convictions quashed (BBC News)
 - [crypto] Quantum computers threaten exposed private keys rather than blockchains, Europol warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Home heating oil prices are soaring — and users' winter bills could rise 21%, federal outlook shows (Energy)
 - [crypto] Crypto trading giant GSR's new vault business is a $100M bet on onchain credit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO (Cointelegraph.com News)
