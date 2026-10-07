@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T17:07:35.595996+00:00`
+- Generated: `2026-10-07T17:22:27.341369+00:00`
 - Market context score: `42.96`
 - News risk score: `46.52`
 - Macro risk score: `36.38`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T17:00:00+00:00`
+- Day/swing latest: `2026-10-07T17:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Canada suspends plans to expand assisted dying to people with mental illness (BBC News)
 - [macro] Boots sold in £7bn deal to Canadian billionaire family (BBC News)
+- [macro] Canada suspends plans to expand assisted dying to people with mental illness (BBC News)
 - [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
 - [crypto] Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization (Cointelegraph.com News)
