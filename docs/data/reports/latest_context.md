@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T08:52:27.402491+00:00`
-- Market context score: `46.08`
-- News risk score: `37.84`
+- Generated: `2026-10-07T09:07:28.116137+00:00`
+- Market context score: `48.43`
+- News risk score: `34.38`
 - Macro risk score: `30.76`
-- Risk-on score: `23.74`
+- Risk-on score: `26.05`
 - Articles: `33`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T08:45:00+00:00`
+- Day/swing latest: `2026-10-07T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.1538`, policy hits `0`
 - macro: articles `17`, risk hits `6`, risk headline rate `0.2353`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery (Energy)
+- [crypto] Robinhood adds bitcoin worth $25 million to its balance sheet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears (Cointelegraph.com News)
 - [commodity] Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse (Energy)
 - [crypto] Russia clears first crypto exchanges, custodians under new law (Cointelegraph.com News)
 - [macro] Jaguar unveils new electric car after 'woke' ridicule (BBC News)
@@ -35,6 +38,3 @@
 - [macro] India's opposition leader dragged onto bus as police break up protest (BBC News)
 - [crypto] DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid (Cointelegraph.com News)
 - [macro] Rainmakers: The drones used to seed clouds (BBC News)
-- [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
-- [macro] Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva (Economy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
