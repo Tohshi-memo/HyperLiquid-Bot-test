@@ -2,7 +2,7 @@
 
 Public macro indicators for rates, employment, inflation, dollar, and risk context. These are inputs for analysis, not trade signals.
 
-- Generated: `2026-10-06T23:18:30.032456+00:00`
+- Generated: `2026-10-07T14:18:25.237613+00:00`
 - Indicators: `11`
 
 ## Providers
