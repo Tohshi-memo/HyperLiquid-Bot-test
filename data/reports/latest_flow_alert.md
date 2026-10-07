@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-07T12:25:31.923533+00:00`
+- Generated: `2026-10-07T12:30:35.879427+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `884623.321099` | liquidity: `456559.66837`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `637416.517429` | liquidity: `576022.10553`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `507736.7313950002` | liquidity: `103997.3036`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `497818.7248089999` | liquidity: `875351.83533`
-- China Open: Alina Charaeva vs Qinwen Zheng | 24h volume: `480258.5444860003` | liquidity: `155712.9094`
-- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `72485.79547`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `318696.558986` | liquidity: `2351186.8805`
-- Bitcoin Up or Down on October 5? | 24h volume: `291180.15678099997` | liquidity: `347729.48848`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `884623.321099` | liquidity: `456526.69121`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `637416.517429` | liquidity: `576489.70234`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `507736.7313950002` | liquidity: `102246.2018`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `497818.7248089999` | liquidity: `872775.61235`
+- China Open: Alina Charaeva vs Qinwen Zheng | 24h volume: `480258.5444860003` | liquidity: `118306.8218`
+- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `75098.03307`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `318696.558986` | liquidity: `2351464.1557`
+- Bitcoin Up or Down on October 5? | 24h volume: `291180.15678099997` | liquidity: `347729.50619`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
