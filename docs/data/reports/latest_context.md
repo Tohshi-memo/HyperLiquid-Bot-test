@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T00:07:34.607858+00:00`
-- Market context score: `41.68`
-- News risk score: `47.94`
-- Macro risk score: `32.96`
-- Risk-on score: `23.33`
-- Articles: `52`
+- Generated: `2026-10-07T00:23:06.819785+00:00`
+- Market context score: `42.08`
+- News risk score: `47.47`
+- Macro risk score: `32.94`
+- Risk-on score: `23.81`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1082`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-10-07T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `2`
+- crypto: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `2`
 - macro: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses (Cointelegraph.com News)
 - [macro] From 'woke' ridicule to real car - new electric Jaguar unveiled (BBC News)
 - [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
 - [macro] A beautiful Himalayan bird is changing its voice due to human activity, research shows (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo (BBC News)
 - [macro] Watch: Riot police clash with school protesters and use tear gas in France (BBC News)
 - [crypto] Conduit sues Tether over allegedly freezing $2.8M without explanation (Cointelegraph.com News)
-- [crypto] Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing (Cointelegraph.com News)
