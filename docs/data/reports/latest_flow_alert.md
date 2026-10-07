@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-07T05:00:31.375026+00:00`
+- Generated: `2026-10-07T05:05:31.693882+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `884638.1428` | liquidity: `450639.81001`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `498040.98659500014` | liquidity: `118565.0439`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `884638.1428` | liquidity: `455430.28216`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `498040.98659500014` | liquidity: `118980.8903`
 - Bitcoin Up or Down on October 5? | 24h volume: `425342.009146` | liquidity: `342271.63271`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `423272.153095` | liquidity: `2268103.9993`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `358360.9562510001` | liquidity: `953096.81903`
-- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `103731.84985`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `340016.34862899996` | liquidity: `1292294.6986`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `292624.337946` | liquidity: `2311552.461`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `423272.153095` | liquidity: `2263941.5171`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `358360.9562510001` | liquidity: `954333.15627`
+- Will François Asselineau win the 2027 French presidential election? | 24h volume: `356259.582` | liquidity: `105731.64985`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `340016.34862899996` | liquidity: `1293748.241`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `292624.337946` | liquidity: `2314289.281`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
