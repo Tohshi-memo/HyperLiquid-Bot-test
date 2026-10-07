@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T17:22:27.341369+00:00`
-- Market context score: `42.96`
-- News risk score: `46.52`
-- Macro risk score: `36.38`
-- Risk-on score: `26.28`
-- Articles: `58`
+- Generated: `2026-10-07T17:37:34.723127+00:00`
+- Market context score: `42.61`
+- News risk score: `46.72`
+- Macro risk score: `37.27`
+- Risk-on score: `25.99`
+- Articles: `57`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T17:15:00+00:00`
+- Day/swing latest: `2026-10-07T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `1`
-- macro: articles `24`, risk hits `8`, risk headline rate `0.2917`, policy hits `6`
+- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `6`
 
 ## Headlines
 
-- [macro] Boots sold in £7bn deal to Canadian billionaire family (BBC News)
 - [macro] Canada suspends plans to expand assisted dying to people with mental illness (BBC News)
+- [macro] Boots sold in £7bn deal to Canadian billionaire family (BBC News)
 - [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
 - [crypto] Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization (Cointelegraph.com News)
