@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T04:07:25.419590+00:00`
-- Market context score: `37.61`
-- News risk score: `52.44`
-- Macro risk score: `37.63`
-- Risk-on score: `19.85`
+- Generated: `2026-10-07T04:22:32.908248+00:00`
+- Market context score: `39.2`
+- News risk score: `50.44`
+- Macro risk score: `36.27`
+- Risk-on score: `21.18`
 - Articles: `42`
 - Polymarket markets: `390`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T04:00:00+00:00`
+- Day/swing latest: `2026-10-07T04:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `8`, risk headline rate `0.4667`, policy hits `2`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `16`, risk hits `8`, risk headline rate `0.4375`, policy hits `2`
 - macro: articles `23`, risk hits `11`, risk headline rate `0.3913`, policy hits `0`
 
 ## Headlines
 
 - [macro] Former Australian bishop jailed for sexually abusing young men (BBC News)
+- [crypto] Cardano gives token issuers power to freeze, seize and restrict assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5% (Economy)
 - [macro] Incredible or catastrophic? Jaguar unveils its polarising electric car (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Fort Hood shooter to be executed by firing squad - a first for US military since World War Two (BBC News)
 - [crypto] Bitcoin.de trading remains halted as German regulator rejects MiCA application (Cointelegraph.com News)
 - [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
-- [crypto] Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses (Cointelegraph.com News)
