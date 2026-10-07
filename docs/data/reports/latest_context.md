@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-07T18:22:30.346194+00:00`
+- Generated: `2026-10-07T18:37:31.670576+00:00`
 - Market context score: `44.1`
 - News risk score: `45.53`
 - Macro risk score: `34.54`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-07T18:15:00+00:00`
+- Day/swing latest: `2026-10-07T18:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Trump to speak to Putin about plague lab worker's death in Russia (BBC News)
 - [macro] Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 (Economy)
 - [commodity] Oil prices fall as IEA members agree to prioritize release of diesel stocks (Energy)
 - [macro] Children killed while they slept as Russian missile kills 19 in block of flats (BBC News)
@@ -38,4 +39,3 @@
 - [macro] France halts use of stun grenades after boy's hand blown off in student protests (BBC News)
 - [crypto] Sui tunnels hit 40.6M TPS in live AI agent test (Cointelegraph.com News)
 - [macro] Canada suspends plans to expand assisted dying to people with mental illness (BBC News)
-- [macro] Boots sold in £7bn deal to Canadian billionaire family (BBC News)
