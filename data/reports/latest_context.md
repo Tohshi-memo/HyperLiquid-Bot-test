@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-06T23:52:29.831423+00:00`
-- Market context score: `39.54`
-- News risk score: `49.79`
-- Macro risk score: `36.17`
-- Risk-on score: `21.35`
-- Articles: `53`
+- Generated: `2026-10-07T00:07:34.607858+00:00`
+- Market context score: `41.68`
+- News risk score: `47.94`
+- Macro risk score: `32.96`
+- Risk-on score: `23.33`
+- Articles: `52`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,19 @@
 - Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1082`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-10-06T23:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `2`
-- macro: articles `28`, risk hits `12`, risk headline rate `0.3929`, policy hits `0`
+- macro: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] From 'woke' ridicule to real car - new electric Jaguar unveiled (BBC News)
 - [macro] US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (BBC News)
 - [macro] A beautiful Himalayan bird is changing its voice due to human activity, research shows (BBC News)
 - [macro] Froyo's made a comeback. But at £12 a tub will it last? (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Watch: Riot police clash with school protesters and use tear gas in France (BBC News)
 - [crypto] Conduit sues Tether over allegedly freezing $2.8M without explanation (Cointelegraph.com News)
 - [crypto] Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
