@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-10-07T07:07:34.015476+00:00`
+- Generated: `2026-10-07T07:22:32.051968+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `298`
 - Outcome sides (rows): `596`
@@ -42,7 +42,7 @@
 - template:sportsTournamentParticipant [No] symbol `#14921` underlying `n/a` prob `0.963` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardCandidate [No] symbol `#86601` underlying `n/a` prob `0.958` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14781` underlying `n/a` prob `0.9559` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:companyIpoFirstDayMarketCap [template:Yes] symbol `#85730` underlying `n/a` prob `0.955` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:companyIpoFirstDayMarketCap [template:Yes] symbol `#85730` underlying `n/a` prob `0.9548` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardOther [No] symbol `#86581` underlying `n/a` prob `0.9509` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardCandidate [No] symbol `#86621` underlying `n/a` prob `0.9509` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#93971` underlying `n/a` prob `0.9499` price_source `allMids` vol24h `0.0` oi `0.0`
