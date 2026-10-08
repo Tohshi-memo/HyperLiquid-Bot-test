@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T19:52:32.845912+00:00`
-- Market context score: `45.55`
-- News risk score: `46.94`
-- Macro risk score: `35.76`
-- Risk-on score: `32.15`
-- Articles: `65`
+- Generated: `2026-10-08T20:07:36.750642+00:00`
+- Market context score: `45.8`
+- News risk score: `46.67`
+- Macro risk score: `34.6`
+- Risk-on score: `32.02`
+- Articles: `64`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T19:45:00+00:00`
+- Day/swing latest: `2026-10-08T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `38`, risk hits `9`, risk headline rate `0.2368`, policy hits `3`
-- macro: articles `23`, risk hits `9`, risk headline rate `0.3478`, policy hits `1`
+- crypto: articles `36`, risk hits `9`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] White House blocks Microsoft from foreign worker hiring program (BBC News)
 - [crypto] Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Securitize stock jumps over 10% after launching tokenized US equities on Solana (Cointelegraph.com News)
 - [crypto] NFL backs New Jersey authorities in SCOTUS petition over Kalshi (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison (Cointelegraph.com News)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
-- [crypto] Crypto crumbles as anniversary of flash crash nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
