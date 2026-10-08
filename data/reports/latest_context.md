@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T16:37:28.248679+00:00`
+- Generated: `2026-10-08T16:52:38.716199+00:00`
 - Market context score: `46.05`
 - News risk score: `46.43`
 - Macro risk score: `33.14`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T16:30:00+00:00`
+- Day/swing latest: `2026-10-08T16:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [macro] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News)
 - [macro] Asos hackers took more personal details than first revealed, BBC finds (BBC News)
 - [crypto] IMF warns tokenized markets could amplify financial risks (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
 - [crypto] Bitcoin nears 3-week low as oil heads higher on Iran strike woes (Cointelegraph.com News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
-- [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
