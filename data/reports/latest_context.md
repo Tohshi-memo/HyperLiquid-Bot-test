@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T12:22:29.680554+00:00`
-- Market context score: `51.96`
-- News risk score: `40.85`
-- Macro risk score: `35.01`
-- Risk-on score: `40.96`
-- Articles: `58`
+- Generated: `2026-10-08T12:37:28.525780+00:00`
+- Market context score: `51.34`
+- News risk score: `40.87`
+- Macro risk score: `35.04`
+- Risk-on score: `39.62`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T12:15:00+00:00`
+- Day/swing latest: `2026-10-08T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `3`
+- crypto: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `3`
 - macro: articles `27`, risk hits `11`, risk headline rate `0.3704`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Italy overhauls electoral system after fiercely contested debate (BBC News)
 - [macro] Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says (BBC News)
 - [macro] Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge (BBC News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
 - [crypto] Sui’s Hashi to launch with $500M in Bitcoin finance commitments (Cointelegraph.com News)
-- [macro] Italy overhauls electoral system after fiercely contested debate (BBC News)
 - [macro] Bear kills man in home attack near Mongolian capital (BBC News)
 - [crypto] Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing' (Energy)
