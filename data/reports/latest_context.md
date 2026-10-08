@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T18:07:51.923460+00:00`
-- Market context score: `46.53`
-- News risk score: `46.04`
+- Generated: `2026-10-08T18:22:43.520116+00:00`
+- Market context score: `47.41`
+- News risk score: `44.75`
 - Macro risk score: `33.61`
-- Risk-on score: `32.76`
+- Risk-on score: `33.62`
 - Articles: `62`
 - Polymarket markets: `390`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T18:00:00+00:00`
+- Day/swing latest: `2026-10-08T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `35`, risk hits `9`, risk headline rate `0.2571`, policy hits `3`
+- crypto: articles `35`, risk hits `8`, risk headline rate `0.2286`, policy hits `3`
 - macro: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto crumbles as anniversary of flash crash nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] NFL joins pushback against prediction markets as U.S. Supreme Court asked to act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
@@ -38,4 +39,3 @@
 - [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
 - [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [macro] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News)
-- [macro] Asos hackers took more personal details than first revealed, BBC finds (BBC News)
