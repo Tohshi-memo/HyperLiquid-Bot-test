@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T06:07:29.749539+00:00`
-- Market context score: `48.84`
-- News risk score: `39.2`
-- Macro risk score: `33.68`
-- Risk-on score: `32.14`
-- Articles: `45`
-- Polymarket markets: `390`
+- Generated: `2026-10-08T06:20:10.928242+00:00`
+- Market context score: `45.78`
+- News risk score: `42.71`
+- Macro risk score: `33.66`
+- Risk-on score: `28.29`
+- Articles: `46`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T06:00:00+00:00`
+- Day/swing latest: `2026-10-08T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 - macro: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Ripple is earning fees financing leveraged stock bets, a business long run by banks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin loans are paying for tuition and working capital, not just trades, lenders say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90 (BBC News)
@@ -37,4 +38,3 @@
 - [macro] US and Lebanon protecting wanted Syrian general, BBC finds (BBC News)
 - [macro] Funding to help more people access healthy food (BBC News)
 - [crypto] Crypto must cement adoption to withstand US policy shifts: Canton CEO (Cointelegraph.com News)
-- [crypto] Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
