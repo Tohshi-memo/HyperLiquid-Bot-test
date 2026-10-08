@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-08T15:25:37.426323+00:00`
+- Generated: `2026-10-08T15:30:36.622304+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10591189.62`
-- Polymarket volume z-score: `-0.06`
+- Polymarket 24h volume: `10493271.24`
+- Polymarket volume z-score: `-0.1`
 
 ## Top Polymarket Markets
 
-- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `932667.5432700001` | liquidity: `809779.86722`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `498105.476` | liquidity: `899642.2136`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `482631.6450999999` | liquidity: `89825.6622`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `481238.28379400005` | liquidity: `968328.2399`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `422251.830075` | liquidity: `547332.2707`
-- Will the U.S. invade Iran before 2027? | 24h volume: `415640.49011899997` | liquidity: `908681.9824`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `404485.24788300006` | liquidity: `427093.0016`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `395727.06529099995` | liquidity: `2670376.7968`
+- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `929277.7821580005` | liquidity: `826692.74728`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `481238.28379400005` | liquidity: `972695.954`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `479628.22509999987` | liquidity: `98932.6372`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `422203.38563` | liquidity: `560376.2628`
+- Will the U.S. invade Iran before 2027? | 24h volume: `415640.49011899997` | liquidity: `925734.5112`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `404585.247883` | liquidity: `439748.7877`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `395967.065291` | liquidity: `2565013.3378`
+- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `328782.120601` | liquidity: `321832.88199`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
