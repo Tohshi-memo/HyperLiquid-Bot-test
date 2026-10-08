@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T21:37:30.560204+00:00`
-- Market context score: `43.5`
-- News risk score: `47.29`
-- Macro risk score: `34.7`
-- Risk-on score: `27.48`
-- Articles: `59`
+- Generated: `2026-10-08T21:52:39.492756+00:00`
+- Market context score: `43.29`
+- News risk score: `47.49`
+- Macro risk score: `34.72`
+- Risk-on score: `27.19`
+- Articles: `58`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,21 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T21:30:00+00:00`
+- Day/swing latest: `2026-10-08T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `31`, risk hits `9`, risk headline rate `0.2903`, policy hits `0`
+- crypto: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `0`
 - macro: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] White House blocks Microsoft from foreign worker hiring program (BBC News)
 - [crypto] Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
 - [policy] Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering (FRB: Press Release - All Releases)
-- [macro] White House blocks Microsoft from foreign worker hiring program (BBC News)
 - [crypto] Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Securitize stock jumps over 10% after launching tokenized US equities on Solana (Cointelegraph.com News)
 - [crypto] NFL backs New Jersey authorities in SCOTUS petition over Kalshi (Cointelegraph.com News)
