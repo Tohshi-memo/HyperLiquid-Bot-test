@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T11:07:29.104693+00:00`
-- Market context score: `52.91`
-- News risk score: `38.67`
-- Macro risk score: `33.34`
-- Risk-on score: `40.6`
-- Articles: `56`
-- Polymarket markets: `391`
+- Generated: `2026-10-08T11:22:34.440532+00:00`
+- Market context score: `55.07`
+- News risk score: `36.9`
+- Macro risk score: `30.78`
+- Risk-on score: `42.94`
+- Articles: `55`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T11:00:00+00:00`
+- Day/swing latest: `2026-10-08T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `3`
-- macro: articles `29`, risk hits `10`, risk headline rate `0.3448`, policy hits `1`
+- crypto: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
+- macro: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin ETF investors head for the exit, and it's the biggest rush in months (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US government moves $770M of seized Bitcoin to Coinbase Prime (Cointelegraph.com News)
 - [commodity] Brent crude tops $105, oil gains as Middle East hostilities and potential escalation stoke supply worries (Energy)
 - [macro] Asos hackers took more personal details than first revealed, BBC finds (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says (BBC News)
 - [crypto] Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls (Cointelegraph.com News)
 - [macro] South Korea recalls Ukraine envoy over prisoner-of-war row (BBC News)
-- [commodity] Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing' (Energy)
