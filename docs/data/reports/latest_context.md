@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T17:07:30.647475+00:00`
-- Market context score: `46.97`
-- News risk score: `45.68`
-- Macro risk score: `32.48`
-- Risk-on score: `33.0`
-- Articles: `63`
+- Generated: `2026-10-08T17:22:29.083477+00:00`
+- Market context score: `46.53`
+- News risk score: `46.04`
+- Macro risk score: `33.61`
+- Risk-on score: `32.76`
+- Articles: `62`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T17:00:00+00:00`
+- Day/swing latest: `2026-10-08T17:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `35`, risk hits `9`, risk headline rate `0.2571`, policy hits `3`
-- macro: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
+- [commodity] Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign (Energy)
+- [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
+- [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
 - [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [macro] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News)
 - [macro] Asos hackers took more personal details than first revealed, BBC finds (BBC News)
 - [crypto] IMF warns tokenized markets could amplify financial risks (Cointelegraph.com News)
-- [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [macro] Zambia signs US health deal after disputes over data-sharing (BBC News)
-- [macro] South Korea recalls Ukraine envoy over prisoner-of-war row (BBC News)
-- [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
-- [crypto] Bitcoin nears 3-week low as oil heads higher on Iran strike woes (Cointelegraph.com News)
