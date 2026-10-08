@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T18:37:36.749974+00:00`
-- Market context score: `47.52`
-- News risk score: `44.7`
-- Macro risk score: `33.59`
-- Risk-on score: `33.81`
-- Articles: `63`
+- Generated: `2026-10-08T18:52:29.225492+00:00`
+- Market context score: `47.8`
+- News risk score: `44.58`
+- Macro risk score: `32.85`
+- Risk-on score: `34.05`
+- Articles: `64`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T18:30:00+00:00`
+- Day/swing latest: `2026-10-08T18:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `36`, risk hits `8`, risk headline rate `0.2222`, policy hits `3`
-- macro: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `1`
+- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison (Cointelegraph.com News)
+- [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
 - [crypto] Crypto crumbles as anniversary of flash crash nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] NFL joins pushback against prediction markets as U.S. Supreme Court asked to act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
@@ -37,5 +39,3 @@
 - [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
 - [commodity] Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign (Energy)
 - [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
-- [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
-- [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
