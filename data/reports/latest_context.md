@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T13:07:29.077762+00:00`
+- Generated: `2026-10-08T13:22:31.068204+00:00`
 - Market context score: `50.42`
 - News risk score: `42.45`
 - Macro risk score: `34.99`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T13:00:00+00:00`
+- Day/swing latest: `2026-10-08T13:15:00+00:00`
 
 ## News Categories
 
@@ -31,6 +31,7 @@
 
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
 - [crypto] Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] EU lawmakers push crypto onto anti-corruption agenda (Cointelegraph.com News)
 - [macro] Chrysler Building to get its crown restored after being sold (BBC News)
 - [macro] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says (BBC News)
 - [macro] Teacher who sexually abused pupil back in Indonesia jail after BBC investigation (BBC News)
 - [crypto] Sui’s Hashi to launch with $500M in Bitcoin finance commitments (Cointelegraph.com News)
-- [macro] Bear kills man in home attack near Mongolian capital (BBC News)
