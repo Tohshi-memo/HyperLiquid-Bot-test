@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T13:37:31.690903+00:00`
-- Market context score: `49.92`
+- Generated: `2026-10-08T13:48:37.899631+00:00`
+- Market context score: `50.45`
 - News risk score: `42.4`
 - Macro risk score: `34.96`
-- Risk-on score: `37.73`
+- Risk-on score: `38.91`
 - Articles: `60`
 - Polymarket markets: `390`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T13:30:00+00:00`
+- Day/swing latest: `2026-10-08T13:45:00+00:00`
 
 ## News Categories
 
@@ -38,4 +38,4 @@
 - [macro] Chrysler Building to get its crown restored after being sold (BBC News)
 - [macro] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News)
 - [macro] Italy overhauls electoral system after fiercely contested debate (BBC News)
-- [macro] Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says (BBC News)
+- [macro] Derry firm becomes one of UK's biggest car park operators after buying NCP (BBC News)
