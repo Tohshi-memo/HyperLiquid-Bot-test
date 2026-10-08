@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T13:48:37.899631+00:00`
-- Market context score: `50.45`
-- News risk score: `42.4`
-- Macro risk score: `34.96`
-- Risk-on score: `38.91`
-- Articles: `60`
+- Generated: `2026-10-08T13:52:26.993114+00:00`
+- Market context score: `49.52`
+- News risk score: `43.88`
+- Macro risk score: `34.93`
+- Risk-on score: `38.08`
+- Articles: `61`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `3`
+- crypto: articles `30`, risk hits `6`, risk headline rate `0.2`, policy hits `3`
 - macro: articles `27`, risk hits `11`, risk headline rate `0.3704`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] ‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity (Cointelegraph.com News)
 - [commodity] Oil prices jump 4% as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [crypto] Crypto lending rises again… but have they solved the risks? (Cointelegraph.com News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
@@ -38,4 +39,3 @@
 - [macro] Chrysler Building to get its crown restored after being sold (BBC News)
 - [macro] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News)
 - [macro] Italy overhauls electoral system after fiercely contested debate (BBC News)
-- [macro] Derry firm becomes one of UK's biggest car park operators after buying NCP (BBC News)
