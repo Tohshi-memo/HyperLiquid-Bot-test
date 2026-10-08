@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-10-08T04:07:26.226123+00:00`
+- Generated: `2026-10-08T04:22:31.418117+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `298`
 - Outcome sides (rows): `596`
@@ -23,12 +23,12 @@
 ## Current Implied Probabilities
 
 - Recurring Named Outcome [No] symbol `#94331` underlying `n/a` prob `0.9994` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#94251` underlying `BTC` prob `0.9979` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#94281` underlying `SOL` prob `0.9992` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring [No] symbol `#94251` underlying `BTC` prob `0.9989` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#94291` underlying `HYPE` prob `0.9974` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [No] symbol `#36011` underlying `n/a` prob `0.9957` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardCandidate [No] symbol `#86611` underlying `n/a` prob `0.9948` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardCandidate [No] symbol `#86631` underlying `n/a` prob `0.9948` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring [No] symbol `#94281` underlying `SOL` prob `0.9929` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:companyIpoConfirmed [template:No] symbol `#25981` underlying `n/a` prob `0.9865` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardCandidate [No] symbol `#86601` underlying `n/a` prob `0.9824` price_source `allMids` vol24h `0.0` oi `0.0`
 - Recurring [No] symbol `#94271` underlying `ETH` prob `0.9814` price_source `allMids` vol24h `0.0` oi `0.0`
