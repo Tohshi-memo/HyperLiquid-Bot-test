@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T00:52:31.921623+00:00`
-- Market context score: `40.32`
-- News risk score: `45.11`
-- Macro risk score: `37.56`
-- Risk-on score: `19.67`
-- Articles: `37`
-- Polymarket markets: `389`
+- Generated: `2026-10-08T01:07:27.445592+00:00`
+- Market context score: `41.39`
+- News risk score: `44.04`
+- Macro risk score: `35.43`
+- Risk-on score: `20.34`
+- Articles: `39`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T00:45:00+00:00`
+- Day/swing latest: `2026-10-08T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `1`
-- macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `3`
+- macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
+- [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
 - [crypto] Crypto news site Cointelegraph seeks buyer after web traffic plunges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spanish pensioner whose eviction sparked nationwide protests dies, union says (BBC News)
 - [crypto] Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] Hedgehog among four chosen animals to feature on new banknotes (BBC News)
 - [macro] 'Stop throwing shade' - the woman trying to stop firms leaving the UK (BBC News)
 - [commodity] Trump’s diesel order exposes White House limits to counter surging fuel prices (Energy)
-- [crypto] Circle brings USDC, EURC payments to SAP customers through Tereina (Cointelegraph.com News)
-- [macro] OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' (BBC News)
