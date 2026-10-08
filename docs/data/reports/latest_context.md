@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T19:07:31.316104+00:00`
-- Market context score: `47.8`
-- News risk score: `44.58`
-- Macro risk score: `32.85`
-- Risk-on score: `34.05`
-- Articles: `64`
+- Generated: `2026-10-08T19:22:32.294347+00:00`
+- Market context score: `46.38`
+- News risk score: `45.81`
+- Macro risk score: `35.81`
+- Risk-on score: `33.07`
+- Articles: `63`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T19:00:00+00:00`
+- Day/swing latest: `2026-10-08T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.5`, policy hits `1`
 - crypto: articles `36`, risk hits `8`, risk headline rate `0.2222`, policy hits `3`
-- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `1`
+- macro: articles `22`, risk hits `9`, risk headline rate `0.3636`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Protesters blame 'vulture funds' for Spain's housing crisis (BBC News)
 - [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
 - [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
-- [commodity] Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign (Energy)
