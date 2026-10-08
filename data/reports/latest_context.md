@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T20:22:29.865015+00:00`
-- Market context score: `44.57`
-- News risk score: `46.85`
-- Macro risk score: `34.64`
-- Risk-on score: `29.46`
-- Articles: `62`
+- Generated: `2026-10-08T20:37:42.312385+00:00`
+- Market context score: `44.24`
+- News risk score: `47.22`
+- Macro risk score: `35.07`
+- Risk-on score: `29.22`
+- Articles: `61`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T20:15:00+00:00`
+- Day/swing latest: `2026-10-08T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `34`, risk hits `9`, risk headline rate `0.2647`, policy hits `2`
+- crypto: articles `33`, risk hits `9`, risk headline rate `0.2727`, policy hits `2`
 - macro: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `1`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [policy] Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering (FRB: Press Release - All Releases)
 - [macro] White House blocks Microsoft from foreign worker hiring program (BBC News)
 - [crypto] Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Securitize stock jumps over 10% after launching tokenized US equities on Solana (Cointelegraph.com News)
@@ -37,5 +38,4 @@
 - [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison (Cointelegraph.com News)
-- [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
