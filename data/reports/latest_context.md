@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T00:22:31.524577+00:00`
-- Market context score: `40.41`
-- News risk score: `44.74`
-- Macro risk score: `37.92`
-- Risk-on score: `19.69`
-- Articles: `44`
-- Polymarket markets: `390`
+- Generated: `2026-10-08T00:37:24.245593+00:00`
+- Market context score: `43.62`
+- News risk score: `43.68`
+- Macro risk score: `36.38`
+- Risk-on score: `25.33`
+- Articles: `39`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T00:15:00+00:00`
+- Day/swing latest: `2026-10-08T00:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `5`, risk headline rate `0.8`, policy hits `1`
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `1`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `3`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `1`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Crypto news site Cointelegraph seeks buyer after web traffic plunges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spanish pensioner whose eviction sparked nationwide protests dies, union says (BBC News)
 - [crypto] Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months (Cointelegraph.com News)
 - [macro] What independence could mean for oil-rich Alberta's economy (BBC News)
@@ -38,4 +39,3 @@
 - [commodity] Trump’s diesel order exposes White House limits to counter surging fuel prices (Energy)
 - [crypto] Circle brings USDC, EURC payments to SAP customers through Tereina (Cointelegraph.com News)
 - [macro] OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' (BBC News)
-- [commodity] Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level (Energy)
