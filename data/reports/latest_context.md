@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T05:07:28.111524+00:00`
-- Market context score: `53.76`
-- News risk score: `37.0`
-- Macro risk score: `28.19`
-- Risk-on score: `39.14`
-- Articles: `47`
+- Generated: `2026-10-08T05:22:29.526930+00:00`
+- Market context score: `53.97`
+- News risk score: `36.37`
+- Macro risk score: `29.06`
+- Risk-on score: `39.4`
+- Articles: `46`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T05:00:00+00:00`
+- Day/swing latest: `2026-10-08T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `31`, risk hits `6`, risk headline rate `0.1935`, policy hits `2`
+- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- macro: articles `29`, risk hits `6`, risk headline rate `0.2069`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Crypto’s heavy backing of Republicans alienated Democrats: Cuomo (Cointelegraph.com News)
 - [macro] Hygiene poverty at tipping point, charity warns (BBC News)
 - [macro] Funding to help more people access healthy food (BBC News)
 - [crypto] Crypto must cement adoption to withstand US policy shifts: Canton CEO (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Veteran Indian actor Nana Patekar dies at 75 (BBC News)
 - [macro] France's school protests: what lies behind the anger (BBC News)
-- [macro] Three people killed in Houthi attacks on Saudi Arabia airports, officials say (BBC News)
