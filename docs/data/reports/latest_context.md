@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T11:37:30.869728+00:00`
-- Market context score: `54.63`
-- News risk score: `37.03`
-- Macro risk score: `32.04`
-- Risk-on score: `42.54`
+- Generated: `2026-10-08T11:52:30.604072+00:00`
+- Market context score: `53.04`
+- News risk score: `39.02`
+- Macro risk score: `33.42`
+- Risk-on score: `41.22`
 - Articles: `53`
 - Polymarket markets: `390`
 
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T11:30:00+00:00`
+- Day/swing latest: `2026-10-08T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
-- macro: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `1`
+- crypto: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `3`
+- macro: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing' (Energy)
+- [crypto] Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Brent crude tops $105, oil gains as Middle East hostilities and potential escalation stoke supply worries (Energy)
 - [crypto] Bitcoin ETF investors head for the exit, and it's the biggest rush in months (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US government moves $770M of seized Bitcoin to Coinbase Prime (Cointelegraph.com News)
@@ -36,6 +39,3 @@
 - [macro] Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge (BBC News)
 - [crypto] Live news: Risk assets under pressure as bond selloff and oil rally intensify (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says (BBC News)
-- [crypto] Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls (Cointelegraph.com News)
-- [macro] South Korea recalls Ukraine envoy over prisoner-of-war row (BBC News)
