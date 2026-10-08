@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T01:37:30.811954+00:00`
-- Market context score: `45.38`
-- News risk score: `41.54`
-- Macro risk score: `34.56`
-- Risk-on score: `26.76`
+- Generated: `2026-10-08T01:52:30.444707+00:00`
+- Market context score: `48.53`
+- News risk score: `38.15`
+- Macro risk score: `33.92`
+- Risk-on score: `30.67`
 - Articles: `39`
 - Polymarket markets: `390`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T01:30:00+00:00`
+- Day/swing latest: `2026-10-08T01:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `1`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `3`
+- commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
+- crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Oil gains as Middle East hostilities stoke supply worries (Energy)
 - [macro] AI chip boom pushes Samsung profits to record $80bn (BBC News)
 - [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
 - [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
 - [crypto] Crypto news site Cointelegraph seeks buyer after web traffic plunges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spanish pensioner whose eviction sparked nationwide protests dies, union says (BBC News)
-- [crypto] Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months (Cointelegraph.com News)
+- [crypto] Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances (Cointelegraph.com News)
 - [macro] What independence could mean for oil-rich Alberta's economy (BBC News)
 - [macro] We spent thousands on a Tui river cruise but ended up on coach trips (BBC News)
 - [macro] Hedgehog among four chosen animals to feature on new banknotes (BBC News)
-- [macro] 'Stop throwing shade' - the woman trying to stop firms leaving the UK (BBC News)
