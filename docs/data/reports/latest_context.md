@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T04:52:26.185316+00:00`
-- Market context score: `54.59`
-- News risk score: `35.77`
-- Macro risk score: `26.83`
-- Risk-on score: `39.43`
-- Articles: `45`
+- Generated: `2026-10-08T05:07:28.111524+00:00`
+- Market context score: `53.76`
+- News risk score: `37.0`
+- Macro risk score: `28.19`
+- Risk-on score: `39.14`
+- Articles: `47`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T04:45:00+00:00`
+- Day/swing latest: `2026-10-08T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
 - crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `1`
+- macro: articles `31`, risk hits `6`, risk headline rate `0.1935`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Hygiene poverty at tipping point, charity warns (BBC News)
+- [macro] Funding to help more people access healthy food (BBC News)
 - [crypto] Crypto must cement adoption to withstand US policy shifts: Canton CEO (Cointelegraph.com News)
 - [crypto] Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil gains as Middle East hostilities, potential escalation stoke supply worries (Energy)
@@ -37,5 +39,3 @@
 - [macro] Veteran Indian actor Nana Patekar dies at 75 (BBC News)
 - [macro] France's school protests: what lies behind the anger (BBC News)
 - [macro] Three people killed in Houthi attacks on Saudi Arabia airports, officials say (BBC News)
-- [commodity] Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing' (Energy)
-- [macro] Texas carries out first US execution since Christa Pike's botched lethal injections (BBC News)
