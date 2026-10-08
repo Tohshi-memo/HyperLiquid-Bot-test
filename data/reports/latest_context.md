@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T04:22:31.418117+00:00`
-- Market context score: `48.53`
-- News risk score: `40.27`
+- Generated: `2026-10-08T04:37:29.596353+00:00`
+- Market context score: `54.59`
+- News risk score: `35.77`
 - Macro risk score: `26.83`
-- Risk-on score: `29.76`
+- Risk-on score: `39.43`
 - Articles: `45`
 - Polymarket markets: `390`
 
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T04:15:00+00:00`
+- Day/swing latest: `2026-10-08T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
+- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 - macro: articles `29`, risk hits `5`, risk headline rate `0.1724`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Crypto must cement adoption to withstand US policy shifts: Canton CEO (Cointelegraph.com News)
+- [crypto] Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil gains as Middle East hostilities, potential escalation stoke supply worries (Energy)
 - [macro] 'Come all the way' back to EU, French finance minister tells UK (BBC News)
 - [crypto] Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,5 +39,3 @@
 - [macro] Three people killed in Houthi attacks on Saudi Arabia airports, officials say (BBC News)
 - [commodity] Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing' (Energy)
 - [macro] Texas carries out first US execution since Christa Pike's botched lethal injections (BBC News)
-- [macro] Trump wants a new Camp David-like retreat at his Florida golf club (BBC News)
-- [macro] AI chip boom pushes Samsung profits to record $80bn (BBC News)
