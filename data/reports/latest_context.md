@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T01:52:30.444707+00:00`
+- Generated: `2026-10-08T02:07:25.921355+00:00`
 - Market context score: `48.53`
 - News risk score: `38.15`
 - Macro risk score: `33.92`
 - Risk-on score: `30.67`
 - Articles: `39`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T01:45:00+00:00`
+- Day/swing latest: `2026-10-08T02:00:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [commodity] Oil gains as Middle East hostilities stoke supply worries (Energy)
 - [macro] AI chip boom pushes Samsung profits to record $80bn (BBC News)
+- [commodity] Oil gains as Middle East hostilities stoke supply worries (Energy)
 - [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
 - [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
 - [crypto] Crypto news site Cointelegraph seeks buyer after web traffic plunges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
