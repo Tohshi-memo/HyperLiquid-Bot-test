@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T03:22:27.097707+00:00`
-- Market context score: `50.49`
-- News risk score: `37.04`
-- Macro risk score: `33.43`
-- Risk-on score: `33.88`
-- Articles: `35`
+- Generated: `2026-10-08T03:37:30.516738+00:00`
+- Market context score: `53.06`
+- News risk score: `34.75`
+- Macro risk score: `27.25`
+- Risk-on score: `35.33`
+- Articles: `40`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T03:15:00+00:00`
+- Day/swing latest: `2026-10-08T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `1`
+- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
 - [commodity] Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing' (Energy)
+- [macro] Texas carries out first US execution since Christa Pike's botched lethal injections (BBC News)
+- [macro] Trump wants a new Camp David retreat at his posh Florida golf club (BBC News)
 - [macro] AI chip boom pushes Samsung profits to record $80bn (BBC News)
 - [commodity] Oil gains as Middle East hostilities stoke supply worries (Energy)
 - [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
 - [macro] Japan beer giants raided over alleged price-fixing cartel (BBC News)
+- [macro] Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight (BBC News)
 - [crypto] Crypto news site Cointelegraph seeks buyer after web traffic plunges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spanish pensioner whose eviction sparked nationwide protests dies, union says (BBC News)
-- [crypto] Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances (Cointelegraph.com News)
-- [macro] What independence could mean for oil-rich Alberta's economy (BBC News)
-- [macro] We spent thousands on a Tui river cruise but ended up on coach trips (BBC News)
