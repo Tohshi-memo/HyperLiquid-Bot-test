@@ -1,29 +1,29 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T02:52:24.559690+00:00`
-- Market context score: `51.27`
-- News risk score: `35.67`
-- Macro risk score: `34.22`
-- Risk-on score: `34.76`
-- Articles: `37`
+- Generated: `2026-10-08T03:07:26.474710+00:00`
+- Market context score: `50.51`
+- News risk score: `36.79`
+- Macro risk score: `34.3`
+- Risk-on score: `34.04`
+- Articles: `35`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `None`
-- Asset price history records: `None`
+- Asset universe count: `1541`
+- Asset price history records: `672`
 
-- Asset classes: ``
-- HIP-3 dexes: ``
+- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1083`
+- HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-10-08T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
@@ -38,4 +38,4 @@
 - [crypto] Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances (Cointelegraph.com News)
 - [macro] What independence could mean for oil-rich Alberta's economy (BBC News)
 - [macro] We spent thousands on a Tui river cruise but ended up on coach trips (BBC News)
-- [macro] Hedgehog among four chosen animals to feature on new banknotes (BBC News)
+- [macro] Hedgehog among four animals chosen to feature on new banknotes (BBC News)
