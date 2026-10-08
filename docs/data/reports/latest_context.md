@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T16:07:46.759879+00:00`
+- Generated: `2026-10-08T16:22:27.609470+00:00`
 - Market context score: `47.93`
 - News risk score: `45.26`
 - Macro risk score: `33.83`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T16:00:00+00:00`
+- Day/swing latest: `2026-10-08T16:15:00+00:00`
 
 ## News Categories
 
@@ -29,12 +29,12 @@
 
 ## Headlines
 
+- [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
 - [crypto] Bitcoin nears 3-week low as oil heads higher on Iran strike woes (Cointelegraph.com News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
 - [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
 - [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
-- [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [crypto] U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US government moves $1B in seized Bitcoin after $770M transfers (Cointelegraph.com News)
 - [crypto] EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
