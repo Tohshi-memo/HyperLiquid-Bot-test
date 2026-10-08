@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-08T11:20:30.993134+00:00`
+- Generated: `2026-10-08T11:25:42.886866+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10467356.05`
-- Polymarket volume z-score: `-0.08`
+- Polymarket 24h volume: `10343276.5`
+- Polymarket volume z-score: `-0.12`
 
 ## Top Polymarket Markets
 
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `698136.552` | liquidity: `916390.83204`
-- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `665338.7618360001` | liquidity: `747941.41406`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `430784.2938079998` | liquidity: `793385.39742`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `416026.3742360001` | liquidity: `441523.57874`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `403197.338949` | liquidity: `1099596.0193`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `402153.326308` | liquidity: `2760059.9892`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `397784.58854` | liquidity: `130478.9429`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `386822.481552` | liquidity: `680678.0453`
+- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `726016.9693940001` | liquidity: `748011.36496`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `698136.552` | liquidity: `916386.91204`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `415572.45931899996` | liquidity: `430475.85692`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `402153.326308` | liquidity: `2761707.495`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `401353.89228200004` | liquidity: `1099000.391`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `397884.18076299987` | liquidity: `132258.333`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `386753.789199` | liquidity: `675505.8787`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `370730.232734` | liquidity: `2038460.1577`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
