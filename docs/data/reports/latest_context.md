@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T19:22:32.294347+00:00`
-- Market context score: `46.38`
+- Generated: `2026-10-08T19:32:55.183238+00:00`
+- Market context score: `46.98`
 - News risk score: `45.81`
 - Macro risk score: `35.81`
-- Risk-on score: `33.07`
+- Risk-on score: `34.39`
 - Articles: `63`
 - Polymarket markets: `390`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T19:15:00+00:00`
+- Day/swing latest: `2026-10-08T19:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] NFL backs New Jersey authorities in SCOTUS petition over Kalshi (Cointelegraph.com News)
 - [macro] Protesters blame 'vulture funds' for Spain's housing crisis (BBC News)
 - [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] NFL joins pushback against prediction markets as U.S. Supreme Court asked to act (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
-- [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
