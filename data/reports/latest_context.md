@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T15:52:36.192446+00:00`
-- Market context score: `49.58`
-- News risk score: `44.22`
-- Macro risk score: `31.76`
-- Risk-on score: `37.31`
+- Generated: `2026-10-08T16:07:46.759879+00:00`
+- Market context score: `47.93`
+- News risk score: `45.26`
+- Macro risk score: `33.83`
+- Risk-on score: `35.28`
 - Articles: `66`
 - Polymarket markets: `390`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T15:45:00+00:00`
+- Day/swing latest: `2026-10-08T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `37`, risk hits `8`, risk headline rate `0.2162`, policy hits `3`
-- macro: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `1`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
+- [crypto] Bitcoin nears 3-week low as oil heads higher on Iran strike woes (Cointelegraph.com News)
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
+- [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
 - [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
 - [macro] Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture (BBC News)
 - [crypto] U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US government moves $1B in seized Bitcoin after $770M transfers (Cointelegraph.com News)
 - [crypto] EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices jump 4% as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
-- [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
-- [macro] Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain (BBC News)
-- [macro] Bid to run new trains on West Coast Mainline refused (BBC News)
