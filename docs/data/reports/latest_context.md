@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T17:22:29.083477+00:00`
+- Generated: `2026-10-08T17:37:28.921855+00:00`
 - Market context score: `46.53`
 - News risk score: `46.04`
 - Macro risk score: `33.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T17:15:00+00:00`
+- Day/swing latest: `2026-10-08T17:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
 - [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
 - [commodity] Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign (Energy)
 - [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News)
 - [macro] Asos hackers took more personal details than first revealed, BBC finds (BBC News)
 - [crypto] IMF warns tokenized markets could amplify financial risks (Cointelegraph.com News)
-- [macro] Zambia signs US health deal after disputes over data-sharing (BBC News)
