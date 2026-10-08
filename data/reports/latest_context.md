@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T22:52:25.777147+00:00`
-- Market context score: `41.25`
-- News risk score: `48.74`
-- Macro risk score: `35.29`
-- Risk-on score: `23.93`
-- Articles: `58`
+- Generated: `2026-10-08T23:07:29.243433+00:00`
+- Market context score: `40.97`
+- News risk score: `49.04`
+- Macro risk score: `35.32`
+- Risk-on score: `23.58`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T22:45:00+00:00`
+- Day/swing latest: `2026-10-08T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.3214`, policy hits `0`
+- crypto: articles `27`, risk hits `9`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
-- [crypto] China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express (Cointelegraph.com News)
 - [macro] Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says (BBC News)
+- [crypto] China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express (Cointelegraph.com News)
 - [macro] White House blocks Microsoft from foreign worker hiring program (BBC News)
 - [crypto] Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
