@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T22:37:32.469224+00:00`
-- Market context score: `39.94`
+- Generated: `2026-10-08T22:52:25.777147+00:00`
+- Market context score: `41.25`
 - News risk score: `48.74`
 - Macro risk score: `35.29`
-- Risk-on score: `21.02`
+- Risk-on score: `23.93`
 - Articles: `58`
 - Polymarket markets: `390`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T22:30:00+00:00`
+- Day/swing latest: `2026-10-08T22:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express (Cointelegraph.com News)
 - [macro] Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says (BBC News)
 - [macro] White House blocks Microsoft from foreign worker hiring program (BBC News)
 - [crypto] Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] Securitize stock jumps over 10% after launching tokenized US equities on Solana (Cointelegraph.com News)
 - [crypto] NFL backs New Jersey authorities in SCOTUS petition over Kalshi (Cointelegraph.com News)
 - [macro] Protesters blame 'vulture funds' for Spain's housing crisis (BBC News)
-- [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
