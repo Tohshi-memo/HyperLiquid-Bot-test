@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T18:52:29.225492+00:00`
+- Generated: `2026-10-08T19:07:31.316104+00:00`
 - Market context score: `47.8`
 - News risk score: `44.58`
 - Macro risk score: `32.85`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T18:45:00+00:00`
+- Day/swing latest: `2026-10-08T19:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison (Cointelegraph.com News)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Inflation on many everyday items was entirely due to tariffs, NY Fed says (Economy)
 - [macro] US deportations to African countries unlawful and exploit suffering, rights group says (BBC News)
 - [commodity] Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign (Energy)
-- [macro] Plans to shut Marston's Brewery in Burton revealed (BBC News)
