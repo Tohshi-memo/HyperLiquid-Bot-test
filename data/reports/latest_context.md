@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-08T21:22:28.714785+00:00`
-- Market context score: `44.04`
+- Generated: `2026-10-08T21:37:30.560204+00:00`
+- Market context score: `43.5`
 - News risk score: `47.29`
 - Macro risk score: `34.7`
-- Risk-on score: `28.69`
+- Risk-on score: `27.48`
 - Articles: `59`
 - Polymarket markets: `390`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-08T21:15:00+00:00`
+- Day/swing latest: `2026-10-08T21:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Outspoken Indian actor Nana Patekar dies suddenly at 75 (BBC News)
 - [policy] Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering (FRB: Press Release - All Releases)
 - [macro] White House blocks Microsoft from foreign worker hiring program (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Protesters blame 'vulture funds' for Spain's housing crisis (BBC News)
 - [commodity] Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison (Cointelegraph.com News)
