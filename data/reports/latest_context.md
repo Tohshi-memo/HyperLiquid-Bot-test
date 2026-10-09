@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T08:07:26.559793+00:00`
-- Market context score: `50.08`
-- News risk score: `36.56`
-- Macro risk score: `16.67`
-- Risk-on score: `26.23`
-- Articles: `33`
+- Generated: `2026-10-09T08:22:24.845616+00:00`
+- Market context score: `50.18`
+- News risk score: `36.45`
+- Macro risk score: `16.47`
+- Risk-on score: `26.29`
+- Articles: `34`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T08:00:00+00:00`
+- Day/swing latest: `2026-10-09T08:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `1`
-- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
+- macro: articles `19`, risk hits `1`, risk headline rate `0.0526`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Everton owners consider selling club two years after takeover (BBC News)
 - [crypto] Bitcoin, Ether ETFs’ October outflows swell toward $1B (Cointelegraph.com News)
 - [macro] Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen (BBC News)
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto projects apply for Anthropic’s new frontier AI security scanner (Cointelegraph.com News)
 - [crypto] Trump administration outlines quantum, AI initiatives in $6B science push (Cointelegraph.com News)
-- [macro] 'You cannot build this car anywhere else in the world' (BBC News)
