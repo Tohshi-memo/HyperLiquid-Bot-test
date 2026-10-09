@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-09T05:10:30.906091+00:00`
-- Flow alert score: `20.48`
+- Generated: `2026-10-09T05:15:28.650461+00:00`
+- Flow alert score: `20.32`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13371751.76`
-- Polymarket volume z-score: `0.87`
+- Polymarket 24h volume: `13282342.26`
+- Polymarket volume z-score: `0.83`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2033415.2371680005` | liquidity: `1463964.2943`
-- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `1124767.642121` | liquidity: `513886.13214`
-- Will Yulia Navalnaya win the Nobel Peace Prize in 2026? | 24h volume: `1047070.3687239999` | liquidity: `58056.91711`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `806986.774668` | liquidity: `1100971.41698`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `516162.77091999986` | liquidity: `654542.35921`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `458807.733846` | liquidity: `601625.2967`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `448268.793523` | liquidity: `713316.6208`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `406515.50376700034` | liquidity: `70244.1211`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2033375.2371680003` | liquidity: `1460153.8693`
+- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `1137648.372121` | liquidity: `561659.37074`
+- Will Yulia Navalnaya win the Nobel Peace Prize in 2026? | 24h volume: `1064571.1134690007` | liquidity: `63782.49281`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `807086.789668` | liquidity: `1100945.33698`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `517147.8512699999` | liquidity: `651157.29911`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `458707.7338460001` | liquidity: `597856.1829`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `448302.91116899997` | liquidity: `710715.8879`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `393625.6537720003` | liquidity: `67437.5391`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
