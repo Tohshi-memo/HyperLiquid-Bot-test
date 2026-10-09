@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T14:37:27.290881+00:00`
-- Market context score: `36.13`
-- News risk score: `50.84`
-- Macro risk score: `27.79`
-- Risk-on score: `11.49`
-- Articles: `56`
+- Generated: `2026-10-09T14:52:29.012592+00:00`
+- Market context score: `35.56`
+- News risk score: `51.54`
+- Macro risk score: `29.64`
+- Risk-on score: `11.51`
+- Articles: `58`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T14:30:00+00:00`
+- Day/swing latest: `2026-10-09T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `12`, risk headline rate `0.4615`, policy hits `2`
-- macro: articles `27`, risk hits `6`, risk headline rate `0.1852`, policy hits `2`
+- crypto: articles `27`, risk hits `12`, risk headline rate `0.4444`, policy hits `2`
+- macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned (BBC News)
 - [macro] Americans' debt problems are flashing a warning not seen since the Great Recession (Economy)
 - [macro] Two Renoir paintings stolen from French museum are recovered (BBC News)
 - [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
@@ -37,5 +39,3 @@
 - [crypto] Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ethiopia warns Eritrea it will defend itself after troops cross border (BBC News)
-- [crypto] France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months (Cointelegraph.com News)
-- [macro] Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor (Economy)
