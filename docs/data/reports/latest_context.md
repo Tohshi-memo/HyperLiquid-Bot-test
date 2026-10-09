@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T15:22:32.265447+00:00`
-- Market context score: `34.42`
-- News risk score: `53.2`
-- Macro risk score: `29.64`
-- Risk-on score: `10.39`
-- Articles: `58`
+- Generated: `2026-10-09T15:37:31.683036+00:00`
+- Market context score: `35.37`
+- News risk score: `51.57`
+- Macro risk score: `30.19`
+- Risk-on score: `11.33`
+- Articles: `57`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T15:15:00+00:00`
+- Day/swing latest: `2026-10-09T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `14`, risk headline rate `0.4815`, policy hits `2`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `4`
+- crypto: articles `27`, risk hits `13`, risk headline rate `0.4444`, policy hits `2`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Ethiopia and Eritrea accuse each other of starting conflict after troops cross border (BBC News)
+- [crypto] Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports (Cointelegraph.com News)
 - [crypto] New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned (BBC News)
@@ -37,5 +39,3 @@
 - [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
 - [macro] Navi Pillay, former UN human rights chief, wins Nobel Peace Prize (BBC News)
 - [policy] Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families (FRB: Press Release - All Releases)
-- [macro] Three Saudi nationals killed in Houthi attacks on Riyadh airport (BBC News)
-- [crypto] Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures (Cointelegraph.com News)
