@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T10:37:33.697826+00:00`
-- Market context score: `43.41`
-- News risk score: `40.77`
-- Macro risk score: `18.41`
-- Risk-on score: `15.63`
-- Articles: `42`
+- Generated: `2026-10-09T10:52:27.022456+00:00`
+- Market context score: `41.83`
+- News risk score: `43.04`
+- Macro risk score: `20.29`
+- Risk-on score: `14.74`
+- Articles: `46`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T10:30:00+00:00`
+- Day/swing latest: `2026-10-09T10:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `2`
-- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `21`, risk hits `9`, risk headline rate `0.4286`, policy hits `2`
+- macro: articles `24`, risk hits `2`, risk headline rate `0.0833`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response (Energy)
+- [crypto] UK sanctions three crypto exchanges tied to Russian illicit funds (Cointelegraph.com News)
 - [crypto] Thailand opens door to locally listed bitcoin and ether ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] French lawmakers back stablecoin swap tax in 2027 budget bill (Cointelegraph.com News)
 - [crypto] UK slaps sanctions on three crypto exchanges over alleged Russia links (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Three Saudi nationals killed in Houthi attacks on Riyadh airport (BBC News)
+- [macro] Watch: Fleeing Kyiv for the countryside ahead of winter (BBC News)
 - [crypto] Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations (Cointelegraph.com News)
 - [macro] Fort Hood survivor supports gunman's execution by firing squad but questions livestream (BBC News)
-- [macro] I've been with my boyfriend for two years and don't know his salary (BBC News)
-- [macro] Fired OpenAI researchers say they were let go for 'prioritising safety' (BBC News)
-- [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
-- [crypto] Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
