@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T21:37:29.309681+00:00`
-- Market context score: `39.13`
-- News risk score: `53.08`
-- Macro risk score: `33.29`
-- Risk-on score: `22.13`
-- Articles: `58`
+- Generated: `2026-10-09T21:52:29.205982+00:00`
+- Market context score: `40.04`
+- News risk score: `51.96`
+- Macro risk score: `34.65`
+- Risk-on score: `23.74`
+- Articles: `55`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T21:30:00+00:00`
+- Day/swing latest: `2026-10-09T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `25`, risk hits `12`, risk headline rate `0.44`, policy hits `0`
-- macro: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `4`
+- crypto: articles `24`, risk hits `11`, risk headline rate `0.4167`, policy hits `0`
+- macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] JD Vance casts doubt on firing squad execution and says he will not watch it (BBC News)
 - [macro] Powerful magnitude 7.7 earthquake hits Panama, damaging buildings (BBC News)
 - [crypto] U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
 - [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
 - [macro] Three men found guilty of murdering two Australian surfer brothers and US friend (BBC News)
-- [macro] JD Vance casts doubt on firing squad execution and says he will not watch it (BBC News)
 - [crypto] US plans to seize $1B in crypto linked to Iran this week: Scott Bessent (Cointelegraph.com News)
 - [commodity] Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets (Energy)
 - [crypto] New York permanently bars Celsius founder Mashinsky in $35M fraud settlement (Cointelegraph.com News)
