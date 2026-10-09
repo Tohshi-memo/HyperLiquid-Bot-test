@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T20:37:27.414754+00:00`
-- Market context score: `40.59`
-- News risk score: `52.67`
-- Macro risk score: `31.95`
-- Risk-on score: `24.53`
-- Articles: `62`
+- Generated: `2026-10-09T20:52:36.208546+00:00`
+- Market context score: `40.99`
+- News risk score: `52.2`
+- Macro risk score: `31.92`
+- Risk-on score: `25.0`
+- Articles: `63`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T20:30:00+00:00`
+- Day/swing latest: `2026-10-09T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `26`, risk hits `12`, risk headline rate `0.4231`, policy hits `1`
+- crypto: articles `27`, risk hits `12`, risk headline rate `0.4074`, policy hits `1`
 - macro: articles `31`, risk hits `9`, risk headline rate `0.2581`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] JD Vance casts doubt on firing squad execution and says he will not watch it (BBC News)
+- [crypto] US plans to seize $1B in crypto linked to Iran this week: Scott Bessent (Cointelegraph.com News)
 - [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
 - [commodity] Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets (Energy)
@@ -37,5 +39,3 @@
 - [macro] Thai Queen makes first solo flight in fighter jet (BBC News)
 - [macro] Powerful magnitude 7.7 earthquake hits Panama, damaging buildings (BBC News)
 - [macro] Trump wants to reduce the cost of fuel as the midterms loom - will it work? (BBC News)
-- [macro] Americans' debt problems are flashing a warning not seen since the Great Recession (Economy)
-- [crypto] THORChain exec accuses Tether of temporarily freezing USDT vaults (Cointelegraph.com News)
