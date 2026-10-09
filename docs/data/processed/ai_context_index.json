@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T18:22:31.094217+00:00",
+  "updated_at": "2026-10-09T18:37:35.354583+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -26,7 +26,7 @@
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 62869,
+        "bytes": 62881,
         "note": "Machine-readable map."
       },
       {
@@ -61,7 +61,7 @@
       },
       {
         "path": "data/reports/latest_hip4_outcome.md",
-        "bytes": 10559,
+        "bytes": 10553,
         "note": "HIP-4 outcome market overview."
       },
       {
@@ -103,22 +103,22 @@
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 5242200,
+        "bytes": 5242282,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 3219196,
+        "bytes": 3219191,
         "note": "Polymarket/flow history."
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 575172,
+        "bytes": 575196,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 46802713,
+        "bytes": 46802731,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -133,12 +133,12 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 657474,
+        "bytes": 657078,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 76288480,
+        "bytes": 76501888,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
@@ -167,10 +167,6 @@
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
       {
-        "path": "data/archive/asset_price_history_2026-10.jsonl.gz",
-        "when_to_read": "Only for longer backtests after a specific rule is selected."
-      },
-      {
         "path": "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
@@ -193,8 +189,7 @@
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
-      "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-10.jsonl.gz"
+      "data/archive/asset_price_history_2026-06.jsonl.gz"
     ],
     "polymarket_outcome_archive_files": [
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
@@ -203,7 +198,6 @@
     "archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
       "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-10.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-06.jsonl.gz"
     ],
@@ -229,7 +223,7 @@
     },
     "hip4_outcome_count": 325,
     "hip4_side_count": 650,
-    "hip4_outcome_history_records": 391,
+    "hip4_outcome_history_records": 392,
     "hip4_outcome_by_underlying": {
       "unknown": 321,
       "BTC": 1,
@@ -254,7 +248,7 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-10-09T18:22:31.094217+00:00",
+    "generated_at": "2026-10-09T18:37:35.354583+00:00",
     "scores": {
       "news_risk_score": 51.39,
       "macro_risk_score": 31.29,
@@ -499,7 +493,7 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-10-09T18:20:34.049455+00:00",
+      "generated_at": "2026-10-09T18:35:29.422363+00:00",
       "scores": {
         "flow_alert_score": 17.0,
         "flow_alert_level": "baseline"
@@ -519,9 +513,9 @@
       },
       "polymarket": {
         "market_count": 51,
-        "volume_24h": 7487905.64,
-        "lifetime_volume": 358096337.46,
-        "liquidity": 33370131.54,
+        "volume_24h": 7609211.44,
+        "lifetime_volume": 360181022.22,
+        "liquidity": 33732792.85,
         "top_markets": [
           {
             "question": "US x Iran ceasefire continues through October 12?",
@@ -530,50 +524,24 @@
             "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 594081.435958,
-            "volume": 745700.7335189998,
-            "liquidity": 187534.99301,
+            "volume_24h": 594036.435958,
+            "volume": 745705.7335189999,
+            "liquidity": 327276.08834,
             "end_date": "2026-10-13T03:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.9405,
+                "probability": 0.938,
                 "token_id": "107540403103917101723616128435236138591116364556711257437238922612332295492509"
               },
               {
                 "name": "No",
-                "probability": 0.0595,
+                "probability": 0.062,
                 "token_id": "18368161459732947229970694377522451372979676356971809107906485726590890158916"
               }
             ],
-            "yes_probability": 0.9405,
-            "no_probability": 0.0595
-          },
-          {
-            "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-            "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-            "event_slug": "brazil-presidential-election",
-            "url": "https://polymarket.com/event/brazil-presidential-election",
-            "query": "policy",
-            "impact_category": "policy",
-            "volume_24h": 450269.81684400013,
-            "volume": 18896343.504913002,
-            "liquidity": 629548.69412,
-            "end_date": "2026-10-05T03:59:00Z",
-            "outcomes": [
-              {
-                "name": "Yes",
-                "probability": 0.8705,
-                "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427"
-              },
-              {
-                "name": "No",
-                "probability": 0.1295,
-                "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355"
-              }
-            ],
-            "yes_probability": 0.8705,
-            "no_probability": 0.1295
+            "yes_probability": 0.938,
+            "no_probability": 0.062
           },
           {
             "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
@@ -582,9 +550,9 @@
             "url": "https://polymarket.com/event/brazil-presidential-election",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 398098.3068050001,
-            "volume": 21206795.642876986,
-            "liquidity": 1328561.0764,
+            "volume_24h": 526661.1973560002,
+            "volume": 21425359.36342799,
+            "liquidity": 1358501.0655,
             "end_date": "2026-10-05T03:59:00Z",
             "outcomes": [
               {
@@ -602,15 +570,41 @@
             "no_probability": 0.875
           },
           {
+            "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+            "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+            "event_slug": "brazil-presidential-election",
+            "url": "https://polymarket.com/event/brazil-presidential-election",
+            "query": "policy",
+            "impact_category": "policy",
+            "volume_24h": 446799.0558570001,
+            "volume": 18896345.86491301,
+            "liquidity": 692094.34629,
+            "end_date": "2026-10-05T03:59:00Z",
+            "outcomes": [
+              {
+                "name": "Yes",
+                "probability": 0.8705,
+                "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427"
+              },
+              {
+                "name": "No",
+                "probability": 0.1295,
+                "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355"
+              }
+            ],
+            "yes_probability": 0.8705,
+            "no_probability": 0.1295
+          },
+          {
             "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
             "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
             "event_slug": "fed-decision-in-october-20260617190323537",
             "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 360434.840754,
-            "volume": 5823199.095373,
-            "liquidity": 370248.83391,
+            "volume_24h": 360634.84075399995,
+            "volume": 5823399.095372995,
+            "liquidity": 392982.49446,
             "end_date": "2026-10-29T03:59:00Z",
             "outcomes": [
               {
@@ -634,24 +628,24 @@
             "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 276609.92994999996,
-            "volume": 717040.530336,
-            "liquidity": 135843.9572,
+            "volume_24h": 278204.05209,
+            "volume": 718643.010336,
+            "liquidity": 145921.3984,
             "end_date": "2026-10-16T03:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.895,
+                "probability": 0.885,
                 "token_id": "16433157430487286816362342013001121290769377529788531146050707169389503371968"
               },
               {
                 "name": "No",
-                "probability": 0.105,
+                "probability": 0.115,
                 "token_id": "25776340948847798820228065582042538143882070725961017360268725738210729903840"
               }
             ],
-            "yes_probability": 0.895,
-            "no_probability": 0.105
+            "yes_probability": 0.885,
+            "no_probability": 0.115
           },
           {
             "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
@@ -662,7 +656,7 @@
             "impact_category": "policy",
             "volume_24h": 250103.021,
             "volume": 1461805.9319999998,
-            "liquidity": 691792.36225,
+            "liquidity": 691824.59025,
             "end_date": "2028-11-08T04:59:00Z",
             "outcomes": [
               {
@@ -680,41 +674,15 @@
             "no_probability": 0.9985
           },
           {
-            "question": "Will the Republicans win the Texas Senate race in 2026?",
-            "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
-            "event_slug": "texas-senate-election-winner",
-            "url": "https://polymarket.com/event/texas-senate-election-winner",
-            "query": "policy",
-            "impact_category": "policy",
-            "volume_24h": 237263.45315000002,
-            "volume": 1564117.63535,
-            "liquidity": 406276.0788,
-            "end_date": "2026-11-04T04:59:00Z",
-            "outcomes": [
-              {
-                "name": "Yes",
-                "probability": 0.395,
-                "token_id": "21265207456609426291246075480390336499088453711419597084147957999650569091884"
-              },
-              {
-                "name": "No",
-                "probability": 0.605,
-                "token_id": "9846414914422486942750462555692240718767368950832862364324602361738794436048"
-              }
-            ],
-            "yes_probability": 0.395,
-            "no_probability": 0.605
-          },
-          {
             "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
             "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
             "event_slug": "which-party-will-win-the-house-in-2026",
             "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 227691.937697,
-            "volume": 6890793.972158001,
-            "liquidity": 2136210.9677,
+            "volume_24h": 227393.03659899996,
+            "volume": 6890795.071060002,
+            "liquidity": 2138293.8867,
             "end_date": "2026-11-04T04:59:00Z",
             "outcomes": [
               {
@@ -732,15 +700,41 @@
             "no_probability": 0.905
           },
           {
+            "question": "Will the Republicans win the Texas Senate race in 2026?",
+            "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
+            "event_slug": "texas-senate-election-winner",
+            "url": "https://polymarket.com/event/texas-senate-election-winner",
+            "query": "policy",
+            "impact_category": "policy",
+            "volume_24h": 210070.978618,
+            "volume": 1565787.1853500004,
+            "liquidity": 407528.8211,
+            "end_date": "2026-11-04T04:59:00Z",
+            "outcomes": [
+              {
+                "name": "Yes",
+                "probability": 0.395,
+                "token_id": "21265207456609426291246075480390336499088453711419597084147957999650569091884"
+              },
+              {
+                "name": "No",
+                "probability": 0.605,
+                "token_id": "9846414914422486942750462555692240718767368950832862364324602361738794436048"
+              }
+            ],
+            "yes_probability": 0.395,
+            "no_probability": 0.605
+          },
+          {
             "question": "Xi Jinping out before 2027?",
             "slug": "xi-jinping-out-before-2027",
             "event_slug": "xi-jinping-out-before-2027",
             "url": "https://polymarket.com/event/xi-jinping-out-before-2027",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 201749.61335300002,
-            "volume": 14669710.308967998,
-            "liquidity": 551122.4863,
+            "volume_24h": 204249.61335300002,
+            "volume": 14672210.308967989,
+            "liquidity": 539426.34044,
             "end_date": "2027-01-01T04:59:00Z",
             "outcomes": [
               {
@@ -765,8 +759,8 @@
             "query": "geopolitics",
             "impact_category": "geopolitics",
             "volume_24h": 199611.96139199997,
-            "volume": 24659899.508702986,
-            "liquidity": 657558.91993,
+            "volume": 24659899.508702982,
+            "liquidity": 658617.1849,
             "end_date": "2027-01-01T04:59:00Z",
             "outcomes": [
               {
@@ -792,8 +786,8 @@
             "url": "https://polymarket.com/event/plague-pandemic-in-2026",
             "query": "health",
             "impact_category": "health",
-            "volume_24h": 68690.52205000001,
-            "volume": 358674.04702600004,
+            "volume_24h": 68544.26205,
+            "volume": 358674.047026,
             "liquidity": 204813.24831,
             "end_date": "2027-01-01T04:59:00Z",
             "outcomes": [
@@ -812,11 +806,11 @@
             "no_probability": 0.9725
           }
         ],
-        "volume_24h_zscore_7d": -1.33
+        "volume_24h_zscore_7d": -1.28
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-10-09T18:22:31.094217+00:00",
+      "generated_at": "2026-10-09T18:37:35.354583+00:00",
       "outcome_count": 325,
       "side_count": 650,
       "by_underlying": {
@@ -841,7 +835,7 @@
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-10-09T18:22:31.094217+00:00",
+      "generated_at": "2026-10-09T18:37:35.354583+00:00",
       "pattern_count": 96,
       "min_samples": 30,
       "top_patterns": [
@@ -1120,7 +1114,7 @@
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-10-09T18:22:31.094217+00:00",
+      "generated_at": "2026-10-09T18:37:35.354583+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121009,
       "top_patterns": [
@@ -1294,7 +1288,7 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-10-09T18:22:31.094217+00:00",
+      "generated_at": "2026-10-09T18:37:35.354583+00:00",
       "observed_at": "2026-10-09T18:15:00+00:00",
       "asset_count": 1556,
       "top_assets": [
@@ -1875,5 +1869,5 @@
     "read_relationship_scan_when": "Selecting public, mechanically discovered A/B -> future-return candidates for private AI hypothesis review and strategy validation.",
     "read_sector_reactions_when": "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, or 252d after public event conditions."
   },
-  "available_at": "2026-10-09T18:23:28.729803+00:00"
+  "available_at": "2026-10-09T18:38:17.931118+00:00"
 }

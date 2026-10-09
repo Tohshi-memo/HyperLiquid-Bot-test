@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T18:22:31.094217+00:00`
+- Generated: `2026-10-09T18:37:35.354583+00:00`
 - Market context score: `40.91`
 - News risk score: `51.39`
 - Macro risk score: `31.29`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1556`
-- Asset price history records: `672`
+- Asset universe count: `None`
+- Asset price history records: `None`
 
-- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1098`
-- HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
+- Asset classes: ``
+- HIP-3 dexes: ``
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T18:15:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] JD Vance casts doubt on firing squad execution and says he will not watch it (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Robinhood Chain considers technology that gives paying traders priority (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports (Energy)
 - [macro] US unveils sanctions on ICC in move court condemns as 'assault on rule of law' (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] HSBC, Ant Digital test AI-agent payments using tokenized deposits (Cointelegraph.com News)
 - [macro] Russian search engine Yandex struggles after Ukrainian strikes on data centres (BBC News)
 - [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
-- [crypto] Ledger investigates fund losses linked to Southeast Asian reseller, warns users (Cointelegraph.com News)
-- [macro] Man named Hitler Mussolini elected mayor in Peru (BBC News)
