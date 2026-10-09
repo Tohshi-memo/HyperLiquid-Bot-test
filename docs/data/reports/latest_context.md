@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T17:37:33.170574+00:00`
+- Generated: `2026-10-09T17:52:26.231576+00:00`
 - Market context score: `39.85`
 - News risk score: `50.99`
 - Macro risk score: `30.06`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T17:30:00+00:00`
+- Day/swing latest: `2026-10-09T17:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] US unveils sanctions on ICC in move court condems as 'assault on rule of law' (BBC News)
+- [macro] Navi Pillay, former UN human rights chief, wins Nobel Peace Prize (BBC News)
 - [macro] US immigration officials defend ICE agents who shot man in same car as child (BBC News)
 - [crypto] HSBC, Ant Digital test AI-agent payments using tokenized deposits (Cointelegraph.com News)
 - [macro] Russian search engine Yandex struggles after Ukrainian strikes on data centres (BBC News)
 - [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
-- [macro] US unveils sanctions on ICC in move court condems as 'assault on rule of law' (BBC News)
 - [crypto] Ledger investigates fund losses linked to Southeast Asian reseller, warns users (Cointelegraph.com News)
 - [macro] Man named Hitler Mussolini elected mayor in Peru (BBC News)
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
 - [crypto] Blockchain.com pursues CFTC approval for prediction markets: CNBC (Cointelegraph.com News)
-- [macro] Watch: 'I am Jane Doe' protests across US call for end to sexual violence (BBC News)
