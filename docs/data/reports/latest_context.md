@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T17:07:31.488170+00:00`
-- Market context score: `39.85`
-- News risk score: `50.99`
-- Macro risk score: `30.06`
-- Risk-on score: `20.74`
-- Articles: `59`
+- Generated: `2026-10-09T17:22:31.157951+00:00`
+- Market context score: `39.11`
+- News risk score: `52.18`
+- Macro risk score: `30.03`
+- Risk-on score: `20.1`
+- Articles: `60`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T17:00:00+00:00`
+- Day/swing latest: `2026-10-09T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `12`, risk headline rate `0.4231`, policy hits `1`
+- crypto: articles `27`, risk hits `13`, risk headline rate `0.4444`, policy hits `1`
 - macro: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Russian search engine Yandex struggles after Ukrainian strikes on data centres (BBC News)
 - [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
+- [macro] US unveils sanctions on ICC in move court condems as 'assault on rule of law' (BBC News)
+- [crypto] Ledger investigates fund losses linked to Southeast Asian reseller, warns users (Cointelegraph.com News)
 - [macro] Man named Hitler Mussolini elected mayor in Peru (BBC News)
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
 - [crypto] Blockchain.com pursues CFTC approval for prediction markets: CNBC (Cointelegraph.com News)
 - [macro] Watch: 'I am Jane Doe' protests across US call for end to sexual violence (BBC News)
 - [macro] Burnham promises to curb non-compete rules in job contracts (BBC News)
 - [macro] Navi Pillay, former UN human rights chief, wins Nobel Peace Prize (BBC News)
-- [macro] Americans' debt problems are flashing a warning not seen since the Great Recession (Economy)
-- [macro] US imposes sanctions on International Criminal Court (BBC News)
-- [crypto] Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold (Cointelegraph.com News)
