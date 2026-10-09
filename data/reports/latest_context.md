@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T07:37:36.069450+00:00`
-- Market context score: `53.06`
-- News risk score: `33.46`
+- Generated: `2026-10-09T07:52:33.305307+00:00`
+- Market context score: `49.97`
+- News risk score: `36.68`
 - Macro risk score: `16.9`
-- Risk-on score: `30.32`
+- Risk-on score: `26.17`
 - Articles: `32`
 - Polymarket markets: `390`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T07:30:00+00:00`
+- Day/swing latest: `2026-10-09T07:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `1`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `1`
 - macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin, Ether ETFs’ October outflows swell toward $1B (Cointelegraph.com News)
 - [macro] Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen (BBC News)
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
 - [crypto] Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Trump administration outlines quantum, AI initiatives in $6B science push (Cointelegraph.com News)
 - [macro] 'You cannot build this car anywhere else in the world' (BBC News)
 - [crypto] Solana is about to halve its block times as final 200-millisecond upgrade nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump wants to reduce the cost of fuel as the midterms loom - will it work? (BBC News)
