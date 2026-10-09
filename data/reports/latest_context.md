@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T04:52:28.813789+00:00`
-- Market context score: `43.21`
-- News risk score: `42.21`
-- Macro risk score: `35.86`
-- Risk-on score: `23.0`
+- Generated: `2026-10-09T05:07:33.264849+00:00`
+- Market context score: `45.33`
+- News risk score: `39.36`
+- Macro risk score: `34.86`
+- Risk-on score: `24.9`
 - Articles: `35`
 - Polymarket markets: `390`
 
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T04:45:00+00:00`
+- Day/swing latest: `2026-10-09T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `1`
-- macro: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `1`
+- crypto: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `1`
+- macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
-- [crypto] Solana is about to halve its block times as final 200-millisecond upgrade nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Trump wants to reduce the cost of fuel as the midterms loom - will it work? (BBC News)
 - [crypto] XRP Ledger adds new controls for banks, stablecoins and tokenized funds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Nvidia-backed AI data centre firm scraps mega listing due to market volatility (BBC News)
+- [macro] Nvidia-backed AI data centre firm scraps landmark listing over market fears (BBC News)
 - [crypto] Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
