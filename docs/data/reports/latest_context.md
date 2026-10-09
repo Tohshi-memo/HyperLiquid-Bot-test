@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T09:37:40.106446+00:00`
-- Market context score: `50.36`
-- News risk score: `37.42`
-- Macro risk score: `16.8`
-- Risk-on score: `27.64`
-- Articles: `34`
+- Generated: `2026-10-09T09:52:29.749928+00:00`
+- Market context score: `50.56`
+- News risk score: `37.21`
+- Macro risk score: `16.39`
+- Risk-on score: `27.75`
+- Articles: `36`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T09:30:00+00:00`
+- Day/swing latest: `2026-10-09T09:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `2`
-- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
+- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
 
 ## Headlines
 
+- [macro] Fort Hood survivor supports gunman's execution by firing squad but questions livestream (BBC News)
+- [macro] How soon into dating should you reveal your salary? (BBC News)
+- [macro] Fired OpenAI researchers say they were let go for 'prioritising safety' (BBC News)
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
 - [crypto] Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -34,6 +37,3 @@
 - [macro] Cars torched and shops looted as anti-migrant violence erupts in South Africa (BBC News)
 - [macro] Everton owners consider selling club two years after takeover (BBC News)
 - [crypto] Bitcoin, Ether ETFs’ October outflows swell toward $1B (Cointelegraph.com News)
-- [macro] Meet India's feisty Gen Z protester who is taking on Modi (BBC News)
-- [macro] Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen (BBC News)
-- [crypto] Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
