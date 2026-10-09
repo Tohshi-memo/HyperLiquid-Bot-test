@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T09:22:27.022203+00:00`
-- Market context score: `50.26`
-- News risk score: `36.29`
-- Macro risk score: `16.55`
-- Risk-on score: `26.36`
-- Articles: `36`
+- Generated: `2026-10-09T09:37:40.106446+00:00`
+- Market context score: `50.36`
+- News risk score: `37.42`
+- Macro risk score: `16.8`
+- Risk-on score: `27.64`
+- Articles: `34`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T09:15:00+00:00`
+- Day/swing latest: `2026-10-09T09:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `2`
-- macro: articles `19`, risk hits `1`, risk headline rate `0.0526`, policy hits `0`
+- crypto: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `2`
+- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
+- [crypto] Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Cars torched and shops looted as anti-migrant violence erupts in South Africa (BBC News)
