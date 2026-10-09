@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T03:37:37.352336+00:00`
-- Market context score: `39.83`
-- News risk score: `47.23`
-- Macro risk score: `40.06`
-- Risk-on score: `21.3`
+- Generated: `2026-10-09T03:52:32.330830+00:00`
+- Market context score: `42.48`
+- News risk score: `44.54`
+- Macro risk score: `38.97`
+- Risk-on score: `24.52`
 - Articles: `38`
 - Polymarket markets: `391`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T03:30:00+00:00`
+- Day/swing latest: `2026-10-09T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `20`, risk hits `9`, risk headline rate `0.4`, policy hits `1`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `21`, risk hits `9`, risk headline rate `0.381`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Nvidia-backed AI data centre firm scraps mega stock market listing (BBC News)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
 - [macro] Adidas sues Australian label White Fox over four stripes design (BBC News)
 - [macro] Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Mark Zuckerberg has an image problem - so why is Meta's business booming? (BBC News)
 - [macro] Mark Zuckerberg has an image problem - so why is Meta's business booming? (BBC News)
 - [macro] Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison (BBC News)
-- [macro] Why are more roofs not made of solar tiles? (BBC News)
