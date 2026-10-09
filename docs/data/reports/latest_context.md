@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T14:07:29.204957+00:00`
-- Market context score: `40.2`
-- News risk score: `49.54`
-- Macro risk score: `25.78`
-- Risk-on score: `18.68`
-- Articles: `55`
+- Generated: `2026-10-09T14:22:33.298006+00:00`
+- Market context score: `36.13`
+- News risk score: `50.84`
+- Macro risk score: `27.79`
+- Risk-on score: `11.49`
+- Articles: `56`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T14:00:00+00:00`
+- Day/swing latest: `2026-10-09T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `26`, risk hits `12`, risk headline rate `0.4615`, policy hits `2`
-- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `2`
+- macro: articles `27`, risk hits `6`, risk headline rate `0.1852`, policy hits `2`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
 - [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
+- [macro] Americans' debt problems are flashing a warning not seen since the Great Recession (Economy)
+- [policy] Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families (FRB: Press Release - All Releases)
 - [macro] Three Saudi nationals killed in Houthi attacks on Riyadh airport (BBC News)
 - [crypto] Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +39,3 @@
 - [crypto] France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months (Cointelegraph.com News)
 - [macro] Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor (Economy)
 - [macro] Burnham promises to curb non-compete rules in job contracts (BBC News)
-- [macro] Anthropic bans users from being 'cruel' to its AI systems (BBC News)
-- [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
