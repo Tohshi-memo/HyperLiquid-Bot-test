@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T10:07:36.088776+00:00`
-- Market context score: `48.55`
-- News risk score: `38.84`
-- Macro risk score: `16.35`
-- Risk-on score: `24.65`
-- Articles: `37`
+- Generated: `2026-10-09T10:22:32.355828+00:00`
+- Market context score: `48.95`
+- News risk score: `38.25`
+- Macro risk score: `16.25`
+- Risk-on score: `25.0`
+- Articles: `40`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T10:00:00+00:00`
+- Day/swing latest: `2026-10-09T10:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `2`
+- crypto: articles `20`, risk hits `8`, risk headline rate `0.4`, policy hits `2`
 - macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Thailand opens door to locally listed bitcoin and ether ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] French lawmakers back stablecoin swap tax in 2027 budget bill (Cointelegraph.com News)
+- [crypto] UK slaps sanctions on three crypto exchanges over alleged Russia links (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations (Cointelegraph.com News)
 - [macro] Fort Hood survivor supports gunman's execution by firing squad but questions livestream (BBC News)
 - [macro] How soon into dating should you reveal your salary? (BBC News)
@@ -34,6 +37,3 @@
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
 - [crypto] Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Cars torched and shops looted as anti-migrant violence erupts in South Africa (BBC News)
-- [macro] Everton owners consider selling club two years after takeover (BBC News)
