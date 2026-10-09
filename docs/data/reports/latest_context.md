@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T13:37:26.327064+00:00`
-- Market context score: `40.67`
-- News risk score: `49.06`
-- Macro risk score: `24.13`
-- Risk-on score: `18.7`
-- Articles: `53`
+- Generated: `2026-10-09T13:52:34.935636+00:00`
+- Market context score: `39.72`
+- News risk score: `50.14`
+- Macro risk score: `25.8`
+- Risk-on score: `18.13`
+- Articles: `54`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T13:30:00+00:00`
+- Day/swing latest: `2026-10-09T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `25`, risk hits `12`, risk headline rate `0.48`, policy hits `2`
-- macro: articles `26`, risk hits `3`, risk headline rate `0.1154`, policy hits `2`
+- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `2`
 
 ## Headlines
 
+- [macro] Three Saudi nationals killed in Houthi attacks on Riyadh airport (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Ethiopia warns Eritrea it will defend itself after troops cross border (BBC News)
 - [crypto] France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months (Cointelegraph.com News)
 - [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
 - [macro] Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor (Economy)
@@ -35,6 +38,3 @@
 - [macro] Anthropic bans users from being 'cruel' to its AI systems (BBC News)
 - [macro] Firing squad execution to be livestreamed, Pentagon says (BBC News)
 - [crypto] DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] ICE agent shoots man in New York City (BBC News)
-- [macro] Two Renoir paintings stolen from French museum are recovered (BBC News)
-- [commodity] Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response (Energy)
