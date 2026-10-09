@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T19:52:29.200427+00:00`
+- Generated: `2026-10-09T20:07:29.137000+00:00`
 - Market context score: `42.46`
 - News risk score: `51.39`
 - Macro risk score: `30.96`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T19:45:00+00:00`
+- Day/swing latest: `2026-10-09T20:00:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
+- [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
 - [commodity] Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets (Energy)
+- [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
 - [macro] Thai Queen makes first solo flight in fighter jet (BBC News)
 - [macro] Powerful magnitude 7.7 earthquake hits Panama, damaging buildings (BBC News)
 - [macro] Trump wants to reduce the cost of fuel as the midterms loom - will it work? (BBC News)
-- [macro] Trump announces deal with Putin to release Russian diesel (BBC News)
-- [macro] Trump announces deal with Putin to release Russian diesel (BBC News)
-- [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
 - [macro] Americans' debt problems are flashing a warning not seen since the Great Recession (Economy)
 - [crypto] THORChain exec accuses Tether of temporarily freezing USDT vaults (Cointelegraph.com News)
 - [commodity] Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports (Energy)
