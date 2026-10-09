@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T14:22:33.298006+00:00`
+- Generated: `2026-10-09T14:37:27.290881+00:00`
 - Market context score: `36.13`
 - News risk score: `50.84`
 - Macro risk score: `27.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T14:15:00+00:00`
+- Day/swing latest: `2026-10-09T14:30:00+00:00`
 
 ## News Categories
 
@@ -29,8 +29,9 @@
 
 ## Headlines
 
-- [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
 - [macro] Americans' debt problems are flashing a warning not seen since the Great Recession (Economy)
+- [macro] Two Renoir paintings stolen from French museum are recovered (BBC News)
+- [commodity] Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries (Energy)
 - [policy] Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families (FRB: Press Release - All Releases)
 - [macro] Three Saudi nationals killed in Houthi attacks on Riyadh airport (BBC News)
 - [crypto] Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Ethiopia warns Eritrea it will defend itself after troops cross border (BBC News)
 - [crypto] France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months (Cointelegraph.com News)
 - [macro] Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor (Economy)
-- [macro] Burnham promises to curb non-compete rules in job contracts (BBC News)
