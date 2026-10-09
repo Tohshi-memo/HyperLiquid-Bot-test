@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T23:07:27.214741+00:00`
-- Market context score: `41.65`
-- News risk score: `49.21`
-- Macro risk score: `34.12`
-- Risk-on score: `24.79`
+- Generated: `2026-10-09T23:12:18.995622+00:00`
+- Market context score: `42.9`
+- News risk score: `48.19`
+- Macro risk score: `35.32`
+- Risk-on score: `27.14`
 - Articles: `50`
 - Polymarket markets: `392`
 
@@ -22,13 +22,14 @@
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `18`, risk hits `8`, risk headline rate `0.3889`, policy hits `0`
+- commodity: articles `5`, risk hits `6`, risk headline rate `0.8`, policy hits `0`
+- crypto: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `0`
 - macro: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Trump's diesel agreement with Putin accused of contradicting Russia sanctions law (Energy)
 - [macro] Boots has a new owner: Three ways it could affect you (BBC News)
 - [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
 - [macro] Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices (BBC News)
@@ -38,4 +39,3 @@
 - [macro] JD Vance casts doubt on firing squad execution and says he will not watch it (BBC News)
 - [macro] Powerful magnitude 7.7 earthquake hits Panama, damaging buildings (BBC News)
 - [crypto] U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] US plans to seize $1B in crypto linked to Iran this week: Scott Bessent (Cointelegraph.com News)
