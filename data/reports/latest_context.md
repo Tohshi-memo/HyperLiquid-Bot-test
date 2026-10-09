@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T21:52:29.205982+00:00`
+- Generated: `2026-10-09T22:07:27.963818+00:00`
 - Market context score: `40.04`
 - News risk score: `51.96`
 - Macro risk score: `34.65`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T21:45:00+00:00`
+- Day/swing latest: `2026-10-09T22:00:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
+- [macro] Three men found guilty of murdering two Australian surfer brothers and US friend (BBC News)
+- [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
+- [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
 - [macro] JD Vance casts doubt on firing squad execution and says he will not watch it (BBC News)
 - [macro] Powerful magnitude 7.7 earthquake hits Panama, damaging buildings (BBC News)
 - [crypto] U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
-- [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
-- [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
-- [macro] Three men found guilty of murdering two Australian surfer brothers and US friend (BBC News)
 - [crypto] US plans to seize $1B in crypto linked to Iran this week: Scott Bessent (Cointelegraph.com News)
 - [commodity] Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets (Energy)
 - [crypto] New York permanently bars Celsius founder Mashinsky in $35M fraud settlement (Cointelegraph.com News)
