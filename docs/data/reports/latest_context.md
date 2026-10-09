@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T06:22:28.771258+00:00`
-- Market context score: `50.75`
-- News risk score: `37.52`
-- Macro risk score: `23.04`
-- Risk-on score: `30.94`
-- Articles: `32`
+- Generated: `2026-10-09T06:37:27.838961+00:00`
+- Market context score: `51.01`
+- News risk score: `37.26`
+- Macro risk score: `22.52`
+- Risk-on score: `31.1`
+- Articles: `33`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T06:15:00+00:00`
+- Day/swing latest: `2026-10-09T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `1`
-- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
+- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
@@ -35,7 +35,7 @@
 - [macro] 'You cannot build this car anywhere else in the world' (BBC News)
 - [macro] Trump wants to reduce the cost of fuel as the midterms loom - will it work? (BBC News)
 - [macro] As freezing winter approaches, Kyiv residents look for shelter elsewhere (BBC News)
+- [macro] Cars torched and shops looted as anti-migrant violence erupts in South Africa (BBC News)
 - [macro] ICE agent shoots man in New York City (BBC News)
 - [crypto] XRP Ledger adds new controls for banks, stablecoins and tokenized funds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nvidia-backed AI data centre firm scraps landmark listing over market fears (BBC News)
-- [crypto] Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
