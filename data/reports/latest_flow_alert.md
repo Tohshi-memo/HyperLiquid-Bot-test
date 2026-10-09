@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-09T07:45:32.637293+00:00`
+- Generated: `2026-10-09T07:50:37.718308+00:00`
 - Flow alert score: `21.08`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2063598.2849950003` | liquidity: `1458507.1056`
-- Will Yulia Navalnaya win the Nobel Peace Prize in 2026? | 24h volume: `1309248.879095` | liquidity: `39058.44041`
-- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `1169060.246696` | liquidity: `368444.77795`
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `806232.059668` | liquidity: `1109991.30766`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `677945.4075059999` | liquidity: `702380.32811`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `459428.46521900006` | liquidity: `558763.8699`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `390487.9787759999` | liquidity: `127032.61`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `362571.57089699997` | liquidity: `674334.1604`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `2063598.2849950003` | liquidity: `1458067.2937`
+- Will Yulia Navalnaya win the Nobel Peace Prize in 2026? | 24h volume: `1309248.879095` | liquidity: `34558.48126`
+- Will Donald Trump win the Nobel Peace Prize in 2026? | 24h volume: `1169060.246696` | liquidity: `365166.95959`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `806232.059668` | liquidity: `1111458.40766`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `677945.4075059999` | liquidity: `700633.47787`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `459428.46521900006` | liquidity: `561912.9299`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `390487.9787759999` | liquidity: `126852.8123`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `362571.57089699997` | liquidity: `674310.0014`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
