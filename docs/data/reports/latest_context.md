@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-09T22:52:23.221804+00:00`
-- Market context score: `41.4`
-- News risk score: `49.31`
-- Macro risk score: `34.82`
-- Risk-on score: `24.57`
-- Articles: `49`
+- Generated: `2026-10-09T23:07:27.214741+00:00`
+- Market context score: `41.65`
+- News risk score: `49.21`
+- Macro risk score: `34.12`
+- Risk-on score: `24.79`
+- Articles: `50`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-09T22:45:00+00:00`
+- Day/swing latest: `2026-10-09T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `18`, risk hits `8`, risk headline rate `0.3889`, policy hits `0`
-- macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `4`
+- macro: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `4`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Boots has a new owner: Three ways it could affect you (BBC News)
 - [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
+- [macro] Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices (BBC News)
 - [macro] Three men found guilty of murdering two Australian surfer brothers and US friend (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (BBC News)
@@ -37,5 +39,3 @@
 - [macro] Powerful magnitude 7.7 earthquake hits Panama, damaging buildings (BBC News)
 - [crypto] U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US plans to seize $1B in crypto linked to Iran this week: Scott Bessent (Cointelegraph.com News)
-- [commodity] Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets (Energy)
-- [crypto] New York permanently bars Celsius founder Mashinsky in $35M fraud settlement (Cointelegraph.com News)
