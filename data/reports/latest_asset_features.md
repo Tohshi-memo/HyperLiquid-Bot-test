@@ -2,18 +2,18 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-10-10T01:52:29.620356+00:00`
-- Observed: `2026-10-10T01:45:00+00:00`
+- Generated: `2026-10-10T02:07:29.044485+00:00`
+- Observed: `2026-10-10T02:00:00+00:00`
 - Assets: `1580`
 
 ## Top Activity
 
 - `#73540` unknown price `0.49745` 4h `0.0` vol `0.0` relationship `risk_on_high->#73540_24h`
 - `#85730` unknown price `0.872325` 4h `0.0` vol `0.0` relationship `market_context_high->#85730_24h`
-- `#85720` unknown price `0.634225` 4h `0.2394` vol `0.0` relationship `market_context_high->#85720_24h`
-- `#85680` unknown price `0.662105` 4h `0.863` vol `0.0` relationship `market_context_high->#85680_24h`
+- `#85720` unknown price `0.63539` 4h `0.7732` vol `0.0` relationship `market_context_high->#85720_24h`
+- `#85680` unknown price `0.657855` 4h `0.4014` vol `0.0` relationship `market_context_high->#85680_24h`
 - `#86581` unknown price `0.9509` 4h `0.0` vol `0.0` relationship `market_context_high->#86581_24h`
-- `#71810` unknown price `0.14396` 4h `1.1275` vol `0.0` relationship `market_context_high->#71810_24h`
+- `#71810` unknown price `0.155625` 4h `8.6122` vol `0.0` relationship `market_context_high->#71810_24h`
 - `#86621` unknown price `0.9755` 4h `0.0` vol `0.0` relationship `market_context_high->#86621_24h`
 - `#86641` unknown price `0.97586` 4h `0.0` vol `0.0` relationship `market_context_high->#86641_24h`
 - `#86631` unknown price `0.992325` 4h `0.0` vol `0.0` relationship `market_context_high->#86631_24h`
@@ -27,4 +27,4 @@ Individual asset screen for drilling down from class-level signals.
 - `#25501` unknown price `0.748335` 4h `0.0` vol `0.0` relationship `risk_on_high->#25501_4h`
 - `#79680` unknown price `0.410075` 4h `0.0` vol `0.0` relationship `market_context_high->#79680_24h`
 - `#73490` unknown price `0.40539` 4h `0.0` vol `0.0` relationship `risk_on_high->#73490_24h`
-- `#79500` unknown price `0.132495` 4h `4.4707` vol `0.0` relationship `market_context_high->#79500_24h`
+- `#79500` unknown price `0.132495` 4h `3.9217` vol `0.0` relationship `market_context_high->#79500_24h`
