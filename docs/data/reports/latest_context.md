@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T02:07:29.044485+00:00`
+- Generated: `2026-10-10T02:22:27.464559+00:00`
 - Market context score: `45.39`
 - News risk score: `45.57`
 - Macro risk score: `31.9`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T02:00:00+00:00`
+- Day/swing latest: `2026-10-10T02:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Trump's diesel agreement with Putin accused of contradicting Russia sanctions law (Energy)
+- [macro] Life-threatening Hurricane Isaias makes landfall in Florida (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
 - [macro] US immigration officials defend ICE agents who shot man in same car as child (BBC News)
 - [macro] Questions remain over Ebola patient who travelled across three nations undetected (BBC News)
 - [macro] 'Everyone hates the police' – what France's school protests reveal about a divided nation (BBC News)
-- [commodity] Trump's diesel agreement with Putin accused of contradicting Russia sanctions law (Energy)
 - [macro] Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest (BBC News)
 - [macro] Boots has a new owner: Three ways it could affect you (BBC News)
 - [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
-- [macro] Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices (BBC News)
