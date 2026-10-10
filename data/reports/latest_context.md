@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T03:22:24.222902+00:00`
-- Market context score: `49.88`
-- News risk score: `43.59`
-- Macro risk score: `30.46`
-- Risk-on score: `36.94`
-- Articles: `37`
+- Generated: `2026-10-10T03:37:28.177003+00:00`
+- Market context score: `50.72`
+- News risk score: `42.76`
+- Macro risk score: `28.8`
+- Risk-on score: `37.49`
+- Articles: `36`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T03:15:00+00:00`
+- Day/swing latest: `2026-10-10T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
-- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `0`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `0`
 
 ## Headlines
 
+- [macro] Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest (BBC News)
 - [crypto] Visa survey says nearly half of APAC consumers open to using stablecoins by 2031 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump's diesel agreement with Putin accused of contradicting Russia sanctions law (Energy)
 - [macro] Life-threatening Hurricane Isaias makes landfall in Florida (BBC News)
@@ -36,5 +37,4 @@
 - [macro] US immigration officials defend ICE agents who shot man in same car as child (BBC News)
 - [macro] Questions remain over Ebola patient who travelled across three nations undetected (BBC News)
 - [macro] 'Everyone hates the police' – what France's school protests reveal about a divided nation (BBC News)
-- [macro] Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest (BBC News)
 - [macro] Boots has a new owner: Three ways it could affect you (BBC News)
