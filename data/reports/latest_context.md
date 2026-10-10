@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T21:22:22.117944+00:00`
+- Generated: `2026-10-10T21:37:29.419541+00:00`
 - Market context score: `43.3`
 - News risk score: `37.0`
 - Macro risk score: `32.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T21:15:00+00:00`
+- Day/swing latest: `2026-10-10T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Several injured in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] Russian glide bomb attack on Zaporizhzhia kills at least 20 people (BBC News)
 - [macro] 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (BBC News)
 - [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
 - [macro] Four dead and thousands without power after Hurricane Isaias lashes US (BBC News)
-- [macro] Several injured in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] Expedition hopes to find aviator Amelia Earhart's plane on remote island (BBC News)
 - [macro] US murderer Christa Pike discharged from hospital 10 days after failed execution (BBC News)
 - [macro] Nobel peace laureate says US sanctions on ICC 'unacceptable' (BBC News)
