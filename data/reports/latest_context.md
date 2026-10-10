@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T14:52:24.463018+00:00`
-- Market context score: `49.78`
-- News risk score: `29.01`
-- Macro risk score: `25.85`
-- Risk-on score: `22.66`
+- Generated: `2026-10-10T15:07:26.845134+00:00`
+- Market context score: `47.82`
+- News risk score: `31.07`
+- Macro risk score: `29.14`
+- Risk-on score: `21.29`
 - Articles: `24`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T14:45:00+00:00`
+- Day/swing latest: `2026-10-10T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
+- crypto: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
 
 ## Headlines
 
+- [macro] Woman injures three people in third Poland school knife attack in a week (BBC News)
 - [macro] Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'Cockroach' group leaders among hundreds detained in Delhi protest (BBC News)
 - [macro] Headmaster detained after BBC investigation into alleged sexual abuse of students (BBC News)
 - [crypto] One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tokenized commodities look beyond gold as lending and oil open new markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
