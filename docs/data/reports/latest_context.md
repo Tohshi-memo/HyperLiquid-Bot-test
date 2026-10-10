@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T04:07:24.320896+00:00`
-- Market context score: `47.81`
-- News risk score: `44.4`
-- Macro risk score: `28.8`
-- Risk-on score: `32.4`
+- Generated: `2026-10-10T04:22:29.696931+00:00`
+- Market context score: `48.57`
+- News risk score: `43.11`
+- Macro risk score: `29.5`
+- Risk-on score: `33.26`
 - Articles: `35`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T04:00:00+00:00`
+- Day/swing latest: `2026-10-10T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `0`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
+- macro: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [crypto] XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest (BBC News)
 - [crypto] Visa survey says nearly half of APAC consumers open to using stablecoins by 2031 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump's diesel agreement with Putin accused of contradicting Russia sanctions law (Energy)
@@ -37,4 +38,3 @@
 - [macro] US immigration officials defend ICE agents who shot man in same car as child (BBC News)
 - [macro] Questions remain over Ebola patient who travelled across three nations undetected (BBC News)
 - [macro] 'Everyone hates the police' – what France's school protests reveal about a divided nation (BBC News)
-- [macro] Boots has a new owner: Three ways it could affect you (BBC News)
