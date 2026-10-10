@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T12:37:24.373594+00:00`
-- Market context score: `46.36`
-- News risk score: `32.5`
-- Macro risk score: `32.0`
-- Risk-on score: `20.33`
-- Articles: `22`
+- Generated: `2026-10-10T12:52:31.403107+00:00`
+- Market context score: `47.42`
+- News risk score: `31.32`
+- Macro risk score: `30.46`
+- Risk-on score: `21.12`
+- Articles: `24`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,19 @@
 - Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1123`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-10-10T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
-- macro: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
+- macro: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] 'Cockroach' group leaders among hundreds detained in Delhi protest (BBC News)
 - [crypto] One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tokenized commodities look beyond gold as lending and oil open new markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hurricane Isaias downgraded after making landfall in Florida (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Rogue Anthropic AI agent gave police fake tip in unsolved murder case (BBC News)
 - [macro] Public executions in the US stopped nearly a century ago -  why are they resuming now? (BBC News)
-- [crypto] Tech chief says EU can fend off rogue AI risk: Report (Cointelegraph.com News)
-- [crypto] Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds (Cointelegraph.com News)
