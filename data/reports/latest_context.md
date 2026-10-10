@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T14:22:27.467474+00:00`
+- Generated: `2026-10-10T14:37:27.911604+00:00`
 - Market context score: `49.19`
 - News risk score: `29.59`
 - Macro risk score: `27.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T14:15:00+00:00`
+- Day/swing latest: `2026-10-10T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
+- [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
 - [macro] Russian glide bomb attack on Zaporizhzhia kills at least 15 people (BBC News)
 - [commodity] Putin relayed Iran war proposal to Trump, Kremlin says (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tokenized commodities look beyond gold as lending and oil open new markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Justin Sun says Tron’s post-quantum cryptography has gone live on testnet (Cointelegraph.com News)
-- [crypto] Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Rogue Anthropic AI agent gave police fake tip in unsolved murder case (BBC News)
