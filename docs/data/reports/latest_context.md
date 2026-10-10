@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T02:52:28.616233+00:00`
-- Market context score: `46.45`
-- News risk score: `45.98`
+- Generated: `2026-10-10T03:07:25.321057+00:00`
+- Market context score: `50.8`
+- News risk score: `42.23`
 - Macro risk score: `30.46`
-- Risk-on score: `31.35`
+- Risk-on score: `37.85`
 - Articles: `38`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T02:45:00+00:00`
+- Day/swing latest: `2026-10-10T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `12`, risk hits `6`, risk headline rate `0.4167`, policy hits `0`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Visa survey says nearly half of APAC consumers open to using stablecoins by 2031 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump's diesel agreement with Putin accused of contradicting Russia sanctions law (Energy)
 - [macro] Life-threatening Hurricane Isaias makes landfall in Florida (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'Everyone hates the police' – what France's school protests reveal about a divided nation (BBC News)
 - [macro] Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest (BBC News)
 - [macro] Boots has a new owner: Three ways it could affect you (BBC News)
-- [macro] Commentator Katie Zacharia picked as new White House press secretary (BBC News)
