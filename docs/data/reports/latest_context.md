@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T08:37:28.259910+00:00`
+- Generated: `2026-10-10T08:52:26.074088+00:00`
 - Market context score: `48.81`
 - News risk score: `30.74`
 - Macro risk score: `24.63`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T08:30:00+00:00`
+- Day/swing latest: `2026-10-10T08:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Tech chief says EU can fend off rogue AI risk: Report (Cointelegraph.com News)
 - [macro] Hurricane Isaias downgraded after making landfall in Florida (BBC News)
 - [crypto] Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds (Cointelegraph.com News)
 - [macro] Public executions in the US stopped nearly a century ago -  why are they resuming now? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
 - [macro] Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says (BBC News)
-- [crypto] XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
