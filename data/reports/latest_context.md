@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T20:37:26.770408+00:00`
-- Market context score: `44.32`
-- News risk score: `35.5`
-- Macro risk score: `32.0`
-- Risk-on score: `18.33`
+- Generated: `2026-10-10T20:52:30.719866+00:00`
+- Market context score: `43.94`
+- News risk score: `36.38`
+- Macro risk score: `30.75`
+- Risk-on score: `17.75`
 - Articles: `21`
 - Polymarket markets: `389`
 
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T20:30:00+00:00`
+- Day/swing latest: `2026-10-10T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `0`
 
 ## Headlines
 
+- [macro] Russian glide bomb attack on Zaporizhzhia kills at least 20 people (BBC News)
 - [macro] 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (BBC News)
+- [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
 - [macro] Four dead and thousands without power after Hurricane Isaias lashes US (BBC News)
 - [macro] Several injured in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] Expedition hopes to find aviator Amelia Earhart's plane on remote island (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Nobel peace laureate says US sanctions on ICC 'unacceptable' (BBC News)
 - [macro] Woman injures three people in third Poland school knife attack in a week (BBC News)
 - [macro] Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says (BBC News)
-- [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
-- [macro] Russian glide bomb attack on Zaporizhzhia kills at least 15 people (BBC News)
