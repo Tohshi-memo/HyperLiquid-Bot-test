@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T05:22:23.562577+00:00`
+- Generated: `2026-10-10T05:37:28.060068+00:00`
 - Market context score: `48.18`
 - News risk score: `38.43`
 - Macro risk score: `32.87`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T05:15:00+00:00`
+- Day/swing latest: `2026-10-10T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest (BBC News)
 - [macro] Nord Stream trial: How German police followed the evidence - to Ukraine (BBC News)
 - [crypto] Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
@@ -35,6 +36,5 @@
 - [macro] Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says (BBC News)
 - [crypto] XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Stain on the country': Trump criticises Norway over Nobel Peace Prize (BBC News)
-- [macro] Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest (BBC News)
 - [crypto] Visa survey says nearly half of APAC consumers open to using stablecoins by 2031 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump's diesel agreement with Putin accused of contradicting Russia sanctions law (Energy)
