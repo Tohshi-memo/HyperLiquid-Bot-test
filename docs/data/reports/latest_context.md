@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T07:07:29.764400+00:00`
-- Market context score: `43.92`
-- News risk score: `37.68`
-- Macro risk score: `25.64`
-- Risk-on score: `16.88`
+- Generated: `2026-10-10T07:22:26.520250+00:00`
+- Market context score: `46.14`
+- News risk score: `34.96`
+- Macro risk score: `23.43`
+- Risk-on score: `18.69`
 - Articles: `29`
 - Polymarket markets: `391`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T07:00:00+00:00`
+- Day/swing latest: `2026-10-10T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds (Cointelegraph.com News)
 - [macro] Hurricane Isaias downgraded after making landfall in Florida (BBC News)
 - [macro] Public executions in the US stopped nearly a century ago -  why are they resuming now? (BBC News)
 - [crypto] Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin (BBC News)
 - [macro] Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says (BBC News)
 - [crypto] XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Stain on the country': Trump criticises Norway over Nobel Peace Prize (BBC News)
