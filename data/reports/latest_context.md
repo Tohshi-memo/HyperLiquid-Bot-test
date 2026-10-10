@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T22:37:30.716402+00:00`
+- Generated: `2026-10-10T22:52:30.864522+00:00`
 - Market context score: `42.57`
 - News risk score: `37.71`
 - Macro risk score: `33.43`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1123`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-10-10T22:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [macro] Twelve killed in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] Four dead and thousands without power after Hurricane Isaias lashes US (BBC News)
-- [macro] Several injured in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] Russian glide bomb attack on Zaporizhzhia kills at least 20 people (BBC News)
 - [macro] 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (BBC News)
 - [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
