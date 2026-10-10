@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T14:07:28.846007+00:00`
-- Market context score: `47.42`
-- News risk score: `31.32`
-- Macro risk score: `30.46`
-- Risk-on score: `21.12`
-- Articles: `24`
+- Generated: `2026-10-10T14:22:27.467474+00:00`
+- Market context score: `49.19`
+- News risk score: `29.59`
+- Macro risk score: `27.0`
+- Risk-on score: `22.27`
+- Articles: `23`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T14:00:00+00:00`
+- Day/swing latest: `2026-10-10T14:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
+- [macro] Russian glide bomb attack on Zaporizhzhia kills at least 15 people (BBC News)
 - [commodity] Putin relayed Iran war proposal to Trump, Kremlin says (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] 'Cockroach' group leaders among hundreds detained in Delhi protest (BBC News)
@@ -35,6 +36,5 @@
 - [crypto] One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tokenized commodities look beyond gold as lending and oil open new markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Justin Sun says Tron’s post-quantum cryptography has gone live on testnet (Cointelegraph.com News)
-- [macro] Russian glide bomb attack on Zaporizhzhia kills at least 15 people (BBC News)
 - [crypto] Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Rogue Anthropic AI agent gave police fake tip in unsolved murder case (BBC News)
