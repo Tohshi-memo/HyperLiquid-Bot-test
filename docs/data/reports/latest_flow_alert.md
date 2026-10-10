@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-10T08:05:29.293216+00:00`
+- Generated: `2026-10-10T08:10:31.397101+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8323062.41`
-- Polymarket volume z-score: `-0.88`
+- Polymarket 24h volume: `8303930.72`
+- Polymarket volume z-score: `-0.89`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `900621.3410940001` | liquidity: `1370069.8823`
-- US x Iran ceasefire continues through October 12? | 24h volume: `708162.211327` | liquidity: `285155.25019`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `447505.00930300006` | liquidity: `797118.41174`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `344754.671254` | liquidity: `383262.61049`
-- US x Iran ceasefire continues through October 15? | 24h volume: `307723.68997899996` | liquidity: `200927.1446`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `302632.187588` | liquidity: `2634788.9234`
-- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `230224.46397900002` | liquidity: `431015.6778`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `198107.76964600003` | liquidity: `210353.4163`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `901018.027285` | liquidity: `1370232.1232`
+- US x Iran ceasefire continues through October 12? | 24h volume: `709284.3167820001` | liquidity: `296931.06353`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `447281.9513910002` | liquidity: `799036.16739`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `343389.671254` | liquidity: `383262.61049`
+- US x Iran ceasefire continues through October 15? | 24h volume: `307723.68997899996` | liquidity: `200016.6279`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `295181.087588` | liquidity: `2640876.6256`
+- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `230228.56924300006` | liquidity: `440639.8372`
+- China Open: Mirra Andreeva vs Nikola Bartunkova | 24h volume: `222245.667399` | liquidity: `289166.2163`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
