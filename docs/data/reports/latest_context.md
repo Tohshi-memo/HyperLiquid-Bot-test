@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T16:52:26.628985+00:00`
+- Generated: `2026-10-10T17:07:27.995751+00:00`
 - Market context score: `44.87`
 - News risk score: `34.34`
 - Macro risk score: `33.43`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T16:45:00+00:00`
+- Day/swing latest: `2026-10-10T17:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Injuries reported in attack on airport in Saudi capital Riyadh (BBC News)
+- [macro] Several injured in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] US murderer Christa Pike discharged from hospital 10 days after failed execution (BBC News)
 - [macro] Nobel peace laureate says US sanctions on ICC 'unacceptable' (BBC News)
 - [macro] Woman injures three people in third Poland school knife attack in a week (BBC News)
