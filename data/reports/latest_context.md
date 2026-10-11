@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T18:22:34.827456+00:00`
-- Market context score: `60.08`
-- News risk score: `39.2`
-- Macro risk score: `31.65`
-- Risk-on score: `56.35`
-- Articles: `21`
+- Generated: `2026-10-11T18:37:25.257960+00:00`
+- Market context score: `60.95`
+- News risk score: `37.91`
+- Macro risk score: `31.6`
+- Risk-on score: `57.18`
+- Articles: `22`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T18:15:00+00:00`
+- Day/swing latest: `2026-10-11T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
 - macro: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Everyone wants SCOTUS to take up prediction markets: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Poland detains man suspected of planning assassination of PM Tusk (BBC News)
 - [crypto] Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks (Cointelegraph.com News)
 - [macro] Citroen revives the 2CV for an electric age (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] President Trump declares 'energy ceasefire' between Russia and Ukraine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Riyadh airport attacks another dangerous moment in already tense conflict (BBC News)
 - [macro] Children among 139 dead after boat capsizes off Djibouti, UN says (BBC News)
-- [macro] Poland stabbings driven by online glorification of violence, Tusk says (BBC News)
