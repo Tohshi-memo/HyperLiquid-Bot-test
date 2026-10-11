@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-11T22:25:32.367154+00:00`
+- Generated: `2026-10-11T22:30:36.701545+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483211.34` | liquidity: `215217.42638`
-- US x Iran ceasefire continues through October 12? | 24h volume: `328343.75586000003` | liquidity: `265277.85965`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `282873.14633300004` | liquidity: `755618.82631`
-- Will the U.S. invade Iran before 2027? | 24h volume: `264678.1754569999` | liquidity: `668516.7882`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `238401.777038` | liquidity: `406933.12614`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `231518.584618` | liquidity: `2587151.6138`
-- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `223964.85507700001` | liquidity: `467120.40328`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `200746.456809` | liquidity: `394517.08098`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483211.34` | liquidity: `215248.92218`
+- US x Iran ceasefire continues through October 12? | 24h volume: `328343.75586000003` | liquidity: `260098.61433`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `282873.14633300004` | liquidity: `759113.17256`
+- Will the U.S. invade Iran before 2027? | 24h volume: `264678.1754569999` | liquidity: `668459.7224`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `238401.777038` | liquidity: `407233.75414`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `231518.584618` | liquidity: `2586814.2378`
+- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `223964.85507700001` | liquidity: `467380.56728`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `200746.456809` | liquidity: `393578.85972`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
