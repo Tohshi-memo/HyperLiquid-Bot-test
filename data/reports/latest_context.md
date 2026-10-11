@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T06:22:24.847356+00:00`
+- Generated: `2026-10-11T06:37:25.236774+00:00`
 - Market context score: `61.82`
 - News risk score: `24.67`
 - Macro risk score: `25.33`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T06:15:00+00:00`
+- Day/swing latest: `2026-10-11T06:30:00+00:00`
 
 ## News Categories
 
@@ -26,6 +26,7 @@
 
 ## Headlines
 
+- [macro] Delhi braces for more protests as 'cockroach' group's leaders released (BBC News)
 - [macro] US justice department investigates TV networks over Trump pool coverage (BBC News)
 - [macro] Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (BBC News)
@@ -34,4 +35,3 @@
 - [macro] Young men live in fear of being snatched off the streets and sold to Myanmar's army (BBC News)
 - [macro] Russian glide bomb attack on Zaporizhzhia kills at least 20 people (BBC News)
 - [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
-- [macro] Expedition hopes to find aviator Amelia Earhart's plane on remote island (BBC News)
