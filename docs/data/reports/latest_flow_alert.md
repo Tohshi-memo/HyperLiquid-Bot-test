@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-11T19:25:30.544764+00:00`
+- Generated: `2026-10-11T19:30:31.223353+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5590080.26`
-- Polymarket volume z-score: `-1.21`
+- Polymarket 24h volume: `5625642.52`
+- Polymarket volume z-score: `-1.2`
 
 ## Top Polymarket Markets
 
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483098.12` | liquidity: `219163.32626`
-- US x Iran ceasefire continues through October 12? | 24h volume: `327929.701092` | liquidity: `148464.50362`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `286404.15803000005` | liquidity: `2346682.4556`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `244484.05874699986` | liquidity: `382375.3609`
-- Israel x Iran ceasefire continues through October 15? | 24h volume: `241230.27883` | liquidity: `80826.12585`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `235152.37222900003` | liquidity: `349901.2392`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `204101.221833` | liquidity: `371688.80333`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `202423.39099500002` | liquidity: `262699.11445`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483098.12` | liquidity: `219863.19626`
+- US x Iran ceasefire continues through October 12? | 24h volume: `342610.755561` | liquidity: `154024.10289`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `286398.66353` | liquidity: `2349383.0977`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `244504.05874699992` | liquidity: `384019.53408`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `234780.32340300002` | liquidity: `354021.2442`
+- Israel x Iran ceasefire continues through October 15? | 24h volume: `233435.60398` | liquidity: `75991.57591`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `201290.130995` | liquidity: `263155.65445`
+- Will the U.S. invade Iran before 2027? | 24h volume: `199963.50934899997` | liquidity: `692262.6073`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
