@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T11:52:27.546992+00:00`
+- Generated: `2026-10-11T12:07:26.866172+00:00`
 - Market context score: `57.22`
 - News risk score: `48.0`
 - Macro risk score: `12.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T11:45:00+00:00`
+- Day/swing latest: `2026-10-11T12:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [macro] Pope Leo to have surgery after lump found on lung (BBC News)
+- [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [macro] Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on (BBC News)
 - [crypto] Coldcard says it’s investigating how phishing link appeared on its X account (Cointelegraph.com News)
 - [crypto] Ledger confirms unauthorized hardware implant; losses may exceed $86M (Cointelegraph.com News)
