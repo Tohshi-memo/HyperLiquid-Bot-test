@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T22:37:32.972514+00:00`
-- Market context score: `70.01`
-- News risk score: `25.68`
-- Macro risk score: `27.16`
+- Generated: `2026-10-11T22:52:25.266652+00:00`
+- Market context score: `69.99`
+- News risk score: `25.71`
+- Macro risk score: `27.2`
 - Risk-on score: `65.29`
-- Articles: `24`
+- Articles: `23`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T22:30:00+00:00`
+- Day/swing latest: `2026-10-11T22:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - macro: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `0`
 
 ## Headlines
 
+- [macro] One killed, 11 injured in second Houthi strike on Riyadh airport in two days (BBC News)
 - [macro] Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent (BBC News)
 - [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
-- [macro] Saudi capital airport hit by second Houthi strike in two days (BBC News)
 - [macro] Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says (BBC News)
 - [macro] Watch: What's behind Trump's energy ceasefire claim? (BBC News)
 - [commodity] Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details (Energy)
