@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T05:37:30.981329+00:00`
-- Market context score: `61.82`
-- News risk score: `24.67`
-- Macro risk score: `25.33`
-- Risk-on score: `45.56`
-- Articles: `9`
+- Generated: `2026-10-11T05:52:27.127259+00:00`
+- Market context score: `60.97`
+- News risk score: `25.5`
+- Macro risk score: `27.0`
+- Risk-on score: `45.0`
+- Articles: `8`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T05:30:00+00:00`
+- Day/swing latest: `2026-10-11T05:45:00+00:00`
 
 ## News Categories
 
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
@@ -34,4 +34,3 @@
 - [macro] Russian glide bomb attack on Zaporizhzhia kills at least 20 people (BBC News)
 - [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
 - [macro] Expedition hopes to find aviator Amelia Earhart's plane on remote island (BBC News)
-- [macro] US murderer Christa Pike discharged from hospital 10 days after failed execution (BBC News)
