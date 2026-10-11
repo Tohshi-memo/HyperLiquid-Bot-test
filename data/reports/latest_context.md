@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T22:52:25.266652+00:00`
-- Market context score: `69.99`
-- News risk score: `25.71`
-- Macro risk score: `27.2`
-- Risk-on score: `65.29`
-- Articles: `23`
+- Generated: `2026-10-11T23:07:27.909528+00:00`
+- Market context score: `65.63`
+- News risk score: `32.11`
+- Macro risk score: `27.16`
+- Risk-on score: `61.01`
+- Articles: `24`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T22:45:00+00:00`
+- Day/swing latest: `2026-10-11T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `1`
 - macro: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest (Cointelegraph.com News)
 - [macro] One killed, 11 injured in second Houthi strike on Riyadh airport in two days (BBC News)
 - [macro] Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent (BBC News)
 - [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
@@ -37,4 +38,3 @@
 - [macro] Orangutans released back into Borneo forest after devastating fires (BBC News)
 - [crypto] Everyone wants SCOTUS to take up prediction markets: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Poland detains man suspected of planning assassination of PM Tusk (BBC News)
-- [crypto] Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks (Cointelegraph.com News)
