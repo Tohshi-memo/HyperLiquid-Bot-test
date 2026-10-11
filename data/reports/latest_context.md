@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T15:37:27.788337+00:00`
-- Market context score: `58.58`
-- News risk score: `42.67`
-- Macro risk score: `25.33`
-- Risk-on score: `53.56`
-- Articles: `14`
+- Generated: `2026-10-11T15:52:29.192866+00:00`
+- Market context score: `58.24`
+- News risk score: `42.0`
+- Macro risk score: `30.0`
+- Risk-on score: `54.0`
+- Articles: `16`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T15:30:00+00:00`
+- Day/swing latest: `2026-10-11T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `8`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] President Trump declares 'energy ceasefire' between Russia and Ukraine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Riyadh airport attack another dangerous moment in already tense conflict (BBC News)
 - [macro] Children among 139 dead after boat capsizes off Djibouti, UN says (BBC News)
 - [macro] Poland stabbings driven by online glorification of violence, Tusk says (BBC News)
+- [macro] Ukraine strikes Yandex data centre in third attack on Russian tech giant (BBC News)
 - [macro] Ukraine strikes Yandex data centre in third attack on Russian tech giant (BBC News)
 - [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [macro] Pope Leo to have surgery after lump found on lung (BBC News)
 - [crypto] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Homes and bridges swept away as fresh floods hit Nepal (BBC News)
-- [macro] Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on (BBC News)
