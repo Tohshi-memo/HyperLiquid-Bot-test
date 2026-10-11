@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-11T01:45:29.652572+00:00`
+- Generated: `2026-10-11T01:51:29.033425+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `4306250.98`
-- Polymarket volume z-score: `-1.88`
+- Polymarket 24h volume: `4362598.7`
+- Polymarket volume z-score: `-1.86`
 
 ## Top Polymarket Markets
 
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `308190.854195` | liquidity: `2472316.6349`
-- US x Iran ceasefire continues through October 12? | 24h volume: `299072.5646130002` | liquidity: `234743.96123`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `266556.506367` | liquidity: `2609838.9588`
-- US x Iran ceasefire continues through October 31? | 24h volume: `258130.7383649999` | liquidity: `225334.6951`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `252950.58022000006` | liquidity: `817390.32036`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `206351.0263939999` | liquidity: `292036.0521`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `196219.24402599994` | liquidity: `1403030.7114`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `195672.45193` | liquidity: `376364.0039`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `308190.854195` | liquidity: `2478155.8334`
+- US x Iran ceasefire continues through October 12? | 24h volume: `299072.5646130002` | liquidity: `234567.92523`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `266556.506367` | liquidity: `2609933.8579`
+- US x Iran ceasefire continues through October 31? | 24h volume: `258130.7383649999` | liquidity: `198699.665`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `252950.58022000006` | liquidity: `816888.09955`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `206351.0263939999` | liquidity: `291778.8888`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `196219.24402599994` | liquidity: `1402783.9755`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `195672.45193` | liquidity: `374374.4136`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
