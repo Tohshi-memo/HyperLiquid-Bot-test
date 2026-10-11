@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T04:07:33.577404+00:00`
+- Generated: `2026-10-11T04:22:25.600695+00:00`
 - Market context score: `61.82`
 - News risk score: `24.67`
 - Macro risk score: `25.33`
 - Risk-on score: `45.56`
 - Articles: `9`
-- Polymarket markets: `391`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T04:00:00+00:00`
+- Day/swing latest: `2026-10-11T04:15:00+00:00`
 
 ## News Categories
 
@@ -26,7 +26,7 @@
 
 ## Headlines
 
-- [macro] Twelve killed in attack on airport in Saudi capital Riyadh (BBC News)
+- [macro] Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh (BBC News)
 - [macro] 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (BBC News)
 - [macro] Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted (BBC News)
 - [macro] Four dead and thousands without power after Hurricane Isaias lashes US (BBC News)
