@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-11T15:50:26.956068+00:00`
+- Generated: `2026-10-11T15:55:31.211778+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5171065.11`
-- Polymarket volume z-score: `-1.37`
+- Polymarket 24h volume: `5142840.93`
+- Polymarket volume z-score: `-1.38`
 
 ## Top Polymarket Markets
 
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483098.12` | liquidity: `188998.75355`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `294189.050774` | liquidity: `2342047.0199`
-- US x Iran ceasefire continues through October 12? | 24h volume: `276196.18959500006` | liquidity: `219027.80338`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `268150.981172` | liquidity: `376559.6842`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `228918.56627300006` | liquidity: `725903.16652`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `219897.526116` | liquidity: `354043.35128`
-- Israel x Iran ceasefire continues through October 15? | 24h volume: `219601.851525` | liquidity: `67952.07109`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `216380.60519` | liquidity: `354618.2588`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483098.12` | liquidity: `216420.75513`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `294229.840774` | liquidity: `2343335.0829`
+- US x Iran ceasefire continues through October 12? | 24h volume: `273498.10889400006` | liquidity: `224515.01009`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `268191.06087000004` | liquidity: `400745.0111`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `228821.10444800006` | liquidity: `758919.23988`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `219897.526116` | liquidity: `374427.01224`
+- Israel x Iran ceasefire continues through October 15? | 24h volume: `219615.740414` | liquidity: `78169.58795`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `216433.068959` | liquidity: `368176.77762`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
