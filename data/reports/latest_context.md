@@ -1,40 +1,40 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T12:52:29.082187+00:00`
-- Market context score: `53.4`
-- News risk score: `51.75`
-- Macro risk score: `19.5`
-- Risk-on score: `47.5`
-- Articles: `11`
+- Generated: `2026-10-11T13:07:29.759391+00:00`
+- Market context score: `57.73`
+- News risk score: `43.5`
+- Macro risk score: `27.0`
+- Risk-on score: `53.0`
+- Articles: `13`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1581`
+- Asset universe count: `1598`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1123`
+- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:150, fx:6, index:26, metal:20, unknown:1140`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T12:45:00+00:00`
+- Day/swing latest: `2026-10-11T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- macro: articles `7`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
+- macro: articles `7`, risk hits `3`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pope Leo to have surgery after lump found on lung (BBC News)
+- [macro] Ukraine strikes Russian data centre again despite Trump warning (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Children among 109 dead after boat capsizes off Djibouti, UN says (BBC News)
 - [macro] Homes and bridges swept away as fresh floods hit Nepal (BBC News)
 - [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [macro] Riyadh airport attack another dangerous moment in already tense conflict (BBC News)
 - [macro] Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on (BBC News)
 - [crypto] Coldcard says it’s investigating how phishing link appeared on its X account (Cointelegraph.com News)
-- [crypto] Ledger confirms unauthorized hardware implant; losses may exceed $86M (Cointelegraph.com News)
-- [crypto] CFTC proposals aimed at separating prediction markets from casino gambling (Cointelegraph.com News)
-- [macro] US justice department investigates TV networks over Trump pool coverage (BBC News)
