@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T10:07:32.058075+00:00`
+- Generated: `2026-10-11T10:22:29.726186+00:00`
 - Market context score: `38.02`
 - News risk score: `63.0`
 - Macro risk score: `12.0`
 - Risk-on score: `20.0`
-- Articles: `8`
+- Articles: `7`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T10:00:00+00:00`
+- Day/swing latest: `2026-10-11T10:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- macro: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
@@ -34,4 +34,3 @@
 - [macro] 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (BBC News)
 - [macro] Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted (BBC News)
 - [macro] Four dead and thousands without power after Hurricane Isaias lashes US (BBC News)
-- [macro] Young men live in fear of being snatched off the streets and sold to Myanmar's army (BBC News)
