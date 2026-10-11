@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T23:22:29.022922+00:00`
-- Market context score: `65.17`
-- News risk score: `32.58`
-- Macro risk score: `28.09`
-- Risk-on score: `60.71`
-- Articles: `23`
+- Generated: `2026-10-11T23:37:27.385873+00:00`
+- Market context score: `65.95`
+- News risk score: `31.76`
+- Macro risk score: `26.5`
+- Risk-on score: `61.17`
+- Articles: `29`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T23:15:00+00:00`
+- Day/swing latest: `2026-10-11T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `1`
-- macro: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Roofing scammers con homeowners out of thousands of pounds (BBC News)
+- [macro] Debt advice that may leave you owing even more money (BBC News)
+- [macro] Debt advice that may leave you owing even more money (BBC News)
+- [macro] Trump faces growing backlash over plans to import diesel from Russia (BBC News)
+- [macro] AI is less regulated than milk, says Microsoft president (BBC News)
+- [macro] Iran war threatens Healey's Budget plans, think tank warns (BBC News)
 - [crypto] Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest (Cointelegraph.com News)
 - [macro] One killed, 11 injured in second Houthi strike on Riyadh airport in two days (BBC News)
 - [macro] Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent (BBC News)
 - [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
-- [macro] Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says (BBC News)
-- [macro] Watch: What's behind Trump's energy ceasefire claim? (BBC News)
-- [commodity] Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details (Energy)
-- [macro] Orangutans released back into Borneo forest after devastating fires (BBC News)
-- [crypto] Everyone wants SCOTUS to take up prediction markets: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Poland detains man suspected of planning assassination of PM Tusk (BBC News)
