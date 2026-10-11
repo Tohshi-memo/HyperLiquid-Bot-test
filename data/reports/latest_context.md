@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T16:22:25.607359+00:00`
+- Generated: `2026-10-11T16:37:27.274494+00:00`
 - Market context score: `59.7`
 - News risk score: `39.86`
 - Macro risk score: `30.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T16:15:00+00:00`
+- Day/swing latest: `2026-10-11T16:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [crypto] Clarity's failure could speed crypto innovation while shielding incumbents (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] President Trump declares 'energy ceasefire' between Russia and Ukraine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Riyadh airport attack another dangerous moment in already tense conflict (BBC News)
@@ -35,6 +36,5 @@
 - [macro] Poland stabbings driven by online glorification of violence, Tusk says (BBC News)
 - [macro] Ukraine strikes Yandex data centre in third attack on Russian tech giant (BBC News)
 - [macro] Ukraine strikes Yandex data centre in third attack on Russian tech giant (BBC News)
-- [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [macro] Pope Leo to have surgery after lump found on lung (BBC News)
 - [crypto] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
