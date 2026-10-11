@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T07:22:26.708781+00:00`
-- Market context score: `64.8`
-- News risk score: `21.75`
-- Macro risk score: `19.5`
-- Risk-on score: `47.5`
-- Articles: `8`
-- Polymarket markets: `391`
+- Generated: `2026-10-11T07:37:30.275521+00:00`
+- Market context score: `64.25`
+- News risk score: `22.29`
+- Macro risk score: `20.57`
+- Risk-on score: `47.14`
+- Articles: `7`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T07:15:00+00:00`
+- Day/swing latest: `2026-10-11T07:30:00+00:00`
 
 ## News Categories
 
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
@@ -33,4 +33,3 @@
 - [macro] Four dead and thousands without power after Hurricane Isaias lashes US (BBC News)
 - [macro] Young men live in fear of being snatched off the streets and sold to Myanmar's army (BBC News)
 - [macro] Russian glide bomb attack on Zaporizhzhia kills at least 20 people (BBC News)
-- [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
