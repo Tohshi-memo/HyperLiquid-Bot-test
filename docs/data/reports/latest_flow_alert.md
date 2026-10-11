@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-11T08:55:26.984757+00:00`
+- Generated: `2026-10-11T09:00:30.377386+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through October 12? | 24h volume: `324793.038901` | liquidity: `354884.8516`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `317315.27001900005` | liquidity: `2578508.4918`
-- US x Iran ceasefire continues through October 31? | 24h volume: `287549.62449400005` | liquidity: `455678.8814`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `237237.95732500002` | liquidity: `898019.78329`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `219018.105349` | liquidity: `399920.1421`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `214496.82740999997` | liquidity: `377959.7531`
-- Strait of Hormuz traffic returns to normal by October 31? | 24h volume: `213752.07812699996` | liquidity: `335010.42993`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `211422.458454` | liquidity: `2679267.9774`
+- US x Iran ceasefire continues through October 12? | 24h volume: `324793.038901` | liquidity: `385350.89864`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `317315.27001900005` | liquidity: `2580452.0969`
+- US x Iran ceasefire continues through October 31? | 24h volume: `287549.62449400005` | liquidity: `508515.9406`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `237237.95732500002` | liquidity: `897801.21809`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `219018.105349` | liquidity: `398452.5955`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `214496.82740999997` | liquidity: `377993.0181`
+- Strait of Hormuz traffic returns to normal by October 31? | 24h volume: `213752.07812699996` | liquidity: `331926.66277`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `211422.458454` | liquidity: `2679643.2842`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
