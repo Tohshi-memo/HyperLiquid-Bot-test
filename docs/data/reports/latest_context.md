@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T03:22:28.604526+00:00`
-- Market context score: `59.44`
-- News risk score: `27.0`
-- Macro risk score: `30.0`
-- Risk-on score: `44.0`
-- Articles: `10`
+- Generated: `2026-10-11T03:37:32.060589+00:00`
+- Market context score: `61.82`
+- News risk score: `24.67`
+- Macro risk score: `25.33`
+- Risk-on score: `45.56`
+- Articles: `9`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T03:15:00+00:00`
+- Day/swing latest: `2026-10-11T03:30:00+00:00`
 
 ## News Categories
 
-- macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
+- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
@@ -35,4 +35,3 @@
 - [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
 - [macro] Expedition hopes to find aviator Amelia Earhart's plane on remote island (BBC News)
 - [macro] US murderer Christa Pike discharged from hospital 10 days after failed execution (BBC News)
-- [macro] Nobel peace laureate says US sanctions on ICC 'unacceptable' (BBC News)
