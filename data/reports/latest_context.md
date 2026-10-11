@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-10T23:52:27.108714+00:00`
-- Market context score: `38.49`
-- News risk score: `43.71`
-- Macro risk score: `33.43`
-- Risk-on score: `12.86`
-- Articles: `17`
+- Generated: `2026-10-11T00:07:31.006350+00:00`
+- Market context score: `59.62`
+- News risk score: `26.82`
+- Macro risk score: `29.65`
+- Risk-on score: `44.12`
+- Articles: `18`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-10T23:45:00+00:00`
+- Day/swing latest: `2026-10-11T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted (BBC News)
 - [macro] Four dead and thousands without power after Hurricane Isaias lashes US (BBC News)
 - [macro] Twelve killed in attack on airport in Saudi capital Riyadh (BBC News)
+- [macro] Young men live in fear of being snatched off the streets and sold to Myanmar's army (BBC News)
 - [macro] Russian glide bomb attack on Zaporizhzhia kills at least 20 people (BBC News)
 - [macro] 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (BBC News)
 - [macro] Watch: 'Time for Ukraine to get a new president', says Trump (BBC News)
 - [macro] Expedition hopes to find aviator Amelia Earhart's plane on remote island (BBC News)
 - [macro] US murderer Christa Pike discharged from hospital 10 days after failed execution (BBC News)
 - [macro] Nobel peace laureate says US sanctions on ICC 'unacceptable' (BBC News)
-- [macro] Woman injures three people in third Poland school knife attack in a week (BBC News)
-- [macro] Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says (BBC News)
