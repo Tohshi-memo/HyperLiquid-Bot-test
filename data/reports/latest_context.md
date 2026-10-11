@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T13:52:29.641322+00:00`
+- Generated: `2026-10-11T14:07:28.812735+00:00`
 - Market context score: `57.73`
 - News risk score: `43.5`
 - Macro risk score: `27.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T13:45:00+00:00`
+- Day/swing latest: `2026-10-11T14:00:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 
 - [macro] Pope Leo to have surgery after lump found on lung (BBC News)
 - [crypto] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ukraine strikes Russian data centre again despite Trump warning (BBC News)
+- [macro] Ukraine strikes Yandex data centre in third attack on Russian tech giant (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Children among 109 dead after boat capsizes off Djibouti, UN says (BBC News)
 - [macro] Homes and bridges swept away as fresh floods hit Nepal (BBC News)
