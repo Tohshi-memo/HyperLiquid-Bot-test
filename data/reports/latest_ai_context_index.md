@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-10-11T05:22:27.890563+00:00`
+- Updated: `2026-10-11T05:37:30.981329+00:00`
 - Asset price active records: `672`
 - Day/swing records: `12000`
 - Macro indicators: `11`
@@ -13,28 +13,28 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (2374 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (63020 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2333 bytes): Current canary signals.
+- `data/reports/latest_ai_context_index.md` (2372 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (62946 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2360 bytes): Current canary signals.
 - `data/reports/latest_ai_analysis_brief.md` (874 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2099 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (50453 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (4926 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2254 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10470 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3560 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (50458 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5642 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2262 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (10446 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3618 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
 
-- commodity: `5`
+- commodity: `13`
 - crypto_alt: `235`
 - crypto_major: `8`
-- equity: `41`
-- fx: `1`
-- index: `17`
-- metal: `12`
-- unknown: `1093`
+- equity: `150`
+- fx: `6`
+- index: `26`
+- metal: `20`
+- unknown: `1123`
 
 ## Canary Snapshot
 
