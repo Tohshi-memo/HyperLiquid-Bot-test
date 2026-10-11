@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T12:22:29.319365+00:00`
+- Generated: `2026-10-11T12:37:29.238569+00:00`
 - Market context score: `53.4`
 - News risk score: `51.75`
 - Macro risk score: `19.5`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T12:15:00+00:00`
+- Day/swing latest: `2026-10-11T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Pope Leo to have surgery after lump found on lung (BBC News)
 - [macro] Children among 109 dead after boat capsizes off Djibouti, UN says (BBC News)
 - [macro] Homes and bridges swept away as fresh floods hit Nepal (BBC News)
-- [macro] Pope Leo to have surgery after lump found on lung (BBC News)
 - [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [macro] Riyadh airport attack another dangerous moment in already tense conflict (BBC News)
 - [macro] Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on (BBC News)
