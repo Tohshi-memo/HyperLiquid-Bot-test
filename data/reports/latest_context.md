@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-11T14:37:32.763543+00:00`
+- Generated: `2026-10-11T14:52:25.549969+00:00`
 - Market context score: `57.73`
 - News risk score: `43.5`
 - Macro risk score: `27.0`
 - Risk-on score: `53.0`
 - Articles: `13`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-11T14:30:00+00:00`
+- Day/swing latest: `2026-10-11T14:45:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Ukraine strikes Yandex data centre in third attack on Russian tech giant (BBC News)
 - [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
 - [macro] Pope Leo to have surgery after lump found on lung (BBC News)
 - [crypto] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ukraine strikes Yandex data centre in third attack on Russian tech giant (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Children among 109 dead after boat capsizes off Djibouti, UN says (BBC News)
 - [macro] Homes and bridges swept away as fresh floods hit Nepal (BBC News)
