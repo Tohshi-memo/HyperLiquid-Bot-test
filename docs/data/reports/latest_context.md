@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T22:22:34.152916+00:00`
-- Market context score: `48.51`
-- News risk score: `43.35`
-- Macro risk score: `32.87`
-- Risk-on score: `34.6`
-- Articles: `45`
+- Generated: `2026-10-12T22:37:27.445143+00:00`
+- Market context score: `47.78`
+- News risk score: `44.01`
+- Macro risk score: `33.74`
+- Risk-on score: `33.86`
+- Articles: `43`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T22:15:00+00:00`
+- Day/swing latest: `2026-10-12T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `0`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `3`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `0`
 
 ## Headlines
 
-- [macro] Immigration agents search congresswoman Ilhan Omar's home (BBC News)
 - [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
+- [macro] Immigration agents search congresswoman Ilhan Omar's home (BBC News)
 - [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
 - [crypto] FTX’s crypto mining venture is now used to advance AI (Cointelegraph.com News)
 - [macro] Analysis: Trump's global headaches worsen weeks before crucial elections (BBC News)
