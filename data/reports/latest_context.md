@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T04:52:33.412593+00:00`
-- Market context score: `46.86`
-- News risk score: `42.6`
-- Macro risk score: `25.0`
-- Risk-on score: `27.33`
+- Generated: `2026-10-12T05:07:32.464025+00:00`
+- Market context score: `48.58`
+- News risk score: `39.92`
+- Macro risk score: `25.63`
+- Risk-on score: `29.12`
 - Articles: `25`
 - Polymarket markets: `391`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T04:45:00+00:00`
+- Day/swing latest: `2026-10-12T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `1`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
 - [crypto] Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] French lawmakers back reporting rule for crypto wallets over $112K (Cointelegraph.com News)
 - [commodity] Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine (Energy)
 - [crypto] XRP Ledger defends emergency patch for unlimited XRP bug (Cointelegraph.com News)
 - [macro] Watch: Endangered orangutans released back into the wild after Borneo fires (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Roofing scammers con homeowners out of thousands of pounds (BBC News)
 - [macro] Debt advice that may leave you owing even more money (BBC News)
 - [macro] Debt advice that may leave you owing even more money (BBC News)
-- [macro] Trump faces growing backlash over plans to import diesel from Russia (BBC News)
 - [macro] Trump faces growing backlash over plans to import diesel from Russia (BBC News)
