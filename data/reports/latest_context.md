@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T22:52:23.775316+00:00`
-- Market context score: `48.74`
-- News risk score: `42.91`
-- Macro risk score: `32.05`
-- Risk-on score: `34.44`
-- Articles: `42`
+- Generated: `2026-10-12T23:07:28.061229+00:00`
+- Market context score: `60.67`
+- News risk score: `38.69`
+- Macro risk score: `31.33`
+- Risk-on score: `57.11`
+- Articles: `41`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T22:45:00+00:00`
+- Day/swing latest: `2026-10-12T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `3`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `3`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [macro] Heating oil customers face tough winter despite shake-up promise (BBC News)
+- [macro] I earn £120,000 a year making social media videos go viral (BBC News)
 - [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] Immigration agents search congresswoman Ilhan Omar's home (BBC News)
 - [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Qantas flight grounded after bedbug outbreak (BBC News)
 - [macro] Pupil arrested after two teachers shot at French school (BBC News)
 - [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
-- [macro] Why Moscow is staying tight-lipped on Trump's energy ceasefire (BBC News)
-- [commodity] Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire (Energy)
