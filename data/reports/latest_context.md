@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T15:37:29.610814+00:00`
+- Generated: `2026-10-12T15:52:25.599963+00:00`
 - Market context score: `44.43`
 - News risk score: `45.56`
 - Macro risk score: `34.54`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T15:30:00+00:00`
+- Day/swing latest: `2026-10-12T15:45:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Immigration agents search Congresswoman Ilhan Omar's home (BBC News)
 - [macro] Why some have no choice but to pay costly oil prices (BBC News)
 - [crypto] Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Thousands march to Indian Supreme Court to demand election chief resign (BBC News)
 - [macro] AI minister warns 'likely' UK's cyber defences will be breached (BBC News)
-- [macro] Immigration agents search Congresswoman Ilhan Omar's home (BBC News)
 - [crypto] Tokenized catastrophe bonds target the disaster-insurance gap (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why the US is bringing back firing squads (BBC News)
 - [macro] South Africa's deputy police chief resigns after being charged with sexual offences (BBC News)
