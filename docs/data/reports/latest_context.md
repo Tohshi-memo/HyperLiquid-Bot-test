@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T21:07:28.003218+00:00`
-- Market context score: `52.48`
-- News risk score: `42.44`
-- Macro risk score: `32.02`
-- Risk-on score: `42.33`
-- Articles: `48`
+- Generated: `2026-10-12T21:22:30.464469+00:00`
+- Market context score: `53.02`
+- News risk score: `42.03`
+- Macro risk score: `31.28`
+- Risk-on score: `42.91`
+- Articles: `50`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T21:00:00+00:00`
+- Day/swing latest: `2026-10-12T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `3`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `0`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `3`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `0`
 
 ## Headlines
 
+- [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
+- [crypto] FTX’s crypto mining venture is now used to advance AI (Cointelegraph.com News)
+- [macro] Analysis: Trump's global headaches worsen weeks before crucial elections (BBC News)
+- [macro] Qantas flight grounded after bedbug outbreak (BBC News)
 - [macro] Pupil arrested after two teachers shot at French school (BBC News)
 - [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [macro] Why Moscow is staying tight-lipped on Trump's energy ceasefire (BBC News)
 - [commodity] Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto PACs report $2.7M spending blitz on House races as midterms loom (Cointelegraph.com News)
-- [crypto] US accounting overhaul could make stablecoins more attractive to corporations: Tempo (Cointelegraph.com News)
-- [commodity] Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice' (Energy)
-- [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
-- [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
