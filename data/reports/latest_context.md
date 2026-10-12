@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T13:37:29.120238+00:00`
+- Generated: `2026-10-12T13:52:37.434674+00:00`
 - Market context score: `45.87`
 - News risk score: `39.71`
 - Macro risk score: `31.17`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T13:30:00+00:00`
+- Day/swing latest: `2026-10-12T13:45:00+00:00`
 
 ## News Categories
 
@@ -35,6 +35,6 @@
 - [macro] Pupil arrested after two teachers shot at French school (BBC News)
 - [macro] Who are the Houthis, and why are they so hard to fight? (BBC News)
 - [crypto] Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Australia proposes leverage caps for crypto-settled derivatives (Cointelegraph.com News)
 - [macro] Tom Cruise film Digger forecast to lose $245m at box office (BBC News)
