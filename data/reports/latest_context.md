@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T16:22:24.151977+00:00`
-- Market context score: `43.77`
-- News risk score: `46.92`
-- Macro risk score: `33.79`
-- Risk-on score: `27.44`
-- Articles: `56`
+- Generated: `2026-10-12T16:37:28.517908+00:00`
+- Market context score: `44.02`
+- News risk score: `46.83`
+- Macro risk score: `33.11`
+- Risk-on score: `27.65`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T16:15:00+00:00`
+- Day/swing latest: `2026-10-12T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `4`
-- macro: articles `27`, risk hits `11`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `28`, risk hits `11`, risk headline rate `0.3214`, policy hits `0`
 
 ## Headlines
 
+- [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
 - [crypto] Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Why some have no choice but to pay costly oil prices (BBC News)
 - [crypto] Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Thousands march to Indian Supreme Court to demand election chief resign (BBC News)
-- [macro] AI minister warns 'likely' UK's cyber defences will be breached (BBC News)
