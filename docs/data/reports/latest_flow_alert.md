@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-12T15:10:37.118409+00:00`
+- Generated: `2026-10-12T15:15:38.660871+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US x Yemen ceasefire continues through October 12? | 24h volume: `538593.060758` | liquidity: `66292.68225`
-- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `530067.293456` | liquidity: `478396.87658`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `516970.4600100001` | liquidity: `537708.57188`
-- US x Iran ceasefire continues through October 12? | 24h volume: `494863.77204199997` | liquidity: `77981.79825`
-- Will there be no Hormuz agreement? | 24h volume: `263921.61877799995` | liquidity: `679553.77932`
-- Will the U.S. invade Iran before 2027? | 24h volume: `223644.44438299994` | liquidity: `614383.1652`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `210229.576155` | liquidity: `255524.74348`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `206433.60308100018` | liquidity: `879061.99632`
+- US x Yemen ceasefire continues through October 12? | 24h volume: `538593.060758` | liquidity: `53912.9687`
+- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `530067.293456` | liquidity: `480048.63989`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `516970.4600100001` | liquidity: `538309.44817`
+- US x Iran ceasefire continues through October 12? | 24h volume: `494863.77204199997` | liquidity: `76461.23637`
+- Will there be no Hormuz agreement? | 24h volume: `263921.61877799995` | liquidity: `679535.24332`
+- Will the U.S. invade Iran before 2027? | 24h volume: `223644.44438299994` | liquidity: `611719.2429`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `210229.576155` | liquidity: `258313.90362`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `206433.60308100018` | liquidity: `926908.77438`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
