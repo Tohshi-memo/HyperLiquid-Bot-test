@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T07:52:27.989567+00:00`
+- Generated: `2026-10-12T08:07:29.473471+00:00`
 - Market context score: `46.07`
 - News risk score: `35.2`
 - Macro risk score: `23.74`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T07:45:00+00:00`
+- Day/swing latest: `2026-10-12T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Campaigners claim minister attempting to undermine 'Holiday Hunger Bill' (BBC News)
 - [crypto] Ledger says unauthorized implant found in at least one device sold by CryptoBilis (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI is less regulated than milk, says Microsoft president (BBC News)
 - [macro] Healey faces £35bn Budget challenge to meet spending pledges, says think tank (BBC News)
@@ -36,5 +37,4 @@
 - [commodity] Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Why some have no choice but to pay costly oil prices (BBC News)
-- [macro] Campaigners claim minister attempting to undermine 'Holiday Hunger Bill' (BBC News)
 - [crypto] DATA Network to migrate to Sui, retire own chain (Cointelegraph.com News)
