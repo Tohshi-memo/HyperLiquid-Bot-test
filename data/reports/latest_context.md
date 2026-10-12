@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T21:52:29.304387+00:00`
+- Generated: `2026-10-12T22:07:31.731421+00:00`
 - Market context score: `51.87`
 - News risk score: `42.94`
 - Macro risk score: `32.83`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T21:45:00+00:00`
+- Day/swing latest: `2026-10-12T22:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Immigration agents search congresswoman Ilhan Omar's home (BBC News)
+- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
 - [crypto] FTX’s crypto mining venture is now used to advance AI (Cointelegraph.com News)
 - [macro] Analysis: Trump's global headaches worsen weeks before crucial elections (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [macro] Why Moscow is staying tight-lipped on Trump's energy ceasefire (BBC News)
 - [commodity] Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Crypto PACs report $2.7M spending blitz on House races as midterms loom (Cointelegraph.com News)
