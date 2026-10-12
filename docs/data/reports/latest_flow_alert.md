@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-12T07:05:29.001506+00:00`
+- Generated: `2026-10-12T07:10:36.665472+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7191012.68`
-- Polymarket volume z-score: `-0.67`
+- Polymarket 24h volume: `7272436.8`
+- Polymarket volume z-score: `-0.64`
 
 ## Top Polymarket Markets
 
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483878.00333400007` | liquidity: `213829.25517`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `477749.3733400001` | liquidity: `567795.04043`
-- Will the U.S. invade Iran before 2027? | 24h volume: `307545.68860399997` | liquidity: `699311.4396`
-- US x Iran ceasefire continues through October 12? | 24h volume: `285364.3977990001` | liquidity: `333391.34943`
-- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `263108.540077` | liquidity: `543879.07244`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `229939.130919` | liquidity: `324645.0215`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `227470.784829` | liquidity: `263150.60625`
-- Will there be no Hormuz agreement? | 24h volume: `214391.34203199996` | liquidity: `647975.97217`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483878.003334` | liquidity: `211577.96367`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `478776.27334` | liquidity: `567766.80663`
+- Will the U.S. invade Iran before 2027? | 24h volume: `307540.89495299995` | liquidity: `700620.3914`
+- US x Iran ceasefire continues through October 12? | 24h volume: `297080.31567200006` | liquidity: `333236.03653`
+- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `263108.540077` | liquidity: `547233.59116`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `234153.44653700004` | liquidity: `262802.38233`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `230046.13091900002` | liquidity: `337597.9817`
+- Will there be no Hormuz agreement? | 24h volume: `214621.34203200004` | liquidity: `645020.25622`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
