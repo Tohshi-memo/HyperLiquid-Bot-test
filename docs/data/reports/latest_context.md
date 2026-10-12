@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T02:07:31.316355+00:00`
-- Market context score: `64.49`
-- News risk score: `33.58`
-- Macro risk score: `27.96`
-- Risk-on score: `60.0`
-- Articles: `26`
+- Generated: `2026-10-12T02:22:25.401837+00:00`
+- Market context score: `63.41`
+- News risk score: `34.63`
+- Macro risk score: `30.07`
+- Risk-on score: `59.29`
+- Articles: `27`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T02:00:00+00:00`
+- Day/swing latest: `2026-10-12T02:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `1`
 - macro: articles `18`, risk hits `6`, risk headline rate `0.2778`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine (Energy)
 - [crypto] XRP Ledger defends emergency patch for unlimited XRP bug (Cointelegraph.com News)
 - [macro] Roofing scammers con homeowners out of thousands of pounds (BBC News)
 - [macro] Debt advice that may leave you owing even more money (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Iran war threatens Healey's Budget plans, think tank warns (BBC News)
 - [crypto] Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest (Cointelegraph.com News)
 - [macro] One killed, 11 injured in second Houthi strike on Riyadh airport in two days (BBC News)
-- [macro] Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent (BBC News)
