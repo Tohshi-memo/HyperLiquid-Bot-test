@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-12T05:00:27.607843+00:00`
+- Generated: `2026-10-12T05:05:29.337056+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483878.003334` | liquidity: `216966.5346`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `426710.995557` | liquidity: `621405.05111`
-- US x Iran ceasefire continues through October 12? | 24h volume: `332491.172777` | liquidity: `296230.35975`
-- Will the U.S. invade Iran before 2027? | 24h volume: `303810.35944000003` | liquidity: `654902.6086`
-- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `263108.540077` | liquidity: `508062.5205`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `218713.33091599995` | liquidity: `345580.4565`
-- Will there be no Hormuz agreement? | 24h volume: `214232.82645599998` | liquidity: `562096.65963`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `181322.6646620001` | liquidity: `917805.36913`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `483878.003334` | liquidity: `217398.52023`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `426710.995557` | liquidity: `622802.93112`
+- US x Iran ceasefire continues through October 12? | 24h volume: `332491.172777` | liquidity: `294881.12894`
+- Will the U.S. invade Iran before 2027? | 24h volume: `303810.35944000003` | liquidity: `658509.9858`
+- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `263108.540077` | liquidity: `511393.35215`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `218713.33091599995` | liquidity: `319174.2115`
+- Will there be no Hormuz agreement? | 24h volume: `214232.82645599998` | liquidity: `579630.02076`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `181322.6646620001` | liquidity: `918845.46913`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
