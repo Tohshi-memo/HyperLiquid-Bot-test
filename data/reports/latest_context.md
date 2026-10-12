@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T08:37:26.595618+00:00`
+- Generated: `2026-10-12T08:52:30.377812+00:00`
 - Market context score: `45.86`
 - News risk score: `34.99`
 - Macro risk score: `25.82`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T08:30:00+00:00`
+- Day/swing latest: `2026-10-12T08:45:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Healey faces £35bn Budget challenge to meet spending pledges, says think tank (BBC News)
 - [crypto] Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] World Bank jobs council urges 'crisis-era' support measures as IMF warns of AI ‘tsunami’ hit (Economy)
 - [macro] Campaigners claim minister attempting to undermine 'Holiday Hunger Bill' (BBC News)
 - [crypto] Ledger says unauthorized implant found in at least one device sold by CryptoBilis (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] AI is less regulated than milk, says Microsoft president (BBC News)
-- [macro] Healey faces £35bn Budget challenge to meet spending pledges, says think tank (BBC News)
 - [macro] Watch: How did Roman Abramovich's advisors help hide his wealth? (BBC News)
 - [crypto] Global watchdog flags stablecoin risks, AI threats ahead of G20 (Cointelegraph.com News)
 - [commodity] Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine (Energy)
