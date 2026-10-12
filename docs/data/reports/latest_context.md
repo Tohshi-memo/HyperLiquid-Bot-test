@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T18:07:26.333679+00:00`
-- Market context score: `43.91`
-- News risk score: `46.27`
-- Macro risk score: `33.44`
-- Risk-on score: `27.07`
-- Articles: `52`
-- Polymarket markets: `390`
+- Generated: `2026-10-12T18:22:29.474161+00:00`
+- Market context score: `44.19`
+- News risk score: `46.14`
+- Macro risk score: `32.7`
+- Risk-on score: `27.3`
+- Articles: `53`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T18:00:00+00:00`
+- Day/swing latest: `2026-10-12T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `3`
-- macro: articles `24`, risk hits `10`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `0`
 
 ## Headlines
 
+- [macro] The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging (Market Insider)
 - [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
 - [macro] Pupil arrested after two teachers shot at French school (BBC News)
 - [macro] Immigration agents search Congresswoman Ilhan Omar's home (BBC News)
@@ -36,5 +37,4 @@
 - [macro] South Africa's deputy police chief resigns after being charged with sexual offences (BBC News)
 - [crypto] Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high (Cointelegraph.com News)
 - [crypto] Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
