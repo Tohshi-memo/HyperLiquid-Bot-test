@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T07:37:32.375992+00:00`
-- Market context score: `44.97`
-- News risk score: `36.83`
-- Macro risk score: `23.77`
-- Risk-on score: `17.79`
-- Articles: `29`
+- Generated: `2026-10-12T07:52:27.989567+00:00`
+- Market context score: `46.07`
+- News risk score: `35.2`
+- Macro risk score: `23.74`
+- Risk-on score: `18.86`
+- Articles: `30`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T07:30:00+00:00`
+- Day/swing latest: `2026-10-12T07:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `1`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 - macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ledger says unauthorized implant found in at least one device sold by CryptoBilis (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] AI is less regulated than milk, says Microsoft president (BBC News)
 - [macro] Healey faces £35bn Budget challenge to meet spending pledges, says think tank (BBC News)
 - [macro] Watch: How did Roman Abramovich's advisors help hide his wealth? (BBC News)
 - [crypto] Global watchdog flags stablecoin risks, AI threats ahead of G20 (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Why some have no choice but to pay costly oil prices (BBC News)
 - [macro] Campaigners claim minister attempting to undermine 'Holiday Hunger Bill' (BBC News)
 - [crypto] DATA Network to migrate to Sui, retire own chain (Cointelegraph.com News)
-- [macro] Documents falsified to evade tax on Abramovich's wealth, BBC finds (BBC News)
-- [macro] Documents falsified to evade tax on Abramovich's wealth, BBC finds (BBC News)
