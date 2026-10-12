@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T07:07:25.014288+00:00`
+- Generated: `2026-10-12T07:22:30.362695+00:00`
 - Market context score: `45.22`
 - News risk score: `36.57`
 - Macro risk score: `23.27`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T07:00:00+00:00`
+- Day/swing latest: `2026-10-12T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Healey faces £35bn Budget challenge to meet spending pledges, says think tank (BBC News)
 - [macro] Watch: How did Roman Abramovich's advisors help hide his wealth? (BBC News)
 - [crypto] Global watchdog flags stablecoin risks, AI threats ahead of G20 (Cointelegraph.com News)
-- [macro] Healey faces £35bn Budget challenge to meet spending pledges, says think tank (BBC News)
 - [commodity] Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Why some have no choice but to pay costly oil prices (BBC News)
