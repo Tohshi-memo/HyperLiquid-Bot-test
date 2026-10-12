@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-12T14:25:27.043164+00:00`
+- Generated: `2026-10-12T14:30:33.526701+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7888715.45`
-- Polymarket volume z-score: `-0.36`
+- Polymarket 24h volume: `7824880.73`
+- Polymarket volume z-score: `-0.38`
 
 ## Top Polymarket Markets
 
-- US x Yemen ceasefire continues through October 12? | 24h volume: `538263.702258` | liquidity: `69105.36084`
-- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `523127.12695299997` | liquidity: `523206.96504`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `513445.98001` | liquidity: `540970.69818`
-- US x Iran ceasefire continues through October 12? | 24h volume: `478707.859776` | liquidity: `92152.09898`
-- Will there be no Hormuz agreement? | 24h volume: `254485.06423899994` | liquidity: `711234.61443`
-- Will the U.S. invade Iran before 2027? | 24h volume: `247076.394607` | liquidity: `628908.2127`
-- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `214738.63615499996` | liquidity: `265588.78589`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `214716.18914100013` | liquidity: `924826.23798`
+- US x Yemen ceasefire continues through October 12? | 24h volume: `538563.702258` | liquidity: `71577.99355`
+- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `523127.1269530001` | liquidity: `504075.31171`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `514010.2200100001` | liquidity: `540764.96915`
+- US x Iran ceasefire continues through October 12? | 24h volume: `479347.83724499994` | liquidity: `94502.28784`
+- Will there be no Hormuz agreement? | 24h volume: `255233.21568299993` | liquidity: `704418.8627`
+- Will the U.S. invade Iran before 2027? | 24h volume: `222678.31317699995` | liquidity: `611724.4153`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `214023.05472800008` | liquidity: `348286.8284`
+- US announces end of Iranian blockade by October 15, 2026? | 24h volume: `213031.15615499995` | liquidity: `260536.26991`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
