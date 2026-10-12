@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T01:22:27.078250+00:00`
-- Market context score: `63.83`
-- News risk score: `34.72`
-- Macro risk score: `27.25`
-- Risk-on score: `59.24`
-- Articles: `26`
+- Generated: `2026-10-12T01:37:31.109624+00:00`
+- Market context score: `64.87`
+- News risk score: `33.2`
+- Macro risk score: `27.21`
+- Risk-on score: `60.24`
+- Articles: `27`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T01:15:00+00:00`
+- Day/swing latest: `2026-10-12T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `1`
 - macro: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `0`
 
 ## Headlines
 
+- [crypto] XRP Ledger defends emergency patch for unlimited XRP bug (Cointelegraph.com News)
 - [macro] Roofing scammers con homeowners out of thousands of pounds (BBC News)
 - [macro] Debt advice that may leave you owing even more money (BBC News)
 - [macro] Debt advice that may leave you owing even more money (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest (Cointelegraph.com News)
 - [macro] One killed, 11 injured in second Houthi strike on Riyadh airport in two days (BBC News)
 - [macro] Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent (BBC News)
-- [commodity] Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike (Energy)
