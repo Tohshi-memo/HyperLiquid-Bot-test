@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T06:52:27.186754+00:00`
+- Generated: `2026-10-12T07:07:25.014288+00:00`
 - Market context score: `45.22`
 - News risk score: `36.57`
 - Macro risk score: `23.27`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T06:45:00+00:00`
+- Day/swing latest: `2026-10-12T07:00:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [macro] Why some have no choice but to pay costly oil prices (BBC News)
 - [macro] Campaigners claim minister attempting to undermine 'Holiday Hunger Bill' (BBC News)
 - [crypto] DATA Network to migrate to Sui, retire own chain (Cointelegraph.com News)
-- [macro] Documents falsified to evade tax on Abramovich's wealth (BBC News)
-- [macro] Documents falsified to evade tax on Abramovich's wealth (BBC News)
+- [macro] Documents falsified to evade tax on Abramovich's wealth, BBC finds (BBC News)
+- [macro] Documents falsified to evade tax on Abramovich's wealth, BBC finds (BBC News)
