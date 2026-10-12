@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T20:07:28.639098+00:00`
-- Market context score: `45.11`
-- News risk score: `46.27`
-- Macro risk score: `33.44`
-- Risk-on score: `29.73`
-- Articles: `52`
+- Generated: `2026-10-12T20:22:29.282985+00:00`
+- Market context score: `45.39`
+- News risk score: `46.14`
+- Macro risk score: `32.7`
+- Risk-on score: `29.97`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T20:00:00+00:00`
+- Day/swing latest: `2026-10-12T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `3`
-- macro: articles `24`, risk hits `10`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `0`
 
 ## Headlines
 
+- [macro] Why Moscow is staying tight-lipped on Trump's energy ceasefire (BBC News)
 - [commodity] Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto PACs report $2.7M spending blitz on House races as midterms loom (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
 - [macro] The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging (Market Insider)
 - [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
-- [macro] Pupil arrested after two teachers shot at French school (BBC News)
