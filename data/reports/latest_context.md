@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T19:37:24.970539+00:00`
-- Market context score: `45.69`
-- News risk score: `45.82`
-- Macro risk score: `32.67`
-- Risk-on score: `30.34`
-- Articles: `54`
+- Generated: `2026-10-12T19:52:28.922144+00:00`
+- Market context score: `45.11`
+- News risk score: `46.27`
+- Macro risk score: `33.44`
+- Risk-on score: `29.73`
+- Articles: `52`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T19:30:00+00:00`
+- Day/swing latest: `2026-10-12T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `3`
-- macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `0`
+- crypto: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `3`
+- macro: articles `24`, risk hits `10`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto PACs report $2.7M spending blitz on House races as midterms loom (Cointelegraph.com News)
 - [crypto] US accounting overhaul could make stablecoins more attractive to corporations: Tempo (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging (Market Insider)
 - [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
 - [macro] Pupil arrested after two teachers shot at French school (BBC News)
-- [macro] Immigration agents search Congresswoman Ilhan Omar's home (BBC News)
