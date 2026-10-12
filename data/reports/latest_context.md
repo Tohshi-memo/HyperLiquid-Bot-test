@@ -1,33 +1,35 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T20:52:29.357641+00:00`
-- Market context score: `47.56`
-- News risk score: `45.1`
-- Macro risk score: `33.5`
-- Risk-on score: `34.2`
-- Articles: `50`
+- Generated: `2026-10-12T21:07:28.003218+00:00`
+- Market context score: `52.48`
+- News risk score: `42.44`
+- Macro risk score: `32.02`
+- Risk-on score: `42.33`
+- Articles: `48`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1599`
+- Asset universe count: `1600`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:151, fx:6, index:26, metal:20, unknown:1140`
+- Asset classes: `commodity:13, crypto_alt:235, crypto_major:8, equity:151, fx:6, index:26, metal:20, unknown:1141`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T20:45:00+00:00`
+- Day/swing latest: `2026-10-12T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `3`
-- macro: articles `24`, risk hits `10`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `3`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `0`
 
 ## Headlines
 
+- [macro] Pupil arrested after two teachers shot at French school (BBC News)
+- [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [macro] Why Moscow is staying tight-lipped on Trump's energy ceasefire (BBC News)
 - [commodity] Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [commodity] Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice' (Energy)
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
-- [macro] The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging (Market Insider)
-- [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
