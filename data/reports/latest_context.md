@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-12T18:37:31.287098+00:00`
-- Market context score: `45.07`
-- News risk score: `46.51`
-- Macro risk score: `32.73`
-- Risk-on score: `29.57`
-- Articles: `52`
+- Generated: `2026-10-12T18:52:33.202228+00:00`
+- Market context score: `45.39`
+- News risk score: `46.14`
+- Macro risk score: `32.7`
+- Risk-on score: `29.97`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-12T18:30:00+00:00`
+- Day/swing latest: `2026-10-12T18:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `24`, risk hits `9`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `3`
 - macro: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `0`
 
 ## Headlines
 
+- [crypto] US accounting overhaul could make stablecoins more attractive to corporations: Tempo (Cointelegraph.com News)
 - [commodity] Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice' (Energy)
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
 - [macro] Fridges in French supermarkets hit by cyber attack (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Immigration agents search Congresswoman Ilhan Omar's home (BBC News)
 - [crypto] Bitcoin miners face widening AI financing costs as lenders scrutinize deals (Cointelegraph.com News)
 - [commodity] Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire (Energy)
-- [macro] South Africa's deputy police chief resigns after being charged with sexual offences (BBC News)
