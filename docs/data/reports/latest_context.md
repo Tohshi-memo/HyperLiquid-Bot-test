@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T01:22:23.516260+00:00`
+- Generated: `2026-10-13T01:36:18.366415+00:00`
 - Market context score: `55.67`
 - News risk score: `45.92`
 - Macro risk score: `30.19`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T01:15:00+00:00`
+- Day/swing latest: `2026-10-13T01:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [crypto] Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks (Cointelegraph.com News)
 - [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] Publicly owned rail is popular. But is it making the trains run on time? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (BBC News)
 - [crypto] FTX’s crypto mining venture is now used to advance AI (Cointelegraph.com News)
 - [macro] Analysis: Trump's global headaches worsen weeks before crucial elections (BBC News)
-- [macro] Qantas flight grounded after bedbug outbreak (BBC News)
