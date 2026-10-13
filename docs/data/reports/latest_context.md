@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T02:07:32.978372+00:00`
-- Market context score: `56.71`
-- News risk score: `43.77`
-- Macro risk score: `33.28`
-- Risk-on score: `53.33`
-- Articles: `39`
+- Generated: `2026-10-13T02:22:28.051249+00:00`
+- Market context score: `58.41`
+- News risk score: `41.06`
+- Macro risk score: `33.44`
+- Risk-on score: `54.9`
+- Articles: `37`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T02:00:00+00:00`
+- Day/swing latest: `2026-10-13T02:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `2`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `24`, risk hits `8`, risk headline rate `0.3333`, policy hits `2`
 
 ## Headlines
 
+- [macro] Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF (Economy)
 - [macro] UK growth upgraded but energy prices and rates to bite in 2027 (BBC News)
-- [crypto] Meta launches Muse Wonder AI models, challenging top rivals (Cointelegraph.com News)
+- [crypto] Meta claims new Muse Wonder AI models rival OpenAI, Anthropic (Cointelegraph.com News)
 - [macro] Bumble shares soar after report dating firm in $1bn takeover talks (BBC News)
 - [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [crypto] Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Publicly owned rail is popular. But is it making the trains run on time? (BBC News)
 - [macro] Heating oil customers face tough winter despite shake-up promise (BBC News)
 - [macro] Heating oil customers face tough winter despite shake-up promise (BBC News)
-- [macro] I earn £120,000 a year making social media videos go viral (BBC News)
