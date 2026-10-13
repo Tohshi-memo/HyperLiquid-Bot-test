@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T08:07:31.832655+00:00`
-- Market context score: `49.75`
-- News risk score: `34.07`
-- Macro risk score: `27.64`
-- Risk-on score: `27.55`
-- Articles: `39`
+- Generated: `2026-10-13T08:22:28.120443+00:00`
+- Market context score: `49.46`
+- News risk score: `34.35`
+- Macro risk score: `28.21`
+- Risk-on score: `27.36`
+- Articles: `38`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T08:00:00+00:00`
+- Day/swing latest: `2026-10-13T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
-- macro: articles `27`, risk hits `10`, risk headline rate `0.2222`, policy hits `2`
+- macro: articles `26`, risk hits `10`, risk headline rate `0.2308`, policy hits `2`
 
 ## Headlines
 
-- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] Emergency calls from botched Christa Pike execution released to US media (BBC News)
+- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] UK growth forecast upgraded but energy prices and rates to hit in 2027 (BBC News)
 - [macro] India 'cockroach' leaders detained after entering barricaded protest site (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
