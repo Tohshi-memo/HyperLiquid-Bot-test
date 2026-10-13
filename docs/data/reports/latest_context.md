@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T14:37:29.504647+00:00`
-- Market context score: `50.19`
-- News risk score: `39.83`
-- Macro risk score: `28.48`
-- Risk-on score: `33.7`
-- Articles: `54`
+- Generated: `2026-10-13T14:52:32.794659+00:00`
+- Market context score: `50.01`
+- News risk score: `39.98`
+- Macro risk score: `28.5`
+- Risk-on score: `33.45`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T14:30:00+00:00`
+- Day/swing latest: `2026-10-13T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `2`
+- crypto: articles `26`, risk hits `7`, risk headline rate `0.2308`, policy hits `2`
 - macro: articles `25`, risk hits `11`, risk headline rate `0.24`, policy hits `1`
 
 ## Headlines
 
 - [macro] Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack (BBC News)
+- [macro] One dead and several hurt after rollercoaster incident at Six Flags (BBC News)
 - [crypto] Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus (Cointelegraph.com News)
 - [macro] Ex-president named leader of new DR Congo rebel coalition (BBC News)
 - [crypto] Is Bitcoin kidding itself about the Lightning Network? (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Hungarian MPs scrap Orbán's anti-LGBTQ measures (BBC News)
 - [crypto] Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS (Cointelegraph.com News)
-- [macro] World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’ (Economy)
