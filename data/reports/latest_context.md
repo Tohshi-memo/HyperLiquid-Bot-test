@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T17:52:40.445299+00:00`
-- Market context score: `50.56`
-- News risk score: `42.4`
-- Macro risk score: `23.1`
-- Risk-on score: `34.67`
-- Articles: `50`
+- Generated: `2026-10-13T18:07:36.122265+00:00`
+- Market context score: `49.29`
+- News risk score: `43.9`
+- Macro risk score: `25.5`
+- Risk-on score: `34.02`
+- Articles: `51`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T17:45:00+00:00`
+- Day/swing latest: `2026-10-13T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `3`
-- macro: articles `22`, risk hits `6`, risk headline rate `0.1364`, policy hits `1`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.1818`, policy hits `1`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [policy] Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026 (FRB: Press Release - All Releases)
+- [macro] Argentina lodges legal claim against UK's Falklands oil exploration (BBC News)
 - [commodity] Oil prices little changed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict (Energy)
 - [macro] Horrified witnesses recount fatal rollercoaster incident at Six Flags (BBC News)
 - [commodity] Trump's diesel deal with Russia equals less than two weeks of U.S. demand (Energy)
@@ -36,5 +39,3 @@
 - [macro] Bumble bought for $1.3bn in 'bet on the future of humanity' (BBC News)
 - [crypto] Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% (Cointelegraph.com News)
 - [commodity] Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms (Energy)
-- [macro] In charts: How one of the world's biggest economies got trapped by debt (Economy)
-- [crypto] Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
