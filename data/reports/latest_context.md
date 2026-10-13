@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T07:52:25.302644+00:00`
+- Generated: `2026-10-13T08:07:31.832655+00:00`
 - Market context score: `49.75`
 - News risk score: `34.07`
 - Macro risk score: `27.64`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T07:45:00+00:00`
+- Day/swing latest: `2026-10-13T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] Emergency calls from botched Christa Pike execution released to US media (BBC News)
 - [macro] UK growth forecast upgraded but energy prices and rates to hit in 2027 (BBC News)
 - [macro] India 'cockroach' leaders detained after entering barricaded protest site (BBC News)
-- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin whale that sat through the March 2020 crash moves $378 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Blur is shutting down its website, so why are NFT collectors cheering? (Cointelegraph.com News)
