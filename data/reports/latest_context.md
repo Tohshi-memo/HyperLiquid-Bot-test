@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T04:37:36.064031+00:00`
-- Market context score: `43.94`
-- News risk score: `35.21`
-- Macro risk score: `36.26`
-- Risk-on score: `18.84`
-- Articles: `32`
+- Generated: `2026-10-13T04:52:28.645173+00:00`
+- Market context score: `43.38`
+- News risk score: `35.76`
+- Macro risk score: `37.35`
+- Risk-on score: `18.48`
+- Articles: `31`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T04:30:00+00:00`
+- Day/swing latest: `2026-10-13T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
-- macro: articles `20`, risk hits `9`, risk headline rate `0.35`, policy hits `2`
+- macro: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [crypto] Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits (Economy)
@@ -37,4 +38,3 @@
 - [macro] UK growth upgraded but energy prices and rates to bite in 2027 (BBC News)
 - [crypto] South Korea moves to block 27 crypto websites, including KuCoin, MEXC (Cointelegraph.com News)
 - [crypto] Meta claims new Muse Wonder AI models rival OpenAI, Anthropic (Cointelegraph.com News)
-- [macro] Bumble shares soar after report dating firm in $1bn takeover talks (BBC News)
