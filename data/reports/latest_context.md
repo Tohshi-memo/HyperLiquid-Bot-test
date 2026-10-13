@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T04:22:30.806148+00:00`
-- Market context score: `41.22`
-- News risk score: `39.19`
-- Macro risk score: `36.24`
-- Risk-on score: `16.17`
-- Articles: `33`
+- Generated: `2026-10-13T04:37:36.064031+00:00`
+- Market context score: `43.94`
+- News risk score: `35.21`
+- Macro risk score: `36.26`
+- Risk-on score: `18.84`
+- Articles: `32`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T04:15:00+00:00`
+- Day/swing latest: `2026-10-13T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 - macro: articles `20`, risk hits `9`, risk headline rate `0.35`, policy hits `2`
 
 ## Headlines
 
+- [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [crypto] Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits (Economy)
 - [commodity] Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict (Energy)
@@ -37,4 +38,3 @@
 - [crypto] South Korea moves to block 27 crypto websites, including KuCoin, MEXC (Cointelegraph.com News)
 - [crypto] Meta claims new Muse Wonder AI models rival OpenAI, Anthropic (Cointelegraph.com News)
 - [macro] Bumble shares soar after report dating firm in $1bn takeover talks (BBC News)
-- [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
