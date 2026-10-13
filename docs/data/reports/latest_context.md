@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T13:52:38.378858+00:00`
-- Market context score: `51.1`
-- News risk score: `38.23`
-- Macro risk score: `29.1`
-- Risk-on score: `34.62`
-- Articles: `53`
+- Generated: `2026-10-13T14:07:37.265154+00:00`
+- Market context score: `50.19`
+- News risk score: `39.83`
+- Macro risk score: `28.48`
+- Risk-on score: `33.7`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T13:45:00+00:00`
+- Day/swing latest: `2026-10-13T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `27`, risk hits `6`, risk headline rate `0.1852`, policy hits `2`
-- macro: articles `24`, risk hits `11`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `2`
+- macro: articles `25`, risk hits `11`, risk headline rate `0.24`, policy hits `1`
 
 ## Headlines
 
+- [macro] Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack (BBC News)
+- [crypto] Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus (Cointelegraph.com News)
 - [macro] Ex-president named leader of new DR Congo rebel coalition (BBC News)
 - [crypto] Is Bitcoin kidding itself about the Lightning Network? (Cointelegraph.com News)
 - [commodity] Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict (Energy)
+- [macro] Is Zelensky right to say data centre strikes have taken down Russian bots? (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Hungarian MPs scrap Orbán's anti-LGBTQ measures (BBC News)
-- [macro] Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack (BBC News)
 - [crypto] Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS (Cointelegraph.com News)
 - [macro] World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’ (Economy)
-- [macro] Car finance compensation payments delayed until next year (BBC News)
-- [crypto] Russia clears Sberbank for crypto trading ahead of December launch (Cointelegraph.com News)
