@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T16:52:25.359310+00:00`
-- Market context score: `49.37`
-- News risk score: `42.68`
-- Macro risk score: `23.66`
-- Risk-on score: `32.46`
-- Articles: `57`
+- Generated: `2026-10-13T17:07:31.583280+00:00`
+- Market context score: `49.7`
+- News risk score: `42.65`
+- Macro risk score: `22.99`
+- Risk-on score: `32.93`
+- Articles: `54`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T16:45:00+00:00`
+- Day/swing latest: `2026-10-13T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `3`
-- macro: articles `26`, risk hits `9`, risk headline rate `0.1538`, policy hits `1`
+- crypto: articles `29`, risk hits `11`, risk headline rate `0.3448`, policy hits `3`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.1364`, policy hits `1`
 
 ## Headlines
 
 - [commodity] Trump's diesel deal with Russia equals less than two weeks of U.S. demand (Energy)
+- [crypto] How the SEC’s lack of leadership could facilitate crypto rulemaking (Cointelegraph.com News)
 - [macro] Pope admitted to hospital for surgery to remove lump on his lung (BBC News)
 - [macro] Bumble bought for $1.3bn in 'bet on the future of humanity' (BBC News)
 - [crypto] Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Horrified witnesses recount fatal rollercoaster incident at Six Flags (BBC News)
 - [crypto] Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off (Cointelegraph.com News)
-- [crypto] UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
