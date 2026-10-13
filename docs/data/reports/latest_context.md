@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T17:07:31.583280+00:00`
+- Generated: `2026-10-13T17:22:30.426140+00:00`
 - Market context score: `49.7`
 - News risk score: `42.65`
 - Macro risk score: `22.99`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T17:00:00+00:00`
+- Day/swing latest: `2026-10-13T17:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [commodity] Oil prices little changed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict (Energy)
+- [macro] Horrified witnesses recount fatal rollercoaster incident at Six Flags (BBC News)
 - [commodity] Trump's diesel deal with Russia equals less than two weeks of U.S. demand (Energy)
 - [crypto] How the SEC’s lack of leadership could facilitate crypto rulemaking (Cointelegraph.com News)
 - [macro] Pope admitted to hospital for surgery to remove lump on his lung (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms (Energy)
 - [macro] In charts: How one of the world's biggest economies got trapped by debt (Economy)
 - [crypto] Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Horrified witnesses recount fatal rollercoaster incident at Six Flags (BBC News)
-- [crypto] Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off (Cointelegraph.com News)
