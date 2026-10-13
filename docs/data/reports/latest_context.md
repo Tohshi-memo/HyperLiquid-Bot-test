@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T05:52:27.784428+00:00`
+- Generated: `2026-10-13T06:07:32.045649+00:00`
 - Market context score: `48.25`
 - News risk score: `35.88`
 - Macro risk score: `31.31`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T05:45:00+00:00`
+- Day/swing latest: `2026-10-13T06:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] UK growth upgraded but energy prices and rates to bite in 2027 (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin whale that sat through the March 2020 crash moves $378 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Blur is shutting down its website, so why are NFT collectors cheering? (Cointelegraph.com News)
 - [macro] Cost-of-living struggles inspire Community Cupboard (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Binance to shut down crypto mining pool services in November (Cointelegraph.com News)
 - [macro] Death threats and isolation - the cost of fighting sexual violence in Iraq (BBC News)
 - [macro] Where the US midterm elections will be won and lost (BBC News)
-- [macro] Russia's offensive ability is broken, Kyiv's former top general tells BBC (BBC News)
-- [macro] IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen (Economy)
