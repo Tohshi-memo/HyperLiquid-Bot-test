@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T03:37:26.565902+00:00`
-- Market context score: `39.5`
-- News risk score: `42.39`
-- Macro risk score: `33.63`
-- Risk-on score: `14.04`
+- Generated: `2026-10-13T03:52:27.514484+00:00`
+- Market context score: `38.16`
+- News risk score: `43.69`
+- Macro risk score: `36.24`
+- Risk-on score: `13.17`
 - Articles: `33`
 - Polymarket markets: `390`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T03:30:00+00:00`
+- Day/swing latest: `2026-10-13T03:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `21`, risk hits `9`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `20`, risk hits `9`, risk headline rate `0.35`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict (Energy)
+- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits (Economy)
 - [macro] IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen (Economy)
 - [macro] UK growth upgraded but energy prices and rates to bite in 2027 (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Bumble shares soar after report dating firm in $1bn takeover talks (BBC News)
 - [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
 - [crypto] Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks (Cointelegraph.com News)
-- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
-- [macro] Publicly owned rail is popular. But is it making the trains run on time? (BBC News)
