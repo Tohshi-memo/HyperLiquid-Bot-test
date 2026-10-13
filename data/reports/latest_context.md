@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T00:07:31.433670+00:00`
-- Market context score: `58.74`
-- News risk score: `41.41`
-- Macro risk score: `30.85`
-- Risk-on score: `54.94`
-- Articles: `37`
+- Generated: `2026-10-13T00:22:26.527088+00:00`
+- Market context score: `57.94`
+- News risk score: `42.58`
+- Macro risk score: `30.89`
+- Risk-on score: `54.17`
+- Articles: `36`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T00:00:00+00:00`
+- Day/swing latest: `2026-10-13T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `2`
+- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `2`
 - macro: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
 - [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
+- [macro] Publicly owned rail is popular. But is it making the trains run on time? (BBC News)
 - [macro] Heating oil customers face tough winter despite shake-up promise (BBC News)
 - [macro] I earn £120,000 a year making social media videos go viral (BBC News)
 - [macro] Immigration agents search congresswoman Ilhan Omar's home (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Analysis: Trump's global headaches worsen weeks before crucial elections (BBC News)
 - [macro] Qantas flight grounded after bedbug outbreak (BBC News)
 - [macro] Pupil arrested after two teachers shot at French school (BBC News)
-- [macro] Saudi minister vows 'serious response' to Houthi attacks on airports (BBC News)
