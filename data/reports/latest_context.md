@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T21:22:31.444774+00:00`
-- Market context score: `48.24`
-- News risk score: `45.47`
-- Macro risk score: `28.7`
-- Risk-on score: `34.22`
-- Articles: `58`
+- Generated: `2026-10-13T21:31:38.798915+00:00`
+- Market context score: `47.22`
+- News risk score: `47.17`
+- Macro risk score: `30.6`
+- Risk-on score: `34.11`
+- Articles: `56`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T21:15:00+00:00`
+- Day/swing latest: `2026-10-13T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.32`, policy hits `3`
-- macro: articles `28`, risk hits `10`, risk headline rate `0.25`, policy hits `2`
+- crypto: articles `23`, risk hits `9`, risk headline rate `0.3478`, policy hits `3`
+- macro: articles `28`, risk hits `11`, risk headline rate `0.2857`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Saudi national charged with secretly planting recording device in OpenAI office (BBC News)
 - [macro] Pope diagnosed with lung cancer but had successful surgery, Vatican says (BBC News)
 - [macro] Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot (BBC News)
 - [macro] Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations (BBC News)
 - [crypto] Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports (Cointelegraph.com News)
 - [macro] Cornell bans all fraternity parties over gang sex assault allegations (BBC News)
-- [macro] 'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris (BBC News)
