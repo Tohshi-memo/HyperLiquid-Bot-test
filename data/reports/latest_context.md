@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T07:07:29.580031+00:00`
-- Market context score: `48.66`
-- News risk score: `35.14`
-- Macro risk score: `29.78`
-- Risk-on score: `26.83`
-- Articles: `39`
+- Generated: `2026-10-13T07:22:31.389542+00:00`
+- Market context score: `48.97`
+- News risk score: `34.83`
+- Macro risk score: `29.18`
+- Risk-on score: `27.03`
+- Articles: `40`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T07:00:00+00:00`
+- Day/swing latest: `2026-10-13T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
-- macro: articles `26`, risk hits `10`, risk headline rate `0.2308`, policy hits `2`
+- macro: articles `27`, risk hits `10`, risk headline rate `0.2222`, policy hits `2`
 
 ## Headlines
 
+- [macro] India 'cockroach' leaders detained after entering barricaded protest site (BBC News)
 - [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] UK growth forecast upgraded but energy prices and rates to hit in 2027 (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’ (Economy)
 - [crypto] Binance to shut down crypto mining pool services in November (Cointelegraph.com News)
-- [macro] Death threats and isolation - the cost of fighting sexual violence in Iraq (BBC News)
