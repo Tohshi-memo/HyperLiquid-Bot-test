@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T02:37:30.333980+00:00`
-- Market context score: `58.41`
-- News risk score: `41.06`
-- Macro risk score: `33.44`
-- Risk-on score: `54.9`
-- Articles: `37`
+- Generated: `2026-10-13T02:52:27.774955+00:00`
+- Market context score: `59.12`
+- News risk score: `40.03`
+- Macro risk score: `33.43`
+- Risk-on score: `55.58`
+- Articles: `38`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T02:30:00+00:00`
+- Day/swing latest: `2026-10-13T02:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `24`, risk hits `8`, risk headline rate `0.3333`, policy hits `2`
 
 ## Headlines
 
+- [crypto] South Korea moves to block 27 crypto websites, including KuCoin, MEXC (Cointelegraph.com News)
 - [macro] Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF (Economy)
 - [macro] UK growth upgraded but energy prices and rates to bite in 2027 (BBC News)
 - [crypto] Meta claims new Muse Wonder AI models rival OpenAI, Anthropic (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [crypto] Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks (Cointelegraph.com News)
 - [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
 - [macro] Publicly owned rail is popular. But is it making the trains run on time? (BBC News)
-- [macro] Heating oil customers face tough winter despite shake-up promise (BBC News)
 - [macro] Heating oil customers face tough winter despite shake-up promise (BBC News)
