@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T19:22:26.794005+00:00`
+- Generated: `2026-10-13T19:37:31.026759+00:00`
 - Market context score: `46.97`
 - News risk score: `46.89`
 - Macro risk score: `28.2`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T19:15:00+00:00`
+- Day/swing latest: `2026-10-13T19:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices mixed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict (Energy)
 - [macro] Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations (BBC News)
 - [crypto] Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports (Cointelegraph.com News)
 - [macro] Saudi coalition strikes fuel depot near Yemen's capital (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris (BBC News)
 - [commodity] More Republicans come out against Trump's diesel deal with Putin (Energy)
 - [macro] The latest inflation data is expected to show price increases are accelerating (Economy)
-- [policy] Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026 (FRB: Press Release - All Releases)
