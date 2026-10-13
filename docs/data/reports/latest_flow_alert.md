@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-13T04:40:31.795024+00:00`
+- Generated: `2026-10-13T04:45:32.271020+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `488563.1349499999` | liquidity: `411257.20786`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `447060.619711` | liquidity: `586991.1576`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `337623.74306700006` | liquidity: `416449.7553`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `330311.73449` | liquidity: `502384.84983`
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `329390.71963599994` | liquidity: `407727.6252`
-- Will the U.S. invade Iran before 2027? | 24h volume: `318070.28869200003` | liquidity: `740006.722`
-- US x Yemen ceasefire continues through October 15? | 24h volume: `313285.85138600005` | liquidity: `389808.91282`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `488563.1349499999` | liquidity: `411373.15796`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `447060.619711` | liquidity: `600281.291`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `337623.74306700006` | liquidity: `417918.3553`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `330311.73449` | liquidity: `501162.85809`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `329390.71963599994` | liquidity: `407860.03336`
+- Will the U.S. invade Iran before 2027? | 24h volume: `318070.28869200003` | liquidity: `737977.5973`
+- US x Yemen ceasefire continues through October 15? | 24h volume: `313285.85138600005` | liquidity: `390825.05894`
 - Will Trump say "Ammunition" this week? | 24h volume: `299628.53924199997` | liquidity: `16406.86919`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
