@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T06:22:25.463260+00:00`
-- Market context score: `48.04`
-- News risk score: `35.94`
-- Macro risk score: `31.92`
-- Risk-on score: `26.93`
-- Articles: `44`
+- Generated: `2026-10-13T06:37:26.442622+00:00`
+- Market context score: `49.43`
+- News risk score: `34.11`
+- Macro risk score: `29.75`
+- Risk-on score: `27.67`
+- Articles: `41`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T06:15:00+00:00`
+- Day/swing latest: `2026-10-13T06:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
-- macro: articles `28`, risk hits `12`, risk headline rate `0.2857`, policy hits `2`
+- macro: articles `26`, risk hits `10`, risk headline rate `0.2308`, policy hits `2`
 
 ## Headlines
 
-- [macro] UK growth forecast upgraded but energy prices and rates to bite in 2027 (BBC News)
+- [macro] Breaking Bad actor RJ Mitte dies aged 34 (BBC News)
+- [macro] UK growth forecast upgraded but energy prices and rates to hit in 2027 (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin whale that sat through the March 2020 crash moves $378 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Blur is shutting down its website, so why are NFT collectors cheering? (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’ (Economy)
 - [crypto] Binance to shut down crypto mining pool services in November (Cointelegraph.com News)
 - [macro] Death threats and isolation - the cost of fighting sexual violence in Iraq (BBC News)
-- [macro] Where the US midterm elections will be won and lost (BBC News)
