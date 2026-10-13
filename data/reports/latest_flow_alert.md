@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-13T12:05:30.220689+00:00`
+- Generated: `2026-10-13T12:10:32.625200+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- US x Yemen ceasefire continues through October 15? | 24h volume: `606435.780231` | liquidity: `281642.89188`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `519768.6401809999` | liquidity: `316261.31697`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `509337.6930309999` | liquidity: `535173.1949`
-- Will the U.S. invade Iran before 2027? | 24h volume: `410139.430147` | liquidity: `736546.5142`
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `335582.5561989992` | liquidity: `387422.16939`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `317626.26383000007` | liquidity: `517228.2065`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `312306.41697300004` | liquidity: `459593.95885`
-- US x Iran ceasefire continues through October 15? | 24h volume: `292880.9632199999` | liquidity: `403303.15377`
+- US x Yemen ceasefire continues through October 15? | 24h volume: `606435.780231` | liquidity: `281555.04255`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `519768.6401809999` | liquidity: `315893.06256`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `509337.6930309999` | liquidity: `535396.381`
+- Will the U.S. invade Iran before 2027? | 24h volume: `410139.430147` | liquidity: `844342.0984`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `335582.5561989992` | liquidity: `387339.14711`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `317626.26383000007` | liquidity: `521068.2758`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `312306.41697300004` | liquidity: `467691.26296`
+- US x Iran ceasefire continues through October 15? | 24h volume: `292880.9632199999` | liquidity: `395873.77961`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
