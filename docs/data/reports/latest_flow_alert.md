@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-13T01:55:29.374080+00:00`
+- Generated: `2026-10-13T02:00:35.721806+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7317682.39`
-- Polymarket volume z-score: `-0.48`
+- Polymarket 24h volume: `7450149.57`
+- Polymarket volume z-score: `-0.43`
 
 ## Top Polymarket Markets
 
-- US x Yemen ceasefire continues through October 12? | 24h volume: `538149.0570410001` | liquidity: `46397.51782`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `491133.23739` | liquidity: `408553.938`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `457080.9120639999` | liquidity: `519099.4921`
-- Will the U.S. invade Iran before 2027? | 24h volume: `393411.310546` | liquidity: `737691.1171`
-- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `347595.097292` | liquidity: `398594.20048`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `336054.58585000003` | liquidity: `388407.2564`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `318205.44840299996` | liquidity: `482754.06958`
-- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `306687.95232499996` | liquidity: `470449.98642`
+- US x Yemen ceasefire continues through October 12? | 24h volume: `538147.9470410001` | liquidity: `47394.69475`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `491133.23739` | liquidity: `409224.96142`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `457080.912064` | liquidity: `520632.8858`
+- Will the U.S. invade Iran before 2027? | 24h volume: `393680.98054600006` | liquidity: `730578.8336`
+- Will Raphael Warnock win the 2028 Democratic presidential nomination? | 24h volume: `347595.097292` | liquidity: `398637.00086`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `336029.59585000004` | liquidity: `390089.8984`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `318305.97196399997` | liquidity: `468787.76628`
+- Will there be a Hormuz agreement and the Republicans win the Senate? | 24h volume: `306687.952325` | liquidity: `471748.06642`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
