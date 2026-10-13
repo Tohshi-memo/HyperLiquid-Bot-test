@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T06:07:32.045649+00:00`
-- Market context score: `48.25`
-- News risk score: `35.88`
-- Macro risk score: `31.31`
-- Risk-on score: `27.13`
-- Articles: `45`
+- Generated: `2026-10-13T06:22:25.463260+00:00`
+- Market context score: `48.04`
+- News risk score: `35.94`
+- Macro risk score: `31.92`
+- Risk-on score: `26.93`
+- Articles: `44`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T06:00:00+00:00`
+- Day/swing latest: `2026-10-13T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
-- macro: articles `29`, risk hits `12`, risk headline rate `0.2759`, policy hits `2`
+- macro: articles `28`, risk hits `12`, risk headline rate `0.2857`, policy hits `2`
 
 ## Headlines
 
-- [macro] UK growth upgraded but energy prices and rates to bite in 2027 (BBC News)
+- [macro] UK growth forecast upgraded but energy prices and rates to bite in 2027 (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin whale that sat through the March 2020 crash moves $378 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Blur is shutting down its website, so why are NFT collectors cheering? (Cointelegraph.com News)
