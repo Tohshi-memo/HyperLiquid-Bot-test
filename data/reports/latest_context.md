@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T09:07:36.922186+00:00`
+- Generated: `2026-10-14T09:22:32.615963+00:00`
 - Market context score: `51.19`
 - News risk score: `41.19`
 - Macro risk score: `32.13`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T09:00:00+00:00`
+- Day/swing latest: `2026-10-14T09:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says (Energy)
+- [macro] Turkish police raid opposition TV station, halting live broadcasts (BBC News)
 - [macro] Pope diagnosed with lung cancer but had successful surgery, Vatican says (BBC News)
 - [commodity] Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked (Energy)
 - [crypto] Proposed French tax on regulated stablecoins could drive crypto traders offshore (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire (BBC News)
-- [macro] Turkish police raid opposition TV station, halting live broadcasts (BBC News)
 - [crypto] Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia arrests Japanese journalist on spying charges (BBC News)
-- [commodity] Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says (Energy)
 - [macro] Russian strikes leave 600,000 without power in Ukraine, Zelensky says (BBC News)
 - [macro] Hundreds of Royal Mail staff quitting each week under new efficiency plans (BBC News)
