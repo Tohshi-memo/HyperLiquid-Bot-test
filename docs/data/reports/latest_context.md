@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T14:22:28.116901+00:00`
-- Market context score: `38.34`
-- News risk score: `54.82`
-- Macro risk score: `35.64`
-- Risk-on score: `22.74`
-- Articles: `55`
+- Generated: `2026-10-14T14:37:26.743785+00:00`
+- Market context score: `39.17`
+- News risk score: `55.47`
+- Macro risk score: `35.17`
+- Risk-on score: `24.96`
+- Articles: `58`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T14:15:00+00:00`
+- Day/swing latest: `2026-10-14T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `28`, risk hits `15`, risk headline rate `0.4643`, policy hits `8`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `3`
+- crypto: articles `30`, risk hits `17`, risk headline rate `0.4667`, policy hits `9`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
 
 ## Headlines
 
+- [crypto] BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin price dips below $82K as high oil prices spike US CPI inflation (Cointelegraph.com News)
+- [macro] Hundreds of thousands of workers on strike across Republic of Ireland (BBC News)
 - [crypto] Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked (Energy)
 - [macro] Consumer prices rose 3.7% annually in September as gas prices skyrocket (Economy)
@@ -35,6 +38,3 @@
 - [macro] Driving test waits fall to two-year low - but still average 20 weeks (BBC News)
 - [macro] Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines (BBC News)
 - [macro] US inflation rises more than expected ahead of midterm elections (BBC News)
-- [macro] US inflation rises more than expected ahead of midterm elections (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [commodity] Trump's diesel dilemma — by the numbers (Energy)
