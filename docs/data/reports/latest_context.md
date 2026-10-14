@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T00:52:36.253672+00:00`
-- Market context score: `48.21`
-- News risk score: `47.28`
-- Macro risk score: `27.68`
-- Risk-on score: `35.29`
-- Articles: `48`
+- Generated: `2026-10-14T01:07:27.901159+00:00`
+- Market context score: `45.68`
+- News risk score: `49.23`
+- Macro risk score: `27.65`
+- Risk-on score: `31.29`
+- Articles: `49`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T00:45:00+00:00`
+- Day/swing latest: `2026-10-14T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `1`
-- macro: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `1`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- crypto: articles `15`, risk hits `7`, risk headline rate `0.4667`, policy hits `3`
+- macro: articles `30`, risk hits `9`, risk headline rate `0.2333`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What we know about the man who died falling from a Six Flags rollercoaster (BBC News)
 - [macro] Pope diagnosed with lung cancer but had successful surgery, Vatican says (BBC News)
 - [macro] Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines (BBC News)
 - [macro] Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster (BBC News)
@@ -37,5 +38,3 @@
 - [crypto] Strive raising $500 million to buy additional bitcoin with new preferred share class (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How long will humans be needed for translation? (BBC News)
 - [macro] Is it OK for jobseekers or employers to use AI? (BBC News)
-- [macro] Royal Mail losing 400 postal workers a week, says union (BBC News)
-- [macro] Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot (BBC News)
