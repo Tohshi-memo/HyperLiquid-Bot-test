@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T20:37:28.208263+00:00`
-- Market context score: `44.37`
-- News risk score: `52.36`
-- Macro risk score: `33.56`
-- Risk-on score: `33.26`
+- Generated: `2026-10-14T20:52:28.560695+00:00`
+- Market context score: `44.27`
+- News risk score: `52.64`
+- Macro risk score: `32.97`
+- Risk-on score: `33.07`
 - Articles: `64`
 - Polymarket markets: `391`
 
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T20:30:00+00:00`
+- Day/swing latest: `2026-10-14T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `31`, risk hits `15`, risk headline rate `0.3871`, policy hits `5`
-- macro: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `30`, risk hits `15`, risk headline rate `0.4`, policy hits `5`
+- macro: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `0`
 
 ## Headlines
 
+- [macro] Student protesters attack government buildings in Tirana (BBC News)
+- [macro] Musk says any limits on Ukraine's Starlink access down to US, not his firm (BBC News)
+- [macro] Why is Starlink internet so important on the battlefield in Ukraine? (BBC News)
 - [commodity] Container ship sinks in Strait of Hormuz as Iran steps up attacks (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] EU authority classifies Circle’s USDC as ‘significant’ under MiCA (Cointelegraph.com News)
@@ -35,6 +38,3 @@
 - [macro] What if you could turn off your algorithm? Australia is about to try (BBC News)
 - [crypto] US authorities dismantle crypto scam network that stole tens of millions (Cointelegraph.com News)
 - [macro] Drop-off charges at UK airports to be reviewed after sharp increase (BBC News)
-- [macro] Kenya confirms second Ebola case - a relative of the first victim (BBC News)
-- [macro] How high inflation became a 'fact of life' in the U.S. (Economy)
-- [commodity] Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked (Energy)
