@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T14:07:27.242836+00:00`
-- Market context score: `39.73`
-- News risk score: `53.07`
-- Macro risk score: `34.86`
-- Risk-on score: `24.05`
-- Articles: `56`
+- Generated: `2026-10-14T14:22:28.116901+00:00`
+- Market context score: `38.34`
+- News risk score: `54.82`
+- Macro risk score: `35.64`
+- Risk-on score: `22.74`
+- Articles: `55`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T14:00:00+00:00`
+- Day/swing latest: `2026-10-14T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `28`, risk hits `14`, risk headline rate `0.4286`, policy hits `8`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
+- crypto: articles `28`, risk hits `15`, risk headline rate `0.4643`, policy hits `8`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked (Energy)
 - [macro] Consumer prices rose 3.7% annually in September as gas prices skyrocket (Economy)
 - [crypto] America's growing digital economy requires power grid updates. Who will foot the bill? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Driving test waits fall to two-year low - but still average 20 weeks (BBC News)
@@ -36,5 +38,3 @@
 - [macro] US inflation rises more than expected ahead of midterm elections (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Trump's diesel dilemma — by the numbers (Energy)
-- [crypto] ‘Bunker mode’ won’t protect your crypto, critics say (Cointelegraph.com News)
-- [macro] Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says (BBC News)
