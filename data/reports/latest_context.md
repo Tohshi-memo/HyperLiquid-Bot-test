@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T21:22:25.261776+00:00`
+- Generated: `2026-10-14T21:37:31.320752+00:00`
 - Market context score: `44.78`
 - News risk score: `52.26`
 - Macro risk score: `32.37`
 - Risk-on score: `33.64`
 - Articles: `66`
-- Polymarket markets: `391`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T21:15:00+00:00`
+- Day/swing latest: `2026-10-14T21:30:00+00:00`
 
 ## News Categories
 
@@ -30,6 +30,7 @@
 
 - [crypto] Organizations join forces to fight Illinois crypto tax, after 6-month pause (Cointelegraph.com News)
 - [macro] Musk says any limits on Ukraine's Starlink access down to US, not his firm (BBC News)
+- [macro] Why Zelensky's meeting with Burnham matters (BBC News)
 - [macro] Student protesters attack government buildings in Tirana (BBC News)
 - [macro] Why is Starlink internet so important on the battlefield in Ukraine? (BBC News)
 - [commodity] Container ship sinks in Strait of Hormuz as Iran steps up attacks (Energy)
@@ -37,4 +38,3 @@
 - [crypto] EU authority classifies Circle’s USDC as ‘significant’ under MiCA (Cointelegraph.com News)
 - [commodity] Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked (Energy)
 - [macro] What if you could turn off your algorithm? Australia is about to try (BBC News)
-- [crypto] US authorities dismantle crypto scam network that stole tens of millions (Cointelegraph.com News)
