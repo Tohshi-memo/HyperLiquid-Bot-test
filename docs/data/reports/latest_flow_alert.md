@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-14T11:40:30.795079+00:00`
+- Generated: `2026-10-14T11:45:32.316895+00:00`
 - Flow alert score: `17.28`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1143717.1433200005` | liquidity: `296989.3569`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `629858.6155350002` | liquidity: `1292889.9692`
-- US x Iran ceasefire continues through October 15? | 24h volume: `430378.5644319999` | liquidity: `84789.21626`
-- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `348223.343873` | liquidity: `1893945.5114`
-- US x Iran ceasefire continues through October 31? | 24h volume: `309102.59604` | liquidity: `591545.3154`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `287783.34579700005` | liquidity: `433847.25101`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `269311.879332` | liquidity: `352426.85575`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `253332.24564999997` | liquidity: `307312.9118`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1143717.1433200005` | liquidity: `309452.8701`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `629858.6155350002` | liquidity: `1306284.6215`
+- US x Iran ceasefire continues through October 15? | 24h volume: `430378.5644319999` | liquidity: `83585.95972`
+- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `348223.343873` | liquidity: `1927082.0343`
+- US x Iran ceasefire continues through October 31? | 24h volume: `309102.59604` | liquidity: `590664.6313`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `287783.34579700005` | liquidity: `432810.5188`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `269311.879332` | liquidity: `353031.19835`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `253332.24564999997` | liquidity: `325394.6174`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
