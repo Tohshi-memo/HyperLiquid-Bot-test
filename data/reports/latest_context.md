@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T08:22:27.083860+00:00`
+- Generated: `2026-10-14T08:37:39.231661+00:00`
 - Market context score: `50.49`
 - News risk score: `42.22`
 - Macro risk score: `32.2`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T08:15:00+00:00`
+- Day/swing latest: `2026-10-14T08:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] 'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire (BBC News)
 - [macro] Turkish police raid opposition TV station, halting live broadcasts (BBC News)
 - [crypto] Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia arrests Japanese journalist on spying charges (BBC News)
@@ -35,6 +36,5 @@
 - [macro] Pope diagnosed with lung cancer but had successful surgery, Vatican says (BBC News)
 - [macro] Russian strikes leave 600,000 without power in Ukraine, Zelensky says (BBC News)
 - [macro] Hundreds of Royal Mail staff quitting each week under new efficiency plans (BBC News)
-- [macro] 'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire (BBC News)
 - [crypto] Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
