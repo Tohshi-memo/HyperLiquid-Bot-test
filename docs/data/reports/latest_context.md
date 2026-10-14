@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T11:22:26.529416+00:00`
-- Market context score: `39.89`
-- News risk score: `48.74`
-- Macro risk score: `34.98`
-- Risk-on score: `20.79`
-- Articles: `45`
+- Generated: `2026-10-14T11:37:29.416858+00:00`
+- Market context score: `38.16`
+- News risk score: `48.86`
+- Macro risk score: `33.31`
+- Risk-on score: `16.43`
+- Articles: `42`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T11:15:00+00:00`
+- Day/swing latest: `2026-10-14T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `10`, risk headline rate `0.3913`, policy hits `8`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `3`
+- crypto: articles `21`, risk hits `10`, risk headline rate `0.4286`, policy hits `8`
+- macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `3`
 
 ## Headlines
 
+- [macro] Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot (BBC News)
+- [macro] Starlink restrictions affecting Ukraine's front line operations, Kyiv says (BBC News)
 - [macro] Pope diagnosed with lung cancer but had successful surgery, Vatican says (BBC News)
 - [crypto] Here's how analysts see U.S. inflation influencing bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Cornell bans all fraternity parties over gang sex assault allegations (BBC News)
 - [macro] Wayfair among firms fined millions for misleading sales tactics (BBC News)
-- [macro] Faisal Islam: What surprise praise for UK economy tells us about the Budget (BBC News)
 - [crypto] Coins.ph says Philippine central bank license intact amid revocation claims (Cointelegraph.com News)
+- [macro] Faisal Islam: What surprise praise for UK economy tells us about the Budget (BBC News)
 - [crypto] Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Turkish police raid opposition TV station, halting live broadcasts (BBC News)
-- [crypto] S&P 500 options are the hottest bet on this Hyperliquid exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
