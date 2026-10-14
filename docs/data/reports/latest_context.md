@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T17:52:47.650746+00:00`
-- Market context score: `44.27`
-- News risk score: `52.64`
-- Macro risk score: `32.97`
-- Risk-on score: `33.07`
-- Articles: `64`
+- Generated: `2026-10-14T18:07:28.118016+00:00`
+- Market context score: `44.78`
+- News risk score: `52.26`
+- Macro risk score: `32.37`
+- Risk-on score: `33.64`
+- Articles: `66`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T17:45:00+00:00`
+- Day/swing latest: `2026-10-14T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `30`, risk hits `15`, risk headline rate `0.4`, policy hits `5`
-- macro: articles `29`, risk hits `9`, risk headline rate `0.2414`, policy hits `0`
+- crypto: articles `31`, risk hits `15`, risk headline rate `0.3871`, policy hits `5`
+- macro: articles `30`, risk hits `9`, risk headline rate `0.2333`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Container ship sinks in Strait of Hormuz as Iran steps up attacks (Energy)
+- [macro] What if you could turn off your algorithm? Australia is about to try (BBC News)
+- [crypto] US authorities dismantle crypto scam network that stole tens of millions (Cointelegraph.com News)
 - [macro] Airport drop-off charges to be reviewed after sharp increase (BBC News)
 - [macro] Kenya confirms second Ebola case - a relative of the first victim (BBC News)
 - [macro] How high inflation became a 'fact of life' in the U.S. (Economy)
@@ -35,6 +38,3 @@
 - [crypto] OCC report finds debanking efforts tied to crypto activities (Cointelegraph.com News)
 - [macro] Netflix to lay off 1,000 staff in steepest cuts since 2022 (BBC News)
 - [macro] Netflix to lay off 1,000 staff in steepest cuts since 2022 (BBC News)
-- [commodity] Container ship sinks in Strait of Hormuz as Iran steps up attacks (Energy)
-- [commodity] Trump's diesel dilemma — by the numbers (Energy)
-- [crypto] Kalshi CEO says state-led oversight of U.S. prediction markets would push them out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
