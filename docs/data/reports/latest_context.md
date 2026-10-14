@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T13:37:34.378909+00:00`
-- Market context score: `38.67`
-- News risk score: `53.85`
-- Macro risk score: `35.38`
-- Risk-on score: `22.55`
-- Articles: `55`
+- Generated: `2026-10-14T13:52:29.916961+00:00`
+- Market context score: `39.54`
+- News risk score: `52.95`
+- Macro risk score: `34.13`
+- Risk-on score: `23.24`
+- Articles: `57`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T13:30:00+00:00`
+- Day/swing latest: `2026-10-14T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `27`, risk hits `14`, risk headline rate `0.4444`, policy hits `8`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `4`
+- crypto: articles `28`, risk hits `14`, risk headline rate `0.4286`, policy hits `8`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `3`
 
 ## Headlines
 
+- [crypto] America's growing digital economy requires power grid updates. Who will foot the bill? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Consumer prices rose 3.7% annually in September as gas costs skyrocket (Economy)
+- [macro] Driving test waits fall to two-year low - but still average 20 weeks (BBC News)
+- [macro] Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines (BBC News)
+- [macro] US inflation rises more than expected ahead of midterm elections (BBC News)
+- [macro] US inflation rises more than expected ahead of midterm elections (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Trump's diesel dilemma — by the numbers (Energy)
-- [macro] Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket (Economy)
 - [crypto] ‘Bunker mode’ won’t protect your crypto, critics say (Cointelegraph.com News)
-- [macro] US inflation rises more than expected ahead of midterm elections (BBC News)
-- [macro] US inflation rises more than expected ahead of midterm elections (BBC News)
 - [macro] Starlink restrictions affecting Ukraine's front line operations, Kyiv says (BBC News)
-- [macro] Burnham says he wants to 'repair bridges' between Ukraine and US (BBC News)
-- [crypto] Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis (Cointelegraph.com News)
-- [crypto] Qivalis receives EMI authorization from Dutch central bank for euro stablecoin (Cointelegraph.com News)
