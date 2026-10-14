@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T11:37:29.416858+00:00`
+- Generated: `2026-10-14T11:52:32.590875+00:00`
 - Market context score: `38.16`
 - News risk score: `48.86`
 - Macro risk score: `33.31`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T11:30:00+00:00`
+- Day/swing latest: `2026-10-14T11:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Civil servant wore make up so he could juggle five jobs from home, court hears (BBC News)
 - [macro] Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot (BBC News)
 - [macro] Starlink restrictions affecting Ukraine's front line operations, Kyiv says (BBC News)
 - [macro] Pope diagnosed with lung cancer but had successful surgery, Vatican says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Wayfair among firms fined millions for misleading sales tactics (BBC News)
 - [crypto] Coins.ph says Philippine central bank license intact amid revocation claims (Cointelegraph.com News)
 - [macro] Faisal Islam: What surprise praise for UK economy tells us about the Budget (BBC News)
-- [crypto] Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
