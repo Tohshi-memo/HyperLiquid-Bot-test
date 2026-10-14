@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-14T04:55:30.811047+00:00`
+- Generated: `2026-10-14T05:00:32.403708+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8227205.49`
-- Polymarket volume z-score: `-0.03`
+- Polymarket 24h volume: `8178645.01`
+- Polymarket volume z-score: `-0.05`
 
 ## Top Polymarket Markets
 
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `594507.7436870002` | liquidity: `1241826.6828`
-- US x Yemen ceasefire continues through October 15? | 24h volume: `474047.0450319998` | liquidity: `135982.12841`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `465053.8207280002` | liquidity: `461796.3942`
-- Putin out as President of Russia by December 31, 2026? | 24h volume: `417927.2318139998` | liquidity: `646853.82395`
-- US x Iran ceasefire continues through October 15? | 24h volume: `365978.648548` | liquidity: `88480.37068`
-- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `325202.11103100004` | liquidity: `954664.3285`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `287774.768747` | liquidity: `422006.99457`
-- US x Iran ceasefire continues through October 31? | 24h volume: `282054.5866279999` | liquidity: `550838.8769`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `594139.8865450001` | liquidity: `1247152.2946`
+- US x Yemen ceasefire continues through October 15? | 24h volume: `474047.0450319998` | liquidity: `135979.66811`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `465353.8107280002` | liquidity: `482602.442`
+- Putin out as President of Russia by December 31, 2026? | 24h volume: `417927.2318139998` | liquidity: `645818.72086`
+- US x Iran ceasefire continues through October 15? | 24h volume: `362658.66854800005` | liquidity: `86569.34268`
+- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `325202.11103100004` | liquidity: `955397.9485`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `284893.964131` | liquidity: `422092.18207`
+- US x Iran ceasefire continues through October 31? | 24h volume: `280629.6987259999` | liquidity: `530560.3821`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
