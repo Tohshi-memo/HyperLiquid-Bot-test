@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T17:22:30.276498+00:00`
-- Market context score: `45.0`
-- News risk score: `51.75`
-- Macro risk score: `33.87`
-- Risk-on score: `34.28`
-- Articles: `67`
+- Generated: `2026-10-14T17:37:29.586874+00:00`
+- Market context score: `44.37`
+- News risk score: `52.36`
+- Macro risk score: `33.56`
+- Risk-on score: `33.26`
+- Articles: `64`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T17:15:00+00:00`
+- Day/swing latest: `2026-10-14T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `34`, risk hits `15`, risk headline rate `0.3529`, policy hits `6`
+- crypto: articles `31`, risk hits `15`, risk headline rate `0.3871`, policy hits `5`
 - macro: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Kenya confirms second Ebola case - a relative of the first victim (BBC News)
 - [macro] How high inflation became a 'fact of life' in the U.S. (Economy)
 - [commodity] Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked (Energy)
 - [crypto] OCC report finds debanking efforts tied to crypto activities (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] Trump's diesel dilemma — by the numbers (Energy)
 - [crypto] Kalshi CEO says state-led oversight of U.S. prediction markets would push them out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow (Cointelegraph.com News)
-- [macro] Kenya confirms second Ebola case as relative of country's first victim (BBC News)
