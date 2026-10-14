@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T03:37:36.655251+00:00`
-- Market context score: `52.02`
-- News risk score: `43.66`
-- Macro risk score: `28.25`
-- Risk-on score: `40.91`
-- Articles: `44`
+- Generated: `2026-10-14T03:52:29.414939+00:00`
+- Market context score: `49.66`
+- News risk score: `47.16`
+- Macro risk score: `27.93`
+- Risk-on score: `38.51`
+- Articles: `42`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T03:30:00+00:00`
+- Day/swing latest: `2026-10-14T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `2`
-- macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `1`
+- crypto: articles `11`, risk hits `6`, risk headline rate `0.4545`, policy hits `4`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitwise’s Hougan says Q3 charts point to ‘crypto spring’ (Cointelegraph.com News)
 - [macro] Russian strikes hit key power plant in Kyiv, Zelensky says (BBC News)
 - [commodity] Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia (Energy)
@@ -38,4 +39,3 @@
 - [macro] Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines (BBC News)
 - [macro] Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster (BBC News)
 - [macro] Zimbabwean author denies using AI to write award-winning story (BBC News)
-- [crypto] Ledger asks resellers to halt sales in Southeast Asia and Hong Kong (Cointelegraph.com News)
