@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T06:37:36.232338+00:00`
-- Market context score: `49.47`
-- News risk score: `41.59`
-- Macro risk score: `32.96`
-- Risk-on score: `35.27`
-- Articles: `40`
-- Polymarket markets: `391`
+- Generated: `2026-10-14T06:52:32.275200+00:00`
+- Market context score: `49.74`
+- News risk score: `41.46`
+- Macro risk score: `32.22`
+- Risk-on score: `35.5`
+- Articles: `41`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T06:30:00+00:00`
+- Day/swing latest: `2026-10-14T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `5`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `2`
 
 ## Headlines
 
+- [macro] Turkey police raid opposition TV station, halting live broadcasts (BBC News)
 - [crypto] Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Starknet introduces wallet privacy feature for DeFi activity (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Russian strikes hit key power plant in Kyiv, Zelensky says (BBC News)
 - [macro] 'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts (Economy)
 - [macro] Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot (BBC News)
-- [crypto] Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
