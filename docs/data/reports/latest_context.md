@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-13T23:52:37.929631+00:00`
-- Market context score: `48.34`
-- News risk score: `47.63`
-- Macro risk score: `26.82`
-- Risk-on score: `35.54`
-- Articles: `54`
+- Generated: `2026-10-14T00:07:29.909789+00:00`
+- Market context score: `46.8`
+- News risk score: `49.26`
+- Macro risk score: `27.21`
+- Risk-on score: `33.65`
+- Articles: `50`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-13T23:45:00+00:00`
+- Day/swing latest: `2026-10-14T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `3`
-- macro: articles `32`, risk hits `9`, risk headline rate `0.2188`, policy hits `1`
+- crypto: articles `15`, risk hits `7`, risk headline rate `0.4667`, policy hits `1`
+- macro: articles `30`, risk hits `9`, risk headline rate `0.2333`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
 - [macro] Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines (BBC News)
-- [macro] Watch: 'Super bizarre, traumatic' - Witnesses recount fatal Six Flags incident (BBC News)
+- [macro] Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster (BBC News)
 - [macro] Zimbabwean author denies using AI to write award-winning story (BBC News)
 - [crypto] Ledger asks resellers to halt sales in Southeast Asia and Hong Kong (Cointelegraph.com News)
 - [crypto] Strive raising $500 million to buy additional bitcoin with new preferred share class (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
