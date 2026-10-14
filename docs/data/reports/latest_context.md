@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-14T18:22:29.417059+00:00`
+- Generated: `2026-10-14T18:37:28.703904+00:00`
 - Market context score: `44.78`
 - News risk score: `52.26`
 - Macro risk score: `32.37`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-14T18:15:00+00:00`
+- Day/swing latest: `2026-10-14T18:30:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [commodity] Container ship sinks in Strait of Hormuz as Iran steps up attacks (Energy)
 - [macro] What if you could turn off your algorithm? Australia is about to try (BBC News)
 - [crypto] US authorities dismantle crypto scam network that stole tens of millions (Cointelegraph.com News)
-- [macro] Airport drop-off charges to be reviewed after sharp increase (BBC News)
+- [macro] Drop-off charges at UK airports to be reviewed after sharp increase (BBC News)
 - [macro] Kenya confirms second Ebola case - a relative of the first victim (BBC News)
 - [macro] How high inflation became a 'fact of life' in the U.S. (Economy)
 - [commodity] Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked (Energy)
