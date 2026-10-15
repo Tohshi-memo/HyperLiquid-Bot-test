@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T01:37:30.030585+00:00`
-- Market context score: `54.55`
-- News risk score: `39.9`
-- Macro risk score: `34.33`
-- Risk-on score: `45.67`
-- Articles: `49`
+- Generated: `2026-10-15T01:52:30.250419+00:00`
+- Market context score: `53.73`
+- News risk score: `40.44`
+- Macro risk score: `35.77`
+- Risk-on score: `44.83`
+- Articles: `46`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T01:30:00+00:00`
+- Day/swing latest: `2026-10-15T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.1875`, policy hits `1`
-- macro: articles `29`, risk hits `12`, risk headline rate `0.3103`, policy hits `0`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
+- macro: articles `27`, risk hits `12`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] AI giant Anthropic sees revenue surge ahead of stock market listing (BBC News)
 - [crypto] VanEck seeks to withdraw application for Lido staked Ether ETF (Cointelegraph.com News)
-- [macro] Anthropic revenue surges to $16.8bn ahead of stock market listing (BBC News)
 - [crypto] Polygon gains US payments licenses after closing Coinme deal (Cointelegraph.com News)
 - [macro] How backlash against data centres could shape the US midterm elections (BBC News)
 - [macro] How a Chinese-made toy gets to a US retailer (BBC News)
