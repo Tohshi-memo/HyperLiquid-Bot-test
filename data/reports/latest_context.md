@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T14:07:34.427226+00:00`
+- Generated: `2026-10-15T14:22:27.578463+00:00`
 - Market context score: `38.95`
 - News risk score: `45.19`
 - Macro risk score: `33.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T14:00:00+00:00`
+- Day/swing latest: `2026-10-15T14:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [commodity] U.S. crude oil prices rise as investors assess Middle East supply risks (Energy)
 - [macro] Wholesale prices jumped 6.3% annually in September, biggest gain since 2022 (Economy)
 - [macro] Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm (BBC News)
 - [macro] U.S. Treasury dismisses IMF debt warning and 'messy' forecasting (Economy)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] At least 33 pupils and teacher killed after school roof collapses in Pakistan (BBC News)
-- [crypto] HEX token sellers erase $160M following reports of founder Richard Schueler arrest (Cointelegraph.com News)
