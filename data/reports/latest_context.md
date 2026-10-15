@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T01:22:26.722741+00:00`
-- Market context score: `54.79`
-- News risk score: `39.83`
-- Macro risk score: `33.68`
-- Risk-on score: `45.89`
-- Articles: `50`
+- Generated: `2026-10-15T01:37:30.030585+00:00`
+- Market context score: `54.55`
+- News risk score: `39.9`
+- Macro risk score: `34.33`
+- Risk-on score: `45.67`
+- Articles: `49`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T01:15:00+00:00`
+- Day/swing latest: `2026-10-15T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `16`, risk hits `5`, risk headline rate `0.1875`, policy hits `1`
-- macro: articles `30`, risk hits `12`, risk headline rate `0.3`, policy hits `0`
+- macro: articles `29`, risk hits `12`, risk headline rate `0.3103`, policy hits `0`
 
 ## Headlines
 
+- [crypto] VanEck seeks to withdraw application for Lido staked Ether ETF (Cointelegraph.com News)
 - [macro] Anthropic revenue surges to $16.8bn ahead of stock market listing (BBC News)
 - [crypto] Polygon gains US payments licenses after closing Coinme deal (Cointelegraph.com News)
 - [macro] How backlash against data centres could shape the US midterm elections (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Organizations join forces to fight Illinois crypto tax, after 6-month pause (Cointelegraph.com News)
 - [macro] Musk says US government may be behind slowdown of Ukraine drone speeds (BBC News)
 - [macro] Why Zelensky's meeting with Burnham matters (BBC News)
-- [macro] Student protesters attack government buildings in Albania (BBC News)
