@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T10:47:24.047578+00:00`
-- Market context score: `50.77`
-- News risk score: `33.14`
-- Macro risk score: `27.42`
-- Risk-on score: `28.95`
-- Articles: `42`
+- Generated: `2026-10-15T10:52:32.284513+00:00`
+- Market context score: `50.91`
+- News risk score: `33.04`
+- Macro risk score: `27.38`
+- Risk-on score: `29.17`
+- Articles: `43`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,15 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.15`, policy hits `3`
+- crypto: articles `21`, risk hits `7`, risk headline rate `0.1429`, policy hits `3`
 - macro: articles `20`, risk hits `4`, risk headline rate `0.15`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
+- [commodity] Oil falls as investors assess Mideast tensions, International Energy Agency's report (Energy)
+- [crypto] White House crypto council chief Patrick Witt steps down (Cointelegraph.com News)
 - [crypto] Starknet opens vote on potential Ethereum L2 exit over quantum risks (Cointelegraph.com News)
 - [crypto] Live updates: Bitcoin back under $81,000 as AI selloff worsens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why is Starlink internet so important on the battlefield in Ukraine? (BBC News)
@@ -36,6 +39,3 @@
 - [crypto] Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B (Cointelegraph.com News)
 - [macro] In charts: How one of the world's biggest economies got trapped by debt (Economy)
 - [crypto] Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin dips to $80.1K as KOSPI closes at its lowest since April (Cointelegraph.com News)
-- [crypto] Thailand crypto ETFs may see slow start despite new rules: CoinShares (Cointelegraph.com News)
-- [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
