@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T21:37:24.520575+00:00`
-- Market context score: `36.53`
-- News risk score: `49.51`
-- Macro risk score: `40.91`
-- Risk-on score: `16.22`
-- Articles: `55`
+- Generated: `2026-10-15T21:52:48.556818+00:00`
+- Market context score: `36.22`
+- News risk score: `49.86`
+- Macro risk score: `40.95`
+- Risk-on score: `15.84`
+- Articles: `54`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T21:30:00+00:00`
+- Day/swing latest: `2026-10-15T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `24`, risk hits `12`, risk headline rate `0.2917`, policy hits `1`
+- crypto: articles `23`, risk hits `12`, risk headline rate `0.3043`, policy hits `1`
 - macro: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `4`
 
 ## Headlines
 
+- [macro] Letters with 'suspicious substances' sent to US senators and election offices (BBC News)
 - [macro] Bus hits train stopped on French side of  Channel Tunnel, with 19 injured (BBC News)
-- [macro] Letters with 'suspicious substances' sent to US election offices (BBC News)
 - [crypto] Binance.US seeks $1B valuation in potential $100M funding round: Report (Cointelegraph.com News)
 - [commodity] Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
