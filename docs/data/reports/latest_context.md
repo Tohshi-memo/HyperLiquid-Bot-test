@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T10:22:29.531219+00:00`
-- Market context score: `51.24`
-- News risk score: `33.2`
-- Macro risk score: `26.83`
-- Risk-on score: `29.8`
+- Generated: `2026-10-15T10:37:29.870827+00:00`
+- Market context score: `50.77`
+- News risk score: `33.14`
+- Macro risk score: `27.42`
+- Risk-on score: `28.95`
 - Articles: `42`
 - Polymarket markets: `392`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T10:15:00+00:00`
+- Day/swing latest: `2026-10-15T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.1579`, policy hits `3`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.15`, policy hits `3`
+- macro: articles `20`, risk hits `4`, risk headline rate `0.15`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Starknet opens vote on potential Ethereum L2 exit over quantum risks (Cointelegraph.com News)
 - [crypto] Live updates: Bitcoin back under $81,000 as AI selloff worsens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why is Starlink internet so important on the battlefield in Ukraine? (BBC News)
 - [crypto] Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] Bitcoin dips to $80.1K as KOSPI closes at its lowest since April (Cointelegraph.com News)
 - [crypto] Thailand crypto ETFs may see slow start despite new rules: CoinShares (Cointelegraph.com News)
 - [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
-- [macro] Healey says surprise UK growth is 'sign of resilience' ahead of Budget (BBC News)
