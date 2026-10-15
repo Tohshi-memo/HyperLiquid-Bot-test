@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T10:07:26.858204+00:00`
-- Market context score: `51.74`
-- News risk score: `33.32`
-- Macro risk score: `26.29`
-- Risk-on score: `30.83`
+- Generated: `2026-10-15T10:22:29.531219+00:00`
+- Market context score: `51.24`
+- News risk score: `33.2`
+- Macro risk score: `26.83`
+- Risk-on score: `29.8`
 - Articles: `42`
 - Polymarket markets: `392`
 
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T10:00:00+00:00`
+- Day/swing latest: `2026-10-15T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.1667`, policy hits `3`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1364`, policy hits `1`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.1579`, policy hits `3`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Live updates: Bitcoin back under $81,000 as AI selloff worsens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Why is Starlink internet so important on the battlefield in Ukraine? (BBC News)
 - [crypto] Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B (Cointelegraph.com News)
 - [macro] In charts: How one of the world's biggest economies got trapped by debt (Economy)
@@ -37,5 +39,3 @@
 - [crypto] Thailand crypto ETFs may see slow start despite new rules: CoinShares (Cointelegraph.com News)
 - [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
 - [macro] Healey says surprise UK growth is 'sign of resilience' ahead of Budget (BBC News)
-- [crypto] Hex founder Richard Heart arrested in Istanbul, Turkish media report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Babylon advances native Bitcoin lending proposal on Aave V4 (Cointelegraph.com News)
