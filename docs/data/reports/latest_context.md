@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T06:07:27.590863+00:00`
-- Market context score: `53.02`
-- News risk score: `32.06`
-- Macro risk score: `31.61`
-- Risk-on score: `34.61`
-- Articles: `31`
+- Generated: `2026-10-15T06:22:25.867375+00:00`
+- Market context score: `51.59`
+- News risk score: `34.56`
+- Macro risk score: `29.83`
+- Risk-on score: `32.88`
+- Articles: `34`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T06:00:00+00:00`
+- Day/swing latest: `2026-10-15T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.0909`, policy hits `3`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1111`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] UK economy grew 0.1% in August ahead of Healey's first Budget (BBC News)
+- [macro] UK economy grew 0.1% in August, beating expectations (Economy)
 - [crypto] South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Thousands of NI workers to get pay bump as Real Living Wage rises (BBC News)
@@ -36,6 +39,3 @@
 - [macro] Musk says US government may be behind slowdown of Ukraine drone speeds (BBC News)
 - [crypto] Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
-- [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
-- [crypto] Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil falls as investors assess Mideast tensions, International Energy Agency's report (Energy)
