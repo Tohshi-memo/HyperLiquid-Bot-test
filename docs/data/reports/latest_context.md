@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T05:37:27.715760+00:00`
-- Market context score: `57.0`
-- News risk score: `27.97`
-- Macro risk score: `31.61`
-- Risk-on score: `40.0`
-- Articles: `31`
+- Generated: `2026-10-15T05:51:37.612610+00:00`
+- Market context score: `56.49`
+- News risk score: `28.47`
+- Macro risk score: `32.61`
+- Risk-on score: `39.68`
+- Articles: `30`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T05:30:00+00:00`
+- Day/swing latest: `2026-10-15T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.1333`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Thousands of NI workers to get pay bump as Real Living Wage rises (BBC News)
 - [crypto] Australia seeks feedback on crypto platform rules ahead of 2027 rollout (Cointelegraph.com News)
 - [macro] Musk says US government may be behind slowdown of Ukraine drone speeds (BBC News)
 - [crypto] Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [commodity] Oil falls as investors assess Mideast tensions, International Energy Agency's report (Energy)
 - [crypto] Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July (Cointelegraph.com News)
-- [macro] 'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns (BBC News)
