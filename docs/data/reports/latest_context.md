@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T18:37:39.483996+00:00`
-- Market context score: `37.41`
-- News risk score: `49.71`
-- Macro risk score: `41.85`
-- Risk-on score: `18.7`
-- Articles: `58`
+- Generated: `2026-10-15T18:52:31.737667+00:00`
+- Market context score: `37.46`
+- News risk score: `48.56`
+- Macro risk score: `39.94`
+- Risk-on score: `17.11`
+- Articles: `59`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T18:30:00+00:00`
+- Day/swing latest: `2026-10-15T18:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `26`, risk hits `12`, risk headline rate `0.2692`, policy hits `1`
-- macro: articles `29`, risk hits `16`, risk headline rate `0.4483`, policy hits `4`
+- crypto: articles `27`, risk hits `12`, risk headline rate `0.2593`, policy hits `1`
+- macro: articles `29`, risk hits `15`, risk headline rate `0.4138`, policy hits `4`
 
 ## Headlines
 
-- [macro] An Australian band’s ‘unreal’ journey to break a gig world record (BBC News)
+- [crypto] At the White House, crypto policy vacancy looms large (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] An Australian band’s ‘unreal’ journey to break a gig world record (BBC News)
 - [macro] Trump calls off livestream of Fort Hood attacker's execution by firing squad (BBC News)
 - [commodity] U.S. crude oil prices top $98 as Iran steps up attacks in Strait of Hormuz (Energy)
