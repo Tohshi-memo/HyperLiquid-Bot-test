@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T19:52:44.577830+00:00`
-- Market context score: `37.72`
-- News risk score: `48.61`
-- Macro risk score: `39.15`
-- Risk-on score: `17.44`
-- Articles: `59`
+- Generated: `2026-10-15T20:07:33.546776+00:00`
+- Market context score: `37.12`
+- News risk score: `49.35`
+- Macro risk score: `40.14`
+- Risk-on score: `17.1`
+- Articles: `60`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T19:45:00+00:00`
+- Day/swing latest: `2026-10-15T20:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `26`, risk hits `12`, risk headline rate `0.2692`, policy hits `1`
 - macro: articles `30`, risk hits `15`, risk headline rate `0.4`, policy hits `4`
 
 ## Headlines
 
+- [commodity] Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Letters with 'suspicious substances' sent to US election offices (BBC News)
 - [commodity] U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz (Energy)
@@ -37,4 +38,3 @@
 - [macro] Watch: What does Starlink have to do with the Ukraine-Russia war? (BBC News)
 - [macro] 'I paid thousands to a company for jobs that never came' (BBC News)
 - [macro] Houthi missile attack on Yemeni presidential palace kills two, minister says (BBC News)
-- [crypto] Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ (Cointelegraph.com News)
