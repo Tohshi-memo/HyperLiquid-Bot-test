@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-15T08:40:31.513077+00:00`
+- Generated: `2026-10-15T08:45:29.284444+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14172032.74`
-- Polymarket volume z-score: `2.15`
+- Polymarket 24h volume: `14269649.08`
+- Polymarket volume z-score: `2.19`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `2772698.5030809958` | liquidity: `242511.2707`
-- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `2136510.844101999` | liquidity: `495002.4067`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1583405.9963560002` | liquidity: `186813.0346`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `893548.0959600003` | liquidity: `812097.47617`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `554419.3332229998` | liquidity: `2455412.8451`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `383851.4761280001` | liquidity: `456589.4377`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `383650.2175480002` | liquidity: `877333.8525`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `345337.03222599986` | liquidity: `707132.83344`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `2779262.711148996` | liquidity: `247920.1111`
+- Will Indiana enact a data center moratorium by December 31, 2027? | 24h volume: `2136599.501026` | liquidity: `493335.1978`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1586225.7331990001` | liquidity: `190877.8567`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `893548.0959600002` | liquidity: `812525.53707`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `554522.107945` | liquidity: `2455231.631`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `387288.8704590001` | liquidity: `455062.4766`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `383494.5032620001` | liquidity: `879067.5424`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `346132.31618999987` | liquidity: `717481.52797`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
