@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T02:52:24.354390+00:00`
-- Market context score: `56.18`
-- News risk score: `34.5`
-- Macro risk score: `36.83`
-- Risk-on score: `45.66`
+- Generated: `2026-10-15T03:07:28.440998+00:00`
+- Market context score: `53.59`
+- News risk score: `35.5`
+- Macro risk score: `38.0`
+- Risk-on score: `41.19`
 - Articles: `40`
-- Polymarket markets: `392`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T02:45:00+00:00`
+- Day/swing latest: `2026-10-15T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `11`, risk hits `2`, risk headline rate `0.0909`, policy hits `0`
+- crypto: articles `10`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
 - macro: articles `25`, risk hits `12`, risk headline rate `0.36`, policy hits `0`
+- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [policy] Bowman, Supervisory Modernization After Silicon Valley Bank (FRB: Speeches)
 - [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
 - [crypto] VanEck seeks to withdraw application for Lido staked Ether ETF (Cointelegraph.com News)
 - [crypto] Polygon gains US payments licenses after closing Coinme deal (Cointelegraph.com News)
@@ -37,4 +39,3 @@
 - [macro] Australia's first-ever Michelin stars go to 11 restaurants in one state (BBC News)
 - [crypto] Organizations join forces to fight Illinois crypto tax, after 6-month pause (Cointelegraph.com News)
 - [macro] Musk says US government may be behind slowdown of Ukraine drone speeds (BBC News)
-- [macro] Why Zelensky's meeting with Burnham matters (BBC News)
