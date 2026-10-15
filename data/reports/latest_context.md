@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T15:37:35.338614+00:00`
-- Market context score: `39.11`
-- News risk score: `45.52`
-- Macro risk score: `32.78`
-- Risk-on score: `15.52`
-- Articles: `58`
+- Generated: `2026-10-15T15:52:33.817027+00:00`
+- Market context score: `39.18`
+- News risk score: `45.69`
+- Macro risk score: `32.54`
+- Risk-on score: `15.72`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T15:30:00+00:00`
+- Day/swing latest: `2026-10-15T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `14`, risk headline rate `0.2759`, policy hits `4`
-- macro: articles `27`, risk hits `10`, risk headline rate `0.2593`, policy hits `2`
+- macro: articles `28`, risk hits `10`, risk headline rate `0.25`, policy hits `4`
 
 ## Headlines
 
-- [macro] At least 33 pupils and teacher killed after school roof collapses in Pakistan (BBC News)
 - [macro] Trump calls off livestream for Fort Hood shooter's execution by firing squad (BBC News)
+- [macro] Economists: Hot PPI shows Fed's work is not done (Economy)
+- [macro] At least 33 pupils and teacher killed after school roof collapses in Pakistan (BBC News)
 - [crypto] Bitcoin slips under $80K after US PPI gains most in four years (Cointelegraph.com News)
 - [macro] Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume (BBC News)
 - [macro] Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm (BBC News)
 - [macro] Seven crew missing after drone attack leaves tanker ablaze off Romania's coast (BBC News)
 - [macro] Wholesale prices jumped 6.3% annually in September, biggest gain since 2022 (Economy)
-- [crypto] Russia to ban direct peer-to-peer crypto trades starting July 2027 (Cointelegraph.com News)
