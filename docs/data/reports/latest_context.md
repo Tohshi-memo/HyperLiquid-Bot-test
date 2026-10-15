@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T19:17:33.659928+00:00`
-- Market context score: `37.78`
-- News risk score: `48.39`
-- Macro risk score: `39.12`
-- Risk-on score: `17.37`
-- Articles: `60`
-- Polymarket markets: `390`
+- Generated: `2026-10-15T19:22:36.383732+00:00`
+- Market context score: `38.08`
+- News risk score: `48.25`
+- Macro risk score: `38.35`
+- Risk-on score: `17.62`
+- Articles: `61`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -24,10 +24,11 @@
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `27`, risk hits `12`, risk headline rate `0.2593`, policy hits `1`
-- macro: articles `30`, risk hits `15`, risk headline rate `0.4`, policy hits `4`
+- macro: articles `31`, risk hits `15`, risk headline rate `0.3871`, policy hits `4`
 
 ## Headlines
 
+- [macro] Letters with 'suspicious substances' sent to US election offices (BBC News)
 - [commodity] U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz (Energy)
 - [crypto] At the White House, crypto policy vacancy looms large (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] An Australian band’s ‘unreal’ journey to break a gig world record (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Houthi missile attack on Yemeni presidential palace kills two, minister says (BBC News)
 - [crypto] Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ (Cointelegraph.com News)
 - [macro] Banks say Healey is planning Budget tax raid on their profits (BBC News)
-- [macro] Maduro pleads not guilty to new torture-related charges in New York (BBC News)
