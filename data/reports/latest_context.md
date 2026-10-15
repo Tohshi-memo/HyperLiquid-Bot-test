@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T06:37:30.815154+00:00`
+- Generated: `2026-10-15T06:52:27.642634+00:00`
 - Market context score: `51.04`
 - News risk score: `35.08`
 - Macro risk score: `30.89`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T06:30:00+00:00`
+- Day/swing latest: `2026-10-15T06:45:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] UK economy grew 0.1% in August ahead of Healey's first Budget (BBC News)
 - [macro] UK economy grew 0.1% in August, beating expectations (Economy)
 - [macro] IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits (Economy)
-- [macro] UK economy grew 0.1% in August ahead of Healey's first Budget (BBC News)
 - [crypto] BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
