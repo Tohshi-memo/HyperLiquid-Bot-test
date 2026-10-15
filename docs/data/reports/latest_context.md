@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T04:22:27.035497+00:00`
-- Market context score: `52.36`
-- News risk score: `32.52`
-- Macro risk score: `33.28`
-- Risk-on score: `34.17`
-- Articles: `39`
-- Polymarket markets: `393`
+- Generated: `2026-10-15T04:37:28.467474+00:00`
+- Market context score: `52.11`
+- News risk score: `32.88`
+- Macro risk score: `33.32`
+- Risk-on score: `33.94`
+- Articles: `38`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T04:15:00+00:00`
+- Day/swing latest: `2026-10-15T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `7`, risk headline rate `0.8`, policy hits `0`
-- crypto: articles `12`, risk hits `2`, risk headline rate `0.0833`, policy hits `3`
+- crypto: articles `11`, risk hits `2`, risk headline rate `0.0909`, policy hits `3`
 - macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Musk says US government may be behind slowdown of Ukraine drone speeds (BBC News)
+- [crypto] Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
 - [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
 - [crypto] Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil falls as investors assess Mideast tensions, International Energy Agency's report (Energy)
-- [crypto] Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July (Cointelegraph.com News)
 - [macro] 'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns (BBC News)
 - [macro] White House defends new press secretary amid questions about her legal credentials (BBC News)
-- [policy] Bowman, Supervisory Modernization After Silicon Valley Bank (FRB: Speeches)
-- [macro] Retired US generals call on Pentagon to cancel 'barbaric' execution livestream (BBC News)
