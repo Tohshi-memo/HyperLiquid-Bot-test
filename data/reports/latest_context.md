@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T21:07:29.930997+00:00`
-- Market context score: `36.89`
-- News risk score: `48.97`
-- Macro risk score: `41.75`
-- Risk-on score: `16.89`
-- Articles: `57`
+- Generated: `2026-10-15T21:22:44.014123+00:00`
+- Market context score: `36.8`
+- News risk score: `49.22`
+- Macro risk score: `40.88`
+- Risk-on score: `16.57`
+- Articles: `56`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T21:00:00+00:00`
+- Day/swing latest: `2026-10-15T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `27`, risk hits `12`, risk headline rate `0.2593`, policy hits `1`
-- macro: articles `26`, risk hits `14`, risk headline rate `0.4231`, policy hits `4`
+- crypto: articles `25`, risk hits `12`, risk headline rate `0.28`, policy hits `1`
+- macro: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `4`
 
 ## Headlines
 
+- [macro] Bus hits train stopped on French side of  Channel Tunnel, with 19 injured (BBC News)
 - [macro] Letters with 'suspicious substances' sent to US election offices (BBC News)
 - [crypto] Binance.US seeks $1B valuation in potential $100M funding round: Report (Cointelegraph.com News)
 - [commodity] Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now (Energy)
@@ -37,4 +38,3 @@
 - [macro] An Australian band’s ‘unreal’ journey to break a gig world record (BBC News)
 - [macro] Trump calls off livestream of Fort Hood attacker's execution by firing squad (BBC News)
 - [macro] Watch: What does Starlink have to do with the Ukraine-Russia war? (BBC News)
-- [macro] 'I paid thousands to a company for jobs that never came' (BBC News)
