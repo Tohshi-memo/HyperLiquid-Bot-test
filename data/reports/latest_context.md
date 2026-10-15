@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T07:07:30.090704+00:00`
-- Market context score: `51.49`
-- News risk score: `34.89`
-- Macro risk score: `29.12`
-- Risk-on score: `32.66`
-- Articles: `34`
+- Generated: `2026-10-15T07:22:28.016933+00:00`
+- Market context score: `52.5`
+- News risk score: `33.91`
+- Macro risk score: `27.15`
+- Risk-on score: `33.33`
+- Articles: `33`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T07:00:00+00:00`
+- Day/swing latest: `2026-10-15T07:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `4`, risk headline rate `0.1818`, policy hits `3`
 - macro: articles `20`, risk hits `4`, risk headline rate `0.15`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] UK economy grew 0.1% in August ahead of Healey's first Budget (BBC News)
+- [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
+- [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
 - [macro] UK economy grew 0.1% in August, beating expectations (Economy)
+- [macro] UK economy sees surprise growth in August ahead of Healey's first Budget (BBC News)
 - [macro] IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits (Economy)
 - [crypto] BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Thousands of NI workers to get pay bump as Real Living Wage rises (BBC News)
 - [crypto] Australia seeks feedback on crypto platform rules ahead of 2027 rollout (Cointelegraph.com News)
-- [macro] Musk says US government may be behind slowdown of Ukraine drone speeds (BBC News)
-- [crypto] Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
