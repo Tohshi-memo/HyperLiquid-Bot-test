@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T23:07:39.602259+00:00`
-- Market context score: `35.82`
-- News risk score: `50.39`
-- Macro risk score: `42.08`
-- Risk-on score: `15.84`
-- Articles: `45`
+- Generated: `2026-10-15T23:22:36.671661+00:00`
+- Market context score: `37.72`
+- News risk score: `48.19`
+- Macro risk score: `40.72`
+- Risk-on score: `17.67`
+- Articles: `46`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T23:00:00+00:00`
+- Day/swing latest: `2026-10-15T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `17`, risk hits `9`, risk headline rate `0.3529`, policy hits `1`
-- macro: articles `24`, risk hits `13`, risk headline rate `0.4167`, policy hits `4`
+- crypto: articles `16`, risk hits `8`, risk headline rate `0.3125`, policy hits `1`
+- macro: articles `26`, risk hits `13`, risk headline rate `0.3846`, policy hits `5`
 
 ## Headlines
 
+- [macro] Living with a stink? Technology might help (BBC News)
+- [macro] I find it quite demoralising in store - why I do all my shopping online (BBC News)
 - [macro] Letters with 'suspicious substances' sent to US senators and election offices (BBC News)
 - [crypto] Scammer loses $4.8M stored on tampered Ledgers: Asia Express (Cointelegraph.com News)
 - [macro] Bus hits train stopped on French side of Channel Tunnel, with 19 injured (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz (Energy)
-- [crypto] At the White House, crypto policy vacancy looms large (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] An Australian band’s ‘unreal’ journey to break a gig world record (BBC News)
