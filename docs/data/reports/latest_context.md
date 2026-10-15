@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T15:52:33.817027+00:00`
-- Market context score: `39.18`
-- News risk score: `45.69`
-- Macro risk score: `32.54`
-- Risk-on score: `15.72`
+- Generated: `2026-10-15T16:07:27.438319+00:00`
+- Market context score: `37.28`
+- News risk score: `47.99`
+- Macro risk score: `34.12`
+- Risk-on score: `14.02`
 - Articles: `59`
 - Polymarket markets: `392`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T15:45:00+00:00`
+- Day/swing latest: `2026-10-15T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `14`, risk headline rate `0.2759`, policy hits `4`
-- macro: articles `28`, risk hits `10`, risk headline rate `0.25`, policy hits `4`
+- crypto: articles `29`, risk hits `16`, risk headline rate `0.3103`, policy hits `2`
+- macro: articles `28`, risk hits `11`, risk headline rate `0.2857`, policy hits `4`
 
 ## Headlines
 
-- [macro] Trump calls off livestream for Fort Hood shooter's execution by firing squad (BBC News)
+- [macro] Trump calls off livestream of Fort Hood attacker's execution by firing squad (BBC News)
+- [crypto] Mastercard brings stablecoin balances into traditional banking and card payments (Cointelegraph.com News)
 - [macro] Economists: Hot PPI shows Fed's work is not done (Economy)
 - [macro] At least 33 pupils and teacher killed after school roof collapses in Pakistan (BBC News)
 - [crypto] Bitcoin slips under $80K after US PPI gains most in four years (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm (BBC News)
 - [macro] Seven crew missing after drone attack leaves tanker ablaze off Romania's coast (BBC News)
-- [macro] Wholesale prices jumped 6.3% annually in September, biggest gain since 2022 (Economy)
