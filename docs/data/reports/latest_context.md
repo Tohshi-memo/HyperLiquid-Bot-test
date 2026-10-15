@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T01:07:30.963602+00:00`
-- Market context score: `52.59`
-- News risk score: `40.66`
-- Macro risk score: `32.53`
-- Risk-on score: `41.27`
-- Articles: `47`
+- Generated: `2026-10-15T01:22:26.722741+00:00`
+- Market context score: `54.79`
+- News risk score: `39.83`
+- Macro risk score: `33.68`
+- Risk-on score: `45.89`
+- Articles: `50`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T01:00:00+00:00`
+- Day/swing latest: `2026-10-15T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.2353`, policy hits `1`
-- macro: articles `26`, risk hits `10`, risk headline rate `0.2692`, policy hits `0`
+- crypto: articles `16`, risk hits `5`, risk headline rate `0.1875`, policy hits `1`
+- macro: articles `30`, risk hits `12`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [macro] Anthropic revenue surges to $16.8bn ahead of stock market listing (BBC News)
 - [crypto] Polygon gains US payments licenses after closing Coinme deal (Cointelegraph.com News)
 - [macro] How backlash against data centres could shape the US midterm elections (BBC News)
 - [macro] How a Chinese-made toy gets to a US retailer (BBC News)
+- [macro] How much is the minimum wage? (BBC News)
 - [macro] Australia's first-ever Michelin stars go to 11 restaurants in one state (BBC News)
 - [crypto] Organizations join forces to fight Illinois crypto tax, after 6-month pause (Cointelegraph.com News)
 - [macro] Musk says US government may be behind slowdown of Ukraine drone speeds (BBC News)
 - [macro] Why Zelensky's meeting with Burnham matters (BBC News)
 - [macro] Student protesters attack government buildings in Albania (BBC News)
-- [macro] Why is Starlink internet so important on the battlefield in Ukraine? (BBC News)
-- [commodity] Container ship sinks in Strait of Hormuz as Iran steps up attacks (Energy)
