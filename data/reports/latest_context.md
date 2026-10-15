@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T22:29:39.971755+00:00`
-- Market context score: `35.26`
-- News risk score: `50.8`
-- Macro risk score: `44.17`
-- Risk-on score: `15.71`
-- Articles: `46`
+- Generated: `2026-10-15T22:37:56.765564+00:00`
+- Market context score: `35.71`
+- News risk score: `50.51`
+- Macro risk score: `43.09`
+- Risk-on score: `16.06`
+- Articles: `47`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T22:15:00+00:00`
+- Day/swing latest: `2026-10-15T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `18`, risk hits `9`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `24`, risk hits `14`, risk headline rate `0.4583`, policy hits `4`
+- macro: articles `25`, risk hits `14`, risk headline rate `0.44`, policy hits `4`
 
 ## Headlines
 
+- [macro] Bus hits train stopped on French side of Channel Tunnel, with 19 injured (BBC News)
 - [macro] Letters with 'suspicious substances' sent to US senators and election offices (BBC News)
-- [macro] Bus hits train stopped on French side of  Channel Tunnel, with 19 injured (BBC News)
+- [macro] At the scene of a school roof collapse in Pakistan (BBC News)
 - [crypto] Binance.US seeks $1B valuation in potential $100M funding round: Report (Cointelegraph.com News)
 - [commodity] Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] At the White House, crypto policy vacancy looms large (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] An Australian band’s ‘unreal’ journey to break a gig world record (BBC News)
 - [macro] Trump calls off livestream of Fort Hood attacker's execution by firing squad (BBC News)
-- [macro] Watch: What does Starlink have to do with the Ukraine-Russia war? (BBC News)
