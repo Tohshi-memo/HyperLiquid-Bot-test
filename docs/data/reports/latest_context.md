@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T14:52:31.717461+00:00`
-- Market context score: `38.28`
-- News risk score: `46.39`
-- Macro risk score: `33.72`
-- Risk-on score: `14.76`
-- Articles: `58`
+- Generated: `2026-10-15T15:07:29.682620+00:00`
+- Market context score: `39.52`
+- News risk score: `45.18`
+- Macro risk score: `31.69`
+- Risk-on score: `15.72`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T14:45:00+00:00`
+- Day/swing latest: `2026-10-15T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `14`, risk headline rate `0.2857`, policy hits `3`
-- macro: articles `27`, risk hits `10`, risk headline rate `0.2593`, policy hits `2`
-- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `29`, risk hits `14`, risk headline rate `0.2759`, policy hits `3`
+- macro: articles `28`, risk hits `10`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
-- [macro] Seven crew missing after drone attack leaves tanker ablaze off Romania's coast (BBC News)
+- [macro] Watch: 'Cracking' sound heard moments before Pakistan school roof collapse (BBC News)
+- [crypto] Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm (BBC News)
 - [macro] Trump calls off livestream for Fort Hood shooter's execution by firing squad (BBC News)
+- [macro] Seven crew missing after drone attack leaves tanker ablaze off Romania's coast (BBC News)
 - [macro] Wholesale prices jumped 6.3% annually in September, biggest gain since 2022 (Economy)
 - [crypto] Russia to ban direct peer-to-peer crypto trades starting July 2027 (Cointelegraph.com News)
 - [commodity] U.S. crude oil prices rise as investors assess Middle East supply risks (Energy)
 - [crypto] Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions (Cointelegraph.com News)
-- [macro] Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm (BBC News)
 - [macro] U.S. Treasury dismisses IMF debt warning and 'messy' forecasting (Economy)
-- [commodity] Container ship sinks in Strait of Hormuz as Iran steps up attacks (Energy)
-- [crypto] Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion (Cointelegraph.com News)
