@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T09:37:27.286451+00:00`
-- Market context score: `54.78`
-- News risk score: `31.23`
-- Macro risk score: `24.34`
-- Risk-on score: `35.08`
-- Articles: `35`
+- Generated: `2026-10-15T09:52:26.737617+00:00`
+- Market context score: `53.79`
+- News risk score: `32.17`
+- Macro risk score: `27.07`
+- Risk-on score: `34.7`
+- Articles: `37`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T09:30:00+00:00`
+- Day/swing latest: `2026-10-15T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.1538`, policy hits `3`
-- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.1429`, policy hits `3`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Thailand crypto ETFs may see slow start despite new rules: CoinShares (Cointelegraph.com News)
+- [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
 - [macro] Healey says surprise UK growth is 'sign of resilience' ahead of Budget (BBC News)
 - [crypto] Hex founder Richard Heart arrested in Istanbul, Turkish media report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Babylon advances native Bitcoin lending proposal on Aave V4 (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] UK economy grew 0.1% in August, beating expectations (Economy)
 - [macro] White House defends new press secretary amid questions about her legal credentials (BBC News)
 - [macro] What's going on between Kelly Clarkson and a Brooklyn store bird? (BBC News)
-- [crypto] Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend (Cointelegraph.com News)
-- [macro] Anthropic flags revenue surge to investors ahead of stock market debut (BBC News)
