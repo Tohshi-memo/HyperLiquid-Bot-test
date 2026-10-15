@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-15T23:37:25.786357+00:00`
-- Market context score: `35.81`
-- News risk score: `47.39`
-- Macro risk score: `39.61`
-- Risk-on score: `12.35`
-- Articles: `45`
-- Polymarket markets: `389`
+- Generated: `2026-10-15T23:52:29.658382+00:00`
+- Market context score: `35.25`
+- News risk score: `47.81`
+- Macro risk score: `41.61`
+- Risk-on score: `12.21`
+- Articles: `46`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-15T23:30:00+00:00`
+- Day/swing latest: `2026-10-15T23:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `16`, risk hits `8`, risk headline rate `0.3125`, policy hits `1`
-- macro: articles `25`, risk hits `12`, risk headline rate `0.36`, policy hits `5`
+- crypto: articles `17`, risk hits `8`, risk headline rate `0.2941`, policy hits `1`
+- macro: articles `25`, risk hits `14`, risk headline rate `0.4`, policy hits `5`
 
 ## Headlines
 
+- [macro] Houthi missile attack on Yemeni presidential palace kills five, minister says (BBC News)
+- [crypto] Australia releases draft bill to adopt OECD crypto tax reporting framework (Cointelegraph.com News)
+- [macro] Tip-off foiled US teen suspect's plot to attack Hindu temple, police say (BBC News)
 - [macro] Are student protests being manipulated ahead of France's presidential election? (BBC News)
 - [macro] Living with a stink? Technology might help (BBC News)
 - [macro] I find it quite demoralising in store - why I do all my shopping online (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Scammer loses $4.8M stored on tampered Ledgers: Asia Express (Cointelegraph.com News)
 - [macro] Bus hits train stopped on French side of Channel Tunnel, with 19 injured (BBC News)
 - [macro] At the scene of a school roof collapse in Pakistan (BBC News)
-- [crypto] Binance.US seeks $1B valuation in potential $100M funding round: Report (Cointelegraph.com News)
-- [commodity] Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now (Energy)
-- [macro] Watch: What the data centre boom means for Arizona ahead of midterm elections (BBC News)
