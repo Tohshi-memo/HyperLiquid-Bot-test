@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T22:22:33.685322+00:00`
-- Market context score: `42.29`
-- News risk score: `47.86`
-- Macro risk score: `39.05`
-- Risk-on score: `26.91`
-- Articles: `33`
+- Generated: `2026-10-16T22:37:25.273585+00:00`
+- Market context score: `43.73`
+- News risk score: `47.15`
+- Macro risk score: `39.34`
+- Risk-on score: `29.64`
+- Articles: `31`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T22:15:00+00:00`
+- Day/swing latest: `2026-10-16T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `4`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `4`
 - macro: articles `14`, risk hits `6`, risk headline rate `0.2857`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year (Economy)
+- [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
 - [commodity] Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries (Energy)
 - [macro] Trump denies limiting Ukraine access to Starlink network (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What we learned from heated US midterm Senate debates (BBC News)
 - [macro] Toxic algorithms wouldn't let them go - now Australia wants an off switch (BBC News)
-- [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
-- [macro] U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year (Economy)
 - [crypto] Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race (Cointelegraph.com News)
 - [crypto] Stablecoin remittances cost 84% less than traditional transfers, report finds (Cointelegraph.com News)
 - [macro] Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all (Economy)
