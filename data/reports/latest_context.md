@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T03:52:31.684818+00:00`
+- Generated: `2026-10-16T04:07:30.505458+00:00`
 - Market context score: `45.14`
 - News risk score: `32.57`
 - Macro risk score: `40.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T03:45:00+00:00`
+- Day/swing latest: `2026-10-16T04:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Three children and teacher killed by 16-year-old at Oregon primary school (BBC News)
+- [macro] Three children and teacher killed in US primary school shooting (BBC News)
 - [macro] 'It's really hard to believe' - How Oregon primary school shooting unfolded (BBC News)
 - [crypto] MSCI adopts index exclusion rules that could oust Strategy (Cointelegraph.com News)
 - [macro] Houthi missile attack on Yemeni presidential palace kills five, minister says (BBC News)
