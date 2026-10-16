@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T23:07:33.649323+00:00`
-- Market context score: `43.96`
-- News risk score: `44.3`
-- Macro risk score: `39.13`
-- Risk-on score: `27.65`
-- Articles: `27`
+- Generated: `2026-10-16T23:22:30.994492+00:00`
+- Market context score: `42.76`
+- News risk score: `45.85`
+- Macro risk score: `39.8`
+- Risk-on score: `26.56`
+- Articles: `28`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T23:00:00+00:00`
+- Day/swing latest: `2026-10-16T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `3`
-- macro: articles `14`, risk hits `6`, risk headline rate `0.2857`, policy hits `4`
+- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `3`
+- macro: articles `16`, risk hits `7`, risk headline rate `0.3125`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Pope pictured for first time since surgery and cancer diagnosis (BBC News)
+- [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
+- [macro] Trial of German steakhouse heiress that sparked a huge spy scandal (BBC News)
 - [macro] U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year (Economy)
 - [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
 - [commodity] Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries (Energy)
@@ -36,6 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] What we learned from heated US midterm Senate debates (BBC News)
 - [macro] Toxic algorithms wouldn't let them go - now Australia wants an off switch (BBC News)
-- [crypto] Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race (Cointelegraph.com News)
-- [crypto] Stablecoin remittances cost 84% less than traditional transfers, report finds (Cointelegraph.com News)
-- [macro] Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all (Economy)
