@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T06:07:37.350853+00:00`
-- Market context score: `55.93`
-- News risk score: `35.34`
-- Macro risk score: `37.25`
-- Risk-on score: `45.97`
-- Articles: `23`
-- Polymarket markets: `392`
+- Generated: `2026-10-16T06:22:24.753950+00:00`
+- Market context score: `56.24`
+- News risk score: `34.88`
+- Macro risk score: `37.16`
+- Risk-on score: `46.25`
+- Articles: `24`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T06:00:00+00:00`
+- Day/swing latest: `2026-10-16T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `1`
+- crypto: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `1`
 - macro: articles `11`, risk hits `5`, risk headline rate `0.2727`, policy hits `1`
 
 ## Headlines
 
+- [crypto] OpenAI model helped itself to testnet crypto, then kept quiet about it (Cointelegraph.com News)
 - [crypto] XRP has failed to make holders rich like bitcoin and ether. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Balaji’s ‘Singapore of social media’ begins with a wave of bans (Cointelegraph.com News)
 - [macro] Ship attack reports near Hormuz reach record high as oil exports slow (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Three children and teacher killed in US primary school shooting (BBC News)
 - [macro] 'It's really hard to believe' - How Oregon primary school shooting unfolded (BBC News)
 - [crypto] MSCI adopts index exclusion rules that could oust Strategy (Cointelegraph.com News)
-- [macro] Houthi missile attack on Yemeni presidential palace kills five, minister says (BBC News)
