@@ -1,7 +1,7 @@
 # Latest Asset Universe
 
-- Updated: `2026-10-15T23:52:54.736200+00:00`
-- Observed: `2026-10-15T23:45:00+00:00`
+- Updated: `2026-10-16T00:08:02.125507+00:00`
+- Observed: `2026-10-16T00:00:00+00:00`
 - Assets: `1602`
 - Priced assets: `1602`
 - Active history records: `672`
@@ -36,64 +36,64 @@
 
 ## Top By Volume
 
-- BTC: price `82217.5`, day_ntl_vlm `4313802333.13`
-- ETH: price `2443.25`, day_ntl_vlm `1939602851.1`
-- xyz:SKHX: price `972.715`, day_ntl_vlm `602200806.38`
-- HYPE: price `81.7265`, day_ntl_vlm `585943358.03`
-- ZEC: price `1221.25`, day_ntl_vlm `452271393.0`
+- BTC: price `82299.5`, day_ntl_vlm `4296210025.62`
+- ETH: price `2444.55`, day_ntl_vlm `1933622621.78`
+- xyz:SKHX: price `958.145`, day_ntl_vlm `595209982.25`
+- HYPE: price `81.8975`, day_ntl_vlm `584695098.81`
+- ZEC: price `1224.35`, day_ntl_vlm `451014133.74`
 
 ## Top 24h Gainers
 
-- xyz:QNT: price `36.7995`, change_24h_pct `13.5472`
-- STRK: price `0.08719`, change_24h_pct `13.2632`
-- INJ: price `8.56595`, change_24h_pct `11.6579`
-- INIT: price `0.140895`, change_24h_pct `11.1159`
-- xyz:CRCL: price `85.535`, change_24h_pct `10.6891`
+- STBL: price `0.043981`, change_24h_pct `101.3137`
+- xyz:QNT: price `36.9875`, change_24h_pct `14.0182`
+- STRK: price `0.08753`, change_24h_pct `13.838`
+- INJ: price `8.59745`, change_24h_pct `12.4364`
+- xyz:CRCL: price `86.069`, change_24h_pct `11.6387`
 
 ## Top 24h Losers
 
-- SOPH: price `0.0024`, change_24h_pct `-16.8975`
-- WCT: price `0.038782`, change_24h_pct `-10.7803`
-- CC: price `0.105805`, change_24h_pct `-8.1235`
-- BERA: price `0.21964`, change_24h_pct `-8.035`
-- FOGO: price `0.004336`, change_24h_pct `-7.8035`
+- SOPH: price `0.00239`, change_24h_pct `-17.2438`
+- BERA: price `0.22002`, change_24h_pct `-9.5684`
+- CC: price `0.104985`, change_24h_pct `-8.7563`
+- WCT: price `0.038956`, change_24h_pct `-8.1161`
+- NIL: price `0.085233`, change_24h_pct `-7.2284`
 
 ## Top By Asset Class
 
 ### Equity Perps
 
-- xyz:SKHX: price `972.715`, day_ntl_vlm `602200806.38`
-- xyz:SNDK: price `1372.8`, day_ntl_vlm `239484137.54`
-- xyz:NVDA: price `216.725`, day_ntl_vlm `222886148.71`
-- xyz:SKHY: price `144.045`, day_ntl_vlm `201315014.59`
-- xyz:SOXL: price `104.435`, day_ntl_vlm `200350102.86`
-- xyz:MU: price `923.37`, day_ntl_vlm `194067491.65`
-- xyz:SPCX: price `148.175`, day_ntl_vlm `163789786.58`
-- xyz:DRAM: price `48.7735`, day_ntl_vlm `158134788.13`
-- xyz:CRWV: price `68.0905`, day_ntl_vlm `151483191.5`
-- xyz:CRCL: price `85.535`, day_ntl_vlm `125826379.27`
+- xyz:SKHX: price `958.145`, day_ntl_vlm `595209982.25`
+- xyz:SNDK: price `1370.0`, day_ntl_vlm `238479805.98`
+- xyz:NVDA: price `216.975`, day_ntl_vlm `218594458.49`
+- xyz:SKHY: price `142.945`, day_ntl_vlm `200040150.79`
+- xyz:SOXL: price `105.025`, day_ntl_vlm `194113369.83`
+- xyz:MU: price `923.385`, day_ntl_vlm `192725353.87`
+- xyz:SPCX: price `148.5`, day_ntl_vlm `162679603.27`
+- xyz:DRAM: price `48.5185`, day_ntl_vlm `157550575.17`
+- xyz:CRWV: price `68.494`, day_ntl_vlm `151050568.94`
+- xyz:CRCL: price `86.069`, day_ntl_vlm `123019938.28`
 
 ### Index Perps
 
-- xyz:SP500: price `7728.45`, day_ntl_vlm `421234645.04`
-- xyz:XYZ100: price `29801.5`, day_ntl_vlm `404498964.55`
-- xyz:JP225: price `65242.0`, day_ntl_vlm `5387004.59`
-- xyz:KR200: price `890.32`, day_ntl_vlm `2597721.81`
-- mkts:USTECH: price `724.68`, day_ntl_vlm `1865154.81`
-- mkts:US500: price `770.135`, day_ntl_vlm `1125953.25`
-- mkts:SMALL2000: price `274.79`, day_ntl_vlm `71311.32`
+- xyz:SP500: price `7736.25`, day_ntl_vlm `416737843.36`
+- xyz:XYZ100: price `29840.5`, day_ntl_vlm `384117415.12`
+- xyz:JP225: price `65110.0`, day_ntl_vlm `5324717.34`
+- xyz:KR200: price `880.68`, day_ntl_vlm `2575536.39`
+- mkts:USTECH: price `725.7`, day_ntl_vlm `1858644.64`
+- mkts:US500: price `771.08`, day_ntl_vlm `1146429.05`
+- mkts:SMALL2000: price `275.23`, day_ntl_vlm `71311.32`
 - flx:USA500: price `7435.0`, day_ntl_vlm `0.0`
 - km:GLDMINE: price `73.889`, day_ntl_vlm `0.0`
 - km:SEMI: price `543.11`, day_ntl_vlm `0.0`
 
 ### Metal Perps
 
-- xyz:SILVER: price `57.1505`, day_ntl_vlm `135437656.4`
-- xyz:GOLD: price `4159.45`, day_ntl_vlm `51348522.53`
-- xyz:COPPER: price `6.5552`, day_ntl_vlm `5693435.23`
-- xyz:PLATINUM: price `1627.75`, day_ntl_vlm `3551241.69`
-- PAXG: price `4158.75`, day_ntl_vlm `3408726.4`
-- xyz:PALLADIUM: price `1130.3`, day_ntl_vlm `911828.15`
+- xyz:SILVER: price `57.1915`, day_ntl_vlm `134564201.25`
+- xyz:GOLD: price `4156.55`, day_ntl_vlm `48702595.29`
+- xyz:COPPER: price `6.5591`, day_ntl_vlm `5680310.55`
+- xyz:PLATINUM: price `1626.85`, day_ntl_vlm `3491574.08`
+- PAXG: price `4156.15`, day_ntl_vlm `3223226.72`
+- xyz:PALLADIUM: price `1130.15`, day_ntl_vlm `910669.8`
 - cash:GOLD: price `4035.0`, day_ntl_vlm `0.0`
 - cash:SILVER: price `59.831`, day_ntl_vlm `0.0`
 - flx:COPPER: price `6.33`, day_ntl_vlm `0.0`
@@ -101,10 +101,10 @@
 
 ### Commodity Perps
 
-- xyz:CL: price `96.149`, day_ntl_vlm `191897397.06`
-- xyz:BRENTOIL: price `102.845`, day_ntl_vlm `117104087.28`
-- xyz:NATGAS: price `3.5273`, day_ntl_vlm `19221967.21`
-- xyz:HO: price `4.59565`, day_ntl_vlm `126208.41`
+- xyz:CL: price `95.914`, day_ntl_vlm `189335264.58`
+- xyz:BRENTOIL: price `102.725`, day_ntl_vlm `116609087.81`
+- xyz:NATGAS: price `3.5253`, day_ntl_vlm `19160522.47`
+- xyz:HO: price `4.609`, day_ntl_vlm `131194.58`
 - flx:GAS: price `3.2429`, day_ntl_vlm `0.0`
 - flx:OIL: price `76.4`, day_ntl_vlm `0.0`
 - km:USOIL: price `114.1`, day_ntl_vlm `0.0`
@@ -114,45 +114,45 @@
 
 ### FX Perps
 
-- xyz:EUR: price `1.12175`, day_ntl_vlm `6022419.48`
-- xyz:JPY: price `158.045`, day_ntl_vlm `4533151.02`
-- xyz:GBP: price `1.3274`, day_ntl_vlm `795122.58`
+- xyz:EUR: price `1.1215`, day_ntl_vlm `5991943.42`
+- xyz:JPY: price `158.07`, day_ntl_vlm `4496612.42`
+- xyz:GBP: price `1.3273`, day_ntl_vlm `795125.36`
 - km:EUR: price `1.1612`, day_ntl_vlm `0.0`
 - xyz:DXY: price `97.15`, day_ntl_vlm `0.0`
-- xyz:KRW: price `1340.3`, day_ntl_vlm `0.0`
+- xyz:KRW: price `1341.0`, day_ntl_vlm `0.0`
 
 ### Crypto Majors
 
-- BTC: price `82217.5`, day_ntl_vlm `4313802333.13`
-- ETH: price `2443.25`, day_ntl_vlm `1939602851.1`
-- HYPE: price `81.7265`, day_ntl_vlm `585943358.03`
-- SOL: price `105.415`, day_ntl_vlm `339392553.46`
-- XRP: price `1.33385`, day_ntl_vlm `91658067.17`
-- DOGE: price `0.081169`, day_ntl_vlm `14151318.21`
-- BNB: price `729.225`, day_ntl_vlm `8005881.56`
+- BTC: price `82299.5`, day_ntl_vlm `4296210025.62`
+- ETH: price `2444.55`, day_ntl_vlm `1933622621.78`
+- HYPE: price `81.8975`, day_ntl_vlm `584695098.81`
+- SOL: price `105.455`, day_ntl_vlm `338388870.83`
+- XRP: price `1.33565`, day_ntl_vlm `91682453.93`
+- DOGE: price `0.081109`, day_ntl_vlm `14110335.01`
+- BNB: price `729.455`, day_ntl_vlm `8007473.92`
 - flx:BTC: price `91470.2`, day_ntl_vlm `0.0`
 
 ### Crypto Alts
 
-- ZEC: price `1221.25`, day_ntl_vlm `452271393.0`
-- NEAR: price `5.26705`, day_ntl_vlm `308461065.68`
-- PUMP: price `0.00454`, day_ntl_vlm `147243720.92`
-- STRK: price `0.08719`, day_ntl_vlm `84963242.58`
-- ENA: price `0.20496`, day_ntl_vlm `64909686.54`
-- LIT: price `3.03015`, day_ntl_vlm `38669097.81`
-- ZRO: price `2.08825`, day_ntl_vlm `38358621.91`
-- WLD: price `0.50653`, day_ntl_vlm `37545379.75`
-- SUI: price `1.0373`, day_ntl_vlm `34560850.53`
-- XPL: price `0.085763`, day_ntl_vlm `34103883.32`
+- ZEC: price `1224.35`, day_ntl_vlm `451014133.74`
+- NEAR: price `5.24655`, day_ntl_vlm `306880004.23`
+- PUMP: price `0.004531`, day_ntl_vlm `146207191.03`
+- STRK: price `0.08753`, day_ntl_vlm `85152359.54`
+- ENA: price `0.20617`, day_ntl_vlm `64684160.46`
+- LIT: price `3.0283`, day_ntl_vlm `38364810.95`
+- ZRO: price `2.10135`, day_ntl_vlm `38342385.99`
+- WLD: price `0.50545`, day_ntl_vlm `37380678.55`
+- SUI: price `1.03605`, day_ntl_vlm `34630398.8`
+- XPL: price `0.085632`, day_ntl_vlm `34155913.32`
 
 ### Unknown / Unclassified
 
-- io:EWY: price `154.815`, day_ntl_vlm `1276406.73`
-- mkts:BVIV: price `40.5245`, day_ntl_vlm `795506.96`
-- para:10Y: price `5.0991`, day_ntl_vlm `425707.03`
-- para:2Y: price `4.8012`, day_ntl_vlm `218798.11`
-- para:AAOI: price `83.685`, day_ntl_vlm `107728.44`
-- para:30Y: price `5.42575`, day_ntl_vlm `21419.82`
+- io:EWY: price `154.395`, day_ntl_vlm `1235129.11`
+- mkts:BVIV: price `40.5245`, day_ntl_vlm `795542.65`
+- para:10Y: price `5.0959`, day_ntl_vlm `425684.31`
+- para:2Y: price `4.8045`, day_ntl_vlm `215020.93`
+- para:AAOI: price `84.3005`, day_ntl_vlm `107719.18`
+- para:30Y: price `5.42235`, day_ntl_vlm `21419.82`
 - #102220: price `0.875`, day_ntl_vlm `0.0`
 - #102221: price `0.125`, day_ntl_vlm `0.0`
 - #102230: price `0.928335`, day_ntl_vlm `0.0`
