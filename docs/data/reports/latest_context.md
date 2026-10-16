@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T12:07:26.798374+00:00`
-- Market context score: `44.77`
-- News risk score: `48.51`
-- Macro risk score: `42.4`
-- Risk-on score: `34.24`
-- Articles: `32`
+- Generated: `2026-10-16T12:22:27.376246+00:00`
+- Market context score: `45.96`
+- News risk score: `47.32`
+- Macro risk score: `40.03`
+- Risk-on score: `35.0`
+- Articles: `33`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T12:00:00+00:00`
+- Day/swing latest: `2026-10-16T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `4`
-- macro: articles `9`, risk hits `6`, risk headline rate `0.4444`, policy hits `0`
+- macro: articles `10`, risk hits `6`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
+- [macro] US senators call for investigation into Ukraine's Starlink restrictions (BBC News)
+- [macro] Dad fined after son, 2, died in Cyprus hotel fall (BBC News)
 - [macro] Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander (BBC News)
 - [crypto] Solana’s Liu says Shanghai event postponed over registration surge (Cointelegraph.com News)
 - [crypto] Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin' (BBC News)
-- [macro] Dad fined after son, 2, died in Cyprus hotel fall (BBC News)
-- [crypto] CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins (Cointelegraph.com News)
