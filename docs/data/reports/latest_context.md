@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T16:22:34.150902+00:00`
-- Market context score: `39.78`
-- News risk score: `51.46`
-- Macro risk score: `43.83`
-- Risk-on score: `26.2`
-- Articles: `44`
+- Generated: `2026-10-16T16:37:28.104589+00:00`
+- Market context score: `39.39`
+- News risk score: `51.93`
+- Macro risk score: `43.91`
+- Risk-on score: `25.75`
+- Articles: `43`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,21 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T16:15:00+00:00`
+- Day/swing latest: `2026-10-16T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.36`, policy hits `5`
+- crypto: articles `24`, risk hits `9`, risk headline rate `0.375`, policy hits `5`
 - macro: articles `16`, risk hits `10`, risk headline rate `0.4375`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] Ukraine pushes Russia back on front line where Starlink has played key role (BBC News)
+- [macro] Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all (Economy)
+- [macro] Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role (BBC News)
 - [macro] Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace' (BBC News)
 - [crypto] Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading (Cointelegraph.com News)
-- [macro] Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all (Economy)
 - [crypto] Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints (Cointelegraph.com News)
 - [policy] Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank (FRB: Press Release - All Releases)
 - [crypto] Big Tech's AI auditors will only see what they're shown (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
