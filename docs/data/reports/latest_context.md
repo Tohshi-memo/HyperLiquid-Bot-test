@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T18:22:31.474740+00:00`
+- Generated: `2026-10-16T18:27:54.855858+00:00`
 - Market context score: `39.73`
 - News risk score: `50.34`
 - Macro risk score: `43.07`
@@ -29,8 +29,8 @@
 
 ## Headlines
 
-- [macro] Toxic algorithms wouldn't let them go - now Australia wants an off switch (BBC News)
 - [commodity] U.S. crude oil tops $100 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries (Energy)
+- [macro] Toxic algorithms wouldn't let them go - now Australia wants an off switch (BBC News)
 - [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
 - [macro] U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year (Economy)
 - [crypto] Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race (Cointelegraph.com News)
