@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T02:22:37.696852+00:00`
-- Market context score: `41.2`
-- News risk score: `39.12`
-- Macro risk score: `38.7`
-- Risk-on score: `17.0`
-- Articles: `37`
+- Generated: `2026-10-16T02:37:30.313855+00:00`
+- Market context score: `43.49`
+- News risk score: `35.76`
+- Macro risk score: `38.78`
+- Risk-on score: `19.27`
+- Articles: `36`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T02:15:00+00:00`
+- Day/swing latest: `2026-10-16T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
+- crypto: articles `11`, risk hits `2`, risk headline rate `0.0909`, policy hits `2`
 - macro: articles `22`, risk hits `10`, risk headline rate `0.3636`, policy hits `3`
 
 ## Headlines
 
+- [macro] Three children and teacher killed by 16-year-old at Oregon primary school (BBC News)
 - [macro] 'It's really hard to believe' - How Oregon primary school shooting unfolded (BBC News)
-- [macro] Three children and a teacher killed by 16-year-old at Oregon primary school (BBC News)
 - [crypto] MSCI adopts index exclusion rules that could oust Strategy (Cointelegraph.com News)
 - [macro] Houthi missile attack on Yemeni presidential palace kills five, minister says (BBC News)
 - [crypto] Australia releases draft bill to adopt OECD crypto tax reporting framework (Cointelegraph.com News)
