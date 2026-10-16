@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T07:52:28.357155+00:00`
-- Market context score: `49.15`
-- News risk score: `40.24`
-- Macro risk score: `39.71`
-- Risk-on score: `35.97`
-- Articles: `25`
-- Polymarket markets: `392`
+- Generated: `2026-10-16T08:07:28.310690+00:00`
+- Market context score: `51.83`
+- News risk score: `37.37`
+- Macro risk score: `35.35`
+- Risk-on score: `37.86`
+- Articles: `26`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T07:45:00+00:00`
+- Day/swing latest: `2026-10-16T08:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `1`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `1`
 - macro: articles `12`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Capital B reports $78M H1 loss driven by Bitcoin impairment charge (Cointelegraph.com News)
+- [commodity] Trump says he won't use nuclear weapons or send ground troops to Iran (Energy)
 - [crypto] Judge rejects CFTC, Gemini bid to undo $5M settlement (Cointelegraph.com News)
 - [macro] Banks say Healey planning to increase tax on their profits in Budget (BBC News)
 - [commodity] Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge (Energy)
@@ -36,5 +38,3 @@
 - [crypto] XRP has failed to make holders rich like bitcoin and ether. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Balaji’s ‘Singapore of social media’ begins with a wave of bans (Cointelegraph.com News)
 - [macro] Ship attack reports near Hormuz reach record high as oil exports slow (BBC News)
-- [macro] They fled Russia, but the West sent them back (BBC News)
-- [crypto] An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
