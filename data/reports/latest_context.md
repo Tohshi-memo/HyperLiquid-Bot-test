@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T13:22:28.306583+00:00`
+- Generated: `2026-10-16T13:37:33.417337+00:00`
 - Market context score: `47.6`
 - News risk score: `45.79`
 - Macro risk score: `35.63`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T13:15:00+00:00`
+- Day/swing latest: `2026-10-16T13:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Zelensky says Ukraine has right to defend itself after Trump criticism (BBC News)
 - [macro] Patients in chains rescued from suspected illegal rehab centre in South Africa (BBC News)
 - [macro] Dad fined after son, 2, died in Cyprus hotel fall (BBC News)
 - [macro] Watch: Did Tesla really just unveil a flying car? (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Circle targets 40 new markets as stablecoin demand grows globally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
