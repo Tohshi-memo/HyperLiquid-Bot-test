@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T07:37:27.553225+00:00`
-- Market context score: `51.62`
-- News risk score: `36.61`
-- Macro risk score: `39.8`
-- Risk-on score: `38.43`
-- Articles: `24`
-- Polymarket markets: `391`
+- Generated: `2026-10-16T07:52:28.357155+00:00`
+- Market context score: `49.15`
+- News risk score: `40.24`
+- Macro risk score: `39.71`
+- Risk-on score: `35.97`
+- Articles: `25`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T07:30:00+00:00`
+- Day/swing latest: `2026-10-16T07:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `1`
+- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `1`
 - macro: articles `12`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Judge rejects CFTC, Gemini bid to undo $5M settlement (Cointelegraph.com News)
 - [macro] Banks say Healey planning to increase tax on their profits in Budget (BBC News)
 - [commodity] Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Ship attack reports near Hormuz reach record high as oil exports slow (BBC News)
 - [macro] They fled Russia, but the West sent them back (BBC News)
 - [crypto] An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
