@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T08:37:27.629047+00:00`
-- Market context score: `51.44`
-- News risk score: `37.95`
-- Macro risk score: `36.31`
-- Risk-on score: `37.86`
-- Articles: `26`
+- Generated: `2026-10-16T08:52:29.592709+00:00`
+- Market context score: `52.21`
+- News risk score: `37.17`
+- Macro risk score: `34.78`
+- Risk-on score: `38.33`
+- Articles: `27`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T08:30:00+00:00`
+- Day/swing latest: `2026-10-16T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `2`
-- macro: articles `12`, risk hits `6`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `13`, risk hits `6`, risk headline rate `0.3077`, policy hits `1`
 
 ## Headlines
 
+- [macro] Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin' (BBC News)
 - [crypto] MSCI approves rules that could eject Strategy, Metaplanet from equity indexes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'It's really hard to believe' - How Oregon primary school shooting unfolded (BBC News)
 - [crypto] Capital B reports $78M H1 loss driven by Bitcoin impairment charge (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [commodity] Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] OpenAI model helped itself to testnet crypto, then kept quiet about it (Cointelegraph.com News)
-- [crypto] XRP has failed to make holders rich like bitcoin and ether. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
