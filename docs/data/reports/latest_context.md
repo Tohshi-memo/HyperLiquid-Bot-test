@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T06:22:24.753950+00:00`
+- Generated: `2026-10-16T06:37:29.475817+00:00`
 - Market context score: `56.24`
 - News risk score: `34.88`
 - Macro risk score: `37.16`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T06:15:00+00:00`
+- Day/swing latest: `2026-10-16T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] OpenAI model helped itself to testnet crypto, then kept quiet about it (Cointelegraph.com News)
 - [crypto] XRP has failed to make holders rich like bitcoin and ether. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Balaji’s ‘Singapore of social media’ begins with a wave of bans (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Three children and teacher killed in US primary school shooting (BBC News)
 - [macro] 'It's really hard to believe' - How Oregon primary school shooting unfolded (BBC News)
-- [crypto] MSCI adopts index exclusion rules that could oust Strategy (Cointelegraph.com News)
