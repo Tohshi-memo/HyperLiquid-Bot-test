@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T10:52:27.472004+00:00`
-- Market context score: `45.56`
-- News risk score: `45.39`
-- Macro risk score: `41.19`
-- Risk-on score: `32.92`
-- Articles: `34`
+- Generated: `2026-10-16T11:07:31.360514+00:00`
+- Market context score: `44.95`
+- News risk score: `46.29`
+- Macro risk score: `41.03`
+- Risk-on score: `32.25`
+- Articles: `36`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T10:45:00+00:00`
+- Day/swing latest: `2026-10-16T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `3`
+- crypto: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `3`
 - macro: articles `14`, risk hits `9`, risk headline rate `0.4286`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Circle targets 40 new markets as stablecoin demand grows globally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin' (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins (Cointelegraph.com News)
 - [crypto] Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Banks expect to be hit with higher taxes in Budget (BBC News)
-- [crypto] Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Trump says he won't use nuclear weapons or send ground troops to Iran (Energy)
