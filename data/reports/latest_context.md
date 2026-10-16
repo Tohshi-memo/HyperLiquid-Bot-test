@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T00:52:34.001432+00:00`
-- Market context score: `38.38`
-- News risk score: `42.96`
-- Macro risk score: `40.15`
-- Risk-on score: `14.51`
-- Articles: `41`
+- Generated: `2026-10-16T01:07:27.337531+00:00`
+- Market context score: `38.57`
+- News risk score: `42.79`
+- Macro risk score: `40.69`
+- Risk-on score: `15.0`
+- Articles: `42`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T00:45:00+00:00`
+- Day/swing latest: `2026-10-16T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `4`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.2308`, policy hits `1`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.2143`, policy hits `2`
 - macro: articles `24`, risk hits `12`, risk headline rate `0.375`, policy hits `4`
 
 ## Headlines
 
+- [crypto] MSCI adopts index exclusion rules that could oust Strategy (Cointelegraph.com News)
 - [macro] Houthi missile attack on Yemeni presidential palace kills five, minister says (BBC News)
 - [crypto] Australia releases draft bill to adopt OECD crypto tax reporting framework (Cointelegraph.com News)
 - [macro] Tip-off foiled US teen suspect's plot to attack Hindu temple, police say (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Letters with 'suspicious substances' sent to US senators and election offices (BBC News)
 - [crypto] Scammer loses $4.8M stored on tampered Ledgers: Asia Express (Cointelegraph.com News)
 - [macro] Bus hits train stopped on French side of Channel Tunnel, with 19 injured (BBC News)
-- [macro] At the scene of a school roof collapse in Pakistan (BBC News)
