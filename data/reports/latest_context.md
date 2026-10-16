@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T14:07:32.887136+00:00`
-- Market context score: `44.17`
-- News risk score: `49.23`
-- Macro risk score: `37.22`
-- Risk-on score: `31.57`
-- Articles: `35`
+- Generated: `2026-10-16T14:22:28.812446+00:00`
+- Market context score: `44.46`
+- News risk score: `48.81`
+- Macro risk score: `37.85`
+- Risk-on score: `32.11`
+- Articles: `36`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T14:00:00+00:00`
+- Day/swing latest: `2026-10-16T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `3`
+- crypto: articles `23`, risk hits `9`, risk headline rate `0.3913`, policy hits `4`
 - macro: articles `11`, risk hits `6`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
+- [macro] Dad fined after son, 2, died in Cyprus hotel fall (BBC News)
+- [macro] US senators call for investigation into Ukraine's Starlink restrictions (BBC News)
+- [crypto] Strategy conditionally declares daily dividends as STRC hovers below $100 (Cointelegraph.com News)
 - [macro] Patients in chains rescued from suspected illegal rehab centre in South Africa (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ledger’s early implant warnings deserved more action, Karpelès says (Cointelegraph.com News)
 - [crypto] Deutsche Bank prepares German crypto custody launch, eyes Asia: Report (Cointelegraph.com News)
 - [macro] Zelensky says Ukraine has right to defend itself after Trump criticism (BBC News)
-- [macro] Dad fined after son, 2, died in Cyprus hotel fall (BBC News)
 - [macro] Watch: Did Tesla really just unveil a flying car? (BBC News)
-- [macro] US senators call for investigation into Ukraine's Starlink restrictions (BBC News)
 - [crypto] Solana’s Liu says Shanghai event postponed over registration surge (Cointelegraph.com News)
-- [crypto] Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
