@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T10:07:27.795422+00:00`
+- Generated: `2026-10-16T10:22:29.481182+00:00`
 - Market context score: `49.7`
 - News risk score: `40.03`
 - Macro risk score: `37.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T10:00:00+00:00`
+- Day/swing latest: `2026-10-16T10:15:00+00:00`
 
 ## News Categories
 
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [macro] Dad fined after son, 2, died in Cyprus hotel fall (BBC News)
+- [macro] Banks expect to be hit with higher taxes in Budget (BBC News)
+- [macro] Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander (BBC News)
 - [crypto] Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump says he won't use nuclear weapons or send ground troops to Iran (Energy)
 - [crypto] U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin' (BBC News)
 - [crypto] Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant (Cointelegraph.com News)
-- [macro] Banks expect to be hit with higher taxes in Budget (BBC News)
 - [macro] China tells Israel to stop 'forced establishment' of West Bank settlements (BBC News)
 - [crypto] MSCI approves rules that could eject Strategy, Metaplanet from equity indexes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'It's really hard to believe' - How Oregon primary school shooting unfolded (BBC News)
