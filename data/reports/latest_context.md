@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T19:07:29.115061+00:00`
+- Generated: `2026-10-16T19:22:30.509360+00:00`
 - Market context score: `40.24`
 - News risk score: `49.28`
 - Macro risk score: `41.43`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T19:00:00+00:00`
+- Day/swing latest: `2026-10-16T19:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 ## Headlines
 
-- [commodity] U.S. crude oil tops $100 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries (Energy)
+- [commodity] Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries (Energy)
 - [macro] Toxic algorithms wouldn't let them go - now Australia wants an off switch (BBC News)
 - [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
 - [macro] U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year (Economy)
