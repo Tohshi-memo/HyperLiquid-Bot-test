@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T13:37:26.562950+00:00`
-- Market context score: `61.13`
-- News risk score: `30.43`
-- Macro risk score: `24.0`
-- Risk-on score: `48.38`
+- Generated: `2026-10-17T13:52:30.880957+00:00`
+- Market context score: `61.0`
+- News risk score: `30.29`
+- Macro risk score: `25.33`
+- Risk-on score: `48.47`
 - Articles: `17`
 - Polymarket markets: `392`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T13:30:00+00:00`
+- Day/swing latest: `2026-10-17T13:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [macro] Pope discharged from hospital days after lung cancer surgery (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Solana shows resilience, but some areas need continued observation, Fidelity says (Cointelegraph.com News)
-- [macro] Pope to be discharged days after lung cancer surgery (BBC News)
 - [macro] Nursery owner in China jailed for life after hundreds of children poisoned (BBC News)
 - [crypto] Banks could slow stablecoin growth by paying savers more, BIS paper finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report (Cointelegraph.com News)
 - [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
 - [macro] Katie Zacharia leaving White House role less than five days into job (BBC News)
-- [crypto] Lagarde says euro-area economy is resilient, digital euro imminent (Cointelegraph.com News)
