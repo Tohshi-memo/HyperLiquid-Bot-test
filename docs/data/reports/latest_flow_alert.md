@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-17T17:10:26.720234+00:00`
+- Generated: `2026-10-17T17:15:28.188533+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `482530.68` | liquidity: `759031.37773`
-- US x Iran ceasefire continues through October 31? | 24h volume: `470985.777429` | liquidity: `444434.1563`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `364388.781752` | liquidity: `540019.45149`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `363437.14094400004` | liquidity: `505262.56502`
-- US x Iran ceasefire continues through October 17? | 24h volume: `305704.58764299995` | liquidity: `27927.73911`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `305379.49503` | liquidity: `2123045.7443`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `302742.5066280001` | liquidity: `699289.9311`
-- Will there be no Hormuz agreement? | 24h volume: `232636.375243` | liquidity: `102292.00031`
+- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `482530.68` | liquidity: `758331.11973`
+- US x Iran ceasefire continues through October 31? | 24h volume: `470985.777429` | liquidity: `443326.599`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `364388.781752` | liquidity: `536787.7131`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `363437.14094400004` | liquidity: `504779.38507`
+- US x Iran ceasefire continues through October 17? | 24h volume: `305704.58764299995` | liquidity: `31810.276`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `305379.49503` | liquidity: `2122469.6092`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `302742.5066280001` | liquidity: `689417.7632`
+- Will there be no Hormuz agreement? | 24h volume: `232636.375243` | liquidity: `102411.74236`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
