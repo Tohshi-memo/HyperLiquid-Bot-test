@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T04:52:29.779553+00:00`
+- Generated: `2026-10-17T05:07:26.488232+00:00`
 - Market context score: `69.47`
 - News risk score: `26.25`
 - Macro risk score: `28.25`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T04:45:00+00:00`
+- Day/swing latest: `2026-10-17T05:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Three men jailed for 158 years each for murdering Australian and US surfers in Mexico (BBC News)
 - [macro] Trump waives several Russia sanctions as new US law takes effect (BBC News)
+- [macro] Three men jailed for 158 years each for murdering Australian and US surfers in Mexico (BBC News)
 - [macro] Brazil sees record fall in Amazon deforestation as key election looms (BBC News)
 - [crypto] Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
