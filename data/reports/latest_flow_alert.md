@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-17T19:40:28.093935+00:00`
+- Generated: `2026-10-17T19:45:28.863783+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5406877.11`
-- Polymarket volume z-score: `-1.31`
+- Polymarket 24h volume: `5690794.02`
+- Polymarket volume z-score: `-1.19`
 
 ## Top Polymarket Markets
 
-- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `482530.68` | liquidity: `758125.53373`
-- US x Iran ceasefire continues through October 31? | 24h volume: `431288.71350700007` | liquidity: `431033.944`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `368107.50523500005` | liquidity: `410843.08169`
-- US x Iran ceasefire continues through October 17? | 24h volume: `313177.803474` | liquidity: `42102.2608`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `305064.150637` | liquidity: `2593683.8466`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `289174.7613880002` | liquidity: `701261.0716`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `274137.8435019999` | liquidity: `562272.92291`
-- Will there be no Hormuz agreement? | 24h volume: `238274.284527` | liquidity: `95091.90293`
+- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `482530.68` | liquidity: `758370.35473`
+- US x Iran ceasefire continues through October 31? | 24h volume: `400071.520626` | liquidity: `423540.7232`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `377557.956909` | liquidity: `503249.78869`
+- US x Iran ceasefire continues through October 17? | 24h volume: `315784.9834740001` | liquidity: `44422.30866`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `304911.31547299994` | liquidity: `2691745.7911`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `282253.56008300016` | liquidity: `701410.0021`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `274154.172661` | liquidity: `551660.25991`
+- Will there be no Hormuz agreement? | 24h volume: `238264.280049` | liquidity: `96790.18352`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
