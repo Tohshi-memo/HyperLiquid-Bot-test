@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-16T23:59:11.731257+00:00`
-- Market context score: `40.59`
-- News risk score: `46.09`
-- Macro risk score: `37.31`
-- Risk-on score: `21.0`
-- Articles: `29`
+- Generated: `2026-10-17T00:07:26.877054+00:00`
+- Market context score: `41.16`
+- News risk score: `45.5`
+- Macro risk score: `36.17`
+- Risk-on score: `21.33`
+- Articles: `30`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-16T23:45:00+00:00`
+- Day/swing latest: `2026-10-17T00:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `3`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.2778`, policy hits `4`
+- macro: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC (BBC News)
 - [macro] Pope pictured for first time since surgery and cancer diagnosis (BBC News)
 - [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
 - [macro] Trial of German steakhouse heiress that sparked a huge spy scandal (BBC News)
@@ -38,4 +39,3 @@
 - [commodity] Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries (Energy)
 - [macro] Trump denies limiting Ukraine access to Starlink network (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] What we learned from heated US midterm Senate debates (BBC News)
