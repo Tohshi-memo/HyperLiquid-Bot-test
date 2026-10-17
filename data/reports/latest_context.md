@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T14:07:33.743059+00:00`
+- Generated: `2026-10-17T14:22:28.332715+00:00`
 - Market context score: `57.17`
 - News risk score: `35.5`
 - Macro risk score: `27.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T14:00:00+00:00`
+- Day/swing latest: `2026-10-17T14:15:00+00:00`
 
 ## News Categories
 
@@ -36,4 +36,4 @@
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [macro] Rare pink diamond goes on display in France 100 years after amateur heist (BBC News)
 - [crypto] Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report (Cointelegraph.com News)
-- [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
+- [macro] Teacher fought US school attacker before armed dad shot suspect 'multiple times' (BBC News)
