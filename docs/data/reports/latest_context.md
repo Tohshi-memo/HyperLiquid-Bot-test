@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T22:07:25.943144+00:00`
-- Market context score: `42.45`
-- News risk score: `44.25`
-- Macro risk score: `34.5`
-- Risk-on score: `22.5`
-- Articles: `14`
+- Generated: `2026-10-17T22:22:29.970433+00:00`
+- Market context score: `43.72`
+- News risk score: `43.0`
+- Macro risk score: `32.0`
+- Risk-on score: `23.33`
+- Articles: `15`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T22:00:00+00:00`
+- Day/swing latest: `2026-10-17T22:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
+- macro: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat (BBC News)
 - [macro] Anti-government protesters battle with police in Albania (BBC News)
 - [macro] Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Citrini sees a tokenization boom. The harder question is who profits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pope discharged from hospital days after lung cancer surgery (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
