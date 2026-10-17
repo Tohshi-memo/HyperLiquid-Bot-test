@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T05:07:26.488232+00:00`
-- Market context score: `69.47`
-- News risk score: `26.25`
-- Macro risk score: `28.25`
+- Generated: `2026-10-17T05:22:28.102057+00:00`
+- Market context score: `69.45`
+- News risk score: `26.29`
+- Macro risk score: `28.32`
 - Risk-on score: `65.0`
-- Articles: `20`
+- Articles: `19`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T05:00:00+00:00`
+- Day/swing latest: `2026-10-17T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `15`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
 
 ## Headlines
 
+- [macro] Katie Zacharia leaving White House role less than five days into job (BBC News)
 - [macro] Trump waives several Russia sanctions as new US law takes effect (BBC News)
 - [macro] Three men jailed for 158 years each for murdering Australian and US surfers in Mexico (BBC News)
 - [macro] Brazil sees record fall in Amazon deforestation as key election looms (BBC News)
@@ -37,4 +38,3 @@
 - [macro] A thousand slogans echoed here - but it could be the end for iconic Delhi protest site (BBC News)
 - [macro] Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC (BBC News)
 - [macro] Pope pictured for first time since surgery and cancer diagnosis (BBC News)
-- [macro] Trial of German steakhouse heiress that sparked a huge spy scandal (BBC News)
