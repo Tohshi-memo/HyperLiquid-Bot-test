@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T06:37:26.068586+00:00`
-- Market context score: `68.87`
-- News risk score: `26.88`
-- Macro risk score: `29.47`
+- Generated: `2026-10-17T06:52:26.844038+00:00`
+- Market context score: `68.91`
+- News risk score: `26.83`
+- Macro risk score: `29.39`
 - Risk-on score: `64.67`
-- Articles: `17`
+- Articles: `18`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T06:30:00+00:00`
+- Day/swing latest: `2026-10-17T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `1`
 
 ## Headlines
 
+- [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
+- [crypto] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [macro] Katie Zacharia leaving White House role less than five days into job (BBC News)
-- [macro] Trump waives several Russia sanctions as new US law takes effect (BBC News)
 - [macro] Three men jailed for 158 years each for murdering Australian and US surfers in Mexico (BBC News)
 - [macro] Brazil sees record fall in Amazon deforestation as key election looms (BBC News)
 - [crypto] Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
 - [macro] The uncertain future of Canada's 30 rescued belugas (BBC News)
 - [macro] A thousand slogans echoed here - but it could be the end for iconic Delhi protest site (BBC News)
 - [macro] Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC (BBC News)
-- [macro] Pope pictured for first time since surgery and cancer diagnosis (BBC News)
