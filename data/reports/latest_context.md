@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T09:07:25.012022+00:00`
+- Generated: `2026-10-17T09:22:27.047757+00:00`
 - Market context score: `69.97`
 - News risk score: `25.81`
 - Macro risk score: `27.32`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T09:00:00+00:00`
+- Day/swing latest: `2026-10-17T09:15:00+00:00`
 
 ## News Categories
 
@@ -27,12 +27,12 @@
 
 ## Headlines
 
+- [macro] Katie Zacharia leaving White House role less than five days into job (BBC News)
 - [crypto] Lagarde says euro-area economy is resilient, digital euro imminent (Cointelegraph.com News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Bitget to discontinue services for some users in one-off exercise (Cointelegraph.com News)
 - [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
 - [crypto] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Katie Zacharia leaving White House role less than five days into job (BBC News)
 - [macro] Pope's health should not be taken 'for granted', says top Vatican diplomat (BBC News)
 - [macro] Three men jailed for 158 years each for murdering Australian and US surfers in Mexico (BBC News)
 - [macro] Brazil sees record fall in Amazon deforestation as key election looms (BBC News)
