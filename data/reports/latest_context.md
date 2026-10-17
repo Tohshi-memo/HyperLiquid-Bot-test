@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T21:07:31.579166+00:00`
-- Market context score: `49.68`
-- News risk score: `40.86`
-- Macro risk score: `32.0`
-- Risk-on score: `34.76`
-- Articles: `13`
+- Generated: `2026-10-17T21:22:29.099533+00:00`
+- Market context score: `41.78`
+- News risk score: `44.19`
+- Macro risk score: `38.67`
+- Risk-on score: `22.54`
+- Articles: `16`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T21:00:00+00:00`
+- Day/swing latest: `2026-10-17T21:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `9`, risk hits `5`, risk headline rate `0.4444`, policy hits `0`
 
 ## Headlines
 
+- [macro] Anti-government protesters battle with police in Albania (BBC News)
+- [macro] Violent clashes, looting and buildings ablaze as hundreds arrested after France protests (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
+- [macro] At least 17 dead in crush at Hindu festival event in India (BBC News)
+- [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [crypto] Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Citrini sees a tokenization boom. The harder question is who profits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pope discharged from hospital days after lung cancer surgery (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Solana shows resilience, but some areas need continued observation, Fidelity says (Cointelegraph.com News)
-- [macro] Nursery owner in China jailed for life after hundreds of children poisoned (BBC News)
-- [crypto] Banks could slow stablecoin growth by paying savers more, BIS paper finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Rare pink diamond goes on display in France 100 years after amateur heist (BBC News)
