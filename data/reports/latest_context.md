@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T18:37:33.752825+00:00`
-- Market context score: `52.3`
-- News risk score: `37.0`
+- Generated: `2026-10-17T18:52:26.656738+00:00`
+- Market context score: `67.42`
+- News risk score: `28.0`
 - Macro risk score: `32.0`
-- Risk-on score: `37.33`
-- Articles: `16`
+- Risk-on score: `63.33`
+- Articles: `11`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T18:30:00+00:00`
+- Day/swing latest: `2026-10-17T18:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Citrini sees a tokenization boom. The harder question is who profits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pope discharged from hospital days after lung cancer surgery (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Solana shows resilience, but some areas need continued observation, Fidelity says (Cointelegraph.com News)
 - [macro] Nursery owner in China jailed for life after hundreds of children poisoned (BBC News)
-- [crypto] Banks could slow stablecoin growth by paying savers more, BIS paper finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [macro] Rare pink diamond goes on display in France 100 years after amateur heist (BBC News)
+- [crypto] Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report (Cointelegraph.com News)
+- [macro] Teacher fought US school attacker before armed dad shot suspect 'multiple times' (BBC News)
+- [macro] Katie Zacharia leaving White House role less than five days into job (BBC News)
+- [crypto] Lagarde says euro-area economy is resilient, digital euro imminent (Cointelegraph.com News)
