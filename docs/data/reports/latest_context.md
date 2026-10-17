@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T02:22:25.471899+00:00`
-- Market context score: `46.78`
-- News risk score: `38.31`
-- Macro risk score: `36.85`
-- Risk-on score: `28.0`
-- Articles: `26`
+- Generated: `2026-10-17T02:37:27.584493+00:00`
+- Market context score: `54.16`
+- News risk score: `35.16`
+- Macro risk score: `32.67`
+- Risk-on score: `40.16`
+- Articles: `25`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T02:15:00+00:00`
+- Day/swing latest: `2026-10-17T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `2`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.2778`, policy hits `4`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `2`
+- macro: articles `16`, risk hits `4`, risk headline rate `0.1875`, policy hits `4`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' (BBC News)
 - [macro] The uncertain future of Canada's 30 rescued belugas (BBC News)
 - [macro] A thousand slogans echoed here - but it could be the end for iconic Delhi protest site (BBC News)
@@ -38,4 +39,3 @@
 - [macro] U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year (Economy)
 - [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
 - [macro] Katie Zacharia leaving her White House role less than five days on the job (BBC News)
-- [commodity] Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries (Energy)
