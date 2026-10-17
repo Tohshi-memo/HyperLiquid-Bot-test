@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-17T19:07:27.013874+00:00`
+- Generated: `2026-10-17T19:22:27.213687+00:00`
 - Market context score: `51.62`
 - News risk score: `38.0`
 - Macro risk score: `32.0`
 - Risk-on score: `36.67`
 - Articles: `15`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-17T19:00:00+00:00`
+- Day/swing latest: `2026-10-17T19:15:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Citrini sees a tokenization boom. The harder question is who profits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,5 +36,4 @@
 - [crypto] Solana shows resilience, but some areas need continued observation, Fidelity says (Cointelegraph.com News)
 - [macro] Nursery owner in China jailed for life after hundreds of children poisoned (BBC News)
 - [crypto] Banks could slow stablecoin growth by paying savers more, BIS paper finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [macro] Rare pink diamond goes on display in France 100 years after amateur heist (BBC News)
