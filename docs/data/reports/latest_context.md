@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T07:07:26.314506+00:00`
-- Market context score: `46.55`
-- News risk score: `31.25`
-- Macro risk score: `38.08`
-- Risk-on score: `22.0`
+- Generated: `2026-10-18T07:22:31.156453+00:00`
+- Market context score: `45.19`
+- News risk score: `32.58`
+- Macro risk score: `40.75`
+- Risk-on score: `21.11`
 - Articles: `12`
 - Polymarket markets: `392`
 
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T07:00:00+00:00`
+- Day/swing latest: `2026-10-18T07:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `10`, risk hits `5`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- macro: articles `9`, risk hits `5`, risk headline rate `0.4444`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
 - [macro] Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests (BBC News)
@@ -36,4 +37,3 @@
 - [macro] There's a crackdown on sports piracy - but is it already out of control? (BBC News)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [macro] Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat (BBC News)
-- [macro] How day of protests unfolded as disorder breaks out across France (BBC News)
