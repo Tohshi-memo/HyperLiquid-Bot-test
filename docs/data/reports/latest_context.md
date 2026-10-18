@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T14:52:29.993271+00:00`
-- Market context score: `41.7`
-- News risk score: `45.0`
-- Macro risk score: `38.5`
-- Risk-on score: `23.0`
-- Articles: `20`
+- Generated: `2026-10-18T15:07:28.041680+00:00`
+- Market context score: `42.87`
+- News risk score: `43.84`
+- Macro risk score: `36.2`
+- Risk-on score: `23.73`
+- Articles: `21`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T14:45:00+00:00`
+- Day/swing latest: `2026-10-18T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `9`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
@@ -32,9 +32,9 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes (Energy)
 - [crypto] Most Americans polled oppose betting on elections: Reuters (Cointelegraph.com News)
+- [macro] Search for Amelia Earhart's plane resumes after stormy weather (BBC News)
 - [crypto] Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Oil facilities hit in deadly overnight attack on St Petersburg (BBC News)
