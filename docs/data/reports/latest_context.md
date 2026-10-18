@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T12:52:25.131534+00:00`
-- Market context score: `48.81`
-- News risk score: `37.29`
-- Macro risk score: `35.29`
-- Risk-on score: `31.06`
-- Articles: `17`
+- Generated: `2026-10-18T13:07:26.370332+00:00`
+- Market context score: `39.33`
+- News risk score: `49.03`
+- Macro risk score: `35.21`
+- Risk-on score: `19.87`
+- Articles: `18`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T12:45:00+00:00`
+- Day/swing latest: `2026-10-18T13:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `1`
+- crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `1`
 - macro: articles `11`, risk hits `6`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
@@ -35,5 +37,3 @@
 - [macro] Pope Leo XIV thanks wellwishers in first event after cancer surgery (BBC News)
 - [macro] Parisians wake up to protest damage and looted shops (BBC News)
 - [crypto] Cysic crypto bridge halted after unauthorized mint of 10M CYS (Cointelegraph.com News)
-- [macro] What is the Budget and what could be in it? (BBC News)
-- [crypto] Chinese suspect in $75M international crime network arrested in Bangkok (Cointelegraph.com News)
