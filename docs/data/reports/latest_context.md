@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T06:52:28.738019+00:00`
-- Market context score: `45.12`
-- News risk score: `32.7`
-- Macro risk score: `40.94`
-- Risk-on score: `21.11`
-- Articles: `11`
-- Polymarket markets: `393`
+- Generated: `2026-10-18T07:07:26.314506+00:00`
+- Market context score: `46.55`
+- News risk score: `31.25`
+- Macro risk score: `38.08`
+- Risk-on score: `22.0`
+- Articles: `12`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T06:45:00+00:00`
+- Day/swing latest: `2026-10-18T07:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `9`, risk hits `5`, risk headline rate `0.4444`, policy hits `0`
+- macro: articles `10`, risk hits `5`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
@@ -33,7 +33,7 @@
 - [macro] A wave of homemade, synthetic drugs sweeps US and deepens crisis (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] There's a crackdown on sports piracy - but is it already out of control? (BBC News)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [macro] Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat (BBC News)
 - [macro] How day of protests unfolded as disorder breaks out across France (BBC News)
-- [macro] Anti-government protesters battle with police in Albania (BBC News)
