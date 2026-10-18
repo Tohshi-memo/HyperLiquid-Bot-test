@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T22:52:27.342483+00:00`
+- Generated: `2026-10-18T23:07:33.951234+00:00`
 - Market context score: `46.6`
 - News risk score: `40.22`
 - Macro risk score: `36.21`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T22:45:00+00:00`
+- Day/swing latest: `2026-10-18T23:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance (Economy)
 - [commodity] Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East (Energy)
 - [macro] Trump says suspension of Russia sanctions is to keep peace negotiations going (BBC News)
 - [macro] What we know so far about deadly fire at Canadian military base (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Cindy Crawford 'beyond heartbroken' after death of son Presley at 27 (BBC News)
 - [crypto] The White House's crypto chief departs: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
