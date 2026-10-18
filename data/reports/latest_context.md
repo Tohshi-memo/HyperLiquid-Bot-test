@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T03:22:27.707085+00:00`
-- Market context score: `46.51`
-- News risk score: `30.86`
-- Macro risk score: `37.71`
-- Risk-on score: `21.43`
-- Articles: `9`
+- Generated: `2026-10-18T03:37:26.159061+00:00`
+- Market context score: `48.15`
+- News risk score: `29.25`
+- Macro risk score: `34.5`
+- Risk-on score: `22.5`
+- Articles: `10`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T03:15:00+00:00`
+- Day/swing latest: `2026-10-18T03:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `0`
+- macro: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
+- [macro] Deadly fire breaks out at Canada military base (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
