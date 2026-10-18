@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T09:52:32.898727+00:00`
+- Generated: `2026-10-18T10:06:48.301453+00:00`
 - Market context score: `41.0`
 - News risk score: `40.4`
 - Macro risk score: `33.92`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T09:45:00+00:00`
+- Day/swing latest: `2026-10-18T10:00:00+00:00`
 
 ## News Categories
 
@@ -27,13 +27,13 @@
 
 ## Headlines
 
+- [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Chinese suspect in $75M international crime network arrested in Bangkok (Cointelegraph.com News)
 - [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [macro] Turning the tides: Could hidden sea power energise our coastal towns? (BBC News)
 - [macro] 'I took a chance on the whisky industry and I haven't looked back' (BBC News)
 - [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
-- [macro] Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests (BBC News)
 - [macro] A wave of homemade, synthetic drugs sweeps US and deepens crisis (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
