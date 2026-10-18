@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T09:22:27.882992+00:00`
-- Market context score: `48.59`
-- News risk score: `29.25`
-- Macro risk score: `34.08`
-- Risk-on score: `23.33`
+- Generated: `2026-10-18T09:37:29.205918+00:00`
+- Market context score: `39.67`
+- News risk score: `41.75`
+- Macro risk score: `36.58`
+- Risk-on score: `15.0`
 - Articles: `12`
 - Polymarket markets: `392`
 
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T09:15:00+00:00`
+- Day/swing latest: `2026-10-18T09:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Chinese suspect in $75M international crime network arrested in Bangkok (Cointelegraph.com News)
 - [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] There's a crackdown on sports piracy - but is it already out of control? (BBC News)
-- [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)

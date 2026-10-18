@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-10-18T09:22:27.882992+00:00`
-- Observed: `2026-10-18T09:15:00+00:00`
+- Generated: `2026-10-18T09:37:29.205918+00:00`
+- Observed: `2026-10-18T09:30:00+00:00`
 - Assets: `1660`
 
 ## Top Activity
@@ -23,8 +23,8 @@ Individual asset screen for drilling down from class-level signals.
 - `#116740` unknown price `0.022915` 4h `0.0` vol `0.0` relationship `risk_on_high->#116740_24h`
 - `#114981` unknown price `0.9615` 4h `0.0` vol `0.0` relationship `market_context_high->#114981_24h`
 - `#114961` unknown price `0.935625` 4h `0.1922` vol `0.0` relationship `market_context_high->#114961_24h`
-- `#114341` unknown price `0.82747` 4h `-0.0024` vol `0.0` relationship `risk_on_high->#114341_24h`
+- `#114341` unknown price `0.82747` 4h `-0.0024` vol `0.0` relationship `risk_on_high->#114341_4h`
 - `#114960` unknown price `0.064375` 4h `-2.7127` vol `0.0` relationship `risk_on_high->#114960_1h`
 - `#133841` unknown price `0.709415` 4h `69.3357` vol `0.0` relationship `market_context_high->#133841_4h`
-- `RSR` crypto_alt price `0.001974` 4h `-2.0347` vol `520728.1` relationship `market_context_high->RSR_24h`
-- `#133741` unknown price `0.494395` 4h `-1.121` vol `0.0` relationship `market_context_high->#133741_4h`
+- `RSR` crypto_alt price `0.001979` 4h `-0.2017` vol `490825.16` relationship `market_context_high->RSR_24h`
+- `#133741` unknown price `0.5` 4h `0.0` vol `0.0` relationship `market_context_high->#133741_4h`
