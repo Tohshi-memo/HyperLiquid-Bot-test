@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T13:52:33.556872+00:00`
-- Market context score: `42.91`
-- News risk score: `44.71`
-- Macro risk score: `31.39`
-- Risk-on score: `22.75`
-- Articles: `18`
+- Generated: `2026-10-18T14:00:17.893145+00:00`
+- Market context score: `44.22`
+- News risk score: `42.79`
+- Macro risk score: `31.32`
+- Risk-on score: `24.0`
+- Articles: `19`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T13:45:00+00:00`
+- Day/swing latest: `2026-10-18T14:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `1`
+- crypto: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `1`
 - macro: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Most Americans polled oppose betting on elections: Reuters (Cointelegraph.com News)
 - [crypto] Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +37,3 @@
 - [crypto] Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Oil facilities hit in deadly overnight attack on St Petersburg (BBC News)
 - [macro] Pope Leo XIV thanks wellwishers in first event after cancer surgery (BBC News)
-- [macro] Parisians wake up to protest damage and looted shops (BBC News)
