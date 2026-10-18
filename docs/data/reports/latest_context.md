@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T10:52:24.257787+00:00`
-- Market context score: `42.59`
-- News risk score: `38.07`
-- Macro risk score: `33.79`
-- Risk-on score: `17.33`
-- Articles: `14`
+- Generated: `2026-10-18T11:07:25.633300+00:00`
+- Market context score: `43.66`
+- News risk score: `37.0`
+- Macro risk score: `31.67`
+- Risk-on score: `18.0`
+- Articles: `15`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T10:45:00+00:00`
+- Day/swing latest: `2026-10-18T11:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [macro] Parisians wake up to protest damage and looted shops (BBC News)
+- [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Cysic crypto bridge halted after unauthorized mint of 10M CYS (Cointelegraph.com News)
 - [macro] What is the Budget and what could be in it? (BBC News)
-- [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Chinese suspect in $75M international crime network arrested in Bangkok (Cointelegraph.com News)
 - [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [macro] Turning the tides: Could hidden sea power energise our coastal towns? (BBC News)
 - [macro] 'I took a chance on the whisky industry and I haven't looked back' (BBC News)
 - [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
-- [macro] A wave of homemade, synthetic drugs sweeps US and deepens crisis (BBC News)
