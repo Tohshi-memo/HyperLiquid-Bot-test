@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T14:07:26.587424+00:00`
+- Generated: `2026-10-18T14:22:28.586743+00:00`
 - Market context score: `42.87`
 - News risk score: `43.84`
 - Macro risk score: `36.2`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T14:00:00+00:00`
+- Day/swing latest: `2026-10-18T14:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [crypto] Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes (Energy)
 - [crypto] Most Americans polled oppose betting on elections: Reuters (Cointelegraph.com News)
 - [crypto] Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
