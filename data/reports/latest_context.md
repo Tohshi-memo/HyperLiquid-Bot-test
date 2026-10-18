@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T11:07:25.633300+00:00`
-- Market context score: `43.66`
-- News risk score: `37.0`
-- Macro risk score: `31.67`
-- Risk-on score: `18.0`
-- Articles: `15`
+- Generated: `2026-10-18T11:22:24.333027+00:00`
+- Market context score: `50.53`
+- News risk score: `36.12`
+- Macro risk score: `29.93`
+- Risk-on score: `31.88`
+- Articles: `16`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T11:00:00+00:00`
+- Day/swing latest: `2026-10-18T11:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [macro] Pope Leo XIV thanks wellwishers in first event after cancer surgery (BBC News)
 - [macro] Parisians wake up to protest damage and looted shops (BBC News)
 - [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Cysic crypto bridge halted after unauthorized mint of 10M CYS (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Turning the tides: Could hidden sea power energise our coastal towns? (BBC News)
 - [macro] 'I took a chance on the whisky industry and I haven't looked back' (BBC News)
 - [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
