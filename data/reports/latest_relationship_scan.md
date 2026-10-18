@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-10-18T05:49:38.748421+00:00`
+- Generated: `2026-10-18T05:52:25.791501+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -25,12 +25,12 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 
 ## Top Patterns
 
-- `risk_on_high->commodity_24h` score `3.5329` n `65` status `ready` deltaP `22.4497` edge `0.2083` maxDD `-1.4177`
-- `risk_on_and_context->commodity_24h` score `3.5329` n `65` status `ready` deltaP `22.4497` edge `0.2083` maxDD `-1.4177`
-- `market_context_high->commodity_24h` score `2.1431` n `116` status `ready` deltaP `15.2349` edge `0.1655` maxDD `-3.0782`
+- `risk_on_high->commodity_24h` score `3.5324` n `65` status `ready` deltaP `22.4497` edge `0.2083` maxDD `-1.4212`
+- `risk_on_and_context->commodity_24h` score `3.5324` n `65` status `ready` deltaP `22.4497` edge `0.2083` maxDD `-1.4212`
+- `market_context_high->commodity_24h` score `2.1419` n `116` status `ready` deltaP `15.2349` edge `0.1654` maxDD `-3.0782`
 - `market_context_high->crypto_major_4h` score `1.7377` n `153` status `ready` deltaP `16.4036` edge `0.3759` maxDD `-15.2359`
 - `market_context_high->crypto_major_1h` score `0.6657` n `153` status `ready` deltaP `5.5154` edge `0.1076` maxDD `-3.7781`
-- `market_context_high->crypto_alt_1h` score `0.1774` n `153` status `ready` deltaP `7.5966` edge `0.1221` maxDD `-7.3329`
+- `market_context_high->crypto_alt_1h` score `0.1767` n `153` status `ready` deltaP `7.5966` edge `0.122` maxDD `-7.3329`
 - `risk_on_high->crypto_major_4h` score `0.1349` n `91` status `ready` deltaP `12.9992` edge `0.1787` maxDD `-11.1788`
 - `risk_on_and_context->crypto_major_4h` score `0.1349` n `91` status `ready` deltaP `12.9992` edge `0.1787` maxDD `-11.1788`
 - `risk_on_high->index_1h` score `-0.0509` n `91` status `ready` deltaP `4.2553` edge `0.0058` maxDD `-0.7394`
