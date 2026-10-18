@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T04:52:26.955872+00:00`
+- Generated: `2026-10-18T05:07:28.305852+00:00`
 - Market context score: `48.15`
 - News risk score: `29.25`
 - Macro risk score: `34.5`
 - Risk-on score: `22.5`
-- Articles: `10`
+- Articles: `9`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T04:45:00+00:00`
+- Day/swing latest: `2026-10-18T05:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
 
 ## Headlines
 
-- [macro] Deadly fire breaks out at Canada military base (BBC News)
+- [macro] Deaths confirmed in major fire at Canada military base (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
@@ -36,4 +36,3 @@
 - [macro] Anti-government protesters battle with police in Albania (BBC News)
 - [macro] Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests (BBC News)
 - [macro] At least 17 dead in crush at Hindu festival event in India (BBC News)
-- [crypto] Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
