@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T01:07:25.797467+00:00`
+- Generated: `2026-10-18T01:22:27.333368+00:00`
 - Market context score: `48.03`
 - News risk score: `38.25`
 - Macro risk score: `34.5`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T01:00:00+00:00`
+- Day/swing latest: `2026-10-18T01:15:00+00:00`
 
 ## News Categories
 
@@ -27,13 +27,13 @@
 
 ## Headlines
 
+- [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [macro] Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat (BBC News)
 - [macro] How day of protests unfolded as disorder breaks out across France (BBC News)
 - [macro] Anti-government protesters battle with police in Albania (BBC News)
 - [macro] Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests (BBC News)
-- [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [macro] At least 17 dead in crush at Hindu festival event in India (BBC News)
 - [crypto] Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Citrini sees a tokenization boom. The harder question is who profits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
