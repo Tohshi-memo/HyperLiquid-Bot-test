@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T14:22:28.586743+00:00`
-- Market context score: `42.87`
-- News risk score: `43.84`
-- Macro risk score: `36.2`
-- Risk-on score: `23.73`
-- Articles: `21`
+- Generated: `2026-10-18T14:37:28.033421+00:00`
+- Market context score: `41.7`
+- News risk score: `45.0`
+- Macro risk score: `38.5`
+- Risk-on score: `23.0`
+- Articles: `20`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T14:15:00+00:00`
+- Day/swing latest: `2026-10-18T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `1`
-- macro: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `0`
+- macro: articles `9`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
-- [macro] Several dead or injured in major fire at Canada military base (BBC News)
 - [crypto] Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes (Energy)
@@ -38,3 +37,4 @@
 - [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
 - [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Oil facilities hit in deadly overnight attack on St Petersburg (BBC News)
