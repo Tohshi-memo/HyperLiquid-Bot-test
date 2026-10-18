@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T19:52:28.417143+00:00`
+- Generated: `2026-10-18T20:07:30.134732+00:00`
 - Market context score: `45.14`
 - News risk score: `40.92`
 - Macro risk score: `33.09`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T19:45:00+00:00`
+- Day/swing latest: `2026-10-18T20:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] What we know so far about deadly fire at Canadian military base (BBC News)
 - [macro] Macron calls for calm in France and warns rioting must not escalate (BBC News)
+- [macro] What we know so far about deadly fire at Canadian military base (BBC News)
 - [crypto] The White House's crypto chief departs: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
