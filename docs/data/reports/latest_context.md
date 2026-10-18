@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T02:52:28.729382+00:00`
+- Generated: `2026-10-18T03:07:35.938419+00:00`
 - Market context score: `46.51`
 - News risk score: `30.86`
 - Macro risk score: `37.71`
 - Risk-on score: `21.43`
-- Articles: `10`
+- Articles: `9`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T02:45:00+00:00`
+- Day/swing latest: `2026-10-18T03:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `0`
 
 ## Headlines
@@ -36,4 +36,3 @@
 - [macro] Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests (BBC News)
 - [macro] At least 17 dead in crush at Hindu festival event in India (BBC News)
 - [crypto] Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Citrini sees a tokenization boom. The harder question is who profits (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
