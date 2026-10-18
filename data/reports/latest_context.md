@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T10:37:27.337027+00:00`
-- Market context score: `41.0`
-- News risk score: `40.4`
-- Macro risk score: `33.92`
-- Risk-on score: `15.83`
-- Articles: `13`
+- Generated: `2026-10-18T10:52:24.257787+00:00`
+- Market context score: `42.59`
+- News risk score: `38.07`
+- Macro risk score: `33.79`
+- Risk-on score: `17.33`
+- Articles: `14`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T10:30:00+00:00`
+- Day/swing latest: `2026-10-18T10:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
 - macro: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Cysic crypto bridge halted after unauthorized mint of 10M CYS (Cointelegraph.com News)
 - [macro] What is the Budget and what could be in it? (BBC News)
 - [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Chinese suspect in $75M international crime network arrested in Bangkok (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
 - [macro] A wave of homemade, synthetic drugs sweeps US and deepens crisis (BBC News)
-- [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
