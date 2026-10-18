@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T16:22:25.605454+00:00`
-- Market context score: `43.74`
-- News risk score: `42.55`
-- Macro risk score: `36.09`
-- Risk-on score: `24.55`
-- Articles: `22`
-- Polymarket markets: `390`
+- Generated: `2026-10-18T16:37:24.904955+00:00`
+- Market context score: `44.48`
+- News risk score: `41.46`
+- Macro risk score: `35.99`
+- Risk-on score: `25.23`
+- Articles: `23`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T16:15:00+00:00`
+- Day/swing latest: `2026-10-18T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `1`
+- crypto: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `1`
 - macro: articles `10`, risk hits `5`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Oil facilities hit in deadly overnight attack on St Petersburg (BBC News)
 - [crypto] Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Search for Amelia Earhart's plane resumes after stormy weather (BBC News)
 - [crypto] Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] European diplomats attacked by Israeli settlers in West Bank (BBC News)
