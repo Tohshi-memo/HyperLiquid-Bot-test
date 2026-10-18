@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T10:22:26.249433+00:00`
-- Market context score: `39.67`
-- News risk score: `41.75`
-- Macro risk score: `36.58`
-- Risk-on score: `15.0`
-- Articles: `12`
+- Generated: `2026-10-18T10:37:27.337027+00:00`
+- Market context score: `41.0`
+- News risk score: `40.4`
+- Macro risk score: `33.92`
+- Risk-on score: `15.83`
+- Articles: `13`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T10:15:00+00:00`
+- Day/swing latest: `2026-10-18T10:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
+- macro: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] What is the Budget and what could be in it? (BBC News)
 - [macro] Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News)
 - [crypto] Chinese suspect in $75M international crime network arrested in Bangkok (Cointelegraph.com News)
 - [macro] Several dead or injured in major fire at Canada military base (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
 - [macro] A wave of homemade, synthetic drugs sweeps US and deepens crisis (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
-- [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
