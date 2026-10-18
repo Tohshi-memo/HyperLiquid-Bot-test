@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T05:07:28.305852+00:00`
-- Market context score: `48.15`
-- News risk score: `29.25`
-- Macro risk score: `34.5`
-- Risk-on score: `22.5`
-- Articles: `9`
+- Generated: `2026-10-18T05:22:33.079517+00:00`
+- Market context score: `46.02`
+- News risk score: `31.33`
+- Macro risk score: `38.67`
+- Risk-on score: `21.11`
+- Articles: `10`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T05:00:00+00:00`
+- Day/swing latest: `2026-10-18T05:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `8`, risk hits `4`, risk headline rate `0.375`, policy hits `0`
+- macro: articles `9`, risk hits `5`, risk headline rate `0.4444`, policy hits `0`
 
 ## Headlines
 
+- [macro] A wave of homemade, synthetic drugs sweeps US and deepens crisis (BBC News)
 - [macro] Deaths confirmed in major fire at Canada military base (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
 - [crypto] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
