@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-18T07:52:31.614011+00:00`
+- Generated: `2026-10-18T08:07:28.633285+00:00`
 - Market context score: `46.61`
 - News risk score: `31.15`
 - Macro risk score: `37.92`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-18T07:45:00+00:00`
+- Day/swing latest: `2026-10-18T08:00:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
-- [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Several dead or injured in major fire at Canada military base (BBC News)
+- [crypto] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether backs AIsa as strategic investor, completing seed extension round (Cointelegraph.com News)
-- [macro] Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests (BBC News)
+- [macro] Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests (BBC News)
 - [macro] Church makes sainthood case for 'WW1 hero' priest (BBC News)
 - [macro] A wave of homemade, synthetic drugs sweeps US and deepens crisis (BBC News)
 - [macro] Trump waives several Russia sanctions as row with Zelensky intensifies (BBC News)
