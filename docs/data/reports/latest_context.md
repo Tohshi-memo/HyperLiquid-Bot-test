@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T06:22:23.744518+00:00`
+- Generated: `2026-10-19T06:37:29.873043+00:00`
 - Market context score: `53.02`
 - News risk score: `37.55`
 - Macro risk score: `26.39`
 - Risk-on score: `37.27`
 - Articles: `33`
-- Polymarket markets: `393`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T06:15:00+00:00`
+- Day/swing latest: `2026-10-19T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Bomb threat forces Israel to Austria flight into emergency landing (BBC News)
+- [crypto] Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] China's growth accelerates as AI boom helps boost exports (BBC News)
 - [macro] Funding shortages force World Food Programme to cut aid to Gaza (BBC News)
 - [crypto] Zoom adds ‘proof of human’ badges to show you’re not a deepfake (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] South Korea to meet crypto exchanges amid calls for tax delay (Cointelegraph.com News)
 - [crypto] XRP Ledger is set to fix its lending code before anyone can use it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Australian Greens senator denies claims of misconduct towards women (BBC News)
-- [commodity] Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply (Energy)
-- [macro] India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance (Economy)
