@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T23:07:35.349447+00:00`
-- Market context score: `45.5`
-- News risk score: `45.5`
-- Macro risk score: `34.5`
-- Risk-on score: `30.33`
+- Generated: `2026-10-19T23:22:30.194926+00:00`
+- Market context score: `45.33`
+- News risk score: `44.62`
+- Macro risk score: `31.42`
+- Risk-on score: `28.05`
 - Articles: `50`
 - Polymarket markets: `393`
 
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T23:00:00+00:00`
+- Day/swing latest: `2026-10-19T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `2`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `2`
+- macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [macro] Five ways El Niño is affecting the weather around the world (BBC News)
 - [macro] 'I'm fed up of swiping': Why singles now want to meet IRL (BBC News)
+- [macro] Clean up begins after French riots but police remain (BBC News)
 - [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [macro] Curfew imposed in parts of central Paris and other cities after rioting across France (BBC News)
 - [macro] Ex-OpenAI worker accused of planting device had Saudi support, says court filing (BBC News)
@@ -36,5 +38,3 @@
 - [macro] US Church on frontline of battle against drug known as 'tranq' (BBC News)
 - [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
 - [crypto] Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback (Cointelegraph.com News)
-- [macro] Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation (BBC News)
-- [macro] Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC (BBC News)
