@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T09:37:26.448392+00:00`
-- Market context score: `48.86`
-- News risk score: `35.22`
-- Macro risk score: `28.31`
-- Risk-on score: `26.78`
-- Articles: `38`
+- Generated: `2026-10-19T09:52:27.121040+00:00`
+- Market context score: `49.19`
+- News risk score: `34.88`
+- Macro risk score: `27.64`
+- Risk-on score: `27.0`
+- Articles: `39`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T09:30:00+00:00`
+- Day/swing latest: `2026-10-19T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `2`
+- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `2`
 
 ## Headlines
 
+- [macro] People playing loud music on buses could face £100 fine (BBC News)
+- [macro] Musk and Anthropic pledge public share giveaways (BBC News)
+- [macro] Musk and Anthropic pledge public share giveaways (BBC News)
 - [crypto] Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Alberta heads to polls to decide whether to hold vote on separation from Canada (BBC News)
 - [crypto] CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What is the Budget and what could be in it? (BBC News)
-- [macro] People playing loud music on buses could face £100 fine (BBC News)
 - [crypto] JPMorgan takes JPM Coin to Ethereum for institutional clients: Report (Cointelegraph.com News)
 - [commodity] Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply (Energy)
-- [macro] Anthropic says it will commit 5% of its shares to 'public benefit fund' (BBC News)
-- [macro] Anthropic says it will commit 5% of its shares to 'public benefit fund' (BBC News)
 - [macro] India’s finance minister says market liquidity makes it easier for investors to exit (Economy)
-- [macro] Bangladesh says it was not informed of its citizens' execution by Saudi Arabia (BBC News)
