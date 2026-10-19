@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T11:52:31.497156+00:00`
-- Market context score: `55.36`
-- News risk score: `29.21`
-- Macro risk score: `24.62`
-- Risk-on score: `34.76`
-- Articles: `42`
-- Polymarket markets: `391`
+- Generated: `2026-10-19T12:07:29.754534+00:00`
+- Market context score: `54.19`
+- News risk score: `30.59`
+- Macro risk score: `26.77`
+- Risk-on score: `34.16`
+- Articles: `44`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T11:45:00+00:00`
+- Day/swing latest: `2026-10-19T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `1`
-- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `2`
+- crypto: articles `22`, risk hits `2`, risk headline rate `0.0909`, policy hits `1`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
 
 ## Headlines
 
+- [crypto] World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks (Cointelegraph.com News)
+- [macro] Personal attacks fire up debate before Brazil's run-off vote (BBC News)
+- [macro] Bereaved families could face 'unjust' tax bill after civil service pension delays (BBC News)
 - [crypto] BingX, YouHodler added to ESMA MiCA register in latest update (Cointelegraph.com News)
 - [macro] Italian PM Meloni to hold emergency meeting after weekend of violent clashes (BBC News)
 - [macro] Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why. (Economy)
 - [crypto] Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead market rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Kenya pastor accused of ordering parents to starve their children to death faces verdict (BBC News)
 - [crypto] Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals (Cointelegraph.com News)
-- [crypto] Stocks rebound into key tech earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
-- [crypto] JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
