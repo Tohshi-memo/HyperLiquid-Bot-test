@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T20:52:28.537077+00:00`
-- Market context score: `49.12`
-- News risk score: `39.49`
-- Macro risk score: `31.14`
-- Risk-on score: `32.05`
-- Articles: `55`
+- Generated: `2026-10-19T21:07:31.396171+00:00`
+- Market context score: `48.74`
+- News risk score: `39.66`
+- Macro risk score: `31.88`
+- Risk-on score: `31.62`
+- Articles: `53`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T20:45:00+00:00`
+- Day/swing latest: `2026-10-19T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `2`
-- macro: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `2`
+- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
 - [macro] Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC (BBC News)
 - [commodity] Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities (Energy)
 - [crypto] Crypto PAC pours $362K into California race voters essentially decided in August (Cointelegraph.com News)
 - [crypto] Tether: Senator's investigation misses positive work that's led to lower Iran volumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Market participants weigh in on SEC’s proposed crypto regulations (Cointelegraph.com News)
-- [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
 - [commodity] Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom (Energy)
 - [crypto] Visa, Mesh partner to enable crypto spending at 175M merchant locations (Cointelegraph.com News)
 - [crypto] Mastercard launches stablecoin risk screening for banks and payment providers (Cointelegraph.com News)
