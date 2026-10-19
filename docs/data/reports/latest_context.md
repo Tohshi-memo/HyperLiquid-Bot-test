@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T07:07:24.432103+00:00`
+- Generated: `2026-10-19T07:22:30.893226+00:00`
 - Market context score: `53.33`
 - News risk score: `37.24`
 - Macro risk score: `25.78`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1661`
+- Asset universe count: `1662`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:237, crypto_major:8, equity:151, fx:6, index:26, metal:20, unknown:1200`
+- Asset classes: `commodity:13, crypto_alt:237, crypto_major:8, equity:151, fx:6, index:26, metal:20, unknown:1201`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T07:00:00+00:00`
+- Day/swing latest: `2026-10-19T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] People playing loud music on buses could face £100 fine (BBC News)
 - [macro] Watch: Shops looted and restaurants gutted in Paris riots (BBC News)
 - [macro] Bomb threat forces Israel to Austria flight into emergency landing (BBC News)
 - [crypto] Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Zcash developers plan a fix to keep ZEC swaps private from future quantum computers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea to meet crypto exchanges amid calls for tax delay (Cointelegraph.com News)
-- [crypto] XRP Ledger is set to fix its lending code before anyone can use it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
