@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-10-19T14:22:30.481716+00:00`
-- Observed: `2026-10-19T14:15:00+00:00`
+- Generated: `2026-10-19T14:37:31.062654+00:00`
+- Observed: `2026-10-19T14:30:00+00:00`
 - Assets: `1662`
 
 ## Top Activity
@@ -13,18 +13,18 @@ Individual asset screen for drilling down from class-level signals.
 - `#73560` unknown price `0.4922` 4h `0.0` vol `0.0` relationship `risk_on_high->#73560_24h`
 - `#132971` unknown price `0.491045` 4h `0.0622` vol `0.0` relationship `risk_on_high->#132971_24h`
 - `#73510` unknown price `0.046515` 4h `0.0` vol `0.0` relationship `risk_on_high->#73510_24h`
-- `#79481` unknown price `0.879465` 4h `-0.3151` vol `0.0` relationship `risk_on_high->#79481_24h`
+- `#79481` unknown price `0.879495` 4h `-0.3219` vol `0.0` relationship `risk_on_high->#79481_24h`
 - `#85720` unknown price `0.60779` 4h `-0.1118` vol `0.0` relationship `risk_on_high->#85720_24h`
 - `#86620` unknown price `0.00298` 4h `-43.8266` vol `0.0` relationship `risk_on_high->#86620_24h`
 - `#25510` unknown price `0.375835` 4h `0.0` vol `0.0` relationship `risk_on_high->#25510_24h`
+- `#133661` unknown price `0.093405` 4h `-1.6427` vol `0.0` relationship `market_context_high->#133661_24h`
 - `#86630` unknown price `0.00389` 4h `0.0` vol `0.0` relationship `risk_on_high->#86630_24h`
-- `#133661` unknown price `0.08767` 4h `-7.3941` vol `0.0` relationship `market_context_high->#133661_24h`
 - `#85661` unknown price `0.800795` 4h `0.0` vol `0.0` relationship `risk_on_high->#85661_4h`
+- `#132570` unknown price `0.036755` 4h `7.4708` vol `0.0` relationship `market_context_high->#132570_24h`
 - `#116750` unknown price `0.019165` 4h `0.0` vol `0.0` relationship `market_context_high->#116750_24h`
-- `#132570` unknown price `0.0356` 4h `4.0936` vol `0.0` relationship `market_context_high->#132570_24h`
 - `#73501` unknown price `0.22005` 4h `0.0` vol `0.0` relationship `risk_on_high->#73501_4h`
-- `#132551` unknown price `0.110935` 4h `0.8821` vol `0.0` relationship `market_context_high->#132551_24h`
+- `#132551` unknown price `0.11205` 4h `1.8961` vol `0.0` relationship `market_context_high->#132551_24h`
 - `#73601` unknown price `0.4886` 4h `0.0` vol `0.0` relationship `risk_on_high->#73601_24h`
-- `#133691` unknown price `0.132765` 4h `-11.699` vol `0.0` relationship `market_context_high->#133691_24h`
+- `#133691` unknown price `0.136035` 4h `-10.4738` vol `0.0` relationship `market_context_high->#133691_24h`
 - `#85731` unknown price `0.111865` 4h `17.13` vol `0.0` relationship `risk_on_high->#85731_24h`
-- `#133671` unknown price `0.209695` 4h `-26.2831` vol `0.0` relationship `risk_on_high->#133671_24h`
+- `#133671` unknown price `0.214455` 4h `-23.9063` vol `0.0` relationship `risk_on_high->#133671_24h`
