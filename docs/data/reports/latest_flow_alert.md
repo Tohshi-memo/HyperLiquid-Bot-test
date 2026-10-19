@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-19T05:40:31.721921+00:00`
+- Generated: `2026-10-19T05:45:28.799996+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8056030.89`
-- Polymarket volume z-score: `-0.29`
+- Polymarket 24h volume: `8184712.35`
+- Polymarket volume z-score: `-0.24`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1172911.23` | liquidity: `726173.60842`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `560586.3786129999` | liquidity: `513967.0683`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `489366.82591899997` | liquidity: `784321.18498`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `438538.4725689999` | liquidity: `702475.0484`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `302654.718734` | liquidity: `1114837.6502`
-- Will John N. Kennedy win the 2028 Republican presidential nomination? | 24h volume: `250177.367` | liquidity: `1133491.96642`
-- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `250000.0` | liquidity: `510918.24266`
-- US x Iran ceasefire continues through October 31? | 24h volume: `209638.903719` | liquidity: `439127.4922`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1292731.23` | liquidity: `726174.50842`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `560693.2165929999` | liquidity: `518427.8964`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `489467.56572699995` | liquidity: `749253.18761`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `441428.46256899997` | liquidity: `705902.1585`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `303026.8422849999` | liquidity: `1114574.5606`
+- Will John N. Kennedy win the 2028 Republican presidential nomination? | 24h volume: `250177.367` | liquidity: `1133968.58642`
+- Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `250000.0` | liquidity: `511549.80366`
+- US x Iran ceasefire continues through October 31? | 24h volume: `209638.903719` | liquidity: `437117.2391`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
