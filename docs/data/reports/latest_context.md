@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T05:22:28.245019+00:00`
-- Market context score: `49.86`
-- News risk score: `42.19`
-- Macro risk score: `26.47`
-- Risk-on score: `34.2`
-- Articles: `30`
+- Generated: `2026-10-19T05:37:33.740243+00:00`
+- Market context score: `51.14`
+- News risk score: `40.3`
+- Macro risk score: `26.44`
+- Risk-on score: `35.45`
+- Articles: `31`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T05:15:00+00:00`
+- Day/swing latest: `2026-10-19T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
+- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Zcash developers plan a fix to keep ZEC swaps private from future quantum computers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] China's growth accelerates as AI export boom outweighs domestic weakness (BBC News)
 - [crypto] South Korea to meet crypto exchanges amid calls for tax delay (Cointelegraph.com News)
 - [macro] Macron calls for 'calm and order' after riots across France (BBC News)
@@ -37,4 +38,3 @@
 - [macro] India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance (Economy)
 - [macro] Anthropic says it will commit 5% of its shares to 'public benefit fund' (BBC News)
 - [macro] Anthropic says it will commit 5% of its shares to 'public benefit fund' (BBC News)
-- [macro] France's government under pressure after weekend of widespread violence (BBC News)
