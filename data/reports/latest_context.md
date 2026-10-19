@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T19:22:34.965186+00:00`
-- Market context score: `49.08`
-- News risk score: `38.73`
-- Macro risk score: `31.34`
-- Risk-on score: `31.38`
-- Articles: `56`
+- Generated: `2026-10-19T19:37:30.370027+00:00`
+- Market context score: `48.85`
+- News risk score: `38.8`
+- Macro risk score: `31.98`
+- Risk-on score: `31.18`
+- Articles: `55`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T19:15:00+00:00`
+- Day/swing latest: `2026-10-19T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `2`
-- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `1`
+- macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Visa, Mesh partner to enable crypto spending at 175M merchant locations (Cointelegraph.com News)
 - [commodity] Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities (Energy)
+- [crypto] Visa, Mesh partner to enable crypto spending at 175M merchant locations (Cointelegraph.com News)
 - [crypto] Mastercard launches stablecoin risk screening for banks and payment providers (Cointelegraph.com News)
 - [macro] Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why (Economy)
 - [macro] Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC (BBC News)
