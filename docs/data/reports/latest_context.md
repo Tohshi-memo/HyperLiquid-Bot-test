@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T15:37:49.287804+00:00`
+- Generated: `2026-10-19T15:52:38.770316+00:00`
 - Market context score: `57.35`
 - News risk score: `28.29`
 - Macro risk score: `26.3`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T15:30:00+00:00`
+- Day/swing latest: `2026-10-19T15:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
-- [commodity] Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom (Energy)
-- [macro] Kenya pastor convicted of ordering parents to starve their children to death (BBC News)
+- [macro] Kenya cult leader who told parents to starve children guilty of 191 murders (BBC News)
 - [macro] Vinted blocks French looters listing stolen goods for sale (BBC News)
+- [commodity] Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom (Energy)
 - [crypto] Zerohash rolls out a new tool to move crypto without copying wallet addresses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why (Economy)
 - [macro] US airman dies as daredevil descent goes wrong before Texas college football game (BBC News)
