@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T13:37:30.394191+00:00`
+- Generated: `2026-10-19T13:52:39.317082+00:00`
 - Market context score: `57.48`
 - News risk score: `29.2`
 - Macro risk score: `25.5`
 - Risk-on score: `39.8`
 - Articles: `50`
-- Polymarket markets: `393`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T13:30:00+00:00`
+- Day/swing latest: `2026-10-19T13:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why (Economy)
+- [macro] Alberta heads to polls to decide whether to hold vote on separation from Canada (BBC News)
+- [macro] Exiled critic of Rwandan president found beheaded (BBC News)
 - [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
 - [crypto] Made an ‘honest’ mistake with crypto taxes? New bill offers way out (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply (Energy)
 - [crypto] Public companies object to OKX-ICE’s tokenized stock plan (Cointelegraph.com News)
-- [macro] Exiled critic of Rwandan president found beheaded (BBC News)
 - [macro] Home sellers cut asking prices on 3,000 properties a day (BBC News)
 - [crypto] Strategy buys $22M in Bitcoin, repurchases $193M in STRC (Cointelegraph.com News)
-- [crypto] Cardano founder Charles Hoskinson is building a new programming language for the network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bereaved families could face 'unjust' tax bill after civil service pension delays (BBC News)
