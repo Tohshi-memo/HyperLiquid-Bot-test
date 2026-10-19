@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-19T04:45:29.905462+00:00`
+- Generated: `2026-10-19T04:50:31.408484+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1171911.23` | liquidity: `738195.16252`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `558611.685239` | liquidity: `514814.7785`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `487896.42846599995` | liquidity: `714597.8405`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `436760.756534` | liquidity: `707524.977`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `304259.44351700007` | liquidity: `988990.2345`
-- Will John N. Kennedy win the 2028 Republican presidential nomination? | 24h volume: `250177.367` | liquidity: `1133819.41354`
+- Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1171911.23` | liquidity: `738568.40252`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `558611.685239` | liquidity: `514844.3965`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `487896.42846599995` | liquidity: `716156.20176`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `436760.756534` | liquidity: `708048.5704`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `304259.44351700007` | liquidity: `961087.4962`
+- Will John N. Kennedy win the 2028 Republican presidential nomination? | 24h volume: `250177.367` | liquidity: `1134019.41354`
 - Will Doug Burgum win the 2028 Republican presidential nomination? | 24h volume: `250000.0` | liquidity: `510876.85766`
-- US x Iran ceasefire continues through October 31? | 24h volume: `214778.95845799998` | liquidity: `423268.2294`
+- US x Iran ceasefire continues through October 31? | 24h volume: `214778.95845799998` | liquidity: `424384.5399`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
