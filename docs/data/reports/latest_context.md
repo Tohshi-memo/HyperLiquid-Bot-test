@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T00:22:28.335950+00:00`
-- Market context score: `40.93`
-- News risk score: `41.0`
-- Macro risk score: `30.83`
-- Risk-on score: `15.0`
-- Articles: `30`
+- Generated: `2026-10-19T00:37:28.959879+00:00`
+- Market context score: `41.38`
+- News risk score: `40.56`
+- Macro risk score: `29.95`
+- Risk-on score: `15.29`
+- Articles: `31`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T00:15:00+00:00`
+- Day/swing latest: `2026-10-19T00:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `0`
 
 ## Headlines
 
+- [macro] People playing loud music on buses could face £100 fine (BBC News)
 - [macro] Inside the shadowy world of anti-Putin sabotage from within Russia (BBC News)
 - [macro] EU tariffs aimed at China hitting Ukraine, steel boss says (BBC News)
 - [macro] EU tariffs aimed at China hitting Ukraine, steel boss says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Trump says suspension of Russia sanctions is to keep peace negotiations going (BBC News)
 - [commodity] Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East (Energy)
 - [macro] Major fire at Canada military base leaves four dead, dozens injured (BBC News)
-- [macro] Home sellers cut asking prices on 3,000 properties a day (BBC News)
