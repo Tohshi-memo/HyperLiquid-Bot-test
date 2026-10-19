@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T22:07:30.324740+00:00`
-- Market context score: `46.83`
-- News risk score: `43.33`
-- Macro risk score: `34.77`
-- Risk-on score: `31.58`
-- Articles: `50`
+- Generated: `2026-10-19T22:22:27.128575+00:00`
+- Market context score: `46.08`
+- News risk score: `44.38`
+- Macro risk score: `35.39`
+- Risk-on score: `31.03`
+- Articles: `51`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T22:00:00+00:00`
+- Day/swing latest: `2026-10-19T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `1`
+- crypto: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `3`
+- macro: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `1`
 
 ## Headlines
 
 - [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [macro] Ex-OpenAI worker accused of planting device had Saudi support, says court filing (BBC News)
 - [macro] Ex-OpenAI worker accused of planting device had Saudi support, says court filing (BBC News)
+- [macro] US Church on frontline of battle against drug known as 'tranq' (BBC News)
 - [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
 - [crypto] Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback (Cointelegraph.com News)
+- [macro] Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation (BBC News)
 - [macro] Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC (BBC News)
 - [commodity] Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities (Energy)
 - [crypto] Crypto PAC pours $362K into California race voters essentially decided in August (Cointelegraph.com News)
-- [crypto] Tether: Senator's investigation misses positive work that's led to lower Iran volumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
