@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T12:37:24.392058+00:00`
+- Generated: `2026-10-19T12:52:38.597693+00:00`
 - Market context score: `55.87`
 - News risk score: `30.98`
 - Macro risk score: `26.64`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T12:30:00+00:00`
+- Day/swing latest: `2026-10-19T12:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [commodity] Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply (Energy)
 - [crypto] Strategy buys $22M in Bitcoin, repurchases $193M in STRC (Cointelegraph.com News)
+- [commodity] Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply (Energy)
 - [crypto] Cardano founder Charles Hoskinson is building a new programming language for the network (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Bereaved families could face 'unjust' tax bill after civil service pension delays (BBC News)
 - [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
