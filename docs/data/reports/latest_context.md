@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T18:52:27.405201+00:00`
+- Generated: `2026-10-19T19:07:35.923632+00:00`
 - Market context score: `51.48`
 - News risk score: `36.96`
 - Macro risk score: `31.39`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T18:45:00+00:00`
+- Day/swing latest: `2026-10-19T19:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [commodity] Brent oil hovers above $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities (Energy)
 - [macro] Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why (Economy)
-- [commodity] Oil prices rise after Houthi militants claim they attacked Saudi airports and Aramco facilities (Energy)
 - [macro] Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC (BBC News)
 - [macro] Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds' (BBC News)
 - [crypto] Revolut secures Gibraltar crypto license to support global expansion (Cointelegraph.com News)
