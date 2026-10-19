@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T03:07:26.621648+00:00`
+- Generated: `2026-10-19T03:22:28.517417+00:00`
 - Market context score: `36.96`
 - News risk score: `46.84`
 - Macro risk score: `30.93`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T03:00:00+00:00`
+- Day/swing latest: `2026-10-19T03:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Anthropic says it will commit 5% of its shares to 'public benefit fund' (BBC News)
 - [macro] China's growth accelerates as AI export boom outweighs domestic weakness (BBC News)
+- [macro] Anthropic says it will commit 5% of its shares to 'public benefit fund' (BBC News)
 - [crypto] Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Bollywood actor Tiger Shroff survives shooting in Mumbai (BBC News)
 - [macro] Australian Greens senator denies claims of misconduct towards women (BBC News)
