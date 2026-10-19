@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T06:37:29.873043+00:00`
-- Market context score: `53.02`
-- News risk score: `37.55`
-- Macro risk score: `26.39`
-- Risk-on score: `37.27`
-- Articles: `33`
+- Generated: `2026-10-19T06:52:31.792007+00:00`
+- Market context score: `53.33`
+- News risk score: `37.24`
+- Macro risk score: `25.78`
+- Risk-on score: `37.47`
+- Articles: `34`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T06:30:00+00:00`
+- Day/swing latest: `2026-10-19T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
+- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `2`
 
 ## Headlines
 
+- [macro] Watch: Shops looted and restaurants gutted in Paris riots (BBC News)
 - [macro] Bomb threat forces Israel to Austria flight into emergency landing (BBC News)
 - [crypto] Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] China's growth accelerates as AI boom helps boost exports (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Zcash developers plan a fix to keep ZEC swaps private from future quantum computers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea to meet crypto exchanges amid calls for tax delay (Cointelegraph.com News)
 - [crypto] XRP Ledger is set to fix its lending code before anyone can use it (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Australian Greens senator denies claims of misconduct towards women (BBC News)
