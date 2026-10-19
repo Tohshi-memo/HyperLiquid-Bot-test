@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T07:56:16.712687+00:00`
-- Market context score: `53.02`
-- News risk score: `37.55`
-- Macro risk score: `26.39`
-- Risk-on score: `37.27`
-- Articles: `33`
-- Polymarket markets: `393`
+- Generated: `2026-10-19T08:07:26.759103+00:00`
+- Market context score: `50.72`
+- News risk score: `36.51`
+- Macro risk score: `26.37`
+- Risk-on score: `31.29`
+- Articles: `34`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T07:45:00+00:00`
+- Day/swing latest: `2026-10-19T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B (Cointelegraph.com News)
 - [macro] France's government under pressure after weekend of widespread violence (BBC News)
 - [macro] Bollywood actor Tiger Shroff survives shooting attempt in Mumbai (BBC News)
 - [macro] People playing loud music on buses could face £100 fine (BBC News)
@@ -37,4 +38,3 @@
 - [macro] China's growth accelerates as AI boom helps boost exports (BBC News)
 - [macro] Funding shortages force World Food Programme to cut aid to Gaza (BBC News)
 - [crypto] Zoom adds ‘proof of human’ badges to show you’re not a deepfake (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
