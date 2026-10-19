@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T07:37:31.552363+00:00`
+- Generated: `2026-10-19T07:52:29.720277+00:00`
 - Market context score: `53.33`
 - News risk score: `37.24`
 - Macro risk score: `25.78`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T07:30:00+00:00`
+- Day/swing latest: `2026-10-19T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] France's government under pressure after weekend of widespread violence (BBC News)
 - [macro] Bollywood actor Tiger Shroff survives shooting attempt in Mumbai (BBC News)
 - [macro] People playing loud music on buses could face £100 fine (BBC News)
 - [macro] Watch: Shops looted and restaurants gutted in Paris riots (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Funding shortages force World Food Programme to cut aid to Gaza (BBC News)
 - [crypto] Zoom adds ‘proof of human’ badges to show you’re not a deepfake (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Zcash developers plan a fix to keep ZEC swaps private from future quantum computers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
