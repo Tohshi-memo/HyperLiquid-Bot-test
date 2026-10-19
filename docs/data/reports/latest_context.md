@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T21:22:31.551051+00:00`
-- Market context score: `46.92`
-- News risk score: `42.77`
-- Macro risk score: `33.89`
-- Risk-on score: `30.96`
+- Generated: `2026-10-19T21:37:31.729182+00:00`
+- Market context score: `47.65`
+- News risk score: `42.82`
+- Macro risk score: `33.17`
+- Risk-on score: `32.37`
 - Articles: `53`
 - Polymarket markets: `394`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T21:15:00+00:00`
+- Day/swing latest: `2026-10-19T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `3`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `1`
+- crypto: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `3`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `1`
 
 ## Headlines
 
+- [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [macro] Ex-OpenAI worker accused of planting device had Saudi support, says court filing (BBC News)
 - [macro] Ex-OpenAI worker accused of planting device had Saudi support, says court filing (BBC News)
 - [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
@@ -37,4 +38,3 @@
 - [crypto] Crypto PAC pours $362K into California race voters essentially decided in August (Cointelegraph.com News)
 - [crypto] Tether: Senator's investigation misses positive work that's led to lower Iran volumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Market participants weigh in on SEC’s proposed crypto regulations (Cointelegraph.com News)
