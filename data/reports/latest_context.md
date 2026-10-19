@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T01:52:32.355521+00:00`
-- Market context score: `52.92`
-- News risk score: `37.14`
-- Macro risk score: `27.79`
-- Risk-on score: `37.24`
+- Generated: `2026-10-19T02:07:26.364803+00:00`
+- Market context score: `37.33`
+- News risk score: `46.29`
+- Macro risk score: `30.0`
+- Risk-on score: `11.14`
 - Articles: `27`
 - Polymarket markets: `392`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T01:45:00+00:00`
+- Day/swing latest: `2026-10-19T02:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
+- crypto: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
+- macro: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `0`
 
 ## Headlines
 
+- [macro] China's economic growth picks up as AI boom boosts exports (BBC News)
+- [crypto] Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Bollywood actor Tiger Shroff survives shooting in Mumbai (BBC News)
+- [macro] Australian Greens senator denies claims of misconduct towards women (BBC News)
 - [crypto] Qubic freezes chain after attacker drains 1.4K wallets with weak seeds (Cointelegraph.com News)
 - [macro] People playing loud music on buses could face £100 fine (BBC News)
 - [macro] Inside the shadowy world of anti-Putin sabotage from within Russia (BBC News)
 - [macro] EU tariffs aimed at China hitting Ukraine, steel boss says (BBC News)
 - [macro] EU tariffs aimed at China hitting Ukraine, steel boss says (BBC News)
 - [crypto] SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Don't fall for this - how to protect yourself from AI scams (BBC News)
-- [macro] Don't fall for this - how to protect yourself from AI scams (BBC News)
-- [macro] Trump says suspension of Russia sanctions is to keep peace negotiations going (BBC News)
-- [commodity] Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East (Energy)
