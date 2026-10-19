@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T18:07:32.500997+00:00`
-- Market context score: `51.58`
-- News risk score: `37.18`
-- Macro risk score: `31.21`
-- Risk-on score: `35.59`
-- Articles: `56`
+- Generated: `2026-10-19T18:22:26.008234+00:00`
+- Market context score: `51.55`
+- News risk score: `36.97`
+- Macro risk score: `31.36`
+- Risk-on score: `35.4`
+- Articles: `55`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T18:00:00+00:00`
+- Day/swing latest: `2026-10-19T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `2`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `1`
 
 ## Headlines
 
-- [commodity] Oil prices rise as Ukraine resumes energy strikes and Iran attacks tankers in Middle East (Energy)
+- [commodity] Oil prices rise after Houthi militants claim they attacked Saudi airports and Aramco facilities (Energy)
 - [crypto] Revolut secures Gibraltar crypto license to support global expansion (Cointelegraph.com News)
 - [macro] Kenya cult leader who told parents to starve children guilty of 191 murders (BBC News)
 - [commodity] Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom (Energy)
