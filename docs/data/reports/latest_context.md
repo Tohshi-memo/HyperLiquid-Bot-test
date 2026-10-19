@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T19:37:30.370027+00:00`
+- Generated: `2026-10-19T19:52:33.881639+00:00`
 - Market context score: `48.85`
 - News risk score: `38.8`
 - Macro risk score: `31.98`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T19:30:00+00:00`
+- Day/swing latest: `2026-10-19T19:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [commodity] Google says it can build data centers the right way. Some experts and residents are skeptical (Energy)
+- [commodity] Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom (Energy)
 - [commodity] Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities (Energy)
 - [crypto] Visa, Mesh partner to enable crypto spending at 175M merchant locations (Cointelegraph.com News)
 - [crypto] Mastercard launches stablecoin risk screening for banks and payment providers (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds' (BBC News)
 - [crypto] Revolut secures Gibraltar crypto license to support global expansion (Cointelegraph.com News)
 - [macro] Kenya cult leader who told parents to starve children guilty of 191 murders (BBC News)
-- [commodity] Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom (Energy)
-- [crypto] U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
