@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-19T23:57:58.268457+00:00`
+- Generated: `2026-10-20T00:07:27.809701+00:00`
 - Market context score: `45.96`
 - News risk score: `44.23`
 - Macro risk score: `28.66`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-19T23:45:00+00:00`
+- Day/swing latest: `2026-10-20T00:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] US church on frontline of battle against drug known as 'tranq' (BBC News)
 - [macro] Morocco's first female prime minister caught between the king, clerics, and feminists (BBC News)
 - [macro] Five ways El Niño is affecting the weather around the world (BBC News)
 - [macro] In pictures: Dussehra celebrated across India as triumph of good over evil (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Curfew imposed in parts of central Paris and other cities after rioting across France (BBC News)
 - [macro] Ex-OpenAI worker accused of planting device had Saudi support, says court filing (BBC News)
 - [macro] Ex-OpenAI worker accused of planting device had Saudi support, says court filing (BBC News)
-- [macro] US Church on frontline of battle against drug known as 'tranq' (BBC News)
