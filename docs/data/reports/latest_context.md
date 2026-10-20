@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T23:22:33.023745+00:00`
-- Market context score: `36.31`
-- News risk score: `51.2`
-- Macro risk score: `37.16`
-- Risk-on score: `15.75`
-- Articles: `48`
+- Generated: `2026-10-20T23:37:33.109389+00:00`
+- Market context score: `36.14`
+- News risk score: `50.79`
+- Macro risk score: `36.17`
+- Risk-on score: `14.64`
+- Articles: `45`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T23:15:00+00:00`
+- Day/swing latest: `2026-10-20T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `2`
-- macro: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `3`
+- crypto: articles `21`, risk hits `9`, risk headline rate `0.4286`, policy hits `2`
+- macro: articles `23`, risk hits `9`, risk headline rate `0.3478`, policy hits `2`
 
 ## Headlines
 
-- [macro] The tech helping crack decades-old cold cases (BBC News)
+- [crypto] Qubic restarts blockchain, opens recovery claims after $1.4M hack (Cointelegraph.com News)
 - [macro] Elon Musk says Tesla-SpaceX merger being considered (BBC News)
+- [macro] The tech helping crack decades-old cold cases (BBC News)
 - [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
 - [crypto] Utah AG sues Kalshi, pursues profits from prediction market company (Cointelegraph.com News)
 - [crypto] U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Audit regulator looking into Manchester City accounting (BBC News)
 - [crypto] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops (Cointelegraph.com News)
 - [macro] Trump and Zelensky appear at loggerheads despite Oslo optimism (BBC News)
-- [crypto] Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? (Cointelegraph.com News)
