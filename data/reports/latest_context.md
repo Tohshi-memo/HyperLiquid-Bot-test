@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T21:22:33.218524+00:00`
+- Generated: `2026-10-20T21:37:33.901824+00:00`
 - Market context score: `40.46`
 - News risk score: `50.15`
 - Macro risk score: `37.76`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T21:15:00+00:00`
+- Day/swing latest: `2026-10-20T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
+- [crypto] Utah AG sues Kalshi, pursues profits from prediction market company (Cointelegraph.com News)
 - [crypto] U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Suspect arrested after historic town hall set alight - French media (BBC News)
 - [macro] Audit regulator looking into Manchester City accounting (BBC News)
 - [crypto] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops (Cointelegraph.com News)
-- [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
 - [macro] Trump and Zelensky appear at loggerheads despite Oslo optimism (BBC News)
 - [crypto] Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? (Cointelegraph.com News)
 - [macro] OpenAI CEO Sam Altman wins dismissal of sister's lawsuit (BBC News)
 - [commodity] Oil prices fall as traders hope for diplomatic progress in Middle East (Energy)
-- [macro] Trump sued over Canadian tariffs in latest legal challenge (BBC News)
