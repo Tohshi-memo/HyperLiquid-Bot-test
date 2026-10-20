@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-20T00:00:35.802803+00:00`
+- Generated: `2026-10-20T00:05:37.444102+00:00`
 - Flow alert score: `17.24`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `796021.1473289999` | liquidity: `895644.30208`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `710650.1356409999` | liquidity: `543671.0284`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `660066.910011` | liquidity: `576569.1949`
-- US x Iran ceasefire continues through October 22? | 24h volume: `636689.2676090001` | liquidity: `62329.94731`
-- US x Iran ceasefire continues through October 31? | 24h volume: `616831.799791` | liquidity: `285480.9216`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `450359.785996` | liquidity: `1159055.55131`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `410348.02961900004` | liquidity: `541506.37122`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `286729.183466` | liquidity: `416424.919`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `796021.1473289999` | liquidity: `907990.6221`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `710650.1356409999` | liquidity: `570886.1024`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `660066.910011` | liquidity: `587135.4371`
+- US x Iran ceasefire continues through October 22? | 24h volume: `636689.2676090001` | liquidity: `71303.60352`
+- US x Iran ceasefire continues through October 31? | 24h volume: `616831.799791` | liquidity: `300288.0765`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `450359.785996` | liquidity: `1172893.63133`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `410348.02961900004` | liquidity: `548731.14358`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `286729.183466` | liquidity: `420883.8734`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
