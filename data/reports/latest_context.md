@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T20:37:29.558053+00:00`
-- Market context score: `42.66`
-- News risk score: `47.13`
-- Macro risk score: `36.9`
-- Risk-on score: `26.32`
-- Articles: `56`
+- Generated: `2026-10-20T20:52:40.256136+00:00`
+- Market context score: `41.84`
+- News risk score: `48.44`
+- Macro risk score: `36.85`
+- Risk-on score: `25.59`
+- Articles: `57`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T20:30:00+00:00`
+- Day/swing latest: `2026-10-20T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `8`, risk headline rate `0.2759`, policy hits `3`
+- crypto: articles `30`, risk hits `9`, risk headline rate `0.3`, policy hits `3`
 - macro: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `4`
 
 ## Headlines
 
+- [crypto] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops (Cointelegraph.com News)
 - [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
 - [macro] Trump and Zelensky appear at loggerheads despite Oslo optimism (BBC News)
 - [crypto] Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Trump sued over Canadian tariffs in latest legal challenge (BBC News)
 - [macro] Housing is flashing warning signs just as the Fed weighs more interest rate hikes (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
