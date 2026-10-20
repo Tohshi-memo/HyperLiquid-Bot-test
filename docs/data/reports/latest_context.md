@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T18:22:29.940175+00:00`
-- Market context score: `46.82`
-- News risk score: `42.43`
-- Macro risk score: `32.66`
-- Risk-on score: `30.0`
-- Articles: `52`
+- Generated: `2026-10-20T18:37:29.785758+00:00`
+- Market context score: `46.99`
+- News risk score: `42.3`
+- Macro risk score: `32.62`
+- Risk-on score: `30.25`
+- Articles: `53`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T18:15:00+00:00`
+- Day/swing latest: `2026-10-20T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `7`, risk headline rate `0.2414`, policy hits `2`
+- crypto: articles `30`, risk hits `7`, risk headline rate `0.2333`, policy hits `2`
 - macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `4`
 
 ## Headlines
 
+- [crypto] OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Housing is flashing warning signs just as the Fed weighs more interest rate hikes (Economy)
 - [macro] Google resolves cloud outage affecting UK banks and websites (BBC News)
 - [crypto] Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] 'Great result for Canada', says Carney as Alberta votes to reject separatism (BBC News)
 - [crypto] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets (Cointelegraph.com News)
 - [crypto] Stablecoin transfers quadruple to $891B as US banks expand adoption: Report (Cointelegraph.com News)
-- [crypto] Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform (Cointelegraph.com News)
