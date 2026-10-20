@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T16:37:29.011315+00:00`
-- Market context score: `49.49`
-- News risk score: `39.59`
-- Macro risk score: `26.54`
-- Risk-on score: `31.21`
-- Articles: `50`
+- Generated: `2026-10-20T16:52:42.738066+00:00`
+- Market context score: `49.34`
+- News risk score: `41.01`
+- Macro risk score: `26.51`
+- Risk-on score: `32.08`
+- Articles: `51`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T16:30:00+00:00`
+- Day/swing latest: `2026-10-20T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `1`
+- crypto: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `1`
 - macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Stablecoin transfers quadruple to $891B as US banks expand adoption: Report (Cointelegraph.com News)
 - [crypto] Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform (Cointelegraph.com News)
 - [commodity] Oil prices fall as traders hope for diplomatic progress in Middle East (Energy)
 - [crypto] Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Swimmer, 65, killed in shark attack off South Africa's east coast (BBC News)
 - [macro] Paddy Power cuts 1,400 jobs and blames betting tax rises (BBC News)
 - [macro] Alberta votes overwhelmingly to remain part of Canada (BBC News)
-- [macro] Union attacks NatWest plans to get workers back to the office (BBC News)
