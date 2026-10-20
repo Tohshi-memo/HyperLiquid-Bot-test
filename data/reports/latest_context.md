@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T04:07:25.515474+00:00`
-- Market context score: `42.49`
-- News risk score: `50.08`
-- Macro risk score: `30.47`
-- Risk-on score: `26.0`
-- Articles: `36`
+- Generated: `2026-10-20T04:22:30.515566+00:00`
+- Market context score: `42.25`
+- News risk score: `50.76`
+- Macro risk score: `28.49`
+- Risk-on score: `25.3`
+- Articles: `35`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T04:00:00+00:00`
+- Day/swing latest: `2026-10-20T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `2`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `3`
+- crypto: articles `13`, risk hits `7`, risk headline rate `0.5385`, policy hits `2`
+- macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `2`
 
 ## Headlines
 
+- [crypto] US bans DeepSeek from civilian agency IT systems (Cointelegraph.com News)
 - [macro] 'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car (BBC News)
 - [macro] Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds' (BBC News)
 - [crypto] Bitcoin rally could revive treasury buying, but easy-money days over (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] In pictures: Dussehra celebrated across India as triumph of good over evil (BBC News)
 - [macro] 'I'm fed up of swiping': Why singles now want to meet IRL (BBC News)
 - [macro] Clean up begins after French riots but police remain (BBC News)
-- [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
