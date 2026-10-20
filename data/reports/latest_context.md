@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T17:22:32.381278+00:00`
+- Generated: `2026-10-20T17:37:40.441004+00:00`
 - Market context score: `49.95`
 - News risk score: `39.7`
 - Macro risk score: `28.29`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T17:15:00+00:00`
+- Day/swing latest: `2026-10-20T17:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Sudan army drones hit mourners and fuel market killing more than 300 people, sources say (BBC News)
 - [crypto] The Coinbase allegations expose Bitcoin's corporate governance gap (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Great result for Canada', says Carney as Alberta votes to reject separatism (BBC News)
 - [crypto] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [commodity] Oil prices fall as traders hope for diplomatic progress in Middle East (Energy)
 - [crypto] Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls (Cointelegraph.com News)
 - [macro] Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence (BBC News)
-- [macro] Sudan army drones hit mourners and fuel market killing more than 300 people, sources say (BBC News)
 - [macro] Suspect arrested after historic town hall set alight - French media (BBC News)
