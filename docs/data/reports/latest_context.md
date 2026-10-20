@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T19:07:31.723185+00:00`
-- Market context score: `46.99`
-- News risk score: `42.3`
-- Macro risk score: `32.62`
+- Generated: `2026-10-20T19:22:32.790379+00:00`
+- Market context score: `46.81`
+- News risk score: `42.58`
+- Macro risk score: `33.09`
 - Risk-on score: `30.25`
 - Articles: `53`
 - Polymarket markets: `392`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T19:00:00+00:00`
+- Day/swing latest: `2026-10-20T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `30`, risk hits `7`, risk headline rate `0.2333`, policy hits `2`
+- crypto: articles `30`, risk hits `7`, risk headline rate `0.2333`, policy hits `3`
 - macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `4`
 
 ## Headlines
 
-- [crypto] OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Housing is flashing warning signs just as the Fed weighs more interest rate hikes (Economy)
+- [crypto] OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Google resolves cloud outage affecting UK banks and websites (BBC News)
 - [crypto] Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified (Cointelegraph.com News)
 - [macro] UK government to make Jackdaw gas field announcement (BBC News)
