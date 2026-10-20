@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T14:31:44.047114+00:00`
-- Market context score: `47.69`
-- News risk score: `40.22`
-- Macro risk score: `27.92`
-- Risk-on score: `28.27`
-- Articles: `46`
+- Generated: `2026-10-20T14:42:49.385341+00:00`
+- Market context score: `48.75`
+- News risk score: `38.54`
+- Macro risk score: `25.02`
+- Risk-on score: `28.11`
+- Articles: `47`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,13 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `1`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `2`
+- crypto: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `1`
+- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `2`
 
 ## Headlines
 
+- [crypto] BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Sudan army drones hit mourners and fuel market killing more than 200 people, sources say (BBC News)
 - [macro] Paddy Power cuts 1,400 jobs and blames betting tax rises (BBC News)
 - [macro] Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say (BBC News)
 - [macro] Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Kenya cult leader's children still being starved weeks before trial, son says (BBC News)
 - [commodity] U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions (Energy)
 - [crypto] FINMA approves Switzerland’s first Bitcoin ETF for retail investors (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Suspect arrested after historic town hall set alight - French media (BBC News)
