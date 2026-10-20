@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-20T15:05:35.720106+00:00`
+- Generated: `2026-10-20T15:10:31.518726+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8381824.32`
-- Polymarket volume z-score: `-0.34`
+- Polymarket 24h volume: `8507258.12`
+- Polymarket volume z-score: `-0.29`
 
 ## Top Polymarket Markets
 
-- US x Iran ceasefire continues through October 22? | 24h volume: `838295.397542` | liquidity: `171112.19046`
-- US x Iran ceasefire continues through October 31? | 24h volume: `650809.2331020001` | liquidity: `247612.8076`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `403767.9149560001` | liquidity: `449766.4851`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `390977.94690100005` | liquidity: `613756.5543`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `384610.1976409999` | liquidity: `510610.97564`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `293568.92849400005` | liquidity: `3310733.4473`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `290741.98469400004` | liquidity: `697124.998`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `257321.26466199997` | liquidity: `1249320.20456`
+- US x Iran ceasefire continues through October 22? | 24h volume: `844715.8009409999` | liquidity: `170025.57944`
+- US x Iran ceasefire continues through October 31? | 24h volume: `679430.2031019998` | liquidity: `90645.8541`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `410270.652093` | liquidity: `473209.9429`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `402449.05588799994` | liquidity: `619810.6868`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `391247.857478` | liquidity: `519945.98662`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `293568.928494` | liquidity: `3344884.4154`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `293075.09664999996` | liquidity: `704097.3283`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `257831.264662` | liquidity: `1247880.65813`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
