@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T07:22:27.937131+00:00`
+- Generated: `2026-10-20T07:37:26.463836+00:00`
 - Market context score: `44.33`
 - News risk score: `50.76`
 - Macro risk score: `26.94`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T07:15:00+00:00`
+- Day/swing latest: `2026-10-20T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Job vacancies fall as small firms cut back on recruitment (BBC News)
 - [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [macro] Chancellor rejects calls to raise Capital Gains Tax in Budget (BBC News)
-- [macro] Job vacancies fall as small firms cut back on recruitment (BBC News)
 - [macro] French cities calm overnight after curfews imposed to quell violence, PM says (BBC News)
 - [crypto] US Bitcoin ETFs draw $527M in biggest showing since September (Cointelegraph.com News)
 - [crypto] Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown (Cointelegraph.com News)
