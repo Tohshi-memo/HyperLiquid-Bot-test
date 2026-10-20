@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T22:37:29.550319+00:00`
+- Generated: `2026-10-20T22:52:39.236421+00:00`
 - Market context score: `38.92`
 - News risk score: `50.2`
 - Macro risk score: `38.5`
 - Risk-on score: `21.2`
 - Articles: `50`
-- Polymarket markets: `394`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T22:30:00+00:00`
+- Day/swing latest: `2026-10-20T22:45:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Elon Musk says Tesla-SpaceX merger would be a 'good idea' (BBC News)
+- [macro] Elon Musk says Tesla-SpaceX merger being considered (BBC News)
 - [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
 - [crypto] Utah AG sues Kalshi, pursues profits from prediction market company (Cointelegraph.com News)
 - [crypto] U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
