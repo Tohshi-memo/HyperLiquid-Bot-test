@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T17:53:12.397425+00:00`
-- Market context score: `49.67`
-- News risk score: `39.84`
-- Macro risk score: `29.04`
-- Risk-on score: `32.76`
-- Articles: `49`
+- Generated: `2026-10-20T18:07:33.867249+00:00`
+- Market context score: `46.82`
+- News risk score: `42.43`
+- Macro risk score: `32.66`
+- Risk-on score: `30.0`
+- Articles: `52`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T17:45:00+00:00`
+- Day/swing latest: `2026-10-20T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `7`, risk headline rate `0.2414`, policy hits `2`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `2`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `4`
 
 ## Headlines
 
+- [macro] Housing is flashing warning signs just as the Fed weighs more interest rate hikes (Economy)
+- [macro] Google resolves cloud outage affecting UK banks and websites (BBC News)
 - [crypto] Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified (Cointelegraph.com News)
+- [macro] UK government to make Jackdaw gas field announcement (BBC News)
 - [macro] Sudan army drones hit mourners and fuel market killing more than 300 people, sources say (BBC News)
 - [crypto] The Coinbase allegations expose Bitcoin's corporate governance gap (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'Great result for Canada', says Carney as Alberta votes to reject separatism (BBC News)
 - [crypto] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets (Cointelegraph.com News)
 - [crypto] Stablecoin transfers quadruple to $891B as US banks expand adoption: Report (Cointelegraph.com News)
 - [crypto] Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform (Cointelegraph.com News)
-- [commodity] Oil prices fall as traders hope for diplomatic progress in Middle East (Energy)
-- [crypto] Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls (Cointelegraph.com News)
-- [macro] Suspect arrested after historic town hall set alight - French media (BBC News)
