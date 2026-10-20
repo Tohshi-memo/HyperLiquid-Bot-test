@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T08:22:30.476264+00:00`
-- Market context score: `43.03`
-- News risk score: `55.6`
-- Macro risk score: `26.48`
-- Risk-on score: `30.36`
-- Articles: `28`
+- Generated: `2026-10-20T08:37:32.166376+00:00`
+- Market context score: `47.39`
+- News risk score: `49.87`
+- Macro risk score: `23.63`
+- Risk-on score: `34.13`
+- Articles: `29`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T08:15:00+00:00`
+- Day/swing latest: `2026-10-20T08:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `6`, risk hits `4`, risk headline rate `0.6667`, policy hits `2`
-- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `2`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `2`
+- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `2`
 
 ## Headlines
 
+- [macro] What is the Budget and what could be in it? (BBC News)
+- [crypto] Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] BlackRock files for third Bitcoin ETF, still no Solana or XRP (Cointelegraph.com News)
 - [macro] Chancellor rejects calls to raise Capital Gains Tax in Budget (BBC News)
 - [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [macro] Job vacancies fall as small firms cut back on recruitment (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] US Bitcoin ETFs draw $527M in biggest showing since September (Cointelegraph.com News)
 - [crypto] Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown (Cointelegraph.com News)
 - [macro] How is the US economy really doing under President Trump? (BBC News)
-- [macro] How is the US economy really doing under President Trump? (BBC News)
-- [crypto] US bans DeepSeek from civilian agency IT systems (Cointelegraph.com News)
-- [macro] Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure (BBC News)
