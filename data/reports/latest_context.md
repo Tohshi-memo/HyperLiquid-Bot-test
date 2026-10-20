@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T21:52:31.436070+00:00`
-- Market context score: `40.46`
-- News risk score: `50.15`
-- Macro risk score: `37.76`
-- Risk-on score: `24.31`
-- Articles: `56`
+- Generated: `2026-10-20T21:56:56.810326+00:00`
+- Market context score: `40.82`
+- News risk score: `49.94`
+- Macro risk score: `36.85`
+- Risk-on score: `24.59`
+- Articles: `57`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `10`, risk headline rate `0.3333`, policy hits `3`
-- macro: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `4`
+- macro: articles `26`, risk hits `10`, risk headline rate `0.3462`, policy hits `4`
 
 ## Headlines
 
+- [macro] Elon Musk says Tesla-SpaceX merger would be a 'good idea' (BBC News)
 - [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
 - [crypto] Utah AG sues Kalshi, pursues profits from prediction market company (Cointelegraph.com News)
 - [crypto] U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Trump and Zelensky appear at loggerheads despite Oslo optimism (BBC News)
 - [crypto] Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? (Cointelegraph.com News)
 - [macro] OpenAI CEO Sam Altman wins dismissal of sister's lawsuit (BBC News)
-- [commodity] Oil prices fall as traders hope for diplomatic progress in Middle East (Energy)
