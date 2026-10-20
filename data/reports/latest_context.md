@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T06:22:26.484307+00:00`
-- Market context score: `41.97`
-- News risk score: `49.94`
-- Macro risk score: `26.24`
-- Risk-on score: `23.12`
-- Articles: `37`
+- Generated: `2026-10-20T06:37:34.421143+00:00`
+- Market context score: `42.45`
+- News risk score: `50.21`
+- Macro risk score: `26.78`
+- Risk-on score: `24.64`
+- Articles: `36`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T06:15:00+00:00`
+- Day/swing latest: `2026-10-20T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `11`, risk hits `6`, risk headline rate `0.5455`, policy hits `2`
-- macro: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `2`
+- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `2`
 
 ## Headlines
 
 - [macro] Job vacancies fall as small firms cut back on recruitment (BBC News)
+- [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [macro] Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say (BBC News)
 - [crypto] US Bitcoin ETFs draw $527M in biggest showing since September (Cointelegraph.com News)
 - [crypto] Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] US bans DeepSeek from civilian agency IT systems (Cointelegraph.com News)
 - [macro] Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure (BBC News)
 - [macro] 'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car (BBC News)
-- [macro] Seventh day of violent clashes between Albanian protesters and police (BBC News)
