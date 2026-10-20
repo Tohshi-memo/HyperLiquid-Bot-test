@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T13:37:37.704534+00:00`
-- Market context score: `48.05`
-- News risk score: `38.64`
-- Macro risk score: `27.95`
-- Risk-on score: `27.74`
-- Articles: `45`
+- Generated: `2026-10-20T13:52:29.389553+00:00`
+- Market context score: `47.05`
+- News risk score: `40.22`
+- Macro risk score: `27.92`
+- Risk-on score: `26.84`
+- Articles: `46`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T13:30:00+00:00`
+- Day/swing latest: `2026-10-20T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `1`
 - macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `2`
 
 ## Headlines
 
+- [macro] Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence (BBC News)
 - [crypto] Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Agents can trade 24/7 — but Yat Siu warns you could lose access at any time (Cointelegraph.com News)
 - [macro] Kenya cult leader's children still being starved weeks before trial, son says (BBC News)
 - [commodity] U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions (Energy)
 - [macro] Paddy Power cuts 1,400 jobs and blames betting tax rises (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Suspect arrested after historic town hall set alight - French media (BBC News)
 - [crypto] Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Drift exploiter sends $61M ETH to Tornado Cash, holds $194M (Cointelegraph.com News)
-- [macro] Bereaved families could face 'unjust' tax bill after civil service pension delays (BBC News)
