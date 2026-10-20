@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T06:37:34.421143+00:00`
+- Generated: `2026-10-20T06:52:26.340697+00:00`
 - Market context score: `42.45`
 - News risk score: `50.21`
 - Macro risk score: `26.78`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T06:30:00+00:00`
+- Day/swing latest: `2026-10-20T06:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
-- [macro] Job vacancies fall as small firms cut back on recruitment (BBC News)
-- [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [macro] Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say (BBC News)
+- [macro] Job vacancies fall as small firms cut back on recruitment (BBC News)
+- [macro] French cities calm overnight after curfews imposed to quell violence, PM says (BBC News)
+- [macro] Burnham vows end to 'rip-off parking charges' under new rules (BBC News)
 - [crypto] US Bitcoin ETFs draw $527M in biggest showing since September (Cointelegraph.com News)
 - [crypto] Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown (Cointelegraph.com News)
 - [macro] How is the US economy really doing under President Trump? (BBC News)
 - [macro] How is the US economy really doing under President Trump? (BBC News)
 - [crypto] US bans DeepSeek from civilian agency IT systems (Cointelegraph.com News)
 - [macro] Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure (BBC News)
-- [macro] 'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car (BBC News)
