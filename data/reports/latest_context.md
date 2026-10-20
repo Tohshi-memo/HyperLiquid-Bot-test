@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T19:37:37.345362+00:00`
-- Market context score: `45.84`
-- News risk score: `43.67`
-- Macro risk score: `34.78`
-- Risk-on score: `29.67`
-- Articles: `54`
+- Generated: `2026-10-20T19:52:28.866566+00:00`
+- Market context score: `43.52`
+- News risk score: `45.65`
+- Macro risk score: `37.76`
+- Risk-on score: `27.31`
+- Articles: `56`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T19:30:00+00:00`
+- Day/swing latest: `2026-10-20T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `30`, risk hits `7`, risk headline rate `0.2333`, policy hits `3`
-- macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `4`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `4`
 
 ## Headlines
 
+- [macro] OpenAI CEO Sam Altman wins dismissal of sister's lawsuit (BBC News)
+- [commodity] Oil prices fall as traders hope for diplomatic progress in Middle East (Energy)
+- [macro] Trump sued over Canadian tariffs in latest legal challenge (BBC News)
 - [macro] Trump sued over Canadian tariffs in latest legal challenge (BBC News)
 - [macro] Housing is flashing warning signs just as the Fed weighs more interest rate hikes (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -35,6 +38,3 @@
 - [macro] Google resolves cloud outage affecting UK banks and websites (BBC News)
 - [crypto] Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified (Cointelegraph.com News)
 - [macro] UK government to make Jackdaw gas field announcement (BBC News)
-- [macro] Sudan army drones hit mourners and fuel market killing more than 300 people, sources say (BBC News)
-- [crypto] The Coinbase allegations expose Bitcoin's corporate governance gap (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] 'Great result for Canada', says Carney as Alberta votes to reject separatism (BBC News)
