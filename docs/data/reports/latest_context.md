@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T23:07:30.216813+00:00`
-- Market context score: `38.92`
-- News risk score: `50.2`
-- Macro risk score: `38.5`
-- Risk-on score: `21.2`
-- Articles: `50`
+- Generated: `2026-10-20T23:22:33.023745+00:00`
+- Market context score: `36.31`
+- News risk score: `51.2`
+- Macro risk score: `37.16`
+- Risk-on score: `15.75`
+- Articles: `48`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T23:00:00+00:00`
+- Day/swing latest: `2026-10-20T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.36`, policy hits `3`
-- macro: articles `24`, risk hits `10`, risk headline rate `0.375`, policy hits `3`
+- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `2`
+- macro: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `3`
 
 ## Headlines
 
+- [macro] The tech helping crack decades-old cold cases (BBC News)
 - [macro] Elon Musk says Tesla-SpaceX merger being considered (BBC News)
 - [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
 - [crypto] Utah AG sues Kalshi, pursues profits from prediction market company (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops (Cointelegraph.com News)
 - [macro] Trump and Zelensky appear at loggerheads despite Oslo optimism (BBC News)
 - [crypto] Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? (Cointelegraph.com News)
-- [macro] OpenAI CEO Sam Altman wins dismissal of sister's lawsuit (BBC News)
