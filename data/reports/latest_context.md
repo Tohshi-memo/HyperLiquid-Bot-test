@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T05:37:34.199238+00:00`
-- Market context score: `38.18`
-- News risk score: `53.91`
-- Macro risk score: `29.26`
-- Risk-on score: `19.2`
-- Articles: `35`
+- Generated: `2026-10-20T05:52:29.631518+00:00`
+- Market context score: `38.49`
+- News risk score: `53.59`
+- Macro risk score: `28.62`
+- Risk-on score: `19.38`
+- Articles: `36`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T05:30:00+00:00`
+- Day/swing latest: `2026-10-20T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `10`, risk hits `6`, risk headline rate `0.6`, policy hits `2`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `2`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `2`
 
 ## Headlines
 
 - [crypto] Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown (Cointelegraph.com News)
+- [macro] How is the US economy really doing under President Trump? (BBC News)
 - [macro] How is the US economy really doing under President Trump? (BBC News)
 - [crypto] US bans DeepSeek from civilian agency IT systems (Cointelegraph.com News)
 - [macro] Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds' (BBC News)
 - [crypto] Bitcoin rally could revive treasury buying, but easy-money days over (Cointelegraph.com News)
 - [macro] Chancellor rejects calls to raise Capital Gains Tax in Budget (BBC News)
-- [macro] US church on frontline of battle against drug known as 'tranq' (BBC News)
