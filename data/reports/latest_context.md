@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-20T21:07:38.672664+00:00`
-- Market context score: `41.24`
-- News risk score: `48.89`
-- Macro risk score: `37.8`
-- Risk-on score: `25.0`
-- Articles: `55`
+- Generated: `2026-10-20T21:22:33.218524+00:00`
+- Market context score: `40.46`
+- News risk score: `50.15`
+- Macro risk score: `37.76`
+- Risk-on score: `24.31`
+- Articles: `56`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-20T21:00:00+00:00`
+- Day/swing latest: `2026-10-20T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `9`, risk headline rate `0.3103`, policy hits `3`
+- crypto: articles `30`, risk hits `10`, risk headline rate `0.3333`, policy hits `3`
 - macro: articles `25`, risk hits `10`, risk headline rate `0.36`, policy hits `4`
 
 ## Headlines
 
+- [crypto] U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Suspect arrested after historic town hall set alight - French media (BBC News)
 - [macro] Audit regulator looking into Manchester City accounting (BBC News)
 - [crypto] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [crypto] Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? (Cointelegraph.com News)
 - [macro] OpenAI CEO Sam Altman wins dismissal of sister's lawsuit (BBC News)
 - [commodity] Oil prices fall as traders hope for diplomatic progress in Middle East (Energy)
-- [macro] Trump sued over Canadian tariffs in latest legal challenge (BBC News)
 - [macro] Trump sued over Canadian tariffs in latest legal challenge (BBC News)
