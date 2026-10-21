@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T00:22:28.637941+00:00`
-- Market context score: `38.45`
-- News risk score: `48.71`
-- Macro risk score: `33.6`
-- Risk-on score: `17.05`
-- Articles: `47`
+- Generated: `2026-10-21T00:35:03.067115+00:00`
+- Market context score: `37.89`
+- News risk score: `49.43`
+- Macro risk score: `33.63`
+- Risk-on score: `16.42`
+- Articles: `46`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T00:15:00+00:00`
+- Day/swing latest: `2026-10-21T00:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `8`, risk headline rate `0.4`, policy hits `2`
+- crypto: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `2`
 - macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `2`
 
 ## Headlines
 
-- [macro] Borneo is burning - living on the frontline of Asia's toxic haze (BBC News)
+- [macro] Borneo burning: Life on the frontline of South East Asia's toxic haze (BBC News)
 - [macro] Is Ebola under control in Kenya after nine cases confirmed? (BBC News)
 - [crypto] Qubic restarts blockchain, opens recovery claims after $1.4M hack (Cointelegraph.com News)
 - [macro] Elon Musk says Tesla-SpaceX merger being considered (BBC News)
