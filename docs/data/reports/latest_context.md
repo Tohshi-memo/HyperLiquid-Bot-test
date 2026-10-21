@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T01:22:30.319210+00:00`
-- Market context score: `40.2`
-- News risk score: `49.48`
-- Macro risk score: `33.74`
-- Risk-on score: `21.64`
-- Articles: `43`
-- Polymarket markets: `394`
+- Generated: `2026-10-21T01:37:28.553835+00:00`
+- Market context score: `41.42`
+- News risk score: `47.57`
+- Macro risk score: `33.79`
+- Risk-on score: `22.76`
+- Articles: `42`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T01:15:00+00:00`
+- Day/swing latest: `2026-10-21T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `2`
+- crypto: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `2`
 - macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `2`
 
 ## Headlines
 
+- [macro] France is divided over who to blame for and what to learn from weekend riots (BBC News)
+- [crypto] Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold (Cointelegraph.com News)
 - [macro] Car buyers are demanding lower prices and better tech. Automakers must deliver both (Economy)
 - [macro] Borneo burning: Life on the frontline of South East Asia's toxic haze (BBC News)
 - [macro] Is Ebola under control in Kenya after nine cases confirmed? (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Elon Musk says Tesla-SpaceX merger being considered (BBC News)
 - [macro] Is Donald Trump ready to do business with Myanmar? (BBC News)
 - [macro] The tech helping crack decades-old cold cases (BBC News)
-- [macro] Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump (BBC News)
-- [macro] Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo (BBC News)
