@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T15:29:06.362693+00:00`
-- Market context score: `41.15`
-- News risk score: `44.62`
-- Macro risk score: `39.67`
-- Risk-on score: `21.88`
-- Articles: `52`
-- Polymarket markets: `0`
+- Generated: `2026-10-21T19:34:24.859684+00:00`
+- Market context score: `42.83`
+- News risk score: `44.63`
+- Macro risk score: `41.83`
+- Risk-on score: `26.45`
+- Articles: `53`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T15:15:00+00:00`
+- Day/swing latest: `2026-10-21T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `33`, risk hits `8`, risk headline rate `0.2121`, policy hits `2`
-- macro: articles `18`, risk hits `10`, risk headline rate `0.3889`, policy hits `4`
+- crypto: articles `33`, risk hits `10`, risk headline rate `0.1818`, policy hits `3`
+- macro: articles `19`, risk hits `11`, risk headline rate `0.4211`, policy hits `4`
 
 ## Headlines
 
-- [crypto] Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat (Cointelegraph.com News)
-- [crypto] Bybit will look for big broker partnerships to take on Robinhood in the U.S. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Civil servant admits he 'made mistakes' juggling five government jobs (BBC News)
-- [macro] Macron accuses foreign leaders of exploiting French riots (BBC News)
-- [crypto] Solana’s Alpenglow launches on mainnet, targets 99% faster finality (Cointelegraph.com News)
-- [macro] US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin (BBC News)
-- [macro] Family of prison officer killed by IRA receives state apology (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns (Cointelegraph.com News)
+- [macro] Meta fined $25bn for 'lies' over user data privacy (BBC News)
+- [macro] Meta fined $25bn for 'lies' over user data privacy (BBC News)
+- [macro] India 'cockroach' leaders who called on election chief to quit are freed from jail (BBC News)
+- [macro] 'Targeted' attack on much-loved MP leaves Australian town heartbroken (BBC News)
+- [crypto] Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking (Cointelegraph.com News)
+- [macro] Russia says it is ready to resume talks with Ukraine and US to end war (BBC News)
+- [commodity] How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier (Energy)
+- [crypto] UK financial watchdog opens consultations for DeFi guidance, crypto laws (Cointelegraph.com News)
+- [crypto] Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform (Cointelegraph.com News)
+- [macro] Burnham proposes plan to cut standing charges from gas bills (BBC News)
