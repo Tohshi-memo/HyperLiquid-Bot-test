@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T04:22:31.684929+00:00`
+- Generated: `2026-10-21T04:37:27.148714+00:00`
 - Market context score: `44.61`
 - News risk score: `45.01`
 - Macro risk score: `29.63`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T04:15:00+00:00`
+- Day/swing latest: `2026-10-21T04:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] A company that vouches for websites had secret keys so weak that 8 of them were cracked (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Car buyers are demanding lower prices and better tech. Automakers must deliver both (Economy)
 - [macro] Borneo burning: Life on the frontline of South East Asia's toxic haze (BBC News)
 - [macro] Is Ebola under control in Kenya after nine cases confirmed? (BBC News)
-- [crypto] Qubic restarts blockchain, opens recovery claims after $1.4M hack (Cointelegraph.com News)
