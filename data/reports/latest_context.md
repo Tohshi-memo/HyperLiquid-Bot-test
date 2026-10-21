@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T06:07:29.963972+00:00`
-- Market context score: `36.76`
-- News risk score: `51.25`
-- Macro risk score: `33.12`
-- Risk-on score: `15.27`
-- Articles: `39`
+- Generated: `2026-10-21T06:22:28.160119+00:00`
+- Market context score: `35.73`
+- News risk score: `52.38`
+- Macro risk score: `35.27`
+- Risk-on score: `14.74`
+- Articles: `40`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T06:00:00+00:00`
+- Day/swing latest: `2026-10-21T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `7`, risk headline rate `0.5`, policy hits `2`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `2`
+- macro: articles `24`, risk hits `9`, risk headline rate `0.2917`, policy hits `3`
 
 ## Headlines
 
+- [macro] UK inflation jumps to 3.5% — cementing rate hike expectations (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Malaysia central bank launches DLT platform for tokenized bonds (Cointelegraph.com News)
 - [macro] Elon Musk considering Tesla-SpaceX merger (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Tech giants rush to block 8 eMudhra certs that could enable fake sites (Cointelegraph.com News)
 - [commodity] U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant (Energy)
 - [crypto] Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Why does Elon Musk want to merge Tesla and SpaceX? (BBC News)
