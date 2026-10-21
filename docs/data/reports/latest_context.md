@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T02:52:32.360361+00:00`
-- Market context score: `42.8`
-- News risk score: `47.22`
-- Macro risk score: `31.47`
-- Risk-on score: `24.64`
-- Articles: `38`
+- Generated: `2026-10-21T03:07:29.665754+00:00`
+- Market context score: `43.17`
+- News risk score: `46.84`
+- Macro risk score: `30.72`
+- Risk-on score: `24.88`
+- Articles: `39`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T02:45:00+00:00`
+- Day/swing latest: `2026-10-21T03:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `2`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `2`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [macro] Haitian migrants changed this US town - Trump's deportation drive is reshaping it again (BBC News)
 - [macro] France is divided over who to blame for and what to learn from weekend riots (BBC News)
 - [crypto] Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold (Cointelegraph.com News)
 - [macro] Car buyers are demanding lower prices and better tech. Automakers must deliver both (Economy)
@@ -37,4 +38,3 @@
 - [macro] Elon Musk says Tesla-SpaceX merger being considered (BBC News)
 - [macro] Elon Musk says Tesla-SpaceX merger being considered (BBC News)
 - [macro] Is Donald Trump ready to do business with Myanmar? (BBC News)
-- [macro] The tech helping crack decades-old cold cases (BBC News)
