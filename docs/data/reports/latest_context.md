@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T05:22:32.242532+00:00`
-- Market context score: `41.36`
-- News risk score: `45.96`
-- Macro risk score: `30.15`
-- Risk-on score: `19.9`
-- Articles: `37`
+- Generated: `2026-10-21T05:37:27.007209+00:00`
+- Market context score: `39.17`
+- News risk score: `48.77`
+- Macro risk score: `31.74`
+- Risk-on score: `18.0`
+- Articles: `39`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T05:15:00+00:00`
+- Day/swing latest: `2026-10-21T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.4167`, policy hits `1`
-- macro: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `2`
+- crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tech giants rush to block 8 eMudhra certs that could enable fake sites (Cointelegraph.com News)
 - [commodity] U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant (Energy)
 - [macro] UK government expected to approve Jackdaw gas field (BBC News)
 - [crypto] Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Why does Elon Musk want to merge Tesla and SpaceX? (BBC News)
+- [macro] Why does Elon Musk want to merge Tesla and SpaceX? (BBC News)
 - [crypto] A company that vouches for websites had secret keys so weak that 8 of them were cracked (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' (BBC News)
-- [macro] Haitian migrants changed this US town - Trump's deportation drive is reshaping it again (BBC News)
-- [macro] France is divided over who to blame for weekend riots and what to learn from them (BBC News)
