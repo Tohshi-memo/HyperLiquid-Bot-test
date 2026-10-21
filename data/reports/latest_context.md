@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T04:37:27.148714+00:00`
-- Market context score: `44.61`
-- News risk score: `45.01`
-- Macro risk score: `29.63`
-- Risk-on score: `26.12`
+- Generated: `2026-10-21T04:52:27.920650+00:00`
+- Market context score: `42.1`
+- News risk score: `44.89`
+- Macro risk score: `30.77`
+- Risk-on score: `20.86`
 - Articles: `38`
-- Polymarket markets: `395`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T04:30:00+00:00`
+- Day/swing latest: `2026-10-21T04:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `2`
-- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `2`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `2`
+- macro: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `2`
 
 ## Headlines
 
+- [commodity] U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant (Energy)
+- [macro] UK government expected to approve Jackdaw gas field (BBC News)
 - [crypto] Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Why does Elon Musk want to merge Tesla and SpaceX? (BBC News)
 - [crypto] A company that vouches for websites had secret keys so weak that 8 of them were cracked (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' (BBC News)
 - [macro] Haitian migrants changed this US town - Trump's deportation drive is reshaping it again (BBC News)
 - [macro] France is divided over who to blame for weekend riots and what to learn from them (BBC News)
 - [crypto] Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold (Cointelegraph.com News)
-- [macro] Car buyers are demanding lower prices and better tech. Automakers must deliver both (Economy)
-- [macro] Borneo burning: Life on the frontline of South East Asia's toxic haze (BBC News)
-- [macro] Is Ebola under control in Kenya after nine cases confirmed? (BBC News)
