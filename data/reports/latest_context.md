@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T10:21:57.672890+00:00`
-- Market context score: `43.07`
-- News risk score: `41.18`
-- Macro risk score: `32.21`
-- Risk-on score: `20.43`
-- Articles: `34`
-- Polymarket markets: `396`
+- Generated: `2026-10-21T15:29:06.362693+00:00`
+- Market context score: `41.15`
+- News risk score: `44.62`
+- Macro risk score: `39.67`
+- Risk-on score: `21.88`
+- Articles: `52`
+- Polymarket markets: `0`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T10:15:00+00:00`
+- Day/swing latest: `2026-10-21T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `1`
-- macro: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `2`
+- crypto: articles `33`, risk hits `8`, risk headline rate `0.2121`, policy hits `2`
+- macro: articles `18`, risk hits `10`, risk headline rate `0.3889`, policy hits `4`
 
 ## Headlines
 
-- [macro] Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge (BBC News)
-- [macro] Inflation and government borrowing highest for a year ahead of next week's Budget (BBC News)
-- [crypto] SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russia frees US citizen Stephen Hubbard, state media reports (BBC News)
-- [crypto] Monero futures are again heating with leverage, raising volatility risks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tether leads $15 million funding round for AI-focused payment startup Mural (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Elon Musk confirms he is considering merging Tesla and SpaceX (BBC News)
-- [macro] Elon Musk confirms he is considering merging Tesla and SpaceX (BBC News)
-- [macro] What is happening to UK prices? (BBC News)
-- [macro] Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion (BBC News)
+- [crypto] Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat (Cointelegraph.com News)
+- [crypto] Bybit will look for big broker partnerships to take on Robinhood in the U.S. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Civil servant admits he 'made mistakes' juggling five government jobs (BBC News)
+- [macro] Macron accuses foreign leaders of exploiting French riots (BBC News)
+- [crypto] Solana’s Alpenglow launches on mainnet, targets 99% faster finality (Cointelegraph.com News)
+- [macro] US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin (BBC News)
+- [macro] Family of prison officer killed by IRA receives state apology (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns (Cointelegraph.com News)
