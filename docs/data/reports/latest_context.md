@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T05:18:31.713893+00:00`
+- Generated: `2026-10-21T05:22:32.242532+00:00`
 - Market context score: `41.36`
 - News risk score: `45.96`
 - Macro risk score: `30.15`
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Tech giants rush to block 8 eMudhra certs that could enable fake sites (Cointelegraph.com News)
 - [commodity] U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant (Energy)
 - [macro] UK government expected to approve Jackdaw gas field (BBC News)
 - [crypto] Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' (BBC News)
 - [macro] Haitian migrants changed this US town - Trump's deportation drive is reshaping it again (BBC News)
 - [macro] France is divided over who to blame for weekend riots and what to learn from them (BBC News)
-- [crypto] Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold (Cointelegraph.com News)
