@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T05:37:27.007209+00:00`
-- Market context score: `39.17`
-- News risk score: `48.77`
-- Macro risk score: `31.74`
-- Risk-on score: `18.0`
-- Articles: `39`
+- Generated: `2026-10-21T05:52:27.960324+00:00`
+- Market context score: `37.98`
+- News risk score: `50.52`
+- Macro risk score: `31.78`
+- Risk-on score: `16.85`
+- Articles: `38`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T05:30:00+00:00`
+- Day/swing latest: `2026-10-21T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
+- crypto: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
 - macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `2`
 
 ## Headlines
 
+- [macro] Elon Musk considering Tesla-SpaceX merger (BBC News)
+- [macro] Elon Musk considering Tesla-SpaceX merger (BBC News)
 - [crypto] Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tech giants rush to block 8 eMudhra certs that could enable fake sites (Cointelegraph.com News)
 - [commodity] U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant (Energy)
@@ -36,5 +38,3 @@
 - [macro] Why does Elon Musk want to merge Tesla and SpaceX? (BBC News)
 - [macro] Why does Elon Musk want to merge Tesla and SpaceX? (BBC News)
 - [crypto] A company that vouches for websites had secret keys so weak that 8 of them were cracked (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' (BBC News)
