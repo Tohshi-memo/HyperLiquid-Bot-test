@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T06:37:30.995734+00:00`
+- Generated: `2026-10-21T06:52:25.890269+00:00`
 - Market context score: `34.79`
 - News risk score: `53.77`
 - Macro risk score: `34.69`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T06:30:00+00:00`
+- Day/swing latest: `2026-10-21T06:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Katya Adler: France divided over who to blame for riots and what to learn from them (BBC News)
+- [macro] US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now' (BBC News)
 - [macro] Elon Musk says merging Tesla and SpaceX is a good idea. Why? (BBC News)
 - [macro] Elon Musk says merging Tesla and SpaceX is a good idea. Why? (BBC News)
 - [macro] UK inflation jumps to 3.5% — cementing rate hike expectations (Economy)
@@ -36,5 +38,3 @@
 - [macro] Elon Musk considering Tesla-SpaceX merger (BBC News)
 - [macro] Elon Musk considering Tesla-SpaceX merger (BBC News)
 - [macro] Pakistan arrests man hunted by US over $126m postage fraud case (BBC News)
-- [crypto] Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tech giants rush to block 8 eMudhra certs that could enable fake sites (Cointelegraph.com News)
