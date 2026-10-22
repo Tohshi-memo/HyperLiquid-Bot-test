@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T01:07:26.649531+00:00`
+- Generated: `2026-10-22T01:22:27.458398+00:00`
 - Market context score: `45.07`
 - News risk score: `43.98`
 - Macro risk score: `31.33`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T01:00:00+00:00`
+- Day/swing latest: `2026-10-22T01:15:00+00:00`
 
 ## News Categories
 
@@ -30,7 +30,7 @@
 
 - [crypto] PHP Foundation admits ‘structural failure’ delayed critical security fix (Cointelegraph.com News)
 - [macro] The real reasons US politicians are getting older (BBC News)
-- [macro] The "trillion pound" oil fund the government believes Britain could have built (BBC News)
+- [macro] The 'trillion pound' oil fund the government believes Britain could have built (BBC News)
 - [macro] The grads ditching the UK for a fresh start abroad (BBC News)
 - [macro] Trump's green card curbs test Indian tech workers' American dream (BBC News)
 - [macro] Why is Elon Musk plotting a mega-merger of SpaceX and Tesla? (BBC News)
