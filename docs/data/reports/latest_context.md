@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T09:07:28.583349+00:00`
-- Market context score: `50.21`
-- News risk score: `37.2`
-- Macro risk score: `25.85`
-- Risk-on score: `30.54`
-- Articles: `37`
+- Generated: `2026-10-22T09:22:30.784102+00:00`
+- Market context score: `44.78`
+- News risk score: `41.08`
+- Macro risk score: `28.15`
+- Risk-on score: `22.62`
+- Articles: `38`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T09:00:00+00:00`
+- Day/swing latest: `2026-10-22T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
-- macro: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `0`
 
 ## Headlines
 
+- [macro] Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes (BBC News)
+- [crypto] PHP flaw draws millions of exploit attempts, Cloudflare CEO warns (Cointelegraph.com News)
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
 - [crypto] Asian stocks tumble, bitcoin retreats as China enters bear market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
@@ -36,5 +38,3 @@
 - [crypto] Bitcoin ETFs bag another $528M, taking 3-day haul past $1B (Cointelegraph.com News)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
-- [crypto] China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
