@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T12:52:33.156582+00:00`
-- Market context score: `55.71`
-- News risk score: `30.82`
+- Generated: `2026-10-22T13:07:33.370431+00:00`
+- Market context score: `57.23`
+- News risk score: `30.64`
 - Macro risk score: `23.43`
-- Risk-on score: `36.45`
-- Articles: `40`
+- Risk-on score: `39.68`
+- Articles: `42`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T12:45:00+00:00`
+- Day/swing latest: `2026-10-22T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `0`
+- crypto: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `0`
 - macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin ETF buyers are trend followers, not setters, DWF Labs says (Cointelegraph.com News)
+- [crypto] Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
 - [commodity] Brent crude near $112 as U.S. and Israel reportedly weigh fresh Iran strikes (Energy)
 - [macro] Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey (Economy)
 - [macro] How did AI discover the internet's massive cyber-security risk? (BBC News)
@@ -35,6 +38,3 @@
 - [macro] Tank barrel production returns to UK after 20 years (BBC News)
 - [crypto] The UK needs a workable route to regulated DeFi access (Cointelegraph.com News)
 - [macro] At least four dead after storm brings flooding to southern France (BBC News)
-- [crypto] Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
-- [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
