@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T19:07:34.230786+00:00`
+- Generated: `2026-10-22T19:22:29.594600+00:00`
 - Market context score: `49.04`
 - News risk score: `40.52`
 - Macro risk score: `30.03`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T19:00:00+00:00`
+- Day/swing latest: `2026-10-22T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [commodity] Brent crude tops $113, highest level since May, after Trump hints at action on Iran (Energy)
 - [crypto] A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (BBC News)
 - [macro] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (BBC News)
-- [commodity] Brent crude tops $113, highest level since May, after Trump hints at action on Iran (Energy)
 - [macro] Ukraine hit by strikes after Russia agrees to new peace talks (BBC News)
 - [macro] Total ban on protests in Marseille and Lyon after riots (BBC News)
 - [crypto] Underdog taps zerohash to bring crypto deposits to prediction markets (Cointelegraph.com News)
