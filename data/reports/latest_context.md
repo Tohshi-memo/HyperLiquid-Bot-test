@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T08:52:26.506786+00:00`
+- Generated: `2026-10-22T09:07:28.583349+00:00`
 - Market context score: `50.21`
 - News risk score: `37.2`
 - Macro risk score: `25.85`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T08:45:00+00:00`
+- Day/swing latest: `2026-10-22T09:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] Asian stocks tumble, bitcoin retreats as China enters bear market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
+- [crypto] Asian stocks tumble, bitcoin retreats as China enters bear market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
 - [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
 - [macro] Celebrity shark guided out of South Korea canal refuses to swim out to sea (BBC News)
