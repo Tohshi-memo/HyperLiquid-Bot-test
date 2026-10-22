@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T17:52:32.778346+00:00`
-- Market context score: `46.81`
-- News risk score: `41.95`
-- Macro risk score: `30.15`
-- Risk-on score: `28.62`
+- Generated: `2026-10-22T18:07:32.998349+00:00`
+- Market context score: `47.13`
+- News risk score: `42.2`
+- Macro risk score: `30.57`
+- Risk-on score: `29.71`
 - Articles: `59`
 - Polymarket markets: `396`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T17:45:00+00:00`
+- Day/swing latest: `2026-10-22T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `27`, risk hits `8`, risk headline rate `0.2222`, policy hits `3`
+- crypto: articles `27`, risk hits `8`, risk headline rate `0.2222`, policy hits `5`
 - macro: articles `30`, risk hits `9`, risk headline rate `0.2667`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Brent crude tops $113, highest level since May, after Trump hints at action on Iran (Energy)
 - [macro] Total ban on protests in Marseille and Lyon after riots (BBC News)
 - [crypto] Underdog taps zerohash to bring crypto deposits to prediction markets (Cointelegraph.com News)
 - [macro] 'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest (BBC News)
 - [macro] Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote (BBC News)
 - [crypto] Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition (Cointelegraph.com News)
-- [crypto] Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures (Cointelegraph.com News)
