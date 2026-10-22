@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T11:07:28.177653+00:00`
-- Market context score: `53.42`
-- News risk score: `32.61`
-- Macro risk score: `25.33`
-- Risk-on score: `33.59`
-- Articles: `35`
-- Polymarket markets: `397`
+- Generated: `2026-10-22T11:22:27.377414+00:00`
+- Market context score: `54.08`
+- News risk score: `31.82`
+- Macro risk score: `24.63`
+- Risk-on score: `34.12`
+- Articles: `37`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T11:00:00+00:00`
+- Day/swing latest: `2026-10-22T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `17`, risk hits `4`, risk headline rate `0.1765`, policy hits `0`
-- macro: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `18`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
+- [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
+- [macro] Moment man rescued from sinking car by Australian TV reporter (BBC News)
+- [macro] First human case of Shamonda virus detected in France, officials say (BBC News)
 - [crypto] CoinDCX pledges no user losses after $16M transfers draw scrutiny (Cointelegraph.com News)
 - [crypto] Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
 - [crypto] Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls (Cointelegraph.com News)
-- [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
 - [crypto] Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] El Salvador's president threatens Haitian gangs over military hostages (BBC News)
-- [macro] Celebrity shark guided out of South Korea canal refuses to swim out to sea (BBC News)
-- [macro] Nigeria's first Ebola patient holidayed in Uganda, officials say (BBC News)
-- [crypto] Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
