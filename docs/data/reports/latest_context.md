@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T10:22:27.105511+00:00`
+- Generated: `2026-10-22T10:37:34.086923+00:00`
 - Market context score: `49.32`
 - News risk score: `35.72`
 - Macro risk score: `28.15`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T10:15:00+00:00`
+- Day/swing latest: `2026-10-22T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
 - [crypto] Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] El Salvador's president threatens Haitian gangs over military hostages (BBC News)
 - [macro] Celebrity shark guided out of South Korea canal refuses to swim out to sea (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
 - [crypto] Starknet voters back research into life beyond Ethereum (Cointelegraph.com News)
 - [macro] How do Israel's elections work and who are the main contenders? (BBC News)
-- [macro] Two killed in attack on airport in eastern Saudi Arabia, authorities say (BBC News)
