@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T14:52:30.304673+00:00`
-- Market context score: `56.7`
-- News risk score: `34.56`
-- Macro risk score: `21.71`
-- Risk-on score: `41.15`
+- Generated: `2026-10-22T15:07:28.614961+00:00`
+- Market context score: `56.73`
+- News risk score: `34.42`
+- Macro risk score: `22.08`
+- Risk-on score: `41.24`
 - Articles: `52`
 - Polymarket markets: `397`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T14:45:00+00:00`
+- Day/swing latest: `2026-10-22T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `26`, risk hits `7`, risk headline rate `0.1923`, policy hits `1`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
+- crypto: articles `27`, risk hits `7`, risk headline rate `0.1852`, policy hits `1`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon' (Energy)
+- [crypto] Crypto for Advisors: Stablecoins are ready for prime time (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Fireblocks disputes report of $2.5B Visa acquisition talks (Cointelegraph.com News)
 - [crypto] Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
 - [macro] Jobless claims near the lowest since the 1960s as low-fire trend continues (Economy)
-- [commodity] Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon' (Energy)
 - [macro] Teacher in Oregon shooting said she pretended to be dead to survive (BBC News)
 - [macro] YouTuber arrested after popular Indian finance influencer's suicide (BBC News)
 - [macro] First human case of Shamonda virus detected in France, officials say (BBC News)
 - [macro] Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say (BBC News)
-- [macro] Tank barrel production returns to UK after 20 years (BBC News)
