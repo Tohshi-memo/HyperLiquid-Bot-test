@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T10:07:34.199961+00:00`
-- Market context score: `48.49`
-- News risk score: `36.78`
-- Macro risk score: `28.8`
-- Risk-on score: `27.48`
-- Articles: `38`
+- Generated: `2026-10-22T10:22:27.105511+00:00`
+- Market context score: `49.32`
+- News risk score: `35.72`
+- Macro risk score: `28.15`
+- Risk-on score: `28.19`
+- Articles: `40`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T10:00:00+00:00`
+- Day/swing latest: `2026-10-22T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `0`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `0`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] El Salvador's president threatens Haitian gangs over military hostages (BBC News)
 - [macro] Celebrity shark guided out of South Korea canal refuses to swim out to sea (BBC News)
+- [macro] Nigeria's first Ebola patient holidayed in Uganda, officials say (BBC News)
 - [crypto] Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Police investigate Married at First Sight Australia after 'inappropriate' allegations (BBC News)
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
 - [crypto] Starknet voters back research into life beyond Ethereum (Cointelegraph.com News)
 - [macro] How do Israel's elections work and who are the main contenders? (BBC News)
 - [macro] Two killed in attack on airport in eastern Saudi Arabia, authorities say (BBC News)
-- [macro] Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes (BBC News)
-- [crypto] PHP flaw draws millions of exploit attempts, Cloudflare CEO warns (Cointelegraph.com News)
-- [crypto] Asian stocks tumble, bitcoin retreats as China enters bear market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
