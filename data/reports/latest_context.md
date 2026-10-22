@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T06:04:49.522611+00:00`
+- Generated: `2026-10-22T06:07:58.044603+00:00`
 - Market context score: `49.24`
 - News risk score: `41.5`
 - Macro risk score: `32.0`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Governments working to identify exposure after global cyber-security warning (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Move over memecoins: Crypto ‘meme games’ coming, bagholders and all (Cointelegraph.com News)
 - [macro] How Arab parties could hold critical balance of power in Israeli election (BBC News)
 - [crypto] Solana’s biggest network change since 2020 is live. Here’s how users benefit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
