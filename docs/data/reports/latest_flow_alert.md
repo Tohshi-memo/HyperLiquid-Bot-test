@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-22T15:45:36.128110+00:00`
+- Generated: `2026-10-22T15:50:36.479943+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1254465.233247` | liquidity: `2860853.7958`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1182181.992984` | liquidity: `771221.32636`
-- US x Iran ceasefire continues through October 22? | 24h volume: `1120413.179399` | liquidity: `105141.93283`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1254465.233247` | liquidity: `2859911.3344`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1182181.992984` | liquidity: `770750.26636`
+- US x Iran ceasefire continues through October 22? | 24h volume: `1120413.179399` | liquidity: `104162.82026`
 - Will Tim Scott win the 2028 Republican presidential nomination? | 24h volume: `886093.596` | liquidity: `806748.71063`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `822541.136443` | liquidity: `989690.6838`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `621420.5344060002` | liquidity: `417568.0568`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `590754.1049079999` | liquidity: `541118.1858`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `510424.7326290001` | liquidity: `4139450.9532`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `822541.136443` | liquidity: `990291.5629`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `621420.5344060002` | liquidity: `419658.272`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `590754.1049079999` | liquidity: `540489.7091`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `510424.7326290001` | liquidity: `4164910.325`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
