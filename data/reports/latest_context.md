@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-21T22:43:43.863795+00:00`
-- Market context score: `44.92`
-- News risk score: `41.69`
-- Macro risk score: `33.19`
-- Risk-on score: `25.35`
+- Generated: `2026-10-22T01:00:12.078160+00:00`
+- Market context score: `45.07`
+- News risk score: `43.98`
+- Macro risk score: `31.33`
+- Risk-on score: `26.91`
 - Articles: `41`
-- Polymarket markets: `396`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-21T22:30:00+00:00`
+- Day/swing latest: `2026-10-22T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `12`, risk headline rate `0.28`, policy hits `3`
-- macro: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `2`
+- crypto: articles `17`, risk hits `10`, risk headline rate `0.3529`, policy hits `3`
+- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `0`
 
 ## Headlines
 
+- [crypto] PHP Foundation admits ‘structural failure’ delayed critical security fix (Cointelegraph.com News)
+- [macro] The real reasons US politicians are getting older (BBC News)
+- [macro] The "trillion pound" oil fund the government believes Britain could have built (BBC News)
+- [macro] The grads ditching the UK for a fresh start abroad (BBC News)
+- [macro] Trump's green card curbs test Indian tech workers' American dream (BBC News)
+- [macro] Why is Elon Musk plotting a mega-merger of SpaceX and Tesla? (BBC News)
+- [macro] Vance tells Republicans to 'stop whining' about controversial Ohio attack ad (BBC News)
+- [macro] Airbnb hosts can no longer make guests strip beds and wash dishes under new rules (BBC News)
 - [macro] Japan is known for world-class events - but the Asian Games were chaotic (BBC News)
 - [crypto] American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress (Cointelegraph.com News)
-- [macro] Meta fined $25bn for 'lies' over user data privacy (BBC News)
-- [macro] Meta fined $25bn for 'lies' over user data privacy (BBC News)
-- [macro] Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks (BBC News)
-- [crypto] Tether backs Bolivian fintech bringing USDT payments to food delivery and banking (Cointelegraph.com News)
-- [macro] Ex-prosecutor charged with treason in Mexico over US drug raid (BBC News)
-- [crypto] Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Pope does not need further treatment after lung cancer surgery (BBC News)
