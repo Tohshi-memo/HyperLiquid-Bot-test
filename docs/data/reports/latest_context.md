@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T17:07:35.697091+00:00`
-- Market context score: `49.1`
-- News risk score: `39.92`
-- Macro risk score: `27.29`
-- Risk-on score: `30.9`
-- Articles: `58`
-- Polymarket markets: `396`
+- Generated: `2026-10-22T17:22:37.565541+00:00`
+- Market context score: `48.42`
+- News risk score: `40.89`
+- Macro risk score: `28.25`
+- Risk-on score: `30.57`
+- Articles: `60`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T17:00:00+00:00`
+- Day/swing latest: `2026-10-22T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `28`, risk hits `8`, risk headline rate `0.2143`, policy hits `3`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `0`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `0`
 
 ## Headlines
 
+- [macro] 'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad (BBC News)
 - [macro] Trump ordered to answer questions under oath in BBC lawsuit (BBC News)
+- [macro] Race to update services' computer systems after cyber-security flaw found (BBC News)
+- [macro] Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest (BBC News)
 - [macro] Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote (BBC News)
 - [crypto] Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition (Cointelegraph.com News)
 - [crypto] Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures (Cointelegraph.com News)
 - [macro] Jobless claims near the lowest since the 1960s as low-fire trend continues (Economy)
 - [macro] 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother (BBC News)
 - [crypto] Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower (Cointelegraph.com News)
-- [macro] Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax (BBC News)
-- [macro] Crowd of 50 beats foreigner to death in South Africa (BBC News)
-- [macro] Newborn twins fight for survival as conflict fuels Yemen's hunger crisis (BBC News)
