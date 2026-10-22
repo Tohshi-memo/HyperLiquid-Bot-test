@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T05:37:27.975635+00:00`
-- Market context score: `48.89`
-- News risk score: `41.84`
-- Macro risk score: `32.69`
-- Risk-on score: `34.1`
-- Articles: `39`
+- Generated: `2026-10-22T05:52:26.264323+00:00`
+- Market context score: `49.98`
+- News risk score: `40.52`
+- Macro risk score: `32.0`
+- Risk-on score: `35.15`
+- Articles: `41`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T05:30:00+00:00`
+- Day/swing latest: `2026-10-22T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
-- macro: articles `27`, risk hits `9`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `0`
 
 ## Headlines
 
+- [macro] Governments working to identify exposure after global cyber-security warning (BBC News)
+- [crypto] Move over memecoins: Crypto ‘meme games’ coming, bagholders and all (Cointelegraph.com News)
+- [macro] How Arab parties could hold critical balance of power in Israeli election (BBC News)
 - [crypto] Solana’s biggest network change since 2020 is live. Here’s how users benefit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
 - [crypto] Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [commodity] U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms (Energy)
 - [macro] No order, no seat: Starbucks China rolls out new store policy (BBC News)
 - [macro] No order, no seat: Starbucks China rolls out new store policy (BBC News)
-- [crypto] Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
-- [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
