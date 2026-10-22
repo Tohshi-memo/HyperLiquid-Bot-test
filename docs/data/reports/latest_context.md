@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T09:52:28.877834+00:00`
-- Market context score: `44.88`
-- News risk score: `40.6`
-- Macro risk score: `29.5`
-- Risk-on score: `22.94`
-- Articles: `37`
-- Polymarket markets: `398`
+- Generated: `2026-10-22T10:07:34.199961+00:00`
+- Market context score: `48.49`
+- News risk score: `36.78`
+- Macro risk score: `28.8`
+- Risk-on score: `27.48`
+- Articles: `38`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T09:45:00+00:00`
+- Day/swing latest: `2026-10-22T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `0`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `0`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `0`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `0`
 
 ## Headlines
 
+- [macro] Celebrity shark guided out of South Korea canal refuses to swim out to sea (BBC News)
+- [crypto] Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Police investigate Married at First Sight Australia after 'inappropriate' allegations (BBC News)
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
 - [crypto] Starknet voters back research into life beyond Ethereum (Cointelegraph.com News)
 - [macro] How do Israel's elections work and who are the main contenders? (BBC News)
@@ -35,6 +38,3 @@
 - [macro] Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes (BBC News)
 - [crypto] PHP flaw draws millions of exploit attempts, Cloudflare CEO warns (Cointelegraph.com News)
 - [crypto] Asian stocks tumble, bitcoin retreats as China enters bear market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
-- [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
-- [macro] Celebrity shark guided out of South Korea canal refuses to swim out to sea (BBC News)
