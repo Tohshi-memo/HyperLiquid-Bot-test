@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T07:37:29.605761+00:00`
-- Market context score: `45.49`
-- News risk score: `44.36`
+- Generated: `2026-10-22T07:52:27.011128+00:00`
+- Market context score: `46.42`
+- News risk score: `43.0`
 - Macro risk score: `32.0`
-- Risk-on score: `28.42`
-- Articles: `38`
+- Risk-on score: `29.33`
+- Articles: `39`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T07:30:00+00:00`
+- Day/swing latest: `2026-10-22T07:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `11`, risk hits `5`, risk headline rate `0.3636`, policy hits `0`
+- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `25`, risk hits `8`, risk headline rate `0.32`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin ETFs bag another $528M, taking 3-day haul past $1B (Cointelegraph.com News)
 - [commodity] Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] How Arab parties could hold critical balance of power in Israeli election (BBC News)
 - [crypto] Solana’s biggest network change since 2020 is live. Here’s how users benefit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Is an 'AI war' complicating your job search? (BBC News)
-- [crypto] Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
