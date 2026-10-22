@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T05:22:33.229140+00:00`
-- Market context score: `48.22`
-- News risk score: `42.5`
-- Macro risk score: `34.0`
-- Risk-on score: `33.67`
-- Articles: `40`
+- Generated: `2026-10-22T05:37:27.975635+00:00`
+- Market context score: `48.89`
+- News risk score: `41.84`
+- Macro risk score: `32.69`
+- Risk-on score: `34.1`
+- Articles: `39`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T05:15:00+00:00`
+- Day/swing latest: `2026-10-22T05:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `0`
 - macro: articles `27`, risk hits `9`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Solana’s biggest network change since 2020 is live. Here’s how users benefit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
 - [crypto] Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP Ledger bug fix moved to November after validator support dipped for two hours (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
-- [macro] US embassy accuses Canada of election meddling ahead of midterms (BBC News)
