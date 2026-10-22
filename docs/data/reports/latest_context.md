@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T19:22:29.594600+00:00`
-- Market context score: `49.04`
+- Generated: `2026-10-22T19:37:38.459363+00:00`
+- Market context score: `50.24`
 - News risk score: `40.52`
 - Macro risk score: `30.03`
-- Risk-on score: `32.32`
+- Risk-on score: `34.99`
 - Articles: `60`
 - Polymarket markets: `395`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T19:15:00+00:00`
+- Day/swing latest: `2026-10-22T19:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [crypto] Winklevoss PAC moves into Texas Senate race with $81K ad buy (Cointelegraph.com News)
+- [macro] 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother (BBC News)
+- [macro] Paris extends curfew as Marseille and Lyon ban protests after riots (BBC News)
 - [commodity] Brent crude tops $113, highest level since May, after Trump hints at action on Iran (Energy)
 - [crypto] A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (BBC News)
 - [macro] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (BBC News)
 - [macro] Ukraine hit by strikes after Russia agrees to new peace talks (BBC News)
-- [macro] Total ban on protests in Marseille and Lyon after riots (BBC News)
 - [crypto] Underdog taps zerohash to bring crypto deposits to prediction markets (Cointelegraph.com News)
 - [macro] 'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge (BBC News)
-- [macro] 'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad (BBC News)
-- [macro] Trump ordered to answer questions under oath in BBC lawsuit (BBC News)
