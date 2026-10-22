@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T21:52:30.985337+00:00`
-- Market context score: `51.91`
-- News risk score: `38.9`
-- Macro risk score: `30.6`
-- Risk-on score: `37.54`
-- Articles: `58`
+- Generated: `2026-10-22T22:07:28.862539+00:00`
+- Market context score: `51.98`
+- News risk score: `38.68`
+- Macro risk score: `30.19`
+- Risk-on score: `37.35`
+- Articles: `57`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T21:45:00+00:00`
+- Day/swing latest: `2026-10-22T22:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `5`
+- crypto: articles `25`, risk hits `5`, risk headline rate `0.16`, policy hits `3`
 - macro: articles `30`, risk hits `9`, risk headline rate `0.2667`, policy hits `0`
 
 ## Headlines
 
-- [macro] Trump says Musk has restored Ukraine's internet access (BBC News)
+- [macro] Trump says Musk has restored Ukraine's access after Starlink row (BBC News)
 - [crypto] Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals (Cointelegraph.com News)
 - [crypto] Dune launches real-time data feeds covering 200 onchain trading venues (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
