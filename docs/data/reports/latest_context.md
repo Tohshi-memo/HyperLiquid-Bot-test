@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T20:06:07.006722+00:00`
+- Generated: `2026-10-22T20:22:32.525508+00:00`
 - Market context score: `50.24`
 - News risk score: `40.52`
 - Macro risk score: `30.03`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T20:00:00+00:00`
+- Day/swing latest: `2026-10-22T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Winklevoss PAC moves into Texas Senate race with $81K ad buy (Cointelegraph.com News)
 - [macro] 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother (BBC News)
 - [macro] Paris extends curfew as Marseille and Lyon ban protests after riots (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (BBC News)
 - [macro] Ukraine hit by strikes after Russia agrees to new peace talks (BBC News)
 - [crypto] Underdog taps zerohash to bring crypto deposits to prediction markets (Cointelegraph.com News)
-- [macro] 'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge (BBC News)
