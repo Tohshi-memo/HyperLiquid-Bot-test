@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T09:22:30.784102+00:00`
+- Generated: `2026-10-22T09:37:26.302942+00:00`
 - Market context score: `44.78`
 - News risk score: `41.08`
 - Macro risk score: `28.15`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T09:15:00+00:00`
+- Day/swing latest: `2026-10-22T09:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] How do Israel's elections work and who are the main contenders? (BBC News)
+- [macro] Two killed in attack on airport in eastern Saudi Arabia, authorities say (BBC News)
 - [macro] Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes (BBC News)
 - [crypto] PHP flaw draws millions of exploit attempts, Cloudflare CEO warns (Cointelegraph.com News)
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
 - [macro] Celebrity shark guided out of South Korea canal refuses to swim out to sea (BBC News)
 - [crypto] Bitcoin ETFs bag another $528M, taking 3-day haul past $1B (Cointelegraph.com News)
-- [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
-- [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
