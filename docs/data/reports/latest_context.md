@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T13:52:27.952743+00:00`
-- Market context score: `55.36`
+- Generated: `2026-10-22T14:07:29.627091+00:00`
+- Market context score: `56.18`
 - News risk score: `34.69`
 - Macro risk score: `22.52`
-- Risk-on score: `38.6`
+- Risk-on score: `40.42`
 - Articles: `48`
-- Polymarket markets: `398`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T13:45:00+00:00`
+- Day/swing latest: `2026-10-22T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
+- [macro] Jobless claims near the lowest since the 1960s as low-fire trend continues (Economy)
+- [macro] First human case of Shamonda virus detected in France, officials say (BBC News)
 - [commodity] Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon' (Energy)
 - [macro] Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say (BBC News)
 - [macro] Tank barrel production returns to UK after 20 years (BBC News)
 - [crypto] CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions (Cointelegraph.com News)
-- [macro] Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to leave (BBC News)
+- [macro] Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Two European women held captive for more than a year in Niger freed in Libya (BBC News)
-- [macro] Jobless claims near the lowest since the 1960s as low-fire trend continues (Economy)
-- [crypto] Thailand SEC says several companies eye crypto ETFs, none has applied (Cointelegraph.com News)
-- [macro] Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey (Economy)
