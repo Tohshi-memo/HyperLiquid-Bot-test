@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T14:39:21.576278+00:00`
-- Market context score: `56.55`
-- News risk score: `34.66`
-- Macro risk score: `21.72`
-- Risk-on score: `40.92`
-- Articles: `51`
+- Generated: `2026-10-22T14:52:30.304673+00:00`
+- Market context score: `56.7`
+- News risk score: `34.56`
+- Macro risk score: `21.71`
+- Risk-on score: `41.15`
+- Articles: `52`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T14:30:00+00:00`
+- Day/swing latest: `2026-10-22T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `25`, risk hits `7`, risk headline rate `0.2`, policy hits `1`
+- crypto: articles `26`, risk hits `7`, risk headline rate `0.1923`, policy hits `1`
 - macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Fireblocks disputes report of $2.5B Visa acquisition talks (Cointelegraph.com News)
 - [crypto] Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Barclays cutting 5,000 jobs as it increases reliance on AI (BBC News)
 - [macro] Jobless claims near the lowest since the 1960s as low-fire trend continues (Economy)
@@ -37,4 +38,3 @@
 - [macro] First human case of Shamonda virus detected in France, officials say (BBC News)
 - [macro] Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say (BBC News)
 - [macro] Tank barrel production returns to UK after 20 years (BBC News)
-- [crypto] CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions (Cointelegraph.com News)
