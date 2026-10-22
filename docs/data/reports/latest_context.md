@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T21:37:27.498390+00:00`
+- Generated: `2026-10-22T21:52:30.985337+00:00`
 - Market context score: `51.91`
 - News risk score: `38.9`
 - Macro risk score: `30.6`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T21:30:00+00:00`
+- Day/swing latest: `2026-10-22T21:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Trump says Musk has restored Ukraine's internet access (BBC News)
+- [crypto] Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals (Cointelegraph.com News)
 - [crypto] Dune launches real-time data feeds covering 200 onchain trading venues (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Winklevoss PAC moves into Texas Senate race with $81K ad buy (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [commodity] Brent crude tops $113, highest level since May, after Trump hints at action on Iran (Energy)
 - [crypto] A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (BBC News)
-- [macro] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (BBC News)
-- [macro] Ukraine hit by strikes after Russia agrees to new peace talks (BBC News)
