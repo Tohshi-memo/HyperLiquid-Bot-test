@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T16:22:34.605337+00:00`
-- Market context score: `53.75`
-- News risk score: `37.08`
-- Macro risk score: `25.31`
-- Risk-on score: `38.08`
-- Articles: `56`
+- Generated: `2026-10-22T16:37:31.906442+00:00`
+- Market context score: `53.61`
+- News risk score: `37.06`
+- Macro risk score: `25.77`
+- Risk-on score: `37.94`
+- Articles: `55`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T16:15:00+00:00`
+- Day/swing latest: `2026-10-22T16:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `27`, risk hits `7`, risk headline rate `0.1852`, policy hits `2`
 - macro: articles `26`, risk hits `6`, risk headline rate `0.1923`, policy hits `0`
 
 ## Headlines
 
+- [macro] Jobless claims near the lowest since the 1960s as low-fire trend continues (Economy)
+- [crypto] Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower (Cointelegraph.com News)
 - [macro] Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax (BBC News)
 - [macro] Crowd of 50 beats foreigner to death in South Africa (BBC News)
 - [macro] Newborn twins fight for survival as conflict fuels Yemen's hunger crisis (BBC News)
@@ -36,5 +38,3 @@
 - [macro] French weekend protests to be limited to union demos only, says Macron (BBC News)
 - [commodity] Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again (Energy)
 - [macro] Damaging hail pelts Phoenix in rare storm (BBC News)
-- [macro] 'I wasn't thinking straight' says five jobs civil servant (BBC News)
-- [crypto] Crypto for Advisors: Stablecoins are ready for prime time (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
