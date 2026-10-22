@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-22T21:40:35.276952+00:00`
+- Generated: `2026-10-22T21:45:31.327460+00:00`
 - Flow alert score: `24.84`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1315493.578743` | liquidity: `964026.0686`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1315493.578743` | liquidity: `969053.6827`
 - Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1227843.6196360001` | liquidity: `787814.02867`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1202841.125539` | liquidity: `3372737.001`
-- US x Iran ceasefire continues through October 22? | 24h volume: `886892.6304420001` | liquidity: `68566.98755`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1202841.125539` | liquidity: `3372259.7873`
+- US x Iran ceasefire continues through October 22? | 24h volume: `886892.6304420001` | liquidity: `65902.97495`
 - Will Tim Scott win the 2028 Republican presidential nomination? | 24h volume: `886093.596` | liquidity: `809676.65413`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `627253.790527` | liquidity: `948903.5746`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `606699.3908400002` | liquidity: `596678.4452`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `576442.7814430001` | liquidity: `4052471.7011`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `627253.790527` | liquidity: `953597.6442`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `606699.3908400002` | liquidity: `603398.5465`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `576442.7814430001` | liquidity: `4058693.0825`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
