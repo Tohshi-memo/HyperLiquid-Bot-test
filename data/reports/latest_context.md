@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-22T07:07:24.936529+00:00`
+- Generated: `2026-10-22T07:22:27.048591+00:00`
 - Market context score: `45.86`
 - News risk score: `44.01`
 - Macro risk score: `31.29`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-22T07:00:00+00:00`
+- Day/swing latest: `2026-10-22T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
 - [crypto] China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +36,5 @@
 - [crypto] Move over memecoins: Crypto ‘meme games’ coming, bagholders and all (Cointelegraph.com News)
 - [macro] How Arab parties could hold critical balance of power in Israeli election (BBC News)
 - [crypto] Solana’s biggest network change since 2020 is live. Here’s how users benefit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes (Energy)
 - [macro] Is an 'AI war' complicating your job search? (BBC News)
 - [crypto] Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
