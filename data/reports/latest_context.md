@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T16:52:34.975100+00:00`
-- Market context score: `41.91`
-- News risk score: `46.75`
-- Macro risk score: `26.31`
-- Risk-on score: `20.33`
-- Articles: `51`
+- Generated: `2026-10-23T17:06:14.936920+00:00`
+- Market context score: `42.47`
+- News risk score: `45.96`
+- Macro risk score: `26.89`
+- Risk-on score: `21.11`
+- Articles: `48`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T16:45:00+00:00`
+- Day/swing latest: `2026-10-23T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `10`, risk headline rate `0.4167`, policy hits `1`
-- macro: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `1`
+- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `1`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
 
 ## Headlines
 
+- [macro] White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' (BBC News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
 - [macro] Deadly shooting near Paris investigated as 'crime of terrorism', minister says (BBC News)
 - [crypto] SEC flags tokenization as high-risk area in 2027 market examinations (Cointelegraph.com News)
 - [macro] Watch: CCTV footage appears to show gunmen near church in Jordan (BBC News)
-- [macro] White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' (BBC News)
 - [crypto] Bitcoin seeks support above $81K as Brent crude oil hits highest level since March (Cointelegraph.com News)
 - [macro] Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead (BBC News)
 - [macro] Oil spill washes up on UAE beaches after tanker strike (BBC News)
