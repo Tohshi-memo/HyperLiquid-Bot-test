@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T23:22:27.514016+00:00`
-- Market context score: `43.58`
-- News risk score: `45.07`
+- Generated: `2026-10-23T23:28:21.573502+00:00`
+- Market context score: `42.91`
+- News risk score: `46.06`
 - Macro risk score: `40.42`
-- Risk-on score: `27.95`
-- Articles: `33`
+- Risk-on score: `27.3`
+- Articles: `32`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 - macro: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `0`
 
 ## Headlines
 
-- [macro] pWhite House lifts tariffs on some Canadian goods as midterm elections loom (BBC News)
+- [macro] White House lifts tariffs on some Canadian goods as midterm elections loom (BBC News)
 - [crypto] Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report (Cointelegraph.com News)
 - [macro] Argentina drops investigation into President Milei over crypto fraud (BBC News)
 - [crypto] IRS plans lower tax disclosure penalties, including for crypto: Forbes (Cointelegraph.com News)
