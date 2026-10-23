@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T03:07:25.621408+00:00`
-- Market context score: `44.66`
-- News risk score: `39.9`
-- Macro risk score: `29.68`
-- Risk-on score: `21.93`
-- Articles: `37`
+- Generated: `2026-10-23T03:22:31.970865+00:00`
+- Market context score: `43.88`
+- News risk score: `41.39`
+- Macro risk score: `28.37`
+- Risk-on score: `20.95`
+- Articles: `36`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T03:00:00+00:00`
+- Day/swing latest: `2026-10-23T03:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `1`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `20`, risk hits `6`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump ordered to answer questions under oath in BBC lawsuit (BBC News)
 - [crypto] Switzerland approves first spot Bitcoin ETF for retail investors (Cointelegraph.com News)
 - [crypto] Pentagon bans US forces from using military info to bet in prediction markets (Cointelegraph.com News)
@@ -36,5 +37,4 @@
 - [macro] Grid operator says lights will stay on this winter after concerns (BBC News)
 - [crypto] New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express (Cointelegraph.com News)
 - [crypto] Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] L'Oreal says weight loss drugs are impacting beauty and skin care sales (BBC News)
 - [macro] L'Oreal says weight loss drugs are impacting beauty and skin care sales (BBC News)
