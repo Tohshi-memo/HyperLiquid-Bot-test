@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T20:22:28.947473+00:00`
+- Generated: `2026-10-23T20:26:23.599560+00:00`
 - Market context score: `40.85`
 - News risk score: `48.72`
 - Macro risk score: `34.71`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:13, crypto_alt:237, crypto_major:8, equity:152, fx:6, index:26, metal:20, unknown:1240`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T20:15:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -32,7 +32,7 @@
 - [macro] White House says the US is lifting tariffs on some Canadian goods (BBC News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [macro] Deadly shooting near Paris is a 'racist terrorist attack', Macron says (BBC News)
-- [macro] White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' (BBC News)
+- [macro] White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster' (BBC News)
 - [commodity] Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East (Energy)
 - [commodity] Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets (Energy)
 - [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
