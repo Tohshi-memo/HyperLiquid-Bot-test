@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T01:37:29.314668+00:00`
-- Market context score: `48.59`
-- News risk score: `38.25`
-- Macro risk score: `28.08`
-- Risk-on score: `28.67`
-- Articles: `48`
+- Generated: `2026-10-23T01:43:30.150459+00:00`
+- Market context score: `46.55`
+- News risk score: `38.3`
+- Macro risk score: `27.6`
+- Risk-on score: `23.99`
+- Articles: `47`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,13 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `3`
+- crypto: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `2`
 - macro: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Switzerland approves first spot Bitcoin ETF for retail investors (Cointelegraph.com News)
 - [macro] Trump ordered to answer questions under oath in BBC lawsuit (BBC News)
+- [crypto] Switzerland approves first spot Bitcoin ETF for retail investors (Cointelegraph.com News)
 - [crypto] Pentagon bans US forces from using military info to bet in prediction markets (Cointelegraph.com News)
 - [macro] 'I'm 96 and have 15 million followers': The grannies taking over TikTok (BBC News)
 - [macro] Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds (BBC News)
