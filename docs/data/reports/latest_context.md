@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T06:36:23.730098+00:00`
+- Generated: `2026-10-23T06:52:33.378984+00:00`
 - Market context score: `39.96`
 - News risk score: `47.8`
 - Macro risk score: `32.86`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T06:30:00+00:00`
+- Day/swing latest: `2026-10-23T06:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Lights will stay on this winter, grid operator says after concerns (BBC News)
 - [macro] Why a student protest movement is challenging 12 years of Vučić rule in Serbia (BBC News)
 - [macro] Powerful earthquake hits Tibet killing 16 people, reports say (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say (BBC News)
 - [crypto] Cardano holders are being asked to bet $5 million on copper hitting a new record (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin Core changes security policy as AI makes bugs easier to find (Cointelegraph.com News)
-- [crypto] Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
