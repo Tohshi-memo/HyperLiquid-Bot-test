@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T17:37:32.351972+00:00`
-- Market context score: `44.04`
-- News risk score: `45.61`
-- Macro risk score: `29.22`
-- Risk-on score: `25.19`
-- Articles: `47`
+- Generated: `2026-10-23T17:52:33.537991+00:00`
+- Market context score: `43.99`
+- News risk score: `45.07`
+- Macro risk score: `29.2`
+- Risk-on score: `24.62`
+- Articles: `48`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T17:30:00+00:00`
+- Day/swing latest: `2026-10-23T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `8`, risk headline rate `0.381`, policy hits `1`
+- crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `1`
 - macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `1`
 
 ## Headlines
 
+- [crypto] US senator probes Tether after reported deal with ex-Trump crypto adviser (Cointelegraph.com News)
 - [commodity] Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets (Energy)
 - [macro] White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' (BBC News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Watch: CCTV footage appears to show gunmen near church in Jordan (BBC News)
 - [crypto] Bitcoin seeks support above $81K as Brent crude oil hits highest level since March (Cointelegraph.com News)
 - [macro] Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead (BBC News)
-- [macro] Oil spill washes up on UAE beaches after tanker strike (BBC News)
