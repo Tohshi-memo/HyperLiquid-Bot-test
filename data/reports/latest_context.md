@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T22:37:40.979564+00:00`
+- Generated: `2026-10-23T22:52:28.497500+00:00`
 - Market context score: `43.33`
 - News risk score: `45.45`
 - Macro risk score: `40.42`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T22:30:00+00:00`
+- Day/swing latest: `2026-10-23T22:45:00+00:00`
 
 ## News Categories
 
