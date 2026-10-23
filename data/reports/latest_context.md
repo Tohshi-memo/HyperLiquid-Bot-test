@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T10:07:32.113149+00:00`
-- Market context score: `35.63`
-- News risk score: `51.53`
-- Macro risk score: `31.12`
-- Risk-on score: `12.24`
-- Articles: `34`
+- Generated: `2026-10-23T10:22:37.846004+00:00`
+- Market context score: `33.5`
+- News risk score: `53.83`
+- Macro risk score: `33.39`
+- Risk-on score: `10.3`
+- Articles: `36`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T10:00:00+00:00`
+- Day/swing latest: `2026-10-23T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `9`, risk headline rate `0.5294`, policy hits `1`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `18`, risk hits `10`, risk headline rate `0.5556`, policy hits `1`
+- macro: articles `17`, risk hits `6`, risk headline rate `0.2941`, policy hits `1`
 
 ## Headlines
 
+- [macro] Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat (BBC News)
+- [crypto] Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash (Cointelegraph.com News)
 - [crypto] Bybit secures first full Dubai license for spot trading services (Cointelegraph.com News)
 - [macro] Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting (BBC News)
 - [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
@@ -35,6 +37,4 @@
 - [crypto] Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] HSBC launches Hong Kong dollar stablecoin for retail payments (Cointelegraph.com News)
 - [macro] Hundreds of flights cancelled as Typhoon Champi shuts Taiwan (BBC News)
-- [macro] What is the Budget and what could be in it? (BBC News)
-- [macro] The Indian workers filming their work to train AI (BBC News)
-- [crypto] India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Rubio turns to small Indian town as US faces high oil prices (BBC News)
