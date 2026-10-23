@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T16:22:33.155452+00:00`
-- Market context score: `42.59`
-- News risk score: `47.54`
-- Macro risk score: `26.81`
-- Risk-on score: `22.69`
-- Articles: `52`
+- Generated: `2026-10-23T16:37:37.294759+00:00`
+- Market context score: `41.73`
+- News risk score: `46.77`
+- Macro risk score: `26.85`
+- Risk-on score: `20.16`
+- Articles: `50`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T16:15:00+00:00`
+- Day/swing latest: `2026-10-23T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `11`, risk headline rate `0.4231`, policy hits `1`
+- crypto: articles `24`, risk hits `10`, risk headline rate `0.4167`, policy hits `1`
 - macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
 
 ## Headlines
 
+- [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
 - [macro] Deadly shooting near Paris investigated as 'crime of terrorism', minister says (BBC News)
-- [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [crypto] SEC flags tokenization as high-risk area in 2027 market examinations (Cointelegraph.com News)
 - [macro] White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' (BBC News)
 - [crypto] Bitcoin seeks support above $81K as Brent crude oil hits highest level since March (Cointelegraph.com News)
