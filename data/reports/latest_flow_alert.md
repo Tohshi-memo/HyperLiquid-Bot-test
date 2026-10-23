@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-23T15:00:32.639121+00:00`
+- Generated: `2026-10-23T15:05:35.447287+00:00`
 - Flow alert score: `24.16`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1729428.01537` | liquidity: `449781.5425`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1190987.3138480003` | liquidity: `3554405.208`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1090693.7629069998` | liquidity: `437856.1065`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `964499.2671109999` | liquidity: `3840735.1591`
-- Will the price of Ethereum be above $2,400 on October 22? | 24h volume: `778308.8029340002` | liquidity: `1656961.40079`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `714105.904171` | liquidity: `1188179.24628`
-- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `633993.8779559999` | liquidity: `1371950.9699`
-- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `602267.3127060002` | liquidity: `68277.91427`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1729428.01537` | liquidity: `439042.6175`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1190987.3138480003` | liquidity: `3530945.117`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1090693.7629069998` | liquidity: `287357.8042`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `964499.2671109999` | liquidity: `3816399.1581`
+- Will the price of Ethereum be above $2,400 on October 22? | 24h volume: `778308.8029340002` | liquidity: `1656850.29076`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `714105.904171` | liquidity: `1173414.01018`
+- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `633993.8779559999` | liquidity: `1373749.4967`
+- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `602267.3127060002` | liquidity: `68674.19995`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
