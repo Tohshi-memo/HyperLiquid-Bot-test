@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T13:37:43.503363+00:00`
-- Market context score: `41.93`
-- News risk score: `45.59`
-- Macro risk score: `28.74`
-- Risk-on score: `20.32`
-- Articles: `46`
+- Generated: `2026-10-23T13:52:25.856751+00:00`
+- Market context score: `43.37`
+- News risk score: `44.34`
+- Macro risk score: `26.75`
+- Risk-on score: `21.72`
+- Articles: `45`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T13:30:00+00:00`
+- Day/swing latest: `2026-10-23T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `23`, risk hits `9`, risk headline rate `0.3913`, policy hits `1`
-- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `1`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East (Energy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, state media say (BBC News)
-- [commodity] Brent crude oil tops $115, a five month high, as tensions swell in the Middle East (Energy)
 - [macro] Anti-terror police investigate as one person killed in shooting near Paris (BBC News)
 - [crypto] China targets 2030 for its national blockchain network buildout (Cointelegraph.com News)
 - [macro] Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank (BBC News)
@@ -37,4 +38,3 @@
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
 - [crypto] Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness (Cointelegraph.com News)
 - [macro] Denmark to ban mink farming in government U-turn (BBC News)
-- [macro] Earnings limit of up to £140K for first-time buyers loan scheme (BBC News)
