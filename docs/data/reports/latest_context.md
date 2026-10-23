@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T17:22:36.772936+00:00`
-- Market context score: `43.62`
-- News risk score: `44.5`
-- Macro risk score: `27.49`
-- Risk-on score: `22.66`
-- Articles: `46`
+- Generated: `2026-10-23T17:37:32.351972+00:00`
+- Market context score: `44.04`
+- News risk score: `45.61`
+- Macro risk score: `29.22`
+- Risk-on score: `25.19`
+- Articles: `47`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T17:15:00+00:00`
+- Day/swing latest: `2026-10-23T17:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `21`, risk hits `8`, risk headline rate `0.381`, policy hits `1`
 - macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets (Energy)
 - [macro] White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' (BBC News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin seeks support above $81K as Brent crude oil hits highest level since March (Cointelegraph.com News)
 - [macro] Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead (BBC News)
 - [macro] Oil spill washes up on UAE beaches after tanker strike (BBC News)
-- [macro] Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud (BBC News)
