@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T00:22:41.374597+00:00`
+- Generated: `2026-10-23T00:37:37.950889+00:00`
 - Market context score: `48.86`
 - News risk score: `41.83`
 - Macro risk score: `26.58`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T00:15:00+00:00`
+- Day/swing latest: `2026-10-23T00:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Trump ordered to answer questions under oath in BBC lawsuit (BBC News)
 - [macro] Powerful earthquake hits Tibet killing 16 people, reports say (BBC News)
+- [macro] Trump ordered to answer questions under oath in BBC lawsuit (BBC News)
 - [crypto] Pentagon bans US forces from using military info to bet in prediction markets (Cointelegraph.com News)
 - [macro] 'I'm 96 and have 15 million followers': The grannies taking over TikTok (BBC News)
 - [macro] Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds (BBC News)
