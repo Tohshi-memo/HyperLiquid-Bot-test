@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T18:07:32.767577+00:00`
+- Generated: `2026-10-23T18:22:29.162223+00:00`
 - Market context score: `43.99`
 - News risk score: `45.07`
 - Macro risk score: `29.2`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1701`
+- Asset universe count: `1702`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:237, crypto_major:8, equity:152, fx:6, index:26, metal:20, unknown:1239`
+- Asset classes: `commodity:13, crypto_alt:237, crypto_major:8, equity:152, fx:6, index:26, metal:20, unknown:1240`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T18:00:00+00:00`
+- Day/swing latest: `2026-10-23T18:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [crypto] US senator probes Tether after reported deal with ex-Trump crypto adviser (Cointelegraph.com News)
 - [commodity] Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets (Energy)
 - [macro] White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' (BBC News)
-- [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
 - [macro] Deadly shooting near Paris investigated as 'crime of terrorism', minister says (BBC News)
 - [crypto] SEC flags tokenization as high-risk area in 2027 market examinations (Cointelegraph.com News)
