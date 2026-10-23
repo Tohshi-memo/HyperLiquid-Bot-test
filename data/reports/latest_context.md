@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T08:22:30.814760+00:00`
-- Market context score: `41.59`
-- News risk score: `44.62`
-- Macro risk score: `25.69`
-- Risk-on score: `17.59`
-- Articles: `30`
+- Generated: `2026-10-23T08:37:30.033808+00:00`
+- Market context score: `40.69`
+- News risk score: `45.95`
+- Macro risk score: `25.72`
+- Risk-on score: `16.71`
+- Articles: `29`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T08:15:00+00:00`
+- Day/swing latest: `2026-10-23T08:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `0`
+- crypto: articles `15`, risk hits `7`, risk headline rate `0.4667`, policy hits `0`
 - macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `1`
 
 ## Headlines
 
+- [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
 - [macro] What is the Budget and what could be in it? (BBC News)
 - [macro] The Indian workers filming their work to train AI (BBC News)
 - [crypto] India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +37,3 @@
 - [crypto] Bitcoin ETFs bleed $635M as October slides back into the red (Cointelegraph.com News)
 - [macro] Lights will stay on this winter, grid operator says after concerns (BBC News)
 - [macro] Why a student protest movement is challenging 12 years of Vučić rule in Serbia (BBC News)
-- [macro] Powerful earthquake hits Tibet killing 16 people, reports say (BBC News)
