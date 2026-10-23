@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T12:52:30.420694+00:00`
-- Market context score: `41.66`
-- News risk score: `45.71`
-- Macro risk score: `29.47`
-- Risk-on score: `20.08`
+- Generated: `2026-10-23T13:07:27.822103+00:00`
+- Market context score: `41.47`
+- News risk score: `46.15`
+- Macro risk score: `28.76`
+- Risk-on score: `19.78`
 - Articles: `45`
 - Polymarket markets: `394`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T12:45:00+00:00`
+- Day/swing latest: `2026-10-23T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `9`, risk headline rate `0.3913`, policy hits `1`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `1`
+- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `1`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `1`
 
 ## Headlines
 
+- [macro] Seven shot dead by gunmen at church funeral in Jordan, state media say (BBC News)
 - [macro] Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank (BBC News)
 - [macro] Anti-terror police investigate as one person killed in shooting near Paris (BBC News)
 - [commodity] U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare (Energy)
@@ -37,4 +38,3 @@
 - [macro] Denmark to ban mink farming in government U-turn (BBC News)
 - [macro] Earnings limit of up to £140K for first-time buyers loan scheme (BBC News)
 - [crypto] Was crypto self-custody ever designed for beginners? (Cointelegraph.com News)
-- [macro] Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters (BBC News)
