@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T13:22:33.740525+00:00`
-- Market context score: `41.47`
-- News risk score: `46.15`
-- Macro risk score: `28.76`
-- Risk-on score: `19.78`
-- Articles: `45`
+- Generated: `2026-10-23T13:37:43.503363+00:00`
+- Market context score: `41.93`
+- News risk score: `45.59`
+- Macro risk score: `28.74`
+- Risk-on score: `20.32`
+- Articles: `46`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T13:15:00+00:00`
+- Day/swing latest: `2026-10-23T13:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `1`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `23`, risk hits `9`, risk headline rate `0.3913`, policy hits `1`
 - macro: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `1`
 
 ## Headlines
 
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, state media say (BBC News)
-- [macro] Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank (BBC News)
+- [commodity] Brent crude oil tops $115, a five month high, as tensions swell in the Middle East (Energy)
 - [macro] Anti-terror police investigate as one person killed in shooting near Paris (BBC News)
-- [commodity] U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare (Energy)
+- [crypto] China targets 2030 for its national blockchain network buildout (Cointelegraph.com News)
+- [macro] Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank (BBC News)
 - [crypto] New York AG seeks $1.37B from NovaTech founders over Ponzi scheme (Cointelegraph.com News)
 - [macro] What is PHP and why did it spark a global cyber-security scramble? (BBC News)
 - [crypto] Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness (Cointelegraph.com News)
 - [macro] Denmark to ban mink farming in government U-turn (BBC News)
 - [macro] Earnings limit of up to £140K for first-time buyers loan scheme (BBC News)
-- [crypto] Was crypto self-custody ever designed for beginners? (Cointelegraph.com News)
