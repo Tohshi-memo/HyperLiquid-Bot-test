@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T21:37:28.464528+00:00`
-- Market context score: `41.78`
-- News risk score: `47.44`
+- Generated: `2026-10-23T21:52:27.989755+00:00`
+- Market context score: `43.39`
+- News risk score: `45.07`
 - Macro risk score: `37.71`
-- Risk-on score: `24.92`
+- Risk-on score: `26.5`
 - Articles: `40`
 - Polymarket markets: `397`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T21:30:00+00:00`
+- Day/swing latest: `2026-10-23T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `0`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `0`
 - macro: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report (Cointelegraph.com News)
 - [macro] Argentina drops investigation into President Milei over crypto fraud (BBC News)
 - [crypto] IRS plans lower tax disclosure penalties, including for crypto: Forbes (Cointelegraph.com News)
 - [macro] Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey (Economy)
@@ -37,4 +38,3 @@
 - [macro] Deadly shooting near Paris is a 'racist terrorist attack', Macron says (BBC News)
 - [macro] White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster' (BBC News)
 - [commodity] Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East (Energy)
-- [commodity] Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets (Energy)
