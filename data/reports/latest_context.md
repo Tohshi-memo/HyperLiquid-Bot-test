@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-23T20:37:31.157885+00:00`
-- Market context score: `40.85`
-- News risk score: `48.72`
-- Macro risk score: `34.71`
-- Risk-on score: `22.8`
-- Articles: `45`
+- Generated: `2026-10-23T20:52:27.096180+00:00`
+- Market context score: `42.33`
+- News risk score: `48.4`
+- Macro risk score: `33.16`
+- Risk-on score: `25.25`
+- Articles: `43`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-23T20:30:00+00:00`
+- Day/swing latest: `2026-10-23T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `8`, risk headline rate `0.4`, policy hits `1`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.3043`, policy hits `1`
+- crypto: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `1`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `1`
 
 ## Headlines
 
-- [macro] Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say (BBC News)
+- [macro] Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey (Economy)
 - [macro] White House says the US is lifting tariffs on some Canadian goods (BBC News)
+- [macro] Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say (BBC News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [macro] Deadly shooting near Paris is a 'racist terrorist attack', Macron says (BBC News)
 - [macro] White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster' (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets (Energy)
 - [macro] Ukraine says Starlink still restricted after Trump says limits lifted (BBC News)
 - [crypto] Initia halts blockchain after exploit reportedly drains over $2.6M (Cointelegraph.com News)
-- [crypto] US senator probes Tether after reported deal with ex-Trump crypto adviser (Cointelegraph.com News)
