@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T11:22:29.949735+00:00`
+- Generated: `2026-10-24T11:37:33.301452+00:00`
 - Market context score: `57.69`
 - News risk score: `28.71`
 - Macro risk score: `33.43`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T11:15:00+00:00`
+- Day/swing latest: `2026-10-24T11:30:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [macro] Ukraine says Starlink connection 'now stable' after network limits (BBC News)
 - [macro] Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat (BBC News)
+- [macro] Ukraine says Starlink connection 'now stable' after network limits (BBC News)
 - [macro] Woman, 65, becomes second patient to die of Ebola in Kenya (BBC News)
 - [macro] British woman dies after trying to rescue sons swept away at sea in the Bahamas (BBC News)
 - [macro] Seven missing after multi-storey building collapses in Kenya's capital (BBC News)
