@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T22:07:28.324327+00:00`
-- Market context score: `61.21`
-- News risk score: `24.51`
-- Macro risk score: `13.47`
+- Generated: `2026-10-24T22:22:30.217936+00:00`
+- Market context score: `61.24`
+- News risk score: `24.46`
+- Macro risk score: `13.39`
 - Risk-on score: `39.58`
-- Articles: `17`
+- Articles: `18`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T22:00:00+00:00`
+- Day/swing latest: `2026-10-24T22:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `1`
-- macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Who are the candidates in Brazil's presidential election? (BBC News)
 - [macro] Almost 1,000 arrested as clashes follow another day of mass protests across France (BBC News)
 - [macro] Fireworks and tear gas as protesters and riot police clash in Paris (BBC News)
 - [macro] Vanessa Trump says she is cancer-free six months after revealing diagnosis (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Fire engulfs Hitler's mountaintop Eagle's Nest retreat (BBC News)
 - [macro] Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat (BBC News)
-- [crypto] Block's new voice AI sounds eerily human, sparking awe and scam fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
