@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T06:07:30.931866+00:00`
+- Generated: `2026-10-24T06:22:26.203273+00:00`
 - Market context score: `49.84`
 - News risk score: `40.16`
 - Macro risk score: `33.82`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T06:00:00+00:00`
+- Day/swing latest: `2026-10-24T06:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] France prepares for day of protest a week after nationwide riots (BBC News)
 - [macro] How Brazil's changing working class is reshaping the presidential race (BBC News)
 - [macro] The rise of AI election ads in US midterms campaign (BBC News)
 - [crypto] Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] France prepares for day of protest a week after nationwide riots (BBC News)
 - [macro] Arrest made after fire at Hitler's Eagle's Nest retreat (BBC News)
 - [macro] Australian MP's condition improves after alleged car attack (BBC News)
 - [macro] White House lifts tariffs on some Canadian goods as midterm elections loom (BBC News)
