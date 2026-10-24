@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T19:37:32.053091+00:00`
+- Generated: `2026-10-24T19:52:24.523198+00:00`
 - Market context score: `54.41`
 - News risk score: `31.17`
 - Macro risk score: `26.8`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T19:30:00+00:00`
+- Day/swing latest: `2026-10-24T19:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 
 - [macro] Vanessa Trump says she is cancer-free six months after revealing diagnosis (BBC News)
 - [macro] Two rescued after Nairobi building collapse with five still missing (BBC News)
-- [macro] Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say (BBC News)
+- [macro] Palestinian families displaced as Israeli forces demolish Hebron homes (BBC News)
 - [macro] British woman dies after trying to rescue sons swept away at sea in the Bahamas (BBC News)
 - [crypto] Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat (BBC News)
