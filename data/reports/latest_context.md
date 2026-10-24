@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T21:16:18.813625+00:00`
-- Market context score: `55.12`
-- News risk score: `30.46`
-- Macro risk score: `25.39`
-- Risk-on score: `35.58`
-- Articles: `18`
-- Polymarket markets: `395`
+- Generated: `2026-10-24T21:22:30.642181+00:00`
+- Market context score: `55.71`
+- News risk score: `29.87`
+- Macro risk score: `24.22`
+- Risk-on score: `35.95`
+- Articles: `19`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -23,10 +23,11 @@
 ## News Categories
 
 - crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `1`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
+- [macro] Almost 1,000 arrested as clashes follow another day of mass protests across France (BBC News)
 - [macro] Fireworks and tear gas as protesters and riot police clash in Paris (BBC News)
 - [macro] Vanessa Trump says she is cancer-free six months after revealing diagnosis (BBC News)
 - [macro] Two rescued after Nairobi building collapse with five still missing (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Fire engulfs Hitler's mountaintop Eagle's Nest retreat (BBC News)
 - [macro] Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat (BBC News)
 - [crypto] Block's new voice AI sounds eerily human, sparking awe and scam fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
