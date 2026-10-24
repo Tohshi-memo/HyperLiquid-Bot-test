@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T14:07:29.440743+00:00`
+- Generated: `2026-10-24T14:22:26.332534+00:00`
 - Market context score: `54.85`
 - News risk score: `35.25`
 - Macro risk score: `24.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T14:00:00+00:00`
+- Day/swing latest: `2026-10-24T14:15:00+00:00`
 
 ## News Categories
 
@@ -27,11 +27,11 @@
 
 ## Headlines
 
+- [macro] Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat (BBC News)
 - [crypto] Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukraine says Starlink connection 'now stable' after network limits (BBC News)
 - [crypto] U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat (BBC News)
 - [macro] Woman, 65, becomes second patient to die of Ebola in Kenya (BBC News)
 - [macro] British woman dies after trying to rescue sons swept away at sea in the Bahamas (BBC News)
 - [macro] Seven missing after multi-storey building collapses in Kenya's capital (BBC News)
