@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T13:52:27.161771+00:00`
-- Market context score: `60.27`
-- News risk score: `26.18`
-- Macro risk score: `28.36`
-- Risk-on score: `44.55`
-- Articles: `13`
-- Polymarket markets: `397`
+- Generated: `2026-10-24T14:07:29.440743+00:00`
+- Market context score: `54.85`
+- News risk score: `35.25`
+- Macro risk score: `24.0`
+- Risk-on score: `38.5`
+- Articles: `14`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T13:45:00+00:00`
+- Day/swing latest: `2026-10-24T14:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukraine says Starlink connection 'now stable' after network limits (BBC News)
 - [crypto] U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat (BBC News)
@@ -35,5 +37,3 @@
 - [macro] Seven missing after multi-storey building collapses in Kenya's capital (BBC News)
 - [macro] Three released without charge after fatal arson attack in Ireland (BBC News)
 - [macro] White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster' (BBC News)
-- [macro] Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC (BBC News)
-- [macro] How Brazil's changing working class is reshaping the presidential race (BBC News)
