@@ -1,6 +1,6 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-10-24T06:37:25.968333+00:00`
+- Generated: `2026-10-24T06:52:25.871725+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
 - Outcome markets: `356`
 - Outcome sides (rows): `712`
@@ -29,9 +29,9 @@
 - template:sportsContestWinner [template:{shortNameB}] symbol `#153241` underlying `n/a` prob `0.995` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#25551` underlying `n/a` prob `0.9939` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardCandidate [No] symbol `#86611` underlying `n/a` prob `0.9925` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:awardCandidate [No] symbol `#86641` underlying `n/a` prob `0.9891` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:awardCandidate [No] symbol `#86641` underlying `n/a` prob `0.9888` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:Yes] symbol `#73550` underlying `n/a` prob `0.9883` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:companyIpoConfirmed [template:No] symbol `#25981` underlying `n/a` prob `0.9882` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:Yes] symbol `#73550` underlying `n/a` prob `0.9882` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:awardOther [No] symbol `#86581` underlying `n/a` prob `0.9873` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#114991` underlying `n/a` prob `0.9867` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14771` underlying `n/a` prob `0.9865` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -39,14 +39,14 @@
 - template:priceTouch [template:No] symbol `#71811` underlying `n/a` prob `0.979` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#79481` underlying `n/a` prob `0.9786` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14921` underlying `n/a` prob `0.9778` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:No] symbol `#71751` underlying `n/a` prob `0.9748` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:No] symbol `#71751` underlying `n/a` prob `0.9749` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:priceTouch [template:No] symbol `#71801` underlying `n/a` prob `0.9735` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:No] symbol `#79491` underlying `n/a` prob `0.9727` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:No] symbol `#79491` underlying `n/a` prob `0.9728` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#145741` underlying `n/a` prob `0.9683` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#154101` underlying `n/a` prob `0.9665` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:No] symbol `#160921` underlying `n/a` prob `0.9639` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#145681` underlying `n/a` prob `0.9617` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:No] symbol `#160921` underlying `n/a` prob `0.9589` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:sportsTournamentParticipant [No] symbol `#114981` underlying `n/a` prob `0.9548` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#165461` underlying `n/a` prob `0.959` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
@@ -56,8 +56,8 @@
 - template:binaryPrice [template:No] symbol `#157971` underlying `n/a` prob `0.5006` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [Yes] symbol `#14880` underlying `n/a` prob `0.1122` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14881` underlying `n/a` prob `0.8878` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:sportsTotal [template:Over] symbol `#157660` underlying `n/a` prob `0.5348` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:sportsTotal [template:Under] symbol `#157661` underlying `n/a` prob `0.4652` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:sportsTotal [template:Over] symbol `#157660` underlying `n/a` prob `0.5327` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:sportsTotal [template:Under] symbol `#157661` underlying `n/a` prob `0.4673` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:Yes] symbol `#161100` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#161101` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [Yes] symbol `#14890` underlying `n/a` prob `0.0585` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -66,10 +66,10 @@
 - template:binaryPrice [template:No] symbol `#154101` underlying `n/a` prob `0.9665` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [Yes] symbol `#25520` underlying `n/a` prob `0.0978` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#25521` underlying `n/a` prob `0.9022` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:Yes] symbol `#71860` underlying `n/a` prob `0.7598` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:No] symbol `#71861` underlying `n/a` prob `0.2402` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:Yes] symbol `#165520` underlying `n/a` prob `0.2194` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:No] symbol `#165521` underlying `n/a` prob `0.7806` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:Yes] symbol `#71860` underlying `n/a` prob `0.7597` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:No] symbol `#71861` underlying `n/a` prob `0.2403` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:Yes] symbol `#165560` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:No] symbol `#165561` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [Yes] symbol `#152910` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [No] symbol `#152911` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [Yes] symbol `#162610` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -84,8 +84,8 @@
 - template:binaryPrice [template:No] symbol `#157971` underlying `n/a` prob `0.5006` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [Yes] symbol `#14880` underlying `n/a` prob `0.1122` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14881` underlying `n/a` prob `0.8878` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:sportsTotal [template:Over] symbol `#157660` underlying `n/a` prob `0.5348` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:sportsTotal [template:Under] symbol `#157661` underlying `n/a` prob `0.4652` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:sportsTotal [template:Over] symbol `#157660` underlying `n/a` prob `0.5327` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:sportsTotal [template:Under] symbol `#157661` underlying `n/a` prob `0.4673` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:Yes] symbol `#161100` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#161101` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [Yes] symbol `#14890` underlying `n/a` prob `0.0585` price_source `allMids` vol24h `0.0` oi `0.0`
@@ -94,10 +94,10 @@
 - template:binaryPrice [template:No] symbol `#154101` underlying `n/a` prob `0.9665` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [Yes] symbol `#25520` underlying `n/a` prob `0.0978` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#25521` underlying `n/a` prob `0.9022` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:Yes] symbol `#71860` underlying `n/a` prob `0.7598` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:No] symbol `#71861` underlying `n/a` prob `0.2402` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:Yes] symbol `#165520` underlying `n/a` prob `0.2194` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:No] symbol `#165521` underlying `n/a` prob `0.7806` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:Yes] symbol `#71860` underlying `n/a` prob `0.7597` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:No] symbol `#71861` underlying `n/a` prob `0.2403` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:Yes] symbol `#165560` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:No] symbol `#165561` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [Yes] symbol `#152910` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [No] symbol `#152911` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
 - template fallback [Yes] symbol `#162610` underlying `n/a` prob `0.5` price_source `allMids` vol24h `0.0` oi `0.0`
