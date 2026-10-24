@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T05:07:24.777317+00:00`
-- Market context score: `48.46`
-- News risk score: `39.0`
-- Macro risk score: `36.0`
-- Risk-on score: `32.0`
-- Articles: `25`
+- Generated: `2026-10-24T05:22:27.494033+00:00`
+- Market context score: `49.57`
+- News risk score: `37.91`
+- Macro risk score: `33.82`
+- Risk-on score: `32.73`
+- Articles: `27`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T05:00:00+00:00`
+- Day/swing latest: `2026-10-24T05:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `18`, risk hits `6`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [macro] How Brazil's changing working class is reshaping the presidential race (BBC News)
+- [macro] The rise of AI election ads in US midterms campaign (BBC News)
 - [crypto] Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] France prepares for day of protest a week after nationwide riots (BBC News)
 - [macro] Arrest made after fire at Hitler's Eagle's Nest retreat (BBC News)
@@ -36,5 +38,3 @@
 - [macro] How does the UK state pension compare with other countries? (BBC News)
 - [macro] UK to invest £100m in 'world first' AI Biosecurity Lab (BBC News)
 - [macro] Woman, 65, becomes second patient to die of Ebola in Kenya (BBC News)
-- [macro] Are California voters about to impose world's first 'tax on billionaires'? (BBC News)
-- [macro] Ruins of Limoges city hall a symbol of France divided by national protests (BBC News)
