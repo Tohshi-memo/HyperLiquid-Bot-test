@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T15:54:34.229155+00:00`
-- Market context score: `50.23`
-- News risk score: `29.08`
-- Macro risk score: `22.91`
-- Risk-on score: `22.61`
-- Articles: `19`
-- Polymarket markets: `395`
+- Generated: `2026-10-24T16:07:25.830621+00:00`
+- Market context score: `56.65`
+- News risk score: `28.71`
+- Macro risk score: `23.19`
+- Risk-on score: `36.67`
+- Articles: `21`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T15:45:00+00:00`
+- Day/swing latest: `2026-10-24T16:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
-- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `1`
+- macro: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat (BBC News)
 - [macro] Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat (BBC News)
 - [crypto] Block's new voice AI sounds eerily human, sparking awe and scam fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,5 +37,3 @@
 - [crypto] Argentina drops criminal probe into President Milei over crashed memecoin LIBRA (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ukraine says Starlink connection 'now stable' after network limits (BBC News)
-- [crypto] U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
