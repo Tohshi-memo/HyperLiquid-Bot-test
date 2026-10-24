@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-24T04:55:30.545195+00:00`
+- Generated: `2026-10-24T05:00:43.425849+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- 2026 Balance of Power: D Senate, R House | 24h volume: `2903118.871837` | liquidity: `3384039.87873`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1356474.4715729998` | liquidity: `1710178.2622`
-- NATO x Russia military clash by October 31, 2026? | 24h volume: `1352237.2158399997` | liquidity: `73747.45457`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1282912.9922870002` | liquidity: `991515.8084`
-- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `1263703.6102079998` | liquidity: `209124.34785`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1213723.976862` | liquidity: `3462656.2769`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `995288.6360289999` | liquidity: `693207.45216`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `744054.6042259999` | liquidity: `715870.3867`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `2903118.871837` | liquidity: `3386064.92833`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1356474.4715729998` | liquidity: `1702132.3312`
+- NATO x Russia military clash by October 31, 2026? | 24h volume: `1352237.2158399997` | liquidity: `73778.07872`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1282912.9922870002` | liquidity: `992054.2339`
+- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `1263703.6102079998` | liquidity: `216508.60785`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1213723.976862` | liquidity: `3464545.2904`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `995288.6360289999` | liquidity: `687838.74535`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `744054.6042259999` | liquidity: `741676.5787`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
