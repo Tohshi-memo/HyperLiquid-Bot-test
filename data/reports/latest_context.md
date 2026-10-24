@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T00:07:36.278718+00:00`
-- Market context score: `41.07`
-- News risk score: `46.16`
-- Macro risk score: `43.76`
-- Risk-on score: `24.56`
-- Articles: `28`
+- Generated: `2026-10-24T00:22:31.963821+00:00`
+- Market context score: `42.72`
+- News risk score: `45.27`
+- Macro risk score: `42.0`
+- Risk-on score: `26.82`
+- Articles: `29`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T00:00:00+00:00`
+- Day/swing latest: `2026-10-24T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
-- macro: articles `15`, risk hits `7`, risk headline rate `0.4667`, policy hits `0`
+- macro: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `0`
 
 ## Headlines
 
+- [macro] How does the UK state pension compare with other countries? (BBC News)
+- [macro] UK to invest £100m in 'world first' AI Biosecurity Lab (BBC News)
 - [macro] White House lifts tariffs on some Canadian goods as midterm elections loom (BBC News)
 - [crypto] Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report (Cointelegraph.com News)
 - [macro] Argentina drops investigation into President Milei over crypto fraud (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say (BBC News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
 - [macro] Deadly shooting near Paris is a 'racist terrorist attack', Macron says (BBC News)
-- [macro] White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster' (BBC News)
-- [commodity] Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East (Energy)
