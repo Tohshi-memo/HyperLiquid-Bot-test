@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T03:52:25.988599+00:00`
+- Generated: `2026-10-24T04:07:29.840622+00:00`
 - Market context score: `39.26`
 - News risk score: `49.85`
 - Macro risk score: `39.69`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T03:45:00+00:00`
+- Day/swing latest: `2026-10-24T04:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Arrest made after fire at Hitler's Eagle's Nest retreat (BBC News)
 - [macro] White House lifts tariffs on some Canadian goods as midterm elections loom (BBC News)
 - [macro] How does the UK state pension compare with other countries? (BBC News)
 - [macro] UK to invest £100m in 'world first' AI Biosecurity Lab (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey (Economy)
 - [macro] Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say (BBC News)
 - [macro] Seven shot dead by gunmen at church funeral in Jordan, officials say (BBC News)
-- [macro] Deadly shooting near Paris is a 'racist terrorist attack', Macron says (BBC News)
