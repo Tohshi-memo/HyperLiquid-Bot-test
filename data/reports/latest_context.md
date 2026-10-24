@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T19:07:30.561175+00:00`
-- Market context score: `55.12`
-- News risk score: `30.46`
-- Macro risk score: `25.39`
-- Risk-on score: `35.58`
-- Articles: `18`
+- Generated: `2026-10-24T19:22:30.976403+00:00`
+- Market context score: `54.41`
+- News risk score: `31.17`
+- Macro risk score: `26.8`
+- Risk-on score: `35.14`
+- Articles: `17`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T19:00:00+00:00`
+- Day/swing latest: `2026-10-24T19:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `1`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [macro] Vanessa Trump says she is cancer-free six months after revealing diagnosis (BBC News)
 - [macro] Two rescued after Nairobi building collapse with five still missing (BBC News)
 - [macro] Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say (BBC News)
 - [macro] British woman dies after trying to rescue sons swept away at sea in the Bahamas (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Block's new voice AI sounds eerily human, sparking awe and scam fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Vanessa Trump says she is cancer-free six months after revealing diagnosis (BBC News)
