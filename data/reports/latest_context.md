@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-24T07:22:27.408924+00:00`
-- Market context score: `58.96`
-- News risk score: `27.47`
-- Macro risk score: `30.95`
-- Risk-on score: `43.68`
-- Articles: `22`
+- Generated: `2026-10-24T07:37:30.963043+00:00`
+- Market context score: `58.88`
+- News risk score: `27.55`
+- Macro risk score: `31.09`
+- Risk-on score: `43.64`
+- Articles: `25`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-24T07:15:00+00:00`
+- Day/swing latest: `2026-10-24T07:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `0`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `0`
 
 ## Headlines
 
@@ -36,4 +36,4 @@
 - [macro] Arrest made after fire at Hitler's famed Eagle's Nest retreat (BBC News)
 - [macro] Australian MP's condition improves after alleged car attack (BBC News)
 - [macro] White House lifts tariffs on some Canadian goods as midterm elections loom (BBC News)
-- [macro] How does the UK state pension compare with other countries? (BBC News)
+- [macro] White House lifts tariffs on some Canadian goods as midterm elections loom (BBC News)
