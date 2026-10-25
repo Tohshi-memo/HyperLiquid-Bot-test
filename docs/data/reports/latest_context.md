@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T08:37:29.005659+00:00`
+- Generated: `2026-10-25T08:52:29.498849+00:00`
 - Market context score: `51.27`
 - News risk score: `26.18`
 - Macro risk score: `28.36`
 - Risk-on score: `24.55`
 - Articles: `11`
-- Polymarket markets: `395`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T08:30:00+00:00`
+- Day/swing latest: `2026-10-25T08:45:00+00:00`
 
 ## News Categories
 
@@ -35,4 +35,4 @@
 - [macro] Budget to include £1bn for social and affordable housing (BBC News)
 - [macro] Obama attacks Trump as he campaigns for Democrats ahead of midterm elections (BBC News)
 - [macro] Voters in Brazil to choose between Lula and Bolsonaro's son (BBC News)
-- [macro] The bitter row over military service that could shape Israel's future (BBC News)
+- [macro] From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa (BBC News)
