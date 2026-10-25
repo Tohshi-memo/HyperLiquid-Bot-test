@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T23:22:29.423323+00:00`
+- Generated: `2026-10-25T23:37:27.110198+00:00`
 - Market context score: `43.55`
 - News risk score: `39.75`
 - Macro risk score: `19.5`
 - Risk-on score: `15.5`
 - Articles: `13`
-- Polymarket markets: `397`
+- Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T23:15:00+00:00`
+- Day/swing latest: `2026-10-25T23:30:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [macro] Serbia's veteran ruler Vučić concedes election to student-led protest movement (BBC News)
 - [crypto] AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Deeply divided Israel braces for pivotal election (BBC News)
 - [macro] Why Israel's election is one of the most important in its history (BBC News)
 - [macro] Death toll in Nigeria village raided by gunmen rises to 48, police say (BBC News)
-- [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [macro] Suspect in deadly Paris suburb shooting sent for psychiatric observation (BBC News)
 - [crypto] ECB official sees digital euro as key to protecting EU ‘sovereignty’ (Cointelegraph.com News)
 - [crypto] Latvia targets tokenization rules in 2027 with commercial property in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
