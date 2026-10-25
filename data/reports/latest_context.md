@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T11:52:32.156508+00:00`
+- Generated: `2026-10-25T12:07:28.805721+00:00`
 - Market context score: `24.04`
 - News risk score: `69.92`
 - Macro risk score: `25.85`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T11:45:00+00:00`
+- Day/swing latest: `2026-10-25T12:00:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
-- [crypto] Netanyahu floats use of blockchain as solution to potential financial sanctions (Cointelegraph.com News)
 - [macro] Voters in Brazil head to polls as Lula goes up against Bolsonaro's son (BBC News)
+- [crypto] Netanyahu floats use of blockchain as solution to potential financial sanctions (Cointelegraph.com News)
 - [macro] El Salvador president says bodies found in Haiti are not those of hostages (BBC News)
 - [macro] More than 1,300 arrested as clashes follow another day of mass protests across France (BBC News)
 - [macro] Budget to include £1bn for social and affordable housing (BBC News)
