@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T09:37:28.787094+00:00`
-- Market context score: `51.27`
-- News risk score: `26.18`
-- Macro risk score: `28.36`
-- Risk-on score: `24.55`
-- Articles: `11`
-- Polymarket markets: `395`
+- Generated: `2026-10-25T09:52:27.317202+00:00`
+- Market context score: `53.88`
+- News risk score: `23.62`
+- Macro risk score: `23.25`
+- Risk-on score: `26.25`
+- Articles: `16`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,21 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T09:30:00+00:00`
+- Day/swing latest: `2026-10-25T09:45:00+00:00`
 
 ## News Categories
 
-- macro: articles `11`, risk hits `4`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `16`, risk hits `4`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
 - [macro] Almost 1,000 arrested as clashes follow another day of mass protests across France (BBC News)
 - [macro] Musk says SpaceX restricted Ukraine's Starlink connection as service restored (BBC News)
+- [macro] 'I cannot teach you integrity': How employee theft is hurting small businesses in Africa (BBC News)
 - [macro] Rosebank: Life on the oil field at the centre of a political storm (BBC News)
 - [macro] Four ways Labour could raise money in the Budget without hiking income tax (BBC News)
+- [macro] Why is Ukraine so reliant on Starlink and can Europe plug the gap? (BBC News)
 - [macro] Israel to close West Bank crossings on election day as crackdown escalates (BBC News)
 - [macro] Gunmen kill at least 10 villagers and loot shops in north-east Nigeria (BBC News)
 - [macro] Budget to include £1bn for social and affordable housing (BBC News)
 - [macro] Obama attacks Trump as he campaigns for Democrats ahead of midterm elections (BBC News)
-- [macro] Voters in Brazil to choose between Lula and Bolsonaro's son (BBC News)
-- [macro] From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa (BBC News)
