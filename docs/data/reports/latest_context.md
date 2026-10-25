@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T21:07:24.346414+00:00`
-- Market context score: `46.92`
+- Generated: `2026-10-25T21:22:36.923741+00:00`
+- Market context score: `40.92`
 - News risk score: `43.83`
 - Macro risk score: `18.67`
-- Risk-on score: `26.11`
+- Risk-on score: `12.78`
 - Articles: `13`
 - Polymarket markets: `396`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T21:00:00+00:00`
+- Day/swing latest: `2026-10-25T21:15:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Early reports suggest record high turnout in Serbia elections (BBC News)
+- [macro] Serbia's Vučić concedes election defeat to student-led protest movement (BBC News)
 - [macro] Death toll in Nigeria village raided by gunmen rises to 48, police say (BBC News)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [macro] Suspect in deadly Paris suburb shooting sent for psychiatric observation (BBC News)
