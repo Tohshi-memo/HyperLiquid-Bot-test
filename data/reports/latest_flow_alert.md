@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-25T01:50:33.640272+00:00`
-- Flow alert score: `18.16`
+- Generated: `2026-10-25T01:55:29.686246+00:00`
+- Flow alert score: `18.32`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12866181.96`
-- Polymarket volume z-score: `0.29`
+- Polymarket 24h volume: `13020399.15`
+- Polymarket volume z-score: `0.33`
 
 ## Top Polymarket Markets
 
-- 2026 Balance of Power: D Senate, R House | 24h volume: `2426709.354123` | liquidity: `3289618.19471`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1515198.083416` | liquidity: `640579.62072`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1283589.889862` | liquidity: `676723.6694`
-- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `898036.67431` | liquidity: `1679517.47103`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `832309.2486239999` | liquidity: `3631041.3039`
-- Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election? | 24h volume: `609560.7956499999` | liquidity: `363534.9355`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `566845.4343779999` | liquidity: `2086583.43`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `543695.4567630001` | liquidity: `1566179.9219`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `2426709.354123` | liquidity: `3287724.00275`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1517544.9505899998` | liquidity: `529078.04644`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1286567.5872010004` | liquidity: `676798.1111`
+- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `897544.56431` | liquidity: `1678217.35103`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `836919.9286239999` | liquidity: `3631734.4988`
+- Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election? | 24h volume: `608759.0445389999` | liquidity: `347288.3922`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `566903.434378` | liquidity: `2086501.3779`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `548612.4567379999` | liquidity: `1560103.2599`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
