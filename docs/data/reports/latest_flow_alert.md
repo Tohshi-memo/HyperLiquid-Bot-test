@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-25T00:55:34.455822+00:00`
+- Generated: `2026-10-25T01:00:36.742129+00:00`
 - Flow alert score: `18.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- 2026 Balance of Power: D Senate, R House | 24h volume: `2412344.644123` | liquidity: `3289605.80304`
-- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1477811.168098` | liquidity: `832973.84597`
-- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1273974.245092` | liquidity: `698007.7798`
-- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `901819.75431` | liquidity: `1679572.32603`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `835655.009376` | liquidity: `3621327.5763`
-- Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election? | 24h volume: `571749.657922` | liquidity: `372268.6996`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `564662.0376540002` | liquidity: `2113415.0633`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `523460.1667630001` | liquidity: `1563395.0841`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `2412344.644123` | liquidity: `3289407.45203`
+- Will Flávio Bolsonaro win the 2026 Brazilian presidential election? | 24h volume: `1477811.168098` | liquidity: `839579.37161`
+- Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? | 24h volume: `1273974.245092` | liquidity: `683074.6053`
+- Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026? | 24h volume: `901819.75431` | liquidity: `1678672.60603`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `835655.009376` | liquidity: `3621528.5985`
+- Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election? | 24h volume: `571749.657922` | liquidity: `382851.1381`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `564662.0376540002` | liquidity: `2120850.3848`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `523460.1667630001` | liquidity: `1582069.8891`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
