@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T19:07:29.301456+00:00`
-- Market context score: `43.26`
-- News risk score: `45.95`
-- Macro risk score: `22.91`
-- Risk-on score: `21.36`
+- Generated: `2026-10-25T19:16:29.618103+00:00`
+- Market context score: `47.54`
+- News risk score: `43.23`
+- Macro risk score: `17.45`
+- Risk-on score: `26.52`
 - Articles: `15`
 - Polymarket markets: `396`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T19:00:00+00:00`
+- Day/swing latest: `2026-10-25T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `10`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [macro] Death toll in Nigeria village raided by gunmen rises to 48, police say (BBC News)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [macro] Early reports suggest record high turnout in Serbia elections (BBC News)
 - [macro] Suspect in deadly Paris suburb shooting sent for psychiatric observation (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis (Energy)
 - [crypto] UK banks face 10,000 complaints in 3 months over crypto restrictions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Netanyahu floats use of blockchain as solution to potential financial sanctions (Cointelegraph.com News)
-- [macro] El Salvador president says bodies found in Haiti are not those of hostages (BBC News)
