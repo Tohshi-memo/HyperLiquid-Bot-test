@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T09:22:27.573110+00:00`
+- Generated: `2026-10-25T09:37:28.787094+00:00`
 - Market context score: `51.27`
 - News risk score: `26.18`
 - Macro risk score: `28.36`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T09:15:00+00:00`
+- Day/swing latest: `2026-10-25T09:30:00+00:00`
 
 ## News Categories
 
@@ -26,11 +26,11 @@
 
 ## Headlines
 
+- [macro] Almost 1,000 arrested as clashes follow another day of mass protests across France (BBC News)
 - [macro] Musk says SpaceX restricted Ukraine's Starlink connection as service restored (BBC News)
 - [macro] Rosebank: Life on the oil field at the centre of a political storm (BBC News)
 - [macro] Four ways Labour could raise money in the Budget without hiking income tax (BBC News)
 - [macro] Israel to close West Bank crossings on election day as crackdown escalates (BBC News)
-- [macro] Almost 1,000 arrested as clashes follow another day of mass protests across France (BBC News)
 - [macro] Gunmen kill at least 10 villagers and loot shops in north-east Nigeria (BBC News)
 - [macro] Budget to include £1bn for social and affordable housing (BBC News)
 - [macro] Obama attacks Trump as he campaigns for Democrats ahead of midterm elections (BBC News)
