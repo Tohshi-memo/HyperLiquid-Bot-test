@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T16:22:30.769379+00:00`
+- Generated: `2026-10-25T16:37:21.615672+00:00`
 - Market context score: `41.36`
 - News risk score: `46.93`
 - Macro risk score: `24.86`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T16:15:00+00:00`
+- Day/swing latest: `2026-10-25T16:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [macro] Early reports suggest record high turnout in Serbia elections (BBC News)
 - [macro] Suspect in deadly Paris suburb shooting sent for psychiatric observation (BBC News)
 - [crypto] ECB official sees digital euro as key to protecting EU ‘sovereignty’ (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] UK banks face 10,000 complaints in 3 months over crypto restrictions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Netanyahu floats use of blockchain as solution to potential financial sanctions (Cointelegraph.com News)
 - [macro] El Salvador president says bodies found in Haiti are not those of hostages (BBC News)
-- [macro] More than 1,300 arrested as clashes follow another day of mass protests across France (BBC News)
