@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T03:52:26.843367+00:00`
-- Market context score: `64.22`
-- News risk score: `22.83`
-- Macro risk score: `21.17`
-- Risk-on score: `47.78`
-- Articles: `10`
+- Generated: `2026-10-25T04:07:26.124119+00:00`
+- Market context score: `55.8`
+- News risk score: `21.75`
+- Macro risk score: `19.5`
+- Risk-on score: `27.5`
+- Articles: `8`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T03:45:00+00:00`
+- Day/swing latest: `2026-10-25T04:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
@@ -35,5 +34,3 @@
 - [macro] Vanessa Trump says she is cancer-free six months after revealing diagnosis (BBC News)
 - [macro] Two rescued after Nairobi building collapse with five still missing (BBC News)
 - [macro] British woman dies after trying to rescue sons swept away at sea in the Bahamas (BBC News)
-- [crypto] Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Fire engulfs Hitler's mountaintop Eagle's Nest retreat (BBC News)
