@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T05:22:35.382103+00:00`
-- Market context score: `55.8`
-- News risk score: `21.75`
-- Macro risk score: `19.5`
-- Risk-on score: `27.5`
-- Articles: `8`
+- Generated: `2026-10-25T05:37:26.412592+00:00`
+- Market context score: `55.25`
+- News risk score: `22.29`
+- Macro risk score: `20.57`
+- Risk-on score: `27.14`
+- Articles: `7`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T05:15:00+00:00`
+- Day/swing latest: `2026-10-25T05:30:00+00:00`
 
 ## News Categories
 
-- macro: articles `8`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
@@ -33,4 +33,3 @@
 - [macro] Who are the candidates in Brazil's presidential election? (BBC News)
 - [macro] Fireworks and tear gas as protesters and riot police clash in Paris (BBC News)
 - [macro] Vanessa Trump says she is cancer-free six months after revealing diagnosis (BBC News)
-- [macro] Two rescued after Nairobi building collapse with five still missing (BBC News)
