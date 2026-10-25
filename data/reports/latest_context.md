@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T10:22:32.940708+00:00`
-- Market context score: `53.5`
-- News risk score: `24.0`
-- Macro risk score: `24.0`
-- Risk-on score: `26.0`
-- Articles: `15`
+- Generated: `2026-10-25T10:37:26.306510+00:00`
+- Market context score: `53.88`
+- News risk score: `23.62`
+- Macro risk score: `23.25`
+- Risk-on score: `26.25`
+- Articles: `16`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T10:15:00+00:00`
+- Day/swing latest: `2026-10-25T10:30:00+00:00`
 
 ## News Categories
 
-- macro: articles `15`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `16`, risk hits `4`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
@@ -31,8 +31,8 @@
 - [macro] Musk says SpaceX restricted Ukraine's Starlink connection as service restored (BBC News)
 - [macro] 'I cannot teach you integrity': How employee theft is hurting small businesses in Africa (BBC News)
 - [macro] Rosebank: Life on the oil field at the centre of a political storm (BBC News)
+- [macro] Will a new code end 'rip-off parking charges'? (BBC News)
 - [macro] Four ways Labour could raise money in the Budget without hiking income tax (BBC News)
 - [macro] Why is Ukraine so reliant on Starlink and can Europe plug the gap? (BBC News)
 - [macro] Israel to close West Bank crossings on election day as crackdown escalates (BBC News)
 - [macro] Gunmen kill at least 10 villagers and loot shops in north-east Nigeria (BBC News)
-- [macro] Obama attacks Trump as he campaigns for Democrats ahead of midterm elections (BBC News)
