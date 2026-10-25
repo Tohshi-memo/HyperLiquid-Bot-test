@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T21:52:27.339178+00:00`
+- Generated: `2026-10-25T21:56:09.918616+00:00`
 - Market context score: `40.92`
 - News risk score: `43.83`
 - Macro risk score: `18.67`
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Serbia's Vučić concedes election defeat to student-led protest movement (BBC News)
+- [macro] Serbia's veteran ruler Vučić concedes election to student-led protest movement (BBC News)
 - [macro] Death toll in Nigeria village raided by gunmen rises to 48, police say (BBC News)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [macro] Suspect in deadly Paris suburb shooting sent for psychiatric observation (BBC News)
