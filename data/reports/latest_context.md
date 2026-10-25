@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T19:52:28.784812+00:00`
+- Generated: `2026-10-25T20:07:27.072239+00:00`
 - Market context score: `47.54`
 - News risk score: `43.23`
 - Macro risk score: `17.45`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T19:45:00+00:00`
+- Day/swing latest: `2026-10-25T20:00:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Early reports suggest record high turnout in Serbia elections (BBC News)
 - [macro] Death toll in Nigeria village raided by gunmen rises to 48, police say (BBC News)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
-- [macro] Early reports suggest record high turnout in Serbia elections (BBC News)
 - [macro] Suspect in deadly Paris suburb shooting sent for psychiatric observation (BBC News)
 - [crypto] ECB official sees digital euro as key to protecting EU ‘sovereignty’ (Cointelegraph.com News)
 - [crypto] Latvia targets tokenization rules in 2027 with commercial property in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
