@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T13:37:32.261266+00:00`
+- Generated: `2026-10-25T13:52:30.617884+00:00`
 - Market context score: `24.39`
 - News risk score: `69.43`
 - Macro risk score: `24.86`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:13, crypto_alt:237, crypto_major:8, equity:152, fx:6, index:26, metal:20, unknown:1241`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T13:30:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] UK banks face 10,000 complaints in 3 months over crypto restrictions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis (Energy)
+- [crypto] UK banks face 10,000 complaints in 3 months over crypto restrictions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Voters in Brazil head to polls as Lula goes up against Bolsonaro's son (BBC News)
 - [crypto] Netanyahu floats use of blockchain as solution to potential financial sanctions (Cointelegraph.com News)
 - [macro] El Salvador president says bodies found in Haiti are not those of hostages (BBC News)
