@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-25T22:52:28.951625+00:00`
-- Market context score: `40.92`
-- News risk score: `43.83`
-- Macro risk score: `18.67`
-- Risk-on score: `12.78`
+- Generated: `2026-10-25T23:07:27.644407+00:00`
+- Market context score: `43.55`
+- News risk score: `39.75`
+- Macro risk score: `19.5`
+- Risk-on score: `15.5`
 - Articles: `13`
 - Polymarket markets: `397`
 
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-25T22:45:00+00:00`
+- Day/swing latest: `2026-10-25T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
+- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
-- [macro] Deeply divided Israel braces for pivotal election (BBC News)
 - [macro] Serbia's veteran ruler Vučić concedes election to student-led protest movement (BBC News)
+- [crypto] AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest (Cointelegraph.com News)
+- [macro] Deeply divided Israel braces for pivotal election (BBC News)
 - [macro] Why Israel's election is one of the most important in its history (BBC News)
 - [macro] Death toll in Nigeria village raided by gunmen rises to 48, police say (BBC News)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] ECB official sees digital euro as key to protecting EU ‘sovereignty’ (Cointelegraph.com News)
 - [crypto] Latvia targets tokenization rules in 2027 with commercial property in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Gabon says access to social media restored after eight-month ban (BBC News)
-- [commodity] Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis (Energy)
