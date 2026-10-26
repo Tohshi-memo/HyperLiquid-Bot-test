@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T09:22:29.608420+00:00`
-- Market context score: `56.96`
-- News risk score: `31.65`
-- Macro risk score: `18.03`
-- Risk-on score: `37.9`
-- Articles: `30`
+- Generated: `2026-10-26T09:37:31.271495+00:00`
+- Market context score: `57.1`
+- News risk score: `31.5`
+- Macro risk score: `17.75`
+- Risk-on score: `37.97`
+- Articles: `31`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T09:15:00+00:00`
+- Day/swing latest: `2026-10-26T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `4`
-- macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `17`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Crowds welcome Venezuela's María Machado after months in exile (BBC News)
 - [crypto] Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
 - [crypto] Bitcoin ETFs break 2-week outflow streak with $301M comeback (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46 (BBC News)
 - [macro] Salon owners urge Budget VAT cut as staffing pressures grow (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
