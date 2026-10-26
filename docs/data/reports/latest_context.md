@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T19:07:31.454425+00:00`
+- Generated: `2026-10-26T19:22:34.837039+00:00`
 - Market context score: `46.44`
-- News risk score: `41.43`
-- Macro risk score: `31.35`
-- Risk-on score: `27.81`
+- News risk score: `41.6`
+- Macro risk score: `30.7`
+- Risk-on score: `27.7`
 - Articles: `49`
 - Polymarket markets: `396`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T19:00:00+00:00`
+- Day/swing latest: `2026-10-26T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `8`, risk headline rate `0.25`, policy hits `5`
-- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `23`, risk hits `8`, risk headline rate `0.2609`, policy hits `5`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `1`
 
 ## Headlines
 
+- [macro] 'Maxxing' selected as Dictionary.com word of the year (BBC News)
 - [commodity] Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate (Energy)
 - [crypto] AI company Anthropic announces IPO, expected as early as November (Cointelegraph.com News)
 - [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
@@ -37,4 +38,3 @@
 - [macro] Anthropic's blockbuster share listing - 5 surprising things we now know (BBC News)
 - [macro] Algeria to send troops to Niger in first foreign deployment since 1973 (BBC News)
 - [macro] More than 60 Christians killed in Ethiopia 'massacre', church official says (BBC News)
-- [macro] Israel and the US are both going to the polls - the consequences will be global (BBC News)
