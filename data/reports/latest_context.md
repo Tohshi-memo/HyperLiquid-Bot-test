@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T09:52:34.280489+00:00`
+- Generated: `2026-10-26T10:07:35.525967+00:00`
 - Market context score: `57.1`
 - News risk score: `31.5`
 - Macro risk score: `17.75`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T09:45:00+00:00`
+- Day/swing latest: `2026-10-26T10:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Healey to shield low-income pensioners from income tax in the Budget (BBC News)
 - [macro] Crowds welcome Venezuela's María Machado after months in exile (BBC News)
 - [crypto] Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Over 11 million bitcoin has no known owner. Here's what it means (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46 (BBC News)
 - [macro] Salon owners urge Budget VAT cut as staffing pressures grow (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
