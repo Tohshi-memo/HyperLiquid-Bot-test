@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T03:37:27.206108+00:00`
+- Generated: `2026-10-26T03:52:29.860698+00:00`
 - Market context score: `64.61`
 - News risk score: `37.15`
 - Macro risk score: `13.92`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T03:30:00+00:00`
+- Day/swing latest: `2026-10-26T03:45:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 ## Headlines
 
 - [crypto] Hong Kong names Nasdaq-listed Solana Company a strategic enterprise (Cointelegraph.com News)
-- [crypto] Elon Musk confirms $40 billion SpaceX debt deal for AI chips, warns of neocloud shakeout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [crypto] Keystone says website breach exposed hardware wallet buyers’ addresses (Cointelegraph.com News)
 - [macro] What is the Budget and what could be in it? (BBC News)
