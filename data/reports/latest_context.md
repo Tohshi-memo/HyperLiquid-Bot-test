@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T11:01:01.853516+00:00`
-- Market context score: `54.42`
-- News risk score: `33.64`
-- Macro risk score: `18.65`
-- Risk-on score: `34.16`
-- Articles: `32`
+- Generated: `2026-10-26T11:07:25.420394+00:00`
+- Market context score: `54.96`
+- News risk score: `32.83`
+- Macro risk score: `18.56`
+- Risk-on score: `34.66`
+- Articles: `33`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,13 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `5`
+- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `5`
 - macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Live news: Brent Crude slides below $110 as Iran deal hopes grow and Brazil stocks sink (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
 - [crypto] BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [macro] Salon owners urge Budget VAT cut as staffing pressures grow (BBC News)
 - [crypto] Calpers pulls back from big tech as AI jitters deepen neocloud sell-off (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +37,4 @@
 - [crypto] Securitize’s tokenized stock value halves as Circle widens lead (Cointelegraph.com News)
 - [macro] Crowds welcome Venezuela's María Machado after months in exile (BBC News)
 - [crypto] Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
 - [crypto] Bitcoin ETFs break 2-week outflow streak with $301M comeback (Cointelegraph.com News)
-- [macro] Uganda imposes 21-day quarantine on citizens returning from DR Congo (BBC News)
