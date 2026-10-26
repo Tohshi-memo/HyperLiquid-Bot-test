@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-26T07:50:28.187931+00:00`
+- Generated: `2026-10-26T07:55:29.586324+00:00`
 - Flow alert score: `18.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `16907689.49`
+- Polymarket 24h volume: `16936939.82`
 - Polymarket volume z-score: `0.25`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1765557.690832` | liquidity: `1897365.3577`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1147370.60717` | liquidity: `3002027.2748`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1028655.6975329999` | liquidity: `1320126.8328`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `980902.02126` | liquidity: `4026557.0524`
-- Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%? | 24h volume: `731295.903514` | liquidity: `80789.27337`
-- US x Iran ceasefire continues through October 31? | 24h volume: `716386.04243` | liquidity: `103381.4568`
-- Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4–8%? | 24h volume: `655915.606098` | liquidity: `70668.60762`
-- Will Aleksandar Vučić be the next Prime Minister of Serbia? | 24h volume: `626505.7957920001` | liquidity: `54223.95159`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `1765125.0592319998` | liquidity: `1897074.7291`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1147388.11659` | liquidity: `3002505.8388`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1028638.8375329999` | liquidity: `1323168.8024`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `980621.3012870001` | liquidity: `4024449.1058`
+- Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%? | 24h volume: `731295.9035139999` | liquidity: `80942.18337`
+- US x Iran ceasefire continues through October 31? | 24h volume: `730697.3723420002` | liquidity: `104737.4652`
+- Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4–8%? | 24h volume: `655915.606098` | liquidity: `71168.40762`
+- Will Aleksandar Vučić be the next Prime Minister of Serbia? | 24h volume: `633940.371254` | liquidity: `56719.85384`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
