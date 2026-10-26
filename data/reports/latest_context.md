@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T16:07:28.904479+00:00`
-- Market context score: `48.25`
-- News risk score: `39.07`
-- Macro risk score: `29.0`
-- Risk-on score: `28.95`
-- Articles: `46`
+- Generated: `2026-10-26T16:22:32.613545+00:00`
+- Market context score: `47.26`
+- News risk score: `40.08`
+- Macro risk score: `29.55`
+- Risk-on score: `27.8`
+- Articles: `49`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T16:00:00+00:00`
+- Day/swing latest: `2026-10-26T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `25`, risk hits `8`, risk headline rate `0.24`, policy hits `6`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `0`
 
 ## Headlines
 
@@ -32,9 +32,9 @@
 - [crypto] Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts (Cointelegraph.com News)
+- [macro] Catholic bishops apologise for 'exploited' Trump meeting (BBC News)
 - [crypto] OCC calls on community banks to enter the stablecoin payments market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Police arrest teenager after shooting that injured 12, including children, in Florida (BBC News)
 - [macro] How 'Lula's Army' WhatsApp chat helped turn Brazil election around (BBC News)
 - [macro] Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing (BBC News)
 - [macro] Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing (BBC News)
-- [crypto] South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
