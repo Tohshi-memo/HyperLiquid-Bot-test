@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T10:52:26.565032+00:00`
-- Market context score: `55.31`
-- News risk score: `34.07`
-- Macro risk score: `17.95`
-- Risk-on score: `36.25`
-- Articles: `31`
+- Generated: `2026-10-26T11:01:01.853516+00:00`
+- Market context score: `54.42`
+- News risk score: `33.64`
+- Macro risk score: `18.65`
+- Risk-on score: `34.16`
+- Articles: `32`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T10:45:00+00:00`
+- Day/swing latest: `2026-10-26T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `4`
+- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `5`
 - macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [macro] Salon owners urge Budget VAT cut as staffing pressures grow (BBC News)
 - [crypto] Calpers pulls back from big tech as AI jitters deepen neocloud sell-off (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Healey to shield low-income pensioners from income tax in the Budget (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
 - [crypto] Bitcoin ETFs break 2-week outflow streak with $301M comeback (Cointelegraph.com News)
 - [macro] Uganda imposes 21-day quarantine on citizens returning from DR Congo (BBC News)
-- [macro] China's big political meeting could see Xi 'tighten discipline' in Party (BBC News)
