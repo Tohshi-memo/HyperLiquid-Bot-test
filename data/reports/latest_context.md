@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T07:07:36.707043+00:00`
-- Market context score: `56.22`
-- News risk score: `35.11`
-- Macro risk score: `18.79`
-- Risk-on score: `39.46`
+- Generated: `2026-10-26T07:22:27.225060+00:00`
+- Market context score: `56.86`
+- News risk score: `34.08`
+- Macro risk score: `19.17`
+- Risk-on score: `40.15`
 - Articles: `23`
 - Polymarket markets: `396`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T07:00:00+00:00`
+- Day/swing latest: `2026-10-26T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `2`
-- macro: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `2`
+- macro: articles `11`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Over 11 million bitcoin has no known owner. Here's what it means (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46 (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Musk warns over 200 AI neoclouds face ‘guppy-level death’ (Cointelegraph.com News)
 - [crypto] Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Australian murderer loses bid to eat Vegemite in prison (BBC News)
-- [crypto] Hong Kong names Nasdaq-listed Solana Company a strategic enterprise (Cointelegraph.com News)
