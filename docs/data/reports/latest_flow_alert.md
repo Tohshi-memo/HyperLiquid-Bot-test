@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-26T15:25:28.701780+00:00`
+- Generated: `2026-10-26T15:30:34.483214+00:00`
 - Flow alert score: `18.36`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18108257.06`
+- Polymarket 24h volume: `18139442.25`
 - Polymarket volume z-score: `0.34`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `3863849.491976999` | liquidity: `494289.66171`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1552419.24391` | liquidity: `271801.078`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1189225.0811599998` | liquidity: `718651.4955`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1142494.32991` | liquidity: `2842280.9495`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1029553.548886` | liquidity: `3900301.7251`
-- US x Iran ceasefire continues through October 31? | 24h volume: `711894.4771799998` | liquidity: `109618.6277`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `578350.1760000001` | liquidity: `1155679.14689`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `566463.230663` | liquidity: `845919.06646`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `3872507.665827` | liquidity: `877067.77748`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1555659.109883` | liquidity: `554850.8829`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1186716.8659519998` | liquidity: `706915.1164`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1142013.107687` | liquidity: `2862281.2848`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1030758.5778719999` | liquidity: `3939632.9311`
+- US x Iran ceasefire continues through October 31? | 24h volume: `711887.367878` | liquidity: `111423.485`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `578333.886` | liquidity: `1125099.75443`
+- Will Aleksandar Vučić be the next Prime Minister of Serbia? | 24h volume: `570469.2518040001` | liquidity: `173948.44337`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
