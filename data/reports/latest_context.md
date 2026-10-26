@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T11:37:28.403793+00:00`
-- Market context score: `50.5`
-- News risk score: `35.84`
-- Macro risk score: `20.3`
-- Risk-on score: `27.93`
-- Articles: `33`
+- Generated: `2026-10-26T11:52:30.711346+00:00`
+- Market context score: `50.67`
+- News risk score: `35.46`
+- Macro risk score: `20.97`
+- Risk-on score: `28.24`
+- Articles: `32`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T11:30:00+00:00`
+- Day/swing latest: `2026-10-26T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `7`
-- macro: articles `15`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `7`
+- macro: articles `13`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger (Cointelegraph.com News)
 - [crypto] Bitcoin holds near $80,000 as oil retreats and the Fed decision looms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Healey to shield low-income pensioners from income tax in the Budget (BBC News)
 - [crypto] Securitize’s tokenized stock value halves as Circle widens lead (Cointelegraph.com News)
 - [macro] Crowds welcome Venezuela's María Machado after months in exile (BBC News)
-- [crypto] Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
