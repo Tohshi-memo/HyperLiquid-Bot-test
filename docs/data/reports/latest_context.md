@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T03:22:28.283291+00:00`
-- Market context score: `62.32`
-- News risk score: `40.5`
-- Macro risk score: `12.0`
-- Risk-on score: `55.0`
+- Generated: `2026-10-26T03:37:27.206108+00:00`
+- Market context score: `64.61`
+- News risk score: `37.15`
+- Macro risk score: `13.92`
+- Risk-on score: `58.0`
 - Articles: `13`
 - Polymarket markets: `397`
 
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T03:15:00+00:00`
+- Day/swing latest: `2026-10-26T03:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `9`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `1`
+- macro: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Hong Kong names Nasdaq-listed Solana Company a strategic enterprise (Cointelegraph.com News)
 - [crypto] Elon Musk confirms $40 billion SpaceX debt deal for AI chips, warns of neocloud shakeout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
 - [crypto] Keystone says website breach exposed hardware wallet buyers’ addresses (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin (Cointelegraph.com News)
 - [macro] Data centre debate heats up ahead of US midterms - here's what you need to know (BBC News)
 - [crypto] AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest (Cointelegraph.com News)
-- [macro] Deeply divided Israel braces for pivotal election (BBC News)
