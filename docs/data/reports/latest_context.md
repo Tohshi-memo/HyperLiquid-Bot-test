@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T04:37:30.869782+00:00`
-- Market context score: `64.61`
-- News risk score: `37.15`
-- Macro risk score: `13.92`
-- Risk-on score: `58.0`
-- Articles: `13`
+- Generated: `2026-10-26T04:52:25.426798+00:00`
+- Market context score: `57.0`
+- News risk score: `35.14`
+- Macro risk score: `15.57`
+- Risk-on score: `40.0`
+- Articles: `14`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T04:30:00+00:00`
+- Day/swing latest: `2026-10-26T04:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `1`
+- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `2`
 - macro: articles `8`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hong Kong names Nasdaq-listed Solana Company a strategic enterprise (Cointelegraph.com News)
 - [crypto] Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Healey's Budget needs to sustain the stronger economy through gathering clouds (BBC News)
 - [crypto] Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin (Cointelegraph.com News)
 - [macro] Data centre debate heats up ahead of US midterms - here's what you need to know (BBC News)
-- [crypto] AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest (Cointelegraph.com News)
