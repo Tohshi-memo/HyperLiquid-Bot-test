@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T22:22:41.037420+00:00`
-- Market context score: `46.46`
-- News risk score: `43.0`
-- Macro risk score: `30.84`
-- Risk-on score: `28.98`
-- Articles: `49`
+- Generated: `2026-10-26T22:37:28.719747+00:00`
+- Market context score: `47.19`
+- News risk score: `41.7`
+- Macro risk score: `30.93`
+- Risk-on score: `29.55`
+- Articles: `47`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T22:15:00+00:00`
+- Day/swing latest: `2026-10-26T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `9`, risk headline rate `0.2917`, policy hits `3`
+- crypto: articles `22`, risk hits `8`, risk headline rate `0.2727`, policy hits `3`
 - macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [macro] Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
 - [crypto] US OCC calls on community banks to become payment stablecoin issuers (Cointelegraph.com News)
 - [macro] 'Maxxing' selected as Dictionary.com word of the year (BBC News)
 - [crypto] Injective launches onchain futures market tracking Nvidia GPU rental costs (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Trump administration illegally fired James Comey's daughter, judge rules (BBC News)
 - [commodity] Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate (Energy)
 - [crypto] AI company Anthropic announces IPO, expected as early as November (Cointelegraph.com News)
-- [macro] Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge (Economy)
