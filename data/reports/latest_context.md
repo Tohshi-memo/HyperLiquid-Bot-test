@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T17:22:33.467541+00:00`
+- Generated: `2026-10-26T17:37:36.891413+00:00`
 - Market context score: `48.94`
 - News risk score: `38.23`
 - Macro risk score: `28.48`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T17:15:00+00:00`
+- Day/swing latest: `2026-10-26T17:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `23`, risk hits `7`, risk headline rate `0.2174`, policy hits `5`
 - macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `0`
 
 ## Headlines
 
-- [macro] Anthropic's blockbuster share listing - 5 surprising details (BBC News)
-- [commodity] Oil ticks lower as Saudi defense minister travels to Iran for talks to de-escalate conflict (Energy)
+- [commodity] Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate (Energy)
+- [macro] Anthropic's blockbuster share listing - 5 surprising things we now know (BBC News)
 - [macro] Algeria to send troops to Niger in first foreign deployment since 1973 (BBC News)
 - [macro] Lula wins fourth term in dramatic Brazil election comeback (BBC News)
 - [macro] More than 60 Christians killed in Ethiopia 'massacre', church official says (BBC News)
