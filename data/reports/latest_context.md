@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T01:07:27.891106+00:00`
-- Market context score: `55.8`
-- News risk score: `21.75`
-- Macro risk score: `19.5`
-- Risk-on score: `27.5`
-- Articles: `12`
+- Generated: `2026-10-26T01:22:29.922133+00:00`
+- Market context score: `56.56`
+- News risk score: `21.0`
+- Macro risk score: `18.0`
+- Risk-on score: `28.0`
+- Articles: `14`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T01:00:00+00:00`
+- Day/swing latest: `2026-10-26T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement (BBC News)
+- [macro] Healey's Budget needs to sustain the stronger economy through gathering clouds (BBC News)
 - [crypto] Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin (Cointelegraph.com News)
+- [macro] Data centre debate heats up ahead of US midterms - here's what you need to know (BBC News)
 - [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
-- [macro] Serbia's veteran ruler Vučić concedes election to student-led protest movement (BBC News)
 - [crypto] AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Deeply divided Israel braces for pivotal election (BBC News)
 - [macro] Why Israel's election is one of the most important in its history (BBC News)
 - [macro] Death toll in Nigeria village raided by gunmen rises to 48, police say (BBC News)
 - [macro] Suspect in deadly Paris suburb shooting sent for psychiatric observation (BBC News)
-- [crypto] ECB official sees digital euro as key to protecting EU ‘sovereignty’ (Cointelegraph.com News)
-- [crypto] Latvia targets tokenization rules in 2027 with commercial property in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
