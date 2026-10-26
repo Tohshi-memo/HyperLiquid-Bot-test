@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T11:52:30.711346+00:00`
-- Market context score: `50.67`
-- News risk score: `35.46`
-- Macro risk score: `20.97`
-- Risk-on score: `28.24`
-- Articles: `32`
+- Generated: `2026-10-26T12:07:30.332653+00:00`
+- Market context score: `54.25`
+- News risk score: `33.94`
+- Macro risk score: `19.39`
+- Risk-on score: `34.33`
+- Articles: `37`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T11:45:00+00:00`
+- Day/swing latest: `2026-10-26T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `7`
-- macro: articles `13`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `7`
+- macro: articles `17`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger (Cointelegraph.com News)
+- [macro] Who is Lula? From ex-worker and prisoner to Brazil's president again (BBC News)
+- [macro] Five ways Trump has changed immigration in the US (BBC News)
+- [macro] Stunning photos capture October's Hunter's Moon around the world (BBC News)
 - [crypto] Bitcoin holds near $80,000 as oil retreats and the Fed decision looms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
 - [crypto] BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [macro] Salon owners urge Budget VAT cut as staffing pressures grow (BBC News)
-- [crypto] Calpers pulls back from big tech as AI jitters deepen neocloud sell-off (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Healey to shield low-income pensioners from income tax in the Budget (BBC News)
-- [crypto] Securitize’s tokenized stock value halves as Circle widens lead (Cointelegraph.com News)
-- [macro] Crowds welcome Venezuela's María Machado after months in exile (BBC News)
