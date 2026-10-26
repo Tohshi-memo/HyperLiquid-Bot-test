@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T11:22:28.358104+00:00`
-- Market context score: `54.96`
-- News risk score: `32.83`
-- Macro risk score: `18.56`
-- Risk-on score: `34.66`
+- Generated: `2026-10-26T11:37:28.403793+00:00`
+- Market context score: `50.5`
+- News risk score: `35.84`
+- Macro risk score: `20.3`
+- Risk-on score: `27.93`
 - Articles: `33`
 - Polymarket markets: `397`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T11:15:00+00:00`
+- Day/swing latest: `2026-10-26T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `5`
-- macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `7`
+- macro: articles `15`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Live news: Brent Crude slides below $110 as Iran deal hopes grow and Brazil stocks sink (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin holds near $80,000 as oil retreats and the Fed decision looms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
 - [crypto] BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [macro] Salon owners urge Budget VAT cut as staffing pressures grow (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Securitize’s tokenized stock value halves as Circle widens lead (Cointelegraph.com News)
 - [macro] Crowds welcome Venezuela's María Machado after months in exile (BBC News)
 - [crypto] Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin ETFs break 2-week outflow streak with $301M comeback (Cointelegraph.com News)
