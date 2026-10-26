@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T17:07:53.865889+00:00`
-- Market context score: `48.1`
-- News risk score: `39.7`
-- Macro risk score: `28.4`
-- Risk-on score: `28.91`
-- Articles: `50`
+- Generated: `2026-10-26T17:18:32.184932+00:00`
+- Market context score: `48.94`
+- News risk score: `38.23`
+- Macro risk score: `28.48`
+- Risk-on score: `29.59`
+- Articles: `48`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T17:00:00+00:00`
+- Day/swing latest: `2026-10-26T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `8`, risk headline rate `0.24`, policy hits `5`
+- crypto: articles `23`, risk hits `7`, risk headline rate `0.2174`, policy hits `5`
 - macro: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Oil ticks lower as Saudi defense minister travels to Iran for talks to de-escalate conflict (Energy)
 - [macro] Algeria to send troops to Niger in first foreign deployment since 1973 (BBC News)
-- [commodity] Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict (Energy)
 - [macro] Lula wins fourth term in dramatic Brazil election comeback (BBC News)
 - [macro] More than 60 Christians killed in Ethiopia 'massacre', church official says (BBC News)
 - [macro] Israel and the US are both going to the polls - the consequences will be global (BBC News)
