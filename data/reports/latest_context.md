@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-26T09:07:31.761746+00:00`
-- Market context score: `56.68`
-- News risk score: `32.05`
-- Macro risk score: `17.25`
-- Risk-on score: `37.32`
-- Articles: `29`
+- Generated: `2026-10-26T09:22:29.608420+00:00`
+- Market context score: `56.96`
+- News risk score: `31.65`
+- Macro risk score: `18.03`
+- Risk-on score: `37.9`
+- Articles: `30`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-26T09:00:00+00:00`
+- Day/swing latest: `2026-10-26T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `2`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `4`
 - macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement (BBC News)
 - [crypto] Bitcoin ETFs break 2-week outflow streak with $301M comeback (Cointelegraph.com News)
 - [macro] Uganda imposes 21-day quarantine on citizens returning from DR Congo (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Salon owners urge Budget VAT cut as staffing pressures grow (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Venezuelan opposition leader María Machado returns after months in exile (BBC News)
