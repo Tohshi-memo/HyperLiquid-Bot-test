@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T01:07:31.089405+00:00`
-- Market context score: `44.1`
-- News risk score: `43.3`
-- Macro risk score: `32.34`
-- Risk-on score: `24.55`
-- Articles: `40`
+- Generated: `2026-10-27T01:22:26.422302+00:00`
+- Market context score: `43.23`
+- News risk score: `44.77`
+- Macro risk score: `31.54`
+- Risk-on score: `23.57`
+- Articles: `39`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T01:00:00+00:00`
+- Day/swing latest: `2026-10-27T01:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.2857`, policy hits `1`
+- crypto: articles `16`, risk hits `8`, risk headline rate `0.375`, policy hits `1`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `1`
 
 ## Headlines
 
+- [macro] Apple says it will replace iPhone Duo handsets with screen problems (BBC News)
+- [macro] Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
 - [crypto] Ripple wins final US approval for national trust bank (Cointelegraph.com News)
 - [macro] 'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget? (BBC News)
-- [macro] Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
 - [crypto] US OCC calls on community banks to become payment stablecoin issuers (Cointelegraph.com News)
 - [macro] 'Maxxing' selected as Dictionary.com word of the year (BBC News)
 - [crypto] Injective launches onchain futures market tracking Nvidia GPU rental costs (Cointelegraph.com News)
 - [macro] Lula wins fourth term in dramatic Brazil election comeback (BBC News)
 - [macro] Anthropic's blockbuster share listing - 5 surprising things we now know (BBC News)
 - [crypto] Canada opens consultation on stablecoins, citing US GENIUS Act (Cointelegraph.com News)
-- [macro] Trump administration illegally fired James Comey's daughter, judge rules (BBC News)
