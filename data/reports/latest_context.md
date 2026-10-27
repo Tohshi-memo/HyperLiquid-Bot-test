@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T21:22:30.770814+00:00`
-- Market context score: `54.39`
-- News risk score: `36.42`
-- Macro risk score: `25.39`
-- Risk-on score: `38.98`
-- Articles: `54`
+- Generated: `2026-10-27T21:37:32.155286+00:00`
+- Market context score: `53.39`
+- News risk score: `37.54`
+- Macro risk score: `27.15`
+- Risk-on score: `38.38`
+- Articles: `55`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T21:15:00+00:00`
+- Day/swing latest: `2026-10-27T21:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `2`
 - macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Trump administration may let more Russian diesel onto market, Energy Secretary tells CNBC (Energy)
 - [macro] Alexander brothers each sentenced to 30 years in prison for sex trafficking case (BBC News)
 - [macro] Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case (BBC News)
 - [macro] Egypt court fines journalist Lina Attalah and orders news site's closure (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Ceasefire extended across Ukraine's Kherson region, officials say (BBC News)
 - [commodity] Oil prices fall after Iran supreme leader and top security official discuss conditions to end war (Energy)
 - [crypto] Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
