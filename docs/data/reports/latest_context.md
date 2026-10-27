@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T10:07:28.326280+00:00`
-- Market context score: `44.05`
-- News risk score: `46.4`
-- Macro risk score: `26.95`
-- Risk-on score: `25.04`
-- Articles: `31`
+- Generated: `2026-10-27T10:22:37.597340+00:00`
+- Market context score: `45.46`
+- News risk score: `44.51`
+- Macro risk score: `26.15`
+- Risk-on score: `26.27`
+- Articles: `33`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T10:00:00+00:00`
+- Day/swing latest: `2026-10-27T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `1`
+- crypto: articles `14`, risk hits `6`, risk headline rate `0.4286`, policy hits `1`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [macro] Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke (BBC News)
+- [macro] Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke (BBC News)
+- [macro] What does Israel's election mean for Gaza and the wider world (BBC News)
+- [macro] Israel heads to polls for pivotal election defined by security and democracy (BBC News)
+- [macro] Budget measures to include fuel duty freeze and food tariff cuts (BBC News)
+- [crypto] Zcash co-founder calls to stop funding ‘over $125M’ grants program (Cointelegraph.com News)
 - [crypto] Now is the time to accumulate bitcoin, Galaxy says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Apple says it will replace iPhone Duo handsets with screen problems (BBC News)
 - [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
-- [macro] Budget measures to include fuel duty freeze and food tariff cuts (BBC News)
 - [commodity] Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict (Energy)
-- [crypto] Bloom bot hackers loot $953K faster than you can microwave popcorn (Cointelegraph.com News)
-- [macro] Why it could take time for a new Israeli government to form (BBC News)
-- [crypto] An AI label alone no longer wins lenders, JPMorgan says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Binance files for Brazil crypto license ahead of Friday deadline (Cointelegraph.com News)
-- [crypto] Solana bug reports now cost 1 SOL as AI floods security teams with spam (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
