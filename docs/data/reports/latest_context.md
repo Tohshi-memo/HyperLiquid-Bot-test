@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T19:22:30.992024+00:00`
-- Market context score: `51.64`
-- News risk score: `36.13`
-- Macro risk score: `25.42`
-- Risk-on score: `32.64`
-- Articles: `53`
+- Generated: `2026-10-27T19:37:28.524392+00:00`
+- Market context score: `50.37`
+- News risk score: `37.76`
+- Macro risk score: `25.94`
+- Risk-on score: `31.4`
+- Articles: `52`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T19:15:00+00:00`
+- Day/swing latest: `2026-10-27T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `1`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
+- crypto: articles `28`, risk hits `6`, risk headline rate `0.2143`, policy hits `1`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `3`
 
 ## Headlines
 
+- [crypto] CFTC sues Utah to block action against prediction markets (Cointelegraph.com News)
 - [crypto] U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Deaths in detention cells in Nigeria were entirely preventable, inquiry finds (BBC News)
 - [macro] Tax on banks, energy bill help and minimum wage rise - what could be in the Budget? (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Majority of Americans want candidates who support US-based financial technology: Poll (Cointelegraph.com News)
 - [macro] Watch: The Mbappé-Chairman Mao controversy explained (BBC News)
-- [macro] Nanotyrannus skeleton sells for $47.3m in New York auction (BBC News)
