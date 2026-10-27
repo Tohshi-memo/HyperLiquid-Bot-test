@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T18:07:37.925307+00:00`
-- Market context score: `55.03`
-- News risk score: `35.26`
-- Macro risk score: `23.96`
-- Risk-on score: `38.89`
-- Articles: `51`
+- Generated: `2026-10-27T18:14:45.498665+00:00`
+- Market context score: `54.97`
+- News risk score: `33.28`
+- Macro risk score: `23.93`
+- Risk-on score: `37.08`
+- Articles: `50`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,12 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `2`
-- macro: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `3`
+- crypto: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
+- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `3`
 
 ## Headlines
 
-- [macro] Turnout so far highest on record as Israelis vote in pivotal election (BBC News)
+- [crypto] Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nanotyrannus skeleton sells for $47.3m in New York auction (BBC News)
 - [macro] Flávio Bolsonaro's passports cancelled after he fails to surrender them (BBC News)
 - [crypto] Brazilian companies turned to stablecoins on election day to dodge a currency crash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
