@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T22:07:26.416083+00:00`
-- Market context score: `52.41`
-- News risk score: `37.54`
-- Macro risk score: `27.15`
-- Risk-on score: `36.2`
-- Articles: `55`
+- Generated: `2026-10-27T22:22:31.945482+00:00`
+- Market context score: `52.23`
+- News risk score: `37.57`
+- Macro risk score: `27.7`
+- Risk-on score: `36.03`
+- Articles: `54`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T22:00:00+00:00`
+- Day/swing latest: `2026-10-27T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `2`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
 
 ## Headlines
 
 - [commodity] Trump administration may let more Russian diesel onto market, energy secretary tells CNBC (Energy)
+- [macro] Ceasefire extended across Ukraine's Kherson region, officials say (BBC News)
 - [crypto] VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure (Cointelegraph.com News)
 - [crypto] Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks (Cointelegraph.com News)
 - [macro] Alexander brothers each sentenced to 30 years in prison for sex trafficking case (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Quantum fears already limiting Bitcoin’s growth, Stacks founder says (Cointelegraph.com News)
 - [crypto] Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ceasefire extended across Ukraine's Kherson region, officials say (BBC News)
