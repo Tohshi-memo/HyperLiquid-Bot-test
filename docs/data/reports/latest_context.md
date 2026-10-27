@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T12:22:30.520729+00:00`
-- Market context score: `45.7`
-- News risk score: `43.03`
-- Macro risk score: `27.42`
-- Risk-on score: `26.03`
-- Articles: `42`
+- Generated: `2026-10-27T12:28:19.505579+00:00`
+- Market context score: `47.8`
+- News risk score: `42.42`
+- Macro risk score: `27.37`
+- Risk-on score: `30.15`
+- Articles: `43`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,14 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `2`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.35`, policy hits `2`
 - macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `3`
 
 ## Headlines
 
+- [macro] World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs (Economy)
+- [crypto] Bitcoin price analysis sees ‘strong rally’ as old coins become dormant (Cointelegraph.com News)
 - [commodity] Oil prices edge lower amid renewed diplomatic efforts to end Mideast conflict (Energy)
-- [macro] Global alarm over AI: World Bank President Banga speaks to CNBC (Economy)
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
 - [crypto] Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Ex-FBI chief James Comey faces federal charges for third time (BBC News)
 - [crypto] Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Japan's top yen stablecoin falls short of its target in a disappointing first year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
