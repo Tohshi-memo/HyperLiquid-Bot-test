@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T22:26:09.831349+00:00`
-- Market context score: `52.23`
-- News risk score: `37.57`
-- Macro risk score: `27.7`
-- Risk-on score: `36.03`
-- Articles: `54`
+- Generated: `2026-10-27T22:37:39.599865+00:00`
+- Market context score: `51.27`
+- News risk score: `38.65`
+- Macro risk score: `29.37`
+- Risk-on score: `35.46`
+- Articles: `55`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T22:15:00+00:00`
+- Day/swing latest: `2026-10-27T22:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `2`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
+- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `3`
 
 ## Headlines
 
@@ -34,7 +34,7 @@
 - [crypto] Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks (Cointelegraph.com News)
 - [macro] Alexander brothers each sentenced to 30 years in prison for sex trafficking case (BBC News)
 - [macro] Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case (BBC News)
+- [macro] Landline switchover could cut people off in emergency, minister warned (BBC News)
 - [macro] Egypt court fines journalist Lina Attalah and orders news site's closure (BBC News)
 - [crypto] Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Quantum fears already limiting Bitcoin’s growth, Stacks founder says (Cointelegraph.com News)
-- [crypto] Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
