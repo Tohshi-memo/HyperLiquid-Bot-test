@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T00:07:27.054069+00:00`
-- Market context score: `44.37`
-- News risk score: `41.55`
-- Macro risk score: `32.37`
-- Risk-on score: `23.7`
-- Articles: `39`
-- Polymarket markets: `396`
+- Generated: `2026-10-27T00:22:28.872473+00:00`
+- Market context score: `44.1`
+- News risk score: `43.3`
+- Macro risk score: `32.34`
+- Risk-on score: `24.55`
+- Articles: `40`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T00:00:00+00:00`
+- Day/swing latest: `2026-10-27T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `1`
+- crypto: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `1`
 - macro: articles `21`, risk hits `7`, risk headline rate `0.2857`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Ripple wins final US approval for national trust bank (Cointelegraph.com News)
 - [macro] 'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget? (BBC News)
 - [macro] Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
 - [crypto] US OCC calls on community banks to become payment stablecoin issuers (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Anthropic's blockbuster share listing - 5 surprising things we now know (BBC News)
 - [crypto] Canada opens consultation on stablecoins, citing US GENIUS Act (Cointelegraph.com News)
 - [macro] Trump administration illegally fired James Comey's daughter, judge rules (BBC News)
-- [commodity] Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate (Energy)
