@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T15:07:29.005632+00:00`
+- Generated: `2026-10-27T15:22:50.134125+00:00`
 - Market context score: `55.86`
 - News risk score: `36.1`
 - Macro risk score: `21.2`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T15:00:00+00:00`
+- Day/swing latest: `2026-10-27T15:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `2`
 - macro: articles `24`, risk hits `2`, risk headline rate `0.0833`, policy hits `3`
 
 ## Headlines
 
+- [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
+- [commodity] Oil prices fall after Iran supreme leader and top security official discuss conditions to end war (Energy)
 - [macro] Minimum wage set to rise but 18-20 year-olds will not get bigger increase (BBC News)
-- [commodity] Oil prices fall amid diplomatic push to de-escalate Saudi-Iran tensions (Energy)
 - [macro] Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria (BBC News)
 - [macro] Norway and Finland leaders hold rare call with Putin (BBC News)
 - [crypto] Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Crypto could outperform AI stocks: Wall Street veteran Jordi Visser (Cointelegraph.com News)
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
-- [macro] Nanotyrannus skeleton goes to auction in New York with £4.5m price tag (BBC News)
