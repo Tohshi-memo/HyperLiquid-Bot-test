@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T08:22:27.528911+00:00`
-- Market context score: `43.38`
-- News risk score: `45.32`
-- Macro risk score: `21.29`
-- Risk-on score: `20.5`
-- Articles: `28`
+- Generated: `2026-10-27T08:37:28.845614+00:00`
+- Market context score: `41.23`
+- News risk score: `46.83`
+- Macro risk score: `27.78`
+- Risk-on score: `19.45`
+- Articles: `30`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T08:15:00+00:00`
+- Day/swing latest: `2026-10-27T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `1`
+- crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
+- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `1`
 
 ## Headlines
 
+- [crypto] An AI label alone no longer wins lenders, JPMorgan says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Chancellor to cut tariffs on marmalade and other products to help with cost-of-living (BBC News)
 - [commodity] Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict (Energy)
 - [crypto] Binance files for Brazil crypto license ahead of Friday deadline (Cointelegraph.com News)
 - [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Major Chinese brands drop Mbappé as backlash grows over Mao joke (BBC News)
 - [macro] Major Chinese brands drop Mbappé as backlash grows over Mao joke (BBC News)
 - [crypto] Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
-- [macro] 'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget? (BBC News)
