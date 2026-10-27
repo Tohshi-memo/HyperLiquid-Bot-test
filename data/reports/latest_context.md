@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T15:37:33.531866+00:00`
+- Generated: `2026-10-27T15:53:05.604256+00:00`
 - Market context score: `55.92`
 - News risk score: `36.19`
 - Macro risk score: `20.88`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T15:30:00+00:00`
+- Day/swing latest: `2026-10-27T15:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 ## Headlines
 
 - [commodity] Oil prices fall after Iran supreme leader and top security official discuss conditions to end war (Energy)
+- [macro] Fed rate hikes are coming, but not this week: CNBC survey (Economy)
+- [macro] World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs (Economy)
 - [macro] FBI raids California home tied to former Congressman Eric Swalwell - US media (BBC News)
 - [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
 - [macro] Minimum wage set to rise but 18-20 year-olds will not get bigger increase (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Norway and Finland leaders hold rare call with Putin (BBC News)
 - [crypto] Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto could outperform AI stocks: Wall Street veteran Jordi Visser (Cointelegraph.com News)
-- [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
