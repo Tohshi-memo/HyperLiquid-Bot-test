@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T14:52:28.137433+00:00`
+- Generated: `2026-10-27T15:07:29.005632+00:00`
 - Market context score: `55.86`
 - News risk score: `36.1`
 - Macro risk score: `21.2`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T14:45:00+00:00`
+- Day/swing latest: `2026-10-27T15:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Minimum wage set to rise but 18-20 year-olds will not get bigger increase (BBC News)
 - [commodity] Oil prices fall amid diplomatic push to de-escalate Saudi-Iran tensions (Energy)
 - [macro] Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria (BBC News)
 - [macro] Norway and Finland leaders hold rare call with Putin (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
 - [macro] Nanotyrannus skeleton goes to auction in New York with £4.5m price tag (BBC News)
-- [macro] Minimum wage set to rise but 18-20 year-olds will not get bigger increase (BBC News)
