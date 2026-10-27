@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T03:22:26.631639+00:00`
+- Generated: `2026-10-27T03:37:26.332358+00:00`
 - Market context score: `40.68`
 - News risk score: `49.18`
 - Macro risk score: `29.08`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T03:15:00+00:00`
+- Day/swing latest: `2026-10-27T03:30:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Jay-Z to perform at Super Bowl half-time show (BBC News)
-- [macro] Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack (BBC News)
+- [macro] Jordan carries out deadly strike in Syria in retaliation for church attack (BBC News)
 - [macro] Ex-FBI chief James Comey faces federal charges for third time (BBC News)
 - [macro] Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
 - [crypto] Keystone breach deepens: Hackers stole key used to verify wallets as genuine (Cointelegraph.com News)
