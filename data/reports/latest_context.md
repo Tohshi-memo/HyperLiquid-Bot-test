@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T11:52:27.694039+00:00`
-- Market context score: `49.43`
+- Generated: `2026-10-27T12:07:34.559782+00:00`
+- Market context score: `47.72`
 - News risk score: `41.75`
 - Macro risk score: `25.35`
-- Risk-on score: `32.45`
+- Risk-on score: `28.64`
 - Articles: `41`
 - Polymarket markets: `396`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T11:45:00+00:00`
+- Day/swing latest: `2026-10-27T12:00:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
+- [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
+- [crypto] Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
 - [macro] Ex-FBI chief James Comey faces federal charges for third time (BBC News)
 - [crypto] Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Japan's top yen stablecoin falls short of its target in a disappointing first year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Netherlands makes U-turn over Eurovision 2027 participation (BBC News)
-- [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
+- [macro] Netherlands makes U-turn over Eurovision return (BBC News)
 - [macro] Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space' (BBC News)
-- [crypto] Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Turnout so far highest in decades as Israelis vote in pivotal election (BBC News)
-- [macro] Fed rate hikes are coming, but not this week: CNBC survey (Economy)
