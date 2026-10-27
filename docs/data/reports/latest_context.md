@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T20:37:38.532934+00:00`
-- Market context score: `53.45`
-- News risk score: `36.22`
-- Macro risk score: `25.97`
-- Risk-on score: `36.94`
-- Articles: `51`
+- Generated: `2026-10-27T20:52:40.301205+00:00`
+- Market context score: `52.6`
+- News risk score: `37.92`
+- Macro risk score: `25.85`
+- Risk-on score: `36.46`
+- Articles: `54`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T20:30:00+00:00`
+- Day/swing latest: `2026-10-27T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `1`
-- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `3`
+- crypto: articles `29`, risk hits `6`, risk headline rate `0.2069`, policy hits `2`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
 
 ## Headlines
 
+- [macro] Alexander brothers each sentenced to 30 years in prison for sex trafficking case (BBC News)
+- [macro] Egypt court fines journalist Lina Attalah and orders news site's closure (BBC News)
+- [crypto] Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Quantum fears already limiting Bitcoin’s growth, Stacks founder says (Cointelegraph.com News)
 - [crypto] Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ceasefire extended across Ukraine's Kherson region, officials say (BBC News)
 - [commodity] Oil prices fall after Iran supreme leader and top security official discuss conditions to end war (Energy)
 - [crypto] Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Dutch zookeeper dies after being mauled in leopard enclosure (BBC News)
-- [crypto] CFTC sues Utah to block action against prediction markets (Cointelegraph.com News)
-- [crypto] U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Deaths in detention cells in Nigeria were entirely preventable, inquiry finds (BBC News)
-- [macro] Tax on banks, energy bill help and minimum wage rise - what could be in the Budget? (BBC News)
