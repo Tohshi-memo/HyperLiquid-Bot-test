@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T13:52:39.501755+00:00`
-- Market context score: `50.88`
-- News risk score: `39.4`
+- Generated: `2026-10-27T14:07:34.288420+00:00`
+- Market context score: `54.41`
+- News risk score: `37.52`
 - Macro risk score: `23.64`
-- Risk-on score: `33.05`
+- Risk-on score: `39.3`
 - Articles: `49`
 - Polymarket markets: `396`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T13:45:00+00:00`
+- Day/swing latest: `2026-10-27T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `7`, risk headline rate `0.2917`, policy hits `2`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
 
 ## Headlines
 
+- [crypto] CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto could outperform AI stocks: Wall Street veteran Jordi Visser (Cointelegraph.com News)
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
 - [macro] Mbappé sorry for 'ill-judged' Mao remark after backlash in China (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin miners' move into AI is creating a new market for trading computing power (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Norway and Finland leaders hold rare call with Putin (BBC News)
 - [macro] I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard (BBC News)
-- [commodity] Oil prices edge lower amid diplomatic efforts to de-escalate tensions between Saudis and Iran (Energy)
