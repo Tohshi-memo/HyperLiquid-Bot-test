@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-27T05:05:37.470586+00:00`
-- Flow alert score: `18.4`
+- Generated: `2026-10-27T05:10:24.798501+00:00`
+- Flow alert score: `18.44`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `18950902.06`
-- Polymarket volume z-score: `0.35`
+- Polymarket 24h volume: `19033215.99`
+- Polymarket volume z-score: `0.36`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `3502270.197257999` | liquidity: `1023847.04695`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2124630.92932` | liquidity: `595034.2028`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1409960.568` | liquidity: `723059.0297`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1244017.095247` | liquidity: `1185205.4473`
-- France declares state of emergency by December 31, 2026? | 24h volume: `934311.7364390001` | liquidity: `137731.9861`
-- 2026 Balance of Power: Other | 24h volume: `870774.281` | liquidity: `348575.38683`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `752017.524324` | liquidity: `822838.76124`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `509206.68632800004` | liquidity: `298441.6533`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `3512411.6339589995` | liquidity: `1025378.72967`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2169466.389269` | liquidity: `606771.9061`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1399960.568` | liquidity: `723033.5297`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1243500.311913` | liquidity: `1191454.4099`
+- France declares state of emergency by December 31, 2026? | 24h volume: `934321.736439` | liquidity: `173866.4835`
+- 2026 Balance of Power: Other | 24h volume: `870780.387107` | liquidity: `346517.68362`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `752312.524324` | liquidity: `822699.6576`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `517478.465596` | liquidity: `295714.6833`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
