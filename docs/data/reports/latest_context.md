@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T06:13:15.209107+00:00`
-- Market context score: `41.84`
-- News risk score: `49.25`
-- Macro risk score: `29.08`
+- Generated: `2026-10-27T06:22:31.114740+00:00`
+- Market context score: `41.52`
+- News risk score: `49.73`
+- Macro risk score: `29.88`
 - Risk-on score: `23.33`
-- Articles: `24`
+- Articles: `26`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T06:00:00+00:00`
+- Day/swing latest: `2026-10-27T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `10`, risk hits `5`, risk headline rate `0.5`, policy hits `1`
 - macro: articles `14`, risk hits `3`, risk headline rate `0.1429`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Zcash co-founder proposes ending grants funding, citing $125 million treasury (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns (Energy)
 - [macro] Jay-Z to perform at Super Bowl half-time show (BBC News)
 - [macro] Meghan to co-host Junior MasterChef Australia (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Jordan carries out deadly strike in Syria in retaliation for church attack (BBC News)
 - [macro] Ex-FBI chief James Comey faces federal charges for third time (BBC News)
 - [macro] Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
-- [crypto] Keystone breach deepens: Hackers stole key used to verify wallets as genuine (Cointelegraph.com News)
-- [macro] Apple says it will replace iPhone Duo handsets with screen problems (BBC News)
