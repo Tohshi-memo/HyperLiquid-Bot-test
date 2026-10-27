@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T19:52:30.679156+00:00`
-- Market context score: `51.52`
+- Generated: `2026-10-27T20:07:29.835286+00:00`
+- Market context score: `52.66`
 - News risk score: `36.2`
 - Macro risk score: `25.44`
-- Risk-on score: `32.44`
+- Risk-on score: `34.99`
 - Articles: `52`
-- Polymarket markets: `394`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T19:45:00+00:00`
+- Day/swing latest: `2026-10-27T20:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Dutch zookeeper dies after being mauled in leopard enclosure (BBC News)
 - [crypto] CFTC sues Utah to block action against prediction markets (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Ghanaian twin brothers and US woman plead guilty to $9m romance scam (BBC News)
 - [macro] Controversial Islamic cleric shot dead in northern Nigeria (BBC News)
 - [macro] Norway and Finland leaders hold rare call with Putin (BBC News)
-- [crypto] Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
