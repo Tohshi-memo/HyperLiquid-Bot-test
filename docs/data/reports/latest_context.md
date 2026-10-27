@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T08:37:28.845614+00:00`
-- Market context score: `41.23`
-- News risk score: `46.83`
-- Macro risk score: `27.78`
-- Risk-on score: `19.45`
-- Articles: `30`
+- Generated: `2026-10-27T08:52:23.857610+00:00`
+- Market context score: `42.03`
+- News risk score: `46.02`
+- Macro risk score: `26.19`
+- Risk-on score: `19.94`
+- Articles: `32`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T08:30:00+00:00`
+- Day/swing latest: `2026-10-27T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `1`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [macro] Why it could take time for a new Israeli government to form (BBC News)
 - [crypto] An AI label alone no longer wins lenders, JPMorgan says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Chancellor to cut tariffs on marmalade and other products to help with cost-of-living (BBC News)
 - [commodity] Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict (Energy)
@@ -35,6 +36,5 @@
 - [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
 - [crypto] Solana bug reports now cost 1 SOL as AI floods security teams with spam (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin ETFs claw back $110M after $774M exit (Cointelegraph.com News)
+- [macro] 'A dream come true' - Harry Kane on his Ballon d'Or win (BBC News)
 - [macro] Major Chinese brands drop Mbappé as backlash grows over Mao joke (BBC News)
-- [macro] Major Chinese brands drop Mbappé as backlash grows over Mao joke (BBC News)
-- [crypto] Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
