@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T23:07:29.968239+00:00`
-- Market context score: `51.15`
-- News risk score: `38.72`
-- Macro risk score: `29.41`
-- Risk-on score: `35.26`
+- Generated: `2026-10-27T23:22:39.082383+00:00`
+- Market context score: `52.4`
+- News risk score: `37.03`
+- Macro risk score: `28.85`
+- Risk-on score: `36.38`
 - Articles: `54`
 - Polymarket markets: `396`
 
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T23:00:00+00:00`
+- Day/swing latest: `2026-10-27T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `2`
-- macro: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `3`
+- crypto: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `2`
+- macro: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `3`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [macro] Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case (BBC News)
 - [macro] Landline switchover could cut people off in emergency, minister warned (BBC News)
 - [macro] Egypt court fines journalist Lina Attalah and orders news site's closure (BBC News)
+- [macro] What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump (BBC News)
 - [crypto] Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Quantum fears already limiting Bitcoin’s growth, Stacks founder says (Cointelegraph.com News)
