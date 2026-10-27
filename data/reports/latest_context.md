@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T18:14:45.498665+00:00`
-- Market context score: `54.97`
-- News risk score: `33.28`
-- Macro risk score: `23.93`
-- Risk-on score: `37.08`
-- Articles: `50`
+- Generated: `2026-10-27T18:22:30.341457+00:00`
+- Market context score: `52.97`
+- News risk score: `34.58`
+- Macro risk score: `26.51`
+- Risk-on score: `34.7`
+- Articles: `51`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T18:00:00+00:00`
+- Day/swing latest: `2026-10-27T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `3`
+- crypto: articles `28`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
+- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `3`
 
 ## Headlines
 
+- [macro] Tax on banks, energy bill help and minimum wage rise - what could be in the Budget? (BBC News)
 - [crypto] Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Majority of Americans want candidates who support US-based financial technology: Poll (Cointelegraph.com News)
 - [macro] Nanotyrannus skeleton sells for $47.3m in New York auction (BBC News)
 - [macro] Flávio Bolsonaro's passports cancelled after he fails to surrender them (BBC News)
 - [crypto] Brazilian companies turned to stablecoins on election day to dodge a currency crash (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs (Economy)
 - [macro] Egyptian journalist Lina Attalah detained after court orders news site's closure (BBC News)
-- [commodity] Oil prices fall after Iran supreme leader and top security official discuss conditions to end war (Energy)
-- [crypto] USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko (Cointelegraph.com News)
