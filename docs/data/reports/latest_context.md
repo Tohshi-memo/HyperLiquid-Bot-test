@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T16:07:47.016512+00:00`
-- Market context score: `55.92`
-- News risk score: `36.19`
-- Macro risk score: `20.88`
-- Risk-on score: `40.49`
-- Articles: `51`
-- Polymarket markets: `395`
+- Generated: `2026-10-27T16:22:45.695748+00:00`
+- Market context score: `56.12`
+- News risk score: `36.0`
+- Macro risk score: `20.85`
+- Risk-on score: `40.77`
+- Articles: `52`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T16:00:00+00:00`
+- Day/swing latest: `2026-10-27T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `2`
+- crypto: articles `26`, risk hits `6`, risk headline rate `0.2308`, policy hits `2`
 - macro: articles `25`, risk hits `2`, risk headline rate `0.08`, policy hits `3`
 
 ## Headlines
 
-- [commodity] Oil prices fall after Iran supreme leader and top security official discuss conditions to end war (Energy)
-- [macro] World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs (Economy)
-- [macro] Fed rate hikes are coming, but not this week: CNBC survey (Economy)
 - [macro] FBI raids California home tied to former Congressman Eric Swalwell - US media (BBC News)
+- [macro] World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs (Economy)
+- [macro] Nanotyrannus skeleton auctioned for $47.3m in New York (BBC News)
+- [commodity] Oil prices fall after Iran supreme leader and top security official discuss conditions to end war (Energy)
+- [crypto] USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko (Cointelegraph.com News)
+- [macro] Fed rate hikes are coming, but not this week: CNBC survey (Economy)
 - [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
 - [macro] Minimum wage set to rise but 18-20 year-olds will not get bigger increase (BBC News)
 - [macro] Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria (BBC News)
 - [macro] Norway and Finland leaders hold rare call with Putin (BBC News)
-- [crypto] Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
