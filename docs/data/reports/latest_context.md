@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T05:07:27.081755+00:00`
-- Market context score: `42.09`
-- News risk score: `49.83`
-- Macro risk score: `25.25`
-- Risk-on score: `22.92`
-- Articles: `25`
-- Polymarket markets: `397`
+- Generated: `2026-10-27T05:22:34.513580+00:00`
+- Market context score: `40.65`
+- News risk score: `51.21`
+- Macro risk score: `28.04`
+- Risk-on score: `21.96`
+- Articles: `26`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T05:00:00+00:00`
+- Day/swing latest: `2026-10-27T05:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `5`, risk headline rate `0.5556`, policy hits `0`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.1333`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns (Energy)
 - [macro] Jay-Z to perform at Super Bowl half-time show (BBC News)
 - [macro] Meghan to co-host Junior MasterChef Australia (BBC News)
 - [crypto] Ripple gets a final go-ahead to launch its own U.S. national trust bank (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
 - [crypto] Keystone breach deepens: Hackers stole key used to verify wallets as genuine (Cointelegraph.com News)
 - [macro] Apple says it will replace iPhone Duo handsets with screen problems (BBC News)
-- [macro] Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump (BBC News)
