@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T11:07:37.587202+00:00`
-- Market context score: `48.22`
-- News risk score: `41.36`
-- Macro risk score: `22.43`
-- Risk-on score: `28.33`
-- Articles: `35`
+- Generated: `2026-10-27T11:22:26.028983+00:00`
+- Market context score: `45.6`
+- News risk score: `44.62`
+- Macro risk score: `25.46`
+- Risk-on score: `26.4`
+- Articles: `37`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T11:00:00+00:00`
+- Day/swing latest: `2026-10-27T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `1`
-- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `1`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `1`
+- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `3`
 
 ## Headlines
 
+- [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
+- [macro] Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space' (BBC News)
+- [crypto] Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Turnout so far highest in decades as Israelis vote in pivotal election (BBC News)
+- [macro] Fed rate hikes are coming, but not this week: CNBC survey (Economy)
 - [macro] What is the Budget and what could be in it? (BBC News)
 - [crypto] Investor who called for AI pivot in 2023 says bitcoin is going to $57,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict (Energy)
 - [macro] Mbappé dropped by major Chinese brands as backlash grows over Mao joke (BBC News)
 - [macro] Mbappé dropped by major Chinese brands as backlash grows over Mao joke (BBC News)
-- [macro] What does Israel's election mean for Gaza and the wider world? (BBC News)
-- [macro] Turnout highest since 1981 as Israelis vote in pivotal election (BBC News)
-- [macro] Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space' (BBC News)
-- [crypto] Zcash co-founder calls to stop funding ‘over $125M’ grants program (Cointelegraph.com News)
-- [crypto] Now is the time to accumulate bitcoin, Galaxy says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
