@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T01:37:41.467424+00:00`
+- Generated: `2026-10-27T01:52:28.748050+00:00`
 - Market context score: `40.52`
 - News risk score: `46.82`
 - Macro risk score: `30.94`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T01:30:00+00:00`
+- Day/swing latest: `2026-10-27T01:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Apple says it will replace iPhone Duo handsets with screen problems (BBC News)
-- [macro] Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
+- [macro] Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' (BBC News)
 - [crypto] Ripple wins final US approval for national trust bank (Cointelegraph.com News)
 - [macro] 'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget? (BBC News)
 - [crypto] US OCC calls on community banks to become payment stablecoin issuers (Cointelegraph.com News)
