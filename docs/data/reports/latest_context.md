@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T10:22:37.597340+00:00`
+- Generated: `2026-10-27T10:37:32.710707+00:00`
 - Market context score: `45.46`
 - News risk score: `44.51`
 - Macro risk score: `26.15`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T10:15:00+00:00`
+- Day/swing latest: `2026-10-27T10:30:00+00:00`
 
 ## News Categories
 
@@ -30,9 +30,9 @@
 
 - [macro] Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke (BBC News)
 - [macro] Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke (BBC News)
-- [macro] What does Israel's election mean for Gaza and the wider world (BBC News)
+- [macro] What does Israel's election mean for Gaza and the wider world? (BBC News)
 - [macro] Israel heads to polls for pivotal election defined by security and democracy (BBC News)
-- [macro] Budget measures to include fuel duty freeze and food tariff cuts (BBC News)
+- [macro] Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space' (BBC News)
 - [crypto] Zcash co-founder calls to stop funding ‘over $125M’ grants program (Cointelegraph.com News)
 - [crypto] Now is the time to accumulate bitcoin, Galaxy says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Apple says it will replace iPhone Duo handsets with screen problems (BBC News)
