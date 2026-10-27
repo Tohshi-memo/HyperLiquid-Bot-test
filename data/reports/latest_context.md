@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T08:52:23.857610+00:00`
+- Generated: `2026-10-27T09:07:25.780204+00:00`
 - Market context score: `42.03`
 - News risk score: `46.02`
 - Macro risk score: `26.19`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T08:45:00+00:00`
+- Day/swing latest: `2026-10-27T09:00:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Budget measures to include fuel duty freeze and food tariff cuts (BBC News)
 - [macro] Why it could take time for a new Israeli government to form (BBC News)
 - [crypto] An AI label alone no longer wins lenders, JPMorgan says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Chancellor to cut tariffs on marmalade and other products to help with cost-of-living (BBC News)
 - [commodity] Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict (Energy)
 - [crypto] Binance files for Brazil crypto license ahead of Friday deadline (Cointelegraph.com News)
 - [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
