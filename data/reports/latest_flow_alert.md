@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-27T09:00:35.489577+00:00`
+- Generated: `2026-10-27T09:05:37.731692+00:00`
 - Flow alert score: `18.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `3571367.7643549996` | liquidity: `1543497.50991`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2510884.9100260003` | liquidity: `481172.2566`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1358155.115` | liquidity: `843687.65356`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1281886.347513` | liquidity: `1571139.513`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1054111.746658` | liquidity: `575985.25284`
-- France declares state of emergency by December 31, 2026? | 24h volume: `873388.928892` | liquidity: `176389.1736`
-- 2026 Balance of Power: Other | 24h volume: `856661.693414` | liquidity: `359915.05362`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `602365.257277` | liquidity: `283718.6696`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `3571367.7643549996` | liquidity: `1519319.28245`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2510884.9100260003` | liquidity: `483930.2902`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1358155.115` | liquidity: `823993.27956`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `1281886.347513` | liquidity: `1541187.9964`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `1054111.746658` | liquidity: `557014.33269`
+- France declares state of emergency by December 31, 2026? | 24h volume: `873388.928892` | liquidity: `176119.8424`
+- 2026 Balance of Power: Other | 24h volume: `856661.693414` | liquidity: `358966.15066`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `602365.257277` | liquidity: `298643.6772`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
