@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T09:37:30.390260+00:00`
-- Market context score: `38.7`
-- News risk score: `49.87`
+- Generated: `2026-10-27T09:52:29.993871+00:00`
+- Market context score: `44.05`
+- News risk score: `46.4`
 - Macro risk score: `26.95`
-- Risk-on score: `16.07`
+- Risk-on score: `25.04`
 - Articles: `31`
 - Polymarket markets: `396`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T09:30:00+00:00`
+- Day/swing latest: `2026-10-27T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `7`, risk headline rate `0.5385`, policy hits `1`
+- crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `1`
 - macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Now is the time to accumulate bitcoin, Galaxy says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Apple says it will replace iPhone Duo handsets with screen problems (BBC News)
 - [macro] Truce begins in Ukraine city where residents ate weeds to survive (BBC News)
 - [macro] Budget measures to include fuel duty freeze and food tariff cuts (BBC News)
 - [commodity] Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict (Energy)
@@ -36,5 +38,3 @@
 - [crypto] An AI label alone no longer wins lenders, JPMorgan says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance files for Brazil crypto license ahead of Friday deadline (Cointelegraph.com News)
 - [crypto] Solana bug reports now cost 1 SOL as AI floods security teams with spam (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin ETFs claw back $110M after $774M exit (Cointelegraph.com News)
-- [macro] 'A dream come true' - Harry Kane on his Ballon d'Or win (BBC News)
