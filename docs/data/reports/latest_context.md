@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-27T19:37:28.524392+00:00`
-- Market context score: `50.37`
-- News risk score: `37.76`
-- Macro risk score: `25.94`
-- Risk-on score: `31.4`
+- Generated: `2026-10-27T19:52:30.679156+00:00`
+- Market context score: `51.52`
+- News risk score: `36.2`
+- Macro risk score: `25.44`
+- Risk-on score: `32.44`
 - Articles: `52`
 - Polymarket markets: `394`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-27T19:30:00+00:00`
+- Day/swing latest: `2026-10-27T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `6`, risk headline rate `0.2143`, policy hits `1`
-- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `3`
+- crypto: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `1`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Dutch zookeeper dies after being mauled in leopard enclosure (BBC News)
 - [crypto] CFTC sues Utah to block action against prediction markets (Cointelegraph.com News)
 - [crypto] U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Deaths in detention cells in Nigeria were entirely preventable, inquiry finds (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Controversial Islamic cleric shot dead in northern Nigeria (BBC News)
 - [macro] Norway and Finland leaders hold rare call with Putin (BBC News)
 - [crypto] Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Majority of Americans want candidates who support US-based financial technology: Poll (Cointelegraph.com News)
-- [macro] Watch: The Mbappé-Chairman Mao controversy explained (BBC News)
