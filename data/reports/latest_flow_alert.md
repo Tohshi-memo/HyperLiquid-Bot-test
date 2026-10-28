@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-28T19:00:52.943248+00:00`
+- Generated: `2026-10-28T19:05:56.361853+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `9441602.353309002` | liquidity: `631026.6154`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `7912966.193907` | liquidity: `1352943.08535`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `6075876.851505999` | liquidity: `1772822.04037`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `9441602.353309002` | liquidity: `615767.5158`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `7912966.193907` | liquidity: `1326466.19035`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `6075876.851505999` | liquidity: `1710362.93698`
 - Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `4838875.67` | liquidity: `1218305.18051`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `4402343.1686` | liquidity: `255639.96376`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `2660486.7062949995` | liquidity: `4215164.57256`
-- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `2350756.1607270003` | liquidity: `193872.61918`
-- Will Yashar win the most seats in the 2026 Israeli legislative election? | 24h volume: `2038248.56564` | liquidity: `256472.58822`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `4402343.1686` | liquidity: `262474.32453`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `2660486.7062949995` | liquidity: `4315451.73254`
+- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `2350756.1607270003` | liquidity: `191204.0199`
+- Will Yashar win the most seats in the 2026 Israeli legislative election? | 24h volume: `2038248.56564` | liquidity: `256248.10265`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
