@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T04:07:29.142008+00:00`
-- Market context score: `47.38`
-- News risk score: `37.33`
-- Macro risk score: `27.54`
-- Risk-on score: `25.0`
+- Generated: `2026-10-28T04:22:30.686076+00:00`
+- Market context score: `48.98`
+- News risk score: `36.29`
+- Macro risk score: `26.42`
+- Risk-on score: `27.24`
 - Articles: `46`
 - Polymarket markets: `398`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T04:00:00+00:00`
+- Day/swing latest: `2026-10-28T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `0`
+- crypto: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `2`
+- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’ (Cointelegraph.com News)
 - [macro] Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC News)
 - [crypto] Coinbase says user funds are safe after third-party vendor exposes customer contact info (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Discord is making public chats searchable on Google: How to opt out (Cointelegraph.com News)
 - [macro] Watch: What happens now after close vote in Israeli election? (BBC News)
 - [macro] Tax on banks, energy bill help and minimum wage rise - what could be in the Budget? (BBC News)
-- [macro] I get £4,062 a year and am trying my best - here's what I want from the Budget (BBC News)
