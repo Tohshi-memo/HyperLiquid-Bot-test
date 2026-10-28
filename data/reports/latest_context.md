@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T07:37:33.587569+00:00`
+- Generated: `2026-10-28T07:52:40.182857+00:00`
 - Market context score: `47.28`
 - News risk score: `40.71`
 - Macro risk score: `31.29`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T07:30:00+00:00`
+- Day/swing latest: `2026-10-28T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,8 @@
 
 ## Headlines
 
-- [macro] Tax on banks, energy bill help and minimum wage rise - what could be in the Budget? (BBC News)
+- [macro] Energy bill help, minimum wage rise and bank taxes - what could be in the Budget? (BBC News)
+- [macro] Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC News)
 - [macro] Free haircuts project aims to inspire other stylists (BBC News)
 - [macro] Parents turn to costume swap to cut Halloween costs (BBC News)
 - [macro] 'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries (Energy)
 - [crypto] Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bithumb hacked through employee system as South Korean financial firms face cyberattacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
