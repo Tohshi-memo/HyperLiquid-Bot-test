@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T21:37:27.589852+00:00`
-- Market context score: `46.11`
-- News risk score: `44.4`
-- Macro risk score: `25.12`
-- Risk-on score: `27.23`
-- Articles: `60`
+- Generated: `2026-10-28T21:52:27.496076+00:00`
+- Market context score: `45.2`
+- News risk score: `45.45`
+- Macro risk score: `26.19`
+- Risk-on score: `26.49`
+- Articles: `64`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T21:30:00+00:00`
+- Day/swing latest: `2026-10-28T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `10`
-- macro: articles `28`, risk hits `3`, risk headline rate `0.1071`, policy hits `3`
+- crypto: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `10`
+- macro: articles `31`, risk hits `4`, risk headline rate `0.129`, policy hits `5`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [macro] High-speed train crash kills at least 68 people in Spain (BBC News)
+- [crypto] Canadian ‘crypto king’ case to go to jury as criminal trial winds down (Cointelegraph.com News)
+- [macro] Here are five key takeaways from the Fed rate decision and Warsh news conference (Economy)
+- [macro] Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain (BBC News)
 - [macro] Death of US actress Hayden Panettiere ruled accidental, ending local police probe (BBC News)
 - [crypto] Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election (BBC News)
 - [macro] Bessent says 'not necessarily' a mistake if the Fed hikes again (Economy)
 - [macro] Israel's election deadlock is a sign of the country's deep divisions (BBC News)
 - [macro] Netanyahu's bloc leading Israel election but short of majority, partial results show (BBC News)
-- [macro] What we now know about the UK economy in four charts (BBC News)
-- [macro] What the Budget offers for under 25s - and what it leaves out (BBC News)
-- [macro] Dharshini David: Healey buys himself some time, but big questions still unanswered (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
