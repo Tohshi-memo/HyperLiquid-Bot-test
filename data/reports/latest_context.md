@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T00:07:27.600563+00:00`
-- Market context score: `51.77`
-- News risk score: `34.72`
-- Macro risk score: `27.46`
-- Risk-on score: `32.51`
-- Articles: `51`
+- Generated: `2026-10-28T00:22:27.534670+00:00`
+- Market context score: `49.51`
+- News risk score: `34.77`
+- Macro risk score: `27.48`
+- Risk-on score: `27.55`
+- Articles: `50`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T00:00:00+00:00`
+- Day/swing latest: `2026-10-28T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `1`
+- crypto: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `1`
 - macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `2`
 
 ## Headlines
 
-- [macro] Watch: 'No clear winner' in Israel election - what happens now? (BBC News)
+- [macro] Watch: What happens now after close vote in Israeli election? (BBC News)
 - [macro] Tax on banks, energy bill help and minimum wage rise - what could be in the Budget? (BBC News)
 - [macro] I get £4,062 a year and am trying my best - here's what I want from the Budget (BBC News)
 - [macro] 'An annoying buzz': The search for stealthier drones (BBC News)
