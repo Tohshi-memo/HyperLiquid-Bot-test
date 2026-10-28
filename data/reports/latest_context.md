@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T08:07:28.912424+00:00`
-- Market context score: `47.89`
-- News risk score: `39.82`
-- Macro risk score: `31.23`
-- Risk-on score: `29.62`
-- Articles: `36`
+- Generated: `2026-10-28T08:22:30.501158+00:00`
+- Market context score: `48.96`
+- News risk score: `38.79`
+- Macro risk score: `29.14`
+- Risk-on score: `30.33`
+- Articles: `35`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T08:00:00+00:00`
+- Day/swing latest: `2026-10-28T08:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `3`
 - macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Bitcoin ETF inflows climb to $176M as sentiment edges higher (Cointelegraph.com News)
+- [crypto] Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K (Cointelegraph.com News)
 - [macro] Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC News)
 - [crypto] Coinbase denies systems breach, says vendor exposed customer data (Cointelegraph.com News)
 - [macro] Energy bill help, minimum wage rise and bank taxes - what could be in the Budget? (BBC News)
