@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T15:52:35.917922+00:00`
-- Market context score: `48.91`
-- News risk score: `43.37`
+- Generated: `2026-10-28T16:08:14.480166+00:00`
+- Market context score: `50.13`
+- News risk score: `41.57`
 - Macro risk score: `26.69`
-- Risk-on score: `33.17`
+- Risk-on score: `34.37`
 - Articles: `46`
 - Polymarket markets: `399`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T15:45:00+00:00`
+- Day/swing latest: `2026-10-28T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `25`, risk hits `11`, risk headline rate `0.36`, policy hits `5`
+- crypto: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `5`
 - macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Crypto Long & Short: What happens when an AI agent pays for the wrong thing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The one thing that didn't change that will affect your pay the most (BBC News)
 - [macro] The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget (Economy)
 - [macro] Budget 2026: Key points at a glance (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections (Energy)
 - [macro] How much is the minimum wage going up by? (BBC News)
 - [macro] How much is the minimum wage going up by? (BBC News)
-- [macro] Israel's election result is messy - here's why (BBC News)
