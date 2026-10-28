@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T09:37:26.815638+00:00`
-- Market context score: `46.38`
-- News risk score: `40.7`
-- Macro risk score: `27.11`
-- Risk-on score: `25.45`
-- Articles: `34`
+- Generated: `2026-10-28T09:52:28.109047+00:00`
+- Market context score: `51.99`
+- News risk score: `39.62`
+- Macro risk score: `24.94`
+- Risk-on score: `36.19`
+- Articles: `33`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T09:30:00+00:00`
+- Day/swing latest: `2026-10-28T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `0`
+- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
 
 ## Headlines
 
 - [macro] Energy bill help, minimum wage rise and bank taxes - what could be in the Budget? (BBC News)
-- [crypto] Bitcoin has soared 50% on average after midterms. The S&P 500 has gained 15%. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Here's how much bitcoin and the S&P 500 could rally after midterms (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Securitize adds Stellar blockchain as institutional tokenization gathers steam (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K (Cointelegraph.com News)
 - [macro] Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC News)
