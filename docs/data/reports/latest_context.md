@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T15:22:28.574582+00:00`
+- Generated: `2026-10-28T15:37:31.652221+00:00`
 - Market context score: `48.91`
 - News risk score: `43.37`
 - Macro risk score: `26.69`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T15:15:00+00:00`
+- Day/swing latest: `2026-10-28T15:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] What we know so far about deadly Spain train crash (BBC News)
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
 - [macro] The one thing the chancellor didn't mention that will affect your pay (BBC News)
 - [commodity] Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections (Energy)
 - [macro] Budget 2026: Key points at a glance (BBC News)
 - [macro] The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget (Economy)
-- [macro] What we know so far about deadly Spain train crash (BBC News)
 - [macro] How much is the minimum wage going up by? (BBC News)
 - [macro] How much is the minimum wage going up by? (BBC News)
-- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
-- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
 - [macro] Israel's election result is messy - here's why (BBC News)
