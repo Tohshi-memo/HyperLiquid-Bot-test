@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T05:52:24.641028+00:00`
-- Market context score: `44.18`
-- News risk score: `42.65`
-- Macro risk score: `28.19`
-- Risk-on score: `22.61`
-- Articles: `42`
+- Generated: `2026-10-28T06:07:40.608912+00:00`
+- Market context score: `45.8`
+- News risk score: `41.95`
+- Macro risk score: `27.55`
+- Risk-on score: `25.38`
+- Articles: `44`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T05:45:00+00:00`
+- Day/swing latest: `2026-10-28T06:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `3`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
+- commodity: articles `4`, risk hits `7`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `3`
+- macro: articles `22`, risk hits `2`, risk headline rate `0.0909`, policy hits `0`
 
 ## Headlines
 
+- [macro] Cash grants for groups helping with money and debt (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [commodity] Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries (Energy)
 - [crypto] Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bithumb hacked through employee system as South Korean financial firms face cyberattacks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: What happens now after close vote in Israeli election? (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’ (Cointelegraph.com News)
 - [macro] Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC News)
 - [crypto] Coinbase says user funds are safe after third-party vendor exposes customer contact info (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion (Energy)
-- [macro] Alexander brothers each sentenced to 30 years in prison in sex trafficking case (BBC News)
-- [crypto] Bithumb discloses data leak after internal system breach: Report (Cointelegraph.com News)
