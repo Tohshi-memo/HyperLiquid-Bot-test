@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T16:37:28.929335+00:00`
-- Market context score: `50.01`
-- News risk score: `41.63`
-- Macro risk score: `26.21`
-- Risk-on score: `33.97`
-- Articles: `45`
+- Generated: `2026-10-28T16:55:03.774455+00:00`
+- Market context score: `49.74`
+- News risk score: `41.2`
+- Macro risk score: `25.57`
+- Risk-on score: `32.76`
+- Articles: `47`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T16:30:00+00:00`
+- Day/swing latest: `2026-10-28T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `24`, risk hits `10`, risk headline rate `0.3333`, policy hits `4`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `2`
+- crypto: articles `25`, risk hits `10`, risk headline rate `0.32`, policy hits `4`
+- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `2`
 
 ## Headlines
 
-- [macro] Will I get a £100 energy payment and when will I get it? (BBC News)
-- [macro] Will I get a £100 energy payment and when will I get it? (BBC News)
+- [macro] Watch: At the scene of Spain's deadly train crash (BBC News)
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
+- [crypto] Phantom launches Kalshi-powered prediction markets for US users (Cointelegraph.com News)
+- [macro] Will I get the £100 energy payment and when will I receive it? (BBC News)
+- [macro] Will I get the £100 energy payment and when will I receive it? (BBC News)
 - [crypto] Crypto Long & Short: What happens when an AI agent pays for the wrong thing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The one thing that didn't change that will affect your pay the most (BBC News)
 - [macro] The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget (Economy)
 - [macro] Budget 2026: Key points at a glance (BBC News)
-- [macro] What we know so far about deadly Spain train crash (BBC News)
-- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
-- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
-- [commodity] Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections (Energy)
