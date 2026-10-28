@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T17:37:40.991941+00:00`
+- Generated: `2026-10-28T17:52:34.360259+00:00`
 - Market context score: `52.37`
 - News risk score: `39.11`
 - Macro risk score: `24.99`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T17:30:00+00:00`
+- Day/swing latest: `2026-10-28T17:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections (Energy)
+- [macro] Will I get the £100 energy payment and when will I receive it? (BBC News)
 - [macro] Dharshini David: Healey buys himself some time, but big questions still unanswered (BBC News)
 - [macro] Healey tells departments to make 1% cuts to fund defence (BBC News)
-- [macro] Will I get the £100 energy payment and when will I receive it? (BBC News)
 - [crypto] Crypto PAC spending before midterms possibly obscured after reported FEC hack (Cointelegraph.com News)
 - [crypto] Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Netanyahu's bloc leading Israel election but short of majority, partial results show (BBC News)
 - [macro] Budget 2026: Key points at a glance (BBC News)
 - [macro] The one thing that didn't change that will affect your pay the most (BBC News)
 - [crypto] Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings (Cointelegraph.com News)
-- [macro] Watch: At the scene of Spain's deadly train crash (BBC News)
