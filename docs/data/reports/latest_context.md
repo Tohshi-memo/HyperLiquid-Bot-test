@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T10:07:30.297105+00:00`
-- Market context score: `55.0`
-- News risk score: `37.86`
-- Macro risk score: `25.57`
-- Risk-on score: `41.62`
-- Articles: `35`
+- Generated: `2026-10-28T10:22:34.133366+00:00`
+- Market context score: `52.71`
+- News risk score: `39.06`
+- Macro risk score: `23.68`
+- Risk-on score: `36.84`
+- Articles: `34`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T10:00:00+00:00`
+- Day/swing latest: `2026-10-28T10:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `3`
-- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
+- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `15`, risk hits `6`, risk headline rate `0.3333`, policy hits `3`
+- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
 
 ## Headlines
 
+- [macro] Plaid demands more cash, but how could the Budget affect Wales? (BBC News)
+- [crypto] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kospi surges 7% as SK Hynix earnings fuel AI stock rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over (Cointelegraph.com News)
 - [commodity] Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries (Energy)
@@ -36,5 +38,3 @@
 - [crypto] Securitize adds Stellar blockchain as institutional tokenization gathers steam (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K (Cointelegraph.com News)
 - [macro] Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC News)
-- [macro] Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC News)
-- [crypto] Coinbase denies systems breach, says vendor exposed customer data (Cointelegraph.com News)
