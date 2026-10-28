@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T12:22:27.882159+00:00`
+- Generated: `2026-10-28T12:37:26.809393+00:00`
 - Market context score: `49.55`
 - News risk score: `41.76`
 - Macro risk score: `28.97`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T12:15:00+00:00`
+- Day/swing latest: `2026-10-28T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,9 @@
 
 ## Headlines
 
+- [commodity] Oil prices rise as Houthi attacks on Saudi refinery raise supply worries (Energy)
+- [macro] How will the tax cut on gherkins help restaurants? (BBC News)
+- [commodity] Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion (Energy)
 - [macro] More cats abandoned 'due to rising costs' (BBC News)
 - [macro] What we know so far about deadly Spain train crash (BBC News)
 - [crypto] Dissent and more: 3 things to watch for at the Fed meeting (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [commodity] Luxury round-the-world cruise ends abruptly as fuel costs skyrocket (Energy)
 - [crypto] Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] I get £4,062 a year and am trying my best - here's what I want from the Budget (BBC News)
-- [macro] I get £4,062 a year and am trying my best - here's what I want from the Budget (BBC News)
-- [crypto] Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut (Cointelegraph.com News)
-- [crypto] Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
