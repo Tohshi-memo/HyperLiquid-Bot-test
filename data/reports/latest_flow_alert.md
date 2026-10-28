@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-28T18:05:40.693287+00:00`
+- Generated: `2026-10-28T18:11:52.762508+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `54188596.51`
-- Polymarket volume z-score: `2.63`
+- Polymarket 24h volume: `55736125.35`
+- Polymarket volume z-score: `2.75`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `9703320.679305006` | liquidity: `791060.1565`
-- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `7673950.490155999` | liquidity: `1340055.71536`
-- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `5215508.717885999` | liquidity: `2033987.62882`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `4868870.01436` | liquidity: `259262.53043`
-- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `4661290.26` | liquidity: `1114508.73913`
-- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `2293078.1727489997` | liquidity: `199101.46524`
-- Will Yashar win the most seats in the 2026 Israeli legislative election? | 24h volume: `2232059.8198190024` | liquidity: `242838.01201`
-- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `2038340.0240169999` | liquidity: `4268058.23178`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `9650341.112206003` | liquidity: `804043.6556`
+- Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? | 24h volume: `8392304.12024` | liquidity: `1406426.31846`
+- Will there be no change in Fed interest rates after the October 2026 meeting? | 24h volume: `5850369.015993` | liquidity: `2113981.69495`
+- Will the Fed decrease interest rates by 25 bps after the October 2026 meeting? | 24h volume: `4839875.67` | liquidity: `1230107.26542`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `4743791.070248001` | liquidity: `256688.74248`
+- Will the Fed increase interest rates by 25 bps after the October 2026 meeting? | 24h volume: `2689235.394867` | liquidity: `4496949.22817`
+- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `2290713.381636` | liquidity: `203039.31417`
+- Will Yashar win the most seats in the 2026 Israeli legislative election? | 24h volume: `2198228.2311050007` | liquidity: `242625.60001`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
