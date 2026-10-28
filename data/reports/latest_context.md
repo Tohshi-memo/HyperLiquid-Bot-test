@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T14:29:03.949363+00:00`
+- Generated: `2026-10-28T14:37:28.955357+00:00`
 - Market context score: `49.04`
 - News risk score: `43.03`
 - Macro risk score: `27.26`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T14:15:00+00:00`
+- Day/swing latest: `2026-10-28T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
 - [macro] Israel's election result is messy - here's why (BBC News)
-- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
-- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
 - [macro] Budget 2026: Key points at a glance (BBC News)
 - [crypto] Google Cloud outlines MPC service for institutional Bitcoin custody (Cointelegraph.com News)
 - [commodity] Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections (Energy)
