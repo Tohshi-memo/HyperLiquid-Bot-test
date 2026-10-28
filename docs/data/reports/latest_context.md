@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-28T12:52:30.653792+00:00`
-- Market context score: `49.19`
-- News risk score: `42.18`
-- Macro risk score: `29.05`
-- Risk-on score: `33.69`
+- Generated: `2026-10-28T13:07:34.321563+00:00`
+- Market context score: `49.28`
+- News risk score: `41.88`
+- Macro risk score: `29.69`
+- Risk-on score: `33.89`
 - Articles: `44`
 - Polymarket markets: `397`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-28T12:45:00+00:00`
+- Day/swing latest: `2026-10-28T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `22`, risk hits `8`, risk headline rate `0.3182`, policy hits `5`
-- macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `2`
+- crypto: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `5`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
 
 ## Headlines
 
+- [crypto] JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices rise as Houthi attacks on Saudi refinery raise supply worries (Energy)
 - [macro] How will the tax cut on gherkins help restaurants? (BBC News)
 - [commodity] Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion (Energy)
@@ -37,4 +38,3 @@
 - [crypto] XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Luxury round-the-world cruise ends abruptly as fuel costs skyrocket (Energy)
 - [crypto] Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] I get £4,062 a year and am trying my best - here's what I want from the Budget (BBC News)
