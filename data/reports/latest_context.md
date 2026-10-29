@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T13:37:29.303947+00:00`
-- Market context score: `43.31`
-- News risk score: `44.73`
-- Macro risk score: `35.71`
-- Risk-on score: `25.27`
-- Articles: `66`
+- Generated: `2026-10-29T13:52:33.928409+00:00`
+- Market context score: `42.58`
+- News risk score: `45.74`
+- Macro risk score: `37.15`
+- Risk-on score: `25.06`
+- Articles: `68`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T13:30:00+00:00`
+- Day/swing latest: `2026-10-29T13:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `33`, risk hits `6`, risk headline rate `0.1818`, policy hits `2`
-- macro: articles `29`, risk hits `11`, risk headline rate `0.3448`, policy hits `5`
+- crypto: articles `34`, risk hits `6`, risk headline rate `0.1765`, policy hits `2`
+- macro: articles `30`, risk hits `12`, risk headline rate `0.3667`, policy hits `6`
 
 ## Headlines
 
+- [commodity] Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears (Energy)
+- [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool. (Economy)
 - [macro] President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her (Economy)
+- [macro] Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates (Economy)
+- [macro] Netanyahu's bloc leading Israel election but short of majority, partial results show (BBC News)
 - [macro] European Central Bank keeps key interest rate on hold at 2.5% (Economy)
+- [macro] Island Energy: No plans to remove gas standing charge (BBC News)
+- [crypto] Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Brazil’s Halloween eve crypto deadline brings more tricks than treats (Cointelegraph.com News)
 - [crypto] Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? (Cointelegraph.com News)
-- [macro] Minimum wage rise 'a massive blow' says farmer (BBC News)
-- [macro] Minimum wage increase accepted by minister (BBC News)
-- [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
-- [macro] 'Painful' years ahead, think tanks warn, as living standards set to fall (BBC News)
-- [macro] 'Painful' years ahead, think tanks warn, as living standards set to fall (BBC News)
-- [macro] Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates (Economy)
