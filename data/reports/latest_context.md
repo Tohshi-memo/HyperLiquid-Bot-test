@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T00:07:25.621353+00:00`
-- Market context score: `43.22`
-- News risk score: `42.89`
-- Macro risk score: `26.67`
-- Risk-on score: `20.13`
-- Articles: `49`
+- Generated: `2026-10-29T00:22:35.636116+00:00`
+- Market context score: `43.44`
+- News risk score: `42.97`
+- Macro risk score: `25.85`
+- Risk-on score: `20.36`
+- Articles: `51`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T00:00:00+00:00`
+- Day/swing latest: `2026-10-29T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `28`, risk hits `4`, risk headline rate `0.1429`, policy hits `3`
+- macro: articles `30`, risk hits `4`, risk headline rate `0.1333`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [macro] I earn £30,000. I'm angry there was no fuel duty cut in the Budget (BBC News)
+- [macro] 'I live with a ghost': Japan's haunted homes attract bargain hunters (BBC News)
 - [macro] Flávio Bolsonaro denies fleeing Brazil after landing in Miami (BBC News)
 - [macro] Girl seriously injured in wolf attack at German wildlife park (BBC News)
 - [macro] High-speed train crash kills at least 68 people in Spain (BBC News)
@@ -37,5 +39,3 @@
 - [macro] Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain (BBC News)
 - [macro] Death of US actress Hayden Panettiere ruled accidental, ending local police probe (BBC News)
 - [crypto] Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bessent says 'not necessarily' a mistake if the Fed hikes again (Economy)
-- [macro] Israel's election deadlock is a sign of the country's deep divisions (BBC News)
