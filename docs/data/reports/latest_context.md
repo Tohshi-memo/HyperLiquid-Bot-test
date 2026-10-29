@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T03:29:25.649906+00:00`
-- Market context score: `45.77`
-- News risk score: `39.03`
-- Macro risk score: `27.8`
-- Risk-on score: `22.94`
+- Generated: `2026-10-29T03:37:28.350972+00:00`
+- Market context score: `46.04`
+- News risk score: `38.9`
+- Macro risk score: `28.76`
+- Risk-on score: `23.8`
 - Articles: `46`
 - Polymarket markets: `395`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T03:15:00+00:00`
+- Day/swing latest: `2026-10-29T03:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `7`
-- macro: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `3`
+- crypto: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `8`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Mystery Wall Street Journal ad sparks new fight over tokenized stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tampered Ledger wallets cost Singapore users $2.7M: Police (Cointelegraph.com News)
 - [macro] Microsoft profits soar days after announcing thousands of layoffs (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'I live with a ghost': Japan's haunted homes attract bargain hunters (BBC News)
 - [macro] Girl seriously injured in wolf attack at German wildlife park (BBC News)
 - [macro] High-speed train crash kills at least 68 people in Spain (BBC News)
-- [crypto] Canadian ‘crypto king’ case to go to jury as criminal trial winds down (Cointelegraph.com News)
