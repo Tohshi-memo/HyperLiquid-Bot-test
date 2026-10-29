@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T14:37:32.105685+00:00`
-- Market context score: `41.23`
-- News risk score: `47.85`
-- Macro risk score: `36.34`
-- Risk-on score: `23.53`
-- Articles: `73`
+- Generated: `2026-10-29T14:52:31.651717+00:00`
+- Market context score: `40.35`
+- News risk score: `48.74`
+- Macro risk score: `36.31`
+- Risk-on score: `22.32`
+- Articles: `74`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T14:30:00+00:00`
+- Day/swing latest: `2026-10-29T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `38`, risk hits `8`, risk headline rate `0.2105`, policy hits `2`
+- crypto: articles `39`, risk hits `9`, risk headline rate `0.2308`, policy hits `2`
 - macro: articles `31`, risk hits `12`, risk headline rate `0.3548`, policy hits `6`
 
 ## Headlines
 
-- [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
+- [macro] Watch: VHS tapes and computers handed to police as Thomas Markle is investigated (BBC News)
 - [macro] European Central Bank keeps key interest rate on hold at 2.5% (Economy)
+- [macro] The politics of President Lagarde's European Central Bank early exit  — and who could replace her (Economy)
+- [crypto] Bank of England opens consultation on tokenized collateral for clearing (Cointelegraph.com News)
+- [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
 - [macro] Russian drone attack on Ukrainian train station kills at least 14, officials say (BBC News)
 - [crypto] Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates (Economy)
 - [crypto] Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard (Cointelegraph.com News)
-- [crypto] New quantum model slashes hardware needed to break bitcoin keys by 17 times (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears (Energy)
-- [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool. (Economy)
