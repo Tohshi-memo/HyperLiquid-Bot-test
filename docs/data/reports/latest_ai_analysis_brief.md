@@ -2,7 +2,7 @@
 
 Read this file before loading the full dataset to save AI tokens/quota.
 
-- Updated: `2026-10-29T21:46:09.228674+00:00`
+- Updated: `2026-10-29T21:52:30.689789+00:00`
 - Records: `12000`
 - Symbols: `BTC, ETH, HYPE, SOL`
 - Intervals: `15m, 1h, 4h`
@@ -16,10 +16,10 @@ Read this file before loading the full dataset to save AI tokens/quota.
 
 ## Latest Prices
 
-- BTC: `79181.5`
-- ETH: `2271.45`
-- HYPE: `92.8505`
-- SOL: `97.3705`
+- BTC: `79015.5`
+- ETH: `2267.25`
+- HYPE: `92.594`
+- SOL: `97.1335`
 
 ## Horizon Stats
 

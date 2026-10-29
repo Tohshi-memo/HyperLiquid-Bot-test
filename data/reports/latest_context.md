@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T21:46:09.228674+00:00`
+- Generated: `2026-10-29T21:52:30.689789+00:00`
 - Market context score: `40.56`
 - News risk score: `51.72`
 - Macro risk score: `37.3`
@@ -33,7 +33,7 @@
 - [macro] Young athlete and former minister among victims of Spain train crash (BBC News)
 - [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
 - [crypto] Binance investigates potential multibillion-dollar hack (Cointelegraph.com News)
-- [crypto] Multi-billion Binance hack hitting crypto markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Binance loses $5.7 billion in largest crypto hack to date (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: What leaked audio reveals about Spain train crash (BBC News)
 - [policy] Federal Reserve Board announces approval of application by The Bank of Nova Scotia (FRB: Press Release - All Releases)
 - [macro] Israeli opposition accuses Netanyahu of trying to 'delegitimise' election (BBC News)
