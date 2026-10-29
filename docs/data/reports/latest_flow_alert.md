@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-29T00:50:30.002096+00:00`
+- Generated: `2026-10-29T00:55:31.288547+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `21405949.68`
-- Polymarket volume z-score: `-0.09`
+- Polymarket 24h volume: `20830906.2`
+- Polymarket volume z-score: `-0.13`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `5440862.160161001` | liquidity: `660904.2926`
-- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `1594187.719928` | liquidity: `186417.74766`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1538178.1245969997` | liquidity: `391771.28709`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1034274.8242080002` | liquidity: `5494063.7751`
-- Will Gadi Eizenkot be the next Prime Minister of Israel? | 24h volume: `958291.0276049998` | liquidity: `331361.29385`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `877128.5847779999` | liquidity: `6789539.1141`
-- Will Elon Musk win the 2028 US Presidential Election? | 24h volume: `690649.228056` | liquidity: `1013571.41972`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `514529.8869960001` | liquidity: `4752630.2507`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `5290740.251339` | liquidity: `659605.1094`
+- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `1541523.1283259992` | liquidity: `184167.97411`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1501511.955723` | liquidity: `389371.61709`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1034108.158652` | liquidity: `5597084.1552`
+- Will Gadi Eizenkot be the next Prime Minister of Israel? | 24h volume: `893945.3823560002` | liquidity: `324097.02374`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `877130.7387829999` | liquidity: `6802717.9223`
+- Will Elon Musk win the 2028 US Presidential Election? | 24h volume: `690549.228056` | liquidity: `1005179.95385`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `521894.8387850001` | liquidity: `503764.7976`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
