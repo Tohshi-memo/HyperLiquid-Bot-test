@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T17:07:29.767427+00:00`
-- Market context score: `42.41`
-- News risk score: `48.94`
-- Macro risk score: `34.81`
-- Risk-on score: `26.5`
-- Articles: `80`
+- Generated: `2026-10-29T17:22:30.816147+00:00`
+- Market context score: `42.47`
+- News risk score: `48.71`
+- Macro risk score: `35.35`
+- Risk-on score: `26.64`
+- Articles: `81`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T17:00:00+00:00`
+- Day/swing latest: `2026-10-29T17:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `44`, risk hits `11`, risk headline rate `0.25`, policy hits `5`
-- macro: articles `33`, risk hits `11`, risk headline rate `0.303`, policy hits `7`
+- crypto: articles `46`, risk hits `11`, risk headline rate `0.2391`, policy hits `5`
+- macro: articles `32`, risk hits `11`, risk headline rate `0.3125`, policy hits `7`
 
 ## Headlines
 
+- [crypto] HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps (Cointelegraph.com News)
+- [crypto] KuCoin suspends services in Russia and Belarus (Cointelegraph.com News)
+- [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool. (Economy)
 - [crypto] Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] EU chief lays out vision for new Canada partnership at Montreal summit (BBC News)
 - [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2 (Cointelegraph.com News)
 - [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
-- [crypto] Crypto exchange HTX exits the UK after settling with the FCA (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B (Cointelegraph.com News)
-- [macro] Faisal Islam: This Budget was micro and that was deliberate (BBC News)
