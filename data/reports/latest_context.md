@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T07:37:26.535263+00:00`
-- Market context score: `49.71`
-- News risk score: `35.95`
-- Macro risk score: `22.77`
-- Risk-on score: `27.21`
-- Articles: `34`
+- Generated: `2026-10-29T07:52:47.685142+00:00`
+- Market context score: `46.14`
+- News risk score: `35.49`
+- Macro risk score: `24.73`
+- Risk-on score: `19.63`
+- Articles: `42`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T07:30:00+00:00`
+- Day/swing latest: `2026-10-29T07:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `3`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `3`
+- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `3`
+- macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears (Energy)
+- [crypto] The chart bitcoin traders should be paying attention to (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks (Energy)
+- [crypto] Bitcoin ETFs add $137M, pushing October back into the green (Cointelegraph.com News)
 - [macro] 'We need help for small businesses, not punishment' (BBC News)
+- [macro] El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers (BBC News)
 - [macro] Haulier blames fuel prices for diesel theft (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] AI found a way to crash bitcoin nodes on Windows and Macs. It's now public (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Security failure at Indian certificate firm bites Ethereum as developers rush out fixes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Utah charges predictions platform Kalshi with illegal gambling (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Your fridge could one day stake Ether, launch memecoins: CFTC chair (Cointelegraph.com News)
-- [macro] What we know so far about deadly Spain train crash (BBC News)
-- [commodity] Trump methane policy rollback may have minimal impact on crude prices, EPA says (Energy)
-- [crypto] Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
