@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-29T17:30:30.593420+00:00`
+- Generated: `2026-10-29T17:35:39.319685+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1956939.9197569997` | liquidity: `778590.317`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1889591.2737500004` | liquidity: `7149102.3069`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1393793.2427849998` | liquidity: `158249.23764`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1366887.459965` | liquidity: `4956643.2331`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1099634.876366` | liquidity: `5814304.5683`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `756997.949303` | liquidity: `501007.5703`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `618640.144751` | liquidity: `6129651.2624`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `590836.516974` | liquidity: `450115.52768`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1956939.9197569997` | liquidity: `548555.7058`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1889591.2737500004` | liquidity: `6825862.0226`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1393793.2427849998` | liquidity: `138248.82244`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1366887.459965` | liquidity: `4652056.6358`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1099634.876366` | liquidity: `5781714.444`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `756997.949303` | liquidity: `485131.8627`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `618640.144751` | liquidity: `5792573.1399`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `590836.516974` | liquidity: `450121.89632`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
