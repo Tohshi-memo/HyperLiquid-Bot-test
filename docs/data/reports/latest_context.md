@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T17:03:27.700895+00:00`
-- Market context score: `42.22`
-- News risk score: `49.22`
-- Macro risk score: `34.85`
-- Risk-on score: `26.33`
-- Articles: `79`
+- Generated: `2026-10-29T17:07:29.767427+00:00`
+- Market context score: `42.41`
+- News risk score: `48.94`
+- Macro risk score: `34.81`
+- Risk-on score: `26.5`
+- Articles: `80`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `43`, risk hits `11`, risk headline rate `0.2558`, policy hits `5`
+- crypto: articles `44`, risk hits `11`, risk headline rate `0.25`, policy hits `5`
 - macro: articles `33`, risk hits `11`, risk headline rate `0.303`, policy hits `7`
 
 ## Headlines
 
+- [crypto] Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] EU chief lays out vision for new Canada partnership at Montreal summit (BBC News)
 - [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
 - [crypto] KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Crypto exchange HTX exits the UK after settling with the FCA (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B (Cointelegraph.com News)
 - [macro] Faisal Islam: This Budget was micro and that was deliberate (BBC News)
-- [macro] Netanyahu's bloc leading Israel election but short of majority, partial results show (BBC News)
