@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T15:07:29.658316+00:00`
-- Market context score: `40.51`
+- Generated: `2026-10-29T15:23:06.415678+00:00`
+- Market context score: `42.65`
 - News risk score: `48.94`
 - Macro risk score: `34.9`
-- Risk-on score: `22.31`
+- Risk-on score: `27.07`
 - Articles: `75`
 - Polymarket markets: `394`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T15:00:00+00:00`
+- Day/swing latest: `2026-10-29T15:15:00+00:00`
 
 ## News Categories
 
@@ -29,12 +29,12 @@
 ## Headlines
 
 - [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
+- [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
+- [macro] EU chief lays out vision for new Canada partnership at Montreal summit (BBC News)
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
+- [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
+- [macro] Doordash to buy Instacart in $17bn deal it says will expand customer options (BBC News)
+- [crypto] French Senate adopts bill for automatic sharing of crypto tax data (Cointelegraph.com News)
 - [macro] Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budget' (BBC News)
+- [crypto] Polymarket brings ultra-short crypto prediction markets to U.S. platform (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] The politics of President Lagarde's European Central Bank early exit  — and who could replace her (Economy)
-- [macro] The South West reacts to Budget announcements (BBC News)
-- [macro] Watch: VHS tapes and computers handed to police as Thomas Markle is investigated (BBC News)
-- [macro] European Central Bank keeps key interest rate on hold at 2.5% (Economy)
-- [crypto] Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bank of England opens consultation on tokenized collateral for clearing (Cointelegraph.com News)
-- [macro] Russian drone attack on Ukrainian train station kills at least 14, officials say (BBC News)
-- [crypto] Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
