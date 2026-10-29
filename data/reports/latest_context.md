@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T06:22:37.110933+00:00`
+- Generated: `2026-10-29T06:37:28.661185+00:00`
 - Market context score: `43.76`
 - News risk score: `42.36`
 - Macro risk score: `25.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T06:15:00+00:00`
+- Day/swing latest: `2026-10-29T06:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] 'We need help for small businesses, not punishment' (BBC News)
 - [macro] Haulier blames fuel prices for diesel theft (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] AI found a way to crash bitcoin nodes on Windows and Macs. It's now public (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] What we know so far about deadly Spain train crash (BBC News)
 - [commodity] Trump methane policy rollback may have minimal impact on crude prices, EPA says (Energy)
 - [crypto] Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Mystery Wall Street Journal ad sparks new fight over tokenized stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
