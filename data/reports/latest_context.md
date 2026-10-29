@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T23:37:24.741660+00:00`
+- Generated: `2026-10-29T23:52:28.385951+00:00`
 - Market context score: `41.1`
 - News risk score: `51.27`
 - Macro risk score: `35.62`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T23:30:00+00:00`
+- Day/swing latest: `2026-10-29T23:45:00+00:00`
 
 ## News Categories
 
@@ -34,7 +34,7 @@
 - [macro] Google value plunges by $500bn as AI fears rattle Wall Street (BBC News)
 - [macro] Young athlete and former minister among victims of Spain train crash (BBC News)
 - [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
-- [crypto] Live Updates: Binance hit by largest crypto hack in history (Cointelegraph.com News)
+- [crypto] Live Updates: Binance says $2.54 billion frozen after hack (Cointelegraph.com News)
 - [crypto] Binance loses $5.7 billion in 'biggest crypto hack in history' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: What leaked audio reveals about Spain train crash (BBC News)
 - [policy] Federal Reserve Board announces approval of application by The Bank of Nova Scotia (FRB: Press Release - All Releases)
