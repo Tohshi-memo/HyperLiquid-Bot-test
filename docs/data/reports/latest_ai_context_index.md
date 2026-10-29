@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-10-29T10:37:36.771288+00:00`
+- Updated: `2026-10-29T10:52:24.759626+00:00`
 - Asset price active records: `672`
 - Day/swing records: `12000`
 - Macro indicators: `11`
@@ -15,14 +15,14 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 - `data/reports/latest_ai_context_index.md` (2374 bytes): Human-readable map.
 - `data/processed/ai_context_index.json` (62112 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2357 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (873 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/reports/latest_canary_signals.md` (2351 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (872 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2104 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (50442 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5724 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2275 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10622 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3644 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (50453 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5740 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2280 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (10628 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3641 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
@@ -34,7 +34,7 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 - fx: `6`
 - index: `27`
 - metal: `20`
-- unknown: `1248`
+- unknown: `1249`
 
 ## Canary Snapshot
 
