@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T03:22:31.645552+00:00`
-- Market context score: `45.32`
-- News risk score: `39.58`
-- Macro risk score: `27.89`
-- Risk-on score: `22.44`
-- Articles: `45`
+- Generated: `2026-10-29T03:29:25.649906+00:00`
+- Market context score: `45.77`
+- News risk score: `39.03`
+- Macro risk score: `27.8`
+- Risk-on score: `22.94`
+- Articles: `46`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,14 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `7`
+- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `7`
 - macro: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
 - [crypto] Mystery Wall Street Journal ad sparks new fight over tokenized stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Tampered Ledger wallets cost Singapore users $2.7M: Police (Cointelegraph.com News)
 - [macro] Microsoft profits soar days after announcing thousands of layoffs (BBC News)
 - [macro] Flávio Bolsonaro denies fleeing Brazil after landing in Miami (BBC News)
 - [crypto] Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Girl seriously injured in wolf attack at German wildlife park (BBC News)
 - [macro] High-speed train crash kills at least 68 people in Spain (BBC News)
 - [crypto] Canadian ‘crypto king’ case to go to jury as criminal trial winds down (Cointelegraph.com News)
-- [macro] Here are five key takeaways from the Fed rate decision and Warsh news conference (Economy)
