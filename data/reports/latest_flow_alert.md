@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-29T19:25:33.943357+00:00`
+- Generated: `2026-10-29T19:30:34.253326+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `22616159.24`
-- Polymarket volume z-score: `-0.02`
+- Polymarket 24h volume: `21870554.89`
+- Polymarket volume z-score: `-0.07`
 
 ## Top Polymarket Markets
 
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `2082435.635029` | liquidity: `6684867.9401`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2048376.2233719996` | liquidity: `487244.5521`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1883452.8130150004` | liquidity: `4843881.1772`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1416074.7932720007` | liquidity: `117650.64668`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1230959.410806` | liquidity: `5263121.2224`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `709750.067213` | liquidity: `178357.43364`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `658213.1149899999` | liquidity: `6183464.3554`
-- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `594394.9446009999` | liquidity: `734710.0195`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2030819.901667999` | liquidity: `508000.8842`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `2018256.1190530006` | liquidity: `6687279.859`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1422379.94613` | liquidity: `124614.07001`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1373303.0339870004` | liquidity: `4841499.2729`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1218360.4782350003` | liquidity: `5279003.5228`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `709750.0672130001` | liquidity: `184050.56296`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `646006.2178249999` | liquidity: `6202850.4696`
+- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `594059.169600999` | liquidity: `733012.6399`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
