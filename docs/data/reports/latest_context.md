@@ -1,33 +1,35 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T20:07:32.886718+00:00`
-- Market context score: `43.72`
-- News risk score: `48.49`
-- Macro risk score: `36.34`
-- Risk-on score: `29.61`
-- Articles: `79`
+- Generated: `2026-10-29T20:22:29.403222+00:00`
+- Market context score: `44.04`
+- News risk score: `48.16`
+- Macro risk score: `35.7`
+- Risk-on score: `29.81`
+- Articles: `80`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1716`
+- Asset universe count: `1738`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:238, crypto_major:8, equity:156, fx:6, index:27, metal:20, unknown:1248`
+- Asset classes: `commodity:13, crypto_alt:238, crypto_major:8, equity:156, fx:6, index:27, metal:20, unknown:1270`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T20:00:00+00:00`
+- Day/swing latest: `2026-10-29T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `1`
 - crypto: articles `45`, risk hits `10`, risk headline rate `0.2222`, policy hits `3`
-- macro: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `9`
+- macro: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `9`
 
 ## Headlines
 
+- [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
+- [macro] 'The city is alive': A brief peace in Kherson, but residents fear what comes next (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Public companies double share of blockchain revenue since 2022: Report (Cointelegraph.com News)
 - [commodity] Cruise companies aim to keep fuel costs down. Their strategies for doing so differ (Energy)
@@ -36,5 +38,3 @@
 - [commodity] Oil prices edge lower as renewed U.S.-Iran peace efforts ease supply fears (Energy)
 - [crypto] Polymarket suspends trading after third-party breach leads to user losses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Big Oil earnings are set to surge. Why investors may want to be cautious (Energy)
-- [macro] Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates (Economy)
-- [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool (Economy)
