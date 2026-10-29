@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T23:07:30.305284+00:00`
-- Market context score: `41.42`
-- News risk score: `50.98`
-- Macro risk score: `36.44`
-- Risk-on score: `26.64`
-- Articles: `72`
+- Generated: `2026-10-29T23:22:26.413889+00:00`
+- Market context score: `41.33`
+- News risk score: `51.1`
+- Macro risk score: `36.91`
+- Risk-on score: `26.72`
+- Articles: `69`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T23:00:00+00:00`
+- Day/swing latest: `2026-10-29T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `1`
-- crypto: articles `40`, risk hits `11`, risk headline rate `0.275`, policy hits `3`
-- macro: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `9`
+- crypto: articles `38`, risk hits `11`, risk headline rate `0.2895`, policy hits `2`
+- macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `9`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
@@ -33,7 +33,7 @@
 - [macro] Google value plunges by $500bn as AI fears rattle Wall Street (BBC News)
 - [macro] Young athlete and former minister among victims of Spain train crash (BBC News)
 - [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
-- [crypto] Binance hit by $5.8B hack as Tether and Circle freeze billions (Cointelegraph.com News)
+- [crypto] Live Updates: Binance hit by largest crypto hack in history (Cointelegraph.com News)
 - [crypto] Binance loses $5.7 billion in largest crypto hack to date (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Watch: What leaked audio reveals about Spain train crash (BBC News)
 - [policy] Federal Reserve Board announces approval of application by The Bank of Nova Scotia (FRB: Press Release - All Releases)
