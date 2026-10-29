@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T17:22:30.816147+00:00`
-- Market context score: `42.47`
-- News risk score: `48.71`
-- Macro risk score: `35.35`
-- Risk-on score: `26.64`
-- Articles: `81`
-- Polymarket markets: `396`
+- Generated: `2026-10-29T17:37:30.539322+00:00`
+- Market context score: `42.97`
+- News risk score: `47.97`
+- Macro risk score: `35.38`
+- Risk-on score: `27.14`
+- Articles: `80`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T17:15:00+00:00`
+- Day/swing latest: `2026-10-29T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `46`, risk hits `11`, risk headline rate `0.2391`, policy hits `5`
+- crypto: articles `45`, risk hits `10`, risk headline rate `0.2222`, policy hits `5`
 - macro: articles `32`, risk hits `11`, risk headline rate `0.3125`, policy hits `7`
 
 ## Headlines
 
+- [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool (Economy)
 - [crypto] HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps (Cointelegraph.com News)
 - [crypto] KuCoin suspends services in Russia and Belarus (Cointelegraph.com News)
-- [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool. (Economy)
 - [crypto] Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] EU chief lays out vision for new Canada partnership at Montreal summit (BBC News)
 - [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
