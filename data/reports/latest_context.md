@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T15:52:31.383261+00:00`
-- Market context score: `42.96`
-- News risk score: `48.63`
-- Macro risk score: `34.3`
-- Risk-on score: `27.26`
-- Articles: `76`
-- Polymarket markets: `395`
+- Generated: `2026-10-29T16:07:51.094763+00:00`
+- Market context score: `43.03`
+- News risk score: `48.53`
+- Macro risk score: `34.6`
+- Risk-on score: `27.44`
+- Articles: `77`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T15:45:00+00:00`
+- Day/swing latest: `2026-10-29T16:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `40`, risk hits `10`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `32`, risk hits `11`, risk headline rate `0.3125`, policy hits `7`
+- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `41`, risk hits `10`, risk headline rate `0.2439`, policy hits `4`
+- macro: articles `33`, risk hits `11`, risk headline rate `0.303`, policy hits `7`
 
 ## Headlines
 
+- [crypto] Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B (Cointelegraph.com News)
 - [macro] Faisal Islam: This Budget was micro and that was deliberate (BBC News)
 - [macro] Netanyahu's bloc leading Israel election but short of majority, partial results show (BBC News)
 - [crypto] Bitcoin price jumps to $81.5K as US GDP data beats expectations (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] EU chief lays out vision for new Canada partnership at Montreal summit (BBC News)
 - [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
 - [macro] Your pay, energy bills and savings: How the Budget affects you (BBC News)
-- [macro] Doordash to buy Instacart in $17bn deal it says will expand customer options (BBC News)
