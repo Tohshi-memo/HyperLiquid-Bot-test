@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T00:37:28.524828+00:00`
-- Market context score: `44.29`
-- News risk score: `41.99`
-- Macro risk score: `24.38`
-- Risk-on score: `20.88`
-- Articles: `50`
+- Generated: `2026-10-29T00:52:30.185946+00:00`
+- Market context score: `45.84`
+- News risk score: `42.06`
+- Macro risk score: `24.03`
+- Risk-on score: `24.24`
+- Articles: `51`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T00:30:00+00:00`
+- Day/swing latest: `2026-10-29T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `30`, risk hits `4`, risk headline rate `0.1333`, policy hits `3`
+- macro: articles `31`, risk hits `4`, risk headline rate `0.129`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [macro] Microsoft posts $36.6bn profit after offering buyouts to one in four workers (BBC News)
 - [macro] I earn £30,000. I'm angry there was no fuel duty cut in the Budget (BBC News)
 - [macro] 'I live with a ghost': Japan's haunted homes attract bargain hunters (BBC News)
 - [macro] Flávio Bolsonaro denies fleeing Brazil after landing in Miami (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Here are five key takeaways from the Fed rate decision and Warsh news conference (Economy)
 - [macro] Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain (BBC News)
 - [macro] Death of US actress Hayden Panettiere ruled accidental, ending local police probe (BBC News)
-- [crypto] Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
