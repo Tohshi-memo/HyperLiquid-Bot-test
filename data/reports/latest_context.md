@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T14:22:30.940871+00:00`
+- Generated: `2026-10-29T14:37:32.105685+00:00`
 - Market context score: `41.23`
 - News risk score: `47.85`
 - Macro risk score: `36.34`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T14:15:00+00:00`
+- Day/swing latest: `2026-10-29T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Poundland's future hangs in the balance as chain edges towards collapse (BBC News)
 - [macro] European Central Bank keeps key interest rate on hold at 2.5% (Economy)
 - [macro] Russian drone attack on Ukrainian train station kills at least 14, officials say (BBC News)
 - [crypto] Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] New quantum model slashes hardware needed to break bitcoin keys by 17 times (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears (Energy)
 - [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool. (Economy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
