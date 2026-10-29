@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-29T10:30:30.892108+00:00`
+- Generated: `2026-10-29T10:35:29.690839+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17747422.36`
-- Polymarket volume z-score: `-0.39`
+- Polymarket 24h volume: `17623263.14`
+- Polymarket volume z-score: `-0.4`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2941054.107782` | liquidity: `677768.0525`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1142188.766901` | liquidity: `383044.76624`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1080532.8011230002` | liquidity: `5947248.6804`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1066933.736756` | liquidity: `7061372.1597`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `715397.8855330001` | liquidity: `422693.039`
-- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `693827.934687` | liquidity: `146968.175`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `590845.8988070001` | liquidity: `252551.38877`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `501794.74202899996` | liquidity: `415597.657`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `2941054.107782` | liquidity: `663830.6623`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1142188.766901` | liquidity: `298797.50192`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1080532.8011230002` | liquidity: `5944494.1108`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1066933.736756` | liquidity: `7065095.7034`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `715397.8855330001` | liquidity: `398811.8748`
+- Will Likud win 30-34 seats in the 2026 Israeli legislative election? | 24h volume: `693827.934687` | liquidity: `146061.88499`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `590845.8988070001` | liquidity: `252018.91997`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `501794.74202899996` | liquidity: `396717.3304`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
