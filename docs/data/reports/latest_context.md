@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T07:52:47.685142+00:00`
-- Market context score: `46.14`
-- News risk score: `35.49`
-- Macro risk score: `24.73`
-- Risk-on score: `19.63`
-- Articles: `42`
+- Generated: `2026-10-29T08:07:29.124095+00:00`
+- Market context score: `46.03`
+- News risk score: `35.46`
+- Macro risk score: `25.15`
+- Risk-on score: `19.51`
+- Articles: `41`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T07:45:00+00:00`
+- Day/swing latest: `2026-10-29T08:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `3`
-- macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `3`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
 
 ## Headlines
 
+- [macro] Hello Kitty maker cuts ties with Japanese spy drama after China backlash (BBC News)
+- [macro] Hello Kitty maker cuts ties with Japanese spy drama after China backlash (BBC News)
 - [commodity] Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears (Energy)
 - [crypto] The chart bitcoin traders should be paying attention to (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks (Energy)
@@ -36,5 +38,3 @@
 - [macro] El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers (BBC News)
 - [macro] Haulier blames fuel prices for diesel theft (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] AI found a way to crash bitcoin nodes on Windows and Macs. It's now public (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Security failure at Indian certificate firm bites Ethereum as developers rush out fixes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
