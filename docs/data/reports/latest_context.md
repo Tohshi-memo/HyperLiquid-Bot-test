@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T05:22:27.491041+00:00`
-- Market context score: `45.95`
-- News risk score: `40.01`
-- Macro risk score: `26.98`
-- Risk-on score: `23.86`
+- Generated: `2026-10-29T05:37:27.681217+00:00`
+- Market context score: `44.23`
+- News risk score: `42.44`
+- Macro risk score: `27.38`
+- Risk-on score: `22.25`
 - Articles: `41`
 - Polymarket markets: `396`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T05:15:00+00:00`
+- Day/swing latest: `2026-10-29T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `7`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `7`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Security failure at Indian certificate firm bites Ethereum as developers rush out fixes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Utah charges predictions platform Kalshi with illegal gambling (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Your fridge could one day stake Ether, launch memecoins: CFTC chair (Cointelegraph.com News)
 - [macro] What we know so far about deadly Spain train crash (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Tampered Ledger wallets cost Singapore users $2.7M: Police (Cointelegraph.com News)
 - [macro] Hello Kitty maker cuts ties with Japanese spy drama after China backlash (BBC News)
 - [macro] Microsoft profits soar days after announcing thousands of layoffs (BBC News)
-- [macro] Flávio Bolsonaro denies fleeing Brazil after landing in Miami (BBC News)
