@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T13:52:33.928409+00:00`
-- Market context score: `42.58`
-- News risk score: `45.74`
-- Macro risk score: `37.15`
-- Risk-on score: `25.06`
-- Articles: `68`
-- Polymarket markets: `396`
+- Generated: `2026-10-29T14:07:46.325975+00:00`
+- Market context score: `42.12`
+- News risk score: `46.91`
+- Macro risk score: `36.4`
+- Risk-on score: `24.74`
+- Articles: `71`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T13:45:00+00:00`
+- Day/swing latest: `2026-10-29T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `34`, risk hits `6`, risk headline rate `0.1765`, policy hits `2`
-- macro: articles `30`, risk hits `12`, risk headline rate `0.3667`, policy hits `6`
+- crypto: articles `36`, risk hits `7`, risk headline rate `0.1944`, policy hits `2`
+- macro: articles `31`, risk hits `12`, risk headline rate `0.3548`, policy hits `6`
 
 ## Headlines
 
+- [crypto] Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard (Cointelegraph.com News)
+- [crypto] New quantum model slashes hardware needed to break bitcoin keys by 17 times (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears (Energy)
 - [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool. (Economy)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her (Economy)
 - [macro] Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates (Economy)
 - [macro] Netanyahu's bloc leading Israel election but short of majority, partial results show (BBC News)
+- [macro] Rock collapse kills two in Turkey's Cappadocia, local media reports (BBC News)
 - [macro] European Central Bank keeps key interest rate on hold at 2.5% (Economy)
-- [macro] Island Energy: No plans to remove gas standing charge (BBC News)
-- [crypto] Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Brazil’s Halloween eve crypto deadline brings more tricks than treats (Cointelegraph.com News)
-- [crypto] Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? (Cointelegraph.com News)
