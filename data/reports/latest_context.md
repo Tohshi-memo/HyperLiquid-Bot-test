@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T08:22:37.997954+00:00`
+- Generated: `2026-10-29T08:37:26.424353+00:00`
 - Market context score: `45.9`
 - News risk score: `35.44`
 - Macro risk score: `25.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T08:15:00+00:00`
+- Day/swing latest: `2026-10-29T08:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] What we know so far about deadly Spain train crash (BBC News)
 - [macro] Hello Kitty maker cuts ties with Japanese spy drama after China backlash (BBC News)
 - [macro] Hello Kitty maker cuts ties with Japanese spy drama after China backlash (BBC News)
 - [commodity] Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears (Energy)
@@ -37,4 +38,3 @@
 - [macro] 'We need help for small businesses, not punishment' (BBC News)
 - [macro] El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers (BBC News)
 - [macro] Haulier blames fuel prices for diesel theft (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
