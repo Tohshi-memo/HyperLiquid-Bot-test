@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T04:52:29.309868+00:00`
-- Market context score: `45.11`
-- News risk score: `41.15`
-- Macro risk score: `26.79`
-- Risk-on score: `22.89`
-- Articles: `45`
+- Generated: `2026-10-29T05:07:29.222968+00:00`
+- Market context score: `45.95`
+- News risk score: `40.01`
+- Macro risk score: `26.98`
+- Risk-on score: `23.86`
+- Articles: `41`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T04:45:00+00:00`
+- Day/swing latest: `2026-10-29T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `8`
-- macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `3`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `7`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Utah charges predictions platform Kalshi with illegal gambling (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Your fridge could one day stake Ether, launch memecoins: CFTC chair (Cointelegraph.com News)
 - [macro] What we know so far about deadly Spain train crash (BBC News)
 - [commodity] Trump methane policy rollback may have minimal impact on crude prices, EPA says (Energy)
@@ -38,4 +39,3 @@
 - [macro] Hello Kitty maker cuts ties with Japanese spy drama after China backlash (BBC News)
 - [macro] Microsoft profits soar days after announcing thousands of layoffs (BBC News)
 - [macro] Flávio Bolsonaro denies fleeing Brazil after landing in Miami (BBC News)
-- [crypto] Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts (Cointelegraph.com News)
