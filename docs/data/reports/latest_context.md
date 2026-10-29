@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T17:37:30.539322+00:00`
-- Market context score: `42.97`
-- News risk score: `47.97`
-- Macro risk score: `35.38`
-- Risk-on score: `27.14`
-- Articles: `80`
-- Polymarket markets: `397`
+- Generated: `2026-10-29T17:52:33.281452+00:00`
+- Market context score: `43.27`
+- News risk score: `47.67`
+- Macro risk score: `34.78`
+- Risk-on score: `27.33`
+- Articles: `81`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T17:30:00+00:00`
+- Day/swing latest: `2026-10-29T17:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `45`, risk hits `10`, risk headline rate `0.2222`, policy hits `5`
+- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `45`, risk hits `10`, risk headline rate `0.2222`, policy hits `3`
 - macro: articles `32`, risk hits `11`, risk headline rate `0.3125`, policy hits `7`
 
 ## Headlines
 
+- [commodity] Cruise companies aim to keep fuel costs down. Their strategies for doing so differ (Energy)
 - [macro] Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool (Economy)
 - [crypto] HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps (Cointelegraph.com News)
 - [crypto] KuCoin suspends services in Russia and Belarus (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2 (Cointelegraph.com News)
-- [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
