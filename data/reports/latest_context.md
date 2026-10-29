@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-29T06:07:28.306389+00:00`
-- Market context score: `44.12`
-- News risk score: `41.61`
-- Macro risk score: `26.56`
-- Risk-on score: `21.0`
-- Articles: `39`
+- Generated: `2026-10-29T06:22:37.110933+00:00`
+- Market context score: `43.76`
+- News risk score: `42.36`
+- Macro risk score: `25.61`
+- Risk-on score: `20.47`
+- Articles: `40`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-29T06:00:00+00:00`
+- Day/swing latest: `2026-10-29T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `3`
-- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `3`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `3`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
 
 ## Headlines
 
+- [macro] Haulier blames fuel prices for diesel theft (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] AI found a way to crash bitcoin nodes on Windows and Macs. It's now public (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Security failure at Indian certificate firm bites Ethereum as developers rush out fixes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Trump methane policy rollback may have minimal impact on crude prices, EPA says (Energy)
 - [crypto] Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Mystery Wall Street Journal ad sparks new fight over tokenized stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Tampered Ledger wallets cost Singapore users $2.7M: Police (Cointelegraph.com News)
