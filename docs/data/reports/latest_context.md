@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T15:52:28.335007+00:00`
-- Market context score: `31.61`
-- News risk score: `62.71`
-- Macro risk score: `29.32`
-- Risk-on score: `12.04`
-- Articles: `57`
+- Generated: `2026-10-30T16:07:30.580270+00:00`
+- Market context score: `32.75`
+- News risk score: `61.17`
+- Macro risk score: `29.36`
+- Risk-on score: `13.3`
+- Articles: `55`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T15:45:00+00:00`
+- Day/swing latest: `2026-10-30T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `27`, risk hits `22`, risk headline rate `0.7037`, policy hits `4`
+- crypto: articles `25`, risk hits `20`, risk headline rate `0.68`, policy hits `4`
 - macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `0`
 
 ## Headlines
 
-- [macro] US tech stocks see sharp falls over AI cost fears (BBC News)
-- [macro] US tech stocks see sharp falls over AI cost fears (BBC News)
-- [commodity] Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars (Energy)
 - [macro] Yorkshire Water boss resigns after firm downgraded (BBC News)
+- [commodity] Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars (Energy)
+- [macro] US inmate Christa Pike says she woke up 'confused and in pain' after failed execution (BBC News)
+- [macro] US tech stocks see sharp falls over AI cost fears (BBC News)
+- [macro] US tech stocks see sharp falls over AI cost fears (BBC News)
 - [macro] Democratic senator blames Egypt press crackdown on US military aid decision (BBC News)
 - [macro] Israeli opposition accuses Netanyahu of trying to 'delegitimise' election (BBC News)
 - [macro] Six dead after helicopter crashes in northern Indian state (BBC News)
 - [macro] Spain transport minister says he won't resign over high-speed rail disaster (BBC News)
 - [macro] Pope Leo XIV becomes first pontiff to vote in a US election (BBC News)
-- [macro] US inmate Christa Pike says she woke up 'confused and in pain' after failed execution (BBC News)
