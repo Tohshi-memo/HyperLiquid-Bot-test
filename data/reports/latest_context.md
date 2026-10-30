@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T21:37:31.439996+00:00`
-- Market context score: `33.49`
-- News risk score: `59.16`
-- Macro risk score: `28.94`
-- Risk-on score: `13.1`
-- Articles: `53`
+- Generated: `2026-10-30T21:52:30.845058+00:00`
+- Market context score: `32.49`
+- News risk score: `59.04`
+- Macro risk score: `28.49`
+- Risk-on score: `10.59`
+- Articles: `51`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T21:30:00+00:00`
+- Day/swing latest: `2026-10-30T21:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `20`, risk headline rate `0.6522`, policy hits `3`
+- crypto: articles `21`, risk hits `19`, risk headline rate `0.6667`, policy hits `2`
 - macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
 
 ## Headlines
@@ -31,7 +31,7 @@
 - [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
 - [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
 - [macro] Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (BBC News)
-- [macro] Police deployed during stand-off over control of Poland's top court (BBC News)
+- [macro] Police deployed during stand-off over control of top Poland court (BBC News)
 - [macro] They strangled us, says founder of Russian newspaper shut under pressure from authorities (BBC News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
