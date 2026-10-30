@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-30T07:05:30.373112+00:00`
-- Flow alert score: `17.32`
+- Generated: `2026-10-30T07:10:25.921832+00:00`
+- Flow alert score: `17.36`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `24366929.76`
-- Polymarket volume z-score: `0.08`
+- Polymarket 24h volume: `24555536.61`
+- Polymarket volume z-score: `0.09`
 
 ## Top Polymarket Markets
 
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `2714709.2390470007` | liquidity: `4641620.8379`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `2192183.568224` | liquidity: `7119913.5745`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1560699.964152` | liquidity: `636811.4106`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1280262.8575930002` | liquidity: `5427371.483`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1238904.259771` | liquidity: `225210.74336`
-- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `859048.8286690001` | liquidity: `4807203.931`
-- US x Iran ceasefire continues through October 31? | 24h volume: `823048.1523140001` | liquidity: `74978.65475`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `775971.2929060009` | liquidity: `3515472.7799`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `2722755.2390469997` | liquidity: `4644784.4115`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `2190423.582077` | liquidity: `7122470.9355`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1555334.1819289997` | liquidity: `620881.8297`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1280262.857593` | liquidity: `5428082.283`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `1240621.9835060001` | liquidity: `223293.60888`
+- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `859062.1486689999` | liquidity: `4777169.8439`
+- US x Iran ceasefire continues through October 31? | 24h volume: `823792.2812970001` | liquidity: `81690.11422`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `775565.0783880003` | liquidity: `3500462.5099`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
