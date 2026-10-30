@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T00:07:30.087386+00:00`
-- Market context score: `40.91`
-- News risk score: `50.83`
+- Generated: `2026-10-30T00:22:26.897962+00:00`
+- Market context score: `39.48`
+- News risk score: `52.12`
 - Macro risk score: `36.6`
-- Risk-on score: `25.44`
+- Risk-on score: `23.34`
 - Articles: `64`
-- Polymarket markets: `398`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T00:00:00+00:00`
+- Day/swing latest: `2026-10-30T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `35`, risk hits `11`, risk headline rate `0.3143`, policy hits `2`
+- crypto: articles `35`, risk hits `12`, risk headline rate `0.3429`, policy hits `2`
 - macro: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `9`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Binance hack drained wallets backing customer assets, reserve data shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO (Cointelegraph.com News)
 - [macro] From workshops to the catwalk - why mended clothes are going mainstream (BBC News)
 - [crypto] Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides (Cointelegraph.com News)
 - [crypto] Tampered Ledger reported in Singapore a month before news broke: Asia Express (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
 - [crypto] Live Updates: Binance says $2.54 billion frozen after hack (Cointelegraph.com News)
 - [crypto] Binance loses $5.7 billion in 'biggest crypto hack in history' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Watch: What leaked audio reveals about Spain train crash (BBC News)
-- [policy] Federal Reserve Board announces approval of application by The Bank of Nova Scotia (FRB: Press Release - All Releases)
