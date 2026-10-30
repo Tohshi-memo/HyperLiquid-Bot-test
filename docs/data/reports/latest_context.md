@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T15:22:38.341674+00:00`
-- Market context score: `31.84`
-- News risk score: `63.35`
-- Macro risk score: `27.69`
-- Risk-on score: `12.5`
-- Articles: `59`
+- Generated: `2026-10-30T15:37:39.297236+00:00`
+- Market context score: `30.91`
+- News risk score: `63.68`
+- Macro risk score: `29.72`
+- Risk-on score: `11.47`
+- Articles: `58`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T15:15:00+00:00`
+- Day/swing latest: `2026-10-30T15:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- crypto: articles `29`, risk hits `24`, risk headline rate `0.7241`, policy hits `5`
+- commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `28`, risk hits `23`, risk headline rate `0.7143`, policy hits `5`
 - macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `0`
 
 ## Headlines
 
+- [macro] Yorkshire Water boss resigns after firm downgraded (BBC News)
+- [commodity] Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars (Energy)
+- [macro] US tech stocks see sharp falls over AI cost fears (BBC News)
+- [macro] US tech stocks see sharp falls over AI cost fears (BBC News)
+- [macro] Democratic senator blames Egypt press crackdown on US military aid decision (BBC News)
 - [macro] Israeli opposition accuses Netanyahu of trying to 'delegitimise' election (BBC News)
 - [macro] Six dead after helicopter crashes in northern Indian state (BBC News)
 - [macro] Spain transport minister says he won't resign over high-speed rail disaster (BBC News)
-- [macro] US tech stocks see sharp falls over AI cost concerns (BBC News)
 - [macro] Pope Leo XIV becomes first pontiff to vote in a US election (BBC News)
 - [macro] US inmate Christa Pike says she woke up 'confused and in pain' after failed execution (BBC News)
-- [crypto] Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live updates: Binance says $6.34B set aside to cover hack losses (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Yorkshire Water boss resigns after firm downgraded (BBC News)
