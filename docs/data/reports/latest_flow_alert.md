@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-30T13:10:30.179018+00:00`
+- Generated: `2026-10-30T13:15:30.168595+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `2600039.352296` | liquidity: `5556519.2364`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1785110.120472` | liquidity: `7759742.3495`
-- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1370846.382277` | liquidity: `5279053.6083`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1232705.325729` | liquidity: `576358.8274`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `1173011.2628210003` | liquidity: `5588418.2043`
-- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `981447.8950680001` | liquidity: `257291.00152`
-- US x Iran ceasefire continues through October 31? | 24h volume: `845361.273396` | liquidity: `80326.46714`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `761027.896867` | liquidity: `390975.04721`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `2600039.352296` | liquidity: `5555582.7645`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `1785110.120472` | liquidity: `7765558.9448`
+- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1370846.382277` | liquidity: `5273623.1181`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `1232705.325729` | liquidity: `578212.7736`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `1173011.2628210003` | liquidity: `5589683.1763`
+- Will Likud win the most seats in the 2026 Israeli legislative election? | 24h volume: `981447.8950680001` | liquidity: `258787.31539`
+- US x Iran ceasefire continues through October 31? | 24h volume: `845361.273396` | liquidity: `81363.49895`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `761027.896867` | liquidity: `390940.63872`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
