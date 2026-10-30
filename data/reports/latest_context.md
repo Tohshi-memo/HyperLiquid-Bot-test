@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T20:37:36.974025+00:00`
+- Generated: `2026-10-30T20:52:38.735986+00:00`
 - Market context score: `32.91`
 - News risk score: `61.01`
 - Macro risk score: `30.33`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T20:30:00+00:00`
+- Day/swing latest: `2026-10-30T20:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] They strangled us, says founder of Russian newspaper shut under pressure from authorities (BBC News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
 - [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz (Energy)
 - [macro] Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (BBC News)
 - [macro] City of London chief tops UK Black Powerlist (BBC News)
-- [crypto] Coinbase leads crypto stock selloff following $6.3B Binance hack (Cointelegraph.com News)
