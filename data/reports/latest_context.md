@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T20:07:32.966040+00:00`
+- Generated: `2026-10-30T20:22:31.858162+00:00`
 - Market context score: `32.29`
 - News risk score: `61.85`
 - Macro risk score: `30.31`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T20:00:00+00:00`
+- Day/swing latest: `2026-10-30T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
+- [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
 - [crypto] Experts divided over Binance hack asset freezes, warn recovery is another matter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B (Cointelegraph.com News)
 - [commodity] Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz (Energy)
@@ -36,5 +38,3 @@
 - [crypto] Coinbase leads crypto stock selloff following $6.3B Binance hack (Cointelegraph.com News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
-- [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
-- [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
