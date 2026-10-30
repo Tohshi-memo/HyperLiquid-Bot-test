@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T20:52:38.735986+00:00`
-- Market context score: `32.91`
-- News risk score: `61.01`
-- Macro risk score: `30.33`
-- Risk-on score: `13.89`
-- Articles: `55`
+- Generated: `2026-10-30T21:07:25.388916+00:00`
+- Market context score: `32.28`
+- News risk score: `61.06`
+- Macro risk score: `30.93`
+- Risk-on score: `12.75`
+- Articles: `54`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T20:45:00+00:00`
+- Day/swing latest: `2026-10-30T21:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `5`, risk headline rate `0.75`, policy hits `0`
+- commodity: articles `3`, risk hits `5`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `24`, risk hits `20`, risk headline rate `0.6667`, policy hits `3`
 - macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [macro] Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (BBC News)
 - [macro] They strangled us, says founder of Russian newspaper shut under pressure from authorities (BBC News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
 - [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Experts divided over Binance hack asset freezes, warn recovery is another matter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B (Cointelegraph.com News)
 - [commodity] Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz (Energy)
-- [macro] Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (BBC News)
 - [macro] City of London chief tops UK Black Powerlist (BBC News)
