@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-30T21:41:55.479673+00:00`
+- Generated: `2026-10-30T21:45:32.281694+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1458255.9837000002` | liquidity: `3929286.074`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1411997.359505` | liquidity: `6547715.7943`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `1175367.607204` | liquidity: `7070865.3109`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `900617.809291` | liquidity: `6481713.0736`
-- US x Iran ceasefire continues through October 31? | 24h volume: `719460.5393880002` | liquidity: `73311.36335`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `673497.2413989999` | liquidity: `8015731.9606`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `663395.68601` | liquidity: `4233215.7675`
-- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `590767.691385` | liquidity: `3968237.8092`
+- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1458255.9837000002` | liquidity: `3931146.3896`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1411997.359505` | liquidity: `6545081.6047`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `1175367.607204` | liquidity: `7080522.0708`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `900617.809291` | liquidity: `6477604.7453`
+- US x Iran ceasefire continues through October 31? | 24h volume: `719460.5393880002` | liquidity: `66456.72881`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `673497.2413989999` | liquidity: `8014790.736`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `663395.68601` | liquidity: `4240077.0327`
+- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `590767.691385` | liquidity: `3946913.3463`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
