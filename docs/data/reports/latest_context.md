@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T00:52:27.527706+00:00`
-- Market context score: `38.54`
-- News risk score: `52.12`
-- Macro risk score: `36.53`
-- Risk-on score: `21.23`
-- Articles: `64`
+- Generated: `2026-10-30T01:07:26.887481+00:00`
+- Market context score: `37.98`
+- News risk score: `52.73`
+- Macro risk score: `36.66`
+- Risk-on score: `20.55`
+- Articles: `62`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T00:45:00+00:00`
+- Day/swing latest: `2026-10-30T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
-- crypto: articles `32`, risk hits `11`, risk headline rate `0.3438`, policy hits `2`
+- crypto: articles `30`, risk hits `11`, risk headline rate `0.3667`, policy hits `2`
 - macro: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `9`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
@@ -38,4 +38,4 @@
 - [macro] Google value plunges by $500bn as AI fears rattle Wall Street (BBC News)
 - [macro] Young athlete and former minister among victims of Spain train crash (BBC News)
 - [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
-- [crypto] Live Updates: Binance says $2.54 billion frozen after hack (Cointelegraph.com News)
+- [crypto] Live Updates: Estimated losses in Binance hack reach $5.9B (Cointelegraph.com News)
