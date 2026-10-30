@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T06:22:28.240969+00:00`
-- Market context score: `33.8`
-- News risk score: `55.28`
-- Macro risk score: `31.58`
-- Risk-on score: `11.5`
-- Articles: `41`
+- Generated: `2026-10-30T06:37:35.775592+00:00`
+- Market context score: `32.36`
+- News risk score: `57.18`
+- Macro risk score: `33.42`
+- Risk-on score: `10.6`
+- Articles: `45`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T06:15:00+00:00`
+- Day/swing latest: `2026-10-30T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
 - crypto: articles `20`, risk hits `12`, risk headline rate `0.6`, policy hits `2`
-- macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `0`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Who should pay on the first date? (BBC News)
 - [crypto] Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] P&R urged to speed up review of relocation grants (BBC News)
 - [macro] Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity (Cointelegraph.com News)
 - [crypto] North Korea’s TraderTraitor linked to $6.3B Binance hack (Cointelegraph.com News)
 - [crypto] XRP Ledger developers tighten the rules for who can hold 'restricted' tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Binance hack bites India's largest crypto exchange as it curbs futures trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
