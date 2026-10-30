@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T09:52:28.692193+00:00`
-- Market context score: `36.24`
-- News risk score: `56.56`
-- Macro risk score: `25.26`
-- Risk-on score: `15.63`
-- Articles: `41`
+- Generated: `2026-10-30T10:07:30.786159+00:00`
+- Market context score: `36.07`
+- News risk score: `57.43`
+- Macro risk score: `25.21`
+- Risk-on score: `15.96`
+- Articles: `42`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T09:45:00+00:00`
+- Day/swing latest: `2026-10-30T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `20`, risk hits `14`, risk headline rate `0.7`, policy hits `3`
+- crypto: articles `21`, risk hits `15`, risk headline rate `0.7143`, policy hits `3`
 - macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Strategy CFO resigns as company posts record quarterly profit. MSTR stock falls 6% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack (Cointelegraph.com News)
+- [crypto] Strategy CFO Andrew Kang resigns as company posts record operating profit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Crypto giant Binance hit by $6.3bn hack suspected to be largest in history (BBC News)
 - [crypto] Trezor warns CryptoBilis buyers to move funds over suspected implant (Cointelegraph.com News)
 - [crypto] Live updates: Binance uncovers more breach points in $6.3B hack (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] How Kenyans got caught in $130m US ghost student scam (BBC News)
 - [macro] What we know about Binance's $6.3bn hack (BBC News)
 - [macro] Yorkshire Water boss resigns after firm downgraded (BBC News)
-- [crypto] Binance hacker dumps a little-known 2017 token and it crashes 90% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
