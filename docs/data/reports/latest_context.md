@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T07:07:23.881465+00:00`
-- Market context score: `33.04`
-- News risk score: `58.02`
-- Macro risk score: `31.27`
-- Risk-on score: `12.01`
-- Articles: `47`
+- Generated: `2026-10-30T07:22:27.797791+00:00`
+- Market context score: `33.7`
+- News risk score: `57.08`
+- Macro risk score: `30.38`
+- Risk-on score: `12.33`
+- Articles: `45`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T07:00:00+00:00`
+- Day/swing latest: `2026-10-30T07:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
+- commodity: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - crypto: articles `19`, risk hits `12`, risk headline rate `0.6316`, policy hits `2`
-- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `0`
+- macro: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Crypto giant Binance hit by $6.3bn hack suspected to be largest in history (BBC News)
+- [macro] Crypto giant Binance hit by $6.3bn hack suspected to be largest in history (BBC News)
 - [commodity] Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms (Energy)
 - [macro] Who should pay on the first date? (BBC News)
 - [crypto] Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,5 +39,3 @@
 - [commodity] Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks (Energy)
 - [macro] Syrians struggle with soaring prices as crisis challenges post-Assad recovery (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity (Cointelegraph.com News)
-- [crypto] North Korea’s TraderTraitor linked to $6.3B Binance hack (Cointelegraph.com News)
