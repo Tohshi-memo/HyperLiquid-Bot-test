@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T09:22:28.263021+00:00`
-- Market context score: `32.54`
-- News risk score: `58.96`
-- Macro risk score: `26.86`
-- Risk-on score: `10.02`
-- Articles: `41`
+- Generated: `2026-10-30T09:37:38.114561+00:00`
+- Market context score: `34.84`
+- News risk score: `57.62`
+- Macro risk score: `24.68`
+- Risk-on score: `13.18`
+- Articles: `40`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T09:15:00+00:00`
+- Day/swing latest: `2026-10-30T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `19`, risk hits `14`, risk headline rate `0.7368`, policy hits `2`
-- macro: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `0`
+- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [macro] Crypto giant Binance hit by $6.3bn hack suspected to be largest in history (BBC News)
+- [crypto] Trezor warns CryptoBilis buyers to move funds over suspected implant (Cointelegraph.com News)
 - [crypto] Live updates: Binance uncovers more breach points in $6.3B hack (Cointelegraph.com News)
-- [macro] Crypto giant Binance hit by $6.3bn hack suspected to be largest in history (BBC News)
-- [macro] Crypto giant Binance hit by $6.3bn hack suspected to be largest in history (BBC News)
 - [commodity] BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge (Energy)
 - [crypto] Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fears hit tech (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How Kenyans got caught in $130m US ghost student scam (BBC News)
