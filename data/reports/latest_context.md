@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T16:07:30.580270+00:00`
-- Market context score: `32.75`
-- News risk score: `61.17`
-- Macro risk score: `29.36`
-- Risk-on score: `13.3`
-- Articles: `55`
+- Generated: `2026-10-30T16:22:35.879383+00:00`
+- Market context score: `33.34`
+- News risk score: `60.23`
+- Macro risk score: `29.34`
+- Risk-on score: `13.8`
+- Articles: `56`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T16:00:00+00:00`
+- Day/swing latest: `2026-10-30T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `25`, risk hits `20`, risk headline rate `0.68`, policy hits `4`
+- crypto: articles `26`, risk hits `20`, risk headline rate `0.6538`, policy hits `4`
 - macro: articles `25`, risk hits `6`, risk headline rate `0.24`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin risks worst October in 12 years as tech sell-off spreads to gold (Cointelegraph.com News)
 - [macro] Yorkshire Water boss resigns after firm downgraded (BBC News)
 - [commodity] Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars (Energy)
 - [macro] US inmate Christa Pike says she woke up 'confused and in pain' after failed execution (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Israeli opposition accuses Netanyahu of trying to 'delegitimise' election (BBC News)
 - [macro] Six dead after helicopter crashes in northern Indian state (BBC News)
 - [macro] Spain transport minister says he won't resign over high-speed rail disaster (BBC News)
-- [macro] Pope Leo XIV becomes first pontiff to vote in a US election (BBC News)
