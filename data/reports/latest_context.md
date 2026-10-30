@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T03:07:33.186545+00:00`
-- Market context score: `42.06`
-- News risk score: `45.57`
-- Macro risk score: `32.63`
-- Risk-on score: `22.06`
-- Articles: `41`
+- Generated: `2026-10-30T03:22:26.114105+00:00`
+- Market context score: `40.71`
+- News risk score: `46.82`
+- Macro risk score: `35.55`
+- Risk-on score: `21.2`
+- Articles: `38`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -17,14 +17,14 @@
 - Asset classes: `commodity:13, crypto_alt:238, crypto_major:8, equity:156, fx:6, index:27, metal:20, unknown:1270`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T03:00:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `1`
 - crypto: articles `19`, risk hits `7`, risk headline rate `0.3684`, policy hits `2`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `5`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `5`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
@@ -38,4 +38,4 @@
 - [macro] Google value plunges by $500bn as AI fears rattle Wall Street (BBC News)
 - [macro] Young athlete and former minister among victims of Spain train crash (BBC News)
 - [macro] Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate (BBC News)
-- [crypto] Live updates: Binance estimates $6.3B of crypto stolen in major hack (Cointelegraph.com News)
+- [crypto] Live updates: Binance says $6.3B hack involved compromised engineer’s laptop (Cointelegraph.com News)
