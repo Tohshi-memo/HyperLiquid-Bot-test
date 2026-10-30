@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T04:37:26.191780+00:00`
-- Market context score: `35.61`
+- Generated: `2026-10-30T04:52:26.992873+00:00`
+- Market context score: `35.4`
 - News risk score: `54.5`
 - Macro risk score: `34.33`
-- Risk-on score: `15.91`
+- Risk-on score: `15.44`
 - Articles: `37`
 - Polymarket markets: `398`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T04:30:00+00:00`
+- Day/swing latest: `2026-10-30T04:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Binance says crypto worth $6.3bn impacted by hack (BBC News)
 - [crypto] $6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Institutional crypto investors rush to pull funds from exchanges after Binance hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] Binance hack drained wallets backing customer assets, reserve data shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance points to engineer’s hacked laptop in $6.3B breach (Cointelegraph.com News)
 - [macro] From workshops to the catwalk - why mended clothes are going mainstream (BBC News)
-- [crypto] Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K (Cointelegraph.com News)
