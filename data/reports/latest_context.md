@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T23:22:28.735377+00:00`
-- Market context score: `34.16`
-- News risk score: `56.67`
-- Macro risk score: `28.0`
-- Risk-on score: `12.12`
-- Articles: `49`
+- Generated: `2026-10-30T23:37:30.787016+00:00`
+- Market context score: `33.85`
+- News risk score: `57.43`
+- Macro risk score: `26.48`
+- Risk-on score: `11.5`
+- Articles: `45`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T23:15:00+00:00`
+- Day/swing latest: `2026-10-30T23:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `15`, risk headline rate `0.6316`, policy hits `0`
+- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `16`, risk hits `13`, risk headline rate `0.6875`, policy hits `0`
 - macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `0`
 
 ## Headlines
 
+- [macro] How has the ceasefire in Russian-occupied Oleshky been unfolding? (BBC News)
 - [macro] US approves sale of 500 Patriot missiles to Ukraine (BBC News)
 - [commodity] It's a 'socialist' bank — and North Dakota Republicans love it (Energy)
 - [macro] G20 'family photo' cancelled after protests over presence of Russian minister (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (BBC News)
 - [macro] Police deployed during stand-off over control of top Poland court (BBC News)
 - [macro] They strangled us, says founder of Russian newspaper shut under pressure from authorities (BBC News)
-- [macro] US tech stocks see sharp falls as AI spending nears $1tn (BBC News)
