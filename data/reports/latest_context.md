@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-30T06:37:35.775592+00:00`
-- Market context score: `32.36`
+- Generated: `2026-10-30T06:52:28.816476+00:00`
+- Market context score: `32.46`
 - News risk score: `57.18`
 - Macro risk score: `33.42`
-- Risk-on score: `10.6`
+- Risk-on score: `10.82`
 - Articles: `45`
 - Polymarket markets: `398`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-30T06:30:00+00:00`
+- Day/swing latest: `2026-10-30T06:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
+- commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
 - crypto: articles `20`, risk hits `12`, risk headline rate `0.6`, policy hits `2`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms (Energy)
 - [macro] Who should pay on the first date? (BBC News)
 - [crypto] Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] P&R urged to speed up review of relocation grants (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity (Cointelegraph.com News)
 - [crypto] North Korea’s TraderTraitor linked to $6.3B Binance hack (Cointelegraph.com News)
-- [crypto] XRP Ledger developers tighten the rules for who can hold 'restricted' tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
