@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T09:52:28.177683+00:00`
-- Market context score: `42.99`
+- Generated: `2026-10-31T10:07:28.326881+00:00`
+- Market context score: `45.69`
 - News risk score: `43.71`
 - Macro risk score: `33.43`
-- Risk-on score: `22.86`
+- Risk-on score: `28.86`
 - Articles: `17`
 - Polymarket markets: `394`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T09:45:00+00:00`
+- Day/swing latest: `2026-10-31T10:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Binance $6.3B record hack sparks pre-election political chatter (Cointelegraph.com News)
 - [macro] CCTV, zip ties and election watchers: How US mail-in votes are secured and counted (BBC News)
 - [macro] Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire (BBC News)
 - [commodity] Trump called out Big Oil profits. Here’s how much their refining earnings have surged since (Energy)
@@ -37,4 +38,3 @@
 - [macro] Why North Korea's 'elite' hackers are the prime suspect in major Binance hack (BBC News)
 - [macro] Global nature talks reach deal but money remains an issue (BBC News)
 - [macro] Police deployed during stand-off over control of top Poland court (BBC News)
-- [crypto] OpenAI reportedly cuts fundraising and valuation targets amid AI jitters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
