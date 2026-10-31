@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T05:37:23.512060+00:00`
-- Market context score: `33.05`
-- News risk score: `51.55`
+- Generated: `2026-10-31T05:52:26.002133+00:00`
+- Market context score: `36.11`
+- News risk score: `47.05`
 - Macro risk score: `34.11`
-- Risk-on score: `7.63`
-- Articles: `25`
+- Risk-on score: `10.63`
+- Articles: `24`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T05:30:00+00:00`
+- Day/swing latest: `2026-10-31T05:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `6`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `0`
 
 ## Headlines
 
+- [macro] Spain train disaster clouds Sánchez chances of re-election (BBC News)
 - [crypto] Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump's tariffs could shutter this Canadian town - its residents are fighting to save it (BBC News)
 - [macro] Why North Korea's 'elite' hackers are the prime suspect in major Binance hack (BBC News)
-- [macro] The Indian chef who brought curry to America - then vanished (BBC News)
 - [macro] Responsible or panicked? Meet the people around the world already preparing for crisis (BBC News)
 - [macro] Global nature talks reach deal but money remains an issue (BBC News)
 - [macro] Police deployed during stand-off over control of top Poland court (BBC News)
