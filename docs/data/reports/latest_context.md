@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T06:07:34.652973+00:00`
-- Market context score: `35.48`
-- News risk score: `47.67`
-- Macro risk score: `35.33`
-- Risk-on score: `10.22`
-- Articles: `23`
+- Generated: `2026-10-31T06:22:30.072848+00:00`
+- Market context score: `37.07`
+- News risk score: `48.63`
+- Macro risk score: `37.26`
+- Risk-on score: `15.29`
+- Articles: `24`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T06:00:00+00:00`
+- Day/swing latest: `2026-10-31T06:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `3`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Trump called out Big Oil profits. Here’s how much their refining earnings have surged since (Energy)
 - [macro] Spain train disaster clouds Sánchez chances of re-election (BBC News)
 - [crypto] Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump's tariffs could shutter this Canadian town - its residents are fighting to save it (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Police deployed during stand-off over control of top Poland court (BBC News)
 - [crypto] OpenAI reportedly cuts fundraising and valuation targets amid AI jitters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US approves sale of 500 Patriot missiles to Ukraine (BBC News)
-- [macro] Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (BBC News)
