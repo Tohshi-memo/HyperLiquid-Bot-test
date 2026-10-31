@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T16:37:26.208655+00:00`
-- Market context score: `46.53`
-- News risk score: `43.08`
-- Macro risk score: `24.93`
-- Risk-on score: `26.98`
-- Articles: `27`
+- Generated: `2026-10-31T16:52:29.414357+00:00`
+- Market context score: `43.46`
+- News risk score: `45.25`
+- Macro risk score: `29.26`
+- Risk-on score: `23.62`
+- Articles: `28`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T16:30:00+00:00`
+- Day/swing latest: `2026-10-31T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `1`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
 - [crypto] A stolen iPhone, $14,000 in losses and London's crypto theft problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
@@ -37,4 +38,3 @@
 - [macro] More than 5,000 die from Ebola in DR Congo's deadliest outbreak (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Institutions embrace crypto staking despite shrinking yields (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
