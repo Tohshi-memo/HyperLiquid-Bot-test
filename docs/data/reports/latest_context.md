@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T01:37:30.306612+00:00`
+- Generated: `2026-10-31T01:52:29.148663+00:00`
 - Market context score: `38.49`
 - News risk score: `50.77`
 - Macro risk score: `25.04`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T01:30:00+00:00`
+- Day/swing latest: `2026-10-31T01:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Global nature talks reach deal but money remains an issue (BBC News)
 - [macro] Police deployed during stand-off over control of top Poland court (BBC News)
 - [crypto] OpenAI reportedly cuts fundraising and valuation targets amid AI jitters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US approves sale of 500 Patriot missiles to Ukraine (BBC News)
@@ -36,5 +37,4 @@
 - [commodity] It's a 'socialist' bank — and North Dakota Republicans love it (Energy)
 - [macro] G20 'family photo' cancelled after protests over presence of Russian minister (BBC News)
 - [crypto] Binance hackers raced to move billions before it could be frozen (Cointelegraph.com News)
-- [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
 - [macro] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC News)
