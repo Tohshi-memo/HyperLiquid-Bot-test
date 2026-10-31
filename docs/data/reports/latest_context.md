@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T22:07:27.876053+00:00`
-- Market context score: `44.32`
-- News risk score: `39.03`
-- Macro risk score: `19.92`
-- Risk-on score: `16.75`
-- Articles: `26`
-- Polymarket markets: `392`
+- Generated: `2026-10-31T22:22:25.713730+00:00`
+- Market context score: `44.26`
+- News risk score: `39.27`
+- Macro risk score: `20.23`
+- Risk-on score: `16.93`
+- Articles: `27`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T22:00:00+00:00`
+- Day/swing latest: `2026-10-31T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `1`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `2`
 
 ## Headlines
 
+- [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
+- [macro] Thousands demonstrate in Paris as protests spread across Europe (BBC News)
 - [macro] Thousands demonstrate in Paris as protests spread across Europe (BBC News)
 - [macro] 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city (BBC News)
 - [crypto] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
 - [macro] Emotional reunions with loved ones for Oleshky evacuees (BBC News)
-- [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
 - [crypto] A stolen iPhone, $14,000 in losses and London's crypto theft problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance says 90% of stolen assets replenished, targets Sunday withdrawals (Cointelegraph.com News)
-- [crypto] Bitcoin held up better than expected after Binance hack, Strive CEO says (Cointelegraph.com News)
