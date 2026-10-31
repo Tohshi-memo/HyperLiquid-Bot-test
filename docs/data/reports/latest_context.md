@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T13:52:26.629292+00:00`
-- Market context score: `35.31`
-- News risk score: `56.6`
-- Macro risk score: `37.47`
-- Risk-on score: `18.19`
-- Articles: `17`
-- Polymarket markets: `393`
+- Generated: `2026-10-31T14:07:27.752099+00:00`
+- Market context score: `33.7`
+- News risk score: `58.96`
+- Macro risk score: `37.39`
+- Risk-on score: `16.58`
+- Articles: `18`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T13:45:00+00:00`
+- Day/swing latest: `2026-10-31T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `7`, risk hits `4`, risk headline rate `0.5714`, policy hits `1`
+- crypto: articles `8`, risk hits `5`, risk headline rate `0.625`, policy hits `1`
 - macro: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
 
 ## Headlines
 
+- [crypto] As big bitcoin miners chase AI profits, individuals get another shot at the rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says (Energy)
 - [macro] Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine (BBC News)
 - [crypto] Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US approves sale of 500 Patriot missiles to Ukraine (BBC News)
 - [crypto] The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Blockchain investigator Chainalysis hit by cybersecurity incident (Cointelegraph.com News)
