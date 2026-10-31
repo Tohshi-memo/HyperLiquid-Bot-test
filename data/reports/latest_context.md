@@ -1,9 +1,9 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T21:22:27.213427+00:00`
-- Market context score: `46.59`
-- News risk score: `40.08`
-- Macro risk score: `18.93`
+- Generated: `2026-10-31T21:37:26.967365+00:00`
+- Market context score: `46.22`
+- News risk score: `40.64`
+- Macro risk score: `19.85`
 - Risk-on score: `22.31`
 - Articles: `27`
 - Polymarket markets: `392`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T21:15:00+00:00`
+- Day/swing latest: `2026-10-31T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `1`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `1`
 
 ## Headlines
 
-- [macro] Clashes erupt between police and protesters in Paris (BBC News)
+- [macro] Thousands demonstrate in Paris as protests spread across Europe (BBC News)
 - [macro] 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city (BBC News)
 - [crypto] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
