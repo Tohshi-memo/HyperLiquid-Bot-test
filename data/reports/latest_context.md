@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T08:37:27.700644+00:00`
+- Generated: `2026-10-31T08:51:17.290654+00:00`
 - Market context score: `39.03`
 - News risk score: `46.12`
 - Macro risk score: `38.25`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T08:30:00+00:00`
+- Day/swing latest: `2026-10-31T08:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire (BBC News)
 - [commodity] Trump called out Big Oil profits. Here’s how much their refining earnings have surged since (Energy)
 - [macro] Spain train disaster clouds Sánchez chances of re-election (BBC News)
 - [crypto] Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Global nature talks reach deal but money remains an issue (BBC News)
 - [macro] Police deployed during stand-off over control of top Poland court (BBC News)
 - [crypto] OpenAI reportedly cuts fundraising and valuation targets amid AI jitters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US approves sale of 500 Patriot missiles to Ukraine (BBC News)
