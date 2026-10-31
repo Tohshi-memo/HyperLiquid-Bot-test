@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-10-31T13:50:30.923437+00:00`
+- Generated: `2026-10-31T13:55:33.354448+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `16636279.55`
-- Polymarket volume z-score: `-0.57`
+- Polymarket 24h volume: `16742611.83`
+- Polymarket volume z-score: `-0.56`
 
 ## Top Polymarket Markets
 
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1346572.1880950003` | liquidity: `6973803.0542`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `1314125.3574040001` | liquidity: `5214829.2415`
-- Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas? | 24h volume: `1032128.866948` | liquidity: `1251991.0381`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `833140.0659699998` | liquidity: `7948268.3723`
-- Will the Republicans win the Michigan Senate race in 2026? | 24h volume: `764722.466568` | liquidity: `451671.8442`
-- Will the Democrats win the Michigan Senate race in 2026? | 24h volume: `749474.012626` | liquidity: `478894.7584`
-- Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas? | 24h volume: `742432.2757339999` | liquidity: `663059.95801`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `605973.3865550001` | liquidity: `4685426.1191`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `1344963.5912590001` | liquidity: `6974816.8984`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `1315270.8516290002` | liquidity: `4766633.2379`
+- Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas? | 24h volume: `1032128.8669479998` | liquidity: `1255355.8394`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `844876.3882669999` | liquidity: `8311616.2187`
+- Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas? | 24h volume: `826851.7779850002` | liquidity: `665775.65371`
+- Will the Republicans win the Michigan Senate race in 2026? | 24h volume: `779037.900578` | liquidity: `448804.8199`
+- Will the Democrats win the Michigan Senate race in 2026? | 24h volume: `768642.436326` | liquidity: `488100.8988`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `607591.9855050001` | liquidity: `4300011.8035`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
