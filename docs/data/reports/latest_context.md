@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T15:52:34.751275+00:00`
-- Market context score: `45.39`
-- News risk score: `45.03`
-- Macro risk score: `23.87`
-- Risk-on score: `25.7`
-- Articles: `26`
-- Polymarket markets: `391`
+- Generated: `2026-10-31T16:07:34.887264+00:00`
+- Market context score: `46.3`
+- News risk score: `43.7`
+- Macro risk score: `23.84`
+- Risk-on score: `26.57`
+- Articles: `27`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T15:45:00+00:00`
+- Day/swing latest: `2026-10-31T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.4667`, policy hits `1`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `1`
 - macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
 - [crypto] Binance says 90% of stolen assets replenished, targets Sunday withdrawals (Cointelegraph.com News)
 - [crypto] Bitcoin held up better than expected after Binance hack, Strive CEO says (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Institutions embrace crypto staking despite shrinking yields (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ethiopian PM puts ministers through military training (BBC News)
-- [crypto] Bitcoin turns 18: Has the original rebel grown up? (Cointelegraph.com News)
