@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T17:52:28.512423+00:00`
-- Market context score: `41.81`
-- News risk score: `47.26`
-- Macro risk score: `30.96`
-- Risk-on score: `22.3`
+- Generated: `2026-10-31T18:07:23.937241+00:00`
+- Market context score: `42.84`
+- News risk score: `43.77`
+- Macro risk score: `26.29`
+- Risk-on score: `19.87`
 - Articles: `26`
-- Polymarket markets: `392`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T17:45:00+00:00`
+- Day/swing latest: `2026-10-31T18:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `1`
+- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `1`
 - macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
 - [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
 - [crypto] A stolen iPhone, $14,000 in losses and London's crypto theft problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
 - [crypto] Binance says 90% of stolen assets replenished, targets Sunday withdrawals (Cointelegraph.com News)
 - [crypto] Bitcoin held up better than expected after Binance hack, Strive CEO says (Cointelegraph.com News)
 - [crypto] Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] More than 5,000 die from Ebola in DR Congo's deadliest outbreak (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Institutions embrace crypto staking despite shrinking yields (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
