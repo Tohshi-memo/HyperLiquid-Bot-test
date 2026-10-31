@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T15:22:23.983081+00:00`
-- Market context score: `45.52`
-- News risk score: `46.61`
-- Macro risk score: `24.0`
-- Risk-on score: `27.36`
-- Articles: `23`
-- Polymarket markets: `391`
+- Generated: `2026-10-31T15:37:31.053923+00:00`
+- Market context score: `44.36`
+- News risk score: `46.55`
+- Macro risk score: `23.91`
+- Risk-on score: `24.7`
+- Articles: `25`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T15:15:00+00:00`
+- Day/swing latest: `2026-10-31T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `12`, risk hits `6`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `14`, risk hits `7`, risk headline rate `0.5`, policy hits `1`
 - macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin held up better than expected after Binance hack, Strive CEO says (Cointelegraph.com News)
+- [crypto] Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] More than 5,000 die from Ebola in DR Congo's deadliest outbreak (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Institutions embrace crypto staking despite shrinking yields (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Ethiopian PM puts ministers through military training (BBC News)
 - [crypto] Bitcoin turns 18: Has the original rebel grown up? (Cointelegraph.com News)
 - [crypto] As big bitcoin miners chase AI profits, individuals get another shot at the rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says (Energy)
-- [crypto] Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping (Cointelegraph.com News)
