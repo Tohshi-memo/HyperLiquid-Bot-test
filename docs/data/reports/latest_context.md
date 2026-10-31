@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T14:52:28.925439+00:00`
+- Generated: `2026-10-31T14:56:39.390757+00:00`
 - Market context score: `44.9`
 - News risk score: `47.25`
 - Macro risk score: `25.25`
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine (BBC News)
+- [crypto] Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ethiopian PM puts ministers through military training (BBC News)
 - [crypto] Bitcoin turns 18: Has the original rebel grown up? (Cointelegraph.com News)
 - [crypto] As big bitcoin miners chase AI profits, individuals get another shot at the rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
