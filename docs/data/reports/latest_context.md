@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T11:37:27.934521+00:00`
+- Generated: `2026-10-31T11:52:28.435727+00:00`
 - Market context score: `41.08`
 - News risk score: `52.5`
 - Macro risk score: `36.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T11:30:00+00:00`
+- Day/swing latest: `2026-10-31T11:45:00+00:00`
 
 ## News Categories
 
@@ -35,6 +35,6 @@
 - [commodity] Trump called out Big Oil profits. Here’s how much their refining earnings have surged since (Energy)
 - [macro] Spain train disaster clouds Sánchez chances of re-election (BBC News)
 - [crypto] Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Trump's tariffs could shutter this Canadian town - its residents are fighting to save it (BBC News)
+- [macro] The fight to save Canadian town threatened by Trump's tariffs (BBC News)
 - [macro] Why North Korea's 'elite' hackers are the prime suspect in major Binance hack (BBC News)
 - [macro] Global nature talks reach deal but money remains an issue (BBC News)
