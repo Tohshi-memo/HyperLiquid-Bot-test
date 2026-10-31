@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T16:07:34.887264+00:00`
-- Market context score: `46.3`
-- News risk score: `43.7`
-- Macro risk score: `23.84`
-- Risk-on score: `26.57`
-- Articles: `27`
+- Generated: `2026-10-31T16:22:28.003828+00:00`
+- Market context score: `47.1`
+- News risk score: `42.52`
+- Macro risk score: `23.8`
+- Risk-on score: `27.34`
+- Articles: `28`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T16:00:00+00:00`
+- Day/swing latest: `2026-10-31T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `1`
+- crypto: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `1`
 - macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] A stolen iPhone, $14,000 in losses and London's crypto theft problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
 - [crypto] Binance says 90% of stolen assets replenished, targets Sunday withdrawals (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Institutions embrace crypto staking despite shrinking yields (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ethiopian PM puts ministers through military training (BBC News)
