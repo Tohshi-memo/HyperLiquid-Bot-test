@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-10-31T04:52:25.490178+00:00`
-- Market context score: `33.73`
-- News risk score: `53.71`
-- Macro risk score: `32.0`
-- Risk-on score: `10.19`
-- Articles: `28`
-- Polymarket markets: `396`
+- Generated: `2026-10-31T05:07:26.527091+00:00`
+- Market context score: `35.23`
+- News risk score: `48.34`
+- Macro risk score: `34.11`
+- Risk-on score: `9.77`
+- Articles: `26`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-10-31T04:45:00+00:00`
+- Day/swing latest: `2026-10-31T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `5`, risk headline rate `0.5714`, policy hits `0`
-- macro: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `0`
+- crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `0`
+- macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump's tariffs could shutter this Canadian town - its residents are fighting to save it (BBC News)
 - [macro] Why North Korea's 'elite' hackers are the prime suspect in major Binance hack (BBC News)
 - [macro] The Indian chef who brought curry to America - then vanished (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] OpenAI reportedly cuts fundraising and valuation targets amid AI jitters (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US approves sale of 500 Patriot missiles to Ukraine (BBC News)
 - [macro] Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (BBC News)
-- [macro] He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years (BBC News)
