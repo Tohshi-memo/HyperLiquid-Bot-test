@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T21:22:30.444919+00:00`
+- Generated: `2026-11-01T21:37:33.213892+00:00`
 - Market context score: `47.24`
 - News risk score: `39.68`
 - Macro risk score: `28.36`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T21:15:00+00:00`
+- Day/swing latest: `2026-11-01T21:30:00+00:00`
 
 ## News Categories
 
@@ -27,7 +27,7 @@
 
 ## Headlines
 
-- [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates (BBC News)
+- [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts (BBC News)
 - [macro] Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends (BBC News)
 - [crypto] The crypto reader's guide to the 2026 midterm election: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Peaceful protests in Germany spiral into violence and looting (BBC News)
