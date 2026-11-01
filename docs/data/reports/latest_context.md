@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T09:37:27.010797+00:00`
-- Market context score: `32.82`
+- Generated: `2026-11-01T09:52:31.299972+00:00`
+- Market context score: `31.62`
 - News risk score: `66.33`
 - Macro risk score: `18.67`
-- Risk-on score: `13.78`
-- Articles: `11`
+- Risk-on score: `11.11`
+- Articles: `12`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T09:30:00+00:00`
+- Day/swing latest: `2026-11-01T09:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Binance says phase one of withdrawals opens after $6.3B hack (Cointelegraph.com News)
 - [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
 - [macro] Shops looted as German cost of living protests turn violent (BBC News)
 - [crypto] FBI blames North Korea for record $6.3B Binance hack (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] These firms you've never heard of are feeding fears the AI bubble could burst (BBC News)
 - [crypto] FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán (BBC News)
-- [macro] No more washing up: How Airbnb's new house rules have divided hosts and guests (BBC News)
