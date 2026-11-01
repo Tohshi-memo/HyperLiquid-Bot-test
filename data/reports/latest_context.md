@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T10:22:29.930209+00:00`
-- Market context score: `29.06`
+- Generated: `2026-11-01T10:37:27.739179+00:00`
+- Market context score: `28.42`
 - News risk score: `68.0`
 - Macro risk score: `22.0`
-- Risk-on score: `8.1`
-- Articles: `15`
+- Risk-on score: `6.67`
+- Articles: `16`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T10:15:00+00:00`
+- Day/swing latest: `2026-11-01T10:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
 - macro: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance says phase one of withdrawals opens after $6.3B hack (Cointelegraph.com News)
 - [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
 - [macro] Shops looted as German cost of living protests turn violent (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Watch: Heidi Klum as giant severed hand for Halloween bash (BBC News)
 - [macro] These firms you've never heard of are feeding fears the AI bubble could burst (BBC News)
 - [crypto] FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán (BBC News)
