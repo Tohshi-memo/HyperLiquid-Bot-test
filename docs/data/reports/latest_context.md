@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T02:22:32.410989+00:00`
-- Market context score: `52.09`
-- News risk score: `34.36`
-- Macro risk score: `19.73`
-- Risk-on score: `30.0`
-- Articles: `22`
+- Generated: `2026-11-01T02:37:30.641059+00:00`
+- Market context score: `51.21`
+- News risk score: `35.66`
+- Macro risk score: `19.84`
+- Risk-on score: `29.18`
+- Articles: `21`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T02:15:00+00:00`
+- Day/swing latest: `2026-11-01T02:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 - macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
 
 ## Headlines
 
+- [macro] Shops looted as German cost of living protests turn violent (BBC News)
 - [crypto] FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán (BBC News)
 - [macro] India's opposition set to hold mega rally seeking election chief's resignation (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Thousands demonstrate in Paris as protests spread across Europe (BBC News)
 - [macro] 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city (BBC News)
 - [crypto] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
