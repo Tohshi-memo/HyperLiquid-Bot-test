@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T13:52:24.876519+00:00`
-- Market context score: `36.2`
-- News risk score: `55.0`
+- Generated: `2026-11-01T14:07:28.375181+00:00`
+- Market context score: `39.26`
+- News risk score: `50.5`
 - Macro risk score: `32.0`
-- Risk-on score: `16.76`
-- Articles: `11`
+- Risk-on score: `19.76`
+- Articles: `12`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,17 @@
 - Asset classes: `commodity:13, crypto_alt:238, crypto_major:8, equity:156, fx:6, index:27, metal:20, unknown:1273`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-11-01T14:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
+- crypto: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
 - macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto PACs made big Republican push in final weeks before November 3 election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] DeepSeek developing AI agent requiring less human input: Report (Cointelegraph.com News)
 - [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
 - [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Binance says phase one of withdrawals opens after $6.3B hack (Cointelegraph.com News)
 - [crypto] FBI blames North Korea for record $6.3B Binance hack (Cointelegraph.com News)
 - [macro] India's opposition holds mega rally seeking election chief's resignation (BBC News)
-- [macro] Democrats are used to heartbreak in Texas - could Talarico turn the tide? (BBC News)
