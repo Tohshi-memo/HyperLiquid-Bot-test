@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T16:37:33.550436+00:00`
-- Market context score: `42.57`
-- News risk score: `48.0`
-- Macro risk score: `32.0`
-- Risk-on score: `25.0`
-- Articles: `15`
+- Generated: `2026-11-01T16:52:32.092400+00:00`
+- Market context score: `44.03`
+- News risk score: `46.57`
+- Macro risk score: `29.14`
+- Risk-on score: `25.95`
+- Articles: `16`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T16:30:00+00:00`
+- Day/swing latest: `2026-11-01T16:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [macro] Israeli strikes in Gaza kill eight including child, hospitals say (BBC News)
 - [crypto] The key races to watch for the 2026 election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto card startups are racking up losses just to buy your loyalty with big rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
 - [crypto] Sherrod Brown's Ohio edge threatens a rough go for crypto next year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Shops looted as German cost-of-living protests turn violent (BBC News)
-- [crypto] Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
