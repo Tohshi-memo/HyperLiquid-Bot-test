@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T19:22:29.852435+00:00`
-- Market context score: `44.2`
-- News risk score: `45.0`
+- Generated: `2026-11-01T19:37:26.836807+00:00`
+- Market context score: `45.31`
+- News risk score: `43.36`
 - Macro risk score: `30.0`
-- Risk-on score: `25.33`
-- Articles: `20`
-- Polymarket markets: `393`
+- Risk-on score: `26.42`
+- Articles: `21`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T19:15:00+00:00`
+- Day/swing latest: `2026-11-01T19:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 - macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [crypto] The crypto reader's guide to the 2026 midterm election: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates (BBC News)
 - [macro] Peaceful protests in Germany spiral into violence and looting (BBC News)
 - [macro] Armed police start patrols in Sydney after Bondi Beach attack (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] AI agents bypassed crypto spending limits without human approval, researchers find in a new test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Thousands of jobs at Virgin Media O2 to be cut (BBC News)
 - [crypto] The key races to watch for the 2026 election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Crypto card startups are racking up losses just to buy your loyalty with big rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
