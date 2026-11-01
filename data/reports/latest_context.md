@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T20:52:26.845816+00:00`
+- Generated: `2026-11-01T21:07:29.223307+00:00`
 - Market context score: `47.24`
 - News risk score: `39.68`
 - Macro risk score: `28.36`
 - Risk-on score: `26.97`
 - Articles: `21`
-- Polymarket markets: `395`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T20:45:00+00:00`
+- Day/swing latest: `2026-11-01T21:00:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,8 @@
 
 ## Headlines
 
+- [macro] Russian strikes cut power to thousands in Ukraine as Kherson ceasefire expires (BBC News)
 - [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates (BBC News)
-- [macro] Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end (BBC News)
 - [crypto] The crypto reader's guide to the 2026 midterm election: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Peaceful protests in Germany spiral into violence and looting (BBC News)
 - [macro] Armed police start patrols in Sydney after Bondi Beach attack (BBC News)
