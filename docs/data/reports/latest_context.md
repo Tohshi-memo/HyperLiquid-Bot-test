@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T07:22:23.694445+00:00`
-- Market context score: `30.58`
-- News risk score: `68.23`
-- Macro risk score: `21.62`
-- Risk-on score: `11.52`
-- Articles: `12`
+- Generated: `2026-11-01T07:37:26.302277+00:00`
+- Market context score: `30.15`
+- News risk score: `68.73`
+- Macro risk score: `22.55`
+- Risk-on score: `11.33`
+- Articles: `11`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T07:15:00+00:00`
+- Day/swing latest: `2026-11-01T07:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
+- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `2`
 
 ## Headlines
 
 - [macro] Shops looted as German cost of living protests turn violent (BBC News)
-- [macro] India's opposition set to hold mega rally seeking election chief's resignation (BBC News)
+- [macro] India's opposition holds mega rally seeking election chief's resignation (BBC News)
 - [macro] Democrats are used to heartbreak in Texas - could Talarico turn the tide? (BBC News)
 - [macro] Watch: Heidi Klum as giant severed hand for Halloween bash (BBC News)
 - [macro] These firms you've never heard of are feeding fears the AI bubble could burst (BBC News)
