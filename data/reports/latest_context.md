@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T02:52:26.498878+00:00`
-- Market context score: `50.14`
-- News risk score: `37.23`
-- Macro risk score: `19.95`
-- Risk-on score: `28.18`
+- Generated: `2026-11-01T03:08:01.788389+00:00`
+- Market context score: `52.93`
+- News risk score: `33.25`
+- Macro risk score: `19.5`
+- Risk-on score: `30.83`
 - Articles: `20`
 - Polymarket markets: `393`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T02:45:00+00:00`
+- Day/swing latest: `2026-11-01T03:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `2`
 
 ## Headlines
 
 - [macro] Shops looted as German cost of living protests turn violent (BBC News)
+- [macro] These firms you've never heard of are feeding fears the AI bubble could burst (BBC News)
 - [crypto] FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán (BBC News)
 - [macro] India's opposition set to hold mega rally seeking election chief's resignation (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Thousands demonstrate in Paris as protests spread across Europe (BBC News)
 - [macro] Thousands demonstrate in Paris as protests spread across Europe (BBC News)
 - [macro] 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city (BBC News)
-- [crypto] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
