@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T14:52:26.795288+00:00`
-- Market context score: `41.45`
-- News risk score: `47.29`
+- Generated: `2026-11-01T15:04:55.331101+00:00`
+- Market context score: `42.57`
+- News risk score: `48.0`
 - Macro risk score: `32.0`
-- Risk-on score: `21.9`
-- Articles: `13`
+- Risk-on score: `25.0`
+- Articles: `15`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T14:45:00+00:00`
+- Day/swing latest: `2026-11-01T15:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
+- crypto: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
 - macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] The key races to watch for the 2026 election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto card startups are racking up losses just to buy your loyalty with big rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto PACs made big Republican push in final weeks before November 3 election (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] DeepSeek developing AI agent requiring less human input: Report (Cointelegraph.com News)
@@ -35,5 +37,3 @@
 - [crypto] Sherrod Brown's Ohio edge threatens a rough go for crypto next year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Shops looted as German cost-of-living protests turn violent (BBC News)
 - [crypto] Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Binance says phase one of withdrawals opens after $6.3B hack (Cointelegraph.com News)
-- [crypto] FBI blames North Korea for record $6.3B Binance hack (Cointelegraph.com News)
