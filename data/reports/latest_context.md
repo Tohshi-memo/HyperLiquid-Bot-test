@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T12:52:31.031723+00:00`
-- Market context score: `25.87`
-- News risk score: `70.5`
-- Macro risk score: `27.0`
-- Risk-on score: `5.0`
+- Generated: `2026-11-01T13:07:27.874408+00:00`
+- Market context score: `30.9`
+- News risk score: `62.57`
+- Macro risk score: `29.14`
+- Risk-on score: `10.29`
 - Articles: `12`
-- Polymarket markets: `395`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T12:45:00+00:00`
+- Day/swing latest: `2026-11-01T13:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `4`, risk headline rate `1.0`, policy hits `0`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `5`, risk hits `4`, risk headline rate `0.8`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Sherrod Brown's Ohio edge threatens a rough go for crypto next year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Shops looted as German cost of living protests turn violent (BBC News)
 - [crypto] Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance says phase one of withdrawals opens after $6.3B hack (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] India's opposition holds mega rally seeking election chief's resignation (BBC News)
 - [macro] Democrats are used to heartbreak in Texas - could Talarico turn the tide? (BBC News)
 - [macro] Watch: Heidi Klum as giant severed hand for Halloween bash (BBC News)
-- [macro] These firms you've never heard of are feeding fears the AI bubble could burst (BBC News)
