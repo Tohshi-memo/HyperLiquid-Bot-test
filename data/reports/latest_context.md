@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-01T00:52:26.881605+00:00`
-- Market context score: `54.53`
-- News risk score: `32.99`
-- Macro risk score: `20.58`
-- Risk-on score: `34.59`
+- Generated: `2026-11-01T01:07:26.954933+00:00`
+- Market context score: `54.18`
+- News risk score: `33.62`
+- Macro risk score: `20.12`
+- Risk-on score: `34.17`
 - Articles: `24`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-01T00:45:00+00:00`
+- Day/swing latest: `2026-11-01T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `2`
+- crypto: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
 
 ## Headlines
 
+- [macro] How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán (BBC News)
 - [macro] India's opposition set to hold mega rally seeking election chief's resignation (BBC News)
 - [macro] I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home (BBC News)
 - [macro] Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ukrainian evacuees reunite with family after years trapped in Russia-occupied city (BBC News)
 - [macro] Emotional reunions with loved ones for Oleshky evacuees (BBC News)
-- [crypto] A stolen iPhone, $14,000 in losses and London's crypto theft problem (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
