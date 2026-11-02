@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T10:22:29.745011+00:00`
-- Market context score: `40.67`
-- News risk score: `49.67`
-- Macro risk score: `25.33`
-- Risk-on score: `19.66`
-- Articles: `36`
-- Polymarket markets: `395`
+- Generated: `2026-11-02T10:37:42.706044+00:00`
+- Market context score: `39.29`
+- News risk score: `50.5`
+- Macro risk score: `27.0`
+- Risk-on score: `17.93`
+- Articles: `34`
+- Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T10:15:00+00:00`
+- Day/swing latest: `2026-11-02T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `18`, risk hits `11`, risk headline rate `0.5556`, policy hits `0`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
+- macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 
 ## Headlines
 
@@ -37,4 +37,4 @@
 - [macro] Nine killed as small jet crashes on Florida street (BBC News)
 - [crypto] Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] OKX draws $445M in net inflows as Binance outflows exceed $7B (Cointelegraph.com News)
-- [crypto] Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Uganda begins withdrawing troops from Somalia after 20 years (BBC News)
