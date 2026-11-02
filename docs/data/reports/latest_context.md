@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T02:37:01.609903+00:00`
-- Market context score: `48.44`
-- News risk score: `44.21`
-- Macro risk score: `25.85`
-- Risk-on score: `32.53`
-- Articles: `20`
+- Generated: `2026-11-02T02:52:28.887179+00:00`
+- Market context score: `46.76`
+- News risk score: `45.86`
+- Macro risk score: `29.14`
+- Risk-on score: `31.43`
+- Articles: `21`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T02:30:00+00:00`
+- Day/swing latest: `2026-11-02T02:45:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
 - macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes (Energy)
 - [crypto] THORChain halts swaps after block reorg bug, slowing Binance hackers (Cointelegraph.com News)
 - [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts (BBC News)
 - [macro] Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says (BBC News)
@@ -36,4 +38,3 @@
 - [crypto] Binance net outflows surge to $5.8B as withdrawals resume after record hack (Cointelegraph.com News)
 - [macro] Don't get caught out by new Buy Now Pay Later rules (BBC News)
 - [crypto] Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest (Cointelegraph.com News)
-- [macro] Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends (BBC News)
