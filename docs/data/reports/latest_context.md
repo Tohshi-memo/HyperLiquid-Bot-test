@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T07:37:29.571401+00:00`
+- Generated: `2026-11-02T07:52:25.626995+00:00`
 - Market context score: `33.76`
 - News risk score: `59.43`
 - Macro risk score: `24.86`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T07:30:00+00:00`
+- Day/swing latest: `2026-11-02T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Binance users withdraw $3.6bn after largest-ever crypto hack (BBC News)
+- [macro] Binance users withdraw $3.6bn after largest-ever crypto hack (BBC News)
 - [commodity] U.S. crude falls more than 3% amid reports of U.S.-Iran diplomatic efforts (Energy)
 - [macro] Nine killed as small jet crashes on Florida street (BBC News)
 - [crypto] Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] BTCPay Server warns of hot wallet thefts running on outdated software (Cointelegraph.com News)
 - [crypto] Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] How a Democrat in Michigan rocked the party days before the US midterms (BBC News)
