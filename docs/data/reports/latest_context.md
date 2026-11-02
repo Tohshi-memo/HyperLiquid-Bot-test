@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T23:37:31.174680+00:00`
+- Generated: `2026-11-02T23:52:28.959545+00:00`
 - Market context score: `43.62`
 - News risk score: `44.56`
 - Macro risk score: `42.02`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T23:30:00+00:00`
+- Day/swing latest: `2026-11-02T23:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Legal challenge to Australia's social media ban to start in High Court (BBC News)
 - [crypto] North Korea denies role in $6.3B Binance hack, points finger at US (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] New Jersey drops Coinbase staking order ahead of crypto’s midterm test (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Russian bombing kills 26 people at Ukraine aid centre, Kyiv says (BBC News)
 - [crypto] Coinbase hit with 50% price target cut as post-earnings rout deepens (Cointelegraph.com News)
 - [commodity] Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms (Energy)
-- [macro] Man guilty of stealing cash from farm owned by South African president (BBC News)
