@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T00:22:29.477082+00:00`
+- Generated: `2026-11-02T00:37:25.699310+00:00`
 - Market context score: `53.08`
 - News risk score: `36.23`
 - Macro risk score: `30.46`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T00:15:00+00:00`
+- Day/swing latest: `2026-11-02T00:30:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [crypto] Binance net outflows surge to $5.8B as withdrawals resume after record hack (Cointelegraph.com News)
 - [macro] Don't get caught out by new Buy Now Pay Later rules (BBC News)
 - [macro] Don't get caught out by new Buy Now Pay Later rules (BBC News)
-- [crypto] $3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest (Cointelegraph.com News)
+- [crypto] Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says (BBC News)
 - [macro] Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends (BBC News)
 - [crypto] The crypto reader's guide to the 2026 midterm election: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
