@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T21:37:30.257346+00:00`
-- Market context score: `44.25`
+- Generated: `2026-11-02T21:52:35.372818+00:00`
+- Market context score: `44.98`
 - News risk score: `43.57`
 - Macro risk score: `39.21`
-- Risk-on score: `27.72`
+- Risk-on score: `29.34`
 - Articles: `50`
 - Polymarket markets: `395`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T21:30:00+00:00`
+- Day/swing latest: `2026-11-02T21:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Big crypto wants the one thing it can’t buy: your vote (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto investigators flag suspected $106M theft, $786K Solana bot drain (Cointelegraph.com News)
 - [macro] Russian bombing kills 26 people at Ukraine aid centre, Kyiv says (BBC News)
 - [crypto] Coinbase hit with 50% price target cut as post-earnings rout deepens (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] What Florida jet audio and flight data tells us about its final moments (BBC News)
 - [macro] Trump to remove Rwanda and South Africa from US trade deal (BBC News)
 - [crypto] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally (Cointelegraph.com News)
-- [macro] Legal challenge to Australia's social media ban to start in High Court (BBC News)
