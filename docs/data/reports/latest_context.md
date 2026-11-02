@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T20:07:31.614648+00:00`
-- Market context score: `41.27`
-- News risk score: `47.54`
+- Generated: `2026-11-02T20:18:19.779069+00:00`
+- Market context score: `39.74`
+- News risk score: `48.91`
 - Macro risk score: `43.47`
-- Risk-on score: `26.06`
+- Risk-on score: `23.82`
 - Articles: `51`
 - Polymarket markets: `395`
 
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T20:00:00+00:00`
+- Day/swing latest: `2026-11-02T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `33`, risk hits `8`, risk headline rate `0.2424`, policy hits `3`
+- crypto: articles `33`, risk hits `9`, risk headline rate `0.2727`, policy hits `3`
 - macro: articles `16`, risk hits `9`, risk headline rate `0.5`, policy hits `0`
 
 ## Headlines
@@ -31,7 +31,7 @@
 - [commodity] Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms (Energy)
 - [macro] Russian bombing kills 24 people at Ukraine aid centre, Kyiv says (BBC News)
 - [crypto] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally (Cointelegraph.com News)
-- [crypto] Mercado Bitcoin wallets keep moving funds after $46M hack (Cointelegraph.com News)
+- [crypto] Mercado Bitcoin wallets show post-hack transfers after $46M theft (Cointelegraph.com News)
 - [macro] Fake nuclear warning from hacked app sparks unease but not panic in Ukraine (BBC News)
 - [macro] If hackers can take control of a supermarket freezer, how vulnerable is other tech? (BBC News)
 - [crypto] Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
