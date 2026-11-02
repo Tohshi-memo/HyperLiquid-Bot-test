@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T11:37:30.838990+00:00`
+- Generated: `2026-11-02T11:52:36.687324+00:00`
 - Market context score: `38.92`
 - News risk score: `49.32`
 - Macro risk score: `29.65`
@@ -11,14 +11,14 @@
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1742`
+- Asset universe count: `1743`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:238, crypto_major:8, equity:156, fx:6, index:27, metal:20, unknown:1274`
+- Asset classes: `commodity:13, crypto_alt:238, crypto_major:8, equity:156, fx:6, index:27, metal:20, unknown:1275`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T11:30:00+00:00`
+- Day/swing latest: `2026-11-02T11:45:00+00:00`
 
 ## News Categories
 
@@ -35,6 +35,6 @@
 - [crypto] From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete? (Cointelegraph.com News)
 - [commodity] OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment (Energy)
 - [commodity] U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts (Energy)
+- [macro] Five arrested after South African farmer shot and tortured (BBC News)
 - [crypto] Trezor lifts password ceiling after Coldcard’s $100M wallet thefts (Cointelegraph.com News)
 - [crypto] Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials (Cointelegraph.com News)
-- [crypto] BTC heads into US midterm showdown: Three things to know in Bitcoin this week (Cointelegraph.com News)
