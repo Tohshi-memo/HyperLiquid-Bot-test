@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T05:07:34.798260+00:00`
-- Market context score: `32.17`
-- News risk score: `61.05`
-- Macro risk score: `33.82`
-- Risk-on score: `13.61`
-- Articles: `18`
+- Generated: `2026-11-02T05:22:27.610122+00:00`
+- Market context score: `29.06`
+- News risk score: `64.25`
+- Macro risk score: `37.0`
+- Risk-on score: `10.6`
+- Articles: `20`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T05:00:00+00:00`
+- Day/swing latest: `2026-11-02T05:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `6`, risk headline rate `0.7143`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `8`, risk hits `7`, risk headline rate `0.75`, policy hits `0`
 - macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [commodity] Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy (Energy)
 - [crypto] Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bank of Korea probes financial firms’ exposure to crypto risks (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] THORChain halts swaps after block reorg bug, slowing Binance hackers (Cointelegraph.com News)
 - [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts (BBC News)
 - [macro] Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says (BBC News)
-- [macro] Democrats have high hopes for midterms, but polls have let them down before (BBC News)
-- [macro] France launches attempted murder investigation after petrol bomb thrown at police (BBC News)
