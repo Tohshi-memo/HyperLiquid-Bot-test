@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T09:57:50.095071+00:00`
+- Generated: `2026-11-02T10:07:34.577538+00:00`
 - Market context score: `39.67`
 - News risk score: `51.14`
 - Macro risk score: `25.33`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T09:45:00+00:00`
+- Day/swing latest: `2026-11-02T10:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Ryanair says it may freeze workers' pay and raise airfares (BBC News)
+- [macro] Ryanair says it may freeze workers' pay and raise airfares (BBC News)
 - [crypto] BTC heads into US midterm showdown: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [crypto] Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts (Energy)
@@ -36,5 +38,3 @@
 - [crypto] OKX draws $445M in net inflows as Binance outflows exceed $7B (Cointelegraph.com News)
 - [crypto] Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ryanair may freeze workers' pay and raise airfares (BBC News)
-- [macro] Ryanair may freeze workers' pay and raise airfares (BBC News)
