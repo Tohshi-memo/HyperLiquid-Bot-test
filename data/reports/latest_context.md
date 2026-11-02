@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T20:52:26.749413+00:00`
-- Market context score: `45.34`
-- News risk score: `43.46`
-- Macro risk score: `36.3`
-- Risk-on score: `28.94`
-- Articles: `52`
+- Generated: `2026-11-02T21:07:30.046143+00:00`
+- Market context score: `44.77`
+- News risk score: `43.22`
+- Macro risk score: `38.02`
+- Risk-on score: `28.11`
+- Articles: `51`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T20:45:00+00:00`
+- Day/swing latest: `2026-11-02T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `3`
-- macro: articles `19`, risk hits `8`, risk headline rate `0.3684`, policy hits `0`
+- crypto: articles `29`, risk hits `6`, risk headline rate `0.2069`, policy hits `3`
+- macro: articles `20`, risk hits `9`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [macro] What Florida jet audio and flight data tells us about its final moments (BBC News)
 - [macro] Trump to remove Rwanda and South Africa from US trade deal (BBC News)
 - [crypto] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally (Cointelegraph.com News)
+- [macro] Legal challenge to Australia's social media ban to start in High Court (BBC News)
 - [crypto] Mercado Bitcoin wallets show post-hack transfers after $46M theft (Cointelegraph.com News)
-- [macro] Fake nuclear warning from hacked app sparks unease but not panic in Ukraine (BBC News)
