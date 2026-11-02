@@ -1,9 +1,9 @@
 # Latest HIP-4 Outcome Markets
 
-- Generated: `2026-11-02T16:52:35.454335+00:00`
+- Generated: `2026-11-02T17:07:34.428290+00:00`
 - Info endpoint: `https://api.hyperliquid.xyz/info`
-- Outcome markets: `329`
-- Outcome sides (rows): `658`
+- Outcome markets: `330`
+- Outcome sides (rows): `660`
 
 ## Markets by Underlying
 
@@ -11,14 +11,14 @@
 - ETH: `1`
 - HYPE: `1`
 - SOL: `1`
-- unknown: `325`
+- unknown: `326`
 
 ## Markets by Class
 
 - fallback: `34`
 - namedOutcome: `3`
 - priceBinary: `4`
-- unknown: `288`
+- unknown: `289`
 
 ## Current Implied Probabilities
 
@@ -41,12 +41,12 @@
 - template:sportsTournamentParticipant [No] symbol `#14921` underlying `n/a` prob `0.9908` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#114991` underlying `n/a` prob `0.99` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:companyIpoConfirmed [template:No] symbol `#25981` underlying `n/a` prob `0.9899` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:binaryPrice [template:Yes] symbol `#229270` underlying `n/a` prob `0.9896` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:policyRateDecrease [No] symbol `#199891` underlying `n/a` prob `0.989` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:binaryPrice [template:No] symbol `#229241` underlying `n/a` prob `0.9875` price_source `allMids` vol24h `0.0` oi `0.0`
+- Recurring Named Outcome [No] symbol `#232101` underlying `n/a` prob `0.9868` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#14771` underlying `n/a` prob `0.9865` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTournamentParticipant [No] symbol `#114981` underlying `n/a` prob `0.9847` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:binaryPrice [template:No] symbol `#212541` underlying `n/a` prob `0.9845` price_source `allMids` vol24h `0.0` oi `0.0`
-- Recurring Named Outcome [No] symbol `#232101` underlying `n/a` prob `0.9843` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by 24h Volume
 
@@ -74,7 +74,7 @@
 - template:sportsContestParticipant2 [No] symbol `#232661` underlying `n/a` prob `0.5576` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTotal [template:Over] symbol `#202270` underlying `n/a` prob `0.0051` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTotal [template:Under] symbol `#202271` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:Yes] symbol `#221020` underlying `n/a` prob `0.5062` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:Yes] symbol `#221020` underlying `n/a` prob `0.5046` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Top by Open Interest
 
@@ -102,7 +102,7 @@
 - template:sportsContestParticipant2 [No] symbol `#232661` underlying `n/a` prob `0.5576` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTotal [template:Over] symbol `#202270` underlying `n/a` prob `0.0051` price_source `allMids` vol24h `0.0` oi `0.0`
 - template:sportsTotal [template:Under] symbol `#202271` underlying `n/a` prob `0.9949` price_source `allMids` vol24h `0.0` oi `0.0`
-- template:priceTouch [template:Yes] symbol `#221020` underlying `n/a` prob `0.5062` price_source `allMids` vol24h `0.0` oi `0.0`
+- template:priceTouch [template:Yes] symbol `#221020` underlying `n/a` prob `0.5046` price_source `allMids` vol24h `0.0` oi `0.0`
 
 ## Request Errors
 
@@ -110,6 +110,6 @@
 
 ## Request Warnings
 
-- `outcomeState: 429 Client Error: Too Many Requests for url: https://api.hyperliquid.xyz/info`
+- `outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info`
 
 Public output stores aggregate HIP-4 outcome data only. It is not a trade signal.
