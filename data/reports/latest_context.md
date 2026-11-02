@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T10:07:34.577538+00:00`
-- Market context score: `39.67`
-- News risk score: `51.14`
+- Generated: `2026-11-02T10:22:29.745011+00:00`
+- Market context score: `40.67`
+- News risk score: `49.67`
 - Macro risk score: `25.33`
-- Risk-on score: `18.68`
-- Articles: `35`
+- Risk-on score: `19.66`
+- Articles: `36`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T10:00:00+00:00`
+- Day/swing latest: `2026-11-02T10:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `17`, risk hits `11`, risk headline rate `0.5882`, policy hits `0`
+- crypto: articles `18`, risk hits `11`, risk headline rate `0.5556`, policy hits `0`
 - macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials (Cointelegraph.com News)
 - [macro] Ryanair says it may freeze workers' pay and raise airfares (BBC News)
 - [macro] Ryanair says it may freeze workers' pay and raise airfares (BBC News)
 - [crypto] BTC heads into US midterm showdown: Three things to know in Bitcoin this week (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] OKX draws $445M in net inflows as Binance outflows exceed $7B (Cointelegraph.com News)
 - [crypto] Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
