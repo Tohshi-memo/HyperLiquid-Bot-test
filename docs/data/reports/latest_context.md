@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T03:22:26.726084+00:00`
+- Generated: `2026-11-02T03:37:27.814347+00:00`
 - Market context score: `46.82`
 - News risk score: `44.57`
 - Macro risk score: `29.14`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T03:15:00+00:00`
+- Day/swing latest: `2026-11-02T03:30:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Binance users withdraw $3.6bn after record crypto hack (BBC News)
 - [commodity] Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes (Energy)
 - [crypto] THORChain halts swaps after block reorg bug, slowing Binance hackers (Cointelegraph.com News)
 - [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts (BBC News)
 - [macro] Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says (BBC News)
-- [macro] Binance users withdraw $3.6bn after record crypto hack (BBC News)
 - [macro] Democrats have high hopes for midterms, but polls have let them down before (BBC News)
 - [macro] France launches attempted murder investigation after petrol bomb thrown at police (BBC News)
 - [crypto] Binance net outflows surge to $5.8B as withdrawals resume after record hack (Cointelegraph.com News)
