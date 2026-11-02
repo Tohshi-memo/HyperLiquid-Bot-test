@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T18:07:38.094346+00:00`
-- Market context score: `38.67`
-- News risk score: `48.21`
-- Macro risk score: `46.44`
-- Risk-on score: `21.96`
-- Articles: `52`
+- Generated: `2026-11-02T18:22:32.658170+00:00`
+- Market context score: `39.91`
+- News risk score: `47.59`
+- Macro risk score: `44.82`
+- Risk-on score: `23.59`
+- Articles: `54`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T18:00:00+00:00`
+- Day/swing latest: `2026-11-02T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `32`, risk hits `7`, risk headline rate `0.2188`, policy hits `3`
-- macro: articles `18`, risk hits `11`, risk headline rate `0.5556`, policy hits `0`
+- crypto: articles `33`, risk hits `7`, risk headline rate `0.2121`, policy hits `3`
+- macro: articles `19`, risk hits `11`, risk headline rate `0.5263`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Russian bombing kills 18 people at Ukraine aid centre, Kyiv says (BBC News)
 - [crypto] Animoca Brands clears final hurdle for Abu Dhabi fund management (Cointelegraph.com News)
 - [macro] Shop freezers in seven European countries hit by cyber-attack (BBC News)
 - [macro] Shop freezers in seven European countries hit by cyber-attack (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Fighting returns to Kherson region after longest Ukraine war ceasefire (BBC News)
 - [macro] Dutch police offer record €2m reward in hunt for drug lord (BBC News)
 - [crypto] EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
