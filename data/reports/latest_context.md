@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T20:18:19.779069+00:00`
-- Market context score: `39.74`
-- News risk score: `48.91`
-- Macro risk score: `43.47`
-- Risk-on score: `23.82`
-- Articles: `51`
+- Generated: `2026-11-02T20:37:39.962036+00:00`
+- Market context score: `44.35`
+- News risk score: `44.67`
+- Macro risk score: `36.25`
+- Risk-on score: `27.74`
+- Articles: `54`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T20:15:00+00:00`
+- Day/swing latest: `2026-11-02T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `33`, risk hits `9`, risk headline rate `0.2727`, policy hits `3`
-- macro: articles `16`, risk hits `9`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `33`, risk hits `8`, risk headline rate `0.2424`, policy hits `3`
+- macro: articles `19`, risk hits `8`, risk headline rate `0.3684`, policy hits `0`
 
 ## Headlines
 
+- [macro] Russian bombing kills 26 people at Ukraine aid centre, Kyiv says (BBC News)
+- [crypto] Coinbase hit with 50% price target cut as post-earnings rout deepens (Cointelegraph.com News)
 - [commodity] Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms (Energy)
-- [macro] Russian bombing kills 24 people at Ukraine aid centre, Kyiv says (BBC News)
+- [macro] Man guilty of stealing cash from farm owned by South African president (BBC News)
+- [macro] Copilot in deadly Florida jet crash identified in reports as 20-year-old (BBC News)
+- [macro] What Florida jet audio and flight data tells us about its final moments (BBC News)
+- [macro] Trump to remove Rwanda and South Africa from US trade deal (BBC News)
 - [crypto] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally (Cointelegraph.com News)
 - [crypto] Mercado Bitcoin wallets show post-hack transfers after $46M theft (Cointelegraph.com News)
 - [macro] Fake nuclear warning from hacked app sparks unease but not panic in Ukraine (BBC News)
-- [macro] If hackers can take control of a supermarket freezer, how vulnerable is other tech? (BBC News)
-- [crypto] Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Animoca Brands clears final hurdle for Abu Dhabi fund management (Cointelegraph.com News)
-- [macro] Shop freezers in seven European countries hit by cyber-attack (BBC News)
-- [macro] Shop freezers in seven European countries hit by cyber-attack (BBC News)
