@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T07:07:28.815454+00:00`
+- Generated: `2026-11-02T07:22:24.376154+00:00`
 - Market context score: `33.96`
 - News risk score: `58.07`
 - Macro risk score: `29.14`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T07:00:00+00:00`
+- Day/swing latest: `2026-11-02T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Nine killed as small jet crashes on Florida street (BBC News)
 - [crypto] Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South Korea targets 'world's highest performance' sovereign AI model in record new budget (Economy)
 - [macro] Iran killed her teenage daughter - now she is facing up to the regime (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How a Democrat in Michigan rocked the party days before the US midterms (BBC News)
-- [macro] Trump makes fevered campaign push in final weekend before election (BBC News)
