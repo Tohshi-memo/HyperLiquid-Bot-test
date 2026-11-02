@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T14:52:48.673347+00:00`
-- Market context score: `39.08`
-- News risk score: `47.57`
-- Macro risk score: `36.4`
-- Risk-on score: `18.54`
-- Articles: `47`
+- Generated: `2026-11-02T15:07:29.367706+00:00`
+- Market context score: `37.58`
+- News risk score: `49.6`
+- Macro risk score: `37.0`
+- Risk-on score: `17.15`
+- Articles: `50`
 - Polymarket markets: `396`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T14:45:00+00:00`
+- Day/swing latest: `2026-11-02T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `29`, risk hits `11`, risk headline rate `0.3448`, policy hits `2`
-- macro: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `0`
+- crypto: articles `30`, risk hits `12`, risk headline rate `0.3667`, policy hits `2`
+- macro: articles `18`, risk hits `8`, risk headline rate `0.3889`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto's Washington playbook is working. Don't abandon it now. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Crude oil dives to session low on Iran peace talk hopes ahead of midterms (Energy)
+- [macro] Wizz Air flight from London in emergency landing after bomb threat (BBC News)
 - [macro] Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked (BBC News)
 - [crypto] Coinbase downgraded at Morgan Stanely; price target slashed 53% on weak earnings outlook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What we know about the alert app hack in Ukraine and Russia (BBC News)
 - [macro] Shop freezers in seven European countries hit by suspected cyber-attack (BBC News)
 - [macro] Shop freezers in seven European countries hit by suspected cyber-attack (BBC News)
 - [crypto] Tokenization firm tZERO plans to go public in $350 million SPAC deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] A Paralympian vs a former TV news anchor - and other US Senate races to watch (BBC News)
-- [crypto] Strategy spends triple its weekly Bitcoin outlay on STRC buybacks (Cointelegraph.com News)
-- [macro] Poundland's former owner offers to invest as minister prepares to meet board (BBC News)
-- [crypto] AI agent disputes head to ‘Internet Court’ — and a jury of AI agents (Cointelegraph.com News)
