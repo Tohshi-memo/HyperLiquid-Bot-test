@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T17:22:30.798403+00:00`
-- Market context score: `43.05`
-- News risk score: `44.49`
-- Macro risk score: `35.21`
-- Risk-on score: `24.32`
-- Articles: `54`
+- Generated: `2026-11-02T17:37:26.165881+00:00`
+- Market context score: `43.88`
+- News risk score: `43.17`
+- Macro risk score: `35.23`
+- Risk-on score: `25.04`
+- Articles: `53`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T17:15:00+00:00`
+- Day/swing latest: `2026-11-02T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `32`, risk hits `8`, risk headline rate `0.25`, policy hits `3`
+- crypto: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `3`
 - macro: articles `20`, risk hits `8`, risk headline rate `0.35`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms (Energy)
 - [crypto] EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Crude oil prices plunge more than 7% on Iran peace talk hopes ahead of U.S. midterms (Energy)
 - [crypto] NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
