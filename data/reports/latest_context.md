@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-02T00:52:28.368471+00:00`
-- Market context score: `54.34`
-- News risk score: `35.0`
-- Macro risk score: `28.0`
-- Risk-on score: `38.67`
-- Articles: `25`
+- Generated: `2026-11-02T01:07:27.782916+00:00`
+- Market context score: `50.93`
+- News risk score: `38.0`
+- Macro risk score: `32.0`
+- Risk-on score: `35.13`
+- Articles: `24`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-02T00:45:00+00:00`
+- Day/swing latest: `2026-11-02T01:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `0`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [macro] Binance users withdraw $3.6bn after record crypto hack (BBC News)
 - [macro] Democrats have high hopes for midterms, but polls have let them down before (BBC News)
 - [macro] France launches attempted murder investigation after petrol bomb thrown at police (BBC News)
 - [macro] Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts (BBC News)
 - [crypto] Binance net outflows surge to $5.8B as withdrawals resume after record hack (Cointelegraph.com News)
-- [macro] Don't get caught out by new Buy Now Pay Later rules (BBC News)
 - [macro] Don't get caught out by new Buy Now Pay Later rules (BBC News)
 - [crypto] Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says (BBC News)
