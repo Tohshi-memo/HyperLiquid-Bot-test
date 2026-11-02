@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-02T19:10:50.498667+00:00`
+- Generated: `2026-11-02T19:15:33.102700+00:00`
 - Flow alert score: `20.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- 2026 Balance of Power: R Senate, R House | 24h volume: `4977059.380763998` | liquidity: `2318672.7414`
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `2346595.71495` | liquidity: `7106739.9021`
-- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1749498.4526830001` | liquidity: `3961591.8296`
-- Will Nikki Haley win the 2028 US Presidential Election? | 24h volume: `1603800.911667` | liquidity: `284033.874`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `1541172.6711070002` | liquidity: `1572942.9898`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `1263082.707988` | liquidity: `2421337.6889`
-- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `1177098.3720339998` | liquidity: `1431239.0684`
-- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `909280.2184499999` | liquidity: `2914108.9725`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `4977059.380763998` | liquidity: `2696162.1597`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `2346595.71495` | liquidity: `7112929.6051`
+- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1749498.4526830001` | liquidity: `3770164.1851`
+- Will Nikki Haley win the 2028 US Presidential Election? | 24h volume: `1603800.911667` | liquidity: `285406.60642`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `1541172.6711070002` | liquidity: `1339996.7896`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `1263082.707988` | liquidity: `2787545.6805`
+- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `1177098.3720339998` | liquidity: `1543123.4475`
+- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `909280.2184499999` | liquidity: `3144560.4283`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
