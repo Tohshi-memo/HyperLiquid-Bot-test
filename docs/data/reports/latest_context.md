@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T06:22:27.147883+00:00`
-- Market context score: `39.3`
-- News risk score: `49.97`
-- Macro risk score: `33.32`
-- Risk-on score: `19.88`
-- Articles: `38`
+- Generated: `2026-11-03T06:37:28.936985+00:00`
+- Market context score: `40.65`
+- News risk score: `48.99`
+- Macro risk score: `31.35`
+- Risk-on score: `21.31`
+- Articles: `37`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T06:15:00+00:00`
+- Day/swing latest: `2026-11-03T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `17`, risk hits `9`, risk headline rate `0.4706`, policy hits `2`
-- macro: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `2`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `2`
 
 ## Headlines
 
+- [macro] North Korea denies being behind record $6.3bn Binance hack (BBC News)
+- [macro] North Korea denies being behind record $6.3bn Binance hack (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Binance has spent half its SAFU bitcoin, about $580 million worth, data shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [commodity] U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran (Energy)
 - [crypto] Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation (Cointelegraph.com News)
 - [crypto] UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028 (Cointelegraph.com News)
-- [macro] Australia hikes rates to 18-year high to fight inflation (Economy)
-- [macro] US strikes Iran ahead of midterm elections (BBC News)
