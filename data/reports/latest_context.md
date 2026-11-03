@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T19:52:39.872724+00:00`
-- Market context score: `44.59`
-- News risk score: `45.97`
-- Macro risk score: `27.0`
-- Risk-on score: `25.89`
-- Articles: `60`
+- Generated: `2026-11-03T20:10:27.591411+00:00`
+- Market context score: `45.75`
+- News risk score: `44.89`
+- Macro risk score: `25.33`
+- Risk-on score: `26.91`
+- Articles: `59`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T19:45:00+00:00`
+- Day/swing latest: `2026-11-03T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 - crypto: articles `32`, risk hits `14`, risk headline rate `0.3438`, policy hits `0`
-- macro: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `23`, risk hits `5`, risk headline rate `0.2174`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war (Energy)
 - [crypto] US midterms: Prediction markets favor Democrats in key crypto races (Cointelegraph.com News)
 - [macro] Job openings posted big September gain in positive sign for labor market ahead of payrolls report (Economy)
 - [commodity] Sullivan: What the 2026 midterms could mean for energy investors (Energy)
@@ -37,4 +38,3 @@
 - [macro] Irish Olympian Ciara Mageean was a 'talented and inspirational human being' (BBC News)
 - [macro] Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital (BBC News)
 - [crypto] Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
