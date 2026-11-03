@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-03T23:05:32.645433+00:00`
-- Flow alert score: `23.92`
+- Generated: `2026-11-03T23:10:39.705657+00:00`
+- Flow alert score: `24.52`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `47371373.88`
-- Polymarket volume z-score: `1.73`
+- Polymarket 24h volume: `49108410.13`
+- Polymarket volume z-score: `1.88`
 
 ## Top Polymarket Markets
 
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `4301324.030113` | liquidity: `2493009.0366`
-- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `2796908.790589` | liquidity: `413089.9249`
-- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `2777830.2012349996` | liquidity: `1953274.7624`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `2662589.20351` | liquidity: `905744.1567`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `2322428.218614` | liquidity: `1359616.6431`
-- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `2098866.0938979997` | liquidity: `603123.4738`
-- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1851681.7072919998` | liquidity: `677578.3064`
-- Will the Democrats win the Texas Senate race in 2026? | 24h volume: `1782038.0115059998` | liquidity: `620665.1642`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `5410717.9138199985` | liquidity: `2493893.8292`
+- Will the Democratic Party control the Senate after the 2026 Midterm elections? | 24h volume: `2821430.1075139996` | liquidity: `414286.1763`
+- Will the Republican Party control the House after the 2026 Midterm elections? | 24h volume: `2792313.1151130004` | liquidity: `1958425.5364`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `2693717.755135` | liquidity: `913372.0494`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `2331845.3954620003` | liquidity: `1376322.6103`
+- Will the Republicans win the Texas Senate race in 2026? | 24h volume: `2031284.673394` | liquidity: `611178.9005`
+- Will the Republican Party control the Senate after the 2026 Midterm elections? | 24h volume: `1872351.787995` | liquidity: `330794.8896`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `1780199.295787` | liquidity: `411632.6451`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
