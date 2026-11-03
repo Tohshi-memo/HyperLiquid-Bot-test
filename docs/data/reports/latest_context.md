@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T04:22:31.577896+00:00`
+- Generated: `2026-11-03T04:37:32.531364+00:00`
 - Market context score: `39.23`
 - News risk score: `50.26`
 - Macro risk score: `42.02`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T04:15:00+00:00`
+- Day/swing latest: `2026-11-03T04:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran (Energy)
 - [crypto] Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation (Cointelegraph.com News)
 - [macro] Australia hikes rates to 18-year high to fight inflation (Economy)
 - [macro] US strikes Iran ahead of midterm elections (BBC News)
@@ -35,6 +36,5 @@
 - [macro] Man and boy arrested after allegedly attacking One Nation volunteer with bat (BBC News)
 - [crypto] Binance begins second withdrawal phase, exchange outflows slow (Cointelegraph.com News)
 - [macro] Trump to remove Rwanda and South Africa from US trade deal (BBC News)
-- [commodity] U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran (Energy)
 - [macro] UK and EU agree draft deal to scrap Brexit red tape over food exports (BBC News)
 - [macro] Russian bombing kills 26 people at Ukraine aid centre, Kyiv says (BBC News)
