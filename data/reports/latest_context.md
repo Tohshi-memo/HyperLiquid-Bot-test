@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T02:37:29.395721+00:00`
+- Generated: `2026-11-03T02:52:32.588071+00:00`
 - Market context score: `42.29`
 - News risk score: `45.93`
 - Macro risk score: `44.05`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T02:30:00+00:00`
+- Day/swing latest: `2026-11-03T02:45:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [macro] North Korea denies being behind record $6.3bn Binance hack (BBC News)
 - [macro] From scooters to shampoo - the people saving hundreds from dumpster diving (BBC News)
 - [macro] Apple unsure when more foldable iPhones will be available after selling out (BBC News)
-- [macro] Indian film star Ranbir Kapoor on AI, movies and fatherhood (BBC News)
+- [macro] Bollywood film star Ranbir Kapoor on AI, movies and fatherhood (BBC News)
 - [macro] Plane may have broken apart ahead of deadly Florida jet crash, say investigators (BBC News)
