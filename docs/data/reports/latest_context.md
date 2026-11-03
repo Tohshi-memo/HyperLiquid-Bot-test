@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T15:22:57.499876+00:00`
+- Generated: `2026-11-03T15:37:45.553952+00:00`
 - Market context score: `43.65`
 - News risk score: `47.62`
 - Macro risk score: `30.63`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T15:15:00+00:00`
+- Day/swing latest: `2026-11-03T15:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Asda hires ex-Morrisons boss in bid to grow firm (BBC News)
 - [macro] Mining giant joins fight to stop killer toad march across Australia (BBC News)
 - [crypto] CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war (Energy)
@@ -37,4 +38,3 @@
 - [crypto] CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] LO:TECH raises $12 million to expand crypto trading into U.S. and Asia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries (BBC News)
-- [crypto] What’s at stake for crypto as the US votes in the 2026 midterms? (Cointelegraph.com News)
