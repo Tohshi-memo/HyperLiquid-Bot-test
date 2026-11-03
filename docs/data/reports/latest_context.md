@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T20:53:47.951195+00:00`
-- Market context score: `44.23`
-- News risk score: `44.69`
+- Generated: `2026-11-03T21:07:59.046401+00:00`
+- Market context score: `45.14`
+- News risk score: `43.51`
 - Macro risk score: `20.89`
-- Risk-on score: `21.7`
-- Articles: `57`
+- Risk-on score: `22.72`
+- Articles: `56`
 - Polymarket markets: `399`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T20:45:00+00:00`
+- Day/swing latest: `2026-11-03T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
-- crypto: articles `30`, risk hits `15`, risk headline rate `0.4`, policy hits `0`
+- crypto: articles `29`, risk hits `14`, risk headline rate `0.3793`, policy hits `0`
 - macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
 
 ## Headlines
 
-- [macro] UK and EU agree draft deal to scrap Brexit red tape over food exports (BBC News)
 - [macro] Spanish transport minister resigns days after deadly train crash (BBC News)
+- [macro] UK and EU agree draft deal to scrap Brexit red tape over food exports (BBC News)
 - [macro] Seven flights across Europe targeted by suspected bomb threats (BBC News)
 - [commodity] Sullivan: What the 2026 midterms could mean for energy investors (Energy)
 - [crypto] CFTC clears stock perpetual futures for trading on US exchanges (Cointelegraph.com News)
