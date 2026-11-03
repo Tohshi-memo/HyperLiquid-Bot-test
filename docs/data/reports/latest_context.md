@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T13:52:30.722186+00:00`
-- Market context score: `46.07`
-- News risk score: `44.38`
-- Macro risk score: `31.4`
-- Risk-on score: `29.5`
-- Articles: `53`
+- Generated: `2026-11-03T14:07:27.122669+00:00`
+- Market context score: `46.52`
+- News risk score: `43.94`
+- Macro risk score: `31.37`
+- Risk-on score: `30.12`
+- Articles: `55`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T13:45:00+00:00`
+- Day/swing latest: `2026-11-03T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.4`, policy hits `0`
-- crypto: articles `27`, risk hits `9`, risk headline rate `0.2963`, policy hits `2`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `2`
 - macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
 
 ## Headlines
 
+- [crypto] LO:TECH raises $12 million to expand crypto trading into U.S. and Asia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war (Energy)
+- [macro] Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries (BBC News)
+- [crypto] What’s at stake for crypto as the US votes in the 2026 midterms? (Cointelegraph.com News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Jet may have broken apart before Florida crash, officials say, as family named among victims (BBC News)
 - [commodity] Midterm elections could jolt stocks if Democrats sweep Congress (Energy)
 - [macro] Trump to remove Rwanda and South Africa from US trade deal (BBC News)
 - [macro] Russian bombing kills 31 people at Ukraine aid centre, Kyiv says (BBC News)
 - [crypto] Moscow Exchange to launch Bitcoin, Ether and USDT trading in December (Cointelegraph.com News)
-- [macro] Europe on alert after supermarket freezers hit by cyber-attacks in nine countries (BBC News)
-- [crypto] Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] NEAR token sinks 7% as proposal to cut annual token issuance passes (Cointelegraph.com News)
-- [crypto] Bitcoin is breaking a midterm election pattern going back to 2014 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
