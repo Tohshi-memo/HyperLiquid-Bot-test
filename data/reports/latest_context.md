@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T08:37:29.541962+00:00`
-- Market context score: `44.79`
-- News risk score: `44.7`
-- Macro risk score: `32.39`
-- Risk-on score: `27.3`
-- Articles: `42`
+- Generated: `2026-11-03T08:52:26.253203+00:00`
+- Market context score: `47.21`
+- News risk score: `43.49`
+- Macro risk score: `32.34`
+- Risk-on score: `31.63`
+- Articles: `44`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T08:30:00+00:00`
+- Day/swing latest: `2026-11-03T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `2`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `2`
 - macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin’s price chart is flashing a red signal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] ARK buys $17M in Coinbase, Circle shares while trimming Bullish (Cointelegraph.com News)
 - [macro] North Korea denies being behind record $6.3bn Binance hack (BBC News)
 - [macro] North Korea denies being behind record $6.3bn Binance hack (BBC News)
 - [commodity] U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran (Energy)
@@ -36,5 +38,3 @@
 - [macro] UK and EU agree draft deal to scrap Brexit red tape over food exports (BBC News)
 - [macro] From scooters to shampoo - the people saving hundreds from dumpster diving (BBC News)
 - [macro] From scooters to shampoo - the people saving hundreds from dumpster diving (BBC News)
-- [crypto] BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June (Cointelegraph.com News)
-- [commodity] Oil prices climb after U.S. reportedly strikes Iran's Qeshm Island (Energy)
