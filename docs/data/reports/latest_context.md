@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T10:37:24.390332+00:00`
+- Generated: `2026-11-03T10:52:29.133339+00:00`
 - Market context score: `43.89`
 - News risk score: `46.32`
 - Macro risk score: `29.91`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T10:30:00+00:00`
+- Day/swing latest: `2026-11-03T10:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] US strikes Iranian island ahead of midterm elections (BBC News)
 - [macro] Trump to remove Rwanda and South Africa from US trade deal (BBC News)
 - [crypto] Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin price threatens $77.7K support loss with recent buyers underwater (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Drivers may get compensation offers before car finance saga ends (BBC News)
 - [macro] Drivers may get compensation offers before car finance saga ends (BBC News)
-- [crypto] North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
