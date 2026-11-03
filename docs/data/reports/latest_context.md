@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T22:07:58.315306+00:00`
-- Market context score: `44.67`
-- News risk score: `42.61`
+- Generated: `2026-11-03T22:23:36.219453+00:00`
+- Market context score: `43.54`
+- News risk score: `44.28`
 - Macro risk score: `20.89`
-- Risk-on score: `20.93`
+- Risk-on score: `19.81`
 - Articles: `54`
 - Polymarket markets: `399`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:158, fx:6, index:27, metal:20, unknown:1274`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-11-03T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
-- crypto: articles `27`, risk hits `13`, risk headline rate `0.3704`, policy hits `0`
+- crypto: articles `27`, risk hits `14`, risk headline rate `0.4074`, policy hits `0`
 - macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
 
 ## Headlines
 
+- [crypto] CFTC gets into legal clash over stock perps after having cleared path for crypto version (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spanish transport minister resigns days after deadly train crash (BBC News)
 - [macro] NTSB says crucial plane parts found three miles from Florida crash site (BBC News)
 - [crypto] SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] CFTC clears stock perpetual futures for trading on US exchanges (Cointelegraph.com News)
 - [commodity] JetBlue raises bag fees for third time in a year as fuel costs bite (Energy)
 - [commodity] Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war (Energy)
-- [crypto] US midterms: Prediction markets favor Democrats in key crypto races (Cointelegraph.com News)
