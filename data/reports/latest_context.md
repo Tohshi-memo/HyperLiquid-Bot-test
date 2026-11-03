@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T23:22:39.183790+00:00`
-- Market context score: `44.65`
-- News risk score: `42.47`
-- Macro risk score: `21.6`
-- Risk-on score: `21.02`
-- Articles: `52`
+- Generated: `2026-11-03T23:37:26.476465+00:00`
+- Market context score: `43.19`
+- News risk score: `42.81`
+- Macro risk score: `22.0`
+- Risk-on score: `18.21`
+- Articles: `50`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T23:15:00+00:00`
+- Day/swing latest: `2026-11-03T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
-- crypto: articles `27`, risk hits `13`, risk headline rate `0.3704`, policy hits `0`
-- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
+- crypto: articles `26`, risk hits `13`, risk headline rate `0.3846`, policy hits `0`
+- macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
 
 ## Headlines
 
+- [crypto] What voters said about their views on crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US midterms election 2026 live: What they mean for crypto (Cointelegraph.com News)
 - [crypto] What happens if North Korea steals Wall Street's tokenized assets next (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spanish transport minister resigns days after deadly train crash (BBC News)
@@ -37,4 +38,3 @@
 - [macro] NTSB says crucial plane parts found three miles from Florida crash site (BBC News)
 - [crypto] SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom (Cointelegraph.com News)
 - [macro] UK and EU agree draft deal to scrap Brexit red tape over food exports (BBC News)
-- [macro] Seven flights across Europe targeted by suspected bomb threats (BBC News)
