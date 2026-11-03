@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T08:07:31.048873+00:00`
-- Market context score: `43.63`
-- News risk score: `46.32`
-- Macro risk score: `33.16`
-- Risk-on score: `26.37`
-- Articles: `43`
+- Generated: `2026-11-03T08:22:36.284586+00:00`
+- Market context score: `43.52`
+- News risk score: `46.35`
+- Macro risk score: `32.45`
+- Risk-on score: `25.89`
+- Articles: `40`
 - Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T08:00:00+00:00`
+- Day/swing latest: `2026-11-03T08:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `5`, risk hits `3`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `2`
-- macro: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `2`
+- commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `15`, risk hits `7`, risk headline rate `0.4`, policy hits `2`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
 
 ## Headlines
 
-- [macro] Australia's social media ban 'ill thought out', High Court told in legal challenge (BBC News)
+- [macro] Major test for Australia's social media ban begins in High Court (BBC News)
 - [macro] UK and EU agree draft deal to scrap Brexit red tape over food exports (BBC News)
 - [macro] From scooters to shampoo - the people saving hundreds from dumpster diving (BBC News)
 - [macro] From scooters to shampoo - the people saving hundreds from dumpster diving (BBC News)
