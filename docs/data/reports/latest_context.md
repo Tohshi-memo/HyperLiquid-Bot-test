@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T01:22:27.942306+00:00`
-- Market context score: `46.15`
-- News risk score: `41.92`
-- Macro risk score: `41.73`
-- Risk-on score: `31.49`
-- Articles: `43`
+- Generated: `2026-11-03T01:37:30.224121+00:00`
+- Market context score: `43.73`
+- News risk score: `44.91`
+- Macro risk score: `43.14`
+- Risk-on score: `29.18`
+- Articles: `44`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T01:15:00+00:00`
+- Day/swing latest: `2026-11-03T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `2`
-- macro: articles `20`, risk hits `10`, risk headline rate `0.45`, policy hits `0`
+- crypto: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `2`
+- macro: articles `21`, risk hits `11`, risk headline rate `0.4762`, policy hits `0`
 
 ## Headlines
 
+- [crypto] South Korea urges exchanges to boost cold storage after Binance hack (Cointelegraph.com News)
+- [macro] North Korea denies being behind record $6.3bn Binance hack (BBC News)
 - [macro] North Korea denies being behind record $6.3bn Binance hack (BBC News)
 - [macro] From scooters to shampoo - the people saving hundreds from dumpster diving (BBC News)
 - [macro] Apple unsure when more foldable iPhones will be available after selling out (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Thousands of European troops to rehearse Ukraine deployment in event of peace (BBC News)
 - [macro] Legal challenge to Australia's social media ban to start in High Court (BBC News)
 - [crypto] North Korea denies role in $6.3B Binance hack, points finger at US (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] New Jersey drops Coinbase staking order ahead of crypto’s midterm test (Cointelegraph.com News)
