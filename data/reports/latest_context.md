@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T10:22:27.826163+00:00`
-- Market context score: `44.39`
-- News risk score: `45.7`
-- Macro risk score: `29.89`
-- Risk-on score: `26.3`
-- Articles: `46`
-- Polymarket markets: `396`
+- Generated: `2026-11-03T10:37:24.390332+00:00`
+- Market context score: `43.89`
+- News risk score: `46.32`
+- Macro risk score: `29.91`
+- Risk-on score: `25.73`
+- Articles: `45`
+- Polymarket markets: `397`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T10:15:00+00:00`
+- Day/swing latest: `2026-11-03T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `21`, risk hits `9`, risk headline rate `0.381`, policy hits `2`
+- crypto: articles `20`, risk hits `9`, risk headline rate `0.4`, policy hits `2`
 - macro: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `2`
 
 ## Headlines
 
+- [macro] Trump to remove Rwanda and South Africa from US trade deal (BBC News)
 - [crypto] Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin price threatens $77.7K support loss with recent buyers underwater (Cointelegraph.com News)
 - [macro] Jet may have broken apart before Florida crash, officials say, as family named among victims (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Drivers may get compensation offers before car finance saga ends (BBC News)
 - [macro] Drivers may get compensation offers before car finance saga ends (BBC News)
 - [crypto] North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tenerife striker De Miguel dies after on-field collision (BBC News)
