@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T14:07:27.122669+00:00`
+- Generated: `2026-11-03T14:22:32.837297+00:00`
 - Market context score: `46.52`
 - News risk score: `43.94`
 - Macro risk score: `31.37`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T14:00:00+00:00`
+- Day/swing latest: `2026-11-03T14:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] LO:TECH raises $12 million to expand crypto trading into U.S. and Asia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war (Energy)
+- [crypto] LO:TECH raises $12 million to expand crypto trading into U.S. and Asia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries (BBC News)
 - [crypto] What’s at stake for crypto as the US votes in the 2026 midterms? (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
