@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T17:53:29.953109+00:00`
+- Generated: `2026-11-03T18:09:47.020704+00:00`
 - Market context score: `43.55`
 - News risk score: `47.91`
 - Macro risk score: `28.88`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T17:45:00+00:00`
+- Day/swing latest: `2026-11-03T18:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Bomb threats target seven flights across Europe (BBC News)
 - [commodity] Midterm elections could jolt stocks if Democrats sweep Congress (Energy)
+- [macro] Seven flights across Europe targeted by suspected bomb threats (BBC News)
 - [macro] Irish Olympian Ciara Mageean was a 'talented and inspirational human being' (BBC News)
 - [macro] Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital (BBC News)
 - [crypto] Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
