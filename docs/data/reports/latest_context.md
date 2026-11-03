@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-03T22:23:36.219453+00:00`
+- Generated: `2026-11-03T22:36:27.454180+00:00`
 - Market context score: `43.54`
 - News risk score: `44.28`
 - Macro risk score: `20.89`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-03T22:15:00+00:00`
+- Day/swing latest: `2026-11-03T22:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] JetBlue raises bag fees for third time in a year as fuel costs bite (Energy)
 - [crypto] CFTC gets into legal clash over stock perps after having cleared path for crypto version (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spanish transport minister resigns days after deadly train crash (BBC News)
 - [macro] NTSB says crucial plane parts found three miles from Florida crash site (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Seven flights across Europe targeted by suspected bomb threats (BBC News)
 - [commodity] Sullivan: What the 2026 midterms could mean for energy investors (Energy)
 - [crypto] CFTC clears stock perpetual futures for trading on US exchanges (Cointelegraph.com News)
-- [commodity] JetBlue raises bag fees for third time in a year as fuel costs bite (Energy)
 - [commodity] Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war (Energy)
