@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T11:22:32.859086+00:00`
-- Market context score: `43.63`
-- News risk score: `45.66`
-- Macro risk score: `26.11`
-- Risk-on score: `23.15`
-- Articles: `47`
+- Generated: `2026-11-04T11:37:31.019791+00:00`
+- Market context score: `44.05`
+- News risk score: `45.15`
+- Macro risk score: `26.09`
+- Risk-on score: `23.65`
+- Articles: `48`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T11:15:00+00:00`
+- Day/swing latest: `2026-11-04T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `24`, risk hits `10`, risk headline rate `0.4167`, policy hits `0`
+- crypto: articles `25`, risk hits `10`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `3`
 
 ## Headlines
 
+- [macro] Uproar over missing 'pop' as Rice Krispies changes its recipe (BBC News)
 - [macro] Rwanda's army team removed from Africa league after US sanctions, NBA says (BBC News)
 - [crypto] Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says (Cointelegraph.com News)
 - [macro] Key moments from a night of midterm election firsts (BBC News)
 - [macro] What's happening to UK interest rates and what does it mean for mortgages? (BBC News)
 - [macro] Euro zone inflation hits 4% for first time in three years as interest rate hike looms (Economy)
-- [macro] No more rice grains in Kellogg's Rice Krispies due to changing weather (BBC News)
+- [crypto] Bitcoin rebounds from midterm dip as DeFi leads gains (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US contractor gave Ethiopia secrets to help kill Tigray fighters (BBC News)
 - [crypto] Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure (Cointelegraph.com News)
 - [crypto] ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Iran's chief negotiator says Americans voted 'no to war' (BBC News)
