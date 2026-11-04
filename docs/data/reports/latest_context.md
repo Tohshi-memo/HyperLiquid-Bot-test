@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T04:52:27.947879+00:00`
-- Market context score: `48.68`
-- News risk score: `32.73`
-- Macro risk score: `17.45`
-- Risk-on score: `20.18`
-- Articles: `37`
+- Generated: `2026-11-04T05:07:27.610157+00:00`
+- Market context score: `53.6`
+- News risk score: `31.43`
+- Macro risk score: `14.86`
+- Risk-on score: `29.05`
+- Articles: `36`
 - Polymarket markets: `403`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T04:45:00+00:00`
+- Day/swing latest: `2026-11-04T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 - crypto: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `0`
-- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `0`
+- macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Democrats surge toward Senate, House majorities, with crypto braced for new direction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] US midterms election 2026 live: Democrats win US Senate majority (Cointelegraph.com News)
 - [crypto] Democrats claim control of the US Senate (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Anthony Zurcher: Democrats push deep into Republican territory with historic wins (BBC News)
 - [macro] South Carolina elects Democratic senator for first time in almost three decades (BBC News)
 - [macro] Democratic rising star Ossoff projected to hold Georgia seat (BBC News)
-- [macro] No more rice grains in Kellogg's Rice Krispies due to changing weather (BBC News)
