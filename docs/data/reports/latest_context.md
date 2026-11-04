@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T06:52:26.620828+00:00`
+- Generated: `2026-11-04T07:07:28.699733+00:00`
 - Market context score: `51.35`
 - News risk score: `34.91`
 - Macro risk score: `18.72`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T06:45:00+00:00`
+- Day/swing latest: `2026-11-04T07:00:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Anthony Zurcher: Democrats tear up Trump's political map on historic night (BBC News)
 - [commodity] Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress (Energy)
 - [crypto] US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate (Cointelegraph.com News)
 - [crypto] Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Anthony Zurcher: Democrats tear up Trump's political map on historic night (BBC News)
 - [macro] Leisure centre price hikes on the way (BBC News)
 - [macro] Ecstatic scenes and historic moments: What's happened so far in the midterms (BBC News)
 - [macro] US contractor gave Ethiopia secrets to help kill Tigray fighters (BBC News)
