@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T05:22:30.808911+00:00`
+- Generated: `2026-11-04T05:37:32.776252+00:00`
 - Market context score: `52.69`
 - News risk score: `32.74`
 - Macro risk score: `15.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T05:15:00+00:00`
+- Day/swing latest: `2026-11-04T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [crypto] US midterms election 2026 live: Trump applauds Democrats on Senate win (Cointelegraph.com News)
 - [crypto] U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea's ruling party wants to delay its crypto tax again (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Democrats surge toward Senate, House majorities, with crypto braced for new direction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] US midterms election 2026 live: Democrats win US Senate majority (Cointelegraph.com News)
 - [crypto] Democrats claim control of the US Senate (Cointelegraph.com News)
 - [macro] Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea (BBC News)
 - [commodity] Midterm elections could jolt stocks as Democrats look poised to sweep Congress (Energy)
