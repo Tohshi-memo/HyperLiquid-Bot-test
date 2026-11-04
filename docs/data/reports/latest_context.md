@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T10:37:29.474424+00:00`
-- Market context score: `49.18`
-- News risk score: `38.59`
-- Macro risk score: `20.18`
-- Risk-on score: `27.27`
-- Articles: `46`
+- Generated: `2026-11-04T11:22:32.859086+00:00`
+- Market context score: `43.63`
+- News risk score: `45.66`
+- Macro risk score: `26.11`
+- Risk-on score: `23.15`
+- Articles: `47`
 - Polymarket markets: `398`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T10:30:00+00:00`
+- Day/swing latest: `2026-11-04T11:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `24`, risk hits `8`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
+- crypto: articles `24`, risk hits `10`, risk headline rate `0.4167`, policy hits `0`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `3`
 
 ## Headlines
 
+- [macro] Rwanda's army team removed from Africa league after US sanctions, NBA says (BBC News)
+- [crypto] Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says (Cointelegraph.com News)
+- [macro] Key moments from a night of midterm election firsts (BBC News)
+- [macro] What's happening to UK interest rates and what does it mean for mortgages? (BBC News)
+- [macro] Euro zone inflation hits 4% for first time in three years as interest rate hike looms (Economy)
+- [macro] No more rice grains in Kellogg's Rice Krispies due to changing weather (BBC News)
 - [macro] US contractor gave Ethiopia secrets to help kill Tigray fighters (BBC News)
+- [crypto] Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure (Cointelegraph.com News)
 - [crypto] ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran's chief negotiator says Americans voted 'no to war' (BBC News)
-- [crypto] Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] How America voted in maps and charts (BBC News)
-- [crypto] Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’ (Cointelegraph.com News)
-- [macro] Poundland supplier 'will lose millions' if retailer collapses (BBC News)
-- [crypto] US midterm elections 2026 as it happened: Democrats win control of Congress (Cointelegraph.com News)
-- [crypto] Morgan Stanley says it is among the first banks to tokenize real world assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Binance hackers move 81% of stolen Solana, route funds via THORChain (Cointelegraph.com News)
