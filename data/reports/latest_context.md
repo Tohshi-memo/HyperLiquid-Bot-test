@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T22:37:29.413011+00:00`
-- Market context score: `48.32`
-- News risk score: `39.03`
-- Macro risk score: `33.3`
-- Risk-on score: `30.7`
+- Generated: `2026-11-04T22:52:26.429078+00:00`
+- Market context score: `47.14`
+- News risk score: `39.9`
+- Macro risk score: `31.73`
+- Risk-on score: `28.21`
 - Articles: `47`
 - Polymarket markets: `395`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T22:30:00+00:00`
+- Day/swing latest: `2026-11-04T22:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `0`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `1`
+- crypto: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `1`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Ukraine says bodycam video shows deadly Russian double-tap bombing (BBC News)
+- [macro] Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (Economy)
+- [crypto] BitMart founder says security team ‘severely understaffed’ after new hack (Cointelegraph.com News)
 - [crypto] Crypto PACs eye 2028 “new map” as Democrats take Congress (Cointelegraph.com News)
 - [commodity] Every stock that moved because of the election (Energy)
 - [macro] Elon Musk's millions failed to deliver Republican wins in fierce midterms (BBC News)
 - [macro] Pound rises to its highest level since the Brexit referendum (BBC News)
 - [crypto] How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1 (Cointelegraph.com News)
 - [macro] The economy brought Trump back to power. Now it's his downfall (Economy)
-- [crypto] Crypto's powerhouse super PAC, Fairshake, found its kryptonite (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (Economy)
-- [macro] Ukraine says bodycam video shows deadly Russian double-tap bombing (BBC News)
-- [commodity] Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war (Energy)
