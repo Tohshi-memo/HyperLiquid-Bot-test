@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T03:52:23.908690+00:00`
-- Market context score: `47.6`
+- Generated: `2026-11-04T04:07:28.627181+00:00`
+- Market context score: `46.0`
 - News risk score: `38.47`
 - Macro risk score: `22.43`
-- Risk-on score: `24.52`
+- Risk-on score: `20.97`
 - Articles: `41`
 - Polymarket markets: `403`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T03:45:00+00:00`
+- Day/swing latest: `2026-11-04T04:00:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [crypto] US midterms election 2026 live: Democrat flips South Carolina Senate seat in major upset (Cointelegraph.com News)
 - [commodity] Midterm elections could jolt stocks as Democrats look poised to sweep Congress (Energy)
 - [crypto] ZachXBT identifies French bank as alleged victim of $133M crypto theft (Cointelegraph.com News)
-- [macro] Anthony Zurcher: Democrats surge deep into Republican territory with historic wins (BBC News)
+- [macro] Anthony Zurcher: Democrats push deep into Republican territory with historic wins (BBC News)
 - [macro] Democratic rising star Ossoff projected to hold Georgia seat (BBC News)
 - [macro] No more rice grains in Kellogg's Rice Krispies due to changing weather (BBC News)
 - [crypto] 1inch lawyer sees agencies driving US crypto regulation as midterms unfold (Cointelegraph.com News)
