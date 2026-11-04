@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-04T17:21:31.725704+00:00`
+- Generated: `2026-11-04T17:25:30.396193+00:00`
 - Flow alert score: `18.92`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `37138091.04`
+- Polymarket 24h volume: `37106214.98`
 - Polymarket volume z-score: `0.48`
 
 ## Top Polymarket Markets
 
-- 2026 Balance of Power: D Senate, D House | 24h volume: `4351902.490309` | liquidity: `2037449.45334`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3508256.792266001` | liquidity: `74194.3322`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `2742840.5323170004` | liquidity: `1803103.7611`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1920623.5209830003` | liquidity: `116666.7979`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1512591.1053620002` | liquidity: `73828.96745`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1452718.348418` | liquidity: `42169.07759`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `1224274.032924` | liquidity: `1450431.5749`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `1192791.3254190001` | liquidity: `1731740.9784`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `4392645.171369` | liquidity: `2048904.72811`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3480352.476203001` | liquidity: `90050.8084`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `2735422.9877490005` | liquidity: `1905768.01608`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1953440.3773399994` | liquidity: `87330.83064`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1539799.376599` | liquidity: `83369.03937`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1478835.177647` | liquidity: `42930.39843`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `1220009.3929240003` | liquidity: `1500333.21416`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `1189906.238523` | liquidity: `1731968.48094`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
