@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T21:07:33.249382+00:00`
-- Market context score: `41.95`
-- News risk score: `45.69`
-- Macro risk score: `34.09`
-- Risk-on score: `22.46`
+- Generated: `2026-11-04T21:22:31.973485+00:00`
+- Market context score: `43.72`
+- News risk score: `44.03`
+- Macro risk score: `33.26`
+- Risk-on score: `24.68`
 - Articles: `51`
 - Polymarket markets: `395`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T21:00:00+00:00`
+- Day/swing latest: `2026-11-04T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `0`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.2857`, policy hits `1`
+- crypto: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `0`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `1`
 
 ## Headlines
 
+- [macro] The economy brought Trump back to power. Now it's his downfall (Economy)
 - [crypto] Crypto's powerhouse super PAC, Fairshake, found its kryptonite (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (Economy)
 - [macro] Ukraine says bodycam video shows deadly Russian double-tap bombing (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms (Cointelegraph.com News)
 - [crypto] Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss (Cointelegraph.com News)
 - [commodity] Every stock that's moving as a result of the election (Energy)
-- [crypto] Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income (Cointelegraph.com News)
