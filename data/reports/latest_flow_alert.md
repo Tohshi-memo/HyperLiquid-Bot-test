@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-04T16:25:32.254766+00:00`
+- Generated: `2026-11-04T16:30:53.708441+00:00`
 - Flow alert score: `19.8`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- 2026 Balance of Power: D Senate, D House | 24h volume: `4387892.05766` | liquidity: `1723051.08266`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `4138183.4185279994` | liquidity: `1521244.52671`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3530517.3711789995` | liquidity: `176560.28952`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `2763773.098993` | liquidity: `1469916.09649`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1907125.6286119998` | liquidity: `158984.42514`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1481471.0927550003` | liquidity: `82973.1134`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1417890.8538970002` | liquidity: `65686.15577`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `1237767.120972` | liquidity: `1116053.0389`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `4387892.05766` | liquidity: `2052401.09621`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `4138183.4185279994` | liquidity: `1854244.19371`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3530517.3711789995` | liquidity: `176362.87248`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `2763773.098993` | liquidity: `1802930.12691`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1907125.6286119998` | liquidity: `130961.94585`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1481471.0927550003` | liquidity: `107643.66401`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1417890.8538970002` | liquidity: `56969.77935`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `1237767.120972` | liquidity: `1446852.3959`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
