@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T08:37:26.193285+00:00`
+- Generated: `2026-11-04T08:52:29.699686+00:00`
 - Market context score: `52.4`
-- News risk score: `37.06`
-- Macro risk score: `16.62`
-- Risk-on score: `31.79`
-- Articles: `47`
+- News risk score: `36.9`
+- Macro risk score: `16.8`
+- Risk-on score: `31.73`
+- Articles: `46`
 - Polymarket markets: `400`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T08:30:00+00:00`
+- Day/swing latest: `2026-11-04T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `23`, risk hits `1`, risk headline rate `0.0435`, policy hits `0`
+- macro: articles `22`, risk hits `1`, risk headline rate `0.0455`, policy hits `0`
 
 ## Headlines
 
+- [crypto] US midterm elections 2026 live: Democrats win House, securing control of Congress (Cointelegraph.com News)
 - [macro] Poundland supplier 'will lose millions' if retailer collapses (BBC News)
 - [crypto] Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Democrats win US House to secure control of Congress in midterms (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress (Cointelegraph.com News)
 - [macro] How America voted in maps and charts (BBC News)
 - [macro] Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says (BBC News)
-- [macro] Florida Republicans fend off Democrats as state elects first black governor (BBC News)
