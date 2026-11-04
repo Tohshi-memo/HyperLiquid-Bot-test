@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T19:07:33.896952+00:00`
+- Generated: `2026-11-04T19:22:31.577184+00:00`
 - Market context score: `40.57`
 - News risk score: `48.44`
 - Macro risk score: `32.46`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T19:00:00+00:00`
+- Day/swing latest: `2026-11-04T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Poundland owner in crunch talks as retailer's collapse looms (BBC News)
 - [crypto] Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss (Cointelegraph.com News)
 - [commodity] Every stock that's moving as a result of the election (Energy)
 - [commodity] Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war (Energy)
@@ -35,6 +36,5 @@
 - [macro] US midterm results a 'victory' for Canadians hopeful of tariff relief (BBC News)
 - [macro] Ukraine says bodycam video shows deadly Russian double-tap bombing (BBC News)
 - [macro] Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (Economy)
-- [macro] Poundland owner in crunch talks as retailer's collapse looms (BBC News)
 - [macro] Iran's chief negotiator says Americans voted 'no to war' (BBC News)
 - [macro] 'Most difficult days of my life' for keeper Owono (BBC News)
