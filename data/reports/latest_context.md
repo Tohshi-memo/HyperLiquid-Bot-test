@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T23:22:26.156504+00:00`
-- Market context score: `49.39`
-- News risk score: `37.85`
-- Macro risk score: `31.73`
-- Risk-on score: `31.48`
-- Articles: `47`
+- Generated: `2026-11-04T23:36:18.835012+00:00`
+- Market context score: `49.82`
+- News risk score: `37.61`
+- Macro risk score: `30.97`
+- Risk-on score: `31.96`
+- Articles: `49`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T23:15:00+00:00`
+- Day/swing latest: `2026-11-04T23:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
-- crypto: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `1`
+- commodity: articles `5`, risk hits `6`, risk headline rate `0.6`, policy hits `0`
+- crypto: articles `23`, risk hits `5`, risk headline rate `0.1739`, policy hits `1`
 - macro: articles `21`, risk hits `5`, risk headline rate `0.2381`, policy hits `0`
 
 ## Headlines
 
 - [macro] Pound rises to its highest level since the Brexit referendum (BBC News)
+- [commodity] A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook (Energy)
+- [crypto] Mercado Bitcoin says phased reopening to begin Monday, will cover losses (Cointelegraph.com News)
 - [macro] The economy brought Trump back to power. Now it's his downfall (Economy)
 - [crypto] Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Ukraine says bodycam video shows deadly Russian double-tap bombing (BBC News)
 - [macro] Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (Economy)
 - [crypto] BitMart founder says security team ‘severely understaffed’ after new hack (Cointelegraph.com News)
-- [crypto] Crypto PACs eye 2028 ‘new map’ as Democrats take Congress (Cointelegraph.com News)
-- [commodity] Every stock that moved because of the election (Energy)
