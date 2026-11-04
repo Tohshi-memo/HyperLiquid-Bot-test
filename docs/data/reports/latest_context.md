@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T15:52:30.313847+00:00`
+- Generated: `2026-11-04T16:07:31.109429+00:00`
 - Market context score: `43.37`
 - News risk score: `46.92`
 - Macro risk score: `29.25`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T15:45:00+00:00`
+- Day/swing latest: `2026-11-04T16:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms (BBC News)
+- [macro] Israel's president to begin consultations with parties after election deadlock (BBC News)
 - [macro] Poundland owner in crunch talks as retailer's collapse looms (BBC News)
 - [commodity] Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war (Energy)
 - [crypto] Bitcoin hits $80.5K as US stocks rally on midterm election results (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change (BBC News)
 - [macro] Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (Economy)
 - [macro] Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire (BBC News)
-- [crypto] The election changes Washington. The work on crypto continues (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
