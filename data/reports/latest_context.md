@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T01:22:24.277518+00:00`
-- Market context score: `41.43`
-- News risk score: `43.18`
-- Macro risk score: `23.11`
-- Risk-on score: `15.05`
-- Articles: `51`
+- Generated: `2026-11-04T01:37:26.456437+00:00`
+- Market context score: `41.17`
+- News risk score: `43.12`
+- Macro risk score: `24.0`
+- Risk-on score: `14.75`
+- Articles: `49`
 - Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T01:15:00+00:00`
+- Day/swing latest: `2026-11-04T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 - crypto: articles `24`, risk hits `12`, risk headline rate `0.375`, policy hits `0`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `0`
+- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
-- [crypto] US midterms election 2026 live: Democrat Ossoff retains Georgia Senate seat (Cointelegraph.com News)
+- [crypto] US midterms election 2026 live: Democratic Senate odds climb above 90% (Cointelegraph.com News)
 - [crypto] 1inch lawyer sees agencies driving US crypto regulation as midterms unfold (Cointelegraph.com News)
 - [macro] Canva announces major job cuts after 'our hardest year yet' (BBC News)
 - [macro] Graduates are managing AI - but are they learning much else? (BBC News)
