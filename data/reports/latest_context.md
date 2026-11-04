@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T13:22:28.782283+00:00`
+- Generated: `2026-11-04T13:37:32.188768+00:00`
 - Market context score: `40.59`
 - News risk score: `47.62`
 - Macro risk score: `26.04`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T13:15:00+00:00`
+- Day/swing latest: `2026-11-04T13:30:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
-- [macro] Uproar over missing 'pop' as Rice Krispies changes its recipe (BBC News)
 - [macro] Private companies added 86,000 jobs in October, slightly higher than expected, ADP says (Economy)
+- [macro] Uproar over missing 'pop' as Rice Krispies changes its recipe (BBC News)
 - [crypto] Global asset manager Schroders brings emerging market bond fund to Solana (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Sharp objects found in Halloween sweets in three European nations (BBC News)
-- [crypto] Circle beats earnings and revenue estimates on soaring USDC transaction volume (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iran's chief negotiator says Americans voted 'no to war' (BBC News)
 - [macro] Poundland owner in crunch talks with as retailer's collapse looms (BBC News)
 - [crypto] Here's how analysts are reacting to the new blue Congress (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
