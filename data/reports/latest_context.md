@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T08:07:42.418082+00:00`
+- Generated: `2026-11-04T08:22:25.879499+00:00`
 - Market context score: `48.97`
 - News risk score: `38.84`
 - Macro risk score: `16.44`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T08:00:00+00:00`
+- Day/swing latest: `2026-11-04T08:15:00+00:00`
 
 ## News Categories
 
@@ -31,7 +31,7 @@
 - [macro] Poundland supplier 'will lose millions' if retailer collapses (BBC News)
 - [crypto] Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Democrats win US House to secure control of Congress in midterms (Cointelegraph.com News)
-- [macro] Ecstatic scenes and historic results: Key moments from US midterms (BBC News)
+- [macro] Key moments from a night of midterm election firsts (BBC News)
 - [macro] Delhi air quality worsens ahead of Diwali as firework restrictions enter force (BBC News)
 - [macro] South Carolina elects Democratic senator for first time in almost three decades (BBC News)
 - [crypto] Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress (Cointelegraph.com News)
