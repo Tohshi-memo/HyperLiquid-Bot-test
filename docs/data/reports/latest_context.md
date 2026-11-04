@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T04:07:28.627181+00:00`
-- Market context score: `46.0`
-- News risk score: `38.47`
-- Macro risk score: `22.43`
-- Risk-on score: `20.97`
-- Articles: `41`
-- Polymarket markets: `403`
+- Generated: `2026-11-04T04:22:27.243168+00:00`
+- Market context score: `47.8`
+- News risk score: `37.73`
+- Macro risk score: `17.71`
+- Risk-on score: `22.56`
+- Articles: `37`
+- Polymarket markets: `402`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T04:00:00+00:00`
+- Day/swing latest: `2026-11-04T04:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.375`, policy hits `0`
+- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `0`
 
 ## Headlines
 
-- [crypto] US midterms election 2026 live: Democrat flips South Carolina Senate seat in major upset (Cointelegraph.com News)
+- [crypto] US midterms election 2026 live: Republican strongholds fall as Democrats gain ground (Cointelegraph.com News)
 - [commodity] Midterm elections could jolt stocks as Democrats look poised to sweep Congress (Energy)
 - [crypto] ZachXBT identifies French bank as alleged victim of $133M crypto theft (Cointelegraph.com News)
 - [macro] Anthony Zurcher: Democrats push deep into Republican territory with historic wins (BBC News)
