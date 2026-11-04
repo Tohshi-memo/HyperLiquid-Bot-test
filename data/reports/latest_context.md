@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T18:37:32.738309+00:00`
-- Market context score: `38.48`
-- News risk score: `48.84`
-- Macro risk score: `32.47`
-- Risk-on score: `16.79`
-- Articles: `53`
+- Generated: `2026-11-04T18:52:30.871956+00:00`
+- Market context score: `38.75`
+- News risk score: `48.73`
+- Macro risk score: `31.75`
+- Risk-on score: `17.03`
+- Articles: `54`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T18:30:00+00:00`
+- Day/swing latest: `2026-11-04T18:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `6`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `4`, risk hits `6`, risk headline rate `0.75`, policy hits `0`
 - crypto: articles `26`, risk hits `10`, risk headline rate `0.3846`, policy hits `0`
 - macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Every stock that's moving as a result of the election (Energy)
 - [commodity] Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war (Energy)
 - [crypto] Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income (Cointelegraph.com News)
 - [macro] US midterm results a 'victory' for Canadians hopeful of tariff relief (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Iran's chief negotiator says Americans voted 'no to war' (BBC News)
 - [macro] 'Most difficult days of my life' for keeper Owono (BBC News)
 - [macro] The young politicians with African roots making history in the US midterms (BBC News)
-- [macro] French blood storage impacted by freezer hacks as theories swirl about culprits (BBC News)
