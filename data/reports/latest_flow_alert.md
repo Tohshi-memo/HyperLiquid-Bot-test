@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-04T12:35:27.987353+00:00`
+- Generated: `2026-11-04T12:40:29.661574+00:00`
 - Flow alert score: `22.32`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `52036587.59`
+- Polymarket 24h volume: `52003167.74`
 - Polymarket volume z-score: `1.33`
 
 ## Top Polymarket Markets
 
-- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `12079123.442631` | liquidity: `5160257.97125`
-- 2026 Balance of Power: R Senate, R House | 24h volume: `4435365.146011` | liquidity: `1442779.11195`
-- 2026 Balance of Power: D Senate, D House | 24h volume: `4356911.221661` | liquidity: `1299301.50647`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3568807.991116001` | liquidity: `69977.38609`
-- 2026 Balance of Power: R Senate, D House | 24h volume: `2828380.616612001` | liquidity: `1463663.18217`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1821058.6642439999` | liquidity: `90133.23338`
-- 2026 Balance of Power: D Senate, R House | 24h volume: `1418814.170758` | liquidity: `1130818.4573`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1308481.809603` | liquidity: `72905.72542`
+- Will the Democratic Party control the House after the 2026 Midterm elections? | 24h volume: `12044545.916584002` | liquidity: `5156514.78818`
+- 2026 Balance of Power: R Senate, R House | 24h volume: `4435649.611274` | liquidity: `1442214.84678`
+- 2026 Balance of Power: D Senate, D House | 24h volume: `4355349.608161001` | liquidity: `1262517.28576`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3569743.2162190005` | liquidity: `71957.30762`
+- 2026 Balance of Power: R Senate, D House | 24h volume: `2827722.222926001` | liquidity: `1463713.18217`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1824548.53523` | liquidity: `117494.99967`
+- 2026 Balance of Power: D Senate, R House | 24h volume: `1419045.760758` | liquidity: `1129918.5073`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1303148.5989279998` | liquidity: `71193.59673`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
