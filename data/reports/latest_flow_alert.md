@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-04T23:15:30.576078+00:00`
+- Generated: `2026-11-04T23:20:39.786689+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3367226.026227001` | liquidity: `321494.37416`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `2023483.0259069994` | liquidity: `156437.36762`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1792697.929822` | liquidity: `168110.13863`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1617077.836427` | liquidity: `96551.26329`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `1551331.933783` | liquidity: `1663803.81529`
-- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `953721.302663` | liquidity: `172777.9637`
-- Will John McEntee win the 2028 Republican presidential nomination? | 24h volume: `782710.734` | liquidity: `74488.39762`
-- Will the U.S. invade Iran before 2027? | 24h volume: `777089.8294730003` | liquidity: `396610.7297`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `3367226.026227001` | liquidity: `313524.68258`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `2023483.0259069994` | liquidity: `160256.02159`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1792697.929822` | liquidity: `145286.00669`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1617077.836427` | liquidity: `100060.22678`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `1551331.933783` | liquidity: `1665130.60917`
+- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `953721.302663` | liquidity: `175381.64919`
+- Will John McEntee win the 2028 Republican presidential nomination? | 24h volume: `782710.734` | liquidity: `71814.8376`
+- Will the U.S. invade Iran before 2027? | 24h volume: `777089.8294730003` | liquidity: `398264.5142`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
