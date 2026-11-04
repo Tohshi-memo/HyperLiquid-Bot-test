@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-04T02:22:29.088991+00:00`
+- Generated: `2026-11-04T02:37:29.312731+00:00`
 - Market context score: `44.13`
 - News risk score: `41.44`
 - Macro risk score: `21.6`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-04T02:15:00+00:00`
+- Day/swing latest: `2026-11-04T02:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [crypto] US midterms election 2026 live: Crypto-backed Andy Barr wins Kentucky Senate seat (Cointelegraph.com News)
 - [commodity] Midterm elections could jolt stocks if Democrats sweep Congress (Energy)
 - [macro] No more rice grains in Kellogg's Rice Krispies due to changing weather (BBC News)
-- [crypto] US midterms election 2026 live: Democratic Senate odds climb above 99% (Cointelegraph.com News)
 - [crypto] 1inch lawyer sees agencies driving US crypto regulation as midterms unfold (Cointelegraph.com News)
 - [macro] Canva announces major job cuts after 'our hardest year yet' (BBC News)
 - [macro] Graduates are managing AI - but are they learning much else? (BBC News)
