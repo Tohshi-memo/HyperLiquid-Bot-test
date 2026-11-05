@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T08:07:32.306507+00:00`
-- Market context score: `47.29`
-- News risk score: `33.9`
-- Macro risk score: `22.35`
-- Risk-on score: `19.94`
-- Articles: `37`
+- Generated: `2026-11-05T08:22:27.213551+00:00`
+- Market context score: `48.65`
+- News risk score: `32.58`
+- Macro risk score: `19.7`
+- Risk-on score: `20.84`
+- Articles: `36`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T08:00:00+00:00`
+- Day/swing latest: `2026-11-05T08:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `17`, risk hits `6`, risk headline rate `0.2353`, policy hits `1`
 - macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `2`
 
 ## Headlines
 
+- [macro] Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years (BBC News)
 - [macro] Italian chef fired after refusing to put pineapple on pizza (BBC News)
 - [crypto] Crédit Mutuel Arkéa resumes operations after attack, assesses losses (Cointelegraph.com News)
 - [macro] Poundland owner in crunch talks as retailer's collapse looms (BBC News)
-- [macro] Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto (Cointelegraph.com News)
 - [macro] Democrats won on affordability. Can they deliver it? (BBC News)
