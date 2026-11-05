@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-05T18:05:31.972595+00:00`
+- Generated: `2026-11-05T18:10:31.155722+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14326425.06`
-- Polymarket volume z-score: `-0.9`
+- Polymarket 24h volume: `14946333.21`
+- Polymarket volume z-score: `-0.86`
 
 ## Top Polymarket Markets
 
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `885671.7942439999` | liquidity: `179628.56471`
-- US x Iran ceasefire continues through November 2? | 24h volume: `670460.8` | liquidity: `653024.9192`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `667857.7578570001` | liquidity: `172375.0752`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `601855.859866` | liquidity: `141861.23333`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `502160.453707` | liquidity: `202542.0306`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `440921.567468` | liquidity: `1747063.23934`
-- Will Jon Ossoff win the 2028 Democratic presidential nomination? | 24h volume: `422949.669873` | liquidity: `392200.83807`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `398408.69069399993` | liquidity: `260996.59912`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `906755.7465759999` | liquidity: `174563.63189`
+- US x Iran ceasefire continues through October 31? | 24h volume: `772850.97` | liquidity: `754887.20053`
+- US x Iran ceasefire continues through November 2? | 24h volume: `670459.75` | liquidity: `653374.5192`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `657396.178854` | liquidity: `172537.2418`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `596521.5010429999` | liquidity: `141556.34704`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `492279.5901490001` | liquidity: `201770.57317`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `440420.5481` | liquidity: `1747410.0742`
+- Will Jon Ossoff win the 2028 Democratic presidential nomination? | 24h volume: `422459.6764619999` | liquidity: `387810.05599`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
