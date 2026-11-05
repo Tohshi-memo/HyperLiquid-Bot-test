@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-05T10:05:29.915998+00:00`
+- Generated: `2026-11-05T10:10:28.353582+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `17797980.81`
-- Polymarket volume z-score: `-0.71`
+- Polymarket 24h volume: `17373154.17`
+- Polymarket volume z-score: `-0.73`
 
 ## Top Polymarket Markets
 
-- Will the US confirm that aliens exist before 2027? | 24h volume: `1525598.567039` | liquidity: `1787732.45555`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `883115.4851739999` | liquidity: `153349.1702`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `799413.771597` | liquidity: `513899.05672`
-- US x Iran ceasefire continues through November 2? | 24h volume: `751638.587316` | liquidity: `471594.21257`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `702393.754736` | liquidity: `159434.55507`
-- Will the U.S. invade Iran before 2027? | 24h volume: `654098.3154040001` | liquidity: `299835.1222`
-- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `627345.8602` | liquidity: `183860.44465`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `553797.240357` | liquidity: `247572.1761`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `1525438.7970389996` | liquidity: `1786822.33747`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `875325.1104599998` | liquidity: `154475.20075`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `792848.2664419999` | liquidity: `505651.45913`
+- US x Iran ceasefire continues through November 2? | 24h volume: `751008.755316` | liquidity: `471604.01257`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `692132.928529` | liquidity: `180850.97282`
+- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `627603.8602` | liquidity: `186083.58165`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `547365.479659` | liquidity: `260394.89298`
+- Will the U.S. invade Iran before 2027? | 24h volume: `535464.699664` | liquidity: `313752.3557`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
