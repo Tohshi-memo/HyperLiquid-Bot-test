@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-05T20:10:35.201920+00:00`
+- Generated: `2026-11-05T20:15:34.670129+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `882742.9311349997` | liquidity: `181872.4298`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `882742.9311349997` | liquidity: `162890.11413`
 - US x Iran ceasefire continues through October 31? | 24h volume: `772594.6` | liquidity: `743929.08849`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `726719.73011` | liquidity: `229099.3801`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `539072.1944040001` | liquidity: `141575.80322`
-- US x Iran ceasefire continues through November 2? | 24h volume: `533304.25` | liquidity: `621979.37361`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `452921.8320180001` | liquidity: `337807.91947`
-- Will Jon Ossoff win the 2028 Democratic presidential nomination? | 24h volume: `438679.029581` | liquidity: `412061.60996`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `373659.550354` | liquidity: `391797.28889`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `726719.73011` | liquidity: `240844.6641`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `539072.1944040001` | liquidity: `137073.08798`
+- US x Iran ceasefire continues through November 2? | 24h volume: `533304.25` | liquidity: `619779.37361`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `452921.8320180001` | liquidity: `347073.01773`
+- Will Jon Ossoff win the 2028 Democratic presidential nomination? | 24h volume: `438679.029581` | liquidity: `402608.66296`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `373659.550354` | liquidity: `388389.16859`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
