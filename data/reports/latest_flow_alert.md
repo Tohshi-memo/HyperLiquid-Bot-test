@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-05T11:00:28.530361+00:00`
+- Generated: `2026-11-05T11:05:40.141127+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the US confirm that aliens exist before 2027? | 24h volume: `1475222.123336` | liquidity: `1785872.97288`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `843825.6103259999` | liquidity: `218981.01672`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `756474.069746` | liquidity: `517093.39127`
-- US x Iran ceasefire continues through November 2? | 24h volume: `747972.231982` | liquidity: `471545.24216`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `683292.1284` | liquidity: `163609.96301`
-- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `627603.8602` | liquidity: `184377.56815`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `545639.5521989999` | liquidity: `254000.76886`
-- Will the U.S. invade Iran before 2027? | 24h volume: `538798.9878339999` | liquidity: `319978.2386`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `1475222.123336` | liquidity: `1784817.82768`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `843825.6103259999` | liquidity: `171264.77961`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `756474.069746` | liquidity: `512666.9911`
+- US x Iran ceasefire continues through November 2? | 24h volume: `747972.231982` | liquidity: `472494.74216`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `683292.1284` | liquidity: `159332.0156`
+- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `627603.8602` | liquidity: `187994.62975`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `545639.5521989999` | liquidity: `253083.98108`
+- Will the U.S. invade Iran before 2027? | 24h volume: `538798.9878339999` | liquidity: `317591.0294`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
