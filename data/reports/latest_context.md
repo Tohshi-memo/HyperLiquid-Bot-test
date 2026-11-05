@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T20:07:34.919907+00:00`
-- Market context score: `42.17`
-- News risk score: `46.77`
-- Macro risk score: `29.85`
-- Risk-on score: `22.26`
-- Articles: `58`
+- Generated: `2026-11-05T20:22:31.312182+00:00`
+- Market context score: `41.92`
+- News risk score: `47.02`
+- Macro risk score: `29.91`
+- Risk-on score: `21.95`
+- Articles: `57`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T20:00:00+00:00`
+- Day/swing latest: `2026-11-05T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `33`, risk hits `15`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `32`, risk hits `15`, risk headline rate `0.3438`, policy hits `3`
 - macro: articles `23`, risk hits `7`, risk headline rate `0.2174`, policy hits `6`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] Who could be behind hoax bomb threats to European air travel? (BBC News)
 - [macro] California governor commutes death sentences for all 548 people on death row (BBC News)
+- [macro] Who could be behind hoax bomb threats to European air travel? (BBC News)
 - [macro] Eight killed in series of shootings in western Turkey (BBC News)
 - [commodity] Trump's energy deals are about to face a wave of investigations by Democrats (Energy)
 - [macro] Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials (BBC News)
