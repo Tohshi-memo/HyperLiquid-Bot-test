@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T19:52:37.147190+00:00`
-- Market context score: `41.93`
-- News risk score: `46.86`
-- Macro risk score: `30.51`
-- Risk-on score: `22.06`
-- Articles: `57`
-- Polymarket markets: `392`
+- Generated: `2026-11-05T20:07:34.919907+00:00`
+- Market context score: `42.17`
+- News risk score: `46.77`
+- Macro risk score: `29.85`
+- Risk-on score: `22.26`
+- Articles: `58`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T19:45:00+00:00`
+- Day/swing latest: `2026-11-05T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `33`, risk hits `15`, risk headline rate `0.3333`, policy hits `3`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.2273`, policy hits `6`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.2174`, policy hits `6`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Who could be behind hoax bomb threats to European air travel? (BBC News)
+- [macro] California governor commutes death sentences for all 548 people on death row (BBC News)
 - [macro] Eight killed in series of shootings in western Turkey (BBC News)
 - [commodity] Trump's energy deals are about to face a wave of investigations by Democrats (Energy)
 - [macro] Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Fed, OCC check US banks after Binance hack as experts flag security risks (Cointelegraph.com News)
 - [crypto] Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum (Cointelegraph.com News)
-- [macro] French protests see numbers surge as unions join strikes over high cost of living (BBC News)
-- [macro] Shares in Musk's SpaceX plunge as tech and AI stocks fall (BBC News)
