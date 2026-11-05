@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T05:52:31.132024+00:00`
-- Market context score: `51.68`
-- News risk score: `33.95`
-- Macro risk score: `23.5`
-- Risk-on score: `30.18`
-- Articles: `37`
+- Generated: `2026-11-05T06:07:29.059199+00:00`
+- Market context score: `53.34`
+- News risk score: `31.51`
+- Macro risk score: `22.86`
+- Risk-on score: `31.55`
+- Articles: `36`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T05:45:00+00:00`
+- Day/swing latest: `2026-11-05T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `18`, risk hits `6`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `4`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.1765`, policy hits `1`
+- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `2`
 
 ## Headlines
 
+- [macro] Democrats won on affordability. Can they deliver it? (BBC News)
+- [macro] Why do sausage rolls and veterinary fees vary in price across London? (BBC News)
 - [crypto] Zcash is about to freeze $16 million in its oldest privacy pool (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] The pile of lawsuits against Kalshi just grew by one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Pound rises to its highest level since the Brexit referendum (BBC News)
 - [macro] The economy brought Trump back to power. Now it's his downfall (Economy)
 - [crypto] Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years (BBC News)
-- [macro] Vance walks Trump tightrope with scathing election critique blaming Iran war (BBC News)
