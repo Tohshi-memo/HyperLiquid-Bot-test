@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T14:22:43.238701+00:00`
-- Market context score: `53.29`
-- News risk score: `37.32`
-- Macro risk score: `24.53`
-- Risk-on score: `36.98`
-- Articles: `49`
+- Generated: `2026-11-05T14:37:33.398351+00:00`
+- Market context score: `53.46`
+- News risk score: `37.3`
+- Macro risk score: `24.0`
+- Risk-on score: `37.14`
+- Articles: `50`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T14:15:00+00:00`
+- Day/swing latest: `2026-11-05T14:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `30`, risk hits `9`, risk headline rate `0.2333`, policy hits `2`
-- macro: articles `19`, risk hits `5`, risk headline rate `0.1579`, policy hits `6`
+- macro: articles `20`, risk hits `5`, risk headline rate `0.15`, policy hits `6`
 
 ## Headlines
 
+- [macro] Interest rates hiked to 4% in first increase in over three years (BBC News)
+- [macro] Here's what the Democratic election rout could mean for the U.S. economy (Economy)
+- [macro] Russell Brand guilty of rape and sexual assault (BBC News)
 - [crypto] Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -34,6 +37,3 @@
 - [crypto] Can decentralized phone networks power the AI revolution? (Cointelegraph.com News)
 - [crypto] Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Voters say the economy drove them to the polls — and blame Trump for their troubles (Economy)
-- [macro] Faisal Islam: How high will interest rates go? (BBC News)
-- [macro] Three ways the interest rate rise could affect you (BBC News)
-- [macro] Interest rates hiked to 4% in first increase in over three years (BBC News)
