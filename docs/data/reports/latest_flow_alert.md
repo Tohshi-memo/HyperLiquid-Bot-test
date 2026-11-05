@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-05T05:45:27.263750+00:00`
+- Generated: `2026-11-05T05:50:28.877506+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `21445331.52`
+- Polymarket 24h volume: `21375755.91`
 - Polymarket volume z-score: `-0.48`
 
 ## Top Polymarket Markets
 
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1574806.5397649999` | liquidity: `207481.37621`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `1536477.0980490001` | liquidity: `1781003.09622`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1241043.8178639996` | liquidity: `161943.85787`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1177052.0086039999` | liquidity: `98691.35513`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `1096519.4603110002` | liquidity: `483061.9382`
-- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `845660.0320049998` | liquidity: `260888.78417`
-- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `813796.9302000001` | liquidity: `208607.85385`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `611939.347047` | liquidity: `370547.23994`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `1574806.5397649999` | liquidity: `230355.84987`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `1536477.0980490001` | liquidity: `1778673.24409`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `1241043.8178639996` | liquidity: `163949.07368`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `1177052.0086039999` | liquidity: `109128.59261`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `1096519.4603110002` | liquidity: `489840.62551`
+- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `845660.0320049998` | liquidity: `255323.93845`
+- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `813796.9302000001` | liquidity: `209498.78265`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `611939.347047` | liquidity: `374999.21381`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
