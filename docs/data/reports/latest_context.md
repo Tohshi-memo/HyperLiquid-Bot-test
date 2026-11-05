@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T06:07:29.059199+00:00`
-- Market context score: `53.34`
-- News risk score: `31.51`
-- Macro risk score: `22.86`
-- Risk-on score: `31.55`
-- Articles: `36`
+- Generated: `2026-11-05T06:22:26.932347+00:00`
+- Market context score: `53.65`
+- News risk score: `31.05`
+- Macro risk score: `22.83`
+- Risk-on score: `31.84`
+- Articles: `37`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T06:00:00+00:00`
+- Day/swing latest: `2026-11-05T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `17`, risk hits `5`, risk headline rate `0.1765`, policy hits `1`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.1667`, policy hits `1`
 - macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto (Cointelegraph.com News)
 - [macro] Democrats won on affordability. Can they deliver it? (BBC News)
 - [macro] Why do sausage rolls and veterinary fees vary in price across London? (BBC News)
 - [crypto] Zcash is about to freeze $16 million in its oldest privacy pool (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] ‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep (Cointelegraph.com News)
 - [macro] Pound rises to its highest level since the Brexit referendum (BBC News)
 - [macro] The economy brought Trump back to power. Now it's his downfall (Economy)
-- [crypto] Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
