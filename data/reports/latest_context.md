@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T06:52:26.797991+00:00`
+- Generated: `2026-11-05T07:07:32.032715+00:00`
 - Market context score: `49.09`
 - News risk score: `31.25`
 - Macro risk score: `22.35`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T06:45:00+00:00`
+- Day/swing latest: `2026-11-05T07:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Poundland owner in crunch talks as retailer's collapse looms (BBC News)
 - [macro] Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] The pile of lawsuits against Kalshi just grew by one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] ‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep (Cointelegraph.com News)
