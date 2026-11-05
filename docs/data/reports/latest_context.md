@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T19:05:06.246645+00:00`
-- Market context score: `41.67`
-- News risk score: `46.97`
-- Macro risk score: `31.22`
-- Risk-on score: `21.84`
-- Articles: `56`
+- Generated: `2026-11-05T19:08:26.467323+00:00`
+- Market context score: `41.0`
+- News risk score: `48.06`
+- Macro risk score: `31.16`
+- Risk-on score: `21.25`
+- Articles: `57`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -23,13 +23,14 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `33`, risk hits `15`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `34`, risk hits `16`, risk headline rate `0.3529`, policy hits `3`
 - macro: articles `21`, risk hits `7`, risk headline rate `0.2381`, policy hits `6`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
 - [commodity] Trump's energy deals are about to face a wave of investigations by Democrats (Energy)
+- [crypto] Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack (Cointelegraph.com News)
 - [crypto] U.S. Justice Department assembles force to shield against foreign AI threats (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Manhunt in western Turkey after eight killed in series of shootings (BBC News)
 - [crypto] Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full' (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] French protests see numbers surge as unions join strikes over high cost of living (BBC News)
 - [macro] Shares in Musk's SpaceX plunge as tech and AI stocks fall (BBC News)
 - [macro] Paraguay President Santiago Peña resigns after bank collapse (BBC News)
-- [crypto] Paraguay president resigns after collapse of Ueno digital bank (Cointelegraph.com News)
