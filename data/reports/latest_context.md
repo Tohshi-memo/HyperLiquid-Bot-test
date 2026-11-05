@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T02:37:27.906300+00:00`
+- Generated: `2026-11-05T02:52:28.224262+00:00`
 - Market context score: `50.33`
 - News risk score: `36.23`
 - Macro risk score: `31.17`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T02:30:00+00:00`
+- Day/swing latest: `2026-11-05T02:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [crypto] India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’ (Cointelegraph.com News)
-- [macro] Australia's oldest department store David Jones collapses after 188 years (BBC News)
+- [macro] Australia's oldest department store David Jones folds after 188 years (BBC News)
 - [macro] Interest rates expected to rise for first time in over three years (BBC News)
 - [macro] Interest rates expected to rise for first time in over three years (BBC News)
 - [macro] Pound rises to its highest level since the Brexit referendum (BBC News)
