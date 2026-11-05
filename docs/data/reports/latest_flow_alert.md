@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-05T12:25:35.532582+00:00`
+- Generated: `2026-11-05T12:30:28.904616+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `817539.622422` | liquidity: `172260.97818`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `734528.825223` | liquidity: `487611.7203`
-- US x Iran ceasefire continues through November 2? | 24h volume: `731921.141982` | liquidity: `472294.54215`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `677073.333122` | liquidity: `140107.89184`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `817539.622422` | liquidity: `194500.25099`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `734528.825223` | liquidity: `497260.89945`
+- US x Iran ceasefire continues through November 2? | 24h volume: `731921.141982` | liquidity: `472644.14215`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `677073.333122` | liquidity: `156664.63993`
 - Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `627603.8602` | liquidity: `191978.38008`
-- Will Candace Owens win the 2028 Republican presidential nomination? | 24h volume: `520641.1` | liquidity: `257145.36739`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `487032.6725960001` | liquidity: `217515.45977`
-- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `480473.37170799996` | liquidity: `188437.44517`
+- Will Candace Owens win the 2028 Republican presidential nomination? | 24h volume: `520641.1` | liquidity: `258261.81739`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `487032.6725960001` | liquidity: `211136.28522`
+- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `480473.37170799996` | liquidity: `196342.25149`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
