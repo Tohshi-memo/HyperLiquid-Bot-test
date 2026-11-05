@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T11:37:33.818001+00:00`
-- Market context score: `55.08`
-- News risk score: `32.79`
-- Macro risk score: `23.32`
-- Risk-on score: `36.67`
-- Articles: `38`
+- Generated: `2026-11-05T11:52:31.706210+00:00`
+- Market context score: `57.4`
+- News risk score: `30.11`
+- Macro risk score: `20.31`
+- Risk-on score: `38.43`
+- Articles: `40`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T11:30:00+00:00`
+- Day/swing latest: `2026-11-05T11:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `20`, risk hits `6`, risk headline rate `0.2`, policy hits `1`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
+- crypto: articles `23`, risk hits `6`, risk headline rate `0.1739`, policy hits `1`
+- macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin miners are oversold following 35% October rout, VanEck says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Thailand to block Bitget in December over unlicensed crypto trading (Cointelegraph.com News)
 - [crypto] Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ronaldo retires from Portugal duty (BBC News)
 - [macro] Welsh aviation firm AerFin bought in £475m deal (BBC News)
@@ -34,6 +37,3 @@
 - [crypto] Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Was an Italian chef really fired over refusal to put pineapple on pizza? (BBC News)
 - [crypto] Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks (Cointelegraph.com News)
-- [macro] France gears up for strikes and protests as unions promise national mobilisation (BBC News)
-- [macro] Drunk and dangerous e-bike riders face on-the-spot fines under crackdown (BBC News)
-- [macro] Second buyer makes rescue bid for Poundland as retailer faces collapse (BBC News)
