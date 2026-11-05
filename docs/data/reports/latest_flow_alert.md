@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-05T13:20:31.786608+00:00`
+- Generated: `2026-11-05T13:25:39.345912+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `15126544.18`
+- Polymarket 24h volume: `15175165.62`
 - Polymarket volume z-score: `-0.86`
 
 ## Top Polymarket Markets
 
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `813763.858029` | liquidity: `227034.10686`
-- US x Iran ceasefire continues through November 2? | 24h volume: `732912.18` | liquidity: `481299.81787`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `729154.343812` | liquidity: `523423.45232`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `682470.8949910001` | liquidity: `232704.88943`
-- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `627603.8602` | liquidity: `185709.8067`
-- Will Candace Owens win the 2028 Republican presidential nomination? | 24h volume: `520641.1` | liquidity: `259023.97153`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `495207.880832` | liquidity: `304997.93631`
-- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `468371.942862` | liquidity: `178754.09044`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `805423.6803410001` | liquidity: `223198.9562`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `726503.1847370001` | liquidity: `526492.41582`
+- US x Iran ceasefire continues through November 2? | 24h volume: `708502.11` | liquidity: `480749.21638`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `677013.4123219999` | liquidity: `219907.78157`
+- Will Joe Kent win the 2028 Republican presidential nomination? | 24h volume: `627603.8602` | liquidity: `184490.1311`
+- Will Candace Owens win the 2028 Republican presidential nomination? | 24h volume: `520641.1` | liquidity: `259023.80513`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `491227.6983990001` | liquidity: `308863.92275`
+- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `468419.591894` | liquidity: `182946.7871`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
