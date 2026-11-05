@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-05T00:37:29.457912+00:00`
-- Market context score: `51.27`
-- News risk score: `35.18`
-- Macro risk score: `30.64`
-- Risk-on score: `33.0`
-- Articles: `44`
+- Generated: `2026-11-05T00:52:27.786249+00:00`
+- Market context score: `54.22`
+- News risk score: `33.06`
+- Macro risk score: `29.82`
+- Risk-on score: `37.46`
+- Articles: `45`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-05T00:30:00+00:00`
+- Day/swing latest: `2026-11-05T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `5`, risk hits `6`, risk headline rate `0.6`, policy hits `0`
-- crypto: articles `20`, risk hits `4`, risk headline rate `0.15`, policy hits `1`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `2`
+- crypto: articles `19`, risk hits `3`, risk headline rate `0.1053`, policy hits `1`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `4`
 
 ## Headlines
 
+- [macro] Australia's oldest department store David Jones collapses after 188 years (BBC News)
+- [macro] Interest rates expected to rise for first time in over three years (BBC News)
 - [macro] Interest rates expected to rise for first time in over three years (BBC News)
 - [macro] Pound rises to its highest level since the Brexit referendum (BBC News)
 - [commodity] A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook (Energy)
@@ -36,5 +38,3 @@
 - [crypto] Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ukraine says bodycam video shows deadly Russian double-tap bombing (BBC News)
-- [macro] Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (Economy)
