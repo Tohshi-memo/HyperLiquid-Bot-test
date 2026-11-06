@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T02:22:32.857292+00:00`
-- Market context score: `47.63`
-- News risk score: `41.52`
-- Macro risk score: `22.84`
-- Risk-on score: `27.32`
-- Articles: `44`
+- Generated: `2026-11-06T02:37:27.517130+00:00`
+- Market context score: `46.01`
+- News risk score: `43.64`
+- Macro risk score: `24.14`
+- Risk-on score: `26.0`
+- Articles: `43`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T02:15:00+00:00`
+- Day/swing latest: `2026-11-06T02:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `16`, risk hits `8`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `26`, risk hits `5`, risk headline rate `0.1154`, policy hits `3`
+- crypto: articles `17`, risk hits `9`, risk headline rate `0.4118`, policy hits `2`
+- macro: articles `24`, risk hits `5`, risk headline rate `0.125`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] White House denies Hegseth and Rubio to leave jobs after Republican election losses (BBC News)
 - [macro] Major tech stocks plunge as US midterms add to fears of AI slowdown (BBC News)
 - [macro] Major tech stocks plunge as US midterms add to fears of AI slowdown (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Core Scientific to quit Bitcoin mining by year-end as AI business surges (Cointelegraph.com News)
 - [macro] The engine parts that 'fight the laws of the universe' (BBC News)
 - [macro] Pope begins lengthy trip to Latin America weeks after lung cancer surgery (BBC News)
-- [macro] 'I was asked if I was a crier': Your worst job interviews revealed (BBC News)
