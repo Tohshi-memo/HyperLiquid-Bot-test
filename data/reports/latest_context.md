@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T15:52:35.987353+00:00`
+- Generated: `2026-11-06T16:07:28.107517+00:00`
 - Market context score: `49.45`
 - News risk score: `34.92`
 - Macro risk score: `26.54`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T15:45:00+00:00`
+- Day/swing latest: `2026-11-06T16:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
 - [macro] Could the US midterms put a pin in the AI bubble? (BBC News)
 - [macro] Two dead after bus crashes in France, officials say (BBC News)
 - [crypto] The crypto industry has found new ways to grow. Making money from them is another story (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +37,4 @@
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] Watch: Is it the end of the road for Tesla's Cybertruck? (BBC News)
-- [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
 - [macro] Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason (BBC News)
