@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-06T23:10:34.165112+00:00`
+- Generated: `2026-11-06T23:15:27.281192+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1061465.6512530001` | liquidity: `431129.39287`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `935483.585117` | liquidity: `464103.0669`
-- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `739881.288572` | liquidity: `272599.54748`
-- US x Iran effective ceasefire continues through November 8, 2026? | 24h volume: `530969.892774` | liquidity: `37536.6691`
-- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `493815.0` | liquidity: `353327.90361`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1061465.6512530001` | liquidity: `431040.31327`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `935483.585117` | liquidity: `464284.6255`
+- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `739881.288572` | liquidity: `264266.62925`
+- US x Iran effective ceasefire continues through November 8, 2026? | 24h volume: `530969.892774` | liquidity: `38913.3942`
+- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `493815.0` | liquidity: `354071.68961`
 - US x Iran ceasefire continues through November 2? | 24h volume: `479078.37` | liquidity: `983820.8646`
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `478915.15229000006` | liquidity: `65817.5014`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `478915.15229000006` | liquidity: `72259.44801`
 - Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `457277.092632` | liquidity: `722851.39022`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
