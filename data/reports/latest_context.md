@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T09:22:32.550207+00:00`
-- Market context score: `56.81`
-- News risk score: `34.29`
-- Macro risk score: `26.14`
-- Risk-on score: `42.86`
-- Articles: `35`
+- Generated: `2026-11-06T09:37:25.215093+00:00`
+- Market context score: `56.13`
+- News risk score: `33.67`
+- Macro risk score: `24.94`
+- Risk-on score: `40.36`
+- Articles: `37`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T09:15:00+00:00`
+- Day/swing latest: `2026-11-06T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `3`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [macro] Tanzanian opposition leader found guilty of inciting treason (BBC News)
+- [macro] 'Several victims' after school bus crashes in France, officials say (BBC News)
+- [macro] How does it affect me if share prices fall? (BBC News)
 - [macro] Trump signs order to preserve Oval Office as national monument (BBC News)
 - [crypto] Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool (Cointelegraph.com News)
 - [crypto] Greece approves 10% tax on crypto gains and 15% levy on DeFi income (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [crypto] Bitcoin, Ether ETFs post $530M outflows as election gains evaporate (Cointelegraph.com News)
 - [macro] Somalia's top court rejects president's term extension amid political crisis (BBC News)
 - [crypto] Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials (BBC News)
-- [macro] Firms told to publish salaries in job adverts ahead of new law (BBC News)
-- [macro] Major construction ongoing near Iran missile bases, satellite images suggest (BBC News)
