@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T01:37:32.032802+00:00`
+- Generated: `2026-11-06T01:52:31.940479+00:00`
 - Market context score: `45.65`
 - News risk score: `44.98`
 - Macro risk score: `23.5`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T01:30:00+00:00`
+- Day/swing latest: `2026-11-06T01:45:00+00:00`
 
 ## News Categories
 
@@ -29,10 +29,10 @@
 
 ## Headlines
 
+- [macro] Major tech stocks plunge as US midterms add to fears of AI slowdown (BBC News)
+- [macro] Major tech stocks plunge as US midterms add to fears of AI slowdown (BBC News)
 - [crypto] Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race (BBC News)
-- [macro] Major tech stocks plunge as US midterms add to fears of AI slowdown (BBC News)
-- [macro] Major tech stocks plunge as US midterms add to fears of AI slowdown (BBC News)
 - [crypto] Core Scientific to quit Bitcoin mining by year-end as AI business surges (Cointelegraph.com News)
 - [macro] The engine parts that 'fight the laws of the universe' (BBC News)
 - [macro] Pope begins lengthy trip to Latin America weeks after lung cancer surgery (BBC News)
