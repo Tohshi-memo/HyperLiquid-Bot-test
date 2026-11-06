@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-06T03:05:29.331913+00:00`
+- Generated: `2026-11-06T03:10:31.011890+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14475558.21`
-- Polymarket volume z-score: `-0.85`
+- Polymarket 24h volume: `14316043.79`
+- Polymarket volume z-score: `-0.86`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1099952.08498` | liquidity: `466459.2649`
-- US x Iran ceasefire continues through November 2? | 24h volume: `822607.42` | liquidity: `244705.89424`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `683810.9334140001` | liquidity: `240776.08792`
-- Will Donald Trump publicly insult Ken Paxton by October 31, 2026? | 24h volume: `645121.182787` | liquidity: `501371.36117`
-- US x Iran ceasefire continues through October 31? | 24h volume: `509021.45` | liquidity: `731807.62369`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `482301.0711250001` | liquidity: `375267.96627`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `434970.29455600004` | liquidity: `444305.4926`
-- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `392829.01953099994` | liquidity: `261921.91218`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1097745.7229310002` | liquidity: `458552.745`
+- US x Iran ceasefire continues through November 2? | 24h volume: `822607.42` | liquidity: `246305.79424`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `682594.780947` | liquidity: `240743.49296`
+- Will Donald Trump publicly insult Ken Paxton by October 31, 2026? | 24h volume: `645948.5227869998` | liquidity: `501371.36117`
+- US x Iran ceasefire continues through October 31? | 24h volume: `509021.45` | liquidity: `729857.32369`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `482429.37112500006` | liquidity: `374265.63776`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `436626.404556` | liquidity: `443623.1549`
+- Will the Republicans win the Mississippi Senate race in 2026? | 24h volume: `380117.6065489999` | liquidity: `261631.45451`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
