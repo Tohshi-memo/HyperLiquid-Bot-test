@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T17:22:29.221519+00:00`
-- Market context score: `50.85`
-- News risk score: `33.11`
-- Macro risk score: `25.58`
-- Risk-on score: `28.39`
+- Generated: `2026-11-06T17:37:33.074246+00:00`
+- Market context score: `52.02`
+- News risk score: `31.96`
+- Macro risk score: `23.27`
+- Risk-on score: `29.16`
 - Articles: `49`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T17:15:00+00:00`
+- Day/swing latest: `2026-11-06T17:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `5`, risk headline rate `0.1304`, policy hits `2`
-- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `2`
+- commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `23`, risk hits `4`, risk headline rate `0.1304`, policy hits `2`
+- macro: articles `25`, risk hits `3`, risk headline rate `0.12`, policy hits `2`
 
 ## Headlines
 
+- [macro] Nigerian court rules opposition candidate cannot stand in elections (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] Dozens of Democrats eyeing 2028 presidential run, says former Obama aide (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Two dead after bus crashes in France, officials say (BBC News)
 - [crypto] The crypto industry has found new ways to grow. Making money from them is another story (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] PM tells firms to publish salaries in job adverts ahead of new law (BBC News)
-- [macro] New wave of bomb threats hit European airlines (BBC News)
