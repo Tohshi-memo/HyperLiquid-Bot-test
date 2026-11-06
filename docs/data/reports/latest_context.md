@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T06:52:30.638628+00:00`
-- Market context score: `56.21`
-- News risk score: `37.55`
-- Macro risk score: `18.21`
-- Risk-on score: `41.27`
+- Generated: `2026-11-06T07:02:47.840551+00:00`
+- Market context score: `56.95`
+- News risk score: `35.87`
+- Macro risk score: `20.58`
+- Risk-on score: `42.39`
 - Articles: `33`
 - Polymarket markets: `392`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T06:45:00+00:00`
+- Day/swing latest: `2026-11-06T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `1`
-- macro: articles `19`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `1`
+- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Chainalysis says breach exposed password hashes and live tokens (Cointelegraph.com News)
+- [macro] Macau jails pro-democracy campaigner in city's first national security case (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Did a data centre revolt affect the US mid-term election results? (BBC News)
 - [macro] Global tech stocks plunge as US midterms add to AI slowdown fears (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy (Energy)
 - [crypto] Zcash’s landmark NU7 upgrade goes live, speeding up private payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto exchanges tout cold storage ratios after Binance attack (Cointelegraph.com News)
-- [commodity] Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections (Energy)
-- [macro] Trump signs order preventing future presidents from changing Oval Office (BBC News)
