@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T04:37:27.260453+00:00`
-- Market context score: `50.58`
-- News risk score: `38.79`
-- Macro risk score: `19.43`
-- Risk-on score: `30.27`
-- Articles: `38`
+- Generated: `2026-11-06T04:52:28.523703+00:00`
+- Market context score: `48.25`
+- News risk score: `42.41`
+- Macro risk score: `21.85`
+- Risk-on score: `29.08`
+- Articles: `37`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T04:30:00+00:00`
+- Day/swing latest: `2026-11-06T04:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `16`, risk hits `8`, risk headline rate `0.375`, policy hits `2`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `14`, risk hits `8`, risk headline rate `0.4286`, policy hits `2`
 - macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `2`
 
 ## Headlines
 
+- [commodity] Oil prices could spike as U.S. action on Iran nears: Rapidan Energy (Energy)
 - [macro] Trump signs order preventing future presidents from changing Oval Office (BBC News)
 - [macro] Global tech stocks plunge as US midterms add to AI slowdown fears (BBC News)
 - [macro] Global tech stocks plunge as US midterms add to AI slowdown fears (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race (BBC News)
 - [crypto] Core Scientific to quit Bitcoin mining by year-end as AI business surges (Cointelegraph.com News)
 - [macro] The engine parts that 'fight the laws of the universe' (BBC News)
-- [macro] Pope begins lengthy trip to Latin America weeks after lung cancer surgery (BBC News)
