@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T18:52:29.113625+00:00`
+- Generated: `2026-11-06T19:07:32.806215+00:00`
 - Market context score: `53.44`
 - News risk score: `32.97`
 - Macro risk score: `22.5`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T18:45:00+00:00`
+- Day/swing latest: `2026-11-06T19:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Russia finalizes crypto trading rules ahead of Nov. 17 rollout (Cointelegraph.com News)
 - [macro] Why the US midterms sparked an AI stock selloff (BBC News)
 - [crypto] Strive buys 15,124 Bitcoin in October, closes in on top treasury holders (Cointelegraph.com News)
 - [crypto] Bitcoin price dips under $75K as crypto markets miss tech-stock rebound (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] Dozens of Democrats eyeing 2028 presidential run, says former Obama aide (BBC News)
 - [macro] Four midterms takeaways for 2028 White House race (BBC News)
-- [commodity] Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk (Energy)
