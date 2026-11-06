@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-06T12:15:29.727461+00:00`
+- Generated: `2026-11-06T12:20:30.220869+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1290162.576638` | liquidity: `364834.6588`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `669032.813932` | liquidity: `244759.61935`
-- Will Donald Trump publicly insult Ken Paxton by October 31, 2026? | 24h volume: `668720.969121` | liquidity: `476427.84771`
-- US x Iran ceasefire continues through October 31? | 24h volume: `517698.69` | liquidity: `754776.66575`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `517116.299144` | liquidity: `289822.4121`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `452085.643322` | liquidity: `367524.71745`
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `446749.954632` | liquidity: `810683.34118`
-- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `446497.26263199997` | liquidity: `611870.76504`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1290162.576638` | liquidity: `369835.0503`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `669032.813932` | liquidity: `235170.08143`
+- Will Donald Trump publicly insult Ken Paxton by October 31, 2026? | 24h volume: `668720.969121` | liquidity: `476627.84726`
+- US x Iran ceasefire continues through October 31? | 24h volume: `517698.69` | liquidity: `754277.30575`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `517116.299144` | liquidity: `292932.8402`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `452085.643322` | liquidity: `368003.14254`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `446749.954632` | liquidity: `810371.88913`
+- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `446497.26263199997` | liquidity: `611870.76522`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
