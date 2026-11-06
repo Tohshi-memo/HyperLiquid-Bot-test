@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-06T12:50:30.705838+00:00`
+- Generated: `2026-11-06T12:55:26.905625+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14383719.77`
+- Polymarket 24h volume: `14387089.48`
 - Polymarket volume z-score: `-0.8`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1292184.392371` | liquidity: `362547.1371`
-- Will Donald Trump publicly insult Ken Paxton by October 31, 2026? | 24h volume: `663270.969121` | liquidity: `476627.84726`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `641316.5870019998` | liquidity: `249093.48232`
-- US x Iran ceasefire continues through October 31? | 24h volume: `517698.69` | liquidity: `752706.56575`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `517113.419144` | liquidity: `291344.8391`
-- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `455277.092632` | liquidity: `564103.40542`
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `446749.954632` | liquidity: `804721.74378`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `443296.0924409999` | liquidity: `492513.91704`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1292142.05554` | liquidity: `365372.4148`
+- Will Donald Trump publicly insult Ken Paxton by October 31, 2026? | 24h volume: `662515.0191210001` | liquidity: `476627.84726`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `639859.6570019999` | liquidity: `251885.25862`
+- US x Iran ceasefire continues through October 31? | 24h volume: `517698.69` | liquidity: `752706.78575`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `514744.4067300001` | liquidity: `290383.9643`
+- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `455277.092632` | liquidity: `562949.37792`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `446749.954632` | liquidity: `795962.52222`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `443418.7324410001` | liquidity: `531668.8905`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
