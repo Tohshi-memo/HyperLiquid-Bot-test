@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T13:07:27.035048+00:00`
+- Generated: `2026-11-06T13:22:26.382551+00:00`
 - Market context score: `50.29`
 - News risk score: `34.17`
 - Macro risk score: `25.23`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T13:00:00+00:00`
+- Day/swing latest: `2026-11-06T13:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] PM tells firms to publish salaries in job adverts ahead of new law (BBC News)
 - [macro] Kenyan doomsday cult leader given life sentence for murdering 191 people (BBC News)
 - [macro] Russian extremist group denies sending hoax bomb threats (BBC News)
-- [macro] PM tells firms to publish salaries in job adverts ahead of new law (BBC News)
 - [macro] Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason (BBC News)
 - [crypto] Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Two dead after bus crashes in France, officials say (BBC News)
