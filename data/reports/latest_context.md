@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T05:07:29.402172+00:00`
-- Market context score: `50.23`
-- News risk score: `40.47`
-- Macro risk score: `21.91`
-- Risk-on score: `31.85`
-- Articles: `36`
+- Generated: `2026-11-06T05:22:28.807854+00:00`
+- Market context score: `48.08`
+- News risk score: `42.01`
+- Macro risk score: `23.75`
+- Risk-on score: `29.07`
+- Articles: `38`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T05:00:00+00:00`
+- Day/swing latest: `2026-11-06T05:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `13`, risk hits `7`, risk headline rate `0.3846`, policy hits `2`
-- macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `2`
+- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
+- crypto: articles `15`, risk hits `8`, risk headline rate `0.4`, policy hits `2`
+- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Zcash’s landmark NU7 upgrade goes live, speeding up private payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto exchanges tout cold storage ratios after Binance attack (Cointelegraph.com News)
+- [commodity] Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections (Energy)
 - [commodity] Oil prices could spike as U.S. action on Iran nears: Rapidan Energy (Energy)
 - [macro] Trump signs order preventing future presidents from changing Oval Office (BBC News)
 - [macro] Global tech stocks plunge as US midterms add to AI slowdown fears (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] White House denies Hegseth and Rubio to leave jobs after Republican election losses (BBC News)
 - [crypto] Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race (BBC News)
-- [crypto] Core Scientific to quit Bitcoin mining by year-end as AI business surges (Cointelegraph.com News)
-- [macro] The engine parts that 'fight the laws of the universe' (BBC News)
