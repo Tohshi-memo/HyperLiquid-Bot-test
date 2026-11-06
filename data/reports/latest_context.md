@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T05:22:28.807854+00:00`
+- Generated: `2026-11-06T05:37:25.902738+00:00`
 - Market context score: `48.08`
 - News risk score: `42.01`
 - Macro risk score: `23.75`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T05:15:00+00:00`
+- Day/swing latest: `2026-11-06T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [commodity] Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy (Energy)
 - [crypto] Zcash’s landmark NU7 upgrade goes live, speeding up private payments (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Crypto exchanges tout cold storage ratios after Binance attack (Cointelegraph.com News)
 - [commodity] Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections (Energy)
-- [commodity] Oil prices could spike as U.S. action on Iran nears: Rapidan Energy (Energy)
 - [macro] Trump signs order preventing future presidents from changing Oval Office (BBC News)
 - [macro] Global tech stocks plunge as US midterms add to AI slowdown fears (BBC News)
 - [macro] Global tech stocks plunge as US midterms add to AI slowdown fears (BBC News)
