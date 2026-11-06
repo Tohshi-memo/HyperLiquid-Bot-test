@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T14:37:28.463228+00:00`
-- Market context score: `48.5`
-- News risk score: `35.33`
-- Macro risk score: `28.56`
-- Risk-on score: `26.17`
-- Articles: `44`
+- Generated: `2026-11-06T14:52:34.271095+00:00`
+- Market context score: `48.64`
+- News risk score: `35.23`
+- Macro risk score: `28.51`
+- Risk-on score: `26.39`
+- Articles: `45`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T14:30:00+00:00`
+- Day/swing latest: `2026-11-06T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `23`, risk hits `6`, risk headline rate `0.1739`, policy hits `2`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.1667`, policy hits `2`
 - macro: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `2`
 
 ## Headlines
 
+- [macro] Kenyan doomsday cult leader given life sentence for murdering 191 people (BBC News)
+- [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
 - [crypto] Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Two dead after bus crashes in France, officials say (BBC News)
-- [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
+- [crypto] What Democrats’ US midterm sweep means for the CLARITY Act (Cointelegraph.com News)
 - [crypto] Nigeria sets new crypto licensing rules, bans algorithmic stablecoins (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] U.S. added 165,000 jobs in October, blowing past 65,000 estimate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Global stocks plunge as fears over US AI slowdown spread to Asia and Europe (BBC News)
 - [crypto] Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved (Cointelegraph.com News)
-- [macro] PM tells firms to publish salaries in job adverts ahead of new law (BBC News)
-- [macro] Kenyan doomsday cult leader given life sentence for murdering 191 people (BBC News)
