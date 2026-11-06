@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-06T01:55:30.909893+00:00`
+- Generated: `2026-11-06T02:00:34.901240+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1082402.236675` | liquidity: `465926.101`
-- US x Iran ceasefire continues through November 2? | 24h volume: `822609.72` | liquidity: `246556.29427`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `707880.8947799999` | liquidity: `242272.72056`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1082402.236675` | liquidity: `483154.1613`
+- US x Iran ceasefire continues through November 2? | 24h volume: `822609.72` | liquidity: `247505.79421`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `707880.8947799999` | liquidity: `242514.58511`
 - Will Donald Trump publicly insult Ken Paxton by October 31, 2026? | 24h volume: `644327.032787` | liquidity: `503272.25083`
 - US x Iran ceasefire continues through October 31? | 24h volume: `514699.42` | liquidity: `732812.64766`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `481655.38285000005` | liquidity: `369554.87294`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `434374.300028` | liquidity: `407159.7336`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `391799.625989` | liquidity: `185730.45118`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `481655.38285000005` | liquidity: `372487.45434`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `434374.300028` | liquidity: `408851.6355`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `391799.625989` | liquidity: `183215.09905`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
