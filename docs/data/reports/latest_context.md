@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T15:07:29.849547+00:00`
+- Generated: `2026-11-06T15:22:29.019534+00:00`
 - Market context score: `48.64`
 - News risk score: `35.23`
 - Macro risk score: `28.51`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T15:00:00+00:00`
+- Day/swing latest: `2026-11-06T15:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Two dead after bus crashes in France, officials say (BBC News)
+- [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
 - [macro] Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason (BBC News)
 - [macro] Kenyan doomsday cult leader given life sentence for murdering 191 people (BBC News)
 - [crypto] Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Two dead after bus crashes in France, officials say (BBC News)
 - [crypto] What Democrats’ US midterm sweep means for the CLARITY Act (Cointelegraph.com News)
 - [crypto] Nigeria sets new crypto licensing rules, bans algorithmic stablecoins (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] U.S. added 165,000 jobs in October, blowing past 65,000 estimate (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Global stocks plunge as fears over US AI slowdown spread to Asia and Europe (BBC News)
