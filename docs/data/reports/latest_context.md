@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T16:22:30.850001+00:00`
-- Market context score: `49.45`
-- News risk score: `34.92`
-- Macro risk score: `26.54`
-- Risk-on score: `27.19`
-- Articles: `49`
+- Generated: `2026-11-06T16:37:28.492169+00:00`
+- Market context score: `49.63`
+- News risk score: `34.9`
+- Macro risk score: `26.0`
+- Risk-on score: `27.35`
+- Articles: `50`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T16:15:00+00:00`
+- Day/swing latest: `2026-11-06T16:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `25`, risk hits `6`, risk headline rate `0.16`, policy hits `2`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `2`
+- macro: articles `23`, risk hits `3`, risk headline rate `0.1304`, policy hits `2`
 
 ## Headlines
 
+- [macro] AI stocks climb after trillions wiped from market values (BBC News)
+- [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] Could the US midterms burst the AI bubble? (BBC News)
 - [commodity] Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk (Energy)
 - [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
@@ -35,6 +37,4 @@
 - [crypto] The crypto industry has found new ways to grow. Making money from them is another story (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] PM tells firms to publish salaries in job adverts ahead of new law (BBC News)
 - [macro] New wave of bomb threats hit European airlines (BBC News)
-- [macro] AI stocks climb after trillions wiped from market values (BBC News)
-- [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] Watch: Is it the end of the road for Tesla's Cybertruck? (BBC News)
