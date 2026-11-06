@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T18:22:27.341912+00:00`
-- Market context score: `52.96`
-- News risk score: `32.2`
-- Macro risk score: `24.1`
-- Risk-on score: `31.77`
-- Articles: `50`
+- Generated: `2026-11-06T18:37:26.665686+00:00`
+- Market context score: `52.3`
+- News risk score: `34.24`
+- Macro risk score: `24.54`
+- Risk-on score: `32.18`
+- Articles: `51`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T18:15:00+00:00`
+- Day/swing latest: `2026-11-06T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `25`, risk hits `4`, risk headline rate `0.12`, policy hits `2`
+- crypto: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `3`
 - macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
 
 ## Headlines
 
+- [macro] Why the US midterms sparked an AI stock selloff (BBC News)
+- [crypto] Strive buys 15,124 Bitcoin in October, closes in on top treasury holders (Cointelegraph.com News)
 - [crypto] Bitcoin price dips under $75K as crypto markets miss tech-stock rebound (Cointelegraph.com News)
 - [crypto] U.S. prediction markets regulator issues demand that clashes directly with courts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nigerian court rules opposition candidate cannot stand in elections (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] Dozens of Democrats eyeing 2028 presidential run, says former Obama aide (BBC News)
-- [macro] Could the US midterms burst the AI bubble? (BBC News)
 - [macro] Four midterms takeaways for 2028 White House race (BBC News)
 - [commodity] Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk (Energy)
-- [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
