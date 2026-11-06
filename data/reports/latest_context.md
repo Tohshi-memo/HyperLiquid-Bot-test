@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T12:37:27.444183+00:00`
+- Generated: `2026-11-06T12:52:30.989181+00:00`
 - Market context score: `51.1`
 - News risk score: `34.01`
 - Macro risk score: `26.51`
 - Risk-on score: `30.08`
 - Articles: `40`
-- Polymarket markets: `391`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T12:30:00+00:00`
+- Day/swing latest: `2026-11-06T12:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] PM tells firms to publish salaries in job adverts ahead of new law (BBC News)
+- [macro] Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason (BBC News)
 - [crypto] Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Two dead after bus crashes in France, officials say (BBC News)
 - [macro] Kenyan doomsday cult leader given life sentence for murdering 191 people (BBC News)
 - [crypto] Solana’s Shanghai event halted over unauthorized promotion: Report (Cointelegraph.com News)
 - [crypto] Live updates: Nasdaq 100 futures rally points to stock market respite (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason (BBC News)
 - [crypto] Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates (Cointelegraph.com News)
 - [macro] Global stocks plunge as fears over US AI slowdown spread to Asia and Europe (BBC News)
-- [crypto] Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash (Cointelegraph.com News)
