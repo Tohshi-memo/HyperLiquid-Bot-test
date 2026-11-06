@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T19:52:28.138345+00:00`
-- Market context score: `53.44`
-- News risk score: `32.97`
-- Macro risk score: `22.5`
-- Risk-on score: `32.88`
-- Articles: `50`
+- Generated: `2026-11-06T20:07:29.348997+00:00`
+- Market context score: `52.43`
+- News risk score: `33.04`
+- Macro risk score: `22.56`
+- Risk-on score: `30.7`
+- Articles: `49`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T19:45:00+00:00`
+- Day/swing latest: `2026-11-06T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `5`, risk headline rate `0.1538`, policy hits `3`
+- crypto: articles `25`, risk hits `5`, risk headline rate `0.16`, policy hits `3`
 - macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `3`
 
 ## Headlines
 
+- [commodity] Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections (Energy)
 - [macro] A disturbing employment trend is hiding beneath the latest strong job numbers (Economy)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin price dips under $75K as crypto markets miss tech-stock rebound (Cointelegraph.com News)
 - [crypto] U.S. prediction markets regulator issues demand that clashes directly with courts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nigerian court rules opposition candidate cannot stand in elections (BBC News)
-- [macro] Dozens of Democrats eyeing 2028 presidential run, says former Obama aide (BBC News)
