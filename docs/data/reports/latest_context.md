@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T10:52:28.223149+00:00`
+- Generated: `2026-11-06T11:07:40.686841+00:00`
 - Market context score: `55.11`
 - News risk score: `33.4`
 - Macro risk score: `24.41`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T10:45:00+00:00`
+- Day/swing latest: `2026-11-06T11:00:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
-- [macro] Tanzanian opposition leader found guilty of incitement (BBC News)
+- [macro] Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason (BBC News)
+- [macro] Two dead after bus crashes in France, officials say (BBC News)
 - [crypto] GOPAX halts crypto trading, withdrawals to move all assets to cold storage (Cointelegraph.com News)
 - [crypto] Binance’s $6.3B hack leaves questions over hot wallet safeguards (Cointelegraph.com News)
-- [macro] Two dead after bus crashes in France, officials say (BBC News)
 - [commodity] Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk (Energy)
 - [macro] Elon Musk appears to signal the end of the road for Cybertruck (BBC News)
 - [macro] Elon Musk appears to signal the end of the road for Cybertruck (BBC News)
