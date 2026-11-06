@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-06T17:52:27.597824+00:00`
-- Market context score: `53.1`
-- News risk score: `32.29`
-- Macro risk score: `23.34`
-- Risk-on score: `31.86`
-- Articles: `51`
-- Polymarket markets: `392`
+- Generated: `2026-11-06T18:07:30.444336+00:00`
+- Market context score: `52.96`
+- News risk score: `32.2`
+- Macro risk score: `24.1`
+- Risk-on score: `31.77`
+- Articles: `50`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-06T17:45:00+00:00`
+- Day/swing latest: `2026-11-06T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `24`, risk hits `4`, risk headline rate `0.125`, policy hits `2`
-- macro: articles `26`, risk hits `3`, risk headline rate `0.1154`, policy hits `3`
+- crypto: articles `25`, risk hits `4`, risk headline rate `0.12`, policy hits `2`
+- macro: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Bitcoin price dips under $75K as crypto markets miss tech-stock rebound (Cointelegraph.com News)
 - [crypto] U.S. prediction markets regulator issues demand that clashes directly with courts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Nigerian court rules opposition candidate cannot stand in elections (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Four midterms takeaways for 2028 White House race (BBC News)
 - [commodity] Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk (Energy)
 - [macro] U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% (Economy)
-- [macro] Two dead after bus crashes in France, officials say (BBC News)
