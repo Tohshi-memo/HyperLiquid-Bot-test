@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-06T21:30:36.458672+00:00`
+- Generated: `2026-11-06T21:35:27.192929+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1063133.231253` | liquidity: `417813.82677`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `984616.942766` | liquidity: `325316.718`
-- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `734284.42` | liquidity: `286601.26826`
-- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `493715.0` | liquidity: `360026.2376`
-- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `457277.092632` | liquidity: `718703.38499`
-- US x Iran ceasefire continues through November 2? | 24h volume: `423509.33` | liquidity: `1039329.3406`
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `400047.56470899994` | liquidity: `41828.56032`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `319422.614067` | liquidity: `410039.1316`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1063133.231253` | liquidity: `372714.10155`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `984616.942766` | liquidity: `373370.8356`
+- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `734284.42` | liquidity: `268195.34463`
+- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `493715.0` | liquidity: `327571.3946`
+- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `457277.092632` | liquidity: `715853.78499`
+- US x Iran ceasefire continues through November 2? | 24h volume: `423509.33` | liquidity: `1036329.34056`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `400047.56470899994` | liquidity: `35180.26775`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `319422.614067` | liquidity: `412429.2475`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
