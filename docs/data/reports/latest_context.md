@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T12:52:25.863350+00:00`
-- Market context score: `44.32`
-- News risk score: `38.0`
-- Macro risk score: `22.0`
-- Risk-on score: `16.67`
-- Articles: `9`
+- Generated: `2026-11-07T13:07:28.015447+00:00`
+- Market context score: `45.05`
+- News risk score: `37.29`
+- Macro risk score: `20.57`
+- Risk-on score: `17.14`
+- Articles: `10`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T12:45:00+00:00`
+- Day/swing latest: `2026-11-07T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [macro] Ukraine's power network suffers further damage after fresh Russian strikes (BBC News)
 - [macro] Four things we learned this week about 2028 White House race (BBC News)
 - [crypto] US sanctions Canadian money-exchange firms over Iran ties (Cointelegraph.com News)
 - [crypto] Suspicious prediction market activity seen before election poll release: NYT (Cointelegraph.com News)
