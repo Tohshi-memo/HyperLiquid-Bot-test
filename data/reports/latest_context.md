@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T16:37:27.941400+00:00`
-- Market context score: `48.4`
-- News risk score: `31.5`
+- Generated: `2026-11-07T16:52:26.798726+00:00`
+- Market context score: `49.13`
+- News risk score: `30.43`
 - Macro risk score: `24.0`
-- Risk-on score: `21.0`
-- Articles: `16`
+- Risk-on score: `21.71`
+- Articles: `17`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T16:30:00+00:00`
+- Day/swing latest: `2026-11-07T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 - macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] No clear winner after tight New Zealand general election (BBC News)
 - [commodity] What midterm election blue wave rebuke of Trump means for renewable energy (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Russian strikes wound nine and damage Ukraine's power network ahead of talks (BBC News)
 - [macro] Four things we learned this week about 2028 White House race (BBC News)
 - [crypto] US sanctions Canadian money-exchange firms over Iran ties (Cointelegraph.com News)
-- [crypto] Suspicious prediction market activity seen before election poll release: NYT (Cointelegraph.com News)
