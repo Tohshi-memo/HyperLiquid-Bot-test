@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T22:07:25.875029+00:00`
+- Generated: `2026-11-07T22:22:27.313416+00:00`
 - Market context score: `37.6`
 - News risk score: `44.15`
 - Macro risk score: `38.32`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T22:00:00+00:00`
+- Day/swing latest: `2026-11-07T22:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
 - [macro] What we know so far after Krakow gun attack (BBC News)
 - [macro] Paraguay's former president charged after bank collapse (BBC News)
 - [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Houthis say at least 25 killed in Saudi air strike (BBC News)
 - [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Italian foreign minister says hackers leaked his personal data (BBC News)
-- [macro] No clear winner after tight New Zealand general election (BBC News)
