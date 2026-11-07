@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T18:16:38.760177+00:00`
-- Market context score: `44.96`
-- News risk score: `36.36`
-- Macro risk score: `25.99`
-- Risk-on score: `18.21`
-- Articles: `22`
+- Generated: `2026-11-07T18:22:28.231790+00:00`
+- Market context score: `43.38`
+- News risk score: `37.9`
+- Macro risk score: `29.09`
+- Risk-on score: `17.17`
+- Articles: `23`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -24,10 +24,11 @@
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `0`
 
 ## Headlines
 
+- [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
 - [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
 - [macro] What we know about Krakow mass shooting so far (BBC News)
 - [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] No clear winner after tight New Zealand general election (BBC News)
 - [macro] UK cannot 'cherry pick' EU single market deal, Barnier tells BBC (BBC News)
 - [commodity] What midterm election blue wave rebuke of Trump means for renewable energy (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
