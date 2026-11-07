@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T22:37:32.508290+00:00`
-- Market context score: `37.6`
-- News risk score: `44.15`
-- Macro risk score: `38.32`
-- Risk-on score: `13.1`
-- Articles: `19`
+- Generated: `2026-11-07T22:52:26.030242+00:00`
+- Market context score: `38.61`
+- News risk score: `43.15`
+- Macro risk score: `36.33`
+- Risk-on score: `13.74`
+- Articles: `20`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T22:30:00+00:00`
+- Day/swing latest: `2026-11-07T22:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `1`
-- macro: articles `10`, risk hits `4`, risk headline rate `0.4`, policy hits `0`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
 - [macro] What we know so far after Krakow gun attack (BBC News)
+- [macro] Israel's president tasks opposition leader Eisenkot with forming government (BBC News)
 - [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
 - [macro] Paraguay's former president charged after bank collapse (BBC News)
 - [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Houthis say at least 25 killed in Saudi air strike (BBC News)
 - [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Italian foreign minister says hackers leaked his personal data (BBC News)
