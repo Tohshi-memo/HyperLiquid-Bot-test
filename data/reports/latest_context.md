@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T19:52:26.047095+00:00`
+- Generated: `2026-11-07T20:07:24.824233+00:00`
 - Market context score: `42.08`
 - News risk score: `39.2`
 - Macro risk score: `31.65`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T19:45:00+00:00`
+- Day/swing latest: `2026-11-07T20:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] What we know about Krakow mass shooting so far (BBC News)
+- [macro] What we know so far after Polish gunman in military clothing opens fire in Krakow (BBC News)
 - [macro] Paraguay's former president charged after bank collapse (BBC News)
 - [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
