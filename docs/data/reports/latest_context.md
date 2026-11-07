@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T19:37:31.048636+00:00`
-- Market context score: `42.95`
-- News risk score: `37.91`
-- Macro risk score: `31.6`
-- Risk-on score: `17.18`
-- Articles: `22`
+- Generated: `2026-11-07T19:52:26.047095+00:00`
+- Market context score: `42.08`
+- News risk score: `39.2`
+- Macro risk score: `31.65`
+- Risk-on score: `16.35`
+- Articles: `21`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T19:30:00+00:00`
+- Day/swing latest: `2026-11-07T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 - macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [macro] What we know about Krakow mass shooting so far (BBC News)
 - [macro] Paraguay's former president charged after bank collapse (BBC News)
 - [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What we know about Krakow mass shooting so far (BBC News)
 - [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
 - [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
 - [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
