@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T17:22:28.665539+00:00`
-- Market context score: `47.6`
-- News risk score: `31.93`
-- Macro risk score: `27.0`
-- Risk-on score: `20.71`
-- Articles: `19`
+- Generated: `2026-11-07T17:37:23.735662+00:00`
+- Market context score: `43.82`
+- News risk score: `37.5`
+- Macro risk score: `28.25`
+- Risk-on score: `17.5`
+- Articles: `20`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T17:15:00+00:00`
+- Day/swing latest: `2026-11-07T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
 - macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Italian foreign minister says hackers leaked his personal data (BBC News)
 - [macro] No clear winner after tight New Zealand general election (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Ex-FBI counterintelligence agent stole almost $2.5M in crypto (Cointelegraph.com News)
 - [crypto] Bitcoin holders have received eCash — What can you do with it? (Cointelegraph.com News)
 - [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
-- [macro] Russian strikes wound nine and damage Ukraine's power network ahead of talks (BBC News)
