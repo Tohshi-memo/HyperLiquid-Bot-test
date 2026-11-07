@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T14:52:25.034483+00:00`
-- Market context score: `45.78`
-- News risk score: `34.07`
-- Macro risk score: `29.14`
-- Risk-on score: `19.29`
-- Articles: `13`
+- Generated: `2026-11-07T15:07:30.614525+00:00`
+- Market context score: `46.87`
+- News risk score: `33.0`
+- Macro risk score: `27.0`
+- Risk-on score: `20.0`
+- Articles: `14`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T14:45:00+00:00`
+- Day/swing latest: `2026-11-07T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] No clear winner after tight New Zealand general election (BBC News)
 - [commodity] What midterm election blue wave rebuke of Trump means for renewable energy (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ex-FBI counterintelligence agent stole almost $2.5M in crypto (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Four things we learned this week about 2028 White House race (BBC News)
 - [crypto] US sanctions Canadian money-exchange firms over Iran ties (Cointelegraph.com News)
 - [crypto] Suspicious prediction market activity seen before election poll release: NYT (Cointelegraph.com News)
-- [crypto] Nvidia may face a more hostile post-election Washington: Report (Cointelegraph.com News)
