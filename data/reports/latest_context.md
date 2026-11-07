@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T07:07:24.696479+00:00`
-- Market context score: `46.54`
-- News risk score: `36.1`
-- Macro risk score: `17.93`
-- Risk-on score: `18.46`
+- Generated: `2026-11-07T07:22:25.117308+00:00`
+- Market context score: `44.19`
+- News risk score: `38.4`
+- Macro risk score: `22.55`
+- Risk-on score: `16.92`
 - Articles: `19`
 - Polymarket markets: `388`
 
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T07:00:00+00:00`
+- Day/swing latest: `2026-11-07T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `6`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `11`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `0`
 
 ## Headlines
 
+- [macro] Paraguay's President Santiago Peña impeached and arrested after bank collapse (BBC News)
 - [macro] Pope in 'pretty good health' as he starts Latin America tour (BBC News)
 - [commodity] The race is on to build the first fusion power plant — and Europe is looking to Japan for help (Energy)
-- [macro] Paraguay's President Santiago Peña impeached and arrested (BBC News)
 - [macro] This man refused life-saving treatment because of his religion - days later the rules changed (BBC News)
 - [macro] The young Somali woman changing how the world sees Mogadishu (BBC News)
 - [macro] Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations (BBC News)
