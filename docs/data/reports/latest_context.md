@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T20:07:24.824233+00:00`
-- Market context score: `42.08`
-- News risk score: `39.2`
-- Macro risk score: `31.65`
-- Risk-on score: `16.35`
-- Articles: `21`
-- Polymarket markets: `387`
+- Generated: `2026-11-07T20:22:22.518508+00:00`
+- Market context score: `41.27`
+- News risk score: `40.0`
+- Macro risk score: `33.25`
+- Risk-on score: `15.83`
+- Articles: `20`
+- Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T20:00:00+00:00`
+- Day/swing latest: `2026-11-07T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
-- [macro] What we know so far after Polish gunman in military clothing opens fire in Krakow (BBC News)
+- [macro] What we know so far after Polish gunman opens fire in Krakow main square (BBC News)
 - [macro] Paraguay's former president charged after bank collapse (BBC News)
 - [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
