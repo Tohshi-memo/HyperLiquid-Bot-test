@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T13:07:28.015447+00:00`
-- Market context score: `45.05`
-- News risk score: `37.29`
-- Macro risk score: `20.57`
-- Risk-on score: `17.14`
+- Generated: `2026-11-07T13:22:27.480836+00:00`
+- Market context score: `40.68`
+- News risk score: `41.57`
+- Macro risk score: `29.14`
+- Risk-on score: `14.29`
 - Articles: `10`
-- Polymarket markets: `389`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T13:00:00+00:00`
+- Day/swing latest: `2026-11-07T13:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
 - [macro] Ukraine's power network suffers further damage after fresh Russian strikes (BBC News)
 - [macro] Four things we learned this week about 2028 White House race (BBC News)
 - [crypto] US sanctions Canadian money-exchange firms over Iran ties (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Pope in 'pretty good health' as he starts Latin America tour (BBC News)
 - [commodity] The race is on to build the first fusion power plant — and Europe is looking to Japan for help (Energy)
 - [macro] This man refused life-saving treatment because of his religion - days later the rules changed (BBC News)
-- [macro] The young Somali woman changing how the world sees Mogadishu (BBC News)
