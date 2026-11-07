@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-07T21:45:24.829047+00:00`
+- Generated: `2026-11-07T21:50:25.876451+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `655179.5404759999` | liquidity: `150627.25027`
-- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `377495.400131` | liquidity: `430157.20596`
-- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `370607.954297` | liquidity: `45181.21706`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `323727.301561` | liquidity: `360416.10679`
-- Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? | 24h volume: `292614.359711` | liquidity: `43793.69817`
-- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `271692.239606` | liquidity: `351780.33387`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `221591.38909000004` | liquidity: `327091.1317`
-- Israel x Iran ceasefire continues through December 31? | 24h volume: `217052.381966` | liquidity: `106769.9251`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `655179.5404759999` | liquidity: `151140.88942`
+- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `377495.400131` | liquidity: `430507.00596`
+- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `370607.954297` | liquidity: `45581.64706`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `323727.301561` | liquidity: `358855.70887`
+- Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? | 24h volume: `292614.359711` | liquidity: `42228.44237`
+- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `271692.239606` | liquidity: `353621.18852`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `221591.38909000004` | liquidity: `322335.29307`
+- Israel x Iran ceasefire continues through December 31? | 24h volume: `217052.381966` | liquidity: `111112.2949`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
