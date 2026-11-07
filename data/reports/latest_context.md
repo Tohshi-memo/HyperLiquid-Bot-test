@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T13:22:27.480836+00:00`
-- Market context score: `40.68`
-- News risk score: `41.57`
-- Macro risk score: `29.14`
-- Risk-on score: `14.29`
-- Articles: `10`
+- Generated: `2026-11-07T13:31:35.067868+00:00`
+- Market context score: `39.22`
+- News risk score: `43.0`
+- Macro risk score: `32.0`
+- Risk-on score: `13.33`
+- Articles: `9`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T13:15:00+00:00`
+- Day/swing latest: `2026-11-07T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
@@ -37,4 +37,3 @@
 - [macro] Paraguay's president impeached and under house arrest after bank collapse (BBC News)
 - [macro] Pope in 'pretty good health' as he starts Latin America tour (BBC News)
 - [commodity] The race is on to build the first fusion power plant — and Europe is looking to Japan for help (Energy)
-- [macro] This man refused life-saving treatment because of his religion - days later the rules changed (BBC News)
