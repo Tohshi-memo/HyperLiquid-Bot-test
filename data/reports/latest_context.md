@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T17:52:26.848326+00:00`
+- Generated: `2026-11-07T18:07:30.934347+00:00`
 - Market context score: `43.82`
 - News risk score: `37.5`
 - Macro risk score: `28.25`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T17:45:00+00:00`
+- Day/swing latest: `2026-11-07T18:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
 - [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Italian foreign minister says hackers leaked his personal data (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ex-FBI counterintelligence agent stole almost $2.5M in crypto (Cointelegraph.com News)
 - [crypto] Bitcoin holders have received eCash — What can you do with it? (Cointelegraph.com News)
-- [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
