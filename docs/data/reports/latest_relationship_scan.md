@@ -2,7 +2,7 @@
 
 Mechanical scan for conditional relationships. This is not a trading signal; it is a candidate generator for private AI review and out-of-sample strategy work.
 
-- Generated: `2026-11-07T06:34:33.704417+00:00`
+- Generated: `2026-11-07T06:37:30.243381+00:00`
 - Price records: `672`
 - Market context records: `8640`
 - Flow alert records: `8640`
@@ -30,7 +30,7 @@ Mechanical scan for conditional relationships. This is not a trading signal; it 
 - `news_risk_high->index_24h` score `0.3465` n `62` status `ready` deltaP `9.7558` edge `0.1462` maxDD `-6.6786`
 - `news_risk_high->fx_24h` score `0.2142` n `62` status `ready` deltaP `-0.8345` edge `0.0676` maxDD `-0.2016`
 - `news_risk_high->index_1h` score `0.1104` n `62` status `ready` deltaP `8.3977` edge `0.0035` maxDD `-0.2931`
-- `news_risk_high->equity_1h` score `-0.0892` n `62` status `ready` deltaP `-0.5988` edge `0.0475` maxDD `-1.396`
+- `news_risk_high->equity_1h` score `-0.0885` n `62` status `ready` deltaP `-0.5988` edge `0.0476` maxDD `-1.396`
 - `news_risk_high->fx_1h` score `-0.1565` n `62` status `ready` deltaP `2.4097` edge `0.0024` maxDD `-0.0826`
 - `news_risk_high->fx_4h` score `-0.2785` n `62` status `ready` deltaP `0.7474` edge `0.0039` maxDD `-0.2336`
 - `news_risk_high->metal_1h` score `-0.5556` n `62` status `ready` deltaP `-4.2737` edge `-0.007` maxDD `-0.5256`
