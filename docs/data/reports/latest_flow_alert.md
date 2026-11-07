@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-07T11:25:32.856101+00:00`
+- Generated: `2026-11-07T11:30:28.959087+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1013885.174442` | liquidity: `445146.59549`
-- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `765873.048572` | liquidity: `266392.81153`
-- US x Iran effective ceasefire continues through November 15, 2026? | 24h volume: `707009.366794` | liquidity: `341921.65573`
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `671010.885481` | liquidity: `136518.55783`
-- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `588993.3313509999` | liquidity: `20631.15495`
-- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `496883.03` | liquidity: `402295.84267`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `473250.74503800005` | liquidity: `773325.0715`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `291856.465754` | liquidity: `185715.47645`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1013885.174442` | liquidity: `441546.59249`
+- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `765873.048572` | liquidity: `263876.78553`
+- US x Iran effective ceasefire continues through November 15, 2026? | 24h volume: `707009.366794` | liquidity: `342401.48014`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `671010.885481` | liquidity: `138343.31752`
+- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `588993.3313509999` | liquidity: `23234.32694`
+- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `496883.03` | liquidity: `407971.26467`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `473250.74503800005` | liquidity: `777528.8129`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `291856.465754` | liquidity: `185535.68203`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
