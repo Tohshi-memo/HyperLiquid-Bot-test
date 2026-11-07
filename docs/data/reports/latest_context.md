@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T19:07:23.894959+00:00`
-- Market context score: `42.77`
-- News risk score: `38.5`
-- Macro risk score: `30.28`
-- Risk-on score: `16.79`
-- Articles: `22`
+- Generated: `2026-11-07T19:22:25.982967+00:00`
+- Market context score: `43.64`
+- News risk score: `37.22`
+- Macro risk score: `30.23`
+- Risk-on score: `17.62`
+- Articles: `23`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T19:00:00+00:00`
+- Day/swing latest: `2026-11-07T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
 - macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Paraguay's former president charged after bank collapse (BBC News)
+- [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What we know about Krakow mass shooting so far (BBC News)
 - [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
 - [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Italian foreign minister says hackers leaked his personal data (BBC News)
 - [macro] No clear winner after tight New Zealand general election (BBC News)
-- [macro] UK cannot 'cherry pick' EU single market deal, Barnier tells BBC (BBC News)
-- [commodity] What midterm election blue wave rebuke of Trump means for renewable energy (Energy)
