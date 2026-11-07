@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T09:52:25.105025+00:00`
+- Generated: `2026-11-07T10:07:30.065611+00:00`
 - Market context score: `55.25`
 - News risk score: `22.29`
 - Macro risk score: `20.57`
 - Risk-on score: `27.14`
-- Articles: `10`
+- Articles: `9`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T09:45:00+00:00`
+- Day/swing latest: `2026-11-07T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
@@ -37,4 +37,3 @@
 - [macro] The young Somali woman changing how the world sees Mogadishu (BBC News)
 - [macro] Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations (BBC News)
 - [macro] With Stephen Miller pick, Trump readies for a battle (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
