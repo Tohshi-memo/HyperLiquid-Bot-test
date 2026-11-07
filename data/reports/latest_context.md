@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T13:31:35.067868+00:00`
-- Market context score: `39.22`
-- News risk score: `43.0`
+- Generated: `2026-11-07T13:37:26.834365+00:00`
+- Market context score: `41.77`
+- News risk score: `39.25`
 - Macro risk score: `32.0`
-- Risk-on score: `13.33`
-- Articles: `9`
+- Risk-on score: `15.83`
+- Articles: `10`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 - macro: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin holders have received eCash — What can you do with it? (Cointelegraph.com News)
 - [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
 - [macro] Ukraine's power network suffers further damage after fresh Russian strikes (BBC News)
 - [macro] Four things we learned this week about 2028 White House race (BBC News)
