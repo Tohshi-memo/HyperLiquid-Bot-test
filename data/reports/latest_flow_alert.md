@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-07T08:30:28.453197+00:00`
+- Generated: `2026-11-07T08:35:30.620355+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1008132.097516` | liquidity: `402429.22908`
-- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `762676.288572` | liquidity: `247779.55822`
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `645551.080372` | liquidity: `74551.24424`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `574701.78555` | liquidity: `769793.6529`
-- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `565478.5742629999` | liquidity: `32781.2948`
-- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `496683.03` | liquidity: `329346.19967`
-- US x Iran effective ceasefire continues through November 15, 2026? | 24h volume: `482643.21975199995` | liquidity: `275172.92732`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `1008132.097516` | liquidity: `399929.24908`
+- Will Rick Scott win the 2028 Republican presidential nomination? | 24h volume: `762676.288572` | liquidity: `250403.18426`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `645551.080372` | liquidity: `74521.02757`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `574701.78555` | liquidity: `771135.8717`
+- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `565478.5742629999` | liquidity: `32874.83078`
+- Will Tulsi Gabbard win the 2028 Republican presidential nomination? | 24h volume: `496683.03` | liquidity: `329446.12571`
+- US x Iran effective ceasefire continues through November 15, 2026? | 24h volume: `482643.21975199995` | liquidity: `273972.56876`
 - Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `454188.74` | liquidity: `723402.56784`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
