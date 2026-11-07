@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T04:37:26.468429+00:00`
-- Market context score: `46.93`
-- News risk score: `38.38`
-- Macro risk score: `25.29`
-- Risk-on score: `24.03`
-- Articles: `21`
-- Polymarket markets: `389`
+- Generated: `2026-11-07T04:52:26.587636+00:00`
+- Market context score: `48.56`
+- News risk score: `36.7`
+- Macro risk score: `22.0`
+- Risk-on score: `25.0`
+- Articles: `25`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T04:30:00+00:00`
+- Day/swing latest: `2026-11-07T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `10`, risk hits `4`, risk headline rate `0.3`, policy hits `2`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
 
 ## Headlines
 
+- [macro] Paraguay's President Santiago Peña impeached and arrested (BBC News)
+- [macro] This man refused life-saving treatment because of his religion - days later the rules changed (BBC News)
+- [macro] The young Somali woman changing how the world sees Mogadishu (BBC News)
+- [macro] Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations (BBC News)
+- [macro] With Stephen Miller pick, Trump readies for a battle (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Elon Musk appears to signal the end of the road for Cybertruck (BBC News)
 - [macro] Elon Musk appears to signal the end of the road for Cybertruck (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
 - [macro] AI stocks climb after trillions wiped from market values (BBC News)
-- [crypto] US Treasury cuts off MEXC over alleged $16B in illicit transactions (Cointelegraph.com News)
-- [crypto] Gnosis Pay breach exposes card details, personal data and crypto wallet information (Cointelegraph.com News)
-- [crypto] Binance hack is ‘cyber war,’ TRM Labs executive says (Cointelegraph.com News)
-- [macro] A disturbing employment trend is hiding beneath the latest strong job numbers (Economy)
-- [crypto] Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
