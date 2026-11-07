@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T12:22:24.855475+00:00`
-- Market context score: `43.3`
-- News risk score: `39.0`
-- Macro risk score: `24.0`
-- Risk-on score: `16.0`
-- Articles: `8`
-- Polymarket markets: `388`
+- Generated: `2026-11-07T12:37:24.140405+00:00`
+- Market context score: `44.32`
+- News risk score: `38.0`
+- Macro risk score: `22.0`
+- Risk-on score: `16.67`
+- Articles: `9`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T12:15:00+00:00`
+- Day/swing latest: `2026-11-07T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Four things we learned this week about 2028 White House race (BBC News)
 - [crypto] US sanctions Canadian money-exchange firms over Iran ties (Cointelegraph.com News)
 - [crypto] Suspicious prediction market activity seen before election poll release: NYT (Cointelegraph.com News)
 - [crypto] Nvidia may face a more hostile post-election Washington: Report (Cointelegraph.com News)
