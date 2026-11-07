@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T06:52:27.527349+00:00`
-- Market context score: `46.32`
-- News risk score: `36.33`
-- Macro risk score: `18.39`
-- Risk-on score: `18.33`
-- Articles: `18`
+- Generated: `2026-11-07T07:07:24.696479+00:00`
+- Market context score: `46.54`
+- News risk score: `36.1`
+- Macro risk score: `17.93`
+- Risk-on score: `18.46`
+- Articles: `19`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T06:45:00+00:00`
+- Day/swing latest: `2026-11-07T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `6`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `10`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `11`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Pope in 'pretty good health' as he starts Latin America tour (BBC News)
 - [commodity] The race is on to build the first fusion power plant — and Europe is looking to Japan for help (Energy)
 - [macro] Paraguay's President Santiago Peña impeached and arrested (BBC News)
 - [macro] This man refused life-saving treatment because of his religion - days later the rules changed (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Elon Musk appears to signal the end of the road for Cybertruck (BBC News)
 - [macro] Elon Musk appears to signal the end of the road for Cybertruck (BBC News)
-- [macro] AI stocks climb after trillions wiped from market values (BBC News)
