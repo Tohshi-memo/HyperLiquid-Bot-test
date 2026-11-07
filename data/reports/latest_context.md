@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T18:22:28.231790+00:00`
+- Generated: `2026-11-07T18:37:25.768545+00:00`
 - Market context score: `43.38`
 - News risk score: `37.9`
 - Macro risk score: `29.09`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T18:15:00+00:00`
+- Day/swing latest: `2026-11-07T18:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] What we know about Krakow mass shooting so far (BBC News)
 - [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
 - [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
-- [macro] What we know about Krakow mass shooting so far (BBC News)
 - [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Houthis say at least 25 killed in Saudi air strike (BBC News)
 - [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
