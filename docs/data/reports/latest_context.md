@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-07T11:37:32.355039+00:00`
-- Market context score: `44.32`
-- News risk score: `38.0`
-- Macro risk score: `22.0`
-- Risk-on score: `16.67`
-- Articles: `9`
+- Generated: `2026-11-07T11:52:30.481979+00:00`
+- Market context score: `43.3`
+- News risk score: `39.0`
+- Macro risk score: `24.0`
+- Risk-on score: `16.0`
+- Articles: `8`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-07T11:30:00+00:00`
+- Day/swing latest: `2026-11-07T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
@@ -36,4 +36,3 @@
 - [commodity] The race is on to build the first fusion power plant — and Europe is looking to Japan for help (Energy)
 - [macro] This man refused life-saving treatment because of his religion - days later the rules changed (BBC News)
 - [macro] The young Somali woman changing how the world sees Mogadishu (BBC News)
-- [macro] Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations (BBC News)
