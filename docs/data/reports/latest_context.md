@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T19:52:29.051120+00:00`
+- Generated: `2026-11-08T20:07:26.590788+00:00`
 - Market context score: `61.25`
 - News risk score: `22.29`
 - Macro risk score: `20.57`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T19:45:00+00:00`
+- Day/swing latest: `2026-11-08T20:00:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] Seven dead and more than 100 injured after trains collide in Egypt (BBC News)
 - [crypto] What the election results mean for crypto: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Stablecoin growth has stalled. The payments boom hasn't (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
-- [macro] Seven dead and more than 100 injured after trains collide in Egypt (BBC News)
 - [macro] Footage shows derailed carriages after fatal train crash in Egypt (BBC News)
 - [macro] Government 'looking seriously' at banning under-16s from Vinted and eBay (BBC News)
 - [macro] Homes and temples glow across India to mark Diwali (BBC News)
