@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-08T22:25:27.998837+00:00`
+- Generated: `2026-11-08T22:30:26.549572+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `329118.713833` | liquidity: `91477.0723`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `318360.289586` | liquidity: `118872.23206`
-- Will the U.S. invade Iran before 2027? | 24h volume: `316906.228207` | liquidity: `341497.3586`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `300573.361301` | liquidity: `295008.65667`
-- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `207366.250182` | liquidity: `94255.1212`
-- Iran leadership change by December 31? | 24h volume: `202649.760657` | liquidity: `135460.7383`
-- Will Jean-Luc Mélenchon win the 2027 French presidential election? | 24h volume: `183821.42396200003` | liquidity: `787083.7021`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `173601.46503099997` | liquidity: `121183.3951`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `329118.713833` | liquidity: `89691.5825`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `318360.289586` | liquidity: `118336.48704`
+- Will the U.S. invade Iran before 2027? | 24h volume: `316906.228207` | liquidity: `352806.3939`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `300573.361301` | liquidity: `333244.41031`
+- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `207366.250182` | liquidity: `96728.7604`
+- Iran leadership change by December 31? | 24h volume: `202649.760657` | liquidity: `134240.5556`
+- Will Jean-Luc Mélenchon win the 2027 French presidential election? | 24h volume: `183821.42396200003` | liquidity: `828937.0116`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `173601.46503099997` | liquidity: `118555.182`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
