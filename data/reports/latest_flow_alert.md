@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-08T09:20:28.010628+00:00`
+- Generated: `2026-11-08T09:25:26.919355+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5715713.29`
+- Polymarket 24h volume: `5638642.82`
 - Polymarket volume z-score: `-1.09`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `414386.5312680001` | liquidity: `381072.40381`
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `393908.10674099997` | liquidity: `104537.50424`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `244748.696441` | liquidity: `367577.64556`
-- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `226200.140925` | liquidity: `470466.71596`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `207783.087175` | liquidity: `109452.8228`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `206261.099245` | liquidity: `1804789.37416`
-- Will Ron DeSantis win the 2028 Republican presidential nomination? | 24h volume: `187325.19582099997` | liquidity: `230936.57277`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `184380.988658` | liquidity: `161418.20032`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `414690.78796600003` | liquidity: `380494.40824`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `392969.576741` | liquidity: `109047.94424`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `245923.64644100002` | liquidity: `367585.02756`
+- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `226200.140925` | liquidity: `468006.81596`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `206261.09924499996` | liquidity: `1806996.42935`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `205658.09717499997` | liquidity: `98814.5979`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `190934.77389199994` | liquidity: `177751.17308`
+- Will Ron DeSantis win the 2028 Republican presidential nomination? | 24h volume: `190572.45946399996` | liquidity: `233415.85634`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
