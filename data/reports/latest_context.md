@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T10:37:32.467889+00:00`
-- Market context score: `63.52`
-- News risk score: `23.0`
-- Macro risk score: `22.0`
-- Risk-on score: `46.67`
-- Articles: `8`
+- Generated: `2026-11-08T10:52:26.458543+00:00`
+- Market context score: `50.88`
+- News risk score: `26.57`
+- Macro risk score: `29.14`
+- Risk-on score: `24.29`
+- Articles: `9`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T10:30:00+00:00`
+- Day/swing latest: `2026-11-08T10:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [macro] Government 'looking seriously' at banning under-16s from Vinted and eBay (BBC News)
 - [crypto] Amsterdam protesters break into Microsoft data center construction site: Report (Cointelegraph.com News)
 - [macro] How the deadly shooting in Krakow unfolded (BBC News)
 - [crypto] Binance’s  finance chief Kaiser Ng to leave company, report says (Cointelegraph.com News)
