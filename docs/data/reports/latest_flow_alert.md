@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-08T16:05:28.952560+00:00`
+- Generated: `2026-11-08T16:10:27.146841+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `3490129.1`
-- Polymarket volume z-score: `-1.16`
+- Polymarket 24h volume: `3517955.01`
+- Polymarket volume z-score: `-1.15`
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `471822.519752` | liquidity: `370172.31103`
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `289407.13537` | liquidity: `111490.40772`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `247722.76692499992` | liquidity: `152259.45471`
-- Will Gadi Eizenkot be the next Prime Minister of Israel? | 24h volume: `230893.41338300004` | liquidity: `115439.05202`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `223145.97649099998` | liquidity: `102945.904`
-- Pete Hegseth out as Secretary of Defense by November 30? | 24h volume: `169327.54664800002` | liquidity: `50255.6417`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `138754.28742` | liquidity: `207553.0556`
-- Will Dana White be the next White House Press Secretary? | 24h volume: `137795.762969` | liquidity: `53193.93683`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `470873.31379600015` | liquidity: `372625.24353`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `291655.53537` | liquidity: `108778.04283`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `247943.37162799994` | liquidity: `156711.17735`
+- Will Gadi Eizenkot be the next Prime Minister of Israel? | 24h volume: `231879.52558699998` | liquidity: `116863.00858`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `227889.379918` | liquidity: `104300.5554`
+- Pete Hegseth out as Secretary of Defense by November 30? | 24h volume: `172597.03126100003` | liquidity: `47835.0768`
+- Will Gadi Eizenkot receive the first mandate to form a government after the 2026 Israeli election? | 24h volume: `149277.567551` | liquidity: `95310.95648`
+- Will Dana White be the next White House Press Secretary? | 24h volume: `139360.63249299998` | liquidity: `47757.29167`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
