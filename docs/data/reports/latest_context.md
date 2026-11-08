@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T05:22:26.474976+00:00`
-- Market context score: `28.02`
-- News risk score: `57.0`
-- Macro risk score: `44.5`
-- Risk-on score: `5.0`
-- Articles: `10`
-- Polymarket markets: `387`
+- Generated: `2026-11-08T05:37:23.210479+00:00`
+- Market context score: `44.32`
+- News risk score: `33.0`
+- Macro risk score: `42.0`
+- Risk-on score: `20.0`
+- Articles: `9`
+- Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T05:15:00+00:00`
+- Day/swing latest: `2026-11-08T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `1`
+- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `7`, risk hits `3`, risk headline rate `0.4286`, policy hits `0`
 
 ## Headlines
@@ -37,4 +37,3 @@
 - [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
 - [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
-- [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
