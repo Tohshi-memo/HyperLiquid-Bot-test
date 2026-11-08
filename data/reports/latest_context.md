@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T00:22:27.700722+00:00`
+- Generated: `2026-11-08T00:37:27.976884+00:00`
 - Market context score: `42.23`
 - News risk score: `37.83`
 - Macro risk score: `36.39`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T00:15:00+00:00`
+- Day/swing latest: `2026-11-08T00:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Labubu hype seemed unstoppable, now the fluffy monster mania is dying (BBC News)
 - [macro] What we know so far after Krakow gun attack (BBC News)
 - [macro] Israel's president tasks opposition leader Eisenkot with forming government (BBC News)
 - [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
@@ -37,4 +38,3 @@
 - [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
 - [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Houthis say at least 25 killed in Saudi air strike (BBC News)
-- [crypto] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
