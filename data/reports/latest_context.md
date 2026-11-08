@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T15:52:31.214420+00:00`
-- Market context score: `44.32`
-- News risk score: `33.0`
-- Macro risk score: `42.0`
-- Risk-on score: `20.0`
-- Articles: `9`
+- Generated: `2026-11-08T16:07:56.520651+00:00`
+- Market context score: `39.22`
+- News risk score: `38.0`
+- Macro risk score: `52.0`
+- Risk-on score: `16.67`
+- Articles: `8`
 - Polymarket markets: `385`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T15:45:00+00:00`
+- Day/swing latest: `2026-11-08T16:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `0`
 
 ## Headlines
 
@@ -35,4 +35,3 @@
 - [crypto] Amsterdam protesters break into Microsoft data center construction site: Report (Cointelegraph.com News)
 - [macro] How the deadly shooting in Krakow unfolded (BBC News)
 - [crypto] Binance’s  finance chief Kaiser Ng to leave company, report says (Cointelegraph.com News)
-- [macro] Houthis say at least 33 killed in Saudi air strike (BBC News)
