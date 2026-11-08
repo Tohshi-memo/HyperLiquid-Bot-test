@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-08T00:10:32.167022+00:00`
+- Generated: `2026-11-08T00:15:29.784705+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `567915.713862` | liquidity: `112562.25188`
-- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `404803.368703` | liquidity: `381089.24838`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `319909.10347699997` | liquidity: `354384.30674`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `302060.67173600005` | liquidity: `353645.04775`
-- Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? | 24h volume: `288054.919216` | liquidity: `42825.67145`
-- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `257314.22616800002` | liquidity: `310699.16472`
-- Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? | 24h volume: `207013.06889599998` | liquidity: `53039.78961`
-- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `196473.436676` | liquidity: `48564.07292`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `567915.713862` | liquidity: `112953.26188`
+- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `404803.368703` | liquidity: `376909.60838`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `319909.10347699997` | liquidity: `362458.84996`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `302060.67173600005` | liquidity: `350054.84355`
+- Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? | 24h volume: `288054.919216` | liquidity: `45115.28145`
+- Will Dan Sullivan win the Alaska Senate race in 2026? | 24h volume: `257314.22616800002` | liquidity: `310544.48988`
+- Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? | 24h volume: `207013.06889599998` | liquidity: `49671.62057`
+- US x Iran effective ceasefire continues through November 6, 2026? | 24h volume: `196473.436676` | liquidity: `50100.57459`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
