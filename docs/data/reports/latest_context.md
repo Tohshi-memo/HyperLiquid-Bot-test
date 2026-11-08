@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T03:52:26.429919+00:00`
-- Market context score: `33.35`
-- News risk score: `49.15`
-- Macro risk score: `43.92`
-- Risk-on score: `10.0`
-- Articles: `13`
+- Generated: `2026-11-08T04:07:30.907360+00:00`
+- Market context score: `31.59`
+- News risk score: `50.92`
+- Macro risk score: `47.42`
+- Risk-on score: `8.89`
+- Articles: `12`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T03:45:00+00:00`
+- Day/swing latest: `2026-11-08T04:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `9`, risk hits `4`, risk headline rate `0.4444`, policy hits `0`
+- macro: articles `8`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
 
 ## Headlines
 
+- [macro] Houthis say at least 33 killed in Saudi air strike (BBC News)
 - [macro] What we know so far after Krakow gun attack (BBC News)
 - [macro] Labubu hype seemed unstoppable, now the fluffy monster mania is dying (BBC News)
 - [macro] Israel's president tasks opposition leader Eisenkot with forming government (BBC News)
@@ -37,4 +38,3 @@
 - [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
 - [macro] Gaza wedding festival sees 250 couples married at the same time (BBC News)
 - [crypto] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Houthis say at least 25 killed in Saudi air strike (BBC News)
