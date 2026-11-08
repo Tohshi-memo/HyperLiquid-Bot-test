@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T11:22:27.557437+00:00`
+- Generated: `2026-11-08T11:37:26.364075+00:00`
 - Market context score: `49.42`
 - News risk score: `28.0`
 - Macro risk score: `32.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T11:15:00+00:00`
+- Day/swing latest: `2026-11-08T11:30:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 ## Headlines
 
 - [macro] Government 'looking seriously' at banning under-16s from Vinted and eBay (BBC News)
+- [macro] What we know so far after Krakow gun attack (BBC News)
 - [crypto] Amsterdam protesters break into Microsoft data center construction site: Report (Cointelegraph.com News)
 - [macro] How the deadly shooting in Krakow unfolded (BBC News)
 - [crypto] Binance’s  finance chief Kaiser Ng to leave company, report says (Cointelegraph.com News)
-- [macro] What we know so far after Krakow gun attack (BBC News)
 - [macro] Houthis say at least 33 killed in Saudi air strike (BBC News)
 - [macro] The Trump coalition is shattered - what will Republicans do now? (BBC News)
 - [macro] Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat (BBC News)
