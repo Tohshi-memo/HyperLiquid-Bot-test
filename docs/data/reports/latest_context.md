@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T01:37:27.900984+00:00`
+- Generated: `2026-11-08T01:52:23.442629+00:00`
 - Market context score: `40.16`
 - News risk score: `40.38`
 - Macro risk score: `38.47`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T01:30:00+00:00`
+- Day/swing latest: `2026-11-08T01:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Labubu hype seemed unstoppable, now the fluffy monster mania is dying (BBC News)
 - [macro] What we know so far after Krakow gun attack (BBC News)
+- [macro] Labubu hype seemed unstoppable, now the fluffy monster mania is dying (BBC News)
 - [macro] Israel's president tasks opposition leader Eisenkot with forming government (BBC News)
 - [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
 - [macro] Paraguay's former president charged after bank collapse (BBC News)
