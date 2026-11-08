@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T06:07:23.360234+00:00`
-- Market context score: `42.13`
-- News risk score: `35.14`
-- Macro risk score: `46.29`
-- Risk-on score: `18.57`
-- Articles: `8`
+- Generated: `2026-11-08T06:22:27.353590+00:00`
+- Market context score: `44.32`
+- News risk score: `33.0`
+- Macro risk score: `42.0`
+- Risk-on score: `20.0`
+- Articles: `7`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T06:00:00+00:00`
+- Day/swing latest: `2026-11-08T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `6`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
 
 ## Headlines
 
@@ -35,4 +35,3 @@
 - [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
 - [macro] Paraguay's former president charged after bank collapse (BBC News)
 - [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US offers $20m reward for information about Iran's nuclear programme (BBC News)
