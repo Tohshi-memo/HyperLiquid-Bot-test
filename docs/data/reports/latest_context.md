@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T17:52:25.386539+00:00`
-- Market context score: `60.52`
-- News risk score: `23.0`
-- Macro risk score: `22.0`
-- Risk-on score: `40.0`
-- Articles: `11`
+- Generated: `2026-11-08T18:07:28.436621+00:00`
+- Market context score: `61.25`
+- News risk score: `22.29`
+- Macro risk score: `20.57`
+- Risk-on score: `40.48`
+- Articles: `12`
 - Polymarket markets: `385`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T17:45:00+00:00`
+- Day/swing latest: `2026-11-08T18:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
+- [macro] Seven dead and more than 100 injured after trains collide in Egypt (BBC News)
 - [macro] Footage shows derailed carriages after fatal train crash in Egypt (BBC News)
 - [macro] Government 'looking seriously' at banning under-16s from Vinted and eBay (BBC News)
 - [macro] Homes and temples glow across India to mark Diwali (BBC News)
-- [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
 - [macro] Iran executes three men for 'armed unrest' after January protests (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Binance France emails announce closure of its users’ accounts on Dec. 31 (Cointelegraph.com News)
 - [crypto] These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000) (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Amsterdam protesters break into Microsoft data center construction site: Report (Cointelegraph.com News)
-- [macro] How the deadly shooting in Krakow unfolded (BBC News)
