@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T07:07:25.317880+00:00`
-- Market context score: `46.51`
-- News risk score: `30.86`
-- Macro risk score: `37.71`
-- Risk-on score: `21.43`
-- Articles: `8`
-- Polymarket markets: `0`
+- Generated: `2026-11-08T07:22:25.452971+00:00`
+- Market context score: `49.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `23.33`
+- Articles: `6`
+- Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,13 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T07:00:00+00:00`
+- Day/swing latest: `2026-11-08T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
@@ -34,5 +33,3 @@
 - [macro] Israel's president tasks opposition leader Eisenkot with forming government (BBC News)
 - [commodity] Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections (Energy)
 - [macro] 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years (BBC News)
-- [macro] Paraguay's former president charged after bank collapse (BBC News)
-- [crypto] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
