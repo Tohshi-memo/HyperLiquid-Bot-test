@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-08T23:35:28.761956+00:00`
+- Generated: `2026-11-08T23:40:29.766167+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `5258808.23`
-- Polymarket volume z-score: `-0.99`
+- Polymarket 24h volume: `5212092.99`
+- Polymarket volume z-score: `-1.0`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `499557.319437` | liquidity: `444195.1103`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `338927.18454000005` | liquidity: `104097.0015`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `325128.66898` | liquidity: `153083.32995`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `288545.614245` | liquidity: `288621.92692`
-- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `207829.213209` | liquidity: `97939.6525`
-- Iran leadership change by December 31? | 24h volume: `201016.03872200003` | liquidity: `90239.4781`
-- Will Bitcoin dip to $72,000 November 2-8? | 24h volume: `184864.028394` | liquidity: `43017.96435`
-- Will Jean-Luc Mélenchon win the 2027 French presidential election? | 24h volume: `184233.463094` | liquidity: `830683.9705`
+- Will the U.S. invade Iran before 2027? | 24h volume: `505832.860828` | liquidity: `449877.76`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `348781.360748` | liquidity: `95155.4458`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `330611.69898` | liquidity: `148938.51402`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `288077.866159` | liquidity: `292336.32232`
+- Iran leadership change by December 31? | 24h volume: `212594.47872200003` | liquidity: `109045.2799`
+- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `208135.43295799996` | liquidity: `103862.9146`
+- Will Bitcoin dip to $72,000 November 2-8? | 24h volume: `185234.02839400002` | liquidity: `42373.97344`
+- Will Jean-Luc Mélenchon win the 2027 French presidential election? | 24h volume: `184233.46309400004` | liquidity: `834672.8714`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
