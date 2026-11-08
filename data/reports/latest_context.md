@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T09:52:32.068821+00:00`
+- Generated: `2026-11-08T10:07:26.395494+00:00`
 - Market context score: `51.97`
 - News risk score: `25.5`
 - Macro risk score: `27.0`
 - Risk-on score: `25.0`
-- Articles: `9`
+- Articles: `10`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T09:45:00+00:00`
+- Day/swing latest: `2026-11-08T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Amsterdam protesters break into Microsoft data center construction site: Report (Cointelegraph.com News)
 - [macro] How the deadly shooting in Krakow unfolded (BBC News)
 - [crypto] Binance’s  finance chief Kaiser Ng to leave company, report says (Cointelegraph.com News)
 - [macro] What we know so far after Krakow gun attack (BBC News)
