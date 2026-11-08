@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T23:22:30.569564+00:00`
+- Generated: `2026-11-08T23:37:29.801034+00:00`
 - Market context score: `57.97`
 - News risk score: `25.5`
 - Macro risk score: `27.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T23:15:00+00:00`
+- Day/swing latest: `2026-11-08T23:30:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
 - [crypto] Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Doctor who treated victims of Krakow shooting speaks to the BBC (BBC News)
 - [commodity] Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike (Energy)
 - [macro] Seven dead and more than 100 injured after trains collide in Egypt (BBC News)
 - [crypto] What the election results mean for crypto: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Stablecoin growth has stalled. The payments boom hasn't (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
 - [macro] Footage shows derailed carriages after fatal train crash in Egypt (BBC News)
 - [macro] Government 'looking seriously' at banning under-16s from Vinted and eBay (BBC News)
 - [macro] Homes and temples glow across India to mark Diwali (BBC News)
