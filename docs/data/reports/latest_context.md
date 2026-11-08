@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-08T19:07:27.992605+00:00`
+- Generated: `2026-11-08T19:22:26.646680+00:00`
 - Market context score: `61.25`
 - News risk score: `22.29`
 - Macro risk score: `20.57`
 - Risk-on score: `40.48`
-- Articles: `12`
+- Articles: `13`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-08T19:00:00+00:00`
+- Day/swing latest: `2026-11-08T19:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Stablecoin growth has stalled. The payments boom hasn't (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
 - [macro] Seven dead and more than 100 injured after trains collide in Egypt (BBC News)
 - [macro] Footage shows derailed carriages after fatal train crash in Egypt (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Binance France emails announce closure of its users’ accounts on Dec. 31 (Cointelegraph.com News)
 - [crypto] These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000) (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Amsterdam protesters break into Microsoft data center construction site: Report (Cointelegraph.com News)
