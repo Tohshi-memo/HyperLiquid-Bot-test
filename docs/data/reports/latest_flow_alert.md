@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-08T14:25:31.275873+00:00`
+- Generated: `2026-11-08T14:30:24.392370+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `449703.99428800005` | liquidity: `377778.88225`
-- Israel x Iran ceasefire continues through November 7? | 24h volume: `310436.47484` | liquidity: `92584.12708`
-- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `221368.211679` | liquidity: `459566.63527`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `216383.792904` | liquidity: `88092.0703`
-- Will Gadi Eizenkot be the next Prime Minister of Israel? | 24h volume: `213606.009469` | liquidity: `120895.23205`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `207401.68124699997` | liquidity: `164731.15551`
-- Pete Hegseth out as Secretary of Defense by November 30? | 24h volume: `158955.122047` | liquidity: `61396.4191`
-- Will Dana White be the next White House Press Secretary? | 24h volume: `137076.294343` | liquidity: `50535.68925`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `449703.99428800005` | liquidity: `380319.29969`
+- Israel x Iran ceasefire continues through November 7? | 24h volume: `310436.47484` | liquidity: `92744.72708`
+- Will James Talarico win the 2028 US Presidential Election? | 24h volume: `221368.211679` | liquidity: `459311.67203`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `216383.792904` | liquidity: `82454.8157`
+- Will Gadi Eizenkot be the next Prime Minister of Israel? | 24h volume: `213606.009469` | liquidity: `122959.80666`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `207401.68124699997` | liquidity: `161944.66463`
+- Pete Hegseth out as Secretary of Defense by November 30? | 24h volume: `158955.122047` | liquidity: `64086.9848`
+- Will Dana White be the next White House Press Secretary? | 24h volume: `137076.294343` | liquidity: `51379.61425`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
