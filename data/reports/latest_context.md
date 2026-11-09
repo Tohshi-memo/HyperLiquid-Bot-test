@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T11:52:27.771988+00:00`
+- Generated: `2026-11-09T12:07:29.555261+00:00`
 - Market context score: `44.18`
 - News risk score: `41.38`
 - Macro risk score: `28.47`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T11:45:00+00:00`
+- Day/swing latest: `2026-11-09T12:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Government's EV targets expected to be reduced this week (BBC News)
+- [macro] Krakow shooting suspect has died in hospital, police say (BBC News)
 - [crypto] Nvidia-led tech selloff weighs on crypto majors (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Coinbase’s US national trust bank charter takes effect (Cointelegraph.com News)
 - [crypto] Robinhood opens access to US IPOs for UK retail investors (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] At least 34 dead after Europe-bound migrant boat sinks off Senegal (BBC News)
 - [crypto] Zcash developers want 20-second blocks just days after major speed upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week (Cointelegraph.com News)
-- [crypto] Coinbase gets full U.S. trust charter from federal banking regulator (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
