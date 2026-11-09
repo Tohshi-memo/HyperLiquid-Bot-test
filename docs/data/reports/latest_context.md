@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T02:22:23.763000+00:00`
+- Generated: `2026-11-09T02:37:29.491097+00:00`
 - Market context score: `57.27`
 - News risk score: `26.18`
 - Macro risk score: `28.36`
 - Risk-on score: `37.88`
 - Articles: `14`
-- Polymarket markets: `391`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T02:15:00+00:00`
+- Day/swing latest: `2026-11-09T02:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] China wholesale inflation hits over four-year high as consumer measure slows (Economy)
+- [macro] China wholesale inflation hits highest in more than four years as consumer measure slows (Economy)
 - [macro] Nvidia launches investigation into CEO's affair with suspected Chinese spy (BBC News)
 - [macro] Doing these things now will help you save money at Christmas (BBC News)
 - [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
