@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T01:37:31.647490+00:00`
-- Market context score: `60.06`
-- News risk score: `23.45`
-- Macro risk score: `22.91`
-- Risk-on score: `39.7`
+- Generated: `2026-11-09T01:52:23.634829+00:00`
+- Market context score: `57.27`
+- News risk score: `26.18`
+- Macro risk score: `28.36`
+- Risk-on score: `37.88`
 - Articles: `14`
 - Polymarket markets: `391`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T01:30:00+00:00`
+- Day/swing latest: `2026-11-09T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] China wholesale inflation hits over four-year high as consumer measure slows (Economy)
 - [macro] Nvidia launches investigation into CEO's affair with suspected Chinese spy (BBC News)
 - [macro] Doing these things now will help you save money at Christmas (BBC News)
 - [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes (BBC News)
 - [macro] Seven dead and more than 100 injured after trains collide in Egypt (BBC News)
 - [crypto] What the election results mean for crypto: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Stablecoin growth has stalled. The payments boom hasn't (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
