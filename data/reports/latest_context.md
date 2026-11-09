@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T15:37:28.396468+00:00`
+- Generated: `2026-11-09T15:52:39.362840+00:00`
 - Market context score: `43.94`
 - News risk score: `45.25`
 - Macro risk score: `23.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T15:30:00+00:00`
+- Day/swing latest: `2026-11-09T15:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,9 @@
 
 ## Headlines
 
+- [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
+- [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
+- [macro] Nvidia launches investigation into CEO's affair with suspected Chinese spy (BBC News)
 - [macro] Civil servant who juggled five jobs found guilty of fraud (BBC News)
 - [crypto] Google’s AI chip push adds more pressure on Nvidia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [macro] At least 39 die after Europe-bound migrant boat sinks off Senegal (BBC News)
 - [crypto] Analysts see no broader ‘contagion’ from $6.3B Binance hack (Cointelegraph.com News)
 - [macro] Thirteen migrants die after boat sinks off Crete (BBC News)
-- [crypto] NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules (Cointelegraph.com News)
