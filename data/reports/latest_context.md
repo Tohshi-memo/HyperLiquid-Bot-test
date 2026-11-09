@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T11:37:27.519726+00:00`
-- Market context score: `46.29`
-- News risk score: `40.5`
-- Macro risk score: `28.56`
-- Risk-on score: `25.62`
-- Articles: `32`
-- Polymarket markets: `391`
+- Generated: `2026-11-09T11:52:27.771988+00:00`
+- Market context score: `44.18`
+- News risk score: `41.38`
+- Macro risk score: `28.47`
+- Risk-on score: `21.67`
+- Articles: `34`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T11:30:00+00:00`
+- Day/swing latest: `2026-11-09T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `2`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
 - macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Nvidia-led tech selloff weighs on crypto majors (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Coinbase’s US national trust bank charter takes effect (Cointelegraph.com News)
 - [crypto] Robinhood opens access to US IPOs for UK retail investors (Cointelegraph.com News)
 - [commodity] Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands (Energy)
 - [commodity] Congress returns with government funding, Pete Hegseth and the debt limit on the agenda (Energy)
@@ -36,5 +38,3 @@
 - [crypto] Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [crypto] Coinbase gets full U.S. trust charter from federal banking regulator (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] U.S. inflation, corporate earnings: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Government's EV targets expected to be reduced this week (BBC News)
