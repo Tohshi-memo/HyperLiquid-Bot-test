@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-11-08T23:52:26.435005+00:00`
+- Updated: `2026-11-09T00:07:25.849867+00:00`
 - Asset price active records: `672`
 - Day/swing records: `12000`
 - Macro indicators: `11`
@@ -14,15 +14,15 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (2661 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (62600 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2702 bytes): Current canary signals.
+- `data/processed/ai_context_index.json` (62579 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2704 bytes): Current canary signals.
 - `data/reports/latest_ai_analysis_brief.md` (874 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2099 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (50529 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5679 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2297 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10997 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3618 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (50531 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5678 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2288 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (10964 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3616 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
@@ -38,9 +38,9 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- 4h_commodity_crypto_divergence: score `-2.8348` - Commodity perps and crypto are moving differently; check macro-linked stress.
-- 4h_crypto_metal_divergence: score `-2.7653` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
-- 4h_index_leads_crypto: score `2.5919` - Index perps are stronger than crypto majors; possible risk-on canary.
+- 4h_crypto_metal_divergence: score `-2.6933` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
+- 4h_commodity_crypto_divergence: score `-2.6022` - Commodity perps and crypto are moving differently; check macro-linked stress.
+- 4h_index_leads_crypto: score `2.4783` - Index perps are stronger than crypto majors; possible risk-on canary.
 
 ## Full JSON Rule
 
