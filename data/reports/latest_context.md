@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T21:22:30.584470+00:00`
-- Market context score: `40.19`
-- News risk score: `52.03`
-- Macro risk score: `27.7`
-- Risk-on score: `21.5`
-- Articles: `54`
+- Generated: `2026-11-09T21:37:35.996782+00:00`
+- Market context score: `41.03`
+- News risk score: `50.69`
+- Macro risk score: `27.26`
+- Risk-on score: `22.05`
+- Articles: `53`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T21:15:00+00:00`
+- Day/swing latest: `2026-11-09T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `28`, risk hits `15`, risk headline rate `0.5`, policy hits `3`
+- crypto: articles `27`, risk hits `14`, risk headline rate `0.4815`, policy hits `2`
 - macro: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [macro] Judge denies motion to dismiss Lindsay Clancy's murder case - media reports (BBC News)
 - [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
+- [macro] Judge denies motion to dismiss Lindsay Clancy's murder case (BBC News)
 - [macro] A key report for where inflation stood in October comes out Tuesday. Here's what to expect (Economy)
 - [crypto] Should you leave Australia to avoid paying 47% tax on crypto gains? (Cointelegraph.com News)
 - [policy] Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc. (FRB: Press Release - All Releases)
