@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T07:52:26.009178+00:00`
+- Generated: `2026-11-09T08:07:29.408734+00:00`
 - Market context score: `54.17`
 - News risk score: `35.5`
 - Macro risk score: `27.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T07:45:00+00:00`
+- Day/swing latest: `2026-11-09T08:00:00+00:00`
 
 ## News Categories
 
@@ -30,11 +30,11 @@
 
 - [macro] Krakow shooting suspect has died in hospital, police say (BBC News)
 - [macro] Government's EV targets expected to be reduced this week (BBC News)
-- [macro] Will Nvidia CEO’s rockstar reputation survive an affair with a suspected Chinese spy? (BBC News)
+- [macro] What do we know about Nvidia CEO’s affair with a suspected Chinese spy? (BBC News)
+- [macro] What do we know about Nvidia CEO’s affair with a suspected Chinese spy? (BBC News)
 - [crypto] SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Solana moves to scrap the transaction feature used in the $270 million Drift hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare (BBC News)
 - [macro] Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare (BBC News)
 - [macro] Inside the French drug gangs recruiting children to kill (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Zcash devs propose another block time cut days after NU7 upgrade (Cointelegraph.com News)
