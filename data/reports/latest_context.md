@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T22:22:33.135327+00:00`
+- Generated: `2026-11-09T22:37:26.581764+00:00`
 - Market context score: `42.32`
 - News risk score: `49.9`
 - Macro risk score: `24.91`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T22:15:00+00:00`
+- Day/swing latest: `2026-11-09T22:30:00+00:00`
 
 ## News Categories
 
@@ -30,9 +30,9 @@
 ## Headlines
 
 - [macro] Judge denies motion to dismiss Lindsay Clancy's murder case (BBC News)
+- [macro] 3 unexpected reasons the October jobs report was so strong (Economy)
 - [commodity] What midterm election blue wave rebuke of Trump means for renewable energy (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] 3 unexpected reasons why the October jobs report was so strong (Economy)
 - [macro] Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond (BBC News)
 - [macro] Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond (BBC News)
 - [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
