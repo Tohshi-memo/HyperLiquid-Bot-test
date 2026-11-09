@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T04:52:26.671467+00:00`
-- Market context score: `70.82`
-- News risk score: `24.67`
+- Generated: `2026-11-09T05:07:35.361616+00:00`
+- Market context score: `65.72`
+- News risk score: `32.17`
 - Macro risk score: `25.33`
-- Risk-on score: `65.56`
-- Articles: `14`
+- Risk-on score: `60.56`
+- Articles: `15`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T04:45:00+00:00`
+- Day/swing latest: `2026-11-09T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Binance's bitcoin mining pool finds just one block in a week as shutdown nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] tBTC bridge partially resumes as $120M Aave reserve remains frozen (Cointelegraph.com News)
 - [crypto] Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] China wholesale inflation hits highest in more than four years as consumer measure slows (Economy)
@@ -37,4 +38,3 @@
 - [macro] Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says (BBC News)
 - [crypto] Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest (Cointelegraph.com News)
 - [macro] 'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect (BBC News)
-- [commodity] Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike (Energy)
