@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T23:22:26.903622+00:00`
+- Generated: `2026-11-09T23:37:24.623276+00:00`
 - Market context score: `42.16`
 - News risk score: `49.38`
 - Macro risk score: `24.54`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T23:15:00+00:00`
+- Day/swing latest: `2026-11-09T23:30:00+00:00`
 
 ## News Categories
 
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [macro] Judge denies motion to dismiss Lindsay Clancy's murder case (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [crypto] Securitize pushes into $6 trillion asset-backed finance market with River One acquisition (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Dana White declines Trump’s offer to be White House press secretary (BBC News)
-- [macro] Judge denies motion to dismiss Lindsay Clancy's murder case (BBC News)
 - [macro] 3 unexpected reasons the October jobs report was so strong (Economy)
 - [commodity] What midterm election blue wave rebuke of Trump means for renewable energy (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
