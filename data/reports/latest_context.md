@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T20:37:29.683119+00:00`
-- Market context score: `42.31`
-- News risk score: `49.59`
-- Macro risk score: `26.54`
-- Risk-on score: `23.71`
+- Generated: `2026-11-09T20:52:30.339084+00:00`
+- Market context score: `42.5`
+- News risk score: `49.35`
+- Macro risk score: `24.41`
+- Risk-on score: `23.13`
 - Articles: `50`
 - Polymarket markets: `392`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T20:30:00+00:00`
+- Day/swing latest: `2026-11-09T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `27`, risk hits `14`, risk headline rate `0.4815`, policy hits `3`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `0`
+- crypto: articles `28`, risk hits `15`, risk headline rate `0.5`, policy hits `3`
+- macro: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Turkey steel factory blast kills at least 17 people (BBC News)
+- [crypto] North Korean hackers create memecoins to launder funds from Binance hack: Elliptic (Cointelegraph.com News)
 - [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
 - [macro] France accuses Iran of supermarket fridge hacking (BBC News)
 - [macro] Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How a civil servant got away with juggling five jobs for so long (BBC News)
 - [crypto] Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals (Cointelegraph.com News)
-- [macro] Russia's leading independent newspaper closes after eviction (BBC News)
-- [macro] Turkey steel factory blast kills at least 16 people (BBC News)
