@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-09T19:10:31.769808+00:00`
+- Generated: `2026-11-09T19:15:31.809937+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10069005.55`
+- Polymarket 24h volume: `9981184.42`
 - Polymarket volume z-score: `-0.63`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `623875.701201` | liquidity: `511954.5598`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `453623.270589` | liquidity: `110294.99812`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `416982.97842600005` | liquidity: `90542.7855`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `413070.00315700006` | liquidity: `1782333.72579`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `405164.621785` | liquidity: `161830.6454`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `328091.74405000004` | liquidity: `407102.39924`
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `319593.27965199994` | liquidity: `273501.47421`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `301317.76816399995` | liquidity: `281925.8503`
+- Will the U.S. invade Iran before 2027? | 24h volume: `615991.424853` | liquidity: `510233.2832`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `451883.094314` | liquidity: `114229.84801`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `413712.910765` | liquidity: `115635.1441`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `413071.01315699995` | liquidity: `1782143.03079`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `354416.71882799995` | liquidity: `162834.2071`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `328091.74405000004` | liquidity: `407438.82705`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `319593.27965199994` | liquidity: `273501.62121`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `299088.44509199995` | liquidity: `701382.0742`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
