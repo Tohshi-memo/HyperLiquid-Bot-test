@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-09T22:20:31.335518+00:00`
+- Generated: `2026-11-09T22:25:33.935550+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11483130.81`
-- Polymarket volume z-score: `-0.54`
+- Polymarket 24h volume: `11262111.42`
+- Polymarket volume z-score: `-0.55`
 
 ## Top Polymarket Markets
 
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `673626.311962` | liquidity: `117343.05945`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `652562.975036` | liquidity: `119336.6671`
-- Will the U.S. invade Iran before 2027? | 24h volume: `618187.5579029999` | liquidity: `502250.5869`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `536986.5108060001` | liquidity: `209326.5001`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `413457.77153800015` | liquidity: `1778322.87279`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `385509.336741` | liquidity: `144478.0491`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `351458.1564` | liquidity: `311471.87602`
-- US announces end of Iranian blockade by December 31, 2026? | 24h volume: `350392.389655` | liquidity: `195799.92403`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `662868.7804550001` | liquidity: `94747.24699`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `622876.7124679999` | liquidity: `117170.687`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `555350.1971900001` | liquidity: `211575.572`
+- Will the U.S. invade Iran before 2027? | 24h volume: `533434.2435869998` | liquidity: `502250.6869`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `413457.7715380001` | liquidity: `1778325.51279`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `351458.1564` | liquidity: `311516.53786`
+- US announces end of Iranian blockade by December 31, 2026? | 24h volume: `349708.05185600003` | liquidity: `183269.55038`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `348187.97943799995` | liquidity: `756582.3961`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
