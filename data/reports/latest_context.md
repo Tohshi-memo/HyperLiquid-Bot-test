@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T12:07:29.555261+00:00`
-- Market context score: `44.18`
-- News risk score: `41.38`
-- Macro risk score: `28.47`
-- Risk-on score: `21.67`
-- Articles: `34`
+- Generated: `2026-11-09T12:22:27.297400+00:00`
+- Market context score: `43.66`
+- News risk score: `41.91`
+- Macro risk score: `29.52`
+- Risk-on score: `21.33`
+- Articles: `33`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T12:00:00+00:00`
+- Day/swing latest: `2026-11-09T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
-- macro: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 
 ## Headlines
 
@@ -37,4 +37,4 @@
 - [commodity] Congress returns with government funding, Pete Hegseth and the debt limit on the agenda (Energy)
 - [macro] At least 34 dead after Europe-bound migrant boat sinks off Senegal (BBC News)
 - [crypto] Zcash developers want 20-second blocks just days after major speed upgrade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live news: Bitcoin slides to $74,000 as Huang scandal weighs on Nvidia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
