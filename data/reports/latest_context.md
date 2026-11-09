@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T06:22:37.109357+00:00`
-- Market context score: `68.16`
-- News risk score: `29.2`
-- Macro risk score: `24.16`
-- Risk-on score: `63.03`
-- Articles: `20`
+- Generated: `2026-11-09T06:37:24.160063+00:00`
+- Market context score: `68.17`
+- News risk score: `29.43`
+- Macro risk score: `24.38`
+- Risk-on score: `63.33`
+- Articles: `21`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:158, fx:6, index:27, metal:20, unknown:1279`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-11-09T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `1`
+- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
 
 ## Headlines
 
+- [macro] Jensen Huang: Silicon Valley superstar engulfed by personal scandal (BBC News)
 - [macro] Jensen Huang: Silicon Valley superstar engulfed by personal scandal (BBC News)
 - [macro] Inside the French drug gangs recruiting children to kill (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Binance's bitcoin mining pool finds just one block in a week as shutdown nears (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] tBTC bridge partially resumes as $120M Aave reserve remains frozen (Cointelegraph.com News)
 - [crypto] Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] China wholesale inflation hits highest in more than four years as consumer measure slows (Economy)
