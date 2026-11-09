@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T17:52:26.131773+00:00`
-- Market context score: `46.14`
-- News risk score: `43.79`
-- Macro risk score: `25.63`
-- Risk-on score: `26.96`
+- Generated: `2026-11-09T18:07:31.947482+00:00`
+- Market context score: `44.79`
+- News risk score: `45.13`
+- Macro risk score: `26.26`
+- Risk-on score: `25.33`
 - Articles: `46`
 - Polymarket markets: `392`
 
@@ -17,17 +17,18 @@
 - Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:160, fx:6, index:27, metal:20, unknown:1277`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T17:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `26`, risk hits `11`, risk headline rate `0.3846`, policy hits `3`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `0`
+- crypto: articles `27`, risk hits `12`, risk headline rate `0.4074`, policy hits `3`
+- macro: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `0`
 
 ## Headlines
 
+- [crypto] PNC Bank tests turning USDC payments into dollar deposits (Cointelegraph.com News)
 - [macro] Trump questions midterm elections integrity after previously accepting results (BBC News)
 - [crypto] Avalanche’s AVAX leads crypto gains following NYSE tokenization deal (Cointelegraph.com News)
 - [macro] Civil servant who secretly held five jobs found guilty of fraud (BBC News)
@@ -37,4 +38,3 @@
 - [macro] France accuses Iran of supermarket fridge hacking (BBC News)
 - [macro] Poundland unable to buy new stock as fears over collapse grow (BBC News)
 - [macro] At least 39 die after Europe-bound migrant boat sinks off Senegal (BBC News)
-- [crypto] A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
