@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T07:22:31.489652+00:00`
-- Market context score: `54.34`
-- News risk score: `35.0`
+- Generated: `2026-11-09T07:37:26.101752+00:00`
+- Market context score: `53.66`
+- News risk score: `36.0`
 - Macro risk score: `28.0`
-- Risk-on score: `38.67`
-- Articles: `25`
+- Risk-on score: `38.0`
+- Articles: `24`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T07:15:00+00:00`
+- Day/swing latest: `2026-11-09T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 - macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 
 ## Headlines
 
-- [macro] Government's EV targets expected to be reduced this week (BBC News)
 - [macro] Krakow shooting suspect has died in hospital, police say (BBC News)
+- [macro] Government's EV targets expected to be reduced this week (BBC News)
 - [crypto] SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Solana moves to scrap the transaction feature used in the $270 million Drift hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare (BBC News)
