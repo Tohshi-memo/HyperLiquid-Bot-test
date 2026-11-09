@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T03:07:26.903825+00:00`
+- Generated: `2026-11-09T03:22:26.769917+00:00`
 - Market context score: `56.44`
 - News risk score: `27.0`
 - Macro risk score: `30.0`
 - Risk-on score: `37.33`
-- Articles: `13`
+- Articles: `14`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T03:00:00+00:00`
+- Day/swing latest: `2026-11-09T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] China wholesale inflation hits highest in more than four years as consumer measure slows (Economy)
 - [macro] Nvidia launches investigation into CEO's affair with suspected Chinese spy (BBC News)
 - [macro] Doing these things now will help you save money at Christmas (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike (Energy)
 - [macro] Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes (BBC News)
 - [macro] Seven dead and more than 100 injured after trains collide in Egypt (BBC News)
-- [crypto] What the election results mean for crypto: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
