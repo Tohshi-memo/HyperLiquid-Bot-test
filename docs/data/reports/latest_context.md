@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T20:22:30.791992+00:00`
+- Generated: `2026-11-09T20:37:29.683119+00:00`
 - Market context score: `42.31`
 - News risk score: `49.59`
 - Macro risk score: `26.54`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T20:15:00+00:00`
+- Day/swing latest: `2026-11-09T20:30:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
 - [macro] France accuses Iran of supermarket fridge hacking (BBC News)
 - [macro] Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy (BBC News)
 - [macro] Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy (BBC News)
 - [crypto] Formation Securities plans Solana stock trading venue under SEC exemption (Cointelegraph.com News)
-- [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
 - [crypto] Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How a civil servant got away with juggling five jobs for so long (BBC News)
 - [crypto] Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals (Cointelegraph.com News)
