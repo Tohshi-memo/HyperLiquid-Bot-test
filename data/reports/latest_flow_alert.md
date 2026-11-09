@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-09T02:10:26.367297+00:00`
+- Generated: `2026-11-09T02:15:35.299485+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6841646.35`
+- Polymarket 24h volume: `6936547.97`
 - Polymarket volume z-score: `-0.89`
 
 ## Top Polymarket Markets
 
-- Will the U.S. invade Iran before 2027? | 24h volume: `550483.494155` | liquidity: `445185.0697`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `380233.35533399996` | liquidity: `119960.2682`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `374651.03938800003` | liquidity: `1810630.29714`
-- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `357497.94` | liquidity: `207267.80535`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `350278.425469` | liquidity: `93650.5823`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `245512.29502900003` | liquidity: `126850.9683`
-- Will Bitcoin dip to $72,000 November 2-8? | 24h volume: `219147.20235900002` | liquidity: `54478.29281`
-- Iran leadership change by December 31? | 24h volume: `214155.56926000005` | liquidity: `107580.9347`
+- Will the U.S. invade Iran before 2027? | 24h volume: `553156.534187` | liquidity: `455061.9509`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `383585.27533400006` | liquidity: `117263.28663`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `374652.05256` | liquidity: `1810832.18925`
+- Will Abdul El-Sayed win the 2028 Democratic presidential nomination? | 24h volume: `357497.94` | liquidity: `208685.69204`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `350479.85546899994` | liquidity: `86035.2315`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `254304.240395` | liquidity: `134957.7979`
+- Will Bitcoin dip to $72,000 November 2-8? | 24h volume: `220579.55253500005` | liquidity: `54592.38492`
+- Iran leadership change by December 31? | 24h volume: `214155.56926000005` | liquidity: `116488.8346`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
