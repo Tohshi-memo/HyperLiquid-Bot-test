@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T20:07:32.551947+00:00`
-- Market context score: `42.42`
-- News risk score: `49.05`
-- Macro risk score: `26.51`
-- Risk-on score: `23.49`
-- Articles: `51`
+- Generated: `2026-11-09T20:22:30.791992+00:00`
+- Market context score: `42.31`
+- News risk score: `49.59`
+- Macro risk score: `26.54`
+- Risk-on score: `23.71`
+- Articles: `50`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T20:00:00+00:00`
+- Day/swing latest: `2026-11-09T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `28`, risk hits `14`, risk headline rate `0.4643`, policy hits `3`
+- crypto: articles `27`, risk hits `14`, risk headline rate `0.4815`, policy hits `3`
 - macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `0`
 
 ## Headlines
 
+- [macro] France accuses Iran of supermarket fridge hacking (BBC News)
 - [macro] Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy (BBC News)
 - [macro] Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy (BBC News)
 - [crypto] Formation Securities plans Solana stock trading venue under SEC exemption (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals (Cointelegraph.com News)
 - [macro] Russia's leading independent newspaper closes after eviction (BBC News)
 - [macro] Turkey steel factory blast kills at least 16 people (BBC News)
-- [crypto] PNC Bank tests turning USDC payments into dollar deposits (Cointelegraph.com News)
