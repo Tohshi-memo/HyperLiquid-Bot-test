@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-09T16:07:31.167006+00:00`
-- Market context score: `44.67`
-- News risk score: `44.06`
-- Macro risk score: `23.7`
-- Risk-on score: `23.21`
-- Articles: `44`
+- Generated: `2026-11-09T16:22:29.791056+00:00`
+- Market context score: `46.06`
+- News risk score: `43.58`
+- Macro risk score: `23.67`
+- Risk-on score: `25.87`
+- Articles: `45`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-09T16:00:00+00:00`
+- Day/swing latest: `2026-11-09T16:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `26`, risk hits `12`, risk headline rate `0.4231`, policy hits `3`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
+- crypto: articles `27`, risk hits `12`, risk headline rate `0.4074`, policy hits `3`
+- macro: articles `16`, risk hits `4`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
+- [crypto] A bitcoin block just neared a 2015 transaction record, but paid only $180 in fees (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Civil servant who secretly held five jobs found guilty of fraud (BBC News)
 - [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
 - [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
 - [macro] Nvidia launches investigation into CEO's affair with suspected Chinese spy (BBC News)
-- [macro] Civil servant who juggled five jobs found guilty of fraud (BBC News)
 - [crypto] Google’s AI chip push adds more pressure on Nvidia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Who is the suspected Chinese spy at centre of the Nvidia investigation? (BBC News)
 - [macro] At least 39 die after Europe-bound migrant boat sinks off Senegal (BBC News)
 - [crypto] Analysts see no broader ‘contagion’ from $6.3B Binance hack (Cointelegraph.com News)
-- [macro] Thirteen migrants die after boat sinks off Crete (BBC News)
