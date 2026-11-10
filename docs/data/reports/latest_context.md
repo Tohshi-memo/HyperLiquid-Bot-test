@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T12:22:31.852642+00:00`
+- Generated: `2026-11-10T12:37:30.340649+00:00`
 - Market context score: `34.97`
 - News risk score: `52.37`
 - Macro risk score: `39.22`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T12:15:00+00:00`
+- Day/swing latest: `2026-11-10T12:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Israel's new parliament to be sworn in as leaders compete to form government (BBC News)
 - [crypto] Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures (Cointelegraph.com News)
 - [macro] Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Israeli forces kill Palestinian boy in West Bank, health ministry says (BBC News)
 - [crypto] Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing (Cointelegraph.com News)
 - [crypto] Bitcoin slips before U.S. inflation report as traders price in Fed rate increase (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
