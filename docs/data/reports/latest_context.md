@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T08:52:39.044408+00:00`
-- Market context score: `43.54`
-- News risk score: `45.21`
-- Macro risk score: `35.19`
-- Risk-on score: `26.0`
-- Articles: `42`
+- Generated: `2026-11-10T09:07:31.735647+00:00`
+- Market context score: `43.48`
+- News risk score: `43.98`
+- Macro risk score: `30.61`
+- Risk-on score: `23.09`
+- Articles: `41`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T08:45:00+00:00`
+- Day/swing latest: `2026-11-10T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `12`, risk hits `5`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `27`, risk hits `9`, risk headline rate `0.3333`, policy hits `0`
-- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
+- crypto: articles `11`, risk hits `5`, risk headline rate `0.3636`, policy hits `1`
+- macro: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `0`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say (BBC News)
+- [policy] Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism (FRB: Speeches)
 - [macro] DR Congo sentences 66 soldiers to death for being 'cowards' (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump (BBC News)
 - [crypto] BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions (Cointelegraph.com News)
-- [macro] Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say (BBC News)
 - [crypto] Securitize agrees to buy River One to expand into asset-backed lending (Cointelegraph.com News)
 - [crypto] An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes (Energy)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
