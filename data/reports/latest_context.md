@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T04:52:27.682149+00:00`
-- Market context score: `38.24`
-- News risk score: `50.15`
-- Macro risk score: `28.09`
-- Risk-on score: `15.71`
-- Articles: `46`
+- Generated: `2026-11-10T05:07:33.392946+00:00`
+- Market context score: `37.9`
+- News risk score: `50.18`
+- Macro risk score: `29.14`
+- Risk-on score: `15.38`
+- Articles: `44`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T04:45:00+00:00`
+- Day/swing latest: `2026-11-10T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `14`, risk hits `8`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `0`
+- macro: articles `28`, risk hits `8`, risk headline rate `0.25`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
-- [crypto] XRP Ledger maps out quantum-proof accounts, with no extra fees for users (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026 (Economy)
+- [crypto] XRP Ledger maps out quantum-proof accounts, with no extra fees for users (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump says more US attacks on Iran 'highly unlikely' (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
