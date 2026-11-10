@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T03:07:30.014061+00:00`
-- Market context score: `46.57`
-- News risk score: `43.5`
+- Generated: `2026-11-10T03:22:29.004202+00:00`
+- Market context score: `44.22`
+- News risk score: `46.96`
 - Macro risk score: `25.27`
-- Risk-on score: `27.55`
+- Risk-on score: `25.24`
 - Articles: `46`
 - Polymarket markets: `390`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T03:00:00+00:00`
+- Day/swing latest: `2026-11-10T03:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `0`
+- crypto: articles `13`, risk hits `6`, risk headline rate `0.4615`, policy hits `0`
 - macro: articles `31`, risk hits `7`, risk headline rate `0.1935`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] OpenAI builds kill switch to stop rogue agents within 35 seconds (Cointelegraph.com News)
 - [macro] China exports, imports soar past expectations in October — surplus narrows sharply (Economy)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] HIVE, MARA mine more Bitcoin but earn less as crypto prices fall (Cointelegraph.com News)
 - [macro] Epstein associate who still runs model agency 'put me in danger' says abuse survivor (BBC News)
 - [macro] Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say (BBC News)
-- [macro] The superpower battle over energy – and what it means for your bills (BBC News)
