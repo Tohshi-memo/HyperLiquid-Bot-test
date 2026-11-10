@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T03:52:24.496040+00:00`
+- Generated: `2026-11-10T04:07:28.376734+00:00`
 - Market context score: `41.95`
 - News risk score: `50.18`
 - Macro risk score: `27.16`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T03:45:00+00:00`
+- Day/swing latest: `2026-11-10T04:00:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
+- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] China exports, imports soar past expectations in October — surplus narrows sharply (Economy)
 - [crypto] Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] OpenAI builds kill switch to stop rogue agents within 35 seconds (Cointelegraph.com News)
 - [macro] Trump says Iran war is 'effectively over' militarily with further strikes unlikely (BBC News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
-- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
-- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
 - [crypto] HIVE, MARA mine more Bitcoin but earn less as crypto prices fall (Cointelegraph.com News)
