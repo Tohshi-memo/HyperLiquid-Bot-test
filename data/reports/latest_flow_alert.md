@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-10T05:00:35.161514+00:00`
+- Generated: `2026-11-10T05:05:28.309189+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -14,12 +14,12 @@
 ## Top Polymarket Markets
 
 - Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `759241.16` | liquidity: `61037.36048`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `604906.262281` | liquidity: `240794.94824`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `573544.658307` | liquidity: `212149.3075`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `495369.115323` | liquidity: `224963.4565`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `350808.1564` | liquidity: `316873.05297`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `604906.262281` | liquidity: `237211.17163`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `573544.658307` | liquidity: `211675.705`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `495369.115323` | liquidity: `223616.1491`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `350808.1564` | liquidity: `317148.70497`
 - Will the Houthis enter Saudi Arabia by October 31? | 24h volume: `338743.41` | liquidity: `608857.91454`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `326772.889418` | liquidity: `732559.641`
-- US announces end of Iranian blockade by December 31, 2026? | 24h volume: `316713.72283199994` | liquidity: `316754.94779`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `326772.889418` | liquidity: `732277.1049`
+- US announces end of Iranian blockade by December 31, 2026? | 24h volume: `316713.72283199994` | liquidity: `313943.07543`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
