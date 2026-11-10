@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T02:37:24.917038+00:00`
+- Generated: `2026-11-10T02:52:30.357528+00:00`
 - Market context score: `44.54`
 - News risk score: `45.72`
 - Macro risk score: `25.26`
 - Risk-on score: `24.9`
 - Articles: `47`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T02:30:00+00:00`
+- Day/swing latest: `2026-11-10T02:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] China exports, imports soar past expectations in October — surplus narrows sharply (Economy)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Epstein associate who still runs model agency 'put me in danger' says abuse survivor (BBC News)
 - [macro] Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say (BBC News)
 - [macro] The superpower battle over energy – and what it means for your bills (BBC News)
-- [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
