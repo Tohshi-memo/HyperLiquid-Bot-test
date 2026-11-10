@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T18:55:22.084378+00:00`
-- Market context score: `34.15`
-- News risk score: `56.77`
-- Macro risk score: `36.69`
-- Risk-on score: `15.47`
-- Articles: `61`
+- Generated: `2026-11-10T19:07:32.760429+00:00`
+- Market context score: `34.38`
+- News risk score: `56.51`
+- Macro risk score: `35.59`
+- Risk-on score: `15.35`
+- Articles: `59`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,12 +18,12 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T18:45:00+00:00`
+- Day/swing latest: `2026-11-10T19:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `28`, risk hits `14`, risk headline rate `0.4643`, policy hits `8`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `27`, risk hits `14`, risk headline rate `0.4815`, policy hits `8`
 - macro: articles `30`, risk hits `12`, risk headline rate `0.3667`, policy hits `2`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
@@ -36,6 +36,6 @@
 - [macro] Anti-homosexuality laws in Trinidad and Tobago overturned (BBC News)
 - [macro] Why are these purple flowers shutting down streets in Sydney? (BBC News)
 - [macro] US federal authorities could have prevented Epstein crimes, report finds (BBC News)
-- [macro] Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning (BBC News)
+- [macro] Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning (BBC News)
 - [crypto] Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hot US inflation raises odds of half-point Fed hike in December (Cointelegraph.com News)
