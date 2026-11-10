@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T16:07:50.729433+00:00`
+- Generated: `2026-11-10T16:22:39.968376+00:00`
 - Market context score: `34.16`
 - News risk score: `54.04`
 - Macro risk score: `43.82`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T16:00:00+00:00`
+- Day/swing latest: `2026-11-10T16:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Arrests made in Mohamed Al Fayed probe in France, police say (BBC News)
 - [macro] Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight (Economy)
 - [crypto] Plume affiliate lands broker-dealer license to bring real U.S. assets onchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israel's new parliament sworn in as leaders compete to form government (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut (BBC News)
 - [macro] US inflation higher than expected in October - here's what is happening with prices (BBC News)
 - [macro] First day of Ukraine peace talks 'very productive', US says (BBC News)
-- [macro] Arrests made in Mohamed Al Fayed probe in France, police say (BBC News)
