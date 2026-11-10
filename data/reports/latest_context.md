@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T14:07:29.028371+00:00`
+- Generated: `2026-11-10T14:22:30.659008+00:00`
 - Market context score: `32.9`
 - News risk score: `56.41`
 - Macro risk score: `45.35`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T14:00:00+00:00`
+- Day/swing latest: `2026-11-10T14:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch (BBC News)
 - [macro] Anthropic heads for $1.3 trillion valuation in major stock market listing (BBC News)
 - [macro] Anthropic heads for $1.3 trillion valuation in major stock market listing (BBC News)
 - [macro] US inflation higher than expected in October - here's what is happening with prices (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Civil servant who secretly held five jobs found guilty of fraud (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss (Cointelegraph.com News)
