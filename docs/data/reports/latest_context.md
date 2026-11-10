@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T17:37:44.493107+00:00`
-- Market context score: `33.72`
-- News risk score: `56.63`
-- Macro risk score: `39.75`
-- Risk-on score: `15.55`
-- Articles: `58`
+- Generated: `2026-11-10T17:52:28.607327+00:00`
+- Market context score: `33.37`
+- News risk score: `56.83`
+- Macro risk score: `40.63`
+- Risk-on score: `15.27`
+- Articles: `57`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T17:30:00+00:00`
+- Day/swing latest: `2026-11-10T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `13`, risk headline rate `0.4444`, policy hits `8`
-- macro: articles `28`, risk hits `12`, risk headline rate `0.3929`, policy hits `1`
+- macro: articles `27`, risk hits `12`, risk headline rate `0.4074`, policy hits `1`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
@@ -33,7 +33,7 @@
 - [crypto] Hot US inflation raises odds of half-point Fed hike in December (Cointelegraph.com News)
 - [macro] First day of Ukraine peace talks constructive, Zelensky says (BBC News)
 - [crypto] Polymarket US trading volume jumps 266% despite regulatory battles (Cointelegraph.com News)
-- [crypto] Crypto teams up with U.S. government to defend stock perps in legal fight (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto is now teamed up with U.S. government in two legal battles over perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash (BBC News)
 - [macro] Israel's new parliament sworn in as leaders compete to form government (BBC News)
 - [macro] Inside devastated front-line city that Russia wants Ukraine to give up (BBC News)
