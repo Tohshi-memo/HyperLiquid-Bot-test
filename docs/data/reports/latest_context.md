@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T03:37:25.550478+00:00`
-- Market context score: `42.74`
-- News risk score: `49.25`
-- Macro risk score: `25.79`
-- Risk-on score: `24.09`
-- Articles: `47`
+- Generated: `2026-11-10T03:52:24.496040+00:00`
+- Market context score: `41.95`
+- News risk score: `50.18`
+- Macro risk score: `27.16`
+- Risk-on score: `23.63`
+- Articles: `48`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T03:30:00+00:00`
+- Day/swing latest: `2026-11-10T03:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `14`, risk hits `8`, risk headline rate `0.5`, policy hits `1`
-- macro: articles `31`, risk hits `7`, risk headline rate `0.1935`, policy hits `0`
+- macro: articles `32`, risk hits `8`, risk headline rate `0.2188`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] China exports, imports soar past expectations in October — surplus narrows sharply (Economy)
 - [crypto] Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] OpenAI builds kill switch to stop rogue agents within 35 seconds (Cointelegraph.com News)
-- [macro] China exports, imports soar past expectations in October — surplus narrows sharply (Economy)
+- [macro] Trump says Iran war is 'effectively over' militarily with further strikes unlikely (BBC News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
 - [crypto] HIVE, MARA mine more Bitcoin but earn less as crypto prices fall (Cointelegraph.com News)
-- [macro] Epstein associate who still runs model agency 'put me in danger' says abuse survivor (BBC News)
