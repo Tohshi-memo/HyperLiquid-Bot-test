@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-10T07:35:29.618627+00:00`
+- Generated: `2026-11-10T07:40:29.534962+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10561607.18`
-- Polymarket volume z-score: `-0.51`
+- Polymarket 24h volume: `10612524.3`
+- Polymarket volume z-score: `-0.5`
 
 ## Top Polymarket Markets
 
-- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `779656.874286` | liquidity: `47932.46574`
-- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `606857.7767350001` | liquidity: `256818.77282`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `557690.5281839999` | liquidity: `226218.0559`
-- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `496199.771165` | liquidity: `235976.7173`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `350894.40539699997` | liquidity: `546259.5323`
-- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `350808.1564` | liquidity: `311717.57192`
+- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `779656.874286` | liquidity: `46595.8437`
+- US announces end of Iranian blockade by November 15, 2026? | 24h volume: `615791.1764850001` | liquidity: `237934.54446`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `567079.417073` | liquidity: `223581.95`
+- Strait of Hormuz traffic returns to normal by December 31? | 24h volume: `496300.97116500005` | liquidity: `242676.5196`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `351170.578237` | liquidity: `552404.5258`
+- Will Chris Van Hollen win the 2028 Democratic presidential nomination? | 24h volume: `350808.1564` | liquidity: `345979.12592`
 - Will the Houthis enter Saudi Arabia by October 31? | 24h volume: `339798.11` | liquidity: `607804.30013`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `327502.865902` | liquidity: `535742.6483`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `327502.865902` | liquidity: `529089.65774`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
