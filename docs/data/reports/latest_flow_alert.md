@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-10T15:41:55.500151+00:00`
+- Generated: `2026-11-10T15:45:37.340925+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2093933.298055` | liquidity: `525777.68293`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1449241.2363209997` | liquidity: `331796.9648`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1182970.4870999998` | liquidity: `356125.63979`
-- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `805046.7762859999` | liquidity: `118797.96402`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `778079.850892` | liquidity: `374946.87114`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `468253.029058` | liquidity: `342433.07358`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `448604.061618` | liquidity: `456936.34124`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `433382.051497` | liquidity: `197250.8743`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2093933.298055` | liquidity: `511719.45938`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1449241.2363209997` | liquidity: `329211.7336`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1182970.4870999998` | liquidity: `278615.18409`
+- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `805046.7762859999` | liquidity: `120077.15408`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `778079.850892` | liquidity: `362486.57441`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `468253.029058` | liquidity: `330312.55788`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `448604.061618` | liquidity: `458731.19548`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `433382.051497` | liquidity: `198472.889`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
