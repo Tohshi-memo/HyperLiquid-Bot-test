@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T22:52:29.517584+00:00`
-- Market context score: `34.84`
-- News risk score: `55.93`
-- Macro risk score: `31.95`
-- Risk-on score: `14.49`
-- Articles: `57`
+- Generated: `2026-11-10T23:07:33.172326+00:00`
+- Market context score: `34.25`
+- News risk score: `56.69`
+- Macro risk score: `32.0`
+- Risk-on score: `13.84`
+- Articles: `56`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T22:45:00+00:00`
+- Day/swing latest: `2026-11-10T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `25`, risk hits `14`, risk headline rate `0.52`, policy hits `4`
+- crypto: articles `24`, risk hits `14`, risk headline rate `0.5417`, policy hits `4`
 - macro: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [macro] Nvidia hires major US law firm to investigate Jensen Huang affair (BBC News)
-- [macro] Nvidia hires major US law firm to investigate Jensen Huang affair (BBC News)
+- [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
+- [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
 - [macro] Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Can crypto trust firms compete with banks in US derivatives settlements? (Cointelegraph.com News)
