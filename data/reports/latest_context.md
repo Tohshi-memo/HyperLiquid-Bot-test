@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T01:22:36.648344+00:00`
-- Market context score: `43.52`
-- News risk score: `47.66`
-- Macro risk score: `26.12`
-- Risk-on score: `24.6`
-- Articles: `50`
+- Generated: `2026-11-10T01:37:33.679268+00:00`
+- Market context score: `43.48`
+- News risk score: `46.56`
+- Macro risk score: `25.65`
+- Risk-on score: `23.41`
+- Articles: `48`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T01:15:00+00:00`
+- Day/swing latest: `2026-11-10T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `18`, risk hits `8`, risk headline rate `0.4444`, policy hits `1`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `0`
 - macro: articles `30`, risk hits `7`, risk headline rate `0.2`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
+- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [crypto] HIVE’s Bitcoin output jumps 49%, but mining revenue still falls (Cointelegraph.com News)
-- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
-- [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Epstein associate who still runs model agency 'put me in danger' says abuse survivor (BBC News)
 - [macro] Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say (BBC News)
 - [macro] The superpower battle over energy – and what it means for your bills (BBC News)
