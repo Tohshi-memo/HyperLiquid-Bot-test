@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T15:37:45.013265+00:00`
+- Generated: `2026-11-10T15:52:33.992766+00:00`
 - Market context score: `33.78`
 - News risk score: `54.49`
 - Macro risk score: `43.85`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T15:30:00+00:00`
+- Day/swing latest: `2026-11-10T15:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Israel's new parliament sworn in as leaders compete to form government (BBC News)
 - [commodity] Brent crude dips below $90 for first time since August on Iran war de-escalation hopes (Energy)
 - [macro] Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch (BBC News)
 - [macro] Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight (Economy)
@@ -38,4 +39,3 @@
 - [macro] First day of Ukraine peace talks 'very productive', US says (BBC News)
 - [macro] Arrests made in Mohamed Al Fayed probe in France, police say (BBC News)
 - [crypto] Will stablecoins survive once the banks catch up? (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Iran rejects French claims it was behind supermarket fridge hacking (BBC News)
