@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T04:37:30.922042+00:00`
-- Market context score: `39.22`
-- News risk score: `51.66`
-- Macro risk score: `27.63`
-- Risk-on score: `19.0`
+- Generated: `2026-11-10T04:52:27.682149+00:00`
+- Market context score: `38.24`
+- News risk score: `50.15`
+- Macro risk score: `28.09`
+- Risk-on score: `15.71`
 - Articles: `46`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-10T04:30:00+00:00`
+- Day/swing latest: `2026-11-10T04:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `13`, risk hits `8`, risk headline rate `0.5385`, policy hits `1`
-- macro: articles `31`, risk hits `8`, risk headline rate `0.2258`, policy hits `0`
+- crypto: articles `14`, risk hits `8`, risk headline rate `0.5`, policy hits `1`
+- macro: articles `30`, risk hits `8`, risk headline rate `0.2333`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] XRP Ledger maps out quantum-proof accounts, with no extra fees for users (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026 (Economy)
 - [macro] Trump says more US attacks on Iran 'highly unlikely' (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
 - [macro] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (BBC News)
-- [macro] China exports, imports soar past expectations in October — surplus narrows sharply (Economy)
 - [crypto] Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] OpenAI builds kill switch to stop rogue agents within 35 seconds (Cointelegraph.com News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Qantas to outsource 850 local jobs with most roles moving to India (BBC News)
 - [macro] Republican congressman to force impeachment vote on Defence Secretary Hegseth (BBC News)
-- [crypto] HIVE, MARA mine more Bitcoin but earn less as crypto prices fall (Cointelegraph.com News)
