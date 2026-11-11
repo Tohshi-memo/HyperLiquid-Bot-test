@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T21:28:20.107186+00:00`
-- Market context score: `38.22`
-- News risk score: `42.82`
-- Macro risk score: `43.41`
-- Risk-on score: `15.26`
-- Articles: `44`
-- Polymarket markets: `387`
+- Generated: `2026-11-11T21:37:29.629431+00:00`
+- Market context score: `37.56`
+- News risk score: `43.32`
+- Macro risk score: `44.91`
+- Risk-on score: `14.78`
+- Articles: `43`
+- Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T21:15:00+00:00`
+- Day/swing latest: `2026-11-11T21:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `2`
-- macro: articles `20`, risk hits `12`, risk headline rate `0.5`, policy hits `3`
+- macro: articles `19`, risk hits `12`, risk headline rate `0.5263`, policy hits `3`
 
 ## Headlines
 
 - [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
-- [macro] Clashes erupt in Barcelona as thousands join Spain general strike (BBC News)
+- [macro] Clashes erupt in Barcelona after thousands join Spain general strike (BBC News)
 - [crypto] US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain (Cointelegraph.com News)
 - [macro] African writing award probe finds 'no evidence' winning story was AI generated (BBC News)
 - [macro] 'Not the answer': Labour MPs speak out against Rosebank as decision looms (BBC News)
