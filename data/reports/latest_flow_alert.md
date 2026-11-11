@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-11T16:13:54.294374+00:00`
+- Generated: `2026-11-11T16:15:38.596707+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -14,8 +14,8 @@
 ## Top Polymarket Markets
 
 - Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1215179.8191890002` | liquidity: `344803.79374`
-- Will the U.S. invade Iran before 2027? | 24h volume: `399731.48332299996` | liquidity: `454877.0049`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `398324.95171000005` | liquidity: `559989.63888`
+- Will the U.S. invade Iran before 2027? | 24h volume: `399731.48332299996` | liquidity: `454838.5148`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `398324.95171000005` | liquidity: `560986.26669`
 - Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `397654.6194149999` | liquidity: `601497.3799`
 - Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `315907.3383279999` | liquidity: `97784.8058`
 - Will David Lisnard win the 2027 French presidential election? | 24h volume: `269582.2205099999` | liquidity: `546656.26804`
