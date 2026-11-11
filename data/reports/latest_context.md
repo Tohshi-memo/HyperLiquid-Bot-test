@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T17:37:30.223961+00:00`
-- Market context score: `39.68`
-- News risk score: `45.25`
-- Macro risk score: `38.97`
-- Risk-on score: `18.89`
-- Articles: `44`
+- Generated: `2026-11-11T17:52:33.042434+00:00`
+- Market context score: `41.11`
+- News risk score: `43.68`
+- Macro risk score: `39.01`
+- Risk-on score: `20.75`
+- Articles: `43`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T17:30:00+00:00`
+- Day/swing latest: `2026-11-11T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `2`
+- crypto: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `2`
 - macro: articles `18`, risk hits `10`, risk headline rate `0.4444`, policy hits `1`
 
 ## Headlines
 
+- [macro] Spain sees widespread disruption in first general strike for 14 years (BBC News)
 - [macro] Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says (BBC News)
 - [commodity] Bessent moved to military base amid 'growing threats' from Iran (Energy)
 - [macro] US Treasury Secretary Scott Bessent relocated after alleged Iranian threats (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russia-Ukraine talks turn to post-war security but end without breakthrough (BBC News)
 - [macro] Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony (BBC News)
-- [macro] Spain sees widespread disruption in first general strike for 14 years (BBC News)
 - [crypto] Deutsche Bank launches crypto custody for companies and institutions (Cointelegraph.com News)
