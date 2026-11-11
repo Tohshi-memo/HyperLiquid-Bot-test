@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T00:52:23.757504+00:00`
-- Market context score: `34.5`
-- News risk score: `57.3`
-- Macro risk score: `30.55`
-- Risk-on score: `14.38`
-- Articles: `56`
+- Generated: `2026-11-11T01:07:28.343786+00:00`
+- Market context score: `33.95`
+- News risk score: `58.13`
+- Macro risk score: `31.23`
+- Risk-on score: `14.12`
+- Articles: `58`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T00:45:00+00:00`
+- Day/swing latest: `2026-11-11T01:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `21`, risk hits `13`, risk headline rate `0.5714`, policy hits `4`
-- macro: articles `33`, risk hits `10`, risk headline rate `0.2727`, policy hits `3`
+- macro: articles `35`, risk hits `11`, risk headline rate `0.2857`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says (BBC News)
 - [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [macro] Robot vessels take on the dangerous work of mine hunting (BBC News)
 - [macro] 'It can kill us': Kenyans fear impact of El Niño with floods predicted (BBC News)
@@ -37,5 +38,4 @@
 - [macro] Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight (Economy)
 - [crypto] CFTC warns Kalshi of imminent charges over notification of contracts: Politico (Cointelegraph.com News)
 - [crypto] Global banks commit $270M to stablecoin venture targeting 2027 launch (Cointelegraph.com News)
-- [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
 - [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
