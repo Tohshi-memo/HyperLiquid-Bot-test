@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T03:22:26.819082+00:00`
+- Generated: `2026-11-11T03:37:29.455706+00:00`
 - Market context score: `36.87`
 - News risk score: `52.89`
 - Macro risk score: `26.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T03:15:00+00:00`
+- Day/swing latest: `2026-11-11T03:30:00+00:00`
 
 ## News Categories
 
@@ -29,11 +29,11 @@
 
 ## Headlines
 
+- [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [crypto] Crypto ally Tom Emmer elected House GOP minority whip (Cointelegraph.com News)
 - [macro] Headquarters of Haitian gang destroyed, El Salvador's president says (BBC News)
 - [macro] Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor (BBC News)
 - [crypto] LNbits rushes emergency patch after reported Bitcoin wallet thefts (Cointelegraph.com News)
-- [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [macro] Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says (BBC News)
 - [macro] Robot vessels take on the dangerous work of mine hunting (BBC News)
 - [macro] 'It can kill us': Kenyans fear impact of El Niño with floods predicted (BBC News)
