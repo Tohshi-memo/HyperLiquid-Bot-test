@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T00:37:28.206720+00:00`
-- Market context score: `35.97`
-- News risk score: `55.48`
-- Macro risk score: `29.24`
-- Risk-on score: `15.6`
+- Generated: `2026-11-11T00:52:23.757504+00:00`
+- Market context score: `34.5`
+- News risk score: `57.3`
+- Macro risk score: `30.55`
+- Risk-on score: `14.38`
 - Articles: `56`
 - Polymarket markets: `388`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T00:30:00+00:00`
+- Day/swing latest: `2026-11-11T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `22`, risk hits `13`, risk headline rate `0.5455`, policy hits `4`
-- macro: articles `32`, risk hits `9`, risk headline rate `0.25`, policy hits `3`
+- crypto: articles `21`, risk hits `13`, risk headline rate `0.5714`, policy hits `4`
+- macro: articles `33`, risk hits `10`, risk headline rate `0.2727`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [macro] Robot vessels take on the dangerous work of mine hunting (BBC News)
 - [macro] 'It can kill us': Kenyans fear impact of El Niño with floods predicted (BBC News)
 - [macro] Stickers and building sets help drive toy sales ahead of Christmas rush (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Global banks commit $270M to stablecoin venture targeting 2027 launch (Cointelegraph.com News)
 - [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
 - [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
-- [macro] Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor (BBC News)
