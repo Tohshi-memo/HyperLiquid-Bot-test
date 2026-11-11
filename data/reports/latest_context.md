@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T13:52:24.253264+00:00`
-- Market context score: `42.92`
-- News risk score: `41.19`
-- Macro risk score: `35.01`
-- Risk-on score: `21.16`
-- Articles: `41`
-- Polymarket markets: `391`
+- Generated: `2026-11-11T14:07:27.070798+00:00`
+- Market context score: `41.6`
+- News risk score: `42.76`
+- Macro risk score: `34.96`
+- Risk-on score: `19.54`
+- Articles: `42`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T13:45:00+00:00`
+- Day/swing latest: `2026-11-11T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `24`, risk hits `8`, risk headline rate `0.25`, policy hits `2`
+- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `2`
 - macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Deutsche Bank launches crypto custody for companies and institutions (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Bessent reportedly moved to military base over Iranian threats on his life (Energy)
 - [crypto] Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates (Cointelegraph.com News)
 - [crypto] OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Kenya discharges last Ebola patient in major milestone towards virus-free status (BBC News)
