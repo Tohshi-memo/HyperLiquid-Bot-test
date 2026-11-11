@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T13:22:30.223056+00:00`
-- Market context score: `45.9`
-- News risk score: `38.2`
-- Macro risk score: `31.57`
-- Risk-on score: `23.97`
-- Articles: `39`
-- Polymarket markets: `392`
+- Generated: `2026-11-11T13:37:27.236491+00:00`
+- Market context score: `42.92`
+- News risk score: `41.19`
+- Macro risk score: `35.01`
+- Risk-on score: `21.16`
+- Articles: `41`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T13:15:00+00:00`
+- Day/swing latest: `2026-11-11T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `22`, risk hits `7`, risk headline rate `0.2273`, policy hits `2`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `1`
+- crypto: articles `24`, risk hits `8`, risk headline rate `0.25`, policy hits `2`
+- macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `1`
 
 ## Headlines
 
 - [commodity] Bessent reportedly moved to military base over Iranian threats on his life (Energy)
+- [crypto] Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts (Cointelegraph.com News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions (Cointelegraph.com News)
+- [macro] Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom' (BBC News)
+- [macro] Four grizzly bears killed in Canada after fatal attack on mother and daughter (BBC News)
 - [crypto] CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates (Cointelegraph.com News)
 - [crypto] OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Kenya discharges last Ebola patient in major milestone towards virus-free status (BBC News)
-- [crypto] FSB urgest Turkey to tighten crypto oversight, set stablecoin rules (Cointelegraph.com News)
-- [macro] Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom' (BBC News)
-- [crypto] Zcash falls below $1,000 for first time since September (Cointelegraph.com News)
-- [macro] Hundreds of Italian schools hit by threats in suspected bomb hoax (BBC News)
-- [macro] Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows (Economy)
