@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-11T09:05:28.635946+00:00`
-- Flow alert score: `17.44`
+- Generated: `2026-11-11T09:10:29.903619+00:00`
+- Flow alert score: `17.16`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `14793513.7`
-- Polymarket volume z-score: `0.11`
+- Polymarket 24h volume: `14153632.23`
+- Polymarket volume z-score: `0.04`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2276785.00393` | liquidity: `344269.08118`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `2006257.0804179998` | liquidity: `360711.36232`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1545389.3163869998` | liquidity: `684371.714`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `841484.0250479999` | liquidity: `475243.12541`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `577155.577668` | liquidity: `401999.916`
-- Will the U.S. invade Iran before 2027? | 24h volume: `399489.886982` | liquidity: `465068.9589`
-- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `373346.487021` | liquidity: `83094.8534`
-- Will the Fed increase interest rates by 25 bps after the January 2027 meeting? | 24h volume: `281576.86905` | liquidity: `101180.1557`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2113711.4300820003` | liquidity: `349491.19118`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1781842.554147` | liquidity: `362549.88622`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1389574.8928450001` | liquidity: `691578.37`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `811893.3670479998` | liquidity: `480028.12541`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `545865.043668` | liquidity: `401998.836`
+- Will the U.S. invade Iran before 2027? | 24h volume: `400135.04827300005` | liquidity: `464891.2782`
+- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `372226.487021` | liquidity: `86409.7708`
+- Will the Fed increase interest rates by 25 bps after the January 2027 meeting? | 24h volume: `280682.11905` | liquidity: `102187.2325`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
