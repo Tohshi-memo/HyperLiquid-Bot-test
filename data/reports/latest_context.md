@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T14:37:25.953069+00:00`
-- Market context score: `42.12`
-- News risk score: `42.4`
-- Macro risk score: `33.74`
-- Risk-on score: `19.93`
+- Generated: `2026-11-11T14:52:32.256531+00:00`
+- Market context score: `40.65`
+- News risk score: `43.71`
+- Macro risk score: `36.5`
+- Risk-on score: `18.82`
 - Articles: `43`
-- Polymarket markets: `389`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T14:30:00+00:00`
+- Day/swing latest: `2026-11-11T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `2`
-- macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `1`
+- macro: articles `17`, risk hits `7`, risk headline rate `0.4118`, policy hits `0`
 
 ## Headlines
 
+- [macro] Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says (BBC News)
 - [macro] Spain sees widespread disruption in first general strike for 14 years (BBC News)
 - [crypto] Deutsche Bank launches crypto custody for companies and institutions (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom' (BBC News)
 - [macro] Four grizzly bears killed in Canada after fatal attack on mother and daughter (BBC News)
 - [crypto] CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates (Cointelegraph.com News)
-- [crypto] OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
