@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-10T23:52:35.720921+00:00`
-- Market context score: `36.45`
-- News risk score: `53.52`
-- Macro risk score: `31.37`
-- Risk-on score: `15.82`
-- Articles: `52`
-- Polymarket markets: `390`
+- Generated: `2026-11-10T23:59:40.725861+00:00`
+- Market context score: `35.71`
+- News risk score: `54.71`
+- Macro risk score: `31.3`
+- Risk-on score: `15.17`
+- Articles: `53`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -23,12 +23,14 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `22`, risk hits `11`, risk headline rate `0.5`, policy hits `4`
+- crypto: articles `23`, risk hits `13`, risk headline rate `0.5217`, policy hits `4`
 - macro: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight (Economy)
+- [crypto] CFTC warns Kalshi of imminent charges over notification of contracts: Politico (Cointelegraph.com News)
 - [crypto] Global banks commit $270M to stablecoin venture targeting 2027 launch (Cointelegraph.com News)
 - [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
 - [macro] Nvidia hires major US law firm to investigate alleged Chinese spy affair (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Can crypto trust firms compete with banks in US derivatives settlements? (Cointelegraph.com News)
 - [crypto] Across Protocol warns users to avoid app amid reports of drained wallets (Cointelegraph.com News)
 - [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
-- [macro] First day of Ukraine peace talks constructive, Zelensky says (BBC News)
-- [crypto] Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’ (Cointelegraph.com News)
