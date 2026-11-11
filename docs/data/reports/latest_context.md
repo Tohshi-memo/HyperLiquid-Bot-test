@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T23:22:29.637413+00:00`
-- Market context score: `37.61`
-- News risk score: `43.5`
-- Macro risk score: `44.14`
-- Risk-on score: `14.76`
-- Articles: `42`
+- Generated: `2026-11-11T23:37:27.993213+00:00`
+- Market context score: `36.71`
+- News risk score: `44.25`
+- Macro risk score: `45.75`
+- Risk-on score: `14.0`
+- Articles: `40`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T23:15:00+00:00`
+- Day/swing latest: `2026-11-11T23:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
-- macro: articles `20`, risk hits `12`, risk headline rate `0.5`, policy hits `4`
+- crypto: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `19`, risk hits `12`, risk headline rate `0.5263`, policy hits `4`
 
 ## Headlines
 
 - [macro] Democrat Scott Colom wins Mississippi Senate race in surprise victory for party (BBC News)
+- [crypto] Suiet wallet to shut down in latest exit from Sui ecosystem (Cointelegraph.com News)
 - [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
 - [crypto] Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Uncalled US House races could send more crypto allies to Congress (Cointelegraph.com News)
 - [macro] 'Not the answer': Labour MPs speak out against Rosebank as decision looms (BBC News)
 - [crypto] Nomura explores sale of crypto unit Laser Digital: Bloomberg (Cointelegraph.com News)
-- [crypto] US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain (Cointelegraph.com News)
