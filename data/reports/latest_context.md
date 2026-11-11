@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T13:37:27.236491+00:00`
+- Generated: `2026-11-11T13:52:24.253264+00:00`
 - Market context score: `42.92`
 - News risk score: `41.19`
 - Macro risk score: `35.01`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T13:30:00+00:00`
+- Day/swing latest: `2026-11-11T13:45:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [commodity] Bessent reportedly moved to military base over Iranian threats on his life (Energy)
 - [crypto] Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions (Cointelegraph.com News)
 - [macro] Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom' (BBC News)
 - [macro] Four grizzly bears killed in Canada after fatal attack on mother and daughter (BBC News)
