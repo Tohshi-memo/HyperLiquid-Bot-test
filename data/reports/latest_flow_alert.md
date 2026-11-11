@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-11T23:10:28.569810+00:00`
+- Generated: `2026-11-11T23:15:29.117548+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `659311.034143` | liquidity: `379388.20645`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398978.414` | liquidity: `530262.71613`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `275377.29901` | liquidity: `432772.41772`
-- Will James Fishback win the 2028 US Presidential Election? | 24h volume: `250000.0` | liquidity: `1097341.6443`
-- Will the U.S. invade Iran before 2027? | 24h volume: `243089.199984` | liquidity: `375039.533`
-- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `238141.639584` | liquidity: `204411.49097`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `229486.09926299995` | liquidity: `489522.47644`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `224747.07371899998` | liquidity: `195032.2308`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `659311.034143` | liquidity: `374628.1893`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398978.414` | liquidity: `529889.99067`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `275377.29901` | liquidity: `430589.97086`
+- Will James Fishback win the 2028 US Presidential Election? | 24h volume: `250000.0` | liquidity: `1097898.2382`
+- Will the U.S. invade Iran before 2027? | 24h volume: `243089.199984` | liquidity: `376030.3329`
+- Will the Democrats win the Mississippi Senate race in 2026? | 24h volume: `238141.639584` | liquidity: `205111.38158`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `229486.09926299995` | liquidity: `489497.32684`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `224747.07371899998` | liquidity: `189333.8573`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
