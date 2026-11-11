@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T04:07:26.507847+00:00`
-- Market context score: `36.06`
-- News risk score: `54.18`
-- Macro risk score: `26.31`
-- Risk-on score: `13.6`
-- Articles: `49`
-- Polymarket markets: `388`
+- Generated: `2026-11-11T04:22:28.059073+00:00`
+- Market context score: `36.27`
+- News risk score: `54.15`
+- Macro risk score: `26.74`
+- Risk-on score: `14.2`
+- Articles: `48`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T04:00:00+00:00`
+- Day/swing latest: `2026-11-11T04:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `17`, risk hits `11`, risk headline rate `0.5882`, policy hits `2`
-- macro: articles `30`, risk hits `6`, risk headline rate `0.2`, policy hits `3`
+- macro: articles `28`, risk hits `6`, risk headline rate `0.2143`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Bessent reportedly moved to military base over Iranian threats on his life (Energy)
 - [macro] Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave (BBC News)
 - [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [crypto] Crypto ally Tom Emmer elected House GOP minority whip (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says (BBC News)
 - [macro] Robot vessels take on the dangerous work of mine hunting (BBC News)
 - [macro] 'It can kill us': Kenyans fear impact of El Niño with floods predicted (BBC News)
-- [macro] Stickers and building sets help drive toy sales ahead of Christmas rush (BBC News)
