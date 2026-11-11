@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T19:07:33.449571+00:00`
+- Generated: `2026-11-11T19:23:24.159102+00:00`
 - Market context score: `42.18`
 - News risk score: `43.03`
 - Macro risk score: `37.03`
 - Risk-on score: `21.85`
 - Articles: `46`
-- Polymarket markets: `388`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T19:00:00+00:00`
+- Day/swing latest: `2026-11-11T19:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
+- [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax (BBC News)
 - [crypto] OKXICE moves ahead with tokenized stocks as blue chips push back (Cointelegraph.com News)
 - [macro] Missing 11-month-old baby found buried alive in a crate in South Carolina (BBC News)
