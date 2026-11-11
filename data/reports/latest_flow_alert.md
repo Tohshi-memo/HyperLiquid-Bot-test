@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-11T12:30:35.418932+00:00`
+- Generated: `2026-11-11T12:35:28.285125+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1582706.1263269999` | liquidity: `400978.61292`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1348069.3880000003` | liquidity: `413785.4067`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `873283.2958180001` | liquidity: `701435.6253`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `409302.98125` | liquidity: `482372.33376`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `401626.89217` | liquidity: `443564.21779`
-- Will the U.S. invade Iran before 2027? | 24h volume: `372727.431425` | liquidity: `460263.2306`
-- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `361477.501818` | liquidity: `81669.1905`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `302895.90351800004` | liquidity: `454822.66712`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1582706.1263269999` | liquidity: `381400.31669`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1348069.3880000003` | liquidity: `398646.23303`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `873283.2958180001` | liquidity: `712973.2788`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `409302.98125` | liquidity: `482440.49302`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `401626.89217` | liquidity: `443299.81453`
+- Will the U.S. invade Iran before 2027? | 24h volume: `372727.431425` | liquidity: `457329.9696`
+- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `361477.501818` | liquidity: `78677.3387`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `302895.90351800004` | liquidity: `454416.12196`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
