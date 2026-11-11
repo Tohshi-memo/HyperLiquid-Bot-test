@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T07:37:28.680613+00:00`
+- Generated: `2026-11-11T07:52:26.560792+00:00`
 - Market context score: `38.25`
 - News risk score: `51.74`
 - Macro risk score: `23.51`
 - Risk-on score: `15.35`
 - Articles: `34`
-- Polymarket markets: `391`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T07:30:00+00:00`
+- Day/swing latest: `2026-11-11T07:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] Christmas toy rush being driven by stickers and building sets (BBC News)
+- [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack (Cointelegraph.com News)
 - [crypto] Across Protocol restores website after hackers hijack domain (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [crypto] Crypto ally Tom Emmer elected House GOP minority whip (Cointelegraph.com News)
 - [macro] Headquarters of Haitian gang destroyed, El Salvador's president says (BBC News)
-- [macro] Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor (BBC News)
-- [crypto] LNbits rushes emergency patch after reported Bitcoin wallet thefts (Cointelegraph.com News)
