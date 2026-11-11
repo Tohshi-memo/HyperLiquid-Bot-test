@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T11:52:34.380015+00:00`
-- Market context score: `46.42`
-- News risk score: `38.78`
-- Macro risk score: `29.26`
-- Risk-on score: `24.74`
-- Articles: `34`
+- Generated: `2026-11-11T12:07:31.813579+00:00`
+- Market context score: `47.96`
+- News risk score: `37.12`
+- Macro risk score: `26.09`
+- Risk-on score: `25.56`
+- Articles: `33`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T11:45:00+00:00`
+- Day/swing latest: `2026-11-11T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `15`, risk hits `6`, risk headline rate `0.2667`, policy hits `0`
-- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `2`
+- macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `1`
 
 ## Headlines
 
+- [commodity] Bessent reportedly moved to military base over Iranian threats on his life (Energy)
 - [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [crypto] Bitcoin sits out stock rebound as ETF outflows extend to fourth day (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Kraken parent adds over 200 tokenized UK and EU stocks to xStocks (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
 - [crypto] Bitget Wallet reports sevenfold jump in crypto phishing risk alerts (Cointelegraph.com News)
-- [crypto] Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide (Cointelegraph.com News)
