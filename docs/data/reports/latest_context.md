@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T08:37:26.652331+00:00`
-- Market context score: `33.75`
-- News risk score: `52.74`
-- Macro risk score: `27.12`
-- Risk-on score: `7.56`
-- Articles: `28`
+- Generated: `2026-11-11T08:52:27.863743+00:00`
+- Market context score: `32.66`
+- News risk score: `54.34`
+- Macro risk score: `27.06`
+- Risk-on score: `6.46`
+- Articles: `29`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T08:30:00+00:00`
+- Day/swing latest: `2026-11-11T08:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `10`, risk hits `9`, risk headline rate `0.6`, policy hits `0`
+- crypto: articles `11`, risk hits `10`, risk headline rate `0.6364`, policy hits `0`
 - macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `2`
 
 ## Headlines
 
-- [macro] Christmas toy rush being driven by stickers and building sets (BBC News)
+- [crypto] SEC enforcement actions fall 24%, crypto cases in spotlight (Cointelegraph.com News)
+- [macro] Christmas toy rush being driven by squishies and building sets (BBC News)
 - [macro] What we know so far about Jensen Huang's affair with suspected Chinese spy (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave (BBC News)
 - [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [crypto] Crypto ally Tom Emmer elected House GOP minority whip (Cointelegraph.com News)
-- [macro] Headquarters of Haitian gang destroyed, El Salvador's president says (BBC News)
