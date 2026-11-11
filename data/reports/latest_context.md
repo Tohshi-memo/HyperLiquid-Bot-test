@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T02:37:31.739632+00:00`
-- Market context score: `35.24`
-- News risk score: `55.13`
-- Macro risk score: `27.73`
-- Risk-on score: `13.11`
-- Articles: `50`
+- Generated: `2026-11-11T02:52:32.182914+00:00`
+- Market context score: `36.06`
+- News risk score: `54.18`
+- Macro risk score: `26.31`
+- Risk-on score: `13.6`
+- Articles: `49`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T02:30:00+00:00`
+- Day/swing latest: `2026-11-11T02:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `17`, risk hits `11`, risk headline rate `0.5882`, policy hits `2`
-- macro: articles `31`, risk hits `7`, risk headline rate `0.2258`, policy hits `3`
+- macro: articles `30`, risk hits `6`, risk headline rate `0.2`, policy hits `3`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor (BBC News)
 - [crypto] LNbits rushes emergency patch after reported Bitcoin wallet thefts (Cointelegraph.com News)
 - [macro] US House blocks bid to impeach Defence Secretary Pete Hegseth, for now (BBC News)
 - [macro] Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Poundland hopeful for last-minute rescue deal to stave off collapse (BBC News)
 - [macro] Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight (Economy)
 - [crypto] CFTC warns Kalshi of imminent charges over notification of contracts: Politico (Cointelegraph.com News)
-- [crypto] Global banks commit $270M to stablecoin venture targeting 2027 launch (Cointelegraph.com News)
