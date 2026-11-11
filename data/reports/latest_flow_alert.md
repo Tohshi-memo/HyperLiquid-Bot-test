@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-11T22:30:33.373183+00:00`
+- Generated: `2026-11-11T22:35:37.221803+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `655634.8257529999` | liquidity: `360616.34286`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `392728.414` | liquidity: `519198.65089`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `277466.317986` | liquidity: `421240.6784`
-- Will James Fishback win the 2028 US Presidential Election? | 24h volume: `250000.0` | liquidity: `1097781.81023`
-- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `249243.63905599996` | liquidity: `84060.364`
-- Will the U.S. invade Iran before 2027? | 24h volume: `238088.61165699997` | liquidity: `373634.9477`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `231920.872651` | liquidity: `201090.40116`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `229974.41063999993` | liquidity: `436150.98908`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `655634.8257529999` | liquidity: `382098.25881`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `392728.414` | liquidity: `519214.74929`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `277466.317986` | liquidity: `419538.6325`
+- Will James Fishback win the 2028 US Presidential Election? | 24h volume: `250000.0` | liquidity: `1097801.67723`
+- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `249243.63905599996` | liquidity: `80994.2739`
+- Will the U.S. invade Iran before 2027? | 24h volume: `238088.61165699997` | liquidity: `374834.5877`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `231920.872651` | liquidity: `201206.89847`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `229974.41063999993` | liquidity: `461072.87528`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
