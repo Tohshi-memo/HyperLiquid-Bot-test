@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-11T19:21:24.691769+00:00`
+- Generated: `2026-11-11T19:25:34.129678+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7595236.41`
-- Polymarket volume z-score: `-0.81`
+- Polymarket 24h volume: `7327771.35`
+- Polymarket volume z-score: `-0.86`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1073094.035985` | liquidity: `348635.40437`
-- Will the U.S. invade Iran before 2027? | 24h volume: `479902.422987` | liquidity: `374440.0969`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `399438.8305410002` | liquidity: `463234.95088`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `283301.367905` | liquidity: `432042.33273`
-- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `269661.53694900003` | liquidity: `83115.0844`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `251679.709259` | liquidity: `656821.6517`
-- Will James Fishback win the 2028 US Presidential Election? | 24h volume: `250000.0` | liquidity: `1096927.96985`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `234969.08896799997` | liquidity: `158685.37102`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `973931.6059850001` | liquidity: `360092.5428`
+- Will the U.S. invade Iran before 2027? | 24h volume: `480740.93578299996` | liquidity: `375308.9368`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `350089.9406800001` | liquidity: `461909.30004`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `283253.104339` | liquidity: `431386.56559`
+- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `268527.007058` | liquidity: `81008.7`
+- Will James Fishback win the 2028 US Presidential Election? | 24h volume: `250000.0` | liquidity: `1097077.981`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `233319.990996` | liquidity: `155335.18916`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `228471.487308` | liquidity: `663203.4861`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
