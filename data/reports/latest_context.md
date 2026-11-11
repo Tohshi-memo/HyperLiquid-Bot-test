@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T17:52:33.042434+00:00`
+- Generated: `2026-11-11T18:07:36.795623+00:00`
 - Market context score: `41.11`
 - News risk score: `43.68`
 - Macro risk score: `39.01`
 - Risk-on score: `20.75`
 - Articles: `43`
-- Polymarket markets: `389`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T17:45:00+00:00`
+- Day/swing latest: `2026-11-11T18:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Russia-Ukraine talks turn to post-war security but end without breakthrough (BBC News)
 - [macro] Spain sees widespread disruption in first general strike for 14 years (BBC News)
 - [macro] Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says (BBC News)
 - [commodity] Bessent moved to military base amid 'growing threats' from Iran (Energy)
@@ -35,6 +36,5 @@
 - [macro] Indonesia's vice president resigns amid signs ruling alliance is fraying (BBC News)
 - [crypto] Bitcoin hovers near $74K as stocks rise despite US bond yield rebound (Cointelegraph.com News)
 - [crypto] Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russia-Ukraine talks turn to post-war security but end without breakthrough (BBC News)
 - [macro] Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony (BBC News)
 - [crypto] Deutsche Bank launches crypto custody for companies and institutions (Cointelegraph.com News)
