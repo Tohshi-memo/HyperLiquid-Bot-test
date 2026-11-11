@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-11T15:50:27.428423+00:00`
+- Generated: `2026-11-11T15:55:38.681821+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9141466.11`
-- Polymarket volume z-score: `-0.53`
+- Polymarket 24h volume: `9046399.24`
+- Polymarket volume z-score: `-0.55`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1112157.809119` | liquidity: `379160.93608`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `476883.04192399996` | liquidity: `550718.41832`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `400862.98691299994` | liquidity: `590072.0573`
-- Will the U.S. invade Iran before 2027? | 24h volume: `397864.01300599996` | liquidity: `457334.4718`
-- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `318991.43404300004` | liquidity: `83378.8332`
-- Pete Hegseth impeached by December 31, 2026? | 24h volume: `269704.298017` | liquidity: `196932.70019`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `262144.27050999994` | liquidity: `546252.58345`
-- Will James Fishback win the 2028 US Presidential Election? | 24h volume: `255000.0` | liquidity: `1071437.48304`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1140893.298171` | liquidity: `372267.81448`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `473133.0811009999` | liquidity: `555953.61221`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `400236.930113` | liquidity: `601285.8793`
+- Will the U.S. invade Iran before 2027? | 24h volume: `397875.0830060001` | liquidity: `460118.2154`
+- Pete Hegseth out as Secretary of Defense by December 31? | 24h volume: `316224.93444000004` | liquidity: `84127.7419`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `269582.22051` | liquidity: `542857.38147`
+- Pete Hegseth impeached by December 31, 2026? | 24h volume: `269456.451127` | liquidity: `198844.10394`
+- Will the Fed increase interest rates by 25 bps after the January 2027 meeting? | 24h volume: `250678.638289` | liquidity: `116606.0568`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
