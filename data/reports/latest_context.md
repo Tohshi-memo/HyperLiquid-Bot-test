@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-11T20:57:15.800354+00:00`
-- Market context score: `37.09`
-- News risk score: `44.58`
-- Macro risk score: `43.35`
-- Risk-on score: `14.23`
-- Articles: `45`
+- Generated: `2026-11-11T21:07:32.057763+00:00`
+- Market context score: `38.22`
+- News risk score: `42.82`
+- Macro risk score: `43.41`
+- Risk-on score: `15.26`
+- Articles: `44`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-11T20:45:00+00:00`
+- Day/swing latest: `2026-11-11T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `24`, risk hits `5`, risk headline rate `0.2083`, policy hits `2`
+- crypto: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `2`
 - macro: articles `20`, risk hits `12`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
 - [macro] Clashes erupt in Barcelona as thousands join Spain general strike (BBC News)
 - [crypto] US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain (Cointelegraph.com News)
 - [macro] African writing award probe finds 'no evidence' winning story was AI generated (BBC News)
-- [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
 - [macro] 'Not the answer': Labour MPs speak out against Rosebank as decision looms (BBC News)
 - [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax (BBC News)
