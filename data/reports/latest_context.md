@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T09:07:27.638264+00:00`
-- Market context score: `52.94`
-- News risk score: `34.58`
-- Macro risk score: `20.22`
-- Risk-on score: `32.25`
-- Articles: `32`
+- Generated: `2026-11-12T09:22:34.535718+00:00`
+- Market context score: `55.61`
+- News risk score: `33.0`
+- Macro risk score: `19.94`
+- Risk-on score: `36.76`
+- Articles: `34`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T09:00:00+00:00`
+- Day/swing latest: `2026-11-12T09:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `4`
+- crypto: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `4`
 - macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
 - [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
 - [macro] Indonesia's vice-president resigns amid signs ruling alliance is fraying (BBC News)
 - [macro] UK economy grows at fastest rate for more than two years (BBC News)
 - [crypto] BlackRock Bitcoin ETF outflows hit $2B over nine sessions (Cointelegraph.com News)
 - [macro] UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth' (Economy)
-- [macro] Ukraine's power supply close to critical as Russian strikes bring darkness and cold (BBC News)
+- [macro] 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid (BBC News)
 - [macro] Ugandan police investigate deaths of four pupils in suspected school poisoning (BBC News)
-- [crypto] Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Can Nigeria's president regain voters' trust after painful first term? (BBC News)
