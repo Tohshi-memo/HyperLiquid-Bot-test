@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T03:37:27.475536+00:00`
+- Generated: `2026-11-12T03:52:26.410943+00:00`
 - Market context score: `45.18`
 - News risk score: `34.56`
 - Macro risk score: `35.26`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T03:30:00+00:00`
+- Day/swing latest: `2026-11-12T03:45:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] Australian teen missing in bush for six days rescued alive (BBC News)
-- [macro] New York building collapse kills one person and injures 12 (BBC News)
+- [macro] Survivor pulled from rubble of deadly building collapse in New York (BBC News)
 - [macro] Democrat Scott Colom seals historic win in Mississippi Senate race (BBC News)
 - [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Nigeria's president launches re-election manifesto but can he regain voters' trust? (BBC News)
