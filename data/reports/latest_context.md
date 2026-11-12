@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T20:07:42.767052+00:00`
-- Market context score: `49.06`
-- News risk score: `39.45`
-- Macro risk score: `26.88`
-- Risk-on score: `30.28`
-- Articles: `53`
-- Polymarket markets: `393`
+- Generated: `2026-11-12T20:22:27.719103+00:00`
+- Market context score: `49.26`
+- News risk score: `39.28`
+- Macro risk score: `26.81`
+- Risk-on score: `30.54`
+- Articles: `54`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T20:00:00+00:00`
+- Day/swing latest: `2026-11-12T20:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `26`, risk hits `7`, risk headline rate `0.2308`, policy hits `2`
+- crypto: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `2`
 - macro: articles `23`, risk hits `4`, risk headline rate `0.1304`, policy hits `4`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `6`
 
 ## Headlines
 
+- [crypto] DTCC Plans Solana Expansion as Wallet Rules Limit Access (Cointelegraph.com News)
 - [macro] Jensen Huang has resigned, what's next for Nvidia? (BBC News)
 - [macro] Suspected bomb hoax threats force fresh evacuations of Italian schools (BBC News)
 - [macro] Hegseth awards medal to war memorial guard who reprimanded him and group (BBC News)
@@ -36,5 +37,4 @@
 - [policy] Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027 (FRB: Press Release - All Releases)
 - [macro] Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ (Economy)
 - [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
-- [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
 - [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
