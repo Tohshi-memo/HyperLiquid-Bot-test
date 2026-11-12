@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T17:22:25.159025+00:00`
-- Market context score: `50.87`
-- News risk score: `40.35`
-- Macro risk score: `24.22`
-- Risk-on score: `34.05`
-- Articles: `60`
+- Generated: `2026-11-12T17:37:28.205221+00:00`
+- Market context score: `50.71`
+- News risk score: `40.48`
+- Macro risk score: `24.28`
+- Risk-on score: `33.82`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T17:15:00+00:00`
+- Day/swing latest: `2026-11-12T17:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `33`, risk hits `9`, risk headline rate `0.2424`, policy hits `5`
+- crypto: articles `32`, risk hits `9`, risk headline rate `0.25`, policy hits `5`
 - macro: articles `25`, risk hits `4`, risk headline rate `0.12`, policy hits `4`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
 - [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
 - [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
 - [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
 - [policy] Federal Reserve Board issues enforcement action with former employee of United Community Bank (FRB: Press Release - All Releases)
 - [crypto] Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down (Cointelegraph.com News)
-- [crypto] DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
