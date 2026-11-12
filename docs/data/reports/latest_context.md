@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T10:07:29.778689+00:00`
-- Market context score: `54.54`
-- News risk score: `34.58`
-- Macro risk score: `20.22`
-- Risk-on score: `35.82`
+- Generated: `2026-11-12T10:14:57.624751+00:00`
+- Market context score: `54.94`
+- News risk score: `33.94`
+- Macro risk score: `20.44`
+- Risk-on score: `36.25`
 - Articles: `32`
 - Polymarket markets: `389`
 
@@ -22,11 +22,12 @@
 
 ## News Categories
 
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `4`
-- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `3`
+- crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `4`
+- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `3`
 
 ## Headlines
 
+- [crypto] India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years (BBC News)
 - [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
 - [macro] UK economy grows at fastest rate for more than two years (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Indonesia's vice-president resigns amid signs ruling alliance is fraying (BBC News)
 - [crypto] BlackRock Bitcoin ETF outflows hit $2B over nine sessions (Cointelegraph.com News)
 - [macro] UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth' (Economy)
-- [macro] 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid (BBC News)
