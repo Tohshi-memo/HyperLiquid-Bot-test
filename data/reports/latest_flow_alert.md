@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-12T22:25:29.088958+00:00`
+- Generated: `2026-11-12T22:30:32.947592+00:00`
 - Flow alert score: `19.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `991427.2061939999` | liquidity: `435116.1075`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `690736.2036439999` | liquidity: `384859.64938`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `633034.907325` | liquidity: `717328.41303`
-- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `566255.08` | liquidity: `832744.58685`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `559883.7538159998` | liquidity: `429234.96196`
-- Will Mike Johnson win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `609718.25407`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `349748.129418` | liquidity: `110522.73405`
-- Jensen Huang divorce by December 31, 2026? | 24h volume: `302019.22733600007` | liquidity: `44107.9051`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `991427.2061939999` | liquidity: `424199.114`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `690736.2036439999` | liquidity: `384725.95422`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `633034.907325` | liquidity: `716531.53303`
+- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `566255.08` | liquidity: `831933.88333`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `559883.7538159998` | liquidity: `429700.98275`
+- Will Mike Johnson win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `608890.19107`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `349748.129418` | liquidity: `106978.84143`
+- Jensen Huang divorce by December 31, 2026? | 24h volume: `302019.22733600007` | liquidity: `20259.8073`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
