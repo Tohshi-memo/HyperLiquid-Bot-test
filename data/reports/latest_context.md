@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T01:22:30.922331+00:00`
-- Market context score: `39.44`
-- News risk score: `42.02`
-- Macro risk score: `38.53`
-- Risk-on score: `15.46`
-- Articles: `34`
+- Generated: `2026-11-12T01:37:29.315311+00:00`
+- Market context score: `42.73`
+- News risk score: `38.16`
+- Macro risk score: `35.11`
+- Risk-on score: `18.23`
+- Articles: `30`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T01:15:00+00:00`
+- Day/swing latest: `2026-11-12T01:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `20`, risk hits `10`, risk headline rate `0.4`, policy hits `4`
+- crypto: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `1`
+- macro: articles `18`, risk hits `8`, risk headline rate `0.3333`, policy hits `4`
 
 ## Headlines
 
+- [macro] New York building collapse kills one person and injures 12 (BBC News)
 - [macro] Democrat Scott Colom seals historic win in Mississippi Senate race (BBC News)
 - [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Nigeria's president launches re-election manifesto but can he regain voters' trust? (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Some under-25s should get less benefits, Milburn review to say (BBC News)
 - [crypto] Suiet wallet to shut down in latest exit from Sui ecosystem (Cointelegraph.com News)
 - [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
-- [macro] New York building collapse kills one person and injures 12 (BBC News)
 - [crypto] Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ (Cointelegraph.com News)
