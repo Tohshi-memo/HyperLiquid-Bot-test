@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-12T16:50:26.500018+00:00`
+- Generated: `2026-11-12T16:55:31.034159+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `9163001.27`
-- Polymarket volume z-score: `-0.28`
+- Polymarket 24h volume: `9469292.38`
+- Polymarket volume z-score: `-0.19`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `487749.172114` | liquidity: `642854.2045`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `433677.1798600001` | liquidity: `482704.98392`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `407592.727372` | liquidity: `326504.00049`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398519.686` | liquidity: `551573.1802`
-- Russia x Ukraine ceasefire by December 31, 2026? | 24h volume: `337354.30436` | liquidity: `137226.55264`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `271601.03901699994` | liquidity: `124369.6821`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `252733.25150500005` | liquidity: `687809.32558`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `247672.71510399997` | liquidity: `390108.095`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `506469.77341299993` | liquidity: `627380.9465`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `452840.77090099995` | liquidity: `357352.35049`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `451515.94032099994` | liquidity: `477043.69695`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398519.686` | liquidity: `552261.30314`
+- Russia x Ukraine ceasefire by December 31, 2026? | 24h volume: `348025.157331` | liquidity: `141953.71836`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `272145.1762270001` | liquidity: `126903.1086`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `252743.87150500002` | liquidity: `701112.58948`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `249651.29160399994` | liquidity: `393847.55877`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
