@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T20:52:30.165928+00:00`
+- Generated: `2026-11-12T21:07:27.999327+00:00`
 - Market context score: `47.93`
 - News risk score: `40.44`
 - Macro risk score: `29.62`
 - Risk-on score: `29.63`
 - Articles: `53`
-- Polymarket markets: `392`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T20:45:00+00:00`
+- Day/swing latest: `2026-11-12T21:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 ## Headlines
 
 - [macro] US envoys head to meet Zelensky after talks with Putin in Moscow (BBC News)
+- [crypto] US Justice Department, business groups and DeFi firms challenge Illinois crypto tax (Cointelegraph.com News)
 - [macro] Russian warship hit by Ukrainian drone in Gulf of Finland (BBC News)
 - [crypto] DTCC Plans Solana Expansion as Wallet Rules Limit Access (Cointelegraph.com News)
 - [macro] Jensen Huang has resigned, what's next for Nvidia? (BBC News)
@@ -37,4 +38,3 @@
 - [policy] Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services (FRB: Press Release - All Releases)
 - [policy] Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027 (FRB: Press Release - All Releases)
 - [macro] Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ (Economy)
-- [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
