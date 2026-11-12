@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T05:22:33.973775+00:00`
+- Generated: `2026-11-12T05:37:32.183211+00:00`
 - Market context score: `45.43`
 - News risk score: `35.38`
 - Macro risk score: `29.69`
 - Risk-on score: `19.84`
 - Articles: `28`
-- Polymarket markets: `389`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T05:15:00+00:00`
+- Day/swing latest: `2026-11-12T05:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [crypto] Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ripple’s bank-lending system moves closer to launch on the XRP Ledger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] New York building collapse kills at least two, officials say (BBC News)
 - [crypto] Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Famed ship SS United States sunk off coast of Florida (BBC News)
 - [macro] Democrat Scott Colom seals historic win in Mississippi Senate race (BBC News)
 - [macro] Australian teen missing in bush for six days rescued alive (BBC News)
-- [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
