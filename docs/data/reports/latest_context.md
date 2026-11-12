@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T16:22:31.899502+00:00`
+- Generated: `2026-11-12T16:37:28.268641+00:00`
 - Market context score: `49.42`
 - News risk score: `41.62`
 - Macro risk score: `22.59`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T16:15:00+00:00`
+- Day/swing latest: `2026-11-12T16:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
 - [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
 - [policy] Federal Reserve Board issues enforcement action with former employee of United Community Bank (FRB: Press Release - All Releases)
 - [crypto] Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down (Cointelegraph.com News)
@@ -35,6 +36,5 @@
 - [crypto] Crypto for Advisors: The blockchain built to run financial markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What we know as Nvidia CEO Jensen Huang resigns over affair allegations (BBC News)
 - [macro] Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says (BBC News)
-- [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
 - [macro] Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? (BBC News)
 - [macro] Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? (BBC News)
