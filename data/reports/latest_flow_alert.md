@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-12T08:40:32.713555+00:00`
+- Generated: `2026-11-12T08:45:30.673697+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `627718.489145` | liquidity: `347165.48893`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398655.814` | liquidity: `537684.63867`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `347409.990331` | liquidity: `312333.82557`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `282273.84864399995` | liquidity: `490817.10071`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `263233.85758400004` | liquidity: `224555.4636`
-- Will the U.S. invade Iran before 2027? | 24h volume: `239870.453249` | liquidity: `351178.3682`
-- Will Rahm Emanuel win the 2028 Democratic presidential nomination? | 24h volume: `236765.8` | liquidity: `490322.21405`
-- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `228740.710738` | liquidity: `759239.65223`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `627718.489145` | liquidity: `353983.27619`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398655.814` | liquidity: `539654.80967`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `347409.990331` | liquidity: `309393.18915`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `282273.84864399995` | liquidity: `493955.35994`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `263233.85758400004` | liquidity: `229428.3527`
+- Will the U.S. invade Iran before 2027? | 24h volume: `239870.453249` | liquidity: `352162.0558`
+- Will Rahm Emanuel win the 2028 Democratic presidential nomination? | 24h volume: `236765.8` | liquidity: `487336.32201`
+- Will JD Vance win the 2028 US Presidential Election? | 24h volume: `228740.710738` | liquidity: `637246.30009`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
