@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T15:07:36.492390+00:00`
+- Generated: `2026-11-12T15:22:31.525497+00:00`
 - Market context score: `49.96`
 - News risk score: `40.23`
 - Macro risk score: `23.01`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T15:00:00+00:00`
+- Day/swing latest: `2026-11-12T15:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] Millions of Ebola dollars going missing as virus spreads, medical charity warns (BBC News)
+- [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
+- [macro] Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned? (BBC News)
+- [macro] Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned? (BBC News)
 - [policy] Barr, American Inequality and the Future of AI (FRB: Speeches)
 - [macro] Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’ (Economy)
-- [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
-- [macro] Who could replace Jensen Huang as Nvidia's permanent chief executive? (BBC News)
-- [macro] Who could replace Jensen Huang as Nvidia's permanent chief executive? (BBC News)
 - [crypto] Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Poundland gets more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
 - [crypto] The next Congress will write rules for AI and emerging tech. They should use the stuff first. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Millions of Ebola dollars going missing as virus spreads, medical charity warns (BBC News)
