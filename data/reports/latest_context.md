@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T08:52:32.595369+00:00`
+- Generated: `2026-11-12T09:07:27.638264+00:00`
 - Market context score: `52.94`
 - News risk score: `34.58`
 - Macro risk score: `20.22`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T08:45:00+00:00`
+- Day/swing latest: `2026-11-12T09:00:00+00:00`
 
 ## News Categories
 
@@ -27,13 +27,13 @@
 
 ## Headlines
 
+- [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
+- [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
 - [macro] Indonesia's vice-president resigns amid signs ruling alliance is fraying (BBC News)
 - [macro] UK economy grows at fastest rate for more than two years (BBC News)
-- [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
 - [crypto] BlackRock Bitcoin ETF outflows hit $2B over nine sessions (Cointelegraph.com News)
 - [macro] UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth' (Economy)
 - [macro] Ukraine's power supply close to critical as Russian strikes bring darkness and cold (BBC News)
 - [macro] Ugandan police investigate deaths of four pupils in suspected school poisoning (BBC News)
 - [crypto] Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Can Nigeria's president regain voters' trust after painful first term? (BBC News)
-- [crypto] MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
