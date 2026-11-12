@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T15:22:31.525497+00:00`
-- Market context score: `49.96`
-- News risk score: `40.23`
-- Macro risk score: `23.01`
-- Risk-on score: `31.45`
-- Articles: `55`
+- Generated: `2026-11-12T15:37:33.160321+00:00`
+- Market context score: `51.18`
+- News risk score: `39.41`
+- Macro risk score: `20.31`
+- Risk-on score: `32.46`
+- Articles: `57`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T15:15:00+00:00`
+- Day/swing latest: `2026-11-12T15:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `32`, risk hits `11`, risk headline rate `0.2812`, policy hits `5`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `4`
+- macro: articles `24`, risk hits `2`, risk headline rate `0.0833`, policy hits `5`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Millions of Ebola dollars going missing as virus spreads, medical charity warns (BBC News)
+- [macro] What we know as Nvidia CEO Jensen Huang resigns over affair allegations (BBC News)
+- [macro] Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says (BBC News)
 - [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
 - [macro] Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned? (BBC News)
 - [macro] Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned? (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Poundland gets more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
-- [crypto] The next Congress will write rules for AI and emerging tech. They should use the stuff first. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
