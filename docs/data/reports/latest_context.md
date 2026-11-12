@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T14:22:25.006723+00:00`
-- Market context score: `52.11`
-- News risk score: `37.15`
-- Macro risk score: `17.31`
-- Risk-on score: `31.48`
-- Articles: `51`
+- Generated: `2026-11-12T14:37:30.294362+00:00`
+- Market context score: `51.59`
+- News risk score: `38.74`
+- Macro risk score: `20.28`
+- Risk-on score: `32.81`
+- Articles: `53`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T14:15:00+00:00`
+- Day/swing latest: `2026-11-12T14:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `30`, risk hits `11`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `21`, risk hits `1`, risk headline rate `0.0476`, policy hits `3`
+- crypto: articles `31`, risk hits `11`, risk headline rate `0.2903`, policy hits `5`
+- macro: articles `22`, risk hits `2`, risk headline rate `0.0909`, policy hits `3`
 
 ## Headlines
 
+- [macro] Poundland gets more time to secure a rescue deal as emergency talks continue (BBC News)
+- [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
+- [crypto] The next Congress will write rules for AI and emerging tech. They should use the stuff first. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Millions of Ebola dollars going missing as virus spreads, medical charity warns (BBC News)
 - [macro] Nvidia's CEO was the rock star of AI before his dramatic unravelling (BBC News)
 - [macro] Who could replace Jensen Huang as Nvidia's chief executive? (BBC News)
 - [macro] Who could replace Jensen Huang as Nvidia's chief executive? (BBC News)
 - [crypto] Jensen Huang resigns as NVIDIA CEO and board member (Cointelegraph.com News)
 - [crypto] Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bit Digital stock falls 5% in pre-market after Q3 revenue miss (Cointelegraph.com News)
-- [crypto] Thailand proposes $148K daily cap on stablecoin deposits and withdrawals (Cointelegraph.com News)
-- [crypto] Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente (Cointelegraph.com News)
-- [crypto] Are Alt-L1s over? Security, costs drive smaller chains to Ethereum (Cointelegraph.com News)
-- [macro] Faisal Islam: Why the UK economy is surprisingly resilient (BBC News)
