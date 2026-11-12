@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T02:52:25.970744+00:00`
+- Generated: `2026-11-12T03:07:30.917424+00:00`
 - Market context score: `45.18`
 - News risk score: `34.56`
 - Macro risk score: `35.26`
 - Risk-on score: `20.68`
 - Articles: `29`
-- Polymarket markets: `386`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T02:45:00+00:00`
+- Day/swing latest: `2026-11-12T03:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Australian teen missing in bush for six days rescued alive (BBC News)
 - [macro] New York building collapse kills one person and injures 12 (BBC News)
 - [macro] Democrat Scott Colom seals historic win in Mississippi Senate race (BBC News)
 - [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Some under-25s should get less benefits, Milburn review to say (BBC News)
 - [crypto] Suiet wallet to shut down in latest exit from Sui ecosystem (Cointelegraph.com News)
 - [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
-- [crypto] Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ (Cointelegraph.com News)
