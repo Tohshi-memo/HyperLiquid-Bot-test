@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T06:07:29.633003+00:00`
-- Market context score: `43.87`
-- News risk score: `38.57`
-- Macro risk score: `26.62`
-- Risk-on score: `17.9`
-- Articles: `31`
+- Generated: `2026-11-12T06:22:31.713360+00:00`
+- Market context score: `43.81`
+- News risk score: `38.48`
+- Macro risk score: `26.58`
+- Risk-on score: `17.68`
+- Articles: `30`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T06:00:00+00:00`
+- Day/swing latest: `2026-11-12T06:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `3`
+- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `2`
 
 ## Headlines
 
+- [macro] Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ukraine's power supply close to critical as Russian strikes bring darkness and cold (BBC News)
 - [crypto] South Korea to permit crypto withdrawal freezes during hacking threats (Cointelegraph.com News)
@@ -35,5 +36,4 @@
 - [crypto] Ripple’s bank-lending system moves closer to launch on the XRP Ledger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] New York building collapse kills at least two, officials say (BBC News)
 - [crypto] Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack (Cointelegraph.com News)
-- [macro] Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says (BBC News)
 - [macro] What we know as pressure builds on embattled Nvidia CEO Jensen Huang (BBC News)
