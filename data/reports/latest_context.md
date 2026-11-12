@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T23:37:31.172441+00:00`
-- Market context score: `40.28`
+- Generated: `2026-11-12T23:51:38.483431+00:00`
+- Market context score: `39.92`
 - News risk score: `46.38`
-- Macro risk score: `32.57`
-- Risk-on score: `18.76`
-- Articles: `53`
-- Polymarket markets: `392`
+- Macro risk score: `34.31`
+- Risk-on score: `18.62`
+- Articles: `52`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T23:30:00+00:00`
+- Day/swing latest: `2026-11-12T23:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `28`, risk hits `11`, risk headline rate `0.3214`, policy hits `2`
-- macro: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `3`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.3077`, policy hits `2`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `3`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `6`
 
 ## Headlines
 
+- [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
 - [crypto] Maple Finance’s strategy rift sends co-founder, COO to the exits (Cointelegraph.com News)
 - [macro] Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ (Economy)
@@ -37,4 +38,3 @@
 - [crypto] NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters (Cointelegraph.com News)
-- [crypto] Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off (Cointelegraph.com News)
