@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-12T07:35:35.783998+00:00`
+- Generated: `2026-11-12T07:40:31.888610+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8022515.29`
-- Polymarket volume z-score: `-0.68`
+- Polymarket 24h volume: `8120194.19`
+- Polymarket volume z-score: `-0.65`
 
 ## Top Polymarket Markets
 
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `621080.4112930001` | liquidity: `419886.62715`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398895.824` | liquidity: `529070.79444`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `346416.12631799997` | liquidity: `341493.9483`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `287693.068644` | liquidity: `489156.92662`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `263555.608531` | liquidity: `160338.1185`
-- Will the U.S. invade Iran before 2027? | 24h volume: `238948.41953900002` | liquidity: `350488.607`
-- Will Rahm Emanuel win the 2028 Democratic presidential nomination? | 24h volume: `236954.94` | liquidity: `490432.83759`
-- Russia x Ukraine ceasefire by December 31, 2026? | 24h volume: `222519.48962999997` | liquidity: `185198.44695`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `627646.4271010001` | liquidity: `389692.12167`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `398795.094` | liquidity: `527670.91455`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `345894.25222599995` | liquidity: `342859.74414`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `287125.318644` | liquidity: `492429.86801`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `263552.758531` | liquidity: `161312.9757`
+- Will the U.S. invade Iran before 2027? | 24h volume: `239212.419539` | liquidity: `348433.2049`
+- Will Rahm Emanuel win the 2028 Democratic presidential nomination? | 24h volume: `236926.57` | liquidity: `490232.80908`
+- Russia x Ukraine ceasefire by December 31, 2026? | 24h volume: `222519.48963` | liquidity: `186597.01173`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
