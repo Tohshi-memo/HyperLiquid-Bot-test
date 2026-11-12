@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T16:37:28.268641+00:00`
-- Market context score: `49.42`
-- News risk score: `41.62`
-- Macro risk score: `22.59`
-- Risk-on score: `31.28`
+- Generated: `2026-11-12T16:52:28.803830+00:00`
+- Market context score: `49.52`
+- News risk score: `41.39`
+- Macro risk score: `22.89`
+- Risk-on score: `31.43`
 - Articles: `59`
 - Polymarket markets: `392`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T16:30:00+00:00`
+- Day/swing latest: `2026-11-12T16:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `34`, risk hits `12`, risk headline rate `0.2941`, policy hits `5`
-- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `4`
+- crypto: articles `35`, risk hits `12`, risk headline rate `0.2857`, policy hits `5`
+- macro: articles `22`, risk hits `3`, risk headline rate `0.0909`, policy hits `4`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Illinois crypto tax is impossible to enforce as written, crypto industry tells court (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ (Economy)
 - [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
 - [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
 - [policy] Federal Reserve Board issues enforcement action with former employee of United Community Bank (FRB: Press Release - All Releases)
@@ -36,5 +38,3 @@
 - [crypto] Crypto for Advisors: The blockchain built to run financial markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What we know as Nvidia CEO Jensen Huang resigns over affair allegations (BBC News)
 - [macro] Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says (BBC News)
-- [macro] Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? (BBC News)
-- [macro] Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? (BBC News)
