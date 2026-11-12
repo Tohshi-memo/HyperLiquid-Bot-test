@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T08:37:28.178475+00:00`
-- Market context score: `53.5`
-- News risk score: `33.74`
-- Macro risk score: `20.07`
-- Risk-on score: `32.75`
-- Articles: `33`
+- Generated: `2026-11-12T08:52:32.595369+00:00`
+- Market context score: `52.94`
+- News risk score: `34.58`
+- Macro risk score: `20.22`
+- Risk-on score: `32.25`
+- Articles: `32`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T08:30:00+00:00`
+- Day/swing latest: `2026-11-12T08:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `4`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `4`
 - macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `3`
 
 ## Headlines
 
 - [macro] Indonesia's vice-president resigns amid signs ruling alliance is fraying (BBC News)
-- [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
 - [macro] UK economy grows at fastest rate for more than two years (BBC News)
+- [macro] Some under-25s should get fewer benefits, Milburn review to say (BBC News)
 - [crypto] BlackRock Bitcoin ETF outflows hit $2B over nine sessions (Cointelegraph.com News)
 - [macro] UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth' (Economy)
 - [macro] Ukraine's power supply close to critical as Russian strikes bring darkness and cold (BBC News)
