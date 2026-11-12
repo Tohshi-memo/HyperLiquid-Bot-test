@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T15:52:28.772818+00:00`
-- Market context score: `51.37`
-- News risk score: `39.24`
-- Macro risk score: `20.25`
-- Risk-on score: `32.72`
-- Articles: `58`
+- Generated: `2026-11-12T16:07:28.796599+00:00`
+- Market context score: `49.42`
+- News risk score: `41.62`
+- Macro risk score: `22.59`
+- Risk-on score: `31.28`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T15:45:00+00:00`
+- Day/swing latest: `2026-11-12T16:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `33`, risk hits `11`, risk headline rate `0.2727`, policy hits `5`
-- macro: articles `24`, risk hits `2`, risk headline rate `0.0833`, policy hits `5`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `34`, risk hits `12`, risk headline rate `0.2941`, policy hits `5`
+- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `4`
+- policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `2`
 
 ## Headlines
 
-- [macro] AI's rock star boss -  who is Jensen Huang ? (BBC News)
+- [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
+- [policy] Federal Reserve Board issues enforcement action with former employee of United Community Bank (FRB: Press Release - All Releases)
+- [crypto] Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down (Cointelegraph.com News)
 - [crypto] DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Crypto for Advisors: The blockchain built to run financial markets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What we know as Nvidia CEO Jensen Huang resigns over affair allegations (BBC News)
 - [macro] Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says (BBC News)
 - [macro] Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow (BBC News)
 - [macro] Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? (BBC News)
 - [macro] Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? (BBC News)
-- [policy] Barr, American Inequality and the Future of AI (FRB: Speeches)
-- [macro] Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’ (Economy)
-- [crypto] Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
