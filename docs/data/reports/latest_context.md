@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T04:07:27.079126+00:00`
+- Generated: `2026-11-12T04:22:26.225838+00:00`
 - Market context score: `45.72`
 - News risk score: `34.0`
 - Macro risk score: `34.17`
 - Risk-on score: `21.0`
 - Articles: `30`
-- Polymarket markets: `389`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T04:00:00+00:00`
+- Day/swing latest: `2026-11-12T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] What we know as pressure builds on embattled Nvidia CEO Jensen Huang (BBC News)
 - [crypto] Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Famed ship SS United States sunk off coast of Florida (BBC News)
-- [macro] What we know as pressure builds on embattled Nvidia CEO Jensen Huang (BBC News)
 - [macro] Democrat Scott Colom seals historic win in Mississippi Senate race (BBC News)
 - [macro] Australian teen missing in bush for six days rescued alive (BBC News)
 - [macro] Survivor pulled from rubble of deadly building collapse in New York (BBC News)
