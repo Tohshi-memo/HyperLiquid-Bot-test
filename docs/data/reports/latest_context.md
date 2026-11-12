@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T06:52:29.952072+00:00`
-- Market context score: `42.66`
-- News risk score: `39.99`
-- Macro risk score: `27.57`
-- Risk-on score: `16.77`
-- Articles: `28`
+- Generated: `2026-11-12T07:07:23.047765+00:00`
+- Market context score: `47.74`
+- News risk score: `37.96`
+- Macro risk score: `25.17`
+- Risk-on score: `25.43`
+- Articles: `29`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:161, fx:6, index:27, metal:20, unknown:1278`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T06:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `2`
-- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `2`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `4`
+- macro: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `3`
 
 ## Headlines
 
+- [macro] UK economy grows at fastest rate for more than two years (BBC News)
+- [crypto] MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ukraine's power supply close to critical as Russian strikes bring darkness and cold (BBC News)
@@ -35,5 +37,3 @@
 - [crypto] Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ripple’s bank-lending system moves closer to launch on the XRP Ledger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] New York building collapse kills at least two, officials say (BBC News)
-- [crypto] Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack (Cointelegraph.com News)
-- [macro] What we know as pressure builds on embattled Nvidia CEO Jensen Huang (BBC News)
