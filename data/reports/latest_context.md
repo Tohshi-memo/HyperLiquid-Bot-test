@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T18:37:41.348065+00:00`
+- Generated: `2026-11-12T18:52:33.850362+00:00`
 - Market context score: `51.19`
 - News risk score: `39.31`
 - Macro risk score: `26.22`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T18:30:00+00:00`
+- Day/swing latest: `2026-11-12T18:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Hegseth awards medal to war memorial guard who reprimanded him and group (BBC News)
 - [policy] Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services (FRB: Press Release - All Releases)
 - [macro] US envoys head to meet Zelensky after talks with Putin in Moscow (BBC News)
 - [policy] Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027 (FRB: Press Release - All Releases)
@@ -36,5 +37,4 @@
 - [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
 - [macro] The rise and fall of Jensen Huang - how the tech superstar became mired in scandal (BBC News)
 - [macro] Israeli strike on Gaza hospital kills six Palestinians, health ministry says (BBC News)
-- [macro] Pentagon backs war memorial guard who reprimanded Hegseth's group (BBC News)
 - [crypto] Illinois crypto tax is impossible to enforce as written, crypto industry tells court (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
