@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T21:22:27.513268+00:00`
+- Generated: `2026-11-12T21:37:40.057591+00:00`
 - Market context score: `46.81`
 - News risk score: `40.15`
 - Macro risk score: `29.15`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T21:15:00+00:00`
+- Day/swing latest: `2026-11-12T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Search for British woman missing from Tui cruise in Atlantic called off (BBC News)
 - [crypto] Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US envoys head to meet Zelensky after talks with Putin in Moscow (BBC News)
 - [crypto] US Justice Department, business groups and DeFi firms challenge Illinois crypto tax (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Suspected bomb hoax threats force fresh evacuations of Italian schools (BBC News)
 - [macro] Hegseth awards medal to war memorial guard who reprimanded him and group (BBC News)
 - [policy] Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services (FRB: Press Release - All Releases)
-- [policy] Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027 (FRB: Press Release - All Releases)
