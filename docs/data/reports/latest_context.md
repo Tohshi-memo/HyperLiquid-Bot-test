@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T00:37:27.110137+00:00`
-- Market context score: `39.53`
-- News risk score: `41.17`
-- Macro risk score: `41.66`
-- Risk-on score: `16.13`
-- Articles: `38`
+- Generated: `2026-11-12T00:52:26.729182+00:00`
+- Market context score: `39.15`
+- News risk score: `41.73`
+- Macro risk score: `41.77`
+- Risk-on score: `15.8`
+- Articles: `37`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T00:30:00+00:00`
+- Day/swing latest: `2026-11-12T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `2`
+- crypto: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `2`
 - macro: articles `20`, risk hits `11`, risk headline rate `0.45`, policy hits `4`
 
 ## Headlines
 
+- [macro] Poundland set for more time to secure a rescue deal as emergency talks continue (BBC News)
 - [macro] Nigeria's president launches re-election manifesto but can he regain voters' trust? (BBC News)
 - [crypto] MSCI confirms Strategy’s removal from indexes at end of November (Cointelegraph.com News)
 - [macro] From Paris to DC - why offices are being turned into apartments (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes (Economy)
 - [macro] New York building collapse kills one person and injures 12 (BBC News)
 - [crypto] Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
