@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-12T07:22:29.961648+00:00`
-- Market context score: `47.74`
-- News risk score: `37.96`
-- Macro risk score: `25.17`
-- Risk-on score: `25.43`
-- Articles: `29`
-- Polymarket markets: `389`
+- Generated: `2026-11-12T07:37:24.242204+00:00`
+- Market context score: `48.06`
+- News risk score: `37.61`
+- Macro risk score: `24.5`
+- Risk-on score: `25.6`
+- Articles: `30`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-12T07:15:00+00:00`
+- Day/swing latest: `2026-11-12T07:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `3`
+- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `3`
 
 ## Headlines
 
 - [macro] UK economy grows at fastest rate for more than two years (BBC News)
+- [macro] Can Nigeria's president regain voters' trust after painful first term? (BBC News)
+- [macro] UK economic growth picks up to 0.7% in third quarter (Economy)
 - [crypto] MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -35,5 +37,3 @@
 - [crypto] South Korea to permit crypto withdrawal freezes during hacking threats (Cointelegraph.com News)
 - [crypto] Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ripple’s bank-lending system moves closer to launch on the XRP Ledger (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] New York building collapse kills at least two, officials say (BBC News)
