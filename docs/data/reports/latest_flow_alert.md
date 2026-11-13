@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-13T22:15:28.118137+00:00`
+- Generated: `2026-11-13T22:20:30.865434+00:00`
 - Flow alert score: `18.6`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `973371.544988` | liquidity: `299248.41316`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `844914.9841419999` | liquidity: `317633.66742`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `744140.633112` | liquidity: `263216.24604`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `617537.431069` | liquidity: `436414.78237`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `544737.510898` | liquidity: `322275.9548`
-- Will Marjorie Taylor Greene win the 2028 US Presidential Election? | 24h volume: `530772.98` | liquidity: `278167.02606`
-- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `468774.746667` | liquidity: `325777.87805`
-- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `400907.51999999996` | liquidity: `431942.95867`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `973371.544988` | liquidity: `318919.23482`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `844914.9841419999` | liquidity: `313996.70209`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `744140.633112` | liquidity: `301266.43469`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `617537.431069` | liquidity: `436887.85147`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `544737.510898` | liquidity: `320446.7497`
+- Will Marjorie Taylor Greene win the 2028 US Presidential Election? | 24h volume: `530772.98` | liquidity: `277867.05406`
+- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `468774.746667` | liquidity: `314032.14677`
+- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `400907.51999999996` | liquidity: `431048.74839`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
