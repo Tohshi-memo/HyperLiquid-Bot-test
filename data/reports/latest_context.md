@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T02:37:24.906347+00:00`
-- Market context score: `39.65`
-- News risk score: `42.94`
-- Macro risk score: `34.69`
-- Risk-on score: `15.27`
-- Articles: `43`
+- Generated: `2026-11-13T02:52:28.515579+00:00`
+- Market context score: `39.22`
+- News risk score: `43.48`
+- Macro risk score: `34.77`
+- Risk-on score: `14.78`
+- Articles: `42`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T02:30:00+00:00`
+- Day/swing latest: `2026-11-13T02:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.2778`, policy hits `2`
+- crypto: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `2`
 - macro: articles `21`, risk hits `8`, risk headline rate `0.2857`, policy hits `1`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `6`
 
 ## Headlines
 
+- [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
+- [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
+- [macro] Microsoft struggling to restore service as global outage affects Outlook and Teams (BBC News)
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [crypto] Trump nominates Hester Peirce successor among SEC, CFTC picks (Cointelegraph.com News)
 - [macro] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks (BBC News)
-- [macro] Microsoft struggling to restore service as global outage affects Outlook and Teams (BBC News)
 - [crypto] Former Nvidia CEO Huang had third alleged affair: Reuters (Cointelegraph.com News)
 - [crypto] Gemini’s quarterly retail trading volume sinks to 3-year low (Cointelegraph.com News)
 - [macro] Neither war nor peace in Tigray - is Ethiopia's latest conflict really over? (BBC News)
 - [macro] The rise of 'housefishing' - when does using AI go from enhancing to misleading? (BBC News)
-- [macro] Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand (BBC News)
-- [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
