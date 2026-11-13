@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T03:52:27.232384+00:00`
-- Market context score: `38.14`
-- News risk score: `43.93`
-- Macro risk score: `39.02`
-- Risk-on score: `14.38`
-- Articles: `36`
+- Generated: `2026-11-13T04:07:30.198460+00:00`
+- Market context score: `41.94`
+- News risk score: `40.1`
+- Macro risk score: `31.47`
+- Risk-on score: `16.74`
+- Articles: `34`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T03:45:00+00:00`
+- Day/swing latest: `2026-11-13T04:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `15`, risk hits `6`, risk headline rate `0.2667`, policy hits `2`
-- macro: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
-- policy: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `6`
+- macro: articles `17`, risk hits `5`, risk headline rate `0.2353`, policy hits `1`
+- policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `4`
 
 ## Headlines
 
+- [macro] Ousted Nvidia CEO Jensen Huang summoned to testify before Congress (BBC News)
+- [macro] Ousted Nvidia CEO Jensen Huang summoned to testify before Congress (BBC News)
 - [crypto] Bitcoin dips below $70,000 as Dollar Index hits 19-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [macro] North Korean hackers used fake video calls in $400m crypto hack, says FBI (BBC News)
-- [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
-- [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
-- [macro] Microsoft struggling to restore service as global outage affects Outlook and Teams (BBC News)
 - [crypto] Trump nominates Hester Peirce successor among SEC, CFTC picks (Cointelegraph.com News)
 - [macro] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks (BBC News)
 - [crypto] Former Nvidia CEO Huang had third alleged affair: Reuters (Cointelegraph.com News)
 - [crypto] Gemini’s quarterly retail trading volume sinks to 3-year low (Cointelegraph.com News)
+- [macro] The rise of 'housefishing' - when does using AI go from enhancing to misleading? (BBC News)
