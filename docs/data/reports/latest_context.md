@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T15:07:35.350509+00:00`
+- Generated: `2026-11-13T15:22:26.527753+00:00`
 - Market context score: `51.19`
 - News risk score: `32.86`
 - Macro risk score: `17.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T15:00:00+00:00`
+- Day/swing latest: `2026-11-13T15:15:00+00:00`
 
 ## News Categories
 
@@ -30,8 +30,8 @@
 
 - [macro] Bessent blames Lutnick's Commerce Department for failing to block Megaspeed (BBC News)
 - [macro] Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China (Economy)
-- [macro] What we know about the global Microsoft outage (BBC News)
-- [macro] What we know about the global Microsoft outage (BBC News)
+- [macro] Why is the Microsoft outage lasting so long? (BBC News)
+- [macro] Why is the Microsoft outage lasting so long? (BBC News)
 - [macro] Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years (Economy)
 - [crypto] Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
