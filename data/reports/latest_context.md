@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T06:07:32.022083+00:00`
+- Generated: `2026-11-13T06:22:30.033702+00:00`
 - Market context score: `41.41`
 - News risk score: `39.82`
 - Macro risk score: `35.03`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T06:00:00+00:00`
+- Day/swing latest: `2026-11-13T06:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin slides below $70K amid thin liquidity, ETF outflows (Cointelegraph.com News)
 - [crypto] Bitcoin ETFs are now down over $1.5 billion in net outflows for the year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin dips below $70,000 as Dollar Index hits 19-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [macro] North Korean hackers used fake video calls in $400m crypto hack, says FBI (BBC News)
-- [crypto] Trump nominates Hester Peirce successor among SEC, CFTC picks (Cointelegraph.com News)
