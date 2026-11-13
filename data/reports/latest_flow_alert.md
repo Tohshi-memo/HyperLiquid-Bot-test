@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-13T20:40:30.182911+00:00`
+- Generated: `2026-11-13T20:45:31.842600+00:00`
 - Flow alert score: `18.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `991398.4374879999` | liquidity: `293778.89515`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `742271.769112` | liquidity: `238662.04319`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `707084.35335` | liquidity: `319262.98774`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `663213.792734` | liquidity: `431468.12397`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `568481.185109` | liquidity: `274527.683`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `991398.4374879999` | liquidity: `295415.98066`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `742271.769112` | liquidity: `238349.90109`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `707084.35335` | liquidity: `321809.15216`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `663213.792734` | liquidity: `445408.47543`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `568481.185109` | liquidity: `276906.806`
 - Will Marjorie Taylor Greene win the 2028 US Presidential Election? | 24h volume: `530772.98` | liquidity: `274974.31485`
-- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `468774.746667` | liquidity: `310460.67377`
-- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `400907.51999999996` | liquidity: `421620.1642`
+- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `468774.746667` | liquidity: `310343.05077`
+- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `400907.51999999996` | liquidity: `424970.1242`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
