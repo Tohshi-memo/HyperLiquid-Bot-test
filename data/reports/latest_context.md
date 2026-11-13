@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T13:52:26.717597+00:00`
-- Market context score: `47.96`
-- News risk score: `35.88`
-- Macro risk score: `23.56`
-- Risk-on score: `23.55`
+- Generated: `2026-11-13T14:07:34.038980+00:00`
+- Market context score: `46.59`
+- News risk score: `37.78`
+- Macro risk score: `24.04`
+- Risk-on score: `22.29`
 - Articles: `39`
 - Polymarket markets: `390`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T13:45:00+00:00`
+- Day/swing latest: `2026-11-13T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `2`
-- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `2`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `2`
+- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `2`
 
 ## Headlines
 
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years (Economy)
 - [macro] Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge (Economy)
+- [macro] Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years (Economy)
+- [crypto] Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Arthur Hayes ‘flattered’ as Coinbase backs US stock perps (Cointelegraph.com News)
 - [macro] What we know about the global Microsoft outage (BBC News)
 - [macro] What we know about the global Microsoft outage (BBC News)
 - [crypto] Nakamoto shares fall 6% premarket after Q3 revenue turns negative (Cointelegraph.com News)
 - [macro] UN watchdog 'increasingly concerned' over Iran nuclear site (BBC News)
-- [macro] How a sex scandal at Nvidia is putting pressure on the White House (BBC News)
 - [macro] How a sex scandal at Nvidia is putting pressure on the White House (BBC News)
