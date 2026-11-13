@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-13T16:30:29.726808+00:00`
+- Generated: `2026-11-13T16:35:30.015481+00:00`
 - Flow alert score: `21.6`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1425575.6169549997` | liquidity: `330288.69588`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `845740.650668` | liquidity: `257178.22014`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `712769.604542` | liquidity: `450663.8069`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `705464.210153` | liquidity: `392506.28471`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `653482.815851` | liquidity: `428123.46899`
-- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `591587.792` | liquidity: `829699.39845`
-- Will Marjorie Taylor Greene win the 2028 US Presidential Election? | 24h volume: `530772.98` | liquidity: `241459.98076`
-- Will Mike Johnson win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `611418.91311`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1425575.6169549997` | liquidity: `331181.32712`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `845740.650668` | liquidity: `258187.93254`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `712769.604542` | liquidity: `426583.2771`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `705464.210153` | liquidity: `378665.70221`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `653482.815851` | liquidity: `398195.0225`
+- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `591587.792` | liquidity: `828130.15867`
+- Will Marjorie Taylor Greene win the 2028 US Presidential Election? | 24h volume: `530772.98` | liquidity: `241574.94476`
+- Will Mike Johnson win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `611544.70547`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
