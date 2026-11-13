@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-13T18:55:37.147522+00:00`
+- Generated: `2026-11-13T19:00:37.749854+00:00`
 - Flow alert score: `20.44`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1343943.219959` | liquidity: `306252.55694`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `723047.926336` | liquidity: `255751.94463`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `691351.740376` | liquidity: `264220.84209`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `679225.914583` | liquidity: `405808.06293`
-- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `591587.792` | liquidity: `822575.33825`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `590691.2930170001` | liquidity: `202649.8257`
-- Will Marjorie Taylor Greene win the 2028 US Presidential Election? | 24h volume: `530772.98` | liquidity: `225442.48349`
-- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `469081.886667` | liquidity: `270451.18198`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1343943.219959` | liquidity: `309524.17028`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `723047.926336` | liquidity: `255561.92421`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `691351.740376` | liquidity: `271319.31875`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `679225.914583` | liquidity: `405099.86734`
+- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `591587.792` | liquidity: `823104.61845`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `590691.2930170001` | liquidity: `201461.5532`
+- Will Marjorie Taylor Greene win the 2028 US Presidential Election? | 24h volume: `530772.98` | liquidity: `225843.82285`
+- Will Shawn Fain win the 2028 Democratic presidential nomination? | 24h volume: `469081.886667` | liquidity: `270489.33484`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
