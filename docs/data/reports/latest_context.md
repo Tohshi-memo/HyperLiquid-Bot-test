@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T05:52:25.547871+00:00`
-- Market context score: `40.49`
-- News risk score: `41.19`
-- Macro risk score: `35.23`
-- Risk-on score: `15.83`
-- Articles: `31`
+- Generated: `2026-11-13T06:07:32.022083+00:00`
+- Market context score: `41.41`
+- News risk score: `39.82`
+- Macro risk score: `35.03`
+- Risk-on score: `16.67`
+- Articles: `33`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T05:45:00+00:00`
+- Day/swing latest: `2026-11-13T06:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `6`, risk headline rate `0.25`, policy hits `2`
+- crypto: articles `18`, risk hits `6`, risk headline rate `0.2222`, policy hits `2`
 - macro: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin slides below $70K amid thin liquidity, ETF outflows (Cointelegraph.com News)
 - [crypto] Bitcoin ETFs are now down over $1.5 billion in net outflows for the year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SpaceX-Tesla merger talks put 30,000 bitcoin back in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [macro] North Korean hackers used fake video calls in $400m crypto hack, says FBI (BBC News)
 - [crypto] Trump nominates Hester Peirce successor among SEC, CFTC picks (Cointelegraph.com News)
-- [macro] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks (BBC News)
-- [crypto] Former Nvidia CEO Huang had third alleged affair: Reuters (Cointelegraph.com News)
