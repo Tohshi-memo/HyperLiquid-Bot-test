@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T09:22:28.052212+00:00`
+- Generated: `2026-11-13T09:37:44.605564+00:00`
 - Market context score: `45.18`
 - News risk score: `36.78`
 - Macro risk score: `25.23`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T09:15:00+00:00`
+- Day/swing latest: `2026-11-13T09:30:00+00:00`
 
 ## News Categories
 
@@ -27,8 +27,9 @@
 
 ## Headlines
 
-- [crypto] Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What we know about the global Microsoft outage (BBC News)
+- [macro] Heat pumps: How much heat does your home really need? (BBC News)
+- [crypto] Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT (Cointelegraph.com News)
 - [crypto] Microsoft 365 outage hits Outlook email and Teams calendars worldwide (Cointelegraph.com News)
 - [crypto] Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +37,3 @@
 - [crypto] Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin slides below $70K amid thin liquidity, ETF outflows (Cointelegraph.com News)
 - [crypto] Bitcoin ETFs are now down over $1.5 billion in net outflows for the year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] SpaceX-Tesla merger talks put 30,000 bitcoin back in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
