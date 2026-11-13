@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-13T07:40:26.531874+00:00`
+- Generated: `2026-11-13T07:45:26.323330+00:00`
 - Flow alert score: `20.64`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1312635.4689439998` | liquidity: `288350.56705`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1016774.7007779999` | liquidity: `822054.0811`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `708105.3471779999` | liquidity: `387736.3745`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1312635.4689439998` | liquidity: `288371.27428`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1016774.7007779999` | liquidity: `832503.4582`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `708105.3471779999` | liquidity: `386393.31254`
 - Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `639535.056834` | liquidity: `308149.58956`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `627023.723437` | liquidity: `368890.98397`
-- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `566441.792` | liquidity: `846185.07291`
-- Will Mike Johnson win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `620857.51911`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `398362.59074099996` | liquidity: `189750.70408`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `627023.723437` | liquidity: `368824.43165`
+- Will Mike Pence win the 2028 Republican presidential nomination? | 24h volume: `566441.792` | liquidity: `846235.76091`
+- Will Mike Johnson win the 2028 Republican presidential nomination? | 24h volume: `400000.0` | liquidity: `620872.41911`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `398362.59074099996` | liquidity: `190292.94005`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
