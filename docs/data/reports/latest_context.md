@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T00:07:30.161636+00:00`
-- Market context score: `41.03`
-- News risk score: `44.93`
-- Macro risk score: `34.38`
-- Risk-on score: `19.89`
-- Articles: `51`
-- Polymarket markets: `393`
+- Generated: `2026-11-13T00:22:32.577966+00:00`
+- Market context score: `38.7`
+- News risk score: `45.48`
+- Macro risk score: `33.78`
+- Risk-on score: `14.94`
+- Articles: `50`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T00:00:00+00:00`
+- Day/swing latest: `2026-11-13T00:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `2`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.2727`, policy hits `3`
+- crypto: articles `23`, risk hits `9`, risk headline rate `0.3043`, policy hits `2`
+- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `3`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `6`
 
 ## Headlines
 
+- [macro] The rise of 'housefishing' - when does using AI go from enhancing to misleading? (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
 - [crypto] Maple Finance’s strategy rift sends co-founder, COO to the exits (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] U.S. President Trump names CFTC, SEC nominees for first time in a year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters (Cointelegraph.com News)
