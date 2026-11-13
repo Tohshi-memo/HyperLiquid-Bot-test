@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T15:37:26.974952+00:00`
+- Generated: `2026-11-13T15:52:37.724879+00:00`
 - Market context score: `50.72`
 - News risk score: `33.55`
 - Macro risk score: `17.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T15:30:00+00:00`
+- Day/swing latest: `2026-11-13T15:45:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
-- [macro] Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China (Economy)
-- [macro] Bessent blames Lutnick's Commerce Department for failing to block Megaspeed (BBC News)
-- [macro] Why is the Microsoft outage lasting so long? (BBC News)
-- [macro] Why is the Microsoft outage lasting so long? (BBC News)
 - [macro] Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years (Economy)
+- [macro] Bessent blames Lutnick's Commerce Department for failing to block Megaspeed (BBC News)
+- [macro] Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China (Economy)
+- [macro] Why is the Microsoft outage lasting so long? (BBC News)
+- [macro] Why is the Microsoft outage lasting so long? (BBC News)
 - [crypto] Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Arthur Hayes ‘flattered’ as Coinbase backs US stock perps (Cointelegraph.com News)
