@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T08:22:28.727662+00:00`
-- Market context score: `44.69`
-- News risk score: `37.5`
-- Macro risk score: `25.33`
-- Risk-on score: `18.33`
-- Articles: `30`
+- Generated: `2026-11-13T08:37:27.266080+00:00`
+- Market context score: `45.18`
+- News risk score: `36.78`
+- Macro risk score: `25.23`
+- Risk-on score: `18.77`
+- Articles: `31`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T08:15:00+00:00`
+- Day/swing latest: `2026-11-13T08:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.2778`, policy hits `3`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `3`
 - macro: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Microsoft 365 outage hits Outlook email and Teams calendars worldwide (Cointelegraph.com News)
 - [macro] What we know about the global Microsoft outage (BBC News)
 - [crypto] Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] SpaceX-Tesla merger talks put 30,000 bitcoin back in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
 - [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
-- [crypto] Bitcoin dips below $70,000 as Dollar Index hits 19-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
