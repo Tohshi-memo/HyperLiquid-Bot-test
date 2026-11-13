@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T09:07:28.841417+00:00`
-- Market context score: `44.69`
-- News risk score: `37.5`
-- Macro risk score: `25.33`
-- Risk-on score: `18.33`
-- Articles: `30`
+- Generated: `2026-11-13T09:22:28.052212+00:00`
+- Market context score: `45.18`
+- News risk score: `36.78`
+- Macro risk score: `25.23`
+- Risk-on score: `18.77`
+- Articles: `31`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T09:00:00+00:00`
+- Day/swing latest: `2026-11-13T09:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.2778`, policy hits `3`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `3`
 - macro: articles `12`, risk hits `3`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Microsoft 365 outage hits Outlook email and Teams calendars worldwide (Cointelegraph.com News)
+- [crypto] Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What we know about the global Microsoft outage (BBC News)
+- [crypto] Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT (Cointelegraph.com News)
+- [crypto] Microsoft 365 outage hits Outlook email and Teams calendars worldwide (Cointelegraph.com News)
 - [crypto] Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin slides below $70K amid thin liquidity, ETF outflows (Cointelegraph.com News)
 - [crypto] Bitcoin ETFs are now down over $1.5 billion in net outflows for the year (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SpaceX-Tesla merger talks put 30,000 bitcoin back in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
-- [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
