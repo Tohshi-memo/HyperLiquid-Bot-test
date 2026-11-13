@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T05:07:36.514615+00:00`
-- Market context score: `40.82`
-- News risk score: `41.53`
-- Macro risk score: `32.57`
-- Risk-on score: `15.87`
-- Articles: `32`
+- Generated: `2026-11-13T05:22:27.955783+00:00`
+- Market context score: `40.29`
+- News risk score: `41.79`
+- Macro risk score: `34.78`
+- Risk-on score: `15.75`
+- Articles: `31`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T05:00:00+00:00`
+- Day/swing latest: `2026-11-13T05:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `15`, risk hits `6`, risk headline rate `0.2667`, policy hits `2`
+- macro: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `1`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `4`
 
 ## Headlines
 
+- [crypto] SpaceX-Tesla merger talks put 30,000 bitcoin back in focus (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
 - [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
 - [crypto] Bitcoin dips below $70,000 as Dollar Index hits 19-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks (BBC News)
 - [crypto] Former Nvidia CEO Huang had third alleged affair: Reuters (Cointelegraph.com News)
 - [crypto] Gemini’s quarterly retail trading volume sinks to 3-year low (Cointelegraph.com News)
-- [macro] The rise of 'housefishing' - when does using AI go from enhancing to misleading? (BBC News)
