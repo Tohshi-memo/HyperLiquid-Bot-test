@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T14:37:26.200121+00:00`
-- Market context score: `49.36`
-- News risk score: `34.39`
-- Macro risk score: `20.69`
-- Risk-on score: `24.33`
-- Articles: `37`
+- Generated: `2026-11-13T14:52:28.163201+00:00`
+- Market context score: `51.19`
+- News risk score: `32.86`
+- Macro risk score: `17.61`
+- Risk-on score: `25.93`
+- Articles: `36`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T14:30:00+00:00`
+- Day/swing latest: `2026-11-13T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `2`
-- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `1`
+- macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
@@ -36,5 +36,5 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Arthur Hayes ‘flattered’ as Coinbase backs US stock perps (Cointelegraph.com News)
 - [crypto] Nakamoto shares fall 6% premarket after Q3 revenue turns negative (Cointelegraph.com News)
-- [macro] UN watchdog 'increasingly concerned' over Iran nuclear site (BBC News)
+- [macro] UN watchdog 'increasingly concerned' over uninspected Iran nuclear site (BBC News)
 - [macro] How a sex scandal at Nvidia is putting pressure on the White House (BBC News)
