@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T03:37:34.410054+00:00`
-- Market context score: `37.39`
-- News risk score: `45.03`
-- Macro risk score: `38.8`
-- Risk-on score: `13.56`
-- Articles: `38`
+- Generated: `2026-11-13T03:52:27.232384+00:00`
+- Market context score: `38.14`
+- News risk score: `43.93`
+- Macro risk score: `39.02`
+- Risk-on score: `14.38`
+- Articles: `36`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T03:30:00+00:00`
+- Day/swing latest: `2026-11-13T03:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `2`
+- crypto: articles `15`, risk hits `6`, risk headline rate `0.2667`, policy hits `2`
 - macro: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
 - policy: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `6`
 
 ## Headlines
 
-- [crypto] Bitcoin dips below $70,000 as selloff gathers pace (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin dips below $70,000 as Dollar Index hits 19-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [macro] North Korean hackers used fake video calls in $400m crypto hack, says FBI (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
