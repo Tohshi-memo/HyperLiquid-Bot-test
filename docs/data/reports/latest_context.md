@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T07:37:24.728688+00:00`
-- Market context score: `42.63`
-- News risk score: `39.28`
-- Macro risk score: `30.23`
-- Risk-on score: `17.11`
-- Articles: `31`
+- Generated: `2026-11-13T07:52:24.866476+00:00`
+- Market context score: `43.26`
+- News risk score: `38.64`
+- Macro risk score: `28.97`
+- Risk-on score: `17.49`
+- Articles: `32`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T07:30:00+00:00`
+- Day/swing latest: `2026-11-13T07:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `19`, risk hits `7`, risk headline rate `0.2632`, policy hits `3`
-- macro: articles `12`, risk hits `4`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `1`
 
 ## Headlines
 
+- [macro] What we know about the global Microsoft outage (BBC News)
 - [crypto] Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +37,3 @@
 - [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
 - [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
 - [crypto] Bitcoin dips below $70,000 as Dollar Index hits 19-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
