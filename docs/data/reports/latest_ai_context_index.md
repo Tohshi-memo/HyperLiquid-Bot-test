@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-11-13T06:52:31.654890+00:00`
+- Updated: `2026-11-13T07:07:26.674488+00:00`
 - Asset price active records: `672`
 - Day/swing records: `12000`
 - Macro indicators: `11`
@@ -13,16 +13,16 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## First Read Files
 
-- `data/reports/latest_ai_context_index.md` (2406 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (62202 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (2379 bytes): Current canary signals.
+- `data/reports/latest_ai_context_index.md` (2374 bytes): Human-readable map.
+- `data/processed/ai_context_index.json` (62168 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (2363 bytes): Current canary signals.
 - `data/reports/latest_ai_analysis_brief.md` (874 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2100 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (50528 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5700 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2276 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10658 bytes): HIP-4 outcome market overview.
-- `data/reports/latest_relationship_scan.md` (3554 bytes): Mechanical relationship candidates.
+- `data/processed/ai_analysis_pack.json` (50520 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5713 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2271 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (10660 bytes): HIP-4 outcome market overview.
+- `data/reports/latest_relationship_scan.md` (3550 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
 ## Asset Classes
