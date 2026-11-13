@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T02:52:28.515579+00:00`
-- Market context score: `39.22`
-- News risk score: `43.48`
-- Macro risk score: `34.77`
-- Risk-on score: `14.78`
-- Articles: `42`
+- Generated: `2026-11-13T03:07:36.277714+00:00`
+- Market context score: `38.87`
+- News risk score: `43.68`
+- Macro risk score: `35.66`
+- Risk-on score: `14.51`
+- Articles: `41`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T02:45:00+00:00`
+- Day/swing latest: `2026-11-13T03:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `2`
 - macro: articles `21`, risk hits `8`, risk headline rate `0.2857`, policy hits `1`
-- policy: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `6`
+- policy: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `6`
 
 ## Headlines
 
+- [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
 - [macro] Microsoft struggling to restore service as global outage affects Outlook and Teams (BBC News)
-- [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [crypto] Trump nominates Hester Peirce successor among SEC, CFTC picks (Cointelegraph.com News)
 - [macro] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks (BBC News)
 - [crypto] Former Nvidia CEO Huang had third alleged affair: Reuters (Cointelegraph.com News)
