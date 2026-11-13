@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T14:22:36.281458+00:00`
-- Market context score: `46.59`
-- News risk score: `37.78`
-- Macro risk score: `24.04`
-- Risk-on score: `22.29`
-- Articles: `39`
-- Polymarket markets: `390`
+- Generated: `2026-11-13T14:37:26.200121+00:00`
+- Market context score: `49.36`
+- News risk score: `34.39`
+- Macro risk score: `20.69`
+- Risk-on score: `24.33`
+- Articles: `37`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T14:15:00+00:00`
+- Day/swing latest: `2026-11-13T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `2`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `2`
+- crypto: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `2`
+- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `1`
 
 ## Headlines
 
+- [macro] Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China (Economy)
 - [macro] What we know about the global Microsoft outage (BBC News)
 - [macro] What we know about the global Microsoft outage (BBC News)
-- [macro] Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge (Economy)
 - [macro] Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years (Economy)
 - [crypto] Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
