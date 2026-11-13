@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T14:07:34.038980+00:00`
+- Generated: `2026-11-13T14:22:36.281458+00:00`
 - Market context score: `46.59`
 - News risk score: `37.78`
 - Macro risk score: `24.04`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T14:00:00+00:00`
+- Day/swing latest: `2026-11-13T14:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] What we know about the global Microsoft outage (BBC News)
+- [macro] What we know about the global Microsoft outage (BBC News)
 - [macro] Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge (Economy)
 - [macro] Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years (Economy)
 - [crypto] Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Arthur Hayes ‘flattered’ as Coinbase backs US stock perps (Cointelegraph.com News)
-- [macro] What we know about the global Microsoft outage (BBC News)
-- [macro] What we know about the global Microsoft outage (BBC News)
 - [crypto] Nakamoto shares fall 6% premarket after Q3 revenue turns negative (Cointelegraph.com News)
 - [macro] UN watchdog 'increasingly concerned' over Iran nuclear site (BBC News)
 - [macro] How a sex scandal at Nvidia is putting pressure on the White House (BBC News)
