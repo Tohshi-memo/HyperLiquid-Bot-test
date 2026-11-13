@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T15:22:26.527753+00:00`
-- Market context score: `51.19`
-- News risk score: `32.86`
-- Macro risk score: `17.61`
-- Risk-on score: `25.93`
-- Articles: `36`
+- Generated: `2026-11-13T15:37:26.974952+00:00`
+- Market context score: `50.72`
+- News risk score: `33.55`
+- Macro risk score: `17.67`
+- Risk-on score: `25.49`
+- Articles: `35`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T15:15:00+00:00`
+- Day/swing latest: `2026-11-13T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `5`, risk headline rate `0.2632`, policy hits `2`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `2`
 - macro: articles `16`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [macro] Bessent blames Lutnick's Commerce Department for failing to block Megaspeed (BBC News)
 - [macro] Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China (Economy)
+- [macro] Bessent blames Lutnick's Commerce Department for failing to block Megaspeed (BBC News)
 - [macro] Why is the Microsoft outage lasting so long? (BBC News)
 - [macro] Why is the Microsoft outage lasting so long? (BBC News)
 - [macro] Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years (Economy)
