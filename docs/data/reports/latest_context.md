@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T21:52:31.592709+00:00`
+- Generated: `2026-11-13T22:07:24.743896+00:00`
 - Market context score: `46.71`
 - News risk score: `38.94`
 - Macro risk score: `25.12`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T21:45:00+00:00`
+- Day/swing latest: `2026-11-13T22:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex (Cointelegraph.com News)
 - [crypto] Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system (Cointelegraph.com News)
 - [macro] AI risks are the biggest threat to the financial system, Fed survey finds (Economy)
 - [policy] Agencies extend comment period for proposed third-party risk management guidance (FRB: Press Release - All Releases)
@@ -38,4 +39,3 @@
 - [crypto] US regulators move ahead on crypto trust charters as Senate scrutiny grows (Cointelegraph.com News)
 - [macro] Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal (BBC News)
 - [macro] Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague (BBC News)
-- [macro] Democratic Senate leader Schumer set to face leadership challenge (BBC News)
