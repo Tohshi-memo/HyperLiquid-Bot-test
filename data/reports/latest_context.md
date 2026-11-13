@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T03:22:36.699874+00:00`
-- Market context score: `36.57`
-- News risk score: `45.82`
-- Macro risk score: `40.39`
-- Risk-on score: `12.99`
-- Articles: `39`
+- Generated: `2026-11-13T03:37:34.410054+00:00`
+- Market context score: `37.39`
+- News risk score: `45.03`
+- Macro risk score: `38.8`
+- Risk-on score: `13.56`
+- Articles: `38`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T03:15:00+00:00`
+- Day/swing latest: `2026-11-13T03:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `2`
-- macro: articles `19`, risk hits `9`, risk headline rate `0.3684`, policy hits `1`
+- macro: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
 - policy: articles `3`, risk hits `2`, risk headline rate `0.6667`, policy hits `6`
 
 ## Headlines
 
+- [crypto] Bitcoin dips below $70,000 as selloff gathers pace (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [macro] North Korean hackers used fake video calls in $400m crypto hack, says FBI (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks (BBC News)
 - [crypto] Former Nvidia CEO Huang had third alleged affair: Reuters (Cointelegraph.com News)
 - [crypto] Gemini’s quarterly retail trading volume sinks to 3-year low (Cointelegraph.com News)
-- [macro] Neither war nor peace in Tigray - is Ethiopia's latest conflict really over? (BBC News)
