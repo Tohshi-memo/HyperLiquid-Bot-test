@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T23:07:24.195068+00:00`
-- Market context score: `47.31`
+- Generated: `2026-11-13T23:22:28.274824+00:00`
+- Market context score: `46.85`
 - News risk score: `38.94`
-- Macro risk score: `25.12`
-- Risk-on score: `25.29`
-- Articles: `40`
+- Macro risk score: `24.65`
+- Risk-on score: `24.09`
+- Articles: `41`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,14 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T23:00:00+00:00`
+- Day/swing latest: `2026-11-13T23:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `16`, risk hits `8`, risk headline rate `0.3125`, policy hits `2`
 - macro: articles `22`, risk hits `4`, risk headline rate `0.1364`, policy hits `3`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
@@ -33,8 +34,8 @@
 - [crypto] OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex (Cointelegraph.com News)
 - [crypto] Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system (Cointelegraph.com News)
 - [macro] AI risks are the biggest threat to the financial system, Fed survey finds (Economy)
+- [policy] Agencies extend comment period for proposed third-party risk management guidance (FRB: Press Release - All Releases)
 - [macro] Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption (BBC News)
 - [macro] Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption (BBC News)
 - [crypto] Kraken parent Payward gains market share as slower trading weighs on earnings (Cointelegraph.com News)
 - [crypto] US regulators move ahead on crypto trust charters as Senate scrutiny grows (Cointelegraph.com News)
-- [macro] SpaceX to attempt double catch of huge Starship rocket (BBC News)
