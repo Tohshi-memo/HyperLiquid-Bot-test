@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T14:52:28.163201+00:00`
+- Generated: `2026-11-13T15:07:35.350509+00:00`
 - Market context score: `51.19`
 - News risk score: `32.86`
 - Macro risk score: `17.61`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T14:45:00+00:00`
+- Day/swing latest: `2026-11-13T15:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Bessent blames Lutnick's Commerce Department for failing to block Megaspeed (BBC News)
 - [macro] Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China (Economy)
 - [macro] What we know about the global Microsoft outage (BBC News)
 - [macro] What we know about the global Microsoft outage (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Arthur Hayes ‘flattered’ as Coinbase backs US stock perps (Cointelegraph.com News)
 - [crypto] Nakamoto shares fall 6% premarket after Q3 revenue turns negative (Cointelegraph.com News)
 - [macro] UN watchdog 'increasingly concerned' over uninspected Iran nuclear site (BBC News)
-- [macro] How a sex scandal at Nvidia is putting pressure on the White House (BBC News)
