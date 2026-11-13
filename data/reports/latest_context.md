@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T04:07:30.198460+00:00`
+- Generated: `2026-11-13T04:22:26.264802+00:00`
 - Market context score: `41.94`
 - News risk score: `40.1`
 - Macro risk score: `31.47`
 - Risk-on score: `16.74`
 - Articles: `34`
-- Polymarket markets: `391`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T04:00:00+00:00`
+- Day/swing latest: `2026-11-13T04:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Ousted Nvidia CEO Jensen Huang summoned to testify before Congress (BBC News)
-- [macro] Ousted Nvidia CEO Jensen Huang summoned to testify before Congress (BBC News)
+- [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
+- [macro] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy (BBC News)
 - [crypto] Bitcoin dips below $70,000 as Dollar Index hits 19-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
 - [macro] North Korean hackers used fake video calls in $400m crypto hack, says FBI (BBC News)
