@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-13T01:52:31.011473+00:00`
-- Market context score: `41.59`
-- News risk score: `40.45`
-- Macro risk score: `35.12`
-- Risk-on score: `17.62`
-- Articles: `48`
+- Generated: `2026-11-13T02:07:28.112968+00:00`
+- Market context score: `40.49`
+- News risk score: `41.43`
+- Macro risk score: `36.18`
+- Risk-on score: `16.41`
+- Articles: `44`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-13T01:45:00+00:00`
+- Day/swing latest: `2026-11-13T02:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `2`
-- macro: articles `23`, risk hits `9`, risk headline rate `0.3043`, policy hits `1`
+- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `2`
+- macro: articles `22`, risk hits `9`, risk headline rate `0.3182`, policy hits `1`
 - policy: articles `4`, risk hits `2`, risk headline rate `0.5`, policy hits `6`
 
 ## Headlines
 
+- [macro] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks (BBC News)
 - [macro] Microsoft struggling to restore service as global outage affects Outlook and Teams (BBC News)
 - [crypto] Former Nvidia CEO Huang had third alleged affair: Reuters (Cointelegraph.com News)
 - [macro] Australian footballers will not be charged after hotel incident, police say (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
 - [macro] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (BBC News)
-- [crypto] Maple Finance’s strategy rift sends co-founder, COO to the exits (Cointelegraph.com News)
