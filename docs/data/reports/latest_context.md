@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T08:52:23.890531+00:00`
-- Market context score: `46.71`
-- News risk score: `36.08`
-- Macro risk score: `17.75`
-- Risk-on score: `18.75`
-- Articles: `25`
+- Generated: `2026-11-14T09:07:30.898866+00:00`
+- Market context score: `48.1`
+- News risk score: `34.04`
+- Macro risk score: `17.92`
+- Risk-on score: `20.18`
+- Articles: `23`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T08:45:00+00:00`
+- Day/swing latest: `2026-11-14T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 - macro: articles `13`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [crypto] MegaETH parent cuts 20% of staff amid restructuring, AI push (Cointelegraph.com News)
-- [macro] What we know about the longest ground stop since 9/11 (BBC News)
+- [macro] What we know about the ground stop and what to do if you're affected (BBC News)
 - [macro] Microsoft says services fully restored after day-long global outage (BBC News)
 - [macro] Microsoft says services fully restored after day-long global outage (BBC News)
 - [crypto] Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11 (Cointelegraph.com News)
