@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T00:37:29.902342+00:00`
+- Generated: `2026-11-14T00:52:30.158925+00:00`
 - Market context score: `51.65`
 - News risk score: `35.18`
 - Macro risk score: `20.01`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T00:30:00+00:00`
+- Day/swing latest: `2026-11-14T00:45:00+00:00`
 
 ## News Categories
 
@@ -33,7 +33,7 @@
 - [macro] Arrested generals and a threatened VP: President's son fuels Ugandan succession fever (BBC News)
 - [macro] Setback for SpaceX Starship rocket's double-catch test (BBC News)
 - [policy] Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy (FRB: Speeches)
-- [macro] 'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans (BBC News)
+- [macro] 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision (BBC News)
 - [crypto] Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How the Jensen Huang scandal created a headache for business-friendly Singapore (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
