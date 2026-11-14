@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T01:07:25.928021+00:00`
+- Generated: `2026-11-14T01:22:49.339298+00:00`
 - Market context score: `50.95`
 - News risk score: `36.22`
 - Macro risk score: `20.09`
 - Risk-on score: `29.17`
 - Articles: `38`
-- Polymarket markets: `388`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T01:00:00+00:00`
+- Day/swing latest: `2026-11-14T01:15:00+00:00`
 
 ## News Categories
 
@@ -35,7 +35,7 @@
 - [policy] Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy (FRB: Speeches)
 - [macro] 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision (BBC News)
 - [crypto] Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] After a summer win, India's Gen Z protesters face a winter of uncertainty (BBC News)
 - [macro] How the Jensen Huang scandal created a headache for business-friendly Singapore (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex (Cointelegraph.com News)
-- [crypto] Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system (Cointelegraph.com News)
