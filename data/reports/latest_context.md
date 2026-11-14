@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T05:52:30.249114+00:00`
-- Market context score: `45.13`
-- News risk score: `37.77`
-- Macro risk score: `20.99`
-- Risk-on score: `17.89`
-- Articles: `28`
+- Generated: `2026-11-14T06:07:34.962978+00:00`
+- Market context score: `45.33`
+- News risk score: `37.55`
+- Macro risk score: `20.59`
+- Risk-on score: `18.0`
+- Articles: `29`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -17,18 +17,20 @@
 - Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:162, fx:6, index:27, metal:20, unknown:1278`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-11-14T06:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1176`, policy hits `3`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1111`, policy hits `3`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump, Putin and Xi plan historic joint meeting in China next week, White House says (BBC News)
 - [crypto] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] What we know about the longest ground stop since 9/11 (BBC News)
 - [macro] 'We'll get home one day' - US travellers impacted by nationwide ground stop (BBC News)
 - [macro] Jojo the gorilla has spent his life alone. Can he finally find a companion? (BBC News)
 - [macro] Arrested generals and a threatened VP: President's son fuels Ugandan succession fever (BBC News)
@@ -36,5 +38,3 @@
 - [policy] Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy (FRB: Speeches)
 - [macro] 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision (BBC News)
 - [crypto] Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] After a summer win, India's Gen Z protesters face a winter of uncertainty (BBC News)
-- [macro] How the Jensen Huang scandal created a headache for business-friendly Singapore (BBC News)
