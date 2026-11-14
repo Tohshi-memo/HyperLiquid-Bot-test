@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T14:37:31.588362+00:00`
-- Market context score: `44.08`
-- News risk score: `37.52`
-- Macro risk score: `25.33`
-- Risk-on score: `16.98`
-- Articles: `16`
-- Polymarket markets: `386`
+- Generated: `2026-11-14T14:52:37.953699+00:00`
+- Market context score: `41.7`
+- News risk score: `39.86`
+- Macro risk score: `30.0`
+- Risk-on score: `15.43`
+- Articles: `17`
+- Polymarket markets: `385`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T14:30:00+00:00`
+- Day/swing latest: `2026-11-14T14:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 - macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [commodity] Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says (Energy)
 - [macro] What we know about the ground stop and what to do if you're affected (BBC News)
 - [macro] Second catch attempt for SpaceX Starship rocket (BBC News)
 - [crypto] Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Hungarian authorities uncover $20m during probe of Orbán-era minister (BBC News)
 - [crypto] Microsoft confirms global outage resolved, rules out cyberattack (Cointelegraph.com News)
-- [crypto] MegaETH parent cuts 20% of staff amid restructuring, AI push (Cointelegraph.com News)
