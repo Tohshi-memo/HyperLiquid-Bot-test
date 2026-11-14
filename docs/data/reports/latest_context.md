@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T19:52:26.330683+00:00`
+- Generated: `2026-11-14T20:07:26.741995+00:00`
 - Market context score: `44.22`
 - News risk score: `36.93`
 - Macro risk score: `29.38`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T19:45:00+00:00`
+- Day/swing latest: `2026-11-14T20:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] What we know about the ground stop and what to do if you're affected (BBC News)
+- [macro] How telecoms upgrade work sparked US flight chaos (BBC News)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
 - [macro] Copper wire upgrade caused nationwide flight suspension, US transport secretary says (BBC News)
