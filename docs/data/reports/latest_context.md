@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T11:37:28.096969+00:00`
-- Market context score: `44.67`
-- News risk score: `38.93`
-- Macro risk score: `17.6`
-- Risk-on score: `16.57`
-- Articles: `19`
+- Generated: `2026-11-14T11:52:31.774780+00:00`
+- Market context score: `45.03`
+- News risk score: `38.31`
+- Macro risk score: `16.62`
+- Risk-on score: `16.46`
+- Articles: `18`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T11:30:00+00:00`
+- Day/swing latest: `2026-11-14T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `2`, risk headline rate `0.4`, policy hits `0`
-- macro: articles `12`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- macro: articles `11`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [macro] Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Hungarian authorities uncover $20m during probe of Orbán-era minister (BBC News)
 - [crypto] Microsoft confirms global outage resolved, rules out cyberattack (Cointelegraph.com News)
-- [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [crypto] MegaETH parent cuts 20% of staff amid restructuring, AI push (Cointelegraph.com News)
 - [macro] What we know about the ground stop and what to do if you're affected (BBC News)
 - [macro] Microsoft says services fully restored after day-long global outage (BBC News)
