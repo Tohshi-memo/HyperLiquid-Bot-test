@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T19:22:23.136515+00:00`
+- Generated: `2026-11-14T19:27:36.003746+00:00`
 - Market context score: `44.22`
 - News risk score: `36.93`
 - Macro risk score: `29.38`
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] What we know about the ground stop and what to do if you're affected (BBC News)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
 - [macro] Copper wire upgrade caused nationwide flight suspension, US transport secretary says (BBC News)
-- [macro] What we know about the ground stop and what to do if you're affected (BBC News)
 - [macro] Italy fines Meta €805m over accessing users' photos (BBC News)
 - [macro] Philippines wins first Eurovision Song Contest Asia (BBC News)
 - [macro] Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress' (BBC News)
