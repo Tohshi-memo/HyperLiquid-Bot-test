@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T08:07:30.633416+00:00`
-- Market context score: `45.4`
-- News risk score: `38.0`
-- Macro risk score: `17.83`
-- Risk-on score: `17.5`
-- Articles: `24`
+- Generated: `2026-11-14T08:22:26.052686+00:00`
+- Market context score: `46.71`
+- News risk score: `36.08`
+- Macro risk score: `17.75`
+- Risk-on score: `18.75`
+- Articles: `25`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T08:00:00+00:00`
+- Day/swing latest: `2026-11-14T08:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `0`
+- crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 - macro: articles `13`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] MegaETH parent cuts 20% of staff amid restructuring, AI push (Cointelegraph.com News)
 - [macro] What we know about the longest ground stop since 9/11 (BBC News)
 - [macro] Microsoft says services fully restored after day-long global outage (BBC News)
 - [macro] Microsoft says services fully restored after day-long global outage (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'We'll get home one day' - US travellers impacted by nationwide ground stop (BBC News)
 - [macro] Jojo the gorilla has spent his life alone. Can he finally find a companion? (BBC News)
-- [macro] Arrested generals and a threatened VP: President's son fuels Ugandan succession fever (BBC News)
