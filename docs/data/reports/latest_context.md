@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T04:22:26.427831+00:00`
-- Market context score: `50.91`
-- News risk score: `36.1`
-- Macro risk score: `20.58`
-- Risk-on score: `29.18`
-- Articles: `32`
+- Generated: `2026-11-14T04:37:30.685223+00:00`
+- Market context score: `48.1`
+- News risk score: `38.91`
+- Macro risk score: `20.48`
+- Risk-on score: `25.27`
+- Articles: `33`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T04:15:00+00:00`
+- Day/swing latest: `2026-11-14T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `10`, risk hits `6`, risk headline rate `0.3`, policy hits `1`
+- crypto: articles `11`, risk hits `7`, risk headline rate `0.3636`, policy hits `1`
 - macro: articles `19`, risk hits `3`, risk headline rate `0.1053`, policy hits `3`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'We'll get home one day' - US travellers impacted by nationwide ground stop (BBC News)
 - [macro] Jojo the gorilla has spent his life alone. Can he finally find a companion? (BBC News)
 - [macro] Arrested generals and a threatened VP: President's son fuels Ugandan succession fever (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] After a summer win, India's Gen Z protesters face a winter of uncertainty (BBC News)
 - [macro] How the Jensen Huang scandal created a headache for business-friendly Singapore (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
