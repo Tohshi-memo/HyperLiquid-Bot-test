@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T20:52:36.752130+00:00`
+- Generated: `2026-11-14T21:07:33.252811+00:00`
 - Market context score: `43.49`
 - News risk score: `38.32`
 - Macro risk score: `29.42`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T20:45:00+00:00`
+- Day/swing latest: `2026-11-14T21:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Second catch attempt as SpaceX Starship rocket heads back to Earth (BBC News)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [macro] 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision (BBC News)
 - [macro] How telecoms upgrade work sparked US flight chaos (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Philippines wins first Eurovision Song Contest Asia (BBC News)
 - [macro] Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress' (BBC News)
 - [crypto] Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
