@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T10:52:27.560522+00:00`
+- Generated: `2026-11-14T11:07:25.906919+00:00`
 - Market context score: `44.67`
 - News risk score: `38.93`
 - Macro risk score: `17.6`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T10:45:00+00:00`
+- Day/swing latest: `2026-11-14T11:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Hungarian authorities uncover $20m during probe of Orbán-era minister (BBC News)
 - [crypto] Microsoft confirms global outage resolved, rules out cyberattack (Cointelegraph.com News)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [crypto] MegaETH parent cuts 20% of staff amid restructuring, AI push (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11 (Cointelegraph.com News)
 - [commodity] Ecuador wants to monetize its biodiversity — while still drilling for oil (Energy)
 - [macro] Trump, Putin and Xi plan historic joint meeting in China next week, White House says (BBC News)
-- [crypto] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
