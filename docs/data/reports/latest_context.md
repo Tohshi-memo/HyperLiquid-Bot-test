@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T14:52:37.953699+00:00`
-- Market context score: `41.7`
-- News risk score: `39.86`
-- Macro risk score: `30.0`
-- Risk-on score: `15.43`
-- Articles: `17`
+- Generated: `2026-11-14T15:07:24.968917+00:00`
+- Market context score: `38.41`
+- News risk score: `44.71`
+- Macro risk score: `31.39`
+- Risk-on score: `12.75`
+- Articles: `18`
 - Polymarket markets: `385`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T14:45:00+00:00`
+- Day/swing latest: `2026-11-14T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- crypto: articles `8`, risk hits `3`, risk headline rate `0.375`, policy hits `1`
 - macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [crypto] UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says (Energy)
 - [macro] What we know about the ground stop and what to do if you're affected (BBC News)
 - [macro] Second catch attempt for SpaceX Starship rocket (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Hungarian authorities uncover $20m during probe of Orbán-era minister (BBC News)
-- [crypto] Microsoft confirms global outage resolved, rules out cyberattack (Cointelegraph.com News)
