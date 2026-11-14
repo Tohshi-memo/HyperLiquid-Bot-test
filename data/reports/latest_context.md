@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T12:07:27.005670+00:00`
+- Generated: `2026-11-14T12:22:29.595214+00:00`
 - Market context score: `43.98`
 - News risk score: `39.33`
 - Macro risk score: `18.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T12:00:00+00:00`
+- Day/swing latest: `2026-11-14T12:15:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,7 @@
 ## Headlines
 
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
-- [macro] Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans (BBC News)
+- [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Hungarian authorities uncover $20m during probe of Orbán-era minister (BBC News)
 - [crypto] Microsoft confirms global outage resolved, rules out cyberattack (Cointelegraph.com News)
