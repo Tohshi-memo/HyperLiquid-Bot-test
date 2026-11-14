@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T15:52:25.504896+00:00`
-- Market context score: `39.72`
-- News risk score: `42.79`
-- Macro risk score: `31.32`
-- Risk-on score: `14.0`
-- Articles: `19`
+- Generated: `2026-11-14T16:07:42.647784+00:00`
+- Market context score: `40.58`
+- News risk score: `41.93`
+- Macro risk score: `29.61`
+- Risk-on score: `14.55`
+- Articles: `20`
 - Polymarket markets: `385`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T15:45:00+00:00`
+- Day/swing latest: `2026-11-14T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `9`, risk hits `3`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump, Putin and Xi plan historic joint meeting in China next week, White House says (BBC News)
+- [macro] Nigeria cautions against travel via Ethiopia's main airport due to altitude (BBC News)
 - [crypto] Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [crypto] UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Second catch attempt for SpaceX Starship rocket (BBC News)
 - [crypto] Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] A behind the scenes force may amplify bitcoin and ether price volatility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
