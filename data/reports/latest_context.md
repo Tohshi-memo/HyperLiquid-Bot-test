@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T18:07:31.315562+00:00`
+- Generated: `2026-11-14T18:22:26.993548+00:00`
 - Market context score: `46.11`
 - News risk score: `34.68`
 - Macro risk score: `26.94`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T18:00:00+00:00`
+- Day/swing latest: `2026-11-14T18:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress' (BBC News)
 - [macro] Philippines wins first Eurovision Song Contest Asia (BBC News)
+- [macro] Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress' (BBC News)
 - [macro] Copper wire upgrade caused nationwide flight suspension, US transport secretary says (BBC News)
 - [crypto] Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
