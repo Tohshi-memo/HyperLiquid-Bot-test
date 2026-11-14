@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T22:07:25.747978+00:00`
-- Market context score: `45.38`
-- News risk score: `36.5`
-- Macro risk score: `25.75`
-- Risk-on score: `19.17`
-- Articles: `20`
+- Generated: `2026-11-14T22:22:22.428174+00:00`
+- Market context score: `45.84`
+- News risk score: `36.01`
+- Macro risk score: `24.8`
+- Risk-on score: `19.42`
+- Articles: `21`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T22:00:00+00:00`
+- Day/swing latest: `2026-11-14T22:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `11`, risk hits `1`, risk headline rate `0.0909`, policy hits `2`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `2`
 
 ## Headlines
 
+- [macro] 'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth (BBC News)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [macro] 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision (BBC News)
 - [macro] How telecoms upgrade work sparked US flight chaos (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Philippines wins first Eurovision Song Contest Asia (BBC News)
 - [macro] Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress' (BBC News)
 - [crypto] Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
