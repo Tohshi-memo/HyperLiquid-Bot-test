@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T07:37:25.889968+00:00`
+- Generated: `2026-11-14T07:52:29.140234+00:00`
 - Market context score: `41.9`
 - News risk score: `41.61`
 - Macro risk score: `24.88`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T07:30:00+00:00`
+- Day/swing latest: `2026-11-14T07:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
-- [macro] Microsoft says services fully restored after for day-long global outage (BBC News)
-- [macro] Microsoft says services fully restored after for day-long global outage (BBC News)
-- [crypto] Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions (Cointelegraph.com News)
+- [macro] What we know about the longest ground stop since 9/11 (BBC News)
+- [macro] Microsoft says services fully restored after day-long global outage (BBC News)
+- [macro] Microsoft says services fully restored after day-long global outage (BBC News)
+- [crypto] Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11 (Cointelegraph.com News)
 - [commodity] Ecuador wants to monetize its biodiversity — while still drilling for oil (Energy)
 - [macro] Trump, Putin and Xi plan historic joint meeting in China next week, White House says (BBC News)
 - [crypto] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What we know about the longest ground stop since 9/11 (BBC News)
 - [macro] 'We'll get home one day' - US travellers impacted by nationwide ground stop (BBC News)
 - [macro] Jojo the gorilla has spent his life alone. Can he finally find a companion? (BBC News)
 - [macro] Arrested generals and a threatened VP: President's son fuels Ugandan succession fever (BBC News)
