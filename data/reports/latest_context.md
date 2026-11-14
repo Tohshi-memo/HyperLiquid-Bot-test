@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T15:07:24.968917+00:00`
+- Generated: `2026-11-14T15:22:24.033417+00:00`
 - Market context score: `38.41`
 - News risk score: `44.71`
 - Macro risk score: `31.39`
 - Risk-on score: `12.75`
 - Articles: `18`
-- Polymarket markets: `385`
+- Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T15:00:00+00:00`
+- Day/swing latest: `2026-11-14T15:15:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [crypto] UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says (Energy)
 - [macro] What we know about the ground stop and what to do if you're affected (BBC News)
 - [macro] Second catch attempt for SpaceX Starship rocket (BBC News)
 - [crypto] Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] A behind the scenes force may amplify bitcoin and ether price volatility (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Hungarian authorities uncover $20m during probe of Orbán-era minister (BBC News)
