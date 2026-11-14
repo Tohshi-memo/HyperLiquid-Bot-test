@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-14T00:07:24.972676+00:00`
-- Market context score: `52.06`
-- News risk score: `33.36`
-- Macro risk score: `19.24`
-- Risk-on score: `28.9`
+- Generated: `2026-11-14T00:22:24.966235+00:00`
+- Market context score: `51.8`
+- News risk score: `35.16`
+- Macro risk score: `19.49`
+- Risk-on score: `29.95`
 - Articles: `41`
 - Polymarket markets: `388`
 
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-14T00:00:00+00:00`
+- Day/swing latest: `2026-11-14T00:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `22`, risk hits `3`, risk headline rate `0.0909`, policy hits `3`
+- crypto: articles `14`, risk hits `7`, risk headline rate `0.2857`, policy hits `1`
+- macro: articles `24`, risk hits `3`, risk headline rate `0.0833`, policy hits `4`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Jojo the gorilla has spent his life alone. Can he finally find a companion? (BBC News)
 - [macro] Arrested generals and a threatened VP: President's son fuels Ugandan succession fever (BBC News)
 - [macro] Setback for SpaceX Starship rocket's double-catch test (BBC News)
 - [policy] Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy (FRB: Speeches)
+- [macro] 'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans (BBC News)
 - [crypto] Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How the Jensen Huang scandal created a headache for business-friendly Singapore (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex (Cointelegraph.com News)
 - [crypto] Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system (Cointelegraph.com News)
-- [macro] AI risks are the biggest threat to the financial system, Fed survey finds (Economy)
-- [macro] Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans (BBC News)
