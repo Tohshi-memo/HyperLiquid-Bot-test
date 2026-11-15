@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T02:37:38.964133+00:00`
-- Market context score: `48.13`
-- News risk score: `33.89`
-- Macro risk score: `20.45`
-- Risk-on score: `21.07`
-- Articles: `18`
+- Generated: `2026-11-15T02:52:23.537009+00:00`
+- Market context score: `49.74`
+- News risk score: `31.51`
+- Macro risk score: `20.23`
+- Risk-on score: `22.57`
+- Articles: `19`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T02:30:00+00:00`
+- Day/swing latest: `2026-11-15T02:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `1`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `1`
 - macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `2`
 
 ## Headlines
 
+- [crypto] XRP crashes to its lowest since November 2024 as money leaves crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] My mother told me I would die if I sought treatment for Ebola - I am proof you can survive (BBC News)
 - [macro] Judo champion shakes up French  presidential race with surprise candidacy (BBC News)
 - [macro] Beauty advent calendars can cost hundreds - but are they value for money? (BBC News)
@@ -36,4 +37,3 @@
 - [macro] 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision (BBC News)
 - [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
 - [macro] Copper wire upgrade caused nationwide flight suspension, US transport secretary says (BBC News)
-- [macro] Italy fines Meta €805m over accessing users' photos (BBC News)
