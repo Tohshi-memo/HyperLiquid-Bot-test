@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T10:22:27.666555+00:00`
-- Market context score: `43.15`
-- News risk score: `39.53`
-- Macro risk score: `24.69`
-- Risk-on score: `16.36`
-- Articles: `14`
-- Polymarket markets: `388`
+- Generated: `2026-11-15T10:37:28.654627+00:00`
+- Market context score: `48.57`
+- News risk score: `32.58`
+- Macro risk score: `18.67`
+- Risk-on score: `20.28`
+- Articles: `13`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T10:15:00+00:00`
+- Day/swing latest: `2026-11-15T10:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `1`
+- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin falls to four-month low near $62K as crypto selloff deepens (Cointelegraph.com News)
 - [macro] Pope Leo speaks of community 'suffering' on visit to remote Andes town (BBC News)
 - [macro] Fifth Canadian soldier dies from injuries caused by large fire at military base (BBC News)
 - [macro] Israel kills Hamas commander in strike on Gaza camp, officials say (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Judge temporarily blocks Trump from closing Washington DC golf course for renovation (BBC News)
 - [crypto] XRP crashes to its lowest since November 2024 as money leaves crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] My mother told me I would die if I sought treatment for Ebola - I am proof you can survive (BBC News)
-- [macro] Judo champion shakes up French  presidential race with surprise candidacy (BBC News)
