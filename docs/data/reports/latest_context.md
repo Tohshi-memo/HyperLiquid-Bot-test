@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T11:22:33.345832+00:00`
-- Market context score: `48.57`
-- News risk score: `32.58`
+- Generated: `2026-11-15T11:37:27.312224+00:00`
+- Market context score: `50.1`
+- News risk score: `30.33`
 - Macro risk score: `18.67`
-- Risk-on score: `20.28`
-- Articles: `13`
+- Risk-on score: `21.78`
+- Articles: `14`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T11:15:00+00:00`
+- Day/swing latest: `2026-11-15T11:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 - macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Three men sentenced to death in Jordan over fatal church mass shooting (BBC News)
 - [crypto] Bitcoin falls to four-month low near $62K as crypto selloff deepens (Cointelegraph.com News)
 - [macro] Pope Leo speaks of community 'suffering' on visit to remote Andes town (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Copper wire upgrade behind US flight suspension, transport secretary says (BBC News)
 - [crypto] RWA protocol stUSDT winds down three years after $2.3B TVL peak (Cointelegraph.com News)
 - [macro] Judge temporarily blocks Trump from closing Washington DC golf course for renovation (BBC News)
-- [crypto] XRP crashes to its lowest since November 2024 as money leaves crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
