@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T07:07:29.757613+00:00`
-- Market context score: `56.56`
-- News risk score: `21.0`
-- Macro risk score: `18.0`
-- Risk-on score: `28.0`
-- Articles: `12`
+- Generated: `2026-11-15T07:22:33.104075+00:00`
+- Market context score: `56.22`
+- News risk score: `21.33`
+- Macro risk score: `18.67`
+- Risk-on score: `27.78`
+- Articles: `11`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T07:00:00+00:00`
+- Day/swing latest: `2026-11-15T07:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
 
 ## Headlines
 
+- [macro] Copper wire upgrade behind US flight suspension, transport secretary says (BBC News)
 - [crypto] RWA protocol stUSDT winds down three years after $2.3B TVL peak (Cointelegraph.com News)
 - [macro] Judge temporarily blocks Trump from closing Washington DC golf course for renovation (BBC News)
 - [crypto] XRP crashes to its lowest since November 2024 as money leaves crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +37,3 @@
 - [macro] Beauty advent calendars can cost hundreds - but are they value for money? (BBC News)
 - [macro] How telecoms upgrade work sparked US flight chaos (BBC News)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
-- [macro] 'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth (BBC News)
