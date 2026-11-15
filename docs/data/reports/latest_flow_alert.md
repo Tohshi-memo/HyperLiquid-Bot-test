@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-15T05:55:30.707147+00:00`
+- Generated: `2026-11-15T06:00:36.426314+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `387408.453225` | liquidity: `128434.31272`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `381986.448199` | liquidity: `718626.3426`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `345026.153204` | liquidity: `67790.76034`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `340454.44040900003` | liquidity: `111469.5139`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `337936.06374400004` | liquidity: `336577.13997`
-- Will J.D. Vance win the 2028 Republican presidential nomination? | 24h volume: `295739.272314` | liquidity: `414206.42559`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `276567.45169899997` | liquidity: `348858.66116`
-- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `253549.61574` | liquidity: `98171.7648`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `387408.453225` | liquidity: `128022.388`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `381986.448199` | liquidity: `715249.0059`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `345026.153204` | liquidity: `74643.34523`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `340454.44040900003` | liquidity: `111790.6312`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `337936.06374400004` | liquidity: `336641.26509`
+- Will J.D. Vance win the 2028 Republican presidential nomination? | 24h volume: `295739.272314` | liquidity: `419759.8881`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `276567.45169899997` | liquidity: `349106.1833`
+- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `253549.61574` | liquidity: `95331.57966`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
