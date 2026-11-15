@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T09:52:23.406398+00:00`
+- Generated: `2026-11-15T10:07:26.735077+00:00`
 - Market context score: `43.66`
 - News risk score: `39.0`
 - Macro risk score: `23.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T09:45:00+00:00`
+- Day/swing latest: `2026-11-15T10:00:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Pope Leo speaks of community 'suffering' on visit to remote Andes town (BBC News)
 - [macro] Fifth Canadian soldier dies from injuries caused by large fire at military base (BBC News)
 - [macro] Israel kills Hamas commander in strike on Gaza camp, officials say (BBC News)
 - [crypto] Coinone warns of phishing, identity theft after customer data breach (Cointelegraph.com News)
@@ -34,6 +35,5 @@
 - [crypto] RWA protocol stUSDT winds down three years after $2.3B TVL peak (Cointelegraph.com News)
 - [macro] Judge temporarily blocks Trump from closing Washington DC golf course for renovation (BBC News)
 - [crypto] XRP crashes to its lowest since November 2024 as money leaves crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Pope Leo speaks of community 'suffering' on visit to remote Andes town (BBC News)
 - [macro] My mother told me I would die if I sought treatment for Ebola - I am proof you can survive (BBC News)
 - [macro] Judo champion shakes up French  presidential race with surprise candidacy (BBC News)
