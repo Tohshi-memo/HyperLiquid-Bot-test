@@ -1,32 +1,33 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T15:52:26.194773+00:00`
-- Market context score: `46.32`
-- News risk score: `33.83`
-- Macro risk score: `28.39`
-- Risk-on score: `20.0`
-- Articles: `18`
+- Generated: `2026-11-15T16:07:24.879609+00:00`
+- Market context score: `46.93`
+- News risk score: `33.21`
+- Macro risk score: `27.16`
+- Risk-on score: `20.38`
+- Articles: `19`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
 
-- Asset universe count: `1755`
+- Asset universe count: `1756`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:162, fx:6, index:27, metal:20, unknown:1280`
+- Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:162, fx:6, index:27, metal:20, unknown:1281`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T15:45:00+00:00`
+- Day/swing latest: `2026-11-15T16:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `1`
+- macro: articles `13`, risk hits `3`, risk headline rate `0.2308`, policy hits `1`
 
 ## Headlines
 
+- [macro] Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday (BBC News)
 - [macro] How telecoms upgrade work sparked US flight chaos (BBC News)
 - [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
 - [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Iran targets US military base in Bahrain with drone attack (BBC News)
 - [macro] South Korea's top scorer in tax accountancy exam admits cheating (BBC News)
 - [macro] Minister backs legal right to job support for young people (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
