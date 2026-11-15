@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T03:22:29.855161+00:00`
-- Market context score: `56.33`
-- News risk score: `21.81`
-- Macro risk score: `19.06`
+- Generated: `2026-11-15T03:52:28.714734+00:00`
+- Market context score: `56.85`
+- News risk score: `21.03`
+- Macro risk score: `17.76`
 - Risk-on score: `28.57`
-- Articles: `18`
+- Articles: `17`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T03:15:00+00:00`
+- Day/swing latest: `2026-11-15T03:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `2`
+- crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `1`
 
 ## Headlines
 
+- [macro] Judge temporarily blocks Trump from closing Washington DC golf course for renovation (BBC News)
 - [crypto] XRP crashes to its lowest since November 2024 as money leaves crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Pope Leo speaks of community 'suffering' on visit to remote Andes town (BBC News)
 - [macro] My mother told me I would die if I sought treatment for Ebola - I am proof you can survive (BBC News)
 - [macro] Judo champion shakes up French  presidential race with surprise candidacy (BBC News)
 - [macro] Beauty advent calendars can cost hundreds - but are they value for money? (BBC News)
 - [macro] How telecoms upgrade work sparked US flight chaos (BBC News)
 - [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
 - [macro] 'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth (BBC News)
-- [macro] 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision (BBC News)
 - [macro] Watch: Cruise ship overturns after collision with tanker in New Orleans (BBC News)
-- [macro] Copper wire upgrade caused nationwide flight suspension, US transport secretary says (BBC News)
