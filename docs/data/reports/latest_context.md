@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T08:07:23.698616+00:00`
-- Market context score: `56.22`
-- News risk score: `21.33`
-- Macro risk score: `18.67`
-- Risk-on score: `27.78`
-- Articles: `11`
+- Generated: `2026-11-15T08:22:24.481940+00:00`
+- Market context score: `43.15`
+- News risk score: `39.53`
+- Macro risk score: `24.69`
+- Risk-on score: `16.36`
+- Articles: `14`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T08:00:00+00:00`
+- Day/swing latest: `2026-11-15T08:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `9`, risk hits `1`, risk headline rate `0.1111`, policy hits `0`
+- crypto: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `1`
 
 ## Headlines
 
+- [macro] Israel kills Hamas commander in strike on Gaza camp, officials say (BBC News)
+- [crypto] Coinone warns of phishing, identity theft after customer data breach (Cointelegraph.com News)
 - [macro] Copper wire upgrade behind US flight suspension, transport secretary says (BBC News)
 - [crypto] RWA protocol stUSDT winds down three years after $2.3B TVL peak (Cointelegraph.com News)
 - [macro] Judge temporarily blocks Trump from closing Washington DC golf course for renovation (BBC News)
@@ -35,5 +37,3 @@
 - [macro] My mother told me I would die if I sought treatment for Ebola - I am proof you can survive (BBC News)
 - [macro] Judo champion shakes up French  presidential race with surprise candidacy (BBC News)
 - [macro] Beauty advent calendars can cost hundreds - but are they value for money? (BBC News)
-- [macro] How telecoms upgrade work sparked US flight chaos (BBC News)
-- [macro] US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (BBC News)
