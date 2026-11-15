@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T11:07:26.217345+00:00`
+- Generated: `2026-11-15T11:22:33.345832+00:00`
 - Market context score: `48.57`
 - News risk score: `32.58`
 - Macro risk score: `18.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T11:00:00+00:00`
+- Day/swing latest: `2026-11-15T11:15:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Three men sentenced to death in Jordan over fatal church mass shooting (BBC News)
 - [crypto] Bitcoin falls to four-month low near $62K as crypto selloff deepens (Cointelegraph.com News)
 - [macro] Pope Leo speaks of community 'suffering' on visit to remote Andes town (BBC News)
 - [macro] Fifth Canadian soldier dies from injuries caused by large fire at military base (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] RWA protocol stUSDT winds down three years after $2.3B TVL peak (Cointelegraph.com News)
 - [macro] Judge temporarily blocks Trump from closing Washington DC golf course for renovation (BBC News)
 - [crypto] XRP crashes to its lowest since November 2024 as money leaves crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] My mother told me I would die if I sought treatment for Ebola - I am proof you can survive (BBC News)
