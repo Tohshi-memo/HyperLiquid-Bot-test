@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-15T11:30:28.996485+00:00`
+- Generated: `2026-11-15T11:35:28.799551+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8116762.43`
+- Polymarket 24h volume: `8123883.72`
 - Polymarket volume z-score: `-0.64`
 
 ## Top Polymarket Markets
 
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `384841.541724` | liquidity: `210741.96574`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `367917.562219` | liquidity: `721148.9458`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `358975.33441` | liquidity: `109223.8818`
-- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `300922.609863` | liquidity: `188616.35607`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `278667.663936` | liquidity: `115711.91841`
-- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `276605.800286` | liquidity: `98960.60997`
-- Will Bitcoin dip to $62,000 November 9-15? | 24h volume: `257993.522042` | liquidity: `40520.41759`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `239644.41415700002` | liquidity: `405618.50131`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `384841.541724` | liquidity: `210664.67661`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `367917.562219` | liquidity: `794083.2993`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `358975.33441` | liquidity: `108810.1268`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `300922.609863` | liquidity: `192536.65107`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `278667.663936` | liquidity: `115918.51713`
+- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `276605.800286` | liquidity: `98412.85529`
+- Will Bitcoin dip to $62,000 November 9-15? | 24h volume: `257993.522042` | liquidity: `40363.31759`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `239644.41415700002` | liquidity: `405633.50131`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
