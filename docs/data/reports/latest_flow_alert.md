@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-15T02:50:26.512641+00:00`
+- Generated: `2026-11-15T02:55:29.090183+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7839184.85`
-- Polymarket volume z-score: `-0.66`
+- Polymarket 24h volume: `8311976.21`
+- Polymarket volume z-score: `-0.5`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `397828.89430700004` | liquidity: `327981.81162`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `383743.6031480001` | liquidity: `619613.9192`
-- Will Bitcoin dip to $60,000 by December 31, 2026? | 24h volume: `356485.399357` | liquidity: `101466.0552`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `322781.2364140001` | liquidity: `55011.52225`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `297358.7024489999` | liquidity: `357788.43186`
-- Will J.D. Vance win the 2028 Republican presidential nomination? | 24h volume: `290468.36231399997` | liquidity: `410783.26567`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `264293.67834000004` | liquidity: `111497.4285`
-- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `242403.70111699996` | liquidity: `107722.915`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `397785.5130119999` | liquidity: `328047.37832`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `384009.9387340001` | liquidity: `620902.1457`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `383890.73235799995` | liquidity: `155141.42545`
+- Will Bitcoin dip to $60,000 by December 31, 2026? | 24h volume: `357870.3993570002` | liquidity: `105877.0869`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `323201.367273` | liquidity: `113703.5544`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `322738.46132600005` | liquidity: `56664.54225`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `297358.702449` | liquidity: `359804.34633`
+- Will J.D. Vance win the 2028 Republican presidential nomination? | 24h volume: `290468.36231399997` | liquidity: `414253.71373`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
