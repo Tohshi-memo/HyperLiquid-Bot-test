@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-15T23:05:28.119959+00:00`
+- Generated: `2026-11-15T23:10:39.508752+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `7911372.72`
-- Polymarket volume z-score: `-0.87`
+- Polymarket 24h volume: `7562376.98`
+- Polymarket volume z-score: `-1.0`
 
 ## Top Polymarket Markets
 
-- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1149192.841` | liquidity: `1663762.31979`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `409489.11154099996` | liquidity: `51139.67665`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `342552.60392699996` | liquidity: `522275.2839`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `298144.70999999996` | liquidity: `300247.90885`
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `285869.086309` | liquidity: `188913.19606`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `228907.78651099993` | liquidity: `81505.21885`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `226691.83267300006` | liquidity: `90312.09449`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `226265.51058199996` | liquidity: `98923.5363`
+- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1149192.841` | liquidity: `1663272.86979`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `427522.30361299997` | liquidity: `69415.34491`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `298144.70999999996` | liquidity: `302756.93485`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `284738.120594` | liquidity: `189412.55409`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `265551.19944600004` | liquidity: `82871.02121`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `225036.338001` | liquidity: `100426.5843`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `225011.51613200002` | liquidity: `90742.92949`
+- Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? | 24h volume: `215605.75633399998` | liquidity: `191779.1448`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
