@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T23:37:25.305852+00:00`
+- Generated: `2026-11-15T23:52:28.458887+00:00`
 - Market context score: `58.38`
 - News risk score: `23.62`
 - Macro risk score: `23.25`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T23:30:00+00:00`
+- Day/swing latest: `2026-11-15T23:45:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 ## Headlines
 
 - [macro] 'Steering casualty' preceded New Orleans cruise ship collision, says NTSB (BBC News)
-- [crypto] US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest (Cointelegraph.com News)
+- [crypto] US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Cut national insurance for under-25s to create jobs, Milburn report to say (BBC News)
 - [macro] Police ban protests near 10 schools and five universities in Paris (BBC News)
 - [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
