@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T09:31:19.079281+00:00`
-- Market context score: `57.85`
-- News risk score: `31.7`
-- Macro risk score: `21.27`
-- Risk-on score: `41.14`
-- Articles: `36`
+- Generated: `2026-11-16T09:37:24.932349+00:00`
+- Market context score: `58.24`
+- News risk score: `31.13`
+- Macro risk score: `21.25`
+- Risk-on score: `41.52`
+- Articles: `37`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -22,11 +22,12 @@
 
 ## News Categories
 
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
+- crypto: articles `16`, risk hits `4`, risk headline rate `0.1875`, policy hits `1`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'You're going to win the war': Harry praises war veterans on surprise Ukraine visit (BBC News)
 - [crypto] DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Bitcoin miners were hijacked and their BTC rewards redirected to an attacker (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] US basketball player arrested with 34kg of cannabis at Nigerian airport (BBC News)
 - [macro] Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway (BBC News)
-- [crypto] Cardano holders vote down $5 million bid to buy warehouse copper (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
