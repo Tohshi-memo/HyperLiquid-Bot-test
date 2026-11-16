@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T15:07:27.576617+00:00`
-- Market context score: `55.46`
-- News risk score: `32.13`
-- Macro risk score: `19.63`
-- Risk-on score: `35.56`
-- Articles: `46`
-- Polymarket markets: `387`
+- Generated: `2026-11-16T15:22:36.303856+00:00`
+- Market context score: `55.28`
+- News risk score: `32.01`
+- Macro risk score: `20.37`
+- Risk-on score: `35.34`
+- Articles: `44`
+- Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T15:00:00+00:00`
+- Day/swing latest: `2026-11-16T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - crypto: articles `26`, risk hits `7`, risk headline rate `0.1923`, policy hits `2`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war (BBC News)
 - [crypto] Zelle picks Solana for ZelleUSD stablecoin and international payments (Cointelegraph.com News)
 - [macro] Raye, Rosalia and Dolly Parton recognised in Grammy nominations (BBC News)
 - [macro] Estonia to close Russia border crossings after attempted drone factory arson attack (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Banks are banning AI agents over security... and competition concerns (Cointelegraph.com News)
 - [crypto] Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks (Cointelegraph.com News)
 - [macro] Create more jobs for under-25s by cutting National Insurance, key report urges (BBC News)
-- [crypto] Solana drops ‘beta’ label after more than six years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
