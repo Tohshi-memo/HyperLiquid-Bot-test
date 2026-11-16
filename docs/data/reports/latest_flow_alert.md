@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-16T13:25:29.772907+00:00`
+- Generated: `2026-11-16T13:30:40.467881+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1151835.522` | liquidity: `2310174.40827`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `513907.551163` | liquidity: `236888.60292`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `451163.779713` | liquidity: `155985.14048`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `297612.181806` | liquidity: `86793.6129`
+- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1151835.522` | liquidity: `2310167.29863`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `513907.551163` | liquidity: `238764.614`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `451163.779713` | liquidity: `152079.80112`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `297612.181806` | liquidity: `82400.44158`
 - Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `296033.6` | liquidity: `347880.77064`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `220381.457211` | liquidity: `447104.778`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `186567.09204199997` | liquidity: `314754.4439`
-- Will Ulf Kristersson be the next Prime Minister of Sweden? | 24h volume: `179729.579121` | liquidity: `117629.3628`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `220381.457211` | liquidity: `407256.0268`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `186567.09204199997` | liquidity: `318150.33524`
+- Will Ulf Kristersson be the next Prime Minister of Sweden? | 24h volume: `179729.579121` | liquidity: `114945.082`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
