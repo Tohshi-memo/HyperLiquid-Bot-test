@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T05:22:30.850213+00:00`
-- Market context score: `63.3`
-- News risk score: `28.66`
+- Generated: `2026-11-16T05:37:34.601723+00:00`
+- Market context score: `64.03`
+- News risk score: `27.59`
 - Macro risk score: `18.32`
-- Risk-on score: `49.56`
-- Articles: `25`
+- Risk-on score: `50.28`
+- Articles: `26`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T05:15:00+00:00`
+- Day/swing latest: `2026-11-16T05:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- crypto: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 - macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Aster CEO suspects foul play after token plunges 32% in minutes (Cointelegraph.com News)
 - [macro] Wife of assassinated ex-Haitian leader registers for presidential election (BBC News)
 - [crypto] Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Asian chip stocks tumble ahead of Nvidia Q3 earnings (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [macro] Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway (BBC News)
 - [macro] Investors sue chip giant Intel after 29% stock plunge (BBC News)
 - [macro] Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite (Economy)
-- [crypto] Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack (Cointelegraph.com News)
