@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T11:52:39.877373+00:00`
+- Generated: `2026-11-16T12:07:36.352803+00:00`
 - Market context score: `55.6`
 - News risk score: `32.47`
 - Macro risk score: `20.81`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T11:45:00+00:00`
+- Day/swing latest: `2026-11-16T12:00:00+00:00`
 
 ## News Categories
 
@@ -31,10 +31,10 @@
 - [macro] Five EU countries expected to announce migrant deportation centre in Rwanda (BBC News)
 - [crypto] Singapore, Germany test cross-border payments to reduce settlement risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Jensen Huang allies campaign to reinstate the former Nvidia boss (BBC News)
+- [macro] Jensen Huang allies campaign to reinstate the former Nvidia boss (BBC News)
 - [macro] Yemeni forces retreat to defend port city from Houthis (BBC News)
 - [crypto] Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Two mass shootings in South Africa leave 17 dead (BBC News)
 - [macro] Create more jobs for under-25s by cutting National Insurance, key report urges (BBC News)
 - [crypto] Singapore, Germany test cross-border FX settlement with CBDCs (Cointelegraph.com News)
 - [crypto] BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
-- [policy] Barr, Some Potential Financial Stability Implications of Artificial Intelligence (FRB: Speeches)
