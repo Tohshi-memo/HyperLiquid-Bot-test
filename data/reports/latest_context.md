@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T17:07:28.853865+00:00`
+- Generated: `2026-11-16T17:22:25.182221+00:00`
 - Market context score: `49.23`
 - News risk score: `37.01`
 - Macro risk score: `23.6`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T17:00:00+00:00`
+- Day/swing latest: `2026-11-16T17:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched (BBC News)
+- [macro] Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched (BBC News)
 - [policy] Warsh, Opening Remarks (FRB: Speeches)
 - [crypto] Lighter suspends all withdrawals after $10.4 million crypto exploit (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Five EU countries announce migrant deportation centre in Rwanda (BBC News)
@@ -36,6 +38,4 @@
 - [crypto] Brazil's central bank faces backlash over stablecoin money laundering remarks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] German parliament proposes crypto seizures without criminal charges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Faisal Islam: What's in the Brexit reset food deal and are there trade-offs? (BBC News)
-- [macro] Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign (BBC News)
-- [macro] Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign (BBC News)
 - [macro] Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war (BBC News)
