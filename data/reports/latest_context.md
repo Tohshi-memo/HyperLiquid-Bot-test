@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T15:52:26.472346+00:00`
-- Market context score: `55.51`
-- News risk score: `31.97`
-- Macro risk score: `19.95`
-- Risk-on score: `35.67`
-- Articles: `46`
+- Generated: `2026-11-16T16:07:31.505233+00:00`
+- Market context score: `53.73`
+- News risk score: `33.83`
+- Macro risk score: `20.44`
+- Risk-on score: `33.47`
+- Articles: `47`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T15:45:00+00:00`
+- Day/swing latest: `2026-11-16T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- crypto: articles `27`, risk hits `7`, risk headline rate `0.1852`, policy hits `2`
+- crypto: articles `28`, risk hits `8`, risk headline rate `0.2143`, policy hits `3`
 - macro: articles `17`, risk hits `3`, risk headline rate `0.1176`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Five EU countries announce migrant deportation centre in Rwanda (BBC News)
+- [crypto] Brazil's central bank faces backlash over stablecoin money laundering remarks (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] German parliament proposes crypto seizures without criminal charges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Faisal Islam: What's in the Brexit reset food deal and are there trade-offs? (BBC News)
 - [macro] Trump says he wouldn't mind seeing Huang return to Nvidia (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Zelle picks Solana for ZelleUSD stablecoin and international payments (Cointelegraph.com News)
 - [macro] Raye, Rosalia and Dolly Parton recognised in Grammy nominations (BBC News)
 - [macro] Estonia to close Russia border crossings after attempted drone factory arson attack (BBC News)
-- [crypto] Lighter pauses withdrawals after reported $10M account theft (Cointelegraph.com News)
-- [macro] Gérard Depardieu drops appeal against sexual assault conviction (BBC News)
