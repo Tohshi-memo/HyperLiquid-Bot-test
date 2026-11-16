@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-16T10:25:29.362636+00:00`
+- Generated: `2026-11-16T10:30:28.959888+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `6740755.68`
-- Polymarket volume z-score: `-1.29`
+- Polymarket 24h volume: `6767000.47`
+- Polymarket volume z-score: `-1.28`
 
 ## Top Polymarket Markets
 
-- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1151835.522` | liquidity: `2306978.7752`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `472287.340033` | liquidity: `164540.57292`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `414816.17396` | liquidity: `130772.68728`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `296033.6` | liquidity: `347331.04662`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `284794.37384` | liquidity: `75889.26091`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `204713.44457199998` | liquidity: `423853.5032`
-- Will Ulf Kristersson be the next Prime Minister of Sweden? | 24h volume: `178998.676719` | liquidity: `89686.50419`
-- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `168321.16` | liquidity: `474537.95769`
+- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1151835.522` | liquidity: `2305503.32444`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `472878.8220510001` | liquidity: `170246.8056`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `409289.81191599986` | liquidity: `133405.27236`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `296033.6` | liquidity: `348268.84162`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `285086.98384000006` | liquidity: `74569.46136`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `204740.174572` | liquidity: `415311.6115`
+- Will Ulf Kristersson be the next Prime Minister of Sweden? | 24h volume: `178901.589826` | liquidity: `89031.9506`
+- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `168321.16` | liquidity: `480223.71969`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
