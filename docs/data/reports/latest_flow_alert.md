@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-16T01:15:27.116737+00:00`
+- Generated: `2026-11-16T01:20:30.876088+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1149192.841` | liquidity: `2304053.39264`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `370035.6520860001` | liquidity: `140334.09136`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `298144.70999999996` | liquidity: `290699.83192`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `297445.43265` | liquidity: `102566.2611`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `296619.286753` | liquidity: `84764.33875`
-- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `246032.02659000002` | liquidity: `207407.16135`
-- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `231466.7` | liquidity: `476585.10315`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `181686.23784299998` | liquidity: `404108.8319`
+- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1149192.841` | liquidity: `2307800.76852`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `370035.6520860001` | liquidity: `140350.48494`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `298144.70999999996` | liquidity: `290704.77192`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `297445.43265` | liquidity: `116022.67798`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `296619.286753` | liquidity: `85014.83658`
+- Will Bitcoin dip to $45,000 by December 31, 2026? | 24h volume: `246032.02659000002` | liquidity: `205945.22509`
+- Will Rob Sand win the 2028 Democratic presidential nomination? | 24h volume: `231466.7` | liquidity: `476935.06315`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `181686.23784299998` | liquidity: `391722.7617`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
