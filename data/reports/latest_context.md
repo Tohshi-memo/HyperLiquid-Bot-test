@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T07:07:28.695315+00:00`
+- Generated: `2026-11-16T07:22:26.223793+00:00`
 - Market context score: `63.6`
 - News risk score: `30.33`
 - Macro risk score: `18.67`
 - Risk-on score: `51.78`
 - Articles: `28`
-- Polymarket markets: `388`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T07:00:00+00:00`
+- Day/swing latest: `2026-11-16T07:15:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway (BBC News)
 - [crypto] Cardano holders vote down $5 million bid to buy warehouse copper (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trump administration to name Nvidia, OpenAI and several others as AI national champions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Asian chip stocks tumble ahead of Nvidia Q3 earnings (Cointelegraph.com News)
 - [macro] Watch: New York teen reunites with cat missing after building collapse (BBC News)
 - [macro] Mexican drug lord Miguel Ángel Félix Gallardo dies age 80 (BBC News)
-- [macro] Australian MP 'full of gratitude' upon leaving hospital after alleged car attack (BBC News)
