@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T14:23:37.298615+00:00`
-- Market context score: `55.6`
-- News risk score: `32.71`
-- Macro risk score: `16.49`
-- Risk-on score: `35.18`
-- Articles: `46`
+- Generated: `2026-11-16T14:37:32.595419+00:00`
+- Market context score: `55.42`
+- News risk score: `32.43`
+- Macro risk score: `19.05`
+- Risk-on score: `35.52`
+- Articles: `47`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T14:15:00+00:00`
+- Day/swing latest: `2026-11-16T14:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- crypto: articles `25`, risk hits `8`, risk headline rate `0.24`, policy hits `2`
-- macro: articles `19`, risk hits `1`, risk headline rate `0.0526`, policy hits `0`
+- crypto: articles `25`, risk hits `7`, risk headline rate `0.2`, policy hits `2`
+- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Estonia to close Russia border crossings after attempted drone factory arson attack (BBC News)
+- [crypto] Lighter pauses withdrawals after reported $10M account theft (Cointelegraph.com News)
 - [macro] Gérard Depardieu drops appeal against sexual assault conviction (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Banks are banning AI agents over security... and competition concerns (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [crypto] Solana drops ‘beta’ label after more than six years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings (Cointelegraph.com News)
 - [crypto] Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] HKMA, Swift explore tokenized deposits for cross-border bank payments (Cointelegraph.com News)
-- [macro] Five EU countries expected to announce migrant deportation centre in Rwanda (BBC News)
