@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T12:37:25.999722+00:00`
+- Generated: `2026-11-16T12:52:35.944021+00:00`
 - Market context score: `54.42`
 - News risk score: `32.55`
 - Macro risk score: `21.4`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T12:30:00+00:00`
+- Day/swing latest: `2026-11-16T12:45:00+00:00`
 
 ## News Categories
 
@@ -30,6 +30,7 @@
 ## Headlines
 
 - [macro] Five EU countries expected to announce migrant deportation centre in Rwanda (BBC News)
+- [macro] Man sentenced over 'horrific' attempted murder of three children (BBC News)
 - [macro] Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss (BBC News)
 - [macro] Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss (BBC News)
 - [crypto] Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Klopp says Infantino worse than Blatter (BBC News)
 - [macro] Yemeni forces retreat to defend port city from Houthis (BBC News)
 - [crypto] Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Two mass shootings in South Africa leave 17 dead (BBC News)
