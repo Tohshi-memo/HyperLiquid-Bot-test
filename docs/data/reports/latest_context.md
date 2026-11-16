@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T12:07:36.352803+00:00`
-- Market context score: `55.6`
-- News risk score: `32.47`
-- Macro risk score: `20.81`
-- Risk-on score: `36.61`
+- Generated: `2026-11-16T12:22:25.305142+00:00`
+- Market context score: `54.56`
+- News risk score: `32.13`
+- Macro risk score: `21.2`
+- Risk-on score: `34.16`
 - Articles: `40`
 - Polymarket markets: `387`
 
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T12:00:00+00:00`
+- Day/swing latest: `2026-11-16T12:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `1`
+- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss (BBC News)
+- [macro] Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss (BBC News)
+- [crypto] Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Five EU countries expected to announce migrant deportation centre in Rwanda (BBC News)
 - [crypto] Singapore, Germany test cross-border payments to reduce settlement risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Jensen Huang allies campaign to reinstate the former Nvidia boss (BBC News)
-- [macro] Jensen Huang allies campaign to reinstate the former Nvidia boss (BBC News)
+- [macro] Klopp says Infantino worse than Blatter (BBC News)
 - [macro] Yemeni forces retreat to defend port city from Houthis (BBC News)
 - [crypto] Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Two mass shootings in South Africa leave 17 dead (BBC News)
 - [macro] Create more jobs for under-25s by cutting National Insurance, key report urges (BBC News)
-- [crypto] Singapore, Germany test cross-border FX settlement with CBDCs (Cointelegraph.com News)
-- [crypto] BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
