@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T00:07:29.333374+00:00`
-- Market context score: `58.38`
-- News risk score: `23.62`
-- Macro risk score: `23.25`
-- Risk-on score: `36.25`
-- Articles: `20`
+- Generated: `2026-11-16T00:22:27.502095+00:00`
+- Market context score: `59.02`
+- News risk score: `23.0`
+- Macro risk score: `22.0`
+- Risk-on score: `36.67`
+- Articles: `23`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T00:00:00+00:00`
+- Day/swing latest: `2026-11-16T00:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `4`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
+- crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [macro] Russia's mega-rich are already imagining a future after Putin (BBC News)
+- [macro] Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite (Economy)
 - [macro] Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide (BBC News)
 - [macro] Mexican drug lord Miguel Angel Felix Gallardo dies age 80 (BBC News)
+- [crypto] Jensen Huang weighs Nvidia comeback days after shock exit: FT (Cointelegraph.com News)
 - [macro] Steering failure preceded New Orleans cruise ship collision, says NTSB (BBC News)
 - [crypto] US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Cut national insurance for under-25s to create jobs, Milburn report to say (BBC News)
 - [macro] Police ban protests near 10 schools and five universities in Paris (BBC News)
 - [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
-- [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
-- [macro] UK will have 'voice' but no vote on EU food rules in Brexit reset (BBC News)
-- [macro] Czechs rally against plan to switch funding of public media (BBC News)
