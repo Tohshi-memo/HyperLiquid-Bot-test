@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T09:22:33.482976+00:00`
-- Market context score: `57.69`
-- News risk score: `31.93`
-- Macro risk score: `20.57`
-- Risk-on score: `40.71`
-- Articles: `35`
+- Generated: `2026-11-16T09:31:19.079281+00:00`
+- Market context score: `57.85`
+- News risk score: `31.7`
+- Macro risk score: `21.27`
+- Risk-on score: `41.14`
+- Articles: `36`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T09:15:00+00:00`
+- Day/swing latest: `2026-11-16T09:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `0`
+- crypto: articles `15`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] 'You're going to win the war': Harry praises war veterans on surprise Ukraine visit (BBC News)
 - [crypto] DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits (Cointelegraph.com News)
 - [crypto] JPMorgan and DBS let clients move dollars across borders on weekends (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,4 +37,3 @@
 - [macro] US basketball player arrested with 34kg of cannabis at Nigerian airport (BBC News)
 - [macro] Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway (BBC News)
 - [crypto] Cardano holders vote down $5 million bid to buy warehouse copper (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Gas starts flowing from Jackdaw after government green light (BBC News)
