@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T11:37:24.242122+00:00`
-- Market context score: `57.19`
-- News risk score: `32.67`
-- Macro risk score: `21.21`
-- Risk-on score: `40.48`
-- Articles: `39`
+- Generated: `2026-11-16T11:52:39.877373+00:00`
+- Market context score: `55.6`
+- News risk score: `32.47`
+- Macro risk score: `20.81`
+- Risk-on score: `36.61`
+- Articles: `40`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T11:30:00+00:00`
+- Day/swing latest: `2026-11-16T11:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
-- macro: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
+- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
 - [macro] Five EU countries expected to announce migrant deportation centre in Rwanda (BBC News)
+- [crypto] Singapore, Germany test cross-border payments to reduce settlement risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Jensen Huang allies campaign to reinstate the former Nvidia boss (BBC News)
 - [macro] Yemeni forces retreat to defend port city from Houthis (BBC News)
 - [crypto] Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Two mass shootings in South Africa leave 17 dead (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Singapore, Germany test cross-border FX settlement with CBDCs (Cointelegraph.com News)
 - [crypto] BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [policy] Barr, Some Potential Financial Stability Implications of Artificial Intelligence (FRB: Speeches)
-- [macro] Avoid this Black Friday scam - how to check it's a real deal (BBC News)
-- [crypto] Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
