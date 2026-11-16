@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T22:52:25.895504+00:00`
-- Market context score: `44.22`
-- News risk score: `42.75`
-- Macro risk score: `22.67`
-- Risk-on score: `20.71`
+- Generated: `2026-11-16T23:07:29.967042+00:00`
+- Market context score: `44.23`
+- News risk score: `42.63`
+- Macro risk score: `23.7`
+- Risk-on score: `21.02`
 - Articles: `45`
 - Polymarket markets: `387`
 
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T22:45:00+00:00`
+- Day/swing latest: `2026-11-16T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- crypto: articles `25`, risk hits `12`, risk headline rate `0.4`, policy hits `2`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1111`, policy hits `0`
+- crypto: articles `26`, risk hits `12`, risk headline rate `0.3846`, policy hits `3`
+- macro: articles `17`, risk hits `3`, risk headline rate `0.1176`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Custodia Bank loses Supreme Court bid for direct Fed payment access (Cointelegraph.com News)
+- [crypto] German lawmakers back crypto freezes outside criminal cases (Cointelegraph.com News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
 - [crypto] Binance hack may push institutions to outside custody, FalconX exec says (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [macro] Houthi rebel advance in Yemen may further destabilise global economy (BBC News)
 - [crypto] Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump (Cointelegraph.com News)
 - [crypto] Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Forensic expert says his analysis of autopsy photos suggests Epstein was killed (BBC News)
-- [crypto] Boris Johnson says UK must lead blockchain development despite crypto doubts (Cointelegraph.com News)
