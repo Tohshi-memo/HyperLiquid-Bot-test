@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-15T23:52:28.458887+00:00`
+- Generated: `2026-11-16T00:07:29.333374+00:00`
 - Market context score: `58.38`
 - News risk score: `23.62`
 - Macro risk score: `23.25`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-15T23:45:00+00:00`
+- Day/swing latest: `2026-11-16T00:00:00+00:00`
 
 ## News Categories
 
@@ -27,7 +27,9 @@
 
 ## Headlines
 
-- [macro] 'Steering casualty' preceded New Orleans cruise ship collision, says NTSB (BBC News)
+- [macro] Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide (BBC News)
+- [macro] Mexican drug lord Miguel Angel Felix Gallardo dies age 80 (BBC News)
+- [macro] Steering failure preceded New Orleans cruise ship collision, says NTSB (BBC News)
 - [crypto] US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest (Cointelegraph.com News)
 - [macro] Cut national insurance for under-25s to create jobs, Milburn report to say (BBC News)
 - [macro] Police ban protests near 10 schools and five universities in Paris (BBC News)
@@ -35,5 +37,3 @@
 - [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
 - [macro] UK will have 'voice' but no vote on EU food rules in Brexit reset (BBC News)
 - [macro] Czechs rally against plan to switch funding of public media (BBC News)
-- [macro] Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history' (BBC News)
-- [crypto] Did prediction markets call the U.S. midterm election?: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
