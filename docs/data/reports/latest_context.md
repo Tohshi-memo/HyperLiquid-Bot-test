@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T06:52:27.856752+00:00`
+- Generated: `2026-11-16T07:07:28.695315+00:00`
 - Market context score: `63.6`
 - News risk score: `30.33`
 - Macro risk score: `18.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T06:45:00+00:00`
+- Day/swing latest: `2026-11-16T07:00:00+00:00`
 
 ## News Categories
 
@@ -35,5 +35,5 @@
 - [crypto] Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Asian chip stocks tumble ahead of Nvidia Q3 earnings (Cointelegraph.com News)
 - [macro] Watch: New York teen reunites with cat missing after building collapse (BBC News)
-- [macro] Mexican drug lord Miguel Angel Felix Gallardo dies age 80 (BBC News)
+- [macro] Mexican drug lord Miguel Ángel Félix Gallardo dies age 80 (BBC News)
 - [macro] Australian MP 'full of gratitude' upon leaving hospital after alleged car attack (BBC News)
