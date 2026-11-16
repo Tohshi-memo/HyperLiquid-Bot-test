@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-16T15:45:27.723374+00:00`
+- Generated: `2026-11-16T15:50:31.864784+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1151835.522` | liquidity: `2306545.71202`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `613093.5800170001` | liquidity: `135029.97768`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `531198.484026` | liquidity: `190287.88075`
-- Israel x Iran ceasefire continues through November 15? | 24h volume: `305931.893093` | liquidity: `78974.91012`
-- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `296033.6` | liquidity: `348643.41613`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `247649.77963399995` | liquidity: `367211.83993`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `224164.57468600004` | liquidity: `464538.0857`
-- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `200646.48407` | liquidity: `280096.76704`
+- Will Kristi Noem win the 2028 Republican presidential nomination? | 24h volume: `1151835.522` | liquidity: `2305098.78402`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `613093.5800170001` | liquidity: `134428.11371`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `531198.484026` | liquidity: `193349.85534`
+- Israel x Iran ceasefire continues through November 15? | 24h volume: `305931.893093` | liquidity: `77978.02838`
+- Will Jamie Dimon win the 2028 US Presidential Election? | 24h volume: `296033.6` | liquidity: `348655.97813`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `247649.77963399995` | liquidity: `366136.46722`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `224164.57468600004` | liquidity: `468779.3311`
+- US announces end of Iranian blockade by November 30, 2026? | 24h volume: `200646.48407` | liquidity: `286234.02622`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
