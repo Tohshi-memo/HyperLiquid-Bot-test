@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T20:22:35.414910+00:00`
+- Generated: `2026-11-16T20:37:31.972883+00:00`
 - Market context score: `47.65`
 - News risk score: `37.23`
 - Macro risk score: `22.22`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T20:15:00+00:00`
+- Day/swing latest: `2026-11-16T20:30:00+00:00`
 
 ## News Categories
 
@@ -29,7 +29,8 @@
 
 ## Headlines
 
-- [macro] Forensic expert says his analysis raises doubts about how Epstein died (BBC News)
+- [macro] Forensic expert says his analysis of autopsy photos suggest Epstein was killed (BBC News)
+- [crypto] Boris Johnson says UK must lead blockchain development despite crypto doubts (Cointelegraph.com News)
 - [crypto] Coinbase and Broadridge propose standard for tokenized stock disclosures (Cointelegraph.com News)
 - [macro] Lindsay Clancy to face retrial next year for deaths of her three children (BBC News)
 - [macro] Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Nvidia turmoil tests Bitcoin miners’ AI funding plans (Cointelegraph.com News)
 - [crypto] Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise (Cointelegraph.com News)
 - [macro] When will we see Robert Pattinson as Bond in cinemas? (BBC News)
-- [policy] Warsh, Opening Remarks (FRB: Speeches)
