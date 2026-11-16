@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T01:37:23.389588+00:00`
-- Market context score: `59.02`
-- News risk score: `23.0`
-- Macro risk score: `22.0`
-- Risk-on score: `36.67`
-- Articles: `23`
+- Generated: `2026-11-16T01:52:25.885153+00:00`
+- Market context score: `60.3`
+- News risk score: `21.75`
+- Macro risk score: `19.5`
+- Risk-on score: `37.5`
+- Articles: `21`
 - Polymarket markets: `386`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T01:30:00+00:00`
+- Day/swing latest: `2026-11-16T01:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
 
 ## Headlines
 
+- [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
+- [macro] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says (BBC News)
 - [macro] Clothing factories shut in Bangladesh as workers strike over pay (BBC News)
 - [macro] Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite (Economy)
 - [macro] Black Friday and tax return scams  - don't fall for these (BBC News)
@@ -35,5 +37,3 @@
 - [macro] Mexican drug lord Miguel Angel Felix Gallardo dies age 80 (BBC News)
 - [crypto] Jensen Huang weighs Nvidia comeback days after shock exit: FT (Cointelegraph.com News)
 - [macro] Steering failure preceded New Orleans cruise ship collision, says NTSB (BBC News)
-- [crypto] US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest (Cointelegraph.com News)
-- [macro] Cut national insurance for under-25s to create jobs, Milburn report to say (BBC News)
