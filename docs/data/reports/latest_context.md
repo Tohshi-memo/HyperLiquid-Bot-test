@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T14:52:29.337213+00:00`
-- Market context score: `55.42`
-- News risk score: `32.43`
-- Macro risk score: `19.05`
-- Risk-on score: `35.52`
-- Articles: `47`
+- Generated: `2026-11-16T15:07:27.576617+00:00`
+- Market context score: `55.46`
+- News risk score: `32.13`
+- Macro risk score: `19.63`
+- Risk-on score: `35.56`
+- Articles: `46`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T14:45:00+00:00`
+- Day/swing latest: `2026-11-16T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- crypto: articles `25`, risk hits `7`, risk headline rate `0.2`, policy hits `2`
-- macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
+- crypto: articles `26`, risk hits `7`, risk headline rate `0.1923`, policy hits `2`
+- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Zelle picks Solana for ZelleUSD stablecoin and international payments (Cointelegraph.com News)
+- [macro] Raye, Rosalia and Dolly Parton recognised in Grammy nominations (BBC News)
 - [macro] Estonia to close Russia border crossings after attempted drone factory arson attack (BBC News)
 - [crypto] Lighter pauses withdrawals after reported $10M account theft (Cointelegraph.com News)
 - [macro] Gérard Depardieu drops appeal against sexual assault conviction (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks (Cointelegraph.com News)
 - [macro] Create more jobs for under-25s by cutting National Insurance, key report urges (BBC News)
 - [crypto] Solana drops ‘beta’ label after more than six years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings (Cointelegraph.com News)
-- [crypto] Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
