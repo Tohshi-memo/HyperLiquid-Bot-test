@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T07:52:38.695369+00:00`
+- Generated: `2026-11-16T08:07:33.859314+00:00`
 - Market context score: `60.54`
 - News risk score: `34.83`
 - Macro risk score: `18.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T07:45:00+00:00`
+- Day/swing latest: `2026-11-16T08:00:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 ## Headlines
 
 - [crypto] Bitcoin miners were hijacked and their BTC rewards redirected to an attacker (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway (BBC News)
+- [macro] Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway (BBC News)
 - [crypto] Cardano holders vote down $5 million bid to buy warehouse copper (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Gas starts flowing from Jackdaw after government green light (BBC News)
 - [crypto] Trump administration to name Nvidia, OpenAI and several others as AI national champions (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
