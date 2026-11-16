@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T21:37:34.405060+00:00`
+- Generated: `2026-11-16T21:52:29.710380+00:00`
 - Market context score: `45.9`
 - News risk score: `41.0`
 - Macro risk score: `21.78`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T21:30:00+00:00`
+- Day/swing latest: `2026-11-16T21:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [crypto] Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Houthi rebel advance in Yemen may further destabilise global economy (BBC News)
 - [crypto] Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump (Cointelegraph.com News)
 - [crypto] Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Forensic expert says his analysis of autopsy photos suggest Epstein was killed (BBC News)
+- [macro] Forensic expert says his analysis of autopsy photos suggests Epstein was killed (BBC News)
 - [crypto] Boris Johnson says UK must lead blockchain development despite crypto doubts (Cointelegraph.com News)
 - [crypto] Coinbase and Broadridge propose standard for tokenized stock disclosures (Cointelegraph.com News)
 - [macro] Lindsay Clancy to face retrial next year for deaths of her three children (BBC News)
 - [macro] Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched (BBC News)
 - [macro] Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched (BBC News)
-- [crypto] U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Nvidia turmoil tests Bitcoin miners’ AI funding plans (Cointelegraph.com News)
