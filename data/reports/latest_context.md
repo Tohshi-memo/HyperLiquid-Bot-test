@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T13:07:24.040376+00:00`
+- Generated: `2026-11-16T13:22:26.990517+00:00`
 - Market context score: `55.6`
 - News risk score: `31.1`
 - Macro risk score: `16.02`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T13:00:00+00:00`
+- Day/swing latest: `2026-11-16T13:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Create more jobs for under-25s by cutting National Insurance, key report urges (BBC News)
 - [crypto] Solana drops ‘beta’ label after more than six years (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] HKMA, Swift explore tokenized deposits for cross-border bank payments (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss (BBC News)
 - [macro] Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss (BBC News)
 - [crypto] Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Big-ticket holiday items may be harder to find as shipping costs rise (Energy)
