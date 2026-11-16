@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T15:22:36.303856+00:00`
+- Generated: `2026-11-16T15:37:28.937810+00:00`
 - Market context score: `55.28`
 - News risk score: `32.01`
 - Macro risk score: `20.37`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T15:15:00+00:00`
+- Day/swing latest: `2026-11-16T15:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] Trump says he wouldn't mind seeing Huang return to Nvidia (BBC News)
+- [macro] Trump says he wouldn't mind seeing Huang return to Nvidia (BBC News)
 - [macro] Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war (BBC News)
 - [crypto] Zelle picks Solana for ZelleUSD stablecoin and international payments (Cointelegraph.com News)
 - [macro] Raye, Rosalia and Dolly Parton recognised in Grammy nominations (BBC News)
@@ -37,5 +39,3 @@
 - [macro] Gérard Depardieu drops appeal against sexual assault conviction (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Banks are banning AI agents over security... and competition concerns (Cointelegraph.com News)
-- [crypto] Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks (Cointelegraph.com News)
-- [macro] Create more jobs for under-25s by cutting National Insurance, key report urges (BBC News)
