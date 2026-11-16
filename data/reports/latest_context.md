@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T14:07:30.345723+00:00`
-- Market context score: `55.61`
-- News risk score: `32.55`
-- Macro risk score: `16.67`
-- Risk-on score: `35.13`
-- Articles: `45`
+- Generated: `2026-11-16T14:23:37.298615+00:00`
+- Market context score: `55.6`
+- News risk score: `32.71`
+- Macro risk score: `16.49`
+- Risk-on score: `35.18`
+- Articles: `46`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T14:00:00+00:00`
+- Day/swing latest: `2026-11-16T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 - crypto: articles `25`, risk hits `8`, risk headline rate `0.24`, policy hits `2`
-- macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `0`
+- macro: articles `19`, risk hits `1`, risk headline rate `0.0526`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Gérard Depardieu drops appeal against sexual assault conviction (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Banks are banning AI agents over security... and competition concerns (Cointelegraph.com News)
 - [crypto] Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] HKMA, Swift explore tokenized deposits for cross-border bank payments (Cointelegraph.com News)
 - [macro] Five EU countries expected to announce migrant deportation centre in Rwanda (BBC News)
-- [macro] Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala (BBC News)
