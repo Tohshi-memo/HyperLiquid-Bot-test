@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T23:22:27.341948+00:00`
-- Market context score: `40.36`
-- News risk score: `46.65`
-- Macro risk score: `34.59`
-- Risk-on score: `19.93`
-- Articles: `58`
+- Generated: `2026-11-17T23:37:32.054024+00:00`
+- Market context score: `42.22`
+- News risk score: `43.97`
+- Macro risk score: `35.46`
+- Risk-on score: `22.14`
+- Articles: `53`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T23:15:00+00:00`
+- Day/swing latest: `2026-11-17T23:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.28`, policy hits `3`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `21`, risk hits `6`, risk headline rate `0.2381`, policy hits `3`
 - macro: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `5`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Nvidia reports bumper results as firm says it not reinstating Huang (BBC News)
-- [macro] Nvidia reports bumper results as firm says it not reinstating Huang (BBC News)
+- [macro] Nvidia reports bumper results as firm says it's not reinstating Huang (BBC News)
+- [macro] Nvidia reports bumper results as firm says it's not reinstating Huang (BBC News)
 - [macro] American soldier arrested by UK police on suspicion of spying taken into US military custody (BBC News)
 - [macro] Thomas Markle charged over child sex abuse material in Philippines (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
