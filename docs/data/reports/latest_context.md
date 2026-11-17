@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T19:37:24.166030+00:00`
-- Market context score: `36.28`
-- News risk score: `51.69`
-- Macro risk score: `36.46`
-- Risk-on score: `15.83`
-- Articles: `61`
+- Generated: `2026-11-17T19:52:49.457295+00:00`
+- Market context score: `37.63`
+- News risk score: `49.87`
+- Macro risk score: `35.31`
+- Risk-on score: `16.86`
+- Articles: `62`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T19:30:00+00:00`
+- Day/swing latest: `2026-11-17T19:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `16`, risk headline rate `0.3548`, policy hits `6`
-- macro: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `31`, risk hits `15`, risk headline rate `0.3226`, policy hits `4`
+- macro: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Russian military plane crashes killing all 19 on board (BBC News)
 - [crypto] Predictions platform Kalshi complies with order to halt Trump mention contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Carney looks to China as Trump tariffs squeeze Canada's car industry (BBC News)
 - [macro] UK sanctions firms over Israeli West Bank settlements (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] Lighter incident exposes risks beyond withdrawal controls (Cointelegraph.com News)
 - [crypto] Druckenmiller says he is short copper, warns of economic weakness in 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Fed’s Waller cites Binance hack in warning over tokenized finance (Cointelegraph.com News)
-- [macro] Trump says US taking 'very seriously' any Iranian plot against Washington (BBC News)
-- [macro] 'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge (BBC News)
