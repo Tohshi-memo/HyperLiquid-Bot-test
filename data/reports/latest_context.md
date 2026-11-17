@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T06:37:33.089837+00:00`
-- Market context score: `47.54`
-- News risk score: `39.55`
-- Macro risk score: `24.82`
-- Risk-on score: `26.19`
+- Generated: `2026-11-17T06:52:24.291721+00:00`
+- Market context score: `47.88`
+- News risk score: `38.9`
+- Macro risk score: `25.39`
+- Risk-on score: `26.62`
 - Articles: `36`
 - Polymarket markets: `388`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T06:30:00+00:00`
+- Day/swing latest: `2026-11-17T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `15`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.3125`, policy hits `1`
+- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72 (BBC News)
 - [macro] Two major Kyiv bridges hit in Russian attack, mayor says (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trezor customer data exposed in 3rd partner breach this year (Cointelegraph.com News)
 - [macro] Vance says he will decide 'sometime next year' about 2028 US presidential run (BBC News)
-- [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
