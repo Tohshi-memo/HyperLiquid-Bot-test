@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T19:56:06.553914+00:00`
+- Generated: `2026-11-17T20:07:33.459196+00:00`
 - Market context score: `37.63`
 - News risk score: `49.87`
 - Macro risk score: `35.31`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T19:45:00+00:00`
+- Day/swing latest: `2026-11-17T20:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Speed camera fault may have allowed drivers to escape fines (BBC News)
 - [crypto] Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian military plane crashes killing all 19 on board (BBC News)
 - [crypto] Predictions platform Kalshi complies with order to halt Trump mention contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [macro] Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him (BBC News)
 - [crypto] Lighter incident exposes risks beyond withdrawal controls (Cointelegraph.com News)
 - [crypto] Druckenmiller says he is short copper, warns of economic weakness in 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Fed’s Waller cites Binance hack in warning over tokenized finance (Cointelegraph.com News)
