@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T22:52:31.191214+00:00`
+- Generated: `2026-11-17T23:07:26.142822+00:00`
 - Market context score: `40.88`
 - News risk score: `45.92`
 - Macro risk score: `34.08`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T22:45:00+00:00`
+- Day/swing latest: `2026-11-17T23:00:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Nvidia reports bumper results as firm says it not reinstating Huang (BBC News)
 - [macro] American soldier arrested by UK police on suspicion of spying taken into US military custody (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Nvidia reports bumper results as firm says it not reinstating Huang (BBC News)
 - [crypto] CFTC halts some Kalshi Trump mention markets over manipulation concerns (Cointelegraph.com News)
 - [crypto] Maple Finance CEO targets up to $15B in assets by the end of 2027 (Cointelegraph.com News)
 - [crypto] Nvidia tops estimates, issues strong guidance; shares rise (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
