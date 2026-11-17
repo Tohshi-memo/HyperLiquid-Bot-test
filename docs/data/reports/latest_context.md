@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T14:37:48.155442+00:00`
-- Market context score: `43.98`
-- News risk score: `41.26`
-- Macro risk score: `26.42`
-- Risk-on score: `20.34`
-- Articles: `52`
+- Generated: `2026-11-17T14:52:32.950152+00:00`
+- Market context score: `43.78`
+- News risk score: `41.16`
+- Macro risk score: `27.6`
+- Risk-on score: `20.26`
+- Articles: `51`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T14:30:00+00:00`
+- Day/swing latest: `2026-11-17T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `28`, risk hits `12`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `2`
+- crypto: articles `29`, risk hits `12`, risk headline rate `0.2759`, policy hits `4`
+- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `2`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Solana Foundation takes majority interest in crypto data firm CoinGecko (Cointelegraph.com News)
 - [macro] How new US chip restrictions on South East Asia will hit China (BBC News)
 - [macro] How new US chip restrictions on South East Asia will hit China (BBC News)
 - [policy] Waller, Considerations at the Intersection of Payments and Tokenized Markets (FRB: Speeches)
@@ -38,4 +39,3 @@
 - [macro] Speed camera fault may have allowed drivers to escape fines (BBC News)
 - [crypto] Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says (BBC News)
-- [macro] Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine (BBC News)
