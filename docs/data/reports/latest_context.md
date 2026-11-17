@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-16T23:52:23.502841+00:00`
-- Market context score: `41.23`
-- News risk score: `45.95`
-- Macro risk score: `28.46`
-- Risk-on score: `18.95`
-- Articles: `46`
+- Generated: `2026-11-17T00:07:29.030402+00:00`
+- Market context score: `42.09`
+- News risk score: `45.06`
+- Macro risk score: `27.2`
+- Risk-on score: `19.63`
+- Articles: `48`
 - Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-16T23:45:00+00:00`
+- Day/swing latest: `2026-11-17T00:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
-- crypto: articles `25`, risk hits `12`, risk headline rate `0.4`, policy hits `3`
-- macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `0`
+- crypto: articles `26`, risk hits `12`, risk headline rate `0.3846`, policy hits `3`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `0`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs (BBC News)
+- [macro] We couldn't afford a house alone, so we bought one with strangers (BBC News)
+- [crypto] Nvidia shares fall 4% as board reportedly rules out Huang return (Cointelegraph.com News)
 - [macro] Five EU countries announce migrant deportation centre in Rwanda (BBC News)
 - [macro] Customers report service outages at major US banks (BBC News)
 - [macro] California sues OpenAI over Hugging Face attack (BBC News)
@@ -36,6 +38,3 @@
 - [crypto] German lawmakers back crypto freezes outside criminal cases (Cointelegraph.com News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
-- [crypto] Binance hack may push institutions to outside custody, FalconX exec says (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
