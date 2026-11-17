@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T03:52:27.018604+00:00`
-- Market context score: `39.7`
-- News risk score: `47.06`
-- Macro risk score: `27.28`
-- Risk-on score: `16.04`
+- Generated: `2026-11-17T04:07:38.905358+00:00`
+- Market context score: `42.07`
+- News risk score: `43.93`
+- Macro risk score: `26.47`
+- Risk-on score: `18.36`
 - Articles: `31`
 - Polymarket markets: `388`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T03:45:00+00:00`
+- Day/swing latest: `2026-11-17T04:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `17`, risk hits `10`, risk headline rate `0.4706`, policy hits `2`
+- crypto: articles `17`, risk hits `9`, risk headline rate `0.4118`, policy hits `1`
 - macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `1`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Trezor customer data exposed in 3rd partner breach this year (Cointelegraph.com News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
 - [crypto] Hackers inject credit card, crypto-stealing malware into 178 major websites (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] We couldn't afford a house alone, so we bought one with strangers (BBC News)
 - [crypto] Nvidia shares fall 4% as board reportedly rules out Huang return (Cointelegraph.com News)
 - [macro] Five EU countries announce migrant deportation centre in Rwanda (BBC News)
-- [macro] California sues OpenAI over Hugging Face attack (BBC News)
