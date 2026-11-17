@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-17T16:15:37.376768+00:00`
+- Generated: `2026-11-17T16:20:31.697865+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `656359.3708950001` | liquidity: `213145.57644`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `644003.227052` | liquidity: `121548.30031`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `443623.339322` | liquidity: `477530.56772`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `395703.819561` | liquidity: `399140.47326`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `384695.413765` | liquidity: `384486.82934`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `361256.055344` | liquidity: `490704.0808`
-- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `306421.573` | liquidity: `1266631.24033`
-- Will China invade Taiwan by end of 2026? | 24h volume: `259497.96401299993` | liquidity: `325848.99628`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `656359.3708950001` | liquidity: `214427.0773`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `644003.227052` | liquidity: `123801.28556`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `443623.339322` | liquidity: `479875.98355`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `395703.819561` | liquidity: `388881.86096`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `384695.413765` | liquidity: `361659.38492`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `361256.055344` | liquidity: `490306.0275`
+- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `306421.573` | liquidity: `1266531.62769`
+- Will China invade Taiwan by end of 2026? | 24h volume: `259497.96401299993` | liquidity: `325215.84059`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
