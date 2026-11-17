@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T16:37:36.797429+00:00`
-- Market context score: `39.12`
-- News risk score: `48.1`
-- Macro risk score: `34.84`
-- Risk-on score: `18.5`
-- Articles: `58`
+- Generated: `2026-11-17T16:52:55.568222+00:00`
+- Market context score: `39.24`
+- News risk score: `47.87`
+- Macro risk score: `34.81`
+- Risk-on score: `18.55`
+- Articles: `59`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T16:30:00+00:00`
+- Day/swing latest: `2026-11-17T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `29`, risk hits `13`, risk headline rate `0.3103`, policy hits `4`
+- crypto: articles `30`, risk hits `13`, risk headline rate `0.3`, policy hits `4`
 - macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] Huang says he's willing to return as Nvidia boss in first remarks since resignation (BBC News)
-- [macro] Huang says he's willing to return as Nvidia boss in first remarks since resignation (BBC News)
+- [macro] Jensen Huang says he would return as Nvidia boss if asked by the board (BBC News)
+- [macro] Jensen Huang says he would return as Nvidia boss if asked by the board (BBC News)
+- [crypto] Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings (Cointelegraph.com News)
 - [macro] US loses measles elimination status after 26 years amid record case numbers (BBC News)
 - [commodity] Ecuador wants to monetize its biodiversity — while still drilling for oil (Energy)
 - [macro] Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine (BBC News)
@@ -38,4 +39,3 @@
 - [macro] We can't afford to hire under-25s, say firms. Will Milburn plans help? (BBC News)
 - [macro] How the attack on Crimean Bridge unfolded (BBC News)
 - [macro] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says (BBC News)
-- [macro] Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means (Economy)
