@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T18:37:36.330883+00:00`
+- Generated: `2026-11-17T18:52:31.092109+00:00`
 - Market context score: `35.13`
 - News risk score: `53.39`
 - Macro risk score: `36.87`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T18:30:00+00:00`
+- Day/swing latest: `2026-11-17T18:45:00+00:00`
 
 ## News Categories
 
@@ -30,8 +30,8 @@
 ## Headlines
 
 - [macro] UK sanctions firms over Israeli West Bank settlements (BBC News)
-- [macro] Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss (BBC News)
-- [macro] Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss (BBC News)
+- [macro] Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him (BBC News)
+- [macro] Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him (BBC News)
 - [crypto] Lighter incident exposes risks beyond withdrawal controls (Cointelegraph.com News)
 - [crypto] Druckenmiller says he is short copper, warns of economic weakness in 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Fed’s Waller cites Binance hack in warning over tokenized finance (Cointelegraph.com News)
