@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T13:07:29.721382+00:00`
-- Market context score: `46.03`
-- News risk score: `38.87`
-- Macro risk score: `21.74`
-- Risk-on score: `21.12`
-- Articles: `48`
-- Polymarket markets: `387`
+- Generated: `2026-11-17T13:22:27.502381+00:00`
+- Market context score: `46.3`
+- News risk score: `38.59`
+- Macro risk score: `21.71`
+- Risk-on score: `21.46`
+- Articles: `49`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T13:00:00+00:00`
+- Day/swing latest: `2026-11-17T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `26`, risk hits `12`, risk headline rate `0.3077`, policy hits `4`
+- crypto: articles `27`, risk hits `12`, risk headline rate `0.2963`, policy hits `4`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [crypto] ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results (Cointelegraph.com News)
 - [macro] Speed camera fault may have allowed drivers to escape fines (BBC News)
 - [crypto] Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Mozambique opposition leader faces trial over deadly 2024 election unrest (BBC News)
 - [macro] Where are the most jobs for 18-24 year-olds? (BBC News)
 - [crypto] Revolut plans four blockchain-based funds for private markets, chair says (Cointelegraph.com News)
-- [crypto] Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
