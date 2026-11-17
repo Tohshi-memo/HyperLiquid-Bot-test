@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T12:52:26.866905+00:00`
-- Market context score: `46.02`
-- News risk score: `39.63`
-- Macro risk score: `19.05`
-- Risk-on score: `20.72`
-- Articles: `47`
-- Polymarket markets: `388`
+- Generated: `2026-11-17T13:07:29.721382+00:00`
+- Market context score: `46.03`
+- News risk score: `38.87`
+- Macro risk score: `21.74`
+- Risk-on score: `21.12`
+- Articles: `48`
+- Polymarket markets: `387`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T12:45:00+00:00`
+- Day/swing latest: `2026-11-17T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `25`, risk hits `14`, risk headline rate `0.36`, policy hits `4`
-- macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `0`
+- crypto: articles `26`, risk hits `12`, risk headline rate `0.3077`, policy hits `4`
+- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
 - [macro] Speed camera fault may have allowed drivers to escape fines (BBC News)
+- [crypto] Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says (BBC News)
+- [macro] Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine (BBC News)
+- [crypto] Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Government must act now or lose Royal Mail, former minister warns (BBC News)
 - [macro] Mozambique opposition leader faces trial over deadly 2024 election unrest (BBC News)
 - [macro] Where are the most jobs for 18-24 year-olds? (BBC News)
 - [crypto] Revolut plans four blockchain-based funds for private markets, chair says (Cointelegraph.com News)
 - [crypto] Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Gunmen kill Costa Rican journalist who reported on drugs trade (BBC News)
-- [macro] Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6 (BBC News)
-- [crypto] US senators seek SEC answers on tokenized stock money laundering risks (Cointelegraph.com News)
