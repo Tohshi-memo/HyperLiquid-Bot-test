@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T20:52:46.775516+00:00`
+- Generated: `2026-11-17T21:07:28.790624+00:00`
 - Market context score: `38.42`
 - News risk score: `49.63`
 - Macro risk score: `33.68`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T20:45:00+00:00`
+- Day/swing latest: `2026-11-17T21:00:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] Russian military plane crashes killing all 19 on board (BBC News)
+- [macro] US loses measles elimination status after 26 years amid record case numbers (BBC News)
 - [macro] American soldier arrested by UK police on suspicion of spying taken into US military custody (BBC News)
 - [macro] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says (BBC News)
 - [macro] Trump in Asia ahead of talks with Russian and Chinese presidents (BBC News)
-- [macro] Russian military plane crashes killing all 19 on board (BBC News)
 - [crypto] Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins (Cointelegraph.com News)
 - [macro] Speed camera fault may have allowed drivers to escape fines (BBC News)
 - [crypto] Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Predictions platform Kalshi complies with order to halt Trump mention contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Carney looks to China as Trump tariffs squeeze Canada's car industry (BBC News)
-- [macro] UK sanctions firms over Israeli West Bank settlements (BBC News)
