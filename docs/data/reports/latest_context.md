@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T06:52:24.291721+00:00`
-- Market context score: `47.88`
-- News risk score: `38.9`
-- Macro risk score: `25.39`
-- Risk-on score: `26.62`
+- Generated: `2026-11-17T07:07:34.456941+00:00`
+- Market context score: `48.25`
+- News risk score: `39.31`
+- Macro risk score: `26.08`
+- Risk-on score: `28.05`
 - Articles: `36`
 - Polymarket markets: `388`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T06:45:00+00:00`
+- Day/swing latest: `2026-11-17T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.3125`, policy hits `1`
+- crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `2`
 - macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `1`
 
 ## Headlines
 
+- [macro] Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out (BBC News)
+- [crypto] Cardano Foundation seeks $5 million from treasury using ADA price 33% above market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72 (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trezor customer data exposed in 3rd partner breach this year (Cointelegraph.com News)
-- [macro] Vance says he will decide 'sometime next year' about 2028 US presidential run (BBC News)
-- [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
