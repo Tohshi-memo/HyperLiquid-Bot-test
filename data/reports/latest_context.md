@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T09:52:30.857713+00:00`
+- Generated: `2026-11-17T10:07:26.764458+00:00`
 - Market context score: `40.45`
 - News risk score: `43.38`
 - Macro risk score: `26.21`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T09:45:00+00:00`
+- Day/swing latest: `2026-11-17T10:00:00+00:00`
 
 ## News Categories
 
@@ -36,5 +36,5 @@
 - [crypto] Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps (Cointelegraph.com News)
 - [macro] Japan sends up jets after alleged Russian incursion of its airspace (BBC News)
 - [crypto] Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Body of Melbourne Cup horse found dumped in Sydney skip bin (BBC News)
 - [crypto] Cardano Foundation seeks $5 million from treasury using ADA price 33% above market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme (Cointelegraph.com News)
