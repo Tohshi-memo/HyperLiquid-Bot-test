@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T05:22:26.922556+00:00`
+- Generated: `2026-11-17T05:37:30.662584+00:00`
 - Market context score: `42.18`
 - News risk score: `43.99`
 - Macro risk score: `27.63`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T05:15:00+00:00`
+- Day/swing latest: `2026-11-17T05:30:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [commodity] Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran (Energy)
 - [crypto] Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran (Energy)
 - [crypto] Trezor customer data exposed in 3rd partner breach this year (Cointelegraph.com News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
 - [macro] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (BBC News)
