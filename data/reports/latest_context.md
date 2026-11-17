@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T14:22:33.617198+00:00`
+- Generated: `2026-11-17T14:37:48.155442+00:00`
 - Market context score: `43.98`
 - News risk score: `41.26`
 - Macro risk score: `26.42`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T14:15:00+00:00`
+- Day/swing latest: `2026-11-17T14:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,8 @@
 
 ## Headlines
 
+- [macro] How new US chip restrictions on South East Asia will hit China (BBC News)
+- [macro] How new US chip restrictions on South East Asia will hit China (BBC News)
 - [policy] Waller, Considerations at the Intersection of Payments and Tokenized Markets (FRB: Speeches)
 - [macro] St. Louis Fed's Musalem says four more rate hikes may be needed in coming months (Economy)
 - [crypto] Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi (Cointelegraph.com News)
@@ -37,5 +39,3 @@
 - [crypto] Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says (BBC News)
 - [macro] Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine (BBC News)
-- [crypto] Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Government must act now or lose Royal Mail, former minister warns (BBC News)
