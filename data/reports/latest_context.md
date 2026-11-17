@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T17:52:25.770772+00:00`
-- Market context score: `35.77`
-- News risk score: `53.15`
-- Macro risk score: `35.4`
-- Risk-on score: `15.51`
+- Generated: `2026-11-17T18:07:44.161392+00:00`
+- Market context score: `35.71`
+- News risk score: `52.94`
+- Macro risk score: `36.07`
+- Risk-on score: `15.46`
 - Articles: `63`
 - Polymarket markets: `389`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T17:45:00+00:00`
+- Day/swing latest: `2026-11-17T18:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `17`, risk headline rate `0.3871`, policy hits `7`
-- macro: articles `29`, risk hits `10`, risk headline rate `0.3103`, policy hits `3`
+- crypto: articles `32`, risk hits `17`, risk headline rate `0.375`, policy hits `7`
+- macro: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Lighter incident exposes risks beyond withdrawal controls (Cointelegraph.com News)
 - [crypto] Druckenmiller says he is short copper, warns of economic weakness in 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss (BBC News)
 - [macro] Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge (BBC News)
 - [macro] US loses measles elimination status after 26 years amid record case numbers (BBC News)
 - [commodity] Ecuador wants to monetize its biodiversity — while still drilling for oil (Energy)
-- [crypto] U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
