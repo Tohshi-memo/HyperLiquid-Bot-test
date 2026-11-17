@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T14:07:41.299835+00:00`
-- Market context score: `44.95`
-- News risk score: `40.01`
-- Macro risk score: `24.91`
-- Risk-on score: `20.87`
-- Articles: `50`
-- Polymarket markets: `388`
+- Generated: `2026-11-17T14:22:33.617198+00:00`
+- Market context score: `43.98`
+- News risk score: `41.26`
+- Macro risk score: `26.42`
+- Risk-on score: `20.34`
+- Articles: `52`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T14:00:00+00:00`
+- Day/swing latest: `2026-11-17T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `28`, risk hits `12`, risk headline rate `0.2857`, policy hits `4`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `2`
+- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `2`
+- policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [policy] Waller, Considerations at the Intersection of Payments and Tokenized Markets (FRB: Speeches)
 - [macro] St. Louis Fed's Musalem says four more rate hikes may be needed in coming months (Economy)
 - [crypto] Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi (Cointelegraph.com News)
 - [crypto] ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results (Cointelegraph.com News)
@@ -37,4 +39,3 @@
 - [macro] Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine (BBC News)
 - [crypto] Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Government must act now or lose Royal Mail, former minister warns (BBC News)
-- [macro] Mozambique opposition leader faces trial over deadly 2024 election unrest (BBC News)
