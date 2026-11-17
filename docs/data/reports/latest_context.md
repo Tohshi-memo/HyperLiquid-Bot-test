@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-17T20:07:33.459196+00:00`
-- Market context score: `37.63`
-- News risk score: `49.87`
-- Macro risk score: `35.31`
-- Risk-on score: `16.86`
-- Articles: `62`
+- Generated: `2026-11-17T20:22:31.611596+00:00`
+- Market context score: `37.86`
+- News risk score: `49.65`
+- Macro risk score: `35.27`
+- Risk-on score: `17.16`
+- Articles: `63`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-17T20:00:00+00:00`
+- Day/swing latest: `2026-11-17T20:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `31`, risk hits `15`, risk headline rate `0.3226`, policy hits `4`
+- crypto: articles `32`, risk hits `15`, risk headline rate `0.3125`, policy hits `4`
 - macro: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `3`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins (Cointelegraph.com News)
 - [macro] Speed camera fault may have allowed drivers to escape fines (BBC News)
 - [crypto] Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian military plane crashes killing all 19 on board (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him (BBC News)
 - [macro] Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him (BBC News)
 - [crypto] Lighter incident exposes risks beyond withdrawal controls (Cointelegraph.com News)
-- [crypto] Druckenmiller says he is short copper, warns of economic weakness in 2027 (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
