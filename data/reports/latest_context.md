@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T12:22:27.018493+00:00`
-- Market context score: `39.16`
-- News risk score: `50.18`
-- Macro risk score: `40.97`
-- Risk-on score: `22.67`
+- Generated: `2026-11-18T12:37:28.822772+00:00`
+- Market context score: `35.46`
+- News risk score: `52.34`
+- Macro risk score: `42.39`
+- Risk-on score: `16.78`
 - Articles: `38`
 - Polymarket markets: `387`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T12:15:00+00:00`
+- Day/swing latest: `2026-11-18T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `3`
-- macro: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `1`
+- crypto: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `3`
+- macro: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Circle turns to DBS as banks build rival digital payment systems across Asia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz (Energy)
 - [macro] Who to watch in Spain's election race (BBC News)
@@ -36,5 +37,4 @@
 - [crypto] Bitwise seeks Texas Stock Exchange listing for Zcash ETF (Cointelegraph.com News)
 - [crypto] Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out (Cointelegraph.com News)
 - [macro] Democrats win Alaska Senate race two weeks after midterms counting began (BBC News)
-- [macro] Energy bills forecast to go up by £443 a year from January as UK inflation rises again (BBC News)
 - [macro] Energy bills forecast to go up by £443 a year from January as UK inflation rises again (BBC News)
