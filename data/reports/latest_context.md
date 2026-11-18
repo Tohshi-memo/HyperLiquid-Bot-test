@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T13:52:28.935067+00:00`
-- Market context score: `36.23`
-- News risk score: `54.08`
-- Macro risk score: `47.84`
-- Risk-on score: `22.04`
-- Articles: `44`
+- Generated: `2026-11-18T14:07:27.635917+00:00`
+- Market context score: `36.96`
+- News risk score: `53.51`
+- Macro risk score: `46.21`
+- Risk-on score: `22.56`
+- Articles: `45`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T13:45:00+00:00`
+- Day/swing latest: `2026-11-18T14:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `24`, risk hits `9`, risk headline rate `0.375`, policy hits `4`
-- macro: articles `17`, risk hits `8`, risk headline rate `0.4706`, policy hits `2`
+- macro: articles `18`, risk hits `8`, risk headline rate `0.4444`, policy hits `2`
 
 ## Headlines
 
+- [macro] Anthropic: The seven founders who are about to become multi-billionaires (BBC News)
 - [crypto] CoinShares sells all treasury ETH, halves SOL holdings for buybacks (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Sanctions fears loom over Russia’s regulated crypto trading launch (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Heating bills, chocolate and cat food: What the inflation figures mean for you (BBC News)
 - [crypto] Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit (Cointelegraph.com News)
-- [crypto] Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
