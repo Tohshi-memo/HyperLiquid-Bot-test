@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T22:07:26.238255+00:00`
+- Generated: `2026-11-18T22:22:36.989171+00:00`
 - Market context score: `43.64`
 - News risk score: `46.79`
 - Macro risk score: `33.32`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T22:00:00+00:00`
+- Day/swing latest: `2026-11-18T22:15:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Tether invokes The Big Short in swipe at S&P over USDT reserve risks (Cointelegraph.com News)
 - [crypto] Ledger warns Berlin customers as hardware wallet tampering investigation expands (Cointelegraph.com News)
 - [macro] Democrats nominate Hakeem Jeffries to be US Speaker of the House (BBC News)
@@ -38,4 +39,3 @@
 - [macro] William and Kate meet PM Modi as they wrap up India tour (BBC News)
 - [policy] Minutes of the Federal Open Market Committee, October 27-28, 2026 (FRB: Press Release - All Releases)
 - [policy] Barr, Investing in America’s Underserved Communities (FRB: Speeches)
-- [crypto] MARA prices $185M debt offering after $1.1B Bitcoin sale (Cointelegraph.com News)
