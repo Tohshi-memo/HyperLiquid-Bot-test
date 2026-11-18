@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T07:22:43.381232+00:00`
-- Market context score: `46.63`
-- News risk score: `43.45`
-- Macro risk score: `32.76`
-- Risk-on score: `30.48`
-- Articles: `33`
+- Generated: `2026-11-18T07:37:42.689880+00:00`
+- Market context score: `47.43`
+- News risk score: `42.29`
+- Macro risk score: `32.74`
+- Risk-on score: `31.25`
+- Articles: `34`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T07:15:00+00:00`
+- Day/swing latest: `2026-11-18T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 - macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Higher fuel prices push UK inflation to 3.6% (BBC News)
 - [macro] Higher fuel prices push UK inflation to 3.6% (BBC News)
 - [macro] How important are Nvidia and Jensen Huang to the US economy? (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount (Energy)
 - [crypto] Bitcoin's 12% slide through key support looks scary, but history says give it 3 months. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007 (BBC News)
