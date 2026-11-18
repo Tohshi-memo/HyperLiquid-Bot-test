@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T10:37:34.104757+00:00`
-- Market context score: `42.91`
-- News risk score: `47.72`
-- Macro risk score: `35.17`
-- Risk-on score: `26.73`
-- Articles: `37`
+- Generated: `2026-11-18T10:41:07.443035+00:00`
+- Market context score: `43.69`
+- News risk score: `46.57`
+- Macro risk score: `35.13`
+- Risk-on score: `27.48`
+- Articles: `38`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `6`, risk headline rate `0.4`, policy hits `1`
+- crypto: articles `16`, risk hits `6`, risk headline rate `0.375`, policy hits `1`
 - macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitwise seeks Texas Stock Exchange listing for Zcash ETF (Cointelegraph.com News)
 - [crypto] Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out (Cointelegraph.com News)
 - [macro] Democrats win Alaska Senate race two weeks after midterms counting began (BBC News)
 - [macro] Energy bills forecast to go up by £443 a year from January as UK inflation rises again (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] World Bank partners with Circle, Citi to explore stablecoins for payments (Cointelegraph.com News)
 - [crypto] Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Security flaw found in Java, world's third-largest programming language (BBC News)
-- [crypto] SOL comes out of Breakpoint 7% higher as Solana exits beta (Cointelegraph.com News)
