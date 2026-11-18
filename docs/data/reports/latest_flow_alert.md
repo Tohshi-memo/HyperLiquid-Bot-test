@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T03:25:26.424880+00:00`
+- Generated: `2026-11-18T03:30:32.401044+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1148525.675253` | liquidity: `253009.95986`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `976538.75462` | liquidity: `243910.07701`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `947529.861332` | liquidity: `256191.80054`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `519742.3757940001` | liquidity: `566926.21671`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `369580.51832000003` | liquidity: `442281.05798`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `362788.32301999995` | liquidity: `952886.9032`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `295282.603145` | liquidity: `401702.56275`
-- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `253666.80711900003` | liquidity: `323928.34071`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1148525.675253` | liquidity: `247399.70775`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `976538.75462` | liquidity: `245077.18066`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `947529.861332` | liquidity: `260521.3221`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `519742.3757940001` | liquidity: `567092.333`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `369580.51832000003` | liquidity: `444472.18271`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `362788.32301999995` | liquidity: `986683.8818`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `295282.603145` | liquidity: `491749.1509`
+- Will Mary Peltola win the Alaska Senate race in 2026? | 24h volume: `253666.80711900003` | liquidity: `316966.0153`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
