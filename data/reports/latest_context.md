@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T20:37:28.990349+00:00`
-- Market context score: `41.75`
-- News risk score: `48.9`
-- Macro risk score: `34.5`
-- Risk-on score: `24.89`
-- Articles: `53`
+- Generated: `2026-11-18T20:52:33.391860+00:00`
+- Market context score: `42.35`
+- News risk score: `48.23`
+- Macro risk score: `32.93`
+- Risk-on score: `25.06`
+- Articles: `51`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T20:30:00+00:00`
+- Day/swing latest: `2026-11-18T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3571`, policy hits `7`
-- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `1`
+- crypto: articles `27`, risk hits `10`, risk headline rate `0.3704`, policy hits `7`
+- macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
 - [crypto] Bain Capital Crypto leads $110M Variational round at $1.5B valuation (Cointelegraph.com News)
-- [crypto] Binance says it won $6.5B worldwide freezing order after hack (Cointelegraph.com News)
+- [crypto] Binance says it obtained $6.5B worldwide freezing order after hack (Cointelegraph.com News)
 - [macro] Israeli military launches rare ground operation in Gaza beyond Yellow Line (BBC News)
 - [macro] William and Kate meet PM Modi as they wrap up India tour (BBC News)
 - [policy] Minutes of the Federal Open Market Committee, October 27-28, 2026 (FRB: Press Release - All Releases)
