@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T15:55:33.298253+00:00`
+- Generated: `2026-11-18T16:00:33.909249+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1013111.5898460001` | liquidity: `183605.34619`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `966852.7956949999` | liquidity: `299031.63762`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `894621.232821` | liquidity: `323663.35202`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `667600.341314` | liquidity: `492882.06883`
-- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `88791.96286`
-- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500143.47` | liquidity: `1120181.06344`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500050.01` | liquidity: `1050094.07303`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1013111.5898460001` | liquidity: `195067.37133`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `966852.7956949999` | liquidity: `289066.21596`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `894621.232821` | liquidity: `323396.34971`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `667600.341314` | liquidity: `495716.25249`
+- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `88442.62286`
+- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500143.47` | liquidity: `1120181.17544`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500050.01` | liquidity: `1050032.47303`
 - Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `500050.0` | liquidity: `1937843.53961`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
