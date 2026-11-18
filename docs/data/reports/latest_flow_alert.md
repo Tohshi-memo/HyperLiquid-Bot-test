@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T09:40:35.448639+00:00`
+- Generated: `2026-11-18T09:45:28.612135+00:00`
 - Flow alert score: `23.68`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1077856.646285` | liquidity: `272590.78366`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `939514.1608170002` | liquidity: `290084.65193`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `939475.390083` | liquidity: `282774.87316`
-- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500093.47` | liquidity: `1107760.76644`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500000.02` | liquidity: `1036239.50953`
-- Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `500000.0` | liquidity: `1923977.21374`
-- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `500000.0` | liquidity: `1865362.85506`
-- Will Adam Schiff win the 2028 Democratic presidential nomination? | 24h volume: `500000.0` | liquidity: `1399296.34654`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1077856.646285` | liquidity: `273708.00661`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `939514.1608170002` | liquidity: `291064.66189`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `939475.390083` | liquidity: `287961.71893`
+- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500093.47` | liquidity: `1109015.82044`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500000.02` | liquidity: `1036724.81053`
+- Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `500000.0` | liquidity: `1924845.07074`
+- Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `500000.0` | liquidity: `1866190.30206`
+- Will Adam Schiff win the 2028 Democratic presidential nomination? | 24h volume: `500000.0` | liquidity: `1400118.34154`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
