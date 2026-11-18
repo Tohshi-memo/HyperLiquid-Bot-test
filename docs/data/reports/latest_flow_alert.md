@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T21:30:34.022092+00:00`
+- Generated: `2026-11-18T21:35:30.520702+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `923722.162834` | liquidity: `430934.15012`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `916172.221366` | liquidity: `593378.49958`
-- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `754840.03` | liquidity: `1854104.33948`
-- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `90501.20296`
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `554742.037653` | liquidity: `249918.25455`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `524615.4340149999` | liquidity: `413127.8918`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `514181.0974020001` | liquidity: `351895.58488`
-- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `505143.47` | liquidity: `1113597.67144`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `923722.162834` | liquidity: `452027.7221`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `916172.221366` | liquidity: `497298.30415`
+- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `754840.03` | liquidity: `1851515.71448`
+- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `91487.30396`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `554742.037653` | liquidity: `248511.1368`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `524615.4340149999` | liquidity: `380168.2034`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `514181.0974020001` | liquidity: `284403.40075`
+- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `505143.47` | liquidity: `1112985.26644`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
