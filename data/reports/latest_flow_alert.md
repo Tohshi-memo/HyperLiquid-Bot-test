@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T16:55:39.916061+00:00`
+- Generated: `2026-11-18T17:00:32.522600+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `875694.9540310001` | liquidity: `204351.33777`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `801452.7708330003` | liquidity: `334448.50678`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `753585.3345359998` | liquidity: `309620.12185`
-- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `88939.24552`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `576088.049771` | liquidity: `561179.78249`
-- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500143.47` | liquidity: `1120049.52544`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500050.01` | liquidity: `1045639.66603`
-- Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `500050.0` | liquidity: `1936880.61261`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `875694.9540310001` | liquidity: `205226.80542`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `801452.7708330003` | liquidity: `335280.87733`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `753585.3345359998` | liquidity: `307654.19068`
+- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `89012.97552`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `576088.049771` | liquidity: `555675.24336`
+- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500143.47` | liquidity: `1119528.14944`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500050.01` | liquidity: `1048785.98603`
+- Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `500050.0` | liquidity: `1936780.41261`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
