@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T09:22:25.965638+00:00`
-- Market context score: `45.18`
-- News risk score: `45.13`
-- Macro risk score: `36.14`
-- Risk-on score: `29.95`
+- Generated: `2026-11-18T09:37:26.738288+00:00`
+- Market context score: `41.78`
+- News risk score: `49.39`
+- Macro risk score: `35.13`
+- Risk-on score: `25.6`
 - Articles: `38`
-- Polymarket markets: `389`
+- Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T09:15:00+00:00`
+- Day/swing latest: `2026-11-18T09:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.4375`, policy hits `1`
+- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Strategy stock could plunge 76% to $23, chart analyst warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Ghana's new $60m presidential jet sparks public outrage (BBC News)
+- [crypto] World Bank partners with Circle, Citi to explore stablecoins for payments (Cointelegraph.com News)
 - [crypto] Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] MP urges council to speed up heating oil payments (BBC News)
 - [macro] Security flaw found in Java, world's third-largest programming language (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] SOL comes out of Breakpoint 7% higher as Solana exits beta (Cointelegraph.com News)
 - [macro] Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk (Economy)
 - [crypto] Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase (Cointelegraph.com News)
-- [macro] Ghana's new $60m presidential jet sparks public outrage (BBC News)
-- [macro] Record diesel prices drive UK inflation to 1-year high of 3.6% (Economy)
-- [commodity] Record diesel prices drive UK inflation to 1-year high of 3.6% (Energy)
