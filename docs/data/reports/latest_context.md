@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T21:07:32.332463+00:00`
-- Market context score: `42.35`
-- News risk score: `48.23`
-- Macro risk score: `32.93`
-- Risk-on score: `25.06`
-- Articles: `51`
+- Generated: `2026-11-18T21:22:33.827486+00:00`
+- Market context score: `42.58`
+- News risk score: `48.66`
+- Macro risk score: `33.0`
+- Risk-on score: `25.96`
+- Articles: `50`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T21:00:00+00:00`
+- Day/swing latest: `2026-11-18T21:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `27`, risk hits `10`, risk headline rate `0.3704`, policy hits `7`
+- crypto: articles `26`, risk hits `10`, risk headline rate `0.3846`, policy hits `7`
 - macro: articles `21`, risk hits `6`, risk headline rate `0.2857`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Ledger warns Berlin customers as hardware wallet tampering investigation expands (Cointelegraph.com News)
+- [macro] Democrats nominate Hakeem Jeffries to be US Speaker of the House (BBC News)
 - [crypto] Bain Capital Crypto leads $110M Variational round at $1.5B valuation (Cointelegraph.com News)
 - [crypto] Binance says it obtained $6.5B worldwide freezing order after hack (Cointelegraph.com News)
 - [macro] Israeli military launches rare ground operation in Gaza beyond Yellow Line (BBC News)
@@ -37,5 +39,3 @@
 - [policy] Barr, Investing in America’s Underserved Communities (FRB: Speeches)
 - [crypto] MARA prices $185M debt offering after $1.1B Bitcoin sale (Cointelegraph.com News)
 - [macro] Grand Theft Auto 6 is a masterpiece, say critics (BBC News)
-- [macro] Democrats nominate Hakeem Jeffries to be US Speaker of the House (BBC News)
-- [crypto] A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
