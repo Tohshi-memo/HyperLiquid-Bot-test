@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T00:37:27.177251+00:00`
-- Market context score: `42.99`
-- News risk score: `44.67`
-- Macro risk score: `35.57`
-- Risk-on score: `24.46`
+- Generated: `2026-11-18T00:52:25.530870+00:00`
+- Market context score: `42.51`
+- News risk score: `45.69`
+- Macro risk score: `34.3`
+- Risk-on score: `23.78`
 - Articles: `51`
 - Polymarket markets: `389`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T00:30:00+00:00`
+- Day/swing latest: `2026-11-18T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `19`, risk hits `6`, risk headline rate `0.2632`, policy hits `3`
-- macro: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `5`
+- crypto: articles `20`, risk hits `7`, risk headline rate `0.3`, policy hits `3`
+- macro: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `5`
 - policy: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] CFTC nominee questions public benefit of prediction markets as legal fight grows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Japan exports in October surge 20.5%, beating estimates on robust chip shipments (Economy)
 - [macro] Nvidia says it won't reinstate Huang as firm reports bumper results (BBC News)
 - [macro] Nvidia says it won't reinstate Huang as firm reports bumper results (BBC News)
@@ -38,4 +39,3 @@
 - [macro] American soldier arrested by UK police on suspicion of spying taken into US military custody (BBC News)
 - [macro] Thomas Markle charged over child sex abuse material in Philippines (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] CFTC halts some Kalshi Trump mention markets over manipulation concerns (Cointelegraph.com News)
