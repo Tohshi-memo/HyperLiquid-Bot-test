@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T05:52:27.636126+00:00`
-- Market context score: `46.69`
-- News risk score: `42.58`
-- Macro risk score: `30.89`
-- Risk-on score: `29.17`
-- Articles: `36`
+- Generated: `2026-11-18T06:07:28.177762+00:00`
+- Market context score: `47.49`
+- News risk score: `41.41`
+- Macro risk score: `30.85`
+- Risk-on score: `29.94`
+- Articles: `37`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T05:45:00+00:00`
+- Day/swing latest: `2026-11-18T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 - macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Security flaw found in Java, world's third-largest programming language (BBC News)
 - [crypto] U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount (Energy)
@@ -36,5 +37,4 @@
 - [macro] Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007 (BBC News)
 - [macro] Waymo pulls driverless taxis from all US freeways (BBC News)
 - [crypto] Ledger hardware implant saga reaches Dubai’s Virgin Megastore (Cointelegraph.com News)
-- [macro] Nvidia says it won't reinstate Huang as firm reports bumper results (BBC News)
 - [macro] Nvidia says it won't reinstate Huang as firm reports bumper results (BBC News)
