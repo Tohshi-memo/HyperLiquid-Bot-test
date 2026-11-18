@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T16:07:29.810786+00:00`
+- Generated: `2026-11-18T16:22:30.262236+00:00`
 - Market context score: `39.18`
 - News risk score: `51.26`
 - Macro risk score: `42.44`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T16:00:00+00:00`
+- Day/swing latest: `2026-11-18T16:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Trump shakes hands with Putin and Xi ahead of historic talks in China (BBC News)
 - [macro] Democrats nominate Hakeem Jeffries to be US Speaker of the House (BBC News)
 - [crypto] Crypto Long & Short: Crypto exchanges shouldn’t double as the vault (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Parents jailed for torture and death of four-year-old girl in France in 1987 (BBC News)
@@ -37,4 +38,3 @@
 - [macro] William and Kate meet Indian Prime Minister Modi in New Delhi (BBC News)
 - [macro] Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk (Economy)
 - [crypto] Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys (Cointelegraph.com News)
-- [macro] The seven Anthropic founders who are about to become multi-billionaires (BBC News)
