@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T07:40:28.234778+00:00`
+- Generated: `2026-11-18T07:45:36.303648+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1091478.6113660003` | liquidity: `246655.12091`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `966653.148196` | liquidity: `303796.5988`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `958477.506258` | liquidity: `275951.74475`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `477056.895038` | liquidity: `602874.43814`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `391495.76779699995` | liquidity: `997630.9528`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `370120.137362` | liquidity: `477497.354`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `298309.19050299993` | liquidity: `517261.91438`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `195980.63832700005` | liquidity: `39130.3189`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1091478.6113660003` | liquidity: `256562.37835`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `966653.148196` | liquidity: `305403.44778`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `958477.506258` | liquidity: `275629.26145`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `477056.895038` | liquidity: `588874.84453`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `391495.76779699995` | liquidity: `965102.9991`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `370120.137362` | liquidity: `454190.19071`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `298309.19050299993` | liquidity: `512980.73426`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `195980.63832700005` | liquidity: `42685.5456`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
