@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T13:22:35.005321+00:00`
-- Market context score: `37.06`
-- News risk score: `51.21`
-- Macro risk score: `47.44`
-- Risk-on score: `21.31`
-- Articles: `41`
+- Generated: `2026-11-18T13:37:30.516120+00:00`
+- Market context score: `37.45`
+- News risk score: `50.75`
+- Macro risk score: `47.38`
+- Risk-on score: `21.76`
+- Articles: `42`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T13:15:00+00:00`
+- Day/swing latest: `2026-11-18T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `3`
+- crypto: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `3`
 - macro: articles `17`, risk hits `8`, risk headline rate `0.4706`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [crypto] How to preserve wealth and access funds during a national emergency (Cointelegraph.com News)
 - [macro] Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again (BBC News)
 - [macro] Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk (Economy)
 - [macro] Heating bills, chocolate and cat food: What the inflation figures mean for you (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump shakes hands with Putin and Xi ahead of historic talks in China (BBC News)
 - [crypto] Circle turns to DBS as banks build rival digital payment systems across Asia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz (Energy)
