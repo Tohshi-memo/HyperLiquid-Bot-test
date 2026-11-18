@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T17:52:33.035292+00:00`
+- Generated: `2026-11-18T18:07:33.556616+00:00`
 - Market context score: `40.83`
 - News risk score: `51.3`
 - Macro risk score: `39.3`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T17:45:00+00:00`
+- Day/swing latest: `2026-11-18T18:00:00+00:00`
 
 ## News Categories
 
@@ -32,9 +32,9 @@
 - [macro] Grand Theft Auto 6 is a masterpiece, say critics (BBC News)
 - [macro] Democrats nominate Hakeem Jeffries to be US Speaker of the House (BBC News)
 - [crypto] A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] New video shows explosions moments before part of Crimea Bridge collapses (BBC News)
 - [crypto] $25M Ethereum MEV acquittal tests criminal enforcement limits (Cointelegraph.com News)
 - [macro] Inside the old gas pipeline where Ukraine is fighting an underground war with Russia (BBC News)
 - [macro] 'The drones don't fly here' - BBC reports from Ukraine's new front line (BBC News)
 - [crypto] Polymarket US takes rapid-fire crypto trading format to oil, natural gas (Cointelegraph.com News)
 - [crypto] Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike (Cointelegraph.com News)
-- [macro] Julio Iglesias facing court investigation over alleged sexual offences (BBC News)
