@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T18:52:27.805020+00:00`
-- Market context score: `41.53`
-- News risk score: `50.71`
-- Macro risk score: `38.26`
-- Risk-on score: `27.35`
-- Articles: `55`
-- Polymarket markets: `388`
+- Generated: `2026-11-18T19:07:50.755347+00:00`
+- Market context score: `41.72`
+- News risk score: `50.77`
+- Macro risk score: `37.79`
+- Risk-on score: `27.63`
+- Articles: `56`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T18:45:00+00:00`
+- Day/swing latest: `2026-11-18T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `29`, risk hits `10`, risk headline rate `0.3448`, policy hits `8`
 - macro: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `1`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [policy] Minutes of the Federal Open Market Committee, October 27-28, 2026 (FRB: Press Release - All Releases)
 - [policy] Barr, Investing in America’s Underserved Communities (FRB: Speeches)
 - [crypto] MARA prices $185M debt offering after $1.1B Bitcoin sale (Cointelegraph.com News)
 - [macro] William and Kate reflect on 'enduring' UK-India ties with Modi (BBC News)
@@ -38,4 +39,3 @@
 - [macro] New video shows explosions moments before part of Crimea Bridge collapses (BBC News)
 - [crypto] $25M Ethereum MEV acquittal tests criminal enforcement limits (Cointelegraph.com News)
 - [macro] Inside the old gas pipeline where Ukraine is fighting an underground war with Russia (BBC News)
-- [macro] 'The drones don't fly here' - BBC reports from Ukraine's new front line (BBC News)
