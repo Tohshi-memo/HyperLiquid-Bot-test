@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T13:07:55.684109+00:00`
-- Market context score: `38.68`
-- News risk score: `49.8`
-- Macro risk score: `43.74`
-- Risk-on score: `22.31`
-- Articles: `43`
+- Generated: `2026-11-18T13:22:35.005321+00:00`
+- Market context score: `37.06`
+- News risk score: `51.21`
+- Macro risk score: `47.44`
+- Risk-on score: `21.31`
+- Articles: `41`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T13:00:00+00:00`
+- Day/swing latest: `2026-11-18T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `21`, risk hits `7`, risk headline rate `0.3333`, policy hits `3`
-- macro: articles `19`, risk hits `8`, risk headline rate `0.4211`, policy hits `1`
+- macro: articles `17`, risk hits `8`, risk headline rate `0.4706`, policy hits `2`
 
 ## Headlines
 
+- [macro] Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again (BBC News)
+- [macro] Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk (Economy)
+- [macro] Heating bills, chocolate and cat food: What the inflation figures mean for you (BBC News)
 - [crypto] Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit (Cointelegraph.com News)
 - [crypto] Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [crypto] Circle turns to DBS as banks build rival digital payment systems across Asia (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz (Energy)
-- [macro] Who to watch in Spain's election race (BBC News)
-- [crypto] Bitcoin drops as Nvidia earnings report drives stock index futures higher (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Bancroft sandpaper claims heap pressure on Cummins (BBC News)
