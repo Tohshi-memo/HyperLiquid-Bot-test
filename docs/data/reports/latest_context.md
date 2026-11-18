@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T07:37:42.689880+00:00`
-- Market context score: `47.43`
-- News risk score: `42.29`
-- Macro risk score: `32.74`
-- Risk-on score: `31.25`
-- Articles: `34`
+- Generated: `2026-11-18T07:52:31.519783+00:00`
+- Market context score: `43.83`
+- News risk score: `48.21`
+- Macro risk score: `37.68`
+- Risk-on score: `30.13`
+- Articles: `37`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T07:30:00+00:00`
+- Day/swing latest: `2026-11-18T07:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
-- macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `1`
+- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `0`
+- macro: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `1`
 
 ## Headlines
 
+- [macro] Record diesel prices drive UK inflation to 1-year high of 3.6% (Economy)
+- [commodity] Record diesel prices drive UK inflation to 1-year high of 3.6% (Energy)
+- [macro] Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material (BBC News)
+- [macro] Higher petrol and diesel prices push UK inflation to 3.6% (BBC News)
+- [macro] Higher petrol and diesel prices push UK inflation to 3.6% (BBC News)
+- [crypto] Google finds self-running AI hacking tool with Russian comments in its files (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Higher fuel prices push UK inflation to 3.6% (BBC News)
-- [macro] Higher fuel prices push UK inflation to 3.6% (BBC News)
+- [macro] Democrats win Alaska Senate race two weeks after midterms counting began (BBC News)
 - [macro] How important are Nvidia and Jensen Huang to the US economy? (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Security flaw found in Java, world's third-largest programming language (BBC News)
-- [crypto] U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount (Energy)
-- [crypto] Bitcoin's 12% slide through key support looks scary, but history says give it 3 months. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
