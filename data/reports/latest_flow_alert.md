@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T10:25:30.612966+00:00`
+- Generated: `2026-11-18T10:30:32.350081+00:00`
 - Flow alert score: `23.84`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,11 +13,11 @@
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1064714.798297` | liquidity: `259206.72526`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `932858.235045` | liquidity: `275032.22404`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `915933.6146240002` | liquidity: `272332.69176`
-- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500143.47` | liquidity: `1106961.10344`
-- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500050.02` | liquidity: `1037648.97003`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `1064714.798297` | liquidity: `268885.37384`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `932858.235045` | liquidity: `281949.25134`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `915933.6146240002` | liquidity: `304693.21102`
+- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `500143.47` | liquidity: `1107347.64644`
+- Will John Fetterman win the 2028 Democratic presidential nomination? | 24h volume: `500050.02` | liquidity: `1037649.67003`
 - Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `500050.0` | liquidity: `1925410.04661`
 - Will Graham Platner win the 2028 Democratic presidential nomination? | 24h volume: `500050.0` | liquidity: `1866866.15009`
 - Will Adam Schiff win the 2028 Democratic presidential nomination? | 24h volume: `500050.0` | liquidity: `1400726.59541`
