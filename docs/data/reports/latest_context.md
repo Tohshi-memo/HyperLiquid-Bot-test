@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-18T19:52:32.423499+00:00`
-- Market context score: `42.97`
-- News risk score: `49.56`
-- Macro risk score: `37.46`
-- Risk-on score: `29.26`
-- Articles: `54`
+- Generated: `2026-11-18T20:07:30.849986+00:00`
+- Market context score: `42.55`
+- News risk score: `47.62`
+- Macro risk score: `34.57`
+- Risk-on score: `25.6`
+- Articles: `52`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,21 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-18T19:45:00+00:00`
+- Day/swing latest: `2026-11-18T20:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `27`, risk hits `9`, risk headline rate `0.3333`, policy hits `7`
-- macro: articles `23`, risk hits `8`, risk headline rate `0.3478`, policy hits `1`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] William and Kate meet PM Modi as they wrap up India tour (BBC News)
 - [policy] Minutes of the Federal Open Market Committee, October 27-28, 2026 (FRB: Press Release - All Releases)
 - [policy] Barr, Investing in America’s Underserved Communities (FRB: Speeches)
 - [crypto] MARA prices $185M debt offering after $1.1B Bitcoin sale (Cointelegraph.com News)
-- [macro] William and Kate reflect on 'enduring' UK-India ties with Modi (BBC News)
 - [macro] Grand Theft Auto 6 is a masterpiece, say critics (BBC News)
 - [macro] Democrats nominate Hakeem Jeffries to be US Speaker of the House (BBC News)
 - [crypto] A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
