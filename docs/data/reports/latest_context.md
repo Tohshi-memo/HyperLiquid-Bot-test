@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T12:37:29.452492+00:00`
-- Market context score: `52.48`
-- News risk score: `41.74`
-- Macro risk score: `19.66`
-- Risk-on score: `37.07`
-- Articles: `37`
+- Generated: `2026-11-19T12:52:28.906538+00:00`
+- Market context score: `53.22`
+- News risk score: `39.54`
+- Macro risk score: `19.82`
+- Risk-on score: `36.92`
+- Articles: `39`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T12:30:00+00:00`
+- Day/swing latest: `2026-11-19T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `23`, risk hits `11`, risk headline rate `0.4348`, policy hits `6`
-- macro: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `2`
+- crypto: articles `26`, risk hits `11`, risk headline rate `0.3846`, policy hits `6`
+- macro: articles `12`, risk hits `1`, risk headline rate `0.0833`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms (Cointelegraph.com News)
+- [crypto] Trump Media wants to clear $884 million of debt without selling its bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume (Cointelegraph.com News)
 - [crypto] Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin holds above $63,750 but Fed rate-hike threats loom large (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Viagogo may have broken law on hidden fees, watchdog provisionally finds (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] North Korean hackers used Sky's stablecoin system, putting billions at freeze risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks (Cointelegraph.com News)
 - [macro] Israeli military completes ground operation in Gaza beyond Yellow Line (BBC News)
-- [crypto] Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
