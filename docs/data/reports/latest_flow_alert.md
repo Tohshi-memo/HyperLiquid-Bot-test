@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-19T22:05:35.122781+00:00`
+- Generated: `2026-11-19T22:10:38.201605+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8927911.73`
-- Polymarket volume z-score: `-0.35`
+- Polymarket 24h volume: `8762153.41`
+- Polymarket volume z-score: `-0.41`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1156261.1433320004` | liquidity: `622096.66506`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `954594.1960000001` | liquidity: `241604.88109`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `581207.5462340001` | liquidity: `194245.377`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `319107.33719800005` | liquidity: `51884.1535`
-- Anthropic IPO: Closing Price above IPO Price on First Day? | 24h volume: `292509.141512` | liquidity: `221166.35465`
-- Will Anthropic's valuation hit (HIGH) $1.5T by December 31? | 24h volume: `279567.940799` | liquidity: `58432.51439`
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `241307.99477699999` | liquidity: `236619.35751`
-- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `236033.833` | liquidity: `1264274.21466`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1182125.6474350004` | liquidity: `586421.93726`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `954594.196` | liquidity: `241591.71109`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `538051.3001060002` | liquidity: `194790.03421`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `320116.55539700005` | liquidity: `54635.2876`
+- Anthropic IPO: Closing Price above IPO Price on First Day? | 24h volume: `291191.39957600005` | liquidity: `221166.35465`
+- Will Anthropic's valuation hit (HIGH) $1.5T by December 31? | 24h volume: `279807.883022` | liquidity: `58223.60923`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `238334.13750299992` | liquidity: `236638.28069`
+- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `237347.653` | liquidity: `1265913.47866`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
