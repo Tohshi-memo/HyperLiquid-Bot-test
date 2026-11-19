@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T02:37:27.158133+00:00`
+- Generated: `2026-11-19T02:52:24.541718+00:00`
 - Market context score: `57.27`
 - News risk score: `38.61`
 - Macro risk score: `18.51`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T02:30:00+00:00`
+- Day/swing latest: `2026-11-19T02:45:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
-- [macro] Claude-maker Anthropic poised for stock market debut worth up to $1.5tn (BBC News)
-- [macro] Claude-maker Anthropic poised for stock market debut worth up to $1.5tn (BBC News)
 - [macro] Elon Musk says record spending on US midterms was 'pretty foolish' (BBC News)
 - [macro] Elon Musk says record spending on US midterms was 'pretty foolish' (BBC News)
+- [macro] Claude-maker Anthropic poised for stock market debut worth up to $1.5tn (BBC News)
+- [macro] Claude-maker Anthropic poised for stock market debut worth up to $1.5tn (BBC News)
 - [crypto] Trump administration unveils new center to choke off scam payments (Cointelegraph.com News)
 - [macro] Crimean Bridge attacked again, Russian official says (BBC News)
 - [macro] Van Gogh painting sells for record $190.4m after row over its Nazi history (BBC News)
