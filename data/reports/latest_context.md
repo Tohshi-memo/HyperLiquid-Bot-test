@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T15:07:27.328382+00:00`
-- Market context score: `51.78`
-- News risk score: `38.62`
-- Macro risk score: `14.98`
-- Risk-on score: `31.11`
-- Articles: `42`
+- Generated: `2026-11-19T15:22:30.436392+00:00`
+- Market context score: `50.46`
+- News risk score: `39.78`
+- Macro risk score: `14.91`
+- Risk-on score: `29.14`
+- Articles: `43`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T15:00:00+00:00`
+- Day/swing latest: `2026-11-19T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `27`, risk hits `12`, risk headline rate `0.4074`, policy hits `6`
+- crypto: articles `28`, risk hits `13`, risk headline rate `0.4286`, policy hits `6`
 - macro: articles `13`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [policy] Jefferson, Monetary Policy amid Frequent and Complex Shocks (FRB: Speeches)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Viagogo may have broken law on hidden fees, watchdog provisionally finds (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge (BBC News)
 - [macro] US consortium wins huge Kenya mining deal, beating Chinese rivals (BBC News)
 - [crypto] Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms (Cointelegraph.com News)
-- [crypto] Trump Media wants to clear $884 million of debt without selling its bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
