@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T06:22:26.190316+00:00`
-- Market context score: `51.88`
-- News risk score: `43.44`
-- Macro risk score: `17.36`
-- Risk-on score: `36.31`
-- Articles: `38`
+- Generated: `2026-11-19T06:37:26.510776+00:00`
+- Market context score: `49.61`
+- News risk score: `46.77`
+- Macro risk score: `18.24`
+- Risk-on score: `34.39`
+- Articles: `37`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T06:15:00+00:00`
+- Day/swing latest: `2026-11-19T06:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `8`, risk headline rate `0.5`, policy hits `4`
+- crypto: articles `16`, risk hits `10`, risk headline rate `0.5625`, policy hits `6`
 - macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
-- policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
+- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Fed's push for more rate hikes leans on backward-looking data as gas prices slide, experts argue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Gilts v kilts: What is happening with Scottish government bonds? (BBC News)
 - [crypto] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls (BBC News)
 - [macro] Crimean Bridge attacked again, Russian official says (BBC News)
-- [crypto] CZ says tokenized Anthropic is coming to BNB Chain on IPO day (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
