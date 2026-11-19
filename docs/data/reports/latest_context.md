@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T21:37:31.674916+00:00`
+- Generated: `2026-11-19T21:52:27.607365+00:00`
 - Market context score: `48.74`
 - News risk score: `40.84`
 - Macro risk score: `23.63`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T21:30:00+00:00`
+- Day/swing latest: `2026-11-19T21:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Fiona the hippo dies after swallowing a hat at Cincinnati Zoo (BBC News)
 - [macro] Europe ready for talks with Russia on ending war in Ukraine, leaders say (BBC News)
 - [crypto] MoonPay seeks US bank charter for stablecoin, custody services (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Myanmar committed genocide against Rohingya minority, top UN court rules (BBC News)
 - [crypto] Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading (Cointelegraph.com News)
 - [crypto] Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns (Cointelegraph.com News)
