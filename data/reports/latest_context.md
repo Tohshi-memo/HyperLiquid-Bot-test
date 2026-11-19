@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T13:52:28.971214+00:00`
+- Generated: `2026-11-19T14:07:42.865597+00:00`
 - Market context score: `55.09`
 - News risk score: `38.05`
 - Macro risk score: `14.44`
@@ -14,11 +14,11 @@
 - Asset universe count: `1759`
 - Asset price history records: `672`
 
-- Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:164, fx:6, index:27, metal:20, unknown:1282`
+- Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:165, fx:6, index:27, metal:20, unknown:1281`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T13:45:00+00:00`
+- Day/swing latest: `2026-11-19T14:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,9 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Viagogo may have broken law on hidden fees, watchdog provisionally finds (BBC News)
-- [macro] Venezuela signs military deal with US less than a year after Maduro's ouster (BBC News)
+- [macro] Venezuela signs military deal with US less than a year after Maduro's removal (BBC News)
 - [crypto] Ethereum’s new DeFi security tool raises questions over censorship (Cointelegraph.com News)
 - [crypto] Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms (Cointelegraph.com News)
 - [crypto] Trump Media wants to clear $884 million of debt without selling its bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume (Cointelegraph.com News)
-- [crypto] Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
