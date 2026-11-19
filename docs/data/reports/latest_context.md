@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T00:37:26.408591+00:00`
-- Market context score: `52.89`
-- News risk score: `42.59`
-- Macro risk score: `23.44`
-- Risk-on score: `40.13`
-- Articles: `49`
+- Generated: `2026-11-19T00:52:26.418704+00:00`
+- Market context score: `52.86`
+- News risk score: `43.02`
+- Macro risk score: `23.22`
+- Risk-on score: `40.33`
+- Articles: `51`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T00:30:00+00:00`
+- Day/swing latest: `2026-11-19T00:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `4`
-- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `1`
+- crypto: articles `22`, risk hits `8`, risk headline rate `0.3636`, policy hits `6`
+- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Van Gogh painting sells for record $190.4m after row over its Nazi history (BBC News)
+- [macro] India's religious make-up - what a new Pew study says about Hindus and Muslims (BBC News)
+- [crypto] Fed officials saw October rate hold as a ‘close call,’ minutes show (Cointelegraph.com News)
 - [crypto] Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' (BBC News)
 - [macro] Why has Waymo pulled all its driverless cars from US freeways? (BBC News)
@@ -35,6 +38,3 @@
 - [macro] Claude-maker Anthropic poised for more than $1.4tn stock market debut (BBC News)
 - [macro] Claude-maker Anthropic poised for more than $1.4tn stock market debut (BBC News)
 - [macro] The seven Anthropic founders who are about to become multi-billionaires (BBC News)
-- [macro] Russian man accused of spying on US tech defence company that assists Ukraine (BBC News)
-- [macro] Myanmar faces historic genocide verdict at UN court over Rohingya massacres (BBC News)
-- [macro] Gilts v kilts: What is happening with Scottish government bonds? (BBC News)
