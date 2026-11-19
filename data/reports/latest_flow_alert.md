@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-19T18:30:31.970897+00:00`
+- Generated: `2026-11-19T18:35:36.999685+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `982577.368` | liquidity: `300626.5274`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `695457.9478099999` | liquidity: `613028.4552`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `587066.740106` | liquidity: `262519.32072`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `391595.67724800005` | liquidity: `446600.44452`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `326665.699745` | liquidity: `70611.3536`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `314260.2067979999` | liquidity: `616820.4134`
-- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `281446.42000000004` | liquidity: `1851636.14789`
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `265296.033809` | liquidity: `223487.55356`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `982577.368` | liquidity: `296996.47433`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `695457.9478099999` | liquidity: `476024.22614`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `587066.740106` | liquidity: `238847.35584`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `391595.67724800005` | liquidity: `436478.48909`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `326665.699745` | liquidity: `70173.3054`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `314260.2067979999` | liquidity: `619225.0199`
+- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `281446.42000000004` | liquidity: `1854536.30789`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `265296.033809` | liquidity: `218738.30261`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
