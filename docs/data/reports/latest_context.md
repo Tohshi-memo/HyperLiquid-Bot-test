@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T20:52:27.425585+00:00`
-- Market context score: `50.43`
-- News risk score: `39.23`
+- Generated: `2026-11-19T21:07:27.903680+00:00`
+- Market context score: `48.74`
+- News risk score: `40.84`
 - Macro risk score: `23.63`
-- Risk-on score: `31.9`
+- Risk-on score: `29.5`
 - Articles: `49`
 - Polymarket markets: `391`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T20:45:00+00:00`
+- Day/swing latest: `2026-11-19T21:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `5`
+- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `5`
 - macro: articles `18`, risk hits `3`, risk headline rate `0.1111`, policy hits `2`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [crypto] MoonPay seeks US bank charter for stablecoin, custody services (Cointelegraph.com News)
 - [crypto] Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price (Cointelegraph.com News)
 - [macro] Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ (Economy)
 - [macro] Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means (Economy)
@@ -38,4 +39,3 @@
 - [macro] Europe ready for talks with Russia on ending war in Ukraine, leaders say (BBC News)
 - [crypto] Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns (Cointelegraph.com News)
 - [crypto] Trump's Democratic SEC pick suggests tokenization policy deserves full rule process (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Why higher rates could slow Bitcoin buying at treasury firms (Cointelegraph.com News)
