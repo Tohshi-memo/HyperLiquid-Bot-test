@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T07:22:34.586972+00:00`
+- Generated: `2026-11-19T07:37:26.672822+00:00`
 - Market context score: `49.77`
 - News risk score: `46.48`
 - Macro risk score: `17.78`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T07:15:00+00:00`
+- Day/swing latest: `2026-11-19T07:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Crimean Bridge attacked again, Russia says (BBC News)
 - [crypto] Fed's rate hike push may be a mistake. Here's why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Gilts v kilts: What is happening with Scottish government bonds? (BBC News)
 - [crypto] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Binance hackers stole 192 tokens across 11 networks, court docs show (Cointelegraph.com News)
 - [crypto] Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls (BBC News)
-- [macro] Crimean Bridge attacked again, Russian official says (BBC News)
