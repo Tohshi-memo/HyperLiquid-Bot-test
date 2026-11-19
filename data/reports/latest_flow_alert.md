@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-19T18:40:35.617731+00:00`
+- Generated: `2026-11-19T18:45:31.342330+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `972575.467` | liquidity: `296654.08233`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `953847.594235` | liquidity: `479104.27846`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `585471.790106` | liquidity: `238321.92476`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `391501.0301889999` | liquidity: `439391.0019`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `316067.05640199996` | liquidity: `70865.5564`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313189.06765999994` | liquidity: `619748.3888`
-- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `281446.42` | liquidity: `1854532.04789`
-- Anthropic IPO: Closing Price above IPO Price on First Day? | 24h volume: `266803.24211600004` | liquidity: `14258.1462`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `972575.467` | liquidity: `297102.00833`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `953847.594235` | liquidity: `482053.83249`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `585471.790106` | liquidity: `241432.4057`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `391501.0301889999` | liquidity: `436227.65385`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `316067.05640199996` | liquidity: `69979.0171`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313189.06765999994` | liquidity: `620122.7314`
+- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `281446.42` | liquidity: `1854692.36789`
+- Anthropic IPO: Closing Price above IPO Price on First Day? | 24h volume: `266803.24211600004` | liquidity: `14476.87324`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
