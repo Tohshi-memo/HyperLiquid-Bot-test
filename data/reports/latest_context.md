@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T06:07:26.414257+00:00`
+- Generated: `2026-11-19T06:22:26.190316+00:00`
 - Market context score: `51.88`
 - News risk score: `43.44`
 - Macro risk score: `17.36`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T06:00:00+00:00`
+- Day/swing latest: `2026-11-19T06:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Gilts v kilts: What is happening with Scottish government bonds? (BBC News)
 - [crypto] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ethereum block builders received the most in a $3.4 million vault hack, data shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls (BBC News)
 - [macro] Crimean Bridge attacked again, Russian official says (BBC News)
 - [crypto] CZ says tokenized Anthropic is coming to BNB Chain on IPO day (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Elon Musk says record spending on US midterms was 'pretty foolish' (BBC News)
