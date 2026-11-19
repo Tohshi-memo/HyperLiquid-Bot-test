@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T10:07:29.702456+00:00`
-- Market context score: `48.75`
+- Generated: `2026-11-19T10:22:24.884140+00:00`
+- Market context score: `50.55`
 - News risk score: `45.6`
 - Macro risk score: `21.61`
-- Risk-on score: `32.78`
+- Risk-on score: `36.78`
 - Articles: `34`
 - Polymarket markets: `393`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T10:00:00+00:00`
+- Day/swing latest: `2026-11-19T10:15:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,8 @@
 
 ## Headlines
 
+- [macro] Anthropic raises $81bn in record-breaking stock market debut (BBC News)
+- [macro] Anthropic raises $81bn in record-breaking stock market debut (BBC News)
 - [macro] Survivors of Uganda's deadly landslide seek justice at the UN (BBC News)
 - [macro] Dozens missing after boat carrying 100 migrants sinks off Senegal's coast (BBC News)
 - [crypto] Singapore settles $77.5M tokenized bill sale with wholesale CBDC (Cointelegraph.com News)
@@ -35,5 +37,3 @@
 - [crypto] Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut (Cointelegraph.com News)
 - [macro] Crimean Bridge attacked again, Russia says (BBC News)
 - [crypto] Fed's rate hike push may be a mistake. Here's why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Gilts v kilts: What is happening with Scottish government bonds? (BBC News)
-- [crypto] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts (Cointelegraph.com News)
