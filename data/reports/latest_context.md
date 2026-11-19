@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T08:54:57.610671+00:00`
-- Market context score: `48.28`
-- News risk score: `46.45`
-- Macro risk score: `20.7`
-- Risk-on score: `32.12`
-- Articles: `37`
+- Generated: `2026-11-19T09:07:35.474420+00:00`
+- Market context score: `49.21`
+- News risk score: `45.08`
+- Macro risk score: `20.63`
+- Risk-on score: `33.0`
+- Articles: `38`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T08:45:00+00:00`
+- Day/swing latest: `2026-11-19T09:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `17`, risk hits `9`, risk headline rate `0.5294`, policy hits `6`
+- crypto: articles `18`, risk hits `9`, risk headline rate `0.5`, policy hits `6`
 - macro: articles `20`, risk hits `2`, risk headline rate `0.1`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Singapore settles $77.5M tokenized bill sale with wholesale CBDC (Cointelegraph.com News)
 - [crypto] Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B (Cointelegraph.com News)
 - [crypto] BTCPay Server issues emergency update for 5 security flaws (Cointelegraph.com News)
 - [crypto] Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ethereum block builders received the most in a $3.4 million vault hack, data shows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight (Cointelegraph.com News)
