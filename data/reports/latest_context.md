@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T15:22:30.436392+00:00`
-- Market context score: `50.46`
+- Generated: `2026-11-19T15:37:32.520786+00:00`
+- Market context score: `49.06`
 - News risk score: `39.78`
 - Macro risk score: `14.91`
-- Risk-on score: `29.14`
+- Risk-on score: `26.03`
 - Articles: `43`
 - Polymarket markets: `391`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T15:15:00+00:00`
+- Day/swing latest: `2026-11-19T15:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] Trump, Putin and Xi release 'peace declaration' after historic meeting (BBC News)
 - [crypto] Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [policy] Jefferson, Monetary Policy amid Frequent and Complex Shocks (FRB: Speeches)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [crypto] Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge (BBC News)
 - [macro] US consortium wins huge Kenya mining deal, beating Chinese rivals (BBC News)
-- [crypto] Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms (Cointelegraph.com News)
