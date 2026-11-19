@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-19T16:30:31.993104+00:00`
+- Generated: `2026-11-19T16:35:33.077212+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `827944.633` | liquidity: `479927.61427`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `669831.2481280001` | liquidity: `695842.0304`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `597888.694825` | liquidity: `226529.59033`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `420398.313999` | liquidity: `825859.23688`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `394474.8257090002` | liquidity: `445635.79398`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `329907.771182` | liquidity: `66992.1232`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313901.021242` | liquidity: `703931.7729`
-- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `282506.42000000004` | liquidity: `1853867.95789`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `827944.633` | liquidity: `480354.26101`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `669831.2481280001` | liquidity: `692914.76787`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `597888.694825` | liquidity: `237840.28407`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `420398.313999` | liquidity: `826214.98587`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `394474.8257090002` | liquidity: `414268.85995`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `329907.771182` | liquidity: `64280.6999`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313901.021242` | liquidity: `704019.9709`
+- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `282506.42000000004` | liquidity: `1853829.44789`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
