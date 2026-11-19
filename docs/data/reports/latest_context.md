@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T02:07:31.899846+00:00`
-- Market context score: `56.07`
-- News risk score: `38.76`
-- Macro risk score: `18.31`
-- Risk-on score: `42.03`
-- Articles: `46`
+- Generated: `2026-11-19T02:22:24.310186+00:00`
+- Market context score: `57.27`
+- News risk score: `38.61`
+- Macro risk score: `18.51`
+- Risk-on score: `44.65`
+- Articles: `45`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T02:00:00+00:00`
+- Day/swing latest: `2026-11-19T02:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `5`
-- macro: articles `27`, risk hits `2`, risk headline rate `0.0741`, policy hits `0`
+- macro: articles `26`, risk hits `2`, risk headline rate `0.0769`, policy hits `0`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Claude-maker Anthropic poised for stock market debut worth up to $1.5tn (BBC News)
+- [macro] Claude-maker Anthropic poised for stock market debut worth up to $1.5tn (BBC News)
 - [macro] Elon Musk says record spending on US midterms was 'pretty foolish' (BBC News)
 - [macro] Elon Musk says record spending on US midterms was 'pretty foolish' (BBC News)
 - [crypto] Trump administration unveils new center to choke off scam payments (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] India's religious make-up - what a new Pew study says about Hindus and Muslims (BBC News)
 - [crypto] Fed officials saw October rate hold as a ‘close call,’ minutes show (Cointelegraph.com News)
 - [crypto] Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' (BBC News)
-- [macro] Why has Waymo pulled all its driverless cars from US freeways? (BBC News)
