@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-18T23:55:34.211978+00:00`
+- Generated: `2026-11-19T00:00:28.884574+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `941420.109834` | liquidity: `442932.69226`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `938564.5797170001` | liquidity: `526113.31112`
-- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `756204.45` | liquidity: `1858116.26663`
-- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `90212.43896`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `538042.624452` | liquidity: `608104.5228`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `511998.6646049999` | liquidity: `425281.03199`
-- Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `505050.0` | liquidity: `1934514.54559`
-- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `505050.0` | liquidity: `1112555.65244`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `941420.109834` | liquidity: `443903.45686`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `938564.5797170001` | liquidity: `527152.06986`
+- Will Tim Walz win the 2028 Democratic presidential nomination? | 24h volume: `756204.45` | liquidity: `1858177.4346`
+- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `591521.06` | liquidity: `92176.78896`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `538042.624452` | liquidity: `581406.6859`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `511998.6646049999` | liquidity: `408156.55484`
+- Will Beto O’Rourke win the 2028 Democratic presidential nomination? | 24h volume: `505050.0` | liquidity: `1934570.72059`
+- Will John Thune win the 2028 Republican presidential nomination? | 24h volume: `505050.0` | liquidity: `1112681.85344`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
