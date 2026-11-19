@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-19T19:00:28.848318+00:00`
+- Generated: `2026-11-19T19:05:32.830333+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1197874.674262` | liquidity: `471228.96372`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `968669.7069999999` | liquidity: `297569.26115`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `585733.3203520001` | liquidity: `241139.40354`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `387652.8845940001` | liquidity: `432574.69494`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `319282.53164` | liquidity: `71466.4678`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313406.4589599999` | liquidity: `615130.9951`
-- Anthropic IPO: Closing Price above IPO Price on First Day? | 24h volume: `276292.150212` | liquidity: `9722.1826`
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `261177.041694` | liquidity: `223768.84769`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1197874.674262` | liquidity: `460961.2655`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `968669.7069999999` | liquidity: `297193.52815`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `585733.3203520001` | liquidity: `242153.3366`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `387652.8845940001` | liquidity: `449862.98612`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `319282.53164` | liquidity: `76784.5267`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313406.4589599999` | liquidity: `617527.1202`
+- Anthropic IPO: Closing Price above IPO Price on First Day? | 24h volume: `276292.150212` | liquidity: `10489.50785`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `261177.041694` | liquidity: `218715.65707`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
