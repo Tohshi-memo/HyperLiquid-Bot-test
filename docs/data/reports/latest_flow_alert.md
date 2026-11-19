@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-19T15:30:29.636409+00:00`
+- Generated: `2026-11-19T15:35:38.056177+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `827408.1030000001` | liquidity: `476523.58475`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `651002.873261` | liquidity: `689935.32485`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `602763.3752000001` | liquidity: `206025.24821`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `419648.313999` | liquidity: `821943.63254`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `320997.783538` | liquidity: `67319.361`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313332.37636799994` | liquidity: `683602.036`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `312348.692072` | liquidity: `407964.06161`
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `297072.901253` | liquidity: `225492.70158`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `827408.1030000001` | liquidity: `476842.97633`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `651002.873261` | liquidity: `694305.88109`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `602763.3752000001` | liquidity: `214210.35137`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `419648.313999` | liquidity: `822666.96513`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `320997.783538` | liquidity: `67431.4072`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `313332.37636799994` | liquidity: `687052.1961`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `312348.692072` | liquidity: `436613.66188`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `297072.901253` | liquidity: `236915.39034`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
