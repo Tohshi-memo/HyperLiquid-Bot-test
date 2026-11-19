@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T07:52:29.606775+00:00`
-- Market context score: `49.77`
-- News risk score: `46.48`
-- Macro risk score: `17.78`
-- Risk-on score: `34.35`
+- Generated: `2026-11-19T08:07:37.535667+00:00`
+- Market context score: `50.7`
+- News risk score: `45.07`
+- Macro risk score: `17.94`
+- Risk-on score: `35.29`
 - Articles: `36`
 - Polymarket markets: `392`
 
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T07:45:00+00:00`
+- Day/swing latest: `2026-11-19T08:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `9`, risk headline rate `0.5625`, policy hits `6`
-- macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
+- crypto: articles `17`, risk hits `9`, risk headline rate `0.5294`, policy hits `6`
+- macro: articles `19`, risk hits `1`, risk headline rate `0.0526`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut (Cointelegraph.com News)
 - [macro] Crimean Bridge attacked again, Russia says (BBC News)
 - [crypto] Fed's rate hike push may be a mistake. Here's why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Gilts v kilts: What is happening with Scottish government bonds? (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight (Cointelegraph.com News)
 - [crypto] Binance hackers stole 192 tokens across 11 networks, court docs show (Cointelegraph.com News)
 - [crypto] Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls (BBC News)
