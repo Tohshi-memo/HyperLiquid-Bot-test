@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-19T11:35:31.807605+00:00`
-- Flow alert score: `19.52`
+- Generated: `2026-11-19T11:40:36.819792+00:00`
+- Flow alert score: `19.64`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11497276.46`
-- Polymarket volume z-score: `0.63`
+- Polymarket 24h volume: `11580932.69`
+- Polymarket volume z-score: `0.66`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `983735.5285` | liquidity: `461238.7747`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `946566.1807820001` | liquidity: `657361.86022`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `651785.6430170002` | liquidity: `212348.00601`
-- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `611887.26` | liquidity: `126986.79899`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `523570.782997` | liquidity: `880400.06479`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `511041.741341` | liquidity: `675909.1406`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `498600.7521720001` | liquidity: `398220.4498`
-- Will Bitcoin reach $1,000,000 by December 31, 2026? | 24h volume: `374004.749` | liquidity: `334761.12466`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `983738.8315` | liquidity: `460424.06664`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `946494.3454510001` | liquidity: `656662.82814`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `646875.3827260002` | liquidity: `217147.01098`
+- Will Fabien Roussel win the 2027 French presidential election? | 24h volume: `611887.26` | liquidity: `126821.98508`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `526735.7829969999` | liquidity: `879560.69166`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `513041.74134099996` | liquidity: `652008.4289`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `503697.9577120002` | liquidity: `386566.71823`
+- Will Bitcoin reach $1,000,000 by December 31, 2026? | 24h volume: `385115.74899999995` | liquidity: `337869.3916`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
