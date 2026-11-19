@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T17:37:43.295079+00:00`
-- Market context score: `50.14`
-- News risk score: `37.58`
-- Macro risk score: `18.11`
-- Risk-on score: `27.78`
-- Articles: `45`
+- Generated: `2026-11-19T17:52:29.204107+00:00`
+- Market context score: `51.52`
+- News risk score: `36.48`
+- Macro risk score: `17.72`
+- Risk-on score: `29.77`
+- Articles: `46`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T17:30:00+00:00`
+- Day/swing latest: `2026-11-19T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `15`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `5`
+- macro: articles `17`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [macro] Trump, Putin and Xi release 'peace declaration' after historic meeting (BBC News)
+- [macro] Rohingya genocide: What was said in court and what happens now? (BBC News)
 - [macro] Susan Smith denied parole again 32 years after drowning her two sons (BBC News)
+- [macro] What did Trump, Xi and Putin get out of their historic meeting? (BBC News)
 - [macro] Israeli military completes ground operation in Gaza beyond Yellow Line (BBC News)
 - [crypto] Anthropic opens for trade at $111.50, up 34% from IPO price (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Myanmar committed genocide against Rohingya minority, top UN court rules (BBC News)
 - [crypto] Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic shares open at $111.50, 34.3% above $83 IPO price (Cointelegraph.com News)
 - [policy] Federal Reserve Board issues enforcement action with former employee of First Security Bancorp (FRB: Press Release - All Releases)
-- [macro] Anthropic raises $81bn in record-breaking stock market debut (BBC News)
-- [macro] Dozens missing after boat carrying migrants sinks off Senegal's coast (BBC News)
-- [macro] Trump, Putin and Xi release 'peace declaration' after historic meeting (BBC News)
