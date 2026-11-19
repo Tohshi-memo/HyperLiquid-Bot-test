@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T20:22:40.380984+00:00`
-- Market context score: `49.96`
-- News risk score: `39.25`
-- Macro risk score: `23.18`
-- Risk-on score: `30.7`
-- Articles: `50`
+- Generated: `2026-11-19T20:37:28.551768+00:00`
+- Market context score: `50.43`
+- News risk score: `39.23`
+- Macro risk score: `23.63`
+- Risk-on score: `31.9`
+- Articles: `49`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T20:15:00+00:00`
+- Day/swing latest: `2026-11-19T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `5`
-- macro: articles `19`, risk hits `3`, risk headline rate `0.1053`, policy hits `2`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1111`, policy hits `2`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [crypto] Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price (Cointelegraph.com News)
 - [macro] Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ (Economy)
 - [macro] Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means (Economy)
 - [macro] Myanmar committed genocide against Rohingya minority, top UN court rules (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns (Cointelegraph.com News)
 - [crypto] Trump's Democratic SEC pick suggests tokenization policy deserves full rule process (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Why higher rates could slow Bitcoin buying at treasury firms (Cointelegraph.com News)
-- [crypto] Bitcoin price ignores Anthropic debut as ANT share price dips below $100 (Cointelegraph.com News)
