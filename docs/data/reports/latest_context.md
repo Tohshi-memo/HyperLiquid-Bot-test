@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T06:37:26.510776+00:00`
+- Generated: `2026-11-19T06:52:24.191063+00:00`
 - Market context score: `49.61`
 - News risk score: `46.77`
 - Macro risk score: `18.24`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T06:30:00+00:00`
+- Day/swing latest: `2026-11-19T06:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `10`, risk headline rate `0.5625`, policy hits `6`
+- crypto: articles `16`, risk hits `9`, risk headline rate `0.5625`, policy hits `6`
 - macro: articles `20`, risk hits `1`, risk headline rate `0.05`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Fed's push for more rate hikes leans on backward-looking data as gas prices slide, experts argue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Fed's rate hike push may be a mistake. Here's why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Gilts v kilts: What is happening with Scottish government bonds? (BBC News)
 - [crypto] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
