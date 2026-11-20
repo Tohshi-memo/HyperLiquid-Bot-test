@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T13:07:25.808238+00:00`
-- Market context score: `56.53`
-- News risk score: `33.25`
+- Generated: `2026-11-20T13:22:26.507668+00:00`
+- Market context score: `54.06`
+- News risk score: `35.01`
 - Macro risk score: `29.65`
-- Risk-on score: `42.69`
-- Articles: `38`
+- Risk-on score: `38.66`
+- Articles: `39`
 - Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T13:00:00+00:00`
+- Day/swing latest: `2026-11-20T13:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `0`
 - macro: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] ECB’s Largarde warns Europe could lose control of growing tokenized asset market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] GTA 6 drives spike in download demand, as estimated sales top $2.3bn (BBC News)
 - [macro] Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge (BBC News)
 - [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
 - [crypto] Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [macro] Nearly 600 women killed in South Africa within three months (BBC News)
 - [crypto] VanEck to end Gemini ETF custody deals, keeps Coinbase (Cointelegraph.com News)
 - [crypto] Coinbase targets first-half 2027 for its own prediction market contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest (Cointelegraph.com News)
-- [macro] South Korea catches 111 students with new measures against exam cheating (BBC News)
