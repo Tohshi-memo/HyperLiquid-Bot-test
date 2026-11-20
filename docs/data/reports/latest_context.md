@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T00:22:29.680695+00:00`
-- Market context score: `48.77`
-- News risk score: `39.35`
-- Macro risk score: `23.18`
-- Risk-on score: `28.14`
-- Articles: `48`
+- Generated: `2026-11-20T00:37:31.351588+00:00`
+- Market context score: `47.08`
+- News risk score: `41.05`
+- Macro risk score: `24.18`
+- Risk-on score: `26.19`
+- Articles: `50`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T00:15:00+00:00`
+- Day/swing latest: `2026-11-20T00:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `3`
-- macro: articles `26`, risk hits `4`, risk headline rate `0.1154`, policy hits `2`
+- crypto: articles `19`, risk hits `6`, risk headline rate `0.3158`, policy hits `3`
+- macro: articles `29`, risk hits `6`, risk headline rate `0.1379`, policy hits `2`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
-- [macro] 'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC (BBC News)
 - [macro] Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices (Economy)
+- [macro] 'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC (BBC News)
+- [macro] Airbnb's divisive new house rules come into force (BBC News)
+- [macro] Fish and eggs al desko? The dos and don'ts of the lunch break (BBC News)
+- [macro] Tens of thousands of UK fridges secured from hackers in secret nationwide operation (BBC News)
 - [macro] How did Anthropic's stock market debut unfold? (BBC News)
 - [macro] Trump posthumously pardons US baseball legend Pete Rose (BBC News)
 - [crypto] Ledger CTO Charles Guillemet to leave after nine years at company (Cointelegraph.com News)
 - [macro] Fiona the hippo dies after swallowing a hat at Cincinnati Zoo (BBC News)
 - [macro] Anthropic becomes one of world's most valuable public companies in stock market debut (BBC News)
-- [macro] Anthropic becomes one of world's most valuable public companies in stock market debut (BBC News)
-- [macro] California targets Nvidia in China AI chip probe (BBC News)
-- [macro] California targets Nvidia in China AI chip probe (BBC News)
