@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T20:22:27.374998+00:00`
-- Market context score: `45.06`
-- News risk score: `40.01`
-- Macro risk score: `25.03`
-- Risk-on score: `21.15`
-- Articles: `47`
+- Generated: `2026-11-20T20:37:40.068545+00:00`
+- Market context score: `44.87`
+- News risk score: `40.04`
+- Macro risk score: `25.59`
+- Risk-on score: `20.97`
+- Articles: `46`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,21 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T20:15:00+00:00`
+- Day/swing latest: `2026-11-20T20:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `0`
 - macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
 - policy: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `3`
 
 ## Headlines
 
-- [macro] Anthropic shares fall after blockbuster opening as wider tech sell-off continues (BBC News)
-- [macro] Anthropic shares fall after blockbuster opening as wider tech sell-off continues (BBC News)
 - [macro] Trump threatens ban on US firms building AI data centres overseas (BBC News)
 - [macro] Trump threatens ban on US firms building AI data centres overseas (BBC News)
+- [macro] Anthropic shares fall after blockbuster opening as wider tech sell-off continues (BBC News)
+- [macro] Anthropic shares fall after blockbuster opening as wider tech sell-off continues (BBC News)
 - [macro] Gérard Depardieu and French author investigated over sexual allegations (BBC News)
 - [crypto] Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit (Cointelegraph.com News)
 - [macro] Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader (BBC News)
