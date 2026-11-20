@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-19T23:52:37.428296+00:00`
-- Market context score: `49.59`
-- News risk score: `38.74`
-- Macro risk score: `24.79`
-- Risk-on score: `30.05`
-- Articles: `47`
+- Generated: `2026-11-20T00:07:32.410720+00:00`
+- Market context score: `48.67`
+- News risk score: `38.8`
+- Macro risk score: `23.95`
+- Risk-on score: `27.74`
+- Articles: `49`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-19T23:45:00+00:00`
+- Day/swing latest: `2026-11-20T00:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `22`, risk hits `6`, risk headline rate `0.2727`, policy hits `5`
-- macro: articles `23`, risk hits `4`, risk headline rate `0.1304`, policy hits `2`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.12`, policy hits `2`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [macro] Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices (Economy)
+- [macro] How did Anthropic's stock market debut unfold? (BBC News)
 - [macro] Trump posthumously pardons US baseball legend Pete Rose (BBC News)
-- [macro] Japan reports cooler-than-expected core inflation in October of 2.2% — but highest this year so far (Economy)
 - [crypto] Ledger CTO Charles Guillemet to leave after nine years at company (Cointelegraph.com News)
 - [macro] Fiona the hippo dies after swallowing a hat at Cincinnati Zoo (BBC News)
 - [macro] Anthropic becomes one of world's most valuable public companies in stock market debut (BBC News)
 - [macro] Anthropic becomes one of world's most valuable public companies in stock market debut (BBC News)
-- [macro] California probing whether China improperly acquired Nvidia technology (BBC News)
+- [macro] California targets Nvidia in China AI chip probe (BBC News)
+- [macro] California targets Nvidia in China AI chip probe (BBC News)
 - [macro] From premature baby to social media star - Famed hippo Fiona dies (BBC News)
-- [macro] Judge finds Thomas Markle mentally fit to stand trial on child abuse charges (BBC News)
-- [crypto] Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express (Cointelegraph.com News)
