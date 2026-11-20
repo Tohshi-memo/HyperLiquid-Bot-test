@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T11:37:28.099016+00:00`
-- Market context score: `53.1`
-- News risk score: `35.93`
-- Macro risk score: `32.87`
-- Risk-on score: `38.54`
-- Articles: `43`
+- Generated: `2026-11-20T11:52:40.670390+00:00`
+- Market context score: `51.79`
+- News risk score: `36.75`
+- Macro risk score: `36.0`
+- Risk-on score: `37.5`
+- Articles: `40`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T11:30:00+00:00`
+- Day/swing latest: `2026-11-20T11:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `20`, risk hits `4`, risk headline rate `0.15`, policy hits `0`
-- macro: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `0`
+- macro: articles `18`, risk hits `8`, risk headline rate `0.3889`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin drops for third straight day as Asian tech shares slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip (Cointelegraph.com News)
 - [macro] Three Kyiv bridges hit during major Russian missile attack (BBC News)
 - [macro] Nearly 600 women killed in South Africa within three months (BBC News)
@@ -37,4 +38,3 @@
 - [macro] South Korea catches 111 students with new measures against exam cheating (BBC News)
 - [crypto] No special rules for Hyperliquid or other onchain trading platforms, CFTC says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Airbnb's divisive new house rules come into force (BBC News)
-- [crypto] Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
