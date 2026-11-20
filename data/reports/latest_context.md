@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T13:52:39.960088+00:00`
+- Generated: `2026-11-20T14:07:40.580132+00:00`
 - Market context score: `55.16`
 - News risk score: `34.8`
 - Macro risk score: `24.0`
 - Risk-on score: `38.8`
 - Articles: `40`
-- Polymarket markets: `394`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T13:45:00+00:00`
+- Day/swing latest: `2026-11-20T14:00:00+00:00`
 
 ## News Categories
 
@@ -30,12 +30,12 @@
 ## Headlines
 
 - [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
-- [crypto] Live news: Bitcoin hovers just above $61,000 as Anthropic slides 13% after Nasdaq debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin bots pounced within seconds when researchers exposed their wallet keys (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] White House removes cyber-security chief after series of tech outages (BBC News)
 - [policy] Waller, Opening Remarks (FRB: Speeches)
 - [crypto] Lagarde warns Europe could miss chance to unify tokenized markets (Cointelegraph.com News)
-- [crypto] ECB’s Largarde warns Europe could lose control of growing tokenized asset market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] ECB’s Lagarde warns Europe could lose control of growing tokenized asset market (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] GTA 6 drives spike in download demand, as estimated sales top $2.3bn (BBC News)
 - [macro] Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge (BBC News)
