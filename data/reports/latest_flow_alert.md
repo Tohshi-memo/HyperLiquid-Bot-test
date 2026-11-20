@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-20T19:20:36.608541+00:00`
-- Flow alert score: `18.6`
+- Generated: `2026-11-20T19:25:39.854873+00:00`
+- Flow alert score: `18.04`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `10444850.83`
-- Polymarket volume z-score: `0.4`
+- Polymarket 24h volume: `10112010.31`
+- Polymarket volume z-score: `0.26`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1157588.459065` | liquidity: `519137.92394`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `892339.74851` | liquidity: `718879.31276`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `683497.557047` | liquidity: `356815.479`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `549615.051825` | liquidity: `71580.6501`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `520996.083338` | liquidity: `505958.71193`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `471387.19784800004` | liquidity: `235274.95568`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `397275.092835` | liquidity: `230779.77519`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `321330.573082` | liquidity: `205613.20673`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `905897.1230149999` | liquidity: `503545.66268`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `892308.49851` | liquidity: `720458.45779`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `683442.392268` | liquidity: `372389.4507`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `556255.155701` | liquidity: `72866.5395`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `523337.227724` | liquidity: `498103.40721`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `474462.887848` | liquidity: `233222.50233`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `398495.0928350001` | liquidity: `225644.22473`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `321404.46023200004` | liquidity: `198759.32152`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
