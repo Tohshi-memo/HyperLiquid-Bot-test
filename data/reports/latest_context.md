@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T14:52:25.246859+00:00`
-- Market context score: `53.38`
-- News risk score: `36.04`
-- Macro risk score: `23.25`
-- Risk-on score: `35.62`
-- Articles: `43`
+- Generated: `2026-11-20T15:07:53.178288+00:00`
+- Market context score: `50.63`
+- News risk score: `38.07`
+- Macro risk score: `26.69`
+- Risk-on score: `32.52`
+- Articles: `44`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T14:45:00+00:00`
+- Day/swing latest: `2026-11-20T15:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `27`, risk hits `9`, risk headline rate `0.2593`, policy hits `0`
 - macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `0`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
 - [macro] Anthropic shares fall a day after blockbuster opening (BBC News)
+- [policy] Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances (FRB: Press Release - All Releases)
 - [crypto] Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] U.S. Senate passes bill to ban prediction market bets on war and death (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] White House removes cyber-security chief after series of tech outages (BBC News)
 - [policy] Waller, Opening Remarks (FRB: Speeches)
-- [crypto] Lagarde warns Europe could miss chance to unify tokenized markets (Cointelegraph.com News)
