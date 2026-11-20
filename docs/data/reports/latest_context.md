@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T02:07:29.244658+00:00`
-- Market context score: `46.38`
-- News risk score: `40.84`
-- Macro risk score: `26.09`
-- Risk-on score: `25.19`
-- Articles: `42`
+- Generated: `2026-11-20T02:22:30.110583+00:00`
+- Market context score: `47.91`
+- News risk score: `40.85`
+- Macro risk score: `25.62`
+- Risk-on score: `28.43`
+- Articles: `43`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T02:00:00+00:00`
+- Day/swing latest: `2026-11-20T02:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `15`, risk hits `5`, risk headline rate `0.3333`, policy hits `3`
-- macro: articles `25`, risk hits `6`, risk headline rate `0.16`, policy hits `2`
+- macro: articles `26`, risk hits `6`, risk headline rate `0.1538`, policy hits `2`
 - policy: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [macro] GTA 6 breaks records as sales top $2bn - industry estimate (BBC News)
 - [macro] Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices (Economy)
 - [macro] Europe ready for talks with Russia on ending war in Ukraine, leaders say (BBC News)
 - [macro] 'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC (BBC News)
@@ -37,4 +38,3 @@
 - [macro] How did Anthropic's stock market debut unfold? (BBC News)
 - [macro] Trump posthumously pardons US baseball legend Pete Rose (BBC News)
 - [crypto] Ledger CTO Charles Guillemet to leave after nine years at company (Cointelegraph.com News)
-- [macro] Fiona the hippo dies after swallowing a hat at Cincinnati Zoo (BBC News)
