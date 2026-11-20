@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T06:07:33.382176+00:00`
-- Market context score: `47.98`
-- News risk score: `38.62`
-- Macro risk score: `30.34`
-- Risk-on score: `28.47`
+- Generated: `2026-11-20T06:22:27.672276+00:00`
+- Market context score: `49.61`
+- News risk score: `32.62`
+- Macro risk score: `28.97`
+- Risk-on score: `26.5`
 - Articles: `38`
 - Polymarket markets: `393`
 
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T06:00:00+00:00`
+- Day/swing latest: `2026-11-20T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `4`, risk headline rate `0.25`, policy hits `3`
-- macro: articles `21`, risk hits `7`, risk headline rate `0.2381`, policy hits `2`
+- crypto: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `0`
+- macro: articles `22`, risk hits `7`, risk headline rate `0.2273`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Here's what's crashing gold and likely weighing on bitcoin too (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Anthropic shares may fall 5% at Friday’s open, crypto futures suggest (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Mouldy, infested housing for vulnerable people sold as ethical investments abroad (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [macro] UK and EU to agree youth mobility scheme, BBC understands (BBC News)
 - [crypto] VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] China issues Mount Fuji warning as family of missing climber offers reward (BBC News)
-- [commodity] Senate passes BAAJA permitting reform bill backed by AI, energy sectors (Energy)
-- [crypto] Institutions pile back into US Bitcoin ETFs in Q3 after selling streak (Cointelegraph.com News)
-- [crypto] Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
