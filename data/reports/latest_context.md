@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T11:07:27.512504+00:00`
+- Generated: `2026-11-20T11:22:29.385214+00:00`
 - Market context score: `56.85`
 - News risk score: `32.53`
 - Macro risk score: `31.09`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T11:00:00+00:00`
+- Day/swing latest: `2026-11-20T11:15:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] Three Kyiv bridges hit during major Russian missile attack (BBC News)
 - [crypto] VanEck to end Gemini ETF custody deals, keeps Coinbase (Cointelegraph.com News)
 - [crypto] Coinbase targets first-half 2027 for its own prediction market contracts (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest (Cointelegraph.com News)
-- [macro] Three Kyiv bridges hit during major Russian missile attack (BBC News)
 - [crypto] No special rules for Hyperliquid or other onchain trading platforms, CFTC says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Airbnb's divisive new house rules come into force (BBC News)
 - [crypto] Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
