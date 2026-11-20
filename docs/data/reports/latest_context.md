@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T15:37:39.400323+00:00`
+- Generated: `2026-11-20T15:52:29.314647+00:00`
 - Market context score: `50.42`
 - News risk score: `38.27`
 - Macro risk score: `26.7`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T15:30:00+00:00`
+- Day/swing latest: `2026-11-20T15:45:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
-- [crypto] DBS bets it can lose the deposit and keep the client (Cointelegraph.com News)
+- [macro] Airbnb's divisive new house rules come into force (BBC News)
 - [macro] Anthropic shares fall a day after blockbuster opening (BBC News)
+- [crypto] DBS bets it can lose the deposit and keep the client (Cointelegraph.com News)
 - [policy] Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances (FRB: Press Release - All Releases)
 - [crypto] Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] U.S. Senate passes bill to ban prediction market bets on war and death (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
-- [crypto] Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live news: Bitcoin slips to fresh lows near $60,000 as Anthropic slides after Nasdaq debut (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin bots pounced within seconds when researchers exposed their wallet keys (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] White House removes cyber-security chief after series of tech outages (BBC News)
