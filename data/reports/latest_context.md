@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T09:52:26.467672+00:00`
-- Market context score: `57.28`
-- News risk score: `29.39`
+- Generated: `2026-11-20T10:07:27.013334+00:00`
+- Market context score: `55.5`
+- News risk score: `32.12`
 - Macro risk score: `28.15`
-- Risk-on score: `40.52`
-- Articles: `42`
+- Risk-on score: `38.86`
+- Articles: `43`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T09:45:00+00:00`
+- Day/swing latest: `2026-11-20T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `16`, risk hits `2`, risk headline rate `0.0625`, policy hits `0`
+- crypto: articles `17`, risk hits `3`, risk headline rate `0.1176`, policy hits `0`
 - macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [crypto] No special rules for Hyperliquid or other onchain trading platforms, CFTC says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Airbnb's divisive new house rules come into force (BBC News)
 - [crypto] Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch (BBC News)
 - [macro] Three Kyiv bridges hit during major Russian missile attack (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] SEC charges eight firms over fake crypto platforms tied to $37M fraud (Cointelegraph.com News)
 - [macro] Should AI be judging our credit worthiness? (BBC News)
-- [macro] UK and EU to agree youth mobility scheme, BBC understands (BBC News)
-- [macro] Nigeria moves to end jail terms for attempted suicide (BBC News)
