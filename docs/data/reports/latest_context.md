@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T18:52:26.985802+00:00`
+- Generated: `2026-11-20T19:07:30.245542+00:00`
 - Market context score: `51.15`
 - News risk score: `36.76`
 - Macro risk score: `20.71`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T18:45:00+00:00`
+- Day/swing latest: `2026-11-20T19:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [macro] White House removes cyber-security chief after series of tech outages (BBC News)
 - [crypto] Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims (Cointelegraph.com News)
 - [crypto] Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader (BBC News)
@@ -38,4 +39,3 @@
 - [policy] Cook, The U.S. Economy in Global Context (FRB: Speeches)
 - [crypto] Bitcoin falls below $60K for first time since July amid broader market selloff (Cointelegraph.com News)
 - [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
-- [macro] Cost of living protests sweep across Europe (BBC News)
