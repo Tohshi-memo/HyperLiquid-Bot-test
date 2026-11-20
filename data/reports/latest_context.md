@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T07:37:29.781215+00:00`
+- Generated: `2026-11-20T07:50:12.723984+00:00`
 - Market context score: `52.37`
 - News risk score: `31.81`
 - Macro risk score: `27.62`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T07:30:00+00:00`
+- Day/swing latest: `2026-11-20T07:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
+- [macro] Tinned goods and long-life milk boost retail sales after 'Be Ready' campaign launch (BBC News)
 - [macro] Should AI be judging our credit worthiness? (BBC News)
-- [macro] Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch (BBC News)
 - [macro] UK and EU to agree youth mobility scheme, BBC understands (BBC News)
 - [crypto] Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s (Cointelegraph.com News)
 - [crypto] Here's what's crashing gold and likely weighing on bitcoin too (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
