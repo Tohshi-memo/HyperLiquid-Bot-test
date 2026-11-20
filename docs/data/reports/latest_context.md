@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T23:22:38.942916+00:00`
-- Market context score: `42.34`
-- News risk score: `42.22`
-- Macro risk score: `23.15`
-- Risk-on score: `16.27`
+- Generated: `2026-11-20T23:37:29.982487+00:00`
+- Market context score: `43.55`
+- News risk score: `40.53`
+- Macro risk score: `22.85`
+- Risk-on score: `17.4`
 - Articles: `51`
 - Polymarket markets: `393`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T23:15:00+00:00`
+- Day/swing latest: `2026-11-20T23:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `20`, risk hits `8`, risk headline rate `0.35`, policy hits `0`
-- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
+- crypto: articles `19`, risk hits `7`, risk headline rate `0.3158`, policy hits `0`
+- macro: articles `28`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
 - policy: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `5`
 
 ## Headlines
 
-- [macro] These dead pets were meant to be cremated - then their bodies appeared on a livestream (BBC News)
+- [macro] A new Nepal, an old neighbour - Balendra Shah's India test (BBC News)
+- [macro] Dead pets were meant to be cremated - then their bodies appeared on a livestream (BBC News)
 - [macro] US declassifies more UFO footage filmed in the Middle East (BBC News)
 - [macro] In a year of AI solving maths problems, Anthropic may have just solved the biggest (BBC News)
 - [macro] GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
 - [macro] French police officers sentenced for beating of music producer Michel Zecler (BBC News)
 - [macro] 'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis (BBC News)
-- [crypto] Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
