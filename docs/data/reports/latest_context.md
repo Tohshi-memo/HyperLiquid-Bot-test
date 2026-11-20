@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T10:07:27.013334+00:00`
+- Generated: `2026-11-20T10:22:41.454676+00:00`
 - Market context score: `55.5`
 - News risk score: `32.12`
 - Macro risk score: `28.15`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T10:00:00+00:00`
+- Day/swing latest: `2026-11-20T10:15:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Three Kyiv bridges hit during major Russian missile attack (BBC News)
 - [crypto] No special rules for Hyperliquid or other onchain trading platforms, CFTC says (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Airbnb's divisive new house rules come into force (BBC News)
 - [crypto] Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch (BBC News)
-- [macro] Three Kyiv bridges hit during major Russian missile attack (BBC News)
 - [commodity] Data center electricity use could double by 2030, IEA says (Energy)
 - [crypto] BlackRock’s IBIT loses record $541M amid Anthropic market debut (Cointelegraph.com News)
 - [crypto] Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
