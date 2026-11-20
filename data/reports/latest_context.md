@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T22:37:32.823059+00:00`
-- Market context score: `42.24`
-- News risk score: `41.48`
-- Macro risk score: `25.13`
-- Risk-on score: `16.15`
-- Articles: `47`
+- Generated: `2026-11-20T22:47:57.082259+00:00`
+- Market context score: `42.37`
+- News risk score: `41.49`
+- Macro risk score: `24.67`
+- Risk-on score: `16.3`
+- Articles: `48`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T22:30:00+00:00`
+- Day/swing latest: `2026-11-20T22:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `1`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `1`
 - policy: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `5`
 
 ## Headlines
 
+- [macro] GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history (BBC News)
+- [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
+- [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
+- [macro] French police officers sentenced for beating of music producer Michel Zecler (BBC News)
 - [macro] 'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis (BBC News)
 - [crypto] Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
 - [macro] What the new UK-EU deal could mean for future post-Brexit relations (BBC News)
 - [policy] Federal Reserve announces College Fed Challenge winners (FRB: Press Release - All Releases)
 - [macro] Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means (Economy)
-- [macro] Trump threatens ban on US firms building AI data centres overseas (BBC News)
-- [macro] Trump threatens ban on US firms building AI data centres overseas (BBC News)
-- [macro] Anthropic shares fall after blockbuster opening as wider tech sell-off continues (BBC News)
-- [macro] Anthropic shares fall after blockbuster opening as wider tech sell-off continues (BBC News)
