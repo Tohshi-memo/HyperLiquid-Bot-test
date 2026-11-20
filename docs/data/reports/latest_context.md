@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T23:07:24.966666+00:00`
-- Market context score: `42.06`
-- News risk score: `42.04`
-- Macro risk score: `24.28`
-- Risk-on score: `15.93`
-- Articles: `48`
-- Polymarket markets: `394`
+- Generated: `2026-11-20T23:22:38.942916+00:00`
+- Market context score: `42.34`
+- News risk score: `42.22`
+- Macro risk score: `23.15`
+- Risk-on score: `16.27`
+- Articles: `51`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T23:00:00+00:00`
+- Day/swing latest: `2026-11-20T23:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `20`, risk hits `8`, risk headline rate `0.35`, policy hits `0`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
 - policy: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `5`
 
 ## Headlines
 
+- [macro] These dead pets were meant to be cremated - then their bodies appeared on a livestream (BBC News)
+- [macro] US declassifies more UFO footage filmed in the Middle East (BBC News)
+- [macro] In a year of AI solving maths problems, Anthropic may have just solved the biggest (BBC News)
 - [macro] GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history (BBC News)
 - [crypto] Kalshi races to get ahead of New York order that could shut down exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
@@ -35,6 +38,3 @@
 - [macro] French police officers sentenced for beating of music producer Michel Zecler (BBC News)
 - [macro] 'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis (BBC News)
 - [crypto] Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
-- [macro] What the new UK-EU deal could mean for future post-Brexit relations (BBC News)
-- [policy] Federal Reserve announces College Fed Challenge winners (FRB: Press Release - All Releases)
