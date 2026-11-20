@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T08:52:30.511819+00:00`
-- Market context score: `54.36`
-- News risk score: `31.07`
-- Macro risk score: `26.4`
-- Risk-on score: `34.78`
+- Generated: `2026-11-20T09:07:32.959432+00:00`
+- Market context score: `56.0`
+- News risk score: `29.33`
+- Macro risk score: `28.15`
+- Risk-on score: `37.62`
 - Articles: `41`
 - Polymarket markets: `392`
 
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T08:45:00+00:00`
+- Day/swing latest: `2026-11-20T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `16`, risk hits `3`, risk headline rate `0.125`, policy hits `0`
-- macro: articles `23`, risk hits `6`, risk headline rate `0.2174`, policy hits `0`
+- crypto: articles `15`, risk hits `2`, risk headline rate `0.0667`, policy hits `0`
+- macro: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
-- [macro] Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch (BBC News)
 - [macro] Three Kyiv bridges hit during major Russian missile attack (BBC News)
+- [macro] Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch (BBC News)
 - [commodity] Data center electricity use could double by 2030, IEA says (Energy)
 - [crypto] BlackRock’s IBIT loses record $541M amid Anthropic market debut (Cointelegraph.com News)
 - [crypto] Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
