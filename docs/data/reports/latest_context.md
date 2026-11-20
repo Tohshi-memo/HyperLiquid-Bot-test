@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T16:37:43.299373+00:00`
-- Market context score: `53.29`
-- News risk score: `36.09`
-- Macro risk score: `21.08`
-- Risk-on score: `34.64`
-- Articles: `49`
+- Generated: `2026-11-20T16:52:26.744276+00:00`
+- Market context score: `53.4`
+- News risk score: `36.14`
+- Macro risk score: `20.68`
+- Risk-on score: `34.77`
+- Articles: `50`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T16:30:00+00:00`
+- Day/swing latest: `2026-11-20T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `28`, risk hits `9`, risk headline rate `0.25`, policy hits `0`
-- macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `0`
+- macro: articles `19`, risk hits `2`, risk headline rate `0.1053`, policy hits `0`
 - policy: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `3`
 
 ## Headlines
 
+- [macro] Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow (BBC News)
 - [macro] Anthropic shares fall a day after blockbuster opening (BBC News)
 - [macro] Anthropic shares fall a day after blockbuster opening (BBC News)
 - [crypto] US Senate advances prediction market restrictions with DEATH BETS Act (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Airbnb's divisive new house rules come into force (BBC News)
 - [crypto] DBS bets it can lose the deposit and keep the client (Cointelegraph.com News)
 - [macro] What we know about the latest Russian missile strikes on Ukraine (BBC News)
-- [policy] Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances (FRB: Press Release - All Releases)
