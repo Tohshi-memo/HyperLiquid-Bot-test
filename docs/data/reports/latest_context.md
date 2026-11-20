@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T07:07:37.729688+00:00`
+- Generated: `2026-11-20T07:22:29.008025+00:00`
 - Market context score: `51.8`
 - News risk score: `32.22`
 - Macro risk score: `28.93`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T07:00:00+00:00`
+- Day/swing latest: `2026-11-20T07:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] UK and EU to agree youth mobility scheme, BBC understands (BBC News)
 - [crypto] Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s (Cointelegraph.com News)
 - [crypto] Here's what's crashing gold and likely weighing on bitcoin too (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic shares may fall 5% at Friday’s open, crypto futures suggest (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +37,4 @@
 - [crypto] This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum’s next big upgrade is pushed into 2027 by apps it would break (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] UK and EU to agree youth mobility scheme, BBC understands (BBC News)
 - [crypto] VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
