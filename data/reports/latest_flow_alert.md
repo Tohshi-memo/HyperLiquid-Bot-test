@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-20T21:05:27.415230+00:00`
-- Flow alert score: `21.48`
+- Generated: `2026-11-20T21:10:28.739759+00:00`
+- Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `12181125.36`
-- Polymarket volume z-score: `1.12`
+- Polymarket 24h volume: `16293318.16`
+- Polymarket volume z-score: `2.82`
 
 ## Top Polymarket Markets
 
-- Exact Score: Red Star FC 0 - 0 Pau FC? | 24h volume: `1533030.669363` | liquidity: `98959.37244`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1000194.378588` | liquidity: `432808.0549`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `855577.5085100001` | liquidity: `717828.69036`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `736436.2357329999` | liquidity: `332133.1533`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `579773.92029` | liquidity: `89685.9463`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `537521.166917` | liquidity: `524964.13948`
-- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `481920.62927700003` | liquidity: `242299.45904`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `347938.6678350001` | liquidity: `243503.11309`
+- Exact Score: Red Star FC 0 - 0 Pau FC? | 24h volume: `5645544.495421002` | liquidity: `117097.6463`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1007228.166678` | liquidity: `418964.47202`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `855577.50851` | liquidity: `717863.56425`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `734211.22351` | liquidity: `300212.8342`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `575782.5749579999` | liquidity: `91497.7183`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `537043.7224730001` | liquidity: `522511.55681`
+- Clarity Act (H.R.3633) signed into law in 2026? | 24h volume: `481920.629277` | liquidity: `242300.46984`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `347938.667835` | liquidity: `243540.48147`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
