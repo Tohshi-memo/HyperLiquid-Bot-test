@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T06:22:27.672276+00:00`
-- Market context score: `49.61`
-- News risk score: `32.62`
-- Macro risk score: `28.97`
-- Risk-on score: `26.5`
-- Articles: `38`
+- Generated: `2026-11-20T06:37:25.863822+00:00`
+- Market context score: `51.8`
+- News risk score: `32.22`
+- Macro risk score: `28.93`
+- Risk-on score: `31.03`
+- Articles: `39`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T06:15:00+00:00`
+- Day/swing latest: `2026-11-20T06:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `0`
+- crypto: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
 - macro: articles `22`, risk hits `7`, risk headline rate `0.2273`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s (Cointelegraph.com News)
 - [crypto] Here's what's crashing gold and likely weighing on bitcoin too (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Anthropic shares may fall 5% at Friday’s open, crypto futures suggest (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mouldy, infested housing for vulnerable people sold as ethical investments abroad (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Ethereum’s next big upgrade is pushed into 2027 by apps it would break (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] UK and EU to agree youth mobility scheme, BBC understands (BBC News)
 - [crypto] VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] China issues Mount Fuji warning as family of missing climber offers reward (BBC News)
