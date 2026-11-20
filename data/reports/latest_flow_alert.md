@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-20T05:55:35.389832+00:00`
+- Generated: `2026-11-20T06:00:31.274125+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1307638.318983` | liquidity: `418681.57234`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `980258.237` | liquidity: `306574.85178`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `370153.02141199994` | liquidity: `419032.57004`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `323592.778029` | liquidity: `282714.84834`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `307935.669282` | liquidity: `46646.762`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1307638.318983` | liquidity: `417569.37459`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `980258.237` | liquidity: `324699.23669`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `370153.02141199994` | liquidity: `406955.20305`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `323592.778029` | liquidity: `282719.34964`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `307935.669282` | liquidity: `47826.9991`
 - Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `240356.797` | liquidity: `1262762.02041`
-- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `230936.29934299996` | liquidity: `197463.40039`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `212847.707333` | liquidity: `742134.73443`
+- Will Jensen Huang rejoin NVIDIA by December 31, 2026? | 24h volume: `230936.29934299996` | liquidity: `207818.8612`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `212847.707333` | liquidity: `741983.45804`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
