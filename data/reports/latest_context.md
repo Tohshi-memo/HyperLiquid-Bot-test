@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T12:52:32.350791+00:00`
+- Generated: `2026-11-20T13:07:25.808238+00:00`
 - Market context score: `56.53`
 - News risk score: `33.25`
 - Macro risk score: `29.65`
 - Risk-on score: `42.69`
 - Articles: `38`
-- Polymarket markets: `394`
+- Polymarket markets: `395`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T12:45:00+00:00`
+- Day/swing latest: `2026-11-20T13:00:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
 - [macro] Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge (BBC News)
+- [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
 - [crypto] Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin drops for third straight day as Asian tech shares slide (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip (Cointelegraph.com News)
