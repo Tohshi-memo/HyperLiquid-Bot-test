@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-20T09:45:27.614350+00:00`
+- Generated: `2026-11-20T09:50:30.840093+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1316115.1279590002` | liquidity: `430413.73382`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1006387.387` | liquidity: `301346.78513`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `693168.289501` | liquidity: `849017.28415`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `440547.454924` | liquidity: `503425.32426`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `353376.83511800005` | liquidity: `72801.6624`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `331619.34325599996` | liquidity: `275234.33253`
-- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `251508.328` | liquidity: `1242242.21562`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `214777.02622099998` | liquidity: `752238.2936`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1316115.1279590002` | liquidity: `439601.07143`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1006387.387` | liquidity: `299666.61558`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `693168.289501` | liquidity: `843949.93603`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `440547.454924` | liquidity: `527295.50642`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `353376.83511800005` | liquidity: `68290.986`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `331619.34325599996` | liquidity: `276273.91806`
+- Will Scott Colom win the 2028 Democratic presidential nomination? | 24h volume: `251508.328` | liquidity: `1242148.91462`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `214777.02622099998` | liquidity: `755630.1704`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
