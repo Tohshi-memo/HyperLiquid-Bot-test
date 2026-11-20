@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-20T20:52:27.574255+00:00`
-- Market context score: `44.87`
-- News risk score: `40.04`
-- Macro risk score: `25.59`
-- Risk-on score: `20.97`
-- Articles: `46`
-- Polymarket markets: `393`
+- Generated: `2026-11-20T21:07:31.422309+00:00`
+- Market context score: `44.84`
+- News risk score: `40.33`
+- Macro risk score: `25.56`
+- Risk-on score: `21.15`
+- Articles: `47`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-20T20:45:00+00:00`
+- Day/swing latest: `2026-11-20T21:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `0`
-- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `1`
 - policy: articles `3`, risk hits `1`, risk headline rate `0.3333`, policy hits `3`
 
 ## Headlines
 
+- [macro] Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means (Economy)
 - [macro] Trump threatens ban on US firms building AI data centres overseas (BBC News)
 - [macro] Trump threatens ban on US firms building AI data centres overseas (BBC News)
 - [macro] Anthropic shares fall after blockbuster opening as wider tech sell-off continues (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader (BBC News)
 - [macro] White House removes cyber-security chief after series of tech outages (BBC News)
 - [crypto] Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims (Cointelegraph.com News)
-- [crypto] Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
