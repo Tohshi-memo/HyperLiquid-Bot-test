@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T08:52:25.945533+00:00`
-- Market context score: `46.22`
-- News risk score: `35.77`
-- Macro risk score: `21.49`
-- Risk-on score: `18.82`
-- Articles: `30`
+- Generated: `2026-11-21T09:07:23.011993+00:00`
+- Market context score: `49.06`
+- News risk score: `32.82`
+- Macro risk score: `15.75`
+- Risk-on score: `20.48`
+- Articles: `28`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T08:45:00+00:00`
+- Day/swing latest: `2026-11-21T09:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `1`
+- macro: articles `19`, risk hits `1`, risk headline rate `0.0526`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
 - [macro] Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend (BBC News)
+- [macro] Trafalgar Square Christmas tree felled in Norway (BBC News)
 - [crypto] US lawmakers propose up to 30% rewards for prediction market whistleblowers (Cointelegraph.com News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
 - [crypto] Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] XRP falls 10% as long bets unwind and ETF assets slip below $1 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Hong Kong pushes to bring crypto custodians, advisers under licensing rules (Cointelegraph.com News)
 - [macro] Man convicted of starting Palisades fire in Los Angeles (BBC News)
-- [crypto] Bitcoin tanks below $57,000 for the first time in two years, and its not alone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
