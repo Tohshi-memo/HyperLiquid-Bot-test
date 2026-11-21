@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-21T14:15:29.362051+00:00`
+- Generated: `2026-11-21T14:20:30.116303+00:00`
 - Flow alert score: `21.92`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1196814.183796` | liquidity: `255515.83629`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `897633.8405689999` | liquidity: `496129.67076`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `722846.162236` | liquidity: `549198.227`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `702577.6374750001` | liquidity: `79333.1883`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `556768.12789` | liquidity: `66925.98371`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `415774.94135399995` | liquidity: `491304.31831`
-- Israel x Iran ceasefire continues through November 20? | 24h volume: `393404.486802` | liquidity: `98687.77639`
-- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `529749.30341`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1196814.183796` | liquidity: `249978.27899`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `897633.8405689999` | liquidity: `501736.89529`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `722846.162236` | liquidity: `544446.6701`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `702577.6374750001` | liquidity: `77842.9083`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `556768.12789` | liquidity: `66198.19937`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `415774.94135399995` | liquidity: `488845.07831`
+- Israel x Iran ceasefire continues through November 20? | 24h volume: `393404.486802` | liquidity: `97240.12039`
+- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `529747.81141`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
