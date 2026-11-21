@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T08:07:35.680783+00:00`
+- Generated: `2026-11-21T08:22:41.508892+00:00`
 - Market context score: `46.22`
 - News risk score: `35.77`
 - Macro risk score: `21.49`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T08:00:00+00:00`
+- Day/swing latest: `2026-11-21T08:15:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
+- [macro] Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend (BBC News)
 - [crypto] US lawmakers propose up to 30% rewards for prediction market whistleblowers (Cointelegraph.com News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
-- [macro] Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend (BBC News)
 - [crypto] Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Deal with EU not dependent on tuition fees agreement, Miliband says (BBC News)
 - [commodity] An early breakdown in the polar vortex is threatening already depleted gas stocks (Energy)
