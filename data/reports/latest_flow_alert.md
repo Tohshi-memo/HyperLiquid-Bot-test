@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-21T23:00:29.546962+00:00`
+- Generated: `2026-11-21T23:05:29.392342+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -9,17 +9,17 @@
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
 - Polymarket 24h volume: `8932350.16`
-- Polymarket volume z-score: `-0.35`
+- Polymarket volume z-score: `-0.36`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `678258.9351649999` | liquidity: `250264.30085`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `613617.2122249999` | liquidity: `86273.6438`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `529930.42552` | liquidity: `480120.67649`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `435944.753524` | liquidity: `64000.0826`
-- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `526751.31841`
-- Will China invade Taiwan by end of 2026? | 24h volume: `324280.92409` | liquidity: `243273.80385`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `301651.47279800003` | liquidity: `830010.9662`
-- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `254096.548634` | liquidity: `108234.96853`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `678258.9351649999` | liquidity: `271360.68544`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `613617.2122249999` | liquidity: `87052.4255`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `529930.42552` | liquidity: `494963.30211`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `435944.753524` | liquidity: `49597.58808`
+- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `529127.19357`
+- Will China invade Taiwan by end of 2026? | 24h volume: `324280.92409` | liquidity: `246187.2162`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `301651.47279800003` | liquidity: `815941.2939`
+- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `254096.548634` | liquidity: `109278.17484`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
