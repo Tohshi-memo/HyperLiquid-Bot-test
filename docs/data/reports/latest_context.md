@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T12:22:26.633554+00:00`
-- Market context score: `45.31`
-- News risk score: `36.31`
-- Macro risk score: `22.91`
-- Risk-on score: `17.79`
+- Generated: `2026-11-21T12:37:26.604492+00:00`
+- Market context score: `41.47`
+- News risk score: `41.71`
+- Macro risk score: `25.39`
+- Risk-on score: `14.75`
 - Articles: `18`
 - Polymarket markets: `393`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T12:15:00+00:00`
+- Day/swing latest: `2026-11-21T12:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- crypto: articles `8`, risk hits `5`, risk headline rate `0.375`, policy hits `1`
+- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
@@ -37,4 +38,3 @@
 - [macro] FBI reportedly investigating apparent hack of its criminal database (BBC News)
 - [macro] Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend (BBC News)
 - [macro] Trafalgar Square Christmas tree felled in Norway (BBC News)
-- [crypto] US lawmakers propose up to 30% rewards for prediction market whistleblowers (Cointelegraph.com News)
