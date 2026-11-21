@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T17:37:26.010315+00:00`
+- Generated: `2026-11-21T17:52:31.046228+00:00`
 - Market context score: `41.47`
 - News risk score: `41.71`
 - Macro risk score: `25.39`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T17:30:00+00:00`
+- Day/swing latest: `2026-11-21T17:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [crypto] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] FBI reportedly investigating apparent hack of its criminal database (BBC News)
 - [macro] Tech outages are fueling a new doomsday economy (Economy)
@@ -37,4 +38,3 @@
 - [commodity] An early breakdown in the polar vortex is threatening already depleted gas stocks (Energy)
 - [crypto] Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
