@@ -2,7 +2,7 @@
 
 Read this first to save AI quota. It tells the analysis which compact files are enough, and when a full JSON file is justified.
 
-- Updated: `2026-11-21T04:07:34.086775+00:00`
+- Updated: `2026-11-21T04:22:30.271974+00:00`
 - Asset price active records: `672`
 - Day/swing records: `12000`
 - Macro indicators: `11`
@@ -14,14 +14,14 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 ## First Read Files
 
 - `data/reports/latest_ai_context_index.md` (3267 bytes): Human-readable map.
-- `data/processed/ai_context_index.json` (63622 bytes): Machine-readable map.
-- `data/reports/latest_canary_signals.md` (3282 bytes): Current canary signals.
-- `data/reports/latest_ai_analysis_brief.md` (877 bytes): BTC/ETH/HYPE/SOL compact stats.
+- `data/processed/ai_context_index.json` (63600 bytes): Machine-readable map.
+- `data/reports/latest_canary_signals.md` (3278 bytes): Current canary signals.
+- `data/reports/latest_ai_analysis_brief.md` (876 bytes): BTC/ETH/HYPE/SOL compact stats.
 - `data/reports/latest_macro_indicators.md` (2100 bytes): Macro rates, employment, inflation, dollar, and risk overview.
-- `data/processed/ai_analysis_pack.json` (50581 bytes): Compact strategy stats.
-- `data/reports/latest_asset_universe.md` (5700 bytes): Asset-class overview.
-- `data/reports/latest_asset_features.md` (2242 bytes): Individual asset screen.
-- `data/reports/latest_hip4_outcome.md` (10756 bytes): HIP-4 outcome market overview.
+- `data/processed/ai_analysis_pack.json` (50585 bytes): Compact strategy stats.
+- `data/reports/latest_asset_universe.md` (5709 bytes): Asset-class overview.
+- `data/reports/latest_asset_features.md` (2244 bytes): Individual asset screen.
+- `data/reports/latest_hip4_outcome.md` (10732 bytes): HIP-4 outcome market overview.
 - `data/reports/latest_relationship_scan.md` (3675 bytes): Mechanical relationship candidates.
 - `data/reports/latest_sector_reactions.md` (4593 bytes): Delayed sector reaction overview.
 
@@ -38,14 +38,14 @@ Read this first to save AI quota. It tells the analysis which compact files are 
 
 ## Canary Snapshot
 
-- 4h_commodity_crypto_divergence: score `-4.9219` - Commodity perps and crypto are moving differently; check macro-linked stress.
-- 4h_index_leads_crypto: score `4.8263` - Index perps are stronger than crypto majors; possible risk-on canary.
-- 4h_crypto_metal_divergence: score `-4.714` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
-- 4h_crypto_equity_divergence: score `-3.4985` - Crypto majors and equity perps are diverging; watch lead/lag rotation.
-- 1h_commodity_crypto_divergence: score `-3.4451` - Commodity perps and crypto are moving differently; check macro-linked stress.
-- 1h_index_leads_crypto: score `3.4013` - Index perps are stronger than crypto majors; possible risk-on canary.
-- 1h_crypto_metal_divergence: score `-3.3142` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
-- 1h_crypto_equity_divergence: score `-2.2408` - Crypto majors and equity perps are diverging; watch lead/lag rotation.
+- 4h_commodity_crypto_divergence: score `-4.6632` - Commodity perps and crypto are moving differently; check macro-linked stress.
+- 4h_index_leads_crypto: score `4.5852` - Index perps are stronger than crypto majors; possible risk-on canary.
+- 4h_crypto_metal_divergence: score `-4.5158` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
+- 1h_commodity_crypto_divergence: score `-3.3426` - Commodity perps and crypto are moving differently; check macro-linked stress.
+- 1h_index_leads_crypto: score `3.3033` - Index perps are stronger than crypto majors; possible risk-on canary.
+- 4h_crypto_equity_divergence: score `-3.233` - Crypto majors and equity perps are diverging; watch lead/lag rotation.
+- 1h_crypto_metal_divergence: score `-3.2321` - Crypto majors and metals are diverging; useful for risk/hedge regime checks.
+- 1h_crypto_equity_divergence: score `-2.1071` - Crypto majors and equity perps are diverging; watch lead/lag rotation.
 
 ## Full JSON Rule
 
