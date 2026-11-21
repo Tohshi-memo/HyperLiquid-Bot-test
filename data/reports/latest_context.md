@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T12:07:22.521517+00:00`
-- Market context score: `44.76`
-- News risk score: `36.86`
-- Macro risk score: `24.0`
-- Risk-on score: `17.43`
-- Articles: `17`
-- Polymarket markets: `394`
+- Generated: `2026-11-21T12:22:26.633554+00:00`
+- Market context score: `45.31`
+- News risk score: `36.31`
+- Macro risk score: `22.91`
+- Risk-on score: `17.79`
+- Articles: `18`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T12:00:00+00:00`
+- Day/swing latest: `2026-11-21T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend (BBC News)
 - [macro] Trafalgar Square Christmas tree felled in Norway (BBC News)
 - [crypto] US lawmakers propose up to 30% rewards for prediction market whistleblowers (Cointelegraph.com News)
-- [crypto] Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
