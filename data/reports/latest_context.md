@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T23:29:19.157296+00:00`
+- Generated: `2026-11-21T23:37:27.271319+00:00`
 - Market context score: `30.67`
 - News risk score: `56.86`
 - Macro risk score: `29.27`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T23:15:00+00:00`
+- Day/swing latest: `2026-11-21T23:30:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
 - [macro] Lock of former US President George Washington's hair sells for $4,000 (BBC News)
-- [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
 - [macro] Russia-bound ship attacked in Gulf of Finland (BBC News)
 - [crypto] Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
