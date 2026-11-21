@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-21T21:40:27.820214+00:00`
+- Generated: `2026-11-21T21:45:30.908068+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1193155.4951649997` | liquidity: `274084.42532`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `619487.6888979999` | liquidity: `82472.2504`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `539642.604795` | liquidity: `554477.18562`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `474835.7669449999` | liquidity: `65017.97733`
-- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `528451.97741`
-- Will China invade Taiwan by end of 2026? | 24h volume: `324550.92409` | liquidity: `259974.85315`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `306134.568646` | liquidity: `799728.747`
-- Israel x Iran ceasefire continues through November 20? | 24h volume: `289292.25954` | liquidity: `82618.59483`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1193155.4951649997` | liquidity: `273502.0489`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `619487.6888979999` | liquidity: `82961.0111`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `539642.604795` | liquidity: `554162.23663`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `474835.7669449999` | liquidity: `67891.80451`
+- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `528451.74741`
+- Will China invade Taiwan by end of 2026? | 24h volume: `324550.92409` | liquidity: `260107.98715`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `306134.568646` | liquidity: `797954.0582`
+- Israel x Iran ceasefire continues through November 20? | 24h volume: `289292.25954` | liquidity: `82291.62483`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
