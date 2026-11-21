@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T10:22:23.071742+00:00`
+- Generated: `2026-11-21T10:37:28.921502+00:00`
 - Market context score: `47.48`
 - News risk score: `34.19`
 - Macro risk score: `18.67`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T10:15:00+00:00`
+- Day/swing latest: `2026-11-21T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
 - [crypto] ECB seeks industry partners for tokenized deposits, securities experiments (Cointelegraph.com News)
 - [macro] Deal with EU not dependent on tuition fees agreement, Miliband says (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] US lawmakers propose up to 30% rewards for prediction market whistleblowers (Cointelegraph.com News)
 - [crypto] Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] An early breakdown in the polar vortex is threatening already depleted gas stocks (Energy)
-- [crypto] XRP falls 10% as long bets unwind and ETF assets slip below $1 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
