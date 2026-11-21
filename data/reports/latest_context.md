@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T12:37:26.604492+00:00`
+- Generated: `2026-11-21T12:52:26.512121+00:00`
 - Market context score: `41.47`
 - News risk score: `41.71`
 - Macro risk score: `25.39`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T12:30:00+00:00`
+- Day/swing latest: `2026-11-21T12:45:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,9 @@
 
 ## Headlines
 
-- [crypto] Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting (BBC News)
+- [commodity] An early breakdown in the polar vortex is threatening already depleted gas stocks (Energy)
+- [crypto] Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Deal with EU not dependent on tuition fees agreement, Miliband says (BBC News)
 - [macro] FBI reportedly investigating apparent hack of its criminal database (BBC News)
 - [macro] Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend (BBC News)
-- [macro] Trafalgar Square Christmas tree felled in Norway (BBC News)
