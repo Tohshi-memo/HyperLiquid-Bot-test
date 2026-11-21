@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T20:52:31.831101+00:00`
+- Generated: `2026-11-21T21:07:28.360003+00:00`
 - Market context score: `30.35`
 - News risk score: `56.07`
 - Macro risk score: `33.79`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T20:45:00+00:00`
+- Day/swing latest: `2026-11-21T21:00:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
 - [macro] Russia-bound ship attacked in Gulf of Finland (BBC News)
 - [crypto] Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +36,5 @@
 - [macro] FBI reportedly investigating apparent hack of its criminal database (BBC News)
 - [macro] Tech outages are fueling a new doomsday economy (Economy)
 - [macro] Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting (BBC News)
-- [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
 - [commodity] An early breakdown in the polar vortex is threatening already depleted gas stocks (Energy)
 - [crypto] Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
