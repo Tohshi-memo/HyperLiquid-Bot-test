@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T11:22:27.730452+00:00`
-- Market context score: `44.32`
-- News risk score: `38.0`
-- Macro risk score: `22.0`
-- Risk-on score: `16.67`
+- Generated: `2026-11-21T11:37:35.031725+00:00`
+- Market context score: `45.31`
+- News risk score: `36.31`
+- Macro risk score: `22.91`
+- Risk-on score: `17.79`
 - Articles: `18`
 - Polymarket markets: `394`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T11:15:00+00:00`
+- Day/swing latest: `2026-11-21T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `6`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
+- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper (BBC News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
 - [crypto] ECB seeks industry partners for tokenized deposits, securities experiments (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Trafalgar Square Christmas tree felled in Norway (BBC News)
 - [crypto] US lawmakers propose up to 30% rewards for prediction market whistleblowers (Cointelegraph.com News)
 - [crypto] Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] An early breakdown in the polar vortex is threatening already depleted gas stocks (Energy)
