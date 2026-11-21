@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T19:52:29.411594+00:00`
-- Market context score: `38.41`
-- News risk score: `45.12`
+- Generated: `2026-11-21T20:07:38.610049+00:00`
+- Market context score: `32.29`
+- News risk score: `54.12`
 - Macro risk score: `29.93`
-- Risk-on score: `12.55`
+- Risk-on score: `6.55`
 - Articles: `16`
 - Polymarket markets: `390`
 
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T19:45:00+00:00`
+- Day/swing latest: `2026-11-21T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `5`, risk hits `4`, risk headline rate `0.4`, policy hits `1`
+- crypto: articles `5`, risk hits `5`, risk headline rate `0.6`, policy hits `1`
 - macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
 - [macro] Russia-bound ship attacked in Gulf of Finland (BBC News)
-- [crypto] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] FBI reportedly investigating apparent hack of its criminal database (BBC News)
 - [macro] Tech outages are fueling a new doomsday economy (Economy)
