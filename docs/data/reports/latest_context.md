@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T00:37:28.539131+00:00`
+- Generated: `2026-11-21T00:52:26.168210+00:00`
 - Market context score: `43.53`
 - News risk score: `40.8`
 - Macro risk score: `21.03`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T00:30:00+00:00`
+- Day/swing latest: `2026-11-21T00:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] ANC fights to keep control of South Africa's key cities after election setback (BBC News)
 - [macro] Mamdani announces plan to close New York's Rikers Island jail by 2032 (BBC News)
 - [macro] A new Nepal, an old neighbour - Balendra Shah's India test (BBC News)
 - [macro] Dead pets were meant to be cremated - then their bodies appeared on a livestream (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Kalshi races to get ahead of New York order that could shut down exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
 - [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
-- [macro] French police officers sentenced for beating of music producer Michel Zecler (BBC News)
