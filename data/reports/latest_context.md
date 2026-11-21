@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T00:07:34.317136+00:00`
-- Market context score: `43.09`
-- News risk score: `41.09`
-- Macro risk score: `22.88`
-- Risk-on score: `16.88`
-- Articles: `50`
+- Generated: `2026-11-21T00:22:36.507980+00:00`
+- Market context score: `43.53`
+- News risk score: `40.8`
+- Macro risk score: `21.03`
+- Risk-on score: `16.91`
+- Articles: `49`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T00:00:00+00:00`
+- Day/swing latest: `2026-11-21T00:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `0`
-- macro: articles `28`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
+- crypto: articles `17`, risk hits `7`, risk headline rate `0.3529`, policy hits `0`
+- macro: articles `28`, risk hits `3`, risk headline rate `0.1071`, policy hits `1`
 - policy: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `5`
 
 ## Headlines
 
+- [macro] Mamdani announces plan to close New York's Rikers Island jail by 2032 (BBC News)
 - [macro] A new Nepal, an old neighbour - Balendra Shah's India test (BBC News)
 - [macro] Dead pets were meant to be cremated - then their bodies appeared on a livestream (BBC News)
 - [macro] US declassifies more UFO footage filmed in the Middle East (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
 - [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
 - [macro] French police officers sentenced for beating of music producer Michel Zecler (BBC News)
-- [macro] 'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis (BBC News)
