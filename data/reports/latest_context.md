@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T04:37:33.204887+00:00`
-- Market context score: `47.92`
-- News risk score: `34.07`
-- Macro risk score: `18.13`
-- Risk-on score: `19.89`
-- Articles: `33`
+- Generated: `2026-11-21T04:52:23.082480+00:00`
+- Market context score: `47.81`
+- News risk score: `34.19`
+- Macro risk score: `18.36`
+- Risk-on score: `19.83`
+- Articles: `32`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T04:30:00+00:00`
+- Day/swing latest: `2026-11-21T04:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
-- macro: articles `24`, risk hits `2`, risk headline rate `0.0833`, policy hits `1`
+- macro: articles `23`, risk hits `2`, risk headline rate `0.087`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `2`
 
 ## Headlines
 
+- [macro] Man convicted of starting Palisades fire in Los Angeles (BBC News)
+- [macro] 'He's a killer': Zelensky reacts to Trump calling Putin a friend (BBC News)
 - [crypto] Bitcoin tanks below $57,000 for the first time in two years, and its not alone (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
 - [macro] They were fined $811m for conning detained migrants, but the scams didn't stop (BBC News)
 - [macro] ANC fights to keep control of South Africa's key cities after election setback (BBC News)
 - [macro] Mamdani announces plan to close New York's Rikers Island jail by 2032 (BBC News)
-- [macro] A new Nepal, an old neighbour - Balendra Shah's India test (BBC News)
+- [macro] A new Nepal, an old neighbour - Balendra Shah's India test on first visit (BBC News)
 - [macro] Dead pets were meant to be cremated - then their bodies appeared on a livestream (BBC News)
 - [macro] US declassifies more UFO footage filmed in the Middle East (BBC News)
 - [macro] In a year of AI solving maths problems, Anthropic may have just solved the biggest (BBC News)
-- [macro] GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history (BBC News)
