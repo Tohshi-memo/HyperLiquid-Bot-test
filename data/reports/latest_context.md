@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-21T02:07:28.045752+00:00`
+- Generated: `2026-11-21T02:22:29.419203+00:00`
 - Market context score: `47.04`
 - News risk score: `34.92`
 - Macro risk score: `21.49`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-21T02:00:00+00:00`
+- Day/swing latest: `2026-11-21T02:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (BBC News)
 - [macro] They were fined $811m for conning detained migrants, but the scams didn't stop (BBC News)
 - [macro] ANC fights to keep control of South Africa's key cities after election setback (BBC News)
 - [macro] Mamdani announces plan to close New York's Rikers Island jail by 2032 (BBC News)
@@ -37,4 +38,3 @@
 - [macro] In a year of AI solving maths problems, Anthropic may have just solved the biggest (BBC News)
 - [macro] GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history (BBC News)
 - [crypto] Kalshi races to get ahead of New York order that could shut down exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Tech stock sell-off drags markets down as Anthropic shares slide (BBC News)
