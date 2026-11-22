@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T04:37:27.739458+00:00`
-- Market context score: `35.58`
-- News risk score: `49.07`
+- Generated: `2026-11-22T04:52:31.410169+00:00`
+- Market context score: `22.85`
+- News risk score: `71.57`
 - Macro risk score: `29.14`
-- Risk-on score: `9.29`
-- Articles: `9`
+- Risk-on score: `0`
+- Articles: `8`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,11 +18,11 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T04:30:00+00:00`
+- Day/swing latest: `2026-11-22T04:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
@@ -35,4 +35,3 @@
 - [macro] Lock of former US President George Washington's hair sells for $4,000 (BBC News)
 - [macro] Russia-bound ship attacked in Gulf of Finland (BBC News)
 - [crypto] Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
