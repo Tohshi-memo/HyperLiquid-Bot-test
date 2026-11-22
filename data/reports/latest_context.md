@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T22:52:28.359782+00:00`
-- Market context score: `53.32`
-- News risk score: `37.06`
-- Macro risk score: `27.32`
-- Risk-on score: `37.88`
-- Articles: `17`
+- Generated: `2026-11-22T23:07:30.301328+00:00`
+- Market context score: `54.89`
+- News risk score: `34.76`
+- Macro risk score: `27.24`
+- Risk-on score: `39.38`
+- Articles: `18`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T22:45:00+00:00`
+- Day/swing latest: `2026-11-22T23:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 - macro: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest (Cointelegraph.com News)
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] Miley Cyrus marries Maxx Morando in California ceremony (BBC News)
@@ -37,4 +38,3 @@
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
 - [macro] US Army to detonate tonnes of unstable explosives in Iowa despite court order (BBC News)
-- [macro] COP31 fails to reach major climate deal as talks expose deep divisions (BBC News)
