@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T13:37:38.346959+00:00`
-- Market context score: `39.95`
-- News risk score: `44.79`
-- Macro risk score: `20.57`
-- Risk-on score: `12.14`
-- Articles: `11`
-- Polymarket markets: `389`
+- Generated: `2026-11-22T13:52:30.158420+00:00`
+- Market context score: `37.52`
+- News risk score: `47.17`
+- Macro risk score: `25.33`
+- Risk-on score: `10.56`
+- Articles: `13`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T13:30:00+00:00`
+- Day/swing latest: `2026-11-22T13:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `6`, risk hits `1`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [macro] Centrica boss 'hugely concerned' over impact of soaring energy bills (BBC News)
+- [commodity] Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S. (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Russia-bound ship still on fire after attack in Gulf of Finland (BBC News)
 - [crypto] Bitcoin briefly drops to $17K on Kraken, exchange upholds trades (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] MP criticises Guernsey and Jersey company ownership register plans (BBC News)
 - [macro] Italian jeweller and businessman Paolo Bulgari dies aged 89 (BBC News)
 - [macro] Italian jeweller and businessman Paolo Bulgari dies aged 89 (BBC News)
-- [macro] Three killed and dozens missing after fire at Indonesian factory (BBC News)
-- [commodity] Quantum computing’s first real-world payoff may come in energy, not drug discovery (Energy)
