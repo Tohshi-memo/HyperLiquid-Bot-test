@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T01:22:37.865373+00:00`
+- Generated: `2026-11-22T01:37:27.542446+00:00`
 - Market context score: `36.67`
 - News risk score: `48.0`
 - Macro risk score: `27.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T01:15:00+00:00`
+- Day/swing latest: `2026-11-22T01:30:00+00:00`
 
 ## News Categories
 
@@ -27,10 +27,10 @@
 
 ## Headlines
 
+- [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
 - [macro] FBI reportedly investigating apparent hack of its criminal database (BBC News)
 - [macro] Nigerian youth have shown their power in the past - why aren't they shaping this election? (BBC News)
 - [macro] How a teen gamer and his mother helped rescue a missing girl (BBC News)
-- [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
 - [macro] Fight over fossil fuels leaves COP31 climate talks in deadlock (BBC News)
 - [macro] Lock of former US President George Washington's hair sells for $4,000 (BBC News)
 - [macro] Russia-bound ship attacked in Gulf of Finland (BBC News)
