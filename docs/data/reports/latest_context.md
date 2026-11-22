@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T06:22:25.870930+00:00`
-- Market context score: `23.62`
-- News risk score: `70.5`
-- Macro risk score: `27.0`
+- Generated: `2026-11-22T06:37:32.801476+00:00`
+- Market context score: `24.22`
+- News risk score: `69.67`
+- Macro risk score: `25.33`
 - Risk-on score: `0`
-- Articles: `9`
+- Articles: `10`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T06:15:00+00:00`
+- Day/swing latest: `2026-11-22T06:30:00+00:00`
 
 ## News Categories
 
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
 - [macro] Dozens missing after fire at Indonesian factory (BBC News)
+- [commodity] Quantum computing’s first real-world payoff may come in energy, not drug discovery (Energy)
 - [crypto] Chainflip confirms $12M hack, offers attacker 10% bounty (Cointelegraph.com News)
 - [macro] New draft deal aims to avert collapse of talks at climate summit (BBC News)
 - [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
