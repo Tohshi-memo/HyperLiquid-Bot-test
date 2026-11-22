@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T07:52:32.216657+00:00`
+- Generated: `2026-11-22T08:07:32.307614+00:00`
 - Market context score: `27.06`
 - News risk score: `65.73`
 - Macro risk score: `17.45`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T07:45:00+00:00`
+- Day/swing latest: `2026-11-22T08:00:00+00:00`
 
 ## News Categories
 
@@ -32,7 +32,7 @@
 - [macro] MP criticises Guernsey and Jersey company ownership register plans (BBC News)
 - [macro] Italian jeweller and businessman Paolo Bulgari dies aged 89 (BBC News)
 - [macro] New draft deal aims to avert collapse of talks at COP31 climate summit (BBC News)
-- [macro] Dozens missing after fire at Indonesian factory (BBC News)
+- [macro] Three killed and dozens missing after fire at Indonesian factory (BBC News)
 - [commodity] Quantum computing’s first real-world payoff may come in energy, not drug discovery (Energy)
 - [crypto] Chainflip confirms $12M hack, offers attacker 10% bounty (Cointelegraph.com News)
 - [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
