@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T17:07:33.237804+00:00`
+- Generated: `2026-11-22T17:22:28.575096+00:00`
 - Market context score: `35.14`
 - News risk score: `49.5`
 - Macro risk score: `30.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T17:00:00+00:00`
+- Day/swing latest: `2026-11-22T17:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Russia-bound ship towed away after it was attacked in Gulf of Finland (BBC News)
 - [macro] Explosion on Russian ship at Libya port caused by suspected drone attack, officials say (BBC News)
 - [crypto] The future of onchain FX could start with users, not institutional liquidity (Cointelegraph.com News)
 - [macro] Three killed and dozens missing after fire at Indonesian factory (BBC News)
@@ -35,6 +36,5 @@
 - [macro] Centrica boss says he is 'hugely concerned' over impact of soaring energy bills (BBC News)
 - [commodity] Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S. (Energy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Russia-bound ship still on fire after attack in Gulf of Finland (BBC News)
 - [crypto] Bitcoin briefly drops to $17K on Kraken, exchange upholds trades (Cointelegraph.com News)
 - [macro] South Korea education minister resigns over exam cheating scandal (BBC News)
