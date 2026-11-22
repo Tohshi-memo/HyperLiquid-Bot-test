@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T07:07:36.605556+00:00`
-- Market context score: `24.22`
-- News risk score: `69.67`
-- Macro risk score: `25.33`
+- Generated: `2026-11-22T07:22:22.965306+00:00`
+- Market context score: `26.32`
+- News risk score: `66.75`
+- Macro risk score: `19.5`
 - Risk-on score: `0`
-- Articles: `10`
+- Articles: `9`
 - Polymarket markets: `388`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T07:00:00+00:00`
+- Day/swing latest: `2026-11-22T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
+- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
@@ -37,4 +37,3 @@
 - [macro] Nigerian youth have shown their power in the past - why aren't they shaping this election? (BBC News)
 - [macro] How a teen gamer and his mother helped rescue a missing girl (BBC News)
 - [macro] Lock of former US President George Washington's hair sells for $4,000 (BBC News)
-- [macro] Russia-bound ship attacked in Gulf of Finland (BBC News)
