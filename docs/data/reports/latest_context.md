@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T06:52:25.403089+00:00`
+- Generated: `2026-11-22T07:07:36.605556+00:00`
 - Market context score: `24.22`
 - News risk score: `69.67`
 - Macro risk score: `25.33`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T06:45:00+00:00`
+- Day/swing latest: `2026-11-22T07:00:00+00:00`
 
 ## News Categories
 
@@ -28,10 +28,10 @@
 
 ## Headlines
 
+- [macro] New draft deal aims to avert collapse of talks at climate summit (BBC News)
 - [macro] Dozens missing after fire at Indonesian factory (BBC News)
 - [commodity] Quantum computing’s first real-world payoff may come in energy, not drug discovery (Energy)
 - [crypto] Chainflip confirms $12M hack, offers attacker 10% bounty (Cointelegraph.com News)
-- [macro] New draft deal aims to avert collapse of talks at climate summit (BBC News)
 - [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
 - [macro] FBI reportedly investigating apparent hack of its criminal database (BBC News)
 - [macro] Nigerian youth have shown their power in the past - why aren't they shaping this election? (BBC News)
