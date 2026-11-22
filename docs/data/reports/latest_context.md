@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T20:22:24.085141+00:00`
-- Market context score: `55.44`
-- News risk score: `33.92`
-- Macro risk score: `25.85`
-- Risk-on score: `39.38`
-- Articles: `18`
-- Polymarket markets: `388`
+- Generated: `2026-11-22T20:37:25.041565+00:00`
+- Market context score: `55.42`
+- News risk score: `34.22`
+- Macro risk score: `26.17`
+- Risk-on score: `39.71`
+- Articles: `19`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T20:15:00+00:00`
+- Day/swing latest: `2026-11-22T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
-- macro: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `1`
 
 ## Headlines
 
 - [macro] Explosion on Russian ship at Libya port caused by suspected drone attack, officials say (BBC News)
+- [macro] Democrats win largest House majority since 1992 after flipping North Carolina seat (BBC News)
 - [crypto] More on the pending oversight hearings: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] Russia-bound ship towed away after it was attacked in Gulf of Finland (BBC News)
-- [crypto] The future of onchain FX could start with users, not institutional liquidity (Cointelegraph.com News)
