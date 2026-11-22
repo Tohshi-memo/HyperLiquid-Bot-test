@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T11:22:31.534984+00:00`
-- Market context score: `36.44`
-- News risk score: `50.73`
-- Macro risk score: `17.45`
-- Risk-on score: `8.18`
-- Articles: `14`
+- Generated: `2026-11-22T11:37:38.217187+00:00`
+- Market context score: `39.22`
+- News risk score: `45.5`
+- Macro risk score: `22.0`
+- Risk-on score: `11.67`
+- Articles: `16`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T11:15:00+00:00`
+- Day/swing latest: `2026-11-22T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- crypto: articles `4`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
+- macro: articles `11`, risk hits `2`, risk headline rate `0.1818`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Russia-bound ship still on fire after attack in Gulf of Finland (BBC News)
 - [crypto] Bitcoin briefly drops to $17K on Kraken, exchange upholds trades (Cointelegraph.com News)
 - [macro] South Korea education minister resigns over exam cheating scandal (BBC News)
 - [crypto] South Korean exchanges halt CYBER transfers amid suspected bridge exploit (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Italian jeweller and businessman Paolo Bulgari dies aged 89 (BBC News)
 - [macro] Three killed and dozens missing after fire at Indonesian factory (BBC News)
 - [commodity] Quantum computing’s first real-world payoff may come in energy, not drug discovery (Energy)
-- [crypto] Chainflip confirms $12M hack, offers attacker 10% bounty (Cointelegraph.com News)
-- [macro] Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out (BBC News)
