@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T16:22:27.801158+00:00`
+- Generated: `2026-11-22T16:37:31.995962+00:00`
 - Market context score: `35.14`
 - News risk score: `49.5`
 - Macro risk score: `30.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T16:15:00+00:00`
+- Day/swing latest: `2026-11-22T16:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Explosion on Russian ship at Libya port likely caused by drone attack, officials say (BBC News)
+- [macro] Explosion on Russian ship at Libya port caused by suspected drone attack, officials say (BBC News)
 - [crypto] The future of onchain FX could start with users, not institutional liquidity (Cointelegraph.com News)
 - [macro] Three killed and dozens missing after fire at Indonesian factory (BBC News)
 - [crypto] Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
