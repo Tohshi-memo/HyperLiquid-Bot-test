@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-22T01:55:30.310096+00:00`
+- Generated: `2026-11-22T02:00:28.971362+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8031229.41`
-- Polymarket volume z-score: `-0.7`
+- Polymarket 24h volume: `7691059.25`
+- Polymarket volume z-score: `-0.83`
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `647561.7443289998` | liquidity: `254326.67006`
-- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `616517.389928` | liquidity: `82238.1282`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `509896.2880210001` | liquidity: `519151.8435`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `414351.3305720001` | liquidity: `44331.51086`
-- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `528120.47293`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `291837.98604000005` | liquidity: `936678.0589`
-- Will Ethereum dip to $1,500 by December 31, 2026? | 24h volume: `233961.499316` | liquidity: `58152.59808`
-- Will Bitcoin dip to $50,000 by December 31, 2026? | 24h volume: `222990.08773699997` | liquidity: `107201.58558`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `647018.074329` | liquidity: `253379.78022`
+- Will Bitcoin dip to $55,000 by December 31, 2026? | 24h volume: `614944.2096` | liquidity: `81981.2067`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `467069.2130889998` | liquidity: `498570.50118`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `418302.70993500005` | liquidity: `48144.2013`
+- Will Vivek Ramaswamy win the 2028 Republican presidential nomination? | 24h volume: `374451.24` | liquidity: `529746.78641`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `283266.38937` | liquidity: `949073.1615`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `237898.459816` | liquidity: `253449.4051`
+- Will Ethereum dip to $1,500 by December 31, 2026? | 24h volume: `233961.499316` | liquidity: `54508.66474`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
