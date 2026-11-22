@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T19:30:01.071764+00:00`
-- Market context score: `53.91`
-- News risk score: `36.17`
+- Generated: `2026-11-22T19:37:26.780815+00:00`
+- Market context score: `55.44`
+- News risk score: `33.92`
 - Macro risk score: `25.85`
-- Risk-on score: `37.88`
-- Articles: `17`
+- Risk-on score: `39.38`
+- Articles: `18`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -23,11 +23,12 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
+- crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 - macro: articles `12`, risk hits `2`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] More on the pending oversight hearings: State of Crypto (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Explosion on Russian ship at Libya port caused by suspected drone attack, officials say (BBC News)
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] Russia-bound ship towed away after it was attacked in Gulf of Finland (BBC News)
 - [crypto] The future of onchain FX could start with users, not institutional liquidity (Cointelegraph.com News)
-- [macro] Three killed and dozens missing after fire at Indonesian factory (BBC News)
