@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T22:37:23.002345+00:00`
+- Generated: `2026-11-22T22:52:28.359782+00:00`
 - Market context score: `53.32`
 - News risk score: `37.06`
 - Macro risk score: `27.32`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T22:30:00+00:00`
+- Day/swing latest: `2026-11-22T22:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
+- [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] Miley Cyrus marries Maxx Morando in California ceremony (BBC News)
 - [macro] Explosion on Russian ship at Libya port caused by suspected drone attack, officials say (BBC News)
 - [macro] Democrats win largest House majority since 1992 after flipping North Carolina seat (BBC News)
@@ -36,5 +38,3 @@
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
 - [macro] US Army to detonate tonnes of unstable explosives in Iowa despite court order (BBC News)
 - [macro] COP31 fails to reach major climate deal as talks expose deep divisions (BBC News)
-- [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
-- [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
