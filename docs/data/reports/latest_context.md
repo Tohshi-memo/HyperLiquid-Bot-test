@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-22T15:52:26.727038+00:00`
-- Market context score: `37.52`
-- News risk score: `47.17`
-- Macro risk score: `25.33`
-- Risk-on score: `10.56`
-- Articles: `15`
+- Generated: `2026-11-22T16:07:23.964493+00:00`
+- Market context score: `35.14`
+- News risk score: `49.5`
+- Macro risk score: `30.0`
+- Risk-on score: `9.0`
+- Articles: `16`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-22T15:45:00+00:00`
+- Day/swing latest: `2026-11-22T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `6`, risk hits `4`, risk headline rate `0.5`, policy hits `0`
-- macro: articles `7`, risk hits `1`, risk headline rate `0.1429`, policy hits `0`
+- macro: articles `8`, risk hits `2`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
+- [macro] Explosion on Russian ship at Libya port likely caused by drone attack, officials say (BBC News)
 - [crypto] The future of onchain FX could start with users, not institutional liquidity (Cointelegraph.com News)
 - [macro] Three killed and dozens missing after fire at Indonesian factory (BBC News)
 - [crypto] Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Russia-bound ship still on fire after attack in Gulf of Finland (BBC News)
 - [crypto] Bitcoin briefly drops to $17K on Kraken, exchange upholds trades (Cointelegraph.com News)
 - [macro] South Korea education minister resigns over exam cheating scandal (BBC News)
-- [crypto] South Korean exchanges halt CYBER transfers amid suspected bridge exploit (Cointelegraph.com News)
