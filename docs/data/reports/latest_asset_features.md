@@ -2,8 +2,8 @@
 
 Individual asset screen for drilling down from class-level signals.
 
-- Generated: `2026-11-22T18:52:26.542866+00:00`
-- Observed: `2026-11-22T18:45:00+00:00`
+- Generated: `2026-11-22T19:07:28.230859+00:00`
+- Observed: `2026-11-22T19:00:00+00:00`
 - Assets: `1763`
 
 ## Top Activity
@@ -18,13 +18,13 @@ Individual asset screen for drilling down from class-level signals.
 - `@1014` unknown price `0.0002` 4h `0.0` vol `0.0` relationship `market_context_high->@1014_1h`
 - `@1001` unknown price `0.5` 4h `0.0` vol `0.0` relationship `market_context_high->@1001_1h`
 - `@1016` unknown price `0.14401` 4h `0.0` vol `0.0` relationship `market_context_high->@1016_1h`
-- `#237490` unknown price `0.248275` 4h `2876.9185` vol `0.0` relationship `market_context_high->#237490_24h`
+- `#237490` unknown price `0.00835` 4h `-96.6361` vol `0.0` relationship `market_context_high->#237490_24h`
 - `@1017` unknown price `0.00025` 4h `0.0` vol `0.0` relationship `market_context_high->@1017_1h`
 - `#114990` unknown price `0.017695` 4h `0.0283` vol `0.0` relationship `market_context_high->#114990_24h`
-- `#430330` unknown price `0.97554` 4h `18.7496` vol `0.0` relationship `news_risk_high->#430330_4h`
+- `#430330` unknown price `0.987125` 4h `13.2661` vol `0.0` relationship `news_risk_high->#430330_4h`
 - `#379200` unknown price `0.022645` 4h `0.0` vol `0.0` relationship `market_context_high->#379200_4h`
-- `#379171` unknown price `0.966375` 4h `0.5091` vol `0.0` relationship `market_context_high->#379171_24h`
+- `#379171` unknown price `0.966375` 4h `0.2469` vol `0.0` relationship `market_context_high->#379171_24h`
 - `#114980` unknown price `0.036395` 4h `-0.2193` vol `0.0` relationship `market_context_high->#114980_24h`
-- `#237440` unknown price `0.25939` 4h `1.1366` vol `0.0` relationship `market_context_high->#237440_24h`
+- `#237440` unknown price `0.246785` 4h `-3.9915` vol `0.0` relationship `market_context_high->#237440_24h`
 - `#399090` unknown price `0.031455` 4h `-7.5397` vol `0.0` relationship `market_context_high->#399090_4h`
 - `#399101` unknown price `0.89976` 4h `0.1553` vol `0.0` relationship `market_context_high->#399101_24h`
