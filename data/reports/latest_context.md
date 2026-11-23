@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T14:22:28.279859+00:00`
+- Generated: `2026-11-23T14:37:28.616664+00:00`
 - Market context score: `51.14`
 - News risk score: `43.53`
 - Macro risk score: `29.6`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T14:15:00+00:00`
+- Day/swing latest: `2026-11-23T14:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Presidential villa suffers water and power cuts, Nigerian leader says (BBC News)
 - [crypto] Jensen Huang returns as Nvidia CEO as shares jump 27% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] OKX, ICE launch 113 tokenized assets despite issuer objections (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks (Cointelegraph.com News)
 - [crypto] AI agents are using credit cards. Where does that leave crypto? (Cointelegraph.com News)
 - [macro] Mexican soldiers attacked in wake of drug lord's arrest (BBC News)
-- [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
