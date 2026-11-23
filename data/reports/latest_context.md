@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T14:07:45.691504+00:00`
-- Market context score: `52.05`
-- News risk score: `43.85`
-- Macro risk score: `29.66`
-- Risk-on score: `41.67`
-- Articles: `47`
-- Polymarket markets: `393`
+- Generated: `2026-11-23T14:22:28.279859+00:00`
+- Market context score: `51.14`
+- News risk score: `43.53`
+- Macro risk score: `29.6`
+- Risk-on score: `39.36`
+- Articles: `48`
+- Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T14:00:00+00:00`
+- Day/swing latest: `2026-11-23T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `27`, risk hits `10`, risk headline rate `0.3333`, policy hits `6`
+- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `6`
 - macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Jensen Huang returns as Nvidia CEO as shares jump 27% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] OKX, ICE launch 113 tokenized assets despite issuer objections (Cointelegraph.com News)
 - [crypto] Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Trump-linked American Bitcoin secures $150M credit line from FalconX (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] AI agents are using credit cards. Where does that leave crypto? (Cointelegraph.com News)
 - [macro] Mexican soldiers attacked in wake of drug lord's arrest (BBC News)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
-- [commodity] ‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels (Energy)
-- [crypto] Critics of Netflix’s FTX drama point to Obama’s producer credit (Cointelegraph.com News)
