@@ -1,25 +1,25 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-23T19:05:30.490638+00:00`
-- Flow alert score: `21.52`
+- Generated: `2026-11-23T19:10:37.842129+00:00`
+- Flow alert score: `21.76`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
 - Large USDC tx count: `0`
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `13218830.16`
-- Polymarket volume z-score: `1.13`
+- Polymarket 24h volume: `13407445.14`
+- Polymarket volume z-score: `1.19`
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `3878572.694978` | liquidity: `161143.69778`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `976598.839412` | liquidity: `1012048.12467`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `917467.9472870001` | liquidity: `668052.7257`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `841147.702652` | liquidity: `380792.01195`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `608983.969787` | liquidity: `342397.17366`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `435486.18758500007` | liquidity: `78995.48312`
-- Will Nikki Haley win the 2028 Republican presidential nomination? | 24h volume: `300435.858713` | liquidity: `180359.75042`
-- Will the U.S. invade Iran before 2027? | 24h volume: `250657.66066300002` | liquidity: `299693.9645`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `3879640.915685999` | liquidity: `556047.58967`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `976858.8394120001` | liquidity: `1011998.12467`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `917727.9472869998` | liquidity: `665751.3326`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `841165.727354` | liquidity: `385660.63921`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `609443.969787` | liquidity: `343708.4359`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `443326.537585` | liquidity: `84485.68732`
+- Will Nikki Haley win the 2028 Republican presidential nomination? | 24h volume: `300435.858713` | liquidity: `180935.95042`
+- Will the U.S. invade Iran before 2027? | 24h volume: `241767.32066299996` | liquidity: `299694.2392`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
