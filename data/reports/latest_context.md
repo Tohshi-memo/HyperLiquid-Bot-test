@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T09:52:37.958462+00:00`
-- Market context score: `45.28`
-- News risk score: `37.38`
-- Macro risk score: `22.39`
-- Risk-on score: `18.42`
-- Articles: `30`
-- Polymarket markets: `390`
+- Generated: `2026-11-23T10:07:35.359798+00:00`
+- Market context score: `45.52`
+- News risk score: `37.11`
+- Macro risk score: `21.89`
+- Risk-on score: `18.55`
+- Articles: `31`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T09:45:00+00:00`
+- Day/swing latest: `2026-11-23T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `5`
-- macro: articles `16`, risk hits `1`, risk headline rate `0.0625`, policy hits `1`
+- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `1`
 
 ## Headlines
 
+- [macro] Catering giant to switch stock market listing to US in further blow to UK (BBC News)
 - [crypto] U.S. inflation, Thanksgiving trading: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
 - [crypto] ‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin ETFs shed $1.8B in third-largest weekly outflow (Cointelegraph.com News)
 - [macro] Poundland is facing collapse - what's gone wrong? (BBC News)
 - [crypto] Crypto thieves are using online ads to infect iPhones with a single tap, research finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
