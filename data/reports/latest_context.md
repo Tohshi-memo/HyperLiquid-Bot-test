@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T20:37:25.410646+00:00`
-- Market context score: `49.44`
-- News risk score: `44.48`
-- Macro risk score: `21.47`
-- Risk-on score: `33.32`
-- Articles: `63`
+- Generated: `2026-11-23T20:52:45.139106+00:00`
+- Market context score: `47.82`
+- News risk score: `46.66`
+- Macro risk score: `23.15`
+- Risk-on score: `32.19`
+- Articles: `65`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T20:30:00+00:00`
+- Day/swing latest: `2026-11-23T20:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `34`, risk hits `14`, risk headline rate `0.3529`, policy hits `2`
-- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
+- crypto: articles `35`, risk hits `15`, risk headline rate `0.3714`, policy hits `2`
+- macro: articles `28`, risk hits `5`, risk headline rate `0.1786`, policy hits `1`
 
 ## Headlines
 
+- [macro] What strike on Russian ship in Libya says about spread of Ukraine war (BBC News)
+- [crypto] Kalshi secures temporary win in New York gambling law dispute (Cointelegraph.com News)
 - [macro] Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China (Economy)
 - [crypto] BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn (Cointelegraph.com News)
 - [crypto] Base makes quantum security a 2027 priority as regulators warn of risks (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Iranian authorities flog singer who performed without hijab, lawyers say (BBC News)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
 - [macro] Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns (BBC News)
-- [crypto] Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks (Cointelegraph.com News)
-- [crypto] Bitcoin rebound already losing steam as AI trade returns with a bang (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
