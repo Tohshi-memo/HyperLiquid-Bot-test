@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T16:52:27.616143+00:00`
-- Market context score: `50.59`
-- News risk score: `42.12`
-- Macro risk score: `24.25`
-- Risk-on score: `34.92`
-- Articles: `55`
-- Polymarket markets: `392`
+- Generated: `2026-11-23T17:07:42.491596+00:00`
+- Market context score: `50.31`
+- News risk score: `43.33`
+- Macro risk score: `23.32`
+- Risk-on score: `34.98`
+- Articles: `58`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T16:45:00+00:00`
+- Day/swing latest: `2026-11-23T17:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `32`, risk hits `11`, risk headline rate `0.3125`, policy hits `3`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `1`
+- crypto: articles `33`, risk hits `12`, risk headline rate `0.3333`, policy hits `3`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations (Cointelegraph.com News)
+- [macro] Trump says he 'convinced' Nvidia to reinstate Jensen Huang (BBC News)
 - [crypto] Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Cross River Bank enters Bitcoin-backed lending with $250K loans (Cointelegraph.com News)
 - [macro] How important are Nvidia and Jensen Huang to the US economy? (BBC News)
@@ -36,5 +38,3 @@
 - [macro] The rise and fall and rise again of Jensen Huang (BBC News)
 - [macro] Russian warship hit by Ukrainian drones in Libya, Zelensky says (BBC News)
 - [macro] Nvidia shares up 30% and tech stocks rally after Jensen Huang returns (BBC News)
-- [crypto] Binance hackers push $247 million through transactions designed to cloud the source (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
