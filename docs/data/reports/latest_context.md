@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T06:07:25.596039+00:00`
-- Market context score: `46.51`
-- News risk score: `35.75`
-- Macro risk score: `21.2`
-- Risk-on score: `19.32`
-- Articles: `26`
+- Generated: `2026-11-23T06:22:28.582758+00:00`
+- Market context score: `48.53`
+- News risk score: `32.77`
+- Macro risk score: `20.99`
+- Risk-on score: `21.23`
+- Articles: `28`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T06:00:00+00:00`
+- Day/swing latest: `2026-11-23T06:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `4`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `4`
 - macro: articles `18`, risk hits `1`, risk headline rate `0.0556`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Cardano holders are turning down a $4 million request for running its flagship event (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
 - [macro] What's next after no deal at COP31 climate talks? (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Market rout kills 50 basis points December Fed rate hike bets (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
 - [commodity] Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year (Energy)
-- [crypto] Trump renews call for Nvidia to rehire Jensen Huang as CEO (Cointelegraph.com News)
-- [macro] Explosion on Russian ship at Libya port caused by suspected drone attack, officials say (BBC News)
