@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-23T02:10:27.554639+00:00`
+- Generated: `2026-11-23T02:15:30.045498+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `399588.33786800003` | liquidity: `64084.13272`
-- Will Josh Hawley win the 2028 Republican presidential nomination? | 24h volume: `371992.008719` | liquidity: `163946.01979`
-- Will the U.S. invade Iran before 2027? | 24h volume: `302657.605549` | liquidity: `278197.6033`
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `279454.22344100004` | liquidity: `104758.64573`
-- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `221104.19087299996` | liquidity: `311195.31157`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `201824.475633` | liquidity: `215232.76561`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `193299.558512` | liquidity: `395454.84007`
-- Israel x Iran ceasefire continues through November 30? | 24h volume: `174380.33381399998` | liquidity: `55725.5441`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `399588.33786800003` | liquidity: `64029.69583`
+- Will Josh Hawley win the 2028 Republican presidential nomination? | 24h volume: `371992.008719` | liquidity: `163852.33379`
+- Will the U.S. invade Iran before 2027? | 24h volume: `302657.605549` | liquidity: `279825.5093`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `279454.22344100004` | liquidity: `114615.29412`
+- Will Jensen Huang rejoin NVIDIA by November 30, 2026? | 24h volume: `221104.19087299996` | liquidity: `308352.94202`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `201824.475633` | liquidity: `215357.42497`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `193299.558512` | liquidity: `395330.33496`
+- Israel x Iran ceasefire continues through November 30? | 24h volume: `174380.33381399998` | liquidity: `56627.6609`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
