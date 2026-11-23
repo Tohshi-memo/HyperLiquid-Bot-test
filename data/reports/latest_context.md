@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T10:52:32.982945+00:00`
-- Market context score: `48.91`
-- News risk score: `38.16`
-- Macro risk score: `24.03`
-- Risk-on score: `27.77`
-- Articles: `33`
+- Generated: `2026-11-23T11:07:29.945802+00:00`
+- Market context score: `49.62`
+- News risk score: `37.12`
+- Macro risk score: `23.94`
+- Risk-on score: `28.43`
+- Articles: `34`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T10:45:00+00:00`
+- Day/swing latest: `2026-11-23T11:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `5`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `5`
 - macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `1`
 
 ## Headlines
 
 - [macro] Capita shares plunge and boss steps down as civil service pensions saga drags on (BBC News)
+- [crypto] South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin breaks a record streak of 'lower highs.' Here's what it means (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South East Water reports loss after supply issues (BBC News)
 - [commodity] ‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels (Energy)
 - [macro] Poundland is facing collapse - what's gone wrong? (BBC News)
-- [macro] Catering giant to switch stock market listing to US in further blow to UK (BBC News)
+- [macro] Catering giant to switch main share listing to US in further blow to UK (BBC News)
 - [crypto] U.S. inflation, Thanksgiving trading: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
 - [crypto] ‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones (Cointelegraph.com News)
-- [macro] Kenya and DR Congo agree to restore ties after tensions over conflict (BBC News)
