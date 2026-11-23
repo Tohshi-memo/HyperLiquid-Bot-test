@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T18:22:32.256445+00:00`
-- Market context score: `49.28`
-- News risk score: `44.72`
-- Macro risk score: `21.86`
-- Risk-on score: `33.32`
+- Generated: `2026-11-23T18:37:28.956736+00:00`
+- Market context score: `49.44`
+- News risk score: `44.42`
+- Macro risk score: `22.16`
+- Risk-on score: `33.52`
 - Articles: `63`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T18:15:00+00:00`
+- Day/swing latest: `2026-11-23T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `34`, risk hits `13`, risk headline rate `0.3529`, policy hits `3`
-- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
+- crypto: articles `35`, risk hits `13`, risk headline rate `0.3429`, policy hits `3`
+- macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `1`
 
 ## Headlines
 
+- [crypto] New York judge declines to block Kalshi from operating in the state for now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iranian authorities flog singer who performed without hijab, lawyers say (BBC News)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
@@ -37,4 +38,3 @@
 - [macro] What failure of COP31 reveals about a divided world (BBC News)
 - [macro] Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner (BBC News)
 - [macro] Faisal Islam: Why Jensen Huang proved too big to fire (BBC News)
-- [macro] Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says (BBC News)
