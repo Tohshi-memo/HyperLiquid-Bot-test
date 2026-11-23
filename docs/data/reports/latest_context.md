@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T15:37:30.264209+00:00`
-- Market context score: `47.83`
-- News risk score: `44.36`
-- Macro risk score: `28.74`
-- Risk-on score: `32.38`
-- Articles: `51`
+- Generated: `2026-11-23T15:52:31.651546+00:00`
+- Market context score: `50.76`
+- News risk score: `42.9`
+- Macro risk score: `25.31`
+- Risk-on score: `36.36`
+- Articles: `52`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T15:30:00+00:00`
+- Day/swing latest: `2026-11-23T15:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
+- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `30`, risk hits `11`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `1`
+- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
 
 ## Headlines
 
+- [macro] The rise and fall and rise again of Jensen Huang (BBC News)
+- [macro] The rise and fall and rise again of Jensen Huang (BBC News)
+- [macro] Russian warship hit by Ukrainian drones in Libya, Zelensky says (BBC News)
+- [macro] Nvidia shares up 30% and tech stocks rally after Jensen Huang returns (BBC News)
 - [crypto] Binance hackers push $247 million through transactions designed to cloud the source (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How important are Nvidia and Jensen Huang to the US economy? (BBC News)
 - [crypto] Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mexican soldiers attacked in wake of drug lord's arrest (BBC News)
 - [crypto] Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe (Cointelegraph.com News)
 - [crypto] Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Presidential villa suffers water and power cuts, Nigerian leader says (BBC News)
-- [crypto] Jensen Huang returns as Nvidia CEO as shares jump 27% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] OKX, ICE launch 113 tokenized assets despite issuer objections (Cointelegraph.com News)
