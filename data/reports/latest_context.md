@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T14:37:28.616664+00:00`
-- Market context score: `51.14`
-- News risk score: `43.53`
-- Macro risk score: `29.6`
-- Risk-on score: `39.36`
-- Articles: `48`
+- Generated: `2026-11-23T14:52:33.302140+00:00`
+- Market context score: `50.66`
+- News risk score: `41.69`
+- Macro risk score: `29.55`
+- Risk-on score: `36.72`
+- Articles: `49`
 - Polymarket markets: `394`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T14:30:00+00:00`
+- Day/swing latest: `2026-11-23T14:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `28`, risk hits `10`, risk headline rate `0.3214`, policy hits `6`
+- crypto: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `5`
 - macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe (Cointelegraph.com News)
+- [crypto] Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Presidential villa suffers water and power cuts, Nigerian leader says (BBC News)
 - [crypto] Jensen Huang returns as Nvidia CEO as shares jump 27% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] Trump-linked American Bitcoin secures $150M credit line from FalconX (Cointelegraph.com News)
 - [macro] Flights and train services cancelled in Belgium due to strike (BBC News)
 - [crypto] Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks (Cointelegraph.com News)
-- [crypto] AI agents are using credit cards. Where does that leave crypto? (Cointelegraph.com News)
-- [macro] Mexican soldiers attacked in wake of drug lord's arrest (BBC News)
