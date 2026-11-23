@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T08:22:37.655462+00:00`
-- Market context score: `46.5`
-- News risk score: `35.68`
-- Macro risk score: `22.11`
-- Risk-on score: `19.6`
+- Generated: `2026-11-23T08:37:26.031452+00:00`
+- Market context score: `48.2`
+- News risk score: `34.01`
+- Macro risk score: `18.78`
+- Risk-on score: `20.71`
 - Articles: `29`
-- Polymarket markets: `390`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T08:15:00+00:00`
+- Day/swing latest: `2026-11-23T08:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `5`
-- macro: articles `17`, risk hits `1`, risk headline rate `0.0588`, policy hits `1`
+- macro: articles `17`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Russian ships hit by Ukrainian drones off Libya coast, Zelensky says (BBC News)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
 - [macro] Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' (BBC News)
 - [crypto] Bitcoin ETFs shed $1.8B in third-largest weekly outflow (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Cardano holders are turning down a $4 million request for running its flagship event (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] What's next after no deal at COP31 climate talks? (BBC News)
