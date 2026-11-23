@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-23T19:10:37.842129+00:00`
+- Generated: `2026-11-23T19:15:29.088682+00:00`
 - Flow alert score: `21.76`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `3879640.915685999` | liquidity: `556047.58967`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `976858.8394120001` | liquidity: `1011998.12467`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `917727.9472869998` | liquidity: `665751.3326`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `841165.727354` | liquidity: `385660.63921`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `609443.969787` | liquidity: `343708.4359`
-- Israel x Iran ceasefire continues through November 22? | 24h volume: `443326.537585` | liquidity: `84485.68732`
-- Will Nikki Haley win the 2028 Republican presidential nomination? | 24h volume: `300435.858713` | liquidity: `180935.95042`
-- Will the U.S. invade Iran before 2027? | 24h volume: `241767.32066299996` | liquidity: `299694.2392`
+- Will there be no new be CEO of NVIDIA by December 31, 2028? | 24h volume: `3879640.915685999` | liquidity: `555877.14029`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `976858.8394120001` | liquidity: `1012416.45529`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `917727.9472869998` | liquidity: `632188.1322`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `841165.727354` | liquidity: `394139.45954`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `609443.969787` | liquidity: `349964.63555`
+- Israel x Iran ceasefire continues through November 22? | 24h volume: `443326.537585` | liquidity: `84495.92043`
+- Will Nikki Haley win the 2028 Republican presidential nomination? | 24h volume: `300435.858713` | liquidity: `184708.98113`
+- Will the U.S. invade Iran before 2027? | 24h volume: `241767.32066299996` | liquidity: `304356.6046`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
