@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T01:22:27.493127+00:00`
-- Market context score: `47.97`
-- News risk score: `32.65`
-- Macro risk score: `23.09`
-- Risk-on score: `20.67`
-- Articles: `23`
+- Generated: `2026-11-23T01:37:29.982393+00:00`
+- Market context score: `49.45`
+- News risk score: `31.21`
+- Macro risk score: `20.2`
+- Risk-on score: `21.65`
+- Articles: `22`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T01:15:00+00:00`
+- Day/swing latest: `2026-11-23T01:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `5`, risk hits `1`, risk headline rate `0.2`, policy hits `0`
 - macro: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `1`
 
 ## Headlines
 
+- [macro] Democrats win largest House majority since 1992 after flipping North Carolina seat (BBC News)
 - [macro] Energy bills will soar - here's how you can ease the pain (BBC News)
 - [crypto] Half of wallets on Trump’s dinner list got tokens from non-US exchanges (Cointelegraph.com News)
 - [macro] COP31 fails to reach major climate deal as talks expose deep divisions (BBC News)
@@ -36,5 +36,4 @@
 - [macro] What is going on with Poundland? (BBC News)
 - [macro] San Francisco is enjoying an AI boom, but worries about a crash are growing (BBC News)
 - [crypto] Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest (Cointelegraph.com News)
-- [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
