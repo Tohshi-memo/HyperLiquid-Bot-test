@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T12:52:26.717395+00:00`
-- Market context score: `50.98`
-- News risk score: `40.82`
-- Macro risk score: `27.13`
-- Risk-on score: `35.79`
-- Articles: `40`
+- Generated: `2026-11-23T13:07:34.129756+00:00`
+- Market context score: `50.6`
+- News risk score: `41.21`
+- Macro risk score: `27.9`
+- Risk-on score: `35.56`
+- Articles: `39`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T12:45:00+00:00`
+- Day/swing latest: `2026-11-23T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
 - crypto: articles `21`, risk hits `8`, risk headline rate `0.3333`, policy hits `5`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `1`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `1`
 
 ## Headlines
 
+- [macro] Democrats win largest House majority since 1992 after flipping North Carolina seat (BBC News)
+- [crypto] Live news: Tech futures rebound more than 3% as dollar index tops 104, a 20-month high (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Presidential villa suffers water and power cuts, Nigerian leader says (BBC News)
 - [crypto] Bitcoin's losing streak is second-longest ever, and some observers see more downside (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Flights and train services cancelled in Belgium due to strike (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says (BBC News)
 - [crypto] Bitcoin rebounds from 2-year low as Wall Street futures recover (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] ECB to let banks pledge more tokenized securities as collateral (Cointelegraph.com News)
-- [macro] Russian warship hit by Ukrainian drones in Libya, Zelensky says (BBC News)
-- [macro] Ukraine shares video of strikes on Russian ships off Libya (BBC News)
