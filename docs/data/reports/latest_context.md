@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T00:37:25.875002+00:00`
+- Generated: `2026-11-23T00:52:31.869607+00:00`
 - Market context score: `46.42`
 - News risk score: `34.93`
 - Macro risk score: `23.14`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T00:30:00+00:00`
+- Day/swing latest: `2026-11-23T00:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] COP31 fails to reach major climate deal as talks expose deep divisions (BBC News)
 - [macro] Italian jeweller and businessman Paolo Bulgari dies aged 89 (BBC News)
 - [macro] Italian jeweller and businessman Paolo Bulgari dies aged 89 (BBC News)
 - [macro] What is going on with Poundland? (BBC News)
@@ -37,4 +38,3 @@
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes (BBC News)
 - [macro] Miley Cyrus marries Maxx Morando in California ceremony (BBC News)
-- [macro] Explosion on Russian ship at Libya port caused by suspected drone attack, officials say (BBC News)
