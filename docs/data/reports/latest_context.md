@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T15:52:31.651546+00:00`
-- Market context score: `50.76`
-- News risk score: `42.9`
-- Macro risk score: `25.31`
-- Risk-on score: `36.36`
-- Articles: `52`
-- Polymarket markets: `394`
+- Generated: `2026-11-23T16:07:28.843937+00:00`
+- Market context score: `51.01`
+- News risk score: `42.64`
+- Macro risk score: `25.27`
+- Risk-on score: `36.69`
+- Articles: `53`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T15:45:00+00:00`
+- Day/swing latest: `2026-11-23T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `30`, risk hits `11`, risk headline rate `0.3333`, policy hits `5`
+- crypto: articles `31`, risk hits `11`, risk headline rate `0.3226`, policy hits `5`
 - macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
 
 ## Headlines
 
-- [macro] The rise and fall and rise again of Jensen Huang (BBC News)
+- [crypto] How market depth shapes the price of a weekend Bitcoin sale (Cointelegraph.com News)
 - [macro] The rise and fall and rise again of Jensen Huang (BBC News)
 - [macro] Russian warship hit by Ukrainian drones in Libya, Zelensky says (BBC News)
 - [macro] Nvidia shares up 30% and tech stocks rally after Jensen Huang returns (BBC News)
