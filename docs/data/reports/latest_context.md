@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T11:22:29.394533+00:00`
-- Market context score: `49.62`
-- News risk score: `37.12`
-- Macro risk score: `23.94`
-- Risk-on score: `28.43`
-- Articles: `34`
+- Generated: `2026-11-23T11:37:27.521156+00:00`
+- Market context score: `51.25`
+- News risk score: `34.71`
+- Macro risk score: `23.7`
+- Risk-on score: `29.94`
+- Articles: `37`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T11:15:00+00:00`
+- Day/swing latest: `2026-11-23T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `14`, risk hits `4`, risk headline rate `0.2857`, policy hits `5`
+- crypto: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `5`
 - macro: articles `18`, risk hits `2`, risk headline rate `0.1111`, policy hits `1`
 
 ## Headlines
 
-- [macro] Capita shares plunge and boss steps down as civil service pensions saga drags on (BBC News)
+- [crypto] Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Flights grounded in Belgium due to strike against austerity measures (BBC News)
+- [macro] Russian warship hit by Ukrainian drones in Libya, Zelensky says (BBC News)
+- [macro] Capita shares plunge 70% as boss quits after civil service pensions failure (BBC News)
+- [crypto] BTC price gains 12% from $55K: Three things to know in Bitcoin this week (Cointelegraph.com News)
 - [crypto] South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin breaks a record streak of 'lower highs.' Here's what it means (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] South East Water reports loss after supply issues (BBC News)
 - [commodity] ‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels (Energy)
-- [macro] Poundland is facing collapse - what's gone wrong? (BBC News)
-- [macro] Catering giant to switch main share listing to US in further blow to UK (BBC News)
-- [crypto] U.S. inflation, Thanksgiving trading: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
-- [crypto] ‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones (Cointelegraph.com News)
