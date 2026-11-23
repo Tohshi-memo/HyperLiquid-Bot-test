@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T19:07:33.689505+00:00`
-- Market context score: `49.44`
-- News risk score: `44.42`
-- Macro risk score: `22.16`
-- Risk-on score: `33.52`
+- Generated: `2026-11-23T19:22:39.350138+00:00`
+- Market context score: `50.34`
+- News risk score: `43.16`
+- Macro risk score: `21.47`
+- Risk-on score: `34.2`
 - Articles: `63`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T19:00:00+00:00`
+- Day/swing latest: `2026-11-23T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `35`, risk hits `13`, risk headline rate `0.3429`, policy hits `3`
-- macro: articles `26`, risk hits `4`, risk headline rate `0.1538`, policy hits `1`
+- crypto: articles `34`, risk hits `12`, risk headline rate `0.3235`, policy hits `2`
+- macro: articles `27`, risk hits `4`, risk headline rate `0.1481`, policy hits `1`
 
 ## Headlines
 
+- [macro] Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China (Economy)
 - [crypto] New York judge declines to block Kalshi from operating in the state for now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iranian authorities flog singer who performed without hijab, lawyers say (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin rebound already losing steam as AI trade returns with a bang (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] What failure of COP31 reveals about a divided world (BBC News)
 - [macro] Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner (BBC News)
-- [macro] Faisal Islam: Why Jensen Huang proved too big to fire (BBC News)
