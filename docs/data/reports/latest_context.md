@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T17:52:34.249338+00:00`
+- Generated: `2026-11-23T18:07:33.053853+00:00`
 - Market context score: `49.22`
 - News risk score: `44.64`
 - Macro risk score: `22.18`
@@ -17,8 +17,8 @@
 - Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:166, fx:6, index:27, metal:20, unknown:1286`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T17:45:00+00:00`
+- Day/swing records: `None`
+- Day/swing latest: `None`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
 - [macro] Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns (BBC News)
 - [crypto] Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks (Cointelegraph.com News)
 - [crypto] Bitcoin rebound already losing steam as AI trade returns with a bang (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [macro] Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says (BBC News)
 - [crypto] Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations (Cointelegraph.com News)
 - [crypto] Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Cross River Bank enters Bitcoin-backed lending with $250K loans (Cointelegraph.com News)
