@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T21:22:35.426160+00:00`
+- Generated: `2026-11-23T21:37:28.421412+00:00`
 - Market context score: `47.34`
 - News risk score: `46.84`
 - Macro risk score: `21.45`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T21:15:00+00:00`
+- Day/swing latest: `2026-11-23T21:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns (BBC News)
 - [crypto] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack (Cointelegraph.com News)
 - [macro] Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China (Economy)
 - [macro] What strike on Russian ship in Libya says about spread of Ukraine war (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] New York judge declines to block Kalshi from operating in the state for now (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Iranian authorities flog singer who performed without hijab, lawyers say (BBC News)
-- [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
