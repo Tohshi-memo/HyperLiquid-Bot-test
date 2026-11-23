@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T15:22:29.812948+00:00`
-- Market context score: `50.13`
-- News risk score: `42.86`
+- Generated: `2026-11-23T15:37:30.264209+00:00`
+- Market context score: `47.83`
+- News risk score: `44.36`
 - Macro risk score: `28.74`
-- Risk-on score: `36.24`
+- Risk-on score: `32.38`
 - Articles: `51`
 - Polymarket markets: `394`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T15:15:00+00:00`
+- Day/swing latest: `2026-11-23T15:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.3333`, policy hits `0`
-- crypto: articles `30`, risk hits `10`, risk headline rate `0.3`, policy hits `5`
+- crypto: articles `30`, risk hits `11`, risk headline rate `0.3333`, policy hits `5`
 - macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Binance hackers push $247 million through transactions designed to cloud the source (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] How important are Nvidia and Jensen Huang to the US economy? (BBC News)
 - [crypto] Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Mexican soldiers attacked in wake of drug lord's arrest (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Jensen Huang returns as Nvidia CEO as shares jump 27% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] OKX, ICE launch 113 tokenized assets despite issuer objections (Cointelegraph.com News)
-- [crypto] Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
