@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T10:07:35.359798+00:00`
+- Generated: `2026-11-23T10:22:32.197159+00:00`
 - Market context score: `45.52`
 - News risk score: `37.11`
 - Macro risk score: `21.89`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T10:00:00+00:00`
+- Day/swing latest: `2026-11-23T10:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Poundland is facing collapse - what's gone wrong? (BBC News)
 - [macro] Catering giant to switch stock market listing to US in further blow to UK (BBC News)
 - [crypto] U.S. inflation, Thanksgiving trading: Crypto Week Ahead (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Pip assessments need 'fundamental overhaul', report to say (BBC News)
@@ -36,5 +37,4 @@
 - [macro] Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' (BBC News)
 - [macro] Russian ships hit by Ukrainian drones off Libya coast, Zelensky says (BBC News)
 - [crypto] Bitcoin ETFs shed $1.8B in third-largest weekly outflow (Cointelegraph.com News)
-- [macro] Poundland is facing collapse - what's gone wrong? (BBC News)
 - [crypto] Crypto thieves are using online ads to infect iPhones with a single tap, research finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
