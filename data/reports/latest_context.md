@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T17:07:27.826889+00:00`
-- Market context score: `45.91`
-- News risk score: `44.62`
-- Macro risk score: `31.38`
-- Risk-on score: `29.34`
-- Articles: `40`
+- Generated: `2026-11-24T17:22:27.694419+00:00`
+- Market context score: `44.94`
+- News risk score: `45.94`
+- Macro risk score: `29.26`
+- Risk-on score: `27.5`
+- Articles: `42`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T17:00:00+00:00`
+- Day/swing latest: `2026-11-24T17:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `24`, risk hits `9`, risk headline rate `0.375`, policy hits `1`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
+- crypto: articles `24`, risk hits `10`, risk headline rate `0.4167`, policy hits `1`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2778`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price (Cointelegraph.com News)
+- [macro] Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians (BBC News)
+- [macro] Zimbabwean convicted in South Africa of trying to fight in Ukraine (BBC News)
 - [macro] Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight (BBC News)
 - [crypto] How South Korea’s proposed 20% cap could change who runs Upbit (Cointelegraph.com News)
 - [macro] DR Congo says military aircraft missing as rebels claim to shoot down plane (BBC News)
@@ -34,6 +37,3 @@
 - [crypto] 'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli air strike kills Hamas internal security chief in Gaza (BBC News)
 - [macro] Land mine casualties soar in Syria, two years after war (BBC News)
-- [crypto] Anchorage Digital to unveil new asset-management subsidiary (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] USDT buyers face 22% VAT when Moscow Exchange opens crypto trading (Cointelegraph.com News)
