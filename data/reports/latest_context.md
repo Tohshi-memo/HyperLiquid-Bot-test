@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T00:37:28.476245+00:00`
-- Market context score: `44.81`
-- News risk score: `46.67`
-- Macro risk score: `23.04`
-- Risk-on score: `25.47`
+- Generated: `2026-11-24T00:52:38.233051+00:00`
+- Market context score: `44.0`
+- News risk score: `47.76`
+- Macro risk score: `23.44`
+- Risk-on score: `24.74`
 - Articles: `52`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T00:30:00+00:00`
+- Day/swing latest: `2026-11-24T00:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `27`, risk hits `14`, risk headline rate `0.4444`, policy hits `2`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `1`
+- crypto: articles `28`, risk hits `15`, risk headline rate `0.4643`, policy hits `2`
+- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Ethereum Foundation doubles protocol security team ahead of overhaul (Cointelegraph.com News)
 - [crypto] U.S. CFTC sets policies on event contract data, using crypto to check financial boxes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] I pay £250 a month for someone else to do my life admin - it's worth it (BBC News)
 - [crypto] CFTC staff say exchanges can count Bitcoin toward operating reserves (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns (BBC News)
 - [crypto] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack (Cointelegraph.com News)
 - [macro] Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China (Economy)
-- [macro] What strike on Russian ship in Libya says about spread of Ukraine war (BBC News)
