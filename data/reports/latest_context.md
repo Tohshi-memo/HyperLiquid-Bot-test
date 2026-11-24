@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T04:22:31.567470+00:00`
-- Market context score: `43.18`
-- News risk score: `47.6`
+- Generated: `2026-11-24T04:37:28.423463+00:00`
+- Market context score: `44.93`
+- News risk score: `46.29`
 - Macro risk score: `20.57`
-- Risk-on score: `21.7`
-- Articles: `37`
+- Risk-on score: `24.48`
+- Articles: `36`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,20 +18,20 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T04:15:00+00:00`
+- Day/swing latest: `2026-11-24T04:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `16`, risk hits `11`, risk headline rate `0.5625`, policy hits `0`
+- crypto: articles `15`, risk hits `10`, risk headline rate `0.5333`, policy hits `0`
 - macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
 
 ## Headlines
 
+- [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
+- [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
 - [crypto] Google wants to make you the star of your own AI slop movies (Cointelegraph.com News)
 - [macro] Nato chief vows defence against space threat after Russian nuclear satellite reports (BBC News)
 - [macro] How Nvidia is reacting to Jensen Huang's return as CEO (BBC News)
-- [macro] Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal' (BBC News)
-- [macro] Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal' (BBC News)
 - [crypto] Ethereum Foundation doubles protocol security team ahead of overhaul (Cointelegraph.com News)
 - [crypto] U.S. CFTC sets policies on event contract data, using crypto to check financial boxes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] King Charles and Elton John pay tribute to Australian music legend Molly Meldrum (BBC News)
