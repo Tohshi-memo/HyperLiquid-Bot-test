@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T03:52:29.485491+00:00`
-- Market context score: `44.19`
-- News risk score: `46.11`
-- Macro risk score: `20.57`
-- Risk-on score: `22.69`
+- Generated: `2026-11-24T04:07:36.531111+00:00`
+- Market context score: `43.38`
+- News risk score: `47.4`
+- Macro risk score: `20.18`
+- Risk-on score: `21.83`
 - Articles: `38`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T03:45:00+00:00`
+- Day/swing latest: `2026-11-24T04:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `17`, risk hits `11`, risk headline rate `0.5294`, policy hits `0`
-- macro: articles `21`, risk hits `3`, risk headline rate `0.1429`, policy hits `0`
+- crypto: articles `16`, risk hits `11`, risk headline rate `0.5625`, policy hits `0`
+- macro: articles `22`, risk hits `3`, risk headline rate `0.1364`, policy hits `0`
 
 ## Headlines
 
 - [crypto] Google wants to make you the star of your own AI slop movies (Cointelegraph.com News)
+- [macro] Nato chief vows defence against space threat after Russian nuclear satellite reports (BBC News)
 - [macro] How Nvidia is reacting to Jensen Huang's return as CEO (BBC News)
 - [macro] Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal' (BBC News)
 - [macro] Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal' (BBC News)
@@ -36,4 +37,3 @@
 - [macro] King Charles and Elton John pay tribute to Australian music legend Molly Meldrum (BBC News)
 - [macro] Dad who discovered daughter's murder on Facebook feels ignored by South African police (BBC News)
 - [macro] I pay £250 a month for someone else to do my life admin - it's worth it (BBC News)
-- [crypto] CFTC staff say exchanges can count Bitcoin toward operating reserves (Cointelegraph.com News)
