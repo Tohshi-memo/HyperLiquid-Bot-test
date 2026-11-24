@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T09:37:47.798966+00:00`
+- Generated: `2026-11-24T09:52:27.316604+00:00`
 - Market context score: `45.75`
 - News risk score: `43.73`
 - Macro risk score: `29.12`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T09:30:00+00:00`
+- Day/swing latest: `2026-11-24T09:45:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,8 @@
 
 ## Headlines
 
+- [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
+- [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
 - [crypto] Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s (Cointelegraph.com News)
 - [macro] Watch: Moment troops raid home and capture Mexican drug lord (BBC News)
 - [macro] DR Congo says aircraft missing as rebels claim to shoot down plane (BBC News)
@@ -36,5 +38,3 @@
 - [macro] Why France is at risk of recession — and what could keep it out of one (Economy)
 - [macro] Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] India's 'cockroach' party leader says he was stopped from flying to UK (BBC News)
-- [crypto] Why 42 Macro says it’s waiting to buy the Bitcoin dip (Cointelegraph.com News)
