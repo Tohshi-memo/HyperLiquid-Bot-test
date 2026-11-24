@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-24T03:25:31.115919+00:00`
+- Generated: `2026-11-24T03:30:33.653748+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1095064.028982` | liquidity: `1059031.50172`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1051691.6817409997` | liquidity: `902839.8896`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1044754.7666470002` | liquidity: `450714.20079`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `676716.1563220001` | liquidity: `483064.4751`
-- Will Josh Shapiro win the 2028 Democratic presidential nomination? | 24h volume: `400737.99756299995` | liquidity: `437580.10357`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `347787.73833300004` | liquidity: `305742.61492`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `274151.274281` | liquidity: `440817.11147`
-- Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | 24h volume: `247938.67064599998` | liquidity: `397333.86115`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1095064.028982` | liquidity: `1059494.4669`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1051691.6817409997` | liquidity: `903350.7317`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1044754.7666470002` | liquidity: `464575.66065`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `676716.1563220001` | liquidity: `483974.63981`
+- Will Josh Shapiro win the 2028 Democratic presidential nomination? | 24h volume: `400737.99756299995` | liquidity: `436927.44949`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `347787.73833300004` | liquidity: `305869.57009`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `274151.274281` | liquidity: `446595.0391`
+- Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | 24h volume: `247938.67064599998` | liquidity: `397796.29088`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
