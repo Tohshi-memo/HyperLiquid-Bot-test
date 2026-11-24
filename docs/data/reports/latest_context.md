@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T06:37:29.323971+00:00`
-- Market context score: `44.49`
-- News risk score: `50.85`
-- Macro risk score: `23.51`
-- Risk-on score: `28.47`
+- Generated: `2026-11-24T06:52:31.606937+00:00`
+- Market context score: `40.89`
+- News risk score: `52.61`
+- Macro risk score: `27.04`
+- Risk-on score: `23.29`
 - Articles: `27`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T06:30:00+00:00`
+- Day/swing latest: `2026-11-24T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `10`, risk hits `8`, risk headline rate `0.6`, policy hits `0`
-- macro: articles `16`, risk hits `2`, risk headline rate `0.125`, policy hits `0`
+- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
+- [macro] Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] India's 'cockroach' party leader says he was stopped from flying to UK (BBC News)
 - [crypto] Why 42 Macro says it’s waiting to buy the Bitcoin dip (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Google wants to make you the star of your own AI slop movies (Cointelegraph.com News)
 - [macro] Nato chief vows defence against space threat after Russian nuclear satellite reports (BBC News)
 - [macro] How Nvidia is reacting to Jensen Huang's return as CEO (BBC News)
-- [crypto] Ethereum Foundation doubles protocol security team ahead of overhaul (Cointelegraph.com News)
