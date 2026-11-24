@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-24T11:35:29.425650+00:00`
+- Generated: `2026-11-24T11:40:36.942782+00:00`
 - Flow alert score: `18.76`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `11529598.65`
+- Polymarket 24h volume: `11518200.47`
 - Polymarket volume z-score: `0.44`
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1100326.4428970001` | liquidity: `421702.36178`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1025156.4646989998` | liquidity: `1177094.92714`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `778868.817132` | liquidity: `337105.04807`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `723192.0624550002` | liquidity: `820389.0527`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `504739.56300300005` | liquidity: `225385.53453`
-- Will Josh Shapiro win the 2028 Democratic presidential nomination? | 24h volume: `400684.47756299993` | liquidity: `714230.93868`
-- Fourth Jensen Huang affair reported by December 31? | 24h volume: `364687.04455900006` | liquidity: `31538.37659`
-- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `360079.82075400004` | liquidity: `62273.44612`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1102231.9728970001` | liquidity: `420633.53108`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1031092.4546989999` | liquidity: `1188082.19235`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `776535.580511` | liquidity: `340546.79395`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `727437.076588` | liquidity: `819935.5933`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `505999.5530030001` | liquidity: `223914.46138`
+- Will Josh Shapiro win the 2028 Democratic presidential nomination? | 24h volume: `400684.47756299993` | liquidity: `714540.29006`
+- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `360449.30075399997` | liquidity: `42543.02739`
+- Fourth Jensen Huang affair reported by December 31? | 24h volume: `335050.74530300003` | liquidity: `30885.74271`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
