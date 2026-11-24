@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T09:07:41.775142+00:00`
-- Market context score: `47.91`
-- News risk score: `45.15`
-- Macro risk score: `27.33`
-- Risk-on score: `32.7`
-- Articles: `25`
+- Generated: `2026-11-24T09:22:26.060142+00:00`
+- Market context score: `47.92`
+- News risk score: `45.33`
+- Macro risk score: `27.52`
+- Risk-on score: `32.93`
+- Articles: `26`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T09:00:00+00:00`
+- Day/swing latest: `2026-11-24T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
 - crypto: articles `7`, risk hits `4`, risk headline rate `0.4286`, policy hits `0`
-- macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `1`
+- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `2`
 
 ## Headlines
 
+- [macro] Watch: Moment troops raid home and capture Mexican drug lord (BBC News)
 - [macro] DR Congo says aircraft missing as rebels claim to shoot down plane (BBC News)
 - [crypto] Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5% (Cointelegraph.com News)
 - [macro] What China's Xi could take away from Jensen Huang's return to Nvidia (BBC News)
@@ -37,4 +38,3 @@
 - [macro] India's 'cockroach' party leader says he was stopped from flying to UK (BBC News)
 - [crypto] Why 42 Macro says it’s waiting to buy the Bitcoin dip (Cointelegraph.com News)
 - [commodity] Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions (Energy)
-- [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
