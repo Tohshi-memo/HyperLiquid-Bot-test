@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-23T23:52:41.829529+00:00`
-- Market context score: `45.37`
+- Generated: `2026-11-24T00:07:28.275597+00:00`
+- Market context score: `44.22`
 - News risk score: `47.84`
 - Macro risk score: `22.62`
-- Risk-on score: `27.54`
+- Risk-on score: `24.99`
 - Articles: `54`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-23T23:45:00+00:00`
+- Day/swing latest: `2026-11-24T00:00:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `28`, risk hits `15`, risk headline rate `0.4643`, policy hits `2`
-- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `1`
+- macro: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `1`
 
 ## Headlines
 
+- [macro] I pay £250 a month for someone else to do my life admin - it's worth it (BBC News)
 - [crypto] CFTC staff say exchanges can count Bitcoin toward operating reserves (Cointelegraph.com News)
 - [macro] US to blacklist Asian AI firm Megaspeed after Nvidia scandal (BBC News)
 - [macro] Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal' (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China (Economy)
 - [macro] What strike on Russian ship in Libya says about spread of Ukraine war (BBC News)
 - [crypto] Kalshi secures temporary win in New York gambling law dispute (Cointelegraph.com News)
-- [crypto] BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn (Cointelegraph.com News)
