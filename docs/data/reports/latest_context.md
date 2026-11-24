@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T13:22:30.831307+00:00`
-- Market context score: `48.06`
-- News risk score: `42.35`
-- Macro risk score: `28.78`
-- Risk-on score: `31.22`
-- Articles: `32`
+- Generated: `2026-11-24T13:37:46.011029+00:00`
+- Market context score: `46.46`
+- News risk score: `43.95`
+- Macro risk score: `28.76`
+- Risk-on score: `29.0`
+- Articles: `33`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T13:15:00+00:00`
+- Day/swing latest: `2026-11-24T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `17`, risk hits `6`, risk headline rate `0.3529`, policy hits `0`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3889`, policy hits `0`
 - macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 
 ## Headlines
 
 - [crypto] Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks (Cointelegraph.com News)
 - [macro] World Cup drove profits surge, says Marston's (BBC News)
+- [crypto] Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Russian governor detained in rare criminal case against regional leader (BBC News)
 - [crypto] Bitcoin drops as November spot ETF outflows increase to record $4.71 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] JPMorgan, HSBC and StoneX complete first digital gold trades in London (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes (Cointelegraph.com News)
 - [macro] Car bomb tears through Colombian city wounding more than 20 (BBC News)
-- [crypto] Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return (Cointelegraph.com News)
