@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T15:52:32.145471+00:00`
-- Market context score: `44.59`
-- News risk score: `46.57`
-- Macro risk score: `32.07`
-- Risk-on score: `28.32`
-- Articles: `38`
+- Generated: `2026-11-24T16:07:28.486858+00:00`
+- Market context score: `45.15`
+- News risk score: `45.75`
+- Macro risk score: `32.03`
+- Risk-on score: `28.85`
+- Articles: `39`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T15:45:00+00:00`
+- Day/swing latest: `2026-11-24T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `1`
+- crypto: articles `23`, risk hits `9`, risk headline rate `0.3913`, policy hits `1`
 - macro: articles `15`, risk hits `4`, risk headline rate `0.2667`, policy hits `0`
 
 ## Headlines
 
+- [crypto] 'AI trade never died': Traders see room for market recovery, but bitcoin's participation another story (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli air strike kills Hamas internal security chief in Gaza (BBC News)
 - [macro] Land mine casualties soar in Syria, two years after war (BBC News)
 - [crypto] Anchorage Digital to unveil new asset-management subsidiary (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals (Cointelegraph.com News)
 - [crypto] Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks (Cointelegraph.com News)
 - [macro] World Cup drove profits surge, says Marston's (BBC News)
-- [crypto] Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
