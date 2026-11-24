@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T10:37:28.396738+00:00`
+- Generated: `2026-11-24T10:52:31.558363+00:00`
 - Market context score: `46.27`
 - News risk score: `44.73`
 - Macro risk score: `28.9`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T10:30:00+00:00`
+- Day/swing latest: `2026-11-24T10:45:00+00:00`
 
 ## News Categories
 
@@ -28,13 +28,13 @@
 
 ## Headlines
 
+- [macro] DR Congo says military aircraft missing as rebels claim to shoot down plane (BBC News)
 - [crypto] South Korea regulator backs bank-controlled stablecoins after months of dispute (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
 - [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
 - [crypto] Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s (Cointelegraph.com News)
 - [macro] Watch: Moment troops raid home and capture Mexican drug lord (BBC News)
-- [macro] DR Congo says aircraft missing as rebels claim to shoot down plane (BBC News)
 - [crypto] Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5% (Cointelegraph.com News)
 - [macro] What Jensen Huang's return teaches China's Xi about Trump (BBC News)
 - [macro] Why France is at risk of recession — and what could keep it out of one (Economy)
