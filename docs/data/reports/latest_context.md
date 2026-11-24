@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T14:07:30.160950+00:00`
-- Market context score: `46.06`
-- News risk score: `44.86`
-- Macro risk score: `29.43`
-- Risk-on score: `29.14`
-- Articles: `35`
+- Generated: `2026-11-24T14:22:29.948650+00:00`
+- Market context score: `47.25`
+- News risk score: `43.98`
+- Macro risk score: `29.39`
+- Risk-on score: `31.02`
+- Articles: `36`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T14:00:00+00:00`
+- Day/swing latest: `2026-11-24T14:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `20`, risk hits `8`, risk headline rate `0.4`, policy hits `1`
+- crypto: articles `21`, risk hits `8`, risk headline rate `0.381`, policy hits `1`
 - macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
 
 ## Headlines
 
+- [crypto] USDT buyers face 22% VAT when Moscow Exchange opens crypto trading (Cointelegraph.com News)
 - [crypto] Swiss central bank, UBS and SIX study ledger for tokenized settlement (Cointelegraph.com News)
 - [crypto] Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals (Cointelegraph.com News)
 - [crypto] Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Russian governor detained in rare criminal case against regional leader (BBC News)
 - [crypto] Bitcoin drops as November spot ETF outflows increase to record $4.71 billion (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Israeli air strike kills Hamas internal security chief in Gaza (BBC News)
-- [crypto] JPMorgan, HSBC and StoneX complete first digital gold trades in London (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
