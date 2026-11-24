@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T20:07:34.746690+00:00`
-- Market context score: `45.81`
-- News risk score: `46.39`
-- Macro risk score: `25.06`
-- Risk-on score: `28.22`
-- Articles: `47`
+- Generated: `2026-11-24T20:22:32.088274+00:00`
+- Market context score: `46.02`
+- News risk score: `46.34`
+- Macro risk score: `24.47`
+- Risk-on score: `28.41`
+- Articles: `48`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T20:00:00+00:00`
+- Day/swing latest: `2026-11-24T20:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `27`, risk hits `12`, risk headline rate `0.4444`, policy hits `1`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `0`
+- macro: articles `20`, risk hits `4`, risk headline rate `0.2`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Will I get the £100 energy payment and when will I receive it? (BBC News)
 - [crypto] Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares (Cointelegraph.com News)
 - [macro] DR Congo says military aircraft missing as rebels claim to shoot down plane (BBC News)
 - [macro] Nigerian monarch, 92, suspended after sexual assault claims (BBC News)
@@ -37,4 +38,3 @@
 - [macro] US attorney general dodges questions about Nvidia investigation (BBC News)
 - [macro] Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist (Economy)
 - [crypto] CFTC sets new prediction market rules as more firms seek US entry (Cointelegraph.com News)
-- [macro] Faisal Islam: Fears over the AI boom haven't gone away (BBC News)
