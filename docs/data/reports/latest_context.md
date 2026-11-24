@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T10:22:31.321797+00:00`
-- Market context score: `50.07`
-- News risk score: `41.79`
-- Macro risk score: `29.0`
-- Risk-on score: `35.29`
-- Articles: `26`
+- Generated: `2026-11-24T10:37:28.396738+00:00`
+- Market context score: `46.27`
+- News risk score: `44.73`
+- Macro risk score: `28.9`
+- Risk-on score: `29.29`
+- Articles: `27`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T10:15:00+00:00`
+- Day/swing latest: `2026-11-24T10:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `1`
-- crypto: articles `9`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `10`, risk hits `5`, risk headline rate `0.4`, policy hits `0`
 - macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `2`
 
 ## Headlines
 
+- [crypto] South Korea regulator backs bank-controlled stablecoins after months of dispute (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
 - [macro] Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5% (Cointelegraph.com News)
 - [macro] What Jensen Huang's return teaches China's Xi about Trump (BBC News)
 - [macro] Why France is at risk of recession — and what could keep it out of one (Economy)
-- [macro] Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December (BBC News)
