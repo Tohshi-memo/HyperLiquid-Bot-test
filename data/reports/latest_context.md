@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T01:07:25.050888+00:00`
-- Market context score: `43.62`
-- News risk score: `47.98`
-- Macro risk score: `23.43`
-- Risk-on score: `24.08`
-- Articles: `50`
+- Generated: `2026-11-24T01:22:24.821288+00:00`
+- Market context score: `42.8`
+- News risk score: `48.6`
+- Macro risk score: `24.49`
+- Risk-on score: `23.19`
+- Articles: `47`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,21 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T01:00:00+00:00`
+- Day/swing latest: `2026-11-24T01:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `27`, risk hits `15`, risk headline rate `0.4815`, policy hits `2`
-- macro: articles `22`, risk hits `4`, risk headline rate `0.1818`, policy hits `0`
+- crypto: articles `26`, risk hits `15`, risk headline rate `0.5`, policy hits `2`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1905`, policy hits `0`
 
 ## Headlines
 
+- [macro] Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal' (BBC News)
 - [crypto] Ethereum Foundation doubles protocol security team ahead of overhaul (Cointelegraph.com News)
 - [crypto] U.S. CFTC sets policies on event contract data, using crypto to check financial boxes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] I pay £250 a month for someone else to do my life admin - it's worth it (BBC News)
 - [crypto] CFTC staff say exchanges can count Bitcoin toward operating reserves (Cointelegraph.com News)
 - [macro] US to blacklist Asian AI firm Megaspeed after Nvidia scandal (BBC News)
-- [macro] Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal' (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns (BBC News)
 - [crypto] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack (Cointelegraph.com News)
