@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T19:22:36.316025+00:00`
-- Market context score: `46.22`
-- News risk score: `46.39`
-- Macro risk score: `25.06`
-- Risk-on score: `29.14`
-- Articles: `47`
-- Polymarket markets: `391`
+- Generated: `2026-11-24T19:37:32.936524+00:00`
+- Market context score: `45.99`
+- News risk score: `46.47`
+- Macro risk score: `25.72`
+- Risk-on score: `28.93`
+- Articles: `46`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T19:15:00+00:00`
+- Day/swing latest: `2026-11-24T19:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `27`, risk hits `12`, risk headline rate `0.4444`, policy hits `1`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `0`
+- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] DR Congo says military aircraft missing as rebels claim to shoot down plane (BBC News)
 - [crypto] Coldcard reveals how security reviews missed Bitcoin wallet flaw for over 5 years (Cointelegraph.com News)
 - [policy] Minutes of the Board's discount rate meetings on October 19 and October 28, 2026 (FRB: Press Release - All Releases)
 - [macro] US attorney general dodges questions about Nvidia investigation (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Faisal Islam: Fears over the AI boom haven't gone away (BBC News)
 - [macro] Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight (BBC News)
 - [crypto] BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong (Cointelegraph.com News)
-- [crypto] Utah moves to drop criminal pursuit of Kalshi after the firm halted services there (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
