@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T05:37:31.164560+00:00`
+- Generated: `2026-11-25T05:52:29.319627+00:00`
 - Market context score: `44.47`
 - News risk score: `41.71`
 - Macro risk score: `26.05`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T05:30:00+00:00`
+- Day/swing latest: `2026-11-25T05:45:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Solana DEX Velocity halts trading over bug just months after relaunch (Cointelegraph.com News)
 - [crypto] Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] A year after buying bitcoin, Czech central bank won't say what it's worth (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle (BBC News)
@@ -38,4 +39,3 @@
 - [macro] US attorney general dodges questions about Nvidia investigation (BBC News)
 - [macro] US attorney general dodges questions about Nvidia investigation (BBC News)
 - [crypto] Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Moment Chinese space mission lifts off with first Pakistan astronaut aboard (BBC News)
