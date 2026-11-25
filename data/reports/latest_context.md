@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T13:52:30.462320+00:00`
+- Generated: `2026-11-25T14:07:44.625485+00:00`
 - Market context score: `47.72`
 - News risk score: `41.13`
 - Macro risk score: `37.16`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T13:45:00+00:00`
+- Day/swing latest: `2026-11-25T14:00:00+00:00`
 
 ## News Categories
 
@@ -29,11 +29,11 @@
 
 ## Headlines
 
-- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike (Economy)
+- [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
+- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] Energy bills to rise by 26% from January after gas prices surge (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
 - [crypto] Ukraine passes bill to legalize crypto and tax profits at 23% (Cointelegraph.com News)
 - [macro] Kilmar Ábrego García arrives in Spain, ending Trump deportation battle (BBC News)
 - [policy] Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas (FRB: Speeches)
