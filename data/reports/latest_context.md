@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T12:37:34.994189+00:00`
-- Market context score: `46.74`
-- News risk score: `41.07`
-- Macro risk score: `34.19`
-- Risk-on score: `29.24`
-- Articles: `57`
+- Generated: `2026-11-25T12:52:33.649470+00:00`
+- Market context score: `48.22`
+- News risk score: `39.32`
+- Macro risk score: `31.69`
+- Risk-on score: `30.1`
+- Articles: `55`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T12:30:00+00:00`
+- Day/swing latest: `2026-11-25T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `4`
-- macro: articles `29`, risk hits `8`, risk headline rate `0.2759`, policy hits `2`
+- macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `2`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Kilmar Ábrego García arrives in Spain, ending Trump deportation battle (BBC News)
 - [policy] Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas (FRB: Speeches)
 - [macro] Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 (BBC News)
 - [macro] Russia's own figures show it has lost nearly 500,000 people in Ukraine war (BBC News)
@@ -38,4 +39,3 @@
 - [crypto] Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization (Cointelegraph.com News)
-- [macro] Colombian police storm supermarket to free 20 held hostage for 17 hours (BBC News)
