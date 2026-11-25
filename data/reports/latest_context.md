@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T14:22:28.378767+00:00`
-- Market context score: `46.97`
-- News risk score: `41.13`
-- Macro risk score: `37.16`
-- Risk-on score: `30.93`
+- Generated: `2026-11-25T14:37:34.952178+00:00`
+- Market context score: `47.92`
+- News risk score: `40.1`
+- Macro risk score: `35.71`
+- Risk-on score: `31.61`
 - Articles: `51`
 - Polymarket markets: `391`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T14:15:00+00:00`
+- Day/swing latest: `2026-11-25T14:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `4`
+- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `4`
 - macro: articles `23`, risk hits `8`, risk headline rate `0.3043`, policy hits `5`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal (Cointelegraph.com News)
 - [macro] Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank (Economy)
 - [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
@@ -38,4 +39,3 @@
 - [macro] Kilmar Ábrego García arrives in Spain, ending Trump deportation battle (BBC News)
 - [policy] Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas (FRB: Speeches)
 - [macro] Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 (BBC News)
-- [macro] Russia's own figures show it has lost nearly 500,000 people in Ukraine war (BBC News)
