@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T04:07:28.303339+00:00`
-- Market context score: `42.25`
-- News risk score: `39.8`
-- Macro risk score: `27.76`
-- Risk-on score: `15.77`
-- Articles: `33`
+- Generated: `2026-11-25T04:22:28.644374+00:00`
+- Market context score: `44.15`
+- News risk score: `38.2`
+- Macro risk score: `24.57`
+- Risk-on score: `17.43`
+- Articles: `44`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,24 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T04:00:00+00:00`
+- Day/swing latest: `2026-11-25T04:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `0`
-- macro: articles `18`, risk hits `4`, risk headline rate `0.2222`, policy hits `0`
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `0`
+- macro: articles `27`, risk hits `5`, risk headline rate `0.1852`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Trump willing to pardon Jensen Huang, says it won’t be necessary (Cointelegraph.com News)
+- [macro] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Economy)
+- [commodity] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Energy)
+- [macro] Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle (BBC News)
 - [macro] US attorney general dodges questions about Nvidia investigation (BBC News)
 - [macro] US attorney general dodges questions about Nvidia investigation (BBC News)
 - [crypto] Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [macro] Moment Chinese space mission lifts off with first Pakistan astronaut aboard (BBC News)
 - [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
 - [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
-- [commodity] Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11 (Energy)
-- [crypto] CleanSpark weighs selling more Bitcoin than it mines to de-risk books (Cointelegraph.com News)
-- [macro] With Huang rescue, Trump riskily ties his political fortunes to Nvidia (BBC News)
-- [macro] US preparing to unveil plan for new tariffs on global trading partners (BBC News)
-- [macro] Why tiny cars are taking off across Europe (BBC News)
