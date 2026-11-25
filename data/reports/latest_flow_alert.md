@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-25T14:45:29.834958+00:00`
+- Generated: `2026-11-25T14:50:28.614231+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1024273.451887` | liquidity: `366364.64277`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `734153.557174` | liquidity: `1313635.9209`
-- Fourth Jensen Huang affair reported by November 30? | 24h volume: `727901.987649` | liquidity: `455430.10808`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `658134.626784` | liquidity: `282072.8312`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1024273.451887` | liquidity: `514852.67614`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `734153.557174` | liquidity: `1313920.11829`
+- Fourth Jensen Huang affair reported by November 30? | 24h volume: `727901.987649` | liquidity: `453628.90229`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `658134.626784` | liquidity: `283751.86945`
 - Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `655902.694405` | liquidity: `775073.27159`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `560543.475131` | liquidity: `525703.4955`
-- Exact Score: Sabah FK 3 - 0 FC Barcelona? | 24h volume: `306836.89499999996` | liquidity: `48265.62586`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `282732.703142` | liquidity: `379640.56599`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `560543.475131` | liquidity: `522091.861`
+- Exact Score: Sabah FK 3 - 0 FC Barcelona? | 24h volume: `306836.89499999996` | liquidity: `57761.76641`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `282732.703142` | liquidity: `368647.66287`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
