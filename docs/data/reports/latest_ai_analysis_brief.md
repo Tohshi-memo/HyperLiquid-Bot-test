@@ -2,7 +2,7 @@
 
 Read this file before loading the full dataset to save AI tokens/quota.
 
-- Updated: `2026-11-25T11:37:34.626989+00:00`
+- Updated: `2026-11-25T11:52:27.583972+00:00`
 - Records: `12000`
 - Symbols: `BTC, ETH, HYPE, SOL`
 - Intervals: `15m, 1h, 4h`
@@ -16,17 +16,17 @@ Read this file before loading the full dataset to save AI tokens/quota.
 
 ## Latest Prices
 
-- BTC: `58480.5`
-- ETH: `1638.15`
-- HYPE: `57.7745`
-- SOL: `67.4365`
+- BTC: `58729.5`
+- ETH: `1643.25`
+- HYPE: `58.005`
+- SOL: `67.6665`
 
 ## Horizon Stats
 
 - 1h: count `47928`, avg `-0.0016`, long win `49.82`, short win `49.84`
-- 4h: count `47824`, avg `-0.0056`, long win `50.4`, short win `49.4`
-- 24h: count `47372`, avg `-0.0113`, long win `49.15`, short win `50.8`
-- 72h: count `46628`, avg `0.0053`, long win `43.21`, short win `56.74`
+- 4h: count `47824`, avg `-0.0057`, long win `50.4`, short win `49.4`
+- 24h: count `47372`, avg `-0.0121`, long win `49.14`, short win `50.81`
+- 72h: count `46628`, avg `0.0047`, long win `43.21`, short win `56.75`
 
 ## Reading Order
 
