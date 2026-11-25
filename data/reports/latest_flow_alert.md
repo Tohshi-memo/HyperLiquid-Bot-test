@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-25T13:30:30.305119+00:00`
+- Generated: `2026-11-25T13:35:36.730222+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `780568.0928999999` | liquidity: `385691.65401`
-- Fourth Jensen Huang affair reported by November 30? | 24h volume: `751979.985295` | liquidity: `394097.64376`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `734542.149842` | liquidity: `1322119.83427`
-- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `667653.501959` | liquidity: `763254.72898`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `591526.107262` | liquidity: `475621.3592`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `476303.359145` | liquidity: `256148.23716`
-- Will David Lisnard win the 2027 French presidential election? | 24h volume: `279345.707535` | liquidity: `366768.64787`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `246945.554` | liquidity: `368411.01293`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `780568.0928999999` | liquidity: `379760.08667`
+- Fourth Jensen Huang affair reported by November 30? | 24h volume: `751979.985295` | liquidity: `394068.11776`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `734542.149842` | liquidity: `1299931.5572`
+- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `667653.501959` | liquidity: `758272.35298`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `591526.107262` | liquidity: `570910.6065`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `476303.359145` | liquidity: `277058.07911`
+- Will David Lisnard win the 2027 French presidential election? | 24h volume: `279345.707535` | liquidity: `370948.03522`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `246945.554` | liquidity: `360522.2021`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
