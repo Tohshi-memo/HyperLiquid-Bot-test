@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T19:22:29.191930+00:00`
-- Market context score: `44.33`
-- News risk score: `44.85`
-- Macro risk score: `37.39`
-- Risk-on score: `28.29`
-- Articles: `57`
+- Generated: `2026-11-25T19:37:32.142553+00:00`
+- Market context score: `44.36`
+- News risk score: `44.82`
+- Macro risk score: `36.26`
+- Risk-on score: `27.9`
+- Articles: `59`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T19:15:00+00:00`
+- Day/swing latest: `2026-11-25T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `5`
-- macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `4`
+- macro: articles `28`, risk hits `9`, risk headline rate `0.2857`, policy hits `5`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Two children among six dead after plane crash off Mississippi coast (BBC News)
+- [macro] US Army says controlled blast of explosives in Iowa was 'huge success' (BBC News)
 - [macro] North Korea expels Swiss diplomat in sanctions row (BBC News)
 - [crypto] Ethereum Foundation backs Keccak-256 to counter quantum, AI threats (Cointelegraph.com News)
 - [macro] Colombian police storm supermarket to free 76 held hostage for 17 hours (BBC News)
@@ -37,5 +39,3 @@
 - [crypto] US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook (Cointelegraph.com News)
 - [macro] US stocks fall further as fears over AI intensify (BBC News)
 - [macro] US stocks fall further as fears over AI intensify (BBC News)
-- [crypto] 'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4% (Cointelegraph.com News)
