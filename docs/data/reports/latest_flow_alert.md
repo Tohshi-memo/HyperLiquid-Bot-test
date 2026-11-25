@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-25T03:20:28.033186+00:00`
+- Generated: `2026-11-25T03:25:25.100619+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8111130.21`
-- Polymarket volume z-score: `-0.75`
+- Polymarket 24h volume: `7672019.38`
+- Polymarket volume z-score: `-0.91`
 
 ## Top Polymarket Markets
 
-- Fourth Jensen Huang affair reported by November 30? | 24h volume: `600852.5671230002` | liquidity: `73271.41208`
-- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `575777.7212980001` | liquidity: `181141.37052`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `484412.01801400015` | liquidity: `416468.7666`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `449980.747215` | liquidity: `615619.60432`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `439064.1334340001` | liquidity: `954430.5335`
-- Fourth Jensen Huang affair reported by December 31? | 24h volume: `377746.7581159999` | liquidity: `204751.36747`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `315194.96699999995` | liquidity: `369010.06114`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `245583.036509` | liquidity: `1319625.4135`
+- Fourth Jensen Huang affair reported by November 30? | 24h volume: `580267.0743630001` | liquidity: `70796.31572`
+- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `546339.680907` | liquidity: `181140.05652`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `489110.2001369999` | liquidity: `412721.52931`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `461575.4972149999` | liquidity: `635501.04649`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `439217.1334340001` | liquidity: `879334.0995`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `315338.96699999995` | liquidity: `357650.23762`
+- Fourth Jensen Huang affair reported by December 31? | 24h volume: `278564.95034999994` | liquidity: `200072.64744`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `245727.03650900003` | liquidity: `1326197.76549`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
