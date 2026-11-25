@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T11:22:37.846598+00:00`
+- Generated: `2026-11-25T11:37:34.626989+00:00`
 - Market context score: `47.39`
 - News risk score: `40.48`
 - Macro risk score: `32.22`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T11:15:00+00:00`
+- Day/swing latest: `2026-11-25T11:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,9 @@
 
 ## Headlines
 
+- [macro] Energy bills to rise by 26% from January after gas prices surge (BBC News)
+- [macro] Kilmar Ábrego García arrives in Spain, ending Trump deportation battle (BBC News)
+- [macro] Electric blankets and closed curtains - how we're coping with the energy bill rise (BBC News)
 - [crypto] Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout (Cointelegraph.com News)
 - [crypto] Bitcoin price may fall below $53K if bear-market history repeats (Cointelegraph.com News)
 - [crypto] EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -35,6 +38,3 @@
 - [macro] Huawei found guilty of stealing US trade secrets but acquitted of racketeering (BBC News)
 - [macro] Huawei found guilty of stealing US trade secrets but acquitted of racketeering (BBC News)
 - [macro] Energy bills will soar - here's how you can ease the pain (BBC News)
-- [macro] 'I only use the washing machine on a Sunday' - how we're keeping our energy bills down (BBC News)
-- [crypto] French Senate rejects 100K euro crypto wallet disclosure requirement (Cointelegraph.com News)
-- [macro] Colombian police storm supermarket to free 20 held hostage for 17 hours (BBC News)
