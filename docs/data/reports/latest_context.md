@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T12:52:33.649470+00:00`
-- Market context score: `48.22`
-- News risk score: `39.32`
-- Macro risk score: `31.69`
-- Risk-on score: `30.1`
-- Articles: `55`
+- Generated: `2026-11-25T13:07:29.603453+00:00`
+- Market context score: `49.29`
+- News risk score: `38.65`
+- Macro risk score: `32.91`
+- Risk-on score: `32.38`
+- Articles: `51`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T12:45:00+00:00`
+- Day/swing latest: `2026-11-25T13:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
-- crypto: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `4`
-- macro: articles `27`, risk hits `6`, risk headline rate `0.2222`, policy hits `2`
+- crypto: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `4`
+- macro: articles `22`, risk hits `5`, risk headline rate `0.2273`, policy hits `2`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ukraine passes bill to legalize crypto and tax profits at 23% (Cointelegraph.com News)
 - [macro] Kilmar Ábrego García arrives in Spain, ending Trump deportation battle (BBC News)
 - [policy] Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas (FRB: Speeches)
 - [macro] Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 (BBC News)
@@ -38,4 +39,3 @@
 - [macro] 'I only use the washing machine on a Sunday' - how we're keeping our energy bills down (BBC News)
 - [crypto] Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65% (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization (Cointelegraph.com News)
