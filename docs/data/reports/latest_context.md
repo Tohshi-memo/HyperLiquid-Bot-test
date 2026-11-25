@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T18:07:36.589251+00:00`
-- Market context score: `44.69`
-- News risk score: `43.08`
-- Macro risk score: `35.5`
-- Risk-on score: `26.87`
-- Articles: `55`
+- Generated: `2026-11-25T18:22:32.456205+00:00`
+- Market context score: `46.18`
+- News risk score: `42.89`
+- Macro risk score: `33.96`
+- Risk-on score: `29.45`
+- Articles: `56`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,13 +18,13 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T18:00:00+00:00`
+- Day/swing latest: `2026-11-25T18:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `29`, risk hits `7`, risk headline rate `0.2069`, policy hits `4`
-- macro: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `5`
+- crypto: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `4`
+- macro: articles `25`, risk hits `7`, risk headline rate `0.24`, policy hits `5`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
@@ -38,4 +38,4 @@
 - [macro] Images of asteroid targeted to test Earth's defences reveal stadium-sized crater (BBC News)
 - [crypto] Nvidia agrees to $290M settlement over crypto mining revenue disclosures (Cointelegraph.com News)
 - [crypto] FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers (Cointelegraph.com News)
-- [macro] US announces new tariffs on host of countries including China (BBC News)
+- [macro] What's gone wrong at Poundland? (BBC News)
