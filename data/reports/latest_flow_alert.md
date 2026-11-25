@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-25T16:40:29.674649+00:00`
+- Generated: `2026-11-25T16:45:37.730907+00:00`
 - Flow alert score: `19.36`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1876923.2162590001` | liquidity: `397161.27232`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1350183.403117` | liquidity: `335318.99417`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `900070.120982` | liquidity: `337451.599`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `771667.7338440001` | liquidity: `1292315.63262`
-- Fourth Jensen Huang affair reported by November 30? | 24h volume: `689862.27007` | liquidity: `472592.86395`
-- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `647465.7003` | liquidity: `776152.18661`
-- Exact Score: Sabah FK 3 - 0 FC Barcelona? | 24h volume: `306836.89499999996` | liquidity: `47577.32022`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `303577.511` | liquidity: `349732.64944`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1876923.2162590001` | liquidity: `357102.91254`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1350183.403117` | liquidity: `289733.82747`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `900070.120982` | liquidity: `297251.1183`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `771667.7338440001` | liquidity: `1291505.72709`
+- Fourth Jensen Huang affair reported by November 30? | 24h volume: `689862.27007` | liquidity: `572814.46203`
+- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `647465.7003` | liquidity: `774373.96661`
+- Exact Score: Sabah FK 3 - 0 FC Barcelona? | 24h volume: `306836.89499999996` | liquidity: `47579.83038`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `303577.511` | liquidity: `349124.68479`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
