@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T21:07:27.356295+00:00`
-- Market context score: `44.57`
-- News risk score: `45.09`
-- Macro risk score: `34.75`
-- Risk-on score: `28.03`
+- Generated: `2026-11-25T21:22:27.694932+00:00`
+- Market context score: `45.46`
+- News risk score: `44.09`
+- Macro risk score: `33.52`
+- Risk-on score: `28.7`
 - Articles: `60`
 - Polymarket markets: `392`
 
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T21:00:00+00:00`
+- Day/swing latest: `2026-11-25T21:15:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `26`, risk hits `7`, risk headline rate `0.2308`, policy hits `5`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `27`, risk hits `7`, risk headline rate `0.2222`, policy hits `5`
 - macro: articles `29`, risk hits `9`, risk headline rate `0.2759`, policy hits `6`
 - policy: articles `3`, risk hits `2`, risk headline rate `0.3333`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Why ECB collateral eligibility could boost demand for tokenized bonds (Cointelegraph.com News)
 - [macro] Poundland collapses putting 11,000 jobs at risk (BBC News)
 - [policy] Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions (FRB: Press Release - All Releases)
 - [policy] Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans (FRB: Press Release - All Releases)
@@ -38,4 +39,3 @@
 - [macro] North Korea expels Swiss diplomat in sanctions row (BBC News)
 - [crypto] Ethereum Foundation backs Keccak-256 to counter quantum, AI threats (Cointelegraph.com News)
 - [macro] Colombian police storm supermarket to free 76 held hostage for 17 hours (BBC News)
-- [crypto] French Senate blocks new crypto tax and wallet list critics called a kidnapping risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
