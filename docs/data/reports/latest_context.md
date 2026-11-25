@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T18:52:29.668292+00:00`
+- Generated: `2026-11-25T19:07:28.445619+00:00`
 - Market context score: `44.82`
 - News risk score: `44.08`
 - Macro risk score: `35.76`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T18:45:00+00:00`
+- Day/swing latest: `2026-11-25T19:00:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Ethereum Foundation backs Keccak-256 to counter quantum, AI threats (Cointelegraph.com News)
 - [macro] Colombian police storm supermarket to free 76 held hostage for 17 hours (BBC News)
 - [macro] Poundland collapses putting 11,000 jobs at risk (BBC News)
 - [crypto] French Senate blocks new crypto tax and wallet list critics called a kidnapping risk (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -38,4 +39,3 @@
 - [crypto] 'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4% (Cointelegraph.com News)
 - [macro] Images of asteroid targeted to test Earth's defences reveal stadium-sized crater (BBC News)
-- [crypto] Nvidia agrees to $290M settlement over crypto mining revenue disclosures (Cointelegraph.com News)
