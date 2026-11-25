@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-25T20:30:29.137988+00:00`
+- Generated: `2026-11-25T20:35:25.575353+00:00`
 - Flow alert score: `19.8`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2096634.225873` | liquidity: `491703.71333`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1532065.270415` | liquidity: `391285.96297`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `849781.409236` | liquidity: `604834.4772`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2096634.225873` | liquidity: `491100.16609`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1532065.270415` | liquidity: `394148.14616`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `849781.409236` | liquidity: `621841.2599`
 - Fourth Jensen Huang affair reported by November 30? | 24h volume: `809518.342312` | liquidity: `511606.17896`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `795291.379677` | liquidity: `1302669.63261`
-- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `648050.582654` | liquidity: `664268.79745`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `302363.617` | liquidity: `389040.689`
-- Will Bitcoin dip to $55,000 in November? | 24h volume: `264668.16956099996` | liquidity: `72136.85856`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `795291.379677` | liquidity: `1302248.55381`
+- Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `648050.582654` | liquidity: `667265.79745`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `302363.617` | liquidity: `388743.3838`
+- Will Bitcoin dip to $55,000 in November? | 24h volume: `264668.16956099996` | liquidity: `71430.0633`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
