@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T06:52:27.270414+00:00`
+- Generated: `2026-11-25T07:07:34.367996+00:00`
 - Market context score: `47.07`
-- News risk score: `37.38`
-- Macro risk score: `24.79`
-- Risk-on score: `23.3`
-- Articles: `40`
+- News risk score: `37.24`
+- Macro risk score: `24.64`
+- Risk-on score: `23.14`
+- Articles: `39`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T06:45:00+00:00`
+- Day/swing latest: `2026-11-25T07:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `1`
 - macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
-- policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Household energy prices to rise by 26% in January as new price cap confirmed (BBC News)
+- [crypto] South Korea’s crypto bill could move stablecoin race beyond token issuance (Cointelegraph.com News)
 - [macro] Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle (BBC News)
 - [crypto] Solana developers move to stop validators finishing work on blocks that already lost (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Just 10 accounts drove all of the XRP Ledger's trading growth last quarter (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,5 +38,3 @@
 - [crypto] Solana DEX Velocity halts trading over bug just months after relaunch (Cointelegraph.com News)
 - [crypto] Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] A year after buying bitcoin, Czech central bank won't say what it's worth (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Trump willing to pardon Jensen Huang, says it won’t be necessary (Cointelegraph.com News)
-- [macro] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Economy)
