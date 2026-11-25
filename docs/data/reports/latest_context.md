@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T13:22:33.375994+00:00`
-- Market context score: `47.92`
-- News risk score: `40.43`
-- Macro risk score: `35.0`
-- Risk-on score: `31.64`
-- Articles: `54`
+- Generated: `2026-11-25T13:37:22.548453+00:00`
+- Market context score: `48.71`
+- News risk score: `39.51`
+- Macro risk score: `33.64`
+- Risk-on score: `32.1`
+- Articles: `53`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T13:15:00+00:00`
+- Day/swing latest: `2026-11-25T13:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `3`, risk hits `3`, risk headline rate `0.6667`, policy hits `0`
 - crypto: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `4`
-- macro: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `2`
+- macro: articles `24`, risk hits `6`, risk headline rate `0.25`, policy hits `2`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] US announces new tariffs on host of countries including China (BBC News)
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
 - [crypto] Ukraine passes bill to legalize crypto and tax profits at 23% (Cointelegraph.com News)
