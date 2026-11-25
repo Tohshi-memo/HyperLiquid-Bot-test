@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-25T23:45:28.397963+00:00`
+- Generated: `2026-11-25T23:50:26.715779+00:00`
 - Flow alert score: `19.48`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2089870.2266029997` | liquidity: `585681.59385`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1524554.6041380002` | liquidity: `432503.54455`
-- Fourth Jensen Huang affair reported by November 30? | 24h volume: `918279.445298` | liquidity: `521126.64251`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `788354.1252579999` | liquidity: `767933.213`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `690069.6631760001` | liquidity: `1254268.72099`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `2089870.2266029997` | liquidity: `590128.40449`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1524554.6041380002` | liquidity: `439757.64815`
+- Fourth Jensen Huang affair reported by November 30? | 24h volume: `918279.445298` | liquidity: `515132.64251`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `788354.1252579999` | liquidity: `769248.556`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `690069.6631760001` | liquidity: `1256350.38399`
 - Jensen Huang admits to another affair with a woman by December 31? | 24h volume: `570277.61997` | liquidity: `649821.4883`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `286176.064795` | liquidity: `292788.3978`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `278323.058` | liquidity: `387590.60372`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `286176.064795` | liquidity: `293019.1964`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `278323.058` | liquidity: `385260.01936`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
