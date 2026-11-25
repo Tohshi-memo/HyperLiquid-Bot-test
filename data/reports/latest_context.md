@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-24T23:52:35.276367+00:00`
-- Market context score: `45.09`
-- News risk score: `46.0`
-- Macro risk score: `30.93`
-- Risk-on score: `28.51`
+- Generated: `2026-11-25T00:07:44.184983+00:00`
+- Market context score: `45.0`
+- News risk score: `46.39`
+- Macro risk score: `29.95`
+- Risk-on score: `28.25`
 - Articles: `39`
 - Polymarket markets: `391`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-24T23:45:00+00:00`
+- Day/swing latest: `2026-11-25T00:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `22`, risk hits `9`, risk headline rate `0.4091`, policy hits `1`
-- macro: articles `16`, risk hits `5`, risk headline rate `0.3125`, policy hits `0`
+- crypto: articles `21`, risk hits `10`, risk headline rate `0.4286`, policy hits `1`
+- macro: articles `17`, risk hits `5`, risk headline rate `0.2941`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Households braced for soaring energy bills with new price cap to be announced (BBC News)
+- [crypto] Hackers breach CIA intelligence network in latest US cyberattack (Cointelegraph.com News)
 - [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
 - [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] US attorney general dodges questions about Nvidia investigation (BBC News)
 - [crypto] Utah moves to dismiss criminal charges against Kalshi after trading halt (Cointelegraph.com News)
 - [macro] Will I get the £100 energy payment and when will I receive it? (BBC News)
-- [crypto] Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares (Cointelegraph.com News)
-- [macro] DR Congo says military aircraft missing as rebels claim to shoot down plane (BBC News)
