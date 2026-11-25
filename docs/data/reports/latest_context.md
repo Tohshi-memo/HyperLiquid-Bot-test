@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T07:07:34.367996+00:00`
-- Market context score: `47.07`
-- News risk score: `37.24`
-- Macro risk score: `24.64`
-- Risk-on score: `23.14`
-- Articles: `39`
-- Polymarket markets: `389`
+- Generated: `2026-11-25T07:22:23.435151+00:00`
+- Market context score: `46.99`
+- News risk score: `37.0`
+- Macro risk score: `24.16`
+- Risk-on score: `22.58`
+- Articles: `40`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T07:00:00+00:00`
+- Day/swing latest: `2026-11-25T07:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `1`
-- macro: articles `23`, risk hits `4`, risk headline rate `0.1739`, policy hits `0`
+- macro: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `0`
 
 ## Headlines
 
-- [macro] Household energy prices to rise by 26% in January as new price cap confirmed (BBC News)
+- [macro] Energy bills to rise by 26% from January (BBC News)
 - [crypto] South Korea’s crypto bill could move stablecoin race beyond token issuance (Cointelegraph.com News)
 - [macro] Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle (BBC News)
 - [crypto] Solana developers move to stop validators finishing work on blocks that already lost (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
