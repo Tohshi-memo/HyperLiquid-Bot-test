@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T09:07:31.073149+00:00`
+- Generated: `2026-11-25T09:22:31.118222+00:00`
 - Market context score: `47.72`
 - News risk score: `35.54`
 - Macro risk score: `27.66`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T09:00:00+00:00`
+- Day/swing latest: `2026-11-25T09:15:00+00:00`
 
 ## News Categories
 
@@ -28,8 +28,8 @@
 
 ## Headlines
 
-- [crypto] EU seeks up to $55B for AI and quantum computing fund: Report (Cointelegraph.com News)
 - [macro] Energy bills to rise by 26% from January (BBC News)
+- [crypto] EU seeks up to $55B for AI and quantum computing fund: Report (Cointelegraph.com News)
 - [crypto] Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date (BBC News)
 - [crypto] South Korea’s crypto bill could move stablecoin race beyond token issuance (Cointelegraph.com News)
