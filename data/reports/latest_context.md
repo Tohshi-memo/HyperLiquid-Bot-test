@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T22:22:27.739176+00:00`
+- Generated: `2026-11-25T22:37:27.656369+00:00`
 - Market context score: `42.81`
 - News risk score: `46.76`
 - Macro risk score: `36.01`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T22:15:00+00:00`
+- Day/swing latest: `2026-11-25T22:30:00+00:00`
 
 ## News Categories
 
@@ -29,6 +29,7 @@
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway (BBC News)
 - [macro] Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike (Economy)
 - [crypto] Switzerland clears 57 jurisdictions for crypto tax data sharing (Cointelegraph.com News)
@@ -38,4 +39,3 @@
 - [macro] Poundland collapses putting 11,000 jobs at risk (BBC News)
 - [crypto] Braiins warns of Bitcoin mining attacks affecting over 1,000 sites (Cointelegraph.com News)
 - [crypto] Why ECB collateral eligibility could boost demand for tokenized bonds (Cointelegraph.com News)
-- [policy] Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions (FRB: Press Release - All Releases)
