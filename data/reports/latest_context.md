@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T14:37:34.952178+00:00`
+- Generated: `2026-11-25T14:52:33.538548+00:00`
 - Market context score: `47.92`
 - News risk score: `40.1`
 - Macro risk score: `35.71`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T14:30:00+00:00`
+- Day/swing latest: `2026-11-25T14:45:00+00:00`
 
 ## News Categories
 
@@ -29,10 +29,10 @@
 
 ## Headlines
 
+- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [crypto] Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal (Cointelegraph.com News)
 - [macro] Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank (Economy)
 - [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
-- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] Energy bills to rise by 26% from January after gas prices surge (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Ukraine passes bill to legalize crypto and tax profits at 23% (Cointelegraph.com News)
