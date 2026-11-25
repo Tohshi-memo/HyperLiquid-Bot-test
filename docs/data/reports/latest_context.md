@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T19:09:44.731523+00:00`
-- Market context score: `45.09`
-- News risk score: `43.96`
-- Macro risk score: `36.11`
-- Risk-on score: `28.74`
-- Articles: `56`
+- Generated: `2026-11-25T19:22:29.191930+00:00`
+- Market context score: `44.33`
+- News risk score: `44.85`
+- Macro risk score: `37.39`
+- Risk-on score: `28.29`
+- Articles: `57`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T19:00:00+00:00`
+- Day/swing latest: `2026-11-25T19:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `3`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `28`, risk hits `7`, risk headline rate `0.2143`, policy hits `5`
-- macro: articles `25`, risk hits `8`, risk headline rate `0.28`, policy hits `4`
+- macro: articles `26`, risk hits `9`, risk headline rate `0.3077`, policy hits `4`
 - policy: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] North Korea expels Swiss diplomat in sanctions row (BBC News)
 - [crypto] Ethereum Foundation backs Keccak-256 to counter quantum, AI threats (Cointelegraph.com News)
 - [macro] Colombian police storm supermarket to free 76 held hostage for 17 hours (BBC News)
 - [macro] Poundland collapses putting 11,000 jobs at risk (BBC News)
@@ -38,4 +39,3 @@
 - [macro] US stocks fall further as fears over AI intensify (BBC News)
 - [crypto] 'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4% (Cointelegraph.com News)
-- [macro] Images of asteroid targeted to test Earth's defences reveal stadium-sized crater (BBC News)
