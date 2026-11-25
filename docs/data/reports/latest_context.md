@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-25T02:52:25.491781+00:00`
-- Market context score: `41.85`
-- News risk score: `39.86`
-- Macro risk score: `29.86`
-- Risk-on score: `15.71`
+- Generated: `2026-11-25T03:07:24.476923+00:00`
+- Market context score: `40.18`
+- News risk score: `41.82`
+- Macro risk score: `31.81`
+- Risk-on score: `14.41`
 - Articles: `35`
 - Polymarket markets: `389`
 
@@ -18,23 +18,24 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-25T02:45:00+00:00`
+- Day/swing latest: `2026-11-25T03:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `0`
+- commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
+- crypto: articles `13`, risk hits `5`, risk headline rate `0.3077`, policy hits `0`
 - macro: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `0`
 - policy: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `1`
 
 ## Headlines
 
+- [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
+- [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
+- [commodity] Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11 (Energy)
 - [crypto] CleanSpark weighs selling more Bitcoin than it mines to de-risk books (Cointelegraph.com News)
-- [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
-- [macro] Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC News)
 - [macro] Trump's Nvidia intervention ties his political fortunes to the AI boom (BBC News)
 - [macro] US preparing to unveil new tariffs on global trading partners (BBC News)
 - [macro] Why tiny cars are taking off across Europe (BBC News)
 - [macro] What will the energy cap changes mean for my bills? (BBC News)
 - [macro] 'I only use the washing machine on a Sunday' - how we're keeping our energy bills down (BBC News)
 - [macro] Households braced for soaring energy bills with new price cap to be announced (BBC News)
-- [crypto] Hackers breach CIA intelligence network in latest US cyberattack (Cointelegraph.com News)
