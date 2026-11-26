@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T09:37:29.051168+00:00`
-- Market context score: `44.33`
-- News risk score: `45.66`
-- Macro risk score: `29.99`
-- Risk-on score: `26.17`
+- Generated: `2026-11-26T09:52:28.623012+00:00`
+- Market context score: `45.02`
+- News risk score: `43.73`
+- Macro risk score: `28.59`
+- Risk-on score: `25.55`
 - Articles: `45`
 - Polymarket markets: `392`
 
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T09:30:00+00:00`
+- Day/swing latest: `2026-11-26T09:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `13`, risk hits `5`, risk headline rate `0.3846`, policy hits `0`
-- macro: articles `28`, risk hits `8`, risk headline rate `0.2857`, policy hits `2`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.3571`, policy hits `0`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend (Cointelegraph.com News)
+- [macro] Car finance compensation payments explained (BBC News)
 - [macro] Musk's plan to send a million SpaceX data satellites into space approved (BBC News)
 - [macro] Musk's plan to send a million SpaceX data satellites into space approved (BBC News)
 - [macro] UK signs £8bn deal to ensure submarines are 'warfighting ready' (BBC News)
@@ -36,5 +38,3 @@
 - [commodity] Quantum computing’s first real-world payoff may come in energy, not drug discovery (Energy)
 - [commodity] Ecuador wants to monetize its biodiversity — while still drilling for oil (Energy)
 - [commodity] Latin America has the copper and energy the AI build-out needs. Infrastructure is the test (Energy)
-- [macro] Two screenings of Pakistani TV show cancelled in India after backlash (BBC News)
-- [macro] Poundland collapses putting 11,000 jobs at risk (BBC News)
