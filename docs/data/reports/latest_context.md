@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T02:17:51.770249+00:00`
-- Market context score: `45.56`
-- News risk score: `43.39`
-- Macro risk score: `29.83`
-- Risk-on score: `26.94`
-- Articles: `52`
+- Generated: `2026-11-26T02:22:37.951015+00:00`
+- Market context score: `46.64`
+- News risk score: `42.85`
+- Macro risk score: `27.68`
+- Risk-on score: `28.05`
+- Articles: `51`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -23,12 +23,13 @@
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `2`
-- macro: articles `32`, risk hits `9`, risk headline rate `0.25`, policy hits `5`
+- crypto: articles `16`, risk hits `7`, risk headline rate `0.3125`, policy hits `2`
+- macro: articles `32`, risk hits `7`, risk headline rate `0.2188`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] UK government set to publish new treaties agreed with EU (BBC News)
 - [crypto] AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says (Cointelegraph.com News)
 - [macro] California warns of flooding as king tides peak over Thanksgiving (BBC News)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
@@ -38,4 +39,3 @@
 - [macro] France's political mainstream risks presidential vote debacle with no clear candidate (BBC News)
 - [macro] US Army says controlled blast of explosives in Iowa was 'huge success' (BBC News)
 - [macro] Has global jihadism failed, or is it simply changing shape? (BBC News)
-- [macro] US approves SpaceX plan to send a million data satellites to space (BBC News)
