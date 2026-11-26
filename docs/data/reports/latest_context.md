@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T20:22:27.689363+00:00`
-- Market context score: `53.44`
-- News risk score: `33.68`
-- Macro risk score: `22.27`
-- Risk-on score: `33.39`
-- Articles: `59`
+- Generated: `2026-11-26T20:37:34.842254+00:00`
+- Market context score: `53.99`
+- News risk score: `33.47`
+- Macro risk score: `22.85`
+- Risk-on score: `34.65`
+- Articles: `57`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T20:15:00+00:00`
+- Day/swing latest: `2026-11-26T20:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
 - crypto: articles `24`, risk hits `3`, risk headline rate `0.125`, policy hits `3`
-- macro: articles `31`, risk hits `5`, risk headline rate `0.129`, policy hits `1`
+- macro: articles `29`, risk hits `5`, risk headline rate `0.1379`, policy hits `1`
 
 ## Headlines
 
+- [macro] Two Italians killed in strike in Kuwait, as Iran denies responsibility (BBC News)
 - [crypto] Japan weighs tighter oversight of DeFi, self-custodial wallets (Cointelegraph.com News)
 - [macro] Faisal Islam: Why Trump's new tariffs are less of a threat (BBC News)
-- [macro] Two Italians killed in strike in Kuwait, as Iran denies responsibility (BBC News)
 - [macro] Watch: Roofs torn off and streets under water as severe weather hits US (BBC News)
 - [crypto] Spain moves to grant financial watchdog power to freeze crypto accounts (Cointelegraph.com News)
 - [crypto] Crypto on notice as hawkish Fed risks December ‘meltdown’ (Cointelegraph.com News)
