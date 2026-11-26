@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T06:07:26.193632+00:00`
-- Market context score: `37.02`
-- News risk score: `47.62`
-- Macro risk score: `28.83`
-- Risk-on score: `11.15`
-- Articles: `41`
-- Polymarket markets: `392`
+- Generated: `2026-11-26T06:22:32.338089+00:00`
+- Market context score: `37.96`
+- News risk score: `46.36`
+- Macro risk score: `28.79`
+- Risk-on score: `12.14`
+- Articles: `42`
+- Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T06:00:00+00:00`
+- Day/swing latest: `2026-11-26T06:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `13`, risk hits `7`, risk headline rate `0.4615`, policy hits `1`
+- crypto: articles `14`, risk hits `7`, risk headline rate `0.4286`, policy hits `1`
 - macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report (Cointelegraph.com News)
 - [crypto] Ripple is worth $90 a share to one fund and $300 to another, SEC filings show (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [crypto] Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions (Cointelegraph.com News)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
-- [macro] Macy's postpones Thanksgiving parade due to severe weather (BBC News)
