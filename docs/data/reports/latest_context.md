@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T12:07:26.370807+00:00`
-- Market context score: `47.5`
-- News risk score: `42.07`
-- Macro risk score: `25.36`
-- Risk-on score: `28.43`
-- Articles: `55`
+- Generated: `2026-11-26T12:22:35.828229+00:00`
+- Market context score: `46.59`
+- News risk score: `43.62`
+- Macro risk score: `25.75`
+- Risk-on score: `27.88`
+- Articles: `57`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T12:00:00+00:00`
+- Day/swing latest: `2026-11-26T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `20`, risk hits `6`, risk headline rate `0.3`, policy hits `1`
+- crypto: articles `22`, risk hits `7`, risk headline rate `0.3182`, policy hits `2`
 - macro: articles `31`, risk hits `7`, risk headline rate `0.1935`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Bitcoin ETFs are bleeding cash and the Fed is unlikely to help (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve (Cointelegraph.com News)
 - [macro] U.S. tariff-hike threats pile pressure on partners to sign trade deals (Economy)
 - [macro] Norse Atlantic suspends all flights as it faces potential collapse (BBC News)
 - [crypto] Standard Chartered’s Zodia Custody suffers data breach: Report (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [crypto] Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity (Cointelegraph.com News)
 - [macro] Seven injured, four critically, after Bangkok oil refinery explosion (BBC News)
 - [macro] Drivers over 70 face eye tests every three years under new plans (BBC News)
-- [crypto] Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Hope for millions as cheaper HIV prevention jab reaches Africa (BBC News)
