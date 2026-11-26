@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T07:22:29.909131+00:00`
+- Generated: `2026-11-26T07:37:23.301402+00:00`
 - Market context score: `37.07`
 - News risk score: `47.3`
 - Macro risk score: `28.81`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T07:15:00+00:00`
+- Day/swing latest: `2026-11-26T07:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] FedEx plane overshoots Miami runway, causing brief suspension of flights at airport (BBC News)
 - [crypto] Zcash developers want users to move $300 million out of an older privacy system (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] 1Password hacker stole customer names and emails, but vaults safe (Cointelegraph.com News)
 - [crypto] Bill to lock up U.S. government bitcoin for 20 years advances to full House (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions (Cointelegraph.com News)
-- [macro] US announces new tariffs on host of countries including China (BBC News)
