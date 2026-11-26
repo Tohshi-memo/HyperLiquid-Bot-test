@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T17:07:29.656031+00:00`
+- Generated: `2026-11-26T17:22:28.262454+00:00`
 - Market context score: `49.76`
 - News risk score: `40.06`
 - Macro risk score: `20.07`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T17:00:00+00:00`
+- Day/swing latest: `2026-11-26T17:15:00+00:00`
 
 ## News Categories
 
@@ -28,12 +28,12 @@
 
 ## Headlines
 
+- [macro] When will Poundland shops close? Five key questions answered (BBC News)
 - [crypto] Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BIS chief Pablo Hernández de Cos set to become next ECB president: FT (Cointelegraph.com News)
 - [macro] Italy says two citizens killed in Iranian strike in Kuwait (BBC News)
 - [macro] Nine injured, three critically, after Bangkok oil refinery explosion (BBC News)
 - [macro] Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US (BBC News)
-- [macro] When will Poundland shops close? Five key questions answered (BBC News)
 - [crypto] How EU brokers could lose access to Kyrgyz crypto exchanges (Cointelegraph.com News)
 - [crypto] Crypto for Advisors: Four questions to ask before trusting a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
