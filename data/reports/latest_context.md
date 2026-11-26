@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T02:52:28.879334+00:00`
+- Generated: `2026-11-26T03:07:27.481545+00:00`
 - Market context score: `48.59`
 - News risk score: `40.53`
 - Macro risk score: `28.16`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T02:45:00+00:00`
+- Day/swing latest: `2026-11-26T03:00:00+00:00`
 
 ## News Categories
 
@@ -29,13 +29,13 @@
 
 ## Headlines
 
+- [macro] US announces new tariffs on host of countries including China (BBC News)
+- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] UK government set to publish new treaties agreed with EU (BBC News)
+- [macro] As foreign troops withdraw from Somalia, could al-Shabab take over? (BBC News)
 - [crypto] AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says (Cointelegraph.com News)
 - [macro] California warns of flooding as king tides peak over Thanksgiving (BBC News)
-- [macro] US announces new tariffs on host of countries including China (BBC News)
-- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] The US pastor who wants to see women's right to vote overturned (BBC News)
 - [macro] Spanish elections: What you need to know and what's at stake (BBC News)
 - [macro] France's political mainstream risks presidential vote debacle with no clear candidate (BBC News)
 - [macro] US Army says controlled blast of explosives in Iowa was 'huge success' (BBC News)
-- [macro] Has global jihadism failed, or is it simply changing shape? (BBC News)
