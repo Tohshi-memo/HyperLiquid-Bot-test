@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T17:22:28.262454+00:00`
-- Market context score: `49.76`
-- News risk score: `40.06`
-- Macro risk score: `20.07`
-- Risk-on score: `29.76`
-- Articles: `63`
+- Generated: `2026-11-26T17:37:30.644448+00:00`
+- Market context score: `51.96`
+- News risk score: `36.71`
+- Macro risk score: `20.1`
+- Risk-on score: `31.84`
+- Articles: `62`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T17:15:00+00:00`
+- Day/swing latest: `2026-11-26T17:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `2`
+- crypto: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `2`
 - macro: articles `33`, risk hits `4`, risk headline rate `0.0909`, policy hits `2`
 
 ## Headlines
 
+- [crypto] A tiny payment can expose the IP address behind a bitcoin wallet, developer finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] When will Poundland shops close? Five key questions answered (BBC News)
 - [crypto] Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BIS chief Pablo Hernández de Cos set to become next ECB president: FT (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] How EU brokers could lose access to Kyrgyz crypto exchanges (Cointelegraph.com News)
 - [crypto] Crypto for Advisors: Four questions to ask before trusting a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
-- [macro] New UK-EU treaty has 10-year termination clause (BBC News)
