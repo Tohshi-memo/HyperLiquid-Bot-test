@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T22:37:27.924900+00:00`
+- Generated: `2026-11-26T22:52:33.293214+00:00`
 - Market context score: `47.34`
 - News risk score: `33.52`
 - Macro risk score: `25.7`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T22:30:00+00:00`
+- Day/swing latest: `2026-11-26T22:45:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [crypto] ‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one (BBC News)
 - [crypto] BNB Chain details new layer-1 for trading, private finance and AI (Cointelegraph.com News)
@@ -36,4 +37,3 @@
 - [crypto] Japan weighs tighter oversight of DeFi, self-custodial wallets (Cointelegraph.com News)
 - [macro] Faisal Islam: Why Trump's new tariffs are less of a threat (BBC News)
 - [macro] Watch: Roofs torn off and streets under water as severe weather hits US (BBC News)
-- [crypto] Spain moves to grant financial watchdog power to freeze crypto accounts (Cointelegraph.com News)
