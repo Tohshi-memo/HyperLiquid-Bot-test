@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T05:22:36.617807+00:00`
-- Market context score: `39.09`
-- News risk score: `44.83`
-- Macro risk score: `29.46`
-- Risk-on score: `13.63`
-- Articles: `42`
+- Generated: `2026-11-26T05:37:25.811591+00:00`
+- Market context score: `36.78`
+- News risk score: `47.98`
+- Macro risk score: `29.44`
+- Risk-on score: `11.15`
+- Articles: `41`
 - Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T05:15:00+00:00`
+- Day/swing latest: `2026-11-26T05:30:00+00:00`
 
 ## News Categories
 
-- crypto: articles `13`, risk hits `7`, risk headline rate `0.3846`, policy hits `2`
-- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `3`
+- crypto: articles `13`, risk hits `7`, risk headline rate `0.4615`, policy hits `2`
+- macro: articles `26`, risk hits `7`, risk headline rate `0.2692`, policy hits `2`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ripple is worth $90 a share to one fund and $300 to another, SEC filings show (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Sky proposes emergency vote on $25M transfer amid liquidity stress (Cointelegraph.com News)
 - [crypto] 1Password hacker stole customer names and emails, but vaults safe (Cointelegraph.com News)
 - [crypto] Bill to lock up U.S. government bitcoin for 20 years advances to full House (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions (Cointelegraph.com News)
@@ -36,5 +38,3 @@
 - [macro] Macy's postpones Thanksgiving parade due to severe weather (BBC News)
 - [macro] FedEx plane overshoots Miami runway, with flights briefly suspended at airport (BBC News)
 - [macro] UK government set to publish new treaties agreed with EU (BBC News)
-- [macro] As foreign troops withdraw from Somalia, could al-Shabab take over? (BBC News)
-- [crypto] AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says (Cointelegraph.com News)
