@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T01:22:37.778859+00:00`
+- Generated: `2026-11-26T01:37:32.545803+00:00`
 - Market context score: `45.61`
 - News risk score: `44.84`
 - Macro risk score: `30.57`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T01:15:00+00:00`
+- Day/swing latest: `2026-11-26T01:30:00+00:00`
 
 ## News Categories
 
@@ -29,9 +29,9 @@
 
 ## Headlines
 
-- [macro] US announces new tariffs on host of countries including China (BBC News)
-- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] California warned of potential Thanksgiving flooding as storms threaten US coasts (BBC News)
+- [macro] US announces new tariffs on host of countries including China (BBC News)
+- [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] The US pastor who wants to see women's right to vote overturned (BBC News)
 - [macro] Spanish elections: What you need to know and what's at stake (BBC News)
 - [macro] France's political mainstream risks presidential vote debacle with no clear candidate (BBC News)
