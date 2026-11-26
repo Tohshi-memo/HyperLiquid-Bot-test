@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T17:37:30.644448+00:00`
-- Market context score: `51.96`
-- News risk score: `36.71`
-- Macro risk score: `20.1`
-- Risk-on score: `31.84`
-- Articles: `62`
+- Generated: `2026-11-26T17:52:30.874878+00:00`
+- Market context score: `51.45`
+- News risk score: `36.84`
+- Macro risk score: `20.47`
+- Risk-on score: `30.96`
+- Articles: `63`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T17:30:00+00:00`
+- Day/swing latest: `2026-11-26T17:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `25`, risk hits `5`, risk headline rate `0.2`, policy hits `2`
+- crypto: articles `26`, risk hits `5`, risk headline rate `0.1923`, policy hits `3`
 - macro: articles `33`, risk hits `4`, risk headline rate `0.0909`, policy hits `2`
 
 ## Headlines
 
+- [crypto] Crypto on notice as hawkish Fed risks December ‘meltdown’ (Cointelegraph.com News)
+- [macro] More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel (BBC News)
 - [crypto] A tiny payment can expose the IP address behind a bitcoin wallet, developer finds (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] When will Poundland shops close? Five key questions answered (BBC News)
 - [crypto] Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] BIS chief Pablo Hernández de Cos set to become next ECB president: FT (Cointelegraph.com News)
 - [macro] Italy says two citizens killed in Iranian strike in Kuwait (BBC News)
 - [macro] Nine injured, three critically, after Bangkok oil refinery explosion (BBC News)
-- [macro] Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US (BBC News)
 - [crypto] How EU brokers could lose access to Kyrgyz crypto exchanges (Cointelegraph.com News)
 - [crypto] Crypto for Advisors: Four questions to ask before trusting a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
