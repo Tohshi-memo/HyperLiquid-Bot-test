@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T18:22:35.871512+00:00`
-- Market context score: `53.06`
-- News risk score: `34.98`
-- Macro risk score: `20.13`
-- Risk-on score: `32.84`
-- Articles: `61`
-- Polymarket markets: `390`
+- Generated: `2026-11-26T18:37:28.734951+00:00`
+- Market context score: `53.18`
+- News risk score: `34.91`
+- Macro risk score: `20.1`
+- Risk-on score: `33.04`
+- Articles: `62`
+- Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T18:15:00+00:00`
+- Day/swing latest: `2026-11-26T18:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `24`, risk hits `4`, risk headline rate `0.1667`, policy hits `3`
+- crypto: articles `25`, risk hits `4`, risk headline rate `0.16`, policy hits `3`
 - macro: articles `33`, risk hits `4`, risk headline rate `0.0909`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Spain moves to grant financial watchdog power to freeze crypto accounts (Cointelegraph.com News)
 - [macro] Two Italians killed in strike in Kuwait, as Iran denies responsibility (BBC News)
 - [crypto] Crypto on notice as hawkish Fed risks December ‘meltdown’ (Cointelegraph.com News)
 - [macro] More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] BIS chief Pablo Hernández de Cos set to become next ECB president: FT (Cointelegraph.com News)
 - [macro] Nine injured, three critically, after Bangkok oil refinery explosion (BBC News)
 - [crypto] How EU brokers could lose access to Kyrgyz crypto exchanges (Cointelegraph.com News)
-- [crypto] Crypto for Advisors: Four questions to ask before trusting a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
