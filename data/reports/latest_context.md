@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T07:52:31.841679+00:00`
-- Market context score: `37.89`
-- News risk score: `46.36`
-- Macro risk score: `27.06`
-- Risk-on score: `11.35`
-- Articles: `38`
+- Generated: `2026-11-26T08:07:39.056665+00:00`
+- Market context score: `38.25`
+- News risk score: `45.52`
+- Macro risk score: `28.33`
+- Risk-on score: `11.93`
+- Articles: `37`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T07:45:00+00:00`
+- Day/swing latest: `2026-11-26T08:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `13`, risk hits `7`, risk headline rate `0.4615`, policy hits `0`
+- crypto: articles `14`, risk hits `7`, risk headline rate `0.4286`, policy hits `0`
 - macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `1`
-- policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] $7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Poundland collapses putting 11,000 jobs at risk (BBC News)
 - [macro] New UK-EU treaty has 10-year termination clause, BBC understands (BBC News)
 - [macro] FedEx plane overshoots Miami runway, causing brief suspension of flights at airport (BBC News)
@@ -37,4 +37,3 @@
 - [crypto] UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report (Cointelegraph.com News)
 - [crypto] Ripple is worth $90 a share to one fund and $300 to another, SEC filings show (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Sky proposes emergency vote on $25M transfer amid liquidity stress (Cointelegraph.com News)
-- [crypto] 1Password hacker stole customer names and emails, but vaults safe (Cointelegraph.com News)
