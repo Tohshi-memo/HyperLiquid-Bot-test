@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-26T11:45:29.926240+00:00`
+- Generated: `2026-11-26T11:50:27.732370+00:00`
 - Flow alert score: `19.72`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1642197.9267830001` | liquidity: `543424.41077`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1392472.444375` | liquidity: `434620.56806`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `737403.236897` | liquidity: `1030739.7158`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `628444.712682` | liquidity: `1358782.93065`
-- Will the US confirm that aliens exist before 2027? | 24h volume: `500373.9726419999` | liquidity: `2781779.34033`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1642197.9267830001` | liquidity: `544372.95963`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `1392472.444375` | liquidity: `434781.15471`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `737403.236897` | liquidity: `1064106.1646`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `628444.712682` | liquidity: `1358775.78483`
+- Will the US confirm that aliens exist before 2027? | 24h volume: `500373.9726419999` | liquidity: `2781896.56321`
 - Fourth Jensen Huang affair reported by November 30? | 24h volume: `496994.4` | liquidity: `551826.31718`
 - Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `450510.903487` | liquidity: `162669.74126`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `369429.885172` | liquidity: `170451.7372`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `369429.885172` | liquidity: `172623.3444`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
