@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T04:52:29.626376+00:00`
-- Market context score: `42.23`
-- News risk score: `40.56`
-- Macro risk score: `28.84`
-- Risk-on score: `16.76`
+- Generated: `2026-11-26T05:07:34.547311+00:00`
+- Market context score: `40.52`
+- News risk score: `42.95`
+- Macro risk score: `29.32`
+- Risk-on score: `15.17`
 - Articles: `44`
 - Polymarket markets: `392`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T04:45:00+00:00`
+- Day/swing latest: `2026-11-26T05:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `14`, risk hits `6`, risk headline rate `0.2857`, policy hits `2`
-- macro: articles `28`, risk hits `7`, risk headline rate `0.25`, policy hits `3`
+- crypto: articles `15`, risk hits `7`, risk headline rate `0.3333`, policy hits `2`
+- macro: articles `27`, risk hits `7`, risk headline rate `0.2593`, policy hits `3`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [crypto] 1Password hacker stole customer names and emails, but vaults safe (Cointelegraph.com News)
 - [crypto] Bill to lock up U.S. government bitcoin for 20 years advances to full House (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions (Cointelegraph.com News)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
@@ -37,4 +38,3 @@
 - [macro] UK government set to publish new treaties agreed with EU (BBC News)
 - [macro] As foreign troops withdraw from Somalia, could al-Shabab take over? (BBC News)
 - [crypto] AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says (Cointelegraph.com News)
-- [macro] California warns of flooding as King Tides peak over Thanksgiving (BBC News)
