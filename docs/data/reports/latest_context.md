@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T07:37:23.301402+00:00`
-- Market context score: `37.07`
-- News risk score: `47.3`
-- Macro risk score: `28.81`
-- Risk-on score: `10.97`
-- Articles: `40`
+- Generated: `2026-11-26T07:52:31.841679+00:00`
+- Market context score: `37.89`
+- News risk score: `46.36`
+- Macro risk score: `27.06`
+- Risk-on score: `11.35`
+- Articles: `38`
 - Polymarket markets: `393`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T07:30:00+00:00`
+- Day/swing latest: `2026-11-26T07:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `13`, risk hits `7`, risk headline rate `0.4615`, policy hits `0`
-- macro: articles `25`, risk hits `7`, risk headline rate `0.28`, policy hits `2`
+- macro: articles `23`, risk hits `6`, risk headline rate `0.2609`, policy hits `1`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
+- [macro] Poundland collapses putting 11,000 jobs at risk (BBC News)
+- [macro] New UK-EU treaty has 10-year termination clause, BBC understands (BBC News)
 - [macro] FedEx plane overshoots Miami runway, causing brief suspension of flights at airport (BBC News)
 - [crypto] Zcash developers want users to move $300 million out of an older privacy system (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -36,5 +38,3 @@
 - [crypto] Ripple is worth $90 a share to one fund and $300 to another, SEC filings show (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Sky proposes emergency vote on $25M transfer amid liquidity stress (Cointelegraph.com News)
 - [crypto] 1Password hacker stole customer names and emails, but vaults safe (Cointelegraph.com News)
-- [crypto] Bill to lock up U.S. government bitcoin for 20 years advances to full House (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions (Cointelegraph.com News)
