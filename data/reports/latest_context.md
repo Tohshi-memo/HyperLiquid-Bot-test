@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T15:37:33.601693+00:00`
-- Market context score: `45.49`
-- News risk score: `45.75`
-- Macro risk score: `22.79`
-- Risk-on score: `26.12`
-- Articles: `64`
+- Generated: `2026-11-26T15:52:28.235959+00:00`
+- Market context score: `45.83`
+- News risk score: `45.37`
+- Macro risk score: `22.77`
+- Risk-on score: `26.54`
+- Articles: `65`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T15:30:00+00:00`
+- Day/swing latest: `2026-11-26T15:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `25`, risk hits `9`, risk headline rate `0.36`, policy hits `2`
+- crypto: articles `26`, risk hits `9`, risk headline rate `0.3462`, policy hits `2`
 - macro: articles `35`, risk hits `6`, risk headline rate `0.1429`, policy hits `2`
 
 ## Headlines
 
+- [crypto] How EU brokers could lose access to Kyrgyz crypto exchanges (Cointelegraph.com News)
 - [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
 - [macro] New UK-EU treaty has 10-year termination clause (BBC News)
 - [macro] New UK-EU treaty has 10-year termination clause (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Norse Atlantic suspends all flights as it faces potential collapse (BBC News)
 - [crypto] Spain gives anti-laundering unit power to freeze crypto accounts without a judge (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] When will Poundland close? Five questions about its future (BBC News)
-- [macro] Millions of people to see average monthly mortgage payments rise by £100 (BBC News)
