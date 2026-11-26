@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T16:37:35.434400+00:00`
-- Market context score: `48.08`
-- News risk score: `42.1`
-- Macro risk score: `19.69`
-- Risk-on score: `27.61`
-- Articles: `65`
+- Generated: `2026-11-26T16:52:27.024881+00:00`
+- Market context score: `48.34`
+- News risk score: `41.82`
+- Macro risk score: `19.67`
+- Risk-on score: `27.95`
+- Articles: `66`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T16:30:00+00:00`
+- Day/swing latest: `2026-11-26T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `4`, risk hits `1`, risk headline rate `0.25`, policy hits `0`
-- crypto: articles `26`, risk hits `8`, risk headline rate `0.3077`, policy hits `2`
+- crypto: articles `27`, risk hits `8`, risk headline rate `0.2963`, policy hits `2`
 - macro: articles `35`, risk hits `4`, risk headline rate `0.0857`, policy hits `2`
 
 ## Headlines
 
-- [macro] Two Italians killed after Iranian strike in Kuwait (BBC News)
+- [crypto] Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] BIS chief Pablo Hernández de Cos set to become next ECB president: FT (Cointelegraph.com News)
+- [macro] Italy says two citizens killed in Iranian strike in Kuwait (BBC News)
 - [macro] Nine injured, three critically, after Bangkok oil refinery explosion (BBC News)
 - [macro] Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US (BBC News)
 - [macro] When will Poundland shops close? Five key questions answered (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Crypto for Advisors: Four questions to ask before trusting a crypto exchange (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
 - [macro] New UK-EU treaty has 10-year termination clause (BBC News)
-- [macro] New UK-EU treaty has 10-year termination clause (BBC News)
-- [macro] Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one (BBC News)
