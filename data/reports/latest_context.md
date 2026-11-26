@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T01:37:32.545803+00:00`
-- Market context score: `45.61`
-- News risk score: `44.84`
-- Macro risk score: `30.57`
-- Risk-on score: `28.55`
+- Generated: `2026-11-26T01:52:30.704287+00:00`
+- Market context score: `44.86`
+- News risk score: `44.23`
+- Macro risk score: `31.03`
+- Risk-on score: `26.53`
 - Articles: `53`
 - Polymarket markets: `392`
 
@@ -18,18 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T01:30:00+00:00`
+- Day/swing latest: `2026-11-26T01:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `1`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `16`, risk hits `7`, risk headline rate `0.3125`, policy hits `2`
-- macro: articles `34`, risk hits `10`, risk headline rate `0.2647`, policy hits `5`
+- crypto: articles `17`, risk hits `7`, risk headline rate `0.2941`, policy hits `2`
+- macro: articles `33`, risk hits `10`, risk headline rate `0.2727`, policy hits `5`
 - policy: articles `2`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 
 ## Headlines
 
-- [macro] California warned of potential Thanksgiving flooding as storms threaten US coasts (BBC News)
+- [crypto] AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says (Cointelegraph.com News)
+- [macro] California warns of flooding as king tides peak over Thanksgiving (BBC News)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] US announces new tariffs on host of countries including China (BBC News)
 - [macro] The US pastor who wants to see women's right to vote overturned (BBC News)
@@ -38,4 +39,3 @@
 - [macro] US Army says controlled blast of explosives in Iowa was 'huge success' (BBC News)
 - [macro] Has global jihadism failed, or is it simply changing shape? (BBC News)
 - [macro] US approves SpaceX plan to send a million data satellites to space (BBC News)
-- [macro] Guitar wars - the transatlantic battle over the Stratocaster (BBC News)
