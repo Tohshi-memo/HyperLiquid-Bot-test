@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T12:22:35.828229+00:00`
+- Generated: `2026-11-26T12:37:27.048086+00:00`
 - Market context score: `46.59`
 - News risk score: `43.62`
 - Macro risk score: `25.75`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T12:15:00+00:00`
+- Day/swing latest: `2026-11-26T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Tributes for Duran Duran guitarist Andy Taylor after his death at 65 (BBC News)
 - [crypto] Bitcoin ETFs are bleeding cash and the Fed is unlikely to help (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve (Cointelegraph.com News)
 - [macro] U.S. tariff-hike threats pile pressure on partners to sign trade deals (Economy)
@@ -37,4 +38,3 @@
 - [macro] Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one (BBC News)
 - [crypto] Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity (Cointelegraph.com News)
 - [macro] Seven injured, four critically, after Bangkok oil refinery explosion (BBC News)
-- [macro] Drivers over 70 face eye tests every three years under new plans (BBC News)
