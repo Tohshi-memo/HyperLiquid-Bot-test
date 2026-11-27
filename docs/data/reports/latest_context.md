@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T20:37:28.589723+00:00`
-- Market context score: `54.53`
-- News risk score: `30.4`
-- Macro risk score: `22.59`
-- Risk-on score: `33.16`
-- Articles: `36`
+- Generated: `2026-11-27T20:52:28.404240+00:00`
+- Market context score: `53.81`
+- News risk score: `31.11`
+- Macro risk score: `24.0`
+- Risk-on score: `32.69`
+- Articles: `34`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T20:30:00+00:00`
+- Day/swing latest: `2026-11-27T20:45:00+00:00`
 
 ## News Categories
 
-- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
-- [macro] Capsized tanker with 7,000 tonnes of diesel to be towed away from Ibiza (BBC News)
+- [macro] Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza (BBC News)
 - [macro] Spanish PM and rivals rally supporters in final pitch for votes (BBC News)
 - [macro] 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
 - [crypto] Bitcoin whales pile into BTC despite shrinking profit cushion (Cointelegraph.com News)
