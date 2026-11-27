@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T10:37:22.873377+00:00`
-- Market context score: `45.66`
-- News risk score: `34.98`
+- Generated: `2026-11-27T10:52:28.669035+00:00`
+- Market context score: `43.62`
+- News risk score: `37.98`
 - Macro risk score: `27.67`
-- Risk-on score: `19.24`
+- Risk-on score: `17.24`
 - Articles: `36`
 - Polymarket markets: `390`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T10:30:00+00:00`
+- Day/swing latest: `2026-11-27T10:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `4`, risk headline rate `0.2`, policy hits `1`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `1`
 - macro: articles `19`, risk hits `5`, risk headline rate `0.2105`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Hundreds of thousands still without power after storms hit US on Thanksgiving (BBC News)
 - [crypto] Bluefin to shut down perps, refocus on spot trading and tokenized RWAs (Cointelegraph.com News)
 - [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Guinea-Bissau's military leaders delay return to civilian rule until 2028 (BBC News)
 - [macro] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Economy)
 - [commodity] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Energy)
-- [macro] Millions of wives in South Asia unprotected from marital rape - study (BBC News)
