@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T05:52:26.424420+00:00`
-- Market context score: `45.03`
-- News risk score: `35.94`
-- Macro risk score: `26.95`
-- Risk-on score: `18.37`
-- Articles: `30`
+- Generated: `2026-11-27T06:07:25.868707+00:00`
+- Market context score: `45.54`
+- News risk score: `35.19`
+- Macro risk score: `26.92`
+- Risk-on score: `18.87`
+- Articles: `31`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T05:45:00+00:00`
+- Day/swing latest: `2026-11-27T06:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `1`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `1`
 - macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Japan’s crypto security group taps SEAL to speed up hack response (Cointelegraph.com News)
 - [macro] China’s factories are growing profits again, but the AI boom is picking the winners (Economy)
 - [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ (Energy)
 - [macro] New Zealand's ruling coalition falls short of parliamentary majority by one seat (BBC News)
-- [crypto] AI is driving a flood of crypto bug reports. Now it’s helping sort them (Cointelegraph.com News)
