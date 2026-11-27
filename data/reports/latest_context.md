@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T05:22:26.813628+00:00`
-- Market context score: `47.72`
-- News risk score: `32.0`
-- Macro risk score: `27.68`
-- Risk-on score: `21.29`
-- Articles: `32`
+- Generated: `2026-11-27T05:37:26.516749+00:00`
+- Market context score: `45.22`
+- News risk score: `35.67`
+- Macro risk score: `27.73`
+- Risk-on score: `18.87`
+- Articles: `31`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T05:15:00+00:00`
+- Day/swing latest: `2026-11-27T05:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `15`, risk hits `2`, risk headline rate `0.1333`, policy hits `2`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `2`
 - macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Japan’s crypto security group taps SEAL to speed up hack response (Cointelegraph.com News)
 - [macro] China’s factories are growing profits again, but the AI boom is picking the winners (Economy)
 - [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
 - [crypto] Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
@@ -37,4 +38,3 @@
 - [commodity] Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ (Energy)
 - [macro] New Zealand's ruling coalition falls short of parliamentary majority by one seat (BBC News)
 - [crypto] AI is driving a flood of crypto bug reports. Now it’s helping sort them (Cointelegraph.com News)
-- [macro] I spend £200 a month on fancy meals by myself - would you dine solo? (BBC News)
