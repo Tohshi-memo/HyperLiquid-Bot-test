@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T04:52:24.687614+00:00`
-- Market context score: `50.79`
-- News risk score: `32.07`
-- Macro risk score: `26.14`
-- Risk-on score: `27.61`
-- Articles: `31`
+- Generated: `2026-11-27T05:07:27.046561+00:00`
+- Market context score: `51.14`
+- News risk score: `31.56`
+- Macro risk score: `26.11`
+- Risk-on score: `27.94`
+- Articles: `32`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T04:45:00+00:00`
+- Day/swing latest: `2026-11-27T05:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `2`, risk headline rate `0.1538`, policy hits `1`
+- crypto: articles `14`, risk hits `2`, risk headline rate `0.1429`, policy hits `1`
 - macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays (Cointelegraph.com News)
 - [crypto] Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ (Energy)
@@ -37,4 +38,3 @@
 - [macro] I spend £200 a month on fancy meals by myself - would you dine solo? (BBC News)
 - [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
 - [macro] Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple (BBC News)
-- [macro] Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind (BBC News)
