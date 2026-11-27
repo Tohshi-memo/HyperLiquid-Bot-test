@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T07:22:27.080803+00:00`
-- Market context score: `44.31`
-- News risk score: `36.79`
-- Macro risk score: `28.52`
-- Risk-on score: `18.08`
+- Generated: `2026-11-27T07:37:31.478100+00:00`
+- Market context score: `42.36`
+- News risk score: `39.24`
+- Macro risk score: `30.18`
+- Risk-on score: `16.44`
 - Articles: `33`
 - Polymarket markets: `390`
 
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T07:15:00+00:00`
+- Day/swing latest: `2026-11-27T07:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `1`
+- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `1`
+- macro: articles `17`, risk hits `4`, risk headline rate `0.2353`, policy hits `1`
 
 ## Headlines
 
+- [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
+- [crypto] Monero suffers biggest single-day slide in over 5 months. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] New York AG secures $1.37B court judgment against NovaTech founders (Cointelegraph.com News)
 - [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
 - [macro] China’s factories are growing profits again, but the AI boom is picking the winners (Economy)
 - [macro] Could housing decide Spain's general election? (BBC News)
@@ -35,6 +38,3 @@
 - [crypto] Japan’s crypto security group taps SEAL to speed up hack response (Cointelegraph.com News)
 - [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
 - [crypto] Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays (Cointelegraph.com News)
-- [crypto] Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
