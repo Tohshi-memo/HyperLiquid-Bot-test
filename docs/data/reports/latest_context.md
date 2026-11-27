@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T19:52:38.688598+00:00`
-- Market context score: `52.29`
-- News risk score: `30.38`
+- Generated: `2026-11-27T20:07:25.689314+00:00`
+- Market context score: `52.05`
+- News risk score: `30.73`
 - Macro risk score: `23.25`
-- Risk-on score: `28.42`
-- Articles: `36`
+- Risk-on score: `28.18`
+- Articles: `35`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T19:45:00+00:00`
+- Day/swing latest: `2026-11-27T20:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
+- crypto: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
-- [crypto] Bitcoin whales pile into BTC despite shrinking profit cushion (Cointelegraph.com News)
 - [macro] 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
+- [crypto] Bitcoin whales pile into BTC despite shrinking profit cushion (Cointelegraph.com News)
 - [macro] Weary of war but with no sign of backing down, Kyiv faces another punishing winter (BBC News)
 - [macro] Zelensky criticises 'strange' Trump-Putin friendship in BBC interview (BBC News)
 - [crypto] China sets March 2027 rollout for blockchain identity regulations (Cointelegraph.com News)
