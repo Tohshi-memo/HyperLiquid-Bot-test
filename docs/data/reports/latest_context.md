@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T22:07:31.439626+00:00`
-- Market context score: `53.54`
-- News risk score: `31.5`
-- Macro risk score: `24.0`
-- Risk-on score: `32.43`
-- Articles: `33`
+- Generated: `2026-11-27T22:22:32.014709+00:00`
+- Market context score: `48.54`
+- News risk score: `36.41`
+- Macro risk score: `33.82`
+- Risk-on score: `29.16`
+- Articles: `29`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T22:00:00+00:00`
+- Day/swing latest: `2026-11-27T22:15:00+00:00`
 
 ## News Categories
 
 - crypto: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
-- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `11`, risk hits `4`, risk headline rate `0.3636`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
+- [macro] Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law (BBC News)
 - [macro] Spanish PM and rivals rally supporters in final pitch for votes (BBC News)
 - [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
 - [crypto] Franklin Templeton makes room for HYPE in crypto index ETF (Cointelegraph.com News)
@@ -35,5 +37,3 @@
 - [crypto] Bitcoin whales pile into BTC despite shrinking profit cushion (Cointelegraph.com News)
 - [macro] Weary of war but with no sign of backing down, Kyiv faces another punishing winter (BBC News)
 - [macro] Zelensky criticises 'strange' Trump-Putin friendship in BBC interview (BBC News)
-- [crypto] China sets March 2027 rollout for blockchain identity regulations (Cointelegraph.com News)
-- [macro] Kenyan doomsday cult leader convicted over further 123 deaths (BBC News)
