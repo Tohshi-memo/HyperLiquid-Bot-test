@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T08:52:25.385265+00:00`
+- Generated: `2026-11-27T09:07:26.561206+00:00`
 - Market context score: `45.08`
 - News risk score: `36.55`
 - Macro risk score: `24.82`
 - Risk-on score: `18.19`
 - Articles: `36`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T08:45:00+00:00`
+- Day/swing latest: `2026-11-27T09:00:00+00:00`
 
 ## News Categories
 
