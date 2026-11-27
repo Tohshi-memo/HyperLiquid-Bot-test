@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T04:22:27.256615+00:00`
-- Market context score: `53.75`
-- News risk score: `28.61`
-- Macro risk score: `26.14`
-- Risk-on score: `31.25`
-- Articles: `31`
+- Generated: `2026-11-27T04:37:35.693086+00:00`
+- Market context score: `53.92`
+- News risk score: `28.35`
+- Macro risk score: `26.11`
+- Risk-on score: `31.41`
+- Articles: `32`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T04:15:00+00:00`
+- Day/swing latest: `2026-11-27T04:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
-- crypto: articles `13`, risk hits `1`, risk headline rate `0.0769`, policy hits `1`
+- crypto: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `1`
 - macro: articles `17`, risk hits `3`, risk headline rate `0.1765`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [commodity] Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ (Energy)
 - [macro] New Zealand's ruling coalition falls short of parliamentary majority by one seat (BBC News)
 - [macro] China industrial profits growth surges to a 5-month high of 20.1% in October (Economy)
@@ -37,4 +38,3 @@
 - [macro] Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple (BBC News)
 - [macro] Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind (BBC News)
 - [crypto] Privacy coins face diverging fortunes as KuCoin moves to drop Monero (Cointelegraph.com News)
-- [macro] Why is there a shortage of 'wizard' elevator mechanics? (BBC News)
