@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T19:22:35.177714+00:00`
-- Market context score: `52.63`
-- News risk score: `30.04`
-- Macro risk score: `22.59`
-- Risk-on score: `28.64`
-- Articles: `37`
+- Generated: `2026-11-27T19:37:24.657651+00:00`
+- Market context score: `52.29`
+- News risk score: `30.38`
+- Macro risk score: `23.25`
+- Risk-on score: `28.42`
+- Articles: `36`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T19:15:00+00:00`
+- Day/swing latest: `2026-11-27T19:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `20`, risk hits `3`, risk headline rate `0.15`, policy hits `0`
-- macro: articles `16`, risk hits `3`, risk headline rate `0.1875`, policy hits `0`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Bitcoin whales pile into BTC despite shrinking profit cushion (Cointelegraph.com News)
 - [macro] 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
 - [macro] Weary of war but with no sign of backing down, Kyiv faces another punishing winter (BBC News)
 - [macro] Zelensky criticises 'strange' Trump-Putin friendship in BBC interview (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Bitcoin price drops below $59K as Anthropic joins tech stock rebound (Cointelegraph.com News)
 - [macro] Brazil pushes back on Macron calling its meat 'doped' (BBC News)
 - [crypto] What was Coinbase worth while Nasdaq was closed? (Cointelegraph.com News)
-- [crypto] Binance to launch tokenized IPO program after regulatory approval: Yi He (Cointelegraph.com News)
