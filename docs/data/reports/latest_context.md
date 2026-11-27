@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T17:07:38.019840+00:00`
+- Generated: `2026-11-27T17:22:27.118893+00:00`
 - Market context score: `49.22`
 - News risk score: `35.34`
 - Macro risk score: `22.14`
 - Risk-on score: `25.37`
 - Articles: `46`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T17:00:00+00:00`
+- Day/swing latest: `2026-11-27T17:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] Kenyan doomsday cult leader convicted over further 123 deaths (BBC News)
 - [macro] Canada's top court largely upholds Quebec ban on religious symbols for public servants (BBC News)
 - [crypto] Bitcoin price drops below $59K as Anthropic joins tech stock rebound (Cointelegraph.com News)
-- [macro] Kenyan doomsday cult leader convicted over further 123 deaths (BBC News)
 - [macro] Brazil pushes back on Macron calling its meat 'doped' (BBC News)
 - [macro] John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in (BBC News)
 - [macro] Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
