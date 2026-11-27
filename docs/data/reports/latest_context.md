@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T06:07:25.868707+00:00`
+- Generated: `2026-11-27T06:22:29.881428+00:00`
 - Market context score: `45.54`
 - News risk score: `35.19`
 - Macro risk score: `26.92`
 - Risk-on score: `18.87`
 - Articles: `31`
-- Polymarket markets: `390`
+- Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T06:00:00+00:00`
+- Day/swing latest: `2026-11-27T06:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] China’s factories are growing profits again, but the AI boom is picking the winners (Economy)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Japan’s crypto security group taps SEAL to speed up hack response (Cointelegraph.com News)
-- [macro] China’s factories are growing profits again, but the AI boom is picking the winners (Economy)
 - [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
 - [crypto] Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays (Cointelegraph.com News)
