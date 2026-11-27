@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T20:07:25.689314+00:00`
-- Market context score: `52.05`
+- Generated: `2026-11-27T20:22:29.935002+00:00`
+- Market context score: `54.19`
 - News risk score: `30.73`
 - Macro risk score: `23.25`
-- Risk-on score: `28.18`
+- Risk-on score: `32.94`
 - Articles: `35`
 - Polymarket markets: `390`
 
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T20:00:00+00:00`
+- Day/swing latest: `2026-11-27T20:15:00+00:00`
 
 ## News Categories
 
@@ -28,6 +28,7 @@
 
 ## Headlines
 
+- [macro] Spanish PM and rivals rally supporters in final pitch for votes (BBC News)
 - [macro] 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
 - [crypto] Bitcoin whales pile into BTC despite shrinking profit cushion (Cointelegraph.com News)
 - [macro] Weary of war but with no sign of backing down, Kyiv faces another punishing winter (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Canada's top court largely upholds Quebec ban on religious symbols for public servants (BBC News)
 - [crypto] Bitcoin price drops below $59K as Anthropic joins tech stock rebound (Cointelegraph.com News)
 - [macro] Brazil pushes back on Macron calling its meat 'doped' (BBC News)
-- [crypto] What was Coinbase worth while Nasdaq was closed? (Cointelegraph.com News)
