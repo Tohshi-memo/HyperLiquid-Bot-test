@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T06:37:28.825506+00:00`
-- Market context score: `45.81`
-- News risk score: `35.17`
-- Macro risk score: `25.41`
-- Risk-on score: `18.87`
-- Articles: `32`
+- Generated: `2026-11-27T06:52:31.393232+00:00`
+- Market context score: `44.31`
+- News risk score: `36.79`
+- Macro risk score: `28.52`
+- Risk-on score: `18.08`
+- Articles: `33`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T06:30:00+00:00`
+- Day/swing latest: `2026-11-27T06:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `2`, risk headline rate `1.0`, policy hits `0`
 - crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
+- macro: articles `19`, risk hits `4`, risk headline rate `0.2105`, policy hits `1`
 
 ## Headlines
 
+- [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
 - [macro] China’s factories are growing profits again, but the AI boom is picking the winners (Economy)
 - [macro] Could housing decide Spain's general election? (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [crypto] Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays (Cointelegraph.com News)
 - [crypto] Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [commodity] Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ (Energy)
