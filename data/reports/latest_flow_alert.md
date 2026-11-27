@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-27T05:50:29.559259+00:00`
+- Generated: `2026-11-27T05:55:41.545054+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `8452558.36`
-- Polymarket volume z-score: `-0.52`
+- Polymarket 24h volume: `8694139.85`
+- Polymarket volume z-score: `-0.42`
 
 ## Top Polymarket Markets
 
-- Will the price of Bitcoin be between $60,000 and $62,000 on November 27? | 24h volume: `2028491.0754299997` | liquidity: `44977.5585`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `395810.3324659999` | liquidity: `376385.0346`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `386725.649507` | liquidity: `438955.5215`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `315979.29435499996` | liquidity: `392418.69022`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `234088.793923` | liquidity: `149030.64244`
-- Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13? | 24h volume: `209285.85881` | liquidity: `28728.42221`
-- Israel x Iran ceasefire continues through November 30? | 24h volume: `189473.759081` | liquidity: `100554.0554`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `186182.532679` | liquidity: `468556.1563`
+- Will the price of Bitcoin be between $60,000 and $62,000 on November 27? | 24h volume: `2028538.3750529997` | liquidity: `44672.7173`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `597520.909954` | liquidity: `429220.73843`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `410678.474739` | liquidity: `368720.2643`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `317833.77368999994` | liquidity: `406579.12213`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `242366.782549` | liquidity: `150462.42878`
+- Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13? | 24h volume: `209285.85880999998` | liquidity: `27854.65519`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `186182.532679` | liquidity: `470511.06769`
+- Will Pedro Sánchez be the next Prime Minister of Spain? | 24h volume: `183473.366262` | liquidity: `333105.62141`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
