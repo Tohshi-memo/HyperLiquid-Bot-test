@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T09:07:26.561206+00:00`
-- Market context score: `45.08`
-- News risk score: `36.55`
-- Macro risk score: `24.82`
-- Risk-on score: `18.19`
-- Articles: `36`
+- Generated: `2026-11-27T09:22:27.633749+00:00`
+- Market context score: `44.17`
+- News risk score: `37.74`
+- Macro risk score: `25.47`
+- Risk-on score: `17.43`
+- Articles: `34`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,23 +18,23 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T09:00:00+00:00`
+- Day/swing latest: `2026-11-27T09:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `15`, risk hits `5`, risk headline rate `0.2667`, policy hits `1`
-- macro: articles `19`, risk hits `4`, risk headline rate `0.1579`, policy hits `1`
+- crypto: articles `14`, risk hits `5`, risk headline rate `0.2857`, policy hits `1`
+- macro: articles `18`, risk hits `4`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
+- [macro] Zelensky criticises 'strange' Trump-Putin friendship in BBC interview (BBC News)
 - [macro] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Economy)
 - [commodity] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Energy)
 - [macro] Millions of wives in South Asia unprotected from marital rape - study (BBC News)
 - [crypto] ESMA to overhaul EU’s MiCA crypto register in 2027 (Cointelegraph.com News)
-- [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
 - [crypto] Monero suffers biggest single-day slide in over 5 months. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] New York AG secures $1.37B court judgment against NovaTech founders (Cointelegraph.com News)
 - [macro] Spain’s Pablo Hernández de Cos set to lead European Central Bank (Economy)
 - [macro] China’s factories are growing profits again, but the AI boom is picking the winners (Economy)
-- [macro] Could housing decide Spain's general election? (BBC News)
