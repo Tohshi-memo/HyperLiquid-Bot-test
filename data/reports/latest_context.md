@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T21:52:26.413326+00:00`
-- Market context score: `53.81`
-- News risk score: `31.11`
+- Generated: `2026-11-27T22:07:31.439626+00:00`
+- Market context score: `53.54`
+- News risk score: `31.5`
 - Macro risk score: `24.0`
-- Risk-on score: `32.69`
-- Articles: `34`
+- Risk-on score: `32.43`
+- Articles: `33`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T21:45:00+00:00`
+- Day/swing latest: `2026-11-27T22:00:00+00:00`
 
 ## News Categories
 
-- crypto: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `0`
+- crypto: articles `18`, risk hits `3`, risk headline rate `0.1667`, policy hits `0`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
-- [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
 - [macro] Spanish PM and rivals rally supporters in final pitch for votes (BBC News)
+- [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
 - [crypto] Franklin Templeton makes room for HYPE in crypto index ETF (Cointelegraph.com News)
 - [macro] Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza (BBC News)
 - [macro] 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
