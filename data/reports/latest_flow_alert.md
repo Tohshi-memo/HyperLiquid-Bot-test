@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-27T18:30:27.574229+00:00`
+- Generated: `2026-11-27T18:35:36.632731+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1585477.4911790001` | liquidity: `1751189.72615`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1052734.012789` | liquidity: `575732.92437`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `847962.09225` | liquidity: `305499.1802`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `386920.12828`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `436785.06835799996` | liquidity: `505531.54296`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `433528.11032800004` | liquidity: `274177.31004`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `305670.506121` | liquidity: `1044913.1489`
-- Will Pedro Sánchez be the next Prime Minister of Spain? | 24h volume: `232536.81523500002` | liquidity: `296728.55204`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `1585477.4911790001` | liquidity: `1765413.59636`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `1052734.012789` | liquidity: `583128.27888`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `847962.09225` | liquidity: `313385.691`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `387219.64828`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `436785.06835799996` | liquidity: `515255.97709`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `433528.11032800004` | liquidity: `293938.0661`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `305670.506121` | liquidity: `1045774.1535`
+- Will Pedro Sánchez be the next Prime Minister of Spain? | 24h volume: `232536.81523500002` | liquidity: `297571.84737`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
