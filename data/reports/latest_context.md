@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T15:22:27.985829+00:00`
-- Market context score: `46.48`
-- News risk score: `38.16`
-- Macro risk score: `26.11`
-- Risk-on score: `23.15`
-- Articles: `47`
+- Generated: `2026-11-27T15:37:28.884498+00:00`
+- Market context score: `47.65`
+- News risk score: `36.86`
+- Macro risk score: `24.0`
+- Risk-on score: `23.86`
+- Articles: `46`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,18 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T15:15:00+00:00`
+- Day/swing latest: `2026-11-27T15:30:00+00:00`
 
 ## News Categories
 
-- commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
+- commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
 - macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `1`
 
 ## Headlines
 
-- [macro] Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
 - [macro] Canada's top court largely upholds Quebec ban on religious symbols for public servants (BBC News)
+- [macro] Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
 - [crypto] What was Coinbase worth while Nasdaq was closed? (Cointelegraph.com News)
 - [crypto] Binance to launch tokenized IPO program after regulatory approval: Yi He (Cointelegraph.com News)
 - [macro] Rare turtles found inside baggage at Amsterdam airport (BBC News)
