@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T15:07:40.302940+00:00`
-- Market context score: `49.79`
-- News risk score: `35.49`
-- Macro risk score: `21.27`
-- Risk-on score: `26.44`
-- Articles: `46`
+- Generated: `2026-11-27T15:22:27.985829+00:00`
+- Market context score: `46.48`
+- News risk score: `38.16`
+- Macro risk score: `26.11`
+- Risk-on score: `23.15`
+- Articles: `47`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,17 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T15:00:00+00:00`
+- Day/swing latest: `2026-11-27T15:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `20`, risk hits `3`, risk headline rate `0.1`, policy hits `1`
+- macro: articles `21`, risk hits `5`, risk headline rate `0.1905`, policy hits `1`
 
 ## Headlines
 
-- [macro] Hundreds of thousands still without power after storms hit US on Thanksgiving (BBC News)
+- [macro] Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
+- [macro] Canada's top court largely upholds Quebec ban on religious symbols for public servants (BBC News)
 - [crypto] What was Coinbase worth while Nasdaq was closed? (Cointelegraph.com News)
 - [crypto] Binance to launch tokenized IPO program after regulatory approval: Yi He (Cointelegraph.com News)
 - [macro] Rare turtles found inside baggage at Amsterdam airport (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Brazil’s stock exchange pushes stablecoin launch back to 2027 (Cointelegraph.com News)
 - [crypto] Austria-supervised crypto firms report 20.4B euros in H1 trading volume (Cointelegraph.com News)
 - [crypto] Bitcoin 'death cross' is coming. Here's what happened after previous 13. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin on course to end seven-week losing streak while trailing stock rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
