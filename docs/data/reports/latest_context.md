@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-26T23:52:24.199772+00:00`
-- Market context score: `48.4`
-- News risk score: `31.91`
-- Macro risk score: `24.74`
-- Risk-on score: `21.63`
-- Articles: `41`
+- Generated: `2026-11-27T00:07:21.647675+00:00`
+- Market context score: `48.57`
+- News risk score: `31.89`
+- Macro risk score: `24.22`
+- Risk-on score: `21.78`
+- Articles: `42`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-26T23:45:00+00:00`
+- Day/swing latest: `2026-11-27T00:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `19`, risk hits `3`, risk headline rate `0.1579`, policy hits `2`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `1`
+- macro: articles `23`, risk hits `5`, risk headline rate `0.1739`, policy hits `1`
 
 ## Headlines
 
+- [macro] Why is there a shortage of 'wizard' elevator mechanics? (BBC News)
+- [macro] UK to pay 'participation' fee to deliver EU deals (BBC News)
 - [macro] Asia made a big AI bet on Nvidia. What happens now? (BBC News)
 - [macro] My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire (BBC News)
 - [macro] US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC (BBC News)
@@ -35,5 +37,3 @@
 - [macro] Zelensky questions 'strange' Trump-Putin friendship in BBC interview (BBC News)
 - [macro] Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one (BBC News)
 - [crypto] BNB Chain details new layer-1 for trading, private finance and AI (Cointelegraph.com News)
-- [crypto] Binance completes withdrawal recovery four weeks after $6.3B hack (Cointelegraph.com News)
-- [macro] Two Italians killed in strike in Kuwait, as Iran denies responsibility (BBC News)
