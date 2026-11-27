@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T00:52:22.675246+00:00`
-- Market context score: `51.12`
-- News risk score: `28.37`
-- Macro risk score: `21.89`
-- Risk-on score: `23.61`
-- Articles: `38`
+- Generated: `2026-11-27T01:07:23.131650+00:00`
+- Market context score: `49.06`
+- News risk score: `30.53`
+- Macro risk score: `25.72`
+- Risk-on score: `22.3`
+- Articles: `41`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,22 +18,22 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T00:45:00+00:00`
+- Day/swing latest: `2026-11-27T01:00:00+00:00`
 
 ## News Categories
 
 - crypto: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `1`
-- macro: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
+- macro: articles `24`, risk hits `6`, risk headline rate `0.2083`, policy hits `1`
 
 ## Headlines
 
-- [crypto] Privacy coins face diverging fortunes as KuCoin moves to drop Monero (Cointelegraph.com News)
+- [macro] I spend £200 a month on fancy meals by myself - would you dine solo? (BBC News)
 - [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
+- [macro] Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple (BBC News)
+- [macro] Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind (BBC News)
+- [crypto] Privacy coins face diverging fortunes as KuCoin moves to drop Monero (Cointelegraph.com News)
 - [macro] Why is there a shortage of 'wizard' elevator mechanics? (BBC News)
 - [macro] UK to pay 'participation' fee to deliver EU deals (BBC News)
 - [macro] Asia made a big AI bet on Nvidia. What happens now? (BBC News)
 - [macro] My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire (BBC News)
 - [macro] US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC (BBC News)
-- [crypto] ‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express (Cointelegraph.com News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Zelensky questions 'strange' Trump-Putin friendship in BBC interview (BBC News)
