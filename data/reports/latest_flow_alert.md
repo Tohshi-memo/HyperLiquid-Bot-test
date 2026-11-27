@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-27T12:55:25.874838+00:00`
+- Generated: `2026-11-27T13:00:33.094428+00:00`
 - Flow alert score: `17.4`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the price of Bitcoin be between $60,000 and $62,000 on November 27? | 24h volume: `2038013.396961` | liquidity: `42201.9552`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `807789.744499` | liquidity: `639615.1044`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `759675.268508` | liquidity: `1381184.13305`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `510921.87240999995` | liquidity: `406610.9007`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `333827.017467` | liquidity: `507260.16128`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `315249.968591` | liquidity: `408818.53407`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `306299.528039` | liquidity: `1338261.6556`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `295597.985263` | liquidity: `136733.81178`
+- Will the price of Bitcoin be between $60,000 and $62,000 on November 27? | 24h volume: `2038013.396961` | liquidity: `41209.8201`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `807789.744499` | liquidity: `640428.07486`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `759675.268508` | liquidity: `1381183.63285`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `510921.87240999995` | liquidity: `404234.7431`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `333827.017467` | liquidity: `509302.26378`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `315249.968591` | liquidity: `405763.13438`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `306299.528039` | liquidity: `1337904.1411`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `295597.985263` | liquidity: `137856.12321`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
