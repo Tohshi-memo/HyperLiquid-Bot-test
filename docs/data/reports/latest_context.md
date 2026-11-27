@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T23:07:26.858870+00:00`
-- Market context score: `53.38`
-- News risk score: `31.0`
-- Macro risk score: `32.0`
-- Risk-on score: `34.67`
+- Generated: `2026-11-27T23:22:36.568910+00:00`
+- Market context score: `54.02`
+- News risk score: `30.45`
+- Macro risk score: `30.46`
+- Risk-on score: `35.04`
 - Articles: `27`
 - Polymarket markets: `390`
 
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T23:00:00+00:00`
+- Day/swing latest: `2026-11-27T23:15:00+00:00`
 
 ## News Categories
 
-- crypto: articles `15`, risk hits `1`, risk headline rate `0.0667`, policy hits `0`
-- macro: articles `12`, risk hits `4`, risk headline rate `0.3333`, policy hits `0`
+- crypto: articles `14`, risk hits `1`, risk headline rate `0.0714`, policy hits `0`
+- macro: articles `13`, risk hits `4`, risk headline rate `0.3077`, policy hits `0`
 
 ## Headlines
 
+- [macro] Behind China's spectacular rise, voices who defied it say they are being drowned out (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law (BBC News)
 - [macro] Spanish PM and rivals rally supporters in final pitch for votes (BBC News)
@@ -36,4 +37,3 @@
 - [macro] 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
 - [crypto] Bitcoin whales pile into BTC despite shrinking profit cushion (Cointelegraph.com News)
 - [macro] Weary of war but with no sign of backing down, Kyiv faces another punishing winter (BBC News)
-- [macro] Zelensky criticises 'strange' Trump-Putin friendship in BBC interview (BBC News)
