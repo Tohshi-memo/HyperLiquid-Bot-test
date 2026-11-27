@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T18:07:57.380955+00:00",
+  "updated_at": "2026-11-27T18:22:26.181728+00:00",
   "purpose": "Read this index first. It points AI analysis to compact summaries and precomputed canary signals before any large row-level JSON is loaded.",
   "recommended_reading_order": [
     "data/reports/latest_ai_context_index.md",
@@ -21,12 +21,12 @@
     "first_read": [
       {
         "path": "data/reports/latest_ai_context_index.md",
-        "bytes": 2780,
+        "bytes": 2651,
         "note": "Human-readable map."
       },
       {
         "path": "data/processed/ai_context_index.json",
-        "bytes": 62892,
+        "bytes": 62685,
         "note": "Machine-readable map."
       },
       {
@@ -46,7 +46,7 @@
       },
       {
         "path": "data/processed/ai_analysis_pack.json",
-        "bytes": 50566,
+        "bytes": 50541,
         "note": "Compact strategy stats."
       },
       {
@@ -61,7 +61,7 @@
       },
       {
         "path": "data/reports/latest_hip4_outcome.md",
-        "bytes": 10691,
+        "bytes": 10386,
         "note": "HIP-4 outcome market overview."
       },
       {
@@ -98,27 +98,27 @@
       },
       {
         "path": "data/processed/day_swing_dataset.json",
-        "bytes": 82768295,
+        "bytes": 82768321,
         "note": "Full BTC/ETH/HYPE/SOL feature and label rows."
       },
       {
         "path": "data/processed/market_context_history.json",
-        "bytes": 5291101,
+        "bytes": 5291107,
         "note": "News/context history."
       },
       {
         "path": "data/processed/flow_alert_history.json",
-        "bytes": 3219762,
+        "bytes": 3219755,
         "note": "Polymarket/flow history."
       },
       {
         "path": "data/processed/polymarket_outcome_latest.json",
-        "bytes": 573157,
+        "bytes": 573185,
         "note": "Latest per-outcome Polymarket probability rows for the report site."
       },
       {
         "path": "data/processed/polymarket_outcome_history.json",
-        "bytes": 46918580,
+        "bytes": 46918588,
         "note": "Per-outcome Polymarket probability history with subject/person names."
       },
       {
@@ -133,12 +133,12 @@
       },
       {
         "path": "data/processed/hip4_outcome_latest.json",
-        "bytes": 669986,
+        "bytes": 680796,
         "note": "Latest HIP-4 outcome rows with implied probabilities."
       },
       {
         "path": "data/processed/hip4_outcome_history.json",
-        "bytes": 78024560,
+        "bytes": 78239521,
         "note": "HIP-4 outcome history with per-bucket implied probabilities."
       },
       {
@@ -167,10 +167,6 @@
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
       {
-        "path": "data/archive/asset_price_history_2026-11.jsonl.gz",
-        "when_to_read": "Only for longer backtests after a specific rule is selected."
-      },
-      {
         "path": "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
         "when_to_read": "Only for longer backtests after a specific rule is selected."
       },
@@ -193,8 +189,7 @@
     },
     "asset_price_archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
-      "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-11.jsonl.gz"
+      "data/archive/asset_price_history_2026-06.jsonl.gz"
     ],
     "polymarket_outcome_archive_files": [
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
@@ -203,7 +198,6 @@
     "archive_files": [
       "data/archive/asset_price_history_2026-05.jsonl.gz",
       "data/archive/asset_price_history_2026-06.jsonl.gz",
-      "data/archive/asset_price_history_2026-11.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-05.jsonl.gz",
       "data/archive/polymarket_outcome_history_2026-06.jsonl.gz"
     ],
@@ -227,23 +221,25 @@
       "24h": 47364,
       "72h": 46604
     },
-    "hip4_outcome_count": 327,
-    "hip4_side_count": 654,
-    "hip4_outcome_history_records": 399,
+    "hip4_outcome_count": 336,
+    "hip4_side_count": 672,
+    "hip4_outcome_history_records": 400,
     "hip4_outcome_by_underlying": {
-      "unknown": 323,
+      "unknown": 332,
       "ETH": 1,
       "SOL": 1,
       "HYPE": 1,
       "BTC": 1
     },
     "hip4_outcome_by_class": {
-      "unknown": 290,
+      "unknown": 299,
       "namedOutcome": 3,
       "fallback": 30,
       "priceBinary": 4
     },
-    "hip4_outcome_request_errors": [],
+    "hip4_outcome_request_errors": [
+      "allMids: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    ],
     "hip4_outcome_request_warnings": [
       "outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info"
     ],
@@ -254,15 +250,15 @@
     "sector_reaction_proxy_count": 17
   },
   "latest_market_snapshot": {
-    "generated_at": "2026-11-27T18:07:57.380955+00:00",
+    "generated_at": "2026-11-27T18:22:26.181728+00:00",
     "scores": {
-      "news_risk_score": 31.71,
-      "macro_risk_score": 21.17,
-      "risk_on_score": 27.14,
-      "market_context_score": 51.56
+      "news_risk_score": 31.96,
+      "macro_risk_score": 22.64,
+      "risk_on_score": 26.67,
+      "market_context_score": 51.01
     },
     "news": {
-      "article_count": 42,
+      "article_count": 39,
       "risk_keyword_hits": 7,
       "sentiment_score": -0.7143
     },
@@ -499,7 +495,7 @@
       ]
     },
     "flow_alert": {
-      "generated_at": "2026-11-27T18:05:22.437294+00:00",
+      "generated_at": "2026-11-27T18:20:28.178285+00:00",
       "scores": {
         "flow_alert_score": 17.0,
         "flow_alert_level": "baseline"
@@ -518,10 +514,10 @@
         "inflow_zscore_7d": 0.0
       },
       "polymarket": {
-        "market_count": 44,
-        "volume_24h": 9405805.73,
-        "lifetime_volume": 272786172.76,
-        "liquidity": 14090387.8,
+        "market_count": 41,
+        "volume_24h": 9223813.06,
+        "lifetime_volume": 266519388.0,
+        "liquidity": 14010202.25,
         "top_markets": [
           {
             "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
@@ -530,9 +526,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 1584658.637846,
-            "volume": 12701158.047227,
-            "liquidity": 1747838.39028,
+            "volume_24h": 1584651.951179,
+            "volume": 12721341.347227002,
+            "liquidity": 1747430.39045,
             "end_date": "2026-12-09T23:59:00Z",
             "outcomes": [
               {
@@ -556,24 +552,24 @@
             "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 909145.4646609998,
-            "volume": 17625777.055622,
-            "liquidity": 622943.49284,
+            "volume_24h": 907355.444532,
+            "volume": 17658688.336092997,
+            "liquidity": 575615.03,
             "end_date": "2026-12-09T23:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.0385,
+                "probability": 0.0345,
                 "token_id": "42865728742506860386768556888821101266630139112044622335353850919229585308601"
               },
               {
                 "name": "No",
-                "probability": 0.9615,
+                "probability": 0.9655,
                 "token_id": "8077351031134730167836761678618167504307708651130165095377248922919635337796"
               }
             ],
-            "yes_probability": 0.0385,
-            "no_probability": 0.9615
+            "yes_probability": 0.0345,
+            "no_probability": 0.9655
           },
           {
             "question": "Will Chiang Wan-an win the next Taipei Mayor election?",
@@ -582,24 +578,24 @@
             "url": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 826699.7467329999,
-            "volume": 4920735.339592,
-            "liquidity": 254445.0829,
+            "volume_24h": 818071.816193,
+            "volume": 4928266.573802999,
+            "liquidity": 270724.1519,
             "end_date": "2026-11-29T04:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.565,
+                "probability": 0.585,
                 "token_id": "100205215067722297517595068937257697192973299370955287626157382353628199508318"
               },
               {
                 "name": "No",
-                "probability": 0.435,
+                "probability": 0.415,
                 "token_id": "28042880819135054236705112210866715426402068267079731308218252509537644025901"
               }
             ],
-            "yes_probability": 0.565,
-            "no_probability": 0.435
+            "yes_probability": 0.585,
+            "no_probability": 0.415
           },
           {
             "question": "Will Hakeem Jeffries win the 2028 Democratic presidential nomination?",
@@ -608,9 +604,9 @@
             "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 556022.6,
+            "volume_24h": 552661.24,
             "volume": 3199792.2481660005,
-            "liquidity": 386480.69332,
+            "liquidity": 387027.35332,
             "end_date": "2028-11-08T04:59:00Z",
             "outcomes": [
               {
@@ -634,24 +630,24 @@
             "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 431987.21365199995,
-            "volume": 12029760.255242001,
-            "liquidity": 499609.46353,
+            "volume_24h": 436059.32835799997,
+            "volume": 12044847.997594997,
+            "liquidity": 500094.03656,
             "end_date": "2026-12-09T23:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.0175,
+                "probability": 0.018,
                 "token_id": "35090254409399344650860070211816464534198960801264823587796928404808383727584"
               },
               {
                 "name": "No",
-                "probability": 0.9825,
+                "probability": 0.982,
                 "token_id": "17037715451587457598270390992151934195448806241696976473961259598235638233970"
               }
             ],
-            "yes_probability": 0.0175,
-            "no_probability": 0.9825
+            "yes_probability": 0.018,
+            "no_probability": 0.982
           },
           {
             "question": "Will Puma Shen win the next Taipei Mayor election?",
@@ -660,24 +656,24 @@
             "url": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 409254.1487329999,
-            "volume": 5154780.838280001,
-            "liquidity": 228523.16535,
+            "volume_24h": 415784.1278179999,
+            "volume": 5155316.048095,
+            "liquidity": 258246.47363,
             "end_date": "2026-11-29T04:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.4315,
+                "probability": 0.416,
                 "token_id": "71621185653281721927174401118354054745399424014255544529977515442951477963801"
               },
               {
                 "name": "No",
-                "probability": 0.5685,
+                "probability": 0.584,
                 "token_id": "72820619922053432516748905329266890906103969024802768151634670763988243600546"
               }
             ],
-            "yes_probability": 0.4315,
-            "no_probability": 0.5685
+            "yes_probability": 0.416,
+            "no_probability": 0.584
           },
           {
             "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
@@ -686,9 +682,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 305197.21219299996,
-            "volume": 14020309.058441,
-            "liquidity": 1070024.3001,
+            "volume_24h": 305167.084561,
+            "volume": 14043755.471581,
+            "liquidity": 1034523.801,
             "end_date": "2026-12-09T23:59:00Z",
             "outcomes": [
               {
@@ -712,24 +708,24 @@
             "url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 228225.83197299996,
-            "volume": 1997860.4514980002,
-            "liquidity": 245760.66027,
+            "volume_24h": 229424.83400599996,
+            "volume": 2000030.9352449998,
+            "liquidity": 299102.28684,
             "end_date": "2026-11-30T04:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.109,
+                "probability": 0.116,
                 "token_id": "22934791699102063598685445058269614352319797541150762608875783028655376245363"
               },
               {
                 "name": "No",
-                "probability": 0.891,
+                "probability": 0.884,
                 "token_id": "35291645172588917457521605652032084946130296187859859151580316412122619317107"
               }
             ],
-            "yes_probability": 0.109,
-            "no_probability": 0.891
+            "yes_probability": 0.116,
+            "no_probability": 0.884
           },
           {
             "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
@@ -738,9 +734,9 @@
             "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
             "query": "policy",
             "impact_category": "policy",
-            "volume_24h": 217592.468,
-            "volume": 9640913.670416001,
-            "liquidity": 300432.23966,
+            "volume_24h": 217581.45699999997,
+            "volume": 9642088.110415999,
+            "liquidity": 306271.90909,
             "end_date": "2026-12-09T23:59:00Z",
             "outcomes": [
               {
@@ -764,57 +760,59 @@
             "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
             "query": "geopolitics",
             "impact_category": "geopolitics",
-            "volume_24h": 208646.49761,
+            "volume_24h": 206510.056356,
             "volume": 36555186.99564201,
-            "liquidity": 113931.32484,
+            "liquidity": 140256.23541,
             "end_date": "2026-10-28T03:59:00Z",
             "outcomes": [
               {
                 "name": "Yes",
-                "probability": 0.139,
+                "probability": 0.132,
                 "token_id": "20006732765674855733524007935991362439352594042415161039767275461950712817548"
               },
               {
                 "name": "No",
-                "probability": 0.861,
+                "probability": 0.868,
                 "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530"
               }
             ],
-            "yes_probability": 0.139,
-            "no_probability": 0.861
+            "yes_probability": 0.132,
+            "no_probability": 0.868
           }
         ],
         "health_markets": [],
-        "volume_24h_zscore_7d": -0.13
+        "volume_24h_zscore_7d": -0.2
       }
     },
     "hip4_outcome": {
-      "generated_at": "2026-11-27T18:07:57.380955+00:00",
-      "outcome_count": 327,
-      "side_count": 654,
+      "generated_at": "2026-11-27T18:22:26.181728+00:00",
+      "outcome_count": 336,
+      "side_count": 672,
       "by_underlying": {
-        "unknown": 323,
+        "unknown": 332,
         "ETH": 1,
         "SOL": 1,
         "HYPE": 1,
         "BTC": 1
       },
       "by_class": {
-        "unknown": 290,
+        "unknown": 299,
         "namedOutcome": 3,
         "fallback": 30,
         "priceBinary": 4
       },
       "by_status": {
-        "unknown": 327
+        "unknown": 336
       },
-      "request_errors": [],
+      "request_errors": [
+        "allMids: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      ],
       "request_warnings": [
         "outcomeState: 422 Client Error: Unprocessable Entity for url: https://api.hyperliquid.xyz/info"
       ]
     },
     "relationship_scan": {
-      "generated_at": "2026-11-27T18:07:57.380955+00:00",
+      "generated_at": "2026-11-27T18:22:26.181728+00:00",
       "pattern_count": 48,
       "min_samples": 30,
       "top_patterns": [
@@ -1093,7 +1091,7 @@
       ]
     },
     "sector_reactions": {
-      "generated_at": "2026-11-27T18:07:57.380955+00:00",
+      "generated_at": "2026-11-27T18:22:26.181728+00:00",
       "price_record_count": 6500,
       "reaction_row_count": 121009,
       "top_patterns": [
@@ -1267,7 +1265,7 @@
       ]
     },
     "asset_features": {
-      "generated_at": "2026-11-27T18:07:57.380955+00:00",
+      "generated_at": "2026-11-27T18:22:26.181728+00:00",
       "observed_at": "2026-11-27T18:00:00+00:00",
       "asset_count": 1769,
       "top_assets": [
@@ -1858,5 +1856,5 @@
     "read_relationship_scan_when": "Selecting public, mechanically discovered A/B -> future-return candidates for private AI hypothesis review and strategy validation.",
     "read_sector_reactions_when": "Checking delayed sector/ETF reactions over 1d, 5d, 20d, 60d, 120d, or 252d after public event conditions."
   },
-  "available_at": "2026-11-27T18:09:03.479920+00:00"
+  "available_at": "2026-11-27T18:23:21.270734+00:00"
 }
