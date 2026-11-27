@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T16:37:25.314730+00:00`
-- Market context score: `47.82`
-- News risk score: `37.16`
-- Macro risk score: `22.64`
-- Risk-on score: `23.97`
-- Articles: `48`
+- Generated: `2026-11-27T16:52:27.514643+00:00`
+- Market context score: `49.25`
+- News risk score: `35.42`
+- Macro risk score: `22.66`
+- Risk-on score: `25.7`
+- Articles: `47`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T16:30:00+00:00`
+- Day/swing latest: `2026-11-27T16:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- crypto: articles `23`, risk hits `7`, risk headline rate `0.2609`, policy hits `1`
+- crypto: articles `22`, risk hits `6`, risk headline rate `0.2273`, policy hits `1`
 - macro: articles `24`, risk hits `5`, risk headline rate `0.1667`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Bitcoin price drops below $59K as Anthropic joins tech stock rebound (Cointelegraph.com News)
 - [macro] Kenyan doomsday cult leader convicted over further 123 deaths (BBC News)
 - [macro] Brazil pushes back on Macron calling its meat 'doped' (BBC News)
 - [macro] Canada's top court largely upholds Quebec ban on religious symbols for public servants (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Binance to launch tokenized IPO program after regulatory approval: Yi He (Cointelegraph.com News)
 - [macro] Rare turtles found inside baggage at Amsterdam airport (BBC News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Kalshi turns to small businesses as legal battles threaten forecasts on sports (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
