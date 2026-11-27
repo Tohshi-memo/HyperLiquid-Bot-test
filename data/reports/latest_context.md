@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T09:52:37.152091+00:00`
-- Market context score: `45.04`
-- News risk score: `36.06`
-- Macro risk score: `27.06`
-- Risk-on score: `18.53`
-- Articles: `35`
-- Polymarket markets: `391`
+- Generated: `2026-11-27T10:07:23.662365+00:00`
+- Market context score: `44.83`
+- News risk score: `36.03`
+- Macro risk score: `28.47`
+- Risk-on score: `18.57`
+- Articles: `34`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T09:45:00+00:00`
+- Day/swing latest: `2026-11-27T10:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `13`, risk hits `4`, risk headline rate `0.2308`, policy hits `1`
-- macro: articles `20`, risk hits `5`, risk headline rate `0.2`, policy hits `1`
+- crypto: articles `14`, risk hits `4`, risk headline rate `0.2143`, policy hits `1`
+- macro: articles `18`, risk hits `5`, risk headline rate `0.2222`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Tether can freeze stolen crypto in minutes. Getting it back can take years. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
 - [macro] Zelensky criticises 'strange' Trump-Putin friendship in BBC interview (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Millions of wives in South Asia unprotected from marital rape - study (BBC News)
 - [crypto] ESMA to overhaul EU’s MiCA crypto register in 2027 (Cointelegraph.com News)
 - [crypto] Monero suffers biggest single-day slide in over 5 months. Here’s why (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] New York AG secures $1.37B court judgment against NovaTech founders (Cointelegraph.com News)
