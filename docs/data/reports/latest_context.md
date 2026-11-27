@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T00:37:23.371296+00:00`
-- Market context score: `49.95`
-- News risk score: `29.52`
-- Macro risk score: `24.19`
-- Risk-on score: `22.83`
-- Articles: `39`
+- Generated: `2026-11-27T00:52:22.675246+00:00`
+- Market context score: `51.12`
+- News risk score: `28.37`
+- Macro risk score: `21.89`
+- Risk-on score: `23.61`
+- Articles: `38`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T00:30:00+00:00`
+- Day/swing latest: `2026-11-27T00:45:00+00:00`
 
 ## News Categories
 
 - crypto: articles `17`, risk hits `2`, risk headline rate `0.1176`, policy hits `1`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `1`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Privacy coins face diverging fortunes as KuCoin moves to drop Monero (Cointelegraph.com News)
 - [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
 - [macro] Why is there a shortage of 'wizard' elevator mechanics? (BBC News)
 - [macro] UK to pay 'participation' fee to deliver EU deals (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] ‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express (Cointelegraph.com News)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Zelensky questions 'strange' Trump-Putin friendship in BBC interview (BBC News)
-- [macro] Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one (BBC News)
