@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T15:52:32.974690+00:00`
-- Market context score: `47.81`
-- News risk score: `36.86`
-- Macro risk score: `23.5`
-- Risk-on score: `24.02`
-- Articles: `47`
-- Polymarket markets: `391`
+- Generated: `2026-11-27T16:07:27.442829+00:00`
+- Market context score: `47.95`
+- News risk score: `36.88`
+- Macro risk score: `23.04`
+- Risk-on score: `24.17`
+- Articles: `48`
+- Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T15:45:00+00:00`
+- Day/swing latest: `2026-11-27T16:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `1`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - crypto: articles `24`, risk hits `7`, risk headline rate `0.25`, policy hits `1`
-- macro: articles `22`, risk hits `5`, risk headline rate `0.1818`, policy hits `1`
+- macro: articles `23`, risk hits `5`, risk headline rate `0.1739`, policy hits `1`
 
 ## Headlines
 
+- [macro] Brazil pushes back on Macron calling its meat 'doped' (BBC News)
 - [macro] Canada's top court largely upholds Quebec ban on religious symbols for public servants (BBC News)
 - [macro] John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in (BBC News)
 - [macro] Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
@@ -37,4 +38,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [crypto] Kalshi turns to small businesses as legal battles threaten forecasts on sports (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Brazil’s stock exchange pushes stablecoin launch back to 2027 (Cointelegraph.com News)
-- [crypto] Austria-supervised crypto firms report 20.4B euros in H1 trading volume (Cointelegraph.com News)
