@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T10:07:23.662365+00:00`
+- Generated: `2026-11-27T10:22:35.474120+00:00`
 - Market context score: `44.83`
 - News risk score: `36.03`
 - Macro risk score: `28.47`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T10:00:00+00:00`
+- Day/swing latest: `2026-11-27T10:15:00+00:00`
 
 ## News Categories
 
@@ -28,9 +28,9 @@
 
 ## Headlines
 
+- [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
 - [crypto] Tether can freeze stolen crypto in minutes. Getting it back can take years. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
 - [macro] Zelensky criticises 'strange' Trump-Putin friendship in BBC interview (BBC News)
 - [macro] Guinea-Bissau's military leaders delay return to civilian rule until 2028 (BBC News)
 - [macro] ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (Economy)
