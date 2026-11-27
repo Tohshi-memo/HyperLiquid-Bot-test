@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T00:22:23.234749+00:00`
+- Generated: `2026-11-27T00:37:23.371296+00:00`
 - Market context score: `49.95`
 - News risk score: `29.52`
 - Macro risk score: `24.19`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T00:15:00+00:00`
+- Day/swing latest: `2026-11-27T00:30:00+00:00`
 
 ## News Categories
 
@@ -27,6 +27,7 @@
 
 ## Headlines
 
+- [macro] Major Thanksgiving storm brings flooding, flight delays across US (BBC News)
 - [macro] Why is there a shortage of 'wizard' elevator mechanics? (BBC News)
 - [macro] UK to pay 'participation' fee to deliver EU deals (BBC News)
 - [macro] Asia made a big AI bet on Nvidia. What happens now? (BBC News)
@@ -36,4 +37,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Zelensky questions 'strange' Trump-Putin friendship in BBC interview (BBC News)
 - [macro] Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one (BBC News)
-- [crypto] BNB Chain details new layer-1 for trading, private finance and AI (Cointelegraph.com News)
