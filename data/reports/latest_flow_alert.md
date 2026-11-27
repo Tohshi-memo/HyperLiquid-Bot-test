@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-27T01:25:28.185819+00:00`
+- Generated: `2026-11-27T01:30:29.712675+00:00`
 - Flow alert score: `17.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will the price of Bitcoin be between $60,000 and $62,000 on November 27? | 24h volume: `2023828.118006` | liquidity: `45945.6984`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `468764.13975699997` | liquidity: `356422.9595`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `379478.167488` | liquidity: `261070.39057`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `348510.9949889999` | liquidity: `406303.12553`
-- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `259016.14497300002` | liquidity: `177341.0564`
-- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `236233.35366400005` | liquidity: `1226887.3432`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `213178.91645600004` | liquidity: `740971.35093`
-- Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13? | 24h volume: `198614.996067` | liquidity: `31554.22146`
+- Will the price of Bitcoin be between $60,000 and $62,000 on November 27? | 24h volume: `2023828.118006` | liquidity: `44652.2925`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `468764.13975699997` | liquidity: `354698.7328`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `379478.167488` | liquidity: `263149.74062`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `348510.9949889999` | liquidity: `408837.70348`
+- Will Benjamin Netanyahu be the next Prime Minister of Israel? | 24h volume: `259016.14497300002` | liquidity: `176592.54148`
+- Will the Fed increase interest rates by 25 bps after the December 2026 meeting? | 24h volume: `236233.35366400005` | liquidity: `1231900.5022`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `213178.91645600004` | liquidity: `741105.75011`
+- Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13? | 24h volume: `198614.996067` | liquidity: `34106.72758`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
