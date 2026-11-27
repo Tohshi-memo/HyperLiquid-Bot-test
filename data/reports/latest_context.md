@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-27T11:22:24.251312+00:00`
-- Market context score: `45.56`
-- News risk score: `36.74`
-- Macro risk score: `21.11`
-- Risk-on score: `18.02`
-- Articles: `39`
+- Generated: `2026-11-27T11:37:26.525611+00:00`
+- Market context score: `43.52`
+- News risk score: `39.2`
+- Macro risk score: `23.65`
+- Risk-on score: `16.52`
+- Articles: `41`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,18 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-27T11:15:00+00:00`
+- Day/swing latest: `2026-11-27T11:30:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `16`, risk hits `6`, risk headline rate `0.3125`, policy hits `1`
-- macro: articles `21`, risk hits `2`, risk headline rate `0.0952`, policy hits `1`
+- crypto: articles `18`, risk hits `7`, risk headline rate `0.3333`, policy hits `1`
+- macro: articles `21`, risk hits `4`, risk headline rate `0.1429`, policy hits `1`
 
 ## Headlines
 
+- [crypto] Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
+- [crypto] Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives (Cointelegraph.com News)
 - [crypto] Injective asks SEC to allow order books for tokenized stock trading (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Uganda to withdraw troops from DR Congo town amid diplomatic row (BBC News)
@@ -36,5 +38,3 @@
 - [crypto] Bluefin to shut down perps, refocus on spot trading and tokenized RWAs (Cointelegraph.com News)
 - [macro] My self-care ritual is a meal at a fancy restaurant - on my own (BBC News)
 - [macro] India busts cyberfraud and trafficking network rescuing 164 foreigners (BBC News)
-- [crypto] Tether can freeze stolen crypto in minutes. Getting it back can take years. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
-- [crypto] Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
