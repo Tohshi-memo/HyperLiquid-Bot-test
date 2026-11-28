@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T18:52:29.962611+00:00`
-- Market context score: `57.59`
-- News risk score: `33.62`
-- Macro risk score: `32.0`
-- Risk-on score: `46.25`
-- Articles: `17`
+- Generated: `2026-11-28T19:07:31.361500+00:00`
+- Market context score: `51.07`
+- News risk score: `38.83`
+- Macro risk score: `33.39`
+- Risk-on score: `36.67`
+- Articles: `18`
 - Polymarket markets: `389`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T18:45:00+00:00`
+- Day/swing latest: `2026-11-28T19:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `2`, risk headline rate `0.5`, policy hits `0`
-- crypto: articles `8`, risk hits `1`, risk headline rate `0.125`, policy hits `0`
+- crypto: articles `9`, risk hits `2`, risk headline rate `0.2222`, policy hits `1`
 - macro: articles `7`, risk hits `2`, risk headline rate `0.2857`, policy hits `0`
 
 ## Headlines
 
+- [crypto] Latvia's central bank pushes back on bitcoin reserve plans, takes cautious line on tokenization (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [macro] Argentina's bid to stop Falklands oil drilling rejected (BBC News)
 - [macro] Dozens killed in Myanmar military strikes on wedding venue and school (BBC News)
 - [macro] A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested (BBC News)
@@ -37,4 +38,3 @@
 - [commodity] U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls (Energy)
 - [crypto] Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it. (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [crypto] Justin Sun calls for Trump family-linked WLFI token to be delisted (Cointelegraph.com News)
