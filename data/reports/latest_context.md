@@ -1,12 +1,12 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T08:53:05.882575+00:00`
+- Generated: `2026-11-28T09:07:28.484746+00:00`
 - Market context score: `66.91`
 - News risk score: `22.62`
 - Macro risk score: `21.23`
 - Risk-on score: `53.59`
 - Articles: `16`
-- Polymarket markets: `391`
+- Polymarket markets: `392`
 
 - Sector reaction price records: `6500`
 - Sector reaction patterns: `612`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T08:45:00+00:00`
+- Day/swing latest: `2026-11-28T09:00:00+00:00`
 
 ## News Categories
 
@@ -35,6 +35,6 @@
 - [commodity] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO (Energy)
 - [macro] Eight killed in Peruvian military helicopter crash (BBC News)
 - [macro] Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC (BBC News)
-- [macro] Nigeria's 'ultimate hard man' who become an online meme (BBC News)
+- [macro] Nigeria's 'ultimate hard man' whose screen presence will be hard to replace (BBC News)
 - [macro] 'Poison seller' Kenneth Law apologises in court to the families of his victims (BBC News)
 - [macro] The Indian 'Tamasha queen' whose fans paid for a show that never happened (BBC News)
