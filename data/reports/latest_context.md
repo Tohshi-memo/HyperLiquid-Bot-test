@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T12:07:24.947472+00:00`
-- Market context score: `63.97`
-- News risk score: `25.5`
-- Macro risk score: `27.0`
-- Risk-on score: `51.67`
-- Articles: `15`
+- Generated: `2026-11-28T12:22:29.443128+00:00`
+- Market context score: `62.2`
+- News risk score: `27.23`
+- Macro risk score: `30.46`
+- Risk-on score: `50.51`
+- Articles: `16`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T12:00:00+00:00`
+- Day/swing latest: `2026-11-28T12:15:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
+- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
 
 ## Headlines
 
+- [macro] Argentina's bid to stop Falkland Islands oil drilling rejected (BBC News)
 - [macro] OpenAI counter-sues Apple over alleged theft of trade secrets (BBC News)
 - [macro] Afghanistan explosion kills 10 students and injures more than 100, official says (BBC News)
 - [macro] Two staff killed in Israeli strike on Gaza medical clinic, MSF says (BBC News)
@@ -37,4 +38,3 @@
 - [macro] Australian wrestler Bronson Reed dies aged 38, WWE says (BBC News)
 - [macro] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Economy)
 - [commodity] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Energy)
-- [commodity] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO (Energy)
