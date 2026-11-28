@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-28T11:35:28.902833+00:00`
+- Generated: `2026-11-28T11:40:26.314868+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -8,18 +8,18 @@
 - Max transfer: `0.0`
 - Unique wallets: `0`
 - Inflow z-score: `0.0`
-- Polymarket 24h volume: `15742705.86`
-- Polymarket volume z-score: `2.54`
+- Polymarket 24h volume: `15613590.2`
+- Polymarket volume z-score: `2.48`
 
 ## Top Polymarket Markets
 
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `2734843.420061` | liquidity: `132487.64081`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `2305718.869345` | liquidity: `1434868.33103`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `1803173.1302270002` | liquidity: `120780.71817`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `714453.3957420002` | liquidity: `678446.68202`
-- Will Su Chiao-hui win the next New Taipei Mayor election? | 24h volume: `631965.44083` | liquidity: `82628.52442`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `433604.04732`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `445795.544` | liquidity: `454051.69607`
-- Will Johnny Chiang win the next Taichung Mayor election? | 24h volume: `395581.1034720001` | liquidity: `71440.78541`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `2741766.5651660003` | liquidity: `128872.79819`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `2302478.182678` | liquidity: `1434446.36763`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `1811243.7543209998` | liquidity: `124514.81966`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `698923.0602170001` | liquidity: `657228.8853`
+- Will Su Chiao-hui win the next New Taipei Mayor election? | 24h volume: `635415.1125730001` | liquidity: `85628.44386`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `431982.72532`
+- Will Johnny Chiang win the next Taichung Mayor election? | 24h volume: `402218.8524120001` | liquidity: `71394.5994`
+- Will Lee Shu-chuan win the next New Taipei Mayor election? | 24h volume: `392863.8743359999` | liquidity: `66731.29819`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
