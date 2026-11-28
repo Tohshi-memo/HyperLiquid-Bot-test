@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T12:22:29.443128+00:00`
+- Generated: `2026-11-28T12:37:29.471934+00:00`
 - Market context score: `62.2`
 - News risk score: `27.23`
 - Macro risk score: `30.46`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T12:15:00+00:00`
+- Day/swing latest: `2026-11-28T12:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Argentina's bid to stop Falkland Islands oil drilling rejected (BBC News)
+- [macro] Argentina's bid to stop Falklands oil drilling rejected (BBC News)
 - [macro] OpenAI counter-sues Apple over alleged theft of trade secrets (BBC News)
 - [macro] Afghanistan explosion kills 10 students and injures more than 100, official says (BBC News)
 - [macro] Two staff killed in Israeli strike on Gaza medical clinic, MSF says (BBC News)
