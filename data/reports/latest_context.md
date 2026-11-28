@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T11:22:25.882918+00:00`
+- Generated: `2026-11-28T11:37:34.166535+00:00`
 - Market context score: `66.52`
 - News risk score: `23.0`
 - Macro risk score: `22.0`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T11:15:00+00:00`
+- Day/swing latest: `2026-11-28T11:30:00+00:00`
 
 ## News Categories
 
@@ -28,7 +28,7 @@
 
 ## Headlines
 
-- [macro] Ten students killed and over 100 injured in explosion in Afghanistan, official says (BBC News)
+- [macro] Afghanistan explosion kills 10 students and injures more than 100, official says (BBC News)
 - [macro] Two staff killed in Israeli strike on Gaza medical clinic, MSF says (BBC News)
 - [crypto] ASEAN+3 agrees on initiative to explore crypto payments cooperation (Cointelegraph.com News)
 - [crypto] Trump-linked crypto token WLFI plunges 50% to record lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
