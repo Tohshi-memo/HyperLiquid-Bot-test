@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-28T09:18:22.659801+00:00`
+- Generated: `2026-11-28T09:20:27.004762+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -14,12 +14,12 @@
 ## Top Polymarket Markets
 
 - Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `2871665.8938450003` | liquidity: `1424293.69447`
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `2090441.912887` | liquidity: `167077.35937`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `1071726.9362670004` | liquidity: `207237.54771`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `788193.0647080002` | liquidity: `679329.8959`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `434400.90732`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `2090441.912887` | liquidity: `155888.59817`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `1071726.9362670004` | liquidity: `209388.63222`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `788193.0647080002` | liquidity: `694171.32728`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `434384.54932`
 - Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `417260.533` | liquidity: `440390.02746`
-- Will Su Chiao-hui win the next New Taipei Mayor election? | 24h volume: `401074.665935` | liquidity: `95262.96637`
-- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `369400.956601` | liquidity: `733655.82463`
+- Will Su Chiao-hui win the next New Taipei Mayor election? | 24h volume: `401074.665935` | liquidity: `102617.07598`
+- Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `369400.956601` | liquidity: `737570.83296`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
