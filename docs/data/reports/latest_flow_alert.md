@@ -1,6 +1,6 @@
 # Latest Flow Alert
 
-- Generated: `2026-11-28T11:00:29.989348+00:00`
+- Generated: `2026-11-28T11:05:27.850251+00:00`
 - Flow alert score: `25.0`
 - Flow alert level: `baseline`
 - Large USDC inflow: `0`
@@ -13,13 +13,13 @@
 
 ## Top Polymarket Markets
 
-- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `2612076.340172` | liquidity: `105074.34696`
-- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `2301353.8793450007` | liquidity: `1420187.99647`
-- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `1747181.9559800003` | liquidity: `86526.44044`
-- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `736834.35563` | liquidity: `640873.29341`
-- Will Su Chiao-hui win the next New Taipei Mayor election? | 24h volume: `623352.134906` | liquidity: `79754.35995`
-- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `433879.31232`
-- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `416425.55399999995` | liquidity: `449783.79229`
-- Will Lee Shu-chuan win the next New Taipei Mayor election? | 24h volume: `376695.30710999994` | liquidity: `82584.78522`
+- Will Chiang Wan-an win the next Taipei Mayor election? | 24h volume: `2612076.340172` | liquidity: `89876.96654`
+- Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? | 24h volume: `2301353.8793450007` | liquidity: `1416035.43504`
+- Will Puma Shen win the next Taipei Mayor election? | 24h volume: `1747181.9559800003` | liquidity: `84556.31662`
+- Will there be no change in Fed interest rates after the December 2026 meeting? | 24h volume: `736834.35563` | liquidity: `677624.32145`
+- Will Su Chiao-hui win the next New Taipei Mayor election? | 24h volume: `623352.134906` | liquidity: `77986.89794`
+- Will Hakeem Jeffries win the 2028 Democratic presidential nomination? | 24h volume: `552661.24` | liquidity: `433905.24032`
+- Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting? | 24h volume: `416425.55399999995` | liquidity: `454042.68039`
+- Will Lee Shu-chuan win the next New Taipei Mayor election? | 24h volume: `376695.30710999994` | liquidity: `67528.42611`
 
 Public output stores aggregate flow data only. It is an attention signal, not proof of insider activity.
