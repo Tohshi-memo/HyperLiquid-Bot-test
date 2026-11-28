@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T06:22:26.718981+00:00`
-- Market context score: `57.97`
-- News risk score: `25.5`
-- Macro risk score: `27.0`
-- Risk-on score: `38.33`
-- Articles: `15`
+- Generated: `2026-11-28T06:37:24.898161+00:00`
+- Market context score: `56.88`
+- News risk score: `26.57`
+- Macro risk score: `29.14`
+- Risk-on score: `37.62`
+- Articles: `17`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,16 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T06:15:00+00:00`
+- Day/swing latest: `2026-11-28T06:30:00+00:00`
 
 ## News Categories
 
+- commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `12`, risk hits `3`, risk headline rate `0.25`, policy hits `0`
 
 ## Headlines
 
 - [macro] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Economy)
+- [commodity] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Energy)
+- [commodity] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO (Energy)
 - [macro] Eight killed in Peruvian military helicopter crash (BBC News)
 - [macro] Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC (BBC News)
 - [macro] Nigeria's 'ultimate hard man' who become an online meme (BBC News)
@@ -35,5 +38,3 @@
 - [macro] The Indian 'Tamasha queen' whose fans paid for a show that never happened (BBC News)
 - [macro] A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma (BBC News)
 - [macro] Behind China's spectacular rise, voices who defied it say they are being drowned out (BBC News)
-- [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
-- [macro] Spanish PM and rivals rally supporters in final pitch for votes (BBC News)
