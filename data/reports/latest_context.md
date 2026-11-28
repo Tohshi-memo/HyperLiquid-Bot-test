@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T01:37:26.443141+00:00`
-- Market context score: `60.7`
+- Generated: `2026-11-28T01:52:32.781455+00:00`
+- Market context score: `58.0`
 - News risk score: `24.0`
 - Macro risk score: `24.0`
-- Risk-on score: `42.0`
-- Articles: `22`
+- Risk-on score: `36.0`
+- Articles: `21`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -18,15 +18,16 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T01:30:00+00:00`
+- Day/swing latest: `2026-11-28T01:45:00+00:00`
 
 ## News Categories
 
-- crypto: articles `7`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
+- crypto: articles `6`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
 - macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Nigeria's 'ultimate hard man' who become an online meme (BBC News)
 - [macro] 'Poison seller' Kenneth Law apologises in court to the families of his victims (BBC News)
 - [macro] The Indian 'Tamasha queen' whose fans paid for a show that never happened (BBC News)
 - [macro] A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma (BBC News)
@@ -36,4 +37,3 @@
 - [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
 - [crypto] Franklin Templeton makes room for HYPE in crypto index ETF (Cointelegraph.com News)
 - [macro] Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza (BBC News)
-- [macro] 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (BBC News)
