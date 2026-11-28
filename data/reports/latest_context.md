@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T04:22:26.672134+00:00`
-- Market context score: `57.56`
-- News risk score: `24.43`
-- Macro risk score: `24.86`
-- Risk-on score: `35.71`
-- Articles: `19`
+- Generated: `2026-11-28T04:37:26.270851+00:00`
+- Market context score: `57.1`
+- News risk score: `24.0`
+- Macro risk score: `24.0`
+- Risk-on score: `34.0`
+- Articles: `20`
 - Polymarket markets: `390`
 
 - Sector reaction price records: `6500`
@@ -17,16 +17,18 @@
 - Asset classes: `commodity:13, crypto_alt:239, crypto_major:8, equity:168, fx:6, index:27, metal:20, unknown:1289`
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
-- Day/swing records: `None`
-- Day/swing latest: `None`
+- Day/swing records: `12000`
+- Day/swing latest: `2026-11-28T04:30:00+00:00`
 
 ## News Categories
 
 - crypto: articles `5`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `14`, risk hits `3`, risk headline rate `0.2143`, policy hits `0`
+- macro: articles `15`, risk hits `3`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] Eight killed in Peruvian military helicopter crash (BBC News)
+- [macro] Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC (BBC News)
 - [macro] Nigeria's 'ultimate hard man' who become an online meme (BBC News)
 - [macro] 'Poison seller' Kenneth Law apologises in court to the families of his victims (BBC News)
 - [macro] The Indian 'Tamasha queen' whose fans paid for a show that never happened (BBC News)
@@ -35,5 +37,3 @@
 - [crypto] Here’s what happened in crypto today (Cointelegraph.com News)
 - [macro] Spanish PM and rivals rally supporters in final pitch for votes (BBC News)
 - [macro] Even the price of toys is on the rise. How Americans are scaling back holiday plans (Economy)
-- [crypto] Franklin Templeton makes room for HYPE in crypto index ETF (Cointelegraph.com News)
-- [macro] Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza (BBC News)
