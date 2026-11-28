@@ -1,10 +1,10 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T11:52:24.402781+00:00`
-- Market context score: `66.52`
-- News risk score: `23.0`
-- Macro risk score: `22.0`
-- Risk-on score: `53.33`
+- Generated: `2026-11-28T12:07:24.947472+00:00`
+- Market context score: `63.97`
+- News risk score: `25.5`
+- Macro risk score: `27.0`
+- Risk-on score: `51.67`
 - Articles: `15`
 - Polymarket markets: `391`
 
@@ -18,16 +18,17 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T11:45:00+00:00`
+- Day/swing latest: `2026-11-28T12:00:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `10`, risk hits `1`, risk headline rate `0.1`, policy hits `0`
+- macro: articles `10`, risk hits `2`, risk headline rate `0.2`, policy hits `0`
 
 ## Headlines
 
+- [macro] OpenAI counter-sues Apple over alleged theft of trade secrets (BBC News)
 - [macro] Afghanistan explosion kills 10 students and injures more than 100, official says (BBC News)
 - [macro] Two staff killed in Israeli strike on Gaza medical clinic, MSF says (BBC News)
 - [crypto] ASEAN+3 agrees on initiative to explore crypto payments cooperation (Cointelegraph.com News)
@@ -37,4 +38,3 @@
 - [macro] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Economy)
 - [commodity] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Energy)
 - [commodity] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO (Energy)
-- [macro] Eight killed in Peruvian military helicopter crash (BBC News)
