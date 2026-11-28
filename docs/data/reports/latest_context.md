@@ -1,11 +1,11 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T12:37:29.471934+00:00`
-- Market context score: `62.2`
-- News risk score: `27.23`
-- Macro risk score: `30.46`
-- Risk-on score: `50.51`
-- Articles: `16`
+- Generated: `2026-11-28T12:52:25.795861+00:00`
+- Market context score: `61.42`
+- News risk score: `28.0`
+- Macro risk score: `32.0`
+- Risk-on score: `50.0`
+- Articles: `15`
 - Polymarket markets: `391`
 
 - Sector reaction price records: `6500`
@@ -18,19 +18,19 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T12:30:00+00:00`
+- Day/swing latest: `2026-11-28T12:45:00+00:00`
 
 ## News Categories
 
 - commodity: articles `2`, risk hits `1`, risk headline rate `0.5`, policy hits `0`
 - crypto: articles `3`, risk hits `0`, risk headline rate `0.0`, policy hits `0`
-- macro: articles `11`, risk hits `3`, risk headline rate `0.2727`, policy hits `0`
+- macro: articles `10`, risk hits `3`, risk headline rate `0.3`, policy hits `0`
 
 ## Headlines
 
+- [macro] Afghanistan explosion kills 10 students and injures more than 100, official says (BBC News)
 - [macro] Argentina's bid to stop Falklands oil drilling rejected (BBC News)
 - [macro] OpenAI counter-sues Apple over alleged theft of trade secrets (BBC News)
-- [macro] Afghanistan explosion kills 10 students and injures more than 100, official says (BBC News)
 - [macro] Two staff killed in Israeli strike on Gaza medical clinic, MSF says (BBC News)
 - [crypto] ASEAN+3 agrees on initiative to explore crypto payments cooperation (Cointelegraph.com News)
 - [crypto] Trump-linked crypto token WLFI plunges 50% to record lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
