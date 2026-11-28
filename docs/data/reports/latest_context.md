@@ -1,6 +1,6 @@
 # Latest Crypto Context
 
-- Generated: `2026-11-28T10:22:27.714559+00:00`
+- Generated: `2026-11-28T10:37:30.282754+00:00`
 - Market context score: `66.91`
 - News risk score: `22.62`
 - Macro risk score: `21.23`
@@ -18,7 +18,7 @@
 - HIP-3 dexes: `abcd, cash, flx, hyna, io, km, mkts, para, vntl, xyz`
 
 - Day/swing records: `12000`
-- Day/swing latest: `2026-11-28T10:15:00+00:00`
+- Day/swing latest: `2026-11-28T10:30:00+00:00`
 
 ## News Categories
 
@@ -28,11 +28,11 @@
 
 ## Headlines
 
+- [macro] Two staff killed in Israeli strike on Gaza medical clinic, MSF says (BBC News)
 - [macro] Seven students killed and nearly 100 injured in explosion in Afghanistan, official says (BBC News)
 - [crypto] Trump-linked crypto token WLFI plunges 50% to record lows (CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data)
 - [crypto] Binance receives in-principle approval, plans Asia hub in Bhutan (Cointelegraph.com News)
 - [macro] Australian wrestler Bronson Reed dies aged 38, WWE says (BBC News)
-- [macro] Two staff killed in Israeli strike on Gaza medical clinic, MSF says (BBC News)
 - [macro] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Economy)
 - [commodity] Saudi Arabia shifts Vision 2030 spending amid economic and security pressure (Energy)
 - [commodity] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO (Energy)
